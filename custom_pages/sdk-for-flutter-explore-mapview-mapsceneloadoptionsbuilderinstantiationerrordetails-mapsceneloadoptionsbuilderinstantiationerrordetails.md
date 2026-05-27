@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "MapSceneLoadOptionsBuilderInstantiationErrorDetails constructor"
 slug: "sdk-for-flutter-explore-mapview-mapsceneloadoptionsbuilderinstantiationerrordetails-mapsceneloadoptionsbuilderinstantiationerrordetails"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- MapSceneLoadOptionsBuilderInstantiationErrorDetails.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-mapsceneloadoptionsbuilderinstantiationer
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapSceneLoadOptionsBuilderInstantiationErrorDetails-class.html">/sdk-for-flutter-explore-mapview-mapsceneloadoptionsbuilderinstantiationerrordetails-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapsceneloadoptionsbuilderinstantiationerrordetails-class</li>
 <li class="self-crumb">MapSceneLoadOptionsBuilderInstantiationErrorDetails constructor</li>
 </ol>
 <div class="self-name">MapSceneLoadOptionsBuilderInstantiationErrorDetails</div>
@@ -37,7 +38,7 @@ menu
 <div>
 <h1>MapSceneLoadOptionsBuilderInstantiationErrorDetails constructor</h1></div>
 <section class="multi-line-signature">
-MapSceneLoadOptionsBuilderInstantiationErrorDetails(<wbr/><ol class="parameter-list single-line"> <li><a href="../../mapview/MapSceneLoadOptionsBuilderInstantiationErrorCode.html">/sdk-for-flutter-explore-mapview-mapsceneloadoptionsbuilderinstantiationerrorcode</a> errorCode, </li>
+MapSceneLoadOptionsBuilderInstantiationErrorDetails(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-mapview-mapsceneloadoptionsbuilderinstantiationerrorcode errorCode, </li>
 <li>String? errorDescription</li>
 </ol>)
     </section>
@@ -60,9 +61,9 @@ MapSceneLoadOptionsBuilderInstantiationErrorDetails(<wbr/><ol class="parameter-l
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapSceneLoadOptionsBuilderInstantiationErrorDetails-class.html">/sdk-for-flutter-explore-mapview-mapsceneloadoptionsbuilderinstantiationerrordetails-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapsceneloadoptionsbuilderinstantiationerrordetails-class</li>
 <li class="self-crumb">MapSceneLoadOptionsBuilderInstantiationErrorDetails constructor</li>
 </ol>
 <h5>MapSceneLoadOptionsBuilderInstantiationErrorDetails class</h5>
@@ -79,4 +80,5 @@ MapSceneLoadOptionsBuilderInstantiationErrorDetails(<wbr/><ol class="parameter-l
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

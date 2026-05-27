@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "PlaceFilter class"
 slug: "sdk-for-flutter-explore-search-placefilter-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- PlaceFilter-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -28,8 +29,8 @@ slug: "sdk-for-flutter-explore-search-placefilter-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
 <li class="self-crumb">PlaceFilter class</li>
 </ol>
 <div class="self-name">PlaceFilter</div>
@@ -60,7 +61,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="PlaceFilter">
-<a href="../search/PlaceFilter/PlaceFilter.html">/sdk-for-flutter-explore-search-placefilter-placefilter</a>()
+/sdk-for-flutter-explore-search-placefilter-placefilter()
 </dt>
 <dd>
 </dd>
@@ -70,20 +71,20 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="ev">
-<a href="../search/PlaceFilter/ev.html">/sdk-for-flutter-explore-search-placefilter-ev</a>
-↔ <a href="../search/PlaceFilterEv-class.html">/sdk-for-flutter-explore-search-placefilterev-class</a>
+/sdk-for-flutter-explore-search-placefilter-ev
+↔ /sdk-for-flutter-explore-search-placefilterev-class
 </dt>
 <dd>
   Constraints that are applicable on the places of category EV station.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="fuelTypes">
-<a href="../search/PlaceFilter/fuelTypes.html">/sdk-for-flutter-explore-search-placefilter-fueltypes</a>
-↔ List&lt;<wbr/><a href="../transport/FuelType.html">/sdk-for-flutter-explore-transport-fueltype</a>&gt;
+/sdk-for-flutter-explore-search-placefilter-fueltypes
+↔ List&lt;<wbr/>/sdk-for-flutter-explore-transport-fueltype&gt;
 </dt>
 <dd>
-  The list of <a href="../transport/FuelType.html">/sdk-for-flutter-explore-transport-fueltype</a> elements that should be used to find only
-the <a href="../search/FuelStation-class.html">/sdk-for-flutter-explore-search-fuelstation-class</a> search results that support all of them.
+  The list of /sdk-for-flutter-explore-transport-fueltype elements that should be used to find only
+the /sdk-for-flutter-explore-search-fuelstation-class search results that support all of them.
 This filter is available to use with the <code>SearchEngine</code> and
 <code>OfflineSearchEngine</code> (only available for the Navigate license), however <code>OfflineSearchEngine</code>
 supports it only for <code>searchByText</code> and <code>searchByCategory</code> with allowed fuel types <code>DIESEL</code>, <code>LPG</code>,
@@ -92,7 +93,7 @@ supports it only for <code>searchByText</code> and <code>searchByCategory</code>
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-<a href="../search/PlaceFilter/hashCode.html">/sdk-for-flutter-explore-search-placefilter-hashcode</a>
+/sdk-for-flutter-explore-search-placefilter-hashcode
 → int
 </dt>
 <dd>
@@ -100,7 +101,7 @@ supports it only for <code>searchByText</code> and <code>searchByCategory</code>
   <div class="features">no setter</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../search/PlaceFilter/runtimeType.html">/sdk-for-flutter-explore-search-placefilter-runtimetype</a>
+/sdk-for-flutter-explore-search-placefilter-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -108,24 +109,24 @@ supports it only for <code>searchByText</code> and <code>searchByCategory</code>
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="truckClass">
-<a href="../search/PlaceFilter/truckClass.html">/sdk-for-flutter-explore-search-placefilter-truckclass</a>
-↔ <a href="../transport/TruckClass.html">/sdk-for-flutter-explore-transport-truckclass</a>?
+/sdk-for-flutter-explore-search-placefilter-truckclass
+↔ /sdk-for-flutter-explore-transport-truckclass?
 </dt>
 <dd>
-  Should be used to find only the <a href="../search/FuelStation-class.html">/sdk-for-flutter-explore-search-fuelstation-class</a> search results with minimum supported <a href="../transport/TruckClass.html">/sdk-for-flutter-explore-transport-truckclass</a>.
+  Should be used to find only the /sdk-for-flutter-explore-search-fuelstation-class search results with minimum supported /sdk-for-flutter-explore-transport-truckclass.
 This filter is only available to use with the <code>SearchEngine</code>.
 The <code>OfflineSearchEngine</code> (only available for the Navigate license) does not apply this filter.
-<a href="../transport/TruckClass.html">/sdk-for-flutter-explore-transport-truckclass</a> is not accepted in the filter.
-Otherwise will result in <a href="../search/SearchError.html">/sdk-for-flutter-explore-search-searcherror</a>.
+/sdk-for-flutter-explore-transport-truckclass is not accepted in the filter.
+Otherwise will result in /sdk-for-flutter-explore-search-searcherror.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="truckFuelTypes">
-<a href="../search/PlaceFilter/truckFuelTypes.html">/sdk-for-flutter-explore-search-placefilter-truckfueltypes</a>
-↔ List&lt;<wbr/><a href="../transport/TruckFuelType.html">/sdk-for-flutter-explore-transport-truckfueltype</a>&gt;
+/sdk-for-flutter-explore-search-placefilter-truckfueltypes
+↔ List&lt;<wbr/>/sdk-for-flutter-explore-transport-truckfueltype&gt;
 </dt>
 <dd>
-  The list of <a href="../transport/TruckFuelType.html">/sdk-for-flutter-explore-transport-truckfueltype</a> elements that should be used to find only
-the <a href="../search/FuelStation-class.html">/sdk-for-flutter-explore-search-fuelstation-class</a> search results that support all of them.
+  The list of /sdk-for-flutter-explore-transport-truckfueltype elements that should be used to find only
+the /sdk-for-flutter-explore-search-fuelstation-class search results that support all of them.
 Not supported for <code>suggestByText</code> in <code>OfflineSearchEngine</code> (only available for the Navigate license).
   <div class="features">getter/setter pair</div>
 </dd>
@@ -135,7 +136,7 @@ Not supported for <code>suggestByText</code> in <code>OfflineSearchEngine</code>
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../search/PlaceFilter/noSuchMethod.html">/sdk-for-flutter-explore-search-placefilter-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-search-placefilter-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -144,7 +145,7 @@ Not supported for <code>suggestByText</code> in <code>OfflineSearchEngine</code>
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../search/PlaceFilter/toString.html">/sdk-for-flutter-explore-search-placefilter-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-search-placefilter-tostring(<wbr/>)
     → String
 
 </dt>
@@ -158,7 +159,7 @@ Not supported for <code>suggestByText</code> in <code>OfflineSearchEngine</code>
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-<a href="../search/PlaceFilter/operator_equals.html">/sdk-for-flutter-explore-search-placefilter-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-search-placefilter-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -177,8 +178,8 @@ Not supported for <code>suggestByText</code> in <code>OfflineSearchEngine</code>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
 <li class="self-crumb">PlaceFilter class</li>
 </ol>
 <h5>search library</h5>
@@ -195,4 +196,5 @@ Not supported for <code>suggestByText</code> in <code>OfflineSearchEngine</code>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

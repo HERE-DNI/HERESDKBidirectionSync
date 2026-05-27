@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "nextRoadTexts property"
 slug: "sdk-for-flutter-explore-routing-maneuver-nextroadtexts"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- nextRoadTexts.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-routing-maneuver-nextroadtexts"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/Maneuver-class.html">/sdk-for-flutter-explore-routing-maneuver-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-maneuver-class</li>
 <li class="self-crumb">nextRoadTexts property</li>
 </ol>
 <div class="self-name">nextRoadTexts</div>
@@ -38,7 +39,7 @@ menu
 <h1>nextRoadTexts property</h1></div>
 <section id="getter">
 <section class="multi-line-signature">
-<a href="../../routing/RoadTexts-class.html">/sdk-for-flutter-explore-routing-roadtexts-class</a>
+/sdk-for-flutter-explore-routing-roadtexts-class
 nextRoadTexts
 </section>
 <section class="desc markdown">
@@ -60,9 +61,9 @@ Gets the textual attributes of the next road containing the corresponding road n
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/Maneuver-class.html">/sdk-for-flutter-explore-routing-maneuver-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-maneuver-class</li>
 <li class="self-crumb">nextRoadTexts property</li>
 </ol>
 <h5>Maneuver class</h5>
@@ -79,4 +80,5 @@ Gets the textual attributes of the next road containing the corresponding road n
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "fromDefaultParameterConfiguration static method"
 slug: "sdk-for-flutter-explore-routing-transitrouteoptions-fromdefaultparameterconfiguration"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- fromDefaultParameterConfiguration.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-routing-transitrouteoptions-fromdefaultparameterc
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/TransitRouteOptions-class.html">/sdk-for-flutter-explore-routing-transitrouteoptions-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-transitrouteoptions-class</li>
 <li class="self-crumb">fromDefaultParameterConfiguration static method</li>
 </ol>
 <div class="self-name">fromDefaultParameterConfiguration</div>
@@ -37,7 +38,7 @@ menu
 <div>
 <h1>fromDefaultParameterConfiguration static method</h1></div>
 <section class="multi-line-signature">
-<a href="../../routing/TransitRouteOptions-class.html">/sdk-for-flutter-explore-routing-transitrouteoptions-class</a>
+/sdk-for-flutter-explore-routing-transitrouteoptions-class
 fromDefaultParameterConfiguration(<wbr/>)
 
       
@@ -45,7 +46,7 @@ fromDefaultParameterConfiguration(<wbr/>)
     </section>
 <section class="desc markdown">
 <p>Returns TransitRouteOptions instance with default values used in SDK.</p>
-<p>Returns <a href="../../routing/TransitRouteOptions-class.html">/sdk-for-flutter-explore-routing-transitrouteoptions-class</a>. An <a href="../../routing/TransitRouteOptions-class.html">/sdk-for-flutter-explore-routing-transitrouteoptions-class</a> instance with default values used in SDK.</p>
+<p>Returns /sdk-for-flutter-explore-routing-transitrouteoptions-class. An /sdk-for-flutter-explore-routing-transitrouteoptions-class instance with default values used in SDK.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -59,9 +60,9 @@ fromDefaultParameterConfiguration(<wbr/>)
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/TransitRouteOptions-class.html">/sdk-for-flutter-explore-routing-transitrouteoptions-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-transitrouteoptions-class</li>
 <li class="self-crumb">fromDefaultParameterConfiguration static method</li>
 </ol>
 <h5>TransitRouteOptions class</h5>
@@ -78,4 +79,5 @@ fromDefaultParameterConfiguration(<wbr/>)
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

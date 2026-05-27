@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "ResponseDetails class"
 slug: "sdk-for-flutter-explore-search-responsedetails-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- ResponseDetails-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -26,8 +27,8 @@ slug: "sdk-for-flutter-explore-search-responsedetails-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
 <li class="self-crumb">ResponseDetails class</li>
 </ol>
 <div class="self-name">ResponseDetails</div>
@@ -57,7 +58,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="ResponseDetails">
-<a href="../search/ResponseDetails/ResponseDetails.html">/sdk-for-flutter-explore-search-responsedetails-responsedetails</a>(String correlationId, String requestId)
+/sdk-for-flutter-explore-search-responsedetails-responsedetails(String correlationId, String requestId)
 </dt>
 <dd>
           Creates a new instance.
@@ -68,7 +69,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="correlationId">
-<a href="../search/ResponseDetails/correlationId.html">/sdk-for-flutter-explore-search-responsedetails-correlationid</a>
+/sdk-for-flutter-explore-search-responsedetails-correlationid
 ↔ String
 </dt>
 <dd>
@@ -76,7 +77,7 @@ menu
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-<a href="../search/ResponseDetails/hashCode.html">/sdk-for-flutter-explore-search-responsedetails-hashcode</a>
+/sdk-for-flutter-explore-search-responsedetails-hashcode
 → int
 </dt>
 <dd>
@@ -84,7 +85,7 @@ menu
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="requestId">
-<a href="../search/ResponseDetails/requestId.html">/sdk-for-flutter-explore-search-responsedetails-requestid</a>
+/sdk-for-flutter-explore-search-responsedetails-requestid
 ↔ String
 </dt>
 <dd>
@@ -92,7 +93,7 @@ menu
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../search/ResponseDetails/runtimeType.html">/sdk-for-flutter-explore-search-responsedetails-runtimetype</a>
+/sdk-for-flutter-explore-search-responsedetails-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -105,7 +106,7 @@ menu
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../search/ResponseDetails/noSuchMethod.html">/sdk-for-flutter-explore-search-responsedetails-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-search-responsedetails-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -114,7 +115,7 @@ menu
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../search/ResponseDetails/toString.html">/sdk-for-flutter-explore-search-responsedetails-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-search-responsedetails-tostring(<wbr/>)
     → String
 
 </dt>
@@ -128,7 +129,7 @@ menu
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-<a href="../search/ResponseDetails/operator_equals.html">/sdk-for-flutter-explore-search-responsedetails-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-search-responsedetails-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -147,8 +148,8 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
 <li class="self-crumb">ResponseDetails class</li>
 </ol>
 <h5>search library</h5>
@@ -165,4 +166,5 @@ menu
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

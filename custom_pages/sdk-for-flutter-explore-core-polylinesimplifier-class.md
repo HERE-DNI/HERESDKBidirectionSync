@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "PolylineSimplifier class abstract"
 slug: "sdk-for-flutter-explore-core-polylinesimplifier-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- PolylineSimplifier-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -25,8 +26,8 @@ slug: "sdk-for-flutter-explore-core-polylinesimplifier-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
 <li class="self-crumb">PolylineSimplifier class</li>
 </ol>
 <div class="self-name">PolylineSimplifier</div>
@@ -53,7 +54,7 @@ menu
 <p>PolylineSimplifier helps to reduce the number of points
 in the polyline by removing redundant elements using
 Douglas–Peucker algorithm, so that result stays
-within <a href="../core/PolylineSimplifierOptions-class.html">/sdk-for-flutter-explore-core-polylinesimplifieroptions-class</a>.</p>
+within /sdk-for-flutter-explore-core-polylinesimplifieroptions-class.</p>
 <p>Typical use case is to perform input preparation step
 before invoking computationally heavy API. Such API
 have an upper limit on the input collection size
@@ -68,10 +69,10 @@ is huge. Examples of such API are:</p>
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="PolylineSimplifier">
-<a href="../core/PolylineSimplifier/PolylineSimplifier.html">/sdk-for-flutter-explore-core-polylinesimplifier-polylinesimplifier</a>()
+/sdk-for-flutter-explore-core-polylinesimplifier-polylinesimplifier()
 </dt>
 <dd>
-          Creates a new instance of <a href="../core/PolylineSimplifier-class.html">/sdk-for-flutter-explore-core-polylinesimplifier-class</a>.
+          Creates a new instance of /sdk-for-flutter-explore-core-polylinesimplifier-class.
             <div class="constructor-modifier features">factory</div>
 </dd>
 </dl>
@@ -80,7 +81,7 @@ is huge. Examples of such API are:</p>
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="hashCode">
-<a href="../core/PolylineSimplifier/hashCode.html">/sdk-for-flutter-explore-core-polylinesimplifier-hashcode</a>
+/sdk-for-flutter-explore-core-polylinesimplifier-hashcode
 → int
 </dt>
 <dd class="inherited">
@@ -88,7 +89,7 @@ is huge. Examples of such API are:</p>
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../core/PolylineSimplifier/runtimeType.html">/sdk-for-flutter-explore-core-polylinesimplifier-runtimetype</a>
+/sdk-for-flutter-explore-core-polylinesimplifier-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -101,7 +102,7 @@ is huge. Examples of such API are:</p>
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../core/PolylineSimplifier/noSuchMethod.html">/sdk-for-flutter-explore-core-polylinesimplifier-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-core-polylinesimplifier-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -110,8 +111,9 @@ is huge. Examples of such API are:</p>
   <div class="features">inherited</div>
 </dd>
 <dt class="callable" id="simplify">
-<a href="../core/PolylineSimplifier/simplify.html">/sdk-for-flutter-explore-core-polylinesimplifier-simplify</a>(<wbr/>List&lt;<wbr/><a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>&gt; polyline, <a href="../core/PolylineSimplifierOptions-class.html">/sdk-for-flutter-explore-core-polylinesimplifieroptions-class</a> simplificationParameters, <a href="../core/PolylineSimplificationCallback.html">/sdk-for-flutter-explore-core-polylinesimplificationcallback</a> callback)
-    → <a href="../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a>
+/sdk-for-flutter-explore-core-polylinesimplifier-simplify(<wbr/>List&lt;<wbr/>/sdk-for-flutter-explore-core-geocoordinates-class&gt; polyline, /sdk-for-flutter-explore-core-polylinesimplifieroptions-class simplificationParameters, /sdk-for-flutter-explore-core-polylinesimplificationcallback callback)
+    → /sdk-for-flutter-explore-core-threading-taskhandle-class
+
 </dt>
 <dd>
   Reduces the number of points in the input polyline.
@@ -119,7 +121,7 @@ is huge. Examples of such API are:</p>
 
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../core/PolylineSimplifier/toString.html">/sdk-for-flutter-explore-core-polylinesimplifier-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-core-polylinesimplifier-tostring(<wbr/>)
     → String
 
 </dt>
@@ -133,7 +135,7 @@ is huge. Examples of such API are:</p>
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-<a href="../core/PolylineSimplifier/operator_equals.html">/sdk-for-flutter-explore-core-polylinesimplifier-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-core-polylinesimplifier-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -151,8 +153,8 @@ is huge. Examples of such API are:</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
 <li class="self-crumb">PolylineSimplifier class</li>
 </ol>
 <h5>core library</h5>
@@ -169,4 +171,5 @@ is huge. Examples of such API are:</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

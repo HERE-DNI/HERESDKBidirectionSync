@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "impactFilter property"
 slug: "sdk-for-flutter-explore-traffic-trafficincidentsqueryoptions-impactfilter"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- impactFilter.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-traffic-trafficincidentsqueryoptions-impactfilter
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../traffic/traffic-library.html">/sdk-for-flutter-explore-traffic-traffic-library</a></li>
-<li><a href="../../traffic/TrafficIncidentsQueryOptions-class.html">/sdk-for-flutter-explore-traffic-trafficincidentsqueryoptions-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-traffic-traffic-library</li>
+<li>/sdk-for-flutter-explore-traffic-trafficincidentsqueryoptions-class</li>
 <li class="self-crumb">impactFilter property</li>
 </ol>
 <div class="self-name">impactFilter</div>
@@ -38,7 +39,7 @@ menu
 <h1>impactFilter property</h1></div>
 <section class="multi-line-signature">
         
-        List&lt;<wbr/><a href="../../traffic/TrafficIncidentImpact.html">/sdk-for-flutter-explore-traffic-trafficincidentimpact</a>&gt;
+        List&lt;<wbr/>/sdk-for-flutter-explore-traffic-trafficincidentimpact&gt;
 impactFilter
 <div class="features">getter/setter pair</div>
 </section>
@@ -57,9 +58,9 @@ impactFilter
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../traffic/traffic-library.html">/sdk-for-flutter-explore-traffic-traffic-library</a></li>
-<li><a href="../../traffic/TrafficIncidentsQueryOptions-class.html">/sdk-for-flutter-explore-traffic-trafficincidentsqueryoptions-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-traffic-traffic-library</li>
+<li>/sdk-for-flutter-explore-traffic-trafficincidentsqueryoptions-class</li>
 <li class="self-crumb">impactFilter property</li>
 </ol>
 <h5>TrafficIncidentsQueryOptions class</h5>
@@ -76,4 +77,5 @@ impactFilter
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

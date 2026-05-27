@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "EMobilityServiceProvider class"
 slug: "sdk-for-flutter-explore-search-emobilityserviceprovider-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- EMobilityServiceProvider-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -26,8 +27,8 @@ slug: "sdk-for-flutter-explore-search-emobilityserviceprovider-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
 <li class="self-crumb">EMobilityServiceProvider class</li>
 </ol>
 <div class="self-name">EMobilityServiceProvider</div>
@@ -58,7 +59,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="EMobilityServiceProvider">
-<a href="../search/EMobilityServiceProvider/EMobilityServiceProvider.html">/sdk-for-flutter-explore-search-emobilityserviceprovider-emobilityserviceprovider</a>()
+/sdk-for-flutter-explore-search-emobilityserviceprovider-emobilityserviceprovider()
 </dt>
 <dd>
 </dd>
@@ -68,7 +69,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="hashCode">
-<a href="../search/EMobilityServiceProvider/hashCode.html">/sdk-for-flutter-explore-search-emobilityserviceprovider-hashcode</a>
+/sdk-for-flutter-explore-search-emobilityserviceprovider-hashcode
 → int
 </dt>
 <dd>
@@ -76,7 +77,7 @@ menu
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="name">
-<a href="../search/EMobilityServiceProvider/name.html">/sdk-for-flutter-explore-search-emobilityserviceprovider-name</a>
+/sdk-for-flutter-explore-search-emobilityserviceprovider-name
 ↔ String?
 </dt>
 <dd>
@@ -85,7 +86,7 @@ It may change but the respective <code>partnerId</code> will remain stable.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="partnerId">
-<a href="../search/EMobilityServiceProvider/partnerId.html">/sdk-for-flutter-explore-search-emobilityserviceprovider-partnerid</a>
+/sdk-for-flutter-explore-search-emobilityserviceprovider-partnerid
 ↔ String?
 </dt>
 <dd>
@@ -94,7 +95,7 @@ It can be used for filtering when searching for EV charging stations.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../search/EMobilityServiceProvider/runtimeType.html">/sdk-for-flutter-explore-search-emobilityserviceprovider-runtimetype</a>
+/sdk-for-flutter-explore-search-emobilityserviceprovider-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -107,7 +108,7 @@ It can be used for filtering when searching for EV charging stations.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../search/EMobilityServiceProvider/noSuchMethod.html">/sdk-for-flutter-explore-search-emobilityserviceprovider-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-search-emobilityserviceprovider-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -116,7 +117,7 @@ It can be used for filtering when searching for EV charging stations.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../search/EMobilityServiceProvider/toString.html">/sdk-for-flutter-explore-search-emobilityserviceprovider-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-search-emobilityserviceprovider-tostring(<wbr/>)
     → String
 
 </dt>
@@ -130,7 +131,7 @@ It can be used for filtering when searching for EV charging stations.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-<a href="../search/EMobilityServiceProvider/operator_equals.html">/sdk-for-flutter-explore-search-emobilityserviceprovider-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-search-emobilityserviceprovider-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -149,8 +150,8 @@ It can be used for filtering when searching for EV charging stations.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
 <li class="self-crumb">EMobilityServiceProvider class</li>
 </ol>
 <h5>search library</h5>
@@ -167,4 +168,5 @@ It can be used for filtering when searching for EV charging stations.
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

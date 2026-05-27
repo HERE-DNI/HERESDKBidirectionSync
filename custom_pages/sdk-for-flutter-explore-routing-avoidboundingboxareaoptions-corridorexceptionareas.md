@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "corridorExceptionAreas property"
 slug: "sdk-for-flutter-explore-routing-avoidboundingboxareaoptions-corridorexceptionareas"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- corridorExceptionAreas.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-routing-avoidboundingboxareaoptions-corridorexcep
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/AvoidBoundingBoxAreaOptions-class.html">/sdk-for-flutter-explore-routing-avoidboundingboxareaoptions-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-avoidboundingboxareaoptions-class</li>
 <li class="self-crumb">corridorExceptionAreas property</li>
 </ol>
 <div class="self-name">corridorExceptionAreas</div>
@@ -38,7 +39,7 @@ menu
 <h1>corridorExceptionAreas property</h1></div>
 <section class="multi-line-signature">
         
-        List&lt;<wbr/><a href="../../core/GeoCorridor-class.html">/sdk-for-flutter-explore-core-geocorridor-class</a>&gt;
+        List&lt;<wbr/>/sdk-for-flutter-explore-core-geocorridor-class&gt;
 corridorExceptionAreas
 <div class="features">getter/setter pair</div>
 </section>
@@ -60,9 +61,9 @@ Otherwise route calculation will fail with an <code>sdk.routing.RoutingError.INV
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/AvoidBoundingBoxAreaOptions-class.html">/sdk-for-flutter-explore-routing-avoidboundingboxareaoptions-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-avoidboundingboxareaoptions-class</li>
 <li class="self-crumb">corridorExceptionAreas property</li>
 </ol>
 <h5>AvoidBoundingBoxAreaOptions class</h5>
@@ -79,4 +80,5 @@ Otherwise route calculation will fail with an <code>sdk.routing.RoutingError.INV
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

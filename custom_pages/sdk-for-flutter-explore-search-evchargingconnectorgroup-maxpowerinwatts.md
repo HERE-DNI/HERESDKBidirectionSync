@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "maxPowerInWatts property"
 slug: "sdk-for-flutter-explore-search-evchargingconnectorgroup-maxpowerinwatts"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- maxPowerInWatts.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-search-evchargingconnectorgroup-maxpowerinwatts"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/EVChargingConnectorGroup-class.html">/sdk-for-flutter-explore-search-evchargingconnectorgroup-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-evchargingconnectorgroup-class</li>
 <li class="self-crumb">maxPowerInWatts property</li>
 </ol>
 <div class="self-name">maxPowerInWatts</div>
@@ -58,9 +59,9 @@ Connectors without max power are not grouped.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/EVChargingConnectorGroup-class.html">/sdk-for-flutter-explore-search-evchargingconnectorgroup-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-evchargingconnectorgroup-class</li>
 <li class="self-crumb">maxPowerInWatts property</li>
 </ol>
 <h5>EVChargingConnectorGroup class</h5>
@@ -77,4 +78,5 @@ Connectors without max power are not grouped.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

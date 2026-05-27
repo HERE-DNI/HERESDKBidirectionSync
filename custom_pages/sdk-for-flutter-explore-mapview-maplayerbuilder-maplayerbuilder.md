@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "MapLayerBuilder constructor"
 slug: "sdk-for-flutter-explore-mapview-maplayerbuilder-maplayerbuilder"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- MapLayerBuilder.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-maplayerbuilder-maplayerbuilder"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapLayerBuilder-class.html">/sdk-for-flutter-explore-mapview-maplayerbuilder-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-maplayerbuilder-class</li>
 <li class="self-crumb">MapLayerBuilder factory constructor</li>
 </ol>
 <div class="self-name">MapLayerBuilder</div>
@@ -54,9 +55,9 @@ MapLayerBuilder(<wbr/>)
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapLayerBuilder-class.html">/sdk-for-flutter-explore-mapview-maplayerbuilder-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-maplayerbuilder-class</li>
 <li class="self-crumb">MapLayerBuilder factory constructor</li>
 </ol>
 <h5>MapLayerBuilder class</h5>
@@ -73,4 +74,5 @@ MapLayerBuilder(<wbr/>)
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

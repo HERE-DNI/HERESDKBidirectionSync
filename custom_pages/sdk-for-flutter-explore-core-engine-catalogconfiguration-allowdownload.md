@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "allowDownload property"
 slug: "sdk-for-flutter-explore-core-engine-catalogconfiguration-allowdownload"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- allowDownload.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-core-engine-catalogconfiguration-allowdownload"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
-<li><a href="../../core.engine/CatalogConfiguration-class.html">/sdk-for-flutter-explore-core-engine-catalogconfiguration-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
+<li>/sdk-for-flutter-explore-core-engine-catalogconfiguration-class</li>
 <li class="self-crumb">allowDownload property</li>
 </ol>
 <div class="self-name">allowDownload</div>
@@ -44,8 +45,8 @@ menu
 </section>
 <section class="desc markdown">
 <p>A flag to indicate if the data for this catalog is allowed to be stored in persistent storage for use with offline maps.
-The storage path is specified in <a href="../../core.engine/SDKOptions/persistentMapStoragePath.html">/sdk-for-flutter-explore-core-engine-sdkoptions-persistentmapstoragepath</a>.
-If set to false, the data is not stored in persistent storage and is only retained in the cache for a limited time (see <a href="../../core.engine/CatalogConfiguration/cacheExpirationPeriod.html">/sdk-for-flutter-explore-core-engine-catalogconfiguration-cacheexpirationperiod</a>).
+The storage path is specified in /sdk-for-flutter-explore-core-engine-sdkoptions-persistentmapstoragepath.
+If set to false, the data is not stored in persistent storage and is only retained in the cache for a limited time (see /sdk-for-flutter-explore-core-engine-catalogconfiguration-cacheexpirationperiod).
 Defaults to <code>true</code>.</p>
 </section>
 <section class="summary source-code" id="source">
@@ -60,9 +61,9 @@ Defaults to <code>true</code>.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
-<li><a href="../../core.engine/CatalogConfiguration-class.html">/sdk-for-flutter-explore-core-engine-catalogconfiguration-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
+<li>/sdk-for-flutter-explore-core-engine-catalogconfiguration-class</li>
 <li class="self-crumb">allowDownload property</li>
 </ol>
 <h5>CatalogConfiguration class</h5>
@@ -79,4 +80,5 @@ Defaults to <code>true</code>.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

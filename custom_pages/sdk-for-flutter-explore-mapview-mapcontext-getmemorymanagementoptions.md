@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "getMemoryManagementOptions abstract method"
 slug: "sdk-for-flutter-explore-mapview-mapcontext-getmemorymanagementoptions"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- getMemoryManagementOptions.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-mapcontext-getmemorymanagementoptions"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapContext-class.html">/sdk-for-flutter-explore-mapview-mapcontext-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapcontext-class</li>
 <li class="self-crumb">getMemoryManagementOptions abstract method</li>
 </ol>
 <div class="self-name">getMemoryManagementOptions</div>
@@ -37,16 +38,16 @@ menu
 <div>
 <h1>getMemoryManagementOptions abstract method</h1></div>
 <section class="multi-line-signature">
-<a href="../../mapview/MapContextMemoryManagementOptions-class.html">/sdk-for-flutter-explore-mapview-mapcontextmemorymanagementoptions-class</a>
+/sdk-for-flutter-explore-mapview-mapcontextmemorymanagementoptions-class
 getMemoryManagementOptions(<wbr/>)
 
       
 
     </section>
 <section class="desc markdown">
-<p>Returns <a href="../../mapview/MapContextMemoryManagementOptions-class.html">/sdk-for-flutter-explore-mapview-mapcontextmemorymanagementoptions-class</a>. Gets the current memory management options.
+<p>Returns /sdk-for-flutter-explore-mapview-mapcontextmemorymanagementoptions-class. Gets the current memory management options.
 Returns the actual applied memory limits. If the underlying system limits exceed
-int32_t max value (2,147,483,647 KiB or ~2 TiB), the returned value is clamped to int32_t max.</p>
+<code>int32_t</code> max value (2,147,483,647 KiB or ~2 TiB), the returned value is clamped to <code>int32_t</code> max.</p>
 <p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
 behavior. Related APIs may change for new releases without a deprecation process.</p>
 </section>
@@ -62,9 +63,9 @@ behavior. Related APIs may change for new releases without a deprecation process
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapContext-class.html">/sdk-for-flutter-explore-mapview-mapcontext-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapcontext-class</li>
 <li class="self-crumb">getMemoryManagementOptions abstract method</li>
 </ol>
 <h5>MapContext class</h5>
@@ -81,4 +82,5 @@ behavior. Related APIs may change for new releases without a deprecation process
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

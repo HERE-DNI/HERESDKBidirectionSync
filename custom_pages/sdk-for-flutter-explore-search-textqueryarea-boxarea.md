@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "boxArea property"
 slug: "sdk-for-flutter-explore-search-textqueryarea-boxarea"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- boxArea.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-search-textqueryarea-boxarea"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/TextQueryArea-class.html">/sdk-for-flutter-explore-search-textqueryarea-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-textqueryarea-class</li>
 <li class="self-crumb">boxArea property</li>
 </ol>
 <div class="self-name">boxArea</div>
@@ -37,14 +38,14 @@ menu
 <div>
 <h1>boxArea property</h1></div>
 <section class="multi-line-signature">
-<a href="../../core/GeoBox-class.html">/sdk-for-flutter-explore-core-geobox-class</a>?
+/sdk-for-flutter-explore-core-geobox-class?
         boxArea
 <div class="features">final</div>
 </section>
 <section class="desc markdown">
 <p>Geographic rectangle area in which to provide the most relevant places.
-For Offline Search, one of <a href="../../search/TextQueryArea/areaCenter.html">/sdk-for-flutter-explore-search-textqueryarea-areacenter</a>, <a href="../../search/TextQueryArea/boxArea.html">/sdk-for-flutter-explore-search-textqueryarea-boxarea</a> and <a href="../../search/TextQueryArea/circleArea.html">/sdk-for-flutter-explore-search-textqueryarea-circlearea</a> has to be set,
-otherwise it will result in <a href="../../search/SearchError.html">/sdk-for-flutter-explore-search-searcherror</a>.
+For Offline Search, one of /sdk-for-flutter-explore-search-textqueryarea-areacenter, /sdk-for-flutter-explore-search-textqueryarea-boxarea and /sdk-for-flutter-explore-search-textqueryarea-circlearea has to be set,
+otherwise it will result in /sdk-for-flutter-explore-search-searcherror.
 Also, for Offline Search, search in a given <code>GeoBox</code> restricts the results to only POIs.</p>
 </section>
 <section class="summary source-code" id="source">
@@ -59,9 +60,9 @@ Also, for Offline Search, search in a given <code>GeoBox</code> restricts the re
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/TextQueryArea-class.html">/sdk-for-flutter-explore-search-textqueryarea-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-textqueryarea-class</li>
 <li class="self-crumb">boxArea property</li>
 </ol>
 <h5>TextQueryArea class</h5>
@@ -78,4 +79,5 @@ Also, for Offline Search, search in a given <code>GeoBox</code> restricts the re
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

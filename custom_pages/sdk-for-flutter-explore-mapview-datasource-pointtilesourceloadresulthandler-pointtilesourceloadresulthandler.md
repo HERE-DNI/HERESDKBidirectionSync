@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "PointTileSourceLoadResultHandler constructor"
 slug: "sdk-for-flutter-explore-mapview-datasource-pointtilesourceloadresulthandler-pointtilesourceloadresulthandler"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- PointTileSourceLoadResultHandler.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-datasource-pointtilesourceloadresulthandl
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
-<li><a href="../../mapview.datasource/PointTileSourceLoadResultHandler-class.html">/sdk-for-flutter-explore-mapview-datasource-pointtilesourceloadresulthandler-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-pointtilesourceloadresulthandler-class</li>
 <li class="self-crumb">PointTileSourceLoadResultHandler factory constructor</li>
 </ol>
 <div class="self-name">PointTileSourceLoadResultHandler</div>
@@ -37,11 +38,11 @@ menu
 <div>
 <h1>PointTileSourceLoadResultHandler constructor</h1></div>
 <section class="multi-line-signature">
-PointTileSourceLoadResultHandler(<wbr/><ol class="parameter-list single-line"> <li>void loadedLambda(<ol class="parameter-list single-line"> <li><a href="../../mapview.datasource/TileKey-class.html">/sdk-for-flutter-explore-mapview-datasource-tilekey-class</a>, </li>
-<li>List&lt;<wbr/><a href="../../mapview.datasource/PointData-class.html">/sdk-for-flutter-explore-mapview-datasource-pointdata-class</a>&gt;, </li>
-<li><a href="../../mapview.datasource/TileSourceTileMetadata-class.html">/sdk-for-flutter-explore-mapview-datasource-tilesourcetilemetadata-class</a></li>
+PointTileSourceLoadResultHandler(<wbr/><ol class="parameter-list single-line"> <li>void loadedLambda(<ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-mapview-datasource-tilekey-class, </li>
+<li>List&lt;<wbr/>/sdk-for-flutter-explore-mapview-datasource-pointdata-class&gt;, </li>
+<li>/sdk-for-flutter-explore-mapview-datasource-tilesourcetilemetadata-class</li>
 </ol>), </li>
-<li>void failedLambda(<ol class="parameter-list single-line"> <li><a href="../../mapview.datasource/TileKey-class.html">/sdk-for-flutter-explore-mapview-datasource-tilekey-class</a></li>
+<li>void failedLambda(<ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-mapview-datasource-tilekey-class</li>
 </ol>)</li>
 </ol>)
     </section>
@@ -68,9 +69,9 @@ PointTileSourceLoadResultHandler(<wbr/><ol class="parameter-list single-line"> <
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
-<li><a href="../../mapview.datasource/PointTileSourceLoadResultHandler-class.html">/sdk-for-flutter-explore-mapview-datasource-pointtilesourceloadresulthandler-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-pointtilesourceloadresulthandler-class</li>
 <li class="self-crumb">PointTileSourceLoadResultHandler factory constructor</li>
 </ol>
 <h5>PointTileSourceLoadResultHandler class</h5>
@@ -87,4 +88,5 @@ PointTileSourceLoadResultHandler(<wbr/><ol class="parameter-list single-line"> <
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

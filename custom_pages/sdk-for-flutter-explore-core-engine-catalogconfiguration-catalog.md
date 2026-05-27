@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "catalog property"
 slug: "sdk-for-flutter-explore-core-engine-catalogconfiguration-catalog"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- catalog.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-core-engine-catalogconfiguration-catalog"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
-<li><a href="../../core.engine/CatalogConfiguration-class.html">/sdk-for-flutter-explore-core-engine-catalogconfiguration-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
+<li>/sdk-for-flutter-explore-core-engine-catalogconfiguration-class</li>
 <li class="self-crumb">catalog property</li>
 </ol>
 <div class="self-name">catalog</div>
@@ -37,13 +38,13 @@ menu
 <div>
 <h1>catalog property</h1></div>
 <section class="multi-line-signature">
-<a href="../../core.engine/DesiredCatalog-class.html">/sdk-for-flutter-explore-core-engine-desiredcatalog-class</a>
+/sdk-for-flutter-explore-core-engine-desiredcatalog-class
 catalog
 <div class="features">getter/setter pair</div>
 </section>
 <section class="desc markdown">
 <p>The identifier for the desired catalog to be accessed on the HERE platform.
-See <a href="../../core.engine/DesiredCatalog-class.html">/sdk-for-flutter-explore-core-engine-desiredcatalog-class</a>.</p>
+See /sdk-for-flutter-explore-core-engine-desiredcatalog-class.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -57,9 +58,9 @@ See <a href="../../core.engine/DesiredCatalog-class.html">/sdk-for-flutter-explo
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
-<li><a href="../../core.engine/CatalogConfiguration-class.html">/sdk-for-flutter-explore-core-engine-catalogconfiguration-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
+<li>/sdk-for-flutter-explore-core-engine-catalogconfiguration-class</li>
 <li class="self-crumb">catalog property</li>
 </ol>
 <h5>CatalogConfiguration class</h5>
@@ -76,4 +77,5 @@ See <a href="../../core.engine/DesiredCatalog-class.html">/sdk-for-flutter-explo
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

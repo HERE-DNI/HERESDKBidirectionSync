@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "GeoCoordinatesUpdate.fromGeoCoordinates constructor"
 slug: "sdk-for-flutter-explore-core-geocoordinatesupdate-geocoordinatesupdate-fromgeocoordinates"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- GeoCoordinatesUpdate.fromGeoCoordinates.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-core-geocoordinatesupdate-geocoordinatesupdate-fr
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
-<li><a href="../../core/GeoCoordinatesUpdate-class.html">/sdk-for-flutter-explore-core-geocoordinatesupdate-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
+<li>/sdk-for-flutter-explore-core-geocoordinatesupdate-class</li>
 <li class="self-crumb">GeoCoordinatesUpdate.fromGeoCoordinates factory constructor</li>
 </ol>
 <div class="self-name">GeoCoordinatesUpdate.fromGeoCoordinates</div>
@@ -37,7 +38,7 @@ menu
 <div>
 <h1>GeoCoordinatesUpdate.fromGeoCoordinates constructor</h1></div>
 <section class="multi-line-signature">
-GeoCoordinatesUpdate.fromGeoCoordinates(<wbr/><ol class="parameter-list single-line"> <li><a href="../../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a> coordinates</li>
+GeoCoordinatesUpdate.fromGeoCoordinates(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-core-geocoordinates-class coordinates</li>
 </ol>)
     </section>
 <section class="desc markdown">
@@ -58,9 +59,9 @@ GeoCoordinatesUpdate.fromGeoCoordinates(<wbr/><ol class="parameter-list single-l
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
-<li><a href="../../core/GeoCoordinatesUpdate-class.html">/sdk-for-flutter-explore-core-geocoordinatesupdate-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
+<li>/sdk-for-flutter-explore-core-geocoordinatesupdate-class</li>
 <li class="self-crumb">GeoCoordinatesUpdate.fromGeoCoordinates factory constructor</li>
 </ol>
 <h5>GeoCoordinatesUpdate class</h5>
@@ -77,4 +78,5 @@ GeoCoordinatesUpdate.fromGeoCoordinates(<wbr/><ol class="parameter-list single-l
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

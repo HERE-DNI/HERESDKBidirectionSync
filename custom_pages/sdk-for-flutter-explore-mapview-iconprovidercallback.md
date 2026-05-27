@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "IconProviderCallback typedef"
 slug: "sdk-for-flutter-explore-mapview-iconprovidercallback"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- IconProviderCallback.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,8 +12,8 @@ slug: "sdk-for-flutter-explore-mapview-iconprovidercallback"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
 <li class="self-crumb">IconProviderCallback typedef</li>
 </ol>
 <div class="self-name">IconProviderCallback</div>
@@ -37,15 +38,15 @@ menu
 <h1>IconProviderCallback typedef</h1></div>
 <section class="multi-line-signature">
 IconProviderCallback =
-     void Function(ImageInfo? imageInfo, String? iconDescription, <a href="../mapview/IconProviderError.html">/sdk-for-flutter-explore-mapview-iconprovidererror</a>? error)
+     void Function(ImageInfo? imageInfo, String? iconDescription, /sdk-for-flutter-explore-mapview-iconprovidererror? error)
 </section>
 <section class="desc markdown">
-<p>A callback of this type is invoked when an icon is received from the <a href="../mapview/IconProvider-class.html">/sdk-for-flutter-explore-mapview-iconprovider-class</a> in
+<p>A callback of this type is invoked when an icon is received from the /sdk-for-flutter-explore-mapview-iconprovider-class in
 the <code>ImageInfo</code> format. The callback provides information about the loaded icon, or an
-<a href="../mapview/IconProviderError.html">/sdk-for-flutter-explore-mapview-iconprovidererror</a> if one occurred.</p>
+/sdk-for-flutter-explore-mapview-iconprovidererror if one occurred.</p>
 <p><code>imageInfo</code> The created <code>ImageInfo</code> containing the icon, or <code>null</code> if an error occurred.</p>
 <p><code>iconDescription</code> An English description of the created icon. For example, "Federal Highway"
-                  for the road shield icon with the <a href="../core/RouteType.html">/sdk-for-flutter-explore-core-routetype</a> in Brazil.
+                  for the road shield icon with the /sdk-for-flutter-explore-core-routetype in Brazil.
                   It will be <code>null</code> if an error occurred.</p>
 <p><code>error</code> The error that occurred, or <code>null</code> if the icon is loaded successfully.</p>
 </section>
@@ -62,8 +63,8 @@ the <code>ImageInfo</code> format. The callback provides information about the l
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
 <li class="self-crumb">IconProviderCallback typedef</li>
 </ol>
 <h5>mapview library</h5>
@@ -80,4 +81,5 @@ the <code>ImageInfo</code> format. The callback provides information about the l
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

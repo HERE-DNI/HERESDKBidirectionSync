@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "EVChargingTariff constructor"
 slug: "sdk-for-flutter-explore-search-evchargingtariff-evchargingtariff"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- EVChargingTariff.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-search-evchargingtariff-evchargingtariff"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/EVChargingTariff-class.html">/sdk-for-flutter-explore-search-evchargingtariff-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-evchargingtariff-class</li>
 <li class="self-crumb">EVChargingTariff constructor</li>
 </ol>
 <div class="self-name">EVChargingTariff</div>
@@ -52,9 +53,9 @@ EVChargingTariff(<wbr/>)
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/EVChargingTariff-class.html">/sdk-for-flutter-explore-search-evchargingtariff-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-evchargingtariff-class</li>
 <li class="self-crumb">EVChargingTariff constructor</li>
 </ol>
 <h5>EVChargingTariff class</h5>
@@ -71,4 +72,5 @@ EVChargingTariff(<wbr/>)
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

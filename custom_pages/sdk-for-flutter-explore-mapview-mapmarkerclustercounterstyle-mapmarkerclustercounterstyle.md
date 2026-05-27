@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "MapMarkerClusterCounterStyle constructor"
 slug: "sdk-for-flutter-explore-mapview-mapmarkerclustercounterstyle-mapmarkerclustercounterstyle"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- MapMarkerClusterCounterStyle.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-mapmarkerclustercounterstyle-mapmarkerclu
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapMarkerClusterCounterStyle-class.html">/sdk-for-flutter-explore-mapview-mapmarkerclustercounterstyle-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapmarkerclustercounterstyle-class</li>
 <li class="self-crumb">MapMarkerClusterCounterStyle constructor</li>
 </ol>
 <div class="self-name">MapMarkerClusterCounterStyle</div>
@@ -52,9 +53,9 @@ MapMarkerClusterCounterStyle(<wbr/>)
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapMarkerClusterCounterStyle-class.html">/sdk-for-flutter-explore-mapview-mapmarkerclustercounterstyle-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapmarkerclustercounterstyle-class</li>
 <li class="self-crumb">MapMarkerClusterCounterStyle constructor</li>
 </ol>
 <h5>MapMarkerClusterCounterStyle class</h5>
@@ -71,4 +72,5 @@ MapMarkerClusterCounterStyle(<wbr/>)
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

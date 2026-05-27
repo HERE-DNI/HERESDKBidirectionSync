@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "transportSpecification property"
 slug: "sdk-for-flutter-explore-core-parameterconfiguration-transportspecification"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- transportSpecification.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-core-parameterconfiguration-transportspecificatio
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
-<li><a href="../../core/ParameterConfiguration-class.html">/sdk-for-flutter-explore-core-parameterconfiguration-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
+<li>/sdk-for-flutter-explore-core-parameterconfiguration-class</li>
 <li class="self-crumb">transportSpecification property</li>
 </ol>
 <div class="self-name">transportSpecification</div>
@@ -37,7 +38,7 @@ menu
 <div>
 <h1>transportSpecification property</h1></div>
 <section class="multi-line-signature">
-<a href="../../transport/TransportSpecification-class.html">/sdk-for-flutter-explore-transport-transportspecification-class</a>
+/sdk-for-flutter-explore-transport-transportspecification-class
 transportSpecification
 <div class="features">getter/setter pair</div>
 </section>
@@ -56,9 +57,9 @@ transportSpecification
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
-<li><a href="../../core/ParameterConfiguration-class.html">/sdk-for-flutter-explore-core-parameterconfiguration-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
+<li>/sdk-for-flutter-explore-core-parameterconfiguration-class</li>
 <li class="self-crumb">transportSpecification property</li>
 </ol>
 <h5>ParameterConfiguration class</h5>
@@ -75,4 +76,5 @@ transportSpecification
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

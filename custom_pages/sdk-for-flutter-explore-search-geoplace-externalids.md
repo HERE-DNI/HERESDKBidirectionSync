@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "externalIDs property"
 slug: "sdk-for-flutter-explore-search-geoplace-externalids"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- externalIDs.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-search-geoplace-externalids"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/GeoPlace-class.html">/sdk-for-flutter-explore-search-geoplace-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-geoplace-class</li>
 <li class="self-crumb">externalIDs property</li>
 </ol>
 <div class="self-name">externalIDs</div>
@@ -38,7 +39,7 @@ menu
 <h1>externalIDs property</h1></div>
 <section class="multi-line-signature">
         
-        List&lt;<wbr/><a href="../../core/ExternalID-class.html">/sdk-for-flutter-explore-core-externalid-class</a>&gt;
+        List&lt;<wbr/>/sdk-for-flutter-explore-core-externalid-class&gt;
 externalIDs
 <div class="features">getter/setter pair</div>
 </section>
@@ -60,9 +61,9 @@ valid contracts with said suppliers. If the user has no such contracts, the list
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/GeoPlace-class.html">/sdk-for-flutter-explore-search-geoplace-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-geoplace-class</li>
 <li class="self-crumb">externalIDs property</li>
 </ol>
 <h5>GeoPlace class</h5>
@@ -79,4 +80,5 @@ valid contracts with said suppliers. If the user has no such contracts, the list
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

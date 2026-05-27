@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "LocalizedTexts class"
 slug: "sdk-for-flutter-explore-core-localizedtexts-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- LocalizedTexts-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -27,8 +28,8 @@ slug: "sdk-for-flutter-explore-core-localizedtexts-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
 <li class="self-crumb">LocalizedTexts class</li>
 </ol>
 <div class="self-name">LocalizedTexts</div>
@@ -58,7 +59,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="LocalizedTexts">
-<a href="../core/LocalizedTexts/LocalizedTexts.html">/sdk-for-flutter-explore-core-localizedtexts-localizedtexts</a>()
+/sdk-for-flutter-explore-core-localizedtexts-localizedtexts()
 </dt>
 <dd>
 </dd>
@@ -68,7 +69,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="hashCode">
-<a href="../core/LocalizedTexts/hashCode.html">/sdk-for-flutter-explore-core-localizedtexts-hashcode</a>
+/sdk-for-flutter-explore-core-localizedtexts-hashcode
 → int
 </dt>
 <dd>
@@ -76,8 +77,8 @@ menu
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="items">
-<a href="../core/LocalizedTexts/items.html">/sdk-for-flutter-explore-core-localizedtexts-items</a>
-↔ List&lt;<wbr/><a href="../core/LocalizedText-class.html">/sdk-for-flutter-explore-core-localizedtext-class</a>&gt;
+/sdk-for-flutter-explore-core-localizedtexts-items
+↔ List&lt;<wbr/>/sdk-for-flutter-explore-core-localizedtext-class&gt;
 </dt>
 <dd>
   The list of text items.
@@ -85,7 +86,7 @@ Recommended to use helper methods instead of directly accessing the items.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../core/LocalizedTexts/runtimeType.html">/sdk-for-flutter-explore-core-localizedtexts-runtimetype</a>
+/sdk-for-flutter-explore-core-localizedtexts-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -98,7 +99,7 @@ Recommended to use helper methods instead of directly accessing the items.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable" id="getDefaultValue">
-<a href="../core/LocalizedTexts/getDefaultValue.html">/sdk-for-flutter-explore-core-localizedtexts-getdefaultvalue</a>(<wbr/>)
+/sdk-for-flutter-explore-core-localizedtexts-getdefaultvalue(<wbr/>)
     → String?
 
 </dt>
@@ -108,7 +109,7 @@ Recommended to use helper methods instead of directly accessing the items.
 
 </dd>
 <dt class="callable" id="getPreferredValueForLocales">
-<a href="../core/LocalizedTexts/getPreferredValueForLocales.html">/sdk-for-flutter-explore-core-localizedtexts-getpreferredvalueforlocales</a>(<wbr/>List&lt;<wbr/><a href="https://pub.dev/documentation/intl/0.20.2/locale/Locale-class.html">Locale</a>&gt; locales)
+/sdk-for-flutter-explore-core-localizedtexts-getpreferredvalueforlocales(<wbr/>List&lt;<wbr/><a href="https://pub.dev/documentation/intl/0.20.2/locale/Locale-class.html">Locale</a>&gt; locales)
     → String?
 
 </dt>
@@ -119,7 +120,7 @@ locales.
 
 </dd>
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../core/LocalizedTexts/noSuchMethod.html">/sdk-for-flutter-explore-core-localizedtexts-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-core-localizedtexts-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -128,7 +129,7 @@ locales.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../core/LocalizedTexts/toString.html">/sdk-for-flutter-explore-core-localizedtexts-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-core-localizedtexts-tostring(<wbr/>)
     → String
 
 </dt>
@@ -142,7 +143,7 @@ locales.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-<a href="../core/LocalizedTexts/operator_equals.html">/sdk-for-flutter-explore-core-localizedtexts-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-core-localizedtexts-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -161,8 +162,8 @@ locales.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
 <li class="self-crumb">LocalizedTexts class</li>
 </ol>
 <h5>core library</h5>
@@ -179,4 +180,5 @@ locales.
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "validityPeriod property"
 slug: "sdk-for-flutter-explore-routing-fareprice-validityperiod"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- validityPeriod.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-routing-fareprice-validityperiod"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/FarePrice-class.html">/sdk-for-flutter-explore-routing-fareprice-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-fareprice-class</li>
 <li class="self-crumb">validityPeriod property</li>
 </ol>
 <div class="self-name">validityPeriod</div>
@@ -48,7 +49,7 @@ menu
 <p>3600 seconds - price for one hour</p>
 <p>28800 seconds - price for eight hours</p>
 <p>86400 seconds - price for one day</p>
-<p><strong>Note:</strong> When the ticket validity period starts depends on the <a href="../../routing/Agency-class.html">/sdk-for-flutter-explore-routing-agency-class</a> providing the service.
+<p><strong>Note:</strong> When the ticket validity period starts depends on the /sdk-for-flutter-explore-routing-agency-class providing the service.
 Defaults to <code>null</code>.</p>
 </section>
 <section class="summary source-code" id="source">
@@ -63,9 +64,9 @@ Defaults to <code>null</code>.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/FarePrice-class.html">/sdk-for-flutter-explore-routing-fareprice-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-fareprice-class</li>
 <li class="self-crumb">validityPeriod property</li>
 </ol>
 <h5>FarePrice class</h5>
@@ -82,4 +83,5 @@ Defaults to <code>null</code>.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

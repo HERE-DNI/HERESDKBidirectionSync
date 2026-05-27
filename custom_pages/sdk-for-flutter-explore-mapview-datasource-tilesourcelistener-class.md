@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "TileSourceListener class abstract"
 slug: "sdk-for-flutter-explore-mapview-datasource-tilesourcelistener-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- TileSourceListener-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -25,8 +26,8 @@ slug: "sdk-for-flutter-explore-mapview-datasource-tilesourcelistener-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
 <li class="self-crumb">TileSourceListener class</li>
 </ol>
 <div class="self-name">TileSourceListener</div>
@@ -50,16 +51,16 @@ menu
 <div>
 <h1>TileSourceListener class abstract</h1></div>
 <section class="desc markdown">
-<p>Listener of <a href="../mapview.datasource/TileSource-class.html">/sdk-for-flutter-explore-mapview-datasource-tilesource-class</a> events.</p>
+<p>Listener of /sdk-for-flutter-explore-mapview-datasource-tilesource-class events.</p>
 </section>
 <section class="summary offset-anchor" id="constructors">
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="TileSourceListener">
-<a href="../mapview.datasource/TileSourceListener/TileSourceListener.html">/sdk-for-flutter-explore-mapview-datasource-tilesourcelistener-tilesourcelistener</a>(void onDataVersionChangedLambda(<a href="../mapview.datasource/TileSourceDataVersion-class.html">/sdk-for-flutter-explore-mapview-datasource-tilesourcedataversion-class</a>))
+/sdk-for-flutter-explore-mapview-datasource-tilesourcelistener-tilesourcelistener(void onDataVersionChangedLambda(/sdk-for-flutter-explore-mapview-datasource-tilesourcedataversion-class))
 </dt>
 <dd>
-          Listener of <a href="../mapview.datasource/TileSource-class.html">/sdk-for-flutter-explore-mapview-datasource-tilesource-class</a> events.
+          Listener of /sdk-for-flutter-explore-mapview-datasource-tilesource-class events.
             <div class="constructor-modifier features">factory</div>
 </dd>
 </dl>
@@ -68,7 +69,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="hashCode">
-<a href="../mapview.datasource/TileSourceListener/hashCode.html">/sdk-for-flutter-explore-mapview-datasource-tilesourcelistener-hashcode</a>
+/sdk-for-flutter-explore-mapview-datasource-tilesourcelistener-hashcode
 → int
 </dt>
 <dd class="inherited">
@@ -76,7 +77,7 @@ menu
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../mapview.datasource/TileSourceListener/runtimeType.html">/sdk-for-flutter-explore-mapview-datasource-tilesourcelistener-runtimetype</a>
+/sdk-for-flutter-explore-mapview-datasource-tilesourcelistener-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -89,7 +90,7 @@ menu
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../mapview.datasource/TileSourceListener/noSuchMethod.html">/sdk-for-flutter-explore-mapview-datasource-tilesourcelistener-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-mapview-datasource-tilesourcelistener-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -98,7 +99,7 @@ menu
   <div class="features">inherited</div>
 </dd>
 <dt class="callable" id="onDataVersionChanged">
-<a href="../mapview.datasource/TileSourceListener/onDataVersionChanged.html">/sdk-for-flutter-explore-mapview-datasource-tilesourcelistener-ondataversionchanged</a>(<wbr/><a href="../mapview.datasource/TileSourceDataVersion-class.html">/sdk-for-flutter-explore-mapview-datasource-tilesourcedataversion-class</a> dataVersion)
+/sdk-for-flutter-explore-mapview-datasource-tilesourcelistener-ondataversionchanged(<wbr/>/sdk-for-flutter-explore-mapview-datasource-tilesourcedataversion-class dataVersion)
     → void
 
 </dt>
@@ -108,7 +109,7 @@ menu
 
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../mapview.datasource/TileSourceListener/toString.html">/sdk-for-flutter-explore-mapview-datasource-tilesourcelistener-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-mapview-datasource-tilesourcelistener-tostring(<wbr/>)
     → String
 
 </dt>
@@ -122,7 +123,7 @@ menu
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-<a href="../mapview.datasource/TileSourceListener/operator_equals.html">/sdk-for-flutter-explore-mapview-datasource-tilesourcelistener-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-mapview-datasource-tilesourcelistener-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -140,8 +141,8 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
 <li class="self-crumb">TileSourceListener class</li>
 </ol>
 <h5>mapview.datasource library</h5>
@@ -158,4 +159,5 @@ menu
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

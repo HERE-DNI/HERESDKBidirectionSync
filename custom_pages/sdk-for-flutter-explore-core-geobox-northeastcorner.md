@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "northEastCorner property"
 slug: "sdk-for-flutter-explore-core-geobox-northeastcorner"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- northEastCorner.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-core-geobox-northeastcorner"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
-<li><a href="../../core/GeoBox-class.html">/sdk-for-flutter-explore-core-geobox-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
+<li>/sdk-for-flutter-explore-core-geobox-class</li>
 <li class="self-crumb">northEastCorner property</li>
 </ol>
 <div class="self-name">northEastCorner</div>
@@ -37,7 +38,7 @@ menu
 <div>
 <h1>northEastCorner property</h1></div>
 <section class="multi-line-signature">
-<a href="../../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>
+/sdk-for-flutter-explore-core-geocoordinates-class
 northEastCorner
 <div class="features">final</div>
 </section>
@@ -56,9 +57,9 @@ northEastCorner
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
-<li><a href="../../core/GeoBox-class.html">/sdk-for-flutter-explore-core-geobox-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
+<li>/sdk-for-flutter-explore-core-geobox-class</li>
 <li class="self-crumb">northEastCorner property</li>
 </ol>
 <h5>GeoBox class</h5>
@@ -75,4 +76,5 @@ northEastCorner
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

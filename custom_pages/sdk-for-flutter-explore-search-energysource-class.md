@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "EnergySource class"
 slug: "sdk-for-flutter-explore-search-energysource-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- EnergySource-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -26,8 +27,8 @@ slug: "sdk-for-flutter-explore-search-energysource-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
 <li class="self-crumb">EnergySource class</li>
 </ol>
 <div class="self-name">EnergySource</div>
@@ -60,7 +61,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="EnergySource">
-<a href="../search/EnergySource/EnergySource.html">/sdk-for-flutter-explore-search-energysource-energysource</a>()
+/sdk-for-flutter-explore-search-energysource-energysource()
 </dt>
 <dd>
 </dd>
@@ -70,7 +71,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="hashCode">
-<a href="../search/EnergySource/hashCode.html">/sdk-for-flutter-explore-search-energysource-hashcode</a>
+/sdk-for-flutter-explore-search-energysource-hashcode
 → int
 </dt>
 <dd>
@@ -78,7 +79,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="percentage">
-<a href="../search/EnergySource/percentage.html">/sdk-for-flutter-explore-search-energysource-percentage</a>
+/sdk-for-flutter-explore-search-energysource-percentage
 ↔ double
 </dt>
 <dd>
@@ -86,7 +87,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../search/EnergySource/runtimeType.html">/sdk-for-flutter-explore-search-energysource-runtimetype</a>
+/sdk-for-flutter-explore-search-energysource-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -94,8 +95,8 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="source">
-<a href="../search/EnergySource/source.html">/sdk-for-flutter-explore-search-energysource-source</a>
-↔ <a href="../search/EnergySourceType.html">/sdk-for-flutter-explore-search-energysourcetype</a>
+/sdk-for-flutter-explore-search-energysource-source
+↔ /sdk-for-flutter-explore-search-energysourcetype
 </dt>
 <dd>
   Source of the energy.
@@ -107,7 +108,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../search/EnergySource/noSuchMethod.html">/sdk-for-flutter-explore-search-energysource-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-search-energysource-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -116,7 +117,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../search/EnergySource/toString.html">/sdk-for-flutter-explore-search-energysource-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-search-energysource-tostring(<wbr/>)
     → String
 
 </dt>
@@ -130,7 +131,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-<a href="../search/EnergySource/operator_equals.html">/sdk-for-flutter-explore-search-energysource-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-search-energysource-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -149,8 +150,8 @@ Related APIs may change for new releases without a deprecation process.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
 <li class="self-crumb">EnergySource class</li>
 </ol>
 <h5>search library</h5>
@@ -167,4 +168,5 @@ Related APIs may change for new releases without a deprecation process.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

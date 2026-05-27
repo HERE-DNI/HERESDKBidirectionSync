@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "PointDataSourceBuilder constructor"
 slug: "sdk-for-flutter-explore-mapview-datasource-pointdatasourcebuilder-pointdatasourcebuilder"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- PointDataSourceBuilder.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-datasource-pointdatasourcebuilder-pointda
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
-<li><a href="../../mapview.datasource/PointDataSourceBuilder-class.html">/sdk-for-flutter-explore-mapview-datasource-pointdatasourcebuilder-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-pointdatasourcebuilder-class</li>
 <li class="self-crumb">PointDataSourceBuilder factory constructor</li>
 </ol>
 <div class="self-name">PointDataSourceBuilder</div>
@@ -37,7 +38,7 @@ menu
 <div>
 <h1>PointDataSourceBuilder constructor</h1></div>
 <section class="multi-line-signature">
-PointDataSourceBuilder(<wbr/><ol class="parameter-list single-line"> <li><a href="../../mapview/MapContext-class.html">/sdk-for-flutter-explore-mapview-mapcontext-class</a> context</li>
+PointDataSourceBuilder(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-mapview-mapcontext-class context</li>
 </ol>)
     </section>
 <section class="desc markdown">
@@ -58,9 +59,9 @@ PointDataSourceBuilder(<wbr/><ol class="parameter-list single-line"> <li><a href
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
-<li><a href="../../mapview.datasource/PointDataSourceBuilder-class.html">/sdk-for-flutter-explore-mapview-datasource-pointdatasourcebuilder-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-pointdatasourcebuilder-class</li>
 <li class="self-crumb">PointDataSourceBuilder factory constructor</li>
 </ol>
 <h5>PointDataSourceBuilder class</h5>
@@ -77,4 +78,5 @@ PointDataSourceBuilder(<wbr/><ol class="parameter-list single-line"> <li><a href
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "EmpiricalConsumptionModel class"
 slug: "sdk-for-flutter-explore-routing-empiricalconsumptionmodel-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- EmpiricalConsumptionModel-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -29,8 +30,8 @@ slug: "sdk-for-flutter-explore-routing-empiricalconsumptionmodel-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
 <li class="self-crumb">EmpiricalConsumptionModel class</li>
 </ol>
 <div class="self-name">EmpiricalConsumptionModel</div>
@@ -60,9 +61,9 @@ parameters with route characteristics such as distance, elevation changes, and d
 relying on a full physical simulation, this model uses observed consumption behavior to produce realistic
 and efficient energy estimates suitable for routing, range prediction, and navigation use cases.</p>
 <p>Parameters specific to the electric vehicle are used to calculate energy consumption on a given route.
-At minimum, you must provide <a href="../routing/EmpiricalConsumptionModel/ascentConsumptionInWattHoursPerMeter.html">/sdk-for-flutter-explore-routing-empiricalconsumptionmodel-ascentconsumptioninwatthourspermeter</a>,
-<a href="../routing/EmpiricalConsumptionModel/descentRecoveryInWattHoursPerMeter.html">/sdk-for-flutter-explore-routing-empiricalconsumptionmodel-descentrecoveryinwatthourspermeter</a> and a
-<a href="../routing/EmpiricalConsumptionModel/freeFlowSpeedTable.html">/sdk-for-flutter-explore-routing-empiricalconsumptionmodel-freeflowspeedtable</a>.
+At minimum, you must provide /sdk-for-flutter-explore-routing-empiricalconsumptionmodel-ascentconsumptioninwatthourspermeter,
+/sdk-for-flutter-explore-routing-empiricalconsumptionmodel-descentrecoveryinwatthourspermeter and a
+/sdk-for-flutter-explore-routing-empiricalconsumptionmodel-freeflowspeedtable.
 <strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
 Related APIs may change for new releases without a deprecation process.</p>
 </section>
@@ -70,7 +71,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="EmpiricalConsumptionModel">
-<a href="../routing/EmpiricalConsumptionModel/EmpiricalConsumptionModel.html">/sdk-for-flutter-explore-routing-empiricalconsumptionmodel-empiricalconsumptionmodel</a>()
+/sdk-for-flutter-explore-routing-empiricalconsumptionmodel-empiricalconsumptionmodel()
 </dt>
 <dd>
 </dd>
@@ -80,7 +81,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="ascentConsumptionInWattHoursPerMeter">
-<a href="../routing/EmpiricalConsumptionModel/ascentConsumptionInWattHoursPerMeter.html">/sdk-for-flutter-explore-routing-empiricalconsumptionmodel-ascentconsumptioninwatthourspermeter</a>
+/sdk-for-flutter-explore-routing-empiricalconsumptionmodel-ascentconsumptioninwatthourspermeter
 ↔ double
 </dt>
 <dd>
@@ -88,7 +89,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="auxiliaryConsumptionInWattHoursPerSecond">
-<a href="../routing/EmpiricalConsumptionModel/auxiliaryConsumptionInWattHoursPerSecond.html">/sdk-for-flutter-explore-routing-empiricalconsumptionmodel-auxiliaryconsumptioninwatthourspersecond</a>
+/sdk-for-flutter-explore-routing-empiricalconsumptionmodel-auxiliaryconsumptioninwatthourspersecond
 ↔ double
 </dt>
 <dd>
@@ -97,7 +98,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="descentRecoveryInWattHoursPerMeter">
-<a href="../routing/EmpiricalConsumptionModel/descentRecoveryInWattHoursPerMeter.html">/sdk-for-flutter-explore-routing-empiricalconsumptionmodel-descentrecoveryinwatthourspermeter</a>
+/sdk-for-flutter-explore-routing-empiricalconsumptionmodel-descentrecoveryinwatthourspermeter
 ↔ double
 </dt>
 <dd>
@@ -105,7 +106,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="freeFlowSpeedTable">
-<a href="../routing/EmpiricalConsumptionModel/freeFlowSpeedTable.html">/sdk-for-flutter-explore-routing-empiricalconsumptionmodel-freeflowspeedtable</a>
+/sdk-for-flutter-explore-routing-empiricalconsumptionmodel-freeflowspeedtable
 ↔ Map&lt;<wbr/>int, double&gt;
 </dt>
 <dd>
@@ -123,7 +124,7 @@ used for all possible speed keys.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-<a href="../routing/EmpiricalConsumptionModel/hashCode.html">/sdk-for-flutter-explore-routing-empiricalconsumptionmodel-hashcode</a>
+/sdk-for-flutter-explore-routing-empiricalconsumptionmodel-hashcode
 → int
 </dt>
 <dd>
@@ -131,7 +132,7 @@ used for all possible speed keys.
   <div class="features">no setter</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../routing/EmpiricalConsumptionModel/runtimeType.html">/sdk-for-flutter-explore-routing-empiricalconsumptionmodel-runtimetype</a>
+/sdk-for-flutter-explore-routing-empiricalconsumptionmodel-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -139,7 +140,7 @@ used for all possible speed keys.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="trafficSpeedTable">
-<a href="../routing/EmpiricalConsumptionModel/trafficSpeedTable.html">/sdk-for-flutter-explore-routing-empiricalconsumptionmodel-trafficspeedtable</a>
+/sdk-for-flutter-explore-routing-empiricalconsumptionmodel-trafficspeedtable
 ↔ Map&lt;<wbr/>int, double&gt;
 </dt>
 <dd>
@@ -155,8 +156,8 @@ For values below the first list value, the first value is used.
 For values after the last list value, the last list value is used.
 If only one key/value pair is set, the consumption value is
 used for all possible traffic speed keys.
-If <a href="../routing/EmpiricalConsumptionModel/trafficSpeedTable.html">/sdk-for-flutter-explore-routing-empiricalconsumptionmodel-trafficspeedtable</a> is empty then only
-<a href="../routing/EmpiricalConsumptionModel/freeFlowSpeedTable.html">/sdk-for-flutter-explore-routing-empiricalconsumptionmodel-freeflowspeedtable</a> is used for calculating speed-related
+If /sdk-for-flutter-explore-routing-empiricalconsumptionmodel-trafficspeedtable is empty then only
+/sdk-for-flutter-explore-routing-empiricalconsumptionmodel-freeflowspeedtable is used for calculating speed-related
 energy consumption.
   <div class="features">getter/setter pair</div>
 </dd>
@@ -166,7 +167,7 @@ energy consumption.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../routing/EmpiricalConsumptionModel/noSuchMethod.html">/sdk-for-flutter-explore-routing-empiricalconsumptionmodel-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-routing-empiricalconsumptionmodel-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -175,7 +176,7 @@ energy consumption.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../routing/EmpiricalConsumptionModel/toString.html">/sdk-for-flutter-explore-routing-empiricalconsumptionmodel-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-routing-empiricalconsumptionmodel-tostring(<wbr/>)
     → String
 
 </dt>
@@ -189,7 +190,7 @@ energy consumption.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-<a href="../routing/EmpiricalConsumptionModel/operator_equals.html">/sdk-for-flutter-explore-routing-empiricalconsumptionmodel-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-routing-empiricalconsumptionmodel-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -208,8 +209,8 @@ energy consumption.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
 <li class="self-crumb">EmpiricalConsumptionModel class</li>
 </ol>
 <h5>routing library</h5>
@@ -226,4 +227,5 @@ energy consumption.
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

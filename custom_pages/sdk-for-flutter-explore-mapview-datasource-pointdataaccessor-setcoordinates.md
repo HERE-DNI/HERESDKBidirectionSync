@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "setCoordinates abstract method"
 slug: "sdk-for-flutter-explore-mapview-datasource-pointdataaccessor-setcoordinates"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- setCoordinates.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-datasource-pointdataaccessor-setcoordinat
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
-<li><a href="../../mapview.datasource/PointDataAccessor-class.html">/sdk-for-flutter-explore-mapview-datasource-pointdataaccessor-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-pointdataaccessor-class</li>
 <li class="self-crumb">setCoordinates abstract method</li>
 </ol>
 <div class="self-name">setCoordinates</div>
@@ -38,7 +39,7 @@ menu
 <h1>setCoordinates abstract method</h1></div>
 <section class="multi-line-signature">
 void
-setCoordinates(<wbr/><ol class="parameter-list single-line"> <li><a href="../../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a> position</li>
+setCoordinates(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-core-geocoordinates-class position</li>
 </ol>)
 
       
@@ -62,9 +63,9 @@ setCoordinates(<wbr/><ol class="parameter-list single-line"> <li><a href="../../
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
-<li><a href="../../mapview.datasource/PointDataAccessor-class.html">/sdk-for-flutter-explore-mapview-datasource-pointdataaccessor-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-pointdataaccessor-class</li>
 <li class="self-crumb">setCoordinates abstract method</li>
 </ol>
 <h5>PointDataAccessor class</h5>
@@ -81,4 +82,5 @@ setCoordinates(<wbr/><ol class="parameter-list single-line"> <li><a href="../../
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

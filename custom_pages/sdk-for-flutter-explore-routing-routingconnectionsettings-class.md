@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "RoutingConnectionSettings class"
 slug: "sdk-for-flutter-explore-routing-routingconnectionsettings-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- RoutingConnectionSettings-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -29,8 +30,8 @@ slug: "sdk-for-flutter-explore-routing-routingconnectionsettings-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
 <li class="self-crumb">RoutingConnectionSettings class</li>
 </ol>
 <div class="self-name">RoutingConnectionSettings</div>
@@ -57,13 +58,13 @@ menu
 <p>Defines the settings for the retry logic when connecting to the HERE routing backend.</p>
 <p>When a timeout is triggered,
 the next connection attempt starts with a increased timeout.
-new_timeout = initial_timeout + increment * retry_count</p>
+<code>new_timeout</code> = <code>initial_timeout</code> + increment * <code>retry_count</code></p>
 </section>
 <section class="summary offset-anchor" id="constructors">
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="RoutingConnectionSettings">
-<a href="../routing/RoutingConnectionSettings/RoutingConnectionSettings.html">/sdk-for-flutter-explore-routing-routingconnectionsettings-routingconnectionsettings</a>()
+/sdk-for-flutter-explore-routing-routingconnectionsettings-routingconnectionsettings()
 </dt>
 <dd>
 </dd>
@@ -73,7 +74,7 @@ new_timeout = initial_timeout + increment * retry_count</p>
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="connectionTimeoutRetryIncrease">
-<a href="../routing/RoutingConnectionSettings/connectionTimeoutRetryIncrease.html">/sdk-for-flutter-explore-routing-routingconnectionsettings-connectiontimeoutretryincrease</a>
+/sdk-for-flutter-explore-routing-routingconnectionsettings-connectiontimeoutretryincrease
 ↔ Duration
 </dt>
 <dd>
@@ -82,7 +83,7 @@ By default, the initial connection increment per timeout 10 seconds.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-<a href="../routing/RoutingConnectionSettings/hashCode.html">/sdk-for-flutter-explore-routing-routingconnectionsettings-hashcode</a>
+/sdk-for-flutter-explore-routing-routingconnectionsettings-hashcode
 → int
 </dt>
 <dd>
@@ -90,7 +91,7 @@ By default, the initial connection increment per timeout 10 seconds.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="initialConnectionTimeout">
-<a href="../routing/RoutingConnectionSettings/initialConnectionTimeout.html">/sdk-for-flutter-explore-routing-routingconnectionsettings-initialconnectiontimeout</a>
+/sdk-for-flutter-explore-routing-routingconnectionsettings-initialconnectiontimeout
 ↔ Duration
 </dt>
 <dd>
@@ -99,7 +100,7 @@ By default, the initial connection timeout is 5 seconds.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="initialTransferTimeout">
-<a href="../routing/RoutingConnectionSettings/initialTransferTimeout.html">/sdk-for-flutter-explore-routing-routingconnectionsettings-initialtransfertimeout</a>
+/sdk-for-flutter-explore-routing-routingconnectionsettings-initialtransfertimeout
 ↔ Duration
 </dt>
 <dd>
@@ -108,7 +109,7 @@ By default, the initial transfer timeout is 10 seconds.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="maxRetryCount">
-<a href="../routing/RoutingConnectionSettings/maxRetryCount.html">/sdk-for-flutter-explore-routing-routingconnectionsettings-maxretrycount</a>
+/sdk-for-flutter-explore-routing-routingconnectionsettings-maxretrycount
 ↔ int
 </dt>
 <dd>
@@ -117,7 +118,7 @@ By default, the max amount of retries is 3.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../routing/RoutingConnectionSettings/runtimeType.html">/sdk-for-flutter-explore-routing-routingconnectionsettings-runtimetype</a>
+/sdk-for-flutter-explore-routing-routingconnectionsettings-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -125,7 +126,7 @@ By default, the max amount of retries is 3.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="transferTimeoutRetryIncrease">
-<a href="../routing/RoutingConnectionSettings/transferTimeoutRetryIncrease.html">/sdk-for-flutter-explore-routing-routingconnectionsettings-transfertimeoutretryincrease</a>
+/sdk-for-flutter-explore-routing-routingconnectionsettings-transfertimeoutretryincrease
 ↔ Duration
 </dt>
 <dd>
@@ -139,7 +140,7 @@ By default, the initial transfer increment per timeout is 2 seconds.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../routing/RoutingConnectionSettings/noSuchMethod.html">/sdk-for-flutter-explore-routing-routingconnectionsettings-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-routing-routingconnectionsettings-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -148,7 +149,7 @@ By default, the initial transfer increment per timeout is 2 seconds.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../routing/RoutingConnectionSettings/toString.html">/sdk-for-flutter-explore-routing-routingconnectionsettings-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-routing-routingconnectionsettings-tostring(<wbr/>)
     → String
 
 </dt>
@@ -162,7 +163,7 @@ By default, the initial transfer increment per timeout is 2 seconds.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-<a href="../routing/RoutingConnectionSettings/operator_equals.html">/sdk-for-flutter-explore-routing-routingconnectionsettings-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-routing-routingconnectionsettings-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -181,8 +182,8 @@ By default, the initial transfer increment per timeout is 2 seconds.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
 <li class="self-crumb">RoutingConnectionSettings class</li>
 </ol>
 <h5>routing library</h5>
@@ -199,4 +200,5 @@ By default, the initial transfer increment per timeout is 2 seconds.
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

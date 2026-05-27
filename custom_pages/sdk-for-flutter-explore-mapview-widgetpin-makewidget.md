@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "makeWidget abstract method"
 slug: "sdk-for-flutter-explore-mapview-widgetpin-makewidget"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- makeWidget.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-widgetpin-makewidget"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/WidgetPin-class.html">/sdk-for-flutter-explore-mapview-widgetpin-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-widgetpin-class</li>
 <li class="self-crumb">makeWidget abstract method</li>
 </ol>
 <div class="self-name">makeWidget</div>
@@ -45,7 +46,7 @@ makeWidget(<wbr/><ol class="parameter-list single-line"> <li>BuildContext contex
 
     </section>
 <section class="desc markdown">
-<p>Creates a widget for this <a href="../../mapview/WidgetPin-class.html">/sdk-for-flutter-explore-mapview-widgetpin-class</a>.</p>
+<p>Creates a widget for this /sdk-for-flutter-explore-mapview-widgetpin-class.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -59,9 +60,9 @@ makeWidget(<wbr/><ol class="parameter-list single-line"> <li>BuildContext contex
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/WidgetPin-class.html">/sdk-for-flutter-explore-mapview-widgetpin-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-widgetpin-class</li>
 <li class="self-crumb">makeWidget abstract method</li>
 </ol>
 <h5>WidgetPin class</h5>
@@ -78,4 +79,5 @@ makeWidget(<wbr/><ol class="parameter-list single-line"> <li>BuildContext contex
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

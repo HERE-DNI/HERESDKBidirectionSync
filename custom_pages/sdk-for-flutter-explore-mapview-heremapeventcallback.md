@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "HereMapEventCallback typedef"
 slug: "sdk-for-flutter-explore-mapview-heremapeventcallback"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- HereMapEventCallback.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,8 +12,8 @@ slug: "sdk-for-flutter-explore-mapview-heremapeventcallback"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
 <li class="self-crumb">HereMapEventCallback typedef</li>
 </ol>
 <div class="self-name">HereMapEventCallback</div>
@@ -37,7 +38,7 @@ menu
 <h1>HereMapEventCallback typedef</h1></div>
 <section class="multi-line-signature">
 HereMapEventCallback =
-     void Function(<a href="../mapview/HereMapEvent.html">/sdk-for-flutter-explore-mapview-heremapevent</a> event)
+     void Function(/sdk-for-flutter-explore-mapview-heremapevent event)
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -51,8 +52,8 @@ HereMapEventCallback =
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
 <li class="self-crumb">HereMapEventCallback typedef</li>
 </ol>
 <h5>mapview library</h5>
@@ -69,4 +70,5 @@ HereMapEventCallback =
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

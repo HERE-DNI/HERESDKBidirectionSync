@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "uid property"
 slug: "sdk-for-flutter-explore-search-evseinfo-uid"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- uid.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-search-evseinfo-uid"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/EVSEInfo-class.html">/sdk-for-flutter-explore-search-evseinfo-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-evseinfo-class</li>
 <li class="self-crumb">uid property</li>
 </ol>
 <div class="self-name">uid</div>
@@ -45,7 +46,7 @@ menu
 <section class="desc markdown">
 <p>Uniquely identifies the EVSE within the CPOs platform (and suboperator platforms).
 For example a database ID or the actual "EVSE ID". This field can never be changed, modified or renamed.
-This is the 'technical' identification of the EVSE, not to be used as 'human readable' identification, use the field <a href="../../search/EVSEInfo/id.html">/sdk-for-flutter-explore-search-evseinfo-id</a> for that.</p>
+This is the 'technical' identification of the EVSE, not to be used as 'human readable' identification, use the field /sdk-for-flutter-explore-search-evseinfo-id for that.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -59,9 +60,9 @@ This is the 'technical' identification of the EVSE, not to be used as 'human rea
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/EVSEInfo-class.html">/sdk-for-flutter-explore-search-evseinfo-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-evseinfo-class</li>
 <li class="self-crumb">uid property</li>
 </ol>
 <h5>EVSEInfo class</h5>
@@ -78,4 +79,5 @@ This is the 'technical' identification of the EVSE, not to be used as 'human rea
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

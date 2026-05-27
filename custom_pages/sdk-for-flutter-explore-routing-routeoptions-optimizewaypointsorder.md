@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "optimizeWaypointsOrder property"
 slug: "sdk-for-flutter-explore-routing-routeoptions-optimizewaypointsorder"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- optimizeWaypointsOrder.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-routing-routeoptions-optimizewaypointsorder"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/RouteOptions-class.html">/sdk-for-flutter-explore-routing-routeoptions-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-routeoptions-class</li>
 <li class="self-crumb">optimizeWaypointsOrder property</li>
 </ol>
 <div class="self-name">optimizeWaypointsOrder</div>
@@ -44,11 +45,11 @@ menu
 </section>
 <section class="desc markdown">
 <p>A flag that indicates whether the order of waypoints that is passed to <code>calculateRoute()</code> should be optimized in the best order.
-The best order is calculated by the same metrics that are used during regular calculation, e.g. <a href="../../routing/OptimizationMode.html">/sdk-for-flutter-explore-routing-optimizationmode</a>.
-The starting and destination <a href="../../routing/Waypoint-class.html">/sdk-for-flutter-explore-routing-waypoint-class</a> are not reordered.
+The best order is calculated by the same metrics that are used during regular calculation, e.g. /sdk-for-flutter-explore-routing-optimizationmode.
+The starting and destination /sdk-for-flutter-explore-routing-waypoint-class are not reordered.
 If the whole number of waypoints is fewer than 4 - the flag doesn't affect the resulting route (nothing to optimize).
 The resulting order of waypoints can be identified by their waypoint indices in the route sections
-(see <a href="../../routing/Route/sections.html">/sdk-for-flutter-explore-routing-route-sections</a>, <a href="../../routing/Section/departurePlace.html">/sdk-for-flutter-explore-routing-section-departureplace</a>, <a href="../../routing/Section/arrivalPlace.html">/sdk-for-flutter-explore-routing-section-arrivalplace</a>, <a href="../../routing/RoutePlace/waypointIndex.html">/sdk-for-flutter-explore-routing-routeplace-waypointindex</a>).
+(see /sdk-for-flutter-explore-routing-route-sections, /sdk-for-flutter-explore-routing-section-departureplace, /sdk-for-flutter-explore-routing-section-arrivalplace, /sdk-for-flutter-explore-routing-routeplace-waypointindex).
 Currently, the waypoints order optimization is available only when using the <code>OfflineRoutingEngine</code> (only available for the Navigate license).
 Defaults to <code>false</code>.</p>
 </section>
@@ -64,9 +65,9 @@ Defaults to <code>false</code>.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/RouteOptions-class.html">/sdk-for-flutter-explore-routing-routeoptions-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-routeoptions-class</li>
 <li class="self-crumb">optimizeWaypointsOrder property</li>
 </ol>
 <h5>RouteOptions class</h5>
@@ -83,4 +84,5 @@ Defaults to <code>false</code>.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

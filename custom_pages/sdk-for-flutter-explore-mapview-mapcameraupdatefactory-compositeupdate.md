@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "compositeUpdate static method"
 slug: "sdk-for-flutter-explore-mapview-mapcameraupdatefactory-compositeupdate"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- compositeUpdate.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-mapcameraupdatefactory-compositeupdate"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapCameraUpdateFactory-class.html">/sdk-for-flutter-explore-mapview-mapcameraupdatefactory-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapcameraupdatefactory-class</li>
 <li class="self-crumb">compositeUpdate static method</li>
 </ol>
 <div class="self-name">compositeUpdate</div>
@@ -37,8 +38,8 @@ menu
 <div>
 <h1>compositeUpdate static method</h1></div>
 <section class="multi-line-signature">
-<a href="../../mapview/MapCameraUpdate-class.html">/sdk-for-flutter-explore-mapview-mapcameraupdate-class</a>
-compositeUpdate(<wbr/><ol class="parameter-list single-line"> <li>List&lt;<wbr/><a href="../../mapview/MapCameraUpdate-class.html">/sdk-for-flutter-explore-mapview-mapcameraupdate-class</a>&gt; mapCameraUpdates</li>
+/sdk-for-flutter-explore-mapview-mapcameraupdate-class
+compositeUpdate(<wbr/><ol class="parameter-list single-line"> <li>List&lt;<wbr/>/sdk-for-flutter-explore-mapview-mapcameraupdate-class&gt; mapCameraUpdates</li>
 </ol>)
 
       
@@ -54,8 +55,8 @@ when trying to apply such animations.</p>
 <ul>
 <li><code>mapCameraUpdates</code> List of MapCamera updates.</li>
 </ul>
-<p>Returns <a href="../../mapview/MapCameraUpdate-class.html">/sdk-for-flutter-explore-mapview-mapcameraupdate-class</a>. MapCameraUpdate instance.</p>
-<p>Throws <a href="../../mapview/MapCameraUpdateInstantiationException-class.html">/sdk-for-flutter-explore-mapview-mapcameraupdateinstantiationexception-class</a>. Indicates an instantiation issue.</p>
+<p>Returns /sdk-for-flutter-explore-mapview-mapcameraupdate-class. MapCameraUpdate instance.</p>
+<p>Throws /sdk-for-flutter-explore-mapview-mapcameraupdateinstantiationexception-class. Indicates an instantiation issue.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -69,9 +70,9 @@ when trying to apply such animations.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapCameraUpdateFactory-class.html">/sdk-for-flutter-explore-mapview-mapcameraupdatefactory-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapcameraupdatefactory-class</li>
 <li class="self-crumb">compositeUpdate static method</li>
 </ol>
 <h5>MapCameraUpdateFactory class</h5>
@@ -88,4 +89,5 @@ when trying to apply such animations.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "EVChargingOpeningHours class"
 slug: "sdk-for-flutter-explore-search-evchargingopeninghours-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- EVChargingOpeningHours-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -28,8 +29,8 @@ slug: "sdk-for-flutter-explore-search-evchargingopeninghours-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
 <li class="self-crumb">EVChargingOpeningHours class</li>
 </ol>
 <div class="self-name">EVChargingOpeningHours</div>
@@ -61,7 +62,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="EVChargingOpeningHours">
-<a href="../search/EVChargingOpeningHours/EVChargingOpeningHours.html">/sdk-for-flutter-explore-search-evchargingopeninghours-evchargingopeninghours</a>()
+/sdk-for-flutter-explore-search-evchargingopeninghours-evchargingopeninghours()
 </dt>
 <dd>
 </dd>
@@ -71,7 +72,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="chargingWhenClosed">
-<a href="../search/EVChargingOpeningHours/chargingWhenClosed.html">/sdk-for-flutter-explore-search-evchargingopeninghours-chargingwhenclosed</a>
+/sdk-for-flutter-explore-search-evchargingopeninghours-chargingwhenclosed
 ↔ bool
 </dt>
 <dd>
@@ -80,15 +81,15 @@ charging outside opening hours.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="exceptions">
-<a href="../search/EVChargingOpeningHours/exceptions.html">/sdk-for-flutter-explore-search-evchargingopeninghours-exceptions</a>
-↔ List&lt;<wbr/><a href="../search/EVChargingOpeningHoursException-class.html">/sdk-for-flutter-explore-search-evchargingopeninghoursexception-class</a>&gt;
+/sdk-for-flutter-explore-search-evchargingopeninghours-exceptions
+↔ List&lt;<wbr/>/sdk-for-flutter-explore-search-evchargingopeninghoursexception-class&gt;
 </dt>
 <dd>
   List of opening hours exceptions for EV charging locations.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-<a href="../search/EVChargingOpeningHours/hashCode.html">/sdk-for-flutter-explore-search-evchargingopeninghours-hashcode</a>
+/sdk-for-flutter-explore-search-evchargingopeninghours-hashcode
 → int
 </dt>
 <dd>
@@ -96,24 +97,24 @@ charging outside opening hours.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="open24x7">
-<a href="../search/EVChargingOpeningHours/open24x7.html">/sdk-for-flutter-explore-search-evchargingopeninghours-open24x7</a>
+/sdk-for-flutter-explore-search-evchargingopeninghours-open24x7
 ↔ bool
 </dt>
 <dd>
   Indicates if the charging location is open 24 hours a day, 7 days per week.
-If true, <a href="../search/EVChargingOpeningHours/regularSchedule.html">/sdk-for-flutter-explore-search-evchargingopeninghours-regularschedule</a> and <a href="../search/EVChargingOpeningHours/exceptions.html">/sdk-for-flutter-explore-search-evchargingopeninghours-exceptions</a> will be empty.
+If true, /sdk-for-flutter-explore-search-evchargingopeninghours-regularschedule and /sdk-for-flutter-explore-search-evchargingopeninghours-exceptions will be empty.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="regularSchedule">
-<a href="../search/EVChargingOpeningHours/regularSchedule.html">/sdk-for-flutter-explore-search-evchargingopeninghours-regularschedule</a>
-↔ List&lt;<wbr/><a href="../search/EVChargingOpeningHoursSchedule-class.html">/sdk-for-flutter-explore-search-evchargingopeninghoursschedule-class</a>&gt;
+/sdk-for-flutter-explore-search-evchargingopeninghours-regularschedule
+↔ List&lt;<wbr/>/sdk-for-flutter-explore-search-evchargingopeninghoursschedule-class&gt;
 </dt>
 <dd>
   List of regular opening hours schedule for EV charging locations.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../search/EVChargingOpeningHours/runtimeType.html">/sdk-for-flutter-explore-search-evchargingopeninghours-runtimetype</a>
+/sdk-for-flutter-explore-search-evchargingopeninghours-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -126,7 +127,7 @@ If true, <a href="../search/EVChargingOpeningHours/regularSchedule.html">/sdk-fo
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../search/EVChargingOpeningHours/noSuchMethod.html">/sdk-for-flutter-explore-search-evchargingopeninghours-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-search-evchargingopeninghours-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -135,7 +136,7 @@ If true, <a href="../search/EVChargingOpeningHours/regularSchedule.html">/sdk-fo
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../search/EVChargingOpeningHours/toString.html">/sdk-for-flutter-explore-search-evchargingopeninghours-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-search-evchargingopeninghours-tostring(<wbr/>)
     → String
 
 </dt>
@@ -149,7 +150,7 @@ If true, <a href="../search/EVChargingOpeningHours/regularSchedule.html">/sdk-fo
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-<a href="../search/EVChargingOpeningHours/operator_equals.html">/sdk-for-flutter-explore-search-evchargingopeninghours-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-search-evchargingopeninghours-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -168,8 +169,8 @@ If true, <a href="../search/EVChargingOpeningHours/regularSchedule.html">/sdk-fo
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
 <li class="self-crumb">EVChargingOpeningHours class</li>
 </ol>
 <h5>search library</h5>
@@ -186,4 +187,5 @@ If true, <a href="../search/EVChargingOpeningHours/regularSchedule.html">/sdk-fo
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

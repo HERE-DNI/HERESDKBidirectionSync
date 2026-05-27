@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "create static method"
 slug: "sdk-for-flutter-explore-mapview-datasource-linetiledatasource-create"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- create.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-datasource-linetiledatasource-create"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
-<li><a href="../../mapview.datasource/LineTileDataSource-class.html">/sdk-for-flutter-explore-mapview-datasource-linetiledatasource-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-linetiledatasource-class</li>
 <li class="self-crumb">create static method</li>
 </ol>
 <div class="self-name">create</div>
@@ -37,17 +38,17 @@ menu
 <div>
 <h1>create static method</h1></div>
 <section class="multi-line-signature">
-<a href="../../mapview.datasource/LineTileDataSource-class.html">/sdk-for-flutter-explore-mapview-datasource-linetiledatasource-class</a>
-create(<wbr/><ol class="parameter-list single-line"> <li><a href="../../mapview/MapContext-class.html">/sdk-for-flutter-explore-mapview-mapcontext-class</a> context, </li>
+/sdk-for-flutter-explore-mapview-datasource-linetiledatasource-class
+create(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-mapview-mapcontext-class context, </li>
 <li>String name, </li>
-<li><a href="../../mapview.datasource/LineTileSource-class.html">/sdk-for-flutter-explore-mapview-datasource-linetilesource-class</a> tileSource</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-linetilesource-class tileSource</li>
 </ol>)
 
       
 
     </section>
 <section class="desc markdown">
-<p>Creates a named <a href="../../mapview.datasource/LineTileDataSource-class.html">/sdk-for-flutter-explore-mapview-datasource-linetiledatasource-class</a> in the given context over a given <a href="../../mapview.datasource/LineTileSource-class.html">/sdk-for-flutter-explore-mapview-datasource-linetilesource-class</a>.</p>
+<p>Creates a named /sdk-for-flutter-explore-mapview-datasource-linetiledatasource-class in the given context over a given /sdk-for-flutter-explore-mapview-datasource-linetilesource-class.</p>
 <ul>
 <li>
 <p><code>context</code> Map context to associate the data source with.</p>
@@ -59,7 +60,7 @@ create(<wbr/><ol class="parameter-list single-line"> <li><a href="../../mapview/
 <p><code>tileSource</code> The source of tile data.</p>
 </li>
 </ul>
-<p>Returns <a href="../../mapview.datasource/LineTileDataSource-class.html">/sdk-for-flutter-explore-mapview-datasource-linetiledatasource-class</a>. Instance of the data source created with given name and tile source.</p>
+<p>Returns /sdk-for-flutter-explore-mapview-datasource-linetiledatasource-class. Instance of the data source created with given name and tile source.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -73,9 +74,9 @@ create(<wbr/><ol class="parameter-list single-line"> <li><a href="../../mapview/
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
-<li><a href="../../mapview.datasource/LineTileDataSource-class.html">/sdk-for-flutter-explore-mapview-datasource-linetiledatasource-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-linetiledatasource-class</li>
 <li class="self-crumb">create static method</li>
 </ol>
 <h5>LineTileDataSource class</h5>
@@ -92,4 +93,5 @@ create(<wbr/><ol class="parameter-list single-line"> <li><a href="../../mapview/
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

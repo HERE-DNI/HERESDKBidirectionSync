@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "EVSearchEngine constructor"
 slug: "sdk-for-flutter-explore-search-evsearchengine-evsearchengine"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- EVSearchEngine.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-search-evsearchengine-evsearchengine"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/EVSearchEngine-class.html">/sdk-for-flutter-explore-search-evsearchengine-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-evsearchengine-class</li>
 <li class="self-crumb">EVSearchEngine factory constructor</li>
 </ol>
 <div class="self-name">EVSearchEngine</div>
@@ -41,7 +42,7 @@ EVSearchEngine(<wbr/>)
     </section>
 <section class="desc markdown">
 <p>Creates a new instance of this class.</p>
-<p>Throws <a href="../../core.errors/InstantiationException-class.html">/sdk-for-flutter-explore-core-errors-instantiationexception-class</a>. Indicates what went wrong when the instantiation was attempted.</p>
+<p>Throws /sdk-for-flutter-explore-core-errors-instantiationexception-class. Indicates what went wrong when the instantiation was attempted.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -55,9 +56,9 @@ EVSearchEngine(<wbr/>)
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/EVSearchEngine-class.html">/sdk-for-flutter-explore-search-evsearchengine-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-evsearchengine-class</li>
 <li class="self-crumb">EVSearchEngine factory constructor</li>
 </ol>
 <h5>EVSearchEngine class</h5>
@@ -74,4 +75,5 @@ EVSearchEngine(<wbr/>)
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

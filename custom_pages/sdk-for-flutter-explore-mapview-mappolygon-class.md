@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "MapPolygon class abstract"
 slug: "sdk-for-flutter-explore-mapview-mappolygon-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- MapPolygon-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -32,8 +33,8 @@ slug: "sdk-for-flutter-explore-mapview-mappolygon-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
 <li class="self-crumb">MapPolygon class</li>
 </ol>
 <div class="self-name">MapPolygon</div>
@@ -60,9 +61,9 @@ menu
 <p>A visual representation of a polygon on the map.</p>
 <p>Can be used to visualize areas of all shapes
 and sizes.</p>
-<p>The geometry to be visualized is represented by an instance of <a href="../core/GeoPolygon-class.html">/sdk-for-flutter-explore-core-geopolygon-class</a>.
+<p>The geometry to be visualized is represented by an instance of /sdk-for-flutter-explore-core-geopolygon-class.
 To display circular areas (for example, a position accuracy indicator) use a GeoPolygon
-created from a <a href="../core/GeoCircle-class.html">/sdk-for-flutter-explore-core-geocircle-class</a> using <a href="../core/GeoPolygon/GeoPolygon.withGeoCircle.html">/sdk-for-flutter-explore-core-geopolygon-geopolygon-withgeocircle</a>.</p>
+created from a /sdk-for-flutter-explore-core-geocircle-class using /sdk-for-flutter-explore-core-geopolygon-geopolygon-withgeocircle.</p>
 <p>Note:</p>
 <ul>
 <li>The polygon shape should not cover more than half of the globe,
@@ -76,14 +77,14 @@ artifacts.</li>
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="MapPolygon">
-<a href="../mapview/MapPolygon/MapPolygon.html">/sdk-for-flutter-explore-mapview-mappolygon-mappolygon</a>(<a href="../core/GeoPolygon-class.html">/sdk-for-flutter-explore-core-geopolygon-class</a> geometry, Color color)
+/sdk-for-flutter-explore-mapview-mappolygon-mappolygon(/sdk-for-flutter-explore-core-geopolygon-class geometry, Color color)
 </dt>
 <dd>
           Creates a new MapPolygon instance with outline visualization disabled and containing the geometry passed in.
             <div class="constructor-modifier features">factory</div>
 </dd>
 <dt class="callable" id="MapPolygon.withOutlineColorAndOutlineWidthInPixels">
-<a href="../mapview/MapPolygon/MapPolygon.withOutlineColorAndOutlineWidthInPixels.html">/sdk-for-flutter-explore-mapview-mappolygon-mappolygon-withoutlinecolorandoutlinewidthinpixels</a>(<a href="../core/GeoPolygon-class.html">/sdk-for-flutter-explore-core-geopolygon-class</a> geometry, Color color, Color outlineColor, double outlineWidthInPixels)
+/sdk-for-flutter-explore-mapview-mappolygon-mappolygon-withoutlinecolorandoutlinewidthinpixels(/sdk-for-flutter-explore-core-geopolygon-class geometry, Color color, Color outlineColor, double outlineWidthInPixels)
 </dt>
 <dd>
           Creates a new MapPolygon instance with outline visualization enabled and containing the geometry passed in.
@@ -95,7 +96,7 @@ artifacts.</li>
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="drawOrder">
-<a href="../mapview/MapPolygon/drawOrder.html">/sdk-for-flutter-explore-mapview-mappolygon-draworder</a>
+/sdk-for-flutter-explore-mapview-mappolygon-draworder
 ↔ int
 </dt>
 <dd>
@@ -104,7 +105,7 @@ Gets the draw order of this map polygon relative to other map polygons. Default 
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="fillColor">
-<a href="../mapview/MapPolygon/fillColor.html">/sdk-for-flutter-explore-mapview-mappolygon-fillcolor</a>
+/sdk-for-flutter-explore-mapview-mappolygon-fillcolor
 ↔ Color
 </dt>
 <dd>
@@ -113,8 +114,8 @@ Gets the current color of the fill.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="geometry">
-<a href="../mapview/MapPolygon/geometry.html">/sdk-for-flutter-explore-mapview-mappolygon-geometry</a>
-↔ <a href="../core/GeoPolygon-class.html">/sdk-for-flutter-explore-core-geopolygon-class</a>
+/sdk-for-flutter-explore-mapview-mappolygon-geometry
+↔ /sdk-for-flutter-explore-core-geopolygon-class
 </dt>
 <dd>
   The geometry of the polygon. Setting a new geometry will update the appearance.
@@ -122,7 +123,7 @@ Gets the current geometry of the polygon.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="hashCode">
-<a href="../mapview/MapPolygon/hashCode.html">/sdk-for-flutter-explore-mapview-mappolygon-hashcode</a>
+/sdk-for-flutter-explore-mapview-mappolygon-hashcode
 → int
 </dt>
 <dd class="inherited">
@@ -130,8 +131,8 @@ Gets the current geometry of the polygon.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="metadata">
-<a href="../mapview/MapPolygon/metadata.html">/sdk-for-flutter-explore-mapview-mappolygon-metadata</a>
-↔ <a href="../core/Metadata-class.html">/sdk-for-flutter-explore-core-metadata-class</a>?
+/sdk-for-flutter-explore-mapview-mappolygon-metadata
+↔ /sdk-for-flutter-explore-core-metadata-class?
 </dt>
 <dd>
   The Metadata instance attached to this polygon, <code>null</code> by default.
@@ -139,7 +140,7 @@ Gets the Metadata instance attached to this polygon.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="outlineColor">
-<a href="../mapview/MapPolygon/outlineColor.html">/sdk-for-flutter-explore-mapview-mappolygon-outlinecolor</a>
+/sdk-for-flutter-explore-mapview-mappolygon-outlinecolor
 ↔ Color
 </dt>
 <dd>
@@ -148,7 +149,7 @@ Gets the color of the polygon outline. The default outline color is opaque white
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="outlineWidth">
-<a href="../mapview/MapPolygon/outlineWidth.html">/sdk-for-flutter-explore-mapview-mappolygon-outlinewidth</a>
+/sdk-for-flutter-explore-mapview-mappolygon-outlinewidth
 ↔ double
 </dt>
 <dd>
@@ -157,7 +158,7 @@ Gets the outline width of the polygon in pixels.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../mapview/MapPolygon/runtimeType.html">/sdk-for-flutter-explore-mapview-mappolygon-runtimetype</a>
+/sdk-for-flutter-explore-mapview-mappolygon-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -165,8 +166,8 @@ Gets the outline width of the polygon in pixels.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="visibilityRanges">
-<a href="../mapview/MapPolygon/visibilityRanges.html">/sdk-for-flutter-explore-mapview-mappolygon-visibilityranges</a>
-↔ List&lt;<wbr/><a href="../mapview/MapMeasureRange-class.html">/sdk-for-flutter-explore-mapview-mapmeasurerange-class</a>&gt;
+/sdk-for-flutter-explore-mapview-mappolygon-visibilityranges
+↔ List&lt;<wbr/>/sdk-for-flutter-explore-mapview-mapmeasurerange-class&gt;
 </dt>
 <dd>
   The list of visibility ranges. The map polygon is visible only inside these map measure ranges.
@@ -180,7 +181,7 @@ ranges. When empty (the default), the map polygon is visible without map measure
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../mapview/MapPolygon/noSuchMethod.html">/sdk-for-flutter-explore-mapview-mappolygon-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-mapview-mappolygon-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -189,7 +190,7 @@ ranges. When empty (the default), the map polygon is visible without map measure
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../mapview/MapPolygon/toString.html">/sdk-for-flutter-explore-mapview-mappolygon-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-mapview-mappolygon-tostring(<wbr/>)
     → String
 
 </dt>
@@ -203,7 +204,7 @@ ranges. When empty (the default), the map polygon is visible without map measure
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-<a href="../mapview/MapPolygon/operator_equals.html">/sdk-for-flutter-explore-mapview-mappolygon-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-mapview-mappolygon-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -221,8 +222,8 @@ ranges. When empty (the default), the map polygon is visible without map measure
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
 <li class="self-crumb">MapPolygon class</li>
 </ol>
 <h5>mapview library</h5>
@@ -239,4 +240,5 @@ ranges. When empty (the default), the map polygon is visible without map measure
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

@@ -3,7 +3,8 @@ title: "PolygonTileDataSource constructor"
 slug: "sdk-for-flutter-explore-mapview-datasource-polygontiledatasource-polygontiledatasource"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- PolygonTileDataSource.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-datasource-polygontiledatasource-polygont
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
-<li><a href="../../mapview.datasource/PolygonTileDataSource-class.html">/sdk-for-flutter-explore-mapview-datasource-polygontiledatasource-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-polygontiledatasource-class</li>
 <li class="self-crumb">PolygonTileDataSource constructor</li>
 </ol>
 <div class="self-name">PolygonTileDataSource</div>
@@ -47,9 +48,9 @@ PolygonTileDataSource(<wbr/>)
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
-<li><a href="../../mapview.datasource/PolygonTileDataSource-class.html">/sdk-for-flutter-explore-mapview-datasource-polygontiledatasource-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-polygontiledatasource-class</li>
 <li class="self-crumb">PolygonTileDataSource constructor</li>
 </ol>
 <h5>PolygonTileDataSource class</h5>
@@ -66,4 +67,5 @@ PolygonTileDataSource(<wbr/>)
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "RefreshRouteOptions.withTransportMode constructor"
 slug: "sdk-for-flutter-explore-routing-refreshrouteoptions-refreshrouteoptions-withtransportmode"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- RefreshRouteOptions.withTransportMode.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-routing-refreshrouteoptions-refreshrouteoptions-w
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/RefreshRouteOptions-class.html">/sdk-for-flutter-explore-routing-refreshrouteoptions-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-refreshrouteoptions-class</li>
 <li class="self-crumb">RefreshRouteOptions.withTransportMode factory constructor</li>
 </ol>
 <div class="self-name">RefreshRouteOptions.withTransportMode</div>
@@ -37,11 +38,11 @@ menu
 <div>
 <h1>RefreshRouteOptions.withTransportMode constructor</h1></div>
 <section class="multi-line-signature">
-RefreshRouteOptions.withTransportMode(<wbr/><ol class="parameter-list single-line"> <li><a href="../../transport/TransportMode.html">/sdk-for-flutter-explore-transport-transportmode</a> transportMode</li>
+RefreshRouteOptions.withTransportMode(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-transport-transportmode transportMode</li>
 </ol>)
     </section>
 <section class="desc markdown">
-<p>Constructs a RefreshRouteOptions object with <a href="../../transport/TransportMode.html">/sdk-for-flutter-explore-transport-transportmode</a>.</p>
+<p>Constructs a RefreshRouteOptions object with /sdk-for-flutter-explore-transport-transportmode.</p>
 <ul>
 <li><code>transportMode</code> Updates the transport mode for the route.</li>
 </ul>
@@ -58,9 +59,9 @@ RefreshRouteOptions.withTransportMode(<wbr/><ol class="parameter-list single-lin
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/RefreshRouteOptions-class.html">/sdk-for-flutter-explore-routing-refreshrouteoptions-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-refreshrouteoptions-class</li>
 <li class="self-crumb">RefreshRouteOptions.withTransportMode factory constructor</li>
 </ol>
 <h5>RefreshRouteOptions class</h5>
@@ -77,4 +78,5 @@ RefreshRouteOptions.withTransportMode(<wbr/><ol class="parameter-list single-lin
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

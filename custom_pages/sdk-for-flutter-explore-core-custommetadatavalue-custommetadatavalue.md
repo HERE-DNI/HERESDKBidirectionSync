@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "CustomMetadataValue constructor"
 slug: "sdk-for-flutter-explore-core-custommetadatavalue-custommetadatavalue"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- CustomMetadataValue.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-core-custommetadatavalue-custommetadatavalue"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
-<li><a href="../../core/CustomMetadataValue-class.html">/sdk-for-flutter-explore-core-custommetadatavalue-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
+<li>/sdk-for-flutter-explore-core-custommetadatavalue-class</li>
 <li class="self-crumb">CustomMetadataValue factory constructor</li>
 </ol>
 <div class="self-name">CustomMetadataValue</div>
@@ -65,9 +66,9 @@ to a map item.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
-<li><a href="../../core/CustomMetadataValue-class.html">/sdk-for-flutter-explore-core-custommetadatavalue-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
+<li>/sdk-for-flutter-explore-core-custommetadatavalue-class</li>
 <li class="self-crumb">CustomMetadataValue factory constructor</li>
 </ol>
 <h5>CustomMetadataValue class</h5>
@@ -84,4 +85,5 @@ to a map item.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

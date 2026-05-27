@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "StructuredQuery class"
 slug: "sdk-for-flutter-explore-search-structuredquery-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- StructuredQuery-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -28,8 +29,8 @@ slug: "sdk-for-flutter-explore-search-structuredquery-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
 <li class="self-crumb">StructuredQuery class</li>
 </ol>
 <div class="self-name">StructuredQuery</div>
@@ -62,7 +63,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="StructuredQuery">
-<a href="../search/StructuredQuery/StructuredQuery.html">/sdk-for-flutter-explore-search-structuredquery-structuredquery</a>(String query, <a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a> areaCenter)
+/sdk-for-flutter-explore-search-structuredquery-structuredquery(String query, /sdk-for-flutter-explore-core-geocoordinates-class areaCenter)
 </dt>
 <dd>
 </dd>
@@ -72,23 +73,23 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="addressElements">
-<a href="../search/StructuredQuery/addressElements.html">/sdk-for-flutter-explore-search-structuredquery-addresselements</a>
-↔ <a href="../search/StructuredQueryAddressElements-class.html">/sdk-for-flutter-explore-search-structuredqueryaddresselements-class</a>
+/sdk-for-flutter-explore-search-structuredquery-addresselements
+↔ /sdk-for-flutter-explore-search-structuredqueryaddresselements-class
 </dt>
 <dd>
   Query address elements to get the results from a specific geographical area.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="areaCenter">
-<a href="../search/StructuredQuery/areaCenter.html">/sdk-for-flutter-explore-search-structuredquery-areacenter</a>
-↔ <a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>
+/sdk-for-flutter-explore-search-structuredquery-areacenter
+↔ /sdk-for-flutter-explore-core-geocoordinates-class
 </dt>
 <dd>
   Geographic coordinates of the prioritized area center.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-<a href="../search/StructuredQuery/hashCode.html">/sdk-for-flutter-explore-search-structuredquery-hashcode</a>
+/sdk-for-flutter-explore-search-structuredquery-hashcode
 → int
 </dt>
 <dd>
@@ -96,7 +97,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="query">
-<a href="../search/StructuredQuery/query.html">/sdk-for-flutter-explore-search-structuredquery-query</a>
+/sdk-for-flutter-explore-search-structuredquery-query
 ↔ String
 </dt>
 <dd>
@@ -104,15 +105,15 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="resultType">
-<a href="../search/StructuredQuery/resultType.html">/sdk-for-flutter-explore-search-structuredquery-resulttype</a>
-↔ <a href="../search/StructuredQueryResultType.html">/sdk-for-flutter-explore-search-structuredqueryresulttype</a>?
+/sdk-for-flutter-explore-search-structuredquery-resulttype
+↔ /sdk-for-flutter-explore-search-structuredqueryresulttype?
 </dt>
 <dd>
   An optional field to indicates the type of result expected.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../search/StructuredQuery/runtimeType.html">/sdk-for-flutter-explore-search-structuredquery-runtimetype</a>
+/sdk-for-flutter-explore-search-structuredquery-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -125,7 +126,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../search/StructuredQuery/noSuchMethod.html">/sdk-for-flutter-explore-search-structuredquery-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-search-structuredquery-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -134,7 +135,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../search/StructuredQuery/toString.html">/sdk-for-flutter-explore-search-structuredquery-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-search-structuredquery-tostring(<wbr/>)
     → String
 
 </dt>
@@ -148,7 +149,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-<a href="../search/StructuredQuery/operator_equals.html">/sdk-for-flutter-explore-search-structuredquery-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-search-structuredquery-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -167,8 +168,8 @@ Related APIs may change for new releases without a deprecation process.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
 <li class="self-crumb">StructuredQuery class</li>
 </ol>
 <h5>search library</h5>
@@ -185,4 +186,5 @@ Related APIs may change for new releases without a deprecation process.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

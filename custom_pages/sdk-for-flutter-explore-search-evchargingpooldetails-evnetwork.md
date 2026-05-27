@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "evNetwork property"
 slug: "sdk-for-flutter-explore-search-evchargingpooldetails-evnetwork"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- evNetwork.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-search-evchargingpooldetails-evnetwork"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/EVChargingPoolDetails-class.html">/sdk-for-flutter-explore-search-evchargingpooldetails-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-evchargingpooldetails-class</li>
 <li class="self-crumb">evNetwork property</li>
 </ol>
 <div class="self-name">evNetwork</div>
@@ -58,9 +59,9 @@ Note: not all stations participate in a network.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/EVChargingPoolDetails-class.html">/sdk-for-flutter-explore-search-evchargingpooldetails-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-evchargingpooldetails-class</li>
 <li class="self-crumb">evNetwork property</li>
 </ol>
 <h5>EVChargingPoolDetails class</h5>
@@ -77,4 +78,5 @@ Note: not all stations participate in a network.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

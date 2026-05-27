@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "TranslucentMapLayerGroup.create constructor"
 slug: "sdk-for-flutter-explore-mapview-translucentmaplayergroup-translucentmaplayergroup-create"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- TranslucentMapLayerGroup.create.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-translucentmaplayergroup-translucentmapla
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/TranslucentMapLayerGroup-class.html">/sdk-for-flutter-explore-mapview-translucentmaplayergroup-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-translucentmaplayergroup-class</li>
 <li class="self-crumb">TranslucentMapLayerGroup.create factory constructor</li>
 </ol>
 <div class="self-name">TranslucentMapLayerGroup.create</div>
@@ -38,20 +39,20 @@ menu
 <h1>TranslucentMapLayerGroup.create constructor</h1></div>
 <section class="multi-line-signature">
 TranslucentMapLayerGroup.create(<wbr/><ol class="parameter-list single-line"> <li>String name, </li>
-<li><a href="../../mapview/HereMapControllerCore-class.html">/sdk-for-flutter-explore-mapview-heremapcontrollercore-class</a> aMap</li>
+<li>/sdk-for-flutter-explore-mapview-heremapcontrollercore-class aMap</li>
 </ol>)
     </section>
 <section class="desc markdown">
 <p>Creates an instance of the group.</p>
 <ul>
 <li>
-<p><code>name</code> Name of the group. Must be unique across <a href="../../mapview/MapLayer-class.html">/sdk-for-flutter-explore-mapview-maplayer-class</a> and <a href="../../mapview/TranslucentMapLayerGroup-class.html">/sdk-for-flutter-explore-mapview-translucentmaplayergroup-class</a>.</p>
+<p><code>name</code> Name of the group. Must be unique across /sdk-for-flutter-explore-mapview-maplayer-class and /sdk-for-flutter-explore-mapview-translucentmaplayergroup-class.</p>
 </li>
 <li>
 <p><code>aMap</code> The map to attach the group to.</p>
 </li>
 </ul>
-<p>Throws <a href="../../mapview/TranslucentMapLayerGroupInstantiationException-class.html">/sdk-for-flutter-explore-mapview-translucentmaplayergroupinstantiationexception-class</a>. In case of invalid input parameters.</p>
+<p>Throws /sdk-for-flutter-explore-mapview-translucentmaplayergroupinstantiationexception-class. In case of invalid input parameters.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -65,9 +66,9 @@ TranslucentMapLayerGroup.create(<wbr/><ol class="parameter-list single-line"> <l
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/TranslucentMapLayerGroup-class.html">/sdk-for-flutter-explore-mapview-translucentmaplayergroup-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-translucentmaplayergroup-class</li>
 <li class="self-crumb">TranslucentMapLayerGroup.create factory constructor</li>
 </ol>
 <h5>TranslucentMapLayerGroup class</h5>
@@ -84,4 +85,5 @@ TranslucentMapLayerGroup.create(<wbr/><ol class="parameter-list single-line"> <l
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

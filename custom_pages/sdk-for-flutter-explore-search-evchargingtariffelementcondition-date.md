@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "date property"
 slug: "sdk-for-flutter-explore-search-evchargingtariffelementcondition-date"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- date.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-search-evchargingtariffelementcondition-date"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/EVChargingTariffElementCondition-class.html">/sdk-for-flutter-explore-search-evchargingtariffelementcondition-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-evchargingtariffelementcondition-class</li>
 <li class="self-crumb">date property</li>
 </ol>
 <div class="self-name">date</div>
@@ -37,7 +38,7 @@ menu
 <div>
 <h1>date property</h1></div>
 <section class="multi-line-signature">
-<a href="../../search/DateRange-class.html">/sdk-for-flutter-explore-search-daterange-class</a>?
+/sdk-for-flutter-explore-search-daterange-class?
         date
 <div class="features">getter/setter pair</div>
 </section>
@@ -58,9 +59,9 @@ spot prices, together with time period.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/EVChargingTariffElementCondition-class.html">/sdk-for-flutter-explore-search-evchargingtariffelementcondition-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-evchargingtariffelementcondition-class</li>
 <li class="self-crumb">date property</li>
 </ol>
 <h5>EVChargingTariffElementCondition class</h5>
@@ -77,4 +78,5 @@ spot prices, together with time period.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

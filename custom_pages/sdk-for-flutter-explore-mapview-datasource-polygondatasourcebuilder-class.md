@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "PolygonDataSourceBuilder class abstract"
 slug: "sdk-for-flutter-explore-mapview-datasource-polygondatasourcebuilder-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- PolygonDataSourceBuilder-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -28,8 +29,8 @@ slug: "sdk-for-flutter-explore-mapview-datasource-polygondatasourcebuilder-class
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
 <li class="self-crumb">PolygonDataSourceBuilder class</li>
 </ol>
 <div class="self-name">PolygonDataSourceBuilder</div>
@@ -61,7 +62,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="PolygonDataSourceBuilder">
-<a href="../mapview.datasource/PolygonDataSourceBuilder/PolygonDataSourceBuilder.html">/sdk-for-flutter-explore-mapview-datasource-polygondatasourcebuilder-polygondatasourcebuilder</a>(<a href="../mapview/MapContext-class.html">/sdk-for-flutter-explore-mapview-mapcontext-class</a> context)
+/sdk-for-flutter-explore-mapview-datasource-polygondatasourcebuilder-polygondatasourcebuilder(/sdk-for-flutter-explore-mapview-mapcontext-class context)
 </dt>
 <dd>
           Creates a data source builder instance in the given context.
@@ -73,7 +74,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="hashCode">
-<a href="../mapview.datasource/PolygonDataSourceBuilder/hashCode.html">/sdk-for-flutter-explore-mapview-datasource-polygondatasourcebuilder-hashcode</a>
+/sdk-for-flutter-explore-mapview-datasource-polygondatasourcebuilder-hashcode
 → int
 </dt>
 <dd class="inherited">
@@ -81,7 +82,7 @@ behavior. Related APIs may change for new releases without a deprecation process
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../mapview.datasource/PolygonDataSourceBuilder/runtimeType.html">/sdk-for-flutter-explore-mapview-datasource-polygondatasourcebuilder-runtimetype</a>
+/sdk-for-flutter-explore-mapview-datasource-polygondatasourcebuilder-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -94,8 +95,9 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable" id="build">
-<a href="../mapview.datasource/PolygonDataSourceBuilder/build.html">/sdk-for-flutter-explore-mapview-datasource-polygondatasourcebuilder-build</a>(<wbr/>)
-    → <a href="../mapview.datasource/PolygonDataSource-class.html">/sdk-for-flutter-explore-mapview-datasource-polygondatasource-class</a>
+/sdk-for-flutter-explore-mapview-datasource-polygondatasourcebuilder-build(<wbr/>)
+    → /sdk-for-flutter-explore-mapview-datasource-polygondatasource-class
+
 </dt>
 <dd>
   Builds a PolygonDataSource instance.
@@ -103,7 +105,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 
 </dd>
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../mapview.datasource/PolygonDataSourceBuilder/noSuchMethod.html">/sdk-for-flutter-explore-mapview-datasource-polygondatasourcebuilder-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-mapview-datasource-polygondatasourcebuilder-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -112,7 +114,7 @@ behavior. Related APIs may change for new releases without a deprecation process
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../mapview.datasource/PolygonDataSourceBuilder/toString.html">/sdk-for-flutter-explore-mapview-datasource-polygondatasourcebuilder-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-mapview-datasource-polygondatasourcebuilder-tostring(<wbr/>)
     → String
 
 </dt>
@@ -121,8 +123,9 @@ behavior. Related APIs may change for new releases without a deprecation process
   <div class="features">inherited</div>
 </dd>
 <dt class="callable" id="withName">
-<a href="../mapview.datasource/PolygonDataSourceBuilder/withName.html">/sdk-for-flutter-explore-mapview-datasource-polygondatasourcebuilder-withname</a>(<wbr/>String dataSourceName)
-    → <a href="../mapview.datasource/PolygonDataSourceBuilder-class.html">/sdk-for-flutter-explore-mapview-datasource-polygondatasourcebuilder-class</a>
+/sdk-for-flutter-explore-mapview-datasource-polygondatasourcebuilder-withname(<wbr/>String dataSourceName)
+    → /sdk-for-flutter-explore-mapview-datasource-polygondatasourcebuilder-class
+
 </dt>
 <dd>
   Configures the builder to use the given name for data source.
@@ -130,8 +133,9 @@ behavior. Related APIs may change for new releases without a deprecation process
 
 </dd>
 <dt class="callable" id="withPolygon">
-<a href="../mapview.datasource/PolygonDataSourceBuilder/withPolygon.html">/sdk-for-flutter-explore-mapview-datasource-polygondatasourcebuilder-withpolygon</a>(<wbr/><a href="../mapview.datasource/PolygonData-class.html">/sdk-for-flutter-explore-mapview-datasource-polygondata-class</a> polygon)
-    → <a href="../mapview.datasource/PolygonDataSourceBuilder-class.html">/sdk-for-flutter-explore-mapview-datasource-polygondatasourcebuilder-class</a>
+/sdk-for-flutter-explore-mapview-datasource-polygondatasourcebuilder-withpolygon(<wbr/>/sdk-for-flutter-explore-mapview-datasource-polygondata-class polygon)
+    → /sdk-for-flutter-explore-mapview-datasource-polygondatasourcebuilder-class
+
 </dt>
 <dd>
   Configures the builder to insert the given polygon in the data source.
@@ -139,8 +143,9 @@ behavior. Related APIs may change for new releases without a deprecation process
 
 </dd>
 <dt class="callable" id="withPolygons">
-<a href="../mapview.datasource/PolygonDataSourceBuilder/withPolygons.html">/sdk-for-flutter-explore-mapview-datasource-polygondatasourcebuilder-withpolygons</a>(<wbr/>List&lt;<wbr/><a href="../mapview.datasource/PolygonData-class.html">/sdk-for-flutter-explore-mapview-datasource-polygondata-class</a>&gt; polygon)
-    → <a href="../mapview.datasource/PolygonDataSourceBuilder-class.html">/sdk-for-flutter-explore-mapview-datasource-polygondatasourcebuilder-class</a>
+/sdk-for-flutter-explore-mapview-datasource-polygondatasourcebuilder-withpolygons(<wbr/>List&lt;<wbr/>/sdk-for-flutter-explore-mapview-datasource-polygondata-class&gt; polygon)
+    → /sdk-for-flutter-explore-mapview-datasource-polygondatasourcebuilder-class
+
 </dt>
 <dd>
   Configures the builder to insert the given polygons in the data source.
@@ -153,7 +158,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-<a href="../mapview.datasource/PolygonDataSourceBuilder/operator_equals.html">/sdk-for-flutter-explore-mapview-datasource-polygondatasourcebuilder-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-mapview-datasource-polygondatasourcebuilder-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -171,8 +176,8 @@ behavior. Related APIs may change for new releases without a deprecation process
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
 <li class="self-crumb">PolygonDataSourceBuilder class</li>
 </ol>
 <h5>mapview.datasource library</h5>
@@ -189,4 +194,5 @@ behavior. Related APIs may change for new releases without a deprecation process
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

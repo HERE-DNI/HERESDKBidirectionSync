@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "action property"
 slug: "sdk-for-flutter-explore-routing-maneuver-action"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- action.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-routing-maneuver-action"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/Maneuver-class.html">/sdk-for-flutter-explore-routing-maneuver-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-maneuver-class</li>
 <li class="self-crumb">action property</li>
 </ol>
 <div class="self-name">action</div>
@@ -38,7 +39,7 @@ menu
 <h1>action property</h1></div>
 <section id="getter">
 <section class="multi-line-signature">
-<a href="../../routing/ManeuverAction.html">/sdk-for-flutter-explore-routing-maneuveraction</a>
+/sdk-for-flutter-explore-routing-maneuveraction
 action
 </section>
 <section class="desc markdown">
@@ -58,9 +59,9 @@ Gets the maneuver action.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/Maneuver-class.html">/sdk-for-flutter-explore-routing-maneuver-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-maneuver-class</li>
 <li class="self-crumb">action property</li>
 </ol>
 <h5>Maneuver class</h5>
@@ -77,4 +78,5 @@ Gets the maneuver action.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

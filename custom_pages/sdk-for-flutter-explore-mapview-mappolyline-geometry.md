@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "geometry property"
 slug: "sdk-for-flutter-explore-mapview-mappolyline-geometry"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- geometry.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-mappolyline-geometry"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapPolyline-class.html">/sdk-for-flutter-explore-mapview-mappolyline-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mappolyline-class</li>
 <li class="self-crumb">geometry property</li>
 </ol>
 <div class="self-name">geometry</div>
@@ -38,7 +39,7 @@ menu
 <h1>geometry property</h1></div>
 <section id="getter">
 <section class="multi-line-signature">
-<a href="../../core/GeoPolyline-class.html">/sdk-for-flutter-explore-core-geopolyline-class</a>
+/sdk-for-flutter-explore-core-geopolyline-class
 geometry
 </section>
 <section class="desc markdown">
@@ -53,7 +54,7 @@ Gets the geometry of the polyline.</p>
 <section id="setter">
 <section class="multi-line-signature">
 void
-geometry=(<wbr/><a href="../../core/GeoPolyline-class.html">/sdk-for-flutter-explore-core-geopolyline-class</a> value)
+geometry=(<wbr/>/sdk-for-flutter-explore-core-geopolyline-class value)
 </section>
 <section class="desc markdown">
 <p>The list of vertices that represent the geometry of the polyline.
@@ -72,9 +73,9 @@ Sets the geometry of the polyline. Altitude component of <code>GeoPolyline</code
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapPolyline-class.html">/sdk-for-flutter-explore-mapview-mappolyline-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mappolyline-class</li>
 <li class="self-crumb">geometry property</li>
 </ol>
 <h5>MapPolyline class</h5>
@@ -91,4 +92,5 @@ Sets the geometry of the polyline. Altitude component of <code>GeoPolyline</code
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

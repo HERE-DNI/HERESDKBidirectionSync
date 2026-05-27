@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "EVSearchEngine class abstract"
 slug: "sdk-for-flutter-explore-search-evsearchengine-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- EVSearchEngine-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -27,8 +28,8 @@ slug: "sdk-for-flutter-explore-search-evsearchengine-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
 <li class="self-crumb">EVSearchEngine class</li>
 </ol>
 <div class="self-name">EVSearchEngine</div>
@@ -64,7 +65,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <dt>Implemented types</dt>
 <dd>
 <ul class="comma-separated clazz-relationships">
-<li><a href="../search/EVSearchInterface-class.html">/sdk-for-flutter-explore-search-evsearchinterface-class</a></li>
+<li>/sdk-for-flutter-explore-search-evsearchinterface-class</li>
 </ul>
 </dd>
 </dl>
@@ -73,14 +74,14 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="EVSearchEngine">
-<a href="../search/EVSearchEngine/EVSearchEngine.html">/sdk-for-flutter-explore-search-evsearchengine-evsearchengine</a>()
+/sdk-for-flutter-explore-search-evsearchengine-evsearchengine()
 </dt>
 <dd>
           Creates a new instance of this class.
             <div class="constructor-modifier features">factory</div>
 </dd>
 <dt class="callable" id="EVSearchEngine.withSdkEngine">
-<a href="../search/EVSearchEngine/EVSearchEngine.withSdkEngine.html">/sdk-for-flutter-explore-search-evsearchengine-evsearchengine-withsdkengine</a>(<a href="../core.engine/SDKNativeEngine-class.html">/sdk-for-flutter-explore-core-engine-sdknativeengine-class</a> sdkEngine)
+/sdk-for-flutter-explore-search-evsearchengine-evsearchengine-withsdkengine(/sdk-for-flutter-explore-core-engine-sdknativeengine-class sdkEngine)
 </dt>
 <dd>
           Creates a new instance of this class.
@@ -92,7 +93,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="hashCode">
-<a href="../search/EVSearchInterface/hashCode.html">/sdk-for-flutter-explore-search-evsearchinterface-hashcode</a>
+/sdk-for-flutter-explore-search-evsearchinterface-hashcode
 → int
 </dt>
 <dd class="inherited">
@@ -100,7 +101,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../search/EVSearchInterface/runtimeType.html">/sdk-for-flutter-explore-search-evsearchinterface-runtimetype</a>
+/sdk-for-flutter-explore-search-evsearchinterface-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -113,7 +114,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../search/EVSearchInterface/noSuchMethod.html">/sdk-for-flutter-explore-search-evsearchinterface-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-search-evsearchinterface-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -122,15 +123,16 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="search">
-<a href="../search/EVSearchInterface/search.html">/sdk-for-flutter-explore-search-evsearchinterface-search</a>(<wbr/>List&lt;<wbr/>String&gt; ids, <a href="../search/EVSearchCallback.html">/sdk-for-flutter-explore-search-evsearchcallback</a> callback)
-    → <a href="../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a>
+/sdk-for-flutter-explore-search-evsearchinterface-search(<wbr/>List&lt;<wbr/>String&gt; ids, /sdk-for-flutter-explore-search-evsearchcallback callback)
+    → /sdk-for-flutter-explore-core-threading-taskhandle-class
+
 </dt>
 <dd class="inherited">
-  Performs an asynchronous request for <a href="../search/EVChargingLocation-class.html">/sdk-for-flutter-explore-search-evcharginglocation-class</a> instances with given Place IDs.
+  Performs an asynchronous request for /sdk-for-flutter-explore-search-evcharginglocation-class instances with given Place IDs.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable" id="setOptions">
-<a href="../search/EVSearchEngine/setOptions.html">/sdk-for-flutter-explore-search-evsearchengine-setoptions</a>(<wbr/><a href="../search/EVSearchOptions-class.html">/sdk-for-flutter-explore-search-evsearchoptions-class</a> options)
+/sdk-for-flutter-explore-search-evsearchengine-setoptions(<wbr/>/sdk-for-flutter-explore-search-evsearchoptions-class options)
     → void
 
 </dt>
@@ -140,7 +142,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../search/EVSearchInterface/toString.html">/sdk-for-flutter-explore-search-evsearchinterface-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-search-evsearchinterface-tostring(<wbr/>)
     → String
 
 </dt>
@@ -154,7 +156,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-<a href="../search/EVSearchInterface/operator_equals.html">/sdk-for-flutter-explore-search-evsearchinterface-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-search-evsearchinterface-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -172,8 +174,8 @@ Related APIs may change for new releases without a deprecation process.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
 <li class="self-crumb">EVSearchEngine class</li>
 </ol>
 <h5>search library</h5>
@@ -190,4 +192,5 @@ Related APIs may change for new releases without a deprecation process.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

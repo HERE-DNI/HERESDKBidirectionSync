@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "locale property"
 slug: "sdk-for-flutter-explore-core-localizedtext-locale"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- locale.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-core-localizedtext-locale"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
-<li><a href="../../core/LocalizedText-class.html">/sdk-for-flutter-explore-core-localizedtext-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
+<li>/sdk-for-flutter-explore-core-localizedtext-class</li>
 <li class="self-crumb">locale property</li>
 </ol>
 <div class="self-name">locale</div>
@@ -57,9 +58,9 @@ If locale is not supported by the platform, <code>null</code> is returned.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
-<li><a href="../../core/LocalizedText-class.html">/sdk-for-flutter-explore-core-localizedtext-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
+<li>/sdk-for-flutter-explore-core-localizedtext-class</li>
 <li class="self-crumb">locale property</li>
 </ol>
 <h5>LocalizedText class</h5>
@@ -76,4 +77,5 @@ If locale is not supported by the platform, <code>null</code> is returned.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

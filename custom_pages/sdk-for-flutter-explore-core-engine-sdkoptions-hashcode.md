@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "hashCode property"
 slug: "sdk-for-flutter-explore-core-engine-sdkoptions-hashcode"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- hashCode.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-core-engine-sdkoptions-hashcode"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
-<li><a href="../../core.engine/SDKOptions-class.html">/sdk-for-flutter-explore-core-engine-sdkoptions-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
+<li>/sdk-for-flutter-explore-core-engine-sdkoptions-class</li>
 <li class="self-crumb">hashCode property</li>
 </ol>
 <div class="self-name">hashCode</div>
@@ -49,18 +50,18 @@ hashCode
 <section class="desc markdown">
 <p>The hash code for this object.</p>
 <p>A hash code is a single integer which represents the state of the object
-that affects <a href="../../core.engine/SDKOptions/operator_equals.html">/sdk-for-flutter-explore-core-engine-sdkoptions-operator-equals</a> comparisons.</p>
+that affects /sdk-for-flutter-explore-core-engine-sdkoptions-operator-equals comparisons.</p>
 <p>All objects have hash codes.
 The default hash code implemented by <code>Object</code>
 represents only the identity of the object,
-the same way as the default <a href="../../core.engine/SDKOptions/operator_equals.html">/sdk-for-flutter-explore-core-engine-sdkoptions-operator-equals</a> implementation only considers objects
+the same way as the default /sdk-for-flutter-explore-core-engine-sdkoptions-operator-equals implementation only considers objects
 equal if they are identical (see <code>identityHashCode</code>).</p>
-<p>If <a href="../../core.engine/SDKOptions/operator_equals.html">/sdk-for-flutter-explore-core-engine-sdkoptions-operator-equals</a> is overridden to use the object state instead,
+<p>If /sdk-for-flutter-explore-core-engine-sdkoptions-operator-equals is overridden to use the object state instead,
 the hash code must also be changed to represent that state,
 otherwise the object cannot be used in hash based data structures
 like the default <code>Set</code> and <code>Map</code> implementations.</p>
 <p>Hash codes must be the same for objects that are equal to each other
-according to <a href="../../core.engine/SDKOptions/operator_equals.html">/sdk-for-flutter-explore-core-engine-sdkoptions-operator-equals</a>.
+according to /sdk-for-flutter-explore-core-engine-sdkoptions-operator-equals.
 The hash code of an object should only change if the object changes
 in a way that affects equality.
 There are no further requirements for the hash codes.
@@ -71,8 +72,8 @@ It is even technically allowed that all instances have the same hash code,
 but if clashes happen too often,
 it may reduce the efficiency of hash-based data structures
 like <code>HashSet</code> or <code>HashMap</code>.</p>
-<p>If a subclass overrides <a href="../../core.engine/SDKOptions/hashCode.html">/sdk-for-flutter-explore-core-engine-sdkoptions-hashcode</a>, it should override the
-<a href="../../core.engine/SDKOptions/operator_equals.html">/sdk-for-flutter-explore-core-engine-sdkoptions-operator-equals</a> operator as well to maintain consistency.</p>
+<p>If a subclass overrides /sdk-for-flutter-explore-core-engine-sdkoptions-hashcode, it should override the
+/sdk-for-flutter-explore-core-engine-sdkoptions-operator-equals operator as well to maintain consistency.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -108,9 +109,9 @@ int get hashCode {
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
-<li><a href="../../core.engine/SDKOptions-class.html">/sdk-for-flutter-explore-core-engine-sdkoptions-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
+<li>/sdk-for-flutter-explore-core-engine-sdkoptions-class</li>
 <li class="self-crumb">hashCode property</li>
 </ol>
 <h5>SDKOptions class</h5>
@@ -127,4 +128,5 @@ int get hashCode {
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

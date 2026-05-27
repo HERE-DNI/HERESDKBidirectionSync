@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "EVSEConnector constructor"
 slug: "sdk-for-flutter-explore-search-evseconnector-evseconnector"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- EVSEConnector.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-search-evseconnector-evseconnector"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/EVSEConnector-class.html">/sdk-for-flutter-explore-search-evseconnector-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-evseconnector-class</li>
 <li class="self-crumb">EVSEConnector constructor</li>
 </ol>
 <div class="self-name">EVSEConnector</div>
@@ -52,9 +53,9 @@ EVSEConnector(<wbr/>)
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/EVSEConnector-class.html">/sdk-for-flutter-explore-search-evseconnector-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-evseconnector-class</li>
 <li class="self-crumb">EVSEConnector constructor</li>
 </ol>
 <h5>EVSEConnector class</h5>
@@ -71,4 +72,5 @@ EVSEConnector(<wbr/>)
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

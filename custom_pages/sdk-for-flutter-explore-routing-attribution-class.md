@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "Attribution class"
 slug: "sdk-for-flutter-explore-routing-attribution-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- Attribution-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -28,8 +29,8 @@ slug: "sdk-for-flutter-explore-routing-attribution-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
 <li class="self-crumb">Attribution class</li>
 </ol>
 <div class="self-name">Attribution</div>
@@ -59,7 +60,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="Attribution">
-<a href="../routing/Attribution/Attribution.html">/sdk-for-flutter-explore-routing-attribution-attribution</a>(String id, String text, <a href="../routing/AttributionType.html">/sdk-for-flutter-explore-routing-attributiontype</a> type)
+/sdk-for-flutter-explore-routing-attribution-attribution(String id, String text, /sdk-for-flutter-explore-routing-attributiontype type)
 </dt>
 <dd>
 </dd>
@@ -69,7 +70,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="hashCode">
-<a href="../routing/Attribution/hashCode.html">/sdk-for-flutter-explore-routing-attribution-hashcode</a>
+/sdk-for-flutter-explore-routing-attribution-hashcode
 → int
 </dt>
 <dd>
@@ -77,7 +78,7 @@ menu
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="href">
-<a href="../routing/Attribution/href.html">/sdk-for-flutter-explore-routing-attribution-href</a>
+/sdk-for-flutter-explore-routing-attribution-href
 ↔ String?
 </dt>
 <dd>
@@ -85,7 +86,7 @@ menu
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hrefText">
-<a href="../routing/Attribution/hrefText.html">/sdk-for-flutter-explore-routing-attribution-hreftext</a>
+/sdk-for-flutter-explore-routing-attribution-hreftext
 ↔ String?
 </dt>
 <dd>
@@ -94,7 +95,7 @@ the entire content of the text attribute will be considered.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../routing/Attribution/runtimeType.html">/sdk-for-flutter-explore-routing-attribution-runtimetype</a>
+/sdk-for-flutter-explore-routing-attribution-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -102,7 +103,7 @@ the entire content of the text attribute will be considered.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="text">
-<a href="../routing/Attribution/text.html">/sdk-for-flutter-explore-routing-attribution-text</a>
+/sdk-for-flutter-explore-routing-attribution-text
 ↔ String
 </dt>
 <dd>
@@ -110,8 +111,8 @@ the entire content of the text attribute will be considered.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="type">
-<a href="../routing/Attribution/type.html">/sdk-for-flutter-explore-routing-attribution-type</a>
-↔ <a href="../routing/AttributionType.html">/sdk-for-flutter-explore-routing-attributiontype</a>
+/sdk-for-flutter-explore-routing-attribution-type
+↔ /sdk-for-flutter-explore-routing-attributiontype
 </dt>
 <dd>
   Attribution link type.
@@ -123,7 +124,7 @@ the entire content of the text attribute will be considered.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../routing/Attribution/noSuchMethod.html">/sdk-for-flutter-explore-routing-attribution-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-routing-attribution-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -132,7 +133,7 @@ the entire content of the text attribute will be considered.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../routing/Attribution/toString.html">/sdk-for-flutter-explore-routing-attribution-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-routing-attribution-tostring(<wbr/>)
     → String
 
 </dt>
@@ -146,7 +147,7 @@ the entire content of the text attribute will be considered.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-<a href="../routing/Attribution/operator_equals.html">/sdk-for-flutter-explore-routing-attribution-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-routing-attribution-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -165,8 +166,8 @@ the entire content of the text attribute will be considered.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
 <li class="self-crumb">Attribution class</li>
 </ol>
 <h5>routing library</h5>
@@ -183,4 +184,5 @@ the entire content of the text attribute will be considered.
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

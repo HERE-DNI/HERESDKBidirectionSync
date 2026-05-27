@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "LayerConfiguration class"
 slug: "sdk-for-flutter-explore-core-engine-layerconfiguration-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- LayerConfiguration-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -28,8 +29,8 @@ slug: "sdk-for-flutter-explore-core-engine-layerconfiguration-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
 <li class="self-crumb">LayerConfiguration class</li>
 </ol>
 <div class="self-name">LayerConfiguration</div>
@@ -56,8 +57,8 @@ menu
 <p>A class to configure which layers should be enabled or disabled in the OCM map data.</p>
 <p>Disabling a layer allows to reduce the amount of data that will be
 downloaded or prefetched from the internet, for example, when panning the map view online or when downloading maps for offline use.</p>
-<p><code>LayerConfiguration</code> changes made via <a href="../core.engine/SDKOptions-class.html">/sdk-for-flutter-explore-core-engine-sdkoptions-class</a> require <code>sdk.maploader.MapUpdater</code> to align previously downloaded content.
-To ensure that the changes in <a href="../core.engine/SDKOptions-class.html">/sdk-for-flutter-explore-core-engine-sdkoptions-class</a> affect the map data,
+<p><code>LayerConfiguration</code> changes made via /sdk-for-flutter-explore-core-engine-sdkoptions-class require <code>sdk.maploader.MapUpdater</code> to align previously downloaded content.
+To ensure that the changes in /sdk-for-flutter-explore-core-engine-sdkoptions-class affect the map data,
 it is recommended to trigger a map update. Without calling <code>mapUpdater.updateCatalog(...)</code>,
 the adjustments will apply only to future map downloads and will not impact the currently installed map data, either in the cache or in the persisted storage.
 Note that calling <code>updateCatalog(...)</code> will
@@ -93,20 +94,20 @@ implicit prefetching, such as when displaying a map view, for features in <code>
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="LayerConfiguration">
-<a href="../core.engine/LayerConfiguration/LayerConfiguration.html">/sdk-for-flutter-explore-core-engine-layerconfiguration-layerconfiguration</a>(List&lt;<wbr/><a href="../core.engine/LayerConfigurationFeature.html">/sdk-for-flutter-explore-core-engine-layerconfigurationfeature</a>&gt; enabledFeatures)
+/sdk-for-flutter-explore-core-engine-layerconfiguration-layerconfiguration(List&lt;<wbr/>/sdk-for-flutter-explore-core-engine-layerconfigurationfeature&gt; enabledFeatures)
 </dt>
 <dd>
           Initializes both, <code>enabled_features</code> and <code>implicitly_prefetched_features</code> with value passed to constructor.
             <div class="constructor-modifier features">factory</div>
 </dd>
 <dt class="callable" id="LayerConfiguration.withDefaults">
-<a href="../core.engine/LayerConfiguration/LayerConfiguration.withDefaults.html">/sdk-for-flutter-explore-core-engine-layerconfiguration-layerconfiguration-withdefaults</a>()
+/sdk-for-flutter-explore-core-engine-layerconfiguration-layerconfiguration-withdefaults()
 </dt>
 <dd>
           Initializes <code>enabled_features</code>, <code>implicitly_prefetched_features</code> and <code>on_demand_implicitly_prefetched_features</code> with it's default values.
         </dd>
 <dt class="callable" id="LayerConfiguration.withDownloadAndPrefetchFeatures">
-<a href="../core.engine/LayerConfiguration/LayerConfiguration.withDownloadAndPrefetchFeatures.html">/sdk-for-flutter-explore-core-engine-layerconfiguration-layerconfiguration-withdownloadandprefetchfeatures</a>(List&lt;<wbr/><a href="../core.engine/LayerConfigurationFeature.html">/sdk-for-flutter-explore-core-engine-layerconfigurationfeature</a>&gt; enabledFeatures, List&lt;<wbr/><a href="../core.engine/LayerConfigurationFeature.html">/sdk-for-flutter-explore-core-engine-layerconfigurationfeature</a>&gt; implicitlyPrefetchedFeatures)
+/sdk-for-flutter-explore-core-engine-layerconfiguration-layerconfiguration-withdownloadandprefetchfeatures(List&lt;<wbr/>/sdk-for-flutter-explore-core-engine-layerconfigurationfeature&gt; enabledFeatures, List&lt;<wbr/>/sdk-for-flutter-explore-core-engine-layerconfigurationfeature&gt; implicitlyPrefetchedFeatures)
 </dt>
 <dd>
           Creates a new instance.
@@ -117,8 +118,8 @@ implicit prefetching, such as when displaying a map view, for features in <code>
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="enabledFeatures">
-<a href="../core.engine/LayerConfiguration/enabledFeatures.html">/sdk-for-flutter-explore-core-engine-layerconfiguration-enabledfeatures</a>
-↔ List&lt;<wbr/><a href="../core.engine/LayerConfigurationFeature.html">/sdk-for-flutter-explore-core-engine-layerconfigurationfeature</a>&gt;
+/sdk-for-flutter-explore-core-engine-layerconfiguration-enabledfeatures
+↔ List&lt;<wbr/>/sdk-for-flutter-explore-core-engine-layerconfigurationfeature&gt;
 </dt>
 <dd>
   Specifies feature configuration for enabling list of features enabled for map download.
@@ -126,7 +127,7 @@ Empty list disables map download, as no map content specified for download in th
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-<a href="../core.engine/LayerConfiguration/hashCode.html">/sdk-for-flutter-explore-core-engine-layerconfiguration-hashcode</a>
+/sdk-for-flutter-explore-core-engine-layerconfiguration-hashcode
 → int
 </dt>
 <dd>
@@ -134,8 +135,8 @@ Empty list disables map download, as no map content specified for download in th
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="implicitlyPrefetchedFeatures">
-<a href="../core.engine/LayerConfiguration/implicitlyPrefetchedFeatures.html">/sdk-for-flutter-explore-core-engine-layerconfiguration-implicitlyprefetchedfeatures</a>
-↔ List&lt;<wbr/><a href="../core.engine/LayerConfigurationFeature.html">/sdk-for-flutter-explore-core-engine-layerconfigurationfeature</a>&gt;
+/sdk-for-flutter-explore-core-engine-layerconfiguration-implicitlyprefetchedfeatures
+↔ List&lt;<wbr/>/sdk-for-flutter-explore-core-engine-layerconfigurationfeature&gt;
 </dt>
 <dd>
   Specifies the list of features enabled for implicit and explicit map prefetch.
@@ -143,7 +144,7 @@ Implicit map prefetch will download map content for implicit prefetch features w
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../core.engine/LayerConfiguration/runtimeType.html">/sdk-for-flutter-explore-core-engine-layerconfiguration-runtimetype</a>
+/sdk-for-flutter-explore-core-engine-layerconfiguration-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -156,7 +157,7 @@ Implicit map prefetch will download map content for implicit prefetch features w
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../core.engine/LayerConfiguration/noSuchMethod.html">/sdk-for-flutter-explore-core-engine-layerconfiguration-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-core-engine-layerconfiguration-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -165,7 +166,7 @@ Implicit map prefetch will download map content for implicit prefetch features w
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../core.engine/LayerConfiguration/toString.html">/sdk-for-flutter-explore-core-engine-layerconfiguration-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-core-engine-layerconfiguration-tostring(<wbr/>)
     → String
 
 </dt>
@@ -179,7 +180,7 @@ Implicit map prefetch will download map content for implicit prefetch features w
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-<a href="../core.engine/LayerConfiguration/operator_equals.html">/sdk-for-flutter-explore-core-engine-layerconfiguration-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-core-engine-layerconfiguration-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -198,8 +199,8 @@ Implicit map prefetch will download map content for implicit prefetch features w
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
 <li class="self-crumb">LayerConfiguration class</li>
 </ol>
 <h5>core.engine library</h5>
@@ -216,4 +217,5 @@ Implicit map prefetch will download map content for implicit prefetch features w
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

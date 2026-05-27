@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "TaskHandle class abstract"
 slug: "sdk-for-flutter-explore-core-threading-taskhandle-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- TaskHandle-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -27,8 +28,8 @@ slug: "sdk-for-flutter-explore-core-threading-taskhandle-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../core.threading/core.threading-library.html">/sdk-for-flutter-explore-core-threading-core-threading-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-threading-core-threading-library</li>
 <li class="self-crumb">TaskHandle class</li>
 </ol>
 <div class="self-name">TaskHandle</div>
@@ -58,7 +59,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="TaskHandle">
-<a href="../core.threading/TaskHandle/TaskHandle.html">/sdk-for-flutter-explore-core-threading-taskhandle-taskhandle</a>(bool cancelLambda(), bool isFinishedGetLambda(), bool isCancelledGetLambda())
+/sdk-for-flutter-explore-core-threading-taskhandle-taskhandle(bool cancelLambda(), bool isFinishedGetLambda(), bool isCancelledGetLambda())
 </dt>
 <dd>
           Handle used for the manipulation of the task.
@@ -70,7 +71,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="hashCode">
-<a href="../core.threading/TaskHandle/hashCode.html">/sdk-for-flutter-explore-core-threading-taskhandle-hashcode</a>
+/sdk-for-flutter-explore-core-threading-taskhandle-hashcode
 → int
 </dt>
 <dd class="inherited">
@@ -78,7 +79,7 @@ menu
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="isCancelled">
-<a href="../core.threading/TaskHandle/isCancelled.html">/sdk-for-flutter-explore-core-threading-taskhandle-iscancelled</a>
+/sdk-for-flutter-explore-core-threading-taskhandle-iscancelled
 → bool
 </dt>
 <dd>
@@ -88,7 +89,7 @@ Gets a boolean indicating if this task is cancelled.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="isFinished">
-<a href="../core.threading/TaskHandle/isFinished.html">/sdk-for-flutter-explore-core-threading-taskhandle-isfinished</a>
+/sdk-for-flutter-explore-core-threading-taskhandle-isfinished
 → bool
 </dt>
 <dd>
@@ -99,7 +100,7 @@ Gets a boolean indicating if this task is completed.
   <div class="features">no setter</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../core.threading/TaskHandle/runtimeType.html">/sdk-for-flutter-explore-core-threading-taskhandle-runtimetype</a>
+/sdk-for-flutter-explore-core-threading-taskhandle-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -112,7 +113,7 @@ Gets a boolean indicating if this task is completed.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable" id="cancel">
-<a href="../core.threading/TaskHandle/cancel.html">/sdk-for-flutter-explore-core-threading-taskhandle-cancel</a>(<wbr/>)
+/sdk-for-flutter-explore-core-threading-taskhandle-cancel(<wbr/>)
     → bool
 
 </dt>
@@ -122,7 +123,7 @@ Gets a boolean indicating if this task is completed.
 
 </dd>
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../core.threading/TaskHandle/noSuchMethod.html">/sdk-for-flutter-explore-core-threading-taskhandle-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-core-threading-taskhandle-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -131,7 +132,7 @@ Gets a boolean indicating if this task is completed.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../core.threading/TaskHandle/toString.html">/sdk-for-flutter-explore-core-threading-taskhandle-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-core-threading-taskhandle-tostring(<wbr/>)
     → String
 
 </dt>
@@ -145,7 +146,7 @@ Gets a boolean indicating if this task is completed.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-<a href="../core.threading/TaskHandle/operator_equals.html">/sdk-for-flutter-explore-core-threading-taskhandle-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-core-threading-taskhandle-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -163,8 +164,8 @@ Gets a boolean indicating if this task is completed.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../core.threading/core.threading-library.html">/sdk-for-flutter-explore-core-threading-core-threading-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-threading-core-threading-library</li>
 <li class="self-crumb">TaskHandle class</li>
 </ol>
 <h5>core.threading library</h5>
@@ -181,4 +182,5 @@ Gets a boolean indicating if this task is completed.
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

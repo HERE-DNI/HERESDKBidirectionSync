@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "SectionNotice class"
 slug: "sdk-for-flutter-explore-routing-sectionnotice-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- SectionNotice-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -27,8 +28,8 @@ slug: "sdk-for-flutter-explore-routing-sectionnotice-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
 <li class="self-crumb">SectionNotice class</li>
 </ol>
 <div class="self-name">SectionNotice</div>
@@ -52,13 +53,13 @@ menu
 <div>
 <h1>SectionNotice class</h1></div>
 <section class="desc markdown">
-<p>Explains an issue encountered in a <a href="../routing/Section-class.html">/sdk-for-flutter-explore-routing-section-class</a>.</p>
+<p>Explains an issue encountered in a /sdk-for-flutter-explore-routing-section-class.</p>
 </section>
 <section class="summary offset-anchor" id="constructors">
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="SectionNotice">
-<a href="../routing/SectionNotice/SectionNotice.html">/sdk-for-flutter-explore-routing-sectionnotice-sectionnotice</a>(<a href="../routing/SectionNoticeCode.html">/sdk-for-flutter-explore-routing-sectionnoticecode</a> code, <a href="../routing/NoticeSeverity.html">/sdk-for-flutter-explore-routing-noticeseverity</a> severity)
+/sdk-for-flutter-explore-routing-sectionnotice-sectionnotice(/sdk-for-flutter-explore-routing-sectionnoticecode code, /sdk-for-flutter-explore-routing-noticeseverity severity)
 </dt>
 <dd>
 </dd>
@@ -68,15 +69,15 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="code">
-<a href="../routing/SectionNotice/code.html">/sdk-for-flutter-explore-routing-sectionnotice-code</a>
-↔ <a href="../routing/SectionNoticeCode.html">/sdk-for-flutter-explore-routing-sectionnoticecode</a>
+/sdk-for-flutter-explore-routing-sectionnotice-code
+↔ /sdk-for-flutter-explore-routing-sectionnoticecode
 </dt>
 <dd>
   The notice code.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-<a href="../routing/SectionNotice/hashCode.html">/sdk-for-flutter-explore-routing-sectionnotice-hashcode</a>
+/sdk-for-flutter-explore-routing-sectionnotice-hashcode
 → int
 </dt>
 <dd>
@@ -84,7 +85,7 @@ menu
   <div class="features">no setter</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../routing/SectionNotice/runtimeType.html">/sdk-for-flutter-explore-routing-sectionnotice-runtimetype</a>
+/sdk-for-flutter-explore-routing-sectionnotice-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -92,23 +93,23 @@ menu
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="severity">
-<a href="../routing/SectionNotice/severity.html">/sdk-for-flutter-explore-routing-sectionnotice-severity</a>
-↔ <a href="../routing/NoticeSeverity.html">/sdk-for-flutter-explore-routing-noticeseverity</a>
+/sdk-for-flutter-explore-routing-sectionnotice-severity
+↔ /sdk-for-flutter-explore-routing-noticeseverity
 </dt>
 <dd>
   The notice severity.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="violatedRestrictions">
-<a href="../routing/SectionNotice/violatedRestrictions.html">/sdk-for-flutter-explore-routing-sectionnotice-violatedrestrictions</a>
-↔ List&lt;<wbr/><a href="../routing/ViolatedRestriction-class.html">/sdk-for-flutter-explore-routing-violatedrestriction-class</a>&gt;
+/sdk-for-flutter-explore-routing-sectionnotice-violatedrestrictions
+↔ List&lt;<wbr/>/sdk-for-flutter-explore-routing-violatedrestriction-class&gt;
 </dt>
 <dd>
   The following property <code>violated_restrictions</code> contains the notice detail information.
 Only three types of restrictions can have notice details: time dependent restriction, vehicle restriction and transport mode restriction.
 There is no one-to-one match of the <code>SectionNotice.code</code> and these three restriction types. For example, if <code>SectionNotice.code</code> is
-<a href="../routing/SectionNoticeCode.html">/sdk-for-flutter-explore-routing-sectionnoticecode</a>, then it can be either vehicle restriction or transport mode restriction. If <code>SectionNotice.code</code> is
-<a href="../routing/SectionNoticeCode.html">/sdk-for-flutter-explore-routing-sectionnoticecode</a>, then it is time dependent restriction.
+/sdk-for-flutter-explore-routing-sectionnoticecode, then it can be either vehicle restriction or transport mode restriction. If <code>SectionNotice.code</code> is
+/sdk-for-flutter-explore-routing-sectionnoticecode, then it is time dependent restriction.
 If the section notice is none of the above-mentioned three types, then this will be an empty list.
   <div class="features">getter/setter pair</div>
 </dd>
@@ -118,7 +119,7 @@ If the section notice is none of the above-mentioned three types, then this will
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../routing/SectionNotice/noSuchMethod.html">/sdk-for-flutter-explore-routing-sectionnotice-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-routing-sectionnotice-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -127,7 +128,7 @@ If the section notice is none of the above-mentioned three types, then this will
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../routing/SectionNotice/toString.html">/sdk-for-flutter-explore-routing-sectionnotice-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-routing-sectionnotice-tostring(<wbr/>)
     → String
 
 </dt>
@@ -141,7 +142,7 @@ If the section notice is none of the above-mentioned three types, then this will
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-<a href="../routing/SectionNotice/operator_equals.html">/sdk-for-flutter-explore-routing-sectionnotice-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-routing-sectionnotice-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -160,8 +161,8 @@ If the section notice is none of the above-mentioned three types, then this will
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
 <li class="self-crumb">SectionNotice class</li>
 </ol>
 <h5>routing library</h5>
@@ -178,4 +179,5 @@ If the section notice is none of the above-mentioned three types, then this will
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "RoutePlace class"
 slug: "sdk-for-flutter-explore-routing-routeplace-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- RoutePlace-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -36,8 +37,8 @@ slug: "sdk-for-flutter-explore-routing-routeplace-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
 <li class="self-crumb">RoutePlace class</li>
 </ol>
 <div class="self-name">RoutePlace</div>
@@ -67,7 +68,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="RoutePlace">
-<a href="../routing/RoutePlace/RoutePlace.html">/sdk-for-flutter-explore-routing-routeplace-routeplace</a>(<a href="../routing/RoutePlaceType.html">/sdk-for-flutter-explore-routing-routeplacetype</a> type, <a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a> mapMatchedCoordinates)
+/sdk-for-flutter-explore-routing-routeplace-routeplace(/sdk-for-flutter-explore-routing-routeplacetype type, /sdk-for-flutter-explore-core-geocoordinates-class mapMatchedCoordinates)
 </dt>
 <dd>
           Creates a new instance.
@@ -78,25 +79,25 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="chargeInKilowattHours">
-<a href="../routing/RoutePlace/chargeInKilowattHours.html">/sdk-for-flutter-explore-routing-routeplace-chargeinkilowatthours</a>
+/sdk-for-flutter-explore-routing-routeplace-chargeinkilowatthours
 ↔ double?
 </dt>
 <dd>
   Estimated battery charge in kWh for electric vehicles when leaving this place.
-Available only if the route was calculated with <a href="../routing/ElectricVehicleOptions/ensureReachability.html">/sdk-for-flutter-explore-routing-electricvehicleoptions-ensurereachability</a> = <code>true</code>.
+Available only if the route was calculated with /sdk-for-flutter-explore-routing-electricvehicleoptions-ensurereachability = <code>true</code>.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="chargingStation">
-<a href="../routing/RoutePlace/chargingStation.html">/sdk-for-flutter-explore-routing-routeplace-chargingstation</a>
-↔ <a href="../routing/ChargingStation-class.html">/sdk-for-flutter-explore-routing-chargingstation-class</a>?
+/sdk-for-flutter-explore-routing-routeplace-chargingstation
+↔ /sdk-for-flutter-explore-routing-chargingstation-class?
 </dt>
 <dd>
   Charging station data for electric vehicles.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="displayCoordinates">
-<a href="../routing/RoutePlace/displayCoordinates.html">/sdk-for-flutter-explore-routing-routeplace-displaycoordinates</a>
-↔ <a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>?
+/sdk-for-flutter-explore-routing-routeplace-displaycoordinates
+↔ /sdk-for-flutter-explore-core-geocoordinates-class?
 </dt>
 <dd>
   Location of the Points of Interest (PoI) to be displayed in the visualization.
@@ -107,7 +108,7 @@ the display coordinates specify the location of the PoI to be displayed accurate
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-<a href="../routing/RoutePlace/hashCode.html">/sdk-for-flutter-explore-routing-routeplace-hashcode</a>
+/sdk-for-flutter-explore-routing-routeplace-hashcode
 → int
 </dt>
 <dd>
@@ -115,7 +116,7 @@ the display coordinates specify the location of the PoI to be displayed accurate
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="id">
-<a href="../routing/RoutePlace/id.html">/sdk-for-flutter-explore-routing-routeplace-id</a>
+/sdk-for-flutter-explore-routing-routeplace-id
 ↔ String?
 </dt>
 <dd>
@@ -123,15 +124,15 @@ the display coordinates specify the location of the PoI to be displayed accurate
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="mapMatchedCoordinates">
-<a href="../routing/RoutePlace/mapMatchedCoordinates.html">/sdk-for-flutter-explore-routing-routeplace-mapmatchedcoordinates</a>
-↔ <a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>
+/sdk-for-flutter-explore-routing-routeplace-mapmatchedcoordinates
+↔ /sdk-for-flutter-explore-core-geocoordinates-class
 </dt>
 <dd>
   Map-matched geographic coordinates.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="name">
-<a href="../routing/RoutePlace/name.html">/sdk-for-flutter-explore-routing-routeplace-name</a>
+/sdk-for-flutter-explore-routing-routeplace-name
 ↔ String?
 </dt>
 <dd>
@@ -139,8 +140,8 @@ the display coordinates specify the location of the PoI to be displayed accurate
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="originalCoordinates">
-<a href="../routing/RoutePlace/originalCoordinates.html">/sdk-for-flutter-explore-routing-routeplace-originalcoordinates</a>
-↔ <a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>?
+/sdk-for-flutter-explore-routing-routeplace-originalcoordinates
+↔ /sdk-for-flutter-explore-core-geocoordinates-class?
 </dt>
 <dd>
   User-defined geographic coordinates. If not available, it means this place
@@ -148,7 +149,7 @@ was added during route calculation.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="platform">
-<a href="../routing/RoutePlace/platform.html">/sdk-for-flutter-explore-routing-routeplace-platform</a>
+/sdk-for-flutter-explore-routing-routeplace-platform
 ↔ String?
 </dt>
 <dd>
@@ -156,7 +157,7 @@ was added during route calculation.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../routing/RoutePlace/runtimeType.html">/sdk-for-flutter-explore-routing-routeplace-runtimetype</a>
+/sdk-for-flutter-explore-routing-routeplace-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -164,8 +165,8 @@ was added during route calculation.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="sideOfDestination">
-<a href="../routing/RoutePlace/sideOfDestination.html">/sdk-for-flutter-explore-routing-routeplace-sideofdestination</a>
-↔ <a href="../routing/SideOfDestination.html">/sdk-for-flutter-explore-routing-sideofdestination</a>?
+/sdk-for-flutter-explore-routing-routeplace-sideofdestination
+↔ /sdk-for-flutter-explore-routing-sideofdestination?
 </dt>
 <dd>
   Side of destination: left, right or undefined.
@@ -174,15 +175,15 @@ was added during route calculation.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="type">
-<a href="../routing/RoutePlace/type.html">/sdk-for-flutter-explore-routing-routeplace-type</a>
-↔ <a href="../routing/RoutePlaceType.html">/sdk-for-flutter-explore-routing-routeplacetype</a>
+/sdk-for-flutter-explore-routing-routeplace-type
+↔ /sdk-for-flutter-explore-routing-routeplacetype
 </dt>
 <dd>
   The type of the route place.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="waypointIndex">
-<a href="../routing/RoutePlace/waypointIndex.html">/sdk-for-flutter-explore-routing-routeplace-waypointindex</a>
+/sdk-for-flutter-explore-routing-routeplace-waypointindex
 ↔ int?
 </dt>
 <dd>
@@ -197,17 +198,17 @@ route calculation by the system.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable" id="isOffRoad">
-<a href="../routing/RoutePlace/isOffRoad.html">/sdk-for-flutter-explore-routing-routeplace-isoffroad</a>(<wbr/>)
+/sdk-for-flutter-explore-routing-routeplace-isoffroad(<wbr/>)
     → bool
 
 </dt>
 <dd>
-  Checks whether the <a href="../routing/RoutePlace-class.html">/sdk-for-flutter-explore-routing-routeplace-class</a> is off-road or not.
+  Checks whether the /sdk-for-flutter-explore-routing-routeplace-class is off-road or not.
   
 
 </dd>
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../routing/RoutePlace/noSuchMethod.html">/sdk-for-flutter-explore-routing-routeplace-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-routing-routeplace-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -216,7 +217,7 @@ route calculation by the system.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../routing/RoutePlace/toString.html">/sdk-for-flutter-explore-routing-routeplace-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-routing-routeplace-tostring(<wbr/>)
     → String
 
 </dt>
@@ -230,7 +231,7 @@ route calculation by the system.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-<a href="../routing/RoutePlace/operator_equals.html">/sdk-for-flutter-explore-routing-routeplace-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-routing-routeplace-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -249,8 +250,8 @@ route calculation by the system.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
 <li class="self-crumb">RoutePlace class</li>
 </ol>
 <h5>routing library</h5>
@@ -267,4 +268,5 @@ route calculation by the system.
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

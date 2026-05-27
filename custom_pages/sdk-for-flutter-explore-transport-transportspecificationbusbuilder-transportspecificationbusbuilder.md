@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "TransportSpecificationBusBuilder constructor"
 slug: "sdk-for-flutter-explore-transport-transportspecificationbusbuilder-transportspecificationbusbuilder"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- TransportSpecificationBusBuilder.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-transport-transportspecificationbusbuilder-transp
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
-<li><a href="../../transport/TransportSpecificationBusBuilder-class.html">/sdk-for-flutter-explore-transport-transportspecificationbusbuilder-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-transport-transport-library</li>
+<li>/sdk-for-flutter-explore-transport-transportspecificationbusbuilder-class</li>
 <li class="self-crumb">TransportSpecificationBusBuilder factory constructor</li>
 </ol>
 <div class="self-name">TransportSpecificationBusBuilder</div>
@@ -54,9 +55,9 @@ TransportSpecificationBusBuilder(<wbr/>)
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
-<li><a href="../../transport/TransportSpecificationBusBuilder-class.html">/sdk-for-flutter-explore-transport-transportspecificationbusbuilder-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-transport-transport-library</li>
+<li>/sdk-for-flutter-explore-transport-transportspecificationbusbuilder-class</li>
 <li class="self-crumb">TransportSpecificationBusBuilder factory constructor</li>
 </ol>
 <h5>TransportSpecificationBusBuilder class</h5>
@@ -73,4 +74,5 @@ TransportSpecificationBusBuilder(<wbr/>)
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

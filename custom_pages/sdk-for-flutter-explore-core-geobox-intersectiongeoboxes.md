@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "intersectionGeoBoxes static method"
 slug: "sdk-for-flutter-explore-core-geobox-intersectiongeoboxes"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- intersectionGeoBoxes.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-core-geobox-intersectiongeoboxes"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
-<li><a href="../../core/GeoBox-class.html">/sdk-for-flutter-explore-core-geobox-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
+<li>/sdk-for-flutter-explore-core-geobox-class</li>
 <li class="self-crumb">intersectionGeoBoxes static method</li>
 </ol>
 <div class="self-name">intersectionGeoBoxes</div>
@@ -37,24 +38,24 @@ menu
 <div>
 <h1>intersectionGeoBoxes static method</h1></div>
 <section class="multi-line-signature">
-List&lt;<wbr/><a href="../../core/GeoBox-class.html">/sdk-for-flutter-explore-core-geobox-class</a>&gt;
-intersectionGeoBoxes(<wbr/><ol class="parameter-list single-line"> <li>List&lt;<wbr/><a href="../../core/GeoBox-class.html">/sdk-for-flutter-explore-core-geobox-class</a>&gt; geoBoxes</li>
+List&lt;<wbr/>/sdk-for-flutter-explore-core-geobox-class&gt;
+intersectionGeoBoxes(<wbr/><ol class="parameter-list single-line"> <li>List&lt;<wbr/>/sdk-for-flutter-explore-core-geobox-class&gt; geoBoxes</li>
 </ol>)
 
       
 
     </section>
 <section class="desc markdown">
-<p>Computes intersection of list of <a href="../../core/GeoBox-class.html">/sdk-for-flutter-explore-core-geobox-class</a> instances.</p>
+<p>Computes intersection of list of /sdk-for-flutter-explore-core-geobox-class instances.</p>
 <p>The altitude values are ignored.
 Limitation: Geo boxes are considered as non-intersecting if they overlap only on a single point, horizontal line or vertical line.</p>
 <p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
 Related APIs may change for new releases without a deprecation process.</p>
 <ul>
-<li><code>geoBoxes</code> List of <a href="../../core/GeoBox-class.html">/sdk-for-flutter-explore-core-geobox-class</a> instances.</li>
+<li><code>geoBoxes</code> List of /sdk-for-flutter-explore-core-geobox-class instances.</li>
 </ul>
-<p>Returns <code>List&lt;GeoBox&gt;</code>. It will be empty if there is no overlap between all the passed <a href="../../core/GeoBox-class.html">/sdk-for-flutter-explore-core-geobox-class</a> instances.</p>
-<p>Otherwise, 1 or more geo boxes covering common area by all the passed <a href="../../core/GeoBox-class.html">/sdk-for-flutter-explore-core-geobox-class</a> instances.</p>
+<p>Returns <code>List&lt;GeoBox&gt;</code>. It will be empty if there is no overlap between all the passed /sdk-for-flutter-explore-core-geobox-class instances.</p>
+<p>Otherwise, 1 or more geo boxes covering common area by all the passed /sdk-for-flutter-explore-core-geobox-class instances.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -68,9 +69,9 @@ Related APIs may change for new releases without a deprecation process.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
-<li><a href="../../core/GeoBox-class.html">/sdk-for-flutter-explore-core-geobox-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
+<li>/sdk-for-flutter-explore-core-geobox-class</li>
 <li class="self-crumb">intersectionGeoBoxes static method</li>
 </ol>
 <h5>GeoBox class</h5>
@@ -87,4 +88,5 @@ Related APIs may change for new releases without a deprecation process.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

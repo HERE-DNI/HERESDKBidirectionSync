@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "viewToGeoCoordinates abstract method"
 slug: "sdk-for-flutter-explore-mapview-mapviewbase-viewtogeocoordinates"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- viewToGeoCoordinates.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-mapviewbase-viewtogeocoordinates"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapViewBase-class.html">/sdk-for-flutter-explore-mapview-mapviewbase-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapviewbase-class</li>
 <li class="self-crumb">viewToGeoCoordinates abstract method</li>
 </ol>
 <div class="self-name">viewToGeoCoordinates</div>
@@ -37,8 +38,8 @@ menu
 <div>
 <h1>viewToGeoCoordinates abstract method</h1></div>
 <section class="multi-line-signature">
-<a href="../../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>?
-viewToGeoCoordinates(<wbr/><ol class="parameter-list single-line"> <li><a href="../../core/Point2D-class.html">/sdk-for-flutter-explore-core-point2d-class</a> viewCoordinates</li>
+/sdk-for-flutter-explore-core-geocoordinates-class?
+viewToGeoCoordinates(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-core-point2d-class viewCoordinates</li>
 </ol>)
 
       
@@ -58,7 +59,7 @@ not applied.</p>
 <ul>
 <li><code>viewCoordinates</code> Point inside the view to convert.</li>
 </ul>
-<p>Returns <a href="../../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>. The geographical coordinates under specified view point or <code>null</code> if there is no render surface attached.</p>
+<p>Returns /sdk-for-flutter-explore-core-geocoordinates-class. The geographical coordinates under specified view point or <code>null</code> if there is no render surface attached.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -72,9 +73,9 @@ not applied.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapViewBase-class.html">/sdk-for-flutter-explore-mapview-mapviewbase-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapviewbase-class</li>
 <li class="self-crumb">viewToGeoCoordinates abstract method</li>
 </ol>
 <h5>MapViewBase class</h5>
@@ -91,4 +92,5 @@ not applied.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

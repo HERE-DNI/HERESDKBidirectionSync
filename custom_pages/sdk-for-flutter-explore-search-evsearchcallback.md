@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "EVSearchCallback typedef"
 slug: "sdk-for-flutter-explore-search-evsearchcallback"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- EVSearchCallback.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,8 +12,8 @@ slug: "sdk-for-flutter-explore-search-evsearchcallback"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
 <li class="self-crumb">EVSearchCallback typedef</li>
 </ol>
 <div class="self-name">EVSearchCallback</div>
@@ -37,7 +38,7 @@ menu
 <h1>EVSearchCallback typedef</h1></div>
 <section class="multi-line-signature">
 EVSearchCallback =
-     void Function(<a href="../search/EVSearchError.html">/sdk-for-flutter-explore-search-evsearcherror</a>? error, List&lt;<wbr/><a href="../search/EVChargingLocation-class.html">/sdk-for-flutter-explore-search-evcharginglocation-class</a>&gt;? chargingLocations)
+     void Function(/sdk-for-flutter-explore-search-evsearcherror? error, List&lt;<wbr/>/sdk-for-flutter-explore-search-evcharginglocation-class&gt;? chargingLocations)
 </section>
 <section class="desc markdown">
 <p>The method that will be called on the main thread when a search operation in <code>EVSearchEngine</code>
@@ -65,8 +66,8 @@ Related APIs may change for new releases without a deprecation process.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
 <li class="self-crumb">EVSearchCallback typedef</li>
 </ol>
 <h5>search library</h5>
@@ -83,4 +84,5 @@ Related APIs may change for new releases without a deprecation process.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

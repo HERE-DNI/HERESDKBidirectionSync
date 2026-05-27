@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "name property"
 slug: "sdk-for-flutter-explore-mapview-datasource-rasterdatasourceconfiguration-name"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- name.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-datasource-rasterdatasourceconfiguration-
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
-<li><a href="../../mapview.datasource/RasterDataSourceConfiguration-class.html">/sdk-for-flutter-explore-mapview-datasource-rasterdatasourceconfiguration-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-rasterdatasourceconfiguration-class</li>
 <li class="self-crumb">name property</li>
 </ol>
 <div class="self-name">name</div>
@@ -57,9 +58,9 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
-<li><a href="../../mapview.datasource/RasterDataSourceConfiguration-class.html">/sdk-for-flutter-explore-mapview-datasource-rasterdatasourceconfiguration-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-rasterdatasourceconfiguration-class</li>
 <li class="self-crumb">name property</li>
 </ol>
 <h5>RasterDataSourceConfiguration class</h5>
@@ -76,4 +77,5 @@ menu
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

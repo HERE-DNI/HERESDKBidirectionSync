@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "trafficLights property"
 slug: "sdk-for-flutter-explore-mapview-mapfeatures-trafficlights"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- trafficLights.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-mapfeatures-trafficlights"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapFeatures-class.html">/sdk-for-flutter-explore-mapview-mapfeatures-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapfeatures-class</li>
 <li class="self-crumb">trafficLights property</li>
 </ol>
 <div class="self-name">trafficLights</div>
@@ -44,9 +45,9 @@ menu
 </section>
 <section class="desc markdown">
 <p>Traffic lights.</p>
-<p>Supports only one mode: <a href="../../mapview/MapFeatureModes/trafficLightsAll.html">/sdk-for-flutter-explore-mapview-mapfeaturemodes-trafficlightsall</a></p>
-<p>Not supported for <a href="../../mapview/MapScheme.html">/sdk-for-flutter-explore-mapview-mapscheme</a>, <a href="../../mapview/MapScheme.html">/sdk-for-flutter-explore-mapview-mapscheme</a>
-and <a href="../../mapview/MapScheme.html">/sdk-for-flutter-explore-mapview-mapscheme</a>.</p>
+<p>Supports only one mode: /sdk-for-flutter-explore-mapview-mapfeaturemodes-trafficlightsall</p>
+<p>Not supported for /sdk-for-flutter-explore-mapview-mapscheme, /sdk-for-flutter-explore-mapview-mapscheme
+and /sdk-for-flutter-explore-mapview-mapscheme.</p>
 <p>By default, traffic lights are enabled on all compatible map schemes.</p>
 </section>
 <section class="summary source-code" id="source">
@@ -61,9 +62,9 @@ and <a href="../../mapview/MapScheme.html">/sdk-for-flutter-explore-mapview-maps
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapFeatures-class.html">/sdk-for-flutter-explore-mapview-mapfeatures-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapfeatures-class</li>
 <li class="self-crumb">trafficLights property</li>
 </ol>
 <h5>MapFeatures class</h5>
@@ -80,4 +81,5 @@ and <a href="../../mapview/MapScheme.html">/sdk-for-flutter-explore-mapview-maps
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

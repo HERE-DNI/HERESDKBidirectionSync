@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "avoidCorridorArea property"
 slug: "sdk-for-flutter-explore-routing-avoidcorridorareaoptions-avoidcorridorarea"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- avoidCorridorArea.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-routing-avoidcorridorareaoptions-avoidcorridorare
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/AvoidCorridorAreaOptions-class.html">/sdk-for-flutter-explore-routing-avoidcorridorareaoptions-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-avoidcorridorareaoptions-class</li>
 <li class="self-crumb">avoidCorridorArea property</li>
 </ol>
 <div class="self-name">avoidCorridorArea</div>
@@ -37,13 +38,13 @@ menu
 <div>
 <h1>avoidCorridorArea property</h1></div>
 <section class="multi-line-signature">
-<a href="../../core/GeoCorridor-class.html">/sdk-for-flutter-explore-core-geocorridor-class</a>
+/sdk-for-flutter-explore-core-geocorridor-class
 avoidCorridorArea
 <div class="features">getter/setter pair</div>
 </section>
 <section class="desc markdown">
 <p>Area of corridor shape which routes must not cross. Strictly enforced.
-Violations are reported as <a href="../../routing/SectionNoticeCode.html">/sdk-for-flutter-explore-routing-sectionnoticecode</a>.
+Violations are reported as /sdk-for-flutter-explore-routing-sectionnoticecode.
 <strong>Note:</strong>
 This avoidance option is not supported for <code>IsolineOptions</code>. If it is defined for isoline calculation then an <code>sdk.routing.RoutingError.INVALID_PARAMETER</code> error is generated.
 Even though <code>GeoCorridor.half_width_in_meters</code> is an optional property in case of exception areas it is mandatory.
@@ -61,9 +62,9 @@ Otherwise route calculation will fail with an <code>sdk.routing.RoutingError.INV
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/AvoidCorridorAreaOptions-class.html">/sdk-for-flutter-explore-routing-avoidcorridorareaoptions-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-avoidcorridorareaoptions-class</li>
 <li class="self-crumb">avoidCorridorArea property</li>
 </ol>
 <h5>AvoidCorridorAreaOptions class</h5>
@@ -80,4 +81,5 @@ Otherwise route calculation will fail with an <code>sdk.routing.RoutingError.INV
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "TextUsageOptions class"
 slug: "sdk-for-flutter-explore-routing-textusageoptions-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- TextUsageOptions-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -27,8 +28,8 @@ slug: "sdk-for-flutter-explore-routing-textusageoptions-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
 <li class="self-crumb">TextUsageOptions class</li>
 </ol>
 <div class="self-name">TextUsageOptions</div>
@@ -58,7 +59,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="TextUsageOptions">
-<a href="../routing/TextUsageOptions/TextUsageOptions.html">/sdk-for-flutter-explore-routing-textusageoptions-textusageoptions</a>()
+/sdk-for-flutter-explore-routing-textusageoptions-textusageoptions()
 </dt>
 <dd>
 </dd>
@@ -68,7 +69,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="hashCode">
-<a href="../routing/TextUsageOptions/hashCode.html">/sdk-for-flutter-explore-routing-textusageoptions-hashcode</a>
+/sdk-for-flutter-explore-routing-textusageoptions-hashcode
 → int
 </dt>
 <dd>
@@ -76,16 +77,16 @@ menu
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="roadNumber">
-<a href="../routing/TextUsageOptions/roadNumber.html">/sdk-for-flutter-explore-routing-textusageoptions-roadnumber</a>
-↔ <a href="../routing/LocalizedTextPreference.html">/sdk-for-flutter-explore-routing-localizedtextpreference</a>
+/sdk-for-flutter-explore-routing-textusageoptions-roadnumber
+↔ /sdk-for-flutter-explore-routing-localizedtextpreference
 </dt>
 <dd>
   An option whether road number should be used when generating notification.
-Defaults to <a href="../routing/LocalizedTextPreference.html">/sdk-for-flutter-explore-routing-localizedtextpreference</a>.
+Defaults to /sdk-for-flutter-explore-routing-localizedtextpreference.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../routing/TextUsageOptions/runtimeType.html">/sdk-for-flutter-explore-routing-textusageoptions-runtimetype</a>
+/sdk-for-flutter-explore-routing-textusageoptions-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -93,21 +94,21 @@ Defaults to <a href="../routing/LocalizedTextPreference.html">/sdk-for-flutter-e
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="signpostDirection">
-<a href="../routing/TextUsageOptions/signpostDirection.html">/sdk-for-flutter-explore-routing-textusageoptions-signpostdirection</a>
-↔ <a href="../routing/LocalizedTextPreference.html">/sdk-for-flutter-explore-routing-localizedtextpreference</a>
+/sdk-for-flutter-explore-routing-textusageoptions-signpostdirection
+↔ /sdk-for-flutter-explore-routing-localizedtextpreference
 </dt>
 <dd>
   An option whether signpost direction should be used when generating notification.
-Defaults to <a href="../routing/LocalizedTextPreference.html">/sdk-for-flutter-explore-routing-localizedtextpreference</a>.
+Defaults to /sdk-for-flutter-explore-routing-localizedtextpreference.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="streetName">
-<a href="../routing/TextUsageOptions/streetName.html">/sdk-for-flutter-explore-routing-textusageoptions-streetname</a>
-↔ <a href="../routing/LocalizedTextPreference.html">/sdk-for-flutter-explore-routing-localizedtextpreference</a>
+/sdk-for-flutter-explore-routing-textusageoptions-streetname
+↔ /sdk-for-flutter-explore-routing-localizedtextpreference
 </dt>
 <dd>
   An option whether street name should be used when generating notification.
-Defaults to <a href="../routing/LocalizedTextPreference.html">/sdk-for-flutter-explore-routing-localizedtextpreference</a>.
+Defaults to /sdk-for-flutter-explore-routing-localizedtextpreference.
   <div class="features">getter/setter pair</div>
 </dd>
 </dl>
@@ -116,7 +117,7 @@ Defaults to <a href="../routing/LocalizedTextPreference.html">/sdk-for-flutter-e
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../routing/TextUsageOptions/noSuchMethod.html">/sdk-for-flutter-explore-routing-textusageoptions-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-routing-textusageoptions-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -125,7 +126,7 @@ Defaults to <a href="../routing/LocalizedTextPreference.html">/sdk-for-flutter-e
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../routing/TextUsageOptions/toString.html">/sdk-for-flutter-explore-routing-textusageoptions-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-routing-textusageoptions-tostring(<wbr/>)
     → String
 
 </dt>
@@ -139,7 +140,7 @@ Defaults to <a href="../routing/LocalizedTextPreference.html">/sdk-for-flutter-e
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-<a href="../routing/TextUsageOptions/operator_equals.html">/sdk-for-flutter-explore-routing-textusageoptions-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-routing-textusageoptions-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -158,8 +159,8 @@ Defaults to <a href="../routing/LocalizedTextPreference.html">/sdk-for-flutter-e
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
 <li class="self-crumb">TextUsageOptions class</li>
 </ol>
 <h5>routing library</h5>
@@ -176,4 +177,5 @@ Defaults to <a href="../routing/LocalizedTextPreference.html">/sdk-for-flutter-e
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

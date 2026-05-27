@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "indoorLevelChangeData property"
 slug: "sdk-for-flutter-explore-routing-indoormaneuver-indoorlevelchangedata"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- indoorLevelChangeData.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-routing-indoormaneuver-indoorlevelchangedata"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/IndoorManeuver-class.html">/sdk-for-flutter-explore-routing-indoormaneuver-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-indoormaneuver-class</li>
 <li class="self-crumb">indoorLevelChangeData property</li>
 </ol>
 <div class="self-name">indoorLevelChangeData</div>
@@ -38,7 +39,7 @@ menu
 <h1>indoorLevelChangeData property</h1></div>
 <section id="getter">
 <section class="multi-line-signature">
-<a href="../../routing/IndoorLevelChangeData-class.html">/sdk-for-flutter-explore-routing-indoorlevelchangedata-class</a>?
+/sdk-for-flutter-explore-routing-indoorlevelchangedata-class?
 indoorLevelChangeData
 </section>
 <section class="desc markdown">
@@ -58,9 +59,9 @@ Gets the level change data for this maneuver. This will be not null if the Indoo
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/IndoorManeuver-class.html">/sdk-for-flutter-explore-routing-indoormaneuver-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-indoormaneuver-class</li>
 <li class="self-crumb">indoorLevelChangeData property</li>
 </ol>
 <h5>IndoorManeuver class</h5>
@@ -77,4 +78,5 @@ Gets the level change data for this maneuver. This will be not null if the Indoo
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

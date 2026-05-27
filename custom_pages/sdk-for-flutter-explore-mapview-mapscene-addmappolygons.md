@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "addMapPolygons abstract method"
 slug: "sdk-for-flutter-explore-mapview-mapscene-addmappolygons"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- addMapPolygons.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-mapscene-addmappolygons"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapScene-class.html">/sdk-for-flutter-explore-mapview-mapscene-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapscene-class</li>
 <li class="self-crumb">addMapPolygons abstract method</li>
 </ol>
 <div class="self-name">addMapPolygons</div>
@@ -38,7 +39,7 @@ menu
 <h1>addMapPolygons abstract method</h1></div>
 <section class="multi-line-signature">
 void
-addMapPolygons(<wbr/><ol class="parameter-list single-line"> <li>List&lt;<wbr/><a href="../../mapview/MapPolygon-class.html">/sdk-for-flutter-explore-mapview-mappolygon-class</a>&gt; mapPolygons</li>
+addMapPolygons(<wbr/><ol class="parameter-list single-line"> <li>List&lt;<wbr/>/sdk-for-flutter-explore-mapview-mappolygon-class&gt; mapPolygons</li>
 </ol>)
 
       
@@ -52,7 +53,7 @@ Due to technical limitations using the MapPolygon API to add a very large number
 Adding this many polygons has a negative impact on the performance leading to stuttering of
 the app and lower frame rates.
 To work around this limitation add only map items which are in the current camera viewport.
-A guide on how to achieve this can be found towards the end of the <a href="../../mapview/MapScene-class.html">/sdk-for-flutter-explore-mapview-mapscene-class</a> class doc.</p>
+A guide on how to achieve this can be found towards the end of the /sdk-for-flutter-explore-mapview-mapscene-class class doc.</p>
 <ul>
 <li><code>mapPolygons</code> The map polygons to be added to this map scene.</li>
 </ul>
@@ -69,9 +70,9 @@ A guide on how to achieve this can be found towards the end of the <a href="../.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapScene-class.html">/sdk-for-flutter-explore-mapview-mapscene-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapscene-class</li>
 <li class="self-crumb">addMapPolygons abstract method</li>
 </ol>
 <h5>MapScene class</h5>
@@ -88,4 +89,5 @@ A guide on how to achieve this can be found towards the end of the <a href="../.
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

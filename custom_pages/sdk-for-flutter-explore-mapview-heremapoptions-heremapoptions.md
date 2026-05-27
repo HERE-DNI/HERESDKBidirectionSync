@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "HereMapOptions constructor"
 slug: "sdk-for-flutter-explore-mapview-heremapoptions-heremapoptions"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- HereMapOptions.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-heremapoptions-heremapoptions"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/HereMapOptions-class.html">/sdk-for-flutter-explore-mapview-heremapoptions-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-heremapoptions-class</li>
 <li class="self-crumb">HereMapOptions constructor</li>
 </ol>
 <div class="self-name">HereMapOptions</div>
@@ -55,9 +56,9 @@ HereMapOptions(<wbr/>)
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/HereMapOptions-class.html">/sdk-for-flutter-explore-mapview-heremapoptions-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-heremapoptions-class</li>
 <li class="self-crumb">HereMapOptions constructor</li>
 </ol>
 <h5>HereMapOptions class</h5>
@@ -74,4 +75,5 @@ HereMapOptions(<wbr/>)
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

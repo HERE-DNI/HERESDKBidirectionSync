@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "LineDataSourceLineDataProcessor typedef"
 slug: "sdk-for-flutter-explore-mapview-datasource-linedatasourcelinedataprocessor"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- LineDataSourceLineDataProcessor.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,8 +12,8 @@ slug: "sdk-for-flutter-explore-mapview-datasource-linedatasourcelinedataprocesso
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
 <li class="self-crumb">LineDataSourceLineDataProcessor typedef</li>
 </ol>
 <div class="self-name">LineDataSourceLineDataProcessor</div>
@@ -37,7 +38,7 @@ menu
 <h1>LineDataSourceLineDataProcessor typedef</h1></div>
 <section class="multi-line-signature">
 LineDataSourceLineDataProcessor =
-     bool Function(<a href="../mapview.datasource/LineDataAccessor-class.html">/sdk-for-flutter-explore-mapview-datasource-linedataaccessor-class</a> lineAccessor)
+     bool Function(/sdk-for-flutter-explore-mapview-datasource-linedataaccessor-class lineAccessor)
 </section>
 <section class="desc markdown">
 <p>Called for each line, allowing inspection, removal or update of coordinates and attributes.</p>
@@ -58,8 +59,8 @@ LineDataSourceLineDataProcessor =
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
 <li class="self-crumb">LineDataSourceLineDataProcessor typedef</li>
 </ol>
 <h5>mapview.datasource library</h5>
@@ -76,4 +77,5 @@ LineDataSourceLineDataProcessor =
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

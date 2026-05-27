@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "withCurrentWeightInKilograms abstract method"
 slug: "sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-withcurrentweightinkilograms"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- withCurrentWeightInKilograms.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-withcurr
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
-<li><a href="../../transport/VehicleSpecificationCarBuilder-class.html">/sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-transport-transport-library</li>
+<li>/sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-class</li>
 <li class="self-crumb">withCurrentWeightInKilograms abstract method</li>
 </ol>
 <div class="self-name">withCurrentWeightInKilograms</div>
@@ -37,7 +38,7 @@ menu
 <div>
 <h1>withCurrentWeightInKilograms abstract method</h1></div>
 <section class="multi-line-signature">
-<a href="../../transport/VehicleSpecificationCarBuilder-class.html">/sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-class</a>
+/sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-class
 withCurrentWeightInKilograms(<wbr/><ol class="parameter-list single-line"> <li>int currentWeightInKilograms</li>
 </ol>)
 
@@ -49,7 +50,7 @@ withCurrentWeightInKilograms(<wbr/><ol class="parameter-list single-line"> <li>i
 <ul>
 <li><code>currentWeightInKilograms</code> The vehicle current weight in kilograms.</li>
 </ul>
-<p>Returns <a href="../../transport/VehicleSpecificationCarBuilder-class.html">/sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-class</a>. The <a href="../../transport/VehicleSpecificationCarBuilder-class.html">/sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-class</a> object with the current weight set to the new value.</p>
+<p>Returns /sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-class. The /sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-class object with the current weight set to the new value.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -63,9 +64,9 @@ withCurrentWeightInKilograms(<wbr/><ol class="parameter-list single-line"> <li>i
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
-<li><a href="../../transport/VehicleSpecificationCarBuilder-class.html">/sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-transport-transport-library</li>
+<li>/sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-class</li>
 <li class="self-crumb">withCurrentWeightInKilograms abstract method</li>
 </ol>
 <h5>VehicleSpecificationCarBuilder class</h5>
@@ -82,4 +83,5 @@ withCurrentWeightInKilograms(<wbr/><ol class="parameter-list single-line"> <li>i
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "violatedRestrictions property"
 slug: "sdk-for-flutter-explore-routing-sectionnotice-violatedrestrictions"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- violatedRestrictions.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-routing-sectionnotice-violatedrestrictions"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/SectionNotice-class.html">/sdk-for-flutter-explore-routing-sectionnotice-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-sectionnotice-class</li>
 <li class="self-crumb">violatedRestrictions property</li>
 </ol>
 <div class="self-name">violatedRestrictions</div>
@@ -38,7 +39,7 @@ menu
 <h1>violatedRestrictions property</h1></div>
 <section class="multi-line-signature">
         
-        List&lt;<wbr/><a href="../../routing/ViolatedRestriction-class.html">/sdk-for-flutter-explore-routing-violatedrestriction-class</a>&gt;
+        List&lt;<wbr/>/sdk-for-flutter-explore-routing-violatedrestriction-class&gt;
 violatedRestrictions
 <div class="features">getter/setter pair</div>
 </section>
@@ -46,8 +47,8 @@ violatedRestrictions
 <p>The following property <code>violated_restrictions</code> contains the notice detail information.
 Only three types of restrictions can have notice details: time dependent restriction, vehicle restriction and transport mode restriction.
 There is no one-to-one match of the <code>SectionNotice.code</code> and these three restriction types. For example, if <code>SectionNotice.code</code> is
-<a href="../../routing/SectionNoticeCode.html">/sdk-for-flutter-explore-routing-sectionnoticecode</a>, then it can be either vehicle restriction or transport mode restriction. If <code>SectionNotice.code</code> is
-<a href="../../routing/SectionNoticeCode.html">/sdk-for-flutter-explore-routing-sectionnoticecode</a>, then it is time dependent restriction.
+/sdk-for-flutter-explore-routing-sectionnoticecode, then it can be either vehicle restriction or transport mode restriction. If <code>SectionNotice.code</code> is
+/sdk-for-flutter-explore-routing-sectionnoticecode, then it is time dependent restriction.
 If the section notice is none of the above-mentioned three types, then this will be an empty list.</p>
 </section>
 <section class="summary source-code" id="source">
@@ -62,9 +63,9 @@ If the section notice is none of the above-mentioned three types, then this will
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/SectionNotice-class.html">/sdk-for-flutter-explore-routing-sectionnotice-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-sectionnotice-class</li>
 <li class="self-crumb">violatedRestrictions property</li>
 </ol>
 <h5>SectionNotice class</h5>
@@ -81,4 +82,5 @@ If the section notice is none of the above-mentioned three types, then this will
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

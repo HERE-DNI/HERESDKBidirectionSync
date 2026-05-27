@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "PanListener class abstract"
 slug: "sdk-for-flutter-explore-gestures-panlistener-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- PanListener-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -25,8 +26,8 @@ slug: "sdk-for-flutter-explore-gestures-panlistener-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../gestures/gestures-library.html">/sdk-for-flutter-explore-gestures-gestures-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-gestures-gestures-library</li>
 <li class="self-crumb">PanListener class</li>
 </ol>
 <div class="self-name">PanListener</div>
@@ -57,7 +58,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="PanListener">
-<a href="../gestures/PanListener/PanListener.html">/sdk-for-flutter-explore-gestures-panlistener-panlistener</a>(void onPanLambda(<a href="../gestures/GestureState.html">/sdk-for-flutter-explore-gestures-gesturestate</a>, <a href="../core/Point2D-class.html">/sdk-for-flutter-explore-core-point2d-class</a>, <a href="../core/Point2D-class.html">/sdk-for-flutter-explore-core-point2d-class</a>, double))
+/sdk-for-flutter-explore-gestures-panlistener-panlistener(void onPanLambda(/sdk-for-flutter-explore-gestures-gesturestate, /sdk-for-flutter-explore-core-point2d-class, /sdk-for-flutter-explore-core-point2d-class, double))
 </dt>
 <dd>
           Abstract class for handling pan gestures.
@@ -69,7 +70,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="hashCode">
-<a href="../gestures/PanListener/hashCode.html">/sdk-for-flutter-explore-gestures-panlistener-hashcode</a>
+/sdk-for-flutter-explore-gestures-panlistener-hashcode
 → int
 </dt>
 <dd class="inherited">
@@ -77,7 +78,7 @@ menu
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../gestures/PanListener/runtimeType.html">/sdk-for-flutter-explore-gestures-panlistener-runtimetype</a>
+/sdk-for-flutter-explore-gestures-panlistener-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -90,7 +91,7 @@ menu
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../gestures/PanListener/noSuchMethod.html">/sdk-for-flutter-explore-gestures-panlistener-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-gestures-panlistener-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -99,7 +100,7 @@ menu
   <div class="features">inherited</div>
 </dd>
 <dt class="callable" id="onPan">
-<a href="../gestures/PanListener/onPan.html">/sdk-for-flutter-explore-gestures-panlistener-onpan</a>(<wbr/><a href="../gestures/GestureState.html">/sdk-for-flutter-explore-gestures-gesturestate</a> state, <a href="../core/Point2D-class.html">/sdk-for-flutter-explore-core-point2d-class</a> origin, <a href="../core/Point2D-class.html">/sdk-for-flutter-explore-core-point2d-class</a> translation, double velocity)
+/sdk-for-flutter-explore-gestures-panlistener-onpan(<wbr/>/sdk-for-flutter-explore-gestures-gesturestate state, /sdk-for-flutter-explore-core-point2d-class origin, /sdk-for-flutter-explore-core-point2d-class translation, double velocity)
     → void
 
 </dt>
@@ -109,7 +110,7 @@ menu
 
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../gestures/PanListener/toString.html">/sdk-for-flutter-explore-gestures-panlistener-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-gestures-panlistener-tostring(<wbr/>)
     → String
 
 </dt>
@@ -123,7 +124,7 @@ menu
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-<a href="../gestures/PanListener/operator_equals.html">/sdk-for-flutter-explore-gestures-panlistener-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-gestures-panlistener-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -141,8 +142,8 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../gestures/gestures-library.html">/sdk-for-flutter-explore-gestures-gestures-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-gestures-gestures-library</li>
 <li class="self-crumb">PanListener class</li>
 </ol>
 <h5>gestures library</h5>
@@ -159,4 +160,5 @@ menu
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

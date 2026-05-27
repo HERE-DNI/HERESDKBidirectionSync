@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "trafficIncidentIndexes property"
 slug: "sdk-for-flutter-explore-routing-span-trafficincidentindexes"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- trafficIncidentIndexes.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-routing-span-trafficincidentindexes"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/Span-class.html">/sdk-for-flutter-explore-routing-span-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-span-class</li>
 <li class="self-crumb">trafficIncidentIndexes property</li>
 </ol>
 <div class="self-name">trafficIncidentIndexes</div>
@@ -42,11 +43,11 @@ List&lt;<wbr/>int&gt;
 trafficIncidentIndexes
 </section>
 <section class="desc markdown">
-<p>The indexes of traffic incidents from the field <a href="../../routing/Section/trafficIncidents.html">/sdk-for-flutter-explore-routing-section-trafficincidents</a> of the parent <a href="../../routing/Section-class.html">/sdk-for-flutter-explore-routing-section-class</a>.
-Each matching incident takes at least a whole <a href="../../routing/Span/geometry.html">/sdk-for-flutter-explore-routing-span-geometry</a>.
+<p>The indexes of traffic incidents from the field /sdk-for-flutter-explore-routing-section-trafficincidents of the parent /sdk-for-flutter-explore-routing-section-class.
+Each matching incident takes at least a whole /sdk-for-flutter-explore-routing-span-geometry.
 The same incident can take other spans and an area out of the built route as well.
-The indexes of traffic incidents from the field <a href="../../routing/Section/trafficIncidents.html">/sdk-for-flutter-explore-routing-section-trafficincidents</a> of the parent <a href="../../routing/Section-class.html">/sdk-for-flutter-explore-routing-section-class</a>.
-Each matching incident takes at least a whole <a href="../../routing/Span/geometry.html">/sdk-for-flutter-explore-routing-span-geometry</a>.
+The indexes of traffic incidents from the field /sdk-for-flutter-explore-routing-section-trafficincidents of the parent /sdk-for-flutter-explore-routing-section-class.
+Each matching incident takes at least a whole /sdk-for-flutter-explore-routing-span-geometry.
 The same incident can take other spans and an area out of the built route as well.</p>
 </section>
 <section class="summary source-code" id="source">
@@ -62,9 +63,9 @@ The same incident can take other spans and an area out of the built route as wel
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/Span-class.html">/sdk-for-flutter-explore-routing-span-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-span-class</li>
 <li class="self-crumb">trafficIncidentIndexes property</li>
 </ol>
 <h5>Span class</h5>
@@ -81,4 +82,5 @@ The same incident can take other spans and an area out of the built route as wel
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

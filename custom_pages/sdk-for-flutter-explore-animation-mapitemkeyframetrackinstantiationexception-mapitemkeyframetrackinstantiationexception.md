@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "MapItemKeyFrameTrackInstantiationException constructor"
 slug: "sdk-for-flutter-explore-animation-mapitemkeyframetrackinstantiationexception-mapitemkeyframetrackinstantiationexception"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- MapItemKeyFrameTrackInstantiationException.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-animation-mapitemkeyframetrackinstantiationexcept
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../animation/animation-library.html">/sdk-for-flutter-explore-animation-animation-library</a></li>
-<li><a href="../../animation/MapItemKeyFrameTrackInstantiationException-class.html">/sdk-for-flutter-explore-animation-mapitemkeyframetrackinstantiationexception-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-animation-animation-library</li>
+<li>/sdk-for-flutter-explore-animation-mapitemkeyframetrackinstantiationexception-class</li>
 <li class="self-crumb">MapItemKeyFrameTrackInstantiationException constructor</li>
 </ol>
 <div class="self-name">MapItemKeyFrameTrackInstantiationException</div>
@@ -37,7 +38,7 @@ menu
 <div>
 <h1>MapItemKeyFrameTrackInstantiationException constructor</h1></div>
 <section class="multi-line-signature">
-MapItemKeyFrameTrackInstantiationException(<wbr/><ol class="parameter-list single-line"> <li><a href="../../animation/MapItemKeyFrameTrackInstantiationErrorCode.html">/sdk-for-flutter-explore-animation-mapitemkeyframetrackinstantiationerrorcode</a> error</li>
+MapItemKeyFrameTrackInstantiationException(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-animation-mapitemkeyframetrackinstantiationerrorcode error</li>
 </ol>)
     </section>
 <section class="summary source-code" id="source">
@@ -52,9 +53,9 @@ MapItemKeyFrameTrackInstantiationException(<wbr/><ol class="parameter-list singl
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../animation/animation-library.html">/sdk-for-flutter-explore-animation-animation-library</a></li>
-<li><a href="../../animation/MapItemKeyFrameTrackInstantiationException-class.html">/sdk-for-flutter-explore-animation-mapitemkeyframetrackinstantiationexception-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-animation-animation-library</li>
+<li>/sdk-for-flutter-explore-animation-mapitemkeyframetrackinstantiationexception-class</li>
 <li class="self-crumb">MapItemKeyFrameTrackInstantiationException constructor</li>
 </ol>
 <h5>MapItemKeyFrameTrackInstantiationException class</h5>
@@ -71,4 +72,5 @@ MapItemKeyFrameTrackInstantiationException(<wbr/><ol class="parameter-list singl
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

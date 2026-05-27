@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "GeoCoordinatesKeyframe class"
 slug: "sdk-for-flutter-explore-animation-geocoordinateskeyframe-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- GeoCoordinatesKeyframe-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -26,8 +27,8 @@ slug: "sdk-for-flutter-explore-animation-geocoordinateskeyframe-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../animation/animation-library.html">/sdk-for-flutter-explore-animation-animation-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-animation-animation-library</li>
 <li class="self-crumb">GeoCoordinatesKeyframe class</li>
 </ol>
 <div class="self-name">GeoCoordinatesKeyframe</div>
@@ -67,7 +68,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="GeoCoordinatesKeyframe">
-<a href="../animation/GeoCoordinatesKeyframe/GeoCoordinatesKeyframe.html">/sdk-for-flutter-explore-animation-geocoordinateskeyframe-geocoordinateskeyframe</a>(<a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a> value, Duration duration)
+/sdk-for-flutter-explore-animation-geocoordinateskeyframe-geocoordinateskeyframe(/sdk-for-flutter-explore-core-geocoordinates-class value, Duration duration)
 </dt>
 <dd>
           Constructs a GeoCoordinatesKeyframe from the value and offset.
@@ -79,7 +80,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="duration">
-<a href="../animation/GeoCoordinatesKeyframe/duration.html">/sdk-for-flutter-explore-animation-geocoordinateskeyframe-duration</a>
+/sdk-for-flutter-explore-animation-geocoordinateskeyframe-duration
 → Duration
 </dt>
 <dd>
@@ -88,7 +89,7 @@ Negative duration value gets clamped to 0.
   <div class="features">final</div>
 </dd>
 <dt class="property" id="hashCode">
-<a href="../animation/GeoCoordinatesKeyframe/hashCode.html">/sdk-for-flutter-explore-animation-geocoordinateskeyframe-hashcode</a>
+/sdk-for-flutter-explore-animation-geocoordinateskeyframe-hashcode
 → int
 </dt>
 <dd>
@@ -96,7 +97,7 @@ Negative duration value gets clamped to 0.
   <div class="features">no setter</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../animation/GeoCoordinatesKeyframe/runtimeType.html">/sdk-for-flutter-explore-animation-geocoordinateskeyframe-runtimetype</a>
+/sdk-for-flutter-explore-animation-geocoordinateskeyframe-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -104,8 +105,8 @@ Negative duration value gets clamped to 0.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="value">
-<a href="../animation/GeoCoordinatesKeyframe/value.html">/sdk-for-flutter-explore-animation-geocoordinateskeyframe-value</a>
-→ <a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>
+/sdk-for-flutter-explore-animation-geocoordinateskeyframe-value
+→ /sdk-for-flutter-explore-core-geocoordinates-class
 </dt>
 <dd>
   GeoCoordinates keyframe value.
@@ -118,7 +119,7 @@ Altitude component is ignored.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../animation/GeoCoordinatesKeyframe/noSuchMethod.html">/sdk-for-flutter-explore-animation-geocoordinateskeyframe-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-animation-geocoordinateskeyframe-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -127,7 +128,7 @@ Altitude component is ignored.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../animation/GeoCoordinatesKeyframe/toString.html">/sdk-for-flutter-explore-animation-geocoordinateskeyframe-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-animation-geocoordinateskeyframe-tostring(<wbr/>)
     → String
 
 </dt>
@@ -141,7 +142,7 @@ Altitude component is ignored.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-<a href="../animation/GeoCoordinatesKeyframe/operator_equals.html">/sdk-for-flutter-explore-animation-geocoordinateskeyframe-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-animation-geocoordinateskeyframe-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -160,8 +161,8 @@ Altitude component is ignored.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../animation/animation-library.html">/sdk-for-flutter-explore-animation-animation-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-animation-animation-library</li>
 <li class="self-crumb">GeoCoordinatesKeyframe class</li>
 </ol>
 <h5>animation library</h5>
@@ -178,4 +179,5 @@ Altitude component is ignored.
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

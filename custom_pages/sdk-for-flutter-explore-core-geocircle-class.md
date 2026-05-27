@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "GeoCircle class"
 slug: "sdk-for-flutter-explore-core-geocircle-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- GeoCircle-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -26,8 +27,8 @@ slug: "sdk-for-flutter-explore-core-geocircle-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
 <li class="self-crumb">GeoCircle class</li>
 </ol>
 <div class="self-name">GeoCircle</div>
@@ -67,7 +68,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="GeoCircle">
-<a href="../core/GeoCircle/GeoCircle.html">/sdk-for-flutter-explore-core-geocircle-geocircle</a>(<a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a> center, double radiusInMeters)
+/sdk-for-flutter-explore-core-geocircle-geocircle(/sdk-for-flutter-explore-core-geocoordinates-class center, double radiusInMeters)
 </dt>
 <dd>
           Creates a new instance of a GeoCircle.
@@ -79,15 +80,15 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="center">
-<a href="../core/GeoCircle/center.html">/sdk-for-flutter-explore-core-geocircle-center</a>
-→ <a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>
+/sdk-for-flutter-explore-core-geocircle-center
+→ /sdk-for-flutter-explore-core-geocoordinates-class
 </dt>
 <dd>
   Center of circle.
   <div class="features">final</div>
 </dd>
 <dt class="property" id="hashCode">
-<a href="../core/GeoCircle/hashCode.html">/sdk-for-flutter-explore-core-geocircle-hashcode</a>
+/sdk-for-flutter-explore-core-geocircle-hashcode
 → int
 </dt>
 <dd>
@@ -95,7 +96,7 @@ menu
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="radiusInMeters">
-<a href="../core/GeoCircle/radiusInMeters.html">/sdk-for-flutter-explore-core-geocircle-radiusinmeters</a>
+/sdk-for-flutter-explore-core-geocircle-radiusinmeters
 → double
 </dt>
 <dd>
@@ -103,7 +104,7 @@ menu
   <div class="features">final</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../core/GeoCircle/runtimeType.html">/sdk-for-flutter-explore-core-geocircle-runtimetype</a>
+/sdk-for-flutter-explore-core-geocircle-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -116,7 +117,7 @@ menu
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../core/GeoCircle/noSuchMethod.html">/sdk-for-flutter-explore-core-geocircle-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-core-geocircle-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -125,7 +126,7 @@ menu
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../core/GeoCircle/toString.html">/sdk-for-flutter-explore-core-geocircle-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-core-geocircle-tostring(<wbr/>)
     → String
 
 </dt>
@@ -139,7 +140,7 @@ menu
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-<a href="../core/GeoCircle/operator_equals.html">/sdk-for-flutter-explore-core-geocircle-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-core-geocircle-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -158,8 +159,8 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
 <li class="self-crumb">GeoCircle class</li>
 </ol>
 <h5>core library</h5>
@@ -176,4 +177,5 @@ menu
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

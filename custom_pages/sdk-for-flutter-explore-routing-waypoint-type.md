@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "type property"
 slug: "sdk-for-flutter-explore-routing-waypoint-type"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- type.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-routing-waypoint-type"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/Waypoint-class.html">/sdk-for-flutter-explore-routing-waypoint-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-waypoint-class</li>
 <li class="self-crumb">type property</li>
 </ol>
 <div class="self-name">type</div>
@@ -37,13 +38,13 @@ menu
 <div>
 <h1>type property</h1></div>
 <section class="multi-line-signature">
-<a href="../../routing/WaypointType.html">/sdk-for-flutter-explore-routing-waypointtype</a>
+/sdk-for-flutter-explore-routing-waypointtype
 type
 <div class="features">getter/setter pair</div>
 </section>
 <section class="desc markdown">
 <p>Defines how a waypoint should be considered for route calculation.
-The default waypoint type is <a href="../../routing/WaypointType.html">/sdk-for-flutter-explore-routing-waypointtype</a>.</p>
+The default waypoint type is /sdk-for-flutter-explore-routing-waypointtype.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -57,9 +58,9 @@ The default waypoint type is <a href="../../routing/WaypointType.html">/sdk-for-
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/Waypoint-class.html">/sdk-for-flutter-explore-routing-waypoint-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-waypoint-class</li>
 <li class="self-crumb">type property</li>
 </ol>
 <h5>Waypoint class</h5>
@@ -76,4 +77,5 @@ The default waypoint type is <a href="../../routing/WaypointType.html">/sdk-for-
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

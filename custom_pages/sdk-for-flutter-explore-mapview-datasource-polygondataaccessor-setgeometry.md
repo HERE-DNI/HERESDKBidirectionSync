@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "setGeometry abstract method"
 slug: "sdk-for-flutter-explore-mapview-datasource-polygondataaccessor-setgeometry"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- setGeometry.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-datasource-polygondataaccessor-setgeometr
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
-<li><a href="../../mapview.datasource/PolygonDataAccessor-class.html">/sdk-for-flutter-explore-mapview-datasource-polygondataaccessor-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-polygondataaccessor-class</li>
 <li class="self-crumb">setGeometry abstract method</li>
 </ol>
 <div class="self-name">setGeometry</div>
@@ -38,7 +39,7 @@ menu
 <h1>setGeometry abstract method</h1></div>
 <section class="multi-line-signature">
 void
-setGeometry(<wbr/><ol class="parameter-list single-line"> <li><a href="../../core/GeoPolygon-class.html">/sdk-for-flutter-explore-core-geopolygon-class</a> geometry</li>
+setGeometry(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-core-geopolygon-class geometry</li>
 </ol>)
 
       
@@ -67,9 +68,9 @@ The visual behaviour for self-intersecting outer boundary is undefined.</li>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
-<li><a href="../../mapview.datasource/PolygonDataAccessor-class.html">/sdk-for-flutter-explore-mapview-datasource-polygondataaccessor-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-polygondataaccessor-class</li>
 <li class="self-crumb">setGeometry abstract method</li>
 </ol>
 <h5>PolygonDataAccessor class</h5>
@@ -86,4 +87,5 @@ The visual behaviour for self-intersecting outer boundary is undefined.</li>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

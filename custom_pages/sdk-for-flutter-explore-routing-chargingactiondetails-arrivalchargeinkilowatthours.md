@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "arrivalChargeInKilowattHours property"
 slug: "sdk-for-flutter-explore-routing-chargingactiondetails-arrivalchargeinkilowatthours"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- arrivalChargeInKilowattHours.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-routing-chargingactiondetails-arrivalchargeinkilo
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/ChargingActionDetails-class.html">/sdk-for-flutter-explore-routing-chargingactiondetails-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-chargingactiondetails-class</li>
 <li class="self-crumb">arrivalChargeInKilowattHours property</li>
 </ol>
 <div class="self-name">arrivalChargeInKilowattHours</div>
@@ -44,7 +45,7 @@ menu
 </section>
 <section class="desc markdown">
 <p>Estimated vehicle battery charge before this action (in kWh).
-A valid <a href="../../routing/ChargingActionDetails-class.html">/sdk-for-flutter-explore-routing-chargingactiondetails-class</a> object will have positive <a href="../../routing/ChargingActionDetails/arrivalChargeInKilowattHours.html">/sdk-for-flutter-explore-routing-chargingactiondetails-arrivalchargeinkilowatthours</a>.
+A valid /sdk-for-flutter-explore-routing-chargingactiondetails-class object will have positive /sdk-for-flutter-explore-routing-chargingactiondetails-arrivalchargeinkilowatthours.
 Defaults to 0.</p>
 </section>
 <section class="summary source-code" id="source">
@@ -59,9 +60,9 @@ Defaults to 0.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/ChargingActionDetails-class.html">/sdk-for-flutter-explore-routing-chargingactiondetails-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-chargingactiondetails-class</li>
 <li class="self-crumb">arrivalChargeInKilowattHours property</li>
 </ol>
 <h5>ChargingActionDetails class</h5>
@@ -78,4 +79,5 @@ Defaults to 0.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

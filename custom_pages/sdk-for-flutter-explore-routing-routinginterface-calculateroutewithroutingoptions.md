@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "calculateRouteWithRoutingOptions abstract method"
 slug: "sdk-for-flutter-explore-routing-routinginterface-calculateroutewithroutingoptions"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- calculateRouteWithRoutingOptions.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-routing-routinginterface-calculateroutewithroutin
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/RoutingInterface-class.html">/sdk-for-flutter-explore-routing-routinginterface-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-routinginterface-class</li>
 <li class="self-crumb">calculateRouteWithRoutingOptions abstract method</li>
 </ol>
 <div class="self-name">calculateRouteWithRoutingOptions</div>
@@ -37,10 +38,10 @@ menu
 <div>
 <h1>calculateRouteWithRoutingOptions abstract method</h1></div>
 <section class="multi-line-signature">
-<a href="../../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a>
-calculateRouteWithRoutingOptions(<wbr/><ol class="parameter-list single-line"> <li>List&lt;<wbr/><a href="../../routing/Waypoint-class.html">/sdk-for-flutter-explore-routing-waypoint-class</a>&gt; waypoints, </li>
-<li><a href="../../routing/RoutingOptions-class.html">/sdk-for-flutter-explore-routing-routingoptions-class</a> options, </li>
-<li><a href="../../routing/CalculateRouteCallback.html">/sdk-for-flutter-explore-routing-calculateroutecallback</a> callback</li>
+/sdk-for-flutter-explore-core-threading-taskhandle-class
+calculateRouteWithRoutingOptions(<wbr/><ol class="parameter-list single-line"> <li>List&lt;<wbr/>/sdk-for-flutter-explore-routing-waypoint-class&gt; waypoints, </li>
+<li>/sdk-for-flutter-explore-routing-routingoptions-class options, </li>
+<li>/sdk-for-flutter-explore-routing-calculateroutecallback callback</li>
 </ol>)
 
       
@@ -54,9 +55,9 @@ passing through the given waypoints in the given order.</p>
 The first element marks the starting position, the last marks the destination.
 Waypoints in between are interpreted as intermediate.</li>
 </ul>
-<p>An <a href="../../routing/RoutingError.html">/sdk-for-flutter-explore-routing-routingerror</a> error is generated when the waypoint list
+<p>An /sdk-for-flutter-explore-routing-routingerror error is generated when the waypoint list
 contains less than two elements or when the first and the last waypoints are not of type
-<a href="../../routing/WaypointType.html">/sdk-for-flutter-explore-routing-waypointtype</a>.</p>
+/sdk-for-flutter-explore-routing-waypointtype.</p>
 <ul>
 <li>
 <p><code>options</code> Options describing routing options.</p>
@@ -66,7 +67,7 @@ contains less than two elements or when the first and the last waypoints are not
 It is always invoked on the main thread.</p>
 </li>
 </ul>
-<p>Returns <a href="../../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a>. Handle that will be used to manipulate the execution of the task.</p>
+<p>Returns /sdk-for-flutter-explore-core-threading-taskhandle-class. Handle that will be used to manipulate the execution of the task.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -80,9 +81,9 @@ It is always invoked on the main thread.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/RoutingInterface-class.html">/sdk-for-flutter-explore-routing-routinginterface-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-routinginterface-class</li>
 <li class="self-crumb">calculateRouteWithRoutingOptions abstract method</li>
 </ol>
 <h5>RoutingInterface class</h5>
@@ -99,4 +100,5 @@ It is always invoked on the main thread.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

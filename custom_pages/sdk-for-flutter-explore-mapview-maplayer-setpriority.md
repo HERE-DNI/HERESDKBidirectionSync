@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "setPriority abstract method"
 slug: "sdk-for-flutter-explore-mapview-maplayer-setpriority"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- setPriority.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-maplayer-setpriority"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapLayer-class.html">/sdk-for-flutter-explore-mapview-maplayer-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-maplayer-class</li>
 <li class="self-crumb">setPriority abstract method</li>
 </ol>
 <div class="self-name">setPriority</div>
@@ -38,7 +39,7 @@ menu
 <h1>setPriority abstract method</h1></div>
 <section class="multi-line-signature">
 void
-setPriority(<wbr/><ol class="parameter-list single-line"> <li><a href="../../mapview/MapLayerPriority-class.html">/sdk-for-flutter-explore-mapview-maplayerpriority-class</a> priority</li>
+setPriority(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-mapview-maplayerpriority-class priority</li>
 </ol>)
 
       
@@ -62,9 +63,9 @@ setPriority(<wbr/><ol class="parameter-list single-line"> <li><a href="../../map
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapLayer-class.html">/sdk-for-flutter-explore-mapview-maplayer-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-maplayer-class</li>
 <li class="self-crumb">setPriority abstract method</li>
 </ol>
 <h5>MapLayer class</h5>
@@ -81,4 +82,5 @@ setPriority(<wbr/><ol class="parameter-list single-line"> <li><a href="../../map
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

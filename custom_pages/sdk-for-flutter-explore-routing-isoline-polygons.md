@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "polygons property"
 slug: "sdk-for-flutter-explore-routing-isoline-polygons"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- polygons.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-routing-isoline-polygons"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/Isoline-class.html">/sdk-for-flutter-explore-routing-isoline-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-isoline-class</li>
 <li class="self-crumb">polygons property</li>
 </ol>
 <div class="self-name">polygons</div>
@@ -38,7 +39,7 @@ menu
 <h1>polygons property</h1></div>
 <section id="getter">
 <section class="multi-line-signature">
-List&lt;<wbr/><a href="../../core/GeoPolygon-class.html">/sdk-for-flutter-explore-core-geopolygon-class</a>&gt;
+List&lt;<wbr/>/sdk-for-flutter-explore-core-geopolygon-class&gt;
 polygons
 </section>
 <section class="desc markdown">
@@ -64,9 +65,9 @@ only a single polygon is included.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/Isoline-class.html">/sdk-for-flutter-explore-routing-isoline-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-isoline-class</li>
 <li class="self-crumb">polygons property</li>
 </ol>
 <h5>Isoline class</h5>
@@ -83,4 +84,5 @@ only a single polygon is included.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

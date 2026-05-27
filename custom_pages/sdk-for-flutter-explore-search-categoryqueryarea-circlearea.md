@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "circleArea property"
 slug: "sdk-for-flutter-explore-search-categoryqueryarea-circlearea"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- circleArea.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-search-categoryqueryarea-circlearea"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/CategoryQueryArea-class.html">/sdk-for-flutter-explore-search-categoryqueryarea-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-categoryqueryarea-class</li>
 <li class="self-crumb">circleArea property</li>
 </ol>
 <div class="self-name">circleArea</div>
@@ -37,7 +38,7 @@ menu
 <div>
 <h1>circleArea property</h1></div>
 <section class="multi-line-signature">
-<a href="../../core/GeoCircle-class.html">/sdk-for-flutter-explore-core-geocircle-class</a>?
+/sdk-for-flutter-explore-core-geocircle-class?
         circleArea
 <div class="features">final</div>
 </section>
@@ -56,9 +57,9 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/CategoryQueryArea-class.html">/sdk-for-flutter-explore-search-categoryqueryarea-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-categoryqueryarea-class</li>
 <li class="self-crumb">circleArea property</li>
 </ol>
 <h5>CategoryQueryArea class</h5>
@@ -75,4 +76,5 @@ menu
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

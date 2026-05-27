@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "MapSceneLoadSceneCallback typedef"
 slug: "sdk-for-flutter-explore-mapview-mapsceneloadscenecallback"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- MapSceneLoadSceneCallback.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,8 +12,8 @@ slug: "sdk-for-flutter-explore-mapview-mapsceneloadscenecallback"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
 <li class="self-crumb">MapSceneLoadSceneCallback typedef</li>
 </ol>
 <div class="self-name">MapSceneLoadSceneCallback</div>
@@ -37,7 +38,7 @@ menu
 <h1>MapSceneLoadSceneCallback typedef</h1></div>
 <section class="multi-line-signature">
 MapSceneLoadSceneCallback =
-     void Function(<a href="../mapview/MapError.html">/sdk-for-flutter-explore-mapview-maperror</a>? loadSceneError)
+     void Function(/sdk-for-flutter-explore-mapview-maperror? loadSceneError)
 </section>
 <section class="desc markdown">
 <p>Called on the main thread after <code>loadScene()</code> method finishes loading
@@ -58,8 +59,8 @@ the scene.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
 <li class="self-crumb">MapSceneLoadSceneCallback typedef</li>
 </ol>
 <h5>mapview library</h5>
@@ -76,4 +77,5 @@ the scene.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

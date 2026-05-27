@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "textSize property"
 slug: "sdk-for-flutter-explore-mapview-mapmarkertextstyle-textsize"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- textSize.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-mapmarkertextstyle-textsize"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapMarkerTextStyle-class.html">/sdk-for-flutter-explore-mapview-mapmarkertextstyle-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapmarkertextstyle-class</li>
 <li class="self-crumb">textSize property</li>
 </ol>
 <div class="self-name">textSize</div>
@@ -58,9 +59,9 @@ Gets the text size in pixels.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapMarkerTextStyle-class.html">/sdk-for-flutter-explore-mapview-mapmarkertextstyle-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapmarkertextstyle-class</li>
 <li class="self-crumb">textSize property</li>
 </ol>
 <h5>MapMarkerTextStyle class</h5>
@@ -77,4 +78,5 @@ Gets the text size in pixels.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

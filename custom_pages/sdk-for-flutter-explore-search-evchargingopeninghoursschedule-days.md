@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "days property"
 slug: "sdk-for-flutter-explore-search-evchargingopeninghoursschedule-days"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- days.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-search-evchargingopeninghoursschedule-days"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/EVChargingOpeningHoursSchedule-class.html">/sdk-for-flutter-explore-search-evchargingopeninghoursschedule-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-evchargingopeninghoursschedule-class</li>
 <li class="self-crumb">days property</li>
 </ol>
 <div class="self-name">days</div>
@@ -38,7 +39,7 @@ menu
 <h1>days property</h1></div>
 <section class="multi-line-signature">
         
-        List&lt;<wbr/><a href="../../search/DayOfWeek.html">/sdk-for-flutter-explore-search-dayofweek</a>&gt;
+        List&lt;<wbr/>/sdk-for-flutter-explore-search-dayofweek&gt;
 days
 <div class="features">getter/setter pair</div>
 </section>
@@ -57,9 +58,9 @@ days
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/EVChargingOpeningHoursSchedule-class.html">/sdk-for-flutter-explore-search-evchargingopeninghoursschedule-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-evchargingopeninghoursschedule-class</li>
 <li class="self-crumb">days property</li>
 </ol>
 <h5>EVChargingOpeningHoursSchedule class</h5>
@@ -76,4 +77,5 @@ days
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

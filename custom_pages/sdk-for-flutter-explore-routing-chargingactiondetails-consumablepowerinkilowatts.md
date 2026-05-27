@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "consumablePowerInKilowatts property"
 slug: "sdk-for-flutter-explore-routing-chargingactiondetails-consumablepowerinkilowatts"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- consumablePowerInKilowatts.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-routing-chargingactiondetails-consumablepowerinki
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/ChargingActionDetails-class.html">/sdk-for-flutter-explore-routing-chargingactiondetails-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-chargingactiondetails-class</li>
 <li class="self-crumb">consumablePowerInKilowatts property</li>
 </ol>
 <div class="self-name">consumablePowerInKilowatts</div>
@@ -44,7 +45,7 @@ menu
 </section>
 <section class="desc markdown">
 <p>Maximum charging power (in kW) available to the vehicle, based on the properties of the charging station and the vehicle.
-A valid <a href="../../routing/ChargingActionDetails-class.html">/sdk-for-flutter-explore-routing-chargingactiondetails-class</a> object will have positive <a href="../../routing/ChargingActionDetails/consumablePowerInKilowatts.html">/sdk-for-flutter-explore-routing-chargingactiondetails-consumablepowerinkilowatts</a>.
+A valid /sdk-for-flutter-explore-routing-chargingactiondetails-class object will have positive /sdk-for-flutter-explore-routing-chargingactiondetails-consumablepowerinkilowatts.
 Defaults to 0.</p>
 </section>
 <section class="summary source-code" id="source">
@@ -59,9 +60,9 @@ Defaults to 0.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/ChargingActionDetails-class.html">/sdk-for-flutter-explore-routing-chargingactiondetails-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-chargingactiondetails-class</li>
 <li class="self-crumb">consumablePowerInKilowatts property</li>
 </ol>
 <h5>ChargingActionDetails class</h5>
@@ -78,4 +79,5 @@ Defaults to 0.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

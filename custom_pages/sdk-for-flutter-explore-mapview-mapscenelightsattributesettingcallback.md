@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "MapSceneLightsAttributeSettingCallback typedef"
 slug: "sdk-for-flutter-explore-mapview-mapscenelightsattributesettingcallback"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- MapSceneLightsAttributeSettingCallback.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,8 +12,8 @@ slug: "sdk-for-flutter-explore-mapview-mapscenelightsattributesettingcallback"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
 <li class="self-crumb">MapSceneLightsAttributeSettingCallback typedef</li>
 </ol>
 <div class="self-name">MapSceneLightsAttributeSettingCallback</div>
@@ -37,7 +38,7 @@ menu
 <h1>MapSceneLightsAttributeSettingCallback typedef</h1></div>
 <section class="multi-line-signature">
 MapSceneLightsAttributeSettingCallback =
-     void Function(<a href="../mapview/MapSceneLightsAttributeSettingError.html">/sdk-for-flutter-explore-mapview-mapscenelightsattributesettingerror</a>? setLightError)
+     void Function(/sdk-for-flutter-explore-mapview-mapscenelightsattributesettingerror? setLightError)
 </section>
 <section class="desc markdown">
 <p>This callback function allows handling errors that occur during the setting of light attributes.</p>
@@ -60,8 +61,8 @@ that do not support lights, for instance <code>road.network</code> map scheme.</
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
 <li class="self-crumb">MapSceneLightsAttributeSettingCallback typedef</li>
 </ol>
 <h5>mapview library</h5>
@@ -78,4 +79,5 @@ that do not support lights, for instance <code>road.network</code> map scheme.</
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

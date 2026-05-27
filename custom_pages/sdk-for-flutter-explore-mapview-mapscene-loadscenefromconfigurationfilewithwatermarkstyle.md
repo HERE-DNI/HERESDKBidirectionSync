@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "loadSceneFromConfigurationFileWithWatermarkStyle abstract method"
 slug: "sdk-for-flutter-explore-mapview-mapscene-loadscenefromconfigurationfilewithwatermarkstyle"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- loadSceneFromConfigurationFileWithWatermarkStyle.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-mapscene-loadscenefromconfigurationfilewi
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapScene-class.html">/sdk-for-flutter-explore-mapview-mapscene-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapscene-class</li>
 <li class="self-crumb">loadSceneFromConfigurationFileWithWatermarkStyle abstract method</li>
 </ol>
 <div class="self-name">loadSceneFromConfigurationFileWithWatermarkStyle</div>
@@ -39,8 +40,8 @@ menu
 <section class="multi-line-signature">
 void
 loadSceneFromConfigurationFileWithWatermarkStyle(<wbr/><ol class="parameter-list single-line"> <li>String configurationFile, </li>
-<li><a href="../../mapview/WatermarkStyle.html">/sdk-for-flutter-explore-mapview-watermarkstyle</a> watermarkStyle, </li>
-<li><a href="../../mapview/MapSceneLoadSceneCallback.html">/sdk-for-flutter-explore-mapview-mapsceneloadscenecallback</a>? callback</li>
+<li>/sdk-for-flutter-explore-mapview-watermarkstyle watermarkStyle, </li>
+<li>/sdk-for-flutter-explore-mapview-mapsceneloadscenecallback? callback</li>
 </ol>)
 
       
@@ -51,8 +52,8 @@ loadSceneFromConfigurationFileWithWatermarkStyle(<wbr/><ol class="parameter-list
 <p>The style of the HERE watermark matching the map scheme is specified. Any previous map scene
 config will be replaced.</p>
 <p>When loading the same file again, consider to call <code>reloadScene()</code> instead.</p>
-<p>Map features enabled or disabled using <a href="../../mapview/MapScene/enableFeatures.html">/sdk-for-flutter-explore-mapview-mapscene-enablefeatures</a>
-and <a href="../../mapview/MapScene/disableFeatures.html">/sdk-for-flutter-explore-mapview-mapscene-disablefeatures</a> will be reset to defaults for the new
+<p>Map features enabled or disabled using /sdk-for-flutter-explore-mapview-mapscene-enablefeatures
+and /sdk-for-flutter-explore-mapview-mapscene-disablefeatures will be reset to defaults for the new
 scene configuration.</p>
 <p>The callback is called on the main thread.</p>
 <ul>
@@ -62,7 +63,7 @@ In case it contains references to other files, they have to be reachable under
 the paths specified in the main configuration file.</p>
 </li>
 <li>
-<p><code>watermarkStyle</code> The style for the HERE watermark, see <a href="../../mapview/WatermarkStyle.html">/sdk-for-flutter-explore-mapview-watermarkstyle</a>.</p>
+<p><code>watermarkStyle</code> The style for the HERE watermark, see /sdk-for-flutter-explore-mapview-watermarkstyle.</p>
 </li>
 <li>
 <p><code>callback</code> Optional callback that will receive the result of this operation.</p>
@@ -81,9 +82,9 @@ the paths specified in the main configuration file.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapScene-class.html">/sdk-for-flutter-explore-mapview-mapscene-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapscene-class</li>
 <li class="self-crumb">loadSceneFromConfigurationFileWithWatermarkStyle abstract method</li>
 </ol>
 <h5>MapScene class</h5>
@@ -100,4 +101,5 @@ the paths specified in the main configuration file.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

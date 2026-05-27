@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "freeResource abstract method"
 slug: "sdk-for-flutter-explore-mapview-mapcontext-freeresource"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- freeResource.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-mapcontext-freeresource"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapContext-class.html">/sdk-for-flutter-explore-mapview-mapcontext-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapcontext-class</li>
 <li class="self-crumb">freeResource abstract method</li>
 </ol>
 <div class="self-name">freeResource</div>
@@ -38,15 +39,15 @@ menu
 <h1>freeResource abstract method</h1></div>
 <section class="multi-line-signature">
 void
-freeResource(<wbr/><ol class="parameter-list single-line"> <li><a href="../../mapview/MapContextResourceType.html">/sdk-for-flutter-explore-mapview-mapcontextresourcetype</a> type, </li>
-<li><a href="../../mapview/MapContextFreeResourceSeverity.html">/sdk-for-flutter-explore-mapview-mapcontextfreeresourceseverity</a> severity</li>
+freeResource(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-mapview-mapcontextresourcetype type, </li>
+<li>/sdk-for-flutter-explore-mapview-mapcontextfreeresourceseverity severity</li>
 </ol>)
 
       
 
     </section>
 <section class="desc markdown">
-<p>Frees a system resource held by the <a href="../../mapview/MapContext-class.html">/sdk-for-flutter-explore-mapview-mapcontext-class</a> and all entities attached to it, like <a href="../../mapview/HereMapControllerCore-class.html">/sdk-for-flutter-explore-mapview-heremapcontrollercore-class</a>.</p>
+<p>Frees a system resource held by the /sdk-for-flutter-explore-mapview-mapcontext-class and all entities attached to it, like /sdk-for-flutter-explore-mapview-heremapcontrollercore-class.</p>
 <p>This function is intended for use when a system resource availability becomes low.
 For example, some memory can be freed when the application transitions to the background state.</p>
 <ul>
@@ -70,9 +71,9 @@ For example, some memory can be freed when the application transitions to the ba
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapContext-class.html">/sdk-for-flutter-explore-mapview-mapcontext-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapcontext-class</li>
 <li class="self-crumb">freeResource abstract method</li>
 </ol>
 <h5>MapContext class</h5>
@@ -89,4 +90,5 @@ For example, some memory can be freed when the application transitions to the ba
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

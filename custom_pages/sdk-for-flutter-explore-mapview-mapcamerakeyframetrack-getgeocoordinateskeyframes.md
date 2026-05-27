@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "getGeoCoordinatesKeyframes abstract method"
 slug: "sdk-for-flutter-explore-mapview-mapcamerakeyframetrack-getgeocoordinateskeyframes"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- getGeoCoordinatesKeyframes.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-mapcamerakeyframetrack-getgeocoordinatesk
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapCameraKeyframeTrack-class.html">/sdk-for-flutter-explore-mapview-mapcamerakeyframetrack-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapcamerakeyframetrack-class</li>
 <li class="self-crumb">getGeoCoordinatesKeyframes abstract method</li>
 </ol>
 <div class="self-name">getGeoCoordinatesKeyframes</div>
@@ -37,7 +38,7 @@ menu
 <div>
 <h1>getGeoCoordinatesKeyframes abstract method</h1></div>
 <section class="multi-line-signature">
-List&lt;<wbr/><a href="../../animation/GeoCoordinatesKeyframe-class.html">/sdk-for-flutter-explore-animation-geocoordinateskeyframe-class</a>&gt;?
+List&lt;<wbr/>/sdk-for-flutter-explore-animation-geocoordinateskeyframe-class&gt;?
 getGeoCoordinatesKeyframes(<wbr/>)
 
       
@@ -58,9 +59,9 @@ getGeoCoordinatesKeyframes(<wbr/>)
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapCameraKeyframeTrack-class.html">/sdk-for-flutter-explore-mapview-mapcamerakeyframetrack-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapcamerakeyframetrack-class</li>
 <li class="self-crumb">getGeoCoordinatesKeyframes abstract method</li>
 </ol>
 <h5>MapCameraKeyframeTrack class</h5>
@@ -77,4 +78,5 @@ getGeoCoordinatesKeyframes(<wbr/>)
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

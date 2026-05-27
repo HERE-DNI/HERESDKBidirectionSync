@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "bearing property"
 slug: "sdk-for-flutter-explore-core-geoorientation-bearing"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- bearing.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-core-geoorientation-bearing"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
-<li><a href="../../core/GeoOrientation-class.html">/sdk-for-flutter-explore-core-geoorientation-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
+<li>/sdk-for-flutter-explore-core-geoorientation-class</li>
 <li class="self-crumb">bearing property</li>
 </ol>
 <div class="self-name">bearing</div>
@@ -58,9 +59,9 @@ Bearing axis is perpendicular to the ground and passes through the target coordi
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
-<li><a href="../../core/GeoOrientation-class.html">/sdk-for-flutter-explore-core-geoorientation-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
+<li>/sdk-for-flutter-explore-core-geoorientation-class</li>
 <li class="self-crumb">bearing property</li>
 </ol>
 <h5>GeoOrientation class</h5>
@@ -77,4 +78,5 @@ Bearing axis is perpendicular to the ground and passes through the target coordi
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

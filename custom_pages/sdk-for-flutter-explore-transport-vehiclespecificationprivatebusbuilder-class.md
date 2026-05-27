@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "VehicleSpecificationPrivateBusBuilder class abstract"
 slug: "sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- VehicleSpecificationPrivateBusBuilder-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -42,8 +43,8 @@ slug: "sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-c
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-transport-transport-library</li>
 <li class="self-crumb">VehicleSpecificationPrivateBusBuilder class</li>
 </ol>
 <div class="self-name">VehicleSpecificationPrivateBusBuilder</div>
@@ -67,13 +68,13 @@ menu
 <div>
 <h1>VehicleSpecificationPrivateBusBuilder class abstract</h1></div>
 <section class="desc markdown">
-<p>This class constructs a <a href="../transport/VehicleSpecification-class.html">/sdk-for-flutter-explore-transport-vehiclespecification-class</a> for a private bus.</p>
+<p>This class constructs a /sdk-for-flutter-explore-transport-vehiclespecification-class for a private bus.</p>
 </section>
 <section class="summary offset-anchor" id="constructors">
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="VehicleSpecificationPrivateBusBuilder">
-<a href="../transport/VehicleSpecificationPrivateBusBuilder/VehicleSpecificationPrivateBusBuilder.html">/sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-vehiclespecificationprivatebusbuilder</a>()
+/sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-vehiclespecificationprivatebusbuilder()
 </dt>
 <dd>
           Creates a new instance of this class.
@@ -85,7 +86,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="hashCode">
-<a href="../transport/VehicleSpecificationPrivateBusBuilder/hashCode.html">/sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-hashcode</a>
+/sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-hashcode
 → int
 </dt>
 <dd class="inherited">
@@ -93,7 +94,7 @@ menu
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../transport/VehicleSpecificationPrivateBusBuilder/runtimeType.html">/sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-runtimetype</a>
+/sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -106,17 +107,18 @@ menu
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable" id="build">
-<a href="../transport/VehicleSpecificationPrivateBusBuilder/build.html">/sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-build</a>(<wbr/>)
-    → <a href="../transport/VehicleSpecification-class.html">/sdk-for-flutter-explore-transport-vehiclespecification-class</a>
+/sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-build(<wbr/>)
+    → /sdk-for-flutter-explore-transport-vehiclespecification-class
+
 </dt>
 <dd>
-  Builds the <a href="../transport/VehicleSpecification-class.html">/sdk-for-flutter-explore-transport-vehiclespecification-class</a> object for <a href="../transport/TransportMode.html">/sdk-for-flutter-explore-transport-transportmode</a> with the specifications taken
-from the <a href="../transport/VehicleSpecificationPrivateBusBuilder-class.html">/sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-class</a> object.
+  Builds the /sdk-for-flutter-explore-transport-vehiclespecification-class object for /sdk-for-flutter-explore-transport-transportmode with the specifications taken
+from the /sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-class object.
   
 
 </dd>
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../transport/VehicleSpecificationPrivateBusBuilder/noSuchMethod.html">/sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -125,7 +127,7 @@ from the <a href="../transport/VehicleSpecificationPrivateBusBuilder-class.html"
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../transport/VehicleSpecificationPrivateBusBuilder/toString.html">/sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-tostring(<wbr/>)
     → String
 
 </dt>
@@ -134,8 +136,9 @@ from the <a href="../transport/VehicleSpecificationPrivateBusBuilder-class.html"
   <div class="features">inherited</div>
 </dd>
 <dt class="callable" id="withAxleCount">
-<a href="../transport/VehicleSpecificationPrivateBusBuilder/withAxleCount.html">/sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-withaxlecount</a>(<wbr/>int axleCount)
-    → <a href="../transport/VehicleSpecificationPrivateBusBuilder-class.html">/sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-class</a>
+/sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-withaxlecount(<wbr/>int axleCount)
+    → /sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-class
+
 </dt>
 <dd>
   Sets the vehicle axle count.
@@ -143,8 +146,9 @@ from the <a href="../transport/VehicleSpecificationPrivateBusBuilder-class.html"
 
 </dd>
 <dt class="callable" id="withCurrentWeightInKilograms">
-<a href="../transport/VehicleSpecificationPrivateBusBuilder/withCurrentWeightInKilograms.html">/sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-withcurrentweightinkilograms</a>(<wbr/>int currentWeightInKilograms)
-    → <a href="../transport/VehicleSpecificationPrivateBusBuilder-class.html">/sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-class</a>
+/sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-withcurrentweightinkilograms(<wbr/>int currentWeightInKilograms)
+    → /sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-class
+
 </dt>
 <dd>
   Sets the vehicle current weight in kilograms.
@@ -152,8 +156,9 @@ from the <a href="../transport/VehicleSpecificationPrivateBusBuilder-class.html"
 
 </dd>
 <dt class="callable" id="withEmptyWeightInKilograms">
-<a href="../transport/VehicleSpecificationPrivateBusBuilder/withEmptyWeightInKilograms.html">/sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-withemptyweightinkilograms</a>(<wbr/>int emptyWeightInKilograms)
-    → <a href="../transport/VehicleSpecificationPrivateBusBuilder-class.html">/sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-class</a>
+/sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-withemptyweightinkilograms(<wbr/>int emptyWeightInKilograms)
+    → /sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-class
+
 </dt>
 <dd>
   Sets the vehicle empty weight in kilograms.
@@ -161,8 +166,9 @@ from the <a href="../transport/VehicleSpecificationPrivateBusBuilder-class.html"
 
 </dd>
 <dt class="callable" id="withEngineSizeInCubicCentimeters">
-<a href="../transport/VehicleSpecificationPrivateBusBuilder/withEngineSizeInCubicCentimeters.html">/sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-withenginesizeincubiccentimeters</a>(<wbr/>int engineSizeInCubicCentimeters)
-    → <a href="../transport/VehicleSpecificationPrivateBusBuilder-class.html">/sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-class</a>
+/sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-withenginesizeincubiccentimeters(<wbr/>int engineSizeInCubicCentimeters)
+    → /sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-class
+
 </dt>
 <dd>
   Sets the vehicle engine size in cubic centimeters.
@@ -170,8 +176,9 @@ from the <a href="../transport/VehicleSpecificationPrivateBusBuilder-class.html"
 
 </dd>
 <dt class="callable" id="withGrossWeightInKilograms">
-<a href="../transport/VehicleSpecificationPrivateBusBuilder/withGrossWeightInKilograms.html">/sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-withgrossweightinkilograms</a>(<wbr/>int grossWeightInKilograms)
-    → <a href="../transport/VehicleSpecificationPrivateBusBuilder-class.html">/sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-class</a>
+/sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-withgrossweightinkilograms(<wbr/>int grossWeightInKilograms)
+    → /sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-class
+
 </dt>
 <dd>
   Sets the vehicle gross weight in kilograms.
@@ -179,8 +186,9 @@ from the <a href="../transport/VehicleSpecificationPrivateBusBuilder-class.html"
 
 </dd>
 <dt class="callable" id="withHeightInCentimeters">
-<a href="../transport/VehicleSpecificationPrivateBusBuilder/withHeightInCentimeters.html">/sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-withheightincentimeters</a>(<wbr/>int heightInCentimeters)
-    → <a href="../transport/VehicleSpecificationPrivateBusBuilder-class.html">/sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-class</a>
+/sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-withheightincentimeters(<wbr/>int heightInCentimeters)
+    → /sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-class
+
 </dt>
 <dd>
   Sets the vehicle height in centimeters.
@@ -188,8 +196,9 @@ from the <a href="../transport/VehicleSpecificationPrivateBusBuilder-class.html"
 
 </dd>
 <dt class="callable" id="withIsCommercial">
-<a href="../transport/VehicleSpecificationPrivateBusBuilder/withIsCommercial.html">/sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-withiscommercial</a>(<wbr/>bool isCommercial)
-    → <a href="../transport/VehicleSpecificationPrivateBusBuilder-class.html">/sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-class</a>
+/sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-withiscommercial(<wbr/>bool isCommercial)
+    → /sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-class
+
 </dt>
 <dd>
   Sets the vehicle is commercial flag.
@@ -197,8 +206,9 @@ from the <a href="../transport/VehicleSpecificationPrivateBusBuilder-class.html"
 
 </dd>
 <dt class="callable" id="withLastCharacterOfLicensePlate">
-<a href="../transport/VehicleSpecificationPrivateBusBuilder/withLastCharacterOfLicensePlate.html">/sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-withlastcharacteroflicenseplate</a>(<wbr/>String lastCharacterOfLicensePlate)
-    → <a href="../transport/VehicleSpecificationPrivateBusBuilder-class.html">/sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-class</a>
+/sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-withlastcharacteroflicenseplate(<wbr/>String lastCharacterOfLicensePlate)
+    → /sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-class
+
 </dt>
 <dd>
   Sets the vehicle last character of the license plate.
@@ -206,8 +216,9 @@ from the <a href="../transport/VehicleSpecificationPrivateBusBuilder-class.html"
 
 </dd>
 <dt class="callable" id="withLengthInCentimeters">
-<a href="../transport/VehicleSpecificationPrivateBusBuilder/withLengthInCentimeters.html">/sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-withlengthincentimeters</a>(<wbr/>int lengthInCentimeters)
-    → <a href="../transport/VehicleSpecificationPrivateBusBuilder-class.html">/sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-class</a>
+/sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-withlengthincentimeters(<wbr/>int lengthInCentimeters)
+    → /sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-class
+
 </dt>
 <dd>
   Sets the vehicle length in centimeters.
@@ -215,8 +226,9 @@ from the <a href="../transport/VehicleSpecificationPrivateBusBuilder-class.html"
 
 </dd>
 <dt class="callable" id="withOccupancy">
-<a href="../transport/VehicleSpecificationPrivateBusBuilder/withOccupancy.html">/sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-withoccupancy</a>(<wbr/>int occupancy)
-    → <a href="../transport/VehicleSpecificationPrivateBusBuilder-class.html">/sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-class</a>
+/sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-withoccupancy(<wbr/>int occupancy)
+    → /sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-class
+
 </dt>
 <dd>
   Sets the vehicle occupants number.
@@ -224,8 +236,9 @@ from the <a href="../transport/VehicleSpecificationPrivateBusBuilder-class.html"
 
 </dd>
 <dt class="callable" id="withTiresCount">
-<a href="../transport/VehicleSpecificationPrivateBusBuilder/withTiresCount.html">/sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-withtirescount</a>(<wbr/>int tiresCount)
-    → <a href="../transport/VehicleSpecificationPrivateBusBuilder-class.html">/sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-class</a>
+/sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-withtirescount(<wbr/>int tiresCount)
+    → /sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-class
+
 </dt>
 <dd>
   Sets the vehicle tires count.
@@ -233,8 +246,9 @@ from the <a href="../transport/VehicleSpecificationPrivateBusBuilder-class.html"
 
 </dd>
 <dt class="callable" id="withTrailerAxleCount">
-<a href="../transport/VehicleSpecificationPrivateBusBuilder/withTrailerAxleCount.html">/sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-withtraileraxlecount</a>(<wbr/>int trailerAxleCount)
-    → <a href="../transport/VehicleSpecificationPrivateBusBuilder-class.html">/sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-class</a>
+/sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-withtraileraxlecount(<wbr/>int trailerAxleCount)
+    → /sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-class
+
 </dt>
 <dd>
   Sets the vehicle trailer axle count.
@@ -242,8 +256,9 @@ from the <a href="../transport/VehicleSpecificationPrivateBusBuilder-class.html"
 
 </dd>
 <dt class="callable" id="withTrailerCount">
-<a href="../transport/VehicleSpecificationPrivateBusBuilder/withTrailerCount.html">/sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-withtrailercount</a>(<wbr/>int trailerCount)
-    → <a href="../transport/VehicleSpecificationPrivateBusBuilder-class.html">/sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-class</a>
+/sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-withtrailercount(<wbr/>int trailerCount)
+    → /sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-class
+
 </dt>
 <dd>
   Sets the vehicle trailer count.
@@ -251,8 +266,9 @@ from the <a href="../transport/VehicleSpecificationPrivateBusBuilder-class.html"
 
 </dd>
 <dt class="callable" id="withTunnelCategory">
-<a href="../transport/VehicleSpecificationPrivateBusBuilder/withTunnelCategory.html">/sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-withtunnelcategory</a>(<wbr/><a href="../transport/TunnelCategory.html">/sdk-for-flutter-explore-transport-tunnelcategory</a> tunnelCategory)
-    → <a href="../transport/VehicleSpecificationPrivateBusBuilder-class.html">/sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-class</a>
+/sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-withtunnelcategory(<wbr/>/sdk-for-flutter-explore-transport-tunnelcategory tunnelCategory)
+    → /sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-class
+
 </dt>
 <dd>
   Sets the vehicle tunnel category.
@@ -260,8 +276,9 @@ from the <a href="../transport/VehicleSpecificationPrivateBusBuilder-class.html"
 
 </dd>
 <dt class="callable" id="withWeightPerAxleGroup">
-<a href="../transport/VehicleSpecificationPrivateBusBuilder/withWeightPerAxleGroup.html">/sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-withweightperaxlegroup</a>(<wbr/><a href="../transport/WeightPerAxleGroup-class.html">/sdk-for-flutter-explore-transport-weightperaxlegroup-class</a> weightPerAxleGroup)
-    → <a href="../transport/VehicleSpecificationPrivateBusBuilder-class.html">/sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-class</a>
+/sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-withweightperaxlegroup(<wbr/>/sdk-for-flutter-explore-transport-weightperaxlegroup-class weightPerAxleGroup)
+    → /sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-class
+
 </dt>
 <dd>
   Sets the vehicle weight per axle group.
@@ -269,8 +286,9 @@ from the <a href="../transport/VehicleSpecificationPrivateBusBuilder-class.html"
 
 </dd>
 <dt class="callable" id="withWeightPerAxleInKilograms">
-<a href="../transport/VehicleSpecificationPrivateBusBuilder/withWeightPerAxleInKilograms.html">/sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-withweightperaxleinkilograms</a>(<wbr/>int weightPerAxleInKilograms)
-    → <a href="../transport/VehicleSpecificationPrivateBusBuilder-class.html">/sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-class</a>
+/sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-withweightperaxleinkilograms(<wbr/>int weightPerAxleInKilograms)
+    → /sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-class
+
 </dt>
 <dd>
   Sets the vehicle weight per axle in kilograms.
@@ -278,8 +296,9 @@ from the <a href="../transport/VehicleSpecificationPrivateBusBuilder-class.html"
 
 </dd>
 <dt class="callable" id="withWidthInCentimeters">
-<a href="../transport/VehicleSpecificationPrivateBusBuilder/withWidthInCentimeters.html">/sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-withwidthincentimeters</a>(<wbr/>int widthInCentimeters)
-    → <a href="../transport/VehicleSpecificationPrivateBusBuilder-class.html">/sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-class</a>
+/sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-withwidthincentimeters(<wbr/>int widthInCentimeters)
+    → /sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-class
+
 </dt>
 <dd>
   Sets the vehicle width in centimeters.
@@ -292,7 +311,7 @@ from the <a href="../transport/VehicleSpecificationPrivateBusBuilder-class.html"
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-<a href="../transport/VehicleSpecificationPrivateBusBuilder/operator_equals.html">/sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -310,8 +329,8 @@ from the <a href="../transport/VehicleSpecificationPrivateBusBuilder-class.html"
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-transport-transport-library</li>
 <li class="self-crumb">VehicleSpecificationPrivateBusBuilder class</li>
 </ol>
 <h5>transport library</h5>
@@ -328,4 +347,5 @@ from the <a href="../transport/VehicleSpecificationPrivateBusBuilder-class.html"
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

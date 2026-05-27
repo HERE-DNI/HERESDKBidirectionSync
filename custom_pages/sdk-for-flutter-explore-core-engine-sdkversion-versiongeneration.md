@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "versionGeneration property"
 slug: "sdk-for-flutter-explore-core-engine-sdkversion-versiongeneration"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- versionGeneration.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-core-engine-sdkversion-versiongeneration"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
-<li><a href="../../core.engine/SDKVersion-class.html">/sdk-for-flutter-explore-core-engine-sdkversion-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
+<li>/sdk-for-flutter-explore-core-engine-sdkversion-class</li>
 <li class="self-crumb">versionGeneration property</li>
 </ol>
 <div class="self-name">versionGeneration</div>
@@ -57,9 +58,9 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
-<li><a href="../../core.engine/SDKVersion-class.html">/sdk-for-flutter-explore-core-engine-sdkversion-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
+<li>/sdk-for-flutter-explore-core-engine-sdkversion-class</li>
 <li class="self-crumb">versionGeneration property</li>
 </ol>
 <h5>SDKVersion class</h5>
@@ -76,4 +77,5 @@ menu
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

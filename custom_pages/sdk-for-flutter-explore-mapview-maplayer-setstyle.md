@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "setStyle abstract method"
 slug: "sdk-for-flutter-explore-mapview-maplayer-setstyle"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- setStyle.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-maplayer-setstyle"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapLayer-class.html">/sdk-for-flutter-explore-mapview-maplayer-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-maplayer-class</li>
 <li class="self-crumb">setStyle abstract method</li>
 </ol>
 <div class="self-name">setStyle</div>
@@ -38,7 +39,7 @@ menu
 <h1>setStyle abstract method</h1></div>
 <section class="multi-line-signature">
 void
-setStyle(<wbr/><ol class="parameter-list single-line"> <li><a href="../../mapview/Style-class.html">/sdk-for-flutter-explore-mapview-style-class</a> style</li>
+setStyle(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-mapview-style-class style</li>
 </ol>)
 
       
@@ -65,9 +66,9 @@ behavior. Related APIs may change for new releases without a deprecation process
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapLayer-class.html">/sdk-for-flutter-explore-mapview-maplayer-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-maplayer-class</li>
 <li class="self-crumb">setStyle abstract method</li>
 </ol>
 <h5>MapLayer class</h5>
@@ -84,4 +85,5 @@ behavior. Related APIs may change for new releases without a deprecation process
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

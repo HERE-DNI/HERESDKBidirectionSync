@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "error property"
 slug: "sdk-for-flutter-explore-core-authenticationexceptionexception-error"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- error.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-core-authenticationexceptionexception-error"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
-<li><a href="../../core/AuthenticationExceptionException-class.html">/sdk-for-flutter-explore-core-authenticationexceptionexception-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
+<li>/sdk-for-flutter-explore-core-authenticationexceptionexception-class</li>
 <li class="self-crumb">error property</li>
 </ol>
 <div class="self-name">error</div>
@@ -37,7 +38,7 @@ menu
 <div>
 <h1>error property</h1></div>
 <section class="multi-line-signature">
-<a href="../../core/AuthenticationError.html">/sdk-for-flutter-explore-core-authenticationerror</a>
+/sdk-for-flutter-explore-core-authenticationerror
 error
 <div class="features">final</div>
 </section>
@@ -53,9 +54,9 @@ error
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
-<li><a href="../../core/AuthenticationExceptionException-class.html">/sdk-for-flutter-explore-core-authenticationexceptionexception-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
+<li>/sdk-for-flutter-explore-core-authenticationexceptionexception-class</li>
 <li class="self-crumb">error property</li>
 </ol>
 <h5>AuthenticationExceptionException class</h5>
@@ -72,4 +73,5 @@ error
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

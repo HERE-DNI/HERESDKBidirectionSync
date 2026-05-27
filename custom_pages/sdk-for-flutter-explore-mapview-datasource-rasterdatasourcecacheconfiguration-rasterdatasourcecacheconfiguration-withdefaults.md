@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "RasterDataSourceCacheConfiguration.withDefaults constructor"
 slug: "sdk-for-flutter-explore-mapview-datasource-rasterdatasourcecacheconfiguration-rasterdatasourcecacheconfiguration-withdefaults"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- RasterDataSourceCacheConfiguration.withDefaults.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-datasource-rasterdatasourcecacheconfigura
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
-<li><a href="../../mapview.datasource/RasterDataSourceCacheConfiguration-class.html">/sdk-for-flutter-explore-mapview-datasource-rasterdatasourcecacheconfiguration-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-rasterdatasourcecacheconfiguration-class</li>
 <li class="self-crumb">RasterDataSourceCacheConfiguration.withDefaults constructor</li>
 </ol>
 <div class="self-name">RasterDataSourceCacheConfiguration.withDefaults</div>
@@ -67,9 +68,9 @@ but is valid, it will be created.</li>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
-<li><a href="../../mapview.datasource/RasterDataSourceCacheConfiguration-class.html">/sdk-for-flutter-explore-mapview-datasource-rasterdatasourcecacheconfiguration-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-rasterdatasourcecacheconfiguration-class</li>
 <li class="self-crumb">RasterDataSourceCacheConfiguration.withDefaults constructor</li>
 </ol>
 <h5>RasterDataSourceCacheConfiguration class</h5>
@@ -86,4 +87,5 @@ but is valid, it will be created.</li>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "MapMarker.withImageAndText constructor"
 slug: "sdk-for-flutter-explore-mapview-mapmarker-mapmarker-withimageandtext"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- MapMarker.withImageAndText.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-mapmarker-mapmarker-withimageandtext"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapMarker-class.html">/sdk-for-flutter-explore-mapview-mapmarker-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapmarker-class</li>
 <li class="self-crumb">MapMarker.withImageAndText factory constructor</li>
 </ol>
 <div class="self-name">MapMarker.withImageAndText</div>
@@ -37,8 +38,8 @@ menu
 <div>
 <h1>MapMarker.withImageAndText constructor</h1></div>
 <section class="multi-line-signature">
-MapMarker.withImageAndText(<wbr/><ol class="parameter-list single-line"> <li><a href="../../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a> coordinates, </li>
-<li><a href="../../mapview/MapImage-class.html">/sdk-for-flutter-explore-mapview-mapimage-class</a> image, </li>
+MapMarker.withImageAndText(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-core-geocoordinates-class coordinates, </li>
+<li>/sdk-for-flutter-explore-mapview-mapimage-class image, </li>
 <li>String text</li>
 </ol>)
     </section>
@@ -69,9 +70,9 @@ MapMarker.withImageAndText(<wbr/><ol class="parameter-list single-line"> <li><a 
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapMarker-class.html">/sdk-for-flutter-explore-mapview-mapmarker-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapmarker-class</li>
 <li class="self-crumb">MapMarker.withImageAndText factory constructor</li>
 </ol>
 <h5>MapMarker class</h5>
@@ -88,4 +89,5 @@ MapMarker.withImageAndText(<wbr/><ol class="parameter-list single-line"> <li><a 
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

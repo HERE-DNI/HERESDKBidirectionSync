@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "addMapIdleListener abstract method"
 slug: "sdk-for-flutter-explore-mapview-heremapcontrollercore-addmapidlelistener"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- addMapIdleListener.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-heremapcontrollercore-addmapidlelistener"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/HereMapControllerCore-class.html">/sdk-for-flutter-explore-mapview-heremapcontrollercore-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-heremapcontrollercore-class</li>
 <li class="self-crumb">addMapIdleListener abstract method</li>
 </ol>
 <div class="self-name">addMapIdleListener</div>
@@ -38,7 +39,7 @@ menu
 <h1>addMapIdleListener abstract method</h1></div>
 <section class="multi-line-signature">
 void
-addMapIdleListener(<wbr/><ol class="parameter-list single-line"> <li><a href="../../mapview/MapIdleListener-class.html">/sdk-for-flutter-explore-mapview-mapidlelistener-class</a> listener</li>
+addMapIdleListener(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-mapview-mapidlelistener-class listener</li>
 </ol>)
 
       
@@ -51,7 +52,7 @@ notifications and notifies it of the current state.</p>
 <p>The new listener is appended to the set
 of <code>HereMap</code> idle listeners as a strong reference.
 The caller is responsible for releasing the strong reference by calling
-<a href="../../mapview/HereMapControllerCore/removeMapIdleListener.html">/sdk-for-flutter-explore-mapview-heremapcontrollercore-removemapidlelistener</a>.</p>
+/sdk-for-flutter-explore-mapview-heremapcontrollercore-removemapidlelistener.</p>
 <p>The idle state notifications can occur on an arbitrary thread.</p>
 <ul>
 <li><code>listener</code> The listener</li>
@@ -69,9 +70,9 @@ The caller is responsible for releasing the strong reference by calling
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/HereMapControllerCore-class.html">/sdk-for-flutter-explore-mapview-heremapcontrollercore-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-heremapcontrollercore-class</li>
 <li class="self-crumb">addMapIdleListener abstract method</li>
 </ol>
 <h5>HereMapControllerCore class</h5>
@@ -88,4 +89,5 @@ The caller is responsible for releasing the strong reference by calling
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

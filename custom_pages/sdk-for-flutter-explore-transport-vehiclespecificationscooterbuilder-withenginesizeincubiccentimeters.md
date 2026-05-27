@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "withEngineSizeInCubicCentimeters abstract method"
 slug: "sdk-for-flutter-explore-transport-vehiclespecificationscooterbuilder-withenginesizeincubiccentimeters"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- withEngineSizeInCubicCentimeters.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-transport-vehiclespecificationscooterbuilder-with
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
-<li><a href="../../transport/VehicleSpecificationScooterBuilder-class.html">/sdk-for-flutter-explore-transport-vehiclespecificationscooterbuilder-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-transport-transport-library</li>
+<li>/sdk-for-flutter-explore-transport-vehiclespecificationscooterbuilder-class</li>
 <li class="self-crumb">withEngineSizeInCubicCentimeters abstract method</li>
 </ol>
 <div class="self-name">withEngineSizeInCubicCentimeters</div>
@@ -37,7 +38,7 @@ menu
 <div>
 <h1>withEngineSizeInCubicCentimeters abstract method</h1></div>
 <section class="multi-line-signature">
-<a href="../../transport/VehicleSpecificationScooterBuilder-class.html">/sdk-for-flutter-explore-transport-vehiclespecificationscooterbuilder-class</a>
+/sdk-for-flutter-explore-transport-vehiclespecificationscooterbuilder-class
 withEngineSizeInCubicCentimeters(<wbr/><ol class="parameter-list single-line"> <li>int engineSizeInCubicCentimeters</li>
 </ol>)
 
@@ -49,7 +50,7 @@ withEngineSizeInCubicCentimeters(<wbr/><ol class="parameter-list single-line"> <
 <ul>
 <li><code>engineSizeInCubicCentimeters</code> The vehicle engine size in cubic centimeters.</li>
 </ul>
-<p>Returns <a href="../../transport/VehicleSpecificationScooterBuilder-class.html">/sdk-for-flutter-explore-transport-vehiclespecificationscooterbuilder-class</a>. The <a href="../../transport/VehicleSpecificationScooterBuilder-class.html">/sdk-for-flutter-explore-transport-vehiclespecificationscooterbuilder-class</a> object with the engine size set to the new value.</p>
+<p>Returns /sdk-for-flutter-explore-transport-vehiclespecificationscooterbuilder-class. The /sdk-for-flutter-explore-transport-vehiclespecificationscooterbuilder-class object with the engine size set to the new value.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -63,9 +64,9 @@ withEngineSizeInCubicCentimeters(<wbr/><ol class="parameter-list single-line"> <
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
-<li><a href="../../transport/VehicleSpecificationScooterBuilder-class.html">/sdk-for-flutter-explore-transport-vehiclespecificationscooterbuilder-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-transport-transport-library</li>
+<li>/sdk-for-flutter-explore-transport-vehiclespecificationscooterbuilder-class</li>
 <li class="self-crumb">withEngineSizeInCubicCentimeters abstract method</li>
 </ol>
 <h5>VehicleSpecificationScooterBuilder class</h5>
@@ -82,4 +83,5 @@ withEngineSizeInCubicCentimeters(<wbr/><ol class="parameter-list single-line"> <
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

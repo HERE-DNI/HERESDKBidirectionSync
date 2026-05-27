@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "authenticateWithSDKNativeEngine static method"
 slug: "sdk-for-flutter-explore-core-authentication-authenticatewithsdknativeengine"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- authenticateWithSDKNativeEngine.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-core-authentication-authenticatewithsdknativeengi
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
-<li><a href="../../core/Authentication-class.html">/sdk-for-flutter-explore-core-authentication-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
+<li>/sdk-for-flutter-explore-core-authentication-class</li>
 <li class="self-crumb">authenticateWithSDKNativeEngine static method</li>
 </ol>
 <div class="self-name">authenticateWithSDKNativeEngine</div>
@@ -37,8 +38,8 @@ menu
 <div>
 <h1>authenticateWithSDKNativeEngine static method</h1></div>
 <section class="multi-line-signature">
-<a href="../../core/AuthenticationData-class.html">/sdk-for-flutter-explore-core-authenticationdata-class</a>
-authenticateWithSDKNativeEngine(<wbr/><ol class="parameter-list single-line"> <li><a href="../../core.engine/SDKNativeEngine-class.html">/sdk-for-flutter-explore-core-engine-sdknativeengine-class</a> sdkNativeEngine</li>
+/sdk-for-flutter-explore-core-authenticationdata-class
+authenticateWithSDKNativeEngine(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-core-engine-sdknativeengine-class sdkNativeEngine</li>
 </ol>)
 
       
@@ -51,8 +52,8 @@ retrieve a secure token.</p>
 <ul>
 <li><code>sdkNativeEngine</code> The SDK engine instance.</li>
 </ul>
-<p>Returns <a href="../../core/AuthenticationData-class.html">/sdk-for-flutter-explore-core-authenticationdata-class</a>. Authentication data.</p>
-<p>Throws <a href="../../core/AuthenticationExceptionException-class.html">/sdk-for-flutter-explore-core-authenticationexceptionexception-class</a>. Authentication exception that describes the error.</p>
+<p>Returns /sdk-for-flutter-explore-core-authenticationdata-class. Authentication data.</p>
+<p>Throws /sdk-for-flutter-explore-core-authenticationexceptionexception-class. Authentication exception that describes the error.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -66,9 +67,9 @@ retrieve a secure token.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
-<li><a href="../../core/Authentication-class.html">/sdk-for-flutter-explore-core-authentication-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
+<li>/sdk-for-flutter-explore-core-authentication-class</li>
 <li class="self-crumb">authenticateWithSDKNativeEngine static method</li>
 </ol>
 <h5>Authentication class</h5>
@@ -85,4 +86,5 @@ retrieve a secure token.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

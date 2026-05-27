@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "TextQueryArea.withCenter constructor"
 slug: "sdk-for-flutter-explore-search-textqueryarea-textqueryarea-withcenter"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- TextQueryArea.withCenter.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-search-textqueryarea-textqueryarea-withcenter"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/TextQueryArea-class.html">/sdk-for-flutter-explore-search-textqueryarea-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-textqueryarea-class</li>
 <li class="self-crumb">TextQueryArea.withCenter factory constructor</li>
 </ol>
 <div class="self-name">TextQueryArea.withCenter</div>
@@ -37,7 +38,7 @@ menu
 <div>
 <h1>TextQueryArea.withCenter constructor</h1></div>
 <section class="multi-line-signature">
-TextQueryArea.withCenter(<wbr/><ol class="parameter-list single-line"> <li><a href="../../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a> areaCenter</li>
+TextQueryArea.withCenter(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-core-geocoordinates-class areaCenter</li>
 </ol>)
     </section>
 <section class="desc markdown">
@@ -58,9 +59,9 @@ TextQueryArea.withCenter(<wbr/><ol class="parameter-list single-line"> <li><a hr
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/TextQueryArea-class.html">/sdk-for-flutter-explore-search-textqueryarea-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-textqueryarea-class</li>
 <li class="self-crumb">TextQueryArea.withCenter factory constructor</li>
 </ol>
 <h5>TextQueryArea class</h5>
@@ -77,4 +78,5 @@ TextQueryArea.withCenter(<wbr/><ol class="parameter-list single-line"> <li><a hr
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

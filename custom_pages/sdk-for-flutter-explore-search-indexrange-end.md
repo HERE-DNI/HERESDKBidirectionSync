@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "end property"
 slug: "sdk-for-flutter-explore-search-indexrange-end"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- end.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-search-indexrange-end"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/IndexRange-class.html">/sdk-for-flutter-explore-search-indexrange-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-indexrange-class</li>
 <li class="self-crumb">end property</li>
 </ol>
 <div class="self-name">end</div>
@@ -58,9 +59,9 @@ Gets the position indicating the end of the highlighted part, exclusive.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/IndexRange-class.html">/sdk-for-flutter-explore-search-indexrange-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-indexrange-class</li>
 <li class="self-crumb">end property</li>
 </ol>
 <h5>IndexRange class</h5>
@@ -77,4 +78,5 @@ Gets the position indicating the end of the highlighted part, exclusive.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

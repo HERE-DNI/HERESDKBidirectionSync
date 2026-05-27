@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "EVChargingPool class"
 slug: "sdk-for-flutter-explore-search-evchargingpool-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- EVChargingPool-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -32,8 +33,8 @@ slug: "sdk-for-flutter-explore-search-evchargingpool-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
 <li class="self-crumb">EVChargingPool class</li>
 </ol>
 <div class="self-name">EVChargingPool</div>
@@ -58,17 +59,17 @@ menu
 <h1>EVChargingPool class</h1></div>
 <section class="desc markdown">
 <p>A charging pool for electric vehicles is an area equipped with one or more charging stations.</p>
-<p>Use <a href="../search/PlaceCategory/businessAndServicesEvChargingStation.html">/sdk-for-flutter-explore-search-placecategory-businessandservicesevchargingstation</a> to find stations.
+<p>Use /sdk-for-flutter-explore-search-placecategory-businessandservicesevchargingstation to find stations.
 In the <code>Details</code> of a <code>Place</code> result you can find the list of found pools containing stations,
 if any.</p>
-<p>For offline EV rich attributes, also enable <a href="../core.engine/LayerConfigurationFeature.html">/sdk-for-flutter-explore-core-engine-layerconfigurationfeature</a>
-in <a href="../core.engine/SDKOptions/layerConfiguration.html">/sdk-for-flutter-explore-core-engine-sdkoptions-layerconfiguration</a>.</p>
+<p>For offline EV rich attributes, also enable /sdk-for-flutter-explore-core-engine-layerconfigurationfeature
+in /sdk-for-flutter-explore-core-engine-sdkoptions-layerconfiguration.</p>
 </section>
 <section class="summary offset-anchor" id="constructors">
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="EVChargingPool">
-<a href="../search/EVChargingPool/EVChargingPool.html">/sdk-for-flutter-explore-search-evchargingpool-evchargingpool</a>(List&lt;<wbr/><a href="../search/EVChargingStation-class.html">/sdk-for-flutter-explore-search-evchargingstation-class</a>&gt; chargingStations, List&lt;<wbr/><a href="../search/EMobilityServiceProvider-class.html">/sdk-for-flutter-explore-search-emobilityserviceprovider-class</a>&gt; eMobilityServiceProviders, List&lt;<wbr/><a href="../search/EVAccessRestrictionReason.html">/sdk-for-flutter-explore-search-evaccessrestrictionreason</a>&gt; accessRestrictionReasons)
+/sdk-for-flutter-explore-search-evchargingpool-evchargingpool(List&lt;<wbr/>/sdk-for-flutter-explore-search-evchargingstation-class&gt; chargingStations, List&lt;<wbr/>/sdk-for-flutter-explore-search-emobilityserviceprovider-class&gt; eMobilityServiceProviders, List&lt;<wbr/>/sdk-for-flutter-explore-search-evaccessrestrictionreason&gt; accessRestrictionReasons)
 </dt>
 <dd>
 </dd>
@@ -78,32 +79,32 @@ in <a href="../core.engine/SDKOptions/layerConfiguration.html">/sdk-for-flutter-
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="access">
-<a href="../search/EVChargingPool/access.html">/sdk-for-flutter-explore-search-evchargingpool-access</a>
-↔ <a href="../search/EVAccessType.html">/sdk-for-flutter-explore-search-evaccesstype</a>?
+/sdk-for-flutter-explore-search-evchargingpool-access
+↔ /sdk-for-flutter-explore-search-evaccesstype?
 </dt>
 <dd>
   The accessibility level of the charging pool, or <code>null</code> if unknown.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="accessRestrictionReasons">
-<a href="../search/EVChargingPool/accessRestrictionReasons.html">/sdk-for-flutter-explore-search-evchargingpool-accessrestrictionreasons</a>
-↔ List&lt;<wbr/><a href="../search/EVAccessRestrictionReason.html">/sdk-for-flutter-explore-search-evaccessrestrictionreason</a>&gt;
+/sdk-for-flutter-explore-search-evchargingpool-accessrestrictionreasons
+↔ List&lt;<wbr/>/sdk-for-flutter-explore-search-evaccessrestrictionreason&gt;
 </dt>
 <dd>
   Contains the list of reasons for restriction.
-Populated only for offline search and when access is <a href="../search/EVAccessType.html">/sdk-for-flutter-explore-search-evaccesstype</a>.
+Populated only for offline search and when access is /sdk-for-flutter-explore-search-evaccesstype.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="chargingStations">
-<a href="../search/EVChargingPool/chargingStations.html">/sdk-for-flutter-explore-search-evchargingpool-chargingstations</a>
-↔ List&lt;<wbr/><a href="../search/EVChargingStation-class.html">/sdk-for-flutter-explore-search-evchargingstation-class</a>&gt;
+/sdk-for-flutter-explore-search-evchargingpool-chargingstations
+↔ List&lt;<wbr/>/sdk-for-flutter-explore-search-evchargingstation-class&gt;
 </dt>
 <dd>
   List of charging stations.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="cpoId">
-<a href="../search/EVChargingPool/cpoId.html">/sdk-for-flutter-explore-search-evchargingpool-cpoid</a>
+/sdk-for-flutter-explore-search-evchargingpool-cpoid
 ↔ String?
 </dt>
 <dd>
@@ -112,8 +113,8 @@ Only online search fills this field.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="details">
-<a href="../search/EVChargingPool/details.html">/sdk-for-flutter-explore-search-evchargingpool-details</a>
-↔ <a href="../search/EVChargingPoolDetails-class.html">/sdk-for-flutter-explore-search-evchargingpooldetails-class</a>?
+/sdk-for-flutter-explore-search-evchargingpool-details
+↔ /sdk-for-flutter-explore-search-evchargingpooldetails-class?
 </dt>
 <dd>
   EV charging station attributes details. It is available only for a place that has charging station
@@ -121,8 +122,8 @@ for electric vehicles. Only offline search fills this field.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="eMobilityServiceProviders">
-<a href="../search/EVChargingPool/eMobilityServiceProviders.html">/sdk-for-flutter-explore-search-evchargingpool-emobilityserviceproviders</a>
-↔ List&lt;<wbr/><a href="../search/EMobilityServiceProvider-class.html">/sdk-for-flutter-explore-search-emobilityserviceprovider-class</a>&gt;
+/sdk-for-flutter-explore-search-evchargingpool-emobilityserviceproviders
+↔ List&lt;<wbr/>/sdk-for-flutter-explore-search-emobilityserviceprovider-class&gt;
 </dt>
 <dd>
   List of e-Mobility Service Providers.
@@ -130,8 +131,8 @@ Only online search fills this field.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="evseInfo">
-<a href="../search/EVChargingPool/evseInfo.html">/sdk-for-flutter-explore-search-evchargingpool-evseinfo</a>
-↔ List&lt;<wbr/><a href="../search/Evse-class.html">/sdk-for-flutter-explore-search-evse-class</a>&gt;
+/sdk-for-flutter-explore-search-evchargingpool-evseinfo
+↔ List&lt;<wbr/>/sdk-for-flutter-explore-search-evse-class&gt;
 </dt>
 <dd>
   Charge Point Operator (CPO) ID uses the Electric Vehicle Supply Equipment ID (EVSE ID) for an exact identification of the charging infrastructure and charging point.
@@ -139,7 +140,7 @@ Only online search fills this field.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-<a href="../search/EVChargingPool/hashCode.html">/sdk-for-flutter-explore-search-evchargingpool-hashcode</a>
+/sdk-for-flutter-explore-search-evchargingpool-hashcode
 → int
 </dt>
 <dd>
@@ -147,7 +148,7 @@ Only online search fills this field.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="id">
-<a href="../search/EVChargingPool/id.html">/sdk-for-flutter-explore-search-evchargingpool-id</a>
+/sdk-for-flutter-explore-search-evchargingpool-id
 ↔ String?
 </dt>
 <dd>
@@ -156,7 +157,7 @@ Only online search fills this field.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../search/EVChargingPool/runtimeType.html">/sdk-for-flutter-explore-search-evchargingpool-runtimetype</a>
+/sdk-for-flutter-explore-search-evchargingpool-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -169,7 +170,7 @@ Only online search fills this field.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../search/EVChargingPool/noSuchMethod.html">/sdk-for-flutter-explore-search-evchargingpool-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-search-evchargingpool-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -178,7 +179,7 @@ Only online search fills this field.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../search/EVChargingPool/toString.html">/sdk-for-flutter-explore-search-evchargingpool-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-search-evchargingpool-tostring(<wbr/>)
     → String
 
 </dt>
@@ -192,7 +193,7 @@ Only online search fills this field.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-<a href="../search/EVChargingPool/operator_equals.html">/sdk-for-flutter-explore-search-evchargingpool-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-search-evchargingpool-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -211,8 +212,8 @@ Only online search fills this field.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
 <li class="self-crumb">EVChargingPool class</li>
 </ol>
 <h5>search library</h5>
@@ -229,4 +230,5 @@ Only online search fills this field.
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

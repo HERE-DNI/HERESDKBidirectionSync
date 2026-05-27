@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "coordinates property"
 slug: "sdk-for-flutter-explore-mapview-mapmarker-coordinates"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- coordinates.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-mapmarker-coordinates"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapMarker-class.html">/sdk-for-flutter-explore-mapview-mapmarker-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapmarker-class</li>
 <li class="self-crumb">coordinates property</li>
 </ol>
 <div class="self-name">coordinates</div>
@@ -38,7 +39,7 @@ menu
 <h1>coordinates property</h1></div>
 <section id="getter">
 <section class="multi-line-signature">
-<a href="../../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>
+/sdk-for-flutter-explore-core-geocoordinates-class
 coordinates
 </section>
 <section class="desc markdown">
@@ -53,7 +54,7 @@ Gets the point on the map where the marker is drawn.</p>
 <section id="setter">
 <section class="multi-line-signature">
 void
-coordinates=(<wbr/><a href="../../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a> value)
+coordinates=(<wbr/>/sdk-for-flutter-explore-core-geocoordinates-class value)
 </section>
 <section class="desc markdown">
 <p>The point on the map where the map marker is drawn.
@@ -73,9 +74,9 @@ The altitude component of the coordinates is ignored.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapMarker-class.html">/sdk-for-flutter-explore-mapview-mapmarker-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapmarker-class</li>
 <li class="self-crumb">coordinates property</li>
 </ol>
 <h5>MapMarker class</h5>
@@ -92,4 +93,5 @@ The altitude component of the coordinates is ignored.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

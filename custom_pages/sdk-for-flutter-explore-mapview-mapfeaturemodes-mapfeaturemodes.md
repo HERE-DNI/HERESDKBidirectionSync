@@ -3,7 +3,8 @@ title: "MapFeatureModes constructor"
 slug: "sdk-for-flutter-explore-mapview-mapfeaturemodes-mapfeaturemodes"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- MapFeatureModes.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-mapfeaturemodes-mapfeaturemodes"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapFeatureModes-class.html">/sdk-for-flutter-explore-mapview-mapfeaturemodes-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapfeaturemodes-class</li>
 <li class="self-crumb">MapFeatureModes constructor</li>
 </ol>
 <div class="self-name">MapFeatureModes</div>
@@ -47,9 +48,9 @@ MapFeatureModes(<wbr/>)
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapFeatureModes-class.html">/sdk-for-flutter-explore-mapview-mapfeaturemodes-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapfeaturemodes-class</li>
 <li class="self-crumb">MapFeatureModes constructor</li>
 </ol>
 <h5>MapFeatureModes class</h5>
@@ -66,4 +67,5 @@ MapFeatureModes(<wbr/>)
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

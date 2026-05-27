@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "areaCenter property"
 slug: "sdk-for-flutter-explore-search-categoryqueryarea-areacenter"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- areaCenter.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-search-categoryqueryarea-areacenter"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/CategoryQueryArea-class.html">/sdk-for-flutter-explore-search-categoryqueryarea-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-categoryqueryarea-class</li>
 <li class="self-crumb">areaCenter property</li>
 </ol>
 <div class="self-name">areaCenter</div>
@@ -37,7 +38,7 @@ menu
 <div>
 <h1>areaCenter property</h1></div>
 <section class="multi-line-signature">
-<a href="../../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>
+/sdk-for-flutter-explore-core-geocoordinates-class
 areaCenter
 <div class="features">final</div>
 </section>
@@ -56,9 +57,9 @@ areaCenter
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/CategoryQueryArea-class.html">/sdk-for-flutter-explore-search-categoryqueryarea-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-categoryqueryarea-class</li>
 <li class="self-crumb">areaCenter property</li>
 </ol>
 <h5>CategoryQueryArea class</h5>
@@ -75,4 +76,5 @@ areaCenter
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

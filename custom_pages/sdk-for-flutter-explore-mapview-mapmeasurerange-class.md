@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "MapMeasureRange class"
 slug: "sdk-for-flutter-explore-mapview-mapmeasurerange-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- MapMeasureRange-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -27,8 +28,8 @@ slug: "sdk-for-flutter-explore-mapview-mapmeasurerange-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
 <li class="self-crumb">MapMeasureRange class</li>
 </ol>
 <div class="self-name">MapMeasureRange</div>
@@ -68,7 +69,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="MapMeasureRange">
-<a href="../mapview/MapMeasureRange/MapMeasureRange.html">/sdk-for-flutter-explore-mapview-mapmeasurerange-mapmeasurerange</a>(<a href="../mapview/MapMeasureKind.html">/sdk-for-flutter-explore-mapview-mapmeasurekind</a> kind, double minimumValue, double maximumValue)
+/sdk-for-flutter-explore-mapview-mapmeasurerange-mapmeasurerange(/sdk-for-flutter-explore-mapview-mapmeasurekind kind, double minimumValue, double maximumValue)
 </dt>
 <dd>
           Constructs a MapMeasureRange from the kind and range values.
@@ -80,7 +81,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="hashCode">
-<a href="../mapview/MapMeasureRange/hashCode.html">/sdk-for-flutter-explore-mapview-mapmeasurerange-hashcode</a>
+/sdk-for-flutter-explore-mapview-mapmeasurerange-hashcode
 → int
 </dt>
 <dd>
@@ -88,15 +89,15 @@ menu
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="kind">
-<a href="../mapview/MapMeasureRange/kind.html">/sdk-for-flutter-explore-mapview-mapmeasurerange-kind</a>
-→ <a href="../mapview/MapMeasureKind.html">/sdk-for-flutter-explore-mapview-mapmeasurekind</a>
+/sdk-for-flutter-explore-mapview-mapmeasurerange-kind
+→ /sdk-for-flutter-explore-mapview-mapmeasurekind
 </dt>
 <dd>
   The kind of measure represented by value.
   <div class="features">final</div>
 </dd>
 <dt class="property" id="maximumValue">
-<a href="../mapview/MapMeasureRange/maximumValue.html">/sdk-for-flutter-explore-mapview-mapmeasurerange-maximumvalue</a>
+/sdk-for-flutter-explore-mapview-mapmeasurerange-maximumvalue
 → double
 </dt>
 <dd>
@@ -104,7 +105,7 @@ menu
   <div class="features">final</div>
 </dd>
 <dt class="property" id="minimumValue">
-<a href="../mapview/MapMeasureRange/minimumValue.html">/sdk-for-flutter-explore-mapview-mapmeasurerange-minimumvalue</a>
+/sdk-for-flutter-explore-mapview-mapmeasurerange-minimumvalue
 → double
 </dt>
 <dd>
@@ -112,7 +113,7 @@ menu
   <div class="features">final</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../mapview/MapMeasureRange/runtimeType.html">/sdk-for-flutter-explore-mapview-mapmeasurerange-runtimetype</a>
+/sdk-for-flutter-explore-mapview-mapmeasurerange-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -125,7 +126,7 @@ menu
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../mapview/MapMeasureRange/noSuchMethod.html">/sdk-for-flutter-explore-mapview-mapmeasurerange-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-mapview-mapmeasurerange-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -134,7 +135,7 @@ menu
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../mapview/MapMeasureRange/toString.html">/sdk-for-flutter-explore-mapview-mapmeasurerange-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-mapview-mapmeasurerange-tostring(<wbr/>)
     → String
 
 </dt>
@@ -148,7 +149,7 @@ menu
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-<a href="../mapview/MapMeasureRange/operator_equals.html">/sdk-for-flutter-explore-mapview-mapmeasurerange-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-mapview-mapmeasurerange-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -167,8 +168,8 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
 <li class="self-crumb">MapMeasureRange class</li>
 </ol>
 <h5>mapview library</h5>
@@ -185,4 +186,5 @@ menu
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "withMapScheme abstract method"
 slug: "sdk-for-flutter-explore-mapview-mapsceneloadoptionsbuilder-withmapscheme"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- withMapScheme.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-mapsceneloadoptionsbuilder-withmapscheme"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapSceneLoadOptionsBuilder-class.html">/sdk-for-flutter-explore-mapview-mapsceneloadoptionsbuilder-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapsceneloadoptionsbuilder-class</li>
 <li class="self-crumb">withMapScheme abstract method</li>
 </ol>
 <div class="self-name">withMapScheme</div>
@@ -37,8 +38,8 @@ menu
 <div>
 <h1>withMapScheme abstract method</h1></div>
 <section class="multi-line-signature">
-<a href="../../mapview/MapSceneLoadOptionsBuilder-class.html">/sdk-for-flutter-explore-mapview-mapsceneloadoptionsbuilder-class</a>
-withMapScheme(<wbr/><ol class="parameter-list single-line"> <li><a href="../../mapview/MapScheme.html">/sdk-for-flutter-explore-mapview-mapscheme</a> mapScheme</li>
+/sdk-for-flutter-explore-mapview-mapsceneloadoptionsbuilder-class
+withMapScheme(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-mapview-mapscheme mapScheme</li>
 </ol>)
 
       
@@ -46,11 +47,11 @@ withMapScheme(<wbr/><ol class="parameter-list single-line"> <li><a href="../../m
     </section>
 <section class="desc markdown">
 <p>Sets the map scheme to load.</p>
-<p>Any configuration file set through <a href="../../mapview/MapSceneLoadOptionsBuilder/withConfigurationFile.html">/sdk-for-flutter-explore-mapview-mapsceneloadoptionsbuilder-withconfigurationfile</a> will be discarded.</p>
+<p>Any configuration file set through /sdk-for-flutter-explore-mapview-mapsceneloadoptionsbuilder-withconfigurationfile will be discarded.</p>
 <ul>
 <li><code>mapScheme</code> Map scheme to load.</li>
 </ul>
-<p>Returns <a href="../../mapview/MapSceneLoadOptionsBuilder-class.html">/sdk-for-flutter-explore-mapview-mapsceneloadoptionsbuilder-class</a>. This class instance.</p>
+<p>Returns /sdk-for-flutter-explore-mapview-mapsceneloadoptionsbuilder-class. This class instance.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -64,9 +65,9 @@ withMapScheme(<wbr/><ol class="parameter-list single-line"> <li><a href="../../m
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapSceneLoadOptionsBuilder-class.html">/sdk-for-flutter-explore-mapview-mapsceneloadoptionsbuilder-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapsceneloadoptionsbuilder-class</li>
 <li class="self-crumb">withMapScheme abstract method</li>
 </ol>
 <h5>MapSceneLoadOptionsBuilder class</h5>
@@ -83,4 +84,5 @@ withMapScheme(<wbr/><ol class="parameter-list single-line"> <li><a href="../../m
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

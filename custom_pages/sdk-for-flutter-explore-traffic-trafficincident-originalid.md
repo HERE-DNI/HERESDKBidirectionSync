@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "originalId property"
 slug: "sdk-for-flutter-explore-traffic-trafficincident-originalid"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- originalId.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-traffic-trafficincident-originalid"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../traffic/traffic-library.html">/sdk-for-flutter-explore-traffic-traffic-library</a></li>
-<li><a href="../../traffic/TrafficIncident-class.html">/sdk-for-flutter-explore-traffic-trafficincident-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-traffic-traffic-library</li>
+<li>/sdk-for-flutter-explore-traffic-trafficincident-class</li>
 <li class="self-crumb">originalId property</li>
 </ol>
 <div class="self-name">originalId</div>
@@ -43,9 +44,9 @@ originalId
 </section>
 <section class="desc markdown">
 <p>The unique identifier of the first traffic incident.
-The original id remains the same whenever the traffic incident is updated and <a href="../../traffic/TrafficIncident/id.html">/sdk-for-flutter-explore-traffic-trafficincident-id</a> is changed.
+The original id remains the same whenever the traffic incident is updated and /sdk-for-flutter-explore-traffic-trafficincident-id is changed.
 Once an incident chain has been created, this value will never change.
-The traffic incident an be looked up by original id using <a href="../../traffic/TrafficEngine/lookupIncident.html">/sdk-for-flutter-explore-traffic-trafficengine-lookupincident</a>.
+The traffic incident an be looked up by original id using /sdk-for-flutter-explore-traffic-trafficengine-lookupincident.
 Gets the unique identifier of the first traffic incident.</p>
 </section>
 <section class="summary source-code" id="source">
@@ -61,9 +62,9 @@ Gets the unique identifier of the first traffic incident.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../traffic/traffic-library.html">/sdk-for-flutter-explore-traffic-traffic-library</a></li>
-<li><a href="../../traffic/TrafficIncident-class.html">/sdk-for-flutter-explore-traffic-trafficincident-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-traffic-traffic-library</li>
+<li>/sdk-for-flutter-explore-traffic-trafficincident-class</li>
 <li class="self-crumb">originalId property</li>
 </ol>
 <h5>TrafficIncident class</h5>
@@ -80,4 +81,5 @@ Gets the unique identifier of the first traffic incident.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

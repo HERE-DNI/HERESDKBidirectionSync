@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "TrafficOnRoute class"
 slug: "sdk-for-flutter-explore-routing-trafficonroute-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- TrafficOnRoute-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -27,8 +28,8 @@ slug: "sdk-for-flutter-explore-routing-trafficonroute-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
 <li class="self-crumb">TrafficOnRoute class</li>
 </ol>
 <div class="self-name">TrafficOnRoute</div>
@@ -60,7 +61,7 @@ omitted.</p>
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="TrafficOnRoute">
-<a href="../routing/TrafficOnRoute/TrafficOnRoute.html">/sdk-for-flutter-explore-routing-trafficonroute-trafficonroute</a>()
+/sdk-for-flutter-explore-routing-trafficonroute-trafficonroute()
 </dt>
 <dd>
 </dd>
@@ -70,7 +71,7 @@ omitted.</p>
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="hashCode">
-<a href="../routing/TrafficOnRoute/hashCode.html">/sdk-for-flutter-explore-routing-trafficonroute-hashcode</a>
+/sdk-for-flutter-explore-routing-trafficonroute-hashcode
 → int
 </dt>
 <dd>
@@ -78,7 +79,7 @@ omitted.</p>
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="lastTraveledSectionIndex">
-<a href="../routing/TrafficOnRoute/lastTraveledSectionIndex.html">/sdk-for-flutter-explore-routing-trafficonroute-lasttraveledsectionindex</a>
+/sdk-for-flutter-explore-routing-trafficonroute-lasttraveledsectionindex
 ↔ int
 </dt>
 <dd>
@@ -87,7 +88,7 @@ be reused.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../routing/TrafficOnRoute/runtimeType.html">/sdk-for-flutter-explore-routing-trafficonroute-runtimetype</a>
+/sdk-for-flutter-explore-routing-trafficonroute-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -95,15 +96,15 @@ be reused.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="trafficSections">
-<a href="../routing/TrafficOnRoute/trafficSections.html">/sdk-for-flutter-explore-routing-trafficonroute-trafficsections</a>
-↔ List&lt;<wbr/><a href="../routing/TrafficOnSection-class.html">/sdk-for-flutter-explore-routing-trafficonsection-class</a>&gt;
+/sdk-for-flutter-explore-routing-trafficonroute-trafficsections
+↔ List&lt;<wbr/>/sdk-for-flutter-explore-routing-trafficonsection-class&gt;
 </dt>
 <dd>
   List of traffic sections.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="traveledDistanceOnLastSectionInMeters">
-<a href="../routing/TrafficOnRoute/traveledDistanceOnLastSectionInMeters.html">/sdk-for-flutter-explore-routing-trafficonroute-traveleddistanceonlastsectioninmeters</a>
+/sdk-for-flutter-explore-routing-trafficonroute-traveleddistanceonlastsectioninmeters
 ↔ int
 </dt>
 <dd>
@@ -117,7 +118,7 @@ traveled section index.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../routing/TrafficOnRoute/noSuchMethod.html">/sdk-for-flutter-explore-routing-trafficonroute-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-routing-trafficonroute-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -126,7 +127,7 @@ traveled section index.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../routing/TrafficOnRoute/toString.html">/sdk-for-flutter-explore-routing-trafficonroute-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-routing-trafficonroute-tostring(<wbr/>)
     → String
 
 </dt>
@@ -140,7 +141,7 @@ traveled section index.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-<a href="../routing/TrafficOnRoute/operator_equals.html">/sdk-for-flutter-explore-routing-trafficonroute-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-routing-trafficonroute-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -159,8 +160,8 @@ traveled section index.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
 <li class="self-crumb">TrafficOnRoute class</li>
 </ol>
 <h5>routing library</h5>
@@ -177,4 +178,5 @@ traveled section index.
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

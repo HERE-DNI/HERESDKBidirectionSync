@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "SDKVersion class"
 slug: "sdk-for-flutter-explore-core-engine-sdkversion-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- SDKVersion-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -33,8 +34,8 @@ slug: "sdk-for-flutter-explore-core-engine-sdkversion-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
 <li class="self-crumb">SDKVersion class</li>
 </ol>
 <div class="self-name">SDKVersion</div>
@@ -68,7 +69,7 @@ Please note, <code>sdk.core.engine.SDKBuildInformation</code> can be used to get
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="SDKVersion">
-<a href="../core.engine/SDKVersion/SDKVersion.html">/sdk-for-flutter-explore-core-engine-sdkversion-sdkversion</a>(String productVariant, String versionName, int versionGeneration, int versionMajor, int versionMinor, int versionPatch, int versionBuild, String versionTag, String backendConfig)
+/sdk-for-flutter-explore-core-engine-sdkversion-sdkversion(String productVariant, String versionName, int versionGeneration, int versionMajor, int versionMinor, int versionPatch, int versionBuild, String versionTag, String backendConfig)
 </dt>
 <dd>
           Creates a new SDK version instance from the provided parameter values.
@@ -79,7 +80,7 @@ Please note, <code>sdk.core.engine.SDKBuildInformation</code> can be used to get
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="backendConfig">
-<a href="../core.engine/SDKVersion/backendConfig.html">/sdk-for-flutter-explore-core-engine-sdkversion-backendconfig</a>
+/sdk-for-flutter-explore-core-engine-sdkversion-backendconfig
 ↔ String
 </dt>
 <dd>
@@ -87,7 +88,7 @@ Please note, <code>sdk.core.engine.SDKBuildInformation</code> can be used to get
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-<a href="../core.engine/SDKVersion/hashCode.html">/sdk-for-flutter-explore-core-engine-sdkversion-hashcode</a>
+/sdk-for-flutter-explore-core-engine-sdkversion-hashcode
 → int
 </dt>
 <dd>
@@ -95,7 +96,7 @@ Please note, <code>sdk.core.engine.SDKBuildInformation</code> can be used to get
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="productVariant">
-<a href="../core.engine/SDKVersion/productVariant.html">/sdk-for-flutter-explore-core-engine-sdkversion-productvariant</a>
+/sdk-for-flutter-explore-core-engine-sdkversion-productvariant
 ↔ String
 </dt>
 <dd>
@@ -103,7 +104,7 @@ Please note, <code>sdk.core.engine.SDKBuildInformation</code> can be used to get
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../core.engine/SDKVersion/runtimeType.html">/sdk-for-flutter-explore-core-engine-sdkversion-runtimetype</a>
+/sdk-for-flutter-explore-core-engine-sdkversion-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -111,7 +112,7 @@ Please note, <code>sdk.core.engine.SDKBuildInformation</code> can be used to get
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="versionBuild">
-<a href="../core.engine/SDKVersion/versionBuild.html">/sdk-for-flutter-explore-core-engine-sdkversion-versionbuild</a>
+/sdk-for-flutter-explore-core-engine-sdkversion-versionbuild
 ↔ int
 </dt>
 <dd>
@@ -119,7 +120,7 @@ Please note, <code>sdk.core.engine.SDKBuildInformation</code> can be used to get
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="versionGeneration">
-<a href="../core.engine/SDKVersion/versionGeneration.html">/sdk-for-flutter-explore-core-engine-sdkversion-versiongeneration</a>
+/sdk-for-flutter-explore-core-engine-sdkversion-versiongeneration
 ↔ int
 </dt>
 <dd>
@@ -127,7 +128,7 @@ Please note, <code>sdk.core.engine.SDKBuildInformation</code> can be used to get
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="versionMajor">
-<a href="../core.engine/SDKVersion/versionMajor.html">/sdk-for-flutter-explore-core-engine-sdkversion-versionmajor</a>
+/sdk-for-flutter-explore-core-engine-sdkversion-versionmajor
 ↔ int
 </dt>
 <dd>
@@ -135,7 +136,7 @@ Please note, <code>sdk.core.engine.SDKBuildInformation</code> can be used to get
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="versionMinor">
-<a href="../core.engine/SDKVersion/versionMinor.html">/sdk-for-flutter-explore-core-engine-sdkversion-versionminor</a>
+/sdk-for-flutter-explore-core-engine-sdkversion-versionminor
 ↔ int
 </dt>
 <dd>
@@ -143,7 +144,7 @@ Please note, <code>sdk.core.engine.SDKBuildInformation</code> can be used to get
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="versionName">
-<a href="../core.engine/SDKVersion/versionName.html">/sdk-for-flutter-explore-core-engine-sdkversion-versionname</a>
+/sdk-for-flutter-explore-core-engine-sdkversion-versionname
 ↔ String
 </dt>
 <dd>
@@ -151,7 +152,7 @@ Please note, <code>sdk.core.engine.SDKBuildInformation</code> can be used to get
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="versionPatch">
-<a href="../core.engine/SDKVersion/versionPatch.html">/sdk-for-flutter-explore-core-engine-sdkversion-versionpatch</a>
+/sdk-for-flutter-explore-core-engine-sdkversion-versionpatch
 ↔ int
 </dt>
 <dd>
@@ -159,7 +160,7 @@ Please note, <code>sdk.core.engine.SDKBuildInformation</code> can be used to get
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="versionTag">
-<a href="../core.engine/SDKVersion/versionTag.html">/sdk-for-flutter-explore-core-engine-sdkversion-versiontag</a>
+/sdk-for-flutter-explore-core-engine-sdkversion-versiontag
 ↔ String
 </dt>
 <dd>
@@ -172,7 +173,7 @@ Please note, <code>sdk.core.engine.SDKBuildInformation</code> can be used to get
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../core.engine/SDKVersion/noSuchMethod.html">/sdk-for-flutter-explore-core-engine-sdkversion-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-core-engine-sdkversion-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -181,7 +182,7 @@ Please note, <code>sdk.core.engine.SDKBuildInformation</code> can be used to get
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../core.engine/SDKVersion/toString.html">/sdk-for-flutter-explore-core-engine-sdkversion-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-core-engine-sdkversion-tostring(<wbr/>)
     → String
 
 </dt>
@@ -195,7 +196,7 @@ Please note, <code>sdk.core.engine.SDKBuildInformation</code> can be used to get
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-<a href="../core.engine/SDKVersion/operator_equals.html">/sdk-for-flutter-explore-core-engine-sdkversion-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-core-engine-sdkversion-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -214,8 +215,8 @@ Please note, <code>sdk.core.engine.SDKBuildInformation</code> can be used to get
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
 <li class="self-crumb">SDKVersion class</li>
 </ol>
 <h5>core.engine library</h5>
@@ -232,4 +233,5 @@ Please note, <code>sdk.core.engine.SDKBuildInformation</code> can be used to get
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

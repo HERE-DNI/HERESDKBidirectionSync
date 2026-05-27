@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "duration property"
 slug: "sdk-for-flutter-explore-routing-waypoint-duration"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- duration.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-routing-waypoint-duration"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/Waypoint-class.html">/sdk-for-flutter-explore-routing-waypoint-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-waypoint-class</li>
 <li class="self-crumb">duration property</li>
 </ol>
 <div class="self-name">duration</div>
@@ -43,9 +44,9 @@ menu
 <div class="features">getter/setter pair</div>
 </section>
 <section class="desc markdown">
-<p>The duration in seconds that should be spent at a waypoint of type <a href="../../routing/WaypointType.html">/sdk-for-flutter-explore-routing-waypointtype</a>.
+<p>The duration in seconds that should be spent at a waypoint of type /sdk-for-flutter-explore-routing-waypointtype.
 Impacts time-aware calculations.
-Ignored for waypoints of type <a href="../../routing/WaypointType.html">/sdk-for-flutter-explore-routing-waypointtype</a>.
+Ignored for waypoints of type /sdk-for-flutter-explore-routing-waypointtype.
 The default duration is 0 seconds.</p>
 </section>
 <section class="summary source-code" id="source">
@@ -60,9 +61,9 @@ The default duration is 0 seconds.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/Waypoint-class.html">/sdk-for-flutter-explore-routing-waypoint-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-waypoint-class</li>
 <li class="self-crumb">duration property</li>
 </ol>
 <h5>Waypoint class</h5>
@@ -79,4 +80,5 @@ The default duration is 0 seconds.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

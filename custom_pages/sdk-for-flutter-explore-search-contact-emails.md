@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "emails property"
 slug: "sdk-for-flutter-explore-search-contact-emails"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- emails.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-search-contact-emails"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/Contact-class.html">/sdk-for-flutter-explore-search-contact-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-contact-class</li>
 <li class="self-crumb">emails property</li>
 </ol>
 <div class="self-name">emails</div>
@@ -38,7 +39,7 @@ menu
 <h1>emails property</h1></div>
 <section class="multi-line-signature">
         
-        List&lt;<wbr/><a href="../../search/EmailAddress-class.html">/sdk-for-flutter-explore-search-emailaddress-class</a>&gt;
+        List&lt;<wbr/>/sdk-for-flutter-explore-search-emailaddress-class&gt;
 emails
 <div class="features">getter/setter pair</div>
 </section>
@@ -58,9 +59,9 @@ This data is not available in offline search.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/Contact-class.html">/sdk-for-flutter-explore-search-contact-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-contact-class</li>
 <li class="self-crumb">emails property</li>
 </ol>
 <h5>Contact class</h5>
@@ -77,4 +78,5 @@ This data is not available in offline search.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

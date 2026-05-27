@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "RouteLabel class"
 slug: "sdk-for-flutter-explore-routing-routelabel-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- RouteLabel-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -26,8 +27,8 @@ slug: "sdk-for-flutter-explore-routing-routelabel-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
 <li class="self-crumb">RouteLabel class</li>
 </ol>
 <div class="self-name">RouteLabel</div>
@@ -53,13 +54,13 @@ menu
 <section class="desc markdown">
 <p>The main street name or road number for a route.</p>
 <p>A route can contain more than one such street name or route number.
-To include route labels in the route response, enable it using <a href="../routing/RouteOptions/enableRouteLabels.html">/sdk-for-flutter-explore-routing-routeoptions-enableroutelabels</a>.</p>
+To include route labels in the route response, enable it using /sdk-for-flutter-explore-routing-routeoptions-enableroutelabels.</p>
 </section>
 <section class="summary offset-anchor" id="constructors">
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="RouteLabel">
-<a href="../routing/RouteLabel/RouteLabel.html">/sdk-for-flutter-explore-routing-routelabel-routelabel</a>(<a href="../core/LocalizedText-class.html">/sdk-for-flutter-explore-core-localizedtext-class</a> name)
+/sdk-for-flutter-explore-routing-routelabel-routelabel(/sdk-for-flutter-explore-core-localizedtext-class name)
 </dt>
 <dd>
 </dd>
@@ -69,7 +70,7 @@ To include route labels in the route response, enable it using <a href="../routi
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="hashCode">
-<a href="../routing/RouteLabel/hashCode.html">/sdk-for-flutter-explore-routing-routelabel-hashcode</a>
+/sdk-for-flutter-explore-routing-routelabel-hashcode
 → int
 </dt>
 <dd>
@@ -77,15 +78,15 @@ To include route labels in the route response, enable it using <a href="../routi
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="name">
-<a href="../routing/RouteLabel/name.html">/sdk-for-flutter-explore-routing-routelabel-name</a>
-↔ <a href="../core/LocalizedText-class.html">/sdk-for-flutter-explore-core-localizedtext-class</a>
+/sdk-for-flutter-explore-routing-routelabel-name
+↔ /sdk-for-flutter-explore-core-localizedtext-class
 </dt>
 <dd>
   The street name or route number for the route label.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../routing/RouteLabel/runtimeType.html">/sdk-for-flutter-explore-routing-routelabel-runtimetype</a>
+/sdk-for-flutter-explore-routing-routelabel-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -93,8 +94,8 @@ To include route labels in the route response, enable it using <a href="../routi
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="type">
-<a href="../routing/RouteLabel/type.html">/sdk-for-flutter-explore-routing-routelabel-type</a>
-↔ <a href="../routing/RouteLabelType.html">/sdk-for-flutter-explore-routing-routelabeltype</a>
+/sdk-for-flutter-explore-routing-routelabel-type
+↔ /sdk-for-flutter-explore-routing-routelabeltype
 </dt>
 <dd>
   The type of the route label, describing if the route label contains a street name or a route number.
@@ -106,7 +107,7 @@ To include route labels in the route response, enable it using <a href="../routi
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../routing/RouteLabel/noSuchMethod.html">/sdk-for-flutter-explore-routing-routelabel-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-routing-routelabel-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -115,7 +116,7 @@ To include route labels in the route response, enable it using <a href="../routi
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../routing/RouteLabel/toString.html">/sdk-for-flutter-explore-routing-routelabel-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-routing-routelabel-tostring(<wbr/>)
     → String
 
 </dt>
@@ -129,7 +130,7 @@ To include route labels in the route response, enable it using <a href="../routi
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-<a href="../routing/RouteLabel/operator_equals.html">/sdk-for-flutter-explore-routing-routelabel-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-routing-routelabel-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -148,8 +149,8 @@ To include route labels in the route response, enable it using <a href="../routi
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
 <li class="self-crumb">RouteLabel class</li>
 </ol>
 <h5>routing library</h5>
@@ -166,4 +167,5 @@ To include route labels in the route response, enable it using <a href="../routi
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

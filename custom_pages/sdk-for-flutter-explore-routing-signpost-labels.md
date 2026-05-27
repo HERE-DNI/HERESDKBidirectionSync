@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "labels property"
 slug: "sdk-for-flutter-explore-routing-signpost-labels"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- labels.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-routing-signpost-labels"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/Signpost-class.html">/sdk-for-flutter-explore-routing-signpost-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-signpost-class</li>
 <li class="self-crumb">labels property</li>
 </ol>
 <div class="self-name">labels</div>
@@ -38,7 +39,7 @@ menu
 <h1>labels property</h1></div>
 <section class="multi-line-signature">
         
-        List&lt;<wbr/><a href="../../routing/SignpostLabel-class.html">/sdk-for-flutter-explore-routing-signpostlabel-class</a>&gt;
+        List&lt;<wbr/>/sdk-for-flutter-explore-routing-signpostlabel-class&gt;
 labels
 <div class="features">getter/setter pair</div>
 </section>
@@ -57,9 +58,9 @@ labels
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/Signpost-class.html">/sdk-for-flutter-explore-routing-signpost-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-signpost-class</li>
 <li class="self-crumb">labels property</li>
 </ol>
 <h5>Signpost class</h5>
@@ -76,4 +77,5 @@ labels
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "visibilityRanges property"
 slug: "sdk-for-flutter-explore-mapview-mapmarker3d-visibilityranges"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- visibilityRanges.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-mapmarker3d-visibilityranges"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapMarker3D-class.html">/sdk-for-flutter-explore-mapview-mapmarker3d-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapmarker3d-class</li>
 <li class="self-crumb">visibilityRanges property</li>
 </ol>
 <div class="self-name">visibilityRanges</div>
@@ -38,7 +39,7 @@ menu
 <h1>visibilityRanges property</h1></div>
 <section id="getter">
 <section class="multi-line-signature">
-List&lt;<wbr/><a href="../../mapview/MapMeasureRange-class.html">/sdk-for-flutter-explore-mapview-mapmeasurerange-class</a>&gt;
+List&lt;<wbr/>/sdk-for-flutter-explore-mapview-mapmeasurerange-class&gt;
 visibilityRanges
 </section>
 <section class="desc markdown">
@@ -46,8 +47,8 @@ visibilityRanges
 A range is half open - [minimumZoomLevel, maximumZoomLevel), the given maximum value
 is not contained in the range.</p>
 <p>When empty (the default), the 3D marker is visible without map measure restrictions.
-Only <a href="s">s</a> of <a href="../../mapview/MapMeasureKind.html">/sdk-for-flutter-explore-mapview-mapmeasurekind</a> type are supported.
-<a href="s">s</a> of other unsupported types will be ignored.
+Only s of /sdk-for-flutter-explore-mapview-mapmeasurekind type are supported.
+s of other unsupported types will be ignored.
 Gets the list of visibility ranges.</p>
 </section>
 <section class="summary source-code" id="source">
@@ -58,15 +59,15 @@ Gets the list of visibility ranges.</p>
 <section id="setter">
 <section class="multi-line-signature">
 void
-visibilityRanges=(<wbr/>List&lt;<wbr/><a href="../../mapview/MapMeasureRange-class.html">/sdk-for-flutter-explore-mapview-mapmeasurerange-class</a>&gt; value)
+visibilityRanges=(<wbr/>List&lt;<wbr/>/sdk-for-flutter-explore-mapview-mapmeasurerange-class&gt; value)
 </section>
 <section class="desc markdown">
 <p>The list of visibility ranges. The 3D marker is visible only inside these map measure ranges.
 A range is half open - [minimumZoomLevel, maximumZoomLevel), the given maximum value
 is not contained in the range.</p>
 <p>When empty (the default), the 3D marker is visible without map measure restrictions.
-Only <a href="s">s</a> of <a href="../../mapview/MapMeasureKind.html">/sdk-for-flutter-explore-mapview-mapmeasurekind</a> type are supported.
-<a href="s">s</a> of other unsupported types will be ignored.
+Only s of /sdk-for-flutter-explore-mapview-mapmeasurekind type are supported.
+s of other unsupported types will be ignored.
 Sets visibility ranges for this 3D marker.</p>
 </section>
 <section class="summary source-code" id="source">
@@ -82,9 +83,9 @@ Sets visibility ranges for this 3D marker.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapMarker3D-class.html">/sdk-for-flutter-explore-mapview-mapmarker3d-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapmarker3d-class</li>
 <li class="self-crumb">visibilityRanges property</li>
 </ol>
 <h5>MapMarker3D class</h5>
@@ -101,4 +102,5 @@ Sets visibility ranges for this 3D marker.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

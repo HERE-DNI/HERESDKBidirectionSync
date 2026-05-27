@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "TileKey class"
 slug: "sdk-for-flutter-explore-mapview-datasource-tilekey-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- TileKey-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -27,8 +28,8 @@ slug: "sdk-for-flutter-explore-mapview-datasource-tilekey-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
 <li class="self-crumb">TileKey class</li>
 </ol>
 <div class="self-name">TileKey</div>
@@ -60,7 +61,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="TileKey">
-<a href="../mapview.datasource/TileKey/TileKey.html">/sdk-for-flutter-explore-mapview-datasource-tilekey-tilekey</a>(int x, int y, int level)
+/sdk-for-flutter-explore-mapview-datasource-tilekey-tilekey(int x, int y, int level)
 </dt>
 <dd>
           Creates a new instance.
@@ -71,7 +72,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="hashCode">
-<a href="../mapview.datasource/TileKey/hashCode.html">/sdk-for-flutter-explore-mapview-datasource-tilekey-hashcode</a>
+/sdk-for-flutter-explore-mapview-datasource-tilekey-hashcode
 → int
 </dt>
 <dd>
@@ -79,7 +80,7 @@ behavior. Related APIs may change for new releases without a deprecation process
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="level">
-<a href="../mapview.datasource/TileKey/level.html">/sdk-for-flutter-explore-mapview-datasource-tilekey-level</a>
+/sdk-for-flutter-explore-mapview-datasource-tilekey-level
 ↔ int
 </dt>
 <dd>
@@ -87,7 +88,7 @@ behavior. Related APIs may change for new releases without a deprecation process
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../mapview.datasource/TileKey/runtimeType.html">/sdk-for-flutter-explore-mapview-datasource-tilekey-runtimetype</a>
+/sdk-for-flutter-explore-mapview-datasource-tilekey-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -95,7 +96,7 @@ behavior. Related APIs may change for new releases without a deprecation process
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="x">
-<a href="../mapview.datasource/TileKey/x.html">/sdk-for-flutter-explore-mapview-datasource-tilekey-x</a>
+/sdk-for-flutter-explore-mapview-datasource-tilekey-x
 ↔ int
 </dt>
 <dd>
@@ -103,7 +104,7 @@ behavior. Related APIs may change for new releases without a deprecation process
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="y">
-<a href="../mapview.datasource/TileKey/y.html">/sdk-for-flutter-explore-mapview-datasource-tilekey-y</a>
+/sdk-for-flutter-explore-mapview-datasource-tilekey-y
 ↔ int
 </dt>
 <dd>
@@ -116,7 +117,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../mapview.datasource/TileKey/noSuchMethod.html">/sdk-for-flutter-explore-mapview-datasource-tilekey-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-mapview-datasource-tilekey-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -125,7 +126,7 @@ behavior. Related APIs may change for new releases without a deprecation process
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../mapview.datasource/TileKey/toString.html">/sdk-for-flutter-explore-mapview-datasource-tilekey-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-mapview-datasource-tilekey-tostring(<wbr/>)
     → String
 
 </dt>
@@ -139,7 +140,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-<a href="../mapview.datasource/TileKey/operator_equals.html">/sdk-for-flutter-explore-mapview-datasource-tilekey-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-mapview-datasource-tilekey-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -158,8 +159,8 @@ behavior. Related APIs may change for new releases without a deprecation process
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
 <li class="self-crumb">TileKey class</li>
 </ol>
 <h5>mapview.datasource library</h5>
@@ -176,4 +177,5 @@ behavior. Related APIs may change for new releases without a deprecation process
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

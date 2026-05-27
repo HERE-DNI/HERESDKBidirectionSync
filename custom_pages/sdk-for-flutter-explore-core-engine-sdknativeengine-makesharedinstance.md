@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "makeSharedInstance static method"
 slug: "sdk-for-flutter-explore-core-engine-sdknativeengine-makesharedinstance"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- makeSharedInstance.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-core-engine-sdknativeengine-makesharedinstance"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
-<li><a href="../../core.engine/SDKNativeEngine-class.html">/sdk-for-flutter-explore-core-engine-sdknativeengine-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
+<li>/sdk-for-flutter-explore-core-engine-sdknativeengine-class</li>
 <li class="self-crumb">makeSharedInstance static method</li>
 </ol>
 <div class="self-name">makeSharedInstance</div>
@@ -38,7 +39,7 @@ menu
 <h1>makeSharedInstance static method</h1></div>
 <section class="multi-line-signature">
 Future&lt;<wbr/>void&gt;
-makeSharedInstance(<wbr/><ol class="parameter-list single-line"> <li><a href="../../core.engine/SDKOptions-class.html">/sdk-for-flutter-explore-core-engine-sdkoptions-class</a> options</li>
+makeSharedInstance(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-core-engine-sdkoptions-class options</li>
 </ol>)
 
       
@@ -46,14 +47,14 @@ makeSharedInstance(<wbr/><ol class="parameter-list single-line"> <li><a href="..
     </section>
 <section class="desc markdown">
 <p>Makes a new instance of SDKNativeEngine using supplied options and stores it as shared instance
-see <a href="../../core.engine/SDKNativeEngine/sharedInstance.html">/sdk-for-flutter-explore-core-engine-sdknativeengine-sharedinstance</a>.</p>
+see /sdk-for-flutter-explore-core-engine-sdknativeengine-sharedinstance.</p>
 <p>If there was previously shared instance
-then it's disposed (see <a href="../../core.engine/SDKNativeEngine/dispose.html">/sdk-for-flutter-explore-core-engine-sdknativeengine-dispose</a>)
+then it's disposed (see /sdk-for-flutter-explore-core-engine-sdknativeengine-dispose)
 before new instance is created.</p>
 <ul>
 <li><code>options</code> The options for the new engine.</li>
 </ul>
-<p>Throws <a href="../../core.errors/InstantiationException-class.html">/sdk-for-flutter-explore-core-errors-instantiationexception-class</a>. Indicates what went wrong when the instantiation was attempted.</p>
+<p>Throws /sdk-for-flutter-explore-core-errors-instantiationexception-class. Indicates what went wrong when the instantiation was attempted.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -67,9 +68,9 @@ before new instance is created.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
-<li><a href="../../core.engine/SDKNativeEngine-class.html">/sdk-for-flutter-explore-core-engine-sdknativeengine-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
+<li>/sdk-for-flutter-explore-core-engine-sdknativeengine-class</li>
 <li class="self-crumb">makeSharedInstance static method</li>
 </ol>
 <h5>SDKNativeEngine class</h5>
@@ -86,4 +87,5 @@ before new instance is created.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

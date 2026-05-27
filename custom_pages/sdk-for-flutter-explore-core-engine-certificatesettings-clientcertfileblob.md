@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "clientCertFileBlob property"
 slug: "sdk-for-flutter-explore-core-engine-certificatesettings-clientcertfileblob"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- clientCertFileBlob.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-core-engine-certificatesettings-clientcertfileblo
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
-<li><a href="../../core.engine/CertificateSettings-class.html">/sdk-for-flutter-explore-core-engine-certificatesettings-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
+<li>/sdk-for-flutter-explore-core-engine-certificatesettings-class</li>
 <li class="self-crumb">clientCertFileBlob property</li>
 </ol>
 <div class="self-name">clientCertFileBlob</div>
@@ -61,9 +62,9 @@ behaviors. Related APIs may change for new releases without a deprecation proces
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
-<li><a href="../../core.engine/CertificateSettings-class.html">/sdk-for-flutter-explore-core-engine-certificatesettings-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
+<li>/sdk-for-flutter-explore-core-engine-certificatesettings-class</li>
 <li class="self-crumb">clientCertFileBlob property</li>
 </ol>
 <h5>CertificateSettings class</h5>
@@ -80,4 +81,5 @@ behaviors. Related APIs may change for new releases without a deprecation proces
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

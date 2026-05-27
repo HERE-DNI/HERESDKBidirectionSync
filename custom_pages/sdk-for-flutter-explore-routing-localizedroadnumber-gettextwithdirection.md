@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "getTextWithDirection method"
 slug: "sdk-for-flutter-explore-routing-localizedroadnumber-gettextwithdirection"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- getTextWithDirection.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-routing-localizedroadnumber-gettextwithdirection"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/LocalizedRoadNumber-class.html">/sdk-for-flutter-explore-routing-localizedroadnumber-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-localizedroadnumber-class</li>
 <li class="self-crumb">getTextWithDirection method</li>
 </ol>
 <div class="self-name">getTextWithDirection</div>
@@ -60,9 +61,9 @@ getTextWithDirection(<wbr/>)
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/LocalizedRoadNumber-class.html">/sdk-for-flutter-explore-routing-localizedroadnumber-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-localizedroadnumber-class</li>
 <li class="self-crumb">getTextWithDirection method</li>
 </ol>
 <h5>LocalizedRoadNumber class</h5>
@@ -79,4 +80,5 @@ getTextWithDirection(<wbr/>)
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "MapObjectDescriptor class abstract"
 slug: "sdk-for-flutter-explore-mapview-mapobjectdescriptor-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- MapObjectDescriptor-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -27,8 +28,8 @@ slug: "sdk-for-flutter-explore-mapview-mapobjectdescriptor-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
 <li class="self-crumb">MapObjectDescriptor class</li>
 </ol>
 <div class="self-name">MapObjectDescriptor</div>
@@ -58,7 +59,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="MapObjectDescriptor">
-<a href="../mapview/MapObjectDescriptor/MapObjectDescriptor.html">/sdk-for-flutter-explore-mapview-mapobjectdescriptor-mapobjectdescriptor</a>()
+/sdk-for-flutter-explore-mapview-mapobjectdescriptor-mapobjectdescriptor()
 </dt>
 <dd>
 </dd>
@@ -68,7 +69,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="hashCode">
-<a href="../mapview/MapObjectDescriptor/hashCode.html">/sdk-for-flutter-explore-mapview-mapobjectdescriptor-hashcode</a>
+/sdk-for-flutter-explore-mapview-mapobjectdescriptor-hashcode
 → int
 </dt>
 <dd class="inherited">
@@ -76,7 +77,7 @@ menu
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../mapview/MapObjectDescriptor/runtimeType.html">/sdk-for-flutter-explore-mapview-mapobjectdescriptor-runtimetype</a>
+/sdk-for-flutter-explore-mapview-mapobjectdescriptor-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -89,8 +90,8 @@ menu
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable" id="getClosestPoint">
-<a href="../mapview/MapObjectDescriptor/getClosestPoint.html">/sdk-for-flutter-explore-mapview-mapobjectdescriptor-getclosestpoint</a>(<wbr/>)
-    → <a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>?
+/sdk-for-flutter-explore-mapview-mapobjectdescriptor-getclosestpoint(<wbr/>)
+    → /sdk-for-flutter-explore-core-geocoordinates-class?
 
 </dt>
 <dd>
@@ -99,8 +100,9 @@ menu
 
 </dd>
 <dt class="callable" id="getDataAttributes">
-<a href="../mapview/MapObjectDescriptor/getDataAttributes.html">/sdk-for-flutter-explore-mapview-mapobjectdescriptor-getdataattributes</a>(<wbr/>)
-    → <a href="../mapview.datasource/DataAttributes-class.html">/sdk-for-flutter-explore-mapview-datasource-dataattributes-class</a>
+/sdk-for-flutter-explore-mapview-mapobjectdescriptor-getdataattributes(<wbr/>)
+    → /sdk-for-flutter-explore-mapview-datasource-dataattributes-class
+
 </dt>
 <dd>
   Returns data attributes of a map object.
@@ -108,7 +110,7 @@ menu
 
 </dd>
 <dt class="callable" id="getLayerName">
-<a href="../mapview/MapObjectDescriptor/getLayerName.html">/sdk-for-flutter-explore-mapview-mapobjectdescriptor-getlayername</a>(<wbr/>)
+/sdk-for-flutter-explore-mapview-mapobjectdescriptor-getlayername(<wbr/>)
     → String
 
 </dt>
@@ -118,7 +120,7 @@ menu
 
 </dd>
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../mapview/MapObjectDescriptor/noSuchMethod.html">/sdk-for-flutter-explore-mapview-mapobjectdescriptor-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-mapview-mapobjectdescriptor-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -127,7 +129,7 @@ menu
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../mapview/MapObjectDescriptor/toString.html">/sdk-for-flutter-explore-mapview-mapobjectdescriptor-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-mapview-mapobjectdescriptor-tostring(<wbr/>)
     → String
 
 </dt>
@@ -141,7 +143,7 @@ menu
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-<a href="../mapview/MapObjectDescriptor/operator_equals.html">/sdk-for-flutter-explore-mapview-mapobjectdescriptor-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-mapview-mapobjectdescriptor-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -159,8 +161,8 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
 <li class="self-crumb">MapObjectDescriptor class</li>
 </ol>
 <h5>mapview library</h5>
@@ -177,4 +179,5 @@ menu
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

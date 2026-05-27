@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "MapPolylineAnimation constructor"
 slug: "sdk-for-flutter-explore-animation-mappolylineanimation-mappolylineanimation"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- MapPolylineAnimation.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-animation-mappolylineanimation-mappolylineanimati
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../animation/animation-library.html">/sdk-for-flutter-explore-animation-animation-library</a></li>
-<li><a href="../../animation/MapPolylineAnimation-class.html">/sdk-for-flutter-explore-animation-mappolylineanimation-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-animation-animation-library</li>
+<li>/sdk-for-flutter-explore-animation-mappolylineanimation-class</li>
 <li class="self-crumb">MapPolylineAnimation factory constructor</li>
 </ol>
 <div class="self-name">MapPolylineAnimation</div>
@@ -37,17 +38,17 @@ menu
 <div>
 <h1>MapPolylineAnimation constructor</h1></div>
 <section class="multi-line-signature">
-MapPolylineAnimation(<wbr/><ol class="parameter-list single-line"> <li><a href="../../animation/MapItemKeyFrameTrack-class.html">/sdk-for-flutter-explore-animation-mapitemkeyframetrack-class</a> track</li>
+MapPolylineAnimation(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-animation-mapitemkeyframetrack-class track</li>
 </ol>)
     </section>
 <section class="desc markdown">
-<p>Creates an animation of <a href="../../mapview/MapPolyline-class.html">/sdk-for-flutter-explore-mapview-mappolyline-class</a> based on provided keyframe track.</p>
-<p>Supports tracks created with <a href="../../animation/MapItemKeyFrameTrack-class.html">/sdk-for-flutter-explore-animation-mapitemkeyframetrack-class</a> 'polylineProgress*' methods.
-For starting the animation, see <a href="../../mapview/MapPolyline/startAnimation.html">/sdk-for-flutter-explore-mapview-mappolyline-startanimation</a>.</p>
+<p>Creates an animation of /sdk-for-flutter-explore-mapview-mappolyline-class based on provided keyframe track.</p>
+<p>Supports tracks created with /sdk-for-flutter-explore-animation-mapitemkeyframetrack-class 'polylineProgress*' methods.
+For starting the animation, see /sdk-for-flutter-explore-mapview-mappolyline-startanimation.</p>
 <ul>
 <li><code>track</code> The track holding the keyframes for the animation.</li>
 </ul>
-<p>Throws <a href="../../animation/MapPolylineAnimationInstantiationException-class.html">/sdk-for-flutter-explore-animation-mappolylineanimationinstantiationexception-class</a>. If the specified keyframe track cannot be used to create animation of a <a href="../../mapview/MapPolyline-class.html">/sdk-for-flutter-explore-mapview-mappolyline-class</a>.</p>
+<p>Throws /sdk-for-flutter-explore-animation-mappolylineanimationinstantiationexception-class. If the specified keyframe track cannot be used to create animation of a /sdk-for-flutter-explore-mapview-mappolyline-class.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -61,9 +62,9 @@ For starting the animation, see <a href="../../mapview/MapPolyline/startAnimatio
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../animation/animation-library.html">/sdk-for-flutter-explore-animation-animation-library</a></li>
-<li><a href="../../animation/MapPolylineAnimation-class.html">/sdk-for-flutter-explore-animation-mappolylineanimation-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-animation-animation-library</li>
+<li>/sdk-for-flutter-explore-animation-mappolylineanimation-class</li>
 <li class="self-crumb">MapPolylineAnimation factory constructor</li>
 </ol>
 <h5>MapPolylineAnimation class</h5>
@@ -80,4 +81,5 @@ For starting the animation, see <a href="../../mapview/MapPolyline/startAnimatio
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

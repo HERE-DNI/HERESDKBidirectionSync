@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "CatalogIdentifier class"
 slug: "sdk-for-flutter-explore-core-engine-catalogidentifier-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- CatalogIdentifier-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -26,8 +27,8 @@ slug: "sdk-for-flutter-explore-core-engine-catalogidentifier-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
 <li class="self-crumb">CatalogIdentifier class</li>
 </ol>
 <div class="self-name">CatalogIdentifier</div>
@@ -75,7 +76,7 @@ and <a href="https://www.here.com/docs/bundle/introduction-to-mapping-concepts-u
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="CatalogIdentifier">
-<a href="../core.engine/CatalogIdentifier/CatalogIdentifier.html">/sdk-for-flutter-explore-core-engine-catalogidentifier-catalogidentifier</a>()
+/sdk-for-flutter-explore-core-engine-catalogidentifier-catalogidentifier()
 </dt>
 <dd>
 </dd>
@@ -85,7 +86,7 @@ and <a href="https://www.here.com/docs/bundle/introduction-to-mapping-concepts-u
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="hashCode">
-<a href="../core.engine/CatalogIdentifier/hashCode.html">/sdk-for-flutter-explore-core-engine-catalogidentifier-hashcode</a>
+/sdk-for-flutter-explore-core-engine-catalogidentifier-hashcode
 → int
 </dt>
 <dd>
@@ -93,7 +94,7 @@ and <a href="https://www.here.com/docs/bundle/introduction-to-mapping-concepts-u
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="hrn">
-<a href="../core.engine/CatalogIdentifier/hrn.html">/sdk-for-flutter-explore-core-engine-catalogidentifier-hrn</a>
+/sdk-for-flutter-explore-core-engine-catalogidentifier-hrn
 ↔ String
 </dt>
 <dd>
@@ -101,11 +102,11 @@ and <a href="https://www.here.com/docs/bundle/introduction-to-mapping-concepts-u
 catalog to your project. For information about catalog creation process refer to
 <a href="https://www.here.com/docs/bundle/data-api-developer-guide/page/rest/creating-a-catalog.html">the Data API</a>
 By default, this field points to a default catalog on HERE platform, which contains data for the whole world excluding the region of Japan.
-Use <a href="../core.engine/CatalogConfiguration/getDefault.html">/sdk-for-flutter-explore-core-engine-catalogconfiguration-getdefault</a> to get the default HRN value for use with the HERE platform.
+Use /sdk-for-flutter-explore-core-engine-catalogconfiguration-getdefault to get the default HRN value for use with the HERE platform.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../core.engine/CatalogIdentifier/runtimeType.html">/sdk-for-flutter-explore-core-engine-catalogidentifier-runtimetype</a>
+/sdk-for-flutter-explore-core-engine-catalogidentifier-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -113,7 +114,7 @@ Use <a href="../core.engine/CatalogConfiguration/getDefault.html">/sdk-for-flutt
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="version">
-<a href="../core.engine/CatalogIdentifier/version.html">/sdk-for-flutter-explore-core-engine-catalogidentifier-version</a>
+/sdk-for-flutter-explore-core-engine-catalogidentifier-version
 ↔ int?
 </dt>
 <dd>
@@ -122,7 +123,7 @@ Set <code>null</code> to automatically get the latest version for a catalog.
 The field defaults to <code>null</code>.
 Since the data inside a catalog can be updated, each published modification needs to correlate
 to a specific version number.
-Note: when <code>CatalogIdentifier</code> created with <a href="../core.engine/DesiredCatalog-class.html">/sdk-for-flutter-explore-core-engine-desiredcatalog-class</a> then:
+Note: when <code>CatalogIdentifier</code> created with /sdk-for-flutter-explore-core-engine-desiredcatalog-class then:
   <div class="features">getter/setter pair</div>
 </dd>
 </dl>
@@ -131,7 +132,7 @@ Note: when <code>CatalogIdentifier</code> created with <a href="../core.engine/D
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../core.engine/CatalogIdentifier/noSuchMethod.html">/sdk-for-flutter-explore-core-engine-catalogidentifier-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-core-engine-catalogidentifier-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -140,7 +141,7 @@ Note: when <code>CatalogIdentifier</code> created with <a href="../core.engine/D
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../core.engine/CatalogIdentifier/toString.html">/sdk-for-flutter-explore-core-engine-catalogidentifier-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-core-engine-catalogidentifier-tostring(<wbr/>)
     → String
 
 </dt>
@@ -154,7 +155,7 @@ Note: when <code>CatalogIdentifier</code> created with <a href="../core.engine/D
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-<a href="../core.engine/CatalogIdentifier/operator_equals.html">/sdk-for-flutter-explore-core-engine-catalogidentifier-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-core-engine-catalogidentifier-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -173,8 +174,8 @@ Note: when <code>CatalogIdentifier</code> created with <a href="../core.engine/D
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
 <li class="self-crumb">CatalogIdentifier class</li>
 </ol>
 <h5>core.engine library</h5>
@@ -191,4 +192,5 @@ Note: when <code>CatalogIdentifier</code> created with <a href="../core.engine/D
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

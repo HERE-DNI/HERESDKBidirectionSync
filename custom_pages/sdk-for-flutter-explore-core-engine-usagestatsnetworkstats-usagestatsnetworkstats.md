@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "UsageStatsNetworkStats constructor"
 slug: "sdk-for-flutter-explore-core-engine-usagestatsnetworkstats-usagestatsnetworkstats"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- UsageStatsNetworkStats.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-core-engine-usagestatsnetworkstats-usagestatsnetw
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
-<li><a href="../../core.engine/UsageStatsNetworkStats-class.html">/sdk-for-flutter-explore-core-engine-usagestatsnetworkstats-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
+<li>/sdk-for-flutter-explore-core-engine-usagestatsnetworkstats-class</li>
 <li class="self-crumb">UsageStatsNetworkStats constructor</li>
 </ol>
 <div class="self-name">UsageStatsNetworkStats</div>
@@ -68,9 +69,9 @@ will be considered as 1 methodCall, and requestCounter is 2.</li>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
-<li><a href="../../core.engine/UsageStatsNetworkStats-class.html">/sdk-for-flutter-explore-core-engine-usagestatsnetworkstats-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
+<li>/sdk-for-flutter-explore-core-engine-usagestatsnetworkstats-class</li>
 <li class="self-crumb">UsageStatsNetworkStats constructor</li>
 </ol>
 <h5>UsageStatsNetworkStats class</h5>
@@ -87,4 +88,5 @@ will be considered as 1 methodCall, and requestCounter is 2.</li>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

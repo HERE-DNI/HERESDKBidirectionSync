@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "maxSpeedOnSegments property"
 slug: "sdk-for-flutter-explore-routing-busoptions-maxspeedonsegments"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- maxSpeedOnSegments.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-routing-busoptions-maxspeedonsegments"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/BusOptions-class.html">/sdk-for-flutter-explore-routing-busoptions-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-busoptions-class</li>
 <li class="self-crumb">maxSpeedOnSegments property</li>
 </ol>
 <div class="self-name">maxSpeedOnSegments</div>
@@ -38,7 +39,7 @@ menu
 <h1>maxSpeedOnSegments property</h1></div>
 <section class="multi-line-signature">
         
-        List&lt;<wbr/><a href="../../routing/MaxSpeedOnSegment-class.html">/sdk-for-flutter-explore-routing-maxspeedonsegment-class</a>&gt;
+        List&lt;<wbr/>/sdk-for-flutter-explore-routing-maxspeedonsegment-class&gt;
 maxSpeedOnSegments
 <div class="features">getter/setter pair</div>
 </section>
@@ -57,9 +58,9 @@ maxSpeedOnSegments
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/BusOptions-class.html">/sdk-for-flutter-explore-routing-busoptions-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-busoptions-class</li>
 <li class="self-crumb">maxSpeedOnSegments property</li>
 </ol>
 <h5>BusOptions class</h5>
@@ -76,4 +77,5 @@ maxSpeedOnSegments
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "RoadShieldIconProperties class"
 slug: "sdk-for-flutter-explore-mapview-roadshieldiconproperties-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- RoadShieldIconProperties-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -29,8 +30,8 @@ slug: "sdk-for-flutter-explore-mapview-roadshieldiconproperties-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
 <li class="self-crumb">RoadShieldIconProperties class</li>
 </ol>
 <div class="self-name">RoadShieldIconProperties</div>
@@ -60,7 +61,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="RoadShieldIconProperties">
-<a href="../mapview/RoadShieldIconProperties/RoadShieldIconProperties.html">/sdk-for-flutter-explore-mapview-roadshieldiconproperties-roadshieldiconproperties</a>(<a href="../core/RouteType.html">/sdk-for-flutter-explore-core-routetype</a> routeType, String countryCode, String stateCode, String routeNumberName, String shieldText)
+/sdk-for-flutter-explore-mapview-roadshieldiconproperties-roadshieldiconproperties(/sdk-for-flutter-explore-core-routetype routeType, String countryCode, String stateCode, String routeNumberName, String shieldText)
 </dt>
 <dd>
           Creates a new instance.
@@ -71,7 +72,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="countryCode">
-<a href="../mapview/RoadShieldIconProperties/countryCode.html">/sdk-for-flutter-explore-mapview-roadshieldiconproperties-countrycode</a>
+/sdk-for-flutter-explore-mapview-roadshieldiconproperties-countrycode
 ↔ String
 </dt>
 <dd>
@@ -79,7 +80,7 @@ menu
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="hashCode">
-<a href="../mapview/RoadShieldIconProperties/hashCode.html">/sdk-for-flutter-explore-mapview-roadshieldiconproperties-hashcode</a>
+/sdk-for-flutter-explore-mapview-roadshieldiconproperties-hashcode
 → int
 </dt>
 <dd class="inherited">
@@ -87,7 +88,7 @@ menu
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="routeNumberName">
-<a href="../mapview/RoadShieldIconProperties/routeNumberName.html">/sdk-for-flutter-explore-mapview-roadshieldiconproperties-routenumbername</a>
+/sdk-for-flutter-explore-mapview-roadshieldiconproperties-routenumbername
 ↔ String
 </dt>
 <dd>
@@ -101,8 +102,8 @@ of a road shield icon.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="routeType">
-<a href="../mapview/RoadShieldIconProperties/routeType.html">/sdk-for-flutter-explore-mapview-roadshieldiconproperties-routetype</a>
-↔ <a href="../core/RouteType.html">/sdk-for-flutter-explore-core-routetype</a>
+/sdk-for-flutter-explore-mapview-roadshieldiconproperties-routetype
+↔ /sdk-for-flutter-explore-core-routetype
 </dt>
 <dd>
   The type of route indicating the significance of the road in a range from 0 to 6. A value of
@@ -110,7 +111,7 @@ of a road shield icon.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../mapview/RoadShieldIconProperties/runtimeType.html">/sdk-for-flutter-explore-mapview-roadshieldiconproperties-runtimetype</a>
+/sdk-for-flutter-explore-mapview-roadshieldiconproperties-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -118,7 +119,7 @@ of a road shield icon.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="shieldText">
-<a href="../mapview/RoadShieldIconProperties/shieldText.html">/sdk-for-flutter-explore-mapview-roadshieldiconproperties-shieldtext</a>
+/sdk-for-flutter-explore-mapview-roadshieldiconproperties-shieldtext
 ↔ String
 </dt>
 <dd>
@@ -127,7 +128,7 @@ in reality. It will be in the output road-shield icon.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="stateCode">
-<a href="../mapview/RoadShieldIconProperties/stateCode.html">/sdk-for-flutter-explore-mapview-roadshieldiconproperties-statecode</a>
+/sdk-for-flutter-explore-mapview-roadshieldiconproperties-statecode
 ↔ String
 </dt>
 <dd>
@@ -144,7 +145,7 @@ not required for the particular country.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../mapview/RoadShieldIconProperties/noSuchMethod.html">/sdk-for-flutter-explore-mapview-roadshieldiconproperties-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-mapview-roadshieldiconproperties-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -153,7 +154,7 @@ not required for the particular country.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../mapview/RoadShieldIconProperties/toString.html">/sdk-for-flutter-explore-mapview-roadshieldiconproperties-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-mapview-roadshieldiconproperties-tostring(<wbr/>)
     → String
 
 </dt>
@@ -167,7 +168,7 @@ not required for the particular country.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-<a href="../mapview/RoadShieldIconProperties/operator_equals.html">/sdk-for-flutter-explore-mapview-roadshieldiconproperties-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-mapview-roadshieldiconproperties-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -185,8 +186,8 @@ not required for the particular country.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
 <li class="self-crumb">RoadShieldIconProperties class</li>
 </ol>
 <h5>mapview library</h5>
@@ -203,4 +204,5 @@ not required for the particular country.
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

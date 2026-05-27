@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "onLongPress abstract method"
 slug: "sdk-for-flutter-explore-gestures-longpresslistener-onlongpress"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- onLongPress.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-gestures-longpresslistener-onlongpress"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../gestures/gestures-library.html">/sdk-for-flutter-explore-gestures-gestures-library</a></li>
-<li><a href="../../gestures/LongPressListener-class.html">/sdk-for-flutter-explore-gestures-longpresslistener-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-gestures-gestures-library</li>
+<li>/sdk-for-flutter-explore-gestures-longpresslistener-class</li>
 <li class="self-crumb">onLongPress abstract method</li>
 </ol>
 <div class="self-name">onLongPress</div>
@@ -38,8 +39,8 @@ menu
 <h1>onLongPress abstract method</h1></div>
 <section class="multi-line-signature">
 void
-onLongPress(<wbr/><ol class="parameter-list single-line"> <li><a href="../../gestures/GestureState.html">/sdk-for-flutter-explore-gestures-gesturestate</a> state, </li>
-<li><a href="../../core/Point2D-class.html">/sdk-for-flutter-explore-core-point2d-class</a> origin</li>
+onLongPress(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-gestures-gesturestate state, </li>
+<li>/sdk-for-flutter-explore-core-point2d-class origin</li>
 </ol>)
 
       
@@ -68,9 +69,9 @@ onLongPress(<wbr/><ol class="parameter-list single-line"> <li><a href="../../ges
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../gestures/gestures-library.html">/sdk-for-flutter-explore-gestures-gestures-library</a></li>
-<li><a href="../../gestures/LongPressListener-class.html">/sdk-for-flutter-explore-gestures-longpresslistener-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-gestures-gestures-library</li>
+<li>/sdk-for-flutter-explore-gestures-longpresslistener-class</li>
 <li class="self-crumb">onLongPress abstract method</li>
 </ol>
 <h5>LongPressListener class</h5>
@@ -87,4 +88,5 @@ onLongPress(<wbr/><ol class="parameter-list single-line"> <li><a href="../../ges
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

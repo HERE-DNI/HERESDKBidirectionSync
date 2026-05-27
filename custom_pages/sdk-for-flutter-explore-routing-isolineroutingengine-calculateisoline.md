@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "calculateIsoline abstract method"
 slug: "sdk-for-flutter-explore-routing-isolineroutingengine-calculateisoline"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- calculateIsoline.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-routing-isolineroutingengine-calculateisoline"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/IsolineRoutingEngine-class.html">/sdk-for-flutter-explore-routing-isolineroutingengine-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-isolineroutingengine-class</li>
 <li class="self-crumb">calculateIsoline abstract method</li>
 </ol>
 <div class="self-name">calculateIsoline</div>
@@ -37,10 +38,10 @@ menu
 <div>
 <h1>calculateIsoline abstract method</h1></div>
 <section class="multi-line-signature">
-<a href="../../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a>
-calculateIsoline(<wbr/><ol class="parameter-list single-line"> <li><a href="../../routing/Waypoint-class.html">/sdk-for-flutter-explore-routing-waypoint-class</a> center, </li>
-<li><a href="../../routing/IsolineOptions-class.html">/sdk-for-flutter-explore-routing-isolineoptions-class</a> isolineOptions, </li>
-<li><a href="../../routing/CalculateIsolineCallback.html">/sdk-for-flutter-explore-routing-calculateisolinecallback</a> callback</li>
+/sdk-for-flutter-explore-core-threading-taskhandle-class
+calculateIsoline(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-routing-waypoint-class center, </li>
+<li>/sdk-for-flutter-explore-routing-isolineoptions-class isolineOptions, </li>
+<li>/sdk-for-flutter-explore-routing-calculateisolinecallback callback</li>
 </ol>)
 
       
@@ -64,7 +65,7 @@ At minimum, the waypoint must contain the coordinates as point of origin.</p>
 It is always invoked on the main thread.</p>
 </li>
 </ul>
-<p>Returns <a href="../../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a>. Handle that will be used to manipulate the execution of the task.</p>
+<p>Returns /sdk-for-flutter-explore-core-threading-taskhandle-class. Handle that will be used to manipulate the execution of the task.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -78,9 +79,9 @@ It is always invoked on the main thread.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/IsolineRoutingEngine-class.html">/sdk-for-flutter-explore-routing-isolineroutingengine-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-isolineroutingengine-class</li>
 <li class="self-crumb">calculateIsoline abstract method</li>
 </ol>
 <h5>IsolineRoutingEngine class</h5>
@@ -97,4 +98,5 @@ It is always invoked on the main thread.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

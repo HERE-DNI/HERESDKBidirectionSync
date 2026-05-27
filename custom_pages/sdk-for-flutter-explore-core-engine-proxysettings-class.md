@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "ProxySettings class"
 slug: "sdk-for-flutter-explore-core-engine-proxysettings-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- ProxySettings-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -29,8 +30,8 @@ slug: "sdk-for-flutter-explore-core-engine-proxysettings-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
 <li class="self-crumb">ProxySettings class</li>
 </ol>
 <div class="self-name">ProxySettings</div>
@@ -62,7 +63,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="ProxySettings">
-<a href="../core.engine/ProxySettings/ProxySettings.html">/sdk-for-flutter-explore-core-engine-proxysettings-proxysettings</a>(<a href="../core.engine/ProxySettingsProxyType.html">/sdk-for-flutter-explore-core-engine-proxysettingsproxytype</a> type, InternetAddress ipAddress, int port)
+/sdk-for-flutter-explore-core-engine-proxysettings-proxysettings(/sdk-for-flutter-explore-core-engine-proxysettingsproxytype type, InternetAddress ipAddress, int port)
 </dt>
 <dd>
 </dd>
@@ -72,15 +73,15 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="credentials">
-<a href="../core.engine/ProxySettings/credentials.html">/sdk-for-flutter-explore-core-engine-proxysettings-credentials</a>
-↔ <a href="../core.engine/ProxySettingsCredentials-class.html">/sdk-for-flutter-explore-core-engine-proxysettingscredentials-class</a>?
+/sdk-for-flutter-explore-core-engine-proxysettings-credentials
+↔ /sdk-for-flutter-explore-core-engine-proxysettingscredentials-class?
 </dt>
 <dd>
   Optional field to define credentials to authenticate a user to the proxy server.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-<a href="../core.engine/ProxySettings/hashCode.html">/sdk-for-flutter-explore-core-engine-proxysettings-hashcode</a>
+/sdk-for-flutter-explore-core-engine-proxysettings-hashcode
 → int
 </dt>
 <dd>
@@ -88,7 +89,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="ipAddress">
-<a href="../core.engine/ProxySettings/ipAddress.html">/sdk-for-flutter-explore-core-engine-proxysettings-ipaddress</a>
+/sdk-for-flutter-explore-core-engine-proxysettings-ipaddress
 ↔ InternetAddress
 </dt>
 <dd>
@@ -96,7 +97,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="networkInterface">
-<a href="../core.engine/ProxySettings/networkInterface.html">/sdk-for-flutter-explore-core-engine-proxysettings-networkinterface</a>
+/sdk-for-flutter-explore-core-engine-proxysettings-networkinterface
 ↔ String?
 </dt>
 <dd>
@@ -105,7 +106,7 @@ Default value is "wlan0". If not set then no interface is used.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="port">
-<a href="../core.engine/ProxySettings/port.html">/sdk-for-flutter-explore-core-engine-proxysettings-port</a>
+/sdk-for-flutter-explore-core-engine-proxysettings-port
 ↔ int
 </dt>
 <dd>
@@ -113,7 +114,7 @@ Default value is "wlan0". If not set then no interface is used.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../core.engine/ProxySettings/runtimeType.html">/sdk-for-flutter-explore-core-engine-proxysettings-runtimetype</a>
+/sdk-for-flutter-explore-core-engine-proxysettings-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -121,8 +122,8 @@ Default value is "wlan0". If not set then no interface is used.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="type">
-<a href="../core.engine/ProxySettings/type.html">/sdk-for-flutter-explore-core-engine-proxysettings-type</a>
-↔ <a href="../core.engine/ProxySettingsProxyType.html">/sdk-for-flutter-explore-core-engine-proxysettingsproxytype</a>
+/sdk-for-flutter-explore-core-engine-proxysettings-type
+↔ /sdk-for-flutter-explore-core-engine-proxysettingsproxytype
 </dt>
 <dd>
   Represents the type of the proxy server.
@@ -134,7 +135,7 @@ Default value is "wlan0". If not set then no interface is used.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../core.engine/ProxySettings/noSuchMethod.html">/sdk-for-flutter-explore-core-engine-proxysettings-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-core-engine-proxysettings-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -143,7 +144,7 @@ Default value is "wlan0". If not set then no interface is used.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../core.engine/ProxySettings/toString.html">/sdk-for-flutter-explore-core-engine-proxysettings-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-core-engine-proxysettings-tostring(<wbr/>)
     → String
 
 </dt>
@@ -157,7 +158,7 @@ Default value is "wlan0". If not set then no interface is used.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-<a href="../core.engine/ProxySettings/operator_equals.html">/sdk-for-flutter-explore-core-engine-proxysettings-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-core-engine-proxysettings-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -176,8 +177,8 @@ Default value is "wlan0". If not set then no interface is used.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
 <li class="self-crumb">ProxySettings class</li>
 </ol>
 <h5>core.engine library</h5>
@@ -194,4 +195,5 @@ Default value is "wlan0". If not set then no interface is used.
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

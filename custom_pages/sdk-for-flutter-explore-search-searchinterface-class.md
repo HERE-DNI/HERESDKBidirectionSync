@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "SearchInterface class abstract"
 slug: "sdk-for-flutter-explore-search-searchinterface-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- SearchInterface-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -31,8 +32,8 @@ slug: "sdk-for-flutter-explore-search-searchinterface-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
 <li class="self-crumb">SearchInterface class</li>
 </ol>
 <div class="self-name">SearchInterface</div>
@@ -63,7 +64,7 @@ search engines.</p>
 <dl class="dl-horizontal">
 <dt>Implementers</dt>
 <dd><ul class="comma-separated clazz-relationships">
-<li><a href="../search/SearchEngine-class.html">/sdk-for-flutter-explore-search-searchengine-class</a></li>
+<li>/sdk-for-flutter-explore-search-searchengine-class</li>
 </ul></dd>
 </dl>
 </section>
@@ -71,7 +72,7 @@ search engines.</p>
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="SearchInterface">
-<a href="../search/SearchInterface/SearchInterface.html">/sdk-for-flutter-explore-search-searchinterface-searchinterface</a>(<a href="../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a> searchByTextLambda(<a href="../search/TextQuery-class.html">/sdk-for-flutter-explore-search-textquery-class</a>, <a href="../search/SearchOptions-class.html">/sdk-for-flutter-explore-search-searchoptions-class</a>, <a href="../search/SearchCallback.html">/sdk-for-flutter-explore-search-searchcallback</a> ), <a href="../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a> searchByAddressLambda(<a href="../search/AddressQuery-class.html">/sdk-for-flutter-explore-search-addressquery-class</a>, <a href="../search/SearchOptions-class.html">/sdk-for-flutter-explore-search-searchoptions-class</a>, <a href="../search/SearchCallback.html">/sdk-for-flutter-explore-search-searchcallback</a> ), <a href="../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a> searchByCategoryLambda(<a href="../search/CategoryQuery-class.html">/sdk-for-flutter-explore-search-categoryquery-class</a>, <a href="../search/SearchOptions-class.html">/sdk-for-flutter-explore-search-searchoptions-class</a>, <a href="../search/SearchCallback.html">/sdk-for-flutter-explore-search-searchcallback</a> ), <a href="../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a> searchByCoordinatesLambda(<a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>, <a href="../search/SearchOptions-class.html">/sdk-for-flutter-explore-search-searchoptions-class</a>, <a href="../search/SearchCallback.html">/sdk-for-flutter-explore-search-searchcallback</a> ), <a href="../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a> searchByPlaceIdLambda(<a href="../search/PlaceIdQuery-class.html">/sdk-for-flutter-explore-search-placeidquery-class</a>, <a href="../core/LanguageCode.html">/sdk-for-flutter-explore-core-languagecode</a>?, <a href="../search/PlaceIdSearchCallback.html">/sdk-for-flutter-explore-search-placeidsearchcallback</a> ), <a href="../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a> searchByPickedPlaceLambda(<a href="../core/PickedPlace-class.html">/sdk-for-flutter-explore-core-pickedplace-class</a>, <a href="../core/LanguageCode.html">/sdk-for-flutter-explore-core-languagecode</a>?, <a href="../search/PlaceIdSearchCallback.html">/sdk-for-flutter-explore-search-placeidsearchcallback</a> ), <a href="../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a> suggestByTextLambda(<a href="../search/TextQuery-class.html">/sdk-for-flutter-explore-search-textquery-class</a>, <a href="../search/SearchOptions-class.html">/sdk-for-flutter-explore-search-searchoptions-class</a>, <a href="../search/SuggestCallback.html">/sdk-for-flutter-explore-search-suggestcallback</a> ))
+/sdk-for-flutter-explore-search-searchinterface-searchinterface(/sdk-for-flutter-explore-core-threading-taskhandle-class searchByTextLambda(/sdk-for-flutter-explore-search-textquery-class, /sdk-for-flutter-explore-search-searchoptions-class, /sdk-for-flutter-explore-search-searchcallback ), /sdk-for-flutter-explore-core-threading-taskhandle-class searchByAddressLambda(/sdk-for-flutter-explore-search-addressquery-class, /sdk-for-flutter-explore-search-searchoptions-class, /sdk-for-flutter-explore-search-searchcallback ), /sdk-for-flutter-explore-core-threading-taskhandle-class searchByCategoryLambda(/sdk-for-flutter-explore-search-categoryquery-class, /sdk-for-flutter-explore-search-searchoptions-class, /sdk-for-flutter-explore-search-searchcallback ), /sdk-for-flutter-explore-core-threading-taskhandle-class searchByCoordinatesLambda(/sdk-for-flutter-explore-core-geocoordinates-class, /sdk-for-flutter-explore-search-searchoptions-class, /sdk-for-flutter-explore-search-searchcallback ), /sdk-for-flutter-explore-core-threading-taskhandle-class searchByPlaceIdLambda(/sdk-for-flutter-explore-search-placeidquery-class, /sdk-for-flutter-explore-core-languagecode?, /sdk-for-flutter-explore-search-placeidsearchcallback ), /sdk-for-flutter-explore-core-threading-taskhandle-class searchByPickedPlaceLambda(/sdk-for-flutter-explore-core-pickedplace-class, /sdk-for-flutter-explore-core-languagecode?, /sdk-for-flutter-explore-search-placeidsearchcallback ), /sdk-for-flutter-explore-core-threading-taskhandle-class suggestByTextLambda(/sdk-for-flutter-explore-search-textquery-class, /sdk-for-flutter-explore-search-searchoptions-class, /sdk-for-flutter-explore-search-suggestcallback ))
 </dt>
 <dd>
           Provides the abstract class for the online and offline
@@ -84,7 +85,7 @@ search engines.
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="hashCode">
-<a href="../search/SearchInterface/hashCode.html">/sdk-for-flutter-explore-search-searchinterface-hashcode</a>
+/sdk-for-flutter-explore-search-searchinterface-hashcode
 → int
 </dt>
 <dd class="inherited">
@@ -92,7 +93,7 @@ search engines.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../search/SearchInterface/runtimeType.html">/sdk-for-flutter-explore-search-searchinterface-runtimetype</a>
+/sdk-for-flutter-explore-search-searchinterface-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -105,7 +106,7 @@ search engines.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../search/SearchInterface/noSuchMethod.html">/sdk-for-flutter-explore-search-searchinterface-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-search-searchinterface-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -114,64 +115,71 @@ search engines.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable" id="searchByAddress">
-<a href="../search/SearchInterface/searchByAddress.html">/sdk-for-flutter-explore-search-searchinterface-searchbyaddress</a>(<wbr/><a href="../search/AddressQuery-class.html">/sdk-for-flutter-explore-search-addressquery-class</a> query, <a href="../search/SearchOptions-class.html">/sdk-for-flutter-explore-search-searchoptions-class</a> options, <a href="../search/SearchCallback.html">/sdk-for-flutter-explore-search-searchcallback</a> callback)
-    → <a href="../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a>
+/sdk-for-flutter-explore-search-searchinterface-searchbyaddress(<wbr/>/sdk-for-flutter-explore-search-addressquery-class query, /sdk-for-flutter-explore-search-searchoptions-class options, /sdk-for-flutter-explore-search-searchcallback callback)
+    → /sdk-for-flutter-explore-core-threading-taskhandle-class
+
 </dt>
 <dd>
-  Performs an asynchronous address query search for <a href="../search/Place-class.html">/sdk-for-flutter-explore-search-place-class</a> instances.
+  Performs an asynchronous address query search for /sdk-for-flutter-explore-search-place-class instances.
   
 
 </dd>
 <dt class="callable" id="searchByCategory">
-<a href="../search/SearchInterface/searchByCategory.html">/sdk-for-flutter-explore-search-searchinterface-searchbycategory</a>(<wbr/><a href="../search/CategoryQuery-class.html">/sdk-for-flutter-explore-search-categoryquery-class</a> query, <a href="../search/SearchOptions-class.html">/sdk-for-flutter-explore-search-searchoptions-class</a> options, <a href="../search/SearchCallback.html">/sdk-for-flutter-explore-search-searchcallback</a> callback)
-    → <a href="../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a>
+/sdk-for-flutter-explore-search-searchinterface-searchbycategory(<wbr/>/sdk-for-flutter-explore-search-categoryquery-class query, /sdk-for-flutter-explore-search-searchoptions-class options, /sdk-for-flutter-explore-search-searchcallback callback)
+    → /sdk-for-flutter-explore-core-threading-taskhandle-class
+
 </dt>
 <dd>
-  Performs an asynchronous category search for <a href="../search/Place-class.html">/sdk-for-flutter-explore-search-place-class</a> instances.
+  Performs an asynchronous category search for /sdk-for-flutter-explore-search-place-class instances.
   
 
 </dd>
 <dt class="callable" id="searchByCoordinates">
-<a href="../search/SearchInterface/searchByCoordinates.html">/sdk-for-flutter-explore-search-searchinterface-searchbycoordinates</a>(<wbr/><a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a> coordinates, <a href="../search/SearchOptions-class.html">/sdk-for-flutter-explore-search-searchoptions-class</a> options, <a href="../search/SearchCallback.html">/sdk-for-flutter-explore-search-searchcallback</a> callback)
-    → <a href="../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a>
+/sdk-for-flutter-explore-search-searchinterface-searchbycoordinates(<wbr/>/sdk-for-flutter-explore-core-geocoordinates-class coordinates, /sdk-for-flutter-explore-search-searchoptions-class options, /sdk-for-flutter-explore-search-searchcallback callback)
+    → /sdk-for-flutter-explore-core-threading-taskhandle-class
+
 </dt>
 <dd>
-  Performs an asynchronous search for <a href="../search/Place-class.html">/sdk-for-flutter-explore-search-place-class</a> instances based on the given
+  Performs an asynchronous search for /sdk-for-flutter-explore-search-place-class instances based on the given
 geographic coordinates.
   
 
 </dd>
 <dt class="callable" id="searchByPickedPlace">
-<a href="../search/SearchInterface/searchByPickedPlace.html">/sdk-for-flutter-explore-search-searchinterface-searchbypickedplace</a>(<wbr/><a href="../core/PickedPlace-class.html">/sdk-for-flutter-explore-core-pickedplace-class</a> pickedPlace, <a href="../core/LanguageCode.html">/sdk-for-flutter-explore-core-languagecode</a>? languageCode, <a href="../search/PlaceIdSearchCallback.html">/sdk-for-flutter-explore-search-placeidsearchcallback</a> callback)
-    → <a href="../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a>
+/sdk-for-flutter-explore-search-searchinterface-searchbypickedplace(<wbr/>/sdk-for-flutter-explore-core-pickedplace-class pickedPlace, /sdk-for-flutter-explore-core-languagecode? languageCode, /sdk-for-flutter-explore-search-placeidsearchcallback callback)
+    → /sdk-for-flutter-explore-core-threading-taskhandle-class
+
 </dt>
 <dd>
-  Performs an asynchronous search for a <a href="../search/Place-class.html">/sdk-for-flutter-explore-search-place-class</a> based on the content found in <a href="../core/PickedPlace-class.html">/sdk-for-flutter-explore-core-pickedplace-class</a>.
+  Performs an asynchronous search for a /sdk-for-flutter-explore-search-place-class based on the content found in /sdk-for-flutter-explore-core-pickedplace-class.
   
 
 </dd>
 <dt class="callable" id="searchByPlaceId">
-<a href="../search/SearchInterface/searchByPlaceId.html">/sdk-for-flutter-explore-search-searchinterface-searchbyplaceid</a>(<wbr/><a href="../search/PlaceIdQuery-class.html">/sdk-for-flutter-explore-search-placeidquery-class</a> query, <a href="../core/LanguageCode.html">/sdk-for-flutter-explore-core-languagecode</a>? languageCode, <a href="../search/PlaceIdSearchCallback.html">/sdk-for-flutter-explore-search-placeidsearchcallback</a> callback)
-    → <a href="../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a>
+/sdk-for-flutter-explore-search-searchinterface-searchbyplaceid(<wbr/>/sdk-for-flutter-explore-search-placeidquery-class query, /sdk-for-flutter-explore-core-languagecode? languageCode, /sdk-for-flutter-explore-search-placeidsearchcallback callback)
+    → /sdk-for-flutter-explore-core-threading-taskhandle-class
+
 </dt>
 <dd>
-  Performs an asynchronous search for a <a href="../search/Place-class.html">/sdk-for-flutter-explore-search-place-class</a> based on its ID and
-<a href="../core/LanguageCode.html">/sdk-for-flutter-explore-core-languagecode</a>.
+  Performs an asynchronous search for a /sdk-for-flutter-explore-search-place-class based on its ID and
+/sdk-for-flutter-explore-core-languagecode.
   
 
 </dd>
 <dt class="callable" id="searchByText">
-<a href="../search/SearchInterface/searchByText.html">/sdk-for-flutter-explore-search-searchinterface-searchbytext</a>(<wbr/><a href="../search/TextQuery-class.html">/sdk-for-flutter-explore-search-textquery-class</a> query, <a href="../search/SearchOptions-class.html">/sdk-for-flutter-explore-search-searchoptions-class</a> options, <a href="../search/SearchCallback.html">/sdk-for-flutter-explore-search-searchcallback</a> callback)
-    → <a href="../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a>
+/sdk-for-flutter-explore-search-searchinterface-searchbytext(<wbr/>/sdk-for-flutter-explore-search-textquery-class query, /sdk-for-flutter-explore-search-searchoptions-class options, /sdk-for-flutter-explore-search-searchcallback callback)
+    → /sdk-for-flutter-explore-core-threading-taskhandle-class
+
 </dt>
 <dd>
-  Performs an asynchronous text query search for <a href="../search/Place-class.html">/sdk-for-flutter-explore-search-place-class</a> instances within a given <a href="../search/TextQueryArea-class.html">/sdk-for-flutter-explore-search-textqueryarea-class</a>.
+  Performs an asynchronous text query search for /sdk-for-flutter-explore-search-place-class instances within a given /sdk-for-flutter-explore-search-textqueryarea-class.
   
 
 </dd>
 <dt class="callable" id="suggestByText">
-<a href="../search/SearchInterface/suggestByText.html">/sdk-for-flutter-explore-search-searchinterface-suggestbytext</a>(<wbr/><a href="../search/TextQuery-class.html">/sdk-for-flutter-explore-search-textquery-class</a> query, <a href="../search/SearchOptions-class.html">/sdk-for-flutter-explore-search-searchoptions-class</a> options, <a href="../search/SuggestCallback.html">/sdk-for-flutter-explore-search-suggestcallback</a> callback)
-    → <a href="../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a>
+/sdk-for-flutter-explore-search-searchinterface-suggestbytext(<wbr/>/sdk-for-flutter-explore-search-textquery-class query, /sdk-for-flutter-explore-search-searchoptions-class options, /sdk-for-flutter-explore-search-suggestcallback callback)
+    → /sdk-for-flutter-explore-core-threading-taskhandle-class
+
 </dt>
 <dd>
   Performs an asynchronous request to suggest places for text queries and
@@ -180,7 +188,7 @@ returns suggestions sorted by relevance.
 
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../search/SearchInterface/toString.html">/sdk-for-flutter-explore-search-searchinterface-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-search-searchinterface-tostring(<wbr/>)
     → String
 
 </dt>
@@ -194,7 +202,7 @@ returns suggestions sorted by relevance.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-<a href="../search/SearchInterface/operator_equals.html">/sdk-for-flutter-explore-search-searchinterface-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-search-searchinterface-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -212,8 +220,8 @@ returns suggestions sorted by relevance.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
 <li class="self-crumb">SearchInterface class</li>
 </ol>
 <h5>search library</h5>
@@ -230,4 +238,5 @@ returns suggestions sorted by relevance.
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

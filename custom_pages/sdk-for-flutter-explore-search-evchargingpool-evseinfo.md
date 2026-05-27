@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "evseInfo property"
 slug: "sdk-for-flutter-explore-search-evchargingpool-evseinfo"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- evseInfo.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-search-evchargingpool-evseinfo"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/EVChargingPool-class.html">/sdk-for-flutter-explore-search-evchargingpool-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-evchargingpool-class</li>
 <li class="self-crumb">evseInfo property</li>
 </ol>
 <div class="self-name">evseInfo</div>
@@ -38,7 +39,7 @@ menu
 <h1>evseInfo property</h1></div>
 <section class="multi-line-signature">
         
-        List&lt;<wbr/><a href="../../search/Evse-class.html">/sdk-for-flutter-explore-search-evse-class</a>&gt;
+        List&lt;<wbr/>/sdk-for-flutter-explore-search-evse-class&gt;
 evseInfo
 <div class="features">getter/setter pair</div>
 </section>
@@ -58,9 +59,9 @@ Only online search fills this field.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/EVChargingPool-class.html">/sdk-for-flutter-explore-search-evchargingpool-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-evchargingpool-class</li>
 <li class="self-crumb">evseInfo property</li>
 </ol>
 <h5>EVChargingPool class</h5>
@@ -77,4 +78,5 @@ Only online search fills this field.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "AvoidPolygonAreaOptions class"
 slug: "sdk-for-flutter-explore-routing-avoidpolygonareaoptions-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- AvoidPolygonAreaOptions-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -28,8 +29,8 @@ slug: "sdk-for-flutter-explore-routing-avoidpolygonareaoptions-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
 <li class="self-crumb">AvoidPolygonAreaOptions class</li>
 </ol>
 <div class="self-name">AvoidPolygonAreaOptions</div>
@@ -59,7 +60,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="AvoidPolygonAreaOptions">
-<a href="../routing/AvoidPolygonAreaOptions/AvoidPolygonAreaOptions.html">/sdk-for-flutter-explore-routing-avoidpolygonareaoptions-avoidpolygonareaoptions</a>(<a href="../core/GeoPolygon-class.html">/sdk-for-flutter-explore-core-geopolygon-class</a> avoidPolygonArea)
+/sdk-for-flutter-explore-routing-avoidpolygonareaoptions-avoidpolygonareaoptions(/sdk-for-flutter-explore-core-geopolygon-class avoidPolygonArea)
 </dt>
 <dd>
 </dd>
@@ -69,26 +70,26 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="avoidPolygonArea">
-<a href="../routing/AvoidPolygonAreaOptions/avoidPolygonArea.html">/sdk-for-flutter-explore-routing-avoidpolygonareaoptions-avoidpolygonarea</a>
-↔ <a href="../core/GeoPolygon-class.html">/sdk-for-flutter-explore-core-geopolygon-class</a>
+/sdk-for-flutter-explore-routing-avoidpolygonareaoptions-avoidpolygonarea
+↔ /sdk-for-flutter-explore-core-geopolygon-class
 </dt>
 <dd>
   Area of polygon shape which routes must not cross. Strictly enforced.
-Violations are reported as <a href="../routing/SectionNoticeCode.html">/sdk-for-flutter-explore-routing-sectionnoticecode</a>.
+Violations are reported as /sdk-for-flutter-explore-routing-sectionnoticecode.
 <strong>Note:</strong> This avoidance option is not supported for <code>IsolineOptions</code>. If it is defined for isoline calculation then an <code>sdk.routing.RoutingError.INVALID_PARAMETER</code> error is generated.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="boundingBoxExceptionAreas">
-<a href="../routing/AvoidPolygonAreaOptions/boundingBoxExceptionAreas.html">/sdk-for-flutter-explore-routing-avoidpolygonareaoptions-boundingboxexceptionareas</a>
-↔ List&lt;<wbr/><a href="../core/GeoBox-class.html">/sdk-for-flutter-explore-core-geobox-class</a>&gt;
+/sdk-for-flutter-explore-routing-avoidpolygonareaoptions-boundingboxexceptionareas
+↔ List&lt;<wbr/>/sdk-for-flutter-explore-core-geobox-class&gt;
 </dt>
 <dd>
   Areas of rectangular shape to exclude from avoidance.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="corridorExceptionAreas">
-<a href="../routing/AvoidPolygonAreaOptions/corridorExceptionAreas.html">/sdk-for-flutter-explore-routing-avoidpolygonareaoptions-corridorexceptionareas</a>
-↔ List&lt;<wbr/><a href="../core/GeoCorridor-class.html">/sdk-for-flutter-explore-core-geocorridor-class</a>&gt;
+/sdk-for-flutter-explore-routing-avoidpolygonareaoptions-corridorexceptionareas
+↔ List&lt;<wbr/>/sdk-for-flutter-explore-core-geocorridor-class&gt;
 </dt>
 <dd>
   Areas of corridor shape to exclude from avoidance.
@@ -98,7 +99,7 @@ Otherwise route calculation will fail with an <code>sdk.routing.RoutingError.INV
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-<a href="../routing/AvoidPolygonAreaOptions/hashCode.html">/sdk-for-flutter-explore-routing-avoidpolygonareaoptions-hashcode</a>
+/sdk-for-flutter-explore-routing-avoidpolygonareaoptions-hashcode
 → int
 </dt>
 <dd>
@@ -106,15 +107,15 @@ Otherwise route calculation will fail with an <code>sdk.routing.RoutingError.INV
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="polygonExceptionAreas">
-<a href="../routing/AvoidPolygonAreaOptions/polygonExceptionAreas.html">/sdk-for-flutter-explore-routing-avoidpolygonareaoptions-polygonexceptionareas</a>
-↔ List&lt;<wbr/><a href="../core/GeoPolygon-class.html">/sdk-for-flutter-explore-core-geopolygon-class</a>&gt;
+/sdk-for-flutter-explore-routing-avoidpolygonareaoptions-polygonexceptionareas
+↔ List&lt;<wbr/>/sdk-for-flutter-explore-core-geopolygon-class&gt;
 </dt>
 <dd>
   Areas of polygon shape to exclude from avoidance.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../routing/AvoidPolygonAreaOptions/runtimeType.html">/sdk-for-flutter-explore-routing-avoidpolygonareaoptions-runtimetype</a>
+/sdk-for-flutter-explore-routing-avoidpolygonareaoptions-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -127,7 +128,7 @@ Otherwise route calculation will fail with an <code>sdk.routing.RoutingError.INV
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../routing/AvoidPolygonAreaOptions/noSuchMethod.html">/sdk-for-flutter-explore-routing-avoidpolygonareaoptions-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-routing-avoidpolygonareaoptions-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -136,7 +137,7 @@ Otherwise route calculation will fail with an <code>sdk.routing.RoutingError.INV
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../routing/AvoidPolygonAreaOptions/toString.html">/sdk-for-flutter-explore-routing-avoidpolygonareaoptions-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-routing-avoidpolygonareaoptions-tostring(<wbr/>)
     → String
 
 </dt>
@@ -150,7 +151,7 @@ Otherwise route calculation will fail with an <code>sdk.routing.RoutingError.INV
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-<a href="../routing/AvoidPolygonAreaOptions/operator_equals.html">/sdk-for-flutter-explore-routing-avoidpolygonareaoptions-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-routing-avoidpolygonareaoptions-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -169,8 +170,8 @@ Otherwise route calculation will fail with an <code>sdk.routing.RoutingError.INV
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
 <li class="self-crumb">AvoidPolygonAreaOptions class</li>
 </ol>
 <h5>routing library</h5>
@@ -187,4 +188,5 @@ Otherwise route calculation will fail with an <code>sdk.routing.RoutingError.INV
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "RasterDataSourceProviderConfiguration class"
 slug: "sdk-for-flutter-explore-mapview-datasource-rasterdatasourceproviderconfiguration-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- RasterDataSourceProviderConfiguration-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -30,8 +31,8 @@ slug: "sdk-for-flutter-explore-mapview-datasource-rasterdatasourceproviderconfig
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
 <li class="self-crumb">RasterDataSourceProviderConfiguration class</li>
 </ol>
 <div class="self-name">RasterDataSourceProviderConfiguration</div>
@@ -61,13 +62,13 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="RasterDataSourceProviderConfiguration.Default">
-<a href="../mapview.datasource/RasterDataSourceProviderConfiguration/RasterDataSourceProviderConfiguration.Default.html">/sdk-for-flutter-explore-mapview-datasource-rasterdatasourceproviderconfiguration-rasterdatasourceproviderconfiguration-default</a>(<a href="../mapview.datasource/TileUrlProviderCallback.html">/sdk-for-flutter-explore-mapview-datasource-tileurlprovidercallback</a> urlProvider, <a href="../mapview.datasource/TilingScheme.html">/sdk-for-flutter-explore-mapview-datasource-tilingscheme</a> tilingScheme, List&lt;<wbr/>int&gt; storageLevels, bool hasAlphaChannel, Map&lt;<wbr/>String, String&gt;? headers)
+/sdk-for-flutter-explore-mapview-datasource-rasterdatasourceproviderconfiguration-rasterdatasourceproviderconfiguration-default(/sdk-for-flutter-explore-mapview-datasource-tileurlprovidercallback urlProvider, /sdk-for-flutter-explore-mapview-datasource-tilingscheme tilingScheme, List&lt;<wbr/>int&gt; storageLevels, bool hasAlphaChannel, Map&lt;<wbr/>String, String&gt;? headers)
 </dt>
 <dd>
           Creates a new instance.
         </dd>
 <dt class="callable" id="RasterDataSourceProviderConfiguration.withDefaults">
-<a href="../mapview.datasource/RasterDataSourceProviderConfiguration/RasterDataSourceProviderConfiguration.withDefaults.html">/sdk-for-flutter-explore-mapview-datasource-rasterdatasourceproviderconfiguration-rasterdatasourceproviderconfiguration-withdefaults</a>(<a href="../mapview.datasource/TileUrlProviderCallback.html">/sdk-for-flutter-explore-mapview-datasource-tileurlprovidercallback</a> urlProvider, <a href="../mapview.datasource/TilingScheme.html">/sdk-for-flutter-explore-mapview-datasource-tilingscheme</a> tilingScheme, List&lt;<wbr/>int&gt; storageLevels)
+/sdk-for-flutter-explore-mapview-datasource-rasterdatasourceproviderconfiguration-rasterdatasourceproviderconfiguration-withdefaults(/sdk-for-flutter-explore-mapview-datasource-tileurlprovidercallback urlProvider, /sdk-for-flutter-explore-mapview-datasource-tilingscheme tilingScheme, List&lt;<wbr/>int&gt; storageLevels)
 </dt>
 <dd>
           Creates a new instance.
@@ -78,7 +79,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="hasAlphaChannel">
-<a href="../mapview.datasource/RasterDataSourceProviderConfiguration/hasAlphaChannel.html">/sdk-for-flutter-explore-mapview-datasource-rasterdatasourceproviderconfiguration-hasalphachannel</a>
+/sdk-for-flutter-explore-mapview-datasource-rasterdatasourceproviderconfiguration-hasalphachannel
 ↔ bool
 </dt>
 <dd>
@@ -86,7 +87,7 @@ menu
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="hashCode">
-<a href="../mapview.datasource/RasterDataSourceProviderConfiguration/hashCode.html">/sdk-for-flutter-explore-mapview-datasource-rasterdatasourceproviderconfiguration-hashcode</a>
+/sdk-for-flutter-explore-mapview-datasource-rasterdatasourceproviderconfiguration-hashcode
 → int
 </dt>
 <dd class="inherited">
@@ -94,7 +95,7 @@ menu
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="headers">
-<a href="../mapview.datasource/RasterDataSourceProviderConfiguration/headers.html">/sdk-for-flutter-explore-mapview-datasource-rasterdatasourceproviderconfiguration-headers</a>
+/sdk-for-flutter-explore-mapview-datasource-rasterdatasourceproviderconfiguration-headers
 ↔ Map&lt;<wbr/>String, String&gt;?
 </dt>
 <dd>
@@ -102,7 +103,7 @@ menu
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../mapview.datasource/RasterDataSourceProviderConfiguration/runtimeType.html">/sdk-for-flutter-explore-mapview-datasource-rasterdatasourceproviderconfiguration-runtimetype</a>
+/sdk-for-flutter-explore-mapview-datasource-rasterdatasourceproviderconfiguration-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -110,7 +111,7 @@ menu
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="storageLevels">
-<a href="../mapview.datasource/RasterDataSourceProviderConfiguration/storageLevels.html">/sdk-for-flutter-explore-mapview-datasource-rasterdatasourceproviderconfiguration-storagelevels</a>
+/sdk-for-flutter-explore-mapview-datasource-rasterdatasourceproviderconfiguration-storagelevels
 ↔ List&lt;<wbr/>int&gt;
 </dt>
 <dd>
@@ -126,16 +127,16 @@ appropriate z value of the tile key will be determined.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="tilingScheme">
-<a href="../mapview.datasource/RasterDataSourceProviderConfiguration/tilingScheme.html">/sdk-for-flutter-explore-mapview-datasource-rasterdatasourceproviderconfiguration-tilingscheme</a>
-↔ <a href="../mapview.datasource/TilingScheme.html">/sdk-for-flutter-explore-mapview-datasource-tilingscheme</a>
+/sdk-for-flutter-explore-mapview-datasource-rasterdatasourceproviderconfiguration-tilingscheme
+↔ /sdk-for-flutter-explore-mapview-datasource-tilingscheme
 </dt>
 <dd>
   The tiling scheme used by this source.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="urlProvider">
-<a href="../mapview.datasource/RasterDataSourceProviderConfiguration/urlProvider.html">/sdk-for-flutter-explore-mapview-datasource-rasterdatasourceproviderconfiguration-urlprovider</a>
-↔ <a href="../mapview.datasource/TileUrlProviderCallback.html">/sdk-for-flutter-explore-mapview-datasource-tileurlprovidercallback</a>
+/sdk-for-flutter-explore-mapview-datasource-rasterdatasourceproviderconfiguration-urlprovider
+↔ /sdk-for-flutter-explore-mapview-datasource-tileurlprovidercallback
 </dt>
 <dd>
   Provides a function that generates URLs based on tile coordinates and storage level.
@@ -147,7 +148,7 @@ appropriate z value of the tile key will be determined.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../mapview.datasource/RasterDataSourceProviderConfiguration/noSuchMethod.html">/sdk-for-flutter-explore-mapview-datasource-rasterdatasourceproviderconfiguration-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-mapview-datasource-rasterdatasourceproviderconfiguration-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -156,7 +157,7 @@ appropriate z value of the tile key will be determined.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../mapview.datasource/RasterDataSourceProviderConfiguration/toString.html">/sdk-for-flutter-explore-mapview-datasource-rasterdatasourceproviderconfiguration-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-mapview-datasource-rasterdatasourceproviderconfiguration-tostring(<wbr/>)
     → String
 
 </dt>
@@ -170,7 +171,7 @@ appropriate z value of the tile key will be determined.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-<a href="../mapview.datasource/RasterDataSourceProviderConfiguration/operator_equals.html">/sdk-for-flutter-explore-mapview-datasource-rasterdatasourceproviderconfiguration-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-mapview-datasource-rasterdatasourceproviderconfiguration-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -188,8 +189,8 @@ appropriate z value of the tile key will be determined.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
 <li class="self-crumb">RasterDataSourceProviderConfiguration class</li>
 </ol>
 <h5>mapview.datasource library</h5>
@@ -206,4 +207,5 @@ appropriate z value of the tile key will be determined.
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

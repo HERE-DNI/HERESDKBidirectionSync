@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "sectionIndex property"
 slug: "sdk-for-flutter-explore-routing-maneuver-sectionindex"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- sectionIndex.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-routing-maneuver-sectionindex"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/Maneuver-class.html">/sdk-for-flutter-explore-routing-maneuver-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-maneuver-class</li>
 <li class="self-crumb">sectionIndex property</li>
 </ol>
 <div class="self-name">sectionIndex</div>
@@ -42,8 +43,8 @@ int
 sectionIndex
 </section>
 <section class="desc markdown">
-<p>Index over <a href="../../routing/Route/sections.html">/sdk-for-flutter-explore-routing-route-sections</a> indicating the section to which the maneuver belongs to.
-Gets the index over <a href="../../routing/Route/sections.html">/sdk-for-flutter-explore-routing-route-sections</a> indicating the section to which the maneuver belongs to.</p>
+<p>Index over /sdk-for-flutter-explore-routing-route-sections indicating the section to which the maneuver belongs to.
+Gets the index over /sdk-for-flutter-explore-routing-route-sections indicating the section to which the maneuver belongs to.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -58,9 +59,9 @@ Gets the index over <a href="../../routing/Route/sections.html">/sdk-for-flutter
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/Maneuver-class.html">/sdk-for-flutter-explore-routing-maneuver-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-maneuver-class</li>
 <li class="self-crumb">sectionIndex property</li>
 </ol>
 <h5>Maneuver class</h5>
@@ -77,4 +78,5 @@ Gets the index over <a href="../../routing/Route/sections.html">/sdk-for-flutter
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

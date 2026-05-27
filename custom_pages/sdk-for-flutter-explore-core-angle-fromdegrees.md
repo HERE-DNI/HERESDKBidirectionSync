@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "fromDegrees static method"
 slug: "sdk-for-flutter-explore-core-angle-fromdegrees"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- fromDegrees.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-core-angle-fromdegrees"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
-<li><a href="../../core/Angle-class.html">/sdk-for-flutter-explore-core-angle-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
+<li>/sdk-for-flutter-explore-core-angle-class</li>
 <li class="self-crumb">fromDegrees static method</li>
 </ol>
 <div class="self-name">fromDegrees</div>
@@ -37,7 +38,7 @@ menu
 <div>
 <h1>fromDegrees static method</h1></div>
 <section class="multi-line-signature">
-<a href="../../core/Angle-class.html">/sdk-for-flutter-explore-core-angle-class</a>
+/sdk-for-flutter-explore-core-angle-class
 fromDegrees(<wbr/><ol class="parameter-list single-line"> <li>double angle</li>
 </ol>)
 
@@ -49,7 +50,7 @@ fromDegrees(<wbr/><ol class="parameter-list single-line"> <li>double angle</li>
 <ul>
 <li><code>angle</code> Angle value in degrees.</li>
 </ul>
-<p>Returns <a href="../../core/Angle-class.html">/sdk-for-flutter-explore-core-angle-class</a>. The angle as specified by input in degrees.</p>
+<p>Returns /sdk-for-flutter-explore-core-angle-class. The angle as specified by input in degrees.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -63,9 +64,9 @@ fromDegrees(<wbr/><ol class="parameter-list single-line"> <li>double angle</li>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
-<li><a href="../../core/Angle-class.html">/sdk-for-flutter-explore-core-angle-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
+<li>/sdk-for-flutter-explore-core-angle-class</li>
 <li class="self-crumb">fromDegrees static method</li>
 </ol>
 <h5>Angle class</h5>
@@ -82,4 +83,5 @@ fromDegrees(<wbr/><ol class="parameter-list single-line"> <li>double angle</li>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

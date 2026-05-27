@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "EVChargingOperator class"
 slug: "sdk-for-flutter-explore-search-evchargingoperator-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- EVChargingOperator-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -29,8 +30,8 @@ slug: "sdk-for-flutter-explore-search-evchargingoperator-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
 <li class="self-crumb">EVChargingOperator class</li>
 </ol>
 <div class="self-name">EVChargingOperator</div>
@@ -62,7 +63,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="EVChargingOperator">
-<a href="../search/EVChargingOperator/EVChargingOperator.html">/sdk-for-flutter-explore-search-evchargingoperator-evchargingoperator</a>()
+/sdk-for-flutter-explore-search-evchargingoperator-evchargingoperator()
 </dt>
 <dd>
 </dd>
@@ -72,7 +73,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="eMobilityIDs">
-<a href="../search/EVChargingOperator/eMobilityIDs.html">/sdk-for-flutter-explore-search-evchargingoperator-emobilityids</a>
+/sdk-for-flutter-explore-search-evchargingoperator-emobilityids
 ↔ List&lt;<wbr/>String&gt;
 </dt>
 <dd>
@@ -81,7 +82,7 @@ This list may be empty where map coverage is limited or incomplete.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-<a href="../search/EVChargingOperator/hashCode.html">/sdk-for-flutter-explore-search-evchargingoperator-hashcode</a>
+/sdk-for-flutter-explore-search-evchargingoperator-hashcode
 → int
 </dt>
 <dd>
@@ -89,15 +90,15 @@ This list may be empty where map coverage is limited or incomplete.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="logo">
-<a href="../search/EVChargingOperator/logo.html">/sdk-for-flutter-explore-search-evchargingoperator-logo</a>
-↔ <a href="../core/BrandLogo-class.html">/sdk-for-flutter-explore-core-brandlogo-class</a>?
+/sdk-for-flutter-explore-search-evchargingoperator-logo
+↔ /sdk-for-flutter-explore-core-brandlogo-class?
 </dt>
 <dd>
   Image link to the company's logo, if available.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="name">
-<a href="../search/EVChargingOperator/name.html">/sdk-for-flutter-explore-search-evchargingoperator-name</a>
+/sdk-for-flutter-explore-search-evchargingoperator-name
 ↔ String
 </dt>
 <dd>
@@ -105,7 +106,7 @@ This list may be empty where map coverage is limited or incomplete.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="partnerID">
-<a href="../search/EVChargingOperator/partnerID.html">/sdk-for-flutter-explore-search-evchargingoperator-partnerid</a>
+/sdk-for-flutter-explore-search-evchargingoperator-partnerid
 ↔ String
 </dt>
 <dd>
@@ -113,7 +114,7 @@ This list may be empty where map coverage is limited or incomplete.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../search/EVChargingOperator/runtimeType.html">/sdk-for-flutter-explore-search-evchargingoperator-runtimetype</a>
+/sdk-for-flutter-explore-search-evchargingoperator-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -121,7 +122,7 @@ This list may be empty where map coverage is limited or incomplete.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="website">
-<a href="../search/EVChargingOperator/website.html">/sdk-for-flutter-explore-search-evchargingoperator-website</a>
+/sdk-for-flutter-explore-search-evchargingoperator-website
 ↔ String?
 </dt>
 <dd>
@@ -134,7 +135,7 @@ This list may be empty where map coverage is limited or incomplete.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../search/EVChargingOperator/noSuchMethod.html">/sdk-for-flutter-explore-search-evchargingoperator-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-search-evchargingoperator-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -143,7 +144,7 @@ This list may be empty where map coverage is limited or incomplete.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../search/EVChargingOperator/toString.html">/sdk-for-flutter-explore-search-evchargingoperator-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-search-evchargingoperator-tostring(<wbr/>)
     → String
 
 </dt>
@@ -157,7 +158,7 @@ This list may be empty where map coverage is limited or incomplete.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-<a href="../search/EVChargingOperator/operator_equals.html">/sdk-for-flutter-explore-search-evchargingoperator-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-search-evchargingoperator-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -176,8 +177,8 @@ This list may be empty where map coverage is limited or incomplete.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
 <li class="self-crumb">EVChargingOperator class</li>
 </ol>
 <h5>search library</h5>
@@ -194,4 +195,5 @@ This list may be empty where map coverage is limited or incomplete.
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

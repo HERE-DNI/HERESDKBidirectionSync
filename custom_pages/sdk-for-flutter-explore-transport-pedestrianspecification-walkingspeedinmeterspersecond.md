@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "walkingSpeedInMetersPerSecond property"
 slug: "sdk-for-flutter-explore-transport-pedestrianspecification-walkingspeedinmeterspersecond"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- walkingSpeedInMetersPerSecond.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-transport-pedestrianspecification-walkingspeedinm
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
-<li><a href="../../transport/PedestrianSpecification-class.html">/sdk-for-flutter-explore-transport-pedestrianspecification-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-transport-transport-library</li>
+<li>/sdk-for-flutter-explore-transport-pedestrianspecification-class</li>
 <li class="self-crumb">walkingSpeedInMetersPerSecond property</li>
 </ol>
 <div class="self-name">walkingSpeedInMetersPerSecond</div>
@@ -59,9 +60,9 @@ Defaults to a speed of 1 meter per second.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
-<li><a href="../../transport/PedestrianSpecification-class.html">/sdk-for-flutter-explore-transport-pedestrianspecification-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-transport-transport-library</li>
+<li>/sdk-for-flutter-explore-transport-pedestrianspecification-class</li>
 <li class="self-crumb">walkingSpeedInMetersPerSecond property</li>
 </ol>
 <h5>PedestrianSpecification class</h5>
@@ -78,4 +79,5 @@ Defaults to a speed of 1 meter per second.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "withToken static method"
 slug: "sdk-for-flutter-explore-core-engine-authenticationmode-withtoken"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- withToken.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-core-engine-authenticationmode-withtoken"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
-<li><a href="../../core.engine/AuthenticationMode-class.html">/sdk-for-flutter-explore-core-engine-authenticationmode-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
+<li>/sdk-for-flutter-explore-core-engine-authenticationmode-class</li>
 <li class="self-crumb">withToken static method</li>
 </ol>
 <div class="self-name">withToken</div>
@@ -37,7 +38,7 @@ menu
 <div>
 <h1>withToken static method</h1></div>
 <section class="multi-line-signature">
-<a href="../../core.engine/AuthenticationMode-class.html">/sdk-for-flutter-explore-core-engine-authenticationmode-class</a>
+/sdk-for-flutter-explore-core-engine-authenticationmode-class
 withToken(<wbr/><ol class="parameter-list single-line"> <li>String accessToken</li>
 </ol>)
 
@@ -49,7 +50,7 @@ withToken(<wbr/><ol class="parameter-list single-line"> <li>String accessToken</
 <ul>
 <li><code>accessToken</code> Access token</li>
 </ul>
-<p>Returns <a href="../../core.engine/AuthenticationMode-class.html">/sdk-for-flutter-explore-core-engine-authenticationmode-class</a>. Instance of <a href="../../core.engine/AuthenticationMode-class.html">/sdk-for-flutter-explore-core-engine-authenticationmode-class</a> configured to use token</p>
+<p>Returns /sdk-for-flutter-explore-core-engine-authenticationmode-class. Instance of /sdk-for-flutter-explore-core-engine-authenticationmode-class configured to use token</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -63,9 +64,9 @@ withToken(<wbr/><ol class="parameter-list single-line"> <li>String accessToken</
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
-<li><a href="../../core.engine/AuthenticationMode-class.html">/sdk-for-flutter-explore-core-engine-authenticationmode-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
+<li>/sdk-for-flutter-explore-core-engine-authenticationmode-class</li>
 <li class="self-crumb">withToken static method</li>
 </ol>
 <h5>AuthenticationMode class</h5>
@@ -82,4 +83,5 @@ withToken(<wbr/><ol class="parameter-list single-line"> <li>String accessToken</
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

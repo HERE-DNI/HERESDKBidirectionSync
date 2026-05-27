@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "TaxiOptions constructor"
 slug: "sdk-for-flutter-explore-routing-taxioptions-taxioptions"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- TaxiOptions.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-routing-taxioptions-taxioptions"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/TaxiOptions-class.html">/sdk-for-flutter-explore-routing-taxioptions-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-taxioptions-class</li>
 <li class="self-crumb">TaxiOptions constructor</li>
 </ol>
 <div class="self-name">TaxiOptions</div>
@@ -37,9 +38,9 @@ menu
 <div>
 <h1>TaxiOptions constructor</h1></div>
 <section class="multi-line-signature">
-TaxiOptions(<wbr/><ol class="parameter-list single-line"> <li><a href="../../routing/RouteOptions-class.html">/sdk-for-flutter-explore-routing-routeoptions-class</a> routeOptions, </li>
-<li><a href="../../routing/RouteTextOptions-class.html">/sdk-for-flutter-explore-routing-routetextoptions-class</a> textOptions, </li>
-<li><a href="../../routing/AvoidanceOptions-class.html">/sdk-for-flutter-explore-routing-avoidanceoptions-class</a> avoidanceOptions</li>
+TaxiOptions(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-routing-routeoptions-class routeOptions, </li>
+<li>/sdk-for-flutter-explore-routing-routetextoptions-class textOptions, </li>
+<li>/sdk-for-flutter-explore-routing-avoidanceoptions-class avoidanceOptions</li>
 </ol>)
     </section>
 <section class="desc markdown">
@@ -65,9 +66,9 @@ no restrictions are applied.</li>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/TaxiOptions-class.html">/sdk-for-flutter-explore-routing-taxioptions-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-taxioptions-class</li>
 <li class="self-crumb">TaxiOptions constructor</li>
 </ol>
 <h5>TaxiOptions class</h5>
@@ -84,4 +85,5 @@ no restrictions are applied.</li>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

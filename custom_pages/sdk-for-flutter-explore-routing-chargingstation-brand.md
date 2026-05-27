@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "brand property"
 slug: "sdk-for-flutter-explore-routing-chargingstation-brand"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- brand.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-routing-chargingstation-brand"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/ChargingStation-class.html">/sdk-for-flutter-explore-routing-chargingstation-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-chargingstation-class</li>
 <li class="self-crumb">brand property</li>
 </ol>
 <div class="self-name">brand</div>
@@ -37,14 +38,14 @@ menu
 <div>
 <h1>brand property</h1></div>
 <section class="multi-line-signature">
-<a href="../../core/NameID-class.html">/sdk-for-flutter-explore-core-nameid-class</a>?
+/sdk-for-flutter-explore-core-nameid-class?
         brand
 <div class="features">getter/setter pair</div>
 </section>
 <section class="desc markdown">
 <p>Charging station brand.
-<a href="../../core/NameID/name.html">/sdk-for-flutter-explore-core-nameid-name</a> reflect to charging station brand name.
-<a href="../../core/NameID/id.html">/sdk-for-flutter-explore-core-nameid-id</a> reflect to charging station brand unique ID.</p>
+/sdk-for-flutter-explore-core-nameid-name reflect to charging station brand name.
+/sdk-for-flutter-explore-core-nameid-id reflect to charging station brand unique ID.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -58,9 +59,9 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/ChargingStation-class.html">/sdk-for-flutter-explore-routing-chargingstation-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-chargingstation-class</li>
 <li class="self-crumb">brand property</li>
 </ol>
 <h5>ChargingStation class</h5>
@@ -77,4 +78,5 @@ menu
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

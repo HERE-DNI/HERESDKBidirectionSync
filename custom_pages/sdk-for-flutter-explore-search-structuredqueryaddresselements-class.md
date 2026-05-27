@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "StructuredQueryAddressElements class"
 slug: "sdk-for-flutter-explore-search-structuredqueryaddresselements-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- StructuredQueryAddressElements-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -28,8 +29,8 @@ slug: "sdk-for-flutter-explore-search-structuredqueryaddresselements-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
 <li class="self-crumb">StructuredQueryAddressElements class</li>
 </ol>
 <div class="self-name">StructuredQueryAddressElements</div>
@@ -63,7 +64,7 @@ consider providing city along with it.</p>
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="StructuredQueryAddressElements">
-<a href="../search/StructuredQueryAddressElements/StructuredQueryAddressElements.html">/sdk-for-flutter-explore-search-structuredqueryaddresselements-structuredqueryaddresselements</a>()
+/sdk-for-flutter-explore-search-structuredqueryaddresselements-structuredqueryaddresselements()
 </dt>
 <dd>
 </dd>
@@ -73,7 +74,7 @@ consider providing city along with it.</p>
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="city">
-<a href="../search/StructuredQueryAddressElements/city.html">/sdk-for-flutter-explore-search-structuredqueryaddresselements-city</a>
+/sdk-for-flutter-explore-search-structuredqueryaddresselements-city
 ↔ String?
 </dt>
 <dd>
@@ -81,7 +82,7 @@ consider providing city along with it.</p>
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="country">
-<a href="../search/StructuredQueryAddressElements/country.html">/sdk-for-flutter-explore-search-structuredqueryaddresselements-country</a>
+/sdk-for-flutter-explore-search-structuredqueryaddresselements-country
 ↔ String?
 </dt>
 <dd>
@@ -89,7 +90,7 @@ consider providing city along with it.</p>
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="district">
-<a href="../search/StructuredQueryAddressElements/district.html">/sdk-for-flutter-explore-search-structuredqueryaddresselements-district</a>
+/sdk-for-flutter-explore-search-structuredqueryaddresselements-district
 ↔ String?
 </dt>
 <dd>
@@ -97,7 +98,7 @@ consider providing city along with it.</p>
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-<a href="../search/StructuredQueryAddressElements/hashCode.html">/sdk-for-flutter-explore-search-structuredqueryaddresselements-hashcode</a>
+/sdk-for-flutter-explore-search-structuredqueryaddresselements-hashcode
 → int
 </dt>
 <dd>
@@ -105,7 +106,7 @@ consider providing city along with it.</p>
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="postalCode">
-<a href="../search/StructuredQueryAddressElements/postalCode.html">/sdk-for-flutter-explore-search-structuredqueryaddresselements-postalcode</a>
+/sdk-for-flutter-explore-search-structuredqueryaddresselements-postalcode
 ↔ String?
 </dt>
 <dd>
@@ -113,7 +114,7 @@ consider providing city along with it.</p>
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../search/StructuredQueryAddressElements/runtimeType.html">/sdk-for-flutter-explore-search-structuredqueryaddresselements-runtimetype</a>
+/sdk-for-flutter-explore-search-structuredqueryaddresselements-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -126,7 +127,7 @@ consider providing city along with it.</p>
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../search/StructuredQueryAddressElements/noSuchMethod.html">/sdk-for-flutter-explore-search-structuredqueryaddresselements-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-search-structuredqueryaddresselements-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -135,7 +136,7 @@ consider providing city along with it.</p>
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../search/StructuredQueryAddressElements/toString.html">/sdk-for-flutter-explore-search-structuredqueryaddresselements-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-search-structuredqueryaddresselements-tostring(<wbr/>)
     → String
 
 </dt>
@@ -149,7 +150,7 @@ consider providing city along with it.</p>
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-<a href="../search/StructuredQueryAddressElements/operator_equals.html">/sdk-for-flutter-explore-search-structuredqueryaddresselements-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-search-structuredqueryaddresselements-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -168,8 +169,8 @@ consider providing city along with it.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
 <li class="self-crumb">StructuredQueryAddressElements class</li>
 </ol>
 <h5>search library</h5>
@@ -186,4 +187,5 @@ consider providing city along with it.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

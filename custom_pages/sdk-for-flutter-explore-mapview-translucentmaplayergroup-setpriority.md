@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "setPriority abstract method"
 slug: "sdk-for-flutter-explore-mapview-translucentmaplayergroup-setpriority"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- setPriority.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-translucentmaplayergroup-setpriority"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/TranslucentMapLayerGroup-class.html">/sdk-for-flutter-explore-mapview-translucentmaplayergroup-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-translucentmaplayergroup-class</li>
 <li class="self-crumb">setPriority abstract method</li>
 </ol>
 <div class="self-name">setPriority</div>
@@ -38,7 +39,7 @@ menu
 <h1>setPriority abstract method</h1></div>
 <section class="multi-line-signature">
 void
-setPriority(<wbr/><ol class="parameter-list single-line"> <li><a href="../../mapview/MapLayerPriority-class.html">/sdk-for-flutter-explore-mapview-maplayerpriority-class</a> priority</li>
+setPriority(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-mapview-maplayerpriority-class priority</li>
 </ol>)
 
       
@@ -48,10 +49,10 @@ setPriority(<wbr/><ol class="parameter-list single-line"> <li><a href="../../map
 <p>Sets the render priority for the layer group which replaces any previously defined priority.</p>
 <ul>
 <li><code>priority</code> The priority to position the group.
-The <a href="../../mapview/MapLayerPriority-class.html">/sdk-for-flutter-explore-mapview-maplayerpriority-class</a> must contain only one priority and this priority must have no
-category and no group, i.e. <a href="../../mapview/MapLayerPriorityBuilder/inGroup.html">/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-ingroup</a> and
-<a href="../../mapview/MapLayerPriorityBuilder/withCategory.html">/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-withcategory</a> should not be used when building the
-<a href="../../mapview/MapLayerPriority-class.html">/sdk-for-flutter-explore-mapview-maplayerpriority-class</a>.
+The /sdk-for-flutter-explore-mapview-maplayerpriority-class must contain only one priority and this priority must have no
+category and no group, i.e. /sdk-for-flutter-explore-mapview-maplayerprioritybuilder-ingroup and
+/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-withcategory should not be used when building the
+/sdk-for-flutter-explore-mapview-maplayerpriority-class.
 Example:</li>
 </ul>
 <p>new MapLayerPriorityBuilder().renderedAfterLayer("water").build()</p>
@@ -69,9 +70,9 @@ Example:</li>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/TranslucentMapLayerGroup-class.html">/sdk-for-flutter-explore-mapview-translucentmaplayergroup-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-translucentmaplayergroup-class</li>
 <li class="self-crumb">setPriority abstract method</li>
 </ol>
 <h5>TranslucentMapLayerGroup class</h5>
@@ -88,4 +89,5 @@ Example:</li>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "TileSourceTileMetadata class"
 slug: "sdk-for-flutter-explore-mapview-datasource-tilesourcetilemetadata-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- TileSourceTileMetadata-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -26,8 +27,8 @@ slug: "sdk-for-flutter-explore-mapview-datasource-tilesourcetilemetadata-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
 <li class="self-crumb">TileSourceTileMetadata class</li>
 </ol>
 <div class="self-name">TileSourceTileMetadata</div>
@@ -57,7 +58,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="TileSourceTileMetadata">
-<a href="../mapview.datasource/TileSourceTileMetadata/TileSourceTileMetadata.html">/sdk-for-flutter-explore-mapview-datasource-tilesourcetilemetadata-tilesourcetilemetadata</a>(<a href="../mapview.datasource/TileSourceDataVersion-class.html">/sdk-for-flutter-explore-mapview-datasource-tilesourcedataversion-class</a> dataVersion, DateTime dataExpiryTimestamp)
+/sdk-for-flutter-explore-mapview-datasource-tilesourcetilemetadata-tilesourcetilemetadata(/sdk-for-flutter-explore-mapview-datasource-tilesourcedataversion-class dataVersion, DateTime dataExpiryTimestamp)
 </dt>
 <dd>
           Creates a new instance.
@@ -68,7 +69,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="dataExpiryTimestamp">
-<a href="../mapview.datasource/TileSourceTileMetadata/dataExpiryTimestamp.html">/sdk-for-flutter-explore-mapview-datasource-tilesourcetilemetadata-dataexpirytimestamp</a>
+/sdk-for-flutter-explore-mapview-datasource-tilesourcetilemetadata-dataexpirytimestamp
 ↔ DateTime
 </dt>
 <dd>
@@ -76,15 +77,15 @@ menu
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="dataVersion">
-<a href="../mapview.datasource/TileSourceTileMetadata/dataVersion.html">/sdk-for-flutter-explore-mapview-datasource-tilesourcetilemetadata-dataversion</a>
-↔ <a href="../mapview.datasource/TileSourceDataVersion-class.html">/sdk-for-flutter-explore-mapview-datasource-tilesourcedataversion-class</a>
+/sdk-for-flutter-explore-mapview-datasource-tilesourcetilemetadata-dataversion
+↔ /sdk-for-flutter-explore-mapview-datasource-tilesourcedataversion-class
 </dt>
 <dd>
   Tile data version.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="hashCode">
-<a href="../mapview.datasource/TileSourceTileMetadata/hashCode.html">/sdk-for-flutter-explore-mapview-datasource-tilesourcetilemetadata-hashcode</a>
+/sdk-for-flutter-explore-mapview-datasource-tilesourcetilemetadata-hashcode
 → int
 </dt>
 <dd class="inherited">
@@ -92,7 +93,7 @@ menu
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../mapview.datasource/TileSourceTileMetadata/runtimeType.html">/sdk-for-flutter-explore-mapview-datasource-tilesourcetilemetadata-runtimetype</a>
+/sdk-for-flutter-explore-mapview-datasource-tilesourcetilemetadata-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -105,7 +106,7 @@ menu
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../mapview.datasource/TileSourceTileMetadata/noSuchMethod.html">/sdk-for-flutter-explore-mapview-datasource-tilesourcetilemetadata-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-mapview-datasource-tilesourcetilemetadata-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -114,7 +115,7 @@ menu
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../mapview.datasource/TileSourceTileMetadata/toString.html">/sdk-for-flutter-explore-mapview-datasource-tilesourcetilemetadata-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-mapview-datasource-tilesourcetilemetadata-tostring(<wbr/>)
     → String
 
 </dt>
@@ -128,7 +129,7 @@ menu
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-<a href="../mapview.datasource/TileSourceTileMetadata/operator_equals.html">/sdk-for-flutter-explore-mapview-datasource-tilesourcetilemetadata-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-mapview-datasource-tilesourcetilemetadata-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -146,8 +147,8 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
 <li class="self-crumb">TileSourceTileMetadata class</li>
 </ol>
 <h5>mapview.datasource library</h5>
@@ -164,4 +165,5 @@ menu
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

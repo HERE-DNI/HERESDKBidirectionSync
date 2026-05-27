@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "lookAtArea static method"
 slug: "sdk-for-flutter-explore-mapview-mapcameraupdatefactory-lookatarea"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- lookAtArea.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-mapcameraupdatefactory-lookatarea"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapCameraUpdateFactory-class.html">/sdk-for-flutter-explore-mapview-mapcameraupdatefactory-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapcameraupdatefactory-class</li>
 <li class="self-crumb">lookAtArea static method</li>
 </ol>
 <div class="self-name">lookAtArea</div>
@@ -37,8 +38,8 @@ menu
 <div>
 <h1>lookAtArea static method</h1></div>
 <section class="multi-line-signature">
-<a href="../../mapview/MapCameraUpdate-class.html">/sdk-for-flutter-explore-mapview-mapcameraupdate-class</a>
-lookAtArea(<wbr/><ol class="parameter-list single-line"> <li><a href="../../core/GeoBox-class.html">/sdk-for-flutter-explore-core-geobox-class</a> target</li>
+/sdk-for-flutter-explore-mapview-mapcameraupdate-class
+lookAtArea(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-core-geobox-class target</li>
 </ol>)
 
       
@@ -53,7 +54,7 @@ will consider the target point as being located on the ground.</p>
 <ul>
 <li><code>target</code> Geodetic box that should be visible inside the viewport rectangle.</li>
 </ul>
-<p>Returns <a href="../../mapview/MapCameraUpdate-class.html">/sdk-for-flutter-explore-mapview-mapcameraupdate-class</a>. MapCameraUpdate instance.</p>
+<p>Returns /sdk-for-flutter-explore-mapview-mapcameraupdate-class. MapCameraUpdate instance.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -67,9 +68,9 @@ will consider the target point as being located on the ground.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapCameraUpdateFactory-class.html">/sdk-for-flutter-explore-mapview-mapcameraupdatefactory-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapcameraupdatefactory-class</li>
 <li class="self-crumb">lookAtArea static method</li>
 </ol>
 <h5>MapCameraUpdateFactory class</h5>
@@ -86,4 +87,5 @@ will consider the target point as being located on the ground.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

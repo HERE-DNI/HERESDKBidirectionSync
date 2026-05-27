@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "MapItemRepresentation class abstract"
 slug: "sdk-for-flutter-explore-mapview-mapitemrepresentation-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- MapItemRepresentation-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -24,8 +25,8 @@ slug: "sdk-for-flutter-explore-mapview-mapitemrepresentation-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
 <li class="self-crumb">MapItemRepresentation class</li>
 </ol>
 <div class="self-name">MapItemRepresentation</div>
@@ -55,7 +56,7 @@ menu
 <dl class="dl-horizontal">
 <dt>Implementers</dt>
 <dd><ul class="comma-separated clazz-relationships">
-<li><a href="../mapview/MapPolylineRepresentation-class.html">/sdk-for-flutter-explore-mapview-mappolylinerepresentation-class</a></li>
+<li>/sdk-for-flutter-explore-mapview-mappolylinerepresentation-class</li>
 </ul></dd>
 </dl>
 </section>
@@ -63,7 +64,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="MapItemRepresentation">
-<a href="../mapview/MapItemRepresentation/MapItemRepresentation.html">/sdk-for-flutter-explore-mapview-mapitemrepresentation-mapitemrepresentation</a>()
+/sdk-for-flutter-explore-mapview-mapitemrepresentation-mapitemrepresentation()
 </dt>
 <dd>
 </dd>
@@ -73,7 +74,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="hashCode">
-<a href="../mapview/MapItemRepresentation/hashCode.html">/sdk-for-flutter-explore-mapview-mapitemrepresentation-hashcode</a>
+/sdk-for-flutter-explore-mapview-mapitemrepresentation-hashcode
 → int
 </dt>
 <dd class="inherited">
@@ -81,7 +82,7 @@ menu
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../mapview/MapItemRepresentation/runtimeType.html">/sdk-for-flutter-explore-mapview-mapitemrepresentation-runtimetype</a>
+/sdk-for-flutter-explore-mapview-mapitemrepresentation-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -94,7 +95,7 @@ menu
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../mapview/MapItemRepresentation/noSuchMethod.html">/sdk-for-flutter-explore-mapview-mapitemrepresentation-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-mapview-mapitemrepresentation-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -103,7 +104,7 @@ menu
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../mapview/MapItemRepresentation/toString.html">/sdk-for-flutter-explore-mapview-mapitemrepresentation-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-mapview-mapitemrepresentation-tostring(<wbr/>)
     → String
 
 </dt>
@@ -117,7 +118,7 @@ menu
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-<a href="../mapview/MapItemRepresentation/operator_equals.html">/sdk-for-flutter-explore-mapview-mapitemrepresentation-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-mapview-mapitemrepresentation-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -135,8 +136,8 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
 <li class="self-crumb">MapItemRepresentation class</li>
 </ol>
 <h5>mapview library</h5>
@@ -153,4 +154,5 @@ menu
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

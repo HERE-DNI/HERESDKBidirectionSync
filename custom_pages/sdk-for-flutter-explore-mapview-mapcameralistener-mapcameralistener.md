@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "MapCameraListener constructor"
 slug: "sdk-for-flutter-explore-mapview-mapcameralistener-mapcameralistener"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- MapCameraListener.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-mapcameralistener-mapcameralistener"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapCameraListener-class.html">/sdk-for-flutter-explore-mapview-mapcameralistener-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapcameralistener-class</li>
 <li class="self-crumb">MapCameraListener factory constructor</li>
 </ol>
 <div class="self-name">MapCameraListener</div>
@@ -37,7 +38,7 @@ menu
 <div>
 <h1>MapCameraListener constructor</h1></div>
 <section class="multi-line-signature">
-MapCameraListener(<wbr/><ol class="parameter-list single-line"> <li>void onMapCameraUpdatedLambda(<ol class="parameter-list single-line"> <li><a href="../../mapview/MapCameraState-class.html">/sdk-for-flutter-explore-mapview-mapcamerastate-class</a></li>
+MapCameraListener(<wbr/><ol class="parameter-list single-line"> <li>void onMapCameraUpdatedLambda(<ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-mapview-mapcamerastate-class</li>
 </ol>)</li>
 </ol>)
     </section>
@@ -63,9 +64,9 @@ camera parameters change.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapCameraListener-class.html">/sdk-for-flutter-explore-mapview-mapcameralistener-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapcameralistener-class</li>
 <li class="self-crumb">MapCameraListener factory constructor</li>
 </ol>
 <h5>MapCameraListener class</h5>
@@ -82,4 +83,5 @@ camera parameters change.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

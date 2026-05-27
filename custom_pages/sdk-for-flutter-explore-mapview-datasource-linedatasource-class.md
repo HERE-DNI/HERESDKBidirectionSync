@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "LineDataSource class abstract"
 slug: "sdk-for-flutter-explore-mapview-datasource-linedatasource-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- LineDataSource-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -30,8 +31,8 @@ slug: "sdk-for-flutter-explore-mapview-datasource-linedatasource-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
 <li class="self-crumb">LineDataSource class</li>
 </ol>
 <div class="self-name">LineDataSource</div>
@@ -65,7 +66,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="LineDataSource">
-<a href="../mapview.datasource/LineDataSource/LineDataSource.html">/sdk-for-flutter-explore-mapview-datasource-linedatasource-linedatasource</a>()
+/sdk-for-flutter-explore-mapview-datasource-linedatasource-linedatasource()
 </dt>
 <dd>
 </dd>
@@ -75,7 +76,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="hashCode">
-<a href="../mapview.datasource/LineDataSource/hashCode.html">/sdk-for-flutter-explore-mapview-datasource-linedatasource-hashcode</a>
+/sdk-for-flutter-explore-mapview-datasource-linedatasource-hashcode
 → int
 </dt>
 <dd class="inherited">
@@ -83,7 +84,7 @@ behavior. Related APIs may change for new releases without a deprecation process
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../mapview.datasource/LineDataSource/runtimeType.html">/sdk-for-flutter-explore-mapview-datasource-linedatasource-runtimetype</a>
+/sdk-for-flutter-explore-mapview-datasource-linedatasource-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -96,7 +97,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable" id="add">
-<a href="../mapview.datasource/LineDataSource/add.html">/sdk-for-flutter-explore-mapview-datasource-linedatasource-add</a>(<wbr/><a href="../mapview.datasource/LineData-class.html">/sdk-for-flutter-explore-mapview-datasource-linedata-class</a> line)
+/sdk-for-flutter-explore-mapview-datasource-linedatasource-add(<wbr/>/sdk-for-flutter-explore-mapview-datasource-linedata-class line)
     → void
 
 </dt>
@@ -106,7 +107,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 
 </dd>
 <dt class="callable" id="addLines">
-<a href="../mapview.datasource/LineDataSource/addLines.html">/sdk-for-flutter-explore-mapview-datasource-linedatasource-addlines</a>(<wbr/>List&lt;<wbr/><a href="../mapview.datasource/LineData-class.html">/sdk-for-flutter-explore-mapview-datasource-linedata-class</a>&gt; lines)
+/sdk-for-flutter-explore-mapview-datasource-linedatasource-addlines(<wbr/>List&lt;<wbr/>/sdk-for-flutter-explore-mapview-datasource-linedata-class&gt; lines)
     → void
 
 </dt>
@@ -116,7 +117,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 
 </dd>
 <dt class="callable" id="destroy">
-<a href="../mapview.datasource/LineDataSource/destroy.html">/sdk-for-flutter-explore-mapview-datasource-linedatasource-destroy</a>(<wbr/>)
+/sdk-for-flutter-explore-mapview-datasource-linedatasource-destroy(<wbr/>)
     → void
 
 </dt>
@@ -126,7 +127,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 
 </dd>
 <dt class="callable" id="forEach">
-<a href="../mapview.datasource/LineDataSource/forEach.html">/sdk-for-flutter-explore-mapview-datasource-linedatasource-foreach</a>(<wbr/><a href="../mapview.datasource/LineDataSourceLineDataProcessor.html">/sdk-for-flutter-explore-mapview-datasource-linedatasourcelinedataprocessor</a> processor)
+/sdk-for-flutter-explore-mapview-datasource-linedatasource-foreach(<wbr/>/sdk-for-flutter-explore-mapview-datasource-linedatasourcelinedataprocessor processor)
     → void
 
 </dt>
@@ -137,7 +138,7 @@ given processor, one by one.
 
 </dd>
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../mapview.datasource/LineDataSource/noSuchMethod.html">/sdk-for-flutter-explore-mapview-datasource-linedatasource-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-mapview-datasource-linedatasource-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -146,7 +147,7 @@ given processor, one by one.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable" id="removeAll">
-<a href="../mapview.datasource/LineDataSource/removeAll.html">/sdk-for-flutter-explore-mapview-datasource-linedatasource-removeall</a>(<wbr/>)
+/sdk-for-flutter-explore-mapview-datasource-linedatasource-removeall(<wbr/>)
     → void
 
 </dt>
@@ -156,7 +157,7 @@ given processor, one by one.
 
 </dd>
 <dt class="callable" id="removeIf">
-<a href="../mapview.datasource/LineDataSource/removeIf.html">/sdk-for-flutter-explore-mapview-datasource-linedatasource-removeif</a>(<wbr/><a href="../mapview.datasource/LineDataSourceLineDataProcessor.html">/sdk-for-flutter-explore-mapview-datasource-linedatasourcelinedataprocessor</a> inspector)
+/sdk-for-flutter-explore-mapview-datasource-linedatasource-removeif(<wbr/>/sdk-for-flutter-explore-mapview-datasource-linedatasourcelinedataprocessor inspector)
     → void
 
 </dt>
@@ -167,7 +168,7 @@ given inspector, one by one.
 
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../mapview.datasource/LineDataSource/toString.html">/sdk-for-flutter-explore-mapview-datasource-linedatasource-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-mapview-datasource-linedatasource-tostring(<wbr/>)
     → String
 
 </dt>
@@ -181,7 +182,7 @@ given inspector, one by one.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-<a href="../mapview.datasource/LineDataSource/operator_equals.html">/sdk-for-flutter-explore-mapview-datasource-linedatasource-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-mapview-datasource-linedatasource-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -199,8 +200,8 @@ given inspector, one by one.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
 <li class="self-crumb">LineDataSource class</li>
 </ol>
 <h5>mapview.datasource library</h5>
@@ -217,4 +218,5 @@ given inspector, one by one.
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "ChargingStop constructor"
 slug: "sdk-for-flutter-explore-routing-chargingstop-chargingstop"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- ChargingStop.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-routing-chargingstop-chargingstop"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/ChargingStop-class.html">/sdk-for-flutter-explore-routing-chargingstop-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-chargingstop-class</li>
 <li class="self-crumb">ChargingStop constructor</li>
 </ol>
 <div class="self-name">ChargingStop</div>
@@ -40,7 +41,7 @@ menu
 ChargingStop(<wbr/><ol class="parameter-list"> <li>double powerInKilowatts, </li>
 <li>double currentInAmperes, </li>
 <li>double voltageInVolts, </li>
-<li><a href="../../routing/ChargingSupplyType.html">/sdk-for-flutter-explore-routing-chargingsupplytype</a>? supplyType, </li>
+<li>/sdk-for-flutter-explore-routing-chargingsupplytype? supplyType, </li>
 <li>Duration? minDuration, </li>
 <li>Duration? maxDuration, </li>
 </ol>)
@@ -53,12 +54,12 @@ ChargingStop(<wbr/><ol class="parameter-list"> <li>double powerInKilowatts, </li
 <li><code>voltageInVolts</code> The value of rated voltage of the connector (in V).</li>
 <li><code>supplyType</code> Supply type of the suggested connector.</li>
 <li><code>minDuration</code> The minimum duration the user expects to charge at the station,
-including <a href="../../routing/BatterySpecifications/chargingSetupDuration.html">/sdk-for-flutter-explore-routing-batteryspecifications-chargingsetupduration</a>.
+including /sdk-for-flutter-explore-routing-batteryspecifications-chargingsetupduration.
 <strong>Note:</strong>
 At least one of <code>min_duration</code> and <code>max_duration</code> is required for a user-planned charging stop.
 For most use cases, providing at least <code>min_duration</code> is recommended.</li>
 <li><code>maxDuration</code> The maximum duration the user plans to charge at the station,
-including <a href="../../routing/BatterySpecifications/chargingSetupDuration.html">/sdk-for-flutter-explore-routing-batteryspecifications-chargingsetupduration</a>.
+including /sdk-for-flutter-explore-routing-batteryspecifications-chargingsetupduration.
 <strong>Note:</strong>
 At least one of <code>min_duration</code> and <code>max_duration</code> is required for a user-planned charging stop.
 For most use cases, providing at least <code>min_duration</code> is recommended.</li>
@@ -76,9 +77,9 @@ For most use cases, providing at least <code>min_duration</code> is recommended.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/ChargingStop-class.html">/sdk-for-flutter-explore-routing-chargingstop-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-chargingstop-class</li>
 <li class="self-crumb">ChargingStop constructor</li>
 </ol>
 <h5>ChargingStop class</h5>
@@ -95,4 +96,5 @@ For most use cases, providing at least <code>min_duration</code> is recommended.
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

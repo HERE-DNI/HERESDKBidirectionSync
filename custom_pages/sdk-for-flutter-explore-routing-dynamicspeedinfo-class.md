@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "DynamicSpeedInfo class"
 slug: "sdk-for-flutter-explore-routing-dynamicspeedinfo-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- DynamicSpeedInfo-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -28,8 +29,8 @@ slug: "sdk-for-flutter-explore-routing-dynamicspeedinfo-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
 <li class="self-crumb">DynamicSpeedInfo class</li>
 </ol>
 <div class="self-name">DynamicSpeedInfo</div>
@@ -59,7 +60,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="DynamicSpeedInfo">
-<a href="../routing/DynamicSpeedInfo/DynamicSpeedInfo.html">/sdk-for-flutter-explore-routing-dynamicspeedinfo-dynamicspeedinfo</a>(double baseSpeedInMetersPerSecond, double trafficSpeedInMetersPerSecond, int turnTimeInSeconds)
+/sdk-for-flutter-explore-routing-dynamicspeedinfo-dynamicspeedinfo(double baseSpeedInMetersPerSecond, double trafficSpeedInMetersPerSecond, int turnTimeInSeconds)
 </dt>
 <dd>
           Creates a new instance.
@@ -70,7 +71,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="baseSpeedInMetersPerSecond">
-<a href="../routing/DynamicSpeedInfo/baseSpeedInMetersPerSecond.html">/sdk-for-flutter-explore-routing-dynamicspeedinfo-basespeedinmeterspersecond</a>
+/sdk-for-flutter-explore-routing-dynamicspeedinfo-basespeedinmeterspersecond
 ↔ double
 </dt>
 <dd>
@@ -78,7 +79,7 @@ menu
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-<a href="../routing/DynamicSpeedInfo/hashCode.html">/sdk-for-flutter-explore-routing-dynamicspeedinfo-hashcode</a>
+/sdk-for-flutter-explore-routing-dynamicspeedinfo-hashcode
 → int
 </dt>
 <dd>
@@ -86,7 +87,7 @@ menu
   <div class="features">no setter</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../routing/DynamicSpeedInfo/runtimeType.html">/sdk-for-flutter-explore-routing-dynamicspeedinfo-runtimetype</a>
+/sdk-for-flutter-explore-routing-dynamicspeedinfo-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -94,7 +95,7 @@ menu
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="trafficSpeedInMetersPerSecond">
-<a href="../routing/DynamicSpeedInfo/trafficSpeedInMetersPerSecond.html">/sdk-for-flutter-explore-routing-dynamicspeedinfo-trafficspeedinmeterspersecond</a>
+/sdk-for-flutter-explore-routing-dynamicspeedinfo-trafficspeedinmeterspersecond
 ↔ double
 </dt>
 <dd>
@@ -102,7 +103,7 @@ menu
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="turnTimeInSeconds">
-<a href="../routing/DynamicSpeedInfo/turnTimeInSeconds.html">/sdk-for-flutter-explore-routing-dynamicspeedinfo-turntimeinseconds</a>
+/sdk-for-flutter-explore-routing-dynamicspeedinfo-turntimeinseconds
 ↔ int
 </dt>
 <dd>
@@ -115,7 +116,7 @@ menu
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable" id="calculateJamFactor">
-<a href="../routing/DynamicSpeedInfo/calculateJamFactor.html">/sdk-for-flutter-explore-routing-dynamicspeedinfo-calculatejamfactor</a>(<wbr/>)
+/sdk-for-flutter-explore-routing-dynamicspeedinfo-calculatejamfactor(<wbr/>)
     → double
 
 </dt>
@@ -125,7 +126,7 @@ menu
 
 </dd>
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../routing/DynamicSpeedInfo/noSuchMethod.html">/sdk-for-flutter-explore-routing-dynamicspeedinfo-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-routing-dynamicspeedinfo-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -134,7 +135,7 @@ menu
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../routing/DynamicSpeedInfo/toString.html">/sdk-for-flutter-explore-routing-dynamicspeedinfo-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-routing-dynamicspeedinfo-tostring(<wbr/>)
     → String
 
 </dt>
@@ -148,7 +149,7 @@ menu
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-<a href="../routing/DynamicSpeedInfo/operator_equals.html">/sdk-for-flutter-explore-routing-dynamicspeedinfo-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-routing-dynamicspeedinfo-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -167,8 +168,8 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
 <li class="self-crumb">DynamicSpeedInfo class</li>
 </ol>
 <h5>routing library</h5>
@@ -185,4 +186,5 @@ menu
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

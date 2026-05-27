@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "customOptions property"
 slug: "sdk-for-flutter-explore-core-engine-sdkoptions-customoptions"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- customOptions.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-core-engine-sdkoptions-customoptions"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
-<li><a href="../../core.engine/SDKOptions-class.html">/sdk-for-flutter-explore-core-engine-sdkoptions-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
+<li>/sdk-for-flutter-explore-core-engine-sdkoptions-class</li>
 <li class="self-crumb">customOptions property</li>
 </ol>
 <div class="self-name">customOptions</div>
@@ -37,7 +38,7 @@ menu
 <div>
 <h1>customOptions property</h1></div>
 <section class="multi-line-signature">
-<a href="../../core/Metadata-class.html">/sdk-for-flutter-explore-core-metadata-class</a>?
+/sdk-for-flutter-explore-core-metadata-class?
         customOptions
 <div class="features">getter/setter pair</div>
 </section>
@@ -61,9 +62,9 @@ Related APIs may change for new releases without a deprecation process.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
-<li><a href="../../core.engine/SDKOptions-class.html">/sdk-for-flutter-explore-core-engine-sdkoptions-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
+<li>/sdk-for-flutter-explore-core-engine-sdkoptions-class</li>
 <li class="self-crumb">customOptions property</li>
 </ol>
 <h5>SDKOptions class</h5>
@@ -80,4 +81,5 @@ Related APIs may change for new releases without a deprecation process.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

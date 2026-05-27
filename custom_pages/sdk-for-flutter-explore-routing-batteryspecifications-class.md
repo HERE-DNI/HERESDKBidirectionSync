@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "BatterySpecifications class"
 slug: "sdk-for-flutter-explore-routing-batteryspecifications-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- BatterySpecifications-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -37,8 +38,8 @@ slug: "sdk-for-flutter-explore-routing-batteryspecifications-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
 <li class="self-crumb">BatterySpecifications class</li>
 </ol>
 <div class="self-name">BatterySpecifications</div>
@@ -68,13 +69,13 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="BatterySpecifications">
-<a href="../routing/BatterySpecifications/BatterySpecifications.html">/sdk-for-flutter-explore-routing-batteryspecifications-batteryspecifications</a>([double totalCapacityInKilowattHours = 0.0, double initialChargeInKilowattHours = 0.0, double targetChargeInKilowattHours = 0.0, Map&lt;<wbr/>double, double&gt; chargingCurve = const {}, List&lt;<wbr/><a href="../routing/ChargingConnectorType.html">/sdk-for-flutter-explore-routing-chargingconnectortype</a>&gt; connectorTypes = const [], double minChargeAtChargingStationInKilowattHours = 0.0, double? minChargeAtFirstChargingStationInKilowattHours = null, double minChargeAtDestinationInKilowattHours = 0.0, double? maxChargingVoltageInVolts = null, double? maxChargingCurrentInAmperes = null, Duration chargingSetupDuration = const Duration(seconds: 0), double? maxPowerAtLowVoltageInKilowatts = null])
+/sdk-for-flutter-explore-routing-batteryspecifications-batteryspecifications([double totalCapacityInKilowattHours = 0.0, double initialChargeInKilowattHours = 0.0, double targetChargeInKilowattHours = 0.0, Map&lt;<wbr/>double, double&gt; chargingCurve = const {}, List&lt;<wbr/>/sdk-for-flutter-explore-routing-chargingconnectortype&gt; connectorTypes = const [], double minChargeAtChargingStationInKilowattHours = 0.0, double? minChargeAtFirstChargingStationInKilowattHours = null, double minChargeAtDestinationInKilowattHours = 0.0, double? maxChargingVoltageInVolts = null, double? maxChargingCurrentInAmperes = null, Duration chargingSetupDuration = const Duration(seconds: 0), double? maxPowerAtLowVoltageInKilowatts = null])
 </dt>
 <dd>
           Creates a new instance.
         </dd>
 <dt class="callable" id="BatterySpecifications.withDefaults">
-<a href="../routing/BatterySpecifications/BatterySpecifications.withDefaults.html">/sdk-for-flutter-explore-routing-batteryspecifications-batteryspecifications-withdefaults</a>()
+/sdk-for-flutter-explore-routing-batteryspecifications-batteryspecifications-withdefaults()
 </dt>
 <dd>
           Creates a new instance.
@@ -85,7 +86,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="chargingCurve">
-<a href="../routing/BatterySpecifications/chargingCurve.html">/sdk-for-flutter-explore-routing-batteryspecifications-chargingcurve</a>
+/sdk-for-flutter-explore-routing-batteryspecifications-chargingcurve
 ↔ Map&lt;<wbr/>double, double&gt;
 </dt>
 <dd>
@@ -96,17 +97,17 @@ in units of (kWh).
 Map values represent charging rate values that are positive floating point values
 in units of (kW).
 Given charge levels must cover the entire range of
-[0, <a href="../routing/BatterySpecifications/targetChargeInKilowattHours.html">/sdk-for-flutter-explore-routing-batteryspecifications-targetchargeinkilowatthours</a>],
-otherwise the <a href="../routing/BatterySpecifications-class.html">/sdk-for-flutter-explore-routing-batteryspecifications-class</a> instance is considered invalid.
+[0, /sdk-for-flutter-explore-routing-batteryspecifications-targetchargeinkilowatthours],
+otherwise the /sdk-for-flutter-explore-routing-batteryspecifications-class instance is considered invalid.
 The charging curve is considered piecewise constant instead of being interpolated.
 Defaults to an empty container.
 <strong>Note:</strong>
-For a user-planned <a href="../routing/ChargingStop-class.html">/sdk-for-flutter-explore-routing-chargingstop-class</a>, this parameter is also required.
+For a user-planned /sdk-for-flutter-explore-routing-chargingstop-class, this parameter is also required.
 If one or more values are not set, the route calculation will fail as an invalid parameter error.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="chargingSetupDuration">
-<a href="../routing/BatterySpecifications/chargingSetupDuration.html">/sdk-for-flutter-explore-routing-batteryspecifications-chargingsetupduration</a>
+/sdk-for-flutter-explore-routing-batteryspecifications-chargingsetupduration
 ↔ Duration
 </dt>
 <dd>
@@ -116,18 +117,18 @@ Defaults to 0 seconds.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="connectorTypes">
-<a href="../routing/BatterySpecifications/connectorTypes.html">/sdk-for-flutter-explore-routing-batteryspecifications-connectortypes</a>
-↔ List&lt;<wbr/><a href="../routing/ChargingConnectorType.html">/sdk-for-flutter-explore-routing-chargingconnectortype</a>&gt;
+/sdk-for-flutter-explore-routing-batteryspecifications-connectortypes
+↔ List&lt;<wbr/>/sdk-for-flutter-explore-routing-chargingconnectortype&gt;
 </dt>
 <dd>
   List of available charging connector types.
 It must be at least one charging connector type added, otherwise
-the <a href="../routing/BatterySpecifications-class.html">/sdk-for-flutter-explore-routing-batteryspecifications-class</a> instance is considered invalid.
+the /sdk-for-flutter-explore-routing-batteryspecifications-class instance is considered invalid.
 Defaults to an empty container.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-<a href="../routing/BatterySpecifications/hashCode.html">/sdk-for-flutter-explore-routing-batteryspecifications-hashcode</a>
+/sdk-for-flutter-explore-routing-batteryspecifications-hashcode
 → int
 </dt>
 <dd>
@@ -135,22 +136,22 @@ Defaults to an empty container.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="initialChargeInKilowattHours">
-<a href="../routing/BatterySpecifications/initialChargeInKilowattHours.html">/sdk-for-flutter-explore-routing-batteryspecifications-initialchargeinkilowatthours</a>
+/sdk-for-flutter-explore-routing-batteryspecifications-initialchargeinkilowatthours
 ↔ double
 </dt>
 <dd>
   Charge level of the vehicle's battery at the start of the route (in kWh).
 It must be non-negative and less than or equal to the value of
-<a href="../routing/BatterySpecifications/totalCapacityInKilowattHours.html">/sdk-for-flutter-explore-routing-batteryspecifications-totalcapacityinkilowatthours</a>,
-otherwise the <a href="../routing/BatterySpecifications-class.html">/sdk-for-flutter-explore-routing-batteryspecifications-class</a> instance is considered invalid.
+/sdk-for-flutter-explore-routing-batteryspecifications-totalcapacityinkilowatthours,
+otherwise the /sdk-for-flutter-explore-routing-batteryspecifications-class instance is considered invalid.
 Defaults to 0.
 <strong>Note:</strong>
-For a user-planned <a href="../routing/ChargingStop-class.html">/sdk-for-flutter-explore-routing-chargingstop-class</a>, this parameter is also required.
+For a user-planned /sdk-for-flutter-explore-routing-chargingstop-class, this parameter is also required.
 If not set greater than 0, the route calculation will fail as an an invalid parameter error.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="maxChargingCurrentInAmperes">
-<a href="../routing/BatterySpecifications/maxChargingCurrentInAmperes.html">/sdk-for-flutter-explore-routing-batteryspecifications-maxchargingcurrentinamperes</a>
+/sdk-for-flutter-explore-routing-batteryspecifications-maxchargingcurrentinamperes
 ↔ double?
 </dt>
 <dd>
@@ -161,7 +162,7 @@ Defaults to <code>null</code>.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="maxChargingVoltageInVolts">
-<a href="../routing/BatterySpecifications/maxChargingVoltageInVolts.html">/sdk-for-flutter-explore-routing-batteryspecifications-maxchargingvoltageinvolts</a>
+/sdk-for-flutter-explore-routing-batteryspecifications-maxchargingvoltageinvolts
 ↔ double?
 </dt>
 <dd>
@@ -172,7 +173,7 @@ Defaults to <code>null</code>.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="maxPowerAtLowVoltageInKilowatts">
-<a href="../routing/BatterySpecifications/maxPowerAtLowVoltageInKilowatts.html">/sdk-for-flutter-explore-routing-batteryspecifications-maxpoweratlowvoltageinkilowatts</a>
+/sdk-for-flutter-explore-routing-batteryspecifications-maxpoweratlowvoltageinkilowatts
 ↔ double?
 </dt>
 <dd>
@@ -180,47 +181,47 @@ Defaults to <code>null</code>.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="minChargeAtChargingStationInKilowattHours">
-<a href="../routing/BatterySpecifications/minChargeAtChargingStationInKilowattHours.html">/sdk-for-flutter-explore-routing-batteryspecifications-minchargeatchargingstationinkilowatthours</a>
+/sdk-for-flutter-explore-routing-batteryspecifications-minchargeatchargingstationinkilowatthours
 ↔ double
 </dt>
 <dd>
   Minimum charge when arriving at a charging station in kWh.
 It must be non-negative and less than the value of
-<a href="../routing/BatterySpecifications/targetChargeInKilowattHours.html">/sdk-for-flutter-explore-routing-batteryspecifications-targetchargeinkilowatthours</a>,
-otherwise the <a href="../routing/BatterySpecifications-class.html">/sdk-for-flutter-explore-routing-batteryspecifications-class</a> instance is considered invalid.
+/sdk-for-flutter-explore-routing-batteryspecifications-targetchargeinkilowatthours,
+otherwise the /sdk-for-flutter-explore-routing-batteryspecifications-class instance is considered invalid.
 Defaults to 0.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="minChargeAtDestinationInKilowattHours">
-<a href="../routing/BatterySpecifications/minChargeAtDestinationInKilowattHours.html">/sdk-for-flutter-explore-routing-batteryspecifications-minchargeatdestinationinkilowatthours</a>
+/sdk-for-flutter-explore-routing-batteryspecifications-minchargeatdestinationinkilowatthours
 ↔ double
 </dt>
 <dd>
   Minimum charge at the final route destination in kWh.
 It must be non-negative and less than the value of
-<a href="../routing/BatterySpecifications/targetChargeInKilowattHours.html">/sdk-for-flutter-explore-routing-batteryspecifications-targetchargeinkilowatthours</a>,
-otherwise the <a href="../routing/BatterySpecifications-class.html">/sdk-for-flutter-explore-routing-batteryspecifications-class</a> instance is considered invalid.
+/sdk-for-flutter-explore-routing-batteryspecifications-targetchargeinkilowatthours,
+otherwise the /sdk-for-flutter-explore-routing-batteryspecifications-class instance is considered invalid.
 Defaults to 0.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="minChargeAtFirstChargingStationInKilowattHours">
-<a href="../routing/BatterySpecifications/minChargeAtFirstChargingStationInKilowattHours.html">/sdk-for-flutter-explore-routing-batteryspecifications-minchargeatfirstchargingstationinkilowatthours</a>
+/sdk-for-flutter-explore-routing-batteryspecifications-minchargeatfirstchargingstationinkilowatthours
 ↔ double?
 </dt>
 <dd>
   Minimum charge when arriving at first charging station in kWh.
-This overrides <a href="../routing/BatterySpecifications/minChargeAtChargingStationInKilowattHours.html">/sdk-for-flutter-explore-routing-batteryspecifications-minchargeatchargingstationinkilowatthours</a> for the first charging station.
-If not specified, <a href="../routing/BatterySpecifications/minChargeAtChargingStationInKilowattHours.html">/sdk-for-flutter-explore-routing-batteryspecifications-minchargeatchargingstationinkilowatthours</a> will be used
+This overrides /sdk-for-flutter-explore-routing-batteryspecifications-minchargeatchargingstationinkilowatthours for the first charging station.
+If not specified, /sdk-for-flutter-explore-routing-batteryspecifications-minchargeatchargingstationinkilowatthours will be used
 for all charging stations, including the first one.
 Defaults to <code>null</code>.
 When initialized, it must be non-negative and less than the value of
-<a href="../routing/BatterySpecifications/targetChargeInKilowattHours.html">/sdk-for-flutter-explore-routing-batteryspecifications-targetchargeinkilowatthours</a>,
-otherwise the <a href="../routing/BatterySpecifications-class.html">/sdk-for-flutter-explore-routing-batteryspecifications-class</a> instance is considered invalid.
+/sdk-for-flutter-explore-routing-batteryspecifications-targetchargeinkilowatthours,
+otherwise the /sdk-for-flutter-explore-routing-batteryspecifications-class instance is considered invalid.
 This is usually used when the current charge is too low to reach a charging station within <code>minChargeAtChargingStation</code> limits.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../routing/BatterySpecifications/runtimeType.html">/sdk-for-flutter-explore-routing-batteryspecifications-runtimetype</a>
+/sdk-for-flutter-explore-routing-batteryspecifications-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -228,19 +229,19 @@ This is usually used when the current charge is too low to reach a charging stat
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="targetChargeInKilowattHours">
-<a href="../routing/BatterySpecifications/targetChargeInKilowattHours.html">/sdk-for-flutter-explore-routing-batteryspecifications-targetchargeinkilowatthours</a>
+/sdk-for-flutter-explore-routing-batteryspecifications-targetchargeinkilowatthours
 ↔ double
 </dt>
 <dd>
   Maximum charge to which the battery should be charged at a charging station (in kWh).
 It must be positive and less than or equal to the value of
-<a href="../routing/BatterySpecifications/totalCapacityInKilowattHours.html">/sdk-for-flutter-explore-routing-batteryspecifications-totalcapacityinkilowatthours</a>,
-otherwise the <a href="../routing/BatterySpecifications-class.html">/sdk-for-flutter-explore-routing-batteryspecifications-class</a> instance is considered invalid.
+/sdk-for-flutter-explore-routing-batteryspecifications-totalcapacityinkilowatthours,
+otherwise the /sdk-for-flutter-explore-routing-batteryspecifications-class instance is considered invalid.
 Defaults to 0.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="totalCapacityInKilowattHours">
-<a href="../routing/BatterySpecifications/totalCapacityInKilowattHours.html">/sdk-for-flutter-explore-routing-batteryspecifications-totalcapacityinkilowatthours</a>
+/sdk-for-flutter-explore-routing-batteryspecifications-totalcapacityinkilowatthours
 ↔ double
 </dt>
 <dd>
@@ -248,7 +249,7 @@ Defaults to 0.
 It must be positive.
 Defaults to 0.
 <strong>Note:</strong>
-For a user-planned <a href="../routing/ChargingStop-class.html">/sdk-for-flutter-explore-routing-chargingstop-class</a>, this parameter is also required.
+For a user-planned /sdk-for-flutter-explore-routing-chargingstop-class, this parameter is also required.
 If not set greater than 0, the route calculation will fail as an invalid parameter error.
   <div class="features">getter/setter pair</div>
 </dd>
@@ -258,7 +259,7 @@ If not set greater than 0, the route calculation will fail as an invalid paramet
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../routing/BatterySpecifications/noSuchMethod.html">/sdk-for-flutter-explore-routing-batteryspecifications-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-routing-batteryspecifications-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -267,7 +268,7 @@ If not set greater than 0, the route calculation will fail as an invalid paramet
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../routing/BatterySpecifications/toString.html">/sdk-for-flutter-explore-routing-batteryspecifications-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-routing-batteryspecifications-tostring(<wbr/>)
     → String
 
 </dt>
@@ -281,7 +282,7 @@ If not set greater than 0, the route calculation will fail as an invalid paramet
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-<a href="../routing/BatterySpecifications/operator_equals.html">/sdk-for-flutter-explore-routing-batteryspecifications-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-routing-batteryspecifications-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -300,8 +301,8 @@ If not set greater than 0, the route calculation will fail as an invalid paramet
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
 <li class="self-crumb">BatterySpecifications class</li>
 </ol>
 <h5>routing library</h5>
@@ -318,4 +319,5 @@ If not set greater than 0, the route calculation will fail as an invalid paramet
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

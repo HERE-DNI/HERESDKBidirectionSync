@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "TransportSpecificationPrivateBusBuilder class abstract"
 slug: "sdk-for-flutter-explore-transport-transportspecificationprivatebusbuilder-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- TransportSpecificationPrivateBusBuilder-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -26,8 +27,8 @@ slug: "sdk-for-flutter-explore-transport-transportspecificationprivatebusbuilder
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-transport-transport-library</li>
 <li class="self-crumb">TransportSpecificationPrivateBusBuilder class</li>
 </ol>
 <div class="self-name">TransportSpecificationPrivateBusBuilder</div>
@@ -51,13 +52,13 @@ menu
 <div>
 <h1>TransportSpecificationPrivateBusBuilder class abstract</h1></div>
 <section class="desc markdown">
-<p>This class constructs a <a href="../transport/TransportSpecification-class.html">/sdk-for-flutter-explore-transport-transportspecification-class</a> for a private bus.</p>
+<p>This class constructs a /sdk-for-flutter-explore-transport-transportspecification-class for a private bus.</p>
 </section>
 <section class="summary offset-anchor" id="constructors">
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="TransportSpecificationPrivateBusBuilder">
-<a href="../transport/TransportSpecificationPrivateBusBuilder/TransportSpecificationPrivateBusBuilder.html">/sdk-for-flutter-explore-transport-transportspecificationprivatebusbuilder-transportspecificationprivatebusbuilder</a>()
+/sdk-for-flutter-explore-transport-transportspecificationprivatebusbuilder-transportspecificationprivatebusbuilder()
 </dt>
 <dd>
           Creates a new instance of this class.
@@ -69,7 +70,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="hashCode">
-<a href="../transport/TransportSpecificationPrivateBusBuilder/hashCode.html">/sdk-for-flutter-explore-transport-transportspecificationprivatebusbuilder-hashcode</a>
+/sdk-for-flutter-explore-transport-transportspecificationprivatebusbuilder-hashcode
 → int
 </dt>
 <dd class="inherited">
@@ -77,7 +78,7 @@ menu
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../transport/TransportSpecificationPrivateBusBuilder/runtimeType.html">/sdk-for-flutter-explore-transport-transportspecificationprivatebusbuilder-runtimetype</a>
+/sdk-for-flutter-explore-transport-transportspecificationprivatebusbuilder-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -90,17 +91,18 @@ menu
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable" id="build">
-<a href="../transport/TransportSpecificationPrivateBusBuilder/build.html">/sdk-for-flutter-explore-transport-transportspecificationprivatebusbuilder-build</a>(<wbr/>)
-    → <a href="../transport/TransportSpecification-class.html">/sdk-for-flutter-explore-transport-transportspecification-class</a>
+/sdk-for-flutter-explore-transport-transportspecificationprivatebusbuilder-build(<wbr/>)
+    → /sdk-for-flutter-explore-transport-transportspecification-class
+
 </dt>
 <dd>
-  Builds the <a href="../transport/TransportSpecification-class.html">/sdk-for-flutter-explore-transport-transportspecification-class</a> object for a private bus with the specifications taken
-from the <a href="../transport/TransportSpecificationPrivateBusBuilder-class.html">/sdk-for-flutter-explore-transport-transportspecificationprivatebusbuilder-class</a> object.
+  Builds the /sdk-for-flutter-explore-transport-transportspecification-class object for a private bus with the specifications taken
+from the /sdk-for-flutter-explore-transport-transportspecificationprivatebusbuilder-class object.
   
 
 </dd>
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../transport/TransportSpecificationPrivateBusBuilder/noSuchMethod.html">/sdk-for-flutter-explore-transport-transportspecificationprivatebusbuilder-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-transport-transportspecificationprivatebusbuilder-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -109,7 +111,7 @@ from the <a href="../transport/TransportSpecificationPrivateBusBuilder-class.htm
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../transport/TransportSpecificationPrivateBusBuilder/toString.html">/sdk-for-flutter-explore-transport-transportspecificationprivatebusbuilder-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-transport-transportspecificationprivatebusbuilder-tostring(<wbr/>)
     → String
 
 </dt>
@@ -118,8 +120,9 @@ from the <a href="../transport/TransportSpecificationPrivateBusBuilder-class.htm
   <div class="features">inherited</div>
 </dd>
 <dt class="callable" id="withVehicleSpecification">
-<a href="../transport/TransportSpecificationPrivateBusBuilder/withVehicleSpecification.html">/sdk-for-flutter-explore-transport-transportspecificationprivatebusbuilder-withvehiclespecification</a>(<wbr/><a href="../transport/VehicleSpecification-class.html">/sdk-for-flutter-explore-transport-vehiclespecification-class</a> vehicleSpecification)
-    → <a href="../transport/TransportSpecificationPrivateBusBuilder-class.html">/sdk-for-flutter-explore-transport-transportspecificationprivatebusbuilder-class</a>
+/sdk-for-flutter-explore-transport-transportspecificationprivatebusbuilder-withvehiclespecification(<wbr/>/sdk-for-flutter-explore-transport-vehiclespecification-class vehicleSpecification)
+    → /sdk-for-flutter-explore-transport-transportspecificationprivatebusbuilder-class
+
 </dt>
 <dd>
   Sets the vehicle specification.
@@ -132,7 +135,7 @@ from the <a href="../transport/TransportSpecificationPrivateBusBuilder-class.htm
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-<a href="../transport/TransportSpecificationPrivateBusBuilder/operator_equals.html">/sdk-for-flutter-explore-transport-transportspecificationprivatebusbuilder-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-transport-transportspecificationprivatebusbuilder-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -150,8 +153,8 @@ from the <a href="../transport/TransportSpecificationPrivateBusBuilder-class.htm
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-transport-transport-library</li>
 <li class="self-crumb">TransportSpecificationPrivateBusBuilder class</li>
 </ol>
 <h5>transport library</h5>
@@ -168,4 +171,5 @@ from the <a href="../transport/TransportSpecificationPrivateBusBuilder-class.htm
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

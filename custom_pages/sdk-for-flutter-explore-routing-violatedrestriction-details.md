@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "details property"
 slug: "sdk-for-flutter-explore-routing-violatedrestriction-details"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- details.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-routing-violatedrestriction-details"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/ViolatedRestriction-class.html">/sdk-for-flutter-explore-routing-violatedrestriction-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-violatedrestriction-class</li>
 <li class="self-crumb">details property</li>
 </ol>
 <div class="self-name">details</div>
@@ -37,7 +38,7 @@ menu
 <div>
 <h1>details property</h1></div>
 <section class="multi-line-signature">
-<a href="../../routing/ViolatedRestrictionDetails-class.html">/sdk-for-flutter-explore-routing-violatedrestrictiondetails-class</a>?
+/sdk-for-flutter-explore-routing-violatedrestrictiondetails-class?
         details
 <div class="features">getter/setter pair</div>
 </section>
@@ -45,7 +46,7 @@ menu
 <p>The detailed information of restriction depending on the specific violation.
 For time dependent restriction or transport mode restriction, this property will be null.
 For vehicle restriction, the corresponding member will be set, for example, if the vehicle violates the maximum
-allowed gross weight for a specific route, the max_gross_weight_in_kilograms will be set with the maximum allowed
+allowed gross weight for a specific route, the <code>max_gross_weight_in_kilograms</code> will be set with the maximum allowed
 gross weight for this route.</p>
 </section>
 <section class="summary source-code" id="source">
@@ -60,9 +61,9 @@ gross weight for this route.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/ViolatedRestriction-class.html">/sdk-for-flutter-explore-routing-violatedrestriction-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-violatedrestriction-class</li>
 <li class="self-crumb">details property</li>
 </ol>
 <h5>ViolatedRestriction class</h5>
@@ -79,4 +80,5 @@ gross weight for this route.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

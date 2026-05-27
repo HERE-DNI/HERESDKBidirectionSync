@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "contacts property"
 slug: "sdk-for-flutter-explore-search-businessdetails-contacts"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- contacts.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-search-businessdetails-contacts"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/BusinessDetails-class.html">/sdk-for-flutter-explore-search-businessdetails-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-businessdetails-class</li>
 <li class="self-crumb">contacts property</li>
 </ol>
 <div class="self-name">contacts</div>
@@ -38,7 +39,7 @@ menu
 <h1>contacts property</h1></div>
 <section class="multi-line-signature">
         
-        List&lt;<wbr/><a href="../../search/Contact-class.html">/sdk-for-flutter-explore-search-contact-class</a>&gt;
+        List&lt;<wbr/>/sdk-for-flutter-explore-search-contact-class&gt;
 contacts
 <div class="features">getter/setter pair</div>
 </section>
@@ -57,9 +58,9 @@ contacts
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/BusinessDetails-class.html">/sdk-for-flutter-explore-search-businessdetails-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-businessdetails-class</li>
 <li class="self-crumb">contacts property</li>
 </ol>
 <h5>BusinessDetails class</h5>
@@ -76,4 +77,5 @@ contacts
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

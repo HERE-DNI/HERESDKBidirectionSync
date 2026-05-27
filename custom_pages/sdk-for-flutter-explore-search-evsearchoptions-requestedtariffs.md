@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "requestedTariffs property"
 slug: "sdk-for-flutter-explore-search-evsearchoptions-requestedtariffs"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- requestedTariffs.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-search-evsearchoptions-requestedtariffs"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/EVSearchOptions-class.html">/sdk-for-flutter-explore-search-evsearchoptions-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-evsearchoptions-class</li>
 <li class="self-crumb">requestedTariffs property</li>
 </ol>
 <div class="self-name">requestedTariffs</div>
@@ -38,13 +39,13 @@ menu
 <h1>requestedTariffs property</h1></div>
 <section class="multi-line-signature">
         
-        List&lt;<wbr/><a href="../../search/EVChargingTariffRequest-class.html">/sdk-for-flutter-explore-search-evchargingtariffrequest-class</a>&gt;
+        List&lt;<wbr/>/sdk-for-flutter-explore-search-evchargingtariffrequest-class&gt;
 requestedTariffs
 <div class="features">getter/setter pair</div>
 </section>
 <section class="desc markdown">
 <p>List of tariff search options.
-This parameter is effective only if the <a href="../../search/EVSearchOptions/additionalFeatures.html">/sdk-for-flutter-explore-search-evsearchoptions-additionalfeatures</a> contains <a href="../../search/EVChargingLocationFeature.html">/sdk-for-flutter-explore-search-evcharginglocationfeature</a>.
+This parameter is effective only if the /sdk-for-flutter-explore-search-evsearchoptions-additionalfeatures contains /sdk-for-flutter-explore-search-evcharginglocationfeature.
 If empty, the response contains only ad-hoc tariffs, if available.</p>
 </section>
 <section class="summary source-code" id="source">
@@ -59,9 +60,9 @@ If empty, the response contains only ad-hoc tariffs, if available.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/EVSearchOptions-class.html">/sdk-for-flutter-explore-search-evsearchoptions-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-evsearchoptions-class</li>
 <li class="self-crumb">requestedTariffs property</li>
 </ol>
 <h5>EVSearchOptions class</h5>
@@ -78,4 +79,5 @@ If empty, the response contains only ad-hoc tariffs, if available.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

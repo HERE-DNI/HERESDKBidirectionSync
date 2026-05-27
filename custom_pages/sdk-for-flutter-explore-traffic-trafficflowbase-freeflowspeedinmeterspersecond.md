@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "freeFlowSpeedInMetersPerSecond property"
 slug: "sdk-for-flutter-explore-traffic-trafficflowbase-freeflowspeedinmeterspersecond"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- freeFlowSpeedInMetersPerSecond.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-traffic-trafficflowbase-freeflowspeedinmeterspers
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../traffic/traffic-library.html">/sdk-for-flutter-explore-traffic-traffic-library</a></li>
-<li><a href="../../traffic/TrafficFlowBase-class.html">/sdk-for-flutter-explore-traffic-trafficflowbase-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-traffic-traffic-library</li>
+<li>/sdk-for-flutter-explore-traffic-trafficflowbase-class</li>
 <li class="self-crumb">freeFlowSpeedInMetersPerSecond property</li>
 </ol>
 <div class="self-name">freeFlowSpeedInMetersPerSecond</div>
@@ -58,9 +59,9 @@ Gets the reference speed in meters per second along the roadway when no traffic 
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../traffic/traffic-library.html">/sdk-for-flutter-explore-traffic-traffic-library</a></li>
-<li><a href="../../traffic/TrafficFlowBase-class.html">/sdk-for-flutter-explore-traffic-trafficflowbase-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-traffic-traffic-library</li>
+<li>/sdk-for-flutter-explore-traffic-trafficflowbase-class</li>
 <li class="self-crumb">freeFlowSpeedInMetersPerSecond property</li>
 </ol>
 <h5>TrafficFlowBase class</h5>
@@ -77,4 +78,5 @@ Gets the reference speed in meters per second along the roadway when no traffic 
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

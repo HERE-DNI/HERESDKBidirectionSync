@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "ChargingStation.withDetails constructor"
 slug: "sdk-for-flutter-explore-routing-chargingstation-chargingstation-withdetails"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- ChargingStation.withDetails.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-routing-chargingstation-chargingstation-withdetai
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/ChargingStation-class.html">/sdk-for-flutter-explore-routing-chargingstation-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-chargingstation-class</li>
 <li class="self-crumb">ChargingStation.withDetails constructor</li>
 </ol>
 <div class="self-name">ChargingStation.withDetails</div>
@@ -39,10 +40,10 @@ menu
 <section class="multi-line-signature">
 ChargingStation.withDetails(<wbr/><ol class="parameter-list"> <li>String? id, </li>
 <li>String? name, </li>
-<li><a href="../../routing/ChargingConnectorAttributes-class.html">/sdk-for-flutter-explore-routing-chargingconnectorattributes-class</a>? connectorAttributes, </li>
-<li><a href="../../core/NameID-class.html">/sdk-for-flutter-explore-core-nameid-class</a>? brand, </li>
-<li><a href="../../core/NameID-class.html">/sdk-for-flutter-explore-core-nameid-class</a>? chargePointOperator, </li>
-<li>List&lt;<wbr/><a href="../../core/NameID-class.html">/sdk-for-flutter-explore-core-nameid-class</a>&gt; matchingEMobilityServiceProviders, </li>
+<li>/sdk-for-flutter-explore-routing-chargingconnectorattributes-class? connectorAttributes, </li>
+<li>/sdk-for-flutter-explore-core-nameid-class? brand, </li>
+<li>/sdk-for-flutter-explore-core-nameid-class? chargePointOperator, </li>
+<li>List&lt;<wbr/>/sdk-for-flutter-explore-core-nameid-class&gt; matchingEMobilityServiceProviders, </li>
 </ol>)
     </section>
 <section class="desc markdown">
@@ -55,17 +56,17 @@ By default, with HERE datasets it is guranteed to be not null.</li>
 name associated with the station.</li>
 <li><code>connectorAttributes</code> Details of the connector suggested to be used.</li>
 <li><code>brand</code> Charging station brand.
-<a href="../../core/NameID/name.html">/sdk-for-flutter-explore-core-nameid-name</a> reflect to charging station brand name.
-<a href="../../core/NameID/id.html">/sdk-for-flutter-explore-core-nameid-id</a> reflect to charging station brand unique ID.</li>
+/sdk-for-flutter-explore-core-nameid-name reflect to charging station brand name.
+/sdk-for-flutter-explore-core-nameid-id reflect to charging station brand unique ID.</li>
 <li><code>chargePointOperator</code> Charging station charge-point-operator.
-<a href="../../core/NameID/name.html">/sdk-for-flutter-explore-core-nameid-name</a> reflect to charge-point-operator name.
-<a href="../../core/NameID/id.html">/sdk-for-flutter-explore-core-nameid-id</a> reflect to charge-point-operator ID.</li>
+/sdk-for-flutter-explore-core-nameid-name reflect to charge-point-operator name.
+/sdk-for-flutter-explore-core-nameid-id reflect to charge-point-operator ID.</li>
 <li><code>matchingEMobilityServiceProviders</code> List of matched E-Mobility Service Providers.
-Populated only when <a href="../../routing/ElectricVehicleOptions/evMobilityServiceProviderPreferences.html">/sdk-for-flutter-explore-routing-electricvehicleoptions-evmobilityserviceproviderpreferences</a> was set.
+Populated only when /sdk-for-flutter-explore-routing-electricvehicleoptions-evmobilityserviceproviderpreferences was set.
 This list reflects the subset of E-Mobility Service Providers supported by the charging station,
-from the list specified in the request parameter <a href="../../routing/ElectricVehicleOptions/evMobilityServiceProviderPreferences.html">/sdk-for-flutter-explore-routing-electricvehicleoptions-evmobilityserviceproviderpreferences</a>.
-<a href="../../core/NameID/name.html">/sdk-for-flutter-explore-core-nameid-name</a> in each list item reflect to E-Mobility Service Provider name.
-<a href="../../core/NameID/id.html">/sdk-for-flutter-explore-core-nameid-id</a> in each list item reflect to E-Mobility Service Provider id.</li>
+from the list specified in the request parameter /sdk-for-flutter-explore-routing-electricvehicleoptions-evmobilityserviceproviderpreferences.
+/sdk-for-flutter-explore-core-nameid-name in each list item reflect to E-Mobility Service Provider name.
+/sdk-for-flutter-explore-core-nameid-id in each list item reflect to E-Mobility Service Provider id.</li>
 </ul>
 </section>
 <section class="summary source-code" id="source">
@@ -80,9 +81,9 @@ from the list specified in the request parameter <a href="../../routing/Electric
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/ChargingStation-class.html">/sdk-for-flutter-explore-routing-chargingstation-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-chargingstation-class</li>
 <li class="self-crumb">ChargingStation.withDetails constructor</li>
 </ol>
 <h5>ChargingStation class</h5>
@@ -99,4 +100,5 @@ from the list specified in the request parameter <a href="../../routing/Electric
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

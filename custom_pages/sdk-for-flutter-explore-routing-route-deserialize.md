@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "deserialize static method"
 slug: "sdk-for-flutter-explore-routing-route-deserialize"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- deserialize.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-routing-route-deserialize"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/Route-class.html">/sdk-for-flutter-explore-routing-route-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-route-class</li>
 <li class="self-crumb">deserialize static method</li>
 </ol>
 <div class="self-name">deserialize</div>
@@ -37,7 +38,7 @@ menu
 <div>
 <h1>deserialize static method</h1></div>
 <section class="multi-line-signature">
-<a href="../../routing/Route-class.html">/sdk-for-flutter-explore-routing-route-class</a>?
+/sdk-for-flutter-explore-routing-route-class?
 deserialize(<wbr/><ol class="parameter-list single-line"> <li>Uint8List routeData</li>
 </ol>)
 
@@ -51,7 +52,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <ul>
 <li><code>routeData</code> The binary of a serialized route.</li>
 </ul>
-<p>Returns <a href="../../routing/Route-class.html">/sdk-for-flutter-explore-routing-route-class</a>. The route object restored from the binary data.</p>
+<p>Returns /sdk-for-flutter-explore-routing-route-class. The route object restored from the binary data.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -65,9 +66,9 @@ Related APIs may change for new releases without a deprecation process.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/Route-class.html">/sdk-for-flutter-explore-routing-route-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-route-class</li>
 <li class="self-crumb">deserialize static method</li>
 </ol>
 <h5>Route class</h5>
@@ -84,4 +85,5 @@ Related APIs may change for new releases without a deprecation process.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

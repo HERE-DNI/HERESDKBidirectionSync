@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "areaCenter property"
 slug: "sdk-for-flutter-explore-search-addressquery-areacenter"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- areaCenter.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-search-addressquery-areacenter"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/AddressQuery-class.html">/sdk-for-flutter-explore-search-addressquery-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-addressquery-class</li>
 <li class="self-crumb">areaCenter property</li>
 </ol>
 <div class="self-name">areaCenter</div>
@@ -37,13 +38,13 @@ menu
 <div>
 <h1>areaCenter property</h1></div>
 <section class="multi-line-signature">
-<a href="../../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>?
+/sdk-for-flutter-explore-core-geocoordinates-class?
         areaCenter
 <div class="features">final</div>
 </section>
 <section class="desc markdown">
 <p>Geographical coordinates of the center around which to provide the most relevant places.
-For Offline Search null value will result in <a href="../../search/SearchError.html">/sdk-for-flutter-explore-search-searcherror</a></p>
+For Offline Search null value will result in /sdk-for-flutter-explore-search-searcherror</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -57,9 +58,9 @@ For Offline Search null value will result in <a href="../../search/SearchError.h
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/AddressQuery-class.html">/sdk-for-flutter-explore-search-addressquery-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-addressquery-class</li>
 <li class="self-crumb">areaCenter property</li>
 </ol>
 <h5>AddressQuery class</h5>
@@ -76,4 +77,5 @@ For Offline Search null value will result in <a href="../../search/SearchError.h
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "connectorGroups property"
 slug: "sdk-for-flutter-explore-search-evcharginglocation-connectorgroups"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- connectorGroups.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-search-evcharginglocation-connectorgroups"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/EVChargingLocation-class.html">/sdk-for-flutter-explore-search-evcharginglocation-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-evcharginglocation-class</li>
 <li class="self-crumb">connectorGroups property</li>
 </ol>
 <div class="self-name">connectorGroups</div>
@@ -38,7 +39,7 @@ menu
 <h1>connectorGroups property</h1></div>
 <section id="getter">
 <section class="multi-line-signature">
-List&lt;<wbr/><a href="../../search/EVChargingConnectorGroup-class.html">/sdk-for-flutter-explore-search-evchargingconnectorgroup-class</a>&gt;
+List&lt;<wbr/>/sdk-for-flutter-explore-search-evchargingconnectorgroup-class&gt;
 connectorGroups
 </section>
 <section class="desc markdown">
@@ -61,9 +62,9 @@ Gets the connector groups for the location.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/EVChargingLocation-class.html">/sdk-for-flutter-explore-search-evcharginglocation-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-evcharginglocation-class</li>
 <li class="self-crumb">connectorGroups property</li>
 </ol>
 <h5>EVChargingLocation class</h5>
@@ -80,4 +81,5 @@ Gets the connector groups for the location.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

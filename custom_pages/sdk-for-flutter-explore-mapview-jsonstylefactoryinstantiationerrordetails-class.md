@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "JsonStyleFactoryInstantiationErrorDetails class"
 slug: "sdk-for-flutter-explore-mapview-jsonstylefactoryinstantiationerrordetails-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- JsonStyleFactoryInstantiationErrorDetails-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -26,8 +27,8 @@ slug: "sdk-for-flutter-explore-mapview-jsonstylefactoryinstantiationerrordetails
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
 <li class="self-crumb">JsonStyleFactoryInstantiationErrorDetails class</li>
 </ol>
 <div class="self-name">JsonStyleFactoryInstantiationErrorDetails</div>
@@ -51,13 +52,13 @@ menu
 <div>
 <h1>JsonStyleFactoryInstantiationErrorDetails class</h1></div>
 <section class="desc markdown">
-<p>Describes the reason for failing to create a <a href="../mapview/Style-class.html">/sdk-for-flutter-explore-mapview-style-class</a> from a JSON source.</p>
+<p>Describes the reason for failing to create a /sdk-for-flutter-explore-mapview-style-class from a JSON source.</p>
 </section>
 <section class="summary offset-anchor" id="constructors">
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="JsonStyleFactoryInstantiationErrorDetails">
-<a href="../mapview/JsonStyleFactoryInstantiationErrorDetails/JsonStyleFactoryInstantiationErrorDetails.html">/sdk-for-flutter-explore-mapview-jsonstylefactoryinstantiationerrordetails-jsonstylefactoryinstantiationerrordetails</a>(<a href="../mapview/JsonStyleFactoryInstantiationErrorCode.html">/sdk-for-flutter-explore-mapview-jsonstylefactoryinstantiationerrorcode</a> errorCode, String? errorDescription)
+/sdk-for-flutter-explore-mapview-jsonstylefactoryinstantiationerrordetails-jsonstylefactoryinstantiationerrordetails(/sdk-for-flutter-explore-mapview-jsonstylefactoryinstantiationerrorcode errorCode, String? errorDescription)
 </dt>
 <dd>
           Creates a new instance.
@@ -68,15 +69,15 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="errorCode">
-<a href="../mapview/JsonStyleFactoryInstantiationErrorDetails/errorCode.html">/sdk-for-flutter-explore-mapview-jsonstylefactoryinstantiationerrordetails-errorcode</a>
-↔ <a href="../mapview/JsonStyleFactoryInstantiationErrorCode.html">/sdk-for-flutter-explore-mapview-jsonstylefactoryinstantiationerrorcode</a>
+/sdk-for-flutter-explore-mapview-jsonstylefactoryinstantiationerrordetails-errorcode
+↔ /sdk-for-flutter-explore-mapview-jsonstylefactoryinstantiationerrorcode
 </dt>
 <dd>
   The error code.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="errorDescription">
-<a href="../mapview/JsonStyleFactoryInstantiationErrorDetails/errorDescription.html">/sdk-for-flutter-explore-mapview-jsonstylefactoryinstantiationerrordetails-errordescription</a>
+/sdk-for-flutter-explore-mapview-jsonstylefactoryinstantiationerrordetails-errordescription
 ↔ String?
 </dt>
 <dd>
@@ -84,7 +85,7 @@ menu
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="hashCode">
-<a href="../mapview/JsonStyleFactoryInstantiationErrorDetails/hashCode.html">/sdk-for-flutter-explore-mapview-jsonstylefactoryinstantiationerrordetails-hashcode</a>
+/sdk-for-flutter-explore-mapview-jsonstylefactoryinstantiationerrordetails-hashcode
 → int
 </dt>
 <dd class="inherited">
@@ -92,7 +93,7 @@ menu
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../mapview/JsonStyleFactoryInstantiationErrorDetails/runtimeType.html">/sdk-for-flutter-explore-mapview-jsonstylefactoryinstantiationerrordetails-runtimetype</a>
+/sdk-for-flutter-explore-mapview-jsonstylefactoryinstantiationerrordetails-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -105,7 +106,7 @@ menu
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../mapview/JsonStyleFactoryInstantiationErrorDetails/noSuchMethod.html">/sdk-for-flutter-explore-mapview-jsonstylefactoryinstantiationerrordetails-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-mapview-jsonstylefactoryinstantiationerrordetails-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -114,7 +115,7 @@ menu
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../mapview/JsonStyleFactoryInstantiationErrorDetails/toString.html">/sdk-for-flutter-explore-mapview-jsonstylefactoryinstantiationerrordetails-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-mapview-jsonstylefactoryinstantiationerrordetails-tostring(<wbr/>)
     → String
 
 </dt>
@@ -128,7 +129,7 @@ menu
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-<a href="../mapview/JsonStyleFactoryInstantiationErrorDetails/operator_equals.html">/sdk-for-flutter-explore-mapview-jsonstylefactoryinstantiationerrordetails-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-mapview-jsonstylefactoryinstantiationerrordetails-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -146,8 +147,8 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
 <li class="self-crumb">JsonStyleFactoryInstantiationErrorDetails class</li>
 </ol>
 <h5>mapview library</h5>
@@ -164,4 +165,5 @@ menu
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

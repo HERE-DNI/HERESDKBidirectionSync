@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "queryForFlowInCorridor abstract method"
 slug: "sdk-for-flutter-explore-traffic-trafficengine-queryforflowincorridor"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- queryForFlowInCorridor.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-traffic-trafficengine-queryforflowincorridor"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../traffic/traffic-library.html">/sdk-for-flutter-explore-traffic-traffic-library</a></li>
-<li><a href="../../traffic/TrafficEngine-class.html">/sdk-for-flutter-explore-traffic-trafficengine-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-traffic-traffic-library</li>
+<li>/sdk-for-flutter-explore-traffic-trafficengine-class</li>
 <li class="self-crumb">queryForFlowInCorridor abstract method</li>
 </ol>
 <div class="self-name">queryForFlowInCorridor</div>
@@ -37,10 +38,10 @@ menu
 <div>
 <h1>queryForFlowInCorridor abstract method</h1></div>
 <section class="multi-line-signature">
-<a href="../../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a>
-queryForFlowInCorridor(<wbr/><ol class="parameter-list single-line"> <li><a href="../../core/GeoCorridor-class.html">/sdk-for-flutter-explore-core-geocorridor-class</a> corridorArea, </li>
-<li><a href="../../traffic/TrafficFlowQueryOptions-class.html">/sdk-for-flutter-explore-traffic-trafficflowqueryoptions-class</a> queryOptions, </li>
-<li><a href="../../traffic/TrafficFlowQueryCallback.html">/sdk-for-flutter-explore-traffic-trafficflowquerycallback</a> callback</li>
+/sdk-for-flutter-explore-core-threading-taskhandle-class
+queryForFlowInCorridor(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-core-geocorridor-class corridorArea, </li>
+<li>/sdk-for-flutter-explore-traffic-trafficflowqueryoptions-class queryOptions, </li>
+<li>/sdk-for-flutter-explore-traffic-trafficflowquerycallback callback</li>
 </ol>)
 
       
@@ -55,7 +56,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 The maximum length for the corridor is 500000 meters and the maximum <code>GeoCorridor.half_width_in_meters</code> is 5000 meters.</li>
 </ul>
 <p>Maximum number of points in the corridor is 300.</p>
-<p>To reduce number of points in the corridor use <a href="../../core/PolylineSimplifier-class.html">/sdk-for-flutter-explore-core-polylinesimplifier-class</a>.</p>
+<p>To reduce number of points in the corridor use /sdk-for-flutter-explore-core-polylinesimplifier-class.</p>
 <p>If no <code>GeoCorridor.half_width_in_meters</code> is specified, the default value is used. The default value is 30 meters.</p>
 <ul>
 <li>
@@ -65,7 +66,7 @@ The maximum length for the corridor is 500000 meters and the maximum <code>GeoCo
 <p><code>callback</code> It is always invoked on the main thread.</p>
 </li>
 </ul>
-<p>Returns <a href="../../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a>. Handle that will be used to manipulate the execution of the task.</p>
+<p>Returns /sdk-for-flutter-explore-core-threading-taskhandle-class. Handle that will be used to manipulate the execution of the task.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -79,9 +80,9 @@ The maximum length for the corridor is 500000 meters and the maximum <code>GeoCo
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../traffic/traffic-library.html">/sdk-for-flutter-explore-traffic-traffic-library</a></li>
-<li><a href="../../traffic/TrafficEngine-class.html">/sdk-for-flutter-explore-traffic-trafficengine-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-traffic-traffic-library</li>
+<li>/sdk-for-flutter-explore-traffic-trafficengine-class</li>
 <li class="self-crumb">queryForFlowInCorridor abstract method</li>
 </ol>
 <h5>TrafficEngine class</h5>
@@ -98,4 +99,5 @@ The maximum length for the corridor is 500000 meters and the maximum <code>GeoCo
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

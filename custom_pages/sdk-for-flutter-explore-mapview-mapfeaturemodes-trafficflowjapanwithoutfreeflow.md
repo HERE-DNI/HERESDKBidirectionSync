@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "trafficFlowJapanWithoutFreeFlow property"
 slug: "sdk-for-flutter-explore-mapview-mapfeaturemodes-trafficflowjapanwithoutfreeflow"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- trafficFlowJapanWithoutFreeFlow.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-mapfeaturemodes-trafficflowjapanwithoutfr
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapFeatureModes-class.html">/sdk-for-flutter-explore-mapview-mapfeaturemodes-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapfeaturemodes-class</li>
 <li class="self-crumb">trafficFlowJapanWithoutFreeFlow property</li>
 </ol>
 <div class="self-name">trafficFlowJapanWithoutFreeFlow</div>
@@ -46,9 +47,9 @@ menu
 <p>Only available when Japan map is used.</p>
 <p>Traffic flow shows green lines depending on the region.</p>
 <p>In Japan green lines will not be shown,
-as if the <a href="../../mapview/MapFeatureModes/trafficFlowWithoutFreeFlow.html">/sdk-for-flutter-explore-mapview-mapfeaturemodes-trafficflowwithoutfreeflow</a> were used.</p>
+as if the /sdk-for-flutter-explore-mapview-mapfeaturemodes-trafficflowwithoutfreeflow were used.</p>
 <p>In rest of the world, green lines will be shown, as if
-the <a href="../../mapview/MapFeatureModes/trafficFlowWithFreeFlow.html">/sdk-for-flutter-explore-mapview-mapfeaturemodes-trafficflowwithfreeflow</a> were used.</p>
+the /sdk-for-flutter-explore-mapview-mapfeaturemodes-trafficflowwithfreeflow were used.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -62,9 +63,9 @@ the <a href="../../mapview/MapFeatureModes/trafficFlowWithFreeFlow.html">/sdk-fo
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapFeatureModes-class.html">/sdk-for-flutter-explore-mapview-mapfeaturemodes-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapfeaturemodes-class</li>
 <li class="self-crumb">trafficFlowJapanWithoutFreeFlow property</li>
 </ol>
 <h5>MapFeatureModes class</h5>
@@ -81,4 +82,5 @@ the <a href="../../mapview/MapFeatureModes/trafficFlowWithFreeFlow.html">/sdk-fo
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

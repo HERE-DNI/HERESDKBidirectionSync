@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "Anchor2D.withHorizontalAndVertical constructor"
 slug: "sdk-for-flutter-explore-core-anchor2d-anchor2d-withhorizontalandvertical"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- Anchor2D.withHorizontalAndVertical.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-core-anchor2d-anchor2d-withhorizontalandvertical"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
-<li><a href="../../core/Anchor2D-class.html">/sdk-for-flutter-explore-core-anchor2d-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
+<li>/sdk-for-flutter-explore-core-anchor2d-class</li>
 <li class="self-crumb">Anchor2D.withHorizontalAndVertical factory constructor</li>
 </ol>
 <div class="self-name">Anchor2D.withHorizontalAndVertical</div>
@@ -64,9 +65,9 @@ Anchor2D.withHorizontalAndVertical(<wbr/><ol class="parameter-list single-line">
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
-<li><a href="../../core/Anchor2D-class.html">/sdk-for-flutter-explore-core-anchor2d-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
+<li>/sdk-for-flutter-explore-core-anchor2d-class</li>
 <li class="self-crumb">Anchor2D.withHorizontalAndVertical factory constructor</li>
 </ol>
 <h5>Anchor2D class</h5>
@@ -83,4 +84,5 @@ Anchor2D.withHorizontalAndVertical(<wbr/><ol class="parameter-list single-line">
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "maxSpeedHighwaysInMetersPerSecond property"
 slug: "sdk-for-flutter-explore-transport-generalvehiclespeedlimits-maxspeedhighwaysinmeterspersecond"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- maxSpeedHighwaysInMetersPerSecond.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-transport-generalvehiclespeedlimits-maxspeedhighw
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
-<li><a href="../../transport/GeneralVehicleSpeedLimits-class.html">/sdk-for-flutter-explore-transport-generalvehiclespeedlimits-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-transport-transport-library</li>
+<li>/sdk-for-flutter-explore-transport-generalvehiclespeedlimits-class</li>
 <li class="self-crumb">maxSpeedHighwaysInMetersPerSecond property</li>
 </ol>
 <div class="self-name">maxSpeedHighwaysInMetersPerSecond</div>
@@ -58,9 +59,9 @@ It is <code>null</code> if the general speed limit on highways for the country /
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
-<li><a href="../../transport/GeneralVehicleSpeedLimits-class.html">/sdk-for-flutter-explore-transport-generalvehiclespeedlimits-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-transport-transport-library</li>
+<li>/sdk-for-flutter-explore-transport-generalvehiclespeedlimits-class</li>
 <li class="self-crumb">maxSpeedHighwaysInMetersPerSecond property</li>
 </ol>
 <h5>GeneralVehicleSpeedLimits class</h5>
@@ -77,4 +78,5 @@ It is <code>null</code> if the general speed limit on highways for the country /
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

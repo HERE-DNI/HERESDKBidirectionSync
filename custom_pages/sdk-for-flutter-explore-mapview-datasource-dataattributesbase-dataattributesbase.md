@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "DataAttributesBase constructor"
 slug: "sdk-for-flutter-explore-mapview-datasource-dataattributesbase-dataattributesbase"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- DataAttributesBase.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-datasource-dataattributesbase-dataattribu
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
-<li><a href="../../mapview.datasource/DataAttributesBase-class.html">/sdk-for-flutter-explore-mapview-datasource-dataattributesbase-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-dataattributesbase-class</li>
 <li class="self-crumb">DataAttributesBase factory constructor</li>
 </ol>
 <div class="self-name">DataAttributesBase</div>
@@ -38,7 +39,7 @@ menu
 <h1>DataAttributesBase constructor</h1></div>
 <section class="multi-line-signature">
 DataAttributesBase(<wbr/><ol class="parameter-list"> <li>List&lt;<wbr/>String&gt; getAttributeNamesLambda(), </li>
-<li><a href="../../mapview.datasource/DataAttributeValueValueType.html">/sdk-for-flutter-explore-mapview-datasource-dataattributevaluevaluetype</a>? getValueTypeLambda(<ol class="parameter-list single-line"> <li>String</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-dataattributevaluevaluetype? getValueTypeLambda(<ol class="parameter-list single-line"> <li>String</li>
 </ol>), </li>
 <li>String? getAsStringLambda(<ol class="parameter-list single-line"> <li>String</li>
 </ol>), </li>
@@ -52,7 +53,7 @@ DataAttributesBase(<wbr/><ol class="parameter-list"> <li>List&lt;<wbr/>String&gt
 </ol>), </li>
 <li>bool? getBooleanLambda(<ol class="parameter-list single-line"> <li>String</li>
 </ol>), </li>
-<li><a href="../../mapview.datasource/DataAttributeValue-class.html">/sdk-for-flutter-explore-mapview-datasource-dataattributevalue-class</a>? getValueLambda(<ol class="parameter-list single-line"> <li>String</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-dataattributevalue-class? getValueLambda(<ol class="parameter-list single-line"> <li>String</li>
 </ol>), </li>
 </ol>)
     </section>
@@ -95,9 +96,9 @@ behavior. Related APIs may change for new releases without a deprecation process
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
-<li><a href="../../mapview.datasource/DataAttributesBase-class.html">/sdk-for-flutter-explore-mapview-datasource-dataattributesbase-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-dataattributesbase-class</li>
 <li class="self-crumb">DataAttributesBase factory constructor</li>
 </ol>
 <h5>DataAttributesBase class</h5>
@@ -114,4 +115,5 @@ behavior. Related APIs may change for new releases without a deprecation process
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

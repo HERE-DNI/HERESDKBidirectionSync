@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "FuelStation class"
 slug: "sdk-for-flutter-explore-search-fuelstation-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- FuelStation-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -28,8 +29,8 @@ slug: "sdk-for-flutter-explore-search-fuelstation-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
 <li class="self-crumb">FuelStation class</li>
 </ol>
 <div class="self-name">FuelStation</div>
@@ -54,7 +55,7 @@ menu
 <h1>FuelStation class</h1></div>
 <section class="desc markdown">
 <p>Contains information about a specific fuel station.</p>
-<p>Use <a href="../search/PlaceCategory/businessAndServicesPetrolGasolineStation.html">/sdk-for-flutter-explore-search-placecategory-businessandservicespetrolgasolinestation</a> to find fuel stations.
+<p>Use /sdk-for-flutter-explore-search-placecategory-businessandservicespetrolgasolinestation to find fuel stations.
 In the <code>Details</code> of a <code>Place</code> result you can find the associated fuel station information,
 if any.</p>
 <p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and
@@ -64,7 +65,7 @@ unexpected behaviors. Related APIs may change for new releases without a depreca
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="FuelStation">
-<a href="../search/FuelStation/FuelStation.html">/sdk-for-flutter-explore-search-fuelstation-fuelstation</a>()
+/sdk-for-flutter-explore-search-fuelstation-fuelstation()
 </dt>
 <dd>
 </dd>
@@ -74,8 +75,8 @@ unexpected behaviors. Related APIs may change for new releases without a depreca
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="fuels">
-<a href="../search/FuelStation/fuels.html">/sdk-for-flutter-explore-search-fuelstation-fuels</a>
-↔ List&lt;<wbr/><a href="../search/GenericFuel-class.html">/sdk-for-flutter-explore-search-genericfuel-class</a>&gt;
+/sdk-for-flutter-explore-search-fuelstation-fuels
+↔ List&lt;<wbr/>/sdk-for-flutter-explore-search-genericfuel-class&gt;
 </dt>
 <dd>
   The list of car fuel types associated with the fuel station.
@@ -83,7 +84,7 @@ The list can be empty when no generic fuels are offered or when the information 
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-<a href="../search/FuelStation/hashCode.html">/sdk-for-flutter-explore-search-fuelstation-hashcode</a>
+/sdk-for-flutter-explore-search-fuelstation-hashcode
 → int
 </dt>
 <dd>
@@ -91,7 +92,7 @@ The list can be empty when no generic fuels are offered or when the information 
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="highVolumePumps">
-<a href="../search/FuelStation/highVolumePumps.html">/sdk-for-flutter-explore-search-fuelstation-highvolumepumps</a>
+/sdk-for-flutter-explore-search-fuelstation-highvolumepumps
 ↔ bool?
 </dt>
 <dd>
@@ -99,7 +100,7 @@ The list can be empty when no generic fuels are offered or when the information 
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="payAtThePump">
-<a href="../search/FuelStation/payAtThePump.html">/sdk-for-flutter-explore-search-fuelstation-payatthepump</a>
+/sdk-for-flutter-explore-search-fuelstation-payatthepump
 ↔ bool?
 </dt>
 <dd>
@@ -107,7 +108,7 @@ The list can be empty when no generic fuels are offered or when the information 
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../search/FuelStation/runtimeType.html">/sdk-for-flutter-explore-search-fuelstation-runtimetype</a>
+/sdk-for-flutter-explore-search-fuelstation-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -115,8 +116,8 @@ The list can be empty when no generic fuels are offered or when the information 
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="truckFuels">
-<a href="../search/FuelStation/truckFuels.html">/sdk-for-flutter-explore-search-fuelstation-truckfuels</a>
-↔ List&lt;<wbr/><a href="../search/TruckFuel-class.html">/sdk-for-flutter-explore-search-truckfuel-class</a>&gt;
+/sdk-for-flutter-explore-search-fuelstation-truckfuels
+↔ List&lt;<wbr/>/sdk-for-flutter-explore-search-truckfuel-class&gt;
 </dt>
 <dd>
   The list of truck fuel types associated with the fuel station.
@@ -129,7 +130,7 @@ The list can be empty when no truck fuels are offered or when the information is
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../search/FuelStation/noSuchMethod.html">/sdk-for-flutter-explore-search-fuelstation-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-search-fuelstation-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -138,7 +139,7 @@ The list can be empty when no truck fuels are offered or when the information is
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../search/FuelStation/toString.html">/sdk-for-flutter-explore-search-fuelstation-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-search-fuelstation-tostring(<wbr/>)
     → String
 
 </dt>
@@ -152,7 +153,7 @@ The list can be empty when no truck fuels are offered or when the information is
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-<a href="../search/FuelStation/operator_equals.html">/sdk-for-flutter-explore-search-fuelstation-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-search-fuelstation-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -171,8 +172,8 @@ The list can be empty when no truck fuels are offered or when the information is
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
 <li class="self-crumb">FuelStation class</li>
 </ol>
 <h5>search library</h5>
@@ -189,4 +190,5 @@ The list can be empty when no truck fuels are offered or when the information is
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

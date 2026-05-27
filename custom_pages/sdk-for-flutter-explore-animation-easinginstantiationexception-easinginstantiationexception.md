@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "EasingInstantiationException constructor"
 slug: "sdk-for-flutter-explore-animation-easinginstantiationexception-easinginstantiationexception"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- EasingInstantiationException.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-animation-easinginstantiationexception-easinginst
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../animation/animation-library.html">/sdk-for-flutter-explore-animation-animation-library</a></li>
-<li><a href="../../animation/EasingInstantiationException-class.html">/sdk-for-flutter-explore-animation-easinginstantiationexception-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-animation-animation-library</li>
+<li>/sdk-for-flutter-explore-animation-easinginstantiationexception-class</li>
 <li class="self-crumb">EasingInstantiationException constructor</li>
 </ol>
 <div class="self-name">EasingInstantiationException</div>
@@ -37,7 +38,7 @@ menu
 <div>
 <h1>EasingInstantiationException constructor</h1></div>
 <section class="multi-line-signature">
-EasingInstantiationException(<wbr/><ol class="parameter-list single-line"> <li><a href="../../animation/EasingInstantiationErrorCode.html">/sdk-for-flutter-explore-animation-easinginstantiationerrorcode</a> error</li>
+EasingInstantiationException(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-animation-easinginstantiationerrorcode error</li>
 </ol>)
     </section>
 <section class="summary source-code" id="source">
@@ -52,9 +53,9 @@ EasingInstantiationException(<wbr/><ol class="parameter-list single-line"> <li><
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../animation/animation-library.html">/sdk-for-flutter-explore-animation-animation-library</a></li>
-<li><a href="../../animation/EasingInstantiationException-class.html">/sdk-for-flutter-explore-animation-easinginstantiationexception-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-animation-animation-library</li>
+<li>/sdk-for-flutter-explore-animation-easinginstantiationexception-class</li>
 <li class="self-crumb">EasingInstantiationException constructor</li>
 </ol>
 <h5>EasingInstantiationException class</h5>
@@ -71,4 +72,5 @@ EasingInstantiationException(<wbr/><ol class="parameter-list single-line"> <li><
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

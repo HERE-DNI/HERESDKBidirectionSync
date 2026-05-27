@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "venueId property"
 slug: "sdk-for-flutter-explore-routing-indoorrouteplace-venueid"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- venueId.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-routing-indoorrouteplace-venueid"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/IndoorRoutePlace-class.html">/sdk-for-flutter-explore-routing-indoorrouteplace-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-indoorrouteplace-class</li>
 <li class="self-crumb">venueId property</li>
 </ol>
 <div class="self-name">venueId</div>
@@ -57,9 +58,9 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/IndoorRoutePlace-class.html">/sdk-for-flutter-explore-routing-indoorrouteplace-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-indoorrouteplace-class</li>
 <li class="self-crumb">venueId property</li>
 </ol>
 <h5>IndoorRoutePlace class</h5>
@@ -76,4 +77,5 @@ menu
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

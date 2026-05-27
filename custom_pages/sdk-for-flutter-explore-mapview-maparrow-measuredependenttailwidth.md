@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "measureDependentTailWidth property"
 slug: "sdk-for-flutter-explore-mapview-maparrow-measuredependenttailwidth"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- measureDependentTailWidth.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-maparrow-measuredependenttailwidth"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapArrow-class.html">/sdk-for-flutter-explore-mapview-maparrow-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-maparrow-class</li>
 <li class="self-crumb">measureDependentTailWidth property</li>
 </ol>
 <div class="self-name">measureDependentTailWidth</div>
@@ -38,15 +39,15 @@ menu
 <h1>measureDependentTailWidth property</h1></div>
 <section id="getter">
 <section class="multi-line-signature">
-Map&lt;<wbr/><a href="../../mapview/MapMeasure-class.html">/sdk-for-flutter-explore-mapview-mapmeasure-class</a>, double&gt;
+Map&lt;<wbr/>/sdk-for-flutter-explore-mapview-mapmeasure-class, double&gt;
 measureDependentTailWidth
 </section>
 <section class="desc markdown">
-<p>The width of the arrow tail in pixels, where the key is a <a href="../../mapview/MapMeasure-class.html">/sdk-for-flutter-explore-mapview-mapmeasure-class</a> and the value is
-a tail width in pixels at this <a href="../../mapview/MapMeasure-class.html">/sdk-for-flutter-explore-mapview-mapmeasure-class</a>.
-Gets the <a href="../../mapview/MapMeasure-class.html">/sdk-for-flutter-explore-mapview-mapmeasure-class</a> dependent arrow tail width in pixels.</p>
-<p>If tail width was configured without <a href="../../mapview/MapMeasure-class.html">/sdk-for-flutter-explore-mapview-mapmeasure-class</a> dependency, then <code>measureDependentTailWidth</code>
-contains single entry with measure 0 of type <a href="../../mapview/MapMeasureKind.html">/sdk-for-flutter-explore-mapview-mapmeasurekind</a> and width value
+<p>The width of the arrow tail in pixels, where the key is a /sdk-for-flutter-explore-mapview-mapmeasure-class and the value is
+a tail width in pixels at this /sdk-for-flutter-explore-mapview-mapmeasure-class.
+Gets the /sdk-for-flutter-explore-mapview-mapmeasure-class dependent arrow tail width in pixels.</p>
+<p>If tail width was configured without /sdk-for-flutter-explore-mapview-mapmeasure-class dependency, then <code>measureDependentTailWidth</code>
+contains single entry with measure 0 of type /sdk-for-flutter-explore-mapview-mapmeasurekind and width value
 equal to <code>widthInPixels</code>.</p>
 <p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
 behavior. Related APIs may change for new releases without a deprecation process.</p>
@@ -59,17 +60,17 @@ behavior. Related APIs may change for new releases without a deprecation process
 <section id="setter">
 <section class="multi-line-signature">
 void
-measureDependentTailWidth=(<wbr/>Map&lt;<wbr/><a href="../../mapview/MapMeasure-class.html">/sdk-for-flutter-explore-mapview-mapmeasure-class</a>, double&gt; value)
+measureDependentTailWidth=(<wbr/>Map&lt;<wbr/>/sdk-for-flutter-explore-mapview-mapmeasure-class, double&gt; value)
 </section>
 <section class="desc markdown">
-<p>The width of the arrow tail in pixels, where the key is a <a href="../../mapview/MapMeasure-class.html">/sdk-for-flutter-explore-mapview-mapmeasure-class</a> and the value is
-a tail width in pixels at this <a href="../../mapview/MapMeasure-class.html">/sdk-for-flutter-explore-mapview-mapmeasure-class</a>.
-Sets the <a href="../../mapview/MapMeasure-class.html">/sdk-for-flutter-explore-mapview-mapmeasure-class</a> dependent arrow tail width in pixels.</p>
+<p>The width of the arrow tail in pixels, where the key is a /sdk-for-flutter-explore-mapview-mapmeasure-class and the value is
+a tail width in pixels at this /sdk-for-flutter-explore-mapview-mapmeasure-class.
+Sets the /sdk-for-flutter-explore-mapview-mapmeasure-class dependent arrow tail width in pixels.</p>
 <p>The width values are linearly interpolated between nearest map entries.
-Width values for <a href="../../mapview/MapMeasure-class.html">/sdk-for-flutter-explore-mapview-mapmeasure-class</a> outside the map entries are kept constant, using the
+Width values for /sdk-for-flutter-explore-mapview-mapmeasure-class outside the map entries are kept constant, using the
 value of the largest/smallest key.</p>
-<p>Only <a href="../../mapview/MapMeasure-class.html">/sdk-for-flutter-explore-mapview-mapmeasure-class</a> of <a href="../../mapview/MapMeasureKind.html">/sdk-for-flutter-explore-mapview-mapmeasurekind</a> type is supported.
-Other <a href="../../mapview/MapMeasure-class.html">/sdk-for-flutter-explore-mapview-mapmeasure-class</a> types are unsupported and hence, will be ignored.</p>
+<p>Only /sdk-for-flutter-explore-mapview-mapmeasure-class of /sdk-for-flutter-explore-mapview-mapmeasurekind type is supported.
+Other /sdk-for-flutter-explore-mapview-mapmeasure-class types are unsupported and hence, will be ignored.</p>
 <p>Map with a single entry is equivalent to use of the <code>widthInPixels</code> value
 in the constructor, so a constant width setting, independent of camera.</p>
 <p>Empty input is ignored and existing width is maintained.</p>
@@ -90,9 +91,9 @@ behavior. Related APIs may change for new releases without a deprecation process
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapArrow-class.html">/sdk-for-flutter-explore-mapview-maparrow-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-maparrow-class</li>
 <li class="self-crumb">measureDependentTailWidth property</li>
 </ol>
 <h5>MapArrow class</h5>
@@ -109,4 +110,5 @@ behavior. Related APIs may change for new releases without a deprecation process
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "ChargingActionDetails class"
 slug: "sdk-for-flutter-explore-routing-chargingactiondetails-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- ChargingActionDetails-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -27,8 +28,8 @@ slug: "sdk-for-flutter-explore-routing-chargingactiondetails-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
 <li class="self-crumb">ChargingActionDetails class</li>
 </ol>
 <div class="self-name">ChargingActionDetails</div>
@@ -58,7 +59,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="ChargingActionDetails">
-<a href="../routing/ChargingActionDetails/ChargingActionDetails.html">/sdk-for-flutter-explore-routing-chargingactiondetails-chargingactiondetails</a>()
+/sdk-for-flutter-explore-routing-chargingactiondetails-chargingactiondetails()
 </dt>
 <dd>
 </dd>
@@ -68,27 +69,27 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="arrivalChargeInKilowattHours">
-<a href="../routing/ChargingActionDetails/arrivalChargeInKilowattHours.html">/sdk-for-flutter-explore-routing-chargingactiondetails-arrivalchargeinkilowatthours</a>
+/sdk-for-flutter-explore-routing-chargingactiondetails-arrivalchargeinkilowatthours
 ↔ double
 </dt>
 <dd>
   Estimated vehicle battery charge before this action (in kWh).
-A valid <a href="../routing/ChargingActionDetails-class.html">/sdk-for-flutter-explore-routing-chargingactiondetails-class</a> object will have positive <a href="../routing/ChargingActionDetails/arrivalChargeInKilowattHours.html">/sdk-for-flutter-explore-routing-chargingactiondetails-arrivalchargeinkilowatthours</a>.
+A valid /sdk-for-flutter-explore-routing-chargingactiondetails-class object will have positive /sdk-for-flutter-explore-routing-chargingactiondetails-arrivalchargeinkilowatthours.
 Defaults to 0.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="consumablePowerInKilowatts">
-<a href="../routing/ChargingActionDetails/consumablePowerInKilowatts.html">/sdk-for-flutter-explore-routing-chargingactiondetails-consumablepowerinkilowatts</a>
+/sdk-for-flutter-explore-routing-chargingactiondetails-consumablepowerinkilowatts
 ↔ double
 </dt>
 <dd>
   Maximum charging power (in kW) available to the vehicle, based on the properties of the charging station and the vehicle.
-A valid <a href="../routing/ChargingActionDetails-class.html">/sdk-for-flutter-explore-routing-chargingactiondetails-class</a> object will have positive <a href="../routing/ChargingActionDetails/consumablePowerInKilowatts.html">/sdk-for-flutter-explore-routing-chargingactiondetails-consumablepowerinkilowatts</a>.
+A valid /sdk-for-flutter-explore-routing-chargingactiondetails-class object will have positive /sdk-for-flutter-explore-routing-chargingactiondetails-consumablepowerinkilowatts.
 Defaults to 0.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-<a href="../routing/ChargingActionDetails/hashCode.html">/sdk-for-flutter-explore-routing-chargingactiondetails-hashcode</a>
+/sdk-for-flutter-explore-routing-chargingactiondetails-hashcode
 → int
 </dt>
 <dd>
@@ -96,7 +97,7 @@ Defaults to 0.
   <div class="features">no setter</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../routing/ChargingActionDetails/runtimeType.html">/sdk-for-flutter-explore-routing-chargingactiondetails-runtimetype</a>
+/sdk-for-flutter-explore-routing-chargingactiondetails-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -104,12 +105,12 @@ Defaults to 0.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="targetChargeInKilowattHours">
-<a href="../routing/ChargingActionDetails/targetChargeInKilowattHours.html">/sdk-for-flutter-explore-routing-chargingactiondetails-targetchargeinkilowatthours</a>
+/sdk-for-flutter-explore-routing-chargingactiondetails-targetchargeinkilowatthours
 ↔ double
 </dt>
 <dd>
   Level to which vehicle battery should be charged by this action (in kWh).
-A valid <a href="../routing/ChargingActionDetails-class.html">/sdk-for-flutter-explore-routing-chargingactiondetails-class</a> object will have positive <a href="../routing/ChargingActionDetails/targetChargeInKilowattHours.html">/sdk-for-flutter-explore-routing-chargingactiondetails-targetchargeinkilowatthours</a>.
+A valid /sdk-for-flutter-explore-routing-chargingactiondetails-class object will have positive /sdk-for-flutter-explore-routing-chargingactiondetails-targetchargeinkilowatthours.
 Defaults to 0.
   <div class="features">getter/setter pair</div>
 </dd>
@@ -119,7 +120,7 @@ Defaults to 0.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../routing/ChargingActionDetails/noSuchMethod.html">/sdk-for-flutter-explore-routing-chargingactiondetails-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-routing-chargingactiondetails-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -128,7 +129,7 @@ Defaults to 0.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../routing/ChargingActionDetails/toString.html">/sdk-for-flutter-explore-routing-chargingactiondetails-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-routing-chargingactiondetails-tostring(<wbr/>)
     → String
 
 </dt>
@@ -142,7 +143,7 @@ Defaults to 0.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-<a href="../routing/ChargingActionDetails/operator_equals.html">/sdk-for-flutter-explore-routing-chargingactiondetails-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-routing-chargingactiondetails-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -161,8 +162,8 @@ Defaults to 0.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
 <li class="self-crumb">ChargingActionDetails class</li>
 </ol>
 <h5>routing library</h5>
@@ -179,4 +180,5 @@ Defaults to 0.
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

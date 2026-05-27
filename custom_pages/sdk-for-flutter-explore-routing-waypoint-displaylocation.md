@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "displayLocation property"
 slug: "sdk-for-flutter-explore-routing-waypoint-displaylocation"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- displayLocation.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-routing-waypoint-displaylocation"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/Waypoint-class.html">/sdk-for-flutter-explore-routing-waypoint-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-waypoint-class</li>
 <li class="self-crumb">displayLocation property</li>
 </ol>
 <div class="self-name">displayLocation</div>
@@ -37,15 +38,15 @@ menu
 <div>
 <h1>displayLocation property</h1></div>
 <section class="multi-line-signature">
-<a href="../../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>?
+/sdk-for-flutter-explore-core-geocoordinates-class?
         displayLocation
 <div class="features">getter/setter pair</div>
 </section>
 <section class="desc markdown">
 <p>Optional coordinates to indicate physical location of the Points of Interest (PoI).
-It is different from coordinates and <a href="../../routing/Waypoint/sideOfStreetHint.html">/sdk-for-flutter-explore-routing-waypoint-sideofstreethint</a> which are generally expected to to be
+It is different from coordinates and /sdk-for-flutter-explore-routing-waypoint-sideofstreethint which are generally expected to to be
 on the navigable road network and can be different from actual location of the PoI.
-display_location is used for visualization of the PoI regardless of road network.</p>
+<code>display_location</code> is used for visualization of the PoI regardless of road network.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -59,9 +60,9 @@ display_location is used for visualization of the PoI regardless of road network
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/Waypoint-class.html">/sdk-for-flutter-explore-routing-waypoint-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-waypoint-class</li>
 <li class="self-crumb">displayLocation property</li>
 </ol>
 <h5>Waypoint class</h5>
@@ -78,4 +79,5 @@ display_location is used for visualization of the PoI regardless of road network
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "DashPattern.uniform constructor"
 slug: "sdk-for-flutter-explore-mapview-dashpattern-dashpattern-uniform"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- DashPattern.uniform.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-dashpattern-dashpattern-uniform"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/DashPattern-class.html">/sdk-for-flutter-explore-mapview-dashpattern-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-dashpattern-class</li>
 <li class="self-crumb">DashPattern.uniform factory constructor</li>
 </ol>
 <div class="self-name">DashPattern.uniform</div>
@@ -61,9 +62,9 @@ Clamped to the range of [1, 500].</li>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/DashPattern-class.html">/sdk-for-flutter-explore-mapview-dashpattern-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-dashpattern-class</li>
 <li class="self-crumb">DashPattern.uniform factory constructor</li>
 </ol>
 <h5>DashPattern class</h5>
@@ -80,4 +81,5 @@ Clamped to the range of [1, 500].</li>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "destroy abstract method"
 slug: "sdk-for-flutter-explore-mapview-translucentmaplayergroup-destroy"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- destroy.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-translucentmaplayergroup-destroy"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/TranslucentMapLayerGroup-class.html">/sdk-for-flutter-explore-mapview-translucentmaplayergroup-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-translucentmaplayergroup-class</li>
 <li class="self-crumb">destroy abstract method</li>
 </ol>
 <div class="self-name">destroy</div>
@@ -60,9 +61,9 @@ anymore.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/TranslucentMapLayerGroup-class.html">/sdk-for-flutter-explore-mapview-translucentmaplayergroup-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-translucentmaplayergroup-class</li>
 <li class="self-crumb">destroy abstract method</li>
 </ol>
 <h5>TranslucentMapLayerGroup class</h5>
@@ -79,4 +80,5 @@ anymore.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

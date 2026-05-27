@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "trafficOptimizationMode property"
 slug: "sdk-for-flutter-explore-routing-routeoptions-trafficoptimizationmode"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- trafficOptimizationMode.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-routing-routeoptions-trafficoptimizationmode"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/RouteOptions-class.html">/sdk-for-flutter-explore-routing-routeoptions-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-routeoptions-class</li>
 <li class="self-crumb">trafficOptimizationMode property</li>
 </ol>
 <div class="self-name">trafficOptimizationMode</div>
@@ -37,12 +38,12 @@ menu
 <div>
 <h1>trafficOptimizationMode property</h1></div>
 <section class="multi-line-signature">
-<a href="../../routing/TrafficOptimizationMode.html">/sdk-for-flutter-explore-routing-trafficoptimizationmode</a>
+/sdk-for-flutter-explore-routing-trafficoptimizationmode
 trafficOptimizationMode
 <div class="features">getter/setter pair</div>
 </section>
 <section class="desc markdown">
-<p>The traffic optimization mode to be used for route calculation. By default, it is <a href="../../routing/TrafficOptimizationMode.html">/sdk-for-flutter-explore-routing-trafficoptimizationmode</a>, which enables traffic-aware routing.</p>
+<p>The traffic optimization mode to be used for route calculation. By default, it is /sdk-for-flutter-explore-routing-trafficoptimizationmode, which enables traffic-aware routing.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -56,9 +57,9 @@ trafficOptimizationMode
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/RouteOptions-class.html">/sdk-for-flutter-explore-routing-routeoptions-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-routeoptions-class</li>
 <li class="self-crumb">trafficOptimizationMode property</li>
 </ol>
 <h5>RouteOptions class</h5>
@@ -75,4 +76,5 @@ trafficOptimizationMode
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

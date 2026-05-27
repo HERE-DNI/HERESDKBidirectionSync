@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "MapMarkerTextStyleInstantiationException constructor"
 slug: "sdk-for-flutter-explore-mapview-mapmarkertextstyleinstantiationexception-mapmarkertextstyleinstantiationexception"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- MapMarkerTextStyleInstantiationException.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-mapmarkertextstyleinstantiationexception-
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapMarkerTextStyleInstantiationException-class.html">/sdk-for-flutter-explore-mapview-mapmarkertextstyleinstantiationexception-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapmarkertextstyleinstantiationexception-class</li>
 <li class="self-crumb">MapMarkerTextStyleInstantiationException constructor</li>
 </ol>
 <div class="self-name">MapMarkerTextStyleInstantiationException</div>
@@ -37,7 +38,7 @@ menu
 <div>
 <h1>MapMarkerTextStyleInstantiationException constructor</h1></div>
 <section class="multi-line-signature">
-MapMarkerTextStyleInstantiationException(<wbr/><ol class="parameter-list single-line"> <li><a href="../../mapview/MapMarkerTextStyleInstantiationErrorCode.html">/sdk-for-flutter-explore-mapview-mapmarkertextstyleinstantiationerrorcode</a> error</li>
+MapMarkerTextStyleInstantiationException(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-mapview-mapmarkertextstyleinstantiationerrorcode error</li>
 </ol>)
     </section>
 <section class="summary source-code" id="source">
@@ -52,9 +53,9 @@ MapMarkerTextStyleInstantiationException(<wbr/><ol class="parameter-list single-
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapMarkerTextStyleInstantiationException-class.html">/sdk-for-flutter-explore-mapview-mapmarkertextstyleinstantiationexception-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapmarkertextstyleinstantiationexception-class</li>
 <li class="self-crumb">MapMarkerTextStyleInstantiationException constructor</li>
 </ol>
 <h5>MapMarkerTextStyleInstantiationException class</h5>
@@ -71,4 +72,5 @@ MapMarkerTextStyleInstantiationException(<wbr/><ol class="parameter-list single-
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

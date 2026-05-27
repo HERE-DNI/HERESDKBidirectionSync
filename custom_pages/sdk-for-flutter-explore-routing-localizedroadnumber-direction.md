@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "direction property"
 slug: "sdk-for-flutter-explore-routing-localizedroadnumber-direction"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- direction.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-routing-localizedroadnumber-direction"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/LocalizedRoadNumber-class.html">/sdk-for-flutter-explore-routing-localizedroadnumber-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-localizedroadnumber-class</li>
 <li class="self-crumb">direction property</li>
 </ol>
 <div class="self-name">direction</div>
@@ -37,7 +38,7 @@ menu
 <div>
 <h1>direction property</h1></div>
 <section class="multi-line-signature">
-<a href="../../core/CardinalDirection.html">/sdk-for-flutter-explore-core-cardinaldirection</a>?
+/sdk-for-flutter-explore-core-cardinaldirection?
         direction
 <div class="features">getter/setter pair</div>
 </section>
@@ -62,9 +63,9 @@ However, the official direction on sign is North/South.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/LocalizedRoadNumber-class.html">/sdk-for-flutter-explore-routing-localizedroadnumber-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-localizedroadnumber-class</li>
 <li class="self-crumb">direction property</li>
 </ol>
 <h5>LocalizedRoadNumber class</h5>
@@ -81,4 +82,5 @@ However, the official direction on sign is North/South.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

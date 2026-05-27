@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "MapPolylineSolidRepresentation.withOutline constructor"
 slug: "sdk-for-flutter-explore-mapview-mappolylinesolidrepresentation-mappolylinesolidrepresentation-withoutline"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- MapPolylineSolidRepresentation.withOutline.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-mappolylinesolidrepresentation-mappolylin
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapPolylineSolidRepresentation-class.html">/sdk-for-flutter-explore-mapview-mappolylinesolidrepresentation-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mappolylinesolidrepresentation-class</li>
 <li class="self-crumb">MapPolylineSolidRepresentation.withOutline factory constructor</li>
 </ol>
 <div class="self-name">MapPolylineSolidRepresentation.withOutline</div>
@@ -37,11 +38,11 @@ menu
 <div>
 <h1>MapPolylineSolidRepresentation.withOutline constructor</h1></div>
 <section class="multi-line-signature">
-MapPolylineSolidRepresentation.withOutline(<wbr/><ol class="parameter-list"> <li><a href="../../mapview/MapMeasureDependentRenderSize-class.html">/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class</a> lineWidth, </li>
+MapPolylineSolidRepresentation.withOutline(<wbr/><ol class="parameter-list"> <li>/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class lineWidth, </li>
 <li>Color color, </li>
-<li><a href="../../mapview/MapMeasureDependentRenderSize-class.html">/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class</a> outlineWidth, </li>
+<li>/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class outlineWidth, </li>
 <li>Color outlineColor, </li>
-<li><a href="../../mapview/LineCap.html">/sdk-for-flutter-explore-mapview-linecap</a> capShape, </li>
+<li>/sdk-for-flutter-explore-mapview-linecap capShape, </li>
 </ol>)
     </section>
 <section class="desc markdown">
@@ -55,8 +56,8 @@ and <code>outlineWidth</code>, the value is constant and equal to the width give
 the biggest map measure in the <code>lineWidth</code> and <code>outlineWidth</code>.</p>
 <p>At map measures between two nearest given map measure is
 linearly interpolated between width values given for these map measures.</p>
-<p>For <a href="../../mapview/MapMeasureKind.html">/sdk-for-flutter-explore-mapview-mapmeasurekind</a> only <a href="../../mapview/MapMeasureKind.html">/sdk-for-flutter-explore-mapview-mapmeasurekind</a> is supported.</p>
-<p>For <a href="../../mapview/RenderSizeUnit.html">/sdk-for-flutter-explore-mapview-rendersizeunit</a> only <a href="../../mapview/RenderSizeUnit.html">/sdk-for-flutter-explore-mapview-rendersizeunit</a> is supported.</p>
+<p>For /sdk-for-flutter-explore-mapview-mapmeasurekind only /sdk-for-flutter-explore-mapview-mapmeasurekind is supported.</p>
+<p>For /sdk-for-flutter-explore-mapview-rendersizeunit only /sdk-for-flutter-explore-mapview-rendersizeunit is supported.</p>
 <p><code>lineWidth</code> must not be 0 (<code>lineWidth.sizes</code> with all values set to 0.0).</p>
 <ul>
 <li>
@@ -76,7 +77,7 @@ the map measure.</p>
 <p><code>capShape</code> The cap shape applied to both ends of the polyline.</p>
 </li>
 </ul>
-<p>Throws <a href="../../mapview/MapPolylineRepresentationInstantiationException-class.html">/sdk-for-flutter-explore-mapview-mappolylinerepresentationinstantiationexception-class</a>. In case of invalid input parameters.</p>
+<p>Throws /sdk-for-flutter-explore-mapview-mappolylinerepresentationinstantiationexception-class. In case of invalid input parameters.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -90,9 +91,9 @@ the map measure.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapPolylineSolidRepresentation-class.html">/sdk-for-flutter-explore-mapview-mappolylinesolidrepresentation-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mappolylinesolidrepresentation-class</li>
 <li class="self-crumb">MapPolylineSolidRepresentation.withOutline factory constructor</li>
 </ol>
 <h5>MapPolylineSolidRepresentation class</h5>
@@ -109,4 +110,5 @@ the map measure.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "HereMapOptions class"
 slug: "sdk-for-flutter-explore-mapview-heremapoptions-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- HereMapOptions-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -27,8 +28,8 @@ slug: "sdk-for-flutter-explore-mapview-heremapoptions-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
 <li class="self-crumb">HereMapOptions class</li>
 </ol>
 <div class="self-name">HereMapOptions</div>
@@ -58,7 +59,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="HereMapOptions">
-<a href="../mapview/HereMapOptions/HereMapOptions.html">/sdk-for-flutter-explore-mapview-heremapoptions-heremapoptions</a>()
+/sdk-for-flutter-explore-mapview-heremapoptions-heremapoptions()
 </dt>
 <dd>
           Creates a new instance.
@@ -69,7 +70,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="hashCode">
-<a href="../mapview/HereMapOptions/hashCode.html">/sdk-for-flutter-explore-mapview-heremapoptions-hashcode</a>
+/sdk-for-flutter-explore-mapview-heremapoptions-hashcode
 → int
 </dt>
 <dd>
@@ -77,7 +78,7 @@ menu
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="initialBackgroundColor">
-<a href="../mapview/HereMapOptions/initialBackgroundColor.html">/sdk-for-flutter-explore-mapview-heremapoptions-initialbackgroundcolor</a>
+/sdk-for-flutter-explore-mapview-heremapoptions-initialbackgroundcolor
 ↔ Color?
 </dt>
 <dd>
@@ -85,24 +86,24 @@ menu
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="projection">
-<a href="../mapview/HereMapOptions/projection.html">/sdk-for-flutter-explore-mapview-heremapoptions-projection</a>
-↔ <a href="../mapview/MapProjection.html">/sdk-for-flutter-explore-mapview-mapprojection</a>
+/sdk-for-flutter-explore-mapview-heremapoptions-projection
+↔ /sdk-for-flutter-explore-mapview-mapprojection
 </dt>
 <dd>
   Projection of map
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="renderMode">
-<a href="../mapview/HereMapOptions/renderMode.html">/sdk-for-flutter-explore-mapview-heremapoptions-rendermode</a>
-↔ <a href="../mapview/MapRenderMode.html">/sdk-for-flutter-explore-mapview-maprendermode</a>
+/sdk-for-flutter-explore-mapview-heremapoptions-rendermode
+↔ /sdk-for-flutter-explore-mapview-maprendermode
 </dt>
 <dd>
   For Android only: specifies whether the <code>SurfaceView</code> or <code>TextureView</code> is used for map rendering.
-Defaults to <a href="../mapview/MapRenderMode.html">/sdk-for-flutter-explore-mapview-maprendermode</a>.
+Defaults to /sdk-for-flutter-explore-mapview-maprendermode.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../mapview/HereMapOptions/runtimeType.html">/sdk-for-flutter-explore-mapview-heremapoptions-runtimetype</a>
+/sdk-for-flutter-explore-mapview-heremapoptions-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -115,7 +116,7 @@ Defaults to <a href="../mapview/MapRenderMode.html">/sdk-for-flutter-explore-map
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../mapview/HereMapOptions/noSuchMethod.html">/sdk-for-flutter-explore-mapview-heremapoptions-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-mapview-heremapoptions-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -124,7 +125,7 @@ Defaults to <a href="../mapview/MapRenderMode.html">/sdk-for-flutter-explore-map
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../mapview/HereMapOptions/toString.html">/sdk-for-flutter-explore-mapview-heremapoptions-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-mapview-heremapoptions-tostring(<wbr/>)
     → String
 
 </dt>
@@ -138,7 +139,7 @@ Defaults to <a href="../mapview/MapRenderMode.html">/sdk-for-flutter-explore-map
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-<a href="../mapview/HereMapOptions/operator_equals.html">/sdk-for-flutter-explore-mapview-heremapoptions-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-mapview-heremapoptions-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -157,8 +158,8 @@ Defaults to <a href="../mapview/MapRenderMode.html">/sdk-for-flutter-explore-map
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
 <li class="self-crumb">HereMapOptions class</li>
 </ol>
 <h5>mapview library</h5>
@@ -175,4 +176,5 @@ Defaults to <a href="../mapview/MapRenderMode.html">/sdk-for-flutter-explore-map
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

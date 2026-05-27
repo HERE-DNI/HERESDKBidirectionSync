@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "items property"
 slug: "sdk-for-flutter-explore-core-localizedtexts-items"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- items.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-core-localizedtexts-items"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
-<li><a href="../../core/LocalizedTexts-class.html">/sdk-for-flutter-explore-core-localizedtexts-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
+<li>/sdk-for-flutter-explore-core-localizedtexts-class</li>
 <li class="self-crumb">items property</li>
 </ol>
 <div class="self-name">items</div>
@@ -38,7 +39,7 @@ menu
 <h1>items property</h1></div>
 <section class="multi-line-signature">
         
-        List&lt;<wbr/><a href="../../core/LocalizedText-class.html">/sdk-for-flutter-explore-core-localizedtext-class</a>&gt;
+        List&lt;<wbr/>/sdk-for-flutter-explore-core-localizedtext-class&gt;
 items
 <div class="features">getter/setter pair</div>
 </section>
@@ -58,9 +59,9 @@ Recommended to use helper methods instead of directly accessing the items.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
-<li><a href="../../core/LocalizedTexts-class.html">/sdk-for-flutter-explore-core-localizedtexts-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
+<li>/sdk-for-flutter-explore-core-localizedtexts-class</li>
 <li class="self-crumb">items property</li>
 </ol>
 <h5>LocalizedTexts class</h5>
@@ -77,4 +78,5 @@ Recommended to use helper methods instead of directly accessing the items.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

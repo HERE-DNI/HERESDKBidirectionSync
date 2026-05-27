@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "CatalogConfiguration constructor"
 slug: "sdk-for-flutter-explore-core-engine-catalogconfiguration-catalogconfiguration"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- CatalogConfiguration.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-core-engine-catalogconfiguration-catalogconfigura
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
-<li><a href="../../core.engine/CatalogConfiguration-class.html">/sdk-for-flutter-explore-core-engine-catalogconfiguration-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
+<li>/sdk-for-flutter-explore-core-engine-catalogconfiguration-class</li>
 <li class="self-crumb">CatalogConfiguration constructor</li>
 </ol>
 <div class="self-name">CatalogConfiguration</div>
@@ -37,7 +38,7 @@ menu
 <div>
 <h1>CatalogConfiguration constructor</h1></div>
 <section class="multi-line-signature">
-CatalogConfiguration(<wbr/><ol class="parameter-list single-line"> <li><a href="../../core.engine/DesiredCatalog-class.html">/sdk-for-flutter-explore-core-engine-desiredcatalog-class</a> catalog</li>
+CatalogConfiguration(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-core-engine-desiredcatalog-class catalog</li>
 </ol>)
     </section>
 <section class="summary source-code" id="source">
@@ -53,9 +54,9 @@ CatalogConfiguration(<wbr/><ol class="parameter-list single-line"> <li><a href="
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
-<li><a href="../../core.engine/CatalogConfiguration-class.html">/sdk-for-flutter-explore-core-engine-catalogconfiguration-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
+<li>/sdk-for-flutter-explore-core-engine-catalogconfiguration-class</li>
 <li class="self-crumb">CatalogConfiguration constructor</li>
 </ol>
 <h5>CatalogConfiguration class</h5>
@@ -72,4 +73,5 @@ CatalogConfiguration(<wbr/><ol class="parameter-list single-line"> <li><a href="
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

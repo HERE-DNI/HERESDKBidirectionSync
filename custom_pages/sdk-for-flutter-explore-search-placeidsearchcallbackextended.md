@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "PlaceIdSearchCallbackExtended typedef"
 slug: "sdk-for-flutter-explore-search-placeidsearchcallbackextended"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- PlaceIdSearchCallbackExtended.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,8 +12,8 @@ slug: "sdk-for-flutter-explore-search-placeidsearchcallbackextended"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
 <li class="self-crumb">PlaceIdSearchCallbackExtended typedef</li>
 </ol>
 <div class="self-name">PlaceIdSearchCallbackExtended</div>
@@ -37,7 +38,7 @@ menu
 <h1>PlaceIdSearchCallbackExtended typedef</h1></div>
 <section class="multi-line-signature">
 PlaceIdSearchCallbackExtended =
-     void Function(<a href="../search/SearchError.html">/sdk-for-flutter-explore-search-searcherror</a>? searchError, <a href="../search/Place-class.html">/sdk-for-flutter-explore-search-place-class</a>? place, <a href="../search/ResponseDetails-class.html">/sdk-for-flutter-explore-search-responsedetails-class</a>? responseDetails)
+     void Function(/sdk-for-flutter-explore-search-searcherror? searchError, /sdk-for-flutter-explore-search-place-class? place, /sdk-for-flutter-explore-search-responsedetails-class? responseDetails)
 </section>
 <section class="desc markdown">
 <p>The method will be called on the main thread when a search by id call has been completed.</p>
@@ -65,8 +66,8 @@ PlaceIdSearchCallbackExtended =
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
 <li class="self-crumb">PlaceIdSearchCallbackExtended typedef</li>
 </ol>
 <h5>search library</h5>
@@ -83,4 +84,5 @@ PlaceIdSearchCallbackExtended =
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

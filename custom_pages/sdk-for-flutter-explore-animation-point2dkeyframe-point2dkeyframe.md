@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "Point2DKeyframe constructor"
 slug: "sdk-for-flutter-explore-animation-point2dkeyframe-point2dkeyframe"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- Point2DKeyframe.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-animation-point2dkeyframe-point2dkeyframe"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../animation/animation-library.html">/sdk-for-flutter-explore-animation-animation-library</a></li>
-<li><a href="../../animation/Point2DKeyframe-class.html">/sdk-for-flutter-explore-animation-point2dkeyframe-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-animation-animation-library</li>
+<li>/sdk-for-flutter-explore-animation-point2dkeyframe-class</li>
 <li class="self-crumb">Point2DKeyframe factory constructor</li>
 </ol>
 <div class="self-name">Point2DKeyframe</div>
@@ -37,7 +38,7 @@ menu
 <div>
 <h1>Point2DKeyframe constructor</h1></div>
 <section class="multi-line-signature">
-Point2DKeyframe(<wbr/><ol class="parameter-list single-line"> <li><a href="../../core/Point2D-class.html">/sdk-for-flutter-explore-core-point2d-class</a> value, </li>
+Point2DKeyframe(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-core-point2d-class value, </li>
 <li>Duration duration</li>
 </ol>)
     </section>
@@ -65,9 +66,9 @@ Negative duration value gets clamped to 0.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../animation/animation-library.html">/sdk-for-flutter-explore-animation-animation-library</a></li>
-<li><a href="../../animation/Point2DKeyframe-class.html">/sdk-for-flutter-explore-animation-point2dkeyframe-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-animation-animation-library</li>
+<li>/sdk-for-flutter-explore-animation-point2dkeyframe-class</li>
 <li class="self-crumb">Point2DKeyframe factory constructor</li>
 </ol>
 <h5>Point2DKeyframe class</h5>
@@ -84,4 +85,5 @@ Negative duration value gets clamped to 0.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

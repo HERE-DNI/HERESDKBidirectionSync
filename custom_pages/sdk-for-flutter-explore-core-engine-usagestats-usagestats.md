@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "UsageStats constructor"
 slug: "sdk-for-flutter-explore-core-engine-usagestats-usagestats"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- UsageStats.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-core-engine-usagestats-usagestats"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
-<li><a href="../../core.engine/UsageStats-class.html">/sdk-for-flutter-explore-core-engine-usagestats-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
+<li>/sdk-for-flutter-explore-core-engine-usagestats-class</li>
 <li class="self-crumb">UsageStats constructor</li>
 </ol>
 <div class="self-name">UsageStats</div>
@@ -37,8 +38,8 @@ menu
 <div>
 <h1>UsageStats constructor</h1></div>
 <section class="multi-line-signature">
-UsageStats(<wbr/><ol class="parameter-list single-line"> <li>List&lt;<wbr/><a href="../../core.engine/UsageStatsNetworkStats-class.html">/sdk-for-flutter-explore-core-engine-usagestatsnetworkstats-class</a>&gt; networkStats, </li>
-<li><a href="../../core.engine/UsageStatsFeature.html">/sdk-for-flutter-explore-core-engine-usagestatsfeature</a> feature</li>
+UsageStats(<wbr/><ol class="parameter-list single-line"> <li>List&lt;<wbr/>/sdk-for-flutter-explore-core-engine-usagestatsnetworkstats-class&gt; networkStats, </li>
+<li>/sdk-for-flutter-explore-core-engine-usagestatsfeature feature</li>
 </ol>)
     </section>
 <section class="desc markdown">
@@ -60,9 +61,9 @@ UsageStats(<wbr/><ol class="parameter-list single-line"> <li>List&lt;<wbr/><a hr
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
-<li><a href="../../core.engine/UsageStats-class.html">/sdk-for-flutter-explore-core-engine-usagestats-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
+<li>/sdk-for-flutter-explore-core-engine-usagestats-class</li>
 <li class="self-crumb">UsageStats constructor</li>
 </ol>
 <h5>UsageStats class</h5>
@@ -79,4 +80,5 @@ UsageStats(<wbr/><ol class="parameter-list single-line"> <li>List&lt;<wbr/><a hr
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

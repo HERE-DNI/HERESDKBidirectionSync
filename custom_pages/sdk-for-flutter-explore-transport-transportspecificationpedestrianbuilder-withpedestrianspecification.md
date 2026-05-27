@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "withPedestrianSpecification abstract method"
 slug: "sdk-for-flutter-explore-transport-transportspecificationpedestrianbuilder-withpedestrianspecification"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- withPedestrianSpecification.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-transport-transportspecificationpedestrianbuilder
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
-<li><a href="../../transport/TransportSpecificationPedestrianBuilder-class.html">/sdk-for-flutter-explore-transport-transportspecificationpedestrianbuilder-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-transport-transport-library</li>
+<li>/sdk-for-flutter-explore-transport-transportspecificationpedestrianbuilder-class</li>
 <li class="self-crumb">withPedestrianSpecification abstract method</li>
 </ol>
 <div class="self-name">withPedestrianSpecification</div>
@@ -37,8 +38,8 @@ menu
 <div>
 <h1>withPedestrianSpecification abstract method</h1></div>
 <section class="multi-line-signature">
-<a href="../../transport/TransportSpecificationPedestrianBuilder-class.html">/sdk-for-flutter-explore-transport-transportspecificationpedestrianbuilder-class</a>
-withPedestrianSpecification(<wbr/><ol class="parameter-list single-line"> <li><a href="../../transport/PedestrianSpecification-class.html">/sdk-for-flutter-explore-transport-pedestrianspecification-class</a> pedestrianSpecification</li>
+/sdk-for-flutter-explore-transport-transportspecificationpedestrianbuilder-class
+withPedestrianSpecification(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-transport-pedestrianspecification-class pedestrianSpecification</li>
 </ol>)
 
       
@@ -49,7 +50,7 @@ withPedestrianSpecification(<wbr/><ol class="parameter-list single-line"> <li><a
 <ul>
 <li><code>pedestrianSpecification</code> The pedestrian specification.</li>
 </ul>
-<p>Returns <a href="../../transport/TransportSpecificationPedestrianBuilder-class.html">/sdk-for-flutter-explore-transport-transportspecificationpedestrianbuilder-class</a>. The <a href="../../transport/TransportSpecificationPedestrianBuilder-class.html">/sdk-for-flutter-explore-transport-transportspecificationpedestrianbuilder-class</a> object with the pedestrian specification set to the new value.</p>
+<p>Returns /sdk-for-flutter-explore-transport-transportspecificationpedestrianbuilder-class. The /sdk-for-flutter-explore-transport-transportspecificationpedestrianbuilder-class object with the pedestrian specification set to the new value.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -63,9 +64,9 @@ withPedestrianSpecification(<wbr/><ol class="parameter-list single-line"> <li><a
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
-<li><a href="../../transport/TransportSpecificationPedestrianBuilder-class.html">/sdk-for-flutter-explore-transport-transportspecificationpedestrianbuilder-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-transport-transport-library</li>
+<li>/sdk-for-flutter-explore-transport-transportspecificationpedestrianbuilder-class</li>
 <li class="self-crumb">withPedestrianSpecification abstract method</li>
 </ol>
 <h5>TransportSpecificationPedestrianBuilder class</h5>
@@ -82,4 +83,5 @@ withPedestrianSpecification(<wbr/><ol class="parameter-list single-line"> <li><a
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "matchSideOfStreet property"
 slug: "sdk-for-flutter-explore-routing-waypoint-matchsideofstreet"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- matchSideOfStreet.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-routing-waypoint-matchsideofstreet"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/Waypoint-class.html">/sdk-for-flutter-explore-routing-waypoint-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-waypoint-class</li>
 <li class="self-crumb">matchSideOfStreet property</li>
 </ol>
 <div class="self-name">matchSideOfStreet</div>
@@ -37,12 +38,12 @@ menu
 <div>
 <h1>matchSideOfStreet property</h1></div>
 <section class="multi-line-signature">
-<a href="../../routing/MatchSideOfStreet.html">/sdk-for-flutter-explore-routing-matchsideofstreet</a>?
+/sdk-for-flutter-explore-routing-matchsideofstreet?
         matchSideOfStreet
 <div class="features">getter/setter pair</div>
 </section>
 <section class="desc markdown">
-<p>Specifies how the location set by <a href="../../routing/Waypoint/sideOfStreetHint.html">/sdk-for-flutter-explore-routing-waypoint-sideofstreethint</a> should be handled. Note that this setting might affect the geometry of the resulting route.</p>
+<p>Specifies how the location set by /sdk-for-flutter-explore-routing-waypoint-sideofstreethint should be handled. Note that this setting might affect the geometry of the resulting route.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -56,9 +57,9 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/Waypoint-class.html">/sdk-for-flutter-explore-routing-waypoint-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-waypoint-class</li>
 <li class="self-crumb">matchSideOfStreet property</li>
 </ol>
 <h5>Waypoint class</h5>
@@ -75,4 +76,5 @@ menu
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

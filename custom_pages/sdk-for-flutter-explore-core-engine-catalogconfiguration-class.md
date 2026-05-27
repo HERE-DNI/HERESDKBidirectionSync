@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "CatalogConfiguration class"
 slug: "sdk-for-flutter-explore-core-engine-catalogconfiguration-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- CatalogConfiguration-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -30,8 +31,8 @@ slug: "sdk-for-flutter-explore-core-engine-catalogconfiguration-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
 <li class="self-crumb">CatalogConfiguration class</li>
 </ol>
 <div class="self-name">CatalogConfiguration</div>
@@ -55,12 +56,12 @@ menu
 <div>
 <h1>CatalogConfiguration class</h1></div>
 <section class="desc markdown">
-<p>Using this class you can configure in the <a href="../core.engine/SDKOptions-class.html">/sdk-for-flutter-explore-core-engine-sdkoptions-class</a>,
-how the <a href="../core.engine/SDKNativeEngine-class.html">/sdk-for-flutter-explore-core-engine-sdknativeengine-class</a> should access, use and store the data for the desired catalog.</p>
+<p>Using this class you can configure in the /sdk-for-flutter-explore-core-engine-sdkoptions-class,
+how the /sdk-for-flutter-explore-core-engine-sdknativeengine-class should access, use and store the data for the desired catalog.</p>
 <p>Using this class, you can access default catalogs on the HERE platform and also custom catalogs
 such as for self-hosted or BYOD (bring your own data) use cases.</p>
-<p>For information on how the user can identify a catalog on the HERE platform, see <a href="../core.engine/DesiredCatalog-class.html">/sdk-for-flutter-explore-core-engine-desiredcatalog-class</a>
-For further information about catalogs and related concepts see <a href="../core.engine/CatalogIdentifier-class.html">/sdk-for-flutter-explore-core-engine-catalogidentifier-class</a>.</p>
+<p>For information on how the user can identify a catalog on the HERE platform, see /sdk-for-flutter-explore-core-engine-desiredcatalog-class
+For further information about catalogs and related concepts see /sdk-for-flutter-explore-core-engine-catalogidentifier-class.</p>
 <p><strong>Note:</strong>
 This API is only applicable for the Navigate license.</p>
 </section>
@@ -68,7 +69,7 @@ This API is only applicable for the Navigate license.</p>
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="CatalogConfiguration">
-<a href="../core.engine/CatalogConfiguration/CatalogConfiguration.html">/sdk-for-flutter-explore-core-engine-catalogconfiguration-catalogconfiguration</a>(<a href="../core.engine/DesiredCatalog-class.html">/sdk-for-flutter-explore-core-engine-desiredcatalog-class</a> catalog)
+/sdk-for-flutter-explore-core-engine-catalogconfiguration-catalogconfiguration(/sdk-for-flutter-explore-core-engine-desiredcatalog-class catalog)
 </dt>
 <dd>
 </dd>
@@ -78,37 +79,37 @@ This API is only applicable for the Navigate license.</p>
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="allowDownload">
-<a href="../core.engine/CatalogConfiguration/allowDownload.html">/sdk-for-flutter-explore-core-engine-catalogconfiguration-allowdownload</a>
+/sdk-for-flutter-explore-core-engine-catalogconfiguration-allowdownload
 ↔ bool
 </dt>
 <dd>
   A flag to indicate if the data for this catalog is allowed to be stored in persistent storage for use with offline maps.
-The storage path is specified in <a href="../core.engine/SDKOptions/persistentMapStoragePath.html">/sdk-for-flutter-explore-core-engine-sdkoptions-persistentmapstoragepath</a>.
-If set to false, the data is not stored in persistent storage and is only retained in the cache for a limited time (see <a href="../core.engine/CatalogConfiguration/cacheExpirationPeriod.html">/sdk-for-flutter-explore-core-engine-catalogconfiguration-cacheexpirationperiod</a>).
+The storage path is specified in /sdk-for-flutter-explore-core-engine-sdkoptions-persistentmapstoragepath.
+If set to false, the data is not stored in persistent storage and is only retained in the cache for a limited time (see /sdk-for-flutter-explore-core-engine-catalogconfiguration-cacheexpirationperiod).
 Defaults to <code>true</code>.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="cacheExpirationPeriod">
-<a href="../core.engine/CatalogConfiguration/cacheExpirationPeriod.html">/sdk-for-flutter-explore-core-engine-catalogconfiguration-cacheexpirationperiod</a>
+/sdk-for-flutter-explore-core-engine-catalogconfiguration-cacheexpirationperiod
 ↔ Duration?
 </dt>
 <dd>
   Expiration time in seconds for how long the catalog data is retained in the
-map cache before it is removed. Cache path is specified by <a href="../core.engine/SDKOptions/cachePath.html">/sdk-for-flutter-explore-core-engine-sdkoptions-cachepath</a>.
+map cache before it is removed. Cache path is specified by /sdk-for-flutter-explore-core-engine-sdkoptions-cachepath.
 If not set, the cache will be deleted on a Least Recently Used (LRU) basis.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="catalog">
-<a href="../core.engine/CatalogConfiguration/catalog.html">/sdk-for-flutter-explore-core-engine-catalogconfiguration-catalog</a>
-↔ <a href="../core.engine/DesiredCatalog-class.html">/sdk-for-flutter-explore-core-engine-desiredcatalog-class</a>
+/sdk-for-flutter-explore-core-engine-catalogconfiguration-catalog
+↔ /sdk-for-flutter-explore-core-engine-desiredcatalog-class
 </dt>
 <dd>
   The identifier for the desired catalog to be accessed on the HERE platform.
-See <a href="../core.engine/DesiredCatalog-class.html">/sdk-for-flutter-explore-core-engine-desiredcatalog-class</a>.
+See /sdk-for-flutter-explore-core-engine-desiredcatalog-class.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-<a href="../core.engine/CatalogConfiguration/hashCode.html">/sdk-for-flutter-explore-core-engine-catalogconfiguration-hashcode</a>
+/sdk-for-flutter-explore-core-engine-catalogconfiguration-hashcode
 → int
 </dt>
 <dd>
@@ -116,7 +117,7 @@ See <a href="../core.engine/DesiredCatalog-class.html">/sdk-for-flutter-explore-
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="patchHrn">
-<a href="../core.engine/CatalogConfiguration/patchHrn.html">/sdk-for-flutter-explore-core-engine-catalogconfiguration-patchhrn</a>
+/sdk-for-flutter-explore-core-engine-catalogconfiguration-patchhrn
 ↔ String?
 </dt>
 <dd>
@@ -124,12 +125,12 @@ See <a href="../core.engine/DesiredCatalog-class.html">/sdk-for-flutter-explore-
 contained in an entirely separate catalog, called the patch catalog.
 This field indicates the HERE Resource Name (HRN) for the patch catalog.
 When this field is present, the catalog's data as referenced by
-<a href="../core.engine/CatalogConfiguration/catalog.html">/sdk-for-flutter-explore-core-engine-catalogconfiguration-catalog</a> is merged with data from the patch catalog.
+/sdk-for-flutter-explore-core-engine-catalogconfiguration-catalog is merged with data from the patch catalog.
 If this field is <code>null</code>, then incremental updates are disabled.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../core.engine/CatalogConfiguration/runtimeType.html">/sdk-for-flutter-explore-core-engine-catalogconfiguration-runtimetype</a>
+/sdk-for-flutter-explore-core-engine-catalogconfiguration-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -142,7 +143,7 @@ If this field is <code>null</code>, then incremental updates are disabled.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../core.engine/CatalogConfiguration/noSuchMethod.html">/sdk-for-flutter-explore-core-engine-catalogconfiguration-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-core-engine-catalogconfiguration-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -151,7 +152,7 @@ If this field is <code>null</code>, then incremental updates are disabled.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../core.engine/CatalogConfiguration/toString.html">/sdk-for-flutter-explore-core-engine-catalogconfiguration-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-core-engine-catalogconfiguration-tostring(<wbr/>)
     → String
 
 </dt>
@@ -165,7 +166,7 @@ If this field is <code>null</code>, then incremental updates are disabled.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-<a href="../core.engine/CatalogConfiguration/operator_equals.html">/sdk-for-flutter-explore-core-engine-catalogconfiguration-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-core-engine-catalogconfiguration-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -180,8 +181,9 @@ If this field is <code>null</code>, then incremental updates are disabled.
 <h2>Static Methods</h2>
 <dl class="callables">
 <dt class="callable" id="getDefault">
-<a href="../core.engine/CatalogConfiguration/getDefault.html">/sdk-for-flutter-explore-core-engine-catalogconfiguration-getdefault</a>(<wbr/><a href="../core.engine/CatalogType.html">/sdk-for-flutter-explore-core-engine-catalogtype</a> catalogType)
-    → <a href="../core.engine/CatalogConfiguration-class.html">/sdk-for-flutter-explore-core-engine-catalogconfiguration-class</a>
+/sdk-for-flutter-explore-core-engine-catalogconfiguration-getdefault(<wbr/>/sdk-for-flutter-explore-core-engine-catalogtype catalogType)
+    → /sdk-for-flutter-explore-core-engine-catalogconfiguration-class
+
 </dt>
 <dd>
   Gets the default catalog configuration for the specified catalog type.
@@ -198,8 +200,8 @@ If this field is <code>null</code>, then incremental updates are disabled.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
 <li class="self-crumb">CatalogConfiguration class</li>
 </ol>
 <h5>core.engine library</h5>
@@ -216,4 +218,5 @@ If this field is <code>null</code>, then incremental updates are disabled.
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

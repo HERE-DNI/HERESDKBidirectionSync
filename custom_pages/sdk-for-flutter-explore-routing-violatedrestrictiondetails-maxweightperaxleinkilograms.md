@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "maxWeightPerAxleInKilograms property"
 slug: "sdk-for-flutter-explore-routing-violatedrestrictiondetails-maxweightperaxleinkilograms"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- maxWeightPerAxleInKilograms.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-routing-violatedrestrictiondetails-maxweightperax
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/ViolatedRestrictionDetails-class.html">/sdk-for-flutter-explore-routing-violatedrestrictiondetails-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-violatedrestrictiondetails-class</li>
 <li class="self-crumb">maxWeightPerAxleInKilograms property</li>
 </ol>
 <div class="self-name">maxWeightPerAxleInKilograms</div>
@@ -44,7 +45,7 @@ menu
 </section>
 <section class="desc markdown">
 <p>Max permitted weight per axle during the trip, in kilograms.
-This property will be set if the <a href="../../transport/VehicleSpecification/weightPerAxleInKilograms.html">/sdk-for-flutter-explore-transport-vehiclespecification-weightperaxleinkilograms</a>
+This property will be set if the /sdk-for-flutter-explore-transport-vehiclespecification-weightperaxleinkilograms
 exceeds this value.</p>
 </section>
 <section class="summary source-code" id="source">
@@ -59,9 +60,9 @@ exceeds this value.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/ViolatedRestrictionDetails-class.html">/sdk-for-flutter-explore-routing-violatedrestrictiondetails-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-violatedrestrictiondetails-class</li>
 <li class="self-crumb">maxWeightPerAxleInKilograms property</li>
 </ol>
 <h5>ViolatedRestrictionDetails class</h5>
@@ -78,4 +79,5 @@ exceeds this value.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "error property"
 slug: "sdk-for-flutter-explore-core-errors-instantiationexception-error"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- error.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-core-errors-instantiationexception-error"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core.errors/core.errors-library.html">/sdk-for-flutter-explore-core-errors-core-errors-library</a></li>
-<li><a href="../../core.errors/InstantiationException-class.html">/sdk-for-flutter-explore-core-errors-instantiationexception-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-errors-core-errors-library</li>
+<li>/sdk-for-flutter-explore-core-errors-instantiationexception-class</li>
 <li class="self-crumb">error property</li>
 </ol>
 <div class="self-name">error</div>
@@ -37,7 +38,7 @@ menu
 <div>
 <h1>error property</h1></div>
 <section class="multi-line-signature">
-<a href="../../core.errors/InstantiationErrorCode.html">/sdk-for-flutter-explore-core-errors-instantiationerrorcode</a>
+/sdk-for-flutter-explore-core-errors-instantiationerrorcode
 error
 <div class="features">final</div>
 </section>
@@ -53,9 +54,9 @@ error
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core.errors/core.errors-library.html">/sdk-for-flutter-explore-core-errors-core-errors-library</a></li>
-<li><a href="../../core.errors/InstantiationException-class.html">/sdk-for-flutter-explore-core-errors-instantiationexception-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-errors-core-errors-library</li>
+<li>/sdk-for-flutter-explore-core-errors-instantiationexception-class</li>
 <li class="self-crumb">error property</li>
 </ol>
 <h5>InstantiationException class</h5>
@@ -72,4 +73,5 @@ error
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

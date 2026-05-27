@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "EVChargingTariffElement class"
 slug: "sdk-for-flutter-explore-search-evchargingtariffelement-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- EVChargingTariffElement-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -26,8 +27,8 @@ slug: "sdk-for-flutter-explore-search-evchargingtariffelement-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
 <li class="self-crumb">EVChargingTariffElement class</li>
 </ol>
 <div class="self-name">EVChargingTariffElement</div>
@@ -60,7 +61,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="EVChargingTariffElement">
-<a href="../search/EVChargingTariffElement/EVChargingTariffElement.html">/sdk-for-flutter-explore-search-evchargingtariffelement-evchargingtariffelement</a>()
+/sdk-for-flutter-explore-search-evchargingtariffelement-evchargingtariffelement()
 </dt>
 <dd>
 </dd>
@@ -70,17 +71,17 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="components">
-<a href="../search/EVChargingTariffElement/components.html">/sdk-for-flutter-explore-search-evchargingtariffelement-components</a>
-↔ List&lt;<wbr/><a href="../search/EVChargingTariffPriceComponent-class.html">/sdk-for-flutter-explore-search-evchargingtariffpricecomponent-class</a>&gt;
+/sdk-for-flutter-explore-search-evchargingtariffelement-components
+↔ List&lt;<wbr/>/sdk-for-flutter-explore-search-evchargingtariffpricecomponent-class&gt;
 </dt>
 <dd>
   List of price components that describe the tariff.
-Each of the components should have a different <a href="../search/EVChargingTariffDimension.html">/sdk-for-flutter-explore-search-evchargingtariffdimension</a>.
+Each of the components should have a different /sdk-for-flutter-explore-search-evchargingtariffdimension.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="condition">
-<a href="../search/EVChargingTariffElement/condition.html">/sdk-for-flutter-explore-search-evchargingtariffelement-condition</a>
-↔ <a href="../search/EVChargingTariffElementCondition-class.html">/sdk-for-flutter-explore-search-evchargingtariffelementcondition-class</a>?
+/sdk-for-flutter-explore-search-evchargingtariffelement-condition
+↔ /sdk-for-flutter-explore-search-evchargingtariffelementcondition-class?
 </dt>
 <dd>
   Condition that the charging session needs to meet to apply the tariff element. An element without any
@@ -88,7 +89,7 @@ condition is typically present for charging sessions that do not meet any of the
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-<a href="../search/EVChargingTariffElement/hashCode.html">/sdk-for-flutter-explore-search-evchargingtariffelement-hashcode</a>
+/sdk-for-flutter-explore-search-evchargingtariffelement-hashcode
 → int
 </dt>
 <dd>
@@ -96,7 +97,7 @@ condition is typically present for charging sessions that do not meet any of the
   <div class="features">no setter</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../search/EVChargingTariffElement/runtimeType.html">/sdk-for-flutter-explore-search-evchargingtariffelement-runtimetype</a>
+/sdk-for-flutter-explore-search-evchargingtariffelement-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -109,7 +110,7 @@ condition is typically present for charging sessions that do not meet any of the
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../search/EVChargingTariffElement/noSuchMethod.html">/sdk-for-flutter-explore-search-evchargingtariffelement-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-search-evchargingtariffelement-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -118,7 +119,7 @@ condition is typically present for charging sessions that do not meet any of the
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../search/EVChargingTariffElement/toString.html">/sdk-for-flutter-explore-search-evchargingtariffelement-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-search-evchargingtariffelement-tostring(<wbr/>)
     → String
 
 </dt>
@@ -132,7 +133,7 @@ condition is typically present for charging sessions that do not meet any of the
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-<a href="../search/EVChargingTariffElement/operator_equals.html">/sdk-for-flutter-explore-search-evchargingtariffelement-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-search-evchargingtariffelement-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -151,8 +152,8 @@ condition is typically present for charging sessions that do not meet any of the
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
 <li class="self-crumb">EVChargingTariffElement class</li>
 </ol>
 <h5>search library</h5>
@@ -169,4 +170,5 @@ condition is typically present for charging sessions that do not meet any of the
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

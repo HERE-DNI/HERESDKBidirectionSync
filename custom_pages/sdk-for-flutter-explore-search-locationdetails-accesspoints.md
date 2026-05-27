@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "accessPoints property"
 slug: "sdk-for-flutter-explore-search-locationdetails-accesspoints"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- accessPoints.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-search-locationdetails-accesspoints"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/LocationDetails-class.html">/sdk-for-flutter-explore-search-locationdetails-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-locationdetails-class</li>
 <li class="self-crumb">accessPoints property</li>
 </ol>
 <div class="self-name">accessPoints</div>
@@ -38,7 +39,7 @@ menu
 <h1>accessPoints property</h1></div>
 <section class="multi-line-signature">
         
-        List&lt;<wbr/><a href="../../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>&gt;
+        List&lt;<wbr/>/sdk-for-flutter-explore-core-geocoordinates-class&gt;
 accessPoints
 <div class="features">getter/setter pair</div>
 </section>
@@ -57,9 +58,9 @@ accessPoints
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/LocationDetails-class.html">/sdk-for-flutter-explore-search-locationdetails-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-locationdetails-class</li>
 <li class="self-crumb">accessPoints property</li>
 </ol>
 <h5>LocationDetails class</h5>
@@ -76,4 +77,5 @@ accessPoints
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

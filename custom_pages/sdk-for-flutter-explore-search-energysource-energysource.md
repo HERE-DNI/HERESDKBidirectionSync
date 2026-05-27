@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "EnergySource constructor"
 slug: "sdk-for-flutter-explore-search-energysource-energysource"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- EnergySource.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-search-energysource-energysource"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/EnergySource-class.html">/sdk-for-flutter-explore-search-energysource-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-energysource-class</li>
 <li class="self-crumb">EnergySource constructor</li>
 </ol>
 <div class="self-name">EnergySource</div>
@@ -52,9 +53,9 @@ EnergySource(<wbr/>)
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/EnergySource-class.html">/sdk-for-flutter-explore-search-energysource-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-energysource-class</li>
 <li class="self-crumb">EnergySource constructor</li>
 </ol>
 <h5>EnergySource class</h5>
@@ -71,4 +72,5 @@ EnergySource(<wbr/>)
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

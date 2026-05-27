@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "error property"
 slug: "sdk-for-flutter-explore-core-engine-logcontrolinvalidpathexceptionexception-error"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- error.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-core-engine-logcontrolinvalidpathexceptionexcepti
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
-<li><a href="../../core.engine/LogControlInvalidPathExceptionException-class.html">/sdk-for-flutter-explore-core-engine-logcontrolinvalidpathexceptionexception-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
+<li>/sdk-for-flutter-explore-core-engine-logcontrolinvalidpathexceptionexception-class</li>
 <li class="self-crumb">error property</li>
 </ol>
 <div class="self-name">error</div>
@@ -54,9 +55,9 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
-<li><a href="../../core.engine/LogControlInvalidPathExceptionException-class.html">/sdk-for-flutter-explore-core-engine-logcontrolinvalidpathexceptionexception-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
+<li>/sdk-for-flutter-explore-core-engine-logcontrolinvalidpathexceptionexception-class</li>
 <li class="self-crumb">error property</li>
 </ol>
 <h5>LogControlInvalidPathExceptionException class</h5>
@@ -73,4 +74,5 @@ menu
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

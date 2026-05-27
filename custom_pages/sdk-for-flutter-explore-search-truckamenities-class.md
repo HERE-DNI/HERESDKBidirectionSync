@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "TruckAmenities class"
 slug: "sdk-for-flutter-explore-search-truckamenities-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- TruckAmenities-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -38,8 +39,8 @@ slug: "sdk-for-flutter-explore-search-truckamenities-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
 <li class="self-crumb">TruckAmenities class</li>
 </ol>
 <div class="self-name">TruckAmenities</div>
@@ -64,14 +65,14 @@ menu
 <h1>TruckAmenities class</h1></div>
 <section class="desc markdown">
 <p>Truck amenities struct, represents availability (true/false) for each feature,
-except shower_count - number of showers, if data is available.</p>
+except <code>shower_count</code> - number of showers, if data is available.</p>
 <p>Note: This is a BETA feature and thus subject to change.</p>
 </section>
 <section class="summary offset-anchor" id="constructors">
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="TruckAmenities">
-<a href="../search/TruckAmenities/TruckAmenities.html">/sdk-for-flutter-explore-search-truckamenities-truckamenities</a>()
+/sdk-for-flutter-explore-search-truckamenities-truckamenities()
 </dt>
 <dd>
 </dd>
@@ -81,7 +82,7 @@ except shower_count - number of showers, if data is available.</p>
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="hasCarWash">
-<a href="../search/TruckAmenities/hasCarWash.html">/sdk-for-flutter-explore-search-truckamenities-hascarwash</a>
+/sdk-for-flutter-explore-search-truckamenities-hascarwash
 ↔ bool
 </dt>
 <dd>
@@ -89,7 +90,7 @@ except shower_count - number of showers, if data is available.</p>
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hasChemicalToiletDisposal">
-<a href="../search/TruckAmenities/hasChemicalToiletDisposal.html">/sdk-for-flutter-explore-search-truckamenities-haschemicaltoiletdisposal</a>
+/sdk-for-flutter-explore-search-truckamenities-haschemicaltoiletdisposal
 ↔ bool
 </dt>
 <dd>
@@ -97,7 +98,7 @@ except shower_count - number of showers, if data is available.</p>
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-<a href="../search/TruckAmenities/hashCode.html">/sdk-for-flutter-explore-search-truckamenities-hashcode</a>
+/sdk-for-flutter-explore-search-truckamenities-hashcode
 → int
 </dt>
 <dd>
@@ -105,7 +106,7 @@ except shower_count - number of showers, if data is available.</p>
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="hasHighCanopy">
-<a href="../search/TruckAmenities/hasHighCanopy.html">/sdk-for-flutter-explore-search-truckamenities-hashighcanopy</a>
+/sdk-for-flutter-explore-search-truckamenities-hashighcanopy
 ↔ bool
 </dt>
 <dd>
@@ -113,7 +114,7 @@ except shower_count - number of showers, if data is available.</p>
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hasIdleReductionSystem">
-<a href="../search/TruckAmenities/hasIdleReductionSystem.html">/sdk-for-flutter-explore-search-truckamenities-hasidlereductionsystem</a>
+/sdk-for-flutter-explore-search-truckamenities-hasidlereductionsystem
 ↔ bool
 </dt>
 <dd>
@@ -121,7 +122,7 @@ except shower_count - number of showers, if data is available.</p>
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hasParking">
-<a href="../search/TruckAmenities/hasParking.html">/sdk-for-flutter-explore-search-truckamenities-hasparking</a>
+/sdk-for-flutter-explore-search-truckamenities-hasparking
 ↔ bool
 </dt>
 <dd>
@@ -129,7 +130,7 @@ except shower_count - number of showers, if data is available.</p>
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hasPowerSupply">
-<a href="../search/TruckAmenities/hasPowerSupply.html">/sdk-for-flutter-explore-search-truckamenities-haspowersupply</a>
+/sdk-for-flutter-explore-search-truckamenities-haspowersupply
 ↔ bool
 </dt>
 <dd>
@@ -137,7 +138,7 @@ except shower_count - number of showers, if data is available.</p>
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hasSecureParking">
-<a href="../search/TruckAmenities/hasSecureParking.html">/sdk-for-flutter-explore-search-truckamenities-hassecureparking</a>
+/sdk-for-flutter-explore-search-truckamenities-hassecureparking
 ↔ bool
 </dt>
 <dd>
@@ -145,7 +146,7 @@ except shower_count - number of showers, if data is available.</p>
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hasShower">
-<a href="../search/TruckAmenities/hasShower.html">/sdk-for-flutter-explore-search-truckamenities-hasshower</a>
+/sdk-for-flutter-explore-search-truckamenities-hasshower
 ↔ bool
 </dt>
 <dd>
@@ -153,7 +154,7 @@ except shower_count - number of showers, if data is available.</p>
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hasTruckScales">
-<a href="../search/TruckAmenities/hasTruckScales.html">/sdk-for-flutter-explore-search-truckamenities-hastruckscales</a>
+/sdk-for-flutter-explore-search-truckamenities-hastruckscales
 ↔ bool
 </dt>
 <dd>
@@ -161,7 +162,7 @@ except shower_count - number of showers, if data is available.</p>
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hasTruckService">
-<a href="../search/TruckAmenities/hasTruckService.html">/sdk-for-flutter-explore-search-truckamenities-hastruckservice</a>
+/sdk-for-flutter-explore-search-truckamenities-hastruckservice
 ↔ bool
 </dt>
 <dd>
@@ -169,7 +170,7 @@ except shower_count - number of showers, if data is available.</p>
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hasTruckStop">
-<a href="../search/TruckAmenities/hasTruckStop.html">/sdk-for-flutter-explore-search-truckamenities-hastruckstop</a>
+/sdk-for-flutter-explore-search-truckamenities-hastruckstop
 ↔ bool
 </dt>
 <dd>
@@ -177,7 +178,7 @@ except shower_count - number of showers, if data is available.</p>
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hasTruckWash">
-<a href="../search/TruckAmenities/hasTruckWash.html">/sdk-for-flutter-explore-search-truckamenities-hastruckwash</a>
+/sdk-for-flutter-explore-search-truckamenities-hastruckwash
 ↔ bool
 </dt>
 <dd>
@@ -185,7 +186,7 @@ except shower_count - number of showers, if data is available.</p>
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hasWifi">
-<a href="../search/TruckAmenities/hasWifi.html">/sdk-for-flutter-explore-search-truckamenities-haswifi</a>
+/sdk-for-flutter-explore-search-truckamenities-haswifi
 ↔ bool
 </dt>
 <dd>
@@ -193,7 +194,7 @@ except shower_count - number of showers, if data is available.</p>
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../search/TruckAmenities/runtimeType.html">/sdk-for-flutter-explore-search-truckamenities-runtimetype</a>
+/sdk-for-flutter-explore-search-truckamenities-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -201,7 +202,7 @@ except shower_count - number of showers, if data is available.</p>
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="showerCount">
-<a href="../search/TruckAmenities/showerCount.html">/sdk-for-flutter-explore-search-truckamenities-showercount</a>
+/sdk-for-flutter-explore-search-truckamenities-showercount
 ↔ int?
 </dt>
 <dd>
@@ -214,7 +215,7 @@ except shower_count - number of showers, if data is available.</p>
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../search/TruckAmenities/noSuchMethod.html">/sdk-for-flutter-explore-search-truckamenities-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-search-truckamenities-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -223,7 +224,7 @@ except shower_count - number of showers, if data is available.</p>
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../search/TruckAmenities/toString.html">/sdk-for-flutter-explore-search-truckamenities-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-search-truckamenities-tostring(<wbr/>)
     → String
 
 </dt>
@@ -237,7 +238,7 @@ except shower_count - number of showers, if data is available.</p>
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-<a href="../search/TruckAmenities/operator_equals.html">/sdk-for-flutter-explore-search-truckamenities-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-search-truckamenities-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -256,8 +257,8 @@ except shower_count - number of showers, if data is available.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
 <li class="self-crumb">TruckAmenities class</li>
 </ol>
 <h5>search library</h5>
@@ -274,4 +275,5 @@ except shower_count - number of showers, if data is available.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

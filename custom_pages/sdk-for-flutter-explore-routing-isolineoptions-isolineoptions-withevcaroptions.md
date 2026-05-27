@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "IsolineOptions.withEVCarOptions constructor"
 slug: "sdk-for-flutter-explore-routing-isolineoptions-isolineoptions-withevcaroptions"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- IsolineOptions.withEVCarOptions.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-routing-isolineoptions-isolineoptions-withevcarop
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/IsolineOptions-class.html">/sdk-for-flutter-explore-routing-isolineoptions-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-isolineoptions-class</li>
 <li class="self-crumb">IsolineOptions.withEVCarOptions factory constructor</li>
 </ol>
 <div class="self-name">IsolineOptions.withEVCarOptions</div>
@@ -39,11 +40,11 @@ menu
 <section class="multi-line-signature">
 <div>
 <ol class="annotation-list">
-<li>@Deprecated("Will be removed in v4.28.0. Use the constructor with `RoutingOptions` parameter instead.")</li>
+<li>@Deprecated("Will be removed in v4.28.0. Use the constructor with <code>RoutingOptions</code> parameter instead.")</li>
 </ol>
 </div>
-IsolineOptions.withEVCarOptions(<wbr/><ol class="parameter-list single-line"> <li><a href="../../routing/IsolineOptionsCalculation-class.html">/sdk-for-flutter-explore-routing-isolineoptionscalculation-class</a> calculationOptions, </li>
-<li><a class="deprecated" href="../../routing/EVCarOptions-class.html">/sdk-for-flutter-explore-routing-evcaroptions-class</a> evCarOptions</li>
+IsolineOptions.withEVCarOptions(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-routing-isolineoptionscalculation-class calculationOptions, </li>
+<li>/sdk-for-flutter-explore-routing-evcaroptions-class evCarOptions</li>
 </ol>)
     </section>
 <section class="desc markdown">
@@ -61,7 +62,7 @@ This determines also the transportation type.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
-<pre class="language-dart"><code class="language-dart">@Deprecated("Will be removed in v4.28.0. Use the constructor with `RoutingOptions` parameter instead.")
+<pre class="language-dart"><code class="language-dart">@Deprecated("Will be removed in v4.28.0. Use the constructor with RoutingOptions parameter instead.")
 
 factory IsolineOptions.withEVCarOptions(IsolineOptionsCalculation calculationOptions, EVCarOptions evCarOptions) =&gt; $prototype.withEVCarOptions(calculationOptions, evCarOptions);</code></pre>
 </section>
@@ -73,9 +74,9 @@ factory IsolineOptions.withEVCarOptions(IsolineOptionsCalculation calculationOpt
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/IsolineOptions-class.html">/sdk-for-flutter-explore-routing-isolineoptions-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-isolineoptions-class</li>
 <li class="self-crumb">IsolineOptions.withEVCarOptions factory constructor</li>
 </ol>
 <h5>IsolineOptions class</h5>
@@ -92,4 +93,5 @@ factory IsolineOptions.withEVCarOptions(IsolineOptionsCalculation calculationOpt
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

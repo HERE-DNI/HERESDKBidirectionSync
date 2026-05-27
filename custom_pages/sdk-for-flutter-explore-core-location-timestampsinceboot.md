@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "timestampSinceBoot property"
 slug: "sdk-for-flutter-explore-core-location-timestampsinceboot"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- timestampSinceBoot.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-core-location-timestampsinceboot"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
-<li><a href="../../core/Location-class.html">/sdk-for-flutter-explore-core-location-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
+<li>/sdk-for-flutter-explore-core-location-class</li>
 <li class="self-crumb">timestampSinceBoot property</li>
 </ol>
 <div class="self-name">timestampSinceBoot</div>
@@ -61,9 +62,9 @@ If it cannot be determined, the value is <code>null</code>.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
-<li><a href="../../core/Location-class.html">/sdk-for-flutter-explore-core-location-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
+<li>/sdk-for-flutter-explore-core-location-class</li>
 <li class="self-crumb">timestampSinceBoot property</li>
 </ol>
 <h5>Location class</h5>
@@ -80,4 +81,5 @@ If it cannot be determined, the value is <code>null</code>.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

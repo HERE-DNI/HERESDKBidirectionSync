@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "offlineMode property"
 slug: "sdk-for-flutter-explore-core-engine-sdkoptions-offlinemode"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- offlineMode.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-core-engine-sdkoptions-offlinemode"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
-<li><a href="../../core.engine/SDKOptions-class.html">/sdk-for-flutter-explore-core-engine-sdkoptions-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
+<li>/sdk-for-flutter-explore-core-engine-sdkoptions-class</li>
 <li class="self-crumb">offlineMode property</li>
 </ol>
 <div class="self-name">offlineMode</div>
@@ -45,7 +46,7 @@ menu
 <section class="desc markdown">
 <p>Sets offline mode for the HERE SDK. Defaults to <code>false</code>. When enabled, this prevents the
 HERE SDK from initiating any online connection from starting.
-The mode can be disabled or enabled again at any time via <a href="../../core.engine/SDKNativeEngine/isOfflineMode.html">/sdk-for-flutter-explore-core-engine-sdknativeengine-isofflinemode</a>.</p>
+The mode can be disabled or enabled again at any time via /sdk-for-flutter-explore-core-engine-sdknativeengine-isofflinemode.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -59,9 +60,9 @@ The mode can be disabled or enabled again at any time via <a href="../../core.en
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
-<li><a href="../../core.engine/SDKOptions-class.html">/sdk-for-flutter-explore-core-engine-sdkoptions-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
+<li>/sdk-for-flutter-explore-core-engine-sdkoptions-class</li>
 <li class="self-crumb">offlineMode property</li>
 </ol>
 <h5>SDKOptions class</h5>
@@ -78,4 +79,5 @@ The mode can be disabled or enabled again at any time via <a href="../../core.en
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "forbiddenTruckCategory property"
 slug: "sdk-for-flutter-explore-routing-violatedrestrictiondetails-forbiddentruckcategory"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- forbiddenTruckCategory.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-routing-violatedrestrictiondetails-forbiddentruck
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/ViolatedRestrictionDetails-class.html">/sdk-for-flutter-explore-routing-violatedrestrictiondetails-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-violatedrestrictiondetails-class</li>
 <li class="self-crumb">forbiddenTruckCategory property</li>
 </ol>
 <div class="self-name">forbiddenTruckCategory</div>
@@ -37,12 +38,12 @@ menu
 <div>
 <h1>forbiddenTruckCategory property</h1></div>
 <section class="multi-line-signature">
-<a href="../../transport/TruckCategory.html">/sdk-for-flutter-explore-transport-truckcategory</a>?
+/sdk-for-flutter-explore-transport-truckcategory?
         forbiddenTruckCategory
 <div class="features">getter/setter pair</div>
 </section>
 <section class="desc markdown">
-<p>This property will be set if a restriction applies to the value of <a href="../../transport/TruckCategory.html">/sdk-for-flutter-explore-transport-truckcategory</a>
+<p>This property will be set if a restriction applies to the value of /sdk-for-flutter-explore-transport-truckcategory
 parameter used for route calculation.</p>
 </section>
 <section class="summary source-code" id="source">
@@ -57,9 +58,9 @@ parameter used for route calculation.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/ViolatedRestrictionDetails-class.html">/sdk-for-flutter-explore-routing-violatedrestrictiondetails-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-violatedrestrictiondetails-class</li>
 <li class="self-crumb">forbiddenTruckCategory property</li>
 </ol>
 <h5>ViolatedRestrictionDetails class</h5>
@@ -76,4 +77,5 @@ parameter used for route calculation.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

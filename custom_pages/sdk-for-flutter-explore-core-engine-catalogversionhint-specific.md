@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "specific static method"
 slug: "sdk-for-flutter-explore-core-engine-catalogversionhint-specific"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- specific.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-core-engine-catalogversionhint-specific"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
-<li><a href="../../core.engine/CatalogVersionHint-class.html">/sdk-for-flutter-explore-core-engine-catalogversionhint-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
+<li>/sdk-for-flutter-explore-core-engine-catalogversionhint-class</li>
 <li class="self-crumb">specific static method</li>
 </ol>
 <div class="self-name">specific</div>
@@ -37,7 +38,7 @@ menu
 <div>
 <h1>specific static method</h1></div>
 <section class="multi-line-signature">
-<a href="../../core.engine/CatalogVersionHint-class.html">/sdk-for-flutter-explore-core-engine-catalogversionhint-class</a>
+/sdk-for-flutter-explore-core-engine-catalogversionhint-class
 specific(<wbr/><ol class="parameter-list single-line"> <li>int version</li>
 </ol>)
 
@@ -54,7 +55,7 @@ If the desired version does not exist, the HERE platform will make the
 best effort to provide an appropriate version or result in error logs
 about invalid version.</li>
 </ul>
-<p>Returns <a href="../../core.engine/CatalogVersionHint-class.html">/sdk-for-flutter-explore-core-engine-catalogversionhint-class</a>. Instance of <a href="../../core.engine/CatalogVersionHint-class.html">/sdk-for-flutter-explore-core-engine-catalogversionhint-class</a> with specified version.</p>
+<p>Returns /sdk-for-flutter-explore-core-engine-catalogversionhint-class. Instance of /sdk-for-flutter-explore-core-engine-catalogversionhint-class with specified version.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -68,9 +69,9 @@ about invalid version.</li>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
-<li><a href="../../core.engine/CatalogVersionHint-class.html">/sdk-for-flutter-explore-core-engine-catalogversionhint-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
+<li>/sdk-for-flutter-explore-core-engine-catalogversionhint-class</li>
 <li class="self-crumb">specific static method</li>
 </ol>
 <h5>CatalogVersionHint class</h5>
@@ -87,4 +88,5 @@ about invalid version.</li>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

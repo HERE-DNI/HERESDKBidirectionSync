@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "RefreshRouteOptions class abstract"
 slug: "sdk-for-flutter-explore-routing-refreshrouteoptions-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- RefreshRouteOptions-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -34,8 +35,8 @@ slug: "sdk-for-flutter-explore-routing-refreshrouteoptions-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
 <li class="self-crumb">RefreshRouteOptions class</li>
 </ol>
 <div class="self-name">RefreshRouteOptions</div>
@@ -59,14 +60,14 @@ menu
 <div>
 <h1>RefreshRouteOptions class abstract</h1></div>
 <section class="desc markdown">
-<p>The options to specify how to refresh an already calculated route identified by a <a href="../routing/RouteHandle-class.html">/sdk-for-flutter-explore-routing-routehandle-class</a>.</p>
+<p>The options to specify how to refresh an already calculated route identified by a /sdk-for-flutter-explore-routing-routehandle-class.</p>
 <p>All the
 options that may result in a new route shape are ignored as no new route is calculated. Instead, only the data that
 accompanies a route, such as traffic information, can be refreshed. Therefore, the following route options are ignored:
-<a href="../routing/RouteOptions/alternatives.html">/sdk-for-flutter-explore-routing-routeoptions-alternatives</a>, <a href="../routing/RouteOptions/arrivalTime.html">/sdk-for-flutter-explore-routing-routeoptions-arrivaltime</a>, and <a href="../routing/RouteOptions/optimizationMode.html">/sdk-for-flutter-explore-routing-routeoptions-optimizationmode</a>.
-If new <a href="../routing/AvoidanceOptions-class.html">/sdk-for-flutter-explore-routing-avoidanceoptions-class</a> are specified, they are ignored as well and instead new <a href="../routing/SectionNotice-class.html">/sdk-for-flutter-explore-routing-sectionnotice-class</a>'s
-are generated that indicate where the requested <a href="../routing/AvoidanceOptions-class.html">/sdk-for-flutter-explore-routing-avoidanceoptions-class</a> are violated. Note that when
-<a href="../routing/EVCarOptions/ensureReachability.html">/sdk-for-flutter-explore-routing-evcaroptions-ensurereachability</a> is set to true, the route refresh request will fail as this option
+/sdk-for-flutter-explore-routing-routeoptions-alternatives, /sdk-for-flutter-explore-routing-routeoptions-arrivaltime, and /sdk-for-flutter-explore-routing-routeoptions-optimizationmode.
+If new /sdk-for-flutter-explore-routing-avoidanceoptions-class are specified, they are ignored as well and instead new /sdk-for-flutter-explore-routing-sectionnotice-class's
+are generated that indicate where the requested /sdk-for-flutter-explore-routing-avoidanceoptions-class are violated. Note that when
+/sdk-for-flutter-explore-routing-evcaroptions-ensurereachability is set to true, the route refresh request will fail as this option
 is incompatible with a fixed route shape.
 If any of the ignored options are important, consider calculating a new route instead.</p>
 <p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
@@ -77,7 +78,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <dt>Annotations</dt>
 <dd>
 <ul class="annotation-list clazz-relationships">
-<li>@Deprecated("Will be removed in v4.28.0. Use the `RoutingOptions` class instead.")</li>
+<li>@Deprecated("Will be removed in v4.28.0. Use the <code>RoutingOptions</code> class instead.")</li>
 </ul>
 </dd>
 </dl>
@@ -86,80 +87,80 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="RefreshRouteOptions.withBicycleOptions">
-<a href="../routing/RefreshRouteOptions/RefreshRouteOptions.withBicycleOptions.html">/sdk-for-flutter-explore-routing-refreshrouteoptions-refreshrouteoptions-withbicycleoptions</a>(<a class="deprecated" href="../routing/BicycleOptions-class.html">/sdk-for-flutter-explore-routing-bicycleoptions-class</a> bicycleOptions)
+/sdk-for-flutter-explore-routing-refreshrouteoptions-refreshrouteoptions-withbicycleoptions(/sdk-for-flutter-explore-routing-bicycleoptions-class bicycleOptions)
 </dt>
 <dd>
-          Constructs a RefreshRouteOptions object with <a class="deprecated" href="../routing/BicycleOptions-class.html">/sdk-for-flutter-explore-routing-bicycleoptions-class</a>.
+          Constructs a RefreshRouteOptions object with /sdk-for-flutter-explore-routing-bicycleoptions-class.
             <div class="constructor-modifier features">factory</div>
 </dd>
 <dt class="callable" id="RefreshRouteOptions.withBusOptions">
-<a href="../routing/RefreshRouteOptions/RefreshRouteOptions.withBusOptions.html">/sdk-for-flutter-explore-routing-refreshrouteoptions-refreshrouteoptions-withbusoptions</a>(<a class="deprecated" href="../routing/BusOptions-class.html">/sdk-for-flutter-explore-routing-busoptions-class</a> busOptions)
+/sdk-for-flutter-explore-routing-refreshrouteoptions-refreshrouteoptions-withbusoptions(/sdk-for-flutter-explore-routing-busoptions-class busOptions)
 </dt>
 <dd>
-          Constructs a RefreshRouteOptions object with <a class="deprecated" href="../routing/BusOptions-class.html">/sdk-for-flutter-explore-routing-busoptions-class</a>.
+          Constructs a RefreshRouteOptions object with /sdk-for-flutter-explore-routing-busoptions-class.
             <div class="constructor-modifier features">factory</div>
 </dd>
 <dt class="callable" id="RefreshRouteOptions.withCarOptions">
-<a href="../routing/RefreshRouteOptions/RefreshRouteOptions.withCarOptions.html">/sdk-for-flutter-explore-routing-refreshrouteoptions-refreshrouteoptions-withcaroptions</a>(<a class="deprecated" href="../routing/CarOptions-class.html">/sdk-for-flutter-explore-routing-caroptions-class</a> carOptions)
+/sdk-for-flutter-explore-routing-refreshrouteoptions-refreshrouteoptions-withcaroptions(/sdk-for-flutter-explore-routing-caroptions-class carOptions)
 </dt>
 <dd>
-          Constructs a RefreshRouteOptions object with <a class="deprecated" href="../routing/CarOptions-class.html">/sdk-for-flutter-explore-routing-caroptions-class</a>.
+          Constructs a RefreshRouteOptions object with /sdk-for-flutter-explore-routing-caroptions-class.
             <div class="constructor-modifier features">factory</div>
 </dd>
 <dt class="callable" id="RefreshRouteOptions.withEVCarOptions">
-<a href="../routing/RefreshRouteOptions/RefreshRouteOptions.withEVCarOptions.html">/sdk-for-flutter-explore-routing-refreshrouteoptions-refreshrouteoptions-withevcaroptions</a>(<a class="deprecated" href="../routing/EVCarOptions-class.html">/sdk-for-flutter-explore-routing-evcaroptions-class</a> evCarOptions)
+/sdk-for-flutter-explore-routing-refreshrouteoptions-refreshrouteoptions-withevcaroptions(/sdk-for-flutter-explore-routing-evcaroptions-class evCarOptions)
 </dt>
 <dd>
-          Constructs a RefreshRouteOptions object with <a class="deprecated" href="../routing/EVCarOptions-class.html">/sdk-for-flutter-explore-routing-evcaroptions-class</a>.
+          Constructs a RefreshRouteOptions object with /sdk-for-flutter-explore-routing-evcaroptions-class.
             <div class="constructor-modifier features">factory</div>
 </dd>
 <dt class="callable" id="RefreshRouteOptions.withEVTruckOptions">
-<a href="../routing/RefreshRouteOptions/RefreshRouteOptions.withEVTruckOptions.html">/sdk-for-flutter-explore-routing-refreshrouteoptions-refreshrouteoptions-withevtruckoptions</a>(<a class="deprecated" href="../routing/EVTruckOptions-class.html">/sdk-for-flutter-explore-routing-evtruckoptions-class</a> evTruckOptions)
+/sdk-for-flutter-explore-routing-refreshrouteoptions-refreshrouteoptions-withevtruckoptions(/sdk-for-flutter-explore-routing-evtruckoptions-class evTruckOptions)
 </dt>
 <dd>
-          Constructs a RefreshRouteOptions object with <a class="deprecated" href="../routing/EVTruckOptions-class.html">/sdk-for-flutter-explore-routing-evtruckoptions-class</a>.
+          Constructs a RefreshRouteOptions object with /sdk-for-flutter-explore-routing-evtruckoptions-class.
             <div class="constructor-modifier features">factory</div>
 </dd>
 <dt class="callable" id="RefreshRouteOptions.withPedestrianOptions">
-<a href="../routing/RefreshRouteOptions/RefreshRouteOptions.withPedestrianOptions.html">/sdk-for-flutter-explore-routing-refreshrouteoptions-refreshrouteoptions-withpedestrianoptions</a>(<a class="deprecated" href="../routing/PedestrianOptions-class.html">/sdk-for-flutter-explore-routing-pedestrianoptions-class</a> pedestrianOptions)
+/sdk-for-flutter-explore-routing-refreshrouteoptions-refreshrouteoptions-withpedestrianoptions(/sdk-for-flutter-explore-routing-pedestrianoptions-class pedestrianOptions)
 </dt>
 <dd>
-          Constructs a RefreshRouteOptions object with <a class="deprecated" href="../routing/PedestrianOptions-class.html">/sdk-for-flutter-explore-routing-pedestrianoptions-class</a>.
+          Constructs a RefreshRouteOptions object with /sdk-for-flutter-explore-routing-pedestrianoptions-class.
             <div class="constructor-modifier features">factory</div>
 </dd>
 <dt class="callable" id="RefreshRouteOptions.withPrivateBusOptions">
-<a href="../routing/RefreshRouteOptions/RefreshRouteOptions.withPrivateBusOptions.html">/sdk-for-flutter-explore-routing-refreshrouteoptions-refreshrouteoptions-withprivatebusoptions</a>(<a class="deprecated" href="../routing/PrivateBusOptions-class.html">/sdk-for-flutter-explore-routing-privatebusoptions-class</a> privateBusOptions)
+/sdk-for-flutter-explore-routing-refreshrouteoptions-refreshrouteoptions-withprivatebusoptions(/sdk-for-flutter-explore-routing-privatebusoptions-class privateBusOptions)
 </dt>
 <dd>
-          Constructs a RefreshRouteOptions object with <a class="deprecated" href="../routing/PrivateBusOptions-class.html">/sdk-for-flutter-explore-routing-privatebusoptions-class</a>.
+          Constructs a RefreshRouteOptions object with /sdk-for-flutter-explore-routing-privatebusoptions-class.
             <div class="constructor-modifier features">factory</div>
 </dd>
 <dt class="callable" id="RefreshRouteOptions.withScooterOptions">
-<a href="../routing/RefreshRouteOptions/RefreshRouteOptions.withScooterOptions.html">/sdk-for-flutter-explore-routing-refreshrouteoptions-refreshrouteoptions-withscooteroptions</a>(<a class="deprecated" href="../routing/ScooterOptions-class.html">/sdk-for-flutter-explore-routing-scooteroptions-class</a> scooterOptions)
+/sdk-for-flutter-explore-routing-refreshrouteoptions-refreshrouteoptions-withscooteroptions(/sdk-for-flutter-explore-routing-scooteroptions-class scooterOptions)
 </dt>
 <dd>
-          Constructs a RefreshRouteOptions object with <a class="deprecated" href="../routing/ScooterOptions-class.html">/sdk-for-flutter-explore-routing-scooteroptions-class</a>.
+          Constructs a RefreshRouteOptions object with /sdk-for-flutter-explore-routing-scooteroptions-class.
             <div class="constructor-modifier features">factory</div>
 </dd>
 <dt class="callable" id="RefreshRouteOptions.withTaxiOptions">
-<a href="../routing/RefreshRouteOptions/RefreshRouteOptions.withTaxiOptions.html">/sdk-for-flutter-explore-routing-refreshrouteoptions-refreshrouteoptions-withtaxioptions</a>(<a class="deprecated" href="../routing/TaxiOptions-class.html">/sdk-for-flutter-explore-routing-taxioptions-class</a> taxiOptions)
+/sdk-for-flutter-explore-routing-refreshrouteoptions-refreshrouteoptions-withtaxioptions(/sdk-for-flutter-explore-routing-taxioptions-class taxiOptions)
 </dt>
 <dd>
-          Constructs a RefreshRouteOptions object with <a class="deprecated" href="../routing/TaxiOptions-class.html">/sdk-for-flutter-explore-routing-taxioptions-class</a>.
+          Constructs a RefreshRouteOptions object with /sdk-for-flutter-explore-routing-taxioptions-class.
             <div class="constructor-modifier features">factory</div>
 </dd>
 <dt class="callable" id="RefreshRouteOptions.withTransportMode">
-<a href="../routing/RefreshRouteOptions/RefreshRouteOptions.withTransportMode.html">/sdk-for-flutter-explore-routing-refreshrouteoptions-refreshrouteoptions-withtransportmode</a>(<a href="../transport/TransportMode.html">/sdk-for-flutter-explore-transport-transportmode</a> transportMode)
+/sdk-for-flutter-explore-routing-refreshrouteoptions-refreshrouteoptions-withtransportmode(/sdk-for-flutter-explore-transport-transportmode transportMode)
 </dt>
 <dd>
-          Constructs a RefreshRouteOptions object with <a href="../transport/TransportMode.html">/sdk-for-flutter-explore-transport-transportmode</a>.
+          Constructs a RefreshRouteOptions object with /sdk-for-flutter-explore-transport-transportmode.
             <div class="constructor-modifier features">factory</div>
 </dd>
 <dt class="callable" id="RefreshRouteOptions.withTruckOptions">
-<a href="../routing/RefreshRouteOptions/RefreshRouteOptions.withTruckOptions.html">/sdk-for-flutter-explore-routing-refreshrouteoptions-refreshrouteoptions-withtruckoptions</a>(<a class="deprecated" href="../routing/TruckOptions-class.html">/sdk-for-flutter-explore-routing-truckoptions-class</a> truckOptions)
+/sdk-for-flutter-explore-routing-refreshrouteoptions-refreshrouteoptions-withtruckoptions(/sdk-for-flutter-explore-routing-truckoptions-class truckOptions)
 </dt>
 <dd>
-          Constructs a RefreshRouteOptions object with <a class="deprecated" href="../routing/TruckOptions-class.html">/sdk-for-flutter-explore-routing-truckoptions-class</a>.
+          Constructs a RefreshRouteOptions object with /sdk-for-flutter-explore-routing-truckoptions-class.
             <div class="constructor-modifier features">factory</div>
 </dd>
 </dl>
@@ -168,7 +169,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="hashCode">
-<a href="../routing/RefreshRouteOptions/hashCode.html">/sdk-for-flutter-explore-routing-refreshrouteoptions-hashcode</a>
+/sdk-for-flutter-explore-routing-refreshrouteoptions-hashcode
 → int
 </dt>
 <dd class="inherited">
@@ -176,7 +177,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../routing/RefreshRouteOptions/runtimeType.html">/sdk-for-flutter-explore-routing-refreshrouteoptions-runtimetype</a>
+/sdk-for-flutter-explore-routing-refreshrouteoptions-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -189,7 +190,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../routing/RefreshRouteOptions/noSuchMethod.html">/sdk-for-flutter-explore-routing-refreshrouteoptions-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-routing-refreshrouteoptions-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -198,7 +199,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../routing/RefreshRouteOptions/toString.html">/sdk-for-flutter-explore-routing-refreshrouteoptions-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-routing-refreshrouteoptions-tostring(<wbr/>)
     → String
 
 </dt>
@@ -212,7 +213,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-<a href="../routing/RefreshRouteOptions/operator_equals.html">/sdk-for-flutter-explore-routing-refreshrouteoptions-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-routing-refreshrouteoptions-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -230,8 +231,8 @@ Related APIs may change for new releases without a deprecation process.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
 <li class="self-crumb">RefreshRouteOptions class</li>
 </ol>
 <h5>routing library</h5>
@@ -248,4 +249,5 @@ Related APIs may change for new releases without a deprecation process.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

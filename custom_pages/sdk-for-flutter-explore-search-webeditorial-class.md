@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "WebEditorial class"
 slug: "sdk-for-flutter-explore-search-webeditorial-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- WebEditorial-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -28,8 +29,8 @@ slug: "sdk-for-flutter-explore-search-webeditorial-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
 <li class="self-crumb">WebEditorial class</li>
 </ol>
 <div class="self-name">WebEditorial</div>
@@ -59,13 +60,13 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="WebEditorial">
-<a href="../search/WebEditorial/WebEditorial.html">/sdk-for-flutter-explore-search-webeditorial-webeditorial</a>(String description, String language, <a href="../search/WebSource-class.html">/sdk-for-flutter-explore-search-websource-class</a> source)
+/sdk-for-flutter-explore-search-webeditorial-webeditorial(String description, String language, /sdk-for-flutter-explore-search-websource-class source)
 </dt>
 <dd>
           Creates a new instance.
         </dd>
 <dt class="callable" id="WebEditorial.withDefaults">
-<a href="../search/WebEditorial/WebEditorial.withDefaults.html">/sdk-for-flutter-explore-search-webeditorial-webeditorial-withdefaults</a>()
+/sdk-for-flutter-explore-search-webeditorial-webeditorial-withdefaults()
 </dt>
 <dd>
           Creates a new instance.
@@ -76,7 +77,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="description">
-<a href="../search/WebEditorial/description.html">/sdk-for-flutter-explore-search-webeditorial-description</a>
+/sdk-for-flutter-explore-search-webeditorial-description
 ↔ String
 </dt>
 <dd>
@@ -84,7 +85,7 @@ menu
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-<a href="../search/WebEditorial/hashCode.html">/sdk-for-flutter-explore-search-webeditorial-hashcode</a>
+/sdk-for-flutter-explore-search-webeditorial-hashcode
 → int
 </dt>
 <dd>
@@ -92,7 +93,7 @@ menu
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="language">
-<a href="../search/WebEditorial/language.html">/sdk-for-flutter-explore-search-webeditorial-language</a>
+/sdk-for-flutter-explore-search-webeditorial-language
 ↔ String
 </dt>
 <dd>
@@ -100,7 +101,7 @@ menu
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../search/WebEditorial/runtimeType.html">/sdk-for-flutter-explore-search-webeditorial-runtimetype</a>
+/sdk-for-flutter-explore-search-webeditorial-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -108,8 +109,8 @@ menu
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="source">
-<a href="../search/WebEditorial/source.html">/sdk-for-flutter-explore-search-webeditorial-source</a>
-↔ <a href="../search/WebSource-class.html">/sdk-for-flutter-explore-search-websource-class</a>
+/sdk-for-flutter-explore-search-webeditorial-source
+↔ /sdk-for-flutter-explore-search-websource-class
 </dt>
 <dd>
   Detailed information about editorial article.
@@ -121,7 +122,7 @@ menu
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../search/WebEditorial/noSuchMethod.html">/sdk-for-flutter-explore-search-webeditorial-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-search-webeditorial-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -130,7 +131,7 @@ menu
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../search/WebEditorial/toString.html">/sdk-for-flutter-explore-search-webeditorial-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-search-webeditorial-tostring(<wbr/>)
     → String
 
 </dt>
@@ -144,7 +145,7 @@ menu
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-<a href="../search/WebEditorial/operator_equals.html">/sdk-for-flutter-explore-search-webeditorial-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-search-webeditorial-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -163,8 +164,8 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
 <li class="self-crumb">WebEditorial class</li>
 </ol>
 <h5>search library</h5>
@@ -181,4 +182,5 @@ menu
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

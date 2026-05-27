@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "MeshBuilder class abstract"
 slug: "sdk-for-flutter-explore-mapview-meshbuilder-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- MeshBuilder-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -27,8 +28,8 @@ slug: "sdk-for-flutter-explore-mapview-meshbuilder-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
 <li class="self-crumb">MeshBuilder class</li>
 </ol>
 <div class="self-name">MeshBuilder</div>
@@ -55,9 +56,9 @@ menu
 <p>Builder for meshes.</p>
 <p>Such meshes can contain different kinds of primitives, like quads or
 triangles. Both primitives support adding texture coordinates that are mapped to the
-corners of the primitives. See <a href="../mapview/TriangleMeshBuilder-class.html">/sdk-for-flutter-explore-mapview-trianglemeshbuilder-class</a> and <a href="../mapview/QuadMeshBuilder-class.html">/sdk-for-flutter-explore-mapview-quadmeshbuilder-class</a> for more details.</p>
-<p>Note: Normals cannot be set as they are not necessary when using the <a href="../mapview/MeshBuilder-class.html">/sdk-for-flutter-explore-mapview-meshbuilder-class</a>.</p>
-<p>Example how to build a cube using <a href="../mapview/QuadMeshBuilder-class.html">/sdk-for-flutter-explore-mapview-quadmeshbuilder-class</a></p>
+corners of the primitives. See /sdk-for-flutter-explore-mapview-trianglemeshbuilder-class and /sdk-for-flutter-explore-mapview-quadmeshbuilder-class for more details.</p>
+<p>Note: Normals cannot be set as they are not necessary when using the /sdk-for-flutter-explore-mapview-meshbuilder-class.</p>
+<p>Example how to build a cube using /sdk-for-flutter-explore-mapview-quadmeshbuilder-class</p>
 <pre class="language-dart"><code>Mesh? cube = MeshBuilder()
       .quad(Point3D(0.5, 0.5, 0.5),
             Point3D(-0.5, 0.5, 0.5),
@@ -90,8 +91,8 @@ corners of the primitives. See <a href="../mapview/TriangleMeshBuilder-class.htm
 <dl class="dl-horizontal">
 <dt>Implementers</dt>
 <dd><ul class="comma-separated clazz-relationships">
-<li><a href="../mapview/QuadMeshBuilder-class.html">/sdk-for-flutter-explore-mapview-quadmeshbuilder-class</a></li>
-<li><a href="../mapview/TriangleMeshBuilder-class.html">/sdk-for-flutter-explore-mapview-trianglemeshbuilder-class</a></li>
+<li>/sdk-for-flutter-explore-mapview-quadmeshbuilder-class</li>
+<li>/sdk-for-flutter-explore-mapview-trianglemeshbuilder-class</li>
 </ul></dd>
 </dl>
 </section>
@@ -99,7 +100,7 @@ corners of the primitives. See <a href="../mapview/TriangleMeshBuilder-class.htm
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="MeshBuilder">
-<a href="../mapview/MeshBuilder/MeshBuilder.html">/sdk-for-flutter-explore-mapview-meshbuilder-meshbuilder</a>()
+/sdk-for-flutter-explore-mapview-meshbuilder-meshbuilder()
 </dt>
 <dd>
           Constructs an instance of MeshBuilder.
@@ -111,7 +112,7 @@ corners of the primitives. See <a href="../mapview/TriangleMeshBuilder-class.htm
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="hashCode">
-<a href="../mapview/MeshBuilder/hashCode.html">/sdk-for-flutter-explore-mapview-meshbuilder-hashcode</a>
+/sdk-for-flutter-explore-mapview-meshbuilder-hashcode
 → int
 </dt>
 <dd class="inherited">
@@ -119,7 +120,7 @@ corners of the primitives. See <a href="../mapview/TriangleMeshBuilder-class.htm
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../mapview/MeshBuilder/runtimeType.html">/sdk-for-flutter-explore-mapview-meshbuilder-runtimetype</a>
+/sdk-for-flutter-explore-mapview-meshbuilder-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -132,17 +133,17 @@ corners of the primitives. See <a href="../mapview/TriangleMeshBuilder-class.htm
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable" id="build">
-<a href="../mapview/MeshBuilder/build.html">/sdk-for-flutter-explore-mapview-meshbuilder-build</a>(<wbr/>)
-    → <a href="../mapview/Mesh-class.html">/sdk-for-flutter-explore-mapview-mesh-class</a>?
+/sdk-for-flutter-explore-mapview-meshbuilder-build(<wbr/>)
+    → /sdk-for-flutter-explore-mapview-mesh-class?
 
 </dt>
 <dd>
-  Returns <a href="../mapview/Mesh-class.html">/sdk-for-flutter-explore-mapview-mesh-class</a>. mesh containing added geometry or 'null' if no geometry was added.
+  Returns /sdk-for-flutter-explore-mapview-mesh-class. mesh containing added geometry or 'null' if no geometry was added.
   
 
 </dd>
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../mapview/MeshBuilder/noSuchMethod.html">/sdk-for-flutter-explore-mapview-meshbuilder-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-mapview-meshbuilder-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -151,8 +152,9 @@ corners of the primitives. See <a href="../mapview/TriangleMeshBuilder-class.htm
   <div class="features">inherited</div>
 </dd>
 <dt class="callable" id="quad">
-<a href="../mapview/MeshBuilder/quad.html">/sdk-for-flutter-explore-mapview-meshbuilder-quad</a>(<wbr/><a href="../core/Point3D-class.html">/sdk-for-flutter-explore-core-point3d-class</a> a, <a href="../core/Point3D-class.html">/sdk-for-flutter-explore-core-point3d-class</a> b, <a href="../core/Point3D-class.html">/sdk-for-flutter-explore-core-point3d-class</a> c, <a href="../core/Point3D-class.html">/sdk-for-flutter-explore-core-point3d-class</a> d)
-    → <a href="../mapview/QuadMeshBuilder-class.html">/sdk-for-flutter-explore-mapview-quadmeshbuilder-class</a>
+/sdk-for-flutter-explore-mapview-meshbuilder-quad(<wbr/>/sdk-for-flutter-explore-core-point3d-class a, /sdk-for-flutter-explore-core-point3d-class b, /sdk-for-flutter-explore-core-point3d-class c, /sdk-for-flutter-explore-core-point3d-class d)
+    → /sdk-for-flutter-explore-mapview-quadmeshbuilder-class
+
 </dt>
 <dd>
   Adds a quad.
@@ -160,7 +162,7 @@ corners of the primitives. See <a href="../mapview/TriangleMeshBuilder-class.htm
 
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../mapview/MeshBuilder/toString.html">/sdk-for-flutter-explore-mapview-meshbuilder-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-mapview-meshbuilder-tostring(<wbr/>)
     → String
 
 </dt>
@@ -169,8 +171,9 @@ corners of the primitives. See <a href="../mapview/TriangleMeshBuilder-class.htm
   <div class="features">inherited</div>
 </dd>
 <dt class="callable" id="triangle">
-<a href="../mapview/MeshBuilder/triangle.html">/sdk-for-flutter-explore-mapview-meshbuilder-triangle</a>(<wbr/><a href="../core/Point3D-class.html">/sdk-for-flutter-explore-core-point3d-class</a> a, <a href="../core/Point3D-class.html">/sdk-for-flutter-explore-core-point3d-class</a> b, <a href="../core/Point3D-class.html">/sdk-for-flutter-explore-core-point3d-class</a> c)
-    → <a href="../mapview/TriangleMeshBuilder-class.html">/sdk-for-flutter-explore-mapview-trianglemeshbuilder-class</a>
+/sdk-for-flutter-explore-mapview-meshbuilder-triangle(<wbr/>/sdk-for-flutter-explore-core-point3d-class a, /sdk-for-flutter-explore-core-point3d-class b, /sdk-for-flutter-explore-core-point3d-class c)
+    → /sdk-for-flutter-explore-mapview-trianglemeshbuilder-class
+
 </dt>
 <dd>
   Adds a triangle.
@@ -183,7 +186,7 @@ corners of the primitives. See <a href="../mapview/TriangleMeshBuilder-class.htm
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-<a href="../mapview/MeshBuilder/operator_equals.html">/sdk-for-flutter-explore-mapview-meshbuilder-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-mapview-meshbuilder-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -201,8 +204,8 @@ corners of the primitives. See <a href="../mapview/TriangleMeshBuilder-class.htm
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
 <li class="self-crumb">MeshBuilder class</li>
 </ol>
 <h5>mapview library</h5>
@@ -219,4 +222,5 @@ corners of the primitives. See <a href="../mapview/TriangleMeshBuilder-class.htm
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "Anchor2D class"
 slug: "sdk-for-flutter-explore-core-anchor2d-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- Anchor2D-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -27,8 +28,8 @@ slug: "sdk-for-flutter-explore-core-anchor2d-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
 <li class="self-crumb">Anchor2D class</li>
 </ol>
 <div class="self-name">Anchor2D</div>
@@ -58,14 +59,14 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="Anchor2D">
-<a href="../core/Anchor2D/Anchor2D.html">/sdk-for-flutter-explore-core-anchor2d-anchor2d</a>()
+/sdk-for-flutter-explore-core-anchor2d-anchor2d()
 </dt>
 <dd>
           Creates a new instance of an Anchor2D with the default parameters
             <div class="constructor-modifier features">factory</div>
 </dd>
 <dt class="callable" id="Anchor2D.withHorizontalAndVertical">
-<a href="../core/Anchor2D/Anchor2D.withHorizontalAndVertical.html">/sdk-for-flutter-explore-core-anchor2d-anchor2d-withhorizontalandvertical</a>(double horizontal, double vertical)
+/sdk-for-flutter-explore-core-anchor2d-anchor2d-withhorizontalandvertical(double horizontal, double vertical)
 </dt>
 <dd>
           Creates a new instance of an Anchor2D.
@@ -77,7 +78,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="hashCode">
-<a href="../core/Anchor2D/hashCode.html">/sdk-for-flutter-explore-core-anchor2d-hashcode</a>
+/sdk-for-flutter-explore-core-anchor2d-hashcode
 → int
 </dt>
 <dd>
@@ -85,7 +86,7 @@ menu
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="horizontal">
-<a href="../core/Anchor2D/horizontal.html">/sdk-for-flutter-explore-core-anchor2d-horizontal</a>
+/sdk-for-flutter-explore-core-anchor2d-horizontal
 ↔ double
 </dt>
 <dd>
@@ -93,7 +94,7 @@ menu
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../core/Anchor2D/runtimeType.html">/sdk-for-flutter-explore-core-anchor2d-runtimetype</a>
+/sdk-for-flutter-explore-core-anchor2d-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -101,7 +102,7 @@ menu
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="vertical">
-<a href="../core/Anchor2D/vertical.html">/sdk-for-flutter-explore-core-anchor2d-vertical</a>
+/sdk-for-flutter-explore-core-anchor2d-vertical
 ↔ double
 </dt>
 <dd>
@@ -114,7 +115,7 @@ menu
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../core/Anchor2D/noSuchMethod.html">/sdk-for-flutter-explore-core-anchor2d-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-core-anchor2d-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -123,7 +124,7 @@ menu
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../core/Anchor2D/toString.html">/sdk-for-flutter-explore-core-anchor2d-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-core-anchor2d-tostring(<wbr/>)
     → String
 
 </dt>
@@ -137,7 +138,7 @@ menu
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-<a href="../core/Anchor2D/operator_equals.html">/sdk-for-flutter-explore-core-anchor2d-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-core-anchor2d-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -156,8 +157,8 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
 <li class="self-crumb">Anchor2D class</li>
 </ol>
 <h5>core library</h5>
@@ -174,4 +175,5 @@ menu
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

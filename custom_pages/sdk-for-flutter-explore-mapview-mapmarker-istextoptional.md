@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "isTextOptional property"
 slug: "sdk-for-flutter-explore-mapview-mapmarker-istextoptional"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- isTextOptional.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-mapmarker-istextoptional"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapMarker-class.html">/sdk-for-flutter-explore-mapview-mapmarker-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapmarker-class</li>
 <li class="self-crumb">isTextOptional property</li>
 </ol>
 <div class="self-name">isTextOptional</div>
@@ -59,7 +60,7 @@ isTextOptional=(<wbr/>bool value)
 <section class="desc markdown">
 <p>Determines if the marker can be displayed with icon and without text.
 Sets whether the marker is allowed to appear without text.</p>
-<p>Controls whenever <code>MapMarker</code> can be shown as icon only when <a href="../../mapview/MapMarker/isOverlapAllowed.html">/sdk-for-flutter-explore-mapview-mapmarker-isoverlapallowed</a>
+<p>Controls whenever <code>MapMarker</code> can be shown as icon only when /sdk-for-flutter-explore-mapview-mapmarker-isoverlapallowed
 is <code>false</code>, has no effect otherwise. If <code>false</code> then the <code>MapMarker</code> will not appear
 when icon or text are blocked by other labels.
 If <code>true</code>, icon will appear even if the text part is blocked by other labels.</p>
@@ -77,9 +78,9 @@ If <code>true</code>, icon will appear even if the text part is blocked by other
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapMarker-class.html">/sdk-for-flutter-explore-mapview-mapmarker-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapmarker-class</li>
 <li class="self-crumb">isTextOptional property</li>
 </ol>
 <h5>MapMarker class</h5>
@@ -96,4 +97,5 @@ If <code>true</code>, icon will appear even if the text part is blocked by other
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

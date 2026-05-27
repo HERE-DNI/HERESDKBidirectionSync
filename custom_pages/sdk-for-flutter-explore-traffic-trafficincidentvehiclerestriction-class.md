@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "TrafficIncidentVehicleRestriction class"
 slug: "sdk-for-flutter-explore-traffic-trafficincidentvehiclerestriction-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- TrafficIncidentVehicleRestriction-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -52,8 +53,8 @@ slug: "sdk-for-flutter-explore-traffic-trafficincidentvehiclerestriction-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../traffic/traffic-library.html">/sdk-for-flutter-explore-traffic-traffic-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-traffic-traffic-library</li>
 <li class="self-crumb">TrafficIncidentVehicleRestriction class</li>
 </ol>
 <div class="self-name">TrafficIncidentVehicleRestriction</div>
@@ -83,7 +84,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="TrafficIncidentVehicleRestriction">
-<a href="../traffic/TrafficIncidentVehicleRestriction/TrafficIncidentVehicleRestriction.html">/sdk-for-flutter-explore-traffic-trafficincidentvehiclerestriction-trafficincidentvehiclerestriction</a>()
+/sdk-for-flutter-explore-traffic-trafficincidentvehiclerestriction-trafficincidentvehiclerestriction()
 </dt>
 <dd>
           Creates a new instance with default values.
@@ -94,7 +95,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="hashCode">
-<a href="../traffic/TrafficIncidentVehicleRestriction/hashCode.html">/sdk-for-flutter-explore-traffic-trafficincidentvehiclerestriction-hashcode</a>
+/sdk-for-flutter-explore-traffic-trafficincidentvehiclerestriction-hashcode
 → int
 </dt>
 <dd>
@@ -102,7 +103,7 @@ menu
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="isCaravanRestricted">
-<a href="../traffic/TrafficIncidentVehicleRestriction/isCaravanRestricted.html">/sdk-for-flutter-explore-traffic-trafficincidentvehiclerestriction-iscaravanrestricted</a>
+/sdk-for-flutter-explore-traffic-trafficincidentvehiclerestriction-iscaravanrestricted
 ↔ bool
 </dt>
 <dd>
@@ -110,7 +111,7 @@ menu
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="isDestinationInIncidentAreaRestricted">
-<a href="../traffic/TrafficIncidentVehicleRestriction/isDestinationInIncidentAreaRestricted.html">/sdk-for-flutter-explore-traffic-trafficincidentvehiclerestriction-isdestinationinincidentarearestricted</a>
+/sdk-for-flutter-explore-traffic-trafficincidentvehiclerestriction-isdestinationinincidentarearestricted
 ↔ bool
 </dt>
 <dd>
@@ -118,7 +119,7 @@ menu
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="isDieselFuelRestricted">
-<a href="../traffic/TrafficIncidentVehicleRestriction/isDieselFuelRestricted.html">/sdk-for-flutter-explore-traffic-trafficincidentvehiclerestriction-isdieselfuelrestricted</a>
+/sdk-for-flutter-explore-traffic-trafficincidentvehiclerestriction-isdieselfuelrestricted
 ↔ bool
 </dt>
 <dd>
@@ -126,7 +127,7 @@ menu
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="isDrivingWithoutSnowChainsRestricted">
-<a href="../traffic/TrafficIncidentVehicleRestriction/isDrivingWithoutSnowChainsRestricted.html">/sdk-for-flutter-explore-traffic-trafficincidentvehiclerestriction-isdrivingwithoutsnowchainsrestricted</a>
+/sdk-for-flutter-explore-traffic-trafficincidentvehiclerestriction-isdrivingwithoutsnowchainsrestricted
 ↔ bool
 </dt>
 <dd>
@@ -134,7 +135,7 @@ menu
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="isDrivingWithoutWinterTyresRestricted">
-<a href="../traffic/TrafficIncidentVehicleRestriction/isDrivingWithoutWinterTyresRestricted.html">/sdk-for-flutter-explore-traffic-trafficincidentvehiclerestriction-isdrivingwithoutwintertyresrestricted</a>
+/sdk-for-flutter-explore-traffic-trafficincidentvehiclerestriction-isdrivingwithoutwintertyresrestricted
 ↔ bool
 </dt>
 <dd>
@@ -142,7 +143,7 @@ menu
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="isEuro3EmissionStandardRestricted">
-<a href="../traffic/TrafficIncidentVehicleRestriction/isEuro3EmissionStandardRestricted.html">/sdk-for-flutter-explore-traffic-trafficincidentvehiclerestriction-iseuro3emissionstandardrestricted</a>
+/sdk-for-flutter-explore-traffic-trafficincidentvehiclerestriction-iseuro3emissionstandardrestricted
 ↔ bool
 </dt>
 <dd>
@@ -150,7 +151,7 @@ menu
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="isEuro4EmissionStandardRestricted">
-<a href="../traffic/TrafficIncidentVehicleRestriction/isEuro4EmissionStandardRestricted.html">/sdk-for-flutter-explore-traffic-trafficincidentvehiclerestriction-iseuro4emissionstandardrestricted</a>
+/sdk-for-flutter-explore-traffic-trafficincidentvehiclerestriction-iseuro4emissionstandardrestricted
 ↔ bool
 </dt>
 <dd>
@@ -158,7 +159,7 @@ menu
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="isEuro5EmissionStandardRestricted">
-<a href="../traffic/TrafficIncidentVehicleRestriction/isEuro5EmissionStandardRestricted.html">/sdk-for-flutter-explore-traffic-trafficincidentvehiclerestriction-iseuro5emissionstandardrestricted</a>
+/sdk-for-flutter-explore-traffic-trafficincidentvehiclerestriction-iseuro5emissionstandardrestricted
 ↔ bool
 </dt>
 <dd>
@@ -166,7 +167,7 @@ menu
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="isEvenNumberPlateRestricted">
-<a href="../traffic/TrafficIncidentVehicleRestriction/isEvenNumberPlateRestricted.html">/sdk-for-flutter-explore-traffic-trafficincidentvehiclerestriction-isevennumberplaterestricted</a>
+/sdk-for-flutter-explore-traffic-trafficincidentvehiclerestriction-isevennumberplaterestricted
 ↔ bool
 </dt>
 <dd>
@@ -174,7 +175,7 @@ menu
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="isLpgFuelRestricted">
-<a href="../traffic/TrafficIncidentVehicleRestriction/isLpgFuelRestricted.html">/sdk-for-flutter-explore-traffic-trafficincidentvehiclerestriction-islpgfuelrestricted</a>
+/sdk-for-flutter-explore-traffic-trafficincidentvehiclerestriction-islpgfuelrestricted
 ↔ bool
 </dt>
 <dd>
@@ -182,7 +183,7 @@ menu
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="isOddNumberPlateRestricted">
-<a href="../traffic/TrafficIncidentVehicleRestriction/isOddNumberPlateRestricted.html">/sdk-for-flutter-explore-traffic-trafficincidentvehiclerestriction-isoddnumberplaterestricted</a>
+/sdk-for-flutter-explore-traffic-trafficincidentvehiclerestriction-isoddnumberplaterestricted
 ↔ bool
 </dt>
 <dd>
@@ -190,7 +191,7 @@ menu
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="isPetrolFuelRestricted">
-<a href="../traffic/TrafficIncidentVehicleRestriction/isPetrolFuelRestricted.html">/sdk-for-flutter-explore-traffic-trafficincidentvehiclerestriction-ispetrolfuelrestricted</a>
+/sdk-for-flutter-explore-traffic-trafficincidentvehiclerestriction-ispetrolfuelrestricted
 ↔ bool
 </dt>
 <dd>
@@ -198,7 +199,7 @@ menu
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="isResidentsTrafficRestricted">
-<a href="../traffic/TrafficIncidentVehicleRestriction/isResidentsTrafficRestricted.html">/sdk-for-flutter-explore-traffic-trafficincidentvehiclerestriction-isresidentstrafficrestricted</a>
+/sdk-for-flutter-explore-traffic-trafficincidentvehiclerestriction-isresidentstrafficrestricted
 ↔ bool
 </dt>
 <dd>
@@ -206,7 +207,7 @@ menu
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="isRestrictedAlways">
-<a href="../traffic/TrafficIncidentVehicleRestriction/isRestrictedAlways.html">/sdk-for-flutter-explore-traffic-trafficincidentvehiclerestriction-isrestrictedalways</a>
+/sdk-for-flutter-explore-traffic-trafficincidentvehiclerestriction-isrestrictedalways
 ↔ bool
 </dt>
 <dd>
@@ -214,7 +215,7 @@ menu
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="isThroughTrafficRestricted">
-<a href="../traffic/TrafficIncidentVehicleRestriction/isThroughTrafficRestricted.html">/sdk-for-flutter-explore-traffic-trafficincidentvehiclerestriction-isthroughtrafficrestricted</a>
+/sdk-for-flutter-explore-traffic-trafficincidentvehiclerestriction-isthroughtrafficrestricted
 ↔ bool
 </dt>
 <dd>
@@ -222,7 +223,7 @@ menu
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="isTrailerRestricted">
-<a href="../traffic/TrafficIncidentVehicleRestriction/isTrailerRestricted.html">/sdk-for-flutter-explore-traffic-trafficincidentvehiclerestriction-istrailerrestricted</a>
+/sdk-for-flutter-explore-traffic-trafficincidentvehiclerestriction-istrailerrestricted
 ↔ bool
 </dt>
 <dd>
@@ -230,7 +231,7 @@ menu
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="restrictedIfAxleWeightLessThanInKilograms">
-<a href="../traffic/TrafficIncidentVehicleRestriction/restrictedIfAxleWeightLessThanInKilograms.html">/sdk-for-flutter-explore-traffic-trafficincidentvehiclerestriction-restrictedifaxleweightlessthaninkilograms</a>
+/sdk-for-flutter-explore-traffic-trafficincidentvehiclerestriction-restrictedifaxleweightlessthaninkilograms
 ↔ int?
 </dt>
 <dd>
@@ -239,7 +240,7 @@ If the value is <code>null</code> the lower weight per axle bound is not specifi
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="restrictedIfAxleWeightMoreThanInKilograms">
-<a href="../traffic/TrafficIncidentVehicleRestriction/restrictedIfAxleWeightMoreThanInKilograms.html">/sdk-for-flutter-explore-traffic-trafficincidentvehiclerestriction-restrictedifaxleweightmorethaninkilograms</a>
+/sdk-for-flutter-explore-traffic-trafficincidentvehiclerestriction-restrictedifaxleweightmorethaninkilograms
 ↔ int?
 </dt>
 <dd>
@@ -248,7 +249,7 @@ If the value is <code>null</code> the upper weight per axle bound is not specifi
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="restrictedIfGrossWeightLessThanInKilograms">
-<a href="../traffic/TrafficIncidentVehicleRestriction/restrictedIfGrossWeightLessThanInKilograms.html">/sdk-for-flutter-explore-traffic-trafficincidentvehiclerestriction-restrictedifgrossweightlessthaninkilograms</a>
+/sdk-for-flutter-explore-traffic-trafficincidentvehiclerestriction-restrictedifgrossweightlessthaninkilograms
 ↔ int?
 </dt>
 <dd>
@@ -257,7 +258,7 @@ If the value is <code>null</code> the lower gross weight bound is not specified.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="restrictedIfGrossWeightMoreThanInKilograms">
-<a href="../traffic/TrafficIncidentVehicleRestriction/restrictedIfGrossWeightMoreThanInKilograms.html">/sdk-for-flutter-explore-traffic-trafficincidentvehiclerestriction-restrictedifgrossweightmorethaninkilograms</a>
+/sdk-for-flutter-explore-traffic-trafficincidentvehiclerestriction-restrictedifgrossweightmorethaninkilograms
 ↔ int?
 </dt>
 <dd>
@@ -266,7 +267,7 @@ If the value is <code>null</code> the upper gross weight bound is not specified.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="restrictedIfHigherThanInCentimeters">
-<a href="../traffic/TrafficIncidentVehicleRestriction/restrictedIfHigherThanInCentimeters.html">/sdk-for-flutter-explore-traffic-trafficincidentvehiclerestriction-restrictedifhigherthanincentimeters</a>
+/sdk-for-flutter-explore-traffic-trafficincidentvehiclerestriction-restrictedifhigherthanincentimeters
 ↔ int?
 </dt>
 <dd>
@@ -275,7 +276,7 @@ If the value is <code>null</code> the upper height bound is not specified.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="restrictedIfLongerThanInCentimeters">
-<a href="../traffic/TrafficIncidentVehicleRestriction/restrictedIfLongerThanInCentimeters.html">/sdk-for-flutter-explore-traffic-trafficincidentvehiclerestriction-restrictediflongerthanincentimeters</a>
+/sdk-for-flutter-explore-traffic-trafficincidentvehiclerestriction-restrictediflongerthanincentimeters
 ↔ int?
 </dt>
 <dd>
@@ -284,7 +285,7 @@ If the value is <code>null</code> the upper length bound is not specified.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="restrictedIfLowerThanInCentimeters">
-<a href="../traffic/TrafficIncidentVehicleRestriction/restrictedIfLowerThanInCentimeters.html">/sdk-for-flutter-explore-traffic-trafficincidentvehiclerestriction-restrictediflowerthanincentimeters</a>
+/sdk-for-flutter-explore-traffic-trafficincidentvehiclerestriction-restrictediflowerthanincentimeters
 ↔ int?
 </dt>
 <dd>
@@ -293,7 +294,7 @@ If the value is <code>null</code> the lower height bound is not specified.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="restrictedIfNarrowerThanInCentimeters">
-<a href="../traffic/TrafficIncidentVehicleRestriction/restrictedIfNarrowerThanInCentimeters.html">/sdk-for-flutter-explore-traffic-trafficincidentvehiclerestriction-restrictedifnarrowerthanincentimeters</a>
+/sdk-for-flutter-explore-traffic-trafficincidentvehiclerestriction-restrictedifnarrowerthanincentimeters
 ↔ int?
 </dt>
 <dd>
@@ -302,7 +303,7 @@ If the value is <code>null</code> the lower width bound is not specified.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="restrictedIfOccupantsFewerThan">
-<a href="../traffic/TrafficIncidentVehicleRestriction/restrictedIfOccupantsFewerThan.html">/sdk-for-flutter-explore-traffic-trafficincidentvehiclerestriction-restrictedifoccupantsfewerthan</a>
+/sdk-for-flutter-explore-traffic-trafficincidentvehiclerestriction-restrictedifoccupantsfewerthan
 ↔ int?
 </dt>
 <dd>
@@ -311,7 +312,7 @@ If the value is <code>null</code> the lower occupants bound is not specified.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="restrictedIfOccupantsMoreThan">
-<a href="../traffic/TrafficIncidentVehicleRestriction/restrictedIfOccupantsMoreThan.html">/sdk-for-flutter-explore-traffic-trafficincidentvehiclerestriction-restrictedifoccupantsmorethan</a>
+/sdk-for-flutter-explore-traffic-trafficincidentvehiclerestriction-restrictedifoccupantsmorethan
 ↔ int?
 </dt>
 <dd>
@@ -320,7 +321,7 @@ If the value is <code>null</code> the upper occupants bound is not specified.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="restrictedIfShorterThanInCentimeters">
-<a href="../traffic/TrafficIncidentVehicleRestriction/restrictedIfShorterThanInCentimeters.html">/sdk-for-flutter-explore-traffic-trafficincidentvehiclerestriction-restrictedifshorterthanincentimeters</a>
+/sdk-for-flutter-explore-traffic-trafficincidentvehiclerestriction-restrictedifshorterthanincentimeters
 ↔ int?
 </dt>
 <dd>
@@ -329,7 +330,7 @@ If the value is <code>null</code> the lower length bound is not specified.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="restrictedIfWiderThanInCentimeters">
-<a href="../traffic/TrafficIncidentVehicleRestriction/restrictedIfWiderThanInCentimeters.html">/sdk-for-flutter-explore-traffic-trafficincidentvehiclerestriction-restrictedifwiderthanincentimeters</a>
+/sdk-for-flutter-explore-traffic-trafficincidentvehiclerestriction-restrictedifwiderthanincentimeters
 ↔ int?
 </dt>
 <dd>
@@ -338,7 +339,7 @@ If the value is <code>null</code> the upper width bound is not specified.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../traffic/TrafficIncidentVehicleRestriction/runtimeType.html">/sdk-for-flutter-explore-traffic-trafficincidentvehiclerestriction-runtimetype</a>
+/sdk-for-flutter-explore-traffic-trafficincidentvehiclerestriction-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -351,7 +352,7 @@ If the value is <code>null</code> the upper width bound is not specified.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../traffic/TrafficIncidentVehicleRestriction/noSuchMethod.html">/sdk-for-flutter-explore-traffic-trafficincidentvehiclerestriction-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-traffic-trafficincidentvehiclerestriction-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -360,7 +361,7 @@ If the value is <code>null</code> the upper width bound is not specified.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../traffic/TrafficIncidentVehicleRestriction/toString.html">/sdk-for-flutter-explore-traffic-trafficincidentvehiclerestriction-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-traffic-trafficincidentvehiclerestriction-tostring(<wbr/>)
     → String
 
 </dt>
@@ -374,7 +375,7 @@ If the value is <code>null</code> the upper width bound is not specified.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-<a href="../traffic/TrafficIncidentVehicleRestriction/operator_equals.html">/sdk-for-flutter-explore-traffic-trafficincidentvehiclerestriction-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-traffic-trafficincidentvehiclerestriction-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -393,8 +394,8 @@ If the value is <code>null</code> the upper width bound is not specified.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../traffic/traffic-library.html">/sdk-for-flutter-explore-traffic-traffic-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-traffic-traffic-library</li>
 <li class="self-crumb">TrafficIncidentVehicleRestriction class</li>
 </ol>
 <h5>traffic library</h5>
@@ -411,4 +412,5 @@ If the value is <code>null</code> the upper width bound is not specified.
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

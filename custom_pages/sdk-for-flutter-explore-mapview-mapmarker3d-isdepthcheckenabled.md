@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "isDepthCheckEnabled property"
 slug: "sdk-for-flutter-explore-mapview-mapmarker3d-isdepthcheckenabled"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- isDepthCheckEnabled.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-mapmarker3d-isdepthcheckenabled"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapMarker3D-class.html">/sdk-for-flutter-explore-mapview-mapmarker3d-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapmarker3d-class</li>
 <li class="self-crumb">isDepthCheckEnabled property</li>
 </ol>
 <div class="self-name">isDepthCheckEnabled</div>
@@ -46,7 +47,7 @@ isDepthCheckEnabled
 If set to <code>false</code>, the 3D marker will always appear in front of any other map objects.
 If set to <code>true</code> the 3D marker might be occluded by other map objects like extruded buildings.</p>
 <p>By default depth check is set to <code>false</code>.</p>
-<p>Use the altitude of the <a href="../../mapview/MapMarker3D/coordinates.html">/sdk-for-flutter-explore-mapview-mapmarker3d-coordinates</a> to position the 3D marker sufficiently high above the
+<p>Use the altitude of the /sdk-for-flutter-explore-mapview-mapmarker3d-coordinates to position the 3D marker sufficiently high above the
 surface. Setting depth check to <code>true</code> will fix visual glitches where components of the marker
 3D model unexpectedly shine through.
 Returns <code>true</code> if depth check is enabled.</p>
@@ -66,7 +67,7 @@ isDepthCheckEnabled=(<wbr/>bool value)
 If set to <code>false</code>, the 3D marker will always appear in front of any other map objects.
 If set to <code>true</code> the 3D marker might be occluded by other map objects like extruded buildings.</p>
 <p>By default depth check is set to <code>false</code>.</p>
-<p>Use the altitude of the <a href="../../mapview/MapMarker3D/coordinates.html">/sdk-for-flutter-explore-mapview-mapmarker3d-coordinates</a> to position the 3D marker sufficiently high above the
+<p>Use the altitude of the /sdk-for-flutter-explore-mapview-mapmarker3d-coordinates to position the 3D marker sufficiently high above the
 surface. Setting depth check to <code>true</code> will fix visual glitches where components of the marker
 3D model unexpectedly shine through.
 Set whether the depth of the 3D marker's vertices is considered during rendering.</p>
@@ -84,9 +85,9 @@ Set whether the depth of the 3D marker's vertices is considered during rendering
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapMarker3D-class.html">/sdk-for-flutter-explore-mapview-mapmarker3d-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapmarker3d-class</li>
 <li class="self-crumb">isDepthCheckEnabled property</li>
 </ol>
 <h5>MapMarker3D class</h5>
@@ -103,4 +104,5 @@ Set whether the depth of the 3D marker's vertices is considered during rendering
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

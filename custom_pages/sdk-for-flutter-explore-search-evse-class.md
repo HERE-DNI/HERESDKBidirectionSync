@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "Evse class"
 slug: "sdk-for-flutter-explore-search-evse-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- Evse-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -30,8 +31,8 @@ slug: "sdk-for-flutter-explore-search-evse-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
 <li class="self-crumb">Evse class</li>
 </ol>
 <div class="self-name">Evse</div>
@@ -61,7 +62,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="Evse">
-<a href="../search/Evse/Evse.html">/sdk-for-flutter-explore-search-evse-evse</a>()
+/sdk-for-flutter-explore-search-evse-evse()
 </dt>
 <dd>
 </dd>
@@ -71,15 +72,15 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="connectors">
-<a href="../search/Evse/connectors.html">/sdk-for-flutter-explore-search-evse-connectors</a>
-↔ List&lt;<wbr/><a href="../search/EVSEConnector-class.html">/sdk-for-flutter-explore-search-evseconnector-class</a>&gt;
+/sdk-for-flutter-explore-search-evse-connectors
+↔ List&lt;<wbr/>/sdk-for-flutter-explore-search-evseconnector-class&gt;
 </dt>
 <dd>
   List of connectors of this EVSE.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="cpoEvseEmi3Id">
-<a href="../search/Evse/cpoEvseEmi3Id.html">/sdk-for-flutter-explore-search-evse-cpoevseemi3id</a>
+/sdk-for-flutter-explore-search-evse-cpoevseemi3id
 ↔ String?
 </dt>
 <dd>
@@ -89,7 +90,7 @@ Example of ID format: <code>DE*ICT*E0001897</code>.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="cpoId">
-<a href="../search/Evse/cpoId.html">/sdk-for-flutter-explore-search-evse-cpoid</a>
+/sdk-for-flutter-explore-search-evse-cpoid
 ↔ String?
 </dt>
 <dd>
@@ -100,7 +101,7 @@ This ID is always provided.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-<a href="../search/Evse/hashCode.html">/sdk-for-flutter-explore-search-evse-hashcode</a>
+/sdk-for-flutter-explore-search-evse-hashcode
 → int
 </dt>
 <dd>
@@ -108,7 +109,7 @@ This ID is always provided.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="id">
-<a href="../search/Evse/id.html">/sdk-for-flutter-explore-search-evse-id</a>
+/sdk-for-flutter-explore-search-evse-id
 ↔ String?
 </dt>
 <dd>
@@ -116,7 +117,7 @@ This ID is always provided.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="lastUpdated">
-<a href="../search/Evse/lastUpdated.html">/sdk-for-flutter-explore-search-evse-lastupdated</a>
+/sdk-for-flutter-explore-search-evse-lastupdated
 ↔ DateTime?
 </dt>
 <dd>
@@ -124,7 +125,7 @@ This ID is always provided.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../search/Evse/runtimeType.html">/sdk-for-flutter-explore-search-evse-runtimetype</a>
+/sdk-for-flutter-explore-search-evse-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -132,8 +133,8 @@ This ID is always provided.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="status">
-<a href="../search/Evse/status.html">/sdk-for-flutter-explore-search-evse-status</a>
-↔ <a href="../search/EVSEStatus.html">/sdk-for-flutter-explore-search-evsestatus</a>?
+/sdk-for-flutter-explore-search-evse-status
+↔ /sdk-for-flutter-explore-search-evsestatus?
 </dt>
 <dd>
   EVSE status.
@@ -145,7 +146,7 @@ This ID is always provided.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../search/Evse/noSuchMethod.html">/sdk-for-flutter-explore-search-evse-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-search-evse-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -154,7 +155,7 @@ This ID is always provided.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../search/Evse/toString.html">/sdk-for-flutter-explore-search-evse-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-search-evse-tostring(<wbr/>)
     → String
 
 </dt>
@@ -168,7 +169,7 @@ This ID is always provided.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-<a href="../search/Evse/operator_equals.html">/sdk-for-flutter-explore-search-evse-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-search-evse-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -187,8 +188,8 @@ This ID is always provided.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
 <li class="self-crumb">Evse class</li>
 </ol>
 <h5>search library</h5>
@@ -205,4 +206,5 @@ This ID is always provided.
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

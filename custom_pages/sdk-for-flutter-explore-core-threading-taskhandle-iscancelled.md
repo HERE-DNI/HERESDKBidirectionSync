@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "isCancelled property"
 slug: "sdk-for-flutter-explore-core-threading-taskhandle-iscancelled"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- isCancelled.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-core-threading-taskhandle-iscancelled"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core.threading/core.threading-library.html">/sdk-for-flutter-explore-core-threading-core-threading-library</a></li>
-<li><a href="../../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-threading-core-threading-library</li>
+<li>/sdk-for-flutter-explore-core-threading-taskhandle-class</li>
 <li class="self-crumb">isCancelled property</li>
 </ol>
 <div class="self-name">isCancelled</div>
@@ -59,9 +60,9 @@ Gets a boolean indicating if this task is cancelled.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core.threading/core.threading-library.html">/sdk-for-flutter-explore-core-threading-core-threading-library</a></li>
-<li><a href="../../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-threading-core-threading-library</li>
+<li>/sdk-for-flutter-explore-core-threading-taskhandle-class</li>
 <li class="self-crumb">isCancelled property</li>
 </ol>
 <h5>TaskHandle class</h5>
@@ -78,4 +79,5 @@ Gets a boolean indicating if this task is cancelled.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

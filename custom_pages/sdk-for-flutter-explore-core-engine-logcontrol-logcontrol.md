@@ -3,7 +3,8 @@ title: "LogControl constructor"
 slug: "sdk-for-flutter-explore-core-engine-logcontrol-logcontrol"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- LogControl.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-core-engine-logcontrol-logcontrol"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
-<li><a href="../../core.engine/LogControl-class.html">/sdk-for-flutter-explore-core-engine-logcontrol-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
+<li>/sdk-for-flutter-explore-core-engine-logcontrol-class</li>
 <li class="self-crumb">LogControl constructor</li>
 </ol>
 <div class="self-name">LogControl</div>
@@ -47,9 +48,9 @@ LogControl(<wbr/>)
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
-<li><a href="../../core.engine/LogControl-class.html">/sdk-for-flutter-explore-core-engine-logcontrol-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
+<li>/sdk-for-flutter-explore-core-engine-logcontrol-class</li>
 <li class="self-crumb">LogControl constructor</li>
 </ol>
 <h5>LogControl class</h5>
@@ -66,4 +67,5 @@ LogControl(<wbr/>)
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

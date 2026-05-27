@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "fromString static method"
 slug: "sdk-for-flutter-explore-routing-segmentreference-fromstring"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- fromString.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-routing-segmentreference-fromstring"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/SegmentReference-class.html">/sdk-for-flutter-explore-routing-segmentreference-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-segmentreference-class</li>
 <li class="self-crumb">fromString static method</li>
 </ol>
 <div class="self-name">fromString</div>
@@ -37,7 +38,7 @@ menu
 <div>
 <h1>fromString static method</h1></div>
 <section class="multi-line-signature">
-<a href="../../routing/SegmentReference-class.html">/sdk-for-flutter-explore-routing-segmentreference-class</a>?
+/sdk-for-flutter-explore-routing-segmentreference-class?
 fromString(<wbr/><ol class="parameter-list single-line"> <li>String segmentRef</li>
 </ol>)
 
@@ -49,7 +50,7 @@ fromString(<wbr/><ol class="parameter-list single-line"> <li>String segmentRef</
 <ul>
 <li><code>segmentRef</code> The string to parse</li>
 </ul>
-<p>Returns <a href="../../routing/SegmentReference-class.html">/sdk-for-flutter-explore-routing-segmentreference-class</a>. An instance of <a href="../../routing/SegmentReference-class.html">/sdk-for-flutter-explore-routing-segmentreference-class</a> from a string if it's well-formatted, <code>null</code> otherwise.</p>
+<p>Returns /sdk-for-flutter-explore-routing-segmentreference-class. An instance of /sdk-for-flutter-explore-routing-segmentreference-class from a string if it's well-formatted, <code>null</code> otherwise.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -63,9 +64,9 @@ fromString(<wbr/><ol class="parameter-list single-line"> <li>String segmentRef</
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/SegmentReference-class.html">/sdk-for-flutter-explore-routing-segmentreference-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-segmentreference-class</li>
 <li class="self-crumb">fromString static method</li>
 </ol>
 <h5>SegmentReference class</h5>
@@ -82,4 +83,5 @@ fromString(<wbr/><ol class="parameter-list single-line"> <li>String segmentRef</
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "CategoryQuery class"
 slug: "sdk-for-flutter-explore-search-categoryquery-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- CategoryQuery-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -36,8 +37,8 @@ slug: "sdk-for-flutter-explore-search-categoryquery-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
 <li class="self-crumb">CategoryQuery class</li>
 </ol>
 <div class="self-name">CategoryQuery</div>
@@ -67,28 +68,28 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="CategoryQuery.withCategoriesAndFilterInArea">
-<a href="../search/CategoryQuery/CategoryQuery.withCategoriesAndFilterInArea.html">/sdk-for-flutter-explore-search-categoryquery-categoryquery-withcategoriesandfilterinarea</a>(List&lt;<wbr/><a href="../search/PlaceCategory-class.html">/sdk-for-flutter-explore-search-placecategory-class</a>&gt; categories, String filter, <a href="../search/CategoryQueryArea-class.html">/sdk-for-flutter-explore-search-categoryqueryarea-class</a> area)
+/sdk-for-flutter-explore-search-categoryquery-categoryquery-withcategoriesandfilterinarea(List&lt;<wbr/>/sdk-for-flutter-explore-search-placecategory-class&gt; categories, String filter, /sdk-for-flutter-explore-search-categoryqueryarea-class area)
 </dt>
 <dd>
           Constructs a new instance of this class from provided parameters.
             <div class="constructor-modifier features">factory</div>
 </dd>
 <dt class="callable" id="CategoryQuery.withCategoriesInArea">
-<a href="../search/CategoryQuery/CategoryQuery.withCategoriesInArea.html">/sdk-for-flutter-explore-search-categoryquery-categoryquery-withcategoriesinarea</a>(List&lt;<wbr/><a href="../search/PlaceCategory-class.html">/sdk-for-flutter-explore-search-placecategory-class</a>&gt; categories, <a href="../search/CategoryQueryArea-class.html">/sdk-for-flutter-explore-search-categoryqueryarea-class</a> area)
+/sdk-for-flutter-explore-search-categoryquery-categoryquery-withcategoriesinarea(List&lt;<wbr/>/sdk-for-flutter-explore-search-placecategory-class&gt; categories, /sdk-for-flutter-explore-search-categoryqueryarea-class area)
 </dt>
 <dd>
           Constructs a new instance of this class from provided parameters.
             <div class="constructor-modifier features">factory</div>
 </dd>
 <dt class="callable" id="CategoryQuery.withCategoryAndFilterInArea">
-<a href="../search/CategoryQuery/CategoryQuery.withCategoryAndFilterInArea.html">/sdk-for-flutter-explore-search-categoryquery-categoryquery-withcategoryandfilterinarea</a>(<a href="../search/PlaceCategory-class.html">/sdk-for-flutter-explore-search-placecategory-class</a> category, String filter, <a href="../search/CategoryQueryArea-class.html">/sdk-for-flutter-explore-search-categoryqueryarea-class</a> area)
+/sdk-for-flutter-explore-search-categoryquery-categoryquery-withcategoryandfilterinarea(/sdk-for-flutter-explore-search-placecategory-class category, String filter, /sdk-for-flutter-explore-search-categoryqueryarea-class area)
 </dt>
 <dd>
           Constructs a new instance of this class from provided parameters.
             <div class="constructor-modifier features">factory</div>
 </dd>
 <dt class="callable" id="CategoryQuery.withCategoryInArea">
-<a href="../search/CategoryQuery/CategoryQuery.withCategoryInArea.html">/sdk-for-flutter-explore-search-categoryquery-categoryquery-withcategoryinarea</a>(<a href="../search/PlaceCategory-class.html">/sdk-for-flutter-explore-search-placecategory-class</a> category, <a href="../search/CategoryQueryArea-class.html">/sdk-for-flutter-explore-search-categoryqueryarea-class</a> area)
+/sdk-for-flutter-explore-search-categoryquery-categoryquery-withcategoryinarea(/sdk-for-flutter-explore-search-placecategory-class category, /sdk-for-flutter-explore-search-categoryqueryarea-class area)
 </dt>
 <dd>
           Constructs a new instance of this class from provided parameters.
@@ -100,16 +101,16 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="area">
-<a href="../search/CategoryQuery/area.html">/sdk-for-flutter-explore-search-categoryquery-area</a>
-↔ <a href="../search/CategoryQueryArea-class.html">/sdk-for-flutter-explore-search-categoryqueryarea-class</a>
+/sdk-for-flutter-explore-search-categoryquery-area
+↔ /sdk-for-flutter-explore-search-categoryqueryarea-class
 </dt>
 <dd>
   Area in which to provide the most relevant places.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="categories">
-<a href="../search/CategoryQuery/categories.html">/sdk-for-flutter-explore-search-categoryquery-categories</a>
-↔ List&lt;<wbr/><a href="../search/PlaceCategory-class.html">/sdk-for-flutter-explore-search-placecategory-class</a>&gt;
+/sdk-for-flutter-explore-search-categoryquery-categories
+↔ List&lt;<wbr/>/sdk-for-flutter-explore-search-placecategory-class&gt;
 </dt>
 <dd>
   List of categories to be included.
@@ -118,8 +119,8 @@ but none are in <code>CategoryQuery.excludeCategories</code>, that place will be
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="excludeCategories">
-<a href="../search/CategoryQuery/excludeCategories.html">/sdk-for-flutter-explore-search-categoryquery-excludecategories</a>
-↔ List&lt;<wbr/><a href="../search/PlaceCategory-class.html">/sdk-for-flutter-explore-search-placecategory-class</a>&gt;
+/sdk-for-flutter-explore-search-categoryquery-excludecategories
+↔ List&lt;<wbr/>/sdk-for-flutter-explore-search-placecategory-class&gt;
 </dt>
 <dd>
   List of categories and subcategories to be excluded.
@@ -131,8 +132,8 @@ This is especially useful for excluding specific subcategories from the main cat
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="excludeChains">
-<a href="../search/CategoryQuery/excludeChains.html">/sdk-for-flutter-explore-search-categoryquery-excludechains</a>
-↔ List&lt;<wbr/><a href="../search/PlaceChain-class.html">/sdk-for-flutter-explore-search-placechain-class</a>&gt;
+/sdk-for-flutter-explore-search-categoryquery-excludechains
+↔ List&lt;<wbr/>/sdk-for-flutter-explore-search-placechain-class&gt;
 </dt>
 <dd>
   List of chains to be excluded.
@@ -143,8 +144,8 @@ In short, an exclusion will always win over an inclusion.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="excludeFoodTypes">
-<a href="../search/CategoryQuery/excludeFoodTypes.html">/sdk-for-flutter-explore-search-categoryquery-excludefoodtypes</a>
-↔ List&lt;<wbr/><a href="../search/PlaceFoodType-class.html">/sdk-for-flutter-explore-search-placefoodtype-class</a>&gt;
+/sdk-for-flutter-explore-search-categoryquery-excludefoodtypes
+↔ List&lt;<wbr/>/sdk-for-flutter-explore-search-placefoodtype-class&gt;
 </dt>
 <dd>
   List of food types to be excluded.
@@ -155,7 +156,7 @@ In short, an exclusion will always win over an inclusion.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="filter">
-<a href="../search/CategoryQuery/filter.html">/sdk-for-flutter-explore-search-categoryquery-filter</a>
+/sdk-for-flutter-explore-search-categoryquery-filter
 ↔ String?
 </dt>
 <dd>
@@ -166,7 +167,7 @@ and results will be based on other parameters provided.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-<a href="../search/CategoryQuery/hashCode.html">/sdk-for-flutter-explore-search-categoryquery-hashcode</a>
+/sdk-for-flutter-explore-search-categoryquery-hashcode
 → int
 </dt>
 <dd>
@@ -174,8 +175,8 @@ and results will be based on other parameters provided.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="includeChains">
-<a href="../search/CategoryQuery/includeChains.html">/sdk-for-flutter-explore-search-categoryquery-includechains</a>
-↔ List&lt;<wbr/><a href="../search/PlaceChain-class.html">/sdk-for-flutter-explore-search-placechain-class</a>&gt;
+/sdk-for-flutter-explore-search-categoryquery-includechains
+↔ List&lt;<wbr/>/sdk-for-flutter-explore-search-placechain-class&gt;
 </dt>
 <dd>
   List of chains to be included.
@@ -184,8 +185,8 @@ but none are in <code>CategoryQuery.excludeChains</code>, that place will be inc
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="includeFoodTypes">
-<a href="../search/CategoryQuery/includeFoodTypes.html">/sdk-for-flutter-explore-search-categoryquery-includefoodtypes</a>
-↔ List&lt;<wbr/><a href="../search/PlaceFoodType-class.html">/sdk-for-flutter-explore-search-placefoodtype-class</a>&gt;
+/sdk-for-flutter-explore-search-categoryquery-includefoodtypes
+↔ List&lt;<wbr/>/sdk-for-flutter-explore-search-placefoodtype-class&gt;
 </dt>
 <dd>
   List of food types to be included.
@@ -194,8 +195,8 @@ but none are in <code>CategoryQuery.excludeFoodTypes</code>, that place will be 
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="placeFilter">
-<a href="../search/CategoryQuery/placeFilter.html">/sdk-for-flutter-explore-search-categoryquery-placefilter</a>
-↔ <a href="../search/PlaceFilter-class.html">/sdk-for-flutter-explore-search-placefilter-class</a>
+/sdk-for-flutter-explore-search-categoryquery-placefilter
+↔ /sdk-for-flutter-explore-search-placefilter-class
 </dt>
 <dd>
   The filter options to specify a place in query.
@@ -203,7 +204,7 @@ Consists of fuel and truck options.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../search/CategoryQuery/runtimeType.html">/sdk-for-flutter-explore-search-categoryquery-runtimetype</a>
+/sdk-for-flutter-explore-search-categoryquery-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -216,7 +217,7 @@ Consists of fuel and truck options.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../search/CategoryQuery/noSuchMethod.html">/sdk-for-flutter-explore-search-categoryquery-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-search-categoryquery-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -225,7 +226,7 @@ Consists of fuel and truck options.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../search/CategoryQuery/toString.html">/sdk-for-flutter-explore-search-categoryquery-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-search-categoryquery-tostring(<wbr/>)
     → String
 
 </dt>
@@ -239,7 +240,7 @@ Consists of fuel and truck options.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-<a href="../search/CategoryQuery/operator_equals.html">/sdk-for-flutter-explore-search-categoryquery-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-search-categoryquery-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -258,8 +259,8 @@ Consists of fuel and truck options.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
 <li class="self-crumb">CategoryQuery class</li>
 </ol>
 <h5>search library</h5>
@@ -276,4 +277,5 @@ Consists of fuel and truck options.
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

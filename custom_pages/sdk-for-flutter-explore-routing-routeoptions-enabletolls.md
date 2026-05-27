@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "enableTolls property"
 slug: "sdk-for-flutter-explore-routing-routeoptions-enabletolls"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- enableTolls.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-routing-routeoptions-enabletolls"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/RouteOptions-class.html">/sdk-for-flutter-explore-routing-routeoptions-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-routeoptions-class</li>
 <li class="self-crumb">enableTolls property</li>
 </ol>
 <div class="self-name">enableTolls</div>
@@ -43,7 +44,7 @@ menu
 <div class="features">getter/setter pair</div>
 </section>
 <section class="desc markdown">
-<p>A flag that indicates whether the resulting route <a href="../../routing/Section/tolls.html">/sdk-for-flutter-explore-routing-section-tolls</a> properties should contain
+<p>A flag that indicates whether the resulting route /sdk-for-flutter-explore-routing-section-tolls properties should contain
 tolls data. Defaults to <code>false</code>.</p>
 <p><strong>Note:</strong> When a route calculation request asks tolls, a pricing scheme with higher rates might be applied.
 Consult your HERE representative to get more information on the related pricing schemes.</p>
@@ -62,9 +63,9 @@ so there could be a few bugs and unexpected behaviors. The <code>OfflineRoutingE
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/RouteOptions-class.html">/sdk-for-flutter-explore-routing-routeoptions-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-routeoptions-class</li>
 <li class="self-crumb">enableTolls property</li>
 </ol>
 <h5>RouteOptions class</h5>
@@ -81,4 +82,5 @@ so there could be a few bugs and unexpected behaviors. The <code>OfflineRoutingE
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

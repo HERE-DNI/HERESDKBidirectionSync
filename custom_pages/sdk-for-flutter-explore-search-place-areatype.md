@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "areaType property"
 slug: "sdk-for-flutter-explore-search-place-areatype"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- areaType.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-search-place-areatype"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/Place-class.html">/sdk-for-flutter-explore-search-place-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-place-class</li>
 <li class="self-crumb">areaType property</li>
 </ol>
 <div class="self-name">areaType</div>
@@ -38,12 +39,12 @@ menu
 <h1>areaType property</h1></div>
 <section id="getter">
 <section class="multi-line-signature">
-<a href="../../search/AreaType.html">/sdk-for-flutter-explore-search-areatype</a>?
+/sdk-for-flutter-explore-search-areatype?
 areaType
 </section>
 <section class="desc markdown">
-<p>The area type. It is available only when the <a href="../../search/Place/placeType.html">/sdk-for-flutter-explore-search-place-placetype</a> is <a href="../../search/PlaceType.html">/sdk-for-flutter-explore-search-placetype</a>.
-Gets the area type. It is available only when the <a href="../../search/Place/placeType.html">/sdk-for-flutter-explore-search-place-placetype</a> is <a href="../../search/PlaceType.html">/sdk-for-flutter-explore-search-placetype</a>.</p>
+<p>The area type. It is available only when the /sdk-for-flutter-explore-search-place-placetype is /sdk-for-flutter-explore-search-placetype.
+Gets the area type. It is available only when the /sdk-for-flutter-explore-search-place-placetype is /sdk-for-flutter-explore-search-placetype.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -58,9 +59,9 @@ Gets the area type. It is available only when the <a href="../../search/Place/pl
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/Place-class.html">/sdk-for-flutter-explore-search-place-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-place-class</li>
 <li class="self-crumb">areaType property</li>
 </ol>
 <h5>Place class</h5>
@@ -77,4 +78,5 @@ Gets the area type. It is available only when the <a href="../../search/Place/pl
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

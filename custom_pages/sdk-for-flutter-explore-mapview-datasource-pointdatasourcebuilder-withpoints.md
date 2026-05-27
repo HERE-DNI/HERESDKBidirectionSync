@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "withPoints abstract method"
 slug: "sdk-for-flutter-explore-mapview-datasource-pointdatasourcebuilder-withpoints"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- withPoints.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-datasource-pointdatasourcebuilder-withpoi
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
-<li><a href="../../mapview.datasource/PointDataSourceBuilder-class.html">/sdk-for-flutter-explore-mapview-datasource-pointdatasourcebuilder-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-pointdatasourcebuilder-class</li>
 <li class="self-crumb">withPoints abstract method</li>
 </ol>
 <div class="self-name">withPoints</div>
@@ -37,8 +38,8 @@ menu
 <div>
 <h1>withPoints abstract method</h1></div>
 <section class="multi-line-signature">
-<a href="../../mapview.datasource/PointDataSourceBuilder-class.html">/sdk-for-flutter-explore-mapview-datasource-pointdatasourcebuilder-class</a>
-withPoints(<wbr/><ol class="parameter-list single-line"> <li>List&lt;<wbr/><a href="../../mapview.datasource/PointData-class.html">/sdk-for-flutter-explore-mapview-datasource-pointdata-class</a>&gt; points</li>
+/sdk-for-flutter-explore-mapview-datasource-pointdatasourcebuilder-class
+withPoints(<wbr/><ol class="parameter-list single-line"> <li>List&lt;<wbr/>/sdk-for-flutter-explore-mapview-datasource-pointdata-class&gt; points</li>
 </ol>)
 
       
@@ -49,7 +50,7 @@ withPoints(<wbr/><ol class="parameter-list single-line"> <li>List&lt;<wbr/><a hr
 <ul>
 <li><code>points</code> Points to be added.</li>
 </ul>
-<p>Returns <a href="../../mapview.datasource/PointDataSourceBuilder-class.html">/sdk-for-flutter-explore-mapview-datasource-pointdatasourcebuilder-class</a>. This data source builder instance.</p>
+<p>Returns /sdk-for-flutter-explore-mapview-datasource-pointdatasourcebuilder-class. This data source builder instance.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -63,9 +64,9 @@ withPoints(<wbr/><ol class="parameter-list single-line"> <li>List&lt;<wbr/><a hr
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
-<li><a href="../../mapview.datasource/PointDataSourceBuilder-class.html">/sdk-for-flutter-explore-mapview-datasource-pointdatasourcebuilder-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-pointdatasourcebuilder-class</li>
 <li class="self-crumb">withPoints abstract method</li>
 </ol>
 <h5>PointDataSourceBuilder class</h5>
@@ -82,4 +83,5 @@ withPoints(<wbr/><ol class="parameter-list single-line"> <li>List&lt;<wbr/><a hr
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "RasterDataSource.withTileSource constructor"
 slug: "sdk-for-flutter-explore-mapview-datasource-rasterdatasource-rasterdatasource-withtilesource"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- RasterDataSource.withTileSource.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-datasource-rasterdatasource-rasterdatasou
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
-<li><a href="../../mapview.datasource/RasterDataSource-class.html">/sdk-for-flutter-explore-mapview-datasource-rasterdatasource-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-rasterdatasource-class</li>
 <li class="self-crumb">RasterDataSource.withTileSource factory constructor</li>
 </ol>
 <div class="self-name">RasterDataSource.withTileSource</div>
@@ -37,9 +38,9 @@ menu
 <div>
 <h1>RasterDataSource.withTileSource constructor</h1></div>
 <section class="multi-line-signature">
-RasterDataSource.withTileSource(<wbr/><ol class="parameter-list single-line"> <li><a href="../../mapview/MapContext-class.html">/sdk-for-flutter-explore-mapview-mapcontext-class</a> context, </li>
+RasterDataSource.withTileSource(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-mapview-mapcontext-class context, </li>
 <li>String name, </li>
-<li><a href="../../mapview.datasource/RasterTileSource-class.html">/sdk-for-flutter-explore-mapview-datasource-rastertilesource-class</a> tileSource</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-rastertilesource-class tileSource</li>
 </ol>)
     </section>
 <section class="desc markdown">
@@ -70,9 +71,9 @@ behavior. Related APIs may change for new releases without a deprecation process
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
-<li><a href="../../mapview.datasource/RasterDataSource-class.html">/sdk-for-flutter-explore-mapview-datasource-rasterdatasource-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-rasterdatasource-class</li>
 <li class="self-crumb">RasterDataSource.withTileSource factory constructor</li>
 </ol>
 <h5>RasterDataSource class</h5>
@@ -89,4 +90,5 @@ behavior. Related APIs may change for new releases without a deprecation process
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

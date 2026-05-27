@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "feature property"
 slug: "sdk-for-flutter-explore-core-engine-usagestats-feature"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- feature.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-core-engine-usagestats-feature"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
-<li><a href="../../core.engine/UsageStats-class.html">/sdk-for-flutter-explore-core-engine-usagestats-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
+<li>/sdk-for-flutter-explore-core-engine-usagestats-class</li>
 <li class="self-crumb">feature property</li>
 </ol>
 <div class="self-name">feature</div>
@@ -37,7 +38,7 @@ menu
 <div>
 <h1>feature property</h1></div>
 <section class="multi-line-signature">
-<a href="../../core.engine/UsageStatsFeature.html">/sdk-for-flutter-explore-core-engine-usagestatsfeature</a>
+/sdk-for-flutter-explore-core-engine-usagestatsfeature
 feature
 <div class="features">getter/setter pair</div>
 </section>
@@ -56,9 +57,9 @@ feature
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
-<li><a href="../../core.engine/UsageStats-class.html">/sdk-for-flutter-explore-core-engine-usagestats-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
+<li>/sdk-for-flutter-explore-core-engine-usagestats-class</li>
 <li class="self-crumb">feature property</li>
 </ol>
 <h5>UsageStats class</h5>
@@ -75,4 +76,5 @@ feature
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

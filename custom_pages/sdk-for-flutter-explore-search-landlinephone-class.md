@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "LandlinePhone class"
 slug: "sdk-for-flutter-explore-search-landlinephone-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- LandlinePhone-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -27,8 +28,8 @@ slug: "sdk-for-flutter-explore-search-landlinephone-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
 <li class="self-crumb">LandlinePhone class</li>
 </ol>
 <div class="self-name">LandlinePhone</div>
@@ -58,13 +59,13 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="LandlinePhone">
-<a href="../search/LandlinePhone/LandlinePhone.html">/sdk-for-flutter-explore-search-landlinephone-landlinephone</a>(String phoneNumber, List&lt;<wbr/><a href="../search/PlaceCategory-class.html">/sdk-for-flutter-explore-search-placecategory-class</a>&gt; categories)
+/sdk-for-flutter-explore-search-landlinephone-landlinephone(String phoneNumber, List&lt;<wbr/>/sdk-for-flutter-explore-search-placecategory-class&gt; categories)
 </dt>
 <dd>
           Creates a new instance.
         </dd>
 <dt class="callable" id="LandlinePhone.withDefaults">
-<a href="../search/LandlinePhone/LandlinePhone.withDefaults.html">/sdk-for-flutter-explore-search-landlinephone-landlinephone-withdefaults</a>()
+/sdk-for-flutter-explore-search-landlinephone-landlinephone-withdefaults()
 </dt>
 <dd>
           Creates a new instance.
@@ -75,17 +76,17 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="categories">
-<a href="../search/LandlinePhone/categories.html">/sdk-for-flutter-explore-search-landlinephone-categories</a>
-↔ List&lt;<wbr/><a href="../search/PlaceCategory-class.html">/sdk-for-flutter-explore-search-placecategory-class</a>&gt;
+/sdk-for-flutter-explore-search-landlinephone-categories
+↔ List&lt;<wbr/>/sdk-for-flutter-explore-search-placecategory-class&gt;
 </dt>
 <dd>
   Categories associated with phone number.
-Note: In case <a href="../search/LandlinePhone/categories.html">/sdk-for-flutter-explore-search-landlinephone-categories</a> are not empty, then <a href="../search/LandlinePhone/phoneNumber.html">/sdk-for-flutter-explore-search-landlinephone-phonenumber</a> should be used according to given categories.
-Otherwise, <a href="../search/LandlinePhone/phoneNumber.html">/sdk-for-flutter-explore-search-landlinephone-phonenumber</a> is meant for general use.
+Note: In case /sdk-for-flutter-explore-search-landlinephone-categories are not empty, then /sdk-for-flutter-explore-search-landlinephone-phonenumber should be used according to given categories.
+Otherwise, /sdk-for-flutter-explore-search-landlinephone-phonenumber is meant for general use.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-<a href="../search/LandlinePhone/hashCode.html">/sdk-for-flutter-explore-search-landlinephone-hashcode</a>
+/sdk-for-flutter-explore-search-landlinephone-hashcode
 → int
 </dt>
 <dd>
@@ -93,7 +94,7 @@ Otherwise, <a href="../search/LandlinePhone/phoneNumber.html">/sdk-for-flutter-e
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="phoneNumber">
-<a href="../search/LandlinePhone/phoneNumber.html">/sdk-for-flutter-explore-search-landlinephone-phonenumber</a>
+/sdk-for-flutter-explore-search-landlinephone-phonenumber
 ↔ String
 </dt>
 <dd>
@@ -101,7 +102,7 @@ Otherwise, <a href="../search/LandlinePhone/phoneNumber.html">/sdk-for-flutter-e
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../search/LandlinePhone/runtimeType.html">/sdk-for-flutter-explore-search-landlinephone-runtimetype</a>
+/sdk-for-flutter-explore-search-landlinephone-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -114,7 +115,7 @@ Otherwise, <a href="../search/LandlinePhone/phoneNumber.html">/sdk-for-flutter-e
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../search/LandlinePhone/noSuchMethod.html">/sdk-for-flutter-explore-search-landlinephone-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-search-landlinephone-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -123,7 +124,7 @@ Otherwise, <a href="../search/LandlinePhone/phoneNumber.html">/sdk-for-flutter-e
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../search/LandlinePhone/toString.html">/sdk-for-flutter-explore-search-landlinephone-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-search-landlinephone-tostring(<wbr/>)
     → String
 
 </dt>
@@ -137,7 +138,7 @@ Otherwise, <a href="../search/LandlinePhone/phoneNumber.html">/sdk-for-flutter-e
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-<a href="../search/LandlinePhone/operator_equals.html">/sdk-for-flutter-explore-search-landlinephone-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-search-landlinephone-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -156,8 +157,8 @@ Otherwise, <a href="../search/LandlinePhone/phoneNumber.html">/sdk-for-flutter-e
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
 <li class="self-crumb">LandlinePhone class</li>
 </ol>
 <h5>search library</h5>
@@ -174,4 +175,5 @@ Otherwise, <a href="../search/LandlinePhone/phoneNumber.html">/sdk-for-flutter-e
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

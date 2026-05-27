@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "kind property"
 slug: "sdk-for-flutter-explore-mapview-mapmeasurerange-kind"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- kind.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-mapmeasurerange-kind"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapMeasureRange-class.html">/sdk-for-flutter-explore-mapview-mapmeasurerange-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapmeasurerange-class</li>
 <li class="self-crumb">kind property</li>
 </ol>
 <div class="self-name">kind</div>
@@ -37,7 +38,7 @@ menu
 <div>
 <h1>kind property</h1></div>
 <section class="multi-line-signature">
-<a href="../../mapview/MapMeasureKind.html">/sdk-for-flutter-explore-mapview-mapmeasurekind</a>
+/sdk-for-flutter-explore-mapview-mapmeasurekind
 kind
 <div class="features">final</div>
 </section>
@@ -56,9 +57,9 @@ kind
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapMeasureRange-class.html">/sdk-for-flutter-explore-mapview-mapmeasurerange-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapmeasurerange-class</li>
 <li class="self-crumb">kind property</li>
 </ol>
 <h5>MapMeasureRange class</h5>
@@ -75,4 +76,5 @@ kind
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

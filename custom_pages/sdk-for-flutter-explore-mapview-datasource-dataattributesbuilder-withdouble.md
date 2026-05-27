@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "withDouble abstract method"
 slug: "sdk-for-flutter-explore-mapview-datasource-dataattributesbuilder-withdouble"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- withDouble.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-datasource-dataattributesbuilder-withdoub
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
-<li><a href="../../mapview.datasource/DataAttributesBuilder-class.html">/sdk-for-flutter-explore-mapview-datasource-dataattributesbuilder-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-dataattributesbuilder-class</li>
 <li class="self-crumb">withDouble abstract method</li>
 </ol>
 <div class="self-name">withDouble</div>
@@ -37,7 +38,7 @@ menu
 <div>
 <h1>withDouble abstract method</h1></div>
 <section class="multi-line-signature">
-<a href="../../mapview.datasource/DataAttributesBuilder-class.html">/sdk-for-flutter-explore-mapview-datasource-dataattributesbuilder-class</a>
+/sdk-for-flutter-explore-mapview-datasource-dataattributesbuilder-class
 withDouble(<wbr/><ol class="parameter-list single-line"> <li>String name, </li>
 <li>double value</li>
 </ol>)
@@ -55,7 +56,7 @@ withDouble(<wbr/><ol class="parameter-list single-line"> <li>String name, </li>
 <p><code>value</code> Attribute value.</p>
 </li>
 </ul>
-<p>Returns <a href="../../mapview.datasource/DataAttributesBuilder-class.html">/sdk-for-flutter-explore-mapview-datasource-dataattributesbuilder-class</a>. This data attributes builder instance.</p>
+<p>Returns /sdk-for-flutter-explore-mapview-datasource-dataattributesbuilder-class. This data attributes builder instance.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -69,9 +70,9 @@ withDouble(<wbr/><ol class="parameter-list single-line"> <li>String name, </li>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
-<li><a href="../../mapview.datasource/DataAttributesBuilder-class.html">/sdk-for-flutter-explore-mapview-datasource-dataattributesbuilder-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-dataattributesbuilder-class</li>
 <li class="self-crumb">withDouble abstract method</li>
 </ol>
 <h5>DataAttributesBuilder class</h5>
@@ -88,4 +89,5 @@ withDouble(<wbr/><ol class="parameter-list single-line"> <li>String name, </li>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

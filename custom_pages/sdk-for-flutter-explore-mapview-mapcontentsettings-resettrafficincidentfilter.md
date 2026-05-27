@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "resetTrafficIncidentFilter static method"
 slug: "sdk-for-flutter-explore-mapview-mapcontentsettings-resettrafficincidentfilter"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- resetTrafficIncidentFilter.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-mapcontentsettings-resettrafficincidentfi
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapContentSettings-class.html">/sdk-for-flutter-explore-mapview-mapcontentsettings-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapcontentsettings-class</li>
 <li class="self-crumb">resetTrafficIncidentFilter static method</li>
 </ol>
 <div class="self-name">resetTrafficIncidentFilter</div>
@@ -45,8 +46,8 @@ resetTrafficIncidentFilter(<wbr/>)
     </section>
 <section class="desc markdown">
 <p>Removes all filters regarding Traffic Incidents so that all incidents will be displayed,
-when the display of Traffic Incidents is enabled using <a href="../../mapview/MapScene/enableFeatures.html">/sdk-for-flutter-explore-mapview-mapscene-enablefeatures</a> with
-<a href="../../mapview/MapFeatures/trafficIncidents.html">/sdk-for-flutter-explore-mapview-mapfeatures-trafficincidents</a>.</p>
+when the display of Traffic Incidents is enabled using /sdk-for-flutter-explore-mapview-mapscene-enablefeatures with
+/sdk-for-flutter-explore-mapview-mapfeatures-trafficincidents.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -60,9 +61,9 @@ when the display of Traffic Incidents is enabled using <a href="../../mapview/Ma
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapContentSettings-class.html">/sdk-for-flutter-explore-mapview-mapcontentsettings-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapcontentsettings-class</li>
 <li class="self-crumb">resetTrafficIncidentFilter static method</li>
 </ol>
 <h5>MapContentSettings class</h5>
@@ -79,4 +80,5 @@ when the display of Traffic Incidents is enabled using <a href="../../mapview/Ma
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

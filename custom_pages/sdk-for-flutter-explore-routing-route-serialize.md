@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "serialize static method"
 slug: "sdk-for-flutter-explore-routing-route-serialize"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- serialize.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-routing-route-serialize"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/Route-class.html">/sdk-for-flutter-explore-routing-route-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-route-class</li>
 <li class="self-crumb">serialize static method</li>
 </ol>
 <div class="self-name">serialize</div>
@@ -38,7 +39,7 @@ menu
 <h1>serialize static method</h1></div>
 <section class="multi-line-signature">
 Uint8List?
-serialize(<wbr/><ol class="parameter-list single-line"> <li><a href="../../routing/Route-class.html">/sdk-for-flutter-explore-routing-route-class</a> route</li>
+serialize(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-routing-route-class route</li>
 </ol>)
 
       
@@ -65,9 +66,9 @@ Related APIs may change for new releases without a deprecation process.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/Route-class.html">/sdk-for-flutter-explore-routing-route-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-route-class</li>
 <li class="self-crumb">serialize static method</li>
 </ol>
 <h5>Route class</h5>
@@ -84,4 +85,5 @@ Related APIs may change for new releases without a deprecation process.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

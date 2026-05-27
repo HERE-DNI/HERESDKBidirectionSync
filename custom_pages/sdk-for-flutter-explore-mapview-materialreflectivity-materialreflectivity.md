@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "MaterialReflectivity constructor"
 slug: "sdk-for-flutter-explore-mapview-materialreflectivity-materialreflectivity"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- MaterialReflectivity.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-materialreflectivity-materialreflectivity
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MaterialReflectivity-class.html">/sdk-for-flutter-explore-mapview-materialreflectivity-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-materialreflectivity-class</li>
 <li class="self-crumb">MaterialReflectivity constructor</li>
 </ol>
 <div class="self-name">MaterialReflectivity</div>
@@ -52,9 +53,9 @@ MaterialReflectivity(<wbr/>)
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MaterialReflectivity-class.html">/sdk-for-flutter-explore-mapview-materialreflectivity-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-materialreflectivity-class</li>
 <li class="self-crumb">MaterialReflectivity constructor</li>
 </ol>
 <h5>MaterialReflectivity class</h5>
@@ -71,4 +72,5 @@ MaterialReflectivity(<wbr/>)
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

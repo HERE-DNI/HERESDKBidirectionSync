@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "TaxiOptions class"
 slug: "sdk-for-flutter-explore-routing-taxioptions-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- TaxiOptions-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -33,8 +34,8 @@ slug: "sdk-for-flutter-explore-routing-taxioptions-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
 <li class="self-crumb">TaxiOptions class</li>
 </ol>
 <div class="self-name">TaxiOptions</div>
@@ -59,8 +60,8 @@ menu
 <h1>TaxiOptions class</h1></div>
 <section class="desc markdown">
 <p>All the options to specify how a taxi route should be calculated.</p>
-<p>See, <a href="../transport/TransportMode.html">/sdk-for-flutter-explore-transport-transportmode</a>.</p>
-<p><strong>Note:</strong> Specify the optional <a href="../routing/Waypoint/sideOfStreetHint.html">/sdk-for-flutter-explore-routing-waypoint-sideofstreethint</a> to indicate at which side of
+<p>See, /sdk-for-flutter-explore-transport-transportmode.</p>
+<p><strong>Note:</strong> Specify the optional /sdk-for-flutter-explore-routing-waypoint-sideofstreethint to indicate at which side of
 the street a passenger wants to leave the taxi.</p>
 </section>
 <section>
@@ -68,7 +69,7 @@ the street a passenger wants to leave the taxi.</p>
 <dt>Annotations</dt>
 <dd>
 <ul class="annotation-list clazz-relationships">
-<li>@Deprecated("Will be removed in v4.28.0. Use `RoutingOptions` class instead.")</li>
+<li>@Deprecated("Will be removed in v4.28.0. Use <code>RoutingOptions</code> class instead.")</li>
 </ul>
 </dd>
 </dl>
@@ -77,13 +78,13 @@ the street a passenger wants to leave the taxi.</p>
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="TaxiOptions">
-<a href="../routing/TaxiOptions/TaxiOptions.html">/sdk-for-flutter-explore-routing-taxioptions-taxioptions</a>(<a href="../routing/RouteOptions-class.html">/sdk-for-flutter-explore-routing-routeoptions-class</a> routeOptions, <a href="../routing/RouteTextOptions-class.html">/sdk-for-flutter-explore-routing-routetextoptions-class</a> textOptions, <a href="../routing/AvoidanceOptions-class.html">/sdk-for-flutter-explore-routing-avoidanceoptions-class</a> avoidanceOptions)
+/sdk-for-flutter-explore-routing-taxioptions-taxioptions(/sdk-for-flutter-explore-routing-routeoptions-class routeOptions, /sdk-for-flutter-explore-routing-routetextoptions-class textOptions, /sdk-for-flutter-explore-routing-avoidanceoptions-class avoidanceOptions)
 </dt>
 <dd>
           Creates a new instance.
         </dd>
 <dt class="callable" id="TaxiOptions.withDefaults">
-<a href="../routing/TaxiOptions/TaxiOptions.withDefaults.html">/sdk-for-flutter-explore-routing-taxioptions-taxioptions-withdefaults</a>()
+/sdk-for-flutter-explore-routing-taxioptions-taxioptions-withdefaults()
 </dt>
 <dd>
           Creates a new instance.
@@ -94,7 +95,7 @@ the street a passenger wants to leave the taxi.</p>
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="allowDriveThroughTaxiRoads">
-<a href="../routing/TaxiOptions/allowDriveThroughTaxiRoads.html">/sdk-for-flutter-explore-routing-taxioptions-allowdrivethroughtaxiroads</a>
+/sdk-for-flutter-explore-routing-taxioptions-allowdrivethroughtaxiroads
 ↔ bool
 </dt>
 <dd>
@@ -104,8 +105,8 @@ before the route destination.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="avoidanceOptions">
-<a href="../routing/TaxiOptions/avoidanceOptions.html">/sdk-for-flutter-explore-routing-taxioptions-avoidanceoptions</a>
-↔ <a href="../routing/AvoidanceOptions-class.html">/sdk-for-flutter-explore-routing-avoidanceoptions-class</a>
+/sdk-for-flutter-explore-routing-taxioptions-avoidanceoptions
+↔ /sdk-for-flutter-explore-routing-avoidanceoptions-class
 </dt>
 <dd>
   Options to specify restrictions for route calculations. By default
@@ -113,15 +114,15 @@ no restrictions are applied.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="carSpecifications">
-<a href="../routing/TaxiOptions/carSpecifications.html">/sdk-for-flutter-explore-routing-taxioptions-carspecifications</a>
-↔ <a class="deprecated" href="../transport/CarSpecifications-class.html">/sdk-for-flutter-explore-transport-carspecifications-class</a>
+/sdk-for-flutter-explore-routing-taxioptions-carspecifications
+↔ /sdk-for-flutter-explore-transport-carspecifications-class
 </dt>
 <dd>
   Detailed car specifications such as dimensions and weight.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-<a href="../routing/TaxiOptions/hashCode.html">/sdk-for-flutter-explore-routing-taxioptions-hashcode</a>
+/sdk-for-flutter-explore-routing-taxioptions-hashcode
 → int
 </dt>
 <dd>
@@ -129,7 +130,7 @@ no restrictions are applied.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="lastCharacterOfLicensePlate">
-<a href="../routing/TaxiOptions/lastCharacterOfLicensePlate.html">/sdk-for-flutter-explore-routing-taxioptions-lastcharacteroflicenseplate</a>
+/sdk-for-flutter-explore-routing-taxioptions-lastcharacteroflicenseplate
 ↔ String?
 </dt>
 <dd>
@@ -143,23 +144,23 @@ Example usage: "7", when the license plate of a vehicle looks like "B-ET-182487"
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="maxSpeedOnSegments">
-<a href="../routing/TaxiOptions/maxSpeedOnSegments.html">/sdk-for-flutter-explore-routing-taxioptions-maxspeedonsegments</a>
-↔ List&lt;<wbr/><a href="../routing/MaxSpeedOnSegment-class.html">/sdk-for-flutter-explore-routing-maxspeedonsegment-class</a>&gt;
+/sdk-for-flutter-explore-routing-taxioptions-maxspeedonsegments
+↔ List&lt;<wbr/>/sdk-for-flutter-explore-routing-maxspeedonsegment-class&gt;
 </dt>
 <dd>
-  Segments with restriction on maximum <a href="../routing/DynamicSpeedInfo/baseSpeedInMetersPerSecond.html">/sdk-for-flutter-explore-routing-dynamicspeedinfo-basespeedinmeterspersecond</a>.
+  Segments with restriction on maximum /sdk-for-flutter-explore-routing-dynamicspeedinfo-basespeedinmeterspersecond.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="routeOptions">
-<a href="../routing/TaxiOptions/routeOptions.html">/sdk-for-flutter-explore-routing-taxioptions-routeoptions</a>
-↔ <a href="../routing/RouteOptions-class.html">/sdk-for-flutter-explore-routing-routeoptions-class</a>
+/sdk-for-flutter-explore-routing-taxioptions-routeoptions
+↔ /sdk-for-flutter-explore-routing-routeoptions-class
 </dt>
 <dd>
   Specifies the common route calculation options.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../routing/TaxiOptions/runtimeType.html">/sdk-for-flutter-explore-routing-taxioptions-runtimetype</a>
+/sdk-for-flutter-explore-routing-taxioptions-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -167,8 +168,8 @@ Example usage: "7", when the license plate of a vehicle looks like "B-ET-182487"
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="textOptions">
-<a href="../routing/TaxiOptions/textOptions.html">/sdk-for-flutter-explore-routing-taxioptions-textoptions</a>
-↔ <a href="../routing/RouteTextOptions-class.html">/sdk-for-flutter-explore-routing-routetextoptions-class</a>
+/sdk-for-flutter-explore-routing-taxioptions-textoptions
+↔ /sdk-for-flutter-explore-routing-routetextoptions-class
 </dt>
 <dd>
   Customize textual content returned from the route calculation, such
@@ -176,8 +177,8 @@ as localization, format, and unit system.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="tollOptions">
-<a href="../routing/TaxiOptions/tollOptions.html">/sdk-for-flutter-explore-routing-taxioptions-tolloptions</a>
-↔ <a href="../routing/TollOptions-class.html">/sdk-for-flutter-explore-routing-tolloptions-class</a>
+/sdk-for-flutter-explore-routing-taxioptions-tolloptions
+↔ /sdk-for-flutter-explore-routing-tolloptions-class
 </dt>
 <dd>
   Options to specify how the tolls should be calculated,
@@ -190,7 +191,7 @@ such as transponders, vehicle category, and emission type.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../routing/TaxiOptions/noSuchMethod.html">/sdk-for-flutter-explore-routing-taxioptions-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-routing-taxioptions-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -199,7 +200,7 @@ such as transponders, vehicle category, and emission type.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../routing/TaxiOptions/toString.html">/sdk-for-flutter-explore-routing-taxioptions-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-routing-taxioptions-tostring(<wbr/>)
     → String
 
 </dt>
@@ -213,7 +214,7 @@ such as transponders, vehicle category, and emission type.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-<a href="../routing/TaxiOptions/operator_equals.html">/sdk-for-flutter-explore-routing-taxioptions-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-routing-taxioptions-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -232,8 +233,8 @@ such as transponders, vehicle category, and emission type.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
 <li class="self-crumb">TaxiOptions class</li>
 </ol>
 <h5>routing library</h5>
@@ -250,4 +251,5 @@ such as transponders, vehicle category, and emission type.
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "onMapIdle abstract method"
 slug: "sdk-for-flutter-explore-mapview-mapidlelistener-onmapidle"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- onMapIdle.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-mapidlelistener-onmapidle"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapIdleListener-class.html">/sdk-for-flutter-explore-mapview-mapidlelistener-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapidlelistener-class</li>
 <li class="self-crumb">onMapIdle abstract method</li>
 </ol>
 <div class="self-name">onMapIdle</div>
@@ -46,7 +47,7 @@ onMapIdle(<wbr/>)
 <section class="desc markdown">
 <p>Called when map finishes all state updates.</p>
 <p>No state changes or redraws
-will happen aftrwards until <a href="../../mapview/MapIdleListener/onMapBusy.html">/sdk-for-flutter-explore-mapview-mapidlelistener-onmapbusy</a> is called.</p>
+will happen aftrwards until /sdk-for-flutter-explore-mapview-mapidlelistener-onmapbusy is called.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -60,9 +61,9 @@ will happen aftrwards until <a href="../../mapview/MapIdleListener/onMapBusy.htm
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapIdleListener-class.html">/sdk-for-flutter-explore-mapview-mapidlelistener-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapidlelistener-class</li>
 <li class="self-crumb">onMapIdle abstract method</li>
 </ol>
 <h5>MapIdleListener class</h5>
@@ -79,4 +80,5 @@ will happen aftrwards until <a href="../../mapview/MapIdleListener/onMapBusy.htm
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

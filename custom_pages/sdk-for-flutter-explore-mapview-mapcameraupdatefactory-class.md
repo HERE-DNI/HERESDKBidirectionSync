@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "MapCameraUpdateFactory class abstract"
 slug: "sdk-for-flutter-explore-mapview-mapcameraupdatefactory-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- MapCameraUpdateFactory-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -45,8 +46,8 @@ slug: "sdk-for-flutter-explore-mapview-mapcameraupdatefactory-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
 <li class="self-crumb">MapCameraUpdateFactory class</li>
 </ol>
 <div class="self-name">MapCameraUpdateFactory</div>
@@ -91,7 +92,7 @@ also the top-left corner of the map's viewport.</p>
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="MapCameraUpdateFactory">
-<a href="../mapview/MapCameraUpdateFactory/MapCameraUpdateFactory.html">/sdk-for-flutter-explore-mapview-mapcameraupdatefactory-mapcameraupdatefactory</a>()
+/sdk-for-flutter-explore-mapview-mapcameraupdatefactory-mapcameraupdatefactory()
 </dt>
 <dd>
 </dd>
@@ -101,7 +102,7 @@ also the top-left corner of the map's viewport.</p>
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="hashCode">
-<a href="../mapview/MapCameraUpdateFactory/hashCode.html">/sdk-for-flutter-explore-mapview-mapcameraupdatefactory-hashcode</a>
+/sdk-for-flutter-explore-mapview-mapcameraupdatefactory-hashcode
 → int
 </dt>
 <dd class="inherited">
@@ -109,7 +110,7 @@ also the top-left corner of the map's viewport.</p>
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../mapview/MapCameraUpdateFactory/runtimeType.html">/sdk-for-flutter-explore-mapview-mapcameraupdatefactory-runtimetype</a>
+/sdk-for-flutter-explore-mapview-mapcameraupdatefactory-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -122,7 +123,7 @@ also the top-left corner of the map's viewport.</p>
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../mapview/MapCameraUpdateFactory/noSuchMethod.html">/sdk-for-flutter-explore-mapview-mapcameraupdatefactory-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-mapview-mapcameraupdatefactory-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -131,7 +132,7 @@ also the top-left corner of the map's viewport.</p>
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../mapview/MapCameraUpdateFactory/toString.html">/sdk-for-flutter-explore-mapview-mapcameraupdatefactory-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-mapview-mapcameraupdatefactory-tostring(<wbr/>)
     → String
 
 </dt>
@@ -145,7 +146,7 @@ also the top-left corner of the map's viewport.</p>
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-<a href="../mapview/MapCameraUpdateFactory/operator_equals.html">/sdk-for-flutter-explore-mapview-mapcameraupdatefactory-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-mapview-mapcameraupdatefactory-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -159,8 +160,9 @@ also the top-left corner of the map's viewport.</p>
 <h2>Static Methods</h2>
 <dl class="callables">
 <dt class="callable" id="compositeUpdate">
-<a href="../mapview/MapCameraUpdateFactory/compositeUpdate.html">/sdk-for-flutter-explore-mapview-mapcameraupdatefactory-compositeupdate</a>(<wbr/>List&lt;<wbr/><a href="../mapview/MapCameraUpdate-class.html">/sdk-for-flutter-explore-mapview-mapcameraupdate-class</a>&gt; mapCameraUpdates)
-    → <a href="../mapview/MapCameraUpdate-class.html">/sdk-for-flutter-explore-mapview-mapcameraupdate-class</a>
+/sdk-for-flutter-explore-mapview-mapcameraupdatefactory-compositeupdate(<wbr/>List&lt;<wbr/>/sdk-for-flutter-explore-mapview-mapcameraupdate-class&gt; mapCameraUpdates)
+    → /sdk-for-flutter-explore-mapview-mapcameraupdate-class
+
 </dt>
 <dd>
   Creates a composite camera update from a list of camera updates.
@@ -168,8 +170,9 @@ also the top-left corner of the map's viewport.</p>
 
 </dd>
 <dt class="callable" id="lookAtArea">
-<a href="../mapview/MapCameraUpdateFactory/lookAtArea.html">/sdk-for-flutter-explore-mapview-mapcameraupdatefactory-lookatarea</a>(<wbr/><a href="../core/GeoBox-class.html">/sdk-for-flutter-explore-core-geobox-class</a> target)
-    → <a href="../mapview/MapCameraUpdate-class.html">/sdk-for-flutter-explore-mapview-mapcameraupdate-class</a>
+/sdk-for-flutter-explore-mapview-mapcameraupdatefactory-lookatarea(<wbr/>/sdk-for-flutter-explore-core-geobox-class target)
+    → /sdk-for-flutter-explore-mapview-mapcameraupdate-class
+
 </dt>
 <dd>
   Creates an update to look at the given geo-box,
@@ -178,8 +181,9 @@ preserving current orientation and zooming at the center of viewport.
 
 </dd>
 <dt class="callable" id="lookAtAreaWithGeoOrientationAndViewRectangle">
-<a href="../mapview/MapCameraUpdateFactory/lookAtAreaWithGeoOrientationAndViewRectangle.html">/sdk-for-flutter-explore-mapview-mapcameraupdatefactory-lookatareawithgeoorientationandviewrectangle</a>(<wbr/><a href="../core/GeoBox-class.html">/sdk-for-flutter-explore-core-geobox-class</a> target, <a href="../core/GeoOrientationUpdate-class.html">/sdk-for-flutter-explore-core-geoorientationupdate-class</a> orientation, <a href="../core/Rectangle2D-class.html">/sdk-for-flutter-explore-core-rectangle2d-class</a> viewRectangle)
-    → <a href="../mapview/MapCameraUpdate-class.html">/sdk-for-flutter-explore-mapview-mapcameraupdate-class</a>
+/sdk-for-flutter-explore-mapview-mapcameraupdatefactory-lookatareawithgeoorientationandviewrectangle(<wbr/>/sdk-for-flutter-explore-core-geobox-class target, /sdk-for-flutter-explore-core-geoorientationupdate-class orientation, /sdk-for-flutter-explore-core-rectangle2d-class viewRectangle)
+    → /sdk-for-flutter-explore-mapview-mapcameraupdate-class
+
 </dt>
 <dd>
   Create an update to look at the given geo-box and fit it inside the given rectangle.
@@ -187,8 +191,9 @@ preserving current orientation and zooming at the center of viewport.
 
 </dd>
 <dt class="callable" id="lookAtAreaWithViewRectangle">
-<a href="../mapview/MapCameraUpdateFactory/lookAtAreaWithViewRectangle.html">/sdk-for-flutter-explore-mapview-mapcameraupdatefactory-lookatareawithviewrectangle</a>(<wbr/><a href="../core/GeoBox-class.html">/sdk-for-flutter-explore-core-geobox-class</a> target, <a href="../core/Rectangle2D-class.html">/sdk-for-flutter-explore-core-rectangle2d-class</a> viewRectangle)
-    → <a href="../mapview/MapCameraUpdate-class.html">/sdk-for-flutter-explore-mapview-mapcameraupdate-class</a>
+/sdk-for-flutter-explore-mapview-mapcameraupdatefactory-lookatareawithviewrectangle(<wbr/>/sdk-for-flutter-explore-core-geobox-class target, /sdk-for-flutter-explore-core-rectangle2d-class viewRectangle)
+    → /sdk-for-flutter-explore-mapview-mapcameraupdate-class
+
 </dt>
 <dd>
   Creates an update to look at the given geo-box and fit it inside the given rectangle,
@@ -197,8 +202,9 @@ preserving current orientation and zooming at the center of view rectangle.
 
 </dd>
 <dt class="callable" id="lookAtPoint">
-<a href="../mapview/MapCameraUpdateFactory/lookAtPoint.html">/sdk-for-flutter-explore-mapview-mapcameraupdatefactory-lookatpoint</a>(<wbr/><a href="../core/GeoCoordinatesUpdate-class.html">/sdk-for-flutter-explore-core-geocoordinatesupdate-class</a> target)
-    → <a href="../mapview/MapCameraUpdate-class.html">/sdk-for-flutter-explore-mapview-mapcameraupdate-class</a>
+/sdk-for-flutter-explore-mapview-mapcameraupdatefactory-lookatpoint(<wbr/>/sdk-for-flutter-explore-core-geocoordinatesupdate-class target)
+    → /sdk-for-flutter-explore-mapview-mapcameraupdate-class
+
 </dt>
 <dd>
   Creates an update to position the map camera to look at the given target,
@@ -207,8 +213,9 @@ preserving the current orientation at look-at target and map measure.
 
 </dd>
 <dt class="callable" id="lookAtPoints">
-<a href="../mapview/MapCameraUpdateFactory/lookAtPoints.html">/sdk-for-flutter-explore-mapview-mapcameraupdatefactory-lookatpoints</a>(<wbr/>List&lt;<wbr/><a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>&gt; points, <a href="../core/Rectangle2D-class.html">/sdk-for-flutter-explore-core-rectangle2d-class</a> viewRectangle, <a href="../core/GeoOrientationUpdate-class.html">/sdk-for-flutter-explore-core-geoorientationupdate-class</a> orientation, <a href="../mapview/MapMeasure-class.html">/sdk-for-flutter-explore-mapview-mapmeasure-class</a> measureLimit)
-    → <a href="../mapview/MapCameraUpdate-class.html">/sdk-for-flutter-explore-mapview-mapcameraupdate-class</a>
+/sdk-for-flutter-explore-mapview-mapcameraupdatefactory-lookatpoints(<wbr/>List&lt;<wbr/>/sdk-for-flutter-explore-core-geocoordinates-class&gt; points, /sdk-for-flutter-explore-core-rectangle2d-class viewRectangle, /sdk-for-flutter-explore-core-geoorientationupdate-class orientation, /sdk-for-flutter-explore-mapview-mapmeasure-class measureLimit)
+    → /sdk-for-flutter-explore-mapview-mapcameraupdate-class
+
 </dt>
 <dd>
   Create an update to look at the given geo locations and fit them inside the given rectangle,
@@ -217,8 +224,9 @@ in accordance with a map measure limit.
 
 </dd>
 <dt class="callable" id="lookAtPointWithGeoOrientationAndMeasure">
-<a href="../mapview/MapCameraUpdateFactory/lookAtPointWithGeoOrientationAndMeasure.html">/sdk-for-flutter-explore-mapview-mapcameraupdatefactory-lookatpointwithgeoorientationandmeasure</a>(<wbr/><a href="../core/GeoCoordinatesUpdate-class.html">/sdk-for-flutter-explore-core-geocoordinatesupdate-class</a> target, <a href="../core/GeoOrientationUpdate-class.html">/sdk-for-flutter-explore-core-geoorientationupdate-class</a> orientation, <a href="../mapview/MapMeasure-class.html">/sdk-for-flutter-explore-mapview-mapmeasure-class</a> measure)
-    → <a href="../mapview/MapCameraUpdate-class.html">/sdk-for-flutter-explore-mapview-mapcameraupdate-class</a>
+/sdk-for-flutter-explore-mapview-mapcameraupdatefactory-lookatpointwithgeoorientationandmeasure(<wbr/>/sdk-for-flutter-explore-core-geocoordinatesupdate-class target, /sdk-for-flutter-explore-core-geoorientationupdate-class orientation, /sdk-for-flutter-explore-mapview-mapmeasure-class measure)
+    → /sdk-for-flutter-explore-mapview-mapcameraupdate-class
+
 </dt>
 <dd>
   Creates an update to position the map camera to look at the given target with the given
@@ -227,8 +235,9 @@ orientation and map measure.
 
 </dd>
 <dt class="callable" id="lookAtPointWithMeasure">
-<a href="../mapview/MapCameraUpdateFactory/lookAtPointWithMeasure.html">/sdk-for-flutter-explore-mapview-mapcameraupdatefactory-lookatpointwithmeasure</a>(<wbr/><a href="../core/GeoCoordinatesUpdate-class.html">/sdk-for-flutter-explore-core-geocoordinatesupdate-class</a> target, <a href="../mapview/MapMeasure-class.html">/sdk-for-flutter-explore-mapview-mapmeasure-class</a> measure)
-    → <a href="../mapview/MapCameraUpdate-class.html">/sdk-for-flutter-explore-mapview-mapcameraupdate-class</a>
+/sdk-for-flutter-explore-mapview-mapcameraupdatefactory-lookatpointwithmeasure(<wbr/>/sdk-for-flutter-explore-core-geocoordinatesupdate-class target, /sdk-for-flutter-explore-mapview-mapmeasure-class measure)
+    → /sdk-for-flutter-explore-mapview-mapcameraupdate-class
+
 </dt>
 <dd>
   Creates an update to position the map camera to look at the given target with the given
@@ -237,8 +246,9 @@ map measure preserving the current orientation at look-at target.
 
 </dd>
 <dt class="callable" id="lookAtPointWithOrientation">
-<a href="../mapview/MapCameraUpdateFactory/lookAtPointWithOrientation.html">/sdk-for-flutter-explore-mapview-mapcameraupdatefactory-lookatpointwithorientation</a>(<wbr/><a href="../core/GeoCoordinatesUpdate-class.html">/sdk-for-flutter-explore-core-geocoordinatesupdate-class</a> target, <a href="../core/GeoOrientationUpdate-class.html">/sdk-for-flutter-explore-core-geoorientationupdate-class</a> orientation)
-    → <a href="../mapview/MapCameraUpdate-class.html">/sdk-for-flutter-explore-mapview-mapcameraupdate-class</a>
+/sdk-for-flutter-explore-mapview-mapcameraupdatefactory-lookatpointwithorientation(<wbr/>/sdk-for-flutter-explore-core-geocoordinatesupdate-class target, /sdk-for-flutter-explore-core-geoorientationupdate-class orientation)
+    → /sdk-for-flutter-explore-mapview-mapcameraupdate-class
+
 </dt>
 <dd>
   Creates an update to position the map camera to look at the given target with the given
@@ -248,8 +258,9 @@ Any target or orientation sub-element value that is not finite will be excluded 
 
 </dd>
 <dt class="callable" id="lookAtTargetAndPoints">
-<a href="../mapview/MapCameraUpdateFactory/lookAtTargetAndPoints.html">/sdk-for-flutter-explore-mapview-mapcameraupdatefactory-lookattargetandpoints</a>(<wbr/><a href="../core/GeoCoordinatesUpdate-class.html">/sdk-for-flutter-explore-core-geocoordinatesupdate-class</a> target, <a href="../core/GeoOrientationUpdate-class.html">/sdk-for-flutter-explore-core-geoorientationupdate-class</a> orientation, List&lt;<wbr/><a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>&gt; points, <a href="../core/Rectangle2D-class.html">/sdk-for-flutter-explore-core-rectangle2d-class</a> viewRectangle, <a href="../mapview/MapMeasure-class.html">/sdk-for-flutter-explore-mapview-mapmeasure-class</a> minMeasure, <a href="../mapview/MapMeasure-class.html">/sdk-for-flutter-explore-mapview-mapmeasure-class</a> maxMeasure)
-    → <a href="../mapview/MapCameraUpdate-class.html">/sdk-for-flutter-explore-mapview-mapcameraupdate-class</a>
+/sdk-for-flutter-explore-mapview-mapcameraupdatefactory-lookattargetandpoints(<wbr/>/sdk-for-flutter-explore-core-geocoordinatesupdate-class target, /sdk-for-flutter-explore-core-geoorientationupdate-class orientation, List&lt;<wbr/>/sdk-for-flutter-explore-core-geocoordinates-class&gt; points, /sdk-for-flutter-explore-core-rectangle2d-class viewRectangle, /sdk-for-flutter-explore-mapview-mapmeasure-class minMeasure, /sdk-for-flutter-explore-mapview-mapmeasure-class maxMeasure)
+    → /sdk-for-flutter-explore-mapview-mapcameraupdate-class
+
 </dt>
 <dd>
   Creates an update to position the camera to look at the given target with the given
@@ -258,8 +269,9 @@ orientation and obeying map measure limits, so that the given geo locations are 
 
 </dd>
 <dt class="callable" id="lookToMatchGeoPointToViewPoint">
-<a href="../mapview/MapCameraUpdateFactory/lookToMatchGeoPointToViewPoint.html">/sdk-for-flutter-explore-mapview-mapcameraupdatefactory-looktomatchgeopointtoviewpoint</a>(<wbr/><a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a> geoPoint, <a href="../core/Point2D-class.html">/sdk-for-flutter-explore-core-point2d-class</a> viewPoint)
-    → <a href="../mapview/MapCameraUpdate-class.html">/sdk-for-flutter-explore-mapview-mapcameraupdate-class</a>
+/sdk-for-flutter-explore-mapview-mapcameraupdatefactory-looktomatchgeopointtoviewpoint(<wbr/>/sdk-for-flutter-explore-core-geocoordinates-class geoPoint, /sdk-for-flutter-explore-core-point2d-class viewPoint)
+    → /sdk-for-flutter-explore-mapview-mapcameraupdate-class
+
 </dt>
 <dd>
   Creates an update to position the map camera to look at the map
@@ -268,8 +280,9 @@ with the given geo point located at the given view point.
 
 </dd>
 <dt class="callable" id="lookToMatchGeoPointToViewPointWithOrientationMapMeasure">
-<a href="../mapview/MapCameraUpdateFactory/lookToMatchGeoPointToViewPointWithOrientationMapMeasure.html">/sdk-for-flutter-explore-mapview-mapcameraupdatefactory-looktomatchgeopointtoviewpointwithorientationmapmeasure</a>(<wbr/><a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a> geoPoint, <a href="../core/Point2D-class.html">/sdk-for-flutter-explore-core-point2d-class</a> viewPoint, <a href="../core/GeoOrientationUpdate-class.html">/sdk-for-flutter-explore-core-geoorientationupdate-class</a> orientation, <a href="../mapview/MapMeasure-class.html">/sdk-for-flutter-explore-mapview-mapmeasure-class</a> measure)
-    → <a href="../mapview/MapCameraUpdate-class.html">/sdk-for-flutter-explore-mapview-mapcameraupdate-class</a>
+/sdk-for-flutter-explore-mapview-mapcameraupdatefactory-looktomatchgeopointtoviewpointwithorientationmapmeasure(<wbr/>/sdk-for-flutter-explore-core-geocoordinates-class geoPoint, /sdk-for-flutter-explore-core-point2d-class viewPoint, /sdk-for-flutter-explore-core-geoorientationupdate-class orientation, /sdk-for-flutter-explore-mapview-mapmeasure-class measure)
+    → /sdk-for-flutter-explore-mapview-mapcameraupdate-class
+
 </dt>
 <dd>
   Creates an update to position the map camera to look at the map with the given
@@ -278,8 +291,9 @@ orientation and map measure and with the given geo point located at the given vi
 
 </dd>
 <dt class="callable" id="orbitBy">
-<a href="../mapview/MapCameraUpdateFactory/orbitBy.html">/sdk-for-flutter-explore-mapview-mapcameraupdatefactory-orbitby</a>(<wbr/><a href="../core/GeoOrientationUpdate-class.html">/sdk-for-flutter-explore-core-geoorientationupdate-class</a> delta, <a href="../core/Point2D-class.html">/sdk-for-flutter-explore-core-point2d-class</a> origin)
-    → <a href="../mapview/MapCameraUpdate-class.html">/sdk-for-flutter-explore-mapview-mapcameraupdate-class</a>
+/sdk-for-flutter-explore-mapview-mapcameraupdatefactory-orbitby(<wbr/>/sdk-for-flutter-explore-core-geoorientationupdate-class delta, /sdk-for-flutter-explore-core-point2d-class origin)
+    → /sdk-for-flutter-explore-mapview-mapcameraupdate-class
+
 </dt>
 <dd>
   Creates an update to orbit map camera around a pixel origin by specified geodetic orientation delta.
@@ -287,8 +301,9 @@ orientation and map measure and with the given geo point located at the given vi
 
 </dd>
 <dt class="callable" id="panBy">
-<a href="../mapview/MapCameraUpdateFactory/panBy.html">/sdk-for-flutter-explore-mapview-mapcameraupdatefactory-panby</a>(<wbr/>double xOffset, double yOffset)
-    → <a href="../mapview/MapCameraUpdate-class.html">/sdk-for-flutter-explore-mapview-mapcameraupdate-class</a>
+/sdk-for-flutter-explore-mapview-mapcameraupdatefactory-panby(<wbr/>double xOffset, double yOffset)
+    → /sdk-for-flutter-explore-mapview-mapcameraupdate-class
+
 </dt>
 <dd>
   Creates an update to pan map camera over the map by the specified number of pixels
@@ -297,8 +312,9 @@ in the x and y direction starting from current principal point position.
 
 </dd>
 <dt class="callable" id="rotateBy">
-<a href="../mapview/MapCameraUpdateFactory/rotateBy.html">/sdk-for-flutter-explore-mapview-mapcameraupdatefactory-rotateby</a>(<wbr/><a href="../core/GeoOrientationUpdate-class.html">/sdk-for-flutter-explore-core-geoorientationupdate-class</a> delta)
-    → <a href="../mapview/MapCameraUpdate-class.html">/sdk-for-flutter-explore-mapview-mapcameraupdate-class</a>
+/sdk-for-flutter-explore-mapview-mapcameraupdatefactory-rotateby(<wbr/>/sdk-for-flutter-explore-core-geoorientationupdate-class delta)
+    → /sdk-for-flutter-explore-mapview-mapcameraupdate-class
+
 </dt>
 <dd>
   Creates an update to change map camera orientation by specified geodetic orientation delta.
@@ -306,8 +322,9 @@ in the x and y direction starting from current principal point position.
 
 </dd>
 <dt class="callable" id="setNormalizedPrincipalPoint">
-<a href="../mapview/MapCameraUpdateFactory/setNormalizedPrincipalPoint.html">/sdk-for-flutter-explore-mapview-mapcameraupdatefactory-setnormalizedprincipalpoint</a>(<wbr/><a href="../core/Anchor2D-class.html">/sdk-for-flutter-explore-core-anchor2d-class</a> principalPoint)
-    → <a href="../mapview/MapCameraUpdate-class.html">/sdk-for-flutter-explore-mapview-mapcameraupdate-class</a>
+/sdk-for-flutter-explore-mapview-mapcameraupdatefactory-setnormalizedprincipalpoint(<wbr/>/sdk-for-flutter-explore-core-anchor2d-class principalPoint)
+    → /sdk-for-flutter-explore-mapview-mapcameraupdate-class
+
 </dt>
 <dd>
   Creates an update to change the map camera's principal point (where the view vector
@@ -316,8 +333,9 @@ intersects the image plane - default is (0.5, 0.5)).
 
 </dd>
 <dt class="callable" id="setPrincipalPoint">
-<a href="../mapview/MapCameraUpdateFactory/setPrincipalPoint.html">/sdk-for-flutter-explore-mapview-mapcameraupdatefactory-setprincipalpoint</a>(<wbr/><a href="../core/Point2D-class.html">/sdk-for-flutter-explore-core-point2d-class</a> principalPoint)
-    → <a href="../mapview/MapCameraUpdate-class.html">/sdk-for-flutter-explore-mapview-mapcameraupdate-class</a>
+/sdk-for-flutter-explore-mapview-mapcameraupdatefactory-setprincipalpoint(<wbr/>/sdk-for-flutter-explore-core-point2d-class principalPoint)
+    → /sdk-for-flutter-explore-mapview-mapcameraupdate-class
+
 </dt>
 <dd>
   Creates an update to change the map camera's principal point (where the view vector intersects
@@ -326,8 +344,9 @@ the image plane - default is the center of the view).
 
 </dd>
 <dt class="callable" id="setVerticalFieldOfView">
-<a href="../mapview/MapCameraUpdateFactory/setVerticalFieldOfView.html">/sdk-for-flutter-explore-mapview-mapcameraupdatefactory-setverticalfieldofview</a>(<wbr/>double verticalFieldOfView)
-    → <a href="../mapview/MapCameraUpdate-class.html">/sdk-for-flutter-explore-mapview-mapcameraupdate-class</a>
+/sdk-for-flutter-explore-mapview-mapcameraupdatefactory-setverticalfieldofview(<wbr/>double verticalFieldOfView)
+    → /sdk-for-flutter-explore-mapview-mapcameraupdate-class
+
 </dt>
 <dd>
   Creates an update to change the vertical field of view of the map camera.
@@ -335,8 +354,9 @@ the image plane - default is the center of the view).
 
 </dd>
 <dt class="callable" id="zoomBy">
-<a href="../mapview/MapCameraUpdateFactory/zoomBy.html">/sdk-for-flutter-explore-mapview-mapcameraupdatefactory-zoomby</a>(<wbr/>double factor, <a href="../core/Point2D-class.html">/sdk-for-flutter-explore-core-point2d-class</a> origin)
-    → <a href="../mapview/MapCameraUpdate-class.html">/sdk-for-flutter-explore-mapview-mapcameraupdate-class</a>
+/sdk-for-flutter-explore-mapview-mapcameraupdatefactory-zoomby(<wbr/>double factor, /sdk-for-flutter-explore-core-point2d-class origin)
+    → /sdk-for-flutter-explore-mapview-mapcameraupdate-class
+
 </dt>
 <dd>
   Creates an update to zoom map camera by a given factor preserving a given focus point.
@@ -344,8 +364,9 @@ the image plane - default is the center of the view).
 
 </dd>
 <dt class="callable" id="zoomTo">
-<a href="../mapview/MapCameraUpdateFactory/zoomTo.html">/sdk-for-flutter-explore-mapview-mapcameraupdatefactory-zoomto</a>(<wbr/>double zoomLevel)
-    → <a href="../mapview/MapCameraUpdate-class.html">/sdk-for-flutter-explore-mapview-mapcameraupdate-class</a>
+/sdk-for-flutter-explore-mapview-mapcameraupdatefactory-zoomto(<wbr/>double zoomLevel)
+    → /sdk-for-flutter-explore-mapview-mapcameraupdate-class
+
 </dt>
 <dd>
   Creates an update to move map camera's viewpoint to a particular zoom level by adjusting its position.
@@ -362,8 +383,8 @@ the image plane - default is the center of the view).
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
 <li class="self-crumb">MapCameraUpdateFactory class</li>
 </ol>
 <h5>mapview library</h5>
@@ -380,4 +401,5 @@ the image plane - default is the center of the view).
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

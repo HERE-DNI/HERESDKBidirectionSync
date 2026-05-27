@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "runtimeType property"
 slug: "sdk-for-flutter-explore-core-engine-sdknativeenginepurgememorystrategy-runtimetype"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- runtimeType.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-core-engine-sdknativeenginepurgememorystrategy-ru
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
-<li><a href="../../core.engine/SDKNativeEnginePurgeMemoryStrategy.html">/sdk-for-flutter-explore-core-engine-sdknativeenginepurgememorystrategy</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
+<li>/sdk-for-flutter-explore-core-engine-sdknativeenginepurgememorystrategy</li>
 <li class="self-crumb">runtimeType property</li>
 </ol>
 <div class="self-name">runtimeType</div>
@@ -58,9 +59,9 @@ runtimeType
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
-<li><a href="../../core.engine/SDKNativeEnginePurgeMemoryStrategy.html">/sdk-for-flutter-explore-core-engine-sdknativeenginepurgememorystrategy</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
+<li>/sdk-for-flutter-explore-core-engine-sdknativeenginepurgememorystrategy</li>
 <li class="self-crumb">runtimeType property</li>
 </ol>
 <h5>SDKNativeEnginePurgeMemoryStrategy enum</h5>
@@ -77,4 +78,5 @@ runtimeType
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

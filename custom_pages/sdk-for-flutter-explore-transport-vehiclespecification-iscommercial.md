@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "isCommercial property"
 slug: "sdk-for-flutter-explore-transport-vehiclespecification-iscommercial"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- isCommercial.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-transport-vehiclespecification-iscommercial"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
-<li><a href="../../transport/VehicleSpecification-class.html">/sdk-for-flutter-explore-transport-vehiclespecification-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-transport-transport-library</li>
+<li>/sdk-for-flutter-explore-transport-vehiclespecification-class</li>
 <li class="self-crumb">isCommercial property</li>
 </ol>
 <div class="self-name">isCommercial</div>
@@ -50,8 +51,8 @@ Defaults to <code>false</code>.</p>
 <li>Only supported for online routing.</li>
 <li>This parameter is currently used only for the calculation of tolls in regions where it is applicable.</li>
 <li>Not used for offline calculations.</li>
-<li>Supported for <a href="../../transport/TransportMode.html">/sdk-for-flutter-explore-transport-transportmode</a>, <a href="../../transport/TransportMode.html">/sdk-for-flutter-explore-transport-transportmode</a>, <a href="../../transport/TransportMode.html">/sdk-for-flutter-explore-transport-transportmode</a>,
-<a href="../../transport/TransportMode.html">/sdk-for-flutter-explore-transport-transportmode</a> and <a href="../../transport/TransportMode.html">/sdk-for-flutter-explore-transport-transportmode</a>.</li>
+<li>Supported for /sdk-for-flutter-explore-transport-transportmode, /sdk-for-flutter-explore-transport-transportmode, /sdk-for-flutter-explore-transport-transportmode,
+/sdk-for-flutter-explore-transport-transportmode and /sdk-for-flutter-explore-transport-transportmode.</li>
 </ul>
 </section>
 <section class="summary source-code" id="source">
@@ -66,9 +67,9 @@ Defaults to <code>false</code>.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
-<li><a href="../../transport/VehicleSpecification-class.html">/sdk-for-flutter-explore-transport-vehiclespecification-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-transport-transport-library</li>
+<li>/sdk-for-flutter-explore-transport-vehiclespecification-class</li>
 <li class="self-crumb">isCommercial property</li>
 </ol>
 <h5>VehicleSpecification class</h5>
@@ -85,4 +86,5 @@ Defaults to <code>false</code>.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

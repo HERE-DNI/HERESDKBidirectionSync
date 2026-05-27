@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "EVSearchInterface constructor"
 slug: "sdk-for-flutter-explore-search-evsearchinterface-evsearchinterface"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- EVSearchInterface.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-search-evsearchinterface-evsearchinterface"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/EVSearchInterface-class.html">/sdk-for-flutter-explore-search-evsearchinterface-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-evsearchinterface-class</li>
 <li class="self-crumb">EVSearchInterface factory constructor</li>
 </ol>
 <div class="self-name">EVSearchInterface</div>
@@ -37,8 +38,8 @@ menu
 <div>
 <h1>EVSearchInterface constructor</h1></div>
 <section class="multi-line-signature">
-EVSearchInterface(<wbr/><ol class="parameter-list single-line"> <li><a href="../../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a> searchLambda(<ol class="parameter-list single-line"> <li>List&lt;<wbr/>String&gt;, </li>
-<li><a href="../../search/EVSearchCallback.html">/sdk-for-flutter-explore-search-evsearchcallback</a> </li>
+EVSearchInterface(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-core-threading-taskhandle-class searchLambda(<ol class="parameter-list single-line"> <li>List&lt;<wbr/>String&gt;, </li>
+<li>/sdk-for-flutter-explore-search-evsearchcallback </li>
 </ol>)</li>
 </ol>)
     </section>
@@ -65,9 +66,9 @@ Related APIs may change for new releases without a deprecation process.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/EVSearchInterface-class.html">/sdk-for-flutter-explore-search-evsearchinterface-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-evsearchinterface-class</li>
 <li class="self-crumb">EVSearchInterface factory constructor</li>
 </ol>
 <h5>EVSearchInterface class</h5>
@@ -84,4 +85,5 @@ Related APIs may change for new releases without a deprecation process.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

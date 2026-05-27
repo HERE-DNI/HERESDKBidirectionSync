@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "setMultiColorGradientLength abstract method"
 slug: "sdk-for-flutter-explore-mapview-mappolylinesolidmulticolorrepresentation-setmulticolorgradientlength"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- setMultiColorGradientLength.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-mappolylinesolidmulticolorrepresentation-
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapPolylineSolidMultiColorRepresentation-class.html">/sdk-for-flutter-explore-mapview-mappolylinesolidmulticolorrepresentation-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mappolylinesolidmulticolorrepresentation-class</li>
 <li class="self-crumb">setMultiColorGradientLength abstract method</li>
 </ol>
 <div class="self-name">setMultiColorGradientLength</div>
@@ -77,9 +78,9 @@ Valid value range is [0.0, 1.0]. Out of range values are not supported.</li>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapPolylineSolidMultiColorRepresentation-class.html">/sdk-for-flutter-explore-mapview-mappolylinesolidmulticolorrepresentation-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mappolylinesolidmulticolorrepresentation-class</li>
 <li class="self-crumb">setMultiColorGradientLength abstract method</li>
 </ol>
 <h5>MapPolylineSolidMultiColorRepresentation class</h5>
@@ -96,4 +97,5 @@ Valid value range is [0.0, 1.0]. Out of range values are not supported.</li>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

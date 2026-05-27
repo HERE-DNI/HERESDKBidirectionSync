@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "MapLayerPriorityBuilder class abstract"
 slug: "sdk-for-flutter-explore-mapview-maplayerprioritybuilder-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- MapLayerPriorityBuilder-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -33,8 +34,8 @@ slug: "sdk-for-flutter-explore-mapview-maplayerprioritybuilder-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
 <li class="self-crumb">MapLayerPriorityBuilder class</li>
 </ol>
 <div class="self-name">MapLayerPriorityBuilder</div>
@@ -146,7 +147,7 @@ assignment can be done for all types of data: points, lines, polygons.</li>
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="MapLayerPriorityBuilder">
-<a href="../mapview/MapLayerPriorityBuilder/MapLayerPriorityBuilder.html">/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-maplayerprioritybuilder</a>()
+/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-maplayerprioritybuilder()
 </dt>
 <dd>
           Creates an instance of the layer priority builder interface.
@@ -158,7 +159,7 @@ assignment can be done for all types of data: points, lines, polygons.</li>
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="hashCode">
-<a href="../mapview/MapLayerPriorityBuilder/hashCode.html">/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-hashcode</a>
+/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-hashcode
 → int
 </dt>
 <dd class="inherited">
@@ -166,7 +167,7 @@ assignment can be done for all types of data: points, lines, polygons.</li>
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../mapview/MapLayerPriorityBuilder/runtimeType.html">/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-runtimetype</a>
+/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -179,8 +180,9 @@ assignment can be done for all types of data: points, lines, polygons.</li>
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable" id="build">
-<a href="../mapview/MapLayerPriorityBuilder/build.html">/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-build</a>(<wbr/>)
-    → <a href="../mapview/MapLayerPriority-class.html">/sdk-for-flutter-explore-mapview-maplayerpriority-class</a>
+/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-build(<wbr/>)
+    → /sdk-for-flutter-explore-mapview-maplayerpriority-class
+
 </dt>
 <dd>
   Constructs a MapLayerPriority.
@@ -188,8 +190,9 @@ assignment can be done for all types of data: points, lines, polygons.</li>
 
 </dd>
 <dt class="callable" id="inGroup">
-<a href="../mapview/MapLayerPriorityBuilder/inGroup.html">/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-ingroup</a>(<wbr/>String group)
-    → <a href="../mapview/MapLayerPriorityBuilder-class.html">/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-class</a>
+/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-ingroup(<wbr/>String group)
+    → /sdk-for-flutter-explore-mapview-maplayerprioritybuilder-class
+
 </dt>
 <dd>
   Sets the group for which a priority could be defined with the next call to the functions
@@ -198,7 +201,7 @@ assignment can be done for all types of data: points, lines, polygons.</li>
 
 </dd>
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../mapview/MapLayerPriorityBuilder/noSuchMethod.html">/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -207,8 +210,9 @@ assignment can be done for all types of data: points, lines, polygons.</li>
   <div class="features">inherited</div>
 </dd>
 <dt class="callable" id="renderedAfterLayer">
-<a href="../mapview/MapLayerPriorityBuilder/renderedAfterLayer.html">/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-renderedafterlayer</a>(<wbr/>String referenceLayer)
-    → <a href="../mapview/MapLayerPriorityBuilder-class.html">/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-class</a>
+/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-renderedafterlayer(<wbr/>String referenceLayer)
+    → /sdk-for-flutter-explore-mapview-maplayerprioritybuilder-class
+
 </dt>
 <dd>
   Sets the priority as rendered after the last one from the referenceLayer and its categories.
@@ -216,8 +220,9 @@ assignment can be done for all types of data: points, lines, polygons.</li>
 
 </dd>
 <dt class="callable" id="renderedAfterLayerWithCategory">
-<a href="../mapview/MapLayerPriorityBuilder/renderedAfterLayerWithCategory.html">/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-renderedafterlayerwithcategory</a>(<wbr/>String referenceLayer, String referenceCategory)
-    → <a href="../mapview/MapLayerPriorityBuilder-class.html">/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-class</a>
+/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-renderedafterlayerwithcategory(<wbr/>String referenceLayer, String referenceCategory)
+    → /sdk-for-flutter-explore-mapview-maplayerprioritybuilder-class
+
 </dt>
 <dd>
   Sets the priority as rendered after the referenceCategory of the referenceLayer.
@@ -225,8 +230,9 @@ assignment can be done for all types of data: points, lines, polygons.</li>
 
 </dd>
 <dt class="callable" id="renderedBeforeLayer">
-<a href="../mapview/MapLayerPriorityBuilder/renderedBeforeLayer.html">/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-renderedbeforelayer</a>(<wbr/>String referenceLayer)
-    → <a href="../mapview/MapLayerPriorityBuilder-class.html">/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-class</a>
+/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-renderedbeforelayer(<wbr/>String referenceLayer)
+    → /sdk-for-flutter-explore-mapview-maplayerprioritybuilder-class
+
 </dt>
 <dd>
   Sets the priority as rendered before the first one from the referenceLayer and its categories.
@@ -234,8 +240,9 @@ assignment can be done for all types of data: points, lines, polygons.</li>
 
 </dd>
 <dt class="callable" id="renderedBeforeLayerWithCategory">
-<a href="../mapview/MapLayerPriorityBuilder/renderedBeforeLayerWithCategory.html">/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-renderedbeforelayerwithcategory</a>(<wbr/>String referenceLayer, String referenceCategory)
-    → <a href="../mapview/MapLayerPriorityBuilder-class.html">/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-class</a>
+/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-renderedbeforelayerwithcategory(<wbr/>String referenceLayer, String referenceCategory)
+    → /sdk-for-flutter-explore-mapview-maplayerprioritybuilder-class
+
 </dt>
 <dd>
   Sets the priority as rendered before the referenceCategory of the referenceLayer.
@@ -243,8 +250,9 @@ assignment can be done for all types of data: points, lines, polygons.</li>
 
 </dd>
 <dt class="callable" id="renderedFirst">
-<a href="../mapview/MapLayerPriorityBuilder/renderedFirst.html">/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-renderedfirst</a>(<wbr/>)
-    → <a href="../mapview/MapLayerPriorityBuilder-class.html">/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-class</a>
+/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-renderedfirst(<wbr/>)
+    → /sdk-for-flutter-explore-mapview-maplayerprioritybuilder-class
+
 </dt>
 <dd>
   Sets the priority as rendered before all layers and categories.
@@ -252,8 +260,9 @@ assignment can be done for all types of data: points, lines, polygons.</li>
 
 </dd>
 <dt class="callable" id="renderedLast">
-<a href="../mapview/MapLayerPriorityBuilder/renderedLast.html">/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-renderedlast</a>(<wbr/>)
-    → <a href="../mapview/MapLayerPriorityBuilder-class.html">/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-class</a>
+/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-renderedlast(<wbr/>)
+    → /sdk-for-flutter-explore-mapview-maplayerprioritybuilder-class
+
 </dt>
 <dd>
   Sets the priority as rendered after all layers and categories.
@@ -261,7 +270,7 @@ assignment can be done for all types of data: points, lines, polygons.</li>
 
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../mapview/MapLayerPriorityBuilder/toString.html">/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-tostring(<wbr/>)
     → String
 
 </dt>
@@ -270,8 +279,9 @@ assignment can be done for all types of data: points, lines, polygons.</li>
   <div class="features">inherited</div>
 </dd>
 <dt class="callable" id="withCategory">
-<a href="../mapview/MapLayerPriorityBuilder/withCategory.html">/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-withcategory</a>(<wbr/>String category)
-    → <a href="../mapview/MapLayerPriorityBuilder-class.html">/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-class</a>
+/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-withcategory(<wbr/>String category)
+    → /sdk-for-flutter-explore-mapview-maplayerprioritybuilder-class
+
 </dt>
 <dd>
   Sets the layer category for which a priority could be defined with the next call to the functions
@@ -285,7 +295,7 @@ assignment can be done for all types of data: points, lines, polygons.</li>
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-<a href="../mapview/MapLayerPriorityBuilder/operator_equals.html">/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -303,8 +313,8 @@ assignment can be done for all types of data: points, lines, polygons.</li>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
 <li class="self-crumb">MapLayerPriorityBuilder class</li>
 </ol>
 <h5>mapview library</h5>
@@ -321,4 +331,5 @@ assignment can be done for all types of data: points, lines, polygons.</li>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

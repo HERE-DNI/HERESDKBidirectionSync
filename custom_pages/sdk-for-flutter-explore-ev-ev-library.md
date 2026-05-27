@@ -1,9 +1,10 @@
 ---
-title: "Classes"
+title: "ev library"
 slug: "sdk-for-flutter-explore-ev-ev-library"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- ev-library.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -19,7 +20,7 @@ slug: "sdk-for-flutter-explore-ev-ev-library"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li>/sdk-for-flutter-explore</li>
 <li class="self-crumb">ev.dart</li>
 </ol>
 <div class="self-name">ev</div>
@@ -47,7 +48,7 @@ menu
 <h2>Classes</h2>
 <dl>
 <dt id="EVChargingConnectorType">
-<a href="../ev/EVChargingConnectorType-class.html">/sdk-for-flutter-explore-ev-evchargingconnectortype-class</a>
+/sdk-for-flutter-explore-ev-evchargingconnectortype-class
 </dt>
 <dd>
   Represents the standardized type of the installed connector.
@@ -58,25 +59,25 @@ menu
 <h2>Enums</h2>
 <dl>
 <dt id="EVChargingConnectorFormat">
-<a href="../ev/EVChargingConnectorFormat.html">/sdk-for-flutter-explore-ev-evchargingconnectorformat</a>
+/sdk-for-flutter-explore-ev-evchargingconnectorformat
 </dt>
 <dd>
   Represents the format of the connector, whether it is a socket or a cable.
 </dd>
 <dt id="EVSECapability">
-<a href="../ev/EVSECapability.html">/sdk-for-flutter-explore-ev-evsecapability</a>
+/sdk-for-flutter-explore-ev-evsecapability
 </dt>
 <dd>
   Represents the administrative functionality that an EVSE is capable of.
 </dd>
 <dt id="EVSEPaymentSupport">
-<a href="../ev/EVSEPaymentSupport.html">/sdk-for-flutter-explore-ev-evsepaymentsupport</a>
+/sdk-for-flutter-explore-ev-evsepaymentsupport
 </dt>
 <dd>
   Represents the payment support functionality on EVSE for ad-hoc customers (without pre-registration).
 </dd>
 <dt id="EVSEState">
-<a href="../ev/EVSEState.html">/sdk-for-flutter-explore-ev-evsestate</a>
+/sdk-for-flutter-explore-ev-evsestate
 </dt>
 <dd>
   Indicates the current short-term status of the EVSE at the time given in the modified property.
@@ -91,25 +92,25 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li>/sdk-for-flutter-explore</li>
 <li class="self-crumb">ev.dart</li>
 </ol>
 <h5>here_sdk package</h5>
 <ol>
 <li class="section-title">Libraries</li>
-<li><a href="../animation/animation-library.html">/sdk-for-flutter-explore-animation-animation-library</a></li>
-<li><a href="../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
-<li><a href="../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
-<li><a href="../core.errors/core.errors-library.html">/sdk-for-flutter-explore-core-errors-core-errors-library</a></li>
-<li><a href="../core.threading/core.threading-library.html">/sdk-for-flutter-explore-core-threading-core-threading-library</a></li>
-<li><a href="../ev/ev-library.html">/sdk-for-flutter-explore-ev-ev-library</a></li>
-<li><a href="../gestures/gestures-library.html">/sdk-for-flutter-explore-gestures-gestures-library</a></li>
-<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
-<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../traffic/traffic-library.html">/sdk-for-flutter-explore-traffic-traffic-library</a></li>
-<li><a href="../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
+<li>/sdk-for-flutter-explore-animation-animation-library</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
+<li>/sdk-for-flutter-explore-core-errors-core-errors-library</li>
+<li>/sdk-for-flutter-explore-core-threading-core-threading-library</li>
+<li>/sdk-for-flutter-explore-ev-ev-library</li>
+<li>/sdk-for-flutter-explore-gestures-gestures-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-traffic-traffic-library</li>
+<li>/sdk-for-flutter-explore-transport-transport-library</li>
 </ol>
 </div>
 <div class="sidebar sidebar-offcanvas-right" id="dartdoc-sidebar-right">
@@ -124,4 +125,5 @@ menu
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

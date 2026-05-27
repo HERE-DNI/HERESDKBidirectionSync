@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "TranslucentMapLayerGroupInstantiationException constructor"
 slug: "sdk-for-flutter-explore-mapview-translucentmaplayergroupinstantiationexception-translucentmaplayergroupinstantiationexception"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- TranslucentMapLayerGroupInstantiationException.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-translucentmaplayergroupinstantiationexce
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/TranslucentMapLayerGroupInstantiationException-class.html">/sdk-for-flutter-explore-mapview-translucentmaplayergroupinstantiationexception-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-translucentmaplayergroupinstantiationexception-class</li>
 <li class="self-crumb">TranslucentMapLayerGroupInstantiationException constructor</li>
 </ol>
 <div class="self-name">TranslucentMapLayerGroupInstantiationException</div>
@@ -37,7 +38,7 @@ menu
 <div>
 <h1>TranslucentMapLayerGroupInstantiationException constructor</h1></div>
 <section class="multi-line-signature">
-TranslucentMapLayerGroupInstantiationException(<wbr/><ol class="parameter-list single-line"> <li><a href="../../mapview/TranslucentMapLayerGroupErrorDetails-class.html">/sdk-for-flutter-explore-mapview-translucentmaplayergrouperrordetails-class</a> error</li>
+TranslucentMapLayerGroupInstantiationException(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-mapview-translucentmaplayergrouperrordetails-class error</li>
 </ol>)
     </section>
 <section class="summary source-code" id="source">
@@ -52,9 +53,9 @@ TranslucentMapLayerGroupInstantiationException(<wbr/><ol class="parameter-list s
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/TranslucentMapLayerGroupInstantiationException-class.html">/sdk-for-flutter-explore-mapview-translucentmaplayergroupinstantiationexception-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-translucentmaplayergroupinstantiationexception-class</li>
 <li class="self-crumb">TranslucentMapLayerGroupInstantiationException constructor</li>
 </ol>
 <h5>TranslucentMapLayerGroupInstantiationException class</h5>
@@ -71,4 +72,5 @@ TranslucentMapLayerGroupInstantiationException(<wbr/><ol class="parameter-list s
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

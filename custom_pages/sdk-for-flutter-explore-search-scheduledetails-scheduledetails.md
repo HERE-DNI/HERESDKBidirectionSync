@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "ScheduleDetails constructor"
 slug: "sdk-for-flutter-explore-search-scheduledetails-scheduledetails"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- ScheduleDetails.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-search-scheduledetails-scheduledetails"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/ScheduleDetails-class.html">/sdk-for-flutter-explore-search-scheduledetails-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-scheduledetails-class</li>
 <li class="self-crumb">ScheduleDetails constructor</li>
 </ol>
 <div class="self-name">ScheduleDetails</div>
@@ -62,9 +63,9 @@ ScheduleDetails(<wbr/><ol class="parameter-list single-line"> <li>String start, 
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/ScheduleDetails-class.html">/sdk-for-flutter-explore-search-scheduledetails-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-scheduledetails-class</li>
 <li class="self-crumb">ScheduleDetails constructor</li>
 </ol>
 <h5>ScheduleDetails class</h5>
@@ -81,4 +82,5 @@ ScheduleDetails(<wbr/><ol class="parameter-list single-line"> <li>String start, 
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

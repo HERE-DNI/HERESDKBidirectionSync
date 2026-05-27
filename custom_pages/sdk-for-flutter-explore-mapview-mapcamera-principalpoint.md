@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "principalPoint property"
 slug: "sdk-for-flutter-explore-mapview-mapcamera-principalpoint"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- principalPoint.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-mapcamera-principalpoint"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapCamera-class.html">/sdk-for-flutter-explore-mapview-mapcamera-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapcamera-class</li>
 <li class="self-crumb">principalPoint property</li>
 </ol>
 <div class="self-name">principalPoint</div>
@@ -38,7 +39,7 @@ menu
 <h1>principalPoint property</h1></div>
 <section id="getter">
 <section class="multi-line-signature">
-<a href="../../core/Point2D-class.html">/sdk-for-flutter-explore-core-point2d-class</a>
+/sdk-for-flutter-explore-core-point2d-class
 principalPoint
 </section>
 <section class="desc markdown">
@@ -61,7 +62,7 @@ of the changes to dimensions and orientation of the view.</p>
 <section id="setter">
 <section class="multi-line-signature">
 void
-principalPoint=(<wbr/><a href="../../core/Point2D-class.html">/sdk-for-flutter-explore-core-point2d-class</a> value)
+principalPoint=(<wbr/>/sdk-for-flutter-explore-core-point2d-class value)
 </section>
 <section class="desc markdown">
 <p>Determines the pixel point where the target is placed within the map view. Setting a new
@@ -96,9 +97,9 @@ are not affected.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapCamera-class.html">/sdk-for-flutter-explore-mapview-mapcamera-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapcamera-class</li>
 <li class="self-crumb">principalPoint property</li>
 </ol>
 <h5>MapCamera class</h5>
@@ -115,4 +116,5 @@ are not affected.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

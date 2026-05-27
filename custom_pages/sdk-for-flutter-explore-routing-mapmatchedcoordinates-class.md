@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "MapMatchedCoordinates class"
 slug: "sdk-for-flutter-explore-routing-mapmatchedcoordinates-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- MapMatchedCoordinates-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -26,8 +27,8 @@ slug: "sdk-for-flutter-explore-routing-mapmatchedcoordinates-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
 <li class="self-crumb">MapMatchedCoordinates class</li>
 </ol>
 <div class="self-name">MapMatchedCoordinates</div>
@@ -57,7 +58,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="MapMatchedCoordinates">
-<a href="../routing/MapMatchedCoordinates/MapMatchedCoordinates.html">/sdk-for-flutter-explore-routing-mapmatchedcoordinates-mapmatchedcoordinates</a>(<a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a> originalCoordinates, <a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a> matchedCoordinates)
+/sdk-for-flutter-explore-routing-mapmatchedcoordinates-mapmatchedcoordinates(/sdk-for-flutter-explore-core-geocoordinates-class originalCoordinates, /sdk-for-flutter-explore-core-geocoordinates-class matchedCoordinates)
 </dt>
 <dd>
           Creates a new instance.
@@ -68,7 +69,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="hashCode">
-<a href="../routing/MapMatchedCoordinates/hashCode.html">/sdk-for-flutter-explore-routing-mapmatchedcoordinates-hashcode</a>
+/sdk-for-flutter-explore-routing-mapmatchedcoordinates-hashcode
 → int
 </dt>
 <dd>
@@ -76,23 +77,23 @@ menu
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="matchedCoordinates">
-<a href="../routing/MapMatchedCoordinates/matchedCoordinates.html">/sdk-for-flutter-explore-routing-mapmatchedcoordinates-matchedcoordinates</a>
-↔ <a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>
+/sdk-for-flutter-explore-routing-mapmatchedcoordinates-matchedcoordinates
+↔ /sdk-for-flutter-explore-core-geocoordinates-class
 </dt>
 <dd>
   Map-matched geographic coordinates.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="originalCoordinates">
-<a href="../routing/MapMatchedCoordinates/originalCoordinates.html">/sdk-for-flutter-explore-routing-mapmatchedcoordinates-originalcoordinates</a>
-↔ <a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>
+/sdk-for-flutter-explore-routing-mapmatchedcoordinates-originalcoordinates
+↔ /sdk-for-flutter-explore-core-geocoordinates-class
 </dt>
 <dd>
   The user defined geographic coordinates.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../routing/MapMatchedCoordinates/runtimeType.html">/sdk-for-flutter-explore-routing-mapmatchedcoordinates-runtimetype</a>
+/sdk-for-flutter-explore-routing-mapmatchedcoordinates-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -105,7 +106,7 @@ menu
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../routing/MapMatchedCoordinates/noSuchMethod.html">/sdk-for-flutter-explore-routing-mapmatchedcoordinates-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-routing-mapmatchedcoordinates-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -114,7 +115,7 @@ menu
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../routing/MapMatchedCoordinates/toString.html">/sdk-for-flutter-explore-routing-mapmatchedcoordinates-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-routing-mapmatchedcoordinates-tostring(<wbr/>)
     → String
 
 </dt>
@@ -128,7 +129,7 @@ menu
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-<a href="../routing/MapMatchedCoordinates/operator_equals.html">/sdk-for-flutter-explore-routing-mapmatchedcoordinates-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-routing-mapmatchedcoordinates-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -147,8 +148,8 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
 <li class="self-crumb">MapMatchedCoordinates class</li>
 </ol>
 <h5>routing library</h5>
@@ -165,4 +166,5 @@ menu
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "TextQueryArea.withCorridor constructor"
 slug: "sdk-for-flutter-explore-search-textqueryarea-textqueryarea-withcorridor"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- TextQueryArea.withCorridor.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-search-textqueryarea-textqueryarea-withcorridor"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/TextQueryArea-class.html">/sdk-for-flutter-explore-search-textqueryarea-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-textqueryarea-class</li>
 <li class="self-crumb">TextQueryArea.withCorridor factory constructor</li>
 </ol>
 <div class="self-name">TextQueryArea.withCorridor</div>
@@ -37,8 +38,8 @@ menu
 <div>
 <h1>TextQueryArea.withCorridor constructor</h1></div>
 <section class="multi-line-signature">
-TextQueryArea.withCorridor(<wbr/><ol class="parameter-list single-line"> <li><a href="../../core/GeoCorridor-class.html">/sdk-for-flutter-explore-core-geocorridor-class</a> corridorArea, </li>
-<li><a href="../../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a> areaCenter</li>
+TextQueryArea.withCorridor(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-core-geocorridor-class corridorArea, </li>
+<li>/sdk-for-flutter-explore-core-geocoordinates-class areaCenter</li>
 </ol>)
     </section>
 <section class="desc markdown">
@@ -76,9 +77,9 @@ Milan (Italy) and Konstanz (Germany) will have the far away part removed due to 
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/TextQueryArea-class.html">/sdk-for-flutter-explore-search-textqueryarea-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-textqueryarea-class</li>
 <li class="self-crumb">TextQueryArea.withCorridor factory constructor</li>
 </ol>
 <h5>TextQueryArea class</h5>
@@ -95,4 +96,5 @@ Milan (Italy) and Konstanz (Germany) will have the far away part removed due to 
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

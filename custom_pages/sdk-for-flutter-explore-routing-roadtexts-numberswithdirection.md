@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "numbersWithDirection property"
 slug: "sdk-for-flutter-explore-routing-roadtexts-numberswithdirection"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- numbersWithDirection.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-routing-roadtexts-numberswithdirection"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/RoadTexts-class.html">/sdk-for-flutter-explore-routing-roadtexts-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-roadtexts-class</li>
 <li class="self-crumb">numbersWithDirection property</li>
 </ol>
 <div class="self-name">numbersWithDirection</div>
@@ -37,7 +38,7 @@ menu
 <div>
 <h1>numbersWithDirection property</h1></div>
 <section class="multi-line-signature">
-<a href="../../routing/LocalizedRoadNumbers-class.html">/sdk-for-flutter-explore-routing-localizedroadnumbers-class</a>
+/sdk-for-flutter-explore-routing-localizedroadnumbers-class
 numbersWithDirection
 <div class="features">getter/setter pair</div>
 </section>
@@ -57,9 +58,9 @@ Empty if the road has no numbers assigned.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/RoadTexts-class.html">/sdk-for-flutter-explore-routing-roadtexts-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-roadtexts-class</li>
 <li class="self-crumb">numbersWithDirection property</li>
 </ol>
 <h5>RoadTexts class</h5>
@@ -76,4 +77,5 @@ Empty if the road has no numbers assigned.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "truckCategory property"
 slug: "sdk-for-flutter-explore-transport-vehicleprofile-truckcategory"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- truckCategory.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-transport-vehicleprofile-truckcategory"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
-<li><a href="../../transport/VehicleProfile-class.html">/sdk-for-flutter-explore-transport-vehicleprofile-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-transport-transport-library</li>
+<li>/sdk-for-flutter-explore-transport-vehicleprofile-class</li>
 <li class="self-crumb">truckCategory property</li>
 </ol>
 <div class="self-name">truckCategory</div>
@@ -37,13 +38,13 @@ menu
 <div>
 <h1>truckCategory property</h1></div>
 <section class="multi-line-signature">
-<a href="../../transport/TruckCategory.html">/sdk-for-flutter-explore-transport-truckcategory</a>?
+/sdk-for-flutter-explore-transport-truckcategory?
         truckCategory
 <div class="features">getter/setter pair</div>
 </section>
 <section class="desc markdown">
 <p>Defines the truck category.
-Only used when the <a href="../../transport/VehicleProfile/vehicleType.html">/sdk-for-flutter-explore-transport-vehicleprofile-vehicletype</a> is <a href="../../transport/VehicleType.html">/sdk-for-flutter-explore-transport-vehicletype</a>
+Only used when the /sdk-for-flutter-explore-transport-vehicleprofile-vehicletype is /sdk-for-flutter-explore-transport-vehicletype
 By default, it is not set.</p>
 </section>
 <section class="summary source-code" id="source">
@@ -58,9 +59,9 @@ By default, it is not set.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
-<li><a href="../../transport/VehicleProfile-class.html">/sdk-for-flutter-explore-transport-vehicleprofile-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-transport-transport-library</li>
+<li>/sdk-for-flutter-explore-transport-vehicleprofile-class</li>
 <li class="self-crumb">truckCategory property</li>
 </ol>
 <h5>VehicleProfile class</h5>
@@ -77,4 +78,5 @@ By default, it is not set.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

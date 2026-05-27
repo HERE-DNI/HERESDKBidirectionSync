@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "severity property"
 slug: "sdk-for-flutter-explore-routing-sectionnotice-severity"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- severity.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-routing-sectionnotice-severity"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/SectionNotice-class.html">/sdk-for-flutter-explore-routing-sectionnotice-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-sectionnotice-class</li>
 <li class="self-crumb">severity property</li>
 </ol>
 <div class="self-name">severity</div>
@@ -37,7 +38,7 @@ menu
 <div>
 <h1>severity property</h1></div>
 <section class="multi-line-signature">
-<a href="../../routing/NoticeSeverity.html">/sdk-for-flutter-explore-routing-noticeseverity</a>
+/sdk-for-flutter-explore-routing-noticeseverity
 severity
 <div class="features">getter/setter pair</div>
 </section>
@@ -56,9 +57,9 @@ severity
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/SectionNotice-class.html">/sdk-for-flutter-explore-routing-sectionnotice-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-sectionnotice-class</li>
 <li class="self-crumb">severity property</li>
 </ol>
 <h5>SectionNotice class</h5>
@@ -75,4 +76,5 @@ severity
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

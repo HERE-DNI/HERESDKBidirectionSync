@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "busSpecifications property"
 slug: "sdk-for-flutter-explore-routing-privatebusoptions-busspecifications"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- busSpecifications.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-routing-privatebusoptions-busspecifications"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/PrivateBusOptions-class.html">/sdk-for-flutter-explore-routing-privatebusoptions-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-privatebusoptions-class</li>
 <li class="self-crumb">busSpecifications property</li>
 </ol>
 <div class="self-name">busSpecifications</div>
@@ -37,7 +38,7 @@ menu
 <div>
 <h1>busSpecifications property</h1></div>
 <section class="multi-line-signature">
-<a class="deprecated" href="../../transport/BusSpecifications-class.html">/sdk-for-flutter-explore-transport-busspecifications-class</a>
+/sdk-for-flutter-explore-transport-busspecifications-class
 busSpecifications
 <div class="features">getter/setter pair</div>
 </section>
@@ -45,10 +46,10 @@ busSpecifications
 <p>Detailed bus specifications such as dimensions and weight.</p>
 <p><strong>Note:</strong> Some members of <code>bus_specifications</code> have limited value range.</p>
 <ul>
-<li><a href="../../transport/BusSpecifications/grossWeightInKilograms.html">/sdk-for-flutter-explore-transport-busspecifications-grossweightinkilograms</a> must not be negative.</li>
-<li><a href="../../transport/BusSpecifications/heightInCentimeters.html">/sdk-for-flutter-explore-transport-busspecifications-heightincentimeters</a> must be in the range [0, 5000].</li>
-<li><a href="../../transport/BusSpecifications/widthInCentimeters.html">/sdk-for-flutter-explore-transport-busspecifications-widthincentimeters</a> must be in the range [0, 5000].</li>
-<li><a href="../../transport/BusSpecifications/lengthInCentimeters.html">/sdk-for-flutter-explore-transport-busspecifications-lengthincentimeters</a> must be in the range [0, 30000].
+<li>/sdk-for-flutter-explore-transport-busspecifications-grossweightinkilograms must not be negative.</li>
+<li>/sdk-for-flutter-explore-transport-busspecifications-heightincentimeters must be in the range [0, 5000].</li>
+<li>/sdk-for-flutter-explore-transport-busspecifications-widthincentimeters must be in the range [0, 5000].</li>
+<li>/sdk-for-flutter-explore-transport-busspecifications-lengthincentimeters must be in the range [0, 30000].
 The validation of the range is done in the method that takes <code>PrivateBusOptions</code> as parameter.</li>
 </ul>
 </section>
@@ -64,9 +65,9 @@ The validation of the range is done in the method that takes <code>PrivateBusOpt
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/PrivateBusOptions-class.html">/sdk-for-flutter-explore-routing-privatebusoptions-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-privatebusoptions-class</li>
 <li class="self-crumb">busSpecifications property</li>
 </ol>
 <h5>PrivateBusOptions class</h5>
@@ -83,4 +84,5 @@ The validation of the range is done in the method that takes <code>PrivateBusOpt
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

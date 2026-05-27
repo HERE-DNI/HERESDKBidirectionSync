@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "implicitlyPrefetchedFeatures property"
 slug: "sdk-for-flutter-explore-core-engine-layerconfiguration-implicitlyprefetchedfeatures"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- implicitlyPrefetchedFeatures.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-core-engine-layerconfiguration-implicitlyprefetch
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
-<li><a href="../../core.engine/LayerConfiguration-class.html">/sdk-for-flutter-explore-core-engine-layerconfiguration-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
+<li>/sdk-for-flutter-explore-core-engine-layerconfiguration-class</li>
 <li class="self-crumb">implicitlyPrefetchedFeatures property</li>
 </ol>
 <div class="self-name">implicitlyPrefetchedFeatures</div>
@@ -38,7 +39,7 @@ menu
 <h1>implicitlyPrefetchedFeatures property</h1></div>
 <section class="multi-line-signature">
         
-        List&lt;<wbr/><a href="../../core.engine/LayerConfigurationFeature.html">/sdk-for-flutter-explore-core-engine-layerconfigurationfeature</a>&gt;
+        List&lt;<wbr/>/sdk-for-flutter-explore-core-engine-layerconfigurationfeature&gt;
 implicitlyPrefetchedFeatures
 <div class="features">getter/setter pair</div>
 </section>
@@ -53,7 +54,7 @@ applies. That means you cannot remove any content from the map cache by updating
 <code>LayerConfiguration</code>. However, for new map data, it will be applied.</p>
 <p>By default the list contains:</p>
 <ul>
-<li><a href="../../core.engine/LayerConfigurationFeature.html">/sdk-for-flutter-explore-core-engine-layerconfigurationfeature</a></li>
+<li>/sdk-for-flutter-explore-core-engine-layerconfigurationfeature</li>
 </ul>
 <p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
 Related APIs may change for new releases without a deprecation process.</p>
@@ -70,9 +71,9 @@ Related APIs may change for new releases without a deprecation process.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
-<li><a href="../../core.engine/LayerConfiguration-class.html">/sdk-for-flutter-explore-core-engine-layerconfiguration-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
+<li>/sdk-for-flutter-explore-core-engine-layerconfiguration-class</li>
 <li class="self-crumb">implicitlyPrefetchedFeatures property</li>
 </ol>
 <h5>LayerConfiguration class</h5>
@@ -89,4 +90,5 @@ Related APIs may change for new releases without a deprecation process.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

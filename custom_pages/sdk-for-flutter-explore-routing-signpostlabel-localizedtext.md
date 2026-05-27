@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "localizedText property"
 slug: "sdk-for-flutter-explore-routing-signpostlabel-localizedtext"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- localizedText.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-routing-signpostlabel-localizedtext"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/SignpostLabel-class.html">/sdk-for-flutter-explore-routing-signpostlabel-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-signpostlabel-class</li>
 <li class="self-crumb">localizedText property</li>
 </ol>
 <div class="self-name">localizedText</div>
@@ -37,7 +38,7 @@ menu
 <div>
 <h1>localizedText property</h1></div>
 <section class="multi-line-signature">
-<a href="../../core/LocalizedText-class.html">/sdk-for-flutter-explore-core-localizedtext-class</a>?
+/sdk-for-flutter-explore-core-localizedtext-class?
         localizedText
 <div class="features">getter/setter pair</div>
 </section>
@@ -57,9 +58,9 @@ Can be null for unnamed road.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/SignpostLabel-class.html">/sdk-for-flutter-explore-routing-signpostlabel-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-signpostlabel-class</li>
 <li class="self-crumb">localizedText property</li>
 </ol>
 <h5>SignpostLabel class</h5>
@@ -76,4 +77,5 @@ Can be null for unnamed road.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "MapPolylineSolidRepresentation class abstract"
 slug: "sdk-for-flutter-explore-mapview-mappolylinesolidrepresentation-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- MapPolylineSolidRepresentation-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -30,8 +31,8 @@ slug: "sdk-for-flutter-explore-mapview-mappolylinesolidrepresentation-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
 <li class="self-crumb">MapPolylineSolidRepresentation class</li>
 </ol>
 <div class="self-name">MapPolylineSolidRepresentation</div>
@@ -57,18 +58,18 @@ menu
 <section class="desc markdown">
 <p>Representation for a solid line without outline.</p>
 <p>Can represent polylines that have constant width or width dependent on the map zoom.</p>
-<p>To achieve constant width lines, use <a href="../mapview/MapMeasureDependentRenderSize-class.html">/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class</a> with a single value.</p>
-<p>To achieve line width dependent on map zoom, use <a href="../mapview/MapMeasureDependentRenderSize-class.html">/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class</a> with
+<p>To achieve constant width lines, use /sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class with a single value.</p>
+<p>To achieve line width dependent on map zoom, use /sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class with
 multiple values.</p>
-<p>For <a href="../mapview/MapMeasureKind.html">/sdk-for-flutter-explore-mapview-mapmeasurekind</a> only <a href="../mapview/MapMeasureKind.html">/sdk-for-flutter-explore-mapview-mapmeasurekind</a> is supported.</p>
-<p>For <a href="../mapview/RenderSizeUnit.html">/sdk-for-flutter-explore-mapview-rendersizeunit</a> only <a href="../mapview/RenderSizeUnit.html">/sdk-for-flutter-explore-mapview-rendersizeunit</a> is supported.</p>
+<p>For /sdk-for-flutter-explore-mapview-mapmeasurekind only /sdk-for-flutter-explore-mapview-mapmeasurekind is supported.</p>
+<p>For /sdk-for-flutter-explore-mapview-rendersizeunit only /sdk-for-flutter-explore-mapview-rendersizeunit is supported.</p>
 </section>
 <section>
 <dl class="dl-horizontal">
 <dt>Implemented types</dt>
 <dd>
 <ul class="comma-separated clazz-relationships">
-<li><a href="../mapview/MapPolylineRepresentation-class.html">/sdk-for-flutter-explore-mapview-mappolylinerepresentation-class</a></li>
+<li>/sdk-for-flutter-explore-mapview-mappolylinerepresentation-class</li>
 </ul>
 </dd>
 </dl>
@@ -77,14 +78,14 @@ multiple values.</p>
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="MapPolylineSolidRepresentation">
-<a href="../mapview/MapPolylineSolidRepresentation/MapPolylineSolidRepresentation.html">/sdk-for-flutter-explore-mapview-mappolylinesolidrepresentation-mappolylinesolidrepresentation</a>(<a href="../mapview/MapMeasureDependentRenderSize-class.html">/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class</a> lineWidth, Color color, <a href="../mapview/LineCap.html">/sdk-for-flutter-explore-mapview-linecap</a> capShape)
+/sdk-for-flutter-explore-mapview-mappolylinesolidrepresentation-mappolylinesolidrepresentation(/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class lineWidth, Color color, /sdk-for-flutter-explore-mapview-linecap capShape)
 </dt>
 <dd>
           Creates a representation for a solid line without outline.
             <div class="constructor-modifier features">factory</div>
 </dd>
 <dt class="callable" id="MapPolylineSolidRepresentation.withOutline">
-<a href="../mapview/MapPolylineSolidRepresentation/MapPolylineSolidRepresentation.withOutline.html">/sdk-for-flutter-explore-mapview-mappolylinesolidrepresentation-mappolylinesolidrepresentation-withoutline</a>(<a href="../mapview/MapMeasureDependentRenderSize-class.html">/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class</a> lineWidth, Color color, <a href="../mapview/MapMeasureDependentRenderSize-class.html">/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class</a> outlineWidth, Color outlineColor, <a href="../mapview/LineCap.html">/sdk-for-flutter-explore-mapview-linecap</a> capShape)
+/sdk-for-flutter-explore-mapview-mappolylinesolidrepresentation-mappolylinesolidrepresentation-withoutline(/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class lineWidth, Color color, /sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class outlineWidth, Color outlineColor, /sdk-for-flutter-explore-mapview-linecap capShape)
 </dt>
 <dd>
           Creates a representation for a solid line with outline.
@@ -96,8 +97,8 @@ multiple values.</p>
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="capShape">
-<a href="../mapview/MapPolylineSolidRepresentation/capShape.html">/sdk-for-flutter-explore-mapview-mappolylinesolidrepresentation-capshape</a>
-→ <a href="../mapview/LineCap.html">/sdk-for-flutter-explore-mapview-linecap</a>
+/sdk-for-flutter-explore-mapview-mappolylinesolidrepresentation-capshape
+→ /sdk-for-flutter-explore-mapview-linecap
 </dt>
 <dd>
   The cap shape applied to both ends of the polyline and its outline.
@@ -105,7 +106,7 @@ Returns the cap shape of the polyline and its outline.
   <div class="features">no setter</div>
 </dd>
 <dt class="property inherited" id="hashCode">
-<a href="../mapview/MapItemRepresentation/hashCode.html">/sdk-for-flutter-explore-mapview-mapitemrepresentation-hashcode</a>
+/sdk-for-flutter-explore-mapview-mapitemrepresentation-hashcode
 → int
 </dt>
 <dd class="inherited">
@@ -113,7 +114,7 @@ Returns the cap shape of the polyline and its outline.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="lineColor">
-<a href="../mapview/MapPolylineSolidRepresentation/lineColor.html">/sdk-for-flutter-explore-mapview-mappolylinesolidrepresentation-linecolor</a>
+/sdk-for-flutter-explore-mapview-mappolylinesolidrepresentation-linecolor
 → Color
 </dt>
 <dd>
@@ -122,8 +123,8 @@ Gets the color of the polyline.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="lineWidth">
-<a href="../mapview/MapPolylineSolidRepresentation/lineWidth.html">/sdk-for-flutter-explore-mapview-mappolylinesolidrepresentation-linewidth</a>
-→ <a href="../mapview/MapMeasureDependentRenderSize-class.html">/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class</a>
+/sdk-for-flutter-explore-mapview-mappolylinesolidrepresentation-linewidth
+→ /sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class
 </dt>
 <dd>
   The width of the polyline depending on the map measure.
@@ -133,7 +134,7 @@ map measure in the <code>lineWidth</code>.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="outlineColor">
-<a href="../mapview/MapPolylineSolidRepresentation/outlineColor.html">/sdk-for-flutter-explore-mapview-mappolylinesolidrepresentation-outlinecolor</a>
+/sdk-for-flutter-explore-mapview-mappolylinesolidrepresentation-outlinecolor
 → Color
 </dt>
 <dd>
@@ -142,8 +143,8 @@ Gets the color of outline of the polyline.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="outlineWidth">
-<a href="../mapview/MapPolylineSolidRepresentation/outlineWidth.html">/sdk-for-flutter-explore-mapview-mappolylinesolidrepresentation-outlinewidth</a>
-→ <a href="../mapview/MapMeasureDependentRenderSize-class.html">/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class</a>
+/sdk-for-flutter-explore-mapview-mappolylinesolidrepresentation-outlinewidth
+→ /sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class
 </dt>
 <dd>
   The width of the outline on one side of the polyline depending on the map measure.
@@ -151,7 +152,7 @@ The total width of the polyline is <code>line width + 2 * outline width</code>.
   <div class="features">no setter</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../mapview/MapItemRepresentation/runtimeType.html">/sdk-for-flutter-explore-mapview-mapitemrepresentation-runtimetype</a>
+/sdk-for-flutter-explore-mapview-mapitemrepresentation-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -164,7 +165,7 @@ The total width of the polyline is <code>line width + 2 * outline width</code>.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../mapview/MapItemRepresentation/noSuchMethod.html">/sdk-for-flutter-explore-mapview-mapitemrepresentation-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-mapview-mapitemrepresentation-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -173,7 +174,7 @@ The total width of the polyline is <code>line width + 2 * outline width</code>.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../mapview/MapItemRepresentation/toString.html">/sdk-for-flutter-explore-mapview-mapitemrepresentation-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-mapview-mapitemrepresentation-tostring(<wbr/>)
     → String
 
 </dt>
@@ -187,7 +188,7 @@ The total width of the polyline is <code>line width + 2 * outline width</code>.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-<a href="../mapview/MapItemRepresentation/operator_equals.html">/sdk-for-flutter-explore-mapview-mapitemrepresentation-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-mapview-mapitemrepresentation-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -205,8 +206,8 @@ The total width of the polyline is <code>line width + 2 * outline width</code>.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
 <li class="self-crumb">MapPolylineSolidRepresentation class</li>
 </ol>
 <h5>mapview library</h5>
@@ -223,4 +224,5 @@ The total width of the polyline is <code>line width + 2 * outline width</code>.
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

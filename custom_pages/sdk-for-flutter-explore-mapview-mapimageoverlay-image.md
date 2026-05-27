@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "image property"
 slug: "sdk-for-flutter-explore-mapview-mapimageoverlay-image"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- image.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-mapimageoverlay-image"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapImageOverlay-class.html">/sdk-for-flutter-explore-mapview-mapimageoverlay-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapimageoverlay-class</li>
 <li class="self-crumb">image property</li>
 </ol>
 <div class="self-name">image</div>
@@ -38,7 +39,7 @@ menu
 <h1>image property</h1></div>
 <section id="getter">
 <section class="multi-line-signature">
-<a href="../../mapview/MapImage-class.html">/sdk-for-flutter-explore-mapview-mapimage-class</a>
+/sdk-for-flutter-explore-mapview-mapimage-class
 image
 </section>
 <section class="desc markdown">
@@ -53,7 +54,7 @@ Gets currently used map image.</p>
 <section id="setter">
 <section class="multi-line-signature">
 void
-image=(<wbr/><a href="../../mapview/MapImage-class.html">/sdk-for-flutter-explore-mapview-mapimage-class</a> value)
+image=(<wbr/>/sdk-for-flutter-explore-mapview-mapimage-class value)
 </section>
 <section class="desc markdown">
 <p>Image overlayed on the map.
@@ -72,9 +73,9 @@ Sets the image overlayed on map.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapImageOverlay-class.html">/sdk-for-flutter-explore-mapview-mapimageoverlay-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapimageoverlay-class</li>
 <li class="self-crumb">image property</li>
 </ol>
 <h5>MapImageOverlay class</h5>
@@ -91,4 +92,5 @@ Sets the image overlayed on map.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

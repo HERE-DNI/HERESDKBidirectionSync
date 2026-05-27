@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "connectorTypes property"
 slug: "sdk-for-flutter-explore-routing-batteryspecifications-connectortypes"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- connectorTypes.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-routing-batteryspecifications-connectortypes"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/BatterySpecifications-class.html">/sdk-for-flutter-explore-routing-batteryspecifications-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-batteryspecifications-class</li>
 <li class="self-crumb">connectorTypes property</li>
 </ol>
 <div class="self-name">connectorTypes</div>
@@ -38,14 +39,14 @@ menu
 <h1>connectorTypes property</h1></div>
 <section class="multi-line-signature">
         
-        List&lt;<wbr/><a href="../../routing/ChargingConnectorType.html">/sdk-for-flutter-explore-routing-chargingconnectortype</a>&gt;
+        List&lt;<wbr/>/sdk-for-flutter-explore-routing-chargingconnectortype&gt;
 connectorTypes
 <div class="features">getter/setter pair</div>
 </section>
 <section class="desc markdown">
 <p>List of available charging connector types.
 It must be at least one charging connector type added, otherwise
-the <a href="../../routing/BatterySpecifications-class.html">/sdk-for-flutter-explore-routing-batteryspecifications-class</a> instance is considered invalid.
+the /sdk-for-flutter-explore-routing-batteryspecifications-class instance is considered invalid.
 Defaults to an empty container.</p>
 </section>
 <section class="summary source-code" id="source">
@@ -60,9 +61,9 @@ Defaults to an empty container.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/BatterySpecifications-class.html">/sdk-for-flutter-explore-routing-batteryspecifications-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-batteryspecifications-class</li>
 <li class="self-crumb">connectorTypes property</li>
 </ol>
 <h5>BatterySpecifications class</h5>
@@ -79,4 +80,5 @@ Defaults to an empty container.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

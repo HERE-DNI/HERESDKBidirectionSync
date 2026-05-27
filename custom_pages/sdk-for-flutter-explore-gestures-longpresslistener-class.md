@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "LongPressListener class abstract"
 slug: "sdk-for-flutter-explore-gestures-longpresslistener-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- LongPressListener-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -25,8 +26,8 @@ slug: "sdk-for-flutter-explore-gestures-longpresslistener-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../gestures/gestures-library.html">/sdk-for-flutter-explore-gestures-gestures-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-gestures-gestures-library</li>
 <li class="self-crumb">LongPressListener class</li>
 </ol>
 <div class="self-name">LongPressListener</div>
@@ -57,7 +58,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="LongPressListener">
-<a href="../gestures/LongPressListener/LongPressListener.html">/sdk-for-flutter-explore-gestures-longpresslistener-longpresslistener</a>(void onLongPressLambda(<a href="../gestures/GestureState.html">/sdk-for-flutter-explore-gestures-gesturestate</a>, <a href="../core/Point2D-class.html">/sdk-for-flutter-explore-core-point2d-class</a>))
+/sdk-for-flutter-explore-gestures-longpresslistener-longpresslistener(void onLongPressLambda(/sdk-for-flutter-explore-gestures-gesturestate, /sdk-for-flutter-explore-core-point2d-class))
 </dt>
 <dd>
           Abstract class for handling long-press gestures.
@@ -69,7 +70,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="hashCode">
-<a href="../gestures/LongPressListener/hashCode.html">/sdk-for-flutter-explore-gestures-longpresslistener-hashcode</a>
+/sdk-for-flutter-explore-gestures-longpresslistener-hashcode
 → int
 </dt>
 <dd class="inherited">
@@ -77,7 +78,7 @@ menu
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../gestures/LongPressListener/runtimeType.html">/sdk-for-flutter-explore-gestures-longpresslistener-runtimetype</a>
+/sdk-for-flutter-explore-gestures-longpresslistener-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -90,7 +91,7 @@ menu
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../gestures/LongPressListener/noSuchMethod.html">/sdk-for-flutter-explore-gestures-longpresslistener-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-gestures-longpresslistener-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -99,7 +100,7 @@ menu
   <div class="features">inherited</div>
 </dd>
 <dt class="callable" id="onLongPress">
-<a href="../gestures/LongPressListener/onLongPress.html">/sdk-for-flutter-explore-gestures-longpresslistener-onlongpress</a>(<wbr/><a href="../gestures/GestureState.html">/sdk-for-flutter-explore-gestures-gesturestate</a> state, <a href="../core/Point2D-class.html">/sdk-for-flutter-explore-core-point2d-class</a> origin)
+/sdk-for-flutter-explore-gestures-longpresslistener-onlongpress(<wbr/>/sdk-for-flutter-explore-gestures-gesturestate state, /sdk-for-flutter-explore-core-point2d-class origin)
     → void
 
 </dt>
@@ -109,7 +110,7 @@ menu
 
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../gestures/LongPressListener/toString.html">/sdk-for-flutter-explore-gestures-longpresslistener-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-gestures-longpresslistener-tostring(<wbr/>)
     → String
 
 </dt>
@@ -123,7 +124,7 @@ menu
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-<a href="../gestures/LongPressListener/operator_equals.html">/sdk-for-flutter-explore-gestures-longpresslistener-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-gestures-longpresslistener-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -141,8 +142,8 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../gestures/gestures-library.html">/sdk-for-flutter-explore-gestures-gestures-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-gestures-gestures-library</li>
 <li class="self-crumb">LongPressListener class</li>
 </ol>
 <h5>gestures library</h5>
@@ -159,4 +160,5 @@ menu
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

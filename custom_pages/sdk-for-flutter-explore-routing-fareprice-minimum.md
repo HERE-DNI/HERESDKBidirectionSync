@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "minimum property"
 slug: "sdk-for-flutter-explore-routing-fareprice-minimum"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- minimum.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-routing-fareprice-minimum"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/FarePrice-class.html">/sdk-for-flutter-explore-routing-fareprice-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-fareprice-class</li>
 <li class="self-crumb">minimum property</li>
 </ol>
 <div class="self-name">minimum</div>
@@ -43,8 +44,8 @@ menu
 <div class="features">getter/setter pair</div>
 </section>
 <section class="desc markdown">
-<p>Minimum price when the price is of <a href="../../routing/FarePriceType.html">/sdk-for-flutter-explore-routing-farepricetype</a> type. Otherwise, it is
-equal to <a href="../../routing/FarePrice/maximum.html">/sdk-for-flutter-explore-routing-fareprice-maximum</a>.
+<p>Minimum price when the price is of /sdk-for-flutter-explore-routing-farepricetype type. Otherwise, it is
+equal to /sdk-for-flutter-explore-routing-fareprice-maximum.
 Defaults to 0.</p>
 </section>
 <section class="summary source-code" id="source">
@@ -59,9 +60,9 @@ Defaults to 0.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/FarePrice-class.html">/sdk-for-flutter-explore-routing-fareprice-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-fareprice-class</li>
 <li class="self-crumb">minimum property</li>
 </ol>
 <h5>FarePrice class</h5>
@@ -78,4 +79,5 @@ Defaults to 0.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

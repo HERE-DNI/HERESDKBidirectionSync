@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "lookupIncident abstract method"
 slug: "sdk-for-flutter-explore-traffic-trafficengine-lookupincident"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- lookupIncident.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-traffic-trafficengine-lookupincident"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../traffic/traffic-library.html">/sdk-for-flutter-explore-traffic-traffic-library</a></li>
-<li><a href="../../traffic/TrafficEngine-class.html">/sdk-for-flutter-explore-traffic-trafficengine-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-traffic-traffic-library</li>
+<li>/sdk-for-flutter-explore-traffic-trafficengine-class</li>
 <li class="self-crumb">lookupIncident abstract method</li>
 </ol>
 <div class="self-name">lookupIncident</div>
@@ -37,10 +38,10 @@ menu
 <div>
 <h1>lookupIncident abstract method</h1></div>
 <section class="multi-line-signature">
-<a href="../../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a>
+/sdk-for-flutter-explore-core-threading-taskhandle-class
 lookupIncident(<wbr/><ol class="parameter-list single-line"> <li>String originalId, </li>
-<li><a href="../../traffic/TrafficIncidentLookupOptions-class.html">/sdk-for-flutter-explore-traffic-trafficincidentlookupoptions-class</a> lookupOptions, </li>
-<li><a href="../../traffic/TrafficIncidentLookupCallback.html">/sdk-for-flutter-explore-traffic-trafficincidentlookupcallback</a> callback</li>
+<li>/sdk-for-flutter-explore-traffic-trafficincidentlookupoptions-class lookupOptions, </li>
+<li>/sdk-for-flutter-explore-traffic-trafficincidentlookupcallback callback</li>
 </ol>)
 
       
@@ -48,7 +49,7 @@ lookupIncident(<wbr/><ol class="parameter-list single-line"> <li>String original
     </section>
 <section class="desc markdown">
 <p>Asynchronously queries for traffic incident by the original id.</p>
-<p>See <a href="../../traffic/TrafficIncident/originalId.html">/sdk-for-flutter-explore-traffic-trafficincident-originalid</a> for more information.</p>
+<p>See /sdk-for-flutter-explore-traffic-trafficincident-originalid for more information.</p>
 <ul>
 <li>
 <p><code>originalId</code> The requested incident original id.</p>
@@ -61,7 +62,7 @@ lookupIncident(<wbr/><ol class="parameter-list single-line"> <li>String original
 It is always invoked on the main thread.</p>
 </li>
 </ul>
-<p>Returns <a href="../../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a>. Handle that will be used to manipulate the execution of the task.</p>
+<p>Returns /sdk-for-flutter-explore-core-threading-taskhandle-class. Handle that will be used to manipulate the execution of the task.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -75,9 +76,9 @@ It is always invoked on the main thread.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../traffic/traffic-library.html">/sdk-for-flutter-explore-traffic-traffic-library</a></li>
-<li><a href="../../traffic/TrafficEngine-class.html">/sdk-for-flutter-explore-traffic-trafficengine-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-traffic-traffic-library</li>
+<li>/sdk-for-flutter-explore-traffic-trafficengine-class</li>
 <li class="self-crumb">lookupIncident abstract method</li>
 </ol>
 <h5>TrafficEngine class</h5>
@@ -94,4 +95,5 @@ It is always invoked on the main thread.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

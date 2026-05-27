@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "LocationIndicator.withMapView constructor"
 slug: "sdk-for-flutter-explore-mapview-locationindicator-locationindicator-withmapview"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- LocationIndicator.withMapView.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-locationindicator-locationindicator-withm
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/LocationIndicator-class.html">/sdk-for-flutter-explore-mapview-locationindicator-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-locationindicator-class</li>
 <li class="self-crumb">LocationIndicator.withMapView factory constructor</li>
 </ol>
 <div class="self-name">LocationIndicator.withMapView</div>
@@ -37,13 +38,13 @@ menu
 <div>
 <h1>LocationIndicator.withMapView constructor</h1></div>
 <section class="multi-line-signature">
-LocationIndicator.withMapView(<wbr/><ol class="parameter-list single-line"> <li><a href="../../mapview/MapViewBase-class.html">/sdk-for-flutter-explore-mapview-mapviewbase-class</a> mapView</li>
+LocationIndicator.withMapView(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-mapview-mapviewbase-class mapView</li>
 </ol>)
     </section>
 <section class="desc markdown">
-<p>Creates an instance of LocationIndicator and adds it to provided <a href="../../mapview/MapViewBase-class.html">/sdk-for-flutter-explore-mapview-mapviewbase-class</a>.</p>
+<p>Creates an instance of LocationIndicator and adds it to provided /sdk-for-flutter-explore-mapview-mapviewbase-class.</p>
 <ul>
-<li><code>mapView</code> The <a href="../../mapview/MapViewBase-class.html">/sdk-for-flutter-explore-mapview-mapviewbase-class</a> instance.</li>
+<li><code>mapView</code> The /sdk-for-flutter-explore-mapview-mapviewbase-class instance.</li>
 </ul>
 </section>
 <section class="summary source-code" id="source">
@@ -58,9 +59,9 @@ LocationIndicator.withMapView(<wbr/><ol class="parameter-list single-line"> <li>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/LocationIndicator-class.html">/sdk-for-flutter-explore-mapview-locationindicator-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-locationindicator-class</li>
 <li class="self-crumb">LocationIndicator.withMapView factory constructor</li>
 </ol>
 <h5>LocationIndicator class</h5>
@@ -77,4 +78,5 @@ LocationIndicator.withMapView(<wbr/><ol class="parameter-list single-line"> <li>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

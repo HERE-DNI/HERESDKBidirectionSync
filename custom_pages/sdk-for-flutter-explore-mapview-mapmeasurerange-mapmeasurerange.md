@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "MapMeasureRange constructor"
 slug: "sdk-for-flutter-explore-mapview-mapmeasurerange-mapmeasurerange"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- MapMeasureRange.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-mapmeasurerange-mapmeasurerange"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapMeasureRange-class.html">/sdk-for-flutter-explore-mapview-mapmeasurerange-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapmeasurerange-class</li>
 <li class="self-crumb">MapMeasureRange factory constructor</li>
 </ol>
 <div class="self-name">MapMeasureRange</div>
@@ -37,7 +38,7 @@ menu
 <div>
 <h1>MapMeasureRange constructor</h1></div>
 <section class="multi-line-signature">
-MapMeasureRange(<wbr/><ol class="parameter-list single-line"> <li><a href="../../mapview/MapMeasureKind.html">/sdk-for-flutter-explore-mapview-mapmeasurekind</a> kind, </li>
+MapMeasureRange(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-mapview-mapmeasurekind kind, </li>
 <li>double minimumValue, </li>
 <li>double maximumValue</li>
 </ol>)
@@ -68,9 +69,9 @@ MapMeasureRange(<wbr/><ol class="parameter-list single-line"> <li><a href="../..
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapMeasureRange-class.html">/sdk-for-flutter-explore-mapview-mapmeasurerange-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapmeasurerange-class</li>
 <li class="self-crumb">MapMeasureRange factory constructor</li>
 </ol>
 <h5>MapMeasureRange class</h5>
@@ -87,4 +88,5 @@ MapMeasureRange(<wbr/><ol class="parameter-list single-line"> <li><a href="../..
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "TapListener class abstract"
 slug: "sdk-for-flutter-explore-gestures-taplistener-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- TapListener-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -25,8 +26,8 @@ slug: "sdk-for-flutter-explore-gestures-taplistener-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../gestures/gestures-library.html">/sdk-for-flutter-explore-gestures-gestures-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-gestures-gestures-library</li>
 <li class="self-crumb">TapListener class</li>
 </ol>
 <div class="self-name">TapListener</div>
@@ -57,7 +58,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="TapListener">
-<a href="../gestures/TapListener/TapListener.html">/sdk-for-flutter-explore-gestures-taplistener-taplistener</a>(void onTapLambda(<a href="../core/Point2D-class.html">/sdk-for-flutter-explore-core-point2d-class</a>))
+/sdk-for-flutter-explore-gestures-taplistener-taplistener(void onTapLambda(/sdk-for-flutter-explore-core-point2d-class))
 </dt>
 <dd>
           Abstract class for handling tap gestures.
@@ -69,7 +70,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="hashCode">
-<a href="../gestures/TapListener/hashCode.html">/sdk-for-flutter-explore-gestures-taplistener-hashcode</a>
+/sdk-for-flutter-explore-gestures-taplistener-hashcode
 → int
 </dt>
 <dd class="inherited">
@@ -77,7 +78,7 @@ menu
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../gestures/TapListener/runtimeType.html">/sdk-for-flutter-explore-gestures-taplistener-runtimetype</a>
+/sdk-for-flutter-explore-gestures-taplistener-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -90,7 +91,7 @@ menu
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../gestures/TapListener/noSuchMethod.html">/sdk-for-flutter-explore-gestures-taplistener-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-gestures-taplistener-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -99,7 +100,7 @@ menu
   <div class="features">inherited</div>
 </dd>
 <dt class="callable" id="onTap">
-<a href="../gestures/TapListener/onTap.html">/sdk-for-flutter-explore-gestures-taplistener-ontap</a>(<wbr/><a href="../core/Point2D-class.html">/sdk-for-flutter-explore-core-point2d-class</a> origin)
+/sdk-for-flutter-explore-gestures-taplistener-ontap(<wbr/>/sdk-for-flutter-explore-core-point2d-class origin)
     → void
 
 </dt>
@@ -109,7 +110,7 @@ menu
 
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../gestures/TapListener/toString.html">/sdk-for-flutter-explore-gestures-taplistener-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-gestures-taplistener-tostring(<wbr/>)
     → String
 
 </dt>
@@ -123,7 +124,7 @@ menu
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-<a href="../gestures/TapListener/operator_equals.html">/sdk-for-flutter-explore-gestures-taplistener-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-gestures-taplistener-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -141,8 +142,8 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../gestures/gestures-library.html">/sdk-for-flutter-explore-gestures-gestures-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-gestures-gestures-library</li>
 <li class="self-crumb">TapListener class</li>
 </ol>
 <h5>gestures library</h5>
@@ -159,4 +160,5 @@ menu
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

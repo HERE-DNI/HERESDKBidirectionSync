@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "PolylineSimplificationCallback typedef"
 slug: "sdk-for-flutter-explore-core-polylinesimplificationcallback"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- PolylineSimplificationCallback.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,8 +12,8 @@ slug: "sdk-for-flutter-explore-core-polylinesimplificationcallback"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
 <li class="self-crumb">PolylineSimplificationCallback typedef</li>
 </ol>
 <div class="self-name">PolylineSimplificationCallback</div>
@@ -37,11 +38,11 @@ menu
 <h1>PolylineSimplificationCallback typedef</h1></div>
 <section class="multi-line-signature">
 PolylineSimplificationCallback =
-     void Function(<a href="../core/PolylineSimplificationError.html">/sdk-for-flutter-explore-core-polylinesimplificationerror</a>? queryError, List&lt;<wbr/><a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>&gt;? result)
+     void Function(/sdk-for-flutter-explore-core-polylinesimplificationerror? queryError, List&lt;<wbr/>/sdk-for-flutter-explore-core-geocoordinates-class&gt;? result)
 </section>
 <section class="desc markdown">
 <p>The method will be called on the main thread when
-<a href="../core/PolylineSimplifier/simplify.html">/sdk-for-flutter-explore-core-polylinesimplifier-simplify</a> is finished.</p>
+/sdk-for-flutter-explore-core-polylinesimplifier-simplify is finished.</p>
 <ul>
 <li>
 <p><code>queryError</code> The optional error, which occurred during
@@ -50,7 +51,7 @@ simplification.</p>
 <li>
 <p><code>result</code> The simplified polyline with number of
 points less or equal to the input polyline
-of <a href="../core/PolylineSimplifier/simplify.html">/sdk-for-flutter-explore-core-polylinesimplifier-simplify</a>.</p>
+of /sdk-for-flutter-explore-core-polylinesimplifier-simplify.</p>
 </li>
 </ul>
 </section>
@@ -66,8 +67,8 @@ of <a href="../core/PolylineSimplifier/simplify.html">/sdk-for-flutter-explore-c
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
 <li class="self-crumb">PolylineSimplificationCallback typedef</li>
 </ol>
 <h5>core library</h5>
@@ -84,4 +85,5 @@ of <a href="../core/PolylineSimplifier/simplify.html">/sdk-for-flutter-explore-c
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

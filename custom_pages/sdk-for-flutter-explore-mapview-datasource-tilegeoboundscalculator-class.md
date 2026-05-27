@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "TileGeoBoundsCalculator class abstract"
 slug: "sdk-for-flutter-explore-mapview-datasource-tilegeoboundscalculator-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- TileGeoBoundsCalculator-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -25,8 +26,8 @@ slug: "sdk-for-flutter-explore-mapview-datasource-tilegeoboundscalculator-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
 <li class="self-crumb">TileGeoBoundsCalculator class</li>
 </ol>
 <div class="self-name">TileGeoBoundsCalculator</div>
@@ -51,7 +52,7 @@ menu
 <h1>TileGeoBoundsCalculator class abstract</h1></div>
 <section class="desc markdown">
 <p>A calculator of geodetic bounds for tiles identified by keys generated
-in a particular tiling scheme (<a href="../mapview.datasource/TilingScheme.html">/sdk-for-flutter-explore-mapview-datasource-tilingscheme</a>).</p>
+in a particular tiling scheme (/sdk-for-flutter-explore-mapview-datasource-tilingscheme).</p>
 <p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
 behavior. Related APIs may change for new releases without a deprecation process.</p>
 </section>
@@ -59,10 +60,10 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="TileGeoBoundsCalculator">
-<a href="../mapview.datasource/TileGeoBoundsCalculator/TileGeoBoundsCalculator.html">/sdk-for-flutter-explore-mapview-datasource-tilegeoboundscalculator-tilegeoboundscalculator</a>(<a href="../mapview.datasource/TilingScheme.html">/sdk-for-flutter-explore-mapview-datasource-tilingscheme</a> tilingScheme)
+/sdk-for-flutter-explore-mapview-datasource-tilegeoboundscalculator-tilegeoboundscalculator(/sdk-for-flutter-explore-mapview-datasource-tilingscheme tilingScheme)
 </dt>
 <dd>
-          Creates an instance of <a href="../mapview.datasource/TileGeoBoundsCalculator-class.html">/sdk-for-flutter-explore-mapview-datasource-tilegeoboundscalculator-class</a>.
+          Creates an instance of /sdk-for-flutter-explore-mapview-datasource-tilegeoboundscalculator-class.
             <div class="constructor-modifier features">factory</div>
 </dd>
 </dl>
@@ -71,7 +72,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="hashCode">
-<a href="../mapview.datasource/TileGeoBoundsCalculator/hashCode.html">/sdk-for-flutter-explore-mapview-datasource-tilegeoboundscalculator-hashcode</a>
+/sdk-for-flutter-explore-mapview-datasource-tilegeoboundscalculator-hashcode
 → int
 </dt>
 <dd class="inherited">
@@ -79,7 +80,7 @@ behavior. Related APIs may change for new releases without a deprecation process
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../mapview.datasource/TileGeoBoundsCalculator/runtimeType.html">/sdk-for-flutter-explore-mapview-datasource-tilegeoboundscalculator-runtimetype</a>
+/sdk-for-flutter-explore-mapview-datasource-tilegeoboundscalculator-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -92,16 +93,17 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable" id="boundsOf">
-<a href="../mapview.datasource/TileGeoBoundsCalculator/boundsOf.html">/sdk-for-flutter-explore-mapview-datasource-tilegeoboundscalculator-boundsof</a>(<wbr/><a href="../mapview.datasource/TileKey-class.html">/sdk-for-flutter-explore-mapview-datasource-tilekey-class</a> tileKey)
-    → <a href="../core/GeoBox-class.html">/sdk-for-flutter-explore-core-geobox-class</a>
+/sdk-for-flutter-explore-mapview-datasource-tilegeoboundscalculator-boundsof(<wbr/>/sdk-for-flutter-explore-mapview-datasource-tilekey-class tileKey)
+    → /sdk-for-flutter-explore-core-geobox-class
+
 </dt>
 <dd>
-  Computes the geodetic bounds (as <a href="../core/GeoBox-class.html">/sdk-for-flutter-explore-core-geobox-class</a>) for a tile identified by <a href="../mapview.datasource/TileKey-class.html">/sdk-for-flutter-explore-mapview-datasource-tilekey-class</a>.
+  Computes the geodetic bounds (as /sdk-for-flutter-explore-core-geobox-class) for a tile identified by /sdk-for-flutter-explore-mapview-datasource-tilekey-class.
   
 
 </dd>
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../mapview.datasource/TileGeoBoundsCalculator/noSuchMethod.html">/sdk-for-flutter-explore-mapview-datasource-tilegeoboundscalculator-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-mapview-datasource-tilegeoboundscalculator-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -110,7 +112,7 @@ behavior. Related APIs may change for new releases without a deprecation process
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../mapview.datasource/TileGeoBoundsCalculator/toString.html">/sdk-for-flutter-explore-mapview-datasource-tilegeoboundscalculator-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-mapview-datasource-tilegeoboundscalculator-tostring(<wbr/>)
     → String
 
 </dt>
@@ -124,7 +126,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-<a href="../mapview.datasource/TileGeoBoundsCalculator/operator_equals.html">/sdk-for-flutter-explore-mapview-datasource-tilegeoboundscalculator-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-mapview-datasource-tilegeoboundscalculator-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -142,8 +144,8 @@ behavior. Related APIs may change for new releases without a deprecation process
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
 <li class="self-crumb">TileGeoBoundsCalculator class</li>
 </ol>
 <h5>mapview.datasource library</h5>
@@ -160,4 +162,5 @@ behavior. Related APIs may change for new releases without a deprecation process
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

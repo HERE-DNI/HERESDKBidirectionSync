@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "LandlinePhone constructor"
 slug: "sdk-for-flutter-explore-search-landlinephone-landlinephone"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- LandlinePhone.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-search-landlinephone-landlinephone"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/LandlinePhone-class.html">/sdk-for-flutter-explore-search-landlinephone-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-landlinephone-class</li>
 <li class="self-crumb">LandlinePhone constructor</li>
 </ol>
 <div class="self-name">LandlinePhone</div>
@@ -38,7 +39,7 @@ menu
 <h1>LandlinePhone constructor</h1></div>
 <section class="multi-line-signature">
 LandlinePhone(<wbr/><ol class="parameter-list single-line"> <li>String phoneNumber, </li>
-<li>List&lt;<wbr/><a href="../../search/PlaceCategory-class.html">/sdk-for-flutter-explore-search-placecategory-class</a>&gt; categories</li>
+<li>List&lt;<wbr/>/sdk-for-flutter-explore-search-placecategory-class&gt; categories</li>
 </ol>)
     </section>
 <section class="desc markdown">
@@ -46,8 +47,8 @@ LandlinePhone(<wbr/><ol class="parameter-list single-line"> <li>String phoneNumb
 <ul>
 <li><code>phoneNumber</code> The phone number.</li>
 <li><code>categories</code> Categories associated with phone number.
-Note: In case <a href="../../search/LandlinePhone/categories.html">/sdk-for-flutter-explore-search-landlinephone-categories</a> are not empty, then <a href="../../search/LandlinePhone/phoneNumber.html">/sdk-for-flutter-explore-search-landlinephone-phonenumber</a> should be used according to given categories.
-Otherwise, <a href="../../search/LandlinePhone/phoneNumber.html">/sdk-for-flutter-explore-search-landlinephone-phonenumber</a> is meant for general use.</li>
+Note: In case /sdk-for-flutter-explore-search-landlinephone-categories are not empty, then /sdk-for-flutter-explore-search-landlinephone-phonenumber should be used according to given categories.
+Otherwise, /sdk-for-flutter-explore-search-landlinephone-phonenumber is meant for general use.</li>
 </ul>
 </section>
 <section class="summary source-code" id="source">
@@ -62,9 +63,9 @@ Otherwise, <a href="../../search/LandlinePhone/phoneNumber.html">/sdk-for-flutte
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/LandlinePhone-class.html">/sdk-for-flutter-explore-search-landlinephone-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-landlinephone-class</li>
 <li class="self-crumb">LandlinePhone constructor</li>
 </ol>
 <h5>LandlinePhone class</h5>
@@ -81,4 +82,5 @@ Otherwise, <a href="../../search/LandlinePhone/phoneNumber.html">/sdk-for-flutte
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

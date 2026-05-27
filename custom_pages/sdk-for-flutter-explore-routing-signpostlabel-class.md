@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "SignpostLabel class"
 slug: "sdk-for-flutter-explore-routing-signpostlabel-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- SignpostLabel-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -26,8 +27,8 @@ slug: "sdk-for-flutter-explore-routing-signpostlabel-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
 <li class="self-crumb">SignpostLabel class</li>
 </ol>
 <div class="self-name">SignpostLabel</div>
@@ -57,7 +58,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="SignpostLabel">
-<a href="../routing/SignpostLabel/SignpostLabel.html">/sdk-for-flutter-explore-routing-signpostlabel-signpostlabel</a>()
+/sdk-for-flutter-explore-routing-signpostlabel-signpostlabel()
 </dt>
 <dd>
 </dd>
@@ -67,7 +68,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="hashCode">
-<a href="../routing/SignpostLabel/hashCode.html">/sdk-for-flutter-explore-routing-signpostlabel-hashcode</a>
+/sdk-for-flutter-explore-routing-signpostlabel-hashcode
 → int
 </dt>
 <dd>
@@ -75,8 +76,8 @@ menu
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="localizedRoadNumber">
-<a href="../routing/SignpostLabel/localizedRoadNumber.html">/sdk-for-flutter-explore-routing-signpostlabel-localizedroadnumber</a>
-↔ <a href="../routing/LocalizedRoadNumber-class.html">/sdk-for-flutter-explore-routing-localizedroadnumber-class</a>?
+/sdk-for-flutter-explore-routing-signpostlabel-localizedroadnumber
+↔ /sdk-for-flutter-explore-routing-localizedroadnumber-class?
 </dt>
 <dd>
   Road number.
@@ -84,8 +85,8 @@ Can be null if the road has no number assigned.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="localizedText">
-<a href="../routing/SignpostLabel/localizedText.html">/sdk-for-flutter-explore-routing-signpostlabel-localizedtext</a>
-↔ <a href="../core/LocalizedText-class.html">/sdk-for-flutter-explore-core-localizedtext-class</a>?
+/sdk-for-flutter-explore-routing-signpostlabel-localizedtext
+↔ /sdk-for-flutter-explore-core-localizedtext-class?
 </dt>
 <dd>
   Text of signpost label.
@@ -93,7 +94,7 @@ Can be null for unnamed road.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../routing/SignpostLabel/runtimeType.html">/sdk-for-flutter-explore-routing-signpostlabel-runtimetype</a>
+/sdk-for-flutter-explore-routing-signpostlabel-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -106,7 +107,7 @@ Can be null for unnamed road.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../routing/SignpostLabel/noSuchMethod.html">/sdk-for-flutter-explore-routing-signpostlabel-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-routing-signpostlabel-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -115,7 +116,7 @@ Can be null for unnamed road.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../routing/SignpostLabel/toString.html">/sdk-for-flutter-explore-routing-signpostlabel-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-routing-signpostlabel-tostring(<wbr/>)
     → String
 
 </dt>
@@ -129,7 +130,7 @@ Can be null for unnamed road.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-<a href="../routing/SignpostLabel/operator_equals.html">/sdk-for-flutter-explore-routing-signpostlabel-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-routing-signpostlabel-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -148,8 +149,8 @@ Can be null for unnamed road.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
 <li class="self-crumb">SignpostLabel class</li>
 </ol>
 <h5>routing library</h5>
@@ -166,4 +167,5 @@ Can be null for unnamed road.
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

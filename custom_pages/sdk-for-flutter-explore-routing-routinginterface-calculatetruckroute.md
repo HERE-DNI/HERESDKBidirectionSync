@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "calculateTruckRoute abstract method"
 slug: "sdk-for-flutter-explore-routing-routinginterface-calculatetruckroute"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- calculateTruckRoute.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-routing-routinginterface-calculatetruckroute"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/RoutingInterface-class.html">/sdk-for-flutter-explore-routing-routinginterface-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-routinginterface-class</li>
 <li class="self-crumb">calculateTruckRoute abstract method</li>
 </ol>
 <div class="self-name">calculateTruckRoute</div>
@@ -39,13 +40,13 @@ menu
 <section class="multi-line-signature">
 <div>
 <ol class="annotation-list">
-<li>@Deprecated("Will be removed in v4.28.0. Use the `calculate_route()` methods with RoutingOptions parameter instead.")</li>
+<li>@Deprecated("Will be removed in v4.28.0. Use the <code>calculate_route()</code> methods with RoutingOptions parameter instead.")</li>
 </ol>
 </div>
-<a href="../../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a>
-calculateTruckRoute(<wbr/><ol class="parameter-list single-line"> <li>List&lt;<wbr/><a href="../../routing/Waypoint-class.html">/sdk-for-flutter-explore-routing-waypoint-class</a>&gt; waypoints, </li>
-<li><a class="deprecated" href="../../routing/TruckOptions-class.html">/sdk-for-flutter-explore-routing-truckoptions-class</a> truckOptions, </li>
-<li><a href="../../routing/CalculateRouteCallback.html">/sdk-for-flutter-explore-routing-calculateroutecallback</a> callback</li>
+/sdk-for-flutter-explore-core-threading-taskhandle-class
+calculateTruckRoute(<wbr/><ol class="parameter-list single-line"> <li>List&lt;<wbr/>/sdk-for-flutter-explore-routing-waypoint-class&gt; waypoints, </li>
+<li>/sdk-for-flutter-explore-routing-truckoptions-class truckOptions, </li>
+<li>/sdk-for-flutter-explore-routing-calculateroutecallback callback</li>
 </ol>)
 
       
@@ -59,9 +60,9 @@ passing through the given waypoints in the given order.</p>
 The first element marks the starting position, the last marks the destination.
 Waypoints in between are interpreted as intermediate.</li>
 </ul>
-<p>An <a href="../../routing/RoutingError.html">/sdk-for-flutter-explore-routing-routingerror</a> error is generated when the waypoint list
+<p>An /sdk-for-flutter-explore-routing-routingerror error is generated when the waypoint list
 contains less than two elements or when the first and the last waypoints are not of type
-<a href="../../routing/WaypointType.html">/sdk-for-flutter-explore-routing-waypointtype</a>.</p>
+/sdk-for-flutter-explore-routing-waypointtype.</p>
 <ul>
 <li>
 <p><code>truckOptions</code> Options specific for truck route calculation, along with
@@ -72,11 +73,11 @@ common route options.</p>
 It is always invoked on the main thread.</p>
 </li>
 </ul>
-<p>Returns <a href="../../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a>. Handle that will be used to manipulate the execution of the task.</p>
+<p>Returns /sdk-for-flutter-explore-core-threading-taskhandle-class. Handle that will be used to manipulate the execution of the task.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
-<pre class="language-dart"><code class="language-dart">@Deprecated("Will be removed in v4.28.0. Use the `calculate_route()` methods with RoutingOptions parameter instead.")
+<pre class="language-dart"><code class="language-dart">@Deprecated("Will be removed in v4.28.0. Use the calculate_route() methods with RoutingOptions parameter instead.")
 
 TaskHandle calculateTruckRoute(List&lt;Waypoint&gt; waypoints, TruckOptions truckOptions, CalculateRouteCallback callback);</code></pre>
 </section>
@@ -88,9 +89,9 @@ TaskHandle calculateTruckRoute(List&lt;Waypoint&gt; waypoints, TruckOptions truc
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/RoutingInterface-class.html">/sdk-for-flutter-explore-routing-routinginterface-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-routinginterface-class</li>
 <li class="self-crumb">calculateTruckRoute abstract method</li>
 </ol>
 <h5>RoutingInterface class</h5>
@@ -107,4 +108,5 @@ TaskHandle calculateTruckRoute(List&lt;Waypoint&gt; waypoints, TruckOptions truc
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

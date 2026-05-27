@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "foodTypes property"
 slug: "sdk-for-flutter-explore-search-details-foodtypes"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- foodTypes.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-search-details-foodtypes"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/Details-class.html">/sdk-for-flutter-explore-search-details-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-details-class</li>
 <li class="self-crumb">foodTypes property</li>
 </ol>
 <div class="self-name">foodTypes</div>
@@ -38,7 +39,7 @@ menu
 <h1>foodTypes property</h1></div>
 <section class="multi-line-signature">
         
-        List&lt;<wbr/><a href="../../search/PlaceFoodType-class.html">/sdk-for-flutter-explore-search-placefoodtype-class</a>&gt;
+        List&lt;<wbr/>/sdk-for-flutter-explore-search-placefoodtype-class&gt;
 foodTypes
 <div class="features">getter/setter pair</div>
 </section>
@@ -58,9 +59,9 @@ Not supported in <code>OfflineSearchEngine</code> (only available for the Naviga
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/Details-class.html">/sdk-for-flutter-explore-search-details-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-details-class</li>
 <li class="self-crumb">foodTypes property</li>
 </ol>
 <h5>Details class</h5>
@@ -77,4 +78,5 @@ Not supported in <code>OfflineSearchEngine</code> (only available for the Naviga
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

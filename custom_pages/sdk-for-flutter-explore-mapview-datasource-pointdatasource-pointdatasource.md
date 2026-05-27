@@ -3,7 +3,8 @@ title: "PointDataSource constructor"
 slug: "sdk-for-flutter-explore-mapview-datasource-pointdatasource-pointdatasource"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- PointDataSource.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-datasource-pointdatasource-pointdatasourc
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
-<li><a href="../../mapview.datasource/PointDataSource-class.html">/sdk-for-flutter-explore-mapview-datasource-pointdatasource-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-pointdatasource-class</li>
 <li class="self-crumb">PointDataSource constructor</li>
 </ol>
 <div class="self-name">PointDataSource</div>
@@ -47,9 +48,9 @@ PointDataSource(<wbr/>)
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
-<li><a href="../../mapview.datasource/PointDataSource-class.html">/sdk-for-flutter-explore-mapview-datasource-pointdatasource-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-pointdatasource-class</li>
 <li class="self-crumb">PointDataSource constructor</li>
 </ol>
 <h5>PointDataSource class</h5>
@@ -66,4 +67,5 @@ PointDataSource(<wbr/>)
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

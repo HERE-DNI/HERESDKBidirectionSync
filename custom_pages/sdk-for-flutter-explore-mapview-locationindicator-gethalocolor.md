@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "getHaloColor abstract method"
 slug: "sdk-for-flutter-explore-mapview-locationindicator-gethalocolor"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- getHaloColor.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-locationindicator-gethalocolor"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/LocationIndicator-class.html">/sdk-for-flutter-explore-mapview-locationindicator-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-locationindicator-class</li>
 <li class="self-crumb">getHaloColor abstract method</li>
 </ol>
 <div class="self-name">getHaloColor</div>
@@ -38,7 +39,7 @@ menu
 <h1>getHaloColor abstract method</h1></div>
 <section class="multi-line-signature">
 Color
-getHaloColor(<wbr/><ol class="parameter-list single-line"> <li><a href="../../mapview/LocationIndicatorIndicatorStyle.html">/sdk-for-flutter-explore-mapview-locationindicatorindicatorstyle</a> style</li>
+getHaloColor(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-mapview-locationindicatorindicatorstyle style</li>
 </ol>)
 
       
@@ -66,9 +67,9 @@ Related APIs may change for new releases without a deprecation process.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/LocationIndicator-class.html">/sdk-for-flutter-explore-mapview-locationindicator-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-locationindicator-class</li>
 <li class="self-crumb">getHaloColor abstract method</li>
 </ol>
 <h5>LocationIndicator class</h5>
@@ -85,4 +86,5 @@ Related APIs may change for new releases without a deprecation process.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

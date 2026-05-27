@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "Easing constructor"
 slug: "sdk-for-flutter-explore-animation-easing-easing"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- Easing.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-animation-easing-easing"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../animation/animation-library.html">/sdk-for-flutter-explore-animation-animation-library</a></li>
-<li><a href="../../animation/Easing-class.html">/sdk-for-flutter-explore-animation-easing-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-animation-animation-library</li>
+<li>/sdk-for-flutter-explore-animation-easing-class</li>
 <li class="self-crumb">Easing factory constructor</li>
 </ol>
 <div class="self-name">Easing</div>
@@ -37,11 +38,11 @@ menu
 <div>
 <h1>Easing constructor</h1></div>
 <section class="multi-line-signature">
-Easing(<wbr/><ol class="parameter-list single-line"> <li><a href="../../animation/EasingFunction.html">/sdk-for-flutter-explore-animation-easingfunction</a> easingFunction</li>
+Easing(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-animation-easingfunction easingFunction</li>
 </ol>)
     </section>
 <section class="desc markdown">
-<p>Creates an instance of <a href="../../animation/Easing-class.html">/sdk-for-flutter-explore-animation-easing-class</a> using a predefined easing function.</p>
+<p>Creates an instance of /sdk-for-flutter-explore-animation-easing-class using a predefined easing function.</p>
 <ul>
 <li><code>easingFunction</code> Easing function.</li>
 </ul>
@@ -58,9 +59,9 @@ Easing(<wbr/><ol class="parameter-list single-line"> <li><a href="../../animatio
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../animation/animation-library.html">/sdk-for-flutter-explore-animation-animation-library</a></li>
-<li><a href="../../animation/Easing-class.html">/sdk-for-flutter-explore-animation-easing-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-animation-animation-library</li>
+<li>/sdk-for-flutter-explore-animation-easing-class</li>
 <li class="self-crumb">Easing factory constructor</li>
 </ol>
 <h5>Easing class</h5>
@@ -77,4 +78,5 @@ Easing(<wbr/><ol class="parameter-list single-line"> <li><a href="../../animatio
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "maximumZoomLevel property"
 slug: "sdk-for-flutter-explore-mapview-maplayervisibilityrange-maximumzoomlevel"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- maximumZoomLevel.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-maplayervisibilityrange-maximumzoomlevel"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapLayerVisibilityRange-class.html">/sdk-for-flutter-explore-mapview-maplayervisibilityrange-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-maplayervisibilityrange-class</li>
 <li class="self-crumb">maximumZoomLevel property</li>
 </ol>
 <div class="self-name">maximumZoomLevel</div>
@@ -58,9 +59,9 @@ Note that the map layer is not visible at the maximum zoom level.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapLayerVisibilityRange-class.html">/sdk-for-flutter-explore-mapview-maplayervisibilityrange-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-maplayervisibilityrange-class</li>
 <li class="self-crumb">maximumZoomLevel property</li>
 </ol>
 <h5>MapLayerVisibilityRange class</h5>
@@ -77,4 +78,5 @@ Note that the map layer is not visible at the maximum zoom level.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

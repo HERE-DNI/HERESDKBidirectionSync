@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "timeRule property"
 slug: "sdk-for-flutter-explore-routing-violatedrestrictiondetails-timerule"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- timeRule.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-routing-violatedrestrictiondetails-timerule"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/ViolatedRestrictionDetails-class.html">/sdk-for-flutter-explore-routing-violatedrestrictiondetails-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-violatedrestrictiondetails-class</li>
 <li class="self-crumb">timeRule property</li>
 </ol>
 <div class="self-name">timeRule</div>
@@ -37,7 +38,7 @@ menu
 <div>
 <h1>timeRule property</h1></div>
 <section class="multi-line-signature">
-<a href="../../core/TimeRule-class.html">/sdk-for-flutter-explore-core-timerule-class</a>?
+/sdk-for-flutter-explore-core-timerule-class?
         timeRule
 <div class="features">getter/setter pair</div>
 </section>
@@ -56,9 +57,9 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/ViolatedRestrictionDetails-class.html">/sdk-for-flutter-explore-routing-violatedrestrictiondetails-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-violatedrestrictiondetails-class</li>
 <li class="self-crumb">timeRule property</li>
 </ol>
 <h5>ViolatedRestrictionDetails class</h5>
@@ -75,4 +76,5 @@ menu
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

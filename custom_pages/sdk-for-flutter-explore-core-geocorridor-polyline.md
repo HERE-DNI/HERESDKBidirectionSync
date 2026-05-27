@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "polyline property"
 slug: "sdk-for-flutter-explore-core-geocorridor-polyline"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- polyline.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-core-geocorridor-polyline"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
-<li><a href="../../core/GeoCorridor-class.html">/sdk-for-flutter-explore-core-geocorridor-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
+<li>/sdk-for-flutter-explore-core-geocorridor-class</li>
 <li class="self-crumb">polyline property</li>
 </ol>
 <div class="self-name">polyline</div>
@@ -38,7 +39,7 @@ menu
 <h1>polyline property</h1></div>
 <section class="multi-line-signature">
         
-        List&lt;<wbr/><a href="../../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>&gt;
+        List&lt;<wbr/>/sdk-for-flutter-explore-core-geocoordinates-class&gt;
 polyline
 <div class="features">final</div>
 </section>
@@ -57,9 +58,9 @@ polyline
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
-<li><a href="../../core/GeoCorridor-class.html">/sdk-for-flutter-explore-core-geocorridor-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
+<li>/sdk-for-flutter-explore-core-geocorridor-class</li>
 <li class="self-crumb">polyline property</li>
 </ol>
 <h5>GeoCorridor class</h5>
@@ -76,4 +77,5 @@ polyline
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

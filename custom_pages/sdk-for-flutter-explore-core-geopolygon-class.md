@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "GeoPolygon class"
 slug: "sdk-for-flutter-explore-core-geopolygon-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- GeoPolygon-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -29,8 +30,8 @@ slug: "sdk-for-flutter-explore-core-geopolygon-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
 <li class="self-crumb">GeoPolygon class</li>
 </ol>
 <div class="self-name">GeoPolygon</div>
@@ -72,28 +73,28 @@ a list of inner boundaries (also known as holes).</p>
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="GeoPolygon">
-<a href="../core/GeoPolygon/GeoPolygon.html">/sdk-for-flutter-explore-core-geopolygon-geopolygon</a>(List&lt;<wbr/><a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>&gt; vertices)
+/sdk-for-flutter-explore-core-geopolygon-geopolygon(List&lt;<wbr/>/sdk-for-flutter-explore-core-geocoordinates-class&gt; vertices)
 </dt>
 <dd>
           Constructs an instance of this class from the provided vertices.
             <div class="constructor-modifier features">factory</div>
 </dd>
 <dt class="callable" id="GeoPolygon.withGeoBox">
-<a href="../core/GeoPolygon/GeoPolygon.withGeoBox.html">/sdk-for-flutter-explore-core-geopolygon-geopolygon-withgeobox</a>(<a href="../core/GeoBox-class.html">/sdk-for-flutter-explore-core-geobox-class</a> geoBox)
+/sdk-for-flutter-explore-core-geopolygon-geopolygon-withgeobox(/sdk-for-flutter-explore-core-geobox-class geoBox)
 </dt>
 <dd>
-          Constructs an instance of this class from <a href="../core/GeoBox-class.html">/sdk-for-flutter-explore-core-geobox-class</a>.
+          Constructs an instance of this class from /sdk-for-flutter-explore-core-geobox-class.
             <div class="constructor-modifier features">factory</div>
 </dd>
 <dt class="callable" id="GeoPolygon.withGeoCircle">
-<a href="../core/GeoPolygon/GeoPolygon.withGeoCircle.html">/sdk-for-flutter-explore-core-geopolygon-geopolygon-withgeocircle</a>(<a href="../core/GeoCircle-class.html">/sdk-for-flutter-explore-core-geocircle-class</a> geoCircle)
+/sdk-for-flutter-explore-core-geopolygon-geopolygon-withgeocircle(/sdk-for-flutter-explore-core-geocircle-class geoCircle)
 </dt>
 <dd>
-          Constructs an instance of this class from <a href="../core/GeoCircle-class.html">/sdk-for-flutter-explore-core-geocircle-class</a>.
+          Constructs an instance of this class from /sdk-for-flutter-explore-core-geocircle-class.
             <div class="constructor-modifier features">factory</div>
 </dd>
 <dt class="callable" id="GeoPolygon.withInnerBoundaries">
-<a href="../core/GeoPolygon/GeoPolygon.withInnerBoundaries.html">/sdk-for-flutter-explore-core-geopolygon-geopolygon-withinnerboundaries</a>(List&lt;<wbr/><a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>&gt; vertices, List&lt;<wbr/>List&lt;<wbr/><a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>&gt;&gt; innerBoundaries)
+/sdk-for-flutter-explore-core-geopolygon-geopolygon-withinnerboundaries(List&lt;<wbr/>/sdk-for-flutter-explore-core-geocoordinates-class&gt; vertices, List&lt;<wbr/>List&lt;<wbr/>/sdk-for-flutter-explore-core-geocoordinates-class&gt;&gt; innerBoundaries)
 </dt>
 <dd>
           Constructs an instance of this class from the provided vertices and inner boundaries (holes).
@@ -105,7 +106,7 @@ a list of inner boundaries (also known as holes).</p>
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="hashCode">
-<a href="../core/GeoPolygon/hashCode.html">/sdk-for-flutter-explore-core-geopolygon-hashcode</a>
+/sdk-for-flutter-explore-core-geopolygon-hashcode
 → int
 </dt>
 <dd>
@@ -113,15 +114,15 @@ a list of inner boundaries (also known as holes).</p>
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="innerBoundaries">
-<a href="../core/GeoPolygon/innerBoundaries.html">/sdk-for-flutter-explore-core-geopolygon-innerboundaries</a>
-→ List&lt;<wbr/>List&lt;<wbr/><a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>&gt;&gt;
+/sdk-for-flutter-explore-core-geopolygon-innerboundaries
+→ List&lt;<wbr/>List&lt;<wbr/>/sdk-for-flutter-explore-core-geocoordinates-class&gt;&gt;
 </dt>
 <dd>
   The list of polygon inner boundaries (holes), each defined as a list of geographic coordinates.
   <div class="features">final</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../core/GeoPolygon/runtimeType.html">/sdk-for-flutter-explore-core-geopolygon-runtimetype</a>
+/sdk-for-flutter-explore-core-geopolygon-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -129,8 +130,8 @@ a list of inner boundaries (also known as holes).</p>
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="vertices">
-<a href="../core/GeoPolygon/vertices.html">/sdk-for-flutter-explore-core-geopolygon-vertices</a>
-→ List&lt;<wbr/><a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>&gt;
+/sdk-for-flutter-explore-core-geopolygon-vertices
+→ List&lt;<wbr/>/sdk-for-flutter-explore-core-geocoordinates-class&gt;
 </dt>
 <dd>
   The list of geographic coordinates representing the outer boundary vertices of polygon.
@@ -142,7 +143,7 @@ a list of inner boundaries (also known as holes).</p>
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../core/GeoPolygon/noSuchMethod.html">/sdk-for-flutter-explore-core-geopolygon-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-core-geopolygon-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -151,7 +152,7 @@ a list of inner boundaries (also known as holes).</p>
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../core/GeoPolygon/toString.html">/sdk-for-flutter-explore-core-geopolygon-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-core-geopolygon-tostring(<wbr/>)
     → String
 
 </dt>
@@ -165,7 +166,7 @@ a list of inner boundaries (also known as holes).</p>
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-<a href="../core/GeoPolygon/operator_equals.html">/sdk-for-flutter-explore-core-geopolygon-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-core-geopolygon-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -184,8 +185,8 @@ a list of inner boundaries (also known as holes).</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
 <li class="self-crumb">GeoPolygon class</li>
 </ol>
 <h5>core library</h5>
@@ -202,4 +203,5 @@ a list of inner boundaries (also known as holes).</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

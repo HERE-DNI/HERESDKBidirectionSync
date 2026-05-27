@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "withKeySecret static method"
 slug: "sdk-for-flutter-explore-core-engine-authenticationmode-withkeysecret"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- withKeySecret.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-core-engine-authenticationmode-withkeysecret"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
-<li><a href="../../core.engine/AuthenticationMode-class.html">/sdk-for-flutter-explore-core-engine-authenticationmode-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
+<li>/sdk-for-flutter-explore-core-engine-authenticationmode-class</li>
 <li class="self-crumb">withKeySecret static method</li>
 </ol>
 <div class="self-name">withKeySecret</div>
@@ -37,7 +38,7 @@ menu
 <div>
 <h1>withKeySecret static method</h1></div>
 <section class="multi-line-signature">
-<a href="../../core.engine/AuthenticationMode-class.html">/sdk-for-flutter-explore-core-engine-authenticationmode-class</a>
+/sdk-for-flutter-explore-core-engine-authenticationmode-class
 withKeySecret(<wbr/><ol class="parameter-list single-line"> <li>String accessKeyId, </li>
 <li>String accessKeySecret</li>
 </ol>)
@@ -55,7 +56,7 @@ withKeySecret(<wbr/><ol class="parameter-list single-line"> <li>String accessKey
 <p><code>accessKeySecret</code> The access key secret</p>
 </li>
 </ul>
-<p>Returns <a href="../../core.engine/AuthenticationMode-class.html">/sdk-for-flutter-explore-core-engine-authenticationmode-class</a>. Instance of <a href="../../core.engine/AuthenticationMode-class.html">/sdk-for-flutter-explore-core-engine-authenticationmode-class</a> configured to use key ID and secret</p>
+<p>Returns /sdk-for-flutter-explore-core-engine-authenticationmode-class. Instance of /sdk-for-flutter-explore-core-engine-authenticationmode-class configured to use key ID and secret</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -69,9 +70,9 @@ withKeySecret(<wbr/><ol class="parameter-list single-line"> <li>String accessKey
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
-<li><a href="../../core.engine/AuthenticationMode-class.html">/sdk-for-flutter-explore-core-engine-authenticationmode-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
+<li>/sdk-for-flutter-explore-core-engine-authenticationmode-class</li>
 <li class="self-crumb">withKeySecret static method</li>
 </ol>
 <h5>AuthenticationMode class</h5>
@@ -88,4 +89,5 @@ withKeySecret(<wbr/><ol class="parameter-list single-line"> <li>String accessKey
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

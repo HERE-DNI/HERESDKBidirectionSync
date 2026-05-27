@@ -3,7 +3,8 @@ title: "PointDataAccessor constructor"
 slug: "sdk-for-flutter-explore-mapview-datasource-pointdataaccessor-pointdataaccessor"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- PointDataAccessor.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-datasource-pointdataaccessor-pointdataacc
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
-<li><a href="../../mapview.datasource/PointDataAccessor-class.html">/sdk-for-flutter-explore-mapview-datasource-pointdataaccessor-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-pointdataaccessor-class</li>
 <li class="self-crumb">PointDataAccessor constructor</li>
 </ol>
 <div class="self-name">PointDataAccessor</div>
@@ -47,9 +48,9 @@ PointDataAccessor(<wbr/>)
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
-<li><a href="../../mapview.datasource/PointDataAccessor-class.html">/sdk-for-flutter-explore-mapview-datasource-pointdataaccessor-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-pointdataaccessor-class</li>
 <li class="self-crumb">PointDataAccessor constructor</li>
 </ol>
 <h5>PointDataAccessor class</h5>
@@ -66,4 +67,5 @@ PointDataAccessor(<wbr/>)
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "flyToWithZoom static method"
 slug: "sdk-for-flutter-explore-mapview-mapcameraanimationfactory-flytowithzoom"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- flyToWithZoom.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-mapcameraanimationfactory-flytowithzoom"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapCameraAnimationFactory-class.html">/sdk-for-flutter-explore-mapview-mapcameraanimationfactory-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapcameraanimationfactory-class</li>
 <li class="self-crumb">flyToWithZoom static method</li>
 </ol>
 <div class="self-name">flyToWithZoom</div>
@@ -37,9 +38,9 @@ menu
 <div>
 <h1>flyToWithZoom static method</h1></div>
 <section class="multi-line-signature">
-<a href="../../mapview/MapCameraAnimation-class.html">/sdk-for-flutter-explore-mapview-mapcameraanimation-class</a>
-flyToWithZoom(<wbr/><ol class="parameter-list"> <li><a href="../../core/GeoCoordinatesUpdate-class.html">/sdk-for-flutter-explore-core-geocoordinatesupdate-class</a> target, </li>
-<li><a href="../../mapview/MapMeasure-class.html">/sdk-for-flutter-explore-mapview-mapmeasure-class</a> zoom, </li>
+/sdk-for-flutter-explore-mapview-mapcameraanimation-class
+flyToWithZoom(<wbr/><ol class="parameter-list"> <li>/sdk-for-flutter-explore-core-geocoordinatesupdate-class target, </li>
+<li>/sdk-for-flutter-explore-mapview-mapmeasure-class zoom, </li>
 <li>double bowFactor, </li>
 <li>Duration duration, </li>
 </ol>)
@@ -78,7 +79,7 @@ of animation has a non zero tilt.</p>
 <ul>
 <li><code>duration</code> Duration of the flight. Negative duration results in no camera change when applied.</li>
 </ul>
-<p>Returns <a href="../../mapview/MapCameraAnimation-class.html">/sdk-for-flutter-explore-mapview-mapcameraanimation-class</a>. MapCameraAnimation instance</p>
+<p>Returns /sdk-for-flutter-explore-mapview-mapcameraanimation-class. MapCameraAnimation instance</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -92,9 +93,9 @@ of animation has a non zero tilt.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapCameraAnimationFactory-class.html">/sdk-for-flutter-explore-mapview-mapcameraanimationfactory-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapcameraanimationfactory-class</li>
 <li class="self-crumb">flyToWithZoom static method</li>
 </ol>
 <h5>MapCameraAnimationFactory class</h5>
@@ -111,4 +112,5 @@ of animation has a non zero tilt.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

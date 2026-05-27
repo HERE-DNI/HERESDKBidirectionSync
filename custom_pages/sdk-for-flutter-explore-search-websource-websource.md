@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "WebSource constructor"
 slug: "sdk-for-flutter-explore-search-websource-websource"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- WebSource.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-search-websource-websource"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/WebSource-class.html">/sdk-for-flutter-explore-search-websource-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-websource-class</li>
 <li class="self-crumb">WebSource constructor</li>
 </ol>
 <div class="self-name">WebSource</div>
@@ -60,9 +61,9 @@ WebSource(<wbr/><ol class="parameter-list single-line"> <li>String href, </li>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/WebSource-class.html">/sdk-for-flutter-explore-search-websource-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-websource-class</li>
 <li class="self-crumb">WebSource constructor</li>
 </ol>
 <h5>WebSource class</h5>
@@ -79,4 +80,5 @@ WebSource(<wbr/><ol class="parameter-list single-line"> <li>String href, </li>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

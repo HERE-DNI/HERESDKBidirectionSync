@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "summary property"
 slug: "sdk-for-flutter-explore-traffic-trafficincident-summary"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- summary.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-traffic-trafficincident-summary"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../traffic/traffic-library.html">/sdk-for-flutter-explore-traffic-traffic-library</a></li>
-<li><a href="../../traffic/TrafficIncident-class.html">/sdk-for-flutter-explore-traffic-trafficincident-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-traffic-traffic-library</li>
+<li>/sdk-for-flutter-explore-traffic-trafficincident-class</li>
 <li class="self-crumb">summary property</li>
 </ol>
 <div class="self-name">summary</div>
@@ -38,14 +39,14 @@ menu
 <h1>summary property</h1></div>
 <section id="getter">
 <section class="multi-line-signature">
-<a href="../../core/LocalizedText-class.html">/sdk-for-flutter-explore-core-localizedtext-class</a>
+/sdk-for-flutter-explore-core-localizedtext-class
 summary
 </section>
 <section class="desc markdown">
 <p>The human readable summary of the incident.
 The summary field provides a short version of the description containing no location information.
 The expected summary language can be managed
-via <a href="../../traffic/TrafficIncidentsQueryOptions/languageCode.html">/sdk-for-flutter-explore-traffic-trafficincidentsqueryoptions-languagecode</a> and <a href="../../traffic/TrafficIncidentLookupOptions/languageCode.html">/sdk-for-flutter-explore-traffic-trafficincidentlookupoptions-languagecode</a>.
+via /sdk-for-flutter-explore-traffic-trafficincidentsqueryoptions-languagecode and /sdk-for-flutter-explore-traffic-trafficincidentlookupoptions-languagecode.
 Gets the human readable summary of the incident.</p>
 </section>
 <section class="summary source-code" id="source">
@@ -61,9 +62,9 @@ Gets the human readable summary of the incident.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../traffic/traffic-library.html">/sdk-for-flutter-explore-traffic-traffic-library</a></li>
-<li><a href="../../traffic/TrafficIncident-class.html">/sdk-for-flutter-explore-traffic-trafficincident-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-traffic-traffic-library</li>
+<li>/sdk-for-flutter-explore-traffic-trafficincident-class</li>
 <li class="self-crumb">summary property</li>
 </ol>
 <h5>TrafficIncident class</h5>
@@ -80,4 +81,5 @@ Gets the human readable summary of the incident.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

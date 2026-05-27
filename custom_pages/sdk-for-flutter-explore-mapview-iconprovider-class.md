@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "IconProvider class"
 slug: "sdk-for-flutter-explore-mapview-iconprovider-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- IconProvider-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -25,8 +26,8 @@ slug: "sdk-for-flutter-explore-mapview-iconprovider-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
 <li class="self-crumb">IconProvider class</li>
 </ol>
 <div class="self-name">IconProvider</div>
@@ -60,11 +61,11 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="IconProvider">
-<a href="../mapview/IconProvider/IconProvider.html">/sdk-for-flutter-explore-mapview-iconprovider-iconprovider</a>(<a href="../mapview/MapContext-class.html">/sdk-for-flutter-explore-mapview-mapcontext-class</a> mapContext)
+/sdk-for-flutter-explore-mapview-iconprovider-iconprovider(/sdk-for-flutter-explore-mapview-mapcontext-class mapContext)
 </dt>
 <dd>
           Constructor.
-<code>mapContext</code> The map context instance which is obtained using <a href="../mapview/MapViewBase/mapContext.html">/sdk-for-flutter-explore-mapview-mapviewbase-mapcontext</a>.
+<code>mapContext</code> The map context instance which is obtained using /sdk-for-flutter-explore-mapview-mapviewbase-mapcontext.
         </dd>
 </dl>
 </section>
@@ -72,7 +73,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="hashCode">
-<a href="../mapview/IconProvider/hashCode.html">/sdk-for-flutter-explore-mapview-iconprovider-hashcode</a>
+/sdk-for-flutter-explore-mapview-iconprovider-hashcode
 → int
 </dt>
 <dd class="inherited">
@@ -80,7 +81,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../mapview/IconProvider/runtimeType.html">/sdk-for-flutter-explore-mapview-iconprovider-runtimetype</a>
+/sdk-for-flutter-explore-mapview-iconprovider-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -93,7 +94,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable" id="createRoadShieldIcon">
-<a href="../mapview/IconProvider/createRoadShieldIcon.html">/sdk-for-flutter-explore-mapview-iconprovider-createroadshieldicon</a>(<wbr/><a href="../mapview/RoadShieldIconProperties-class.html">/sdk-for-flutter-explore-mapview-roadshieldiconproperties-class</a> properties, <a href="../mapview/MapScheme.html">/sdk-for-flutter-explore-mapview-mapscheme</a> mapScheme, <a href="../mapview/IconProviderAssetType.html">/sdk-for-flutter-explore-mapview-iconproviderassettype</a> assetType, int widthConstraintInPixels, int heightConstraintInPixels, <a href="../mapview/IconProviderCallback.html">/sdk-for-flutter-explore-mapview-iconprovidercallback</a> callback)
+/sdk-for-flutter-explore-mapview-iconprovider-createroadshieldicon(<wbr/>/sdk-for-flutter-explore-mapview-roadshieldiconproperties-class properties, /sdk-for-flutter-explore-mapview-mapscheme mapScheme, /sdk-for-flutter-explore-mapview-iconproviderassettype assetType, int widthConstraintInPixels, int heightConstraintInPixels, /sdk-for-flutter-explore-mapview-iconprovidercallback callback)
     → void
 
 </dt>
@@ -103,7 +104,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 
 </dd>
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../mapview/IconProvider/noSuchMethod.html">/sdk-for-flutter-explore-mapview-iconprovider-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-mapview-iconprovider-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -112,7 +113,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../mapview/IconProvider/toString.html">/sdk-for-flutter-explore-mapview-iconprovider-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-mapview-iconprovider-tostring(<wbr/>)
     → String
 
 </dt>
@@ -126,7 +127,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-<a href="../mapview/IconProvider/operator_equals.html">/sdk-for-flutter-explore-mapview-iconprovider-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-mapview-iconprovider-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -144,8 +145,8 @@ Related APIs may change for new releases without a deprecation process.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
 <li class="self-crumb">IconProvider class</li>
 </ol>
 <h5>mapview library</h5>
@@ -162,4 +163,5 @@ Related APIs may change for new releases without a deprecation process.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "AddressQuery.withAreaCenterInCountries constructor"
 slug: "sdk-for-flutter-explore-search-addressquery-addressquery-withareacenterincountries"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- AddressQuery.withAreaCenterInCountries.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-search-addressquery-addressquery-withareacenterin
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/AddressQuery-class.html">/sdk-for-flutter-explore-search-addressquery-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-addressquery-class</li>
 <li class="self-crumb">AddressQuery.withAreaCenterInCountries factory constructor</li>
 </ol>
 <div class="self-name">AddressQuery.withAreaCenterInCountries</div>
@@ -38,8 +39,8 @@ menu
 <h1>AddressQuery.withAreaCenterInCountries constructor</h1></div>
 <section class="multi-line-signature">
 AddressQuery.withAreaCenterInCountries(<wbr/><ol class="parameter-list single-line"> <li>String query, </li>
-<li><a href="../../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a> areaCenter, </li>
-<li>List&lt;<wbr/><a href="../../core/CountryCode.html">/sdk-for-flutter-explore-core-countrycode</a>&gt; countries</li>
+<li>/sdk-for-flutter-explore-core-geocoordinates-class areaCenter, </li>
+<li>List&lt;<wbr/>/sdk-for-flutter-explore-core-countrycode&gt; countries</li>
 </ol>)
     </section>
 <section class="desc markdown">
@@ -69,9 +70,9 @@ list of countries the query is applied in.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/AddressQuery-class.html">/sdk-for-flutter-explore-search-addressquery-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-addressquery-class</li>
 <li class="self-crumb">AddressQuery.withAreaCenterInCountries factory constructor</li>
 </ol>
 <h5>AddressQuery class</h5>
@@ -88,4 +89,5 @@ list of countries the query is applied in.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

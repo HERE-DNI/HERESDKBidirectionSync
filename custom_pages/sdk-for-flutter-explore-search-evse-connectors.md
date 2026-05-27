@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "connectors property"
 slug: "sdk-for-flutter-explore-search-evse-connectors"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- connectors.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-search-evse-connectors"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/Evse-class.html">/sdk-for-flutter-explore-search-evse-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-evse-class</li>
 <li class="self-crumb">connectors property</li>
 </ol>
 <div class="self-name">connectors</div>
@@ -38,7 +39,7 @@ menu
 <h1>connectors property</h1></div>
 <section class="multi-line-signature">
         
-        List&lt;<wbr/><a href="../../search/EVSEConnector-class.html">/sdk-for-flutter-explore-search-evseconnector-class</a>&gt;
+        List&lt;<wbr/>/sdk-for-flutter-explore-search-evseconnector-class&gt;
 connectors
 <div class="features">getter/setter pair</div>
 </section>
@@ -57,9 +58,9 @@ connectors
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/Evse-class.html">/sdk-for-flutter-explore-search-evse-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-evse-class</li>
 <li class="self-crumb">connectors property</li>
 </ol>
 <h5>Evse class</h5>
@@ -76,4 +77,5 @@ connectors
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

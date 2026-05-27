@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "placements property"
 slug: "sdk-for-flutter-explore-mapview-mapmarkertextstyle-placements"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- placements.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-mapmarkertextstyle-placements"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapMarkerTextStyle-class.html">/sdk-for-flutter-explore-mapview-mapmarkertextstyle-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapmarkertextstyle-class</li>
 <li class="self-crumb">placements property</li>
 </ol>
 <div class="self-name">placements</div>
@@ -38,12 +39,12 @@ menu
 <h1>placements property</h1></div>
 <section id="getter">
 <section class="multi-line-signature">
-List&lt;<wbr/><a href="../../mapview/MapMarkerTextStylePlacement.html">/sdk-for-flutter-explore-mapview-mapmarkertextstyleplacement</a>&gt;
+List&lt;<wbr/>/sdk-for-flutter-explore-mapview-mapmarkertextstyleplacement&gt;
 placements
 </section>
 <section class="desc markdown">
-<p>List of possible text placements relative to the icon of a <a href="../../mapview/MapMarker-class.html">/sdk-for-flutter-explore-mapview-mapmarker-class</a>.
-Gets the possible text placements relative to the icon of a <a href="../../mapview/MapMarker-class.html">/sdk-for-flutter-explore-mapview-mapmarker-class</a>.</p>
+<p>List of possible text placements relative to the icon of a /sdk-for-flutter-explore-mapview-mapmarker-class.
+Gets the possible text placements relative to the icon of a /sdk-for-flutter-explore-mapview-mapmarker-class.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -58,9 +59,9 @@ Gets the possible text placements relative to the icon of a <a href="../../mapvi
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapMarkerTextStyle-class.html">/sdk-for-flutter-explore-mapview-mapmarkertextstyle-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapmarkertextstyle-class</li>
 <li class="self-crumb">placements property</li>
 </ol>
 <h5>MapMarkerTextStyle class</h5>
@@ -77,4 +78,5 @@ Gets the possible text placements relative to the icon of a <a href="../../mapvi
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

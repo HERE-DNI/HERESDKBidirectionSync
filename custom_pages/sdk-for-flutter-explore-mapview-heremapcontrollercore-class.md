@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "HereMapControllerCore class abstract"
 slug: "sdk-for-flutter-explore-mapview-heremapcontrollercore-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- HereMapControllerCore-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -27,8 +28,8 @@ slug: "sdk-for-flutter-explore-mapview-heremapcontrollercore-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
 <li class="self-crumb">HereMapControllerCore class</li>
 </ol>
 <div class="self-name">HereMapControllerCore</div>
@@ -60,7 +61,7 @@ The layers, their relation to the objects and spaces, the layout and the represe
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="HereMapControllerCore">
-<a href="../mapview/HereMapControllerCore/HereMapControllerCore.html">/sdk-for-flutter-explore-mapview-heremapcontrollercore-heremapcontrollercore</a>()
+/sdk-for-flutter-explore-mapview-heremapcontrollercore-heremapcontrollercore()
 </dt>
 <dd>
 </dd>
@@ -70,7 +71,7 @@ The layers, their relation to the objects and spaces, the layout and the represe
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="hashCode">
-<a href="../mapview/HereMapControllerCore/hashCode.html">/sdk-for-flutter-explore-mapview-heremapcontrollercore-hashcode</a>
+/sdk-for-flutter-explore-mapview-heremapcontrollercore-hashcode
 → int
 </dt>
 <dd class="inherited">
@@ -78,7 +79,7 @@ The layers, their relation to the objects and spaces, the layout and the represe
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../mapview/HereMapControllerCore/runtimeType.html">/sdk-for-flutter-explore-mapview-heremapcontrollercore-runtimetype</a>
+/sdk-for-flutter-explore-mapview-heremapcontrollercore-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -86,14 +87,14 @@ The layers, their relation to the objects and spaces, the layout and the represe
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="style">
-<a href="../mapview/HereMapControllerCore/style.html">/sdk-for-flutter-explore-mapview-heremapcontrollercore-style</a>
-→ <a href="../mapview/Style-class.html">/sdk-for-flutter-explore-mapview-style-class</a>
+/sdk-for-flutter-explore-mapview-heremapcontrollercore-style
+→ /sdk-for-flutter-explore-mapview-style-class
 </dt>
 <dd>
   The style that the map uses to customize the visual appearance of rendered features.
-Changes made to the map style using <a href="../mapview/Style/update.html">/sdk-for-flutter-explore-mapview-style-update</a> are lost when new scene is loaded using
-<a href="../mapview/MapScene/loadSceneForMapScheme.html">/sdk-for-flutter-explore-mapview-mapscene-loadsceneformapscheme</a> and its variants as well as
-when map features are enabled or disabled using <a href="../mapview/MapScene/enableFeatures.html">/sdk-for-flutter-explore-mapview-mapscene-enablefeatures</a> and <a href="../mapview/MapScene/disableFeatures.html">/sdk-for-flutter-explore-mapview-mapscene-disablefeatures</a>.
+Changes made to the map style using /sdk-for-flutter-explore-mapview-style-update are lost when new scene is loaded using
+/sdk-for-flutter-explore-mapview-mapscene-loadsceneformapscheme and its variants as well as
+when map features are enabled or disabled using /sdk-for-flutter-explore-mapview-mapscene-enablefeatures and /sdk-for-flutter-explore-mapview-mapscene-disablefeatures.
   <div class="features">no setter</div>
 </dd>
 </dl>
@@ -102,7 +103,7 @@ when map features are enabled or disabled using <a href="../mapview/MapScene/ena
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable" id="addMapIdleListener">
-<a href="../mapview/HereMapControllerCore/addMapIdleListener.html">/sdk-for-flutter-explore-mapview-heremapcontrollercore-addmapidlelistener</a>(<wbr/><a href="../mapview/MapIdleListener-class.html">/sdk-for-flutter-explore-mapview-mapidlelistener-class</a> listener)
+/sdk-for-flutter-explore-mapview-heremapcontrollercore-addmapidlelistener(<wbr/>/sdk-for-flutter-explore-mapview-mapidlelistener-class listener)
     → void
 
 </dt>
@@ -113,7 +114,7 @@ notifications and notifies it of the current state.
 
 </dd>
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../mapview/HereMapControllerCore/noSuchMethod.html">/sdk-for-flutter-explore-mapview-heremapcontrollercore-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-mapview-heremapcontrollercore-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -122,7 +123,7 @@ notifications and notifies it of the current state.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable" id="removeMapIdleListener">
-<a href="../mapview/HereMapControllerCore/removeMapIdleListener.html">/sdk-for-flutter-explore-mapview-heremapcontrollercore-removemapidlelistener</a>(<wbr/><a href="../mapview/MapIdleListener-class.html">/sdk-for-flutter-explore-mapview-mapidlelistener-class</a> listener)
+/sdk-for-flutter-explore-mapview-heremapcontrollercore-removemapidlelistener(<wbr/>/sdk-for-flutter-explore-mapview-mapidlelistener-class listener)
     → void
 
 </dt>
@@ -132,7 +133,7 @@ notifications and notifies it of the current state.
 
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../mapview/HereMapControllerCore/toString.html">/sdk-for-flutter-explore-mapview-heremapcontrollercore-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-mapview-heremapcontrollercore-tostring(<wbr/>)
     → String
 
 </dt>
@@ -146,7 +147,7 @@ notifications and notifies it of the current state.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-<a href="../mapview/HereMapControllerCore/operator_equals.html">/sdk-for-flutter-explore-mapview-heremapcontrollercore-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-mapview-heremapcontrollercore-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -164,8 +165,8 @@ notifications and notifies it of the current state.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
 <li class="self-crumb">HereMapControllerCore class</li>
 </ol>
 <h5>mapview library</h5>
@@ -182,4 +183,5 @@ notifications and notifies it of the current state.
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

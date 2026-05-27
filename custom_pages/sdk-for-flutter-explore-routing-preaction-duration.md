@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "duration property"
 slug: "sdk-for-flutter-explore-routing-preaction-duration"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- duration.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-routing-preaction-duration"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/PreAction-class.html">/sdk-for-flutter-explore-routing-preaction-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-preaction-class</li>
 <li class="self-crumb">duration property</li>
 </ol>
 <div class="self-name">duration</div>
@@ -58,9 +59,9 @@ Defaults to 0 seconds.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/PreAction-class.html">/sdk-for-flutter-explore-routing-preaction-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-preaction-class</li>
 <li class="self-crumb">duration property</li>
 </ol>
 <h5>PreAction class</h5>
@@ -77,4 +78,5 @@ Defaults to 0 seconds.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

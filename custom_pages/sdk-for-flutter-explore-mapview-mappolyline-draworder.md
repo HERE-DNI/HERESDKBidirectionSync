@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "drawOrder property"
 slug: "sdk-for-flutter-explore-mapview-mappolyline-draworder"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- drawOrder.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-mappolyline-draworder"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapPolyline-class.html">/sdk-for-flutter-explore-mapview-mappolyline-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mappolyline-class</li>
 <li class="self-crumb">drawOrder property</li>
 </ol>
 <div class="self-name">drawOrder</div>
@@ -62,7 +63,7 @@ Sets the draw order of the polyline.</p>
 <p>Polylines with a higher draw order are drawn on top
 of polylines with a lower draw order.</p>
 <p>In case multiple polylines have the same draw
-order, they can be rendered in different ways depending on the <a href="../../mapview/MapPolyline/drawOrderType.html">/sdk-for-flutter-explore-mapview-mappolyline-drawordertype</a> set.</p>
+order, they can be rendered in different ways depending on the /sdk-for-flutter-explore-mapview-mappolyline-drawordertype set.</p>
 <p>Supplied value is clamped to the range [0; 1023].</p>
 </section>
 <section class="summary source-code" id="source">
@@ -78,9 +79,9 @@ order, they can be rendered in different ways depending on the <a href="../../ma
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapPolyline-class.html">/sdk-for-flutter-explore-mapview-mappolyline-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mappolyline-class</li>
 <li class="self-crumb">drawOrder property</li>
 </ol>
 <h5>MapPolyline class</h5>
@@ -97,4 +98,5 @@ order, they can be rendered in different ways depending on the <a href="../../ma
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

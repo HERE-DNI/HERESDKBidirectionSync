@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "polygonExceptionAreas property"
 slug: "sdk-for-flutter-explore-routing-avoidboundingboxareaoptions-polygonexceptionareas"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- polygonExceptionAreas.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-routing-avoidboundingboxareaoptions-polygonexcept
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/AvoidBoundingBoxAreaOptions-class.html">/sdk-for-flutter-explore-routing-avoidboundingboxareaoptions-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-avoidboundingboxareaoptions-class</li>
 <li class="self-crumb">polygonExceptionAreas property</li>
 </ol>
 <div class="self-name">polygonExceptionAreas</div>
@@ -38,7 +39,7 @@ menu
 <h1>polygonExceptionAreas property</h1></div>
 <section class="multi-line-signature">
         
-        List&lt;<wbr/><a href="../../core/GeoPolygon-class.html">/sdk-for-flutter-explore-core-geopolygon-class</a>&gt;
+        List&lt;<wbr/>/sdk-for-flutter-explore-core-geopolygon-class&gt;
 polygonExceptionAreas
 <div class="features">getter/setter pair</div>
 </section>
@@ -57,9 +58,9 @@ polygonExceptionAreas
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/AvoidBoundingBoxAreaOptions-class.html">/sdk-for-flutter-explore-routing-avoidboundingboxareaoptions-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-avoidboundingboxareaoptions-class</li>
 <li class="self-crumb">polygonExceptionAreas property</li>
 </ol>
 <h5>AvoidBoundingBoxAreaOptions class</h5>
@@ -76,4 +77,5 @@ polygonExceptionAreas
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

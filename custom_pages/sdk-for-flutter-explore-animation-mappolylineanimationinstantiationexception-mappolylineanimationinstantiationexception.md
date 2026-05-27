@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "MapPolylineAnimationInstantiationException constructor"
 slug: "sdk-for-flutter-explore-animation-mappolylineanimationinstantiationexception-mappolylineanimationinstantiationexception"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- MapPolylineAnimationInstantiationException.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-animation-mappolylineanimationinstantiationexcept
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../animation/animation-library.html">/sdk-for-flutter-explore-animation-animation-library</a></li>
-<li><a href="../../animation/MapPolylineAnimationInstantiationException-class.html">/sdk-for-flutter-explore-animation-mappolylineanimationinstantiationexception-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-animation-animation-library</li>
+<li>/sdk-for-flutter-explore-animation-mappolylineanimationinstantiationexception-class</li>
 <li class="self-crumb">MapPolylineAnimationInstantiationException constructor</li>
 </ol>
 <div class="self-name">MapPolylineAnimationInstantiationException</div>
@@ -37,7 +38,7 @@ menu
 <div>
 <h1>MapPolylineAnimationInstantiationException constructor</h1></div>
 <section class="multi-line-signature">
-MapPolylineAnimationInstantiationException(<wbr/><ol class="parameter-list single-line"> <li><a href="../../animation/MapPolylineAnimationInstantiationErrorCode.html">/sdk-for-flutter-explore-animation-mappolylineanimationinstantiationerrorcode</a> error</li>
+MapPolylineAnimationInstantiationException(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-animation-mappolylineanimationinstantiationerrorcode error</li>
 </ol>)
     </section>
 <section class="summary source-code" id="source">
@@ -52,9 +53,9 @@ MapPolylineAnimationInstantiationException(<wbr/><ol class="parameter-list singl
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../animation/animation-library.html">/sdk-for-flutter-explore-animation-animation-library</a></li>
-<li><a href="../../animation/MapPolylineAnimationInstantiationException-class.html">/sdk-for-flutter-explore-animation-mappolylineanimationinstantiationexception-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-animation-animation-library</li>
+<li>/sdk-for-flutter-explore-animation-mappolylineanimationinstantiationexception-class</li>
 <li class="self-crumb">MapPolylineAnimationInstantiationException constructor</li>
 </ol>
 <h5>MapPolylineAnimationInstantiationException class</h5>
@@ -71,4 +72,5 @@ MapPolylineAnimationInstantiationException(<wbr/><ol class="parameter-list singl
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

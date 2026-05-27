@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "sdkVersion static method"
 slug: "sdk-for-flutter-explore-core-engine-sdkbuildinformation-sdkversion"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- sdkVersion.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-core-engine-sdkbuildinformation-sdkversion"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
-<li><a href="../../core.engine/SDKBuildInformation-class.html">/sdk-for-flutter-explore-core-engine-sdkbuildinformation-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
+<li>/sdk-for-flutter-explore-core-engine-sdkbuildinformation-class</li>
 <li class="self-crumb">sdkVersion static method</li>
 </ol>
 <div class="self-name">sdkVersion</div>
@@ -37,14 +38,14 @@ menu
 <div>
 <h1>sdkVersion static method</h1></div>
 <section class="multi-line-signature">
-<a href="../../core.engine/SDKVersion-class.html">/sdk-for-flutter-explore-core-engine-sdkversion-class</a>
+/sdk-for-flutter-explore-core-engine-sdkversion-class
 sdkVersion(<wbr/>)
 
       
 
     </section>
 <section class="desc markdown">
-<p>Returns <a href="../../core.engine/SDKVersion-class.html">/sdk-for-flutter-explore-core-engine-sdkversion-class</a>. SDK version information.</p>
+<p>Returns /sdk-for-flutter-explore-core-engine-sdkversion-class. SDK version information.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -58,9 +59,9 @@ sdkVersion(<wbr/>)
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
-<li><a href="../../core.engine/SDKBuildInformation-class.html">/sdk-for-flutter-explore-core-engine-sdkbuildinformation-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
+<li>/sdk-for-flutter-explore-core-engine-sdkbuildinformation-class</li>
 <li class="self-crumb">sdkVersion static method</li>
 </ol>
 <h5>SDKBuildInformation class</h5>
@@ -77,4 +78,5 @@ sdkVersion(<wbr/>)
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

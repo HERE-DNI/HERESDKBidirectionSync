@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "TrafficEngine.withSdkEngine constructor"
 slug: "sdk-for-flutter-explore-traffic-trafficengine-trafficengine-withsdkengine"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- TrafficEngine.withSdkEngine.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-traffic-trafficengine-trafficengine-withsdkengine
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../traffic/traffic-library.html">/sdk-for-flutter-explore-traffic-traffic-library</a></li>
-<li><a href="../../traffic/TrafficEngine-class.html">/sdk-for-flutter-explore-traffic-trafficengine-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-traffic-traffic-library</li>
+<li>/sdk-for-flutter-explore-traffic-trafficengine-class</li>
 <li class="self-crumb">TrafficEngine.withSdkEngine factory constructor</li>
 </ol>
 <div class="self-name">TrafficEngine.withSdkEngine</div>
@@ -37,7 +38,7 @@ menu
 <div>
 <h1>TrafficEngine.withSdkEngine constructor</h1></div>
 <section class="multi-line-signature">
-TrafficEngine.withSdkEngine(<wbr/><ol class="parameter-list single-line"> <li><a href="../../core.engine/SDKNativeEngine-class.html">/sdk-for-flutter-explore-core-engine-sdknativeengine-class</a> sdkEngine</li>
+TrafficEngine.withSdkEngine(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-core-engine-sdknativeengine-class sdkEngine</li>
 </ol>)
     </section>
 <section class="desc markdown">
@@ -45,7 +46,7 @@ TrafficEngine.withSdkEngine(<wbr/><ol class="parameter-list single-line"> <li><a
 <ul>
 <li><code>sdkEngine</code> An SDKEngine instance.</li>
 </ul>
-<p>Throws <a href="../../core.errors/InstantiationException-class.html">/sdk-for-flutter-explore-core-errors-instantiationexception-class</a>. Indicates what went wrong when the instantiation was attempted.</p>
+<p>Throws /sdk-for-flutter-explore-core-errors-instantiationexception-class. Indicates what went wrong when the instantiation was attempted.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -59,9 +60,9 @@ TrafficEngine.withSdkEngine(<wbr/><ol class="parameter-list single-line"> <li><a
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../traffic/traffic-library.html">/sdk-for-flutter-explore-traffic-traffic-library</a></li>
-<li><a href="../../traffic/TrafficEngine-class.html">/sdk-for-flutter-explore-traffic-trafficengine-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-traffic-traffic-library</li>
+<li>/sdk-for-flutter-explore-traffic-trafficengine-class</li>
 <li class="self-crumb">TrafficEngine.withSdkEngine factory constructor</li>
 </ol>
 <h5>TrafficEngine class</h5>
@@ -78,4 +79,5 @@ TrafficEngine.withSdkEngine(<wbr/><ol class="parameter-list single-line"> <li><a
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

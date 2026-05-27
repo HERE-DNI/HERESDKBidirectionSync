@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "AuthenticationData class"
 slug: "sdk-for-flutter-explore-core-authenticationdata-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- AuthenticationData-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -26,8 +27,8 @@ slug: "sdk-for-flutter-explore-core-authenticationdata-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
 <li class="self-crumb">AuthenticationData class</li>
 </ol>
 <div class="self-name">AuthenticationData</div>
@@ -57,7 +58,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="AuthenticationData">
-<a href="../core/AuthenticationData/AuthenticationData.html">/sdk-for-flutter-explore-core-authenticationdata-authenticationdata</a>()
+/sdk-for-flutter-explore-core-authenticationdata-authenticationdata()
 </dt>
 <dd>
 </dd>
@@ -67,7 +68,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="expiryTime">
-<a href="../core/AuthenticationData/expiryTime.html">/sdk-for-flutter-explore-core-authenticationdata-expirytime</a>
+/sdk-for-flutter-explore-core-authenticationdata-expirytime
 ↔ Duration
 </dt>
 <dd>
@@ -76,7 +77,7 @@ Defaults to 0 seconds.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-<a href="../core/AuthenticationData/hashCode.html">/sdk-for-flutter-explore-core-authenticationdata-hashcode</a>
+/sdk-for-flutter-explore-core-authenticationdata-hashcode
 → int
 </dt>
 <dd>
@@ -84,7 +85,7 @@ Defaults to 0 seconds.
   <div class="features">no setter</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../core/AuthenticationData/runtimeType.html">/sdk-for-flutter-explore-core-authenticationdata-runtimetype</a>
+/sdk-for-flutter-explore-core-authenticationdata-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -92,7 +93,7 @@ Defaults to 0 seconds.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="token">
-<a href="../core/AuthenticationData/token.html">/sdk-for-flutter-explore-core-authenticationdata-token</a>
+/sdk-for-flutter-explore-core-authenticationdata-token
 ↔ String
 </dt>
 <dd>
@@ -107,7 +108,7 @@ Defaults to an empty string.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../core/AuthenticationData/noSuchMethod.html">/sdk-for-flutter-explore-core-authenticationdata-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-core-authenticationdata-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -116,7 +117,7 @@ Defaults to an empty string.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../core/AuthenticationData/toString.html">/sdk-for-flutter-explore-core-authenticationdata-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-core-authenticationdata-tostring(<wbr/>)
     → String
 
 </dt>
@@ -130,7 +131,7 @@ Defaults to an empty string.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-<a href="../core/AuthenticationData/operator_equals.html">/sdk-for-flutter-explore-core-authenticationdata-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-core-authenticationdata-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -149,8 +150,8 @@ Defaults to an empty string.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
 <li class="self-crumb">AuthenticationData class</li>
 </ol>
 <h5>core library</h5>
@@ -167,4 +168,5 @@ Defaults to an empty string.
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

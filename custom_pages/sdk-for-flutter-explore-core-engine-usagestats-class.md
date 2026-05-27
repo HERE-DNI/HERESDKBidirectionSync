@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "UsageStats class"
 slug: "sdk-for-flutter-explore-core-engine-usagestats-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- UsageStats-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -26,8 +27,8 @@ slug: "sdk-for-flutter-explore-core-engine-usagestats-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
 <li class="self-crumb">UsageStats class</li>
 </ol>
 <div class="self-name">UsageStats</div>
@@ -59,7 +60,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="UsageStats">
-<a href="../core.engine/UsageStats/UsageStats.html">/sdk-for-flutter-explore-core-engine-usagestats-usagestats</a>(List&lt;<wbr/><a href="../core.engine/UsageStatsNetworkStats-class.html">/sdk-for-flutter-explore-core-engine-usagestatsnetworkstats-class</a>&gt; networkStats, <a href="../core.engine/UsageStatsFeature.html">/sdk-for-flutter-explore-core-engine-usagestatsfeature</a> feature)
+/sdk-for-flutter-explore-core-engine-usagestats-usagestats(List&lt;<wbr/>/sdk-for-flutter-explore-core-engine-usagestatsnetworkstats-class&gt; networkStats, /sdk-for-flutter-explore-core-engine-usagestatsfeature feature)
 </dt>
 <dd>
           Creates a new instance.
@@ -70,15 +71,15 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="feature">
-<a href="../core.engine/UsageStats/feature.html">/sdk-for-flutter-explore-core-engine-usagestats-feature</a>
-↔ <a href="../core.engine/UsageStatsFeature.html">/sdk-for-flutter-explore-core-engine-usagestatsfeature</a>
+/sdk-for-flutter-explore-core-engine-usagestats-feature
+↔ /sdk-for-flutter-explore-core-engine-usagestatsfeature
 </dt>
 <dd>
   Represents the HERE SDK feature associated with the gathered usage statistics.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="hashCode">
-<a href="../core.engine/UsageStats/hashCode.html">/sdk-for-flutter-explore-core-engine-usagestats-hashcode</a>
+/sdk-for-flutter-explore-core-engine-usagestats-hashcode
 → int
 </dt>
 <dd class="inherited">
@@ -86,15 +87,15 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="networkStats">
-<a href="../core.engine/UsageStats/networkStats.html">/sdk-for-flutter-explore-core-engine-usagestats-networkstats</a>
-↔ List&lt;<wbr/><a href="../core.engine/UsageStatsNetworkStats-class.html">/sdk-for-flutter-explore-core-engine-usagestatsnetworkstats-class</a>&gt;
+/sdk-for-flutter-explore-core-engine-usagestats-networkstats
+↔ List&lt;<wbr/>/sdk-for-flutter-explore-core-engine-usagestatsnetworkstats-class&gt;
 </dt>
 <dd>
   Provides network statistics.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../core.engine/UsageStats/runtimeType.html">/sdk-for-flutter-explore-core-engine-usagestats-runtimetype</a>
+/sdk-for-flutter-explore-core-engine-usagestats-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -107,7 +108,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../core.engine/UsageStats/noSuchMethod.html">/sdk-for-flutter-explore-core-engine-usagestats-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-core-engine-usagestats-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -116,7 +117,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../core.engine/UsageStats/toString.html">/sdk-for-flutter-explore-core-engine-usagestats-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-core-engine-usagestats-tostring(<wbr/>)
     → String
 
 </dt>
@@ -130,7 +131,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-<a href="../core.engine/UsageStats/operator_equals.html">/sdk-for-flutter-explore-core-engine-usagestats-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-core-engine-usagestats-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -148,8 +149,8 @@ Related APIs may change for new releases without a deprecation process.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
 <li class="self-crumb">UsageStats class</li>
 </ol>
 <h5>core.engine library</h5>
@@ -166,4 +167,5 @@ Related APIs may change for new releases without a deprecation process.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

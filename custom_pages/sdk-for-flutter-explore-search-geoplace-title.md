@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "title property"
 slug: "sdk-for-flutter-explore-search-geoplace-title"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- title.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-search-geoplace-title"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/GeoPlace-class.html">/sdk-for-flutter-explore-search-geoplace-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-geoplace-class</li>
 <li class="self-crumb">title property</li>
 </ol>
 <div class="self-name">title</div>
@@ -58,9 +59,9 @@ Note: This String can be empty when no data is available.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/GeoPlace-class.html">/sdk-for-flutter-explore-search-geoplace-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-geoplace-class</li>
 <li class="self-crumb">title property</li>
 </ol>
 <h5>GeoPlace class</h5>
@@ -77,4 +78,5 @@ Note: This String can be empty when no data is available.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "evChargingPool property"
 slug: "sdk-for-flutter-explore-search-details-evchargingpool"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- evChargingPool.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-search-details-evchargingpool"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/Details-class.html">/sdk-for-flutter-explore-search-details-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-details-class</li>
 <li class="self-crumb">evChargingPool property</li>
 </ol>
 <div class="self-name">evChargingPool</div>
@@ -37,15 +38,15 @@ menu
 <div>
 <h1>evChargingPool property</h1></div>
 <section class="multi-line-signature">
-<a href="../../search/EVChargingPool-class.html">/sdk-for-flutter-explore-search-evchargingpool-class</a>?
+/sdk-for-flutter-explore-search-evchargingpool-class?
         evChargingPool
 <div class="features">getter/setter pair</div>
 </section>
 <section class="desc markdown">
 <p>EV charging pool details. It is available only for a place that is a charging pool
 for electric vehicles.
-It is fully supported for offline search, provided that <a href="../../core.engine/LayerConfigurationFeature.html">/sdk-for-flutter-explore-core-engine-layerconfigurationfeature</a>
-is enabled in <a href="../../core.engine/SDKOptions/layerConfiguration.html">/sdk-for-flutter-explore-core-engine-sdkoptions-layerconfiguration</a>.</p>
+It is fully supported for offline search, provided that /sdk-for-flutter-explore-core-engine-layerconfigurationfeature
+is enabled in /sdk-for-flutter-explore-core-engine-sdkoptions-layerconfiguration.</p>
 <p>For online search, this feature is only available if it is explicitly enabled.
 To do that, call <code>SearchEngine.set_custom_option()</code> with arguments:
 name: "lookup.show" or "discover.show" or "browse.show"
@@ -67,9 +68,9 @@ as "ev,truck", "ev,truck,fuel" etc.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/Details-class.html">/sdk-for-flutter-explore-search-details-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-details-class</li>
 <li class="self-crumb">evChargingPool property</li>
 </ol>
 <h5>Details class</h5>
@@ -86,4 +87,5 @@ as "ev,truck", "ev,truck,fuel" etc.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

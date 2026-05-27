@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "MapContentSettings class abstract"
 slug: "sdk-for-flutter-explore-mapview-mapcontentsettings-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- MapContentSettings-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -29,8 +30,8 @@ slug: "sdk-for-flutter-explore-mapview-mapcontentsettings-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
 <li class="self-crumb">MapContentSettings class</li>
 </ol>
 <div class="self-name">MapContentSettings</div>
@@ -62,7 +63,7 @@ can already be changed before a map view instance is created.</p>
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="MapContentSettings">
-<a href="../mapview/MapContentSettings/MapContentSettings.html">/sdk-for-flutter-explore-mapview-mapcontentsettings-mapcontentsettings</a>()
+/sdk-for-flutter-explore-mapview-mapcontentsettings-mapcontentsettings()
 </dt>
 <dd>
 </dd>
@@ -72,7 +73,7 @@ can already be changed before a map view instance is created.</p>
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="hashCode">
-<a href="../mapview/MapContentSettings/hashCode.html">/sdk-for-flutter-explore-mapview-mapcontentsettings-hashcode</a>
+/sdk-for-flutter-explore-mapview-mapcontentsettings-hashcode
 → int
 </dt>
 <dd class="inherited">
@@ -80,7 +81,7 @@ can already be changed before a map view instance is created.</p>
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../mapview/MapContentSettings/runtimeType.html">/sdk-for-flutter-explore-mapview-mapcontentsettings-runtimetype</a>
+/sdk-for-flutter-explore-mapview-mapcontentsettings-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -93,7 +94,7 @@ can already be changed before a map view instance is created.</p>
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../mapview/MapContentSettings/noSuchMethod.html">/sdk-for-flutter-explore-mapview-mapcontentsettings-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-mapview-mapcontentsettings-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -102,7 +103,7 @@ can already be changed before a map view instance is created.</p>
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../mapview/MapContentSettings/toString.html">/sdk-for-flutter-explore-mapview-mapcontentsettings-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-mapview-mapcontentsettings-tostring(<wbr/>)
     → String
 
 </dt>
@@ -116,7 +117,7 @@ can already be changed before a map view instance is created.</p>
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-<a href="../mapview/MapContentSettings/operator_equals.html">/sdk-for-flutter-explore-mapview-mapcontentsettings-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-mapview-mapcontentsettings-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -130,7 +131,7 @@ can already be changed before a map view instance is created.</p>
 <h2>Static Methods</h2>
 <dl class="callables">
 <dt class="callable" id="filterTrafficIncidents">
-<a href="../mapview/MapContentSettings/filterTrafficIncidents.html">/sdk-for-flutter-explore-mapview-mapcontentsettings-filtertrafficincidents</a>(<wbr/>List&lt;<wbr/><a href="../traffic/TrafficIncidentType.html">/sdk-for-flutter-explore-traffic-trafficincidenttype</a>&gt; trafficIncidents)
+/sdk-for-flutter-explore-mapview-mapcontentsettings-filtertrafficincidents(<wbr/>List&lt;<wbr/>/sdk-for-flutter-explore-traffic-trafficincidenttype&gt; trafficIncidents)
     → void
 
 </dt>
@@ -141,19 +142,19 @@ criteria are shown when general display of traffic incidents is enabled.
 
 </dd>
 <dt class="callable" id="resetTrafficIncidentFilter">
-<a href="../mapview/MapContentSettings/resetTrafficIncidentFilter.html">/sdk-for-flutter-explore-mapview-mapcontentsettings-resettrafficincidentfilter</a>(<wbr/>)
+/sdk-for-flutter-explore-mapview-mapcontentsettings-resettrafficincidentfilter(<wbr/>)
     → void
 
 </dt>
 <dd>
   Removes all filters regarding Traffic Incidents so that all incidents will be displayed,
-when the display of Traffic Incidents is enabled using <a href="../mapview/MapScene/enableFeatures.html">/sdk-for-flutter-explore-mapview-mapscene-enablefeatures</a> with
-<a href="../mapview/MapFeatures/trafficIncidents.html">/sdk-for-flutter-explore-mapview-mapfeatures-trafficincidents</a>.
+when the display of Traffic Incidents is enabled using /sdk-for-flutter-explore-mapview-mapscene-enablefeatures with
+/sdk-for-flutter-explore-mapview-mapfeatures-trafficincidents.
   
 
 </dd>
 <dt class="callable" id="resetTrafficRefreshPeriod">
-<a href="../mapview/MapContentSettings/resetTrafficRefreshPeriod.html">/sdk-for-flutter-explore-mapview-mapcontentsettings-resettrafficrefreshperiod</a>(<wbr/>)
+/sdk-for-flutter-explore-mapview-mapcontentsettings-resettrafficrefreshperiod(<wbr/>)
     → void
 
 </dt>
@@ -164,13 +165,13 @@ validity time and the refresh period derived from the refresh period of the traf
 
 </dd>
 <dt class="callable" id="setTrafficRefreshPeriod">
-<a href="../mapview/MapContentSettings/setTrafficRefreshPeriod.html">/sdk-for-flutter-explore-mapview-mapcontentsettings-settrafficrefreshperiod</a>(<wbr/>Duration value)
+/sdk-for-flutter-explore-mapview-mapcontentsettings-settrafficrefreshperiod(<wbr/>Duration value)
     → void
 
 </dt>
 <dd>
-  Sets the traffic data refresh period for both <a href="../mapview/MapFeatures/trafficFlow.html">/sdk-for-flutter-explore-mapview-mapfeatures-trafficflow</a> and
-<a href="../mapview/MapFeatures/trafficIncidents.html">/sdk-for-flutter-explore-mapview-mapfeatures-trafficincidents</a>.
+  Sets the traffic data refresh period for both /sdk-for-flutter-explore-mapview-mapfeatures-trafficflow and
+/sdk-for-flutter-explore-mapview-mapfeatures-trafficincidents.
   
 
 </dd>
@@ -184,8 +185,8 @@ validity time and the refresh period derived from the refresh period of the traf
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
 <li class="self-crumb">MapContentSettings class</li>
 </ol>
 <h5>mapview library</h5>
@@ -202,4 +203,5 @@ validity time and the refresh period derived from the refresh period of the traf
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

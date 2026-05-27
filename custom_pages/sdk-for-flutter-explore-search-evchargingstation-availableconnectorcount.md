@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "availableConnectorCount property"
 slug: "sdk-for-flutter-explore-search-evchargingstation-availableconnectorcount"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- availableConnectorCount.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-search-evchargingstation-availableconnectorcount"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/EVChargingStation-class.html">/sdk-for-flutter-explore-search-evchargingstation-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-evchargingstation-class</li>
 <li class="self-crumb">availableConnectorCount property</li>
 </ol>
 <div class="self-name">availableConnectorCount</div>
@@ -58,9 +59,9 @@ This field is always <code>null</code> for offline search using the <code>Offlin
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/EVChargingStation-class.html">/sdk-for-flutter-explore-search-evchargingstation-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-evchargingstation-class</li>
 <li class="self-crumb">availableConnectorCount property</li>
 </ol>
 <h5>EVChargingStation class</h5>
@@ -77,4 +78,5 @@ This field is always <code>null</code> for offline search using the <code>Offlin
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

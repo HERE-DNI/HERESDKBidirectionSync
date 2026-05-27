@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "sdkUsageStats property"
 slug: "sdk-for-flutter-explore-core-engine-sdknativeengine-sdkusagestats"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- sdkUsageStats.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-core-engine-sdknativeengine-sdkusagestats"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
-<li><a href="../../core.engine/SDKNativeEngine-class.html">/sdk-for-flutter-explore-core-engine-sdknativeengine-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
+<li>/sdk-for-flutter-explore-core-engine-sdknativeengine-class</li>
 <li class="self-crumb">sdkUsageStats property</li>
 </ol>
 <div class="self-name">sdkUsageStats</div>
@@ -38,12 +39,12 @@ menu
 <h1>sdkUsageStats property</h1></div>
 <section id="getter">
 <section class="multi-line-signature">
-List&lt;<wbr/><a href="../../core.engine/UsageStats-class.html">/sdk-for-flutter-explore-core-engine-usagestats-class</a>&gt;
+List&lt;<wbr/>/sdk-for-flutter-explore-core-engine-usagestats-class&gt;
 sdkUsageStats
 </section>
 <section class="desc markdown">
 <p>Gets a list of usage statistics for all available HERE SDK features.
-<a href="../../core.engine/UsageStats-class.html">/sdk-for-flutter-explore-core-engine-usagestats-class</a> has cache and persistent storage. Reads from the persistent storage happen on <code>SDKNativeEngine</code> creation step.
+/sdk-for-flutter-explore-core-engine-usagestats-class has cache and persistent storage. Reads from the persistent storage happen on <code>SDKNativeEngine</code> creation step.
 Writes to persistent storage happen by reaching internal limit (amount of upload bytes, by default is 50KB).</p>
 <p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
 Related APIs may change for new releases without a deprecation process.
@@ -62,9 +63,9 @@ Gets a list of usage statistics for all available HERE SDK features.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
-<li><a href="../../core.engine/SDKNativeEngine-class.html">/sdk-for-flutter-explore-core-engine-sdknativeengine-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
+<li>/sdk-for-flutter-explore-core-engine-sdknativeengine-class</li>
 <li class="self-crumb">sdkUsageStats property</li>
 </ol>
 <h5>SDKNativeEngine class</h5>
@@ -81,4 +82,5 @@ Gets a list of usage statistics for all available HERE SDK features.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

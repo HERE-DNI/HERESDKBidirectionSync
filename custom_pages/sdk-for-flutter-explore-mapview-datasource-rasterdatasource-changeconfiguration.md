@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "changeConfiguration abstract method"
 slug: "sdk-for-flutter-explore-mapview-datasource-rasterdatasource-changeconfiguration"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- changeConfiguration.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-datasource-rasterdatasource-changeconfigu
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
-<li><a href="../../mapview.datasource/RasterDataSource-class.html">/sdk-for-flutter-explore-mapview-datasource-rasterdatasource-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-rasterdatasource-class</li>
 <li class="self-crumb">changeConfiguration abstract method</li>
 </ol>
 <div class="self-name">changeConfiguration</div>
@@ -38,7 +39,7 @@ menu
 <h1>changeConfiguration abstract method</h1></div>
 <section class="multi-line-signature">
 void
-changeConfiguration(<wbr/><ol class="parameter-list single-line"> <li><a href="../../mapview.datasource/RasterDataSourceConfigurationUpdate-class.html">/sdk-for-flutter-explore-mapview-datasource-rasterdatasourceconfigurationupdate-class</a> configuration</li>
+changeConfiguration(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-mapview-datasource-rasterdatasourceconfigurationupdate-class configuration</li>
 </ol>)
 
       
@@ -64,9 +65,9 @@ to a new bearer token for authentication.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
-<li><a href="../../mapview.datasource/RasterDataSource-class.html">/sdk-for-flutter-explore-mapview-datasource-rasterdatasource-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-rasterdatasource-class</li>
 <li class="self-crumb">changeConfiguration abstract method</li>
 </ol>
 <h5>RasterDataSource class</h5>
@@ -83,4 +84,5 @@ to a new bearer token for authentication.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

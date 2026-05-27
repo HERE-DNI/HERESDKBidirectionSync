@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "removeListener abstract method"
 slug: "sdk-for-flutter-explore-mapview-datasource-rasterdatasource-removelistener"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- removeListener.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-datasource-rasterdatasource-removelistene
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
-<li><a href="../../mapview.datasource/RasterDataSource-class.html">/sdk-for-flutter-explore-mapview-datasource-rasterdatasource-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-rasterdatasource-class</li>
 <li class="self-crumb">removeListener abstract method</li>
 </ol>
 <div class="self-name">removeListener</div>
@@ -38,7 +39,7 @@ menu
 <h1>removeListener abstract method</h1></div>
 <section class="multi-line-signature">
 void
-removeListener(<wbr/><ol class="parameter-list single-line"> <li><a href="../../mapview.datasource/RasterDataSourceListener-class.html">/sdk-for-flutter-explore-mapview-datasource-rasterdatasourcelistener-class</a> listener</li>
+removeListener(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-mapview-datasource-rasterdatasourcelistener-class listener</li>
 </ol>)
 
       
@@ -63,9 +64,9 @@ removeListener(<wbr/><ol class="parameter-list single-line"> <li><a href="../../
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
-<li><a href="../../mapview.datasource/RasterDataSource-class.html">/sdk-for-flutter-explore-mapview-datasource-rasterdatasource-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-rasterdatasource-class</li>
 <li class="self-crumb">removeListener abstract method</li>
 </ol>
 <h5>RasterDataSource class</h5>
@@ -82,4 +83,5 @@ removeListener(<wbr/><ol class="parameter-list single-line"> <li><a href="../../
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

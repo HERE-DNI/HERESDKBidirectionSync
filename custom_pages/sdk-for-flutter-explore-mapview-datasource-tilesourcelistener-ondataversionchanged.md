@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "onDataVersionChanged abstract method"
 slug: "sdk-for-flutter-explore-mapview-datasource-tilesourcelistener-ondataversionchanged"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- onDataVersionChanged.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-datasource-tilesourcelistener-ondataversi
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
-<li><a href="../../mapview.datasource/TileSourceListener-class.html">/sdk-for-flutter-explore-mapview-datasource-tilesourcelistener-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-tilesourcelistener-class</li>
 <li class="self-crumb">onDataVersionChanged abstract method</li>
 </ol>
 <div class="self-name">onDataVersionChanged</div>
@@ -38,7 +39,7 @@ menu
 <h1>onDataVersionChanged abstract method</h1></div>
 <section class="multi-line-signature">
 void
-onDataVersionChanged(<wbr/><ol class="parameter-list single-line"> <li><a href="../../mapview.datasource/TileSourceDataVersion-class.html">/sdk-for-flutter-explore-mapview-datasource-tilesourcedataversion-class</a> dataVersion</li>
+onDataVersionChanged(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-mapview-datasource-tilesourcedataversion-class dataVersion</li>
 </ol>)
 
       
@@ -62,9 +63,9 @@ onDataVersionChanged(<wbr/><ol class="parameter-list single-line"> <li><a href="
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
-<li><a href="../../mapview.datasource/TileSourceListener-class.html">/sdk-for-flutter-explore-mapview-datasource-tilesourcelistener-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-tilesourcelistener-class</li>
 <li class="self-crumb">onDataVersionChanged abstract method</li>
 </ol>
 <h5>TileSourceListener class</h5>
@@ -81,4 +82,5 @@ onDataVersionChanged(<wbr/><ol class="parameter-list single-line"> <li><a href="
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

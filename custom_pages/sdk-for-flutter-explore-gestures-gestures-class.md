@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "Gestures class abstract"
 slug: "sdk-for-flutter-explore-gestures-gestures-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- Gestures-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -33,8 +34,8 @@ slug: "sdk-for-flutter-explore-gestures-gestures-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../gestures/gestures-library.html">/sdk-for-flutter-explore-gestures-gestures-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-gestures-gestures-library</li>
 <li class="self-crumb">Gestures class</li>
 </ol>
 <div class="self-name">Gestures</div>
@@ -65,7 +66,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="Gestures">
-<a href="../gestures/Gestures/Gestures.html">/sdk-for-flutter-explore-gestures-gestures-gestures</a>()
+/sdk-for-flutter-explore-gestures-gestures-gestures()
 </dt>
 <dd>
 </dd>
@@ -75,16 +76,16 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="doubleTapListener">
-<a href="../gestures/Gestures/doubleTapListener.html">/sdk-for-flutter-explore-gestures-gestures-doubletaplistener</a>
-↔ <a href="../gestures/DoubleTapListener-class.html">/sdk-for-flutter-explore-gestures-doubletaplistener-class</a>?
+/sdk-for-flutter-explore-gestures-gestures-doubletaplistener
+↔ /sdk-for-flutter-explore-gestures-doubletaplistener-class?
 </dt>
 <dd>
-<a href="../gestures/DoubleTapListener-class.html">/sdk-for-flutter-explore-gestures-doubletaplistener-class</a> that notifies when a double-tap gesture occurs.
-Gets a <a href="../gestures/DoubleTapListener-class.html">/sdk-for-flutter-explore-gestures-doubletaplistener-class</a> that notifies when a double-tap gesture occurs. <a href="../gestures/Gestures-class.html">/sdk-for-flutter-explore-gestures-gestures-class</a> holds a strong reference to the listener.
+/sdk-for-flutter-explore-gestures-doubletaplistener-class that notifies when a double-tap gesture occurs.
+Gets a /sdk-for-flutter-explore-gestures-doubletaplistener-class that notifies when a double-tap gesture occurs. /sdk-for-flutter-explore-gestures-gestures-class holds a strong reference to the listener.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="hashCode">
-<a href="../gestures/Gestures/hashCode.html">/sdk-for-flutter-explore-gestures-gestures-hashcode</a>
+/sdk-for-flutter-explore-gestures-gestures-hashcode
 → int
 </dt>
 <dd class="inherited">
@@ -92,34 +93,34 @@ Gets a <a href="../gestures/DoubleTapListener-class.html">/sdk-for-flutter-explo
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="longPressListener">
-<a href="../gestures/Gestures/longPressListener.html">/sdk-for-flutter-explore-gestures-gestures-longpresslistener</a>
-↔ <a href="../gestures/LongPressListener-class.html">/sdk-for-flutter-explore-gestures-longpresslistener-class</a>?
+/sdk-for-flutter-explore-gestures-gestures-longpresslistener
+↔ /sdk-for-flutter-explore-gestures-longpresslistener-class?
 </dt>
 <dd>
-<a href="../gestures/LongPressListener-class.html">/sdk-for-flutter-explore-gestures-longpresslistener-class</a> that notifies when a long-press gesture occurs.
-Gets a <a href="../gestures/LongPressListener-class.html">/sdk-for-flutter-explore-gestures-longpresslistener-class</a> that notifies when a long-press gesture occurs. <a href="../gestures/Gestures-class.html">/sdk-for-flutter-explore-gestures-gestures-class</a> holds a strong reference to the listener.
+/sdk-for-flutter-explore-gestures-longpresslistener-class that notifies when a long-press gesture occurs.
+Gets a /sdk-for-flutter-explore-gestures-longpresslistener-class that notifies when a long-press gesture occurs. /sdk-for-flutter-explore-gestures-gestures-class holds a strong reference to the listener.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="panListener">
-<a href="../gestures/Gestures/panListener.html">/sdk-for-flutter-explore-gestures-gestures-panlistener</a>
-↔ <a href="../gestures/PanListener-class.html">/sdk-for-flutter-explore-gestures-panlistener-class</a>?
+/sdk-for-flutter-explore-gestures-gestures-panlistener
+↔ /sdk-for-flutter-explore-gestures-panlistener-class?
 </dt>
 <dd>
-<a href="../gestures/PanListener-class.html">/sdk-for-flutter-explore-gestures-panlistener-class</a> that notifies when a pan gesture occurs.
-Gets a <a href="../gestures/PanListener-class.html">/sdk-for-flutter-explore-gestures-panlistener-class</a> that notifies when a pan gesture occurs. <a href="../gestures/Gestures-class.html">/sdk-for-flutter-explore-gestures-gestures-class</a> holds a strong reference to the listener.
+/sdk-for-flutter-explore-gestures-panlistener-class that notifies when a pan gesture occurs.
+Gets a /sdk-for-flutter-explore-gestures-panlistener-class that notifies when a pan gesture occurs. /sdk-for-flutter-explore-gestures-gestures-class holds a strong reference to the listener.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="pinchRotateListener">
-<a href="../gestures/Gestures/pinchRotateListener.html">/sdk-for-flutter-explore-gestures-gestures-pinchrotatelistener</a>
-↔ <a href="../gestures/PinchRotateListener-class.html">/sdk-for-flutter-explore-gestures-pinchrotatelistener-class</a>?
+/sdk-for-flutter-explore-gestures-gestures-pinchrotatelistener
+↔ /sdk-for-flutter-explore-gestures-pinchrotatelistener-class?
 </dt>
 <dd>
-<a href="../gestures/PinchRotateListener-class.html">/sdk-for-flutter-explore-gestures-pinchrotatelistener-class</a> that notifies when a pinch-rotate gesture occurs.
-Gets a <a href="../gestures/PinchRotateListener-class.html">/sdk-for-flutter-explore-gestures-pinchrotatelistener-class</a> that notifies when a pinch-rotate gesture occurs. <a href="../gestures/Gestures-class.html">/sdk-for-flutter-explore-gestures-gestures-class</a> holds a strong reference to the listener.
+/sdk-for-flutter-explore-gestures-pinchrotatelistener-class that notifies when a pinch-rotate gesture occurs.
+Gets a /sdk-for-flutter-explore-gestures-pinchrotatelistener-class that notifies when a pinch-rotate gesture occurs. /sdk-for-flutter-explore-gestures-gestures-class holds a strong reference to the listener.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../gestures/Gestures/runtimeType.html">/sdk-for-flutter-explore-gestures-gestures-runtimetype</a>
+/sdk-for-flutter-explore-gestures-gestures-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -127,30 +128,30 @@ Gets a <a href="../gestures/PinchRotateListener-class.html">/sdk-for-flutter-exp
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="tapListener">
-<a href="../gestures/Gestures/tapListener.html">/sdk-for-flutter-explore-gestures-gestures-taplistener</a>
-↔ <a href="../gestures/TapListener-class.html">/sdk-for-flutter-explore-gestures-taplistener-class</a>?
+/sdk-for-flutter-explore-gestures-gestures-taplistener
+↔ /sdk-for-flutter-explore-gestures-taplistener-class?
 </dt>
 <dd>
-<a href="../gestures/TapListener-class.html">/sdk-for-flutter-explore-gestures-taplistener-class</a> that notifies when a tap gesture occurs.
-Gets a <a href="../gestures/TapListener-class.html">/sdk-for-flutter-explore-gestures-taplistener-class</a> that notifies when a tap gesture occurs. <a href="../gestures/Gestures-class.html">/sdk-for-flutter-explore-gestures-gestures-class</a> holds a strong reference to the listener.
+/sdk-for-flutter-explore-gestures-taplistener-class that notifies when a tap gesture occurs.
+Gets a /sdk-for-flutter-explore-gestures-taplistener-class that notifies when a tap gesture occurs. /sdk-for-flutter-explore-gestures-gestures-class holds a strong reference to the listener.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="twoFingerPanListener">
-<a href="../gestures/Gestures/twoFingerPanListener.html">/sdk-for-flutter-explore-gestures-gestures-twofingerpanlistener</a>
-↔ <a href="../gestures/TwoFingerPanListener-class.html">/sdk-for-flutter-explore-gestures-twofingerpanlistener-class</a>?
+/sdk-for-flutter-explore-gestures-gestures-twofingerpanlistener
+↔ /sdk-for-flutter-explore-gestures-twofingerpanlistener-class?
 </dt>
 <dd>
-<a href="../gestures/TwoFingerPanListener-class.html">/sdk-for-flutter-explore-gestures-twofingerpanlistener-class</a> that notifies when a two-finger pan gesture occurs.
-Gets a <a href="../gestures/TwoFingerPanListener-class.html">/sdk-for-flutter-explore-gestures-twofingerpanlistener-class</a> that notifies when a two-finger pan gesture occurs. <a href="../gestures/Gestures-class.html">/sdk-for-flutter-explore-gestures-gestures-class</a> holds a strong reference to the listener.
+/sdk-for-flutter-explore-gestures-twofingerpanlistener-class that notifies when a two-finger pan gesture occurs.
+Gets a /sdk-for-flutter-explore-gestures-twofingerpanlistener-class that notifies when a two-finger pan gesture occurs. /sdk-for-flutter-explore-gestures-gestures-class holds a strong reference to the listener.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="twoFingerTapListener">
-<a href="../gestures/Gestures/twoFingerTapListener.html">/sdk-for-flutter-explore-gestures-gestures-twofingertaplistener</a>
-↔ <a href="../gestures/TwoFingerTapListener-class.html">/sdk-for-flutter-explore-gestures-twofingertaplistener-class</a>?
+/sdk-for-flutter-explore-gestures-gestures-twofingertaplistener
+↔ /sdk-for-flutter-explore-gestures-twofingertaplistener-class?
 </dt>
 <dd>
-<a href="../gestures/TwoFingerTapListener-class.html">/sdk-for-flutter-explore-gestures-twofingertaplistener-class</a> that notifies when a two-finger tap gesture occurs.
-Gets a <a href="../gestures/TwoFingerTapListener-class.html">/sdk-for-flutter-explore-gestures-twofingertaplistener-class</a> that notifies when a two-finger tap gesture occurs. <a href="../gestures/Gestures-class.html">/sdk-for-flutter-explore-gestures-gestures-class</a> holds a strong reference to the listener.
+/sdk-for-flutter-explore-gestures-twofingertaplistener-class that notifies when a two-finger tap gesture occurs.
+Gets a /sdk-for-flutter-explore-gestures-twofingertaplistener-class that notifies when a two-finger tap gesture occurs. /sdk-for-flutter-explore-gestures-gestures-class holds a strong reference to the listener.
   <div class="features">getter/setter pair</div>
 </dd>
 </dl>
@@ -159,7 +160,7 @@ Gets a <a href="../gestures/TwoFingerTapListener-class.html">/sdk-for-flutter-ex
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable" id="disableDefaultAction">
-<a href="../gestures/Gestures/disableDefaultAction.html">/sdk-for-flutter-explore-gestures-gestures-disabledefaultaction</a>(<wbr/><a href="../gestures/GestureType.html">/sdk-for-flutter-explore-gestures-gesturetype</a> gestureType)
+/sdk-for-flutter-explore-gestures-gestures-disabledefaultaction(<wbr/>/sdk-for-flutter-explore-gestures-gesturetype gestureType)
     → void
 
 </dt>
@@ -169,7 +170,7 @@ Gets a <a href="../gestures/TwoFingerTapListener-class.html">/sdk-for-flutter-ex
 
 </dd>
 <dt class="callable" id="enableDefaultAction">
-<a href="../gestures/Gestures/enableDefaultAction.html">/sdk-for-flutter-explore-gestures-gestures-enabledefaultaction</a>(<wbr/><a href="../gestures/GestureType.html">/sdk-for-flutter-explore-gestures-gesturetype</a> gestureType)
+/sdk-for-flutter-explore-gestures-gestures-enabledefaultaction(<wbr/>/sdk-for-flutter-explore-gestures-gesturetype gestureType)
     → void
 
 </dt>
@@ -180,7 +181,7 @@ gesture.
 
 </dd>
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../gestures/Gestures/noSuchMethod.html">/sdk-for-flutter-explore-gestures-gestures-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-gestures-gestures-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -189,7 +190,7 @@ gesture.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../gestures/Gestures/toString.html">/sdk-for-flutter-explore-gestures-gestures-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-gestures-gestures-tostring(<wbr/>)
     → String
 
 </dt>
@@ -203,7 +204,7 @@ gesture.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-<a href="../gestures/Gestures/operator_equals.html">/sdk-for-flutter-explore-gestures-gestures-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-gestures-gestures-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -221,8 +222,8 @@ gesture.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../gestures/gestures-library.html">/sdk-for-flutter-explore-gestures-gestures-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-gestures-gestures-library</li>
 <li class="self-crumb">Gestures class</li>
 </ol>
 <h5>gestures library</h5>
@@ -239,4 +240,5 @@ gesture.
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

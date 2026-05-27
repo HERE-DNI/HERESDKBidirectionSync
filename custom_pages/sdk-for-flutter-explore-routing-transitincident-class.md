@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "TransitIncident class"
 slug: "sdk-for-flutter-explore-routing-transitincident-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- TransitIncident-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -31,8 +32,8 @@ slug: "sdk-for-flutter-explore-routing-transitincident-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
 <li class="self-crumb">TransitIncident class</li>
 </ol>
 <div class="self-name">TransitIncident</div>
@@ -63,7 +64,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="TransitIncident">
-<a href="../routing/TransitIncident/TransitIncident.html">/sdk-for-flutter-explore-routing-transitincident-transitincident</a>(String? summary, String? description, <a href="../routing/TransitIncidentType.html">/sdk-for-flutter-explore-routing-transitincidenttype</a>? type, <a href="../routing/TransitIncidentEffect.html">/sdk-for-flutter-explore-routing-transitincidenteffect</a>? effect, DateTime? validFrom, DateTime? validUntil, String? url)
+/sdk-for-flutter-explore-routing-transitincident-transitincident(String? summary, String? description, /sdk-for-flutter-explore-routing-transitincidenttype? type, /sdk-for-flutter-explore-routing-transitincidenteffect? effect, DateTime? validFrom, DateTime? validUntil, String? url)
 </dt>
 <dd>
           Creates a new instance.
@@ -74,7 +75,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="description">
-<a href="../routing/TransitIncident/description.html">/sdk-for-flutter-explore-routing-transitincident-description</a>
+/sdk-for-flutter-explore-routing-transitincident-description
 ↔ String?
 </dt>
 <dd>
@@ -82,15 +83,15 @@ menu
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="effect">
-<a href="../routing/TransitIncident/effect.html">/sdk-for-flutter-explore-routing-transitincident-effect</a>
-↔ <a href="../routing/TransitIncidentEffect.html">/sdk-for-flutter-explore-routing-transitincidenteffect</a>?
+/sdk-for-flutter-explore-routing-transitincident-effect
+↔ /sdk-for-flutter-explore-routing-transitincidenteffect?
 </dt>
 <dd>
   Effect of the incident.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-<a href="../routing/TransitIncident/hashCode.html">/sdk-for-flutter-explore-routing-transitincident-hashcode</a>
+/sdk-for-flutter-explore-routing-transitincident-hashcode
 → int
 </dt>
 <dd>
@@ -98,7 +99,7 @@ menu
   <div class="features">no setter</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../routing/TransitIncident/runtimeType.html">/sdk-for-flutter-explore-routing-transitincident-runtimetype</a>
+/sdk-for-flutter-explore-routing-transitincident-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -106,7 +107,7 @@ menu
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="summary">
-<a href="../routing/TransitIncident/summary.html">/sdk-for-flutter-explore-routing-transitincident-summary</a>
+/sdk-for-flutter-explore-routing-transitincident-summary
 ↔ String?
 </dt>
 <dd>
@@ -114,15 +115,15 @@ menu
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="type">
-<a href="../routing/TransitIncident/type.html">/sdk-for-flutter-explore-routing-transitincident-type</a>
-↔ <a href="../routing/TransitIncidentType.html">/sdk-for-flutter-explore-routing-transitincidenttype</a>?
+/sdk-for-flutter-explore-routing-transitincident-type
+↔ /sdk-for-flutter-explore-routing-transitincidenttype?
 </dt>
 <dd>
   Type of the incident.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="url">
-<a href="../routing/TransitIncident/url.html">/sdk-for-flutter-explore-routing-transitincident-url</a>
+/sdk-for-flutter-explore-routing-transitincident-url
 ↔ String?
 </dt>
 <dd>
@@ -130,7 +131,7 @@ menu
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="validFrom">
-<a href="../routing/TransitIncident/validFrom.html">/sdk-for-flutter-explore-routing-transitincident-validfrom</a>
+/sdk-for-flutter-explore-routing-transitincident-validfrom
 ↔ DateTime?
 </dt>
 <dd>
@@ -138,7 +139,7 @@ menu
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="validUntil">
-<a href="../routing/TransitIncident/validUntil.html">/sdk-for-flutter-explore-routing-transitincident-validuntil</a>
+/sdk-for-flutter-explore-routing-transitincident-validuntil
 ↔ DateTime?
 </dt>
 <dd>
@@ -151,7 +152,7 @@ menu
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../routing/TransitIncident/noSuchMethod.html">/sdk-for-flutter-explore-routing-transitincident-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-routing-transitincident-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -160,7 +161,7 @@ menu
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../routing/TransitIncident/toString.html">/sdk-for-flutter-explore-routing-transitincident-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-routing-transitincident-tostring(<wbr/>)
     → String
 
 </dt>
@@ -174,7 +175,7 @@ menu
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-<a href="../routing/TransitIncident/operator_equals.html">/sdk-for-flutter-explore-routing-transitincident-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-routing-transitincident-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -193,8 +194,8 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
 <li class="self-crumb">TransitIncident class</li>
 </ol>
 <h5>routing library</h5>
@@ -211,4 +212,5 @@ menu
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

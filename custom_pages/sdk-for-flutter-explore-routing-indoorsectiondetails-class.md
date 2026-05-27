@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "IndoorSectionDetails class abstract"
 slug: "sdk-for-flutter-explore-routing-indoorsectiondetails-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- IndoorSectionDetails-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -27,8 +28,8 @@ slug: "sdk-for-flutter-explore-routing-indoorsectiondetails-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
 <li class="self-crumb">IndoorSectionDetails class</li>
 </ol>
 <div class="self-name">IndoorSectionDetails</div>
@@ -52,13 +53,13 @@ menu
 <div>
 <h1>IndoorSectionDetails class abstract</h1></div>
 <section class="desc markdown">
-<p>Provides additional details for an indoor <a href="../routing/Section-class.html">/sdk-for-flutter-explore-routing-section-class</a>.</p>
+<p>Provides additional details for an indoor /sdk-for-flutter-explore-routing-section-class.</p>
 </section>
 <section class="summary offset-anchor" id="constructors">
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="IndoorSectionDetails">
-<a href="../routing/IndoorSectionDetails/IndoorSectionDetails.html">/sdk-for-flutter-explore-routing-indoorsectiondetails-indoorsectiondetails</a>()
+/sdk-for-flutter-explore-routing-indoorsectiondetails-indoorsectiondetails()
 </dt>
 <dd>
 </dd>
@@ -68,8 +69,8 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="arrivalPlace">
-<a href="../routing/IndoorSectionDetails/arrivalPlace.html">/sdk-for-flutter-explore-routing-indoorsectiondetails-arrivalplace</a>
-→ <a href="../routing/IndoorRoutePlace-class.html">/sdk-for-flutter-explore-routing-indoorrouteplace-class</a>
+/sdk-for-flutter-explore-routing-indoorsectiondetails-arrivalplace
+→ /sdk-for-flutter-explore-routing-indoorrouteplace-class
 </dt>
 <dd>
   Describes the arrival place of the indoor section.
@@ -77,8 +78,8 @@ Gets the arrival place of the indoor section.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="departurePlace">
-<a href="../routing/IndoorSectionDetails/departurePlace.html">/sdk-for-flutter-explore-routing-indoorsectiondetails-departureplace</a>
-→ <a href="../routing/IndoorRoutePlace-class.html">/sdk-for-flutter-explore-routing-indoorrouteplace-class</a>
+/sdk-for-flutter-explore-routing-indoorsectiondetails-departureplace
+→ /sdk-for-flutter-explore-routing-indoorrouteplace-class
 </dt>
 <dd>
   Describes the departure place of the indoor section.
@@ -86,7 +87,7 @@ Gets the departure place of the indoor section.
   <div class="features">no setter</div>
 </dd>
 <dt class="property inherited" id="hashCode">
-<a href="../routing/IndoorSectionDetails/hashCode.html">/sdk-for-flutter-explore-routing-indoorsectiondetails-hashcode</a>
+/sdk-for-flutter-explore-routing-indoorsectiondetails-hashcode
 → int
 </dt>
 <dd class="inherited">
@@ -94,8 +95,8 @@ Gets the departure place of the indoor section.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="indoorManeuvers">
-<a href="../routing/IndoorSectionDetails/indoorManeuvers.html">/sdk-for-flutter-explore-routing-indoorsectiondetails-indoormaneuvers</a>
-→ List&lt;<wbr/><a href="../routing/IndoorManeuver-class.html">/sdk-for-flutter-explore-routing-indoormaneuver-class</a>&gt;
+/sdk-for-flutter-explore-routing-indoorsectiondetails-indoormaneuvers
+→ List&lt;<wbr/>/sdk-for-flutter-explore-routing-indoormaneuver-class&gt;
 </dt>
 <dd>
   The list of indoor maneuvers within this indoor section.
@@ -103,7 +104,7 @@ Gets the list of indoor maneuvers within this indoor section.
   <div class="features">no setter</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../routing/IndoorSectionDetails/runtimeType.html">/sdk-for-flutter-explore-routing-indoorsectiondetails-runtimetype</a>
+/sdk-for-flutter-explore-routing-indoorsectiondetails-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -116,7 +117,7 @@ Gets the list of indoor maneuvers within this indoor section.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../routing/IndoorSectionDetails/noSuchMethod.html">/sdk-for-flutter-explore-routing-indoorsectiondetails-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-routing-indoorsectiondetails-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -125,7 +126,7 @@ Gets the list of indoor maneuvers within this indoor section.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../routing/IndoorSectionDetails/toString.html">/sdk-for-flutter-explore-routing-indoorsectiondetails-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-routing-indoorsectiondetails-tostring(<wbr/>)
     → String
 
 </dt>
@@ -139,7 +140,7 @@ Gets the list of indoor maneuvers within this indoor section.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-<a href="../routing/IndoorSectionDetails/operator_equals.html">/sdk-for-flutter-explore-routing-indoorsectiondetails-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-routing-indoorsectiondetails-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -157,8 +158,8 @@ Gets the list of indoor maneuvers within this indoor section.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
 <li class="self-crumb">IndoorSectionDetails class</li>
 </ol>
 <h5>routing library</h5>
@@ -175,4 +176,5 @@ Gets the list of indoor maneuvers within this indoor section.
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

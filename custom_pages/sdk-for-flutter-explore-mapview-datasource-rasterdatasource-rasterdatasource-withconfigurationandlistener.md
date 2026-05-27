@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "RasterDataSource.withConfigurationAndListener constructor"
 slug: "sdk-for-flutter-explore-mapview-datasource-rasterdatasource-rasterdatasource-withconfigurationandlistener"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- RasterDataSource.withConfigurationAndListener.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-datasource-rasterdatasource-rasterdatasou
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
-<li><a href="../../mapview.datasource/RasterDataSource-class.html">/sdk-for-flutter-explore-mapview-datasource-rasterdatasource-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-rasterdatasource-class</li>
 <li class="self-crumb">RasterDataSource.withConfigurationAndListener factory constructor</li>
 </ol>
 <div class="self-name">RasterDataSource.withConfigurationAndListener</div>
@@ -37,9 +38,9 @@ menu
 <div>
 <h1>RasterDataSource.withConfigurationAndListener constructor</h1></div>
 <section class="multi-line-signature">
-RasterDataSource.withConfigurationAndListener(<wbr/><ol class="parameter-list single-line"> <li><a href="../../mapview/MapContext-class.html">/sdk-for-flutter-explore-mapview-mapcontext-class</a> context, </li>
-<li><a href="../../mapview.datasource/RasterDataSourceConfiguration-class.html">/sdk-for-flutter-explore-mapview-datasource-rasterdatasourceconfiguration-class</a> configuration, </li>
-<li><a href="../../mapview.datasource/RasterDataSourceListener-class.html">/sdk-for-flutter-explore-mapview-datasource-rasterdatasourcelistener-class</a> listener</li>
+RasterDataSource.withConfigurationAndListener(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-mapview-mapcontext-class context, </li>
+<li>/sdk-for-flutter-explore-mapview-datasource-rasterdatasourceconfiguration-class configuration, </li>
+<li>/sdk-for-flutter-explore-mapview-datasource-rasterdatasourcelistener-class listener</li>
 </ol>)
     </section>
 <section class="desc markdown">
@@ -73,9 +74,9 @@ The state notifications can occur on an arbitrary thread.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
-<li><a href="../../mapview.datasource/RasterDataSource-class.html">/sdk-for-flutter-explore-mapview-datasource-rasterdatasource-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-rasterdatasource-class</li>
 <li class="self-crumb">RasterDataSource.withConfigurationAndListener factory constructor</li>
 </ol>
 <h5>RasterDataSource class</h5>
@@ -92,4 +93,5 @@ The state notifications can occur on an arbitrary thread.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

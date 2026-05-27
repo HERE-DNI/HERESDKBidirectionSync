@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "Metadata constructor"
 slug: "sdk-for-flutter-explore-core-metadata-metadata"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- Metadata.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-core-metadata-metadata"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
-<li><a href="../../core/Metadata-class.html">/sdk-for-flutter-explore-core-metadata-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
+<li>/sdk-for-flutter-explore-core-metadata-class</li>
 <li class="self-crumb">Metadata factory constructor</li>
 </ol>
 <div class="self-name">Metadata</div>
@@ -54,9 +55,9 @@ Metadata(<wbr/>)
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
-<li><a href="../../core/Metadata-class.html">/sdk-for-flutter-explore-core-metadata-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
+<li>/sdk-for-flutter-explore-core-metadata-class</li>
 <li class="self-crumb">Metadata factory constructor</li>
 </ol>
 <h5>Metadata class</h5>
@@ -73,4 +74,5 @@ Metadata(<wbr/>)
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

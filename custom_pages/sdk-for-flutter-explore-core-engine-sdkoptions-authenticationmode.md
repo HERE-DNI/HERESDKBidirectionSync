@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "authenticationMode property"
 slug: "sdk-for-flutter-explore-core-engine-sdkoptions-authenticationmode"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- authenticationMode.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-core-engine-sdkoptions-authenticationmode"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
-<li><a href="../../core.engine/SDKOptions-class.html">/sdk-for-flutter-explore-core-engine-sdkoptions-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
+<li>/sdk-for-flutter-explore-core-engine-sdkoptions-class</li>
 <li class="self-crumb">authenticationMode property</li>
 </ol>
 <div class="self-name">authenticationMode</div>
@@ -37,7 +38,7 @@ menu
 <div>
 <h1>authenticationMode property</h1></div>
 <section class="multi-line-signature">
-<a href="../../core.engine/AuthenticationMode-class.html">/sdk-for-flutter-explore-core-engine-authenticationmode-class</a>
+/sdk-for-flutter-explore-core-engine-authenticationmode-class
 authenticationMode
 <div class="features">getter/setter pair</div>
 </section>
@@ -56,9 +57,9 @@ authenticationMode
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
-<li><a href="../../core.engine/SDKOptions-class.html">/sdk-for-flutter-explore-core-engine-sdkoptions-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
+<li>/sdk-for-flutter-explore-core-engine-sdkoptions-class</li>
 <li class="self-crumb">authenticationMode property</li>
 </ol>
 <h5>SDKOptions class</h5>
@@ -75,4 +76,5 @@ authenticationMode
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

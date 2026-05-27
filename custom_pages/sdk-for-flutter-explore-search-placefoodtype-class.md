@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "PlaceFoodType class"
 slug: "sdk-for-flutter-explore-search-placefoodtype-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- PlaceFoodType-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -27,8 +28,8 @@ slug: "sdk-for-flutter-explore-search-placefoodtype-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
 <li class="self-crumb">PlaceFoodType class</li>
 </ol>
 <div class="self-name">PlaceFoodType</div>
@@ -58,7 +59,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="PlaceFoodType">
-<a href="../search/PlaceFoodType/PlaceFoodType.html">/sdk-for-flutter-explore-search-placefoodtype-placefoodtype</a>(String id)
+/sdk-for-flutter-explore-search-placefoodtype-placefoodtype(String id)
 </dt>
 <dd>
 </dd>
@@ -68,7 +69,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="hashCode">
-<a href="../search/PlaceFoodType/hashCode.html">/sdk-for-flutter-explore-search-placefoodtype-hashcode</a>
+/sdk-for-flutter-explore-search-placefoodtype-hashcode
 → int
 </dt>
 <dd>
@@ -76,7 +77,7 @@ menu
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="id">
-<a href="../search/PlaceFoodType/id.html">/sdk-for-flutter-explore-search-placefoodtype-id</a>
+/sdk-for-flutter-explore-search-placefoodtype-id
 ↔ String
 </dt>
 <dd>
@@ -87,16 +88,16 @@ The complete list of supported food type IDs can be found
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="name">
-<a href="../search/PlaceFoodType/name.html">/sdk-for-flutter-explore-search-placefoodtype-name</a>
+/sdk-for-flutter-explore-search-placefoodtype-name
 ↔ String?
 </dt>
 <dd>
   Name of the food type in the requested language.
-Ignored when used in <a href="../search/PlaceFilter-class.html">/sdk-for-flutter-explore-search-placefilter-class</a>.
+Ignored when used in /sdk-for-flutter-explore-search-placefilter-class.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="primary">
-<a href="../search/PlaceFoodType/primary.html">/sdk-for-flutter-explore-search-placefoodtype-primary</a>
+/sdk-for-flutter-explore-search-placefoodtype-primary
 ↔ bool
 </dt>
 <dd>
@@ -104,7 +105,7 @@ Ignored when used in <a href="../search/PlaceFilter-class.html">/sdk-for-flutter
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../search/PlaceFoodType/runtimeType.html">/sdk-for-flutter-explore-search-placefoodtype-runtimetype</a>
+/sdk-for-flutter-explore-search-placefoodtype-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -117,7 +118,7 @@ Ignored when used in <a href="../search/PlaceFilter-class.html">/sdk-for-flutter
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../search/PlaceFoodType/noSuchMethod.html">/sdk-for-flutter-explore-search-placefoodtype-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-search-placefoodtype-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -126,7 +127,7 @@ Ignored when used in <a href="../search/PlaceFilter-class.html">/sdk-for-flutter
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../search/PlaceFoodType/toString.html">/sdk-for-flutter-explore-search-placefoodtype-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-search-placefoodtype-tostring(<wbr/>)
     → String
 
 </dt>
@@ -140,7 +141,7 @@ Ignored when used in <a href="../search/PlaceFilter-class.html">/sdk-for-flutter
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-<a href="../search/PlaceFoodType/operator_equals.html">/sdk-for-flutter-explore-search-placefoodtype-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-search-placefoodtype-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -159,8 +160,8 @@ Ignored when used in <a href="../search/PlaceFilter-class.html">/sdk-for-flutter
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
 <li class="self-crumb">PlaceFoodType class</li>
 </ol>
 <h5>search library</h5>
@@ -177,4 +178,5 @@ Ignored when used in <a href="../search/PlaceFilter-class.html">/sdk-for-flutter
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

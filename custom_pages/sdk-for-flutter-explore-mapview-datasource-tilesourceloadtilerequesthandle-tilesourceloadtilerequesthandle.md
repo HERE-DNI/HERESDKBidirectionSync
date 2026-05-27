@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "TileSourceLoadTileRequestHandle constructor"
 slug: "sdk-for-flutter-explore-mapview-datasource-tilesourceloadtilerequesthandle-tilesourceloadtilerequesthandle"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- TileSourceLoadTileRequestHandle.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-datasource-tilesourceloadtilerequesthandl
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
-<li><a href="../../mapview.datasource/TileSourceLoadTileRequestHandle-class.html">/sdk-for-flutter-explore-mapview-datasource-tilesourceloadtilerequesthandle-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-tilesourceloadtilerequesthandle-class</li>
 <li class="self-crumb">TileSourceLoadTileRequestHandle factory constructor</li>
 </ol>
 <div class="self-name">TileSourceLoadTileRequestHandle</div>
@@ -61,9 +62,9 @@ TileSourceLoadTileRequestHandle(<wbr/><ol class="parameter-list single-line"> <l
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
-<li><a href="../../mapview.datasource/TileSourceLoadTileRequestHandle-class.html">/sdk-for-flutter-explore-mapview-datasource-tilesourceloadtilerequesthandle-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-tilesourceloadtilerequesthandle-class</li>
 <li class="self-crumb">TileSourceLoadTileRequestHandle factory constructor</li>
 </ol>
 <h5>TileSourceLoadTileRequestHandle class</h5>
@@ -80,4 +81,5 @@ TileSourceLoadTileRequestHandle(<wbr/><ol class="parameter-list single-line"> <l
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

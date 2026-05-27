@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "emissionType property"
 slug: "sdk-for-flutter-explore-routing-tolloptions-emissiontype"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- emissionType.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-routing-tolloptions-emissiontype"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/TollOptions-class.html">/sdk-for-flutter-explore-routing-tolloptions-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-tolloptions-class</li>
 <li class="self-crumb">emissionType property</li>
 </ol>
 <div class="self-name">emissionType</div>
@@ -37,7 +38,7 @@ menu
 <div>
 <h1>emissionType property</h1></div>
 <section class="multi-line-signature">
-<a href="../../routing/TollOptionsEmissionType.html">/sdk-for-flutter-explore-routing-tolloptionsemissiontype</a>?
+/sdk-for-flutter-explore-routing-tolloptionsemissiontype?
         emissionType
 <div class="features">getter/setter pair</div>
 </section>
@@ -57,9 +58,9 @@ The emission type is based on the European emission standards (Euro 1 to Euro 6,
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/TollOptions-class.html">/sdk-for-flutter-explore-routing-tolloptions-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-tolloptions-class</li>
 <li class="self-crumb">emissionType property</li>
 </ol>
 <h5>TollOptions class</h5>
@@ -76,4 +77,5 @@ The emission type is based on the European emission standards (Euro 1 to Euro 6,
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

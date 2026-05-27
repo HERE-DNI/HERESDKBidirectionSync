@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "MapLayerMapMeasureDependentStorageLevels class abstract"
 slug: "sdk-for-flutter-explore-mapview-maplayermapmeasuredependentstoragelevels-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- MapLayerMapMeasureDependentStorageLevels-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -26,8 +27,8 @@ slug: "sdk-for-flutter-explore-mapview-maplayermapmeasuredependentstoragelevels-
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
 <li class="self-crumb">MapLayerMapMeasureDependentStorageLevels class</li>
 </ol>
 <div class="self-name">MapLayerMapMeasureDependentStorageLevels</div>
@@ -57,7 +58,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="MapLayerMapMeasureDependentStorageLevels">
-<a href="../mapview/MapLayerMapMeasureDependentStorageLevels/MapLayerMapMeasureDependentStorageLevels.html">/sdk-for-flutter-explore-mapview-maplayermapmeasuredependentstoragelevels-maplayermapmeasuredependentstoragelevels</a>()
+/sdk-for-flutter-explore-mapview-maplayermapmeasuredependentstoragelevels-maplayermapmeasuredependentstoragelevels()
 </dt>
 <dd>
 </dd>
@@ -67,7 +68,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="hashCode">
-<a href="../mapview/MapLayerMapMeasureDependentStorageLevels/hashCode.html">/sdk-for-flutter-explore-mapview-maplayermapmeasuredependentstoragelevels-hashcode</a>
+/sdk-for-flutter-explore-mapview-maplayermapmeasuredependentstoragelevels-hashcode
 → int
 </dt>
 <dd class="inherited">
@@ -75,7 +76,7 @@ menu
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../mapview/MapLayerMapMeasureDependentStorageLevels/runtimeType.html">/sdk-for-flutter-explore-mapview-maplayermapmeasuredependentstoragelevels-runtimetype</a>
+/sdk-for-flutter-explore-mapview-maplayermapmeasuredependentstoragelevels-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -88,7 +89,7 @@ menu
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../mapview/MapLayerMapMeasureDependentStorageLevels/noSuchMethod.html">/sdk-for-flutter-explore-mapview-maplayermapmeasuredependentstoragelevels-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-mapview-maplayermapmeasuredependentstoragelevels-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -97,7 +98,7 @@ menu
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../mapview/MapLayerMapMeasureDependentStorageLevels/toString.html">/sdk-for-flutter-explore-mapview-maplayermapmeasuredependentstoragelevels-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-mapview-maplayermapmeasuredependentstoragelevels-tostring(<wbr/>)
     → String
 
 </dt>
@@ -111,7 +112,7 @@ menu
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-<a href="../mapview/MapLayerMapMeasureDependentStorageLevels/operator_equals.html">/sdk-for-flutter-explore-mapview-maplayermapmeasuredependentstoragelevels-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-mapview-maplayermapmeasuredependentstoragelevels-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -125,11 +126,12 @@ menu
 <h2>Static Methods</h2>
 <dl class="callables">
 <dt class="callable" id="withStorageLevelOffset">
-<a href="../mapview/MapLayerMapMeasureDependentStorageLevels/withStorageLevelOffset.html">/sdk-for-flutter-explore-mapview-maplayermapmeasuredependentstoragelevels-withstorageleveloffset</a>(<wbr/>int offset)
-    → <a href="../mapview/MapLayerMapMeasureDependentStorageLevels-class.html">/sdk-for-flutter-explore-mapview-maplayermapmeasuredependentstoragelevels-class</a>
+/sdk-for-flutter-explore-mapview-maplayermapmeasuredependentstoragelevels-withstorageleveloffset(<wbr/>int offset)
+    → /sdk-for-flutter-explore-mapview-maplayermapmeasuredependentstoragelevels-class
+
 </dt>
 <dd>
-  Creates an instance of <a href="../mapview/MapLayerMapMeasureDependentStorageLevels-class.html">/sdk-for-flutter-explore-mapview-maplayermapmeasuredependentstoragelevels-class</a> with the specified storage level offset.
+  Creates an instance of /sdk-for-flutter-explore-mapview-maplayermapmeasuredependentstoragelevels-class with the specified storage level offset.
   
 
 </dd>
@@ -143,8 +145,8 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
 <li class="self-crumb">MapLayerMapMeasureDependentStorageLevels class</li>
 </ol>
 <h5>mapview library</h5>
@@ -161,4 +163,5 @@ menu
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

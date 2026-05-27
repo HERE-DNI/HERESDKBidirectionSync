@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "LockingProcess class abstract"
 slug: "sdk-for-flutter-explore-core-engine-lockingprocess-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- LockingProcess-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -26,8 +27,8 @@ slug: "sdk-for-flutter-explore-core-engine-lockingprocess-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
 <li class="self-crumb">LockingProcess class</li>
 </ol>
 <div class="self-name">LockingProcess</div>
@@ -52,14 +53,14 @@ menu
 <h1>LockingProcess class abstract</h1></div>
 <section class="desc markdown">
 <p>LockingProcess helps to detect situations when cache is locked with another process and
-attempt to create instance of <a href="../core.engine/SDKNativeEngine-class.html">/sdk-for-flutter-explore-core-engine-sdknativeengine-class</a> fails with error
-<a href="../core.errors/InstantiationErrorCode.html">/sdk-for-flutter-explore-core-errors-instantiationerrorcode</a>.</p>
+attempt to create instance of /sdk-for-flutter-explore-core-engine-sdknativeengine-class fails with error
+/sdk-for-flutter-explore-core-errors-instantiationerrorcode.</p>
 </section>
 <section class="summary offset-anchor" id="constructors">
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="LockingProcess">
-<a href="../core.engine/LockingProcess/LockingProcess.html">/sdk-for-flutter-explore-core-engine-lockingprocess-lockingprocess</a>()
+/sdk-for-flutter-explore-core-engine-lockingprocess-lockingprocess()
 </dt>
 <dd>
 </dd>
@@ -69,7 +70,7 @@ attempt to create instance of <a href="../core.engine/SDKNativeEngine-class.html
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="hashCode">
-<a href="../core.engine/LockingProcess/hashCode.html">/sdk-for-flutter-explore-core-engine-lockingprocess-hashcode</a>
+/sdk-for-flutter-explore-core-engine-lockingprocess-hashcode
 → int
 </dt>
 <dd class="inherited">
@@ -77,7 +78,7 @@ attempt to create instance of <a href="../core.engine/SDKNativeEngine-class.html
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../core.engine/LockingProcess/runtimeType.html">/sdk-for-flutter-explore-core-engine-lockingprocess-runtimetype</a>
+/sdk-for-flutter-explore-core-engine-lockingprocess-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -90,7 +91,7 @@ attempt to create instance of <a href="../core.engine/SDKNativeEngine-class.html
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../core.engine/LockingProcess/noSuchMethod.html">/sdk-for-flutter-explore-core-engine-lockingprocess-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-core-engine-lockingprocess-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -99,7 +100,7 @@ attempt to create instance of <a href="../core.engine/SDKNativeEngine-class.html
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../core.engine/LockingProcess/toString.html">/sdk-for-flutter-explore-core-engine-lockingprocess-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-core-engine-lockingprocess-tostring(<wbr/>)
     → String
 
 </dt>
@@ -113,7 +114,7 @@ attempt to create instance of <a href="../core.engine/SDKNativeEngine-class.html
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-<a href="../core.engine/LockingProcess/operator_equals.html">/sdk-for-flutter-explore-core-engine-lockingprocess-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-core-engine-lockingprocess-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -127,7 +128,7 @@ attempt to create instance of <a href="../core.engine/SDKNativeEngine-class.html
 <h2>Static Methods</h2>
 <dl class="callables">
 <dt class="callable" id="destroyLockingProcess">
-<a href="../core.engine/LockingProcess/destroyLockingProcess.html">/sdk-for-flutter-explore-core-engine-lockingprocess-destroylockingprocess</a>(<wbr/><a href="../core.engine/SDKOptions-class.html">/sdk-for-flutter-explore-core-engine-sdkoptions-class</a> sdkOptions, int maxTimeoutInMilliseconds)
+/sdk-for-flutter-explore-core-engine-lockingprocess-destroylockingprocess(<wbr/>/sdk-for-flutter-explore-core-engine-sdkoptions-class sdkOptions, int maxTimeoutInMilliseconds)
     → void
 
 </dt>
@@ -146,8 +147,8 @@ attempt to create instance of <a href="../core.engine/SDKNativeEngine-class.html
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
 <li class="self-crumb">LockingProcess class</li>
 </ol>
 <h5>core.engine library</h5>
@@ -164,4 +165,5 @@ attempt to create instance of <a href="../core.engine/SDKNativeEngine-class.html
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

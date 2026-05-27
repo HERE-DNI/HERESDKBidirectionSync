@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "MapContext class abstract"
 slug: "sdk-for-flutter-explore-mapview-mapcontext-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- MapContext-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -27,8 +28,8 @@ slug: "sdk-for-flutter-explore-mapview-mapcontext-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
 <li class="self-crumb">MapContext class</li>
 </ol>
 <div class="self-name">MapContext</div>
@@ -64,7 +65,7 @@ selected it cannot be changed.</p>
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="MapContext">
-<a href="../mapview/MapContext/MapContext.html">/sdk-for-flutter-explore-mapview-mapcontext-mapcontext</a>()
+/sdk-for-flutter-explore-mapview-mapcontext-mapcontext()
 </dt>
 <dd>
 </dd>
@@ -74,7 +75,7 @@ selected it cannot be changed.</p>
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="hashCode">
-<a href="../mapview/MapContext/hashCode.html">/sdk-for-flutter-explore-mapview-mapcontext-hashcode</a>
+/sdk-for-flutter-explore-mapview-mapcontext-hashcode
 → int
 </dt>
 <dd class="inherited">
@@ -82,7 +83,7 @@ selected it cannot be changed.</p>
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../mapview/MapContext/runtimeType.html">/sdk-for-flutter-explore-mapview-mapcontext-runtimetype</a>
+/sdk-for-flutter-explore-mapview-mapcontext-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -95,28 +96,29 @@ selected it cannot be changed.</p>
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable" id="freeResource">
-<a href="../mapview/MapContext/freeResource.html">/sdk-for-flutter-explore-mapview-mapcontext-freeresource</a>(<wbr/><a href="../mapview/MapContextResourceType.html">/sdk-for-flutter-explore-mapview-mapcontextresourcetype</a> type, <a href="../mapview/MapContextFreeResourceSeverity.html">/sdk-for-flutter-explore-mapview-mapcontextfreeresourceseverity</a> severity)
+/sdk-for-flutter-explore-mapview-mapcontext-freeresource(<wbr/>/sdk-for-flutter-explore-mapview-mapcontextresourcetype type, /sdk-for-flutter-explore-mapview-mapcontextfreeresourceseverity severity)
     → void
 
 </dt>
 <dd>
-  Frees a system resource held by the <a href="../mapview/MapContext-class.html">/sdk-for-flutter-explore-mapview-mapcontext-class</a> and all entities attached to it, like <a href="../mapview/HereMapControllerCore-class.html">/sdk-for-flutter-explore-mapview-heremapcontrollercore-class</a>.
+  Frees a system resource held by the /sdk-for-flutter-explore-mapview-mapcontext-class and all entities attached to it, like /sdk-for-flutter-explore-mapview-heremapcontrollercore-class.
   
 
 </dd>
 <dt class="callable" id="getMemoryManagementOptions">
-<a href="../mapview/MapContext/getMemoryManagementOptions.html">/sdk-for-flutter-explore-mapview-mapcontext-getmemorymanagementoptions</a>(<wbr/>)
-    → <a href="../mapview/MapContextMemoryManagementOptions-class.html">/sdk-for-flutter-explore-mapview-mapcontextmemorymanagementoptions-class</a>
+/sdk-for-flutter-explore-mapview-mapcontext-getmemorymanagementoptions(<wbr/>)
+    → /sdk-for-flutter-explore-mapview-mapcontextmemorymanagementoptions-class
+
 </dt>
 <dd>
-  Returns <a href="../mapview/MapContextMemoryManagementOptions-class.html">/sdk-for-flutter-explore-mapview-mapcontextmemorymanagementoptions-class</a>. Gets the current memory management options.
+  Returns /sdk-for-flutter-explore-mapview-mapcontextmemorymanagementoptions-class. Gets the current memory management options.
 Returns the actual applied memory limits. If the underlying system limits exceed
 int32_t max value (2,147,483,647 KiB or ~2 TiB), the returned value is clamped to int32_t max.
   
 
 </dd>
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../mapview/MapContext/noSuchMethod.html">/sdk-for-flutter-explore-mapview-mapcontext-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-mapview-mapcontext-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -125,7 +127,7 @@ int32_t max value (2,147,483,647 KiB or ~2 TiB), the returned value is clamped t
   <div class="features">inherited</div>
 </dd>
 <dt class="callable" id="setMemoryManagementOptions">
-<a href="../mapview/MapContext/setMemoryManagementOptions.html">/sdk-for-flutter-explore-mapview-mapcontext-setmemorymanagementoptions</a>(<wbr/><a href="../mapview/MapContextMemoryManagementOptions-class.html">/sdk-for-flutter-explore-mapview-mapcontextmemorymanagementoptions-class</a> memoryManagementOptions, <a href="../mapview/MapContextSetMemoryManagementOptionsCallback.html">/sdk-for-flutter-explore-mapview-mapcontextsetmemorymanagementoptionscallback</a>? callback)
+/sdk-for-flutter-explore-mapview-mapcontext-setmemorymanagementoptions(<wbr/>/sdk-for-flutter-explore-mapview-mapcontextmemorymanagementoptions-class memoryManagementOptions, /sdk-for-flutter-explore-mapview-mapcontextsetmemorymanagementoptionscallback? callback)
     → void
 
 </dt>
@@ -135,7 +137,7 @@ int32_t max value (2,147,483,647 KiB or ~2 TiB), the returned value is clamped t
 
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../mapview/MapContext/toString.html">/sdk-for-flutter-explore-mapview-mapcontext-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-mapview-mapcontext-tostring(<wbr/>)
     → String
 
 </dt>
@@ -149,7 +151,7 @@ int32_t max value (2,147,483,647 KiB or ~2 TiB), the returned value is clamped t
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-<a href="../mapview/MapContext/operator_equals.html">/sdk-for-flutter-explore-mapview-mapcontext-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-mapview-mapcontext-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -167,8 +169,8 @@ int32_t max value (2,147,483,647 KiB or ~2 TiB), the returned value is clamped t
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
 <li class="self-crumb">MapContext class</li>
 </ol>
 <h5>mapview library</h5>
@@ -185,4 +187,5 @@ int32_t max value (2,147,483,647 KiB or ~2 TiB), the returned value is clamped t
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

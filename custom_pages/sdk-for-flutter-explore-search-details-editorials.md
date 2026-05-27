@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "editorials property"
 slug: "sdk-for-flutter-explore-search-details-editorials"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- editorials.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-search-details-editorials"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/Details-class.html">/sdk-for-flutter-explore-search-details-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-details-class</li>
 <li class="self-crumb">editorials property</li>
 </ol>
 <div class="self-name">editorials</div>
@@ -38,7 +39,7 @@ menu
 <h1>editorials property</h1></div>
 <section class="multi-line-signature">
         
-        List&lt;<wbr/><a href="../../search/WebEditorial-class.html">/sdk-for-flutter-explore-search-webeditorial-class</a>&gt;
+        List&lt;<wbr/>/sdk-for-flutter-explore-search-webeditorial-class&gt;
 editorials
 <div class="features">getter/setter pair</div>
 </section>
@@ -46,7 +47,7 @@ editorials
 <p>The list of editorials associated with the place.
 The editorials are provided by external suppliers and are only available to users with
 valid contracts with said suppliers. If the user has no such contracts, the list is empty.</p>
-<p><strong>Note:</strong> Not available as part of <a href="../../search/Suggestion-class.html">/sdk-for-flutter-explore-search-suggestion-class</a> results.</p>
+<p><strong>Note:</strong> Not available as part of /sdk-for-flutter-explore-search-suggestion-class results.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -60,9 +61,9 @@ valid contracts with said suppliers. If the user has no such contracts, the list
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/Details-class.html">/sdk-for-flutter-explore-search-details-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-details-class</li>
 <li class="self-crumb">editorials property</li>
 </ol>
 <h5>Details class</h5>
@@ -79,4 +80,5 @@ valid contracts with said suppliers. If the user has no such contracts, the list
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "simplify abstract method"
 slug: "sdk-for-flutter-explore-core-polylinesimplifier-simplify"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- simplify.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-core-polylinesimplifier-simplify"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
-<li><a href="../../core/PolylineSimplifier-class.html">/sdk-for-flutter-explore-core-polylinesimplifier-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
+<li>/sdk-for-flutter-explore-core-polylinesimplifier-class</li>
 <li class="self-crumb">simplify abstract method</li>
 </ol>
 <div class="self-name">simplify</div>
@@ -37,10 +38,10 @@ menu
 <div>
 <h1>simplify abstract method</h1></div>
 <section class="multi-line-signature">
-<a href="../../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a>
-simplify(<wbr/><ol class="parameter-list single-line"> <li>List&lt;<wbr/><a href="../../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>&gt; polyline, </li>
-<li><a href="../../core/PolylineSimplifierOptions-class.html">/sdk-for-flutter-explore-core-polylinesimplifieroptions-class</a> simplificationParameters, </li>
-<li><a href="../../core/PolylineSimplificationCallback.html">/sdk-for-flutter-explore-core-polylinesimplificationcallback</a> callback</li>
+/sdk-for-flutter-explore-core-threading-taskhandle-class
+simplify(<wbr/><ol class="parameter-list single-line"> <li>List&lt;<wbr/>/sdk-for-flutter-explore-core-geocoordinates-class&gt; polyline, </li>
+<li>/sdk-for-flutter-explore-core-polylinesimplifieroptions-class simplificationParameters, </li>
+<li>/sdk-for-flutter-explore-core-polylinesimplificationcallback callback</li>
 </ol>)
 
       
@@ -49,7 +50,7 @@ simplify(<wbr/><ol class="parameter-list single-line"> <li>List&lt;<wbr/><a href
 <section class="desc markdown">
 <p>Reduces the number of points in the input polyline.</p>
 <p>Does this by removing points which are not significant
-according to the passed <a href="../../core/PolylineSimplifierOptions-class.html">/sdk-for-flutter-explore-core-polylinesimplifieroptions-class</a>.
+according to the passed /sdk-for-flutter-explore-core-polylinesimplifieroptions-class.
 Simplification process is performed on the device without
 connecting to the network and is computationally intensive.</p>
 <ul>
@@ -64,7 +65,7 @@ connecting to the network and is computationally intensive.</p>
 when operation is finished.</p>
 </li>
 </ul>
-<p>Returns <a href="../../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a>. Controls an asynchronous operation.</p>
+<p>Returns /sdk-for-flutter-explore-core-threading-taskhandle-class. Controls an asynchronous operation.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -78,9 +79,9 @@ when operation is finished.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
-<li><a href="../../core/PolylineSimplifier-class.html">/sdk-for-flutter-explore-core-polylinesimplifier-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
+<li>/sdk-for-flutter-explore-core-polylinesimplifier-class</li>
 <li class="self-crumb">simplify abstract method</li>
 </ol>
 <h5>PolylineSimplifier class</h5>
@@ -97,4 +98,5 @@ when operation is finished.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

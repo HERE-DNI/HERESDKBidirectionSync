@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "customAuthenticationMode property"
 slug: "sdk-for-flutter-explore-core-engine-engineoptions-customauthenticationmode"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- customAuthenticationMode.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-core-engine-engineoptions-customauthenticationmod
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
-<li><a href="../../core.engine/EngineOptions-class.html">/sdk-for-flutter-explore-core-engine-engineoptions-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
+<li>/sdk-for-flutter-explore-core-engine-engineoptions-class</li>
 <li class="self-crumb">customAuthenticationMode property</li>
 </ol>
 <div class="self-name">customAuthenticationMode</div>
@@ -37,7 +38,7 @@ menu
 <div>
 <h1>customAuthenticationMode property</h1></div>
 <section class="multi-line-signature">
-<a href="../../core.engine/AuthenticationMode-class.html">/sdk-for-flutter-explore-core-engine-authenticationmode-class</a>?
+/sdk-for-flutter-explore-core-engine-authenticationmode-class?
         customAuthenticationMode
 <div class="features">getter/setter pair</div>
 </section>
@@ -59,9 +60,9 @@ or retrieved via key/secret from a dedicated backend.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
-<li><a href="../../core.engine/EngineOptions-class.html">/sdk-for-flutter-explore-core-engine-engineoptions-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
+<li>/sdk-for-flutter-explore-core-engine-engineoptions-class</li>
 <li class="self-crumb">customAuthenticationMode property</li>
 </ol>
 <h5>EngineOptions class</h5>
@@ -78,4 +79,5 @@ or retrieved via key/secret from a dedicated backend.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

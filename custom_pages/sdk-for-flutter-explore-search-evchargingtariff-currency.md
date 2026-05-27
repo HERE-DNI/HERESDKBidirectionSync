@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "currency property"
 slug: "sdk-for-flutter-explore-search-evchargingtariff-currency"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- currency.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-search-evchargingtariff-currency"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/EVChargingTariff-class.html">/sdk-for-flutter-explore-search-evchargingtariff-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-evchargingtariff-class</li>
 <li class="self-crumb">currency property</li>
 </ol>
 <div class="self-name">currency</div>
@@ -58,9 +59,9 @@ code (e.g., EUR, DKK).</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/EVChargingTariff-class.html">/sdk-for-flutter-explore-search-evchargingtariff-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-evchargingtariff-class</li>
 <li class="self-crumb">currency property</li>
 </ol>
 <h5>EVChargingTariff class</h5>
@@ -77,4 +78,5 @@ code (e.g., EUR, DKK).</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

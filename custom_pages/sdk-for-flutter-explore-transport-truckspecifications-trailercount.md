@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "trailerCount property"
 slug: "sdk-for-flutter-explore-transport-truckspecifications-trailercount"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- trailerCount.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-transport-truckspecifications-trailercount"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
-<li><a href="../../transport/TruckSpecifications-class.html">/sdk-for-flutter-explore-transport-truckspecifications-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-transport-transport-library</li>
+<li>/sdk-for-flutter-explore-transport-truckspecifications-class</li>
 <li class="self-crumb">trailerCount property</li>
 </ol>
 <div class="self-name">trailerCount</div>
@@ -45,7 +46,7 @@ menu
 <section class="desc markdown">
 <p>Defines number of trailers attached to the vehicle. The provided value must be in the range
 [0, 255]. By default, it is not set.
-When specifying <a href="../../transport/TruckSpecifications/trailerAxleCount.html">/sdk-for-flutter-explore-transport-truckspecifications-traileraxlecount</a>, then <a href="../../transport/TruckSpecifications/trailerCount.html">/sdk-for-flutter-explore-transport-truckspecifications-trailercount</a> is required and must be greater than 0.</p>
+When specifying /sdk-for-flutter-explore-transport-truckspecifications-traileraxlecount, then /sdk-for-flutter-explore-transport-truckspecifications-trailercount is required and must be greater than 0.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -59,9 +60,9 @@ When specifying <a href="../../transport/TruckSpecifications/trailerAxleCount.ht
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
-<li><a href="../../transport/TruckSpecifications-class.html">/sdk-for-flutter-explore-transport-truckspecifications-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-transport-transport-library</li>
+<li>/sdk-for-flutter-explore-transport-truckspecifications-class</li>
 <li class="self-crumb">trailerCount property</li>
 </ol>
 <h5>TruckSpecifications class</h5>
@@ -78,4 +79,5 @@ When specifying <a href="../../transport/TruckSpecifications/trailerAxleCount.ht
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

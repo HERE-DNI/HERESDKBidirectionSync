@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "MapMarker3DModel.fromMeshWithTextureFilePathAndColor constructor"
 slug: "sdk-for-flutter-explore-mapview-mapmarker3dmodel-mapmarker3dmodel-frommeshwithtexturefilepathandcolor"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- MapMarker3DModel.fromMeshWithTextureFilePathAndColor.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-mapmarker3dmodel-mapmarker3dmodel-frommes
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapMarker3DModel-class.html">/sdk-for-flutter-explore-mapview-mapmarker3dmodel-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapmarker3dmodel-class</li>
 <li class="self-crumb">MapMarker3DModel.fromMeshWithTextureFilePathAndColor factory constructor</li>
 </ol>
 <div class="self-name">MapMarker3DModel.fromMeshWithTextureFilePathAndColor</div>
@@ -37,7 +38,7 @@ menu
 <div>
 <h1>MapMarker3DModel.fromMeshWithTextureFilePathAndColor constructor</h1></div>
 <section class="multi-line-signature">
-MapMarker3DModel.fromMeshWithTextureFilePathAndColor(<wbr/><ol class="parameter-list single-line"> <li><a href="../../mapview/Mesh-class.html">/sdk-for-flutter-explore-mapview-mesh-class</a> mesh, </li>
+MapMarker3DModel.fromMeshWithTextureFilePathAndColor(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-mapview-mesh-class mesh, </li>
 <li>String textureFilePath, </li>
 <li>Color color</li>
 </ol>)
@@ -56,7 +57,7 @@ MapMarker3DModel.fromMeshWithTextureFilePathAndColor(<wbr/><ol class="parameter-
 This color is multiplied with color of texture.</p>
 </li>
 </ul>
-<p>Throws <a href="../../mapview/MapMarker3DModelInstantiationException-class.html">/sdk-for-flutter-explore-mapview-mapmarker3dmodelinstantiationexception-class</a>. Indicates what went wrong when the instantiation was attempted.</p>
+<p>Throws /sdk-for-flutter-explore-mapview-mapmarker3dmodelinstantiationexception-class. Indicates what went wrong when the instantiation was attempted.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -70,9 +71,9 @@ This color is multiplied with color of texture.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapMarker3DModel-class.html">/sdk-for-flutter-explore-mapview-mapmarker3dmodel-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapmarker3dmodel-class</li>
 <li class="self-crumb">MapMarker3DModel.fromMeshWithTextureFilePathAndColor factory constructor</li>
 </ol>
 <h5>MapMarker3DModel class</h5>
@@ -89,4 +90,5 @@ This color is multiplied with color of texture.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "setColor abstract method"
 slug: "sdk-for-flutter-explore-mapview-mapscenelights-setcolor"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- setColor.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-mapscenelights-setcolor"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapSceneLights-class.html">/sdk-for-flutter-explore-mapview-mapscenelights-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapscenelights-class</li>
 <li class="self-crumb">setColor abstract method</li>
 </ol>
 <div class="self-name">setColor</div>
@@ -38,9 +39,9 @@ menu
 <h1>setColor abstract method</h1></div>
 <section class="multi-line-signature">
 void
-setColor(<wbr/><ol class="parameter-list single-line"> <li><a href="../../mapview/MapSceneLightsCategory.html">/sdk-for-flutter-explore-mapview-mapscenelightscategory</a> category, </li>
+setColor(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-mapview-mapscenelightscategory category, </li>
 <li>Color color, </li>
-<li><a href="../../mapview/MapSceneLightsAttributeSettingCallback.html">/sdk-for-flutter-explore-mapview-mapscenelightsattributesettingcallback</a>? callback</li>
+<li>/sdk-for-flutter-explore-mapview-mapscenelightsattributesettingcallback? callback</li>
 </ol>)
 
       
@@ -73,9 +74,9 @@ The value of these components must be inside the range [0, 1].</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapSceneLights-class.html">/sdk-for-flutter-explore-mapview-mapscenelights-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapscenelights-class</li>
 <li class="self-crumb">setColor abstract method</li>
 </ol>
 <h5>MapSceneLights class</h5>
@@ -92,4 +93,5 @@ The value of these components must be inside the range [0, 1].</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

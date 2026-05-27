@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "withVisibilityRange abstract method"
 slug: "sdk-for-flutter-explore-mapview-maplayerbuilder-withvisibilityrange"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- withVisibilityRange.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-maplayerbuilder-withvisibilityrange"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapLayerBuilder-class.html">/sdk-for-flutter-explore-mapview-maplayerbuilder-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-maplayerbuilder-class</li>
 <li class="self-crumb">withVisibilityRange abstract method</li>
 </ol>
 <div class="self-name">withVisibilityRange</div>
@@ -37,8 +38,8 @@ menu
 <div>
 <h1>withVisibilityRange abstract method</h1></div>
 <section class="multi-line-signature">
-<a href="../../mapview/MapLayerBuilder-class.html">/sdk-for-flutter-explore-mapview-maplayerbuilder-class</a>
-withVisibilityRange(<wbr/><ol class="parameter-list single-line"> <li><a href="../../mapview/MapLayerVisibilityRange-class.html">/sdk-for-flutter-explore-mapview-maplayervisibilityrange-class</a> visibilityRange</li>
+/sdk-for-flutter-explore-mapview-maplayerbuilder-class
+withVisibilityRange(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-mapview-maplayervisibilityrange-class visibilityRange</li>
 </ol>)
 
       
@@ -52,7 +53,7 @@ on all zoom levels.</p>
 <ul>
 <li><code>visibilityRange</code> Visibility range which should be applied to the layer.</li>
 </ul>
-<p>Returns <a href="../../mapview/MapLayerBuilder-class.html">/sdk-for-flutter-explore-mapview-maplayerbuilder-class</a>. This class instance.</p>
+<p>Returns /sdk-for-flutter-explore-mapview-maplayerbuilder-class. This class instance.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -66,9 +67,9 @@ on all zoom levels.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapLayerBuilder-class.html">/sdk-for-flutter-explore-mapview-maplayerbuilder-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-maplayerbuilder-class</li>
 <li class="self-crumb">withVisibilityRange abstract method</li>
 </ol>
 <h5>MapLayerBuilder class</h5>
@@ -85,4 +86,5 @@ on all zoom levels.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

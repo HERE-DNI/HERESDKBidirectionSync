@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "BicycleOptions class"
 slug: "sdk-for-flutter-explore-routing-bicycleoptions-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- BicycleOptions-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -27,8 +28,8 @@ slug: "sdk-for-flutter-explore-routing-bicycleoptions-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
 <li class="self-crumb">BicycleOptions class</li>
 </ol>
 <div class="self-name">BicycleOptions</div>
@@ -59,7 +60,7 @@ menu
 <dt>Annotations</dt>
 <dd>
 <ul class="annotation-list clazz-relationships">
-<li>@Deprecated("Will be removed in v4.28.0. Use `RoutingOptions` class instead.")</li>
+<li>@Deprecated("Will be removed in v4.28.0. Use <code>RoutingOptions</code> class instead.")</li>
 </ul>
 </dd>
 </dl>
@@ -68,7 +69,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="BicycleOptions">
-<a href="../routing/BicycleOptions/BicycleOptions.html">/sdk-for-flutter-explore-routing-bicycleoptions-bicycleoptions</a>()
+/sdk-for-flutter-explore-routing-bicycleoptions-bicycleoptions()
 </dt>
 <dd>
 </dd>
@@ -78,8 +79,8 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="avoidanceOptions">
-<a href="../routing/BicycleOptions/avoidanceOptions.html">/sdk-for-flutter-explore-routing-bicycleoptions-avoidanceoptions</a>
-↔ <a href="../routing/AvoidanceOptions-class.html">/sdk-for-flutter-explore-routing-avoidanceoptions-class</a>
+/sdk-for-flutter-explore-routing-bicycleoptions-avoidanceoptions
+↔ /sdk-for-flutter-explore-routing-avoidanceoptions-class
 </dt>
 <dd>
   Options to specify restrictions for route calculations. By default
@@ -87,7 +88,7 @@ no restrictions are applied.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-<a href="../routing/BicycleOptions/hashCode.html">/sdk-for-flutter-explore-routing-bicycleoptions-hashcode</a>
+/sdk-for-flutter-explore-routing-bicycleoptions-hashcode
 → int
 </dt>
 <dd>
@@ -95,15 +96,15 @@ no restrictions are applied.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="routeOptions">
-<a href="../routing/BicycleOptions/routeOptions.html">/sdk-for-flutter-explore-routing-bicycleoptions-routeoptions</a>
-↔ <a href="../routing/RouteOptions-class.html">/sdk-for-flutter-explore-routing-routeoptions-class</a>
+/sdk-for-flutter-explore-routing-bicycleoptions-routeoptions
+↔ /sdk-for-flutter-explore-routing-routeoptions-class
 </dt>
 <dd>
   Specifies the common route calculation options.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../routing/BicycleOptions/runtimeType.html">/sdk-for-flutter-explore-routing-bicycleoptions-runtimetype</a>
+/sdk-for-flutter-explore-routing-bicycleoptions-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -111,8 +112,8 @@ no restrictions are applied.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="textOptions">
-<a href="../routing/BicycleOptions/textOptions.html">/sdk-for-flutter-explore-routing-bicycleoptions-textoptions</a>
-↔ <a href="../routing/RouteTextOptions-class.html">/sdk-for-flutter-explore-routing-routetextoptions-class</a>
+/sdk-for-flutter-explore-routing-bicycleoptions-textoptions
+↔ /sdk-for-flutter-explore-routing-routetextoptions-class
 </dt>
 <dd>
   Customize textual content returned from the route calculation, such
@@ -125,7 +126,7 @@ as localization, format, and unit system.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../routing/BicycleOptions/noSuchMethod.html">/sdk-for-flutter-explore-routing-bicycleoptions-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-routing-bicycleoptions-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -134,7 +135,7 @@ as localization, format, and unit system.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../routing/BicycleOptions/toString.html">/sdk-for-flutter-explore-routing-bicycleoptions-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-routing-bicycleoptions-tostring(<wbr/>)
     → String
 
 </dt>
@@ -148,7 +149,7 @@ as localization, format, and unit system.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-<a href="../routing/BicycleOptions/operator_equals.html">/sdk-for-flutter-explore-routing-bicycleoptions-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-routing-bicycleoptions-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -167,8 +168,8 @@ as localization, format, and unit system.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
 <li class="self-crumb">BicycleOptions class</li>
 </ol>
 <h5>routing library</h5>
@@ -185,4 +186,5 @@ as localization, format, and unit system.
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

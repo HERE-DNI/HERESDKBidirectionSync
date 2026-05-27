@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "maxKingpinToRearAxleDistanceInCentimeters property"
 slug: "sdk-for-flutter-explore-routing-violatedrestrictiondetails-maxkingpintorearaxledistanceincentimeters"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- maxKingpinToRearAxleDistanceInCentimeters.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-routing-violatedrestrictiondetails-maxkingpintore
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/ViolatedRestrictionDetails-class.html">/sdk-for-flutter-explore-routing-violatedrestrictiondetails-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-violatedrestrictiondetails-class</li>
 <li class="self-crumb">maxKingpinToRearAxleDistanceInCentimeters property</li>
 </ol>
 <div class="self-name">maxKingpinToRearAxleDistanceInCentimeters</div>
@@ -45,7 +46,7 @@ menu
 <section class="desc markdown">
 <p>Contains the maximum permitted distance from kingpin to the rear axle in centimeters.
 This property will be set if the
-<a href="../../transport/VehicleSpecification/kingpinToRearAxleDistanceInCentimeters.html">/sdk-for-flutter-explore-transport-vehiclespecification-kingpintorearaxledistanceincentimeters</a>
+/sdk-for-flutter-explore-transport-vehiclespecification-kingpintorearaxledistanceincentimeters
 exceeds the specified value.</p>
 </section>
 <section class="summary source-code" id="source">
@@ -60,9 +61,9 @@ exceeds the specified value.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/ViolatedRestrictionDetails-class.html">/sdk-for-flutter-explore-routing-violatedrestrictiondetails-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-violatedrestrictiondetails-class</li>
 <li class="self-crumb">maxKingpinToRearAxleDistanceInCentimeters property</li>
 </ol>
 <h5>ViolatedRestrictionDetails class</h5>
@@ -79,4 +80,5 @@ exceeds the specified value.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

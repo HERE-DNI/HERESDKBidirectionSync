@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "withExternal static method"
 slug: "sdk-for-flutter-explore-core-engine-authenticationmode-withexternal"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- withExternal.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-core-engine-authenticationmode-withexternal"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
-<li><a href="../../core.engine/AuthenticationMode-class.html">/sdk-for-flutter-explore-core-engine-authenticationmode-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
+<li>/sdk-for-flutter-explore-core-engine-authenticationmode-class</li>
 <li class="self-crumb">withExternal static method</li>
 </ol>
 <div class="self-name">withExternal</div>
@@ -37,7 +38,7 @@ menu
 <div>
 <h1>withExternal static method</h1></div>
 <section class="multi-line-signature">
-<a href="../../core.engine/AuthenticationMode-class.html">/sdk-for-flutter-explore-core-engine-authenticationmode-class</a>
+/sdk-for-flutter-explore-core-engine-authenticationmode-class
 withExternal(<wbr/>)
 
       
@@ -45,7 +46,7 @@ withExternal(<wbr/>)
     </section>
 <section class="desc markdown">
 <p>Assumes the authentication is provided by the client.</p>
-<p>Returns <a href="../../core.engine/AuthenticationMode-class.html">/sdk-for-flutter-explore-core-engine-authenticationmode-class</a>. Instance of <a href="../../core.engine/AuthenticationMode-class.html">/sdk-for-flutter-explore-core-engine-authenticationmode-class</a> configured to use externally provided authentication</p>
+<p>Returns /sdk-for-flutter-explore-core-engine-authenticationmode-class. Instance of /sdk-for-flutter-explore-core-engine-authenticationmode-class configured to use externally provided authentication</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -59,9 +60,9 @@ withExternal(<wbr/>)
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
-<li><a href="../../core.engine/AuthenticationMode-class.html">/sdk-for-flutter-explore-core-engine-authenticationmode-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
+<li>/sdk-for-flutter-explore-core-engine-authenticationmode-class</li>
 <li class="self-crumb">withExternal static method</li>
 </ol>
 <h5>AuthenticationMode class</h5>
@@ -78,4 +79,5 @@ withExternal(<wbr/>)
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

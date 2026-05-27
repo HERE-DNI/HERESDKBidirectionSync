@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "FarePrice class"
 slug: "sdk-for-flutter-explore-routing-fareprice-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- FarePrice-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -30,8 +31,8 @@ slug: "sdk-for-flutter-explore-routing-fareprice-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
 <li class="self-crumb">FarePrice class</li>
 </ol>
 <div class="self-name">FarePrice</div>
@@ -61,7 +62,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="FarePrice">
-<a href="../routing/FarePrice/FarePrice.html">/sdk-for-flutter-explore-routing-fareprice-fareprice</a>()
+/sdk-for-flutter-explore-routing-fareprice-fareprice()
 </dt>
 <dd>
 </dd>
@@ -71,7 +72,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="currency">
-<a href="../routing/FarePrice/currency.html">/sdk-for-flutter-explore-routing-fareprice-currency</a>
+/sdk-for-flutter-explore-routing-fareprice-currency
 ↔ String
 </dt>
 <dd>
@@ -80,7 +81,7 @@ Defaults to "EUR" string.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="estimated">
-<a href="../routing/FarePrice/estimated.html">/sdk-for-flutter-explore-routing-fareprice-estimated</a>
+/sdk-for-flutter-explore-routing-fareprice-estimated
 ↔ bool
 </dt>
 <dd>
@@ -89,7 +90,7 @@ Defaults to <code>false</code>.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-<a href="../routing/FarePrice/hashCode.html">/sdk-for-flutter-explore-routing-fareprice-hashcode</a>
+/sdk-for-flutter-explore-routing-fareprice-hashcode
 → int
 </dt>
 <dd>
@@ -97,27 +98,27 @@ Defaults to <code>false</code>.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="maximum">
-<a href="../routing/FarePrice/maximum.html">/sdk-for-flutter-explore-routing-fareprice-maximum</a>
+/sdk-for-flutter-explore-routing-fareprice-maximum
 ↔ double
 </dt>
 <dd>
-  Maximum price when the price is of <a href="../routing/FarePriceType.html">/sdk-for-flutter-explore-routing-farepricetype</a> type. Otherwise, it is
-equal to <a href="../routing/FarePrice/minimum.html">/sdk-for-flutter-explore-routing-fareprice-minimum</a>.
+  Maximum price when the price is of /sdk-for-flutter-explore-routing-farepricetype type. Otherwise, it is
+equal to /sdk-for-flutter-explore-routing-fareprice-minimum.
 Defaults to 0.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="minimum">
-<a href="../routing/FarePrice/minimum.html">/sdk-for-flutter-explore-routing-fareprice-minimum</a>
+/sdk-for-flutter-explore-routing-fareprice-minimum
 ↔ double
 </dt>
 <dd>
-  Minimum price when the price is of <a href="../routing/FarePriceType.html">/sdk-for-flutter-explore-routing-farepricetype</a> type. Otherwise, it is
-equal to <a href="../routing/FarePrice/maximum.html">/sdk-for-flutter-explore-routing-fareprice-maximum</a>.
+  Minimum price when the price is of /sdk-for-flutter-explore-routing-farepricetype type. Otherwise, it is
+equal to /sdk-for-flutter-explore-routing-fareprice-maximum.
 Defaults to 0.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../routing/FarePrice/runtimeType.html">/sdk-for-flutter-explore-routing-fareprice-runtimetype</a>
+/sdk-for-flutter-explore-routing-fareprice-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -125,16 +126,16 @@ Defaults to 0.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="type">
-<a href="../routing/FarePrice/type.html">/sdk-for-flutter-explore-routing-fareprice-type</a>
-↔ <a href="../routing/FarePriceType.html">/sdk-for-flutter-explore-routing-farepricetype</a>
+/sdk-for-flutter-explore-routing-fareprice-type
+↔ /sdk-for-flutter-explore-routing-farepricetype
 </dt>
 <dd>
   Type of price represented by this object.
-Defaults to <a href="../routing/FarePriceType.html">/sdk-for-flutter-explore-routing-farepricetype</a>.
+Defaults to /sdk-for-flutter-explore-routing-farepricetype.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="validityPeriod">
-<a href="../routing/FarePrice/validityPeriod.html">/sdk-for-flutter-explore-routing-fareprice-validityperiod</a>
+/sdk-for-flutter-explore-routing-fareprice-validityperiod
 ↔ Duration?
 </dt>
 <dd>
@@ -147,7 +148,7 @@ Defaults to <a href="../routing/FarePriceType.html">/sdk-for-flutter-explore-rou
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../routing/FarePrice/noSuchMethod.html">/sdk-for-flutter-explore-routing-fareprice-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-routing-fareprice-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -156,7 +157,7 @@ Defaults to <a href="../routing/FarePriceType.html">/sdk-for-flutter-explore-rou
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../routing/FarePrice/toString.html">/sdk-for-flutter-explore-routing-fareprice-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-routing-fareprice-tostring(<wbr/>)
     → String
 
 </dt>
@@ -170,7 +171,7 @@ Defaults to <a href="../routing/FarePriceType.html">/sdk-for-flutter-explore-rou
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-<a href="../routing/FarePrice/operator_equals.html">/sdk-for-flutter-explore-routing-fareprice-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-routing-fareprice-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -189,8 +190,8 @@ Defaults to <a href="../routing/FarePriceType.html">/sdk-for-flutter-explore-rou
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
 <li class="self-crumb">FarePrice class</li>
 </ol>
 <h5>routing library</h5>
@@ -207,4 +208,5 @@ Defaults to <a href="../routing/FarePriceType.html">/sdk-for-flutter-explore-rou
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

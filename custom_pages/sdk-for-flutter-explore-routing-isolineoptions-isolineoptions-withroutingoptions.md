@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "IsolineOptions.withRoutingOptions constructor"
 slug: "sdk-for-flutter-explore-routing-isolineoptions-isolineoptions-withroutingoptions"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- IsolineOptions.withRoutingOptions.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-routing-isolineoptions-isolineoptions-withrouting
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/IsolineOptions-class.html">/sdk-for-flutter-explore-routing-isolineoptions-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-isolineoptions-class</li>
 <li class="self-crumb">IsolineOptions.withRoutingOptions factory constructor</li>
 </ol>
 <div class="self-name">IsolineOptions.withRoutingOptions</div>
@@ -37,8 +38,8 @@ menu
 <div>
 <h1>IsolineOptions.withRoutingOptions constructor</h1></div>
 <section class="multi-line-signature">
-IsolineOptions.withRoutingOptions(<wbr/><ol class="parameter-list single-line"> <li><a href="../../routing/IsolineOptionsCalculation-class.html">/sdk-for-flutter-explore-routing-isolineoptionscalculation-class</a> calculationOptions, </li>
-<li><a href="../../routing/RoutingOptions-class.html">/sdk-for-flutter-explore-routing-routingoptions-class</a> routingOptions</li>
+IsolineOptions.withRoutingOptions(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-routing-isolineoptionscalculation-class calculationOptions, </li>
+<li>/sdk-for-flutter-explore-routing-routingoptions-class routingOptions</li>
 </ol>)
     </section>
 <section class="desc markdown">
@@ -46,11 +47,11 @@ IsolineOptions.withRoutingOptions(<wbr/><ol class="parameter-list single-line"> 
 with preferences for isoline calculation and routing options.</p>
 <p><strong>Notes</strong></p>
 <ul>
-<li>By default all vehicle specifications from <a href="../../routing/RoutingOptions/transportSpecification.html">/sdk-for-flutter-explore-routing-routingoptions-transportspecification</a> are set to
-<code>null</code> and the <a href="../../transport/TransportSpecification/transportMode.html">/sdk-for-flutter-explore-transport-transportspecification-transportmode</a> from <a href="../../routing/RoutingOptions/transportSpecification.html">/sdk-for-flutter-explore-routing-routingoptions-transportspecification</a>
-is set to <a href="../../transport/TransportMode.html">/sdk-for-flutter-explore-transport-transportmode</a>.</li>
-<li>A route can be calculated with only the <a href="../../transport/TransportSpecification/transportMode.html">/sdk-for-flutter-explore-transport-transportspecification-transportmode</a> from
-<a href="../../routing/RoutingOptions/transportSpecification.html">/sdk-for-flutter-explore-routing-routingoptions-transportspecification</a> set.</li>
+<li>By default all vehicle specifications from /sdk-for-flutter-explore-routing-routingoptions-transportspecification are set to
+<code>null</code> and the /sdk-for-flutter-explore-transport-transportspecification-transportmode from /sdk-for-flutter-explore-routing-routingoptions-transportspecification
+is set to /sdk-for-flutter-explore-transport-transportmode.</li>
+<li>A route can be calculated with only the /sdk-for-flutter-explore-transport-transportspecification-transportmode from
+/sdk-for-flutter-explore-routing-routingoptions-transportspecification set.</li>
 </ul>
 <ul>
 <li>
@@ -74,9 +75,9 @@ This determines also the transportation type.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/IsolineOptions-class.html">/sdk-for-flutter-explore-routing-isolineoptions-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-isolineoptions-class</li>
 <li class="self-crumb">IsolineOptions.withRoutingOptions factory constructor</li>
 </ol>
 <h5>IsolineOptions class</h5>
@@ -93,4 +94,5 @@ This determines also the transportation type.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

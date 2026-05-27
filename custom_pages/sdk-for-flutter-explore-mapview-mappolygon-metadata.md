@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "metadata property"
 slug: "sdk-for-flutter-explore-mapview-mappolygon-metadata"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- metadata.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-mappolygon-metadata"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapPolygon-class.html">/sdk-for-flutter-explore-mapview-mappolygon-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mappolygon-class</li>
 <li class="self-crumb">metadata property</li>
 </ol>
 <div class="self-name">metadata</div>
@@ -38,7 +39,7 @@ menu
 <h1>metadata property</h1></div>
 <section id="getter">
 <section class="multi-line-signature">
-<a href="../../core/Metadata-class.html">/sdk-for-flutter-explore-core-metadata-class</a>?
+/sdk-for-flutter-explore-core-metadata-class?
 metadata
 </section>
 <section class="desc markdown">
@@ -53,7 +54,7 @@ Gets the Metadata instance attached to this polygon.</p>
 <section id="setter">
 <section class="multi-line-signature">
 void
-metadata=(<wbr/><a href="../../core/Metadata-class.html">/sdk-for-flutter-explore-core-metadata-class</a>? value)
+metadata=(<wbr/>/sdk-for-flutter-explore-core-metadata-class? value)
 </section>
 <section class="desc markdown">
 <p>The Metadata instance attached to this polygon, <code>null</code> by default.
@@ -72,9 +73,9 @@ Sets the Metadata instance to be attached to this polygon.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapPolygon-class.html">/sdk-for-flutter-explore-mapview-mappolygon-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mappolygon-class</li>
 <li class="self-crumb">metadata property</li>
 </ol>
 <h5>MapPolygon class</h5>
@@ -91,4 +92,5 @@ Sets the Metadata instance to be attached to this polygon.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

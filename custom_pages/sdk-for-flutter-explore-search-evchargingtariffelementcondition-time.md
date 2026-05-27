@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "time property"
 slug: "sdk-for-flutter-explore-search-evchargingtariffelementcondition-time"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- time.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-search-evchargingtariffelementcondition-time"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/EVChargingTariffElementCondition-class.html">/sdk-for-flutter-explore-search-evchargingtariffelementcondition-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-evchargingtariffelementcondition-class</li>
 <li class="self-crumb">time property</li>
 </ol>
 <div class="self-name">time</div>
@@ -37,14 +38,14 @@ menu
 <div>
 <h1>time property</h1></div>
 <section class="multi-line-signature">
-<a href="../../search/TimeOfDayRange-class.html">/sdk-for-flutter-explore-search-timeofdayrange-class</a>?
+/sdk-for-flutter-explore-search-timeofdayrange-class?
         time
 <div class="features">getter/setter pair</div>
 </section>
 <section class="desc markdown">
 <p>Time period when the tariff element is valid, in local time. The time period wraps around to
-the next day, when end time of the period <a href="../../search/TimeOfDayRange/to.html">/sdk-for-flutter-explore-search-timeofdayrange-to</a>
-is smaller than the beginning <a href="../../search/TimeOfDayRange/from.html">/sdk-for-flutter-explore-search-timeofdayrange-from</a>.</p>
+the next day, when end time of the period /sdk-for-flutter-explore-search-timeofdayrange-to
+is smaller than the beginning /sdk-for-flutter-explore-search-timeofdayrange-from.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -58,9 +59,9 @@ is smaller than the beginning <a href="../../search/TimeOfDayRange/from.html">/s
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/EVChargingTariffElementCondition-class.html">/sdk-for-flutter-explore-search-evchargingtariffelementcondition-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-evchargingtariffelementcondition-class</li>
 <li class="self-crumb">time property</li>
 </ol>
 <h5>EVChargingTariffElementCondition class</h5>
@@ -77,4 +78,5 @@ is smaller than the beginning <a href="../../search/TimeOfDayRange/from.html">/s
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

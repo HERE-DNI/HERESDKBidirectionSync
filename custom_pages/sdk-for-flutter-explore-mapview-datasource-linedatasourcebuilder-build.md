@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "build abstract method"
 slug: "sdk-for-flutter-explore-mapview-datasource-linedatasourcebuilder-build"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- build.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-datasource-linedatasourcebuilder-build"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
-<li><a href="../../mapview.datasource/LineDataSourceBuilder-class.html">/sdk-for-flutter-explore-mapview-datasource-linedatasourcebuilder-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-linedatasourcebuilder-class</li>
 <li class="self-crumb">build abstract method</li>
 </ol>
 <div class="self-name">build</div>
@@ -37,7 +38,7 @@ menu
 <div>
 <h1>build abstract method</h1></div>
 <section class="multi-line-signature">
-<a href="../../mapview.datasource/LineDataSource-class.html">/sdk-for-flutter-explore-mapview-datasource-linedatasource-class</a>
+/sdk-for-flutter-explore-mapview-datasource-linedatasource-class
 build(<wbr/>)
 
       
@@ -45,7 +46,7 @@ build(<wbr/>)
     </section>
 <section class="desc markdown">
 <p>Builds instance of LineDataSource.</p>
-<p>Returns <a href="../../mapview.datasource/LineDataSource-class.html">/sdk-for-flutter-explore-mapview-datasource-linedatasource-class</a>. Instance of the data source created with given polylines and attributes.</p>
+<p>Returns /sdk-for-flutter-explore-mapview-datasource-linedatasource-class. Instance of the data source created with given polylines and attributes.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -59,9 +60,9 @@ build(<wbr/>)
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
-<li><a href="../../mapview.datasource/LineDataSourceBuilder-class.html">/sdk-for-flutter-explore-mapview-datasource-linedatasourcebuilder-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-linedatasourcebuilder-class</li>
 <li class="self-crumb">build abstract method</li>
 </ol>
 <h5>LineDataSourceBuilder class</h5>
@@ -78,4 +79,5 @@ build(<wbr/>)
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

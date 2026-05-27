@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "accessPoints property"
 slug: "sdk-for-flutter-explore-search-place-accesspoints"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- accessPoints.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-search-place-accesspoints"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/Place-class.html">/sdk-for-flutter-explore-search-place-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-place-class</li>
 <li class="self-crumb">accessPoints property</li>
 </ol>
 <div class="self-name">accessPoints</div>
@@ -38,7 +39,7 @@ menu
 <h1>accessPoints property</h1></div>
 <section id="getter">
 <section class="multi-line-signature">
-List&lt;<wbr/><a href="../../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>&gt;
+List&lt;<wbr/>/sdk-for-flutter-explore-core-geocoordinates-class&gt;
 accessPoints
 </section>
 <section class="desc markdown">
@@ -70,9 +71,9 @@ Gets the access points to the place, such as the points on a road or in a parkin
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/Place-class.html">/sdk-for-flutter-explore-search-place-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-place-class</li>
 <li class="self-crumb">accessPoints property</li>
 </ol>
 <h5>Place class</h5>
@@ -89,4 +90,5 @@ Gets the access points to the place, such as the points on a road or in a parkin
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

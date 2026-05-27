@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "co2Class property"
 slug: "sdk-for-flutter-explore-routing-tolloptions-co2class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- co2Class.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-routing-tolloptions-co2class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/TollOptions-class.html">/sdk-for-flutter-explore-routing-tolloptions-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-tolloptions-class</li>
 <li class="self-crumb">co2Class property</li>
 </ol>
 <div class="self-name">co2Class</div>
@@ -59,9 +60,9 @@ Allowed values for CO2 class are 1, 2, 3, 4, or 5, where a lower value generally
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/TollOptions-class.html">/sdk-for-flutter-explore-routing-tolloptions-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-tolloptions-class</li>
 <li class="self-crumb">co2Class property</li>
 </ol>
 <h5>TollOptions class</h5>
@@ -78,4 +79,5 @@ Allowed values for CO2 class are 1, 2, 3, 4, or 5, where a lower value generally
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

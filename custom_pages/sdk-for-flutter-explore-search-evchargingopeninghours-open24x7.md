@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "open24x7 property"
 slug: "sdk-for-flutter-explore-search-evchargingopeninghours-open24x7"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- open24x7.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-search-evchargingopeninghours-open24x7"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/EVChargingOpeningHours-class.html">/sdk-for-flutter-explore-search-evchargingopeninghours-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-evchargingopeninghours-class</li>
 <li class="self-crumb">open24x7 property</li>
 </ol>
 <div class="self-name">open24x7</div>
@@ -44,7 +45,7 @@ menu
 </section>
 <section class="desc markdown">
 <p>Indicates if the charging location is open 24 hours a day, 7 days per week.
-If true, <a href="../../search/EVChargingOpeningHours/regularSchedule.html">/sdk-for-flutter-explore-search-evchargingopeninghours-regularschedule</a> and <a href="../../search/EVChargingOpeningHours/exceptions.html">/sdk-for-flutter-explore-search-evchargingopeninghours-exceptions</a> will be empty.</p>
+If true, /sdk-for-flutter-explore-search-evchargingopeninghours-regularschedule and /sdk-for-flutter-explore-search-evchargingopeninghours-exceptions will be empty.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -58,9 +59,9 @@ If true, <a href="../../search/EVChargingOpeningHours/regularSchedule.html">/sdk
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/EVChargingOpeningHours-class.html">/sdk-for-flutter-explore-search-evchargingopeninghours-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-evchargingopeninghours-class</li>
 <li class="self-crumb">open24x7 property</li>
 </ol>
 <h5>EVChargingOpeningHours class</h5>
@@ -77,4 +78,5 @@ If true, <a href="../../search/EVChargingOpeningHours/regularSchedule.html">/sdk
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

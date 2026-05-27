@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "items property"
 slug: "sdk-for-flutter-explore-routing-localizedroadnumbers-items"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- items.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-routing-localizedroadnumbers-items"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/LocalizedRoadNumbers-class.html">/sdk-for-flutter-explore-routing-localizedroadnumbers-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-localizedroadnumbers-class</li>
 <li class="self-crumb">items property</li>
 </ol>
 <div class="self-name">items</div>
@@ -38,7 +39,7 @@ menu
 <h1>items property</h1></div>
 <section class="multi-line-signature">
         
-        List&lt;<wbr/><a href="../../routing/LocalizedRoadNumber-class.html">/sdk-for-flutter-explore-routing-localizedroadnumber-class</a>&gt;
+        List&lt;<wbr/>/sdk-for-flutter-explore-routing-localizedroadnumber-class&gt;
 items
 <div class="features">getter/setter pair</div>
 </section>
@@ -58,9 +59,9 @@ Recommended to use helper methods instead of directly accessing the items.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/LocalizedRoadNumbers-class.html">/sdk-for-flutter-explore-routing-localizedroadnumbers-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-localizedroadnumbers-class</li>
 <li class="self-crumb">items property</li>
 </ol>
 <h5>LocalizedRoadNumbers class</h5>
@@ -77,4 +78,5 @@ Recommended to use helper methods instead of directly accessing the items.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

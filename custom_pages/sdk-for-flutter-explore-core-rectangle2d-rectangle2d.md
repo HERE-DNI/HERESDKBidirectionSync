@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "Rectangle2D constructor"
 slug: "sdk-for-flutter-explore-core-rectangle2d-rectangle2d"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- Rectangle2D.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-core-rectangle2d-rectangle2d"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
-<li><a href="../../core/Rectangle2D-class.html">/sdk-for-flutter-explore-core-rectangle2d-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
+<li>/sdk-for-flutter-explore-core-rectangle2d-class</li>
 <li class="self-crumb">Rectangle2D constructor</li>
 </ol>
 <div class="self-name">Rectangle2D</div>
@@ -37,8 +38,8 @@ menu
 <div>
 <h1>Rectangle2D constructor</h1></div>
 <section class="multi-line-signature">
-Rectangle2D(<wbr/><ol class="parameter-list single-line"> <li><a href="../../core/Point2D-class.html">/sdk-for-flutter-explore-core-point2d-class</a> origin, </li>
-<li><a href="../../core/Size2D-class.html">/sdk-for-flutter-explore-core-size2d-class</a> size</li>
+Rectangle2D(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-core-point2d-class origin, </li>
+<li>/sdk-for-flutter-explore-core-size2d-class size</li>
 </ol>)
     </section>
 <section class="desc markdown">
@@ -64,9 +65,9 @@ The height expands towards the bottom of the view.</li>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
-<li><a href="../../core/Rectangle2D-class.html">/sdk-for-flutter-explore-core-rectangle2d-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
+<li>/sdk-for-flutter-explore-core-rectangle2d-class</li>
 <li class="self-crumb">Rectangle2D constructor</li>
 </ol>
 <h5>Rectangle2D class</h5>
@@ -83,4 +84,5 @@ The height expands towards the bottom of the view.</li>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

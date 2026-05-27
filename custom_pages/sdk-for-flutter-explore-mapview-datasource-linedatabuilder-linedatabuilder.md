@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "LineDataBuilder constructor"
 slug: "sdk-for-flutter-explore-mapview-datasource-linedatabuilder-linedatabuilder"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- LineDataBuilder.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-datasource-linedatabuilder-linedatabuilde
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
-<li><a href="../../mapview.datasource/LineDataBuilder-class.html">/sdk-for-flutter-explore-mapview-datasource-linedatabuilder-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-linedatabuilder-class</li>
 <li class="self-crumb">LineDataBuilder factory constructor</li>
 </ol>
 <div class="self-name">LineDataBuilder</div>
@@ -54,9 +55,9 @@ LineDataBuilder(<wbr/>)
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
-<li><a href="../../mapview.datasource/LineDataBuilder-class.html">/sdk-for-flutter-explore-mapview-datasource-linedatabuilder-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-linedatabuilder-class</li>
 <li class="self-crumb">LineDataBuilder factory constructor</li>
 </ol>
 <h5>LineDataBuilder class</h5>
@@ -73,4 +74,5 @@ LineDataBuilder(<wbr/>)
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "appliesTo abstract method"
 slug: "sdk-for-flutter-explore-core-timerule-appliesto"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- appliesTo.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-core-timerule-appliesto"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
-<li><a href="../../core/TimeRule-class.html">/sdk-for-flutter-explore-core-timerule-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
+<li>/sdk-for-flutter-explore-core-timerule-class</li>
 <li class="self-crumb">appliesTo abstract method</li>
 </ol>
 <div class="self-name">appliesTo</div>
@@ -62,9 +63,9 @@ appliesTo(<wbr/><ol class="parameter-list single-line"> <li>DateTime dateTime</l
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
-<li><a href="../../core/TimeRule-class.html">/sdk-for-flutter-explore-core-timerule-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
+<li>/sdk-for-flutter-explore-core-timerule-class</li>
 <li class="self-crumb">appliesTo abstract method</li>
 </ol>
 <h5>TimeRule class</h5>
@@ -81,4 +82,5 @@ appliesTo(<wbr/><ol class="parameter-list single-line"> <li>DateTime dateTime</l
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

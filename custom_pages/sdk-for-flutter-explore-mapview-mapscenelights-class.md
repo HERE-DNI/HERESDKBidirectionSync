@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "MapSceneLights class abstract"
 slug: "sdk-for-flutter-explore-mapview-mapscenelights-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- MapSceneLights-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -31,8 +32,8 @@ slug: "sdk-for-flutter-explore-mapview-mapscenelights-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
 <li class="self-crumb">MapSceneLights class</li>
 </ol>
 <div class="self-name">MapSceneLights</div>
@@ -62,7 +63,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="MapSceneLights">
-<a href="../mapview/MapSceneLights/MapSceneLights.html">/sdk-for-flutter-explore-mapview-mapscenelights-mapscenelights</a>()
+/sdk-for-flutter-explore-mapview-mapscenelights-mapscenelights()
 </dt>
 <dd>
 </dd>
@@ -72,7 +73,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="hashCode">
-<a href="../mapview/MapSceneLights/hashCode.html">/sdk-for-flutter-explore-mapview-mapscenelights-hashcode</a>
+/sdk-for-flutter-explore-mapview-mapscenelights-hashcode
 → int
 </dt>
 <dd class="inherited">
@@ -80,7 +81,7 @@ menu
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../mapview/MapSceneLights/runtimeType.html">/sdk-for-flutter-explore-mapview-mapscenelights-runtimetype</a>
+/sdk-for-flutter-explore-mapview-mapscenelights-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -93,7 +94,7 @@ menu
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable" id="getColor">
-<a href="../mapview/MapSceneLights/getColor.html">/sdk-for-flutter-explore-mapview-mapscenelights-getcolor</a>(<wbr/><a href="../mapview/MapSceneLightsCategory.html">/sdk-for-flutter-explore-mapview-mapscenelightscategory</a> category)
+/sdk-for-flutter-explore-mapview-mapscenelights-getcolor(<wbr/>/sdk-for-flutter-explore-mapview-mapscenelightscategory category)
     → Color?
 
 </dt>
@@ -103,8 +104,8 @@ menu
 
 </dd>
 <dt class="callable" id="getDirection">
-<a href="../mapview/MapSceneLights/getDirection.html">/sdk-for-flutter-explore-mapview-mapscenelights-getdirection</a>(<wbr/><a href="../mapview/MapSceneLightsCategory.html">/sdk-for-flutter-explore-mapview-mapscenelightscategory</a> category)
-    → <a href="../mapview/MapSceneLightsDirection-class.html">/sdk-for-flutter-explore-mapview-mapscenelightsdirection-class</a>?
+/sdk-for-flutter-explore-mapview-mapscenelights-getdirection(<wbr/>/sdk-for-flutter-explore-mapview-mapscenelightscategory category)
+    → /sdk-for-flutter-explore-mapview-mapscenelightsdirection-class?
 
 </dt>
 <dd>
@@ -113,7 +114,7 @@ menu
 
 </dd>
 <dt class="callable" id="getIntensity">
-<a href="../mapview/MapSceneLights/getIntensity.html">/sdk-for-flutter-explore-mapview-mapscenelights-getintensity</a>(<wbr/><a href="../mapview/MapSceneLightsCategory.html">/sdk-for-flutter-explore-mapview-mapscenelightscategory</a> category)
+/sdk-for-flutter-explore-mapview-mapscenelights-getintensity(<wbr/>/sdk-for-flutter-explore-mapview-mapscenelightscategory category)
     → double?
 
 </dt>
@@ -123,7 +124,7 @@ menu
 
 </dd>
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../mapview/MapSceneLights/noSuchMethod.html">/sdk-for-flutter-explore-mapview-mapscenelights-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-mapview-mapscenelights-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -132,7 +133,7 @@ menu
   <div class="features">inherited</div>
 </dd>
 <dt class="callable" id="reset">
-<a href="../mapview/MapSceneLights/reset.html">/sdk-for-flutter-explore-mapview-mapscenelights-reset</a>(<wbr/>)
+/sdk-for-flutter-explore-mapview-mapscenelights-reset(<wbr/>)
     → void
 
 </dt>
@@ -142,7 +143,7 @@ menu
 
 </dd>
 <dt class="callable" id="setColor">
-<a href="../mapview/MapSceneLights/setColor.html">/sdk-for-flutter-explore-mapview-mapscenelights-setcolor</a>(<wbr/><a href="../mapview/MapSceneLightsCategory.html">/sdk-for-flutter-explore-mapview-mapscenelightscategory</a> category, Color color, <a href="../mapview/MapSceneLightsAttributeSettingCallback.html">/sdk-for-flutter-explore-mapview-mapscenelightsattributesettingcallback</a>? callback)
+/sdk-for-flutter-explore-mapview-mapscenelights-setcolor(<wbr/>/sdk-for-flutter-explore-mapview-mapscenelightscategory category, Color color, /sdk-for-flutter-explore-mapview-mapscenelightsattributesettingcallback? callback)
     → void
 
 </dt>
@@ -152,7 +153,7 @@ menu
 
 </dd>
 <dt class="callable" id="setDirection">
-<a href="../mapview/MapSceneLights/setDirection.html">/sdk-for-flutter-explore-mapview-mapscenelights-setdirection</a>(<wbr/><a href="../mapview/MapSceneLightsCategory.html">/sdk-for-flutter-explore-mapview-mapscenelightscategory</a> category, <a href="../mapview/MapSceneLightsDirection-class.html">/sdk-for-flutter-explore-mapview-mapscenelightsdirection-class</a> direction, <a href="../mapview/MapSceneLightsAttributeSettingCallback.html">/sdk-for-flutter-explore-mapview-mapscenelightsattributesettingcallback</a>? callback)
+/sdk-for-flutter-explore-mapview-mapscenelights-setdirection(<wbr/>/sdk-for-flutter-explore-mapview-mapscenelightscategory category, /sdk-for-flutter-explore-mapview-mapscenelightsdirection-class direction, /sdk-for-flutter-explore-mapview-mapscenelightsattributesettingcallback? callback)
     → void
 
 </dt>
@@ -162,7 +163,7 @@ menu
 
 </dd>
 <dt class="callable" id="setIntensity">
-<a href="../mapview/MapSceneLights/setIntensity.html">/sdk-for-flutter-explore-mapview-mapscenelights-setintensity</a>(<wbr/><a href="../mapview/MapSceneLightsCategory.html">/sdk-for-flutter-explore-mapview-mapscenelightscategory</a> category, double intensity, <a href="../mapview/MapSceneLightsAttributeSettingCallback.html">/sdk-for-flutter-explore-mapview-mapscenelightsattributesettingcallback</a>? callback)
+/sdk-for-flutter-explore-mapview-mapscenelights-setintensity(<wbr/>/sdk-for-flutter-explore-mapview-mapscenelightscategory category, double intensity, /sdk-for-flutter-explore-mapview-mapscenelightsattributesettingcallback? callback)
     → void
 
 </dt>
@@ -172,7 +173,7 @@ menu
 
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../mapview/MapSceneLights/toString.html">/sdk-for-flutter-explore-mapview-mapscenelights-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-mapview-mapscenelights-tostring(<wbr/>)
     → String
 
 </dt>
@@ -186,7 +187,7 @@ menu
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-<a href="../mapview/MapSceneLights/operator_equals.html">/sdk-for-flutter-explore-mapview-mapscenelights-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-mapview-mapscenelights-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -204,8 +205,8 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
 <li class="self-crumb">MapSceneLights class</li>
 </ol>
 <h5>mapview library</h5>
@@ -222,4 +223,5 @@ menu
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

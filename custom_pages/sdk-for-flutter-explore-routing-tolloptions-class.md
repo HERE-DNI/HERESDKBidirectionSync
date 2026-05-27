@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "TollOptions class"
 slug: "sdk-for-flutter-explore-routing-tolloptions-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- TollOptions-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -28,8 +29,8 @@ slug: "sdk-for-flutter-explore-routing-tolloptions-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
 <li class="self-crumb">TollOptions class</li>
 </ol>
 <div class="self-name">TollOptions</div>
@@ -61,7 +62,7 @@ Not used for offline calculations.</p>
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="TollOptions">
-<a href="../routing/TollOptions/TollOptions.html">/sdk-for-flutter-explore-routing-tolloptions-tolloptions</a>()
+/sdk-for-flutter-explore-routing-tolloptions-tolloptions()
 </dt>
 <dd>
 </dd>
@@ -71,7 +72,7 @@ Not used for offline calculations.</p>
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="co2Class">
-<a href="../routing/TollOptions/co2Class.html">/sdk-for-flutter-explore-routing-tolloptions-co2class</a>
+/sdk-for-flutter-explore-routing-tolloptions-co2class
 ↔ int?
 </dt>
 <dd>
@@ -81,8 +82,8 @@ Allowed values for CO2 class are 1, 2, 3, 4, or 5, where a lower value generally
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="emissionType">
-<a href="../routing/TollOptions/emissionType.html">/sdk-for-flutter-explore-routing-tolloptions-emissiontype</a>
-↔ <a href="../routing/TollOptionsEmissionType.html">/sdk-for-flutter-explore-routing-tolloptionsemissiontype</a>?
+/sdk-for-flutter-explore-routing-tolloptions-emissiontype
+↔ /sdk-for-flutter-explore-routing-tolloptionsemissiontype?
 </dt>
 <dd>
   Defines the emission type as defined by the toll operator for toll calculation based on vehicle emissions class.
@@ -90,7 +91,7 @@ The emission type is based on the European emission standards (Euro 1 to Euro 6,
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-<a href="../routing/TollOptions/hashCode.html">/sdk-for-flutter-explore-routing-tolloptions-hashcode</a>
+/sdk-for-flutter-explore-routing-tolloptions-hashcode
 → int
 </dt>
 <dd>
@@ -98,7 +99,7 @@ The emission type is based on the European emission standards (Euro 1 to Euro 6,
   <div class="features">no setter</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../routing/TollOptions/runtimeType.html">/sdk-for-flutter-explore-routing-tolloptions-runtimetype</a>
+/sdk-for-flutter-explore-routing-tolloptions-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -106,7 +107,7 @@ The emission type is based on the European emission standards (Euro 1 to Euro 6,
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="transponders">
-<a href="../routing/TollOptions/transponders.html">/sdk-for-flutter-explore-routing-tolloptions-transponders</a>
+/sdk-for-flutter-explore-routing-tolloptions-transponders
 ↔ List&lt;<wbr/>String&gt;
 </dt>
 <dd>
@@ -115,8 +116,8 @@ Note: currently, the only valid value is "all". This means the user has a transp
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="vehicleCategory">
-<a href="../routing/TollOptions/vehicleCategory.html">/sdk-for-flutter-explore-routing-tolloptions-vehiclecategory</a>
-↔ <a href="../routing/TollOptionsVehicleCategory.html">/sdk-for-flutter-explore-routing-tolloptionsvehiclecategory</a>?
+/sdk-for-flutter-explore-routing-tolloptions-vehiclecategory
+↔ /sdk-for-flutter-explore-routing-tolloptionsvehiclecategory?
 </dt>
 <dd>
   Defines special vehicle category for toll calculation. Usual types like car or truck
@@ -129,7 +130,7 @@ are determined from transport mode.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../routing/TollOptions/noSuchMethod.html">/sdk-for-flutter-explore-routing-tolloptions-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-routing-tolloptions-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -138,7 +139,7 @@ are determined from transport mode.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../routing/TollOptions/toString.html">/sdk-for-flutter-explore-routing-tolloptions-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-routing-tolloptions-tostring(<wbr/>)
     → String
 
 </dt>
@@ -152,7 +153,7 @@ are determined from transport mode.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-<a href="../routing/TollOptions/operator_equals.html">/sdk-for-flutter-explore-routing-tolloptions-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-routing-tolloptions-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -171,8 +172,8 @@ are determined from transport mode.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
 <li class="self-crumb">TollOptions class</li>
 </ol>
 <h5>routing library</h5>
@@ -189,4 +190,5 @@ are determined from transport mode.
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

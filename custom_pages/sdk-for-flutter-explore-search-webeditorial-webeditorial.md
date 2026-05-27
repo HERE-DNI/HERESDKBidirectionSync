@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "WebEditorial constructor"
 slug: "sdk-for-flutter-explore-search-webeditorial-webeditorial"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- WebEditorial.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-search-webeditorial-webeditorial"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/WebEditorial-class.html">/sdk-for-flutter-explore-search-webeditorial-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-webeditorial-class</li>
 <li class="self-crumb">WebEditorial constructor</li>
 </ol>
 <div class="self-name">WebEditorial</div>
@@ -39,7 +40,7 @@ menu
 <section class="multi-line-signature">
 WebEditorial(<wbr/><ol class="parameter-list single-line"> <li>String description, </li>
 <li>String language, </li>
-<li><a href="../../search/WebSource-class.html">/sdk-for-flutter-explore-search-websource-class</a> source</li>
+<li>/sdk-for-flutter-explore-search-websource-class source</li>
 </ol>)
     </section>
 <section class="desc markdown">
@@ -62,9 +63,9 @@ WebEditorial(<wbr/><ol class="parameter-list single-line"> <li>String descriptio
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/WebEditorial-class.html">/sdk-for-flutter-explore-search-webeditorial-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-webeditorial-class</li>
 <li class="self-crumb">WebEditorial constructor</li>
 </ol>
 <h5>WebEditorial class</h5>
@@ -81,4 +82,5 @@ WebEditorial(<wbr/><ol class="parameter-list single-line"> <li>String descriptio
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "emptyWeightInKilograms property"
 slug: "sdk-for-flutter-explore-transport-vehiclespecification-emptyweightinkilograms"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- emptyWeightInKilograms.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-transport-vehiclespecification-emptyweightinkilog
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
-<li><a href="../../transport/VehicleSpecification-class.html">/sdk-for-flutter-explore-transport-vehiclespecification-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-transport-transport-library</li>
+<li>/sdk-for-flutter-explore-transport-vehiclespecification-class</li>
 <li class="self-crumb">emptyWeightInKilograms property</li>
 </ol>
 <div class="self-name">emptyWeightInKilograms</div>
@@ -46,8 +47,8 @@ menu
 <p>Empty weight of the vehicle without any load, excluding trailers, specified in kilograms.
 The provided value must be greater than or equal to 0.
 By default, it is not set.</p>
-<p><strong>Note:</strong> Supported in <a href="../../transport/TransportMode.html">/sdk-for-flutter-explore-transport-transportmode</a>, <a href="../../transport/TransportMode.html">/sdk-for-flutter-explore-transport-transportmode</a>, <a href="../../transport/TransportMode.html">/sdk-for-flutter-explore-transport-transportmode</a>,
-<a href="../../transport/TransportMode.html">/sdk-for-flutter-explore-transport-transportmode</a> (Beta), <a href="../../transport/TransportMode.html">/sdk-for-flutter-explore-transport-transportmode</a> (Beta) transport modes.</p>
+<p><strong>Note:</strong> Supported in /sdk-for-flutter-explore-transport-transportmode, /sdk-for-flutter-explore-transport-transportmode, /sdk-for-flutter-explore-transport-transportmode,
+/sdk-for-flutter-explore-transport-transportmode (Beta), /sdk-for-flutter-explore-transport-transportmode (Beta) transport modes.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -61,9 +62,9 @@ By default, it is not set.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
-<li><a href="../../transport/VehicleSpecification-class.html">/sdk-for-flutter-explore-transport-vehiclespecification-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-transport-transport-library</li>
+<li>/sdk-for-flutter-explore-transport-vehiclespecification-class</li>
 <li class="self-crumb">emptyWeightInKilograms property</li>
 </ol>
 <h5>VehicleSpecification class</h5>
@@ -80,4 +81,5 @@ By default, it is not set.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "disableLoggingToConsole static method"
 slug: "sdk-for-flutter-explore-core-engine-logcontrol-disableloggingtoconsole"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- disableLoggingToConsole.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-core-engine-logcontrol-disableloggingtoconsole"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
-<li><a href="../../core.engine/LogControl-class.html">/sdk-for-flutter-explore-core-engine-logcontrol-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
+<li>/sdk-for-flutter-explore-core-engine-logcontrol-class</li>
 <li class="self-crumb">disableLoggingToConsole static method</li>
 </ol>
 <div class="self-name">disableLoggingToConsole</div>
@@ -45,7 +46,7 @@ disableLoggingToConsole(<wbr/>)
     </section>
 <section class="desc markdown">
 <p>Disables SDK logging messages to console.</p>
-<p>Enabled by default with <a href="../../core.engine/LogLevel.html">/sdk-for-flutter-explore-core-engine-loglevel</a>.</p>
+<p>Enabled by default with /sdk-for-flutter-explore-core-engine-loglevel.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -59,9 +60,9 @@ disableLoggingToConsole(<wbr/>)
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
-<li><a href="../../core.engine/LogControl-class.html">/sdk-for-flutter-explore-core-engine-logcontrol-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
+<li>/sdk-for-flutter-explore-core-engine-logcontrol-class</li>
 <li class="self-crumb">disableLoggingToConsole static method</li>
 </ol>
 <h5>LogControl class</h5>
@@ -78,4 +79,5 @@ disableLoggingToConsole(<wbr/>)
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

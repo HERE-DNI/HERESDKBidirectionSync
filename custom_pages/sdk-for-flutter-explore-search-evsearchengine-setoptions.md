@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "setOptions abstract method"
 slug: "sdk-for-flutter-explore-search-evsearchengine-setoptions"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- setOptions.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-search-evsearchengine-setoptions"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/EVSearchEngine-class.html">/sdk-for-flutter-explore-search-evsearchengine-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-evsearchengine-class</li>
 <li class="self-crumb">setOptions abstract method</li>
 </ol>
 <div class="self-name">setOptions</div>
@@ -38,7 +39,7 @@ menu
 <h1>setOptions abstract method</h1></div>
 <section class="multi-line-signature">
 void
-setOptions(<wbr/><ol class="parameter-list single-line"> <li><a href="../../search/EVSearchOptions-class.html">/sdk-for-flutter-explore-search-evsearchoptions-class</a> options</li>
+setOptions(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-search-evsearchoptions-class options</li>
 </ol>)
 
       
@@ -62,9 +63,9 @@ setOptions(<wbr/><ol class="parameter-list single-line"> <li><a href="../../sear
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/EVSearchEngine-class.html">/sdk-for-flutter-explore-search-evsearchengine-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-evsearchengine-class</li>
 <li class="self-crumb">setOptions abstract method</li>
 </ol>
 <h5>EVSearchEngine class</h5>
@@ -81,4 +82,5 @@ setOptions(<wbr/><ol class="parameter-list single-line"> <li><a href="../../sear
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

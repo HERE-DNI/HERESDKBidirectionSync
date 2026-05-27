@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "WidgetPin class abstract"
 slug: "sdk-for-flutter-explore-mapview-widgetpin-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- WidgetPin-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -30,8 +31,8 @@ slug: "sdk-for-flutter-explore-mapview-widgetpin-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
 <li class="self-crumb">WidgetPin class</li>
 </ol>
 <div class="self-name">WidgetPin</div>
@@ -57,24 +58,24 @@ menu
 <section class="desc markdown">
 <p>Controller for a <code>Widget</code> pinned at a fixed geographical location on the map.</p>
 <p>A pinned Widget tracks the geographical location as the map is being
-manipulated. It behaves like a <a href="../mapview/MapMarker-class.html">/sdk-for-flutter-explore-mapview-mapmarker-class</a>, only it's a regular
+manipulated. It behaves like a /sdk-for-flutter-explore-mapview-mapmarker-class, only it's a regular
 Flutter Widget and is not part of normal map rendering.</p>
 <p>WidgetPin allows modifying the geographical location of the pinned Widget
 as well as its placement relative to it.</p>
-<p>Use <a href="../mapview/HereMapController/pinWidget.html">/sdk-for-flutter-explore-mapview-heremapcontroller-pinwidget</a> to pin (add) a <code>Widget</code> to a map and obtain
-in instance of <a href="../mapview/WidgetPin-class.html">/sdk-for-flutter-explore-mapview-widgetpin-class</a> that controls it.</p>
-<p>To unpin (remove) a Widget from the map, use <a href="../mapview/HereMapController/unpinWidget.html">/sdk-for-flutter-explore-mapview-heremapcontroller-unpinwidget</a>.
-or <a href="../mapview/WidgetPin/unpin.html">/sdk-for-flutter-explore-mapview-widgetpin-unpin</a>.</p>
+<p>Use /sdk-for-flutter-explore-mapview-heremapcontroller-pinwidget to pin (add) a <code>Widget</code> to a map and obtain
+in instance of /sdk-for-flutter-explore-mapview-widgetpin-class that controls it.</p>
+<p>To unpin (remove) a Widget from the map, use /sdk-for-flutter-explore-mapview-heremapcontroller-unpinwidget.
+or /sdk-for-flutter-explore-mapview-widgetpin-unpin.</p>
 </section>
 <section class="summary offset-anchor" id="constructors">
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="WidgetPin">
-<a href="../mapview/WidgetPin/WidgetPin.html">/sdk-for-flutter-explore-mapview-widgetpin-widgetpin</a>({required Widget child, required <a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a> coordinates, <a href="../core/Anchor2D-class.html">/sdk-for-flutter-explore-core-anchor2d-class</a>? anchor, dynamic onChange()?, dynamic onUnpin(<a href="../mapview/WidgetPin-class.html">/sdk-for-flutter-explore-mapview-widgetpin-class</a>)?})
+/sdk-for-flutter-explore-mapview-widgetpin-widgetpin({required Widget child, required /sdk-for-flutter-explore-core-geocoordinates-class coordinates, /sdk-for-flutter-explore-core-anchor2d-class? anchor, dynamic onChange()?, dynamic onUnpin(/sdk-for-flutter-explore-mapview-widgetpin-class)?})
 </dt>
 <dd>
-          Creates a <a href="../mapview/WidgetPin-class.html">/sdk-for-flutter-explore-mapview-widgetpin-class</a> displaying child <code>Widget</code> at coordinates location on the map
-Don't use this constructor directly. Instead use <a href="../mapview/HereMapController/pinWidget.html">/sdk-for-flutter-explore-mapview-heremapcontroller-pinwidget</a> to create a <a href="../mapview/WidgetPin-class.html">/sdk-for-flutter-explore-mapview-widgetpin-class</a>.
+          Creates a /sdk-for-flutter-explore-mapview-widgetpin-class displaying child <code>Widget</code> at coordinates location on the map
+Don't use this constructor directly. Instead use /sdk-for-flutter-explore-mapview-heremapcontroller-pinwidget to create a /sdk-for-flutter-explore-mapview-widgetpin-class.
             <div class="constructor-modifier features">factory</div>
 </dd>
 </dl>
@@ -83,31 +84,31 @@ Don't use this constructor directly. Instead use <a href="../mapview/HereMapCont
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="anchor">
-<a href="../mapview/WidgetPin/anchor.html">/sdk-for-flutter-explore-mapview-widgetpin-anchor</a>
-↔ <a href="../core/Anchor2D-class.html">/sdk-for-flutter-explore-core-anchor2d-class</a>
+/sdk-for-flutter-explore-mapview-widgetpin-anchor
+↔ /sdk-for-flutter-explore-core-anchor2d-class
 </dt>
 <dd>
   Gets pinned <code>Widget</code>'s placement relative to geographical location,
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="child">
-<a href="../mapview/WidgetPin/child.html">/sdk-for-flutter-explore-mapview-widgetpin-child</a>
+/sdk-for-flutter-explore-mapview-widgetpin-child
 → Widget
 </dt>
 <dd>
-  The pinned Widget controlled by this <a href="../mapview/WidgetPin-class.html">/sdk-for-flutter-explore-mapview-widgetpin-class</a>.
+  The pinned Widget controlled by this /sdk-for-flutter-explore-mapview-widgetpin-class.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="coordinates">
-<a href="../mapview/WidgetPin/coordinates.html">/sdk-for-flutter-explore-mapview-widgetpin-coordinates</a>
-↔ <a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>
+/sdk-for-flutter-explore-mapview-widgetpin-coordinates
+↔ /sdk-for-flutter-explore-core-geocoordinates-class
 </dt>
 <dd>
-  Gets geographical location of the <a href="../mapview/WidgetPin-class.html">/sdk-for-flutter-explore-mapview-widgetpin-class</a>.
+  Gets geographical location of the /sdk-for-flutter-explore-mapview-widgetpin-class.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="hashCode">
-<a href="../mapview/WidgetPin/hashCode.html">/sdk-for-flutter-explore-mapview-widgetpin-hashcode</a>
+/sdk-for-flutter-explore-mapview-widgetpin-hashcode
 → int
 </dt>
 <dd class="inherited">
@@ -115,7 +116,7 @@ Don't use this constructor directly. Instead use <a href="../mapview/HereMapCont
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../mapview/WidgetPin/runtimeType.html">/sdk-for-flutter-explore-mapview-widgetpin-runtimetype</a>
+/sdk-for-flutter-explore-mapview-widgetpin-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -128,17 +129,17 @@ Don't use this constructor directly. Instead use <a href="../mapview/HereMapCont
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable" id="makeWidget">
-<a href="../mapview/WidgetPin/makeWidget.html">/sdk-for-flutter-explore-mapview-widgetpin-makewidget</a>(<wbr/>BuildContext context)
+/sdk-for-flutter-explore-mapview-widgetpin-makewidget(<wbr/>BuildContext context)
     → Widget
 
 </dt>
 <dd>
-  Creates a widget for this <a href="../mapview/WidgetPin-class.html">/sdk-for-flutter-explore-mapview-widgetpin-class</a>.
+  Creates a widget for this /sdk-for-flutter-explore-mapview-widgetpin-class.
   
 
 </dd>
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../mapview/WidgetPin/noSuchMethod.html">/sdk-for-flutter-explore-mapview-widgetpin-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-mapview-widgetpin-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -147,7 +148,7 @@ Don't use this constructor directly. Instead use <a href="../mapview/HereMapCont
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../mapview/WidgetPin/toString.html">/sdk-for-flutter-explore-mapview-widgetpin-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-mapview-widgetpin-tostring(<wbr/>)
     → String
 
 </dt>
@@ -156,17 +157,17 @@ Don't use this constructor directly. Instead use <a href="../mapview/HereMapCont
   <div class="features">inherited</div>
 </dd>
 <dt class="callable" id="unpin">
-<a href="../mapview/WidgetPin/unpin.html">/sdk-for-flutter-explore-mapview-widgetpin-unpin</a>(<wbr/>)
+/sdk-for-flutter-explore-mapview-widgetpin-unpin(<wbr/>)
     → dynamic
 
 </dt>
 <dd>
-  Removes this <a href="../mapview/WidgetPin-class.html">/sdk-for-flutter-explore-mapview-widgetpin-class</a> from the map.
+  Removes this /sdk-for-flutter-explore-mapview-widgetpin-class from the map.
   
 
 </dd>
 <dt class="callable" id="updateScreenPosition">
-<a href="../mapview/WidgetPin/updateScreenPosition.html">/sdk-for-flutter-explore-mapview-widgetpin-updatescreenposition</a>(<wbr/><a href="../core/Point2D-class.html">/sdk-for-flutter-explore-core-point2d-class</a>? screenPosition)
+/sdk-for-flutter-explore-mapview-widgetpin-updatescreenposition(<wbr/>/sdk-for-flutter-explore-core-point2d-class? screenPosition)
     → dynamic
 
 </dt>
@@ -178,7 +179,7 @@ Don't use this constructor directly. Instead use <a href="../mapview/HereMapCont
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-<a href="../mapview/WidgetPin/operator_equals.html">/sdk-for-flutter-explore-mapview-widgetpin-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-mapview-widgetpin-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -196,8 +197,8 @@ Don't use this constructor directly. Instead use <a href="../mapview/HereMapCont
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
 <li class="self-crumb">WidgetPin class</li>
 </ol>
 <h5>mapview library</h5>
@@ -214,4 +215,5 @@ Don't use this constructor directly. Instead use <a href="../mapview/HereMapCont
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

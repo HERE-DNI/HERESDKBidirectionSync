@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "MapItemKeyFrameTrack class abstract"
 slug: "sdk-for-flutter-explore-animation-mapitemkeyframetrack-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- MapItemKeyFrameTrack-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -27,8 +28,8 @@ slug: "sdk-for-flutter-explore-animation-mapitemkeyframetrack-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../animation/animation-library.html">/sdk-for-flutter-explore-animation-animation-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-animation-animation-library</li>
 <li class="self-crumb">MapItemKeyFrameTrack class</li>
 </ol>
 <div class="self-name">MapItemKeyFrameTrack</div>
@@ -55,13 +56,13 @@ menu
 <p>Stores keyframes for interpolation of a map item property using a specific
 easing function and interpolation mode.</p>
 <p>The keyframe track object is used to create animations,
-see <a href="../animation/MapMarkerAnimation-class.html">/sdk-for-flutter-explore-animation-mapmarkeranimation-class</a> and <a href="../animation/MapPolylineAnimation-class.html">/sdk-for-flutter-explore-animation-mappolylineanimation-class</a>.</p>
+see /sdk-for-flutter-explore-animation-mapmarkeranimation-class and /sdk-for-flutter-explore-animation-mappolylineanimation-class.</p>
 </section>
 <section class="summary offset-anchor" id="constructors">
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="MapItemKeyFrameTrack">
-<a href="../animation/MapItemKeyFrameTrack/MapItemKeyFrameTrack.html">/sdk-for-flutter-explore-animation-mapitemkeyframetrack-mapitemkeyframetrack</a>()
+/sdk-for-flutter-explore-animation-mapitemkeyframetrack-mapitemkeyframetrack()
 </dt>
 <dd>
 </dd>
@@ -71,7 +72,7 @@ see <a href="../animation/MapMarkerAnimation-class.html">/sdk-for-flutter-explor
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="hashCode">
-<a href="../animation/MapItemKeyFrameTrack/hashCode.html">/sdk-for-flutter-explore-animation-mapitemkeyframetrack-hashcode</a>
+/sdk-for-flutter-explore-animation-mapitemkeyframetrack-hashcode
 → int
 </dt>
 <dd class="inherited">
@@ -79,7 +80,7 @@ see <a href="../animation/MapMarkerAnimation-class.html">/sdk-for-flutter-explor
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../animation/MapItemKeyFrameTrack/runtimeType.html">/sdk-for-flutter-explore-animation-mapitemkeyframetrack-runtimetype</a>
+/sdk-for-flutter-explore-animation-mapitemkeyframetrack-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -92,7 +93,7 @@ see <a href="../animation/MapMarkerAnimation-class.html">/sdk-for-flutter-explor
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../animation/MapItemKeyFrameTrack/noSuchMethod.html">/sdk-for-flutter-explore-animation-mapitemkeyframetrack-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-animation-mapitemkeyframetrack-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -101,7 +102,7 @@ see <a href="../animation/MapMarkerAnimation-class.html">/sdk-for-flutter-explor
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../animation/MapItemKeyFrameTrack/toString.html">/sdk-for-flutter-explore-animation-mapitemkeyframetrack-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-animation-mapitemkeyframetrack-tostring(<wbr/>)
     → String
 
 </dt>
@@ -115,7 +116,7 @@ see <a href="../animation/MapMarkerAnimation-class.html">/sdk-for-flutter-explor
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-<a href="../animation/MapItemKeyFrameTrack/operator_equals.html">/sdk-for-flutter-explore-animation-mapitemkeyframetrack-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-animation-mapitemkeyframetrack-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -129,8 +130,9 @@ see <a href="../animation/MapMarkerAnimation-class.html">/sdk-for-flutter-explor
 <h2>Static Methods</h2>
 <dl class="callables">
 <dt class="callable" id="moveToWithEasing">
-<a href="../animation/MapItemKeyFrameTrack/moveToWithEasing.html">/sdk-for-flutter-explore-animation-mapitemkeyframetrack-movetowitheasing</a>(<wbr/>List&lt;<wbr/><a href="../animation/GeoCoordinatesKeyframe-class.html">/sdk-for-flutter-explore-animation-geocoordinateskeyframe-class</a>&gt; keyframes, <a href="../animation/Easing-class.html">/sdk-for-flutter-explore-animation-easing-class</a> easing, <a href="../animation/KeyframeInterpolationMode.html">/sdk-for-flutter-explore-animation-keyframeinterpolationmode</a> interpolationMode)
-    → <a href="../animation/MapItemKeyFrameTrack-class.html">/sdk-for-flutter-explore-animation-mapitemkeyframetrack-class</a>
+/sdk-for-flutter-explore-animation-mapitemkeyframetrack-movetowitheasing(<wbr/>List&lt;<wbr/>/sdk-for-flutter-explore-animation-geocoordinateskeyframe-class&gt; keyframes, /sdk-for-flutter-explore-animation-easing-class easing, /sdk-for-flutter-explore-animation-keyframeinterpolationmode interpolationMode)
+    → /sdk-for-flutter-explore-animation-mapitemkeyframetrack-class
+
 </dt>
 <dd>
   Creates a map item position keyframe track.
@@ -138,8 +140,9 @@ see <a href="../animation/MapMarkerAnimation-class.html">/sdk-for-flutter-explor
 
 </dd>
 <dt class="callable" id="polylineProgressWithEasing">
-<a href="../animation/MapItemKeyFrameTrack/polylineProgressWithEasing.html">/sdk-for-flutter-explore-animation-mapitemkeyframetrack-polylineprogresswitheasing</a>(<wbr/>List&lt;<wbr/><a href="../animation/ScalarKeyframe-class.html">/sdk-for-flutter-explore-animation-scalarkeyframe-class</a>&gt; keyframes, <a href="../animation/Easing-class.html">/sdk-for-flutter-explore-animation-easing-class</a> easing, <a href="../animation/KeyframeInterpolationMode.html">/sdk-for-flutter-explore-animation-keyframeinterpolationmode</a> interpolationMode)
-    → <a href="../animation/MapItemKeyFrameTrack-class.html">/sdk-for-flutter-explore-animation-mapitemkeyframetrack-class</a>
+/sdk-for-flutter-explore-animation-mapitemkeyframetrack-polylineprogresswitheasing(<wbr/>List&lt;<wbr/>/sdk-for-flutter-explore-animation-scalarkeyframe-class&gt; keyframes, /sdk-for-flutter-explore-animation-easing-class easing, /sdk-for-flutter-explore-animation-keyframeinterpolationmode interpolationMode)
+    → /sdk-for-flutter-explore-animation-mapitemkeyframetrack-class
+
 </dt>
 <dd>
   Creates a keyframe track used to animate the progress of a polyline.
@@ -156,8 +159,8 @@ see <a href="../animation/MapMarkerAnimation-class.html">/sdk-for-flutter-explor
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../animation/animation-library.html">/sdk-for-flutter-explore-animation-animation-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-animation-animation-library</li>
 <li class="self-crumb">MapItemKeyFrameTrack class</li>
 </ol>
 <h5>animation library</h5>
@@ -174,4 +177,5 @@ see <a href="../animation/MapMarkerAnimation-class.html">/sdk-for-flutter-explor
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

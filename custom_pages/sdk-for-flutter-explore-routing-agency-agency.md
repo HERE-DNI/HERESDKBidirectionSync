@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "Agency constructor"
 slug: "sdk-for-flutter-explore-routing-agency-agency"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- Agency.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-routing-agency-agency"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/Agency-class.html">/sdk-for-flutter-explore-routing-agency-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-agency-class</li>
 <li class="self-crumb">Agency constructor</li>
 </ol>
 <div class="self-name">Agency</div>
@@ -54,9 +55,9 @@ Agency(<wbr/><ol class="parameter-list single-line"> <li>String id, </li>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/Agency-class.html">/sdk-for-flutter-explore-routing-agency-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-agency-class</li>
 <li class="self-crumb">Agency constructor</li>
 </ol>
 <h5>Agency class</h5>
@@ -73,4 +74,5 @@ Agency(<wbr/><ol class="parameter-list single-line"> <li>String id, </li>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

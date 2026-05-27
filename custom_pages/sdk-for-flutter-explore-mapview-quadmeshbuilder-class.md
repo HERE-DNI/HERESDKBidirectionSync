@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "QuadMeshBuilder class abstract"
 slug: "sdk-for-flutter-explore-mapview-quadmeshbuilder-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- QuadMeshBuilder-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -28,8 +29,8 @@ slug: "sdk-for-flutter-explore-mapview-quadmeshbuilder-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
 <li class="self-crumb">QuadMeshBuilder class</li>
 </ol>
 <div class="self-name">QuadMeshBuilder</div>
@@ -60,7 +61,7 @@ menu
 <dt>Implemented types</dt>
 <dd>
 <ul class="comma-separated clazz-relationships">
-<li><a href="../mapview/MeshBuilder-class.html">/sdk-for-flutter-explore-mapview-meshbuilder-class</a></li>
+<li>/sdk-for-flutter-explore-mapview-meshbuilder-class</li>
 </ul>
 </dd>
 </dl>
@@ -69,7 +70,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="QuadMeshBuilder">
-<a href="../mapview/QuadMeshBuilder/QuadMeshBuilder.html">/sdk-for-flutter-explore-mapview-quadmeshbuilder-quadmeshbuilder</a>()
+/sdk-for-flutter-explore-mapview-quadmeshbuilder-quadmeshbuilder()
 </dt>
 <dd>
 </dd>
@@ -79,7 +80,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="hashCode">
-<a href="../mapview/MeshBuilder/hashCode.html">/sdk-for-flutter-explore-mapview-meshbuilder-hashcode</a>
+/sdk-for-flutter-explore-mapview-meshbuilder-hashcode
 → int
 </dt>
 <dd class="inherited">
@@ -87,7 +88,7 @@ menu
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../mapview/MeshBuilder/runtimeType.html">/sdk-for-flutter-explore-mapview-meshbuilder-runtimetype</a>
+/sdk-for-flutter-explore-mapview-meshbuilder-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -100,16 +101,16 @@ menu
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="build">
-<a href="../mapview/MeshBuilder/build.html">/sdk-for-flutter-explore-mapview-meshbuilder-build</a>(<wbr/>)
-    → <a href="../mapview/Mesh-class.html">/sdk-for-flutter-explore-mapview-mesh-class</a>?
+/sdk-for-flutter-explore-mapview-meshbuilder-build(<wbr/>)
+    → /sdk-for-flutter-explore-mapview-mesh-class?
 
 </dt>
 <dd class="inherited">
-  Returns <a href="../mapview/Mesh-class.html">/sdk-for-flutter-explore-mapview-mesh-class</a>. mesh containing added geometry or 'null' if no geometry was added.
+  Returns /sdk-for-flutter-explore-mapview-mesh-class. mesh containing added geometry or 'null' if no geometry was added.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../mapview/MeshBuilder/noSuchMethod.html">/sdk-for-flutter-explore-mapview-meshbuilder-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-mapview-meshbuilder-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -118,15 +119,16 @@ menu
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="quad">
-<a href="../mapview/MeshBuilder/quad.html">/sdk-for-flutter-explore-mapview-meshbuilder-quad</a>(<wbr/><a href="../core/Point3D-class.html">/sdk-for-flutter-explore-core-point3d-class</a> a, <a href="../core/Point3D-class.html">/sdk-for-flutter-explore-core-point3d-class</a> b, <a href="../core/Point3D-class.html">/sdk-for-flutter-explore-core-point3d-class</a> c, <a href="../core/Point3D-class.html">/sdk-for-flutter-explore-core-point3d-class</a> d)
-    → <a href="../mapview/QuadMeshBuilder-class.html">/sdk-for-flutter-explore-mapview-quadmeshbuilder-class</a>
+/sdk-for-flutter-explore-mapview-meshbuilder-quad(<wbr/>/sdk-for-flutter-explore-core-point3d-class a, /sdk-for-flutter-explore-core-point3d-class b, /sdk-for-flutter-explore-core-point3d-class c, /sdk-for-flutter-explore-core-point3d-class d)
+    → /sdk-for-flutter-explore-mapview-quadmeshbuilder-class
+
 </dt>
 <dd class="inherited">
   Adds a quad.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../mapview/MeshBuilder/toString.html">/sdk-for-flutter-explore-mapview-meshbuilder-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-mapview-meshbuilder-tostring(<wbr/>)
     → String
 
 </dt>
@@ -135,16 +137,18 @@ menu
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="triangle">
-<a href="../mapview/MeshBuilder/triangle.html">/sdk-for-flutter-explore-mapview-meshbuilder-triangle</a>(<wbr/><a href="../core/Point3D-class.html">/sdk-for-flutter-explore-core-point3d-class</a> a, <a href="../core/Point3D-class.html">/sdk-for-flutter-explore-core-point3d-class</a> b, <a href="../core/Point3D-class.html">/sdk-for-flutter-explore-core-point3d-class</a> c)
-    → <a href="../mapview/TriangleMeshBuilder-class.html">/sdk-for-flutter-explore-mapview-trianglemeshbuilder-class</a>
+/sdk-for-flutter-explore-mapview-meshbuilder-triangle(<wbr/>/sdk-for-flutter-explore-core-point3d-class a, /sdk-for-flutter-explore-core-point3d-class b, /sdk-for-flutter-explore-core-point3d-class c)
+    → /sdk-for-flutter-explore-mapview-trianglemeshbuilder-class
+
 </dt>
 <dd class="inherited">
   Adds a triangle.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable" id="withTextureCoordinates">
-<a href="../mapview/QuadMeshBuilder/withTextureCoordinates.html">/sdk-for-flutter-explore-mapview-quadmeshbuilder-withtexturecoordinates</a>(<wbr/><a href="../core/Anchor2D-class.html">/sdk-for-flutter-explore-core-anchor2d-class</a> a, <a href="../core/Anchor2D-class.html">/sdk-for-flutter-explore-core-anchor2d-class</a> b, <a href="../core/Anchor2D-class.html">/sdk-for-flutter-explore-core-anchor2d-class</a> c, <a href="../core/Anchor2D-class.html">/sdk-for-flutter-explore-core-anchor2d-class</a> d)
-    → <a href="../mapview/MeshBuilder-class.html">/sdk-for-flutter-explore-mapview-meshbuilder-class</a>
+/sdk-for-flutter-explore-mapview-quadmeshbuilder-withtexturecoordinates(<wbr/>/sdk-for-flutter-explore-core-anchor2d-class a, /sdk-for-flutter-explore-core-anchor2d-class b, /sdk-for-flutter-explore-core-anchor2d-class c, /sdk-for-flutter-explore-core-anchor2d-class d)
+    → /sdk-for-flutter-explore-mapview-meshbuilder-class
+
 </dt>
 <dd>
   Adds texture coordinates to a quad.
@@ -157,7 +161,7 @@ menu
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-<a href="../mapview/MeshBuilder/operator_equals.html">/sdk-for-flutter-explore-mapview-meshbuilder-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-mapview-meshbuilder-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -175,8 +179,8 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
 <li class="self-crumb">QuadMeshBuilder class</li>
 </ol>
 <h5>mapview library</h5>
@@ -193,4 +197,5 @@ menu
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "forMap abstract method"
 slug: "sdk-for-flutter-explore-mapview-maplayerbuilder-formap"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- forMap.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-maplayerbuilder-formap"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapLayerBuilder-class.html">/sdk-for-flutter-explore-mapview-maplayerbuilder-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-maplayerbuilder-class</li>
 <li class="self-crumb">forMap abstract method</li>
 </ol>
 <div class="self-name">forMap</div>
@@ -37,8 +38,8 @@ menu
 <div>
 <h1>forMap abstract method</h1></div>
 <section class="multi-line-signature">
-<a href="../../mapview/MapLayerBuilder-class.html">/sdk-for-flutter-explore-mapview-maplayerbuilder-class</a>
-forMap(<wbr/><ol class="parameter-list single-line"> <li><a href="../../mapview/HereMapControllerCore-class.html">/sdk-for-flutter-explore-mapview-heremapcontrollercore-class</a> targetMap</li>
+/sdk-for-flutter-explore-mapview-maplayerbuilder-class
+forMap(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-mapview-heremapcontrollercore-class targetMap</li>
 </ol>)
 
       
@@ -50,7 +51,7 @@ forMap(<wbr/><ol class="parameter-list single-line"> <li><a href="../../mapview/
 <ul>
 <li><code>targetMap</code> The map.</li>
 </ul>
-<p>Returns <a href="../../mapview/MapLayerBuilder-class.html">/sdk-for-flutter-explore-mapview-maplayerbuilder-class</a>. This class instance.</p>
+<p>Returns /sdk-for-flutter-explore-mapview-maplayerbuilder-class. This class instance.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -64,9 +65,9 @@ forMap(<wbr/><ol class="parameter-list single-line"> <li><a href="../../mapview/
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapLayerBuilder-class.html">/sdk-for-flutter-explore-mapview-maplayerbuilder-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-maplayerbuilder-class</li>
 <li class="self-crumb">forMap abstract method</li>
 </ol>
 <h5>MapLayerBuilder class</h5>
@@ -83,4 +84,5 @@ forMap(<wbr/><ol class="parameter-list single-line"> <li><a href="../../mapview/
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

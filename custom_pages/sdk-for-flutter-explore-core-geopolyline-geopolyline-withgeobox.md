@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "GeoPolyline.withGeoBox constructor"
 slug: "sdk-for-flutter-explore-core-geopolyline-geopolyline-withgeobox"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- GeoPolyline.withGeoBox.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-core-geopolyline-geopolyline-withgeobox"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
-<li><a href="../../core/GeoPolyline-class.html">/sdk-for-flutter-explore-core-geopolyline-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
+<li>/sdk-for-flutter-explore-core-geopolyline-class</li>
 <li class="self-crumb">GeoPolyline.withGeoBox factory constructor</li>
 </ol>
 <div class="self-name">GeoPolyline.withGeoBox</div>
@@ -37,14 +38,14 @@ menu
 <div>
 <h1>GeoPolyline.withGeoBox constructor</h1></div>
 <section class="multi-line-signature">
-GeoPolyline.withGeoBox(<wbr/><ol class="parameter-list single-line"> <li><a href="../../core/GeoBox-class.html">/sdk-for-flutter-explore-core-geobox-class</a> geoBox</li>
+GeoPolyline.withGeoBox(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-core-geobox-class geoBox</li>
 </ol>)
     </section>
 <section class="desc markdown">
-<p>Constructs an instance of this class from <a href="../../core/GeoBox-class.html">/sdk-for-flutter-explore-core-geobox-class</a>.</p>
+<p>Constructs an instance of this class from /sdk-for-flutter-explore-core-geobox-class.</p>
 <ul>
-<li><code>geoBox</code> A rectangle defined by the <a href="../../core/GeoBox-class.html">/sdk-for-flutter-explore-core-geobox-class</a> to be converted into <a href="../../core/GeoPolyline-class.html">/sdk-for-flutter-explore-core-geopolyline-class</a>.
-The corner coordinates of the <a href="../../core/GeoBox-class.html">/sdk-for-flutter-explore-core-geobox-class</a> will define the points of the resulting <a href="../../core/GeoPolyline-class.html">/sdk-for-flutter-explore-core-geopolyline-class</a>.</li>
+<li><code>geoBox</code> A rectangle defined by the /sdk-for-flutter-explore-core-geobox-class to be converted into /sdk-for-flutter-explore-core-geopolyline-class.
+The corner coordinates of the /sdk-for-flutter-explore-core-geobox-class will define the points of the resulting /sdk-for-flutter-explore-core-geopolyline-class.</li>
 </ul>
 </section>
 <section class="summary source-code" id="source">
@@ -59,9 +60,9 @@ The corner coordinates of the <a href="../../core/GeoBox-class.html">/sdk-for-fl
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
-<li><a href="../../core/GeoPolyline-class.html">/sdk-for-flutter-explore-core-geopolyline-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
+<li>/sdk-for-flutter-explore-core-geopolyline-class</li>
 <li class="self-crumb">GeoPolyline.withGeoBox factory constructor</li>
 </ol>
 <h5>GeoPolyline class</h5>
@@ -78,4 +79,5 @@ The corner coordinates of the <a href="../../core/GeoBox-class.html">/sdk-for-fl
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

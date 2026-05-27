@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "MapPolyline.withRepresentation constructor"
 slug: "sdk-for-flutter-explore-mapview-mappolyline-mappolyline-withrepresentation"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- MapPolyline.withRepresentation.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-mappolyline-mappolyline-withrepresentatio
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapPolyline-class.html">/sdk-for-flutter-explore-mapview-mappolyline-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mappolyline-class</li>
 <li class="self-crumb">MapPolyline.withRepresentation factory constructor</li>
 </ol>
 <div class="self-name">MapPolyline.withRepresentation</div>
@@ -37,8 +38,8 @@ menu
 <div>
 <h1>MapPolyline.withRepresentation constructor</h1></div>
 <section class="multi-line-signature">
-MapPolyline.withRepresentation(<wbr/><ol class="parameter-list single-line"> <li><a href="../../core/GeoPolyline-class.html">/sdk-for-flutter-explore-core-geopolyline-class</a> geometry, </li>
-<li><a href="../../mapview/MapPolylineRepresentation-class.html">/sdk-for-flutter-explore-mapview-mappolylinerepresentation-class</a> representation</li>
+MapPolyline.withRepresentation(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-core-geopolyline-class geometry, </li>
+<li>/sdk-for-flutter-explore-mapview-mappolylinerepresentation-class representation</li>
 </ol>)
     </section>
 <section class="desc markdown">
@@ -46,7 +47,7 @@ MapPolyline.withRepresentation(<wbr/><ol class="parameter-list single-line"> <li
 <p>Altitude component of <code>GeoPolyline</code>'s vertices is ignored.</p>
 <p>After creating a <code>MapPolyline</code> with this representation, the deprecated <code>MapPolyline</code>
 properties do not work and any change to them will be ignored. Any modifications to polyline's
-appearance must be done with <a href="../../mapview/MapPolyline/setRepresentation.html">/sdk-for-flutter-explore-mapview-mappolyline-setrepresentation</a>.</p>
+appearance must be done with /sdk-for-flutter-explore-mapview-mappolyline-setrepresentation.</p>
 <ul>
 <li>
 <p><code>geometry</code> The list of vertices representing the polyline.</p>
@@ -68,9 +69,9 @@ appearance must be done with <a href="../../mapview/MapPolyline/setRepresentatio
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapPolyline-class.html">/sdk-for-flutter-explore-mapview-mappolyline-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mappolyline-class</li>
 <li class="self-crumb">MapPolyline.withRepresentation factory constructor</li>
 </ol>
 <h5>MapPolyline class</h5>
@@ -87,4 +88,5 @@ appearance must be done with <a href="../../mapview/MapPolyline/setRepresentatio
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

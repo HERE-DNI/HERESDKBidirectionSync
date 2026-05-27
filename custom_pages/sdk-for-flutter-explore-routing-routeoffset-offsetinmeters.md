@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "offsetInMeters property"
 slug: "sdk-for-flutter-explore-routing-routeoffset-offsetinmeters"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- offsetInMeters.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-routing-routeoffset-offsetinmeters"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/RouteOffset-class.html">/sdk-for-flutter-explore-routing-routeoffset-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-routeoffset-class</li>
 <li class="self-crumb">offsetInMeters property</li>
 </ol>
 <div class="self-name">offsetInMeters</div>
@@ -43,7 +44,7 @@ menu
 <div class="features">getter/setter pair</div>
 </section>
 <section class="desc markdown">
-<p>Offset from the start of the indexed <a href="../../routing/Section-class.html">/sdk-for-flutter-explore-routing-section-class</a> to the specified location along the route.
+<p>Offset from the start of the indexed /sdk-for-flutter-explore-routing-section-class to the specified location along the route.
 The maximum possible offset is limited by the length of the section and cannot exceed it.</p>
 </section>
 <section class="summary source-code" id="source">
@@ -58,9 +59,9 @@ The maximum possible offset is limited by the length of the section and cannot e
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/RouteOffset-class.html">/sdk-for-flutter-explore-routing-routeoffset-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-routeoffset-class</li>
 <li class="self-crumb">offsetInMeters property</li>
 </ol>
 <h5>RouteOffset class</h5>
@@ -77,4 +78,5 @@ The maximum possible offset is limited by the length of the section and cannot e
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

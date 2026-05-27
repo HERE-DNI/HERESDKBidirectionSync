@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "CarSpecifications class"
 slug: "sdk-for-flutter-explore-transport-carspecifications-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- CarSpecifications-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -32,8 +33,8 @@ slug: "sdk-for-flutter-explore-transport-carspecifications-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-transport-transport-library</li>
 <li class="self-crumb">CarSpecifications class</li>
 </ol>
 <div class="self-name">CarSpecifications</div>
@@ -66,7 +67,7 @@ Only the fields that are set are considered for restriction handling.</p>
 <dt>Annotations</dt>
 <dd>
 <ul class="annotation-list clazz-relationships">
-<li>@Deprecated("Will be removed in v4.28.0. Use `TransportSpecification` instead.")</li>
+<li>@Deprecated("Will be removed in v4.28.0. Use <code>TransportSpecification</code> instead.")</li>
 </ul>
 </dd>
 </dl>
@@ -75,13 +76,13 @@ Only the fields that are set are considered for restriction handling.</p>
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="CarSpecifications">
-<a href="../transport/CarSpecifications/CarSpecifications.html">/sdk-for-flutter-explore-transport-carspecifications-carspecifications</a>([int? grossWeightInKilograms = null, int? heightInCentimeters = null, int? widthInCentimeters = null, int? lengthInCentimeters = null, int? axleCount = null, int? trailerCount = null, int? trailerAxleCount = null])
+/sdk-for-flutter-explore-transport-carspecifications-carspecifications([int? grossWeightInKilograms = null, int? heightInCentimeters = null, int? widthInCentimeters = null, int? lengthInCentimeters = null, int? axleCount = null, int? trailerCount = null, int? trailerAxleCount = null])
 </dt>
 <dd>
           Creates a new instance.
         </dd>
 <dt class="callable" id="CarSpecifications.withDefaults">
-<a href="../transport/CarSpecifications/CarSpecifications.withDefaults.html">/sdk-for-flutter-explore-transport-carspecifications-carspecifications-withdefaults</a>()
+/sdk-for-flutter-explore-transport-carspecifications-carspecifications-withdefaults()
 </dt>
 <dd>
           Creates a new instance.
@@ -92,7 +93,7 @@ Only the fields that are set are considered for restriction handling.</p>
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="axleCount">
-<a href="../transport/CarSpecifications/axleCount.html">/sdk-for-flutter-explore-transport-carspecifications-axlecount</a>
+/sdk-for-flutter-explore-transport-carspecifications-axlecount
 ↔ int?
 </dt>
 <dd>
@@ -100,11 +101,11 @@ Only the fields that are set are considered for restriction handling.</p>
 equal to 2. By default, it is not set.
 Route calculation: When not set, possible axle count restrictions will not be
 taken into consideration.
-When specifying <a href="../transport/CarSpecifications/trailerAxleCount.html">/sdk-for-flutter-explore-transport-carspecifications-traileraxlecount</a>, then <a href="../transport/CarSpecifications/axleCount.html">/sdk-for-flutter-explore-transport-carspecifications-axlecount</a> is required and must be greater than <a href="../transport/CarSpecifications/trailerAxleCount.html">/sdk-for-flutter-explore-transport-carspecifications-traileraxlecount</a>.
+When specifying /sdk-for-flutter-explore-transport-carspecifications-traileraxlecount, then /sdk-for-flutter-explore-transport-carspecifications-axlecount is required and must be greater than /sdk-for-flutter-explore-transport-carspecifications-traileraxlecount.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="grossWeightInKilograms">
-<a href="../transport/CarSpecifications/grossWeightInKilograms.html">/sdk-for-flutter-explore-transport-carspecifications-grossweightinkilograms</a>
+/sdk-for-flutter-explore-transport-carspecifications-grossweightinkilograms
 ↔ int?
 </dt>
 <dd>
@@ -115,7 +116,7 @@ This parameter is limited to a maximum weight of 4250 kg without trailer and 755
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-<a href="../transport/CarSpecifications/hashCode.html">/sdk-for-flutter-explore-transport-carspecifications-hashcode</a>
+/sdk-for-flutter-explore-transport-carspecifications-hashcode
 → int
 </dt>
 <dd>
@@ -123,7 +124,7 @@ This parameter is limited to a maximum weight of 4250 kg without trailer and 755
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="heightInCentimeters">
-<a href="../transport/CarSpecifications/heightInCentimeters.html">/sdk-for-flutter-explore-transport-carspecifications-heightincentimeters</a>
+/sdk-for-flutter-explore-transport-carspecifications-heightincentimeters
 ↔ int?
 </dt>
 <dd>
@@ -132,7 +133,7 @@ By default, it is not set.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="lengthInCentimeters">
-<a href="../transport/CarSpecifications/lengthInCentimeters.html">/sdk-for-flutter-explore-transport-carspecifications-lengthincentimeters</a>
+/sdk-for-flutter-explore-transport-carspecifications-lengthincentimeters
 ↔ int?
 </dt>
 <dd>
@@ -141,7 +142,7 @@ By default, it is not set.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../transport/CarSpecifications/runtimeType.html">/sdk-for-flutter-explore-transport-carspecifications-runtimetype</a>
+/sdk-for-flutter-explore-transport-carspecifications-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -149,28 +150,28 @@ By default, it is not set.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="trailerAxleCount">
-<a href="../transport/CarSpecifications/trailerAxleCount.html">/sdk-for-flutter-explore-transport-carspecifications-traileraxlecount</a>
+/sdk-for-flutter-explore-transport-carspecifications-traileraxlecount
 ↔ int?
 </dt>
 <dd>
   Defines total number of axles across all the trailers attached to the vehicle.
-This number is included in <a href="../transport/CarSpecifications/axleCount.html">/sdk-for-flutter-explore-transport-carspecifications-axlecount</a>, hence <a href="../transport/CarSpecifications/trailerAxleCount.html">/sdk-for-flutter-explore-transport-carspecifications-traileraxlecount</a> must be less than <a href="../transport/CarSpecifications/axleCount.html">/sdk-for-flutter-explore-transport-carspecifications-axlecount</a>
-and greater than or equal to 1. <a href="../transport/CarSpecifications/axleCount.html">/sdk-for-flutter-explore-transport-carspecifications-axlecount</a> and <a href="../transport/CarSpecifications/trailerCount.html">/sdk-for-flutter-explore-transport-carspecifications-trailercount</a> are required to specify <a href="../transport/CarSpecifications/trailerAxleCount.html">/sdk-for-flutter-explore-transport-carspecifications-traileraxlecount</a>.
+This number is included in /sdk-for-flutter-explore-transport-carspecifications-axlecount, hence /sdk-for-flutter-explore-transport-carspecifications-traileraxlecount must be less than /sdk-for-flutter-explore-transport-carspecifications-axlecount
+and greater than or equal to 1. /sdk-for-flutter-explore-transport-carspecifications-axlecount and /sdk-for-flutter-explore-transport-carspecifications-trailercount are required to specify /sdk-for-flutter-explore-transport-carspecifications-traileraxlecount.
 By default, it is not set.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="trailerCount">
-<a href="../transport/CarSpecifications/trailerCount.html">/sdk-for-flutter-explore-transport-carspecifications-trailercount</a>
+/sdk-for-flutter-explore-transport-carspecifications-trailercount
 ↔ int?
 </dt>
 <dd>
   Defines number of trailers attached to the vehicle. The provided value must be in the range
 [0, 1]. By default, it is not set.
-When specifying <a href="../transport/CarSpecifications/trailerAxleCount.html">/sdk-for-flutter-explore-transport-carspecifications-traileraxlecount</a>, then <a href="../transport/CarSpecifications/trailerCount.html">/sdk-for-flutter-explore-transport-carspecifications-trailercount</a> is required and must be greater than 0.
+When specifying /sdk-for-flutter-explore-transport-carspecifications-traileraxlecount, then /sdk-for-flutter-explore-transport-carspecifications-trailercount is required and must be greater than 0.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="widthInCentimeters">
-<a href="../transport/CarSpecifications/widthInCentimeters.html">/sdk-for-flutter-explore-transport-carspecifications-widthincentimeters</a>
+/sdk-for-flutter-explore-transport-carspecifications-widthincentimeters
 ↔ int?
 </dt>
 <dd>
@@ -184,7 +185,7 @@ By default, it is not set.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../transport/CarSpecifications/noSuchMethod.html">/sdk-for-flutter-explore-transport-carspecifications-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-transport-carspecifications-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -193,7 +194,7 @@ By default, it is not set.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../transport/CarSpecifications/toString.html">/sdk-for-flutter-explore-transport-carspecifications-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-transport-carspecifications-tostring(<wbr/>)
     → String
 
 </dt>
@@ -207,7 +208,7 @@ By default, it is not set.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-<a href="../transport/CarSpecifications/operator_equals.html">/sdk-for-flutter-explore-transport-carspecifications-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-transport-carspecifications-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -226,8 +227,8 @@ By default, it is not set.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-transport-transport-library</li>
 <li class="self-crumb">CarSpecifications class</li>
 </ol>
 <h5>transport library</h5>
@@ -244,4 +245,5 @@ By default, it is not set.
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

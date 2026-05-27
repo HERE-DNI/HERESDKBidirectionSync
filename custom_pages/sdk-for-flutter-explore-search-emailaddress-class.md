@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "EmailAddress class"
 slug: "sdk-for-flutter-explore-search-emailaddress-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- EmailAddress-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -26,8 +27,8 @@ slug: "sdk-for-flutter-explore-search-emailaddress-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
 <li class="self-crumb">EmailAddress class</li>
 </ol>
 <div class="self-name">EmailAddress</div>
@@ -57,7 +58,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="EmailAddress">
-<a href="../search/EmailAddress/EmailAddress.html">/sdk-for-flutter-explore-search-emailaddress-emailaddress</a>(String address, List&lt;<wbr/><a href="../search/PlaceCategory-class.html">/sdk-for-flutter-explore-search-placecategory-class</a>&gt; categories)
+/sdk-for-flutter-explore-search-emailaddress-emailaddress(String address, List&lt;<wbr/>/sdk-for-flutter-explore-search-placecategory-class&gt; categories)
 </dt>
 <dd>
           Creates a new instance.
@@ -68,7 +69,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="address">
-<a href="../search/EmailAddress/address.html">/sdk-for-flutter-explore-search-emailaddress-address</a>
+/sdk-for-flutter-explore-search-emailaddress-address
 ↔ String
 </dt>
 <dd>
@@ -76,17 +77,17 @@ menu
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="categories">
-<a href="../search/EmailAddress/categories.html">/sdk-for-flutter-explore-search-emailaddress-categories</a>
-↔ List&lt;<wbr/><a href="../search/PlaceCategory-class.html">/sdk-for-flutter-explore-search-placecategory-class</a>&gt;
+/sdk-for-flutter-explore-search-emailaddress-categories
+↔ List&lt;<wbr/>/sdk-for-flutter-explore-search-placecategory-class&gt;
 </dt>
 <dd>
   Categories associated with email address.
-Note: In case <a href="../search/EmailAddress/categories.html">/sdk-for-flutter-explore-search-emailaddress-categories</a> are not empty, then <a href="../search/EmailAddress/address.html">/sdk-for-flutter-explore-search-emailaddress-address</a> should be used according to given categories.
-Otherwise, <a href="../search/EmailAddress/address.html">/sdk-for-flutter-explore-search-emailaddress-address</a> is meant for general use.
+Note: In case /sdk-for-flutter-explore-search-emailaddress-categories are not empty, then /sdk-for-flutter-explore-search-emailaddress-address should be used according to given categories.
+Otherwise, /sdk-for-flutter-explore-search-emailaddress-address is meant for general use.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-<a href="../search/EmailAddress/hashCode.html">/sdk-for-flutter-explore-search-emailaddress-hashcode</a>
+/sdk-for-flutter-explore-search-emailaddress-hashcode
 → int
 </dt>
 <dd>
@@ -94,7 +95,7 @@ Otherwise, <a href="../search/EmailAddress/address.html">/sdk-for-flutter-explor
   <div class="features">no setter</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../search/EmailAddress/runtimeType.html">/sdk-for-flutter-explore-search-emailaddress-runtimetype</a>
+/sdk-for-flutter-explore-search-emailaddress-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -107,7 +108,7 @@ Otherwise, <a href="../search/EmailAddress/address.html">/sdk-for-flutter-explor
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../search/EmailAddress/noSuchMethod.html">/sdk-for-flutter-explore-search-emailaddress-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-search-emailaddress-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -116,7 +117,7 @@ Otherwise, <a href="../search/EmailAddress/address.html">/sdk-for-flutter-explor
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../search/EmailAddress/toString.html">/sdk-for-flutter-explore-search-emailaddress-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-search-emailaddress-tostring(<wbr/>)
     → String
 
 </dt>
@@ -130,7 +131,7 @@ Otherwise, <a href="../search/EmailAddress/address.html">/sdk-for-flutter-explor
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-<a href="../search/EmailAddress/operator_equals.html">/sdk-for-flutter-explore-search-emailaddress-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-search-emailaddress-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -149,8 +150,8 @@ Otherwise, <a href="../search/EmailAddress/address.html">/sdk-for-flutter-explor
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
 <li class="self-crumb">EmailAddress class</li>
 </ol>
 <h5>search library</h5>
@@ -167,4 +168,5 @@ Otherwise, <a href="../search/EmailAddress/address.html">/sdk-for-flutter-explor
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

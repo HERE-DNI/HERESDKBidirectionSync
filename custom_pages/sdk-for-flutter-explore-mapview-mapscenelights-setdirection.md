@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "setDirection abstract method"
 slug: "sdk-for-flutter-explore-mapview-mapscenelights-setdirection"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- setDirection.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-mapscenelights-setdirection"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapSceneLights-class.html">/sdk-for-flutter-explore-mapview-mapscenelights-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapscenelights-class</li>
 <li class="self-crumb">setDirection abstract method</li>
 </ol>
 <div class="self-name">setDirection</div>
@@ -38,9 +39,9 @@ menu
 <h1>setDirection abstract method</h1></div>
 <section class="multi-line-signature">
 void
-setDirection(<wbr/><ol class="parameter-list single-line"> <li><a href="../../mapview/MapSceneLightsCategory.html">/sdk-for-flutter-explore-mapview-mapscenelightscategory</a> category, </li>
-<li><a href="../../mapview/MapSceneLightsDirection-class.html">/sdk-for-flutter-explore-mapview-mapscenelightsdirection-class</a> direction, </li>
-<li><a href="../../mapview/MapSceneLightsAttributeSettingCallback.html">/sdk-for-flutter-explore-mapview-mapscenelightsattributesettingcallback</a>? callback</li>
+setDirection(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-mapview-mapscenelightscategory category, </li>
+<li>/sdk-for-flutter-explore-mapview-mapscenelightsdirection-class direction, </li>
+<li>/sdk-for-flutter-explore-mapview-mapscenelightsattributesettingcallback? callback</li>
 </ol>)
 
       
@@ -72,9 +73,9 @@ setDirection(<wbr/><ol class="parameter-list single-line"> <li><a href="../../ma
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapSceneLights-class.html">/sdk-for-flutter-explore-mapview-mapscenelights-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapscenelights-class</li>
 <li class="self-crumb">setDirection abstract method</li>
 </ol>
 <h5>MapSceneLights class</h5>
@@ -91,4 +92,5 @@ setDirection(<wbr/><ol class="parameter-list single-line"> <li><a href="../../ma
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

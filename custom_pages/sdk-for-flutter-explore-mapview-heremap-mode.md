@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "mode property"
 slug: "sdk-for-flutter-explore-mapview-heremap-mode"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- mode.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-heremap-mode"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/HereMap-class.html">/sdk-for-flutter-explore-mapview-heremap-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-heremap-class</li>
 <li class="self-crumb">mode property</li>
 </ol>
 <div class="self-name">mode</div>
@@ -37,13 +38,13 @@ menu
 <div>
 <h1>mode property</h1></div>
 <section class="multi-line-signature">
-<a href="../../mapview/NativeViewMode.html">/sdk-for-flutter-explore-mapview-nativeviewmode</a>
+/sdk-for-flutter-explore-mapview-nativeviewmode
 mode
 <div class="features">final</div>
 </section>
 <section class="desc markdown">
 <p>Which method of hosting Android native view (the map) will be used.
-Default value is <a href="../../mapview/NativeViewMode.html">/sdk-for-flutter-explore-mapview-nativeviewmode</a>.</p>
+Default value is /sdk-for-flutter-explore-mapview-nativeviewmode.</p>
 <p>More details: <a href="https://docs.flutter.dev/development/platform-integration/android/platform-views">https://docs.flutter.dev/development/platform-integration/android/platform-views</a></p>
 </section>
 <section class="summary source-code" id="source">
@@ -58,9 +59,9 @@ Default value is <a href="../../mapview/NativeViewMode.html">/sdk-for-flutter-ex
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/HereMap-class.html">/sdk-for-flutter-explore-mapview-heremap-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-heremap-class</li>
 <li class="self-crumb">mode property</li>
 </ol>
 <h5>HereMap class</h5>
@@ -77,4 +78,5 @@ Default value is <a href="../../mapview/NativeViewMode.html">/sdk-for-flutter-ex
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

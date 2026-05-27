@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "MapCameraState class"
 slug: "sdk-for-flutter-explore-mapview-mapcamerastate-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- MapCameraState-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -28,8 +29,8 @@ slug: "sdk-for-flutter-explore-mapview-mapcamerastate-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
 <li class="self-crumb">MapCameraState class</li>
 </ol>
 <div class="self-name">MapCameraState</div>
@@ -59,7 +60,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="MapCameraState">
-<a href="../mapview/MapCameraState/MapCameraState.html">/sdk-for-flutter-explore-mapview-mapcamerastate-mapcamerastate</a>(<a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a> targetCoordinates, <a href="../core/GeoOrientation-class.html">/sdk-for-flutter-explore-core-geoorientation-class</a> orientationAtTarget, double distanceToTargetInMeters, double zoomLevel)
+/sdk-for-flutter-explore-mapview-mapcamerastate-mapcamerastate(/sdk-for-flutter-explore-core-geocoordinates-class targetCoordinates, /sdk-for-flutter-explore-core-geoorientation-class orientationAtTarget, double distanceToTargetInMeters, double zoomLevel)
 </dt>
 <dd>
           Creates a new instance.
@@ -70,7 +71,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="distanceToTargetInMeters">
-<a href="../mapview/MapCameraState/distanceToTargetInMeters.html">/sdk-for-flutter-explore-mapview-mapcamerastate-distancetotargetinmeters</a>
+/sdk-for-flutter-explore-mapview-mapcamerastate-distancetotargetinmeters
 ↔ double
 </dt>
 <dd>
@@ -78,7 +79,7 @@ menu
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="hashCode">
-<a href="../mapview/MapCameraState/hashCode.html">/sdk-for-flutter-explore-mapview-mapcamerastate-hashcode</a>
+/sdk-for-flutter-explore-mapview-mapcamerastate-hashcode
 → int
 </dt>
 <dd class="inherited">
@@ -86,15 +87,15 @@ menu
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="orientationAtTarget">
-<a href="../mapview/MapCameraState/orientationAtTarget.html">/sdk-for-flutter-explore-mapview-mapcamerastate-orientationattarget</a>
-↔ <a href="../core/GeoOrientation-class.html">/sdk-for-flutter-explore-core-geoorientation-class</a>
+/sdk-for-flutter-explore-mapview-mapcamerastate-orientationattarget
+↔ /sdk-for-flutter-explore-core-geoorientation-class
 </dt>
 <dd>
   Camera's orientation at target point.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../mapview/MapCameraState/runtimeType.html">/sdk-for-flutter-explore-mapview-mapcamerastate-runtimetype</a>
+/sdk-for-flutter-explore-mapview-mapcamerastate-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -102,15 +103,15 @@ menu
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="targetCoordinates">
-<a href="../mapview/MapCameraState/targetCoordinates.html">/sdk-for-flutter-explore-mapview-mapcamerastate-targetcoordinates</a>
-↔ <a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>
+/sdk-for-flutter-explore-mapview-mapcamerastate-targetcoordinates
+↔ /sdk-for-flutter-explore-core-geocoordinates-class
 </dt>
 <dd>
   Camera's 'LookAt' target position in geodetic space.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="zoomLevel">
-<a href="../mapview/MapCameraState/zoomLevel.html">/sdk-for-flutter-explore-mapview-mapcamerastate-zoomlevel</a>
+/sdk-for-flutter-explore-mapview-mapcamerastate-zoomlevel
 ↔ double
 </dt>
 <dd>
@@ -123,7 +124,7 @@ menu
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../mapview/MapCameraState/noSuchMethod.html">/sdk-for-flutter-explore-mapview-mapcamerastate-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-mapview-mapcamerastate-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -132,7 +133,7 @@ menu
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../mapview/MapCameraState/toString.html">/sdk-for-flutter-explore-mapview-mapcamerastate-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-mapview-mapcamerastate-tostring(<wbr/>)
     → String
 
 </dt>
@@ -146,7 +147,7 @@ menu
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-<a href="../mapview/MapCameraState/operator_equals.html">/sdk-for-flutter-explore-mapview-mapcamerastate-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-mapview-mapcamerastate-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -164,8 +165,8 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
 <li class="self-crumb">MapCameraState class</li>
 </ol>
 <h5>mapview library</h5>
@@ -182,4 +183,5 @@ menu
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

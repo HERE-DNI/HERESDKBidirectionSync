@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "startAnimation abstract method"
 slug: "sdk-for-flutter-explore-mapview-mappolyline-startanimation"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- startAnimation.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-mappolyline-startanimation"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapPolyline-class.html">/sdk-for-flutter-explore-mapview-mappolyline-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mappolyline-class</li>
 <li class="self-crumb">startAnimation abstract method</li>
 </ol>
 <div class="self-name">startAnimation</div>
@@ -38,8 +39,8 @@ menu
 <h1>startAnimation abstract method</h1></div>
 <section class="multi-line-signature">
 void
-startAnimation(<wbr/><ol class="parameter-list single-line"> <li><a href="../../animation/MapPolylineAnimation-class.html">/sdk-for-flutter-explore-animation-mappolylineanimation-class</a> animation, </li>
-<li><a href="../../animation/AnimationListener-class.html">/sdk-for-flutter-explore-animation-animationlistener-class</a> listener</li>
+startAnimation(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-animation-mappolylineanimation-class animation, </li>
+<li>/sdk-for-flutter-explore-animation-animationlistener-class listener</li>
 </ol>)
 
       
@@ -73,9 +74,9 @@ about animation start, completion or cancellation.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapPolyline-class.html">/sdk-for-flutter-explore-mapview-mappolyline-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mappolyline-class</li>
 <li class="self-crumb">startAnimation abstract method</li>
 </ol>
 <h5>MapPolyline class</h5>
@@ -92,4 +93,5 @@ about animation start, completion or cancellation.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

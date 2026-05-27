@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "country property"
 slug: "sdk-for-flutter-explore-search-address-country"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- country.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-search-address-country"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/Address-class.html">/sdk-for-flutter-explore-search-address-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-address-class</li>
 <li class="self-crumb">country property</li>
 </ol>
 <div class="self-name">country</div>
@@ -58,9 +59,9 @@ Note: This String can be empty when no data is available.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/Address-class.html">/sdk-for-flutter-explore-search-address-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-address-class</li>
 <li class="self-crumb">country property</li>
 </ol>
 <h5>Address class</h5>
@@ -77,4 +78,5 @@ Note: This String can be empty when no data is available.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

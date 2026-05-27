@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "sideOfStreetHint property"
 slug: "sdk-for-flutter-explore-routing-waypoint-sideofstreethint"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- sideOfStreetHint.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-routing-waypoint-sideofstreethint"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/Waypoint-class.html">/sdk-for-flutter-explore-routing-waypoint-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-waypoint-class</li>
 <li class="self-crumb">sideOfStreetHint property</li>
 </ol>
 <div class="self-name">sideOfStreetHint</div>
@@ -37,7 +38,7 @@ menu
 <div>
 <h1>sideOfStreetHint property</h1></div>
 <section class="multi-line-signature">
-<a href="../../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>?
+/sdk-for-flutter-explore-core-geocoordinates-class?
         sideOfStreetHint
 <div class="features">getter/setter pair</div>
 </section>
@@ -45,7 +46,7 @@ menu
 <p>Optional coordinates to indicate which side of the street should be used to reach the waypoint.
 For example, if the location is to the left of the street, the router will prefer using that side
 in case the street has dividers.
-Note that this option is ignored if the user sets <a href="../../routing/Waypoint/transitRadiusInMeters.html">/sdk-for-flutter-explore-routing-waypoint-transitradiusinmeters</a> option with a
+Note that this option is ignored if the user sets /sdk-for-flutter-explore-routing-waypoint-transitradiusinmeters option with a
 value greater than zero.</p>
 </section>
 <section class="summary source-code" id="source">
@@ -60,9 +61,9 @@ value greater than zero.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/Waypoint-class.html">/sdk-for-flutter-explore-routing-waypoint-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-waypoint-class</li>
 <li class="self-crumb">sideOfStreetHint property</li>
 </ol>
 <h5>Waypoint class</h5>
@@ -79,4 +80,5 @@ value greater than zero.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

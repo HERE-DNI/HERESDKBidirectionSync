@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "intersects method"
 slug: "sdk-for-flutter-explore-core-geobox-intersects"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- intersects.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-core-geobox-intersects"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
-<li><a href="../../core/GeoBox-class.html">/sdk-for-flutter-explore-core-geobox-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
+<li>/sdk-for-flutter-explore-core-geobox-class</li>
 <li class="self-crumb">intersects method</li>
 </ol>
 <div class="self-name">intersects</div>
@@ -38,7 +39,7 @@ menu
 <h1>intersects method</h1></div>
 <section class="multi-line-signature">
 bool
-intersects(<wbr/><ol class="parameter-list single-line"> <li><a href="../../core/GeoBox-class.html">/sdk-for-flutter-explore-core-geobox-class</a> geoBox</li>
+intersects(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-core-geobox-class geoBox</li>
 </ol>)
 
       
@@ -64,9 +65,9 @@ intersects(<wbr/><ol class="parameter-list single-line"> <li><a href="../../core
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
-<li><a href="../../core/GeoBox-class.html">/sdk-for-flutter-explore-core-geobox-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
+<li>/sdk-for-flutter-explore-core-geobox-class</li>
 <li class="self-crumb">intersects method</li>
 </ol>
 <h5>GeoBox class</h5>
@@ -83,4 +84,5 @@ intersects(<wbr/><ol class="parameter-list single-line"> <li><a href="../../core
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

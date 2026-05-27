@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "FuelAdditive class"
 slug: "sdk-for-flutter-explore-search-fueladditive-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- FuelAdditive-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -27,8 +28,8 @@ slug: "sdk-for-flutter-explore-search-fueladditive-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
 <li class="self-crumb">FuelAdditive class</li>
 </ol>
 <div class="self-name">FuelAdditive</div>
@@ -60,7 +61,7 @@ unexpected behaviors. Related APIs may change for new releases without a depreca
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="FuelAdditive">
-<a href="../search/FuelAdditive/FuelAdditive.html">/sdk-for-flutter-explore-search-fueladditive-fueladditive</a>()
+/sdk-for-flutter-explore-search-fueladditive-fueladditive()
 </dt>
 <dd>
 </dd>
@@ -70,7 +71,7 @@ unexpected behaviors. Related APIs may change for new releases without a depreca
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="availableAtPump">
-<a href="../search/FuelAdditive/availableAtPump.html">/sdk-for-flutter-explore-search-fueladditive-availableatpump</a>
+/sdk-for-flutter-explore-search-fueladditive-availableatpump
 ↔ bool?
 </dt>
 <dd>
@@ -78,7 +79,7 @@ unexpected behaviors. Related APIs may change for new releases without a depreca
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="availableInCans">
-<a href="../search/FuelAdditive/availableInCans.html">/sdk-for-flutter-explore-search-fueladditive-availableincans</a>
+/sdk-for-flutter-explore-search-fueladditive-availableincans
 ↔ bool?
 </dt>
 <dd>
@@ -86,7 +87,7 @@ unexpected behaviors. Related APIs may change for new releases without a depreca
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-<a href="../search/FuelAdditive/hashCode.html">/sdk-for-flutter-explore-search-fueladditive-hashcode</a>
+/sdk-for-flutter-explore-search-fueladditive-hashcode
 → int
 </dt>
 <dd>
@@ -94,7 +95,7 @@ unexpected behaviors. Related APIs may change for new releases without a depreca
   <div class="features">no setter</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../search/FuelAdditive/runtimeType.html">/sdk-for-flutter-explore-search-fueladditive-runtimetype</a>
+/sdk-for-flutter-explore-search-fueladditive-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -102,8 +103,8 @@ unexpected behaviors. Related APIs may change for new releases without a depreca
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="type">
-<a href="../search/FuelAdditive/type.html">/sdk-for-flutter-explore-search-fueladditive-type</a>
-↔ <a href="../transport/FuelAdditiveType.html">/sdk-for-flutter-explore-transport-fueladditivetype</a>
+/sdk-for-flutter-explore-search-fueladditive-type
+↔ /sdk-for-flutter-explore-transport-fueladditivetype
 </dt>
 <dd>
   The type of the fuel additive. For now, only AUS 32 is supported.
@@ -115,7 +116,7 @@ unexpected behaviors. Related APIs may change for new releases without a depreca
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../search/FuelAdditive/noSuchMethod.html">/sdk-for-flutter-explore-search-fueladditive-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-search-fueladditive-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -124,7 +125,7 @@ unexpected behaviors. Related APIs may change for new releases without a depreca
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../search/FuelAdditive/toString.html">/sdk-for-flutter-explore-search-fueladditive-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-search-fueladditive-tostring(<wbr/>)
     → String
 
 </dt>
@@ -138,7 +139,7 @@ unexpected behaviors. Related APIs may change for new releases without a depreca
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-<a href="../search/FuelAdditive/operator_equals.html">/sdk-for-flutter-explore-search-fueladditive-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-search-fueladditive-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -157,8 +158,8 @@ unexpected behaviors. Related APIs may change for new releases without a depreca
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
 <li class="self-crumb">FuelAdditive class</li>
 </ol>
 <h5>search library</h5>
@@ -175,4 +176,5 @@ unexpected behaviors. Related APIs may change for new releases without a depreca
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

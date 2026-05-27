@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "importTruckRoute abstract method"
 slug: "sdk-for-flutter-explore-routing-routingengine-importtruckroute"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- importTruckRoute.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-routing-routingengine-importtruckroute"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/RoutingEngine-class.html">/sdk-for-flutter-explore-routing-routingengine-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-routingengine-class</li>
 <li class="self-crumb">importTruckRoute abstract method</li>
 </ol>
 <div class="self-name">importTruckRoute</div>
@@ -39,13 +40,13 @@ menu
 <section class="multi-line-signature">
 <div>
 <ol class="annotation-list">
-<li>@Deprecated("Will be removed in v4.28.0. Use the `import_route()` methods with RoutingOptions parameter instead.")</li>
+<li>@Deprecated("Will be removed in v4.28.0. Use the <code>import_route()</code> methods with RoutingOptions parameter instead.")</li>
 </ol>
 </div>
-<a href="../../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a>
-importTruckRoute(<wbr/><ol class="parameter-list single-line"> <li>List&lt;<wbr/><a href="../../core/Location-class.html">/sdk-for-flutter-explore-core-location-class</a>&gt; locations, </li>
-<li><a class="deprecated" href="../../routing/TruckOptions-class.html">/sdk-for-flutter-explore-routing-truckoptions-class</a> truckOptions, </li>
-<li><a href="../../routing/CalculateRouteCallback.html">/sdk-for-flutter-explore-routing-calculateroutecallback</a> callback</li>
+/sdk-for-flutter-explore-core-threading-taskhandle-class
+importTruckRoute(<wbr/><ol class="parameter-list single-line"> <li>List&lt;<wbr/>/sdk-for-flutter-explore-core-location-class&gt; locations, </li>
+<li>/sdk-for-flutter-explore-routing-truckoptions-class truckOptions, </li>
+<li>/sdk-for-flutter-explore-routing-calculateroutecallback callback</li>
 </ol>)
 
       
@@ -58,11 +59,11 @@ be kept as close as possible to the one provided. For best results please use 1H
 or geographic coordinates that have a spacing of a few meters one from the other. For example, such a list of geographic coordinates can
 be extracted from a GPX trace or a route object from a 3rd party library. Very sparse data may be rejected by the service with an error.</p>
 <p><strong>Note:</strong> Any restrictions applied to a transport type or provided options will be
-discarded and reported as violations in <a href="../../routing/Section/sectionNotices.html">/sdk-for-flutter-explore-routing-section-sectionnotices</a> .</p>
+discarded and reported as violations in /sdk-for-flutter-explore-routing-section-sectionnotices .</p>
 <ul>
-<li><code>locations</code> The list of locations used to calculate the route. Note that only the <a href="../../core/Location/coordinates.html">/sdk-for-flutter-explore-core-location-coordinates</a> of a location are used to import the route.</li>
+<li><code>locations</code> The list of locations used to calculate the route. Note that only the /sdk-for-flutter-explore-core-location-coordinates of a location are used to import the route.</li>
 </ul>
-<p>An <a href="../../routing/RoutingError.html">/sdk-for-flutter-explore-routing-routingerror</a> error is generated when the location list
+<p>An /sdk-for-flutter-explore-routing-routingerror error is generated when the location list
 size is not in the range [2,50000].</p>
 <ul>
 <li>
@@ -74,11 +75,11 @@ common route options.</p>
 It is always invoked on the main thread.</p>
 </li>
 </ul>
-<p>Returns <a href="../../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a>. Handle that will be used to manipulate the execution of the task.</p>
+<p>Returns /sdk-for-flutter-explore-core-threading-taskhandle-class. Handle that will be used to manipulate the execution of the task.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
-<pre class="language-dart"><code class="language-dart">@Deprecated("Will be removed in v4.28.0. Use the `import_route()` methods with RoutingOptions parameter instead.")
+<pre class="language-dart"><code class="language-dart">@Deprecated("Will be removed in v4.28.0. Use the import_route() methods with RoutingOptions parameter instead.")
 
 TaskHandle importTruckRoute(List&lt;Location&gt; locations, TruckOptions truckOptions, CalculateRouteCallback callback);</code></pre>
 </section>
@@ -90,9 +91,9 @@ TaskHandle importTruckRoute(List&lt;Location&gt; locations, TruckOptions truckOp
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/RoutingEngine-class.html">/sdk-for-flutter-explore-routing-routingengine-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-routingengine-class</li>
 <li class="self-crumb">importTruckRoute abstract method</li>
 </ol>
 <h5>RoutingEngine class</h5>
@@ -109,4 +110,5 @@ TaskHandle importTruckRoute(List&lt;Location&gt; locations, TruckOptions truckOp
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "TrafficIncidentLookupOptions class"
 slug: "sdk-for-flutter-explore-traffic-trafficincidentlookupoptions-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- TrafficIncidentLookupOptions-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -25,8 +26,8 @@ slug: "sdk-for-flutter-explore-traffic-trafficincidentlookupoptions-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../traffic/traffic-library.html">/sdk-for-flutter-explore-traffic-traffic-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-traffic-traffic-library</li>
 <li class="self-crumb">TrafficIncidentLookupOptions class</li>
 </ol>
 <div class="self-name">TrafficIncidentLookupOptions</div>
@@ -56,7 +57,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="TrafficIncidentLookupOptions">
-<a href="../traffic/TrafficIncidentLookupOptions/TrafficIncidentLookupOptions.html">/sdk-for-flutter-explore-traffic-trafficincidentlookupoptions-trafficincidentlookupoptions</a>()
+/sdk-for-flutter-explore-traffic-trafficincidentlookupoptions-trafficincidentlookupoptions()
 </dt>
 <dd>
           Creates a new instance with default value.
@@ -67,7 +68,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="hashCode">
-<a href="../traffic/TrafficIncidentLookupOptions/hashCode.html">/sdk-for-flutter-explore-traffic-trafficincidentlookupoptions-hashcode</a>
+/sdk-for-flutter-explore-traffic-trafficincidentlookupoptions-hashcode
 → int
 </dt>
 <dd>
@@ -75,8 +76,8 @@ menu
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="languageCode">
-<a href="../traffic/TrafficIncidentLookupOptions/languageCode.html">/sdk-for-flutter-explore-traffic-trafficincidentlookupoptions-languagecode</a>
-↔ <a href="../core/LanguageCode.html">/sdk-for-flutter-explore-core-languagecode</a>?
+/sdk-for-flutter-explore-traffic-trafficincidentlookupoptions-languagecode
+↔ /sdk-for-flutter-explore-core-languagecode?
 </dt>
 <dd>
   The language code of the query.
@@ -84,7 +85,7 @@ If the language code is null or not supported then response fields are expected 
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../traffic/TrafficIncidentLookupOptions/runtimeType.html">/sdk-for-flutter-explore-traffic-trafficincidentlookupoptions-runtimetype</a>
+/sdk-for-flutter-explore-traffic-trafficincidentlookupoptions-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -97,7 +98,7 @@ If the language code is null or not supported then response fields are expected 
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../traffic/TrafficIncidentLookupOptions/noSuchMethod.html">/sdk-for-flutter-explore-traffic-trafficincidentlookupoptions-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-traffic-trafficincidentlookupoptions-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -106,7 +107,7 @@ If the language code is null or not supported then response fields are expected 
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../traffic/TrafficIncidentLookupOptions/toString.html">/sdk-for-flutter-explore-traffic-trafficincidentlookupoptions-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-traffic-trafficincidentlookupoptions-tostring(<wbr/>)
     → String
 
 </dt>
@@ -120,7 +121,7 @@ If the language code is null or not supported then response fields are expected 
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-<a href="../traffic/TrafficIncidentLookupOptions/operator_equals.html">/sdk-for-flutter-explore-traffic-trafficincidentlookupoptions-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-traffic-trafficincidentlookupoptions-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -139,8 +140,8 @@ If the language code is null or not supported then response fields are expected 
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../traffic/traffic-library.html">/sdk-for-flutter-explore-traffic-traffic-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-traffic-traffic-library</li>
 <li class="self-crumb">TrafficIncidentLookupOptions class</li>
 </ol>
 <h5>traffic library</h5>
@@ -157,4 +158,5 @@ If the language code is null or not supported then response fields are expected 
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

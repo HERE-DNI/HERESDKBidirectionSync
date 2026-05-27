@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "calculateTrafficOnRouteWithCurrentCharge abstract method"
 slug: "sdk-for-flutter-explore-routing-routingengine-calculatetrafficonroutewithcurrentcharge"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- calculateTrafficOnRouteWithCurrentCharge.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-routing-routingengine-calculatetrafficonroutewith
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/RoutingEngine-class.html">/sdk-for-flutter-explore-routing-routingengine-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-routingengine-class</li>
 <li class="self-crumb">calculateTrafficOnRouteWithCurrentCharge abstract method</li>
 </ol>
 <div class="self-name">calculateTrafficOnRouteWithCurrentCharge</div>
@@ -37,12 +38,12 @@ menu
 <div>
 <h1>calculateTrafficOnRouteWithCurrentCharge abstract method</h1></div>
 <section class="multi-line-signature">
-<a href="../../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a>
-calculateTrafficOnRouteWithCurrentCharge(<wbr/><ol class="parameter-list"> <li><a href="../../routing/Route-class.html">/sdk-for-flutter-explore-routing-route-class</a> route, </li>
+/sdk-for-flutter-explore-core-threading-taskhandle-class
+calculateTrafficOnRouteWithCurrentCharge(<wbr/><ol class="parameter-list"> <li>/sdk-for-flutter-explore-routing-route-class route, </li>
 <li>int lastTraveledSectionIndex, </li>
 <li>int traveledDistanceOnLastSectionInMeters, </li>
 <li>double currentChargeInKilowattHours, </li>
-<li><a href="../../routing/CalculateTrafficOnRouteCallback.html">/sdk-for-flutter-explore-routing-calculatetrafficonroutecallback</a> callback, </li>
+<li>/sdk-for-flutter-explore-routing-calculatetrafficonroutecallback callback, </li>
 </ol>)
 
       
@@ -52,17 +53,17 @@ calculateTrafficOnRouteWithCurrentCharge(<wbr/><ol class="parameter-list"> <li><
 <p>Asynchronously calculates the traffic along an EV car route starting from the index of the
 last traveled route section and an offset in meters from the last visited position on the
 section.</p>
-<p>The field <a href="../../routing/TrafficOnSpan/consumptionInKilowattHours.html">/sdk-for-flutter-explore-routing-trafficonspan-consumptioninkilowatthours</a> will contain the power consumption
+<p>The field /sdk-for-flutter-explore-routing-trafficonspan-consumptioninkilowatthours will contain the power consumption
 in kilowatt-hours (kWh) necessary to traverse the span, and
-<a href="../../routing/RoutePlace/chargeInKilowattHours.html">/sdk-for-flutter-explore-routing-routeplace-chargeinkilowatthours</a>, inside <a href="../../routing/TrafficOnSection/departurePlace.html">/sdk-for-flutter-explore-routing-trafficonsection-departureplace</a> and
-<a href="../../routing/TrafficOnSection/arrivalPlace.html">/sdk-for-flutter-explore-routing-trafficonsection-arrivalplace</a>, the estimated battery charge in kilowatt-hours (kWh) when
+/sdk-for-flutter-explore-routing-routeplace-chargeinkilowatthours, inside /sdk-for-flutter-explore-routing-trafficonsection-departureplace and
+/sdk-for-flutter-explore-routing-trafficonsection-arrivalplace, the estimated battery charge in kilowatt-hours (kWh) when
 leaving/arriving to a section.
 <strong>Note:</strong> Only EV cars are supported.</p>
 <ul>
 <li>
-<p><code>route</code> A <a href="../../routing/Route-class.html">/sdk-for-flutter-explore-routing-route-class</a> calculated using the online routing engine. Its
-<a href="../../routing/RouteHandle-class.html">/sdk-for-flutter-explore-routing-routehandle-class</a> and the original route calculation options, along with EV
-related information like <a href="../../routing/BatterySpecifications-class.html">/sdk-for-flutter-explore-routing-batteryspecifications-class</a>, will be used to
+<p><code>route</code> A /sdk-for-flutter-explore-routing-route-class calculated using the online routing engine. Its
+/sdk-for-flutter-explore-routing-routehandle-class and the original route calculation options, along with EV
+related information like /sdk-for-flutter-explore-routing-batteryspecifications-class, will be used to
 compute the traffic on the route. The original route remains untouched.</p>
 </li>
 <li>
@@ -76,16 +77,16 @@ traveled section index.</p>
 <li>
 <p><code>currentChargeInKilowattHours</code> Charge level of the vehicle's battery at the current location (in kWh).
 It must be non-negative and less than or equal to the value of
-<a href="../../routing/BatterySpecifications/totalCapacityInKilowattHours.html">/sdk-for-flutter-explore-routing-batteryspecifications-totalcapacityinkilowatthours</a>,
-otherwise the <a href="../../routing/BatterySpecifications-class.html">/sdk-for-flutter-explore-routing-batteryspecifications-class</a> instance is considered invalid.
-Sets <a href="../../routing/BatterySpecifications/initialChargeInKilowattHours.html">/sdk-for-flutter-explore-routing-batteryspecifications-initialchargeinkilowatthours</a> to the given value.</p>
+/sdk-for-flutter-explore-routing-batteryspecifications-totalcapacityinkilowatthours,
+otherwise the /sdk-for-flutter-explore-routing-batteryspecifications-class instance is considered invalid.
+Sets /sdk-for-flutter-explore-routing-batteryspecifications-initialchargeinkilowatthours to the given value.</p>
 </li>
 <li>
 <p><code>callback</code> Callback object that will be invoked after route traffic has been calculated.
 It is always invoked on the main thread.</p>
 </li>
 </ul>
-<p>Returns <a href="../../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a>. Handle that will be used to manipulate the execution of the task.</p>
+<p>Returns /sdk-for-flutter-explore-core-threading-taskhandle-class. Handle that will be used to manipulate the execution of the task.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -99,9 +100,9 @@ It is always invoked on the main thread.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/RoutingEngine-class.html">/sdk-for-flutter-explore-routing-routingengine-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-routingengine-class</li>
 <li class="self-crumb">calculateTrafficOnRouteWithCurrentCharge abstract method</li>
 </ol>
 <h5>RoutingEngine class</h5>
@@ -118,4 +119,5 @@ It is always invoked on the main thread.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "CatalogVersionHint class abstract"
 slug: "sdk-for-flutter-explore-core-engine-catalogversionhint-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- CatalogVersionHint-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -27,8 +28,8 @@ slug: "sdk-for-flutter-explore-core-engine-catalogversionhint-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
 <li class="self-crumb">CatalogVersionHint class</li>
 </ol>
 <div class="self-name">CatalogVersionHint</div>
@@ -53,20 +54,20 @@ menu
 <h1>CatalogVersionHint class abstract</h1></div>
 <section class="desc markdown">
 <p>This is a class for capturing user's intent for the
-desired catalog version to use in <a href="../core.engine/DesiredCatalog-class.html">/sdk-for-flutter-explore-core-engine-desiredcatalog-class</a> class.</p>
+desired catalog version to use in /sdk-for-flutter-explore-core-engine-desiredcatalog-class class.</p>
 <p>You can request a specific or latest version of a catalog by calling the
-static functions <a href="../core.engine/CatalogVersionHint/specific.html">/sdk-for-flutter-explore-core-engine-catalogversionhint-specific</a> and
-<a href="../core.engine/CatalogVersionHint/latestWithIgnoringCachedData.html">/sdk-for-flutter-explore-core-engine-catalogversionhint-latestwithignoringcacheddata</a> respectively. The HERE platform will make the
+static functions /sdk-for-flutter-explore-core-engine-catalogversionhint-specific and
+/sdk-for-flutter-explore-core-engine-catalogversionhint-latestwithignoringcacheddata respectively. The HERE platform will make the
 best effort to provide an appropriate version for the catalog based on this
 version hint.
-Please take note that for the API <a href="../core.engine/CatalogVersionHint/specific.html">/sdk-for-flutter-explore-core-engine-catalogversionhint-specific</a> to function properly,
+Please take note that for the API /sdk-for-flutter-explore-core-engine-catalogversionhint-specific to function properly,
 it is essential that the mutable and persistent storage should be cleaned.</p>
 </section>
 <section class="summary offset-anchor" id="constructors">
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="CatalogVersionHint">
-<a href="../core.engine/CatalogVersionHint/CatalogVersionHint.html">/sdk-for-flutter-explore-core-engine-catalogversionhint-catalogversionhint</a>()
+/sdk-for-flutter-explore-core-engine-catalogversionhint-catalogversionhint()
 </dt>
 <dd>
 </dd>
@@ -76,7 +77,7 @@ it is essential that the mutable and persistent storage should be cleaned.</p>
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="hashCode">
-<a href="../core.engine/CatalogVersionHint/hashCode.html">/sdk-for-flutter-explore-core-engine-catalogversionhint-hashcode</a>
+/sdk-for-flutter-explore-core-engine-catalogversionhint-hashcode
 → int
 </dt>
 <dd class="inherited">
@@ -84,7 +85,7 @@ it is essential that the mutable and persistent storage should be cleaned.</p>
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../core.engine/CatalogVersionHint/runtimeType.html">/sdk-for-flutter-explore-core-engine-catalogversionhint-runtimetype</a>
+/sdk-for-flutter-explore-core-engine-catalogversionhint-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -97,7 +98,7 @@ it is essential that the mutable and persistent storage should be cleaned.</p>
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../core.engine/CatalogVersionHint/noSuchMethod.html">/sdk-for-flutter-explore-core-engine-catalogversionhint-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-core-engine-catalogversionhint-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -106,7 +107,7 @@ it is essential that the mutable and persistent storage should be cleaned.</p>
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../core.engine/CatalogVersionHint/toString.html">/sdk-for-flutter-explore-core-engine-catalogversionhint-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-core-engine-catalogversionhint-tostring(<wbr/>)
     → String
 
 </dt>
@@ -120,7 +121,7 @@ it is essential that the mutable and persistent storage should be cleaned.</p>
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-<a href="../core.engine/CatalogVersionHint/operator_equals.html">/sdk-for-flutter-explore-core-engine-catalogversionhint-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-core-engine-catalogversionhint-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -134,8 +135,9 @@ it is essential that the mutable and persistent storage should be cleaned.</p>
 <h2>Static Methods</h2>
 <dl class="callables">
 <dt class="callable" id="latestWithIgnoringCachedData">
-<a href="../core.engine/CatalogVersionHint/latestWithIgnoringCachedData.html">/sdk-for-flutter-explore-core-engine-catalogversionhint-latestwithignoringcacheddata</a>(<wbr/>bool ignoreCachedData)
-    → <a href="../core.engine/CatalogVersionHint-class.html">/sdk-for-flutter-explore-core-engine-catalogversionhint-class</a>
+/sdk-for-flutter-explore-core-engine-catalogversionhint-latestwithignoringcacheddata(<wbr/>bool ignoreCachedData)
+    → /sdk-for-flutter-explore-core-engine-catalogversionhint-class
+
 </dt>
 <dd>
   This static method can be called when you are interested in getting the most latest version of
@@ -145,8 +147,9 @@ catalog(s) you want to use.
 
 </dd>
 <dt class="callable" id="specific">
-<a href="../core.engine/CatalogVersionHint/specific.html">/sdk-for-flutter-explore-core-engine-catalogversionhint-specific</a>(<wbr/>int version)
-    → <a href="../core.engine/CatalogVersionHint-class.html">/sdk-for-flutter-explore-core-engine-catalogversionhint-class</a>
+/sdk-for-flutter-explore-core-engine-catalogversionhint-specific(<wbr/>int version)
+    → /sdk-for-flutter-explore-core-engine-catalogversionhint-class
+
 </dt>
 <dd>
   This static method is used when you are interested in a
@@ -164,8 +167,8 @@ specific version of a catalog, that you want to specify manually.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
 <li class="self-crumb">CatalogVersionHint class</li>
 </ol>
 <h5>core.engine library</h5>
@@ -182,4 +185,5 @@ specific version of a catalog, that you want to specify manually.
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

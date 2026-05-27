@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "cacheDiskSize property"
 slug: "sdk-for-flutter-explore-mapview-datasource-rasterdatasourceconfigurationupdate-cachedisksize"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- cacheDiskSize.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-datasource-rasterdatasourceconfigurationu
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
-<li><a href="../../mapview.datasource/RasterDataSourceConfigurationUpdate-class.html">/sdk-for-flutter-explore-mapview-datasource-rasterdatasourceconfigurationupdate-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-rasterdatasourceconfigurationupdate-class</li>
 <li class="self-crumb">cacheDiskSize property</li>
 </ol>
 <div class="self-name">cacheDiskSize</div>
@@ -58,9 +59,9 @@ When not set, no change is made to the current value.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
-<li><a href="../../mapview.datasource/RasterDataSourceConfigurationUpdate-class.html">/sdk-for-flutter-explore-mapview-datasource-rasterdatasourceconfigurationupdate-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-rasterdatasourceconfigurationupdate-class</li>
 <li class="self-crumb">cacheDiskSize property</li>
 </ol>
 <h5>RasterDataSourceConfigurationUpdate class</h5>
@@ -77,4 +78,5 @@ When not set, no change is made to the current value.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "evCarOptions property"
 slug: "sdk-for-flutter-explore-routing-isolineoptions-evcaroptions"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- evCarOptions.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-routing-isolineoptions-evcaroptions"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/IsolineOptions-class.html">/sdk-for-flutter-explore-routing-isolineoptions-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-isolineoptions-class</li>
 <li class="self-crumb">evCarOptions property</li>
 </ol>
 <div class="self-name">evCarOptions</div>
@@ -39,20 +40,20 @@ menu
 <section class="multi-line-signature">
 <div>
 <ol class="annotation-list">
-<li>@Deprecated("Will be removed in v4.28.0. Use the `routing_options` instead.")</li>
+<li>@Deprecated("Will be removed in v4.28.0. Use the <code>routing_options</code> instead.")</li>
 </ol>
 </div>
-<a class="deprecated" href="../../routing/EVCarOptions-class.html">/sdk-for-flutter-explore-routing-evcaroptions-class</a>?
+/sdk-for-flutter-explore-routing-evcaroptions-class?
         evCarOptions
 <div class="features">getter/setter pair</div>
 </section>
 <section class="desc markdown">
 <p>Specifies options for calculation of isolines for electric car.
-Mutually exclusive with <a class="deprecated" href="../../routing/IsolineOptions/carOptions.html">/sdk-for-flutter-explore-routing-isolineoptions-caroptions</a>, <a class="deprecated" href="../../routing/IsolineOptions/truckOptions.html">/sdk-for-flutter-explore-routing-isolineoptions-truckoptions</a>, <a class="deprecated" href="../../routing/IsolineOptions/evTruckOptions.html">/sdk-for-flutter-explore-routing-isolineoptions-evtruckoptions</a> and <a href="../../routing/IsolineOptions/routingOptions.html">/sdk-for-flutter-explore-routing-isolineoptions-routingoptions</a>.</p>
+Mutually exclusive with /sdk-for-flutter-explore-routing-isolineoptions-caroptions, /sdk-for-flutter-explore-routing-isolineoptions-truckoptions, /sdk-for-flutter-explore-routing-isolineoptions-evtruckoptions and /sdk-for-flutter-explore-routing-isolineoptions-routingoptions.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
-<pre class="language-dart"><code class="language-dart">@Deprecated("Will be removed in v4.28.0. Use the `routing_options` instead.")
+<pre class="language-dart"><code class="language-dart">@Deprecated("Will be removed in v4.28.0. Use the routing_options instead.")
 EVCarOptions? evCarOptions;</code></pre>
 </section>
 </div>
@@ -63,9 +64,9 @@ EVCarOptions? evCarOptions;</code></pre>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/IsolineOptions-class.html">/sdk-for-flutter-explore-routing-isolineoptions-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-isolineoptions-class</li>
 <li class="self-crumb">evCarOptions property</li>
 </ol>
 <h5>IsolineOptions class</h5>
@@ -82,4 +83,5 @@ EVCarOptions? evCarOptions;</code></pre>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "corridorArea property"
 slug: "sdk-for-flutter-explore-search-categoryqueryarea-corridorarea"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- corridorArea.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-search-categoryqueryarea-corridorarea"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/CategoryQueryArea-class.html">/sdk-for-flutter-explore-search-categoryqueryarea-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-categoryqueryarea-class</li>
 <li class="self-crumb">corridorArea property</li>
 </ol>
 <div class="self-name">corridorArea</div>
@@ -37,7 +38,7 @@ menu
 <div>
 <h1>corridorArea property</h1></div>
 <section class="multi-line-signature">
-<a href="../../core/GeoCorridor-class.html">/sdk-for-flutter-explore-core-geocorridor-class</a>?
+/sdk-for-flutter-explore-core-geocorridor-class?
         corridorArea
 <div class="features">final</div>
 </section>
@@ -53,9 +54,9 @@ half-width can be increased or not set.
 For example: Route between New York and Chicago with half-width 800 will be added to request
 without removing the far away part, but route of the same length (around 360km) between
 Milan (Italy) and Konstanz (Germany) will have the far away part removed due to its complexity.</p>
-<p>When <a href="../../search/CategoryQueryArea/corridorArea.html">/sdk-for-flutter-explore-search-categoryqueryarea-corridorarea</a> is provided,
-<a href="../../search/CategoryQueryArea/areaCenter.html">/sdk-for-flutter-explore-search-categoryqueryarea-areacenter</a> has to be within it, otherwise
-<a href="../../search/CategoryQueryArea/areaCenter.html">/sdk-for-flutter-explore-search-categoryqueryarea-areacenter</a> is ignored when searching.</p>
+<p>When /sdk-for-flutter-explore-search-categoryqueryarea-corridorarea is provided,
+/sdk-for-flutter-explore-search-categoryqueryarea-areacenter has to be within it, otherwise
+/sdk-for-flutter-explore-search-categoryqueryarea-areacenter is ignored when searching.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -69,9 +70,9 @@ Milan (Italy) and Konstanz (Germany) will have the far away part removed due to 
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/CategoryQueryArea-class.html">/sdk-for-flutter-explore-search-categoryqueryarea-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-categoryqueryarea-class</li>
 <li class="self-crumb">corridorArea property</li>
 </ol>
 <h5>CategoryQueryArea class</h5>
@@ -88,4 +89,5 @@ Milan (Italy) and Konstanz (Germany) will have the far away part removed due to 
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

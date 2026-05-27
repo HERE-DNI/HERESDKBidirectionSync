@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "TransitTransport constructor"
 slug: "sdk-for-flutter-explore-routing-transittransport-transittransport"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- TransitTransport.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-routing-transittransport-transittransport"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/TransitTransport-class.html">/sdk-for-flutter-explore-routing-transittransport-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-transittransport-class</li>
 <li class="self-crumb">TransitTransport constructor</li>
 </ol>
 <div class="self-name">TransitTransport</div>
@@ -37,7 +38,7 @@ menu
 <div>
 <h1>TransitTransport constructor</h1></div>
 <section class="multi-line-signature">
-TransitTransport(<wbr/><ol class="parameter-list"> <li><a href="../../routing/TransitMode.html">/sdk-for-flutter-explore-routing-transitmode</a> mode, </li>
+TransitTransport(<wbr/><ol class="parameter-list"> <li>/sdk-for-flutter-explore-routing-transitmode mode, </li>
 <li>String? name, </li>
 <li>String? headsign, </li>
 <li>String? category, </li>
@@ -68,9 +69,9 @@ TransitTransport(<wbr/><ol class="parameter-list"> <li><a href="../../routing/Tr
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/TransitTransport-class.html">/sdk-for-flutter-explore-routing-transittransport-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-transittransport-class</li>
 <li class="self-crumb">TransitTransport constructor</li>
 </ol>
 <h5>TransitTransport class</h5>
@@ -87,4 +88,5 @@ TransitTransport(<wbr/><ol class="parameter-list"> <li><a href="../../routing/Tr
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

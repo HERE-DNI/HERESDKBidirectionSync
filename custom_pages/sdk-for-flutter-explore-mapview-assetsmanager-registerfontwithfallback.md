@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "registerFontWithFallback abstract method"
 slug: "sdk-for-flutter-explore-mapview-assetsmanager-registerfontwithfallback"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- registerFontWithFallback.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-assetsmanager-registerfontwithfallback"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/AssetsManager-class.html">/sdk-for-flutter-explore-mapview-assetsmanager-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-assetsmanager-class</li>
 <li class="self-crumb">registerFontWithFallback abstract method</li>
 </ol>
 <div class="self-name">registerFontWithFallback</div>
@@ -50,8 +51,8 @@ registerFontWithFallback(<wbr/><ol class="parameter-list single-line"> <li>Strin
 <p>Registers a font set under a font name.</p>
 <p>After registration, the font name can be used in</p>
 <ul>
-<li>the SVG <code>text</code> tag as <code>font-family</code> attribute parameter when creating a <a href="../../mapview/MapImage-class.html">/sdk-for-flutter-explore-mapview-mapimage-class</a> with <code>ImageFormat.SVG</code>.</li>
-<li><a href="../../mapview/MapMarkerTextStyle-class.html">/sdk-for-flutter-explore-mapview-mapmarkertextstyle-class</a></li>
+<li>the SVG <code>text</code> tag as <code>font-family</code> attribute parameter when creating a /sdk-for-flutter-explore-mapview-mapimage-class with <code>ImageFormat.SVG</code>.</li>
+<li>/sdk-for-flutter-explore-mapview-mapmarkertextstyle-class</li>
 </ul>
 <p>Repeated registration with the same font name is ignored.</p>
 <ul>
@@ -80,9 +81,9 @@ does not contain required character symbol and shall be sorted starting from mos
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/AssetsManager-class.html">/sdk-for-flutter-explore-mapview-assetsmanager-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-assetsmanager-class</li>
 <li class="self-crumb">registerFontWithFallback abstract method</li>
 </ol>
 <h5>AssetsManager class</h5>
@@ -99,4 +100,5 @@ does not contain required character symbol and shall be sorted starting from mos
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

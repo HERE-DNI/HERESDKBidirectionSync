@@ -3,7 +3,8 @@ title: "values constant"
 slug: "sdk-for-flutter-explore-ev-evsecapability-values-constant"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- values-constant.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-ev-evsecapability-values-constant"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../ev/ev-library.html">/sdk-for-flutter-explore-ev-ev-library</a></li>
-<li><a href="../../ev/EVSECapability.html">/sdk-for-flutter-explore-ev-evsecapability</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-ev-ev-library</li>
+<li>/sdk-for-flutter-explore-ev-evsecapability</li>
 <li class="self-crumb">values constant</li>
 </ol>
 <div class="self-name">values</div>
@@ -38,7 +39,7 @@ menu
 <h1>values constant</h1></div>
 <section class="multi-line-signature">
         
-        List&lt;<wbr/><a href="../../ev/EVSECapability.html">/sdk-for-flutter-explore-ev-evsecapability</a>&gt;
+        List&lt;<wbr/>/sdk-for-flutter-explore-ev-evsecapability&gt;
         const values
 </section>
 <section class="desc markdown">
@@ -52,9 +53,9 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../ev/ev-library.html">/sdk-for-flutter-explore-ev-ev-library</a></li>
-<li><a href="../../ev/EVSECapability.html">/sdk-for-flutter-explore-ev-evsecapability</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-ev-ev-library</li>
+<li>/sdk-for-flutter-explore-ev-evsecapability</li>
 <li class="self-crumb">values constant</li>
 </ol>
 <h5>EVSECapability enum</h5>
@@ -71,4 +72,5 @@ menu
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "minPowerInKilowatts property"
 slug: "sdk-for-flutter-explore-search-placefilterev-minpowerinkilowatts"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- minPowerInKilowatts.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-search-placefilterev-minpowerinkilowatts"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/PlaceFilterEv-class.html">/sdk-for-flutter-explore-search-placefilterev-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-placefilterev-class</li>
 <li class="self-crumb">minPowerInKilowatts property</li>
 </ol>
 <div class="self-name">minPowerInKilowatts</div>
@@ -59,9 +60,9 @@ Not supported for <code>suggestByText</code> in <code>OfflineSearchEngine</code>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/PlaceFilterEv-class.html">/sdk-for-flutter-explore-search-placefilterev-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-placefilterev-class</li>
 <li class="self-crumb">minPowerInKilowatts property</li>
 </ol>
 <h5>PlaceFilterEv class</h5>
@@ -78,4 +79,5 @@ Not supported for <code>suggestByText</code> in <code>OfflineSearchEngine</code>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

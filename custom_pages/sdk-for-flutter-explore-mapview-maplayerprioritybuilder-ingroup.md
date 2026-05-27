@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "inGroup abstract method"
 slug: "sdk-for-flutter-explore-mapview-maplayerprioritybuilder-ingroup"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- inGroup.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-maplayerprioritybuilder-ingroup"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapLayerPriorityBuilder-class.html">/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-class</li>
 <li class="self-crumb">inGroup abstract method</li>
 </ol>
 <div class="self-name">inGroup</div>
@@ -37,7 +38,7 @@ menu
 <div>
 <h1>inGroup abstract method</h1></div>
 <section class="multi-line-signature">
-<a href="../../mapview/MapLayerPriorityBuilder-class.html">/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-class</a>
+/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-class
 inGroup(<wbr/><ol class="parameter-list single-line"> <li>String group</li>
 </ol>)
 
@@ -54,15 +55,15 @@ Only one group or no group can be defined per layer priority and layer category 
 different layers can set priorities for the same group.
 After a priority is defined by calling one of the aforementioned functions, the current group
 is cleared and the builder refers again to the global layer list in the scene.
-Note that a group needs to exist when the built <a href="../../mapview/MapLayerPriority-class.html">/sdk-for-flutter-explore-mapview-maplayerpriority-class</a> is used during a
-<a href="../../mapview/MapLayerBuilder/build.html">/sdk-for-flutter-explore-mapview-maplayerbuilder-build</a> or <a href="../../mapview/MapLayer/setPriority.html">/sdk-for-flutter-explore-mapview-maplayer-setpriority</a>, otherwise the priority
+Note that a group needs to exist when the built /sdk-for-flutter-explore-mapview-maplayerpriority-class is used during a
+/sdk-for-flutter-explore-mapview-maplayerbuilder-build or /sdk-for-flutter-explore-mapview-maplayer-setpriority, otherwise the priority
 cannot be applied and the layer will render nothing to the group.
 Note: This is a beta release of this feature, so there could be a few bugs and unexpected behavior.
 Related APIs may change for new releases without a deprecation process.</p>
 <ul>
-<li><code>group</code> The name of the group. For instance the name of a <a href="../../mapview/TranslucentMapLayerGroup-class.html">/sdk-for-flutter-explore-mapview-translucentmaplayergroup-class</a>.</li>
+<li><code>group</code> The name of the group. For instance the name of a /sdk-for-flutter-explore-mapview-translucentmaplayergroup-class.</li>
 </ul>
-<p>Returns <a href="../../mapview/MapLayerPriorityBuilder-class.html">/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-class</a>. This class instance.</p>
+<p>Returns /sdk-for-flutter-explore-mapview-maplayerprioritybuilder-class. This class instance.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -76,9 +77,9 @@ Related APIs may change for new releases without a deprecation process.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapLayerPriorityBuilder-class.html">/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-class</li>
 <li class="self-crumb">inGroup abstract method</li>
 </ol>
 <h5>MapLayerPriorityBuilder class</h5>
@@ -95,4 +96,5 @@ Related APIs may change for new releases without a deprecation process.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

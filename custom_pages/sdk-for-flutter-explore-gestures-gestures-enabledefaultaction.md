@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "enableDefaultAction abstract method"
 slug: "sdk-for-flutter-explore-gestures-gestures-enabledefaultaction"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- enableDefaultAction.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-gestures-gestures-enabledefaultaction"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../gestures/gestures-library.html">/sdk-for-flutter-explore-gestures-gestures-library</a></li>
-<li><a href="../../gestures/Gestures-class.html">/sdk-for-flutter-explore-gestures-gestures-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-gestures-gestures-library</li>
+<li>/sdk-for-flutter-explore-gestures-gestures-class</li>
 <li class="self-crumb">enableDefaultAction abstract method</li>
 </ol>
 <div class="self-name">enableDefaultAction</div>
@@ -38,7 +39,7 @@ menu
 <h1>enableDefaultAction abstract method</h1></div>
 <section class="multi-line-signature">
 void
-enableDefaultAction(<wbr/><ol class="parameter-list single-line"> <li><a href="../../gestures/GestureType.html">/sdk-for-flutter-explore-gestures-gesturetype</a> gestureType</li>
+enableDefaultAction(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-gestures-gesturetype gestureType</li>
 </ol>)
 
       
@@ -63,9 +64,9 @@ gesture.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../gestures/gestures-library.html">/sdk-for-flutter-explore-gestures-gestures-library</a></li>
-<li><a href="../../gestures/Gestures-class.html">/sdk-for-flutter-explore-gestures-gestures-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-gestures-gestures-library</li>
+<li>/sdk-for-flutter-explore-gestures-gestures-class</li>
 <li class="self-crumb">enableDefaultAction abstract method</li>
 </ol>
 <h5>Gestures class</h5>
@@ -82,4 +83,5 @@ gesture.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

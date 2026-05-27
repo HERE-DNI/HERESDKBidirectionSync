@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "PostAction class"
 slug: "sdk-for-flutter-explore-routing-postaction-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- PostAction-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -27,8 +28,8 @@ slug: "sdk-for-flutter-explore-routing-postaction-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
 <li class="self-crumb">PostAction class</li>
 </ol>
 <div class="self-name">PostAction</div>
@@ -59,7 +60,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="PostAction">
-<a href="../routing/PostAction/PostAction.html">/sdk-for-flutter-explore-routing-postaction-postaction</a>()
+/sdk-for-flutter-explore-routing-postaction-postaction()
 </dt>
 <dd>
 </dd>
@@ -69,24 +70,24 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="action">
-<a href="../routing/PostAction/action.html">/sdk-for-flutter-explore-routing-postaction-action</a>
-↔ <a href="../routing/PostActionType.html">/sdk-for-flutter-explore-routing-postactiontype</a>
+/sdk-for-flutter-explore-routing-postaction-action
+↔ /sdk-for-flutter-explore-routing-postactiontype
 </dt>
 <dd>
   Type of this action.
-Defaults to <a href="../routing/PostActionType.html">/sdk-for-flutter-explore-routing-postactiontype</a>.
+Defaults to /sdk-for-flutter-explore-routing-postactiontype.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="chargingDetails">
-<a href="../routing/PostAction/chargingDetails.html">/sdk-for-flutter-explore-routing-postaction-chargingdetails</a>
-↔ <a href="../routing/ChargingActionDetails-class.html">/sdk-for-flutter-explore-routing-chargingactiondetails-class</a>?
+/sdk-for-flutter-explore-routing-postaction-chargingdetails
+↔ /sdk-for-flutter-explore-routing-chargingactiondetails-class?
 </dt>
 <dd>
   The additional information that is available if the action is of type charging.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="duration">
-<a href="../routing/PostAction/duration.html">/sdk-for-flutter-explore-routing-postaction-duration</a>
+/sdk-for-flutter-explore-routing-postaction-duration
 ↔ Duration
 </dt>
 <dd>
@@ -95,7 +96,7 @@ Defaults to 0 seconds.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-<a href="../routing/PostAction/hashCode.html">/sdk-for-flutter-explore-routing-postaction-hashcode</a>
+/sdk-for-flutter-explore-routing-postaction-hashcode
 → int
 </dt>
 <dd>
@@ -103,7 +104,7 @@ Defaults to 0 seconds.
   <div class="features">no setter</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../routing/PostAction/runtimeType.html">/sdk-for-flutter-explore-routing-postaction-runtimetype</a>
+/sdk-for-flutter-explore-routing-postaction-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -116,7 +117,7 @@ Defaults to 0 seconds.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../routing/PostAction/noSuchMethod.html">/sdk-for-flutter-explore-routing-postaction-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-routing-postaction-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -125,7 +126,7 @@ Defaults to 0 seconds.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../routing/PostAction/toString.html">/sdk-for-flutter-explore-routing-postaction-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-routing-postaction-tostring(<wbr/>)
     → String
 
 </dt>
@@ -139,7 +140,7 @@ Defaults to 0 seconds.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-<a href="../routing/PostAction/operator_equals.html">/sdk-for-flutter-explore-routing-postaction-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-routing-postaction-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -158,8 +159,8 @@ Defaults to 0 seconds.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
 <li class="self-crumb">PostAction class</li>
 </ol>
 <h5>routing library</h5>
@@ -176,4 +177,5 @@ Defaults to 0 seconds.
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

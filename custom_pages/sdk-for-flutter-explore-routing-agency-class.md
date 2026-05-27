@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "Agency class"
 slug: "sdk-for-flutter-explore-routing-agency-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- Agency-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -26,8 +27,8 @@ slug: "sdk-for-flutter-explore-routing-agency-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
 <li class="self-crumb">Agency class</li>
 </ol>
 <div class="self-name">Agency</div>
@@ -57,7 +58,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="Agency">
-<a href="../routing/Agency/Agency.html">/sdk-for-flutter-explore-routing-agency-agency</a>(String id, String name)
+/sdk-for-flutter-explore-routing-agency-agency(String id, String name)
 </dt>
 <dd>
 </dd>
@@ -67,7 +68,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="hashCode">
-<a href="../routing/Agency/hashCode.html">/sdk-for-flutter-explore-routing-agency-hashcode</a>
+/sdk-for-flutter-explore-routing-agency-hashcode
 → int
 </dt>
 <dd>
@@ -75,7 +76,7 @@ menu
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="name">
-<a href="../routing/Agency/name.html">/sdk-for-flutter-explore-routing-agency-name</a>
+/sdk-for-flutter-explore-routing-agency-name
 ↔ String
 </dt>
 <dd>
@@ -83,7 +84,7 @@ menu
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../routing/Agency/runtimeType.html">/sdk-for-flutter-explore-routing-agency-runtimetype</a>
+/sdk-for-flutter-explore-routing-agency-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -91,7 +92,7 @@ menu
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="website">
-<a href="../routing/Agency/website.html">/sdk-for-flutter-explore-routing-agency-website</a>
+/sdk-for-flutter-explore-routing-agency-website
 ↔ String?
 </dt>
 <dd>
@@ -104,7 +105,7 @@ menu
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../routing/Agency/noSuchMethod.html">/sdk-for-flutter-explore-routing-agency-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-routing-agency-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -113,7 +114,7 @@ menu
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../routing/Agency/toString.html">/sdk-for-flutter-explore-routing-agency-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-routing-agency-tostring(<wbr/>)
     → String
 
 </dt>
@@ -127,7 +128,7 @@ menu
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-<a href="../routing/Agency/operator_equals.html">/sdk-for-flutter-explore-routing-agency-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-routing-agency-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -146,8 +147,8 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
 <li class="self-crumb">Agency class</li>
 </ol>
 <h5>routing library</h5>
@@ -164,4 +165,5 @@ menu
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

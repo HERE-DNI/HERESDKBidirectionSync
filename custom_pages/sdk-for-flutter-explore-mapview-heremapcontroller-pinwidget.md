@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "pinWidget abstract method"
 slug: "sdk-for-flutter-explore-mapview-heremapcontroller-pinwidget"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- pinWidget.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-heremapcontroller-pinwidget"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/HereMapController-class.html">/sdk-for-flutter-explore-mapview-heremapcontroller-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-heremapcontroller-class</li>
 <li class="self-crumb">pinWidget abstract method</li>
 </ol>
 <div class="self-name">pinWidget</div>
@@ -37,10 +38,10 @@ menu
 <div>
 <h1>pinWidget abstract method</h1></div>
 <section class="multi-line-signature">
-<a href="../../mapview/WidgetPin-class.html">/sdk-for-flutter-explore-mapview-widgetpin-class</a>?
+/sdk-for-flutter-explore-mapview-widgetpin-class?
 pinWidget(<wbr/><ol class="parameter-list"> <li>Widget widget, </li>
-<li><a href="../../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a> coordinates, {</li>
-<li><a href="../../core/Anchor2D-class.html">/sdk-for-flutter-explore-core-anchor2d-class</a>? anchor, </li>
+<li>/sdk-for-flutter-explore-core-geocoordinates-class coordinates, {</li>
+<li>/sdk-for-flutter-explore-core-anchor2d-class? anchor, </li>
 </ol>})
 
       
@@ -54,7 +55,7 @@ When not set, the coordinates are interpreted as at ground level.</p>
 <p><code>widget</code> Widget to pin</p>
 <p><code>coordinates</code> GeoCoordinates to pin the widget at</p>
 <p><code>anchor</code> The anchor point for the widget which specifies the position offset relative to the widget's coordinates.</p>
-<p>Returns <a href="../../mapview/WidgetPin-class.html">/sdk-for-flutter-explore-mapview-widgetpin-class</a> a pin proxy object</p>
+<p>Returns /sdk-for-flutter-explore-mapview-widgetpin-class a pin proxy object</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -68,9 +69,9 @@ When not set, the coordinates are interpreted as at ground level.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/HereMapController-class.html">/sdk-for-flutter-explore-mapview-heremapcontroller-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-heremapcontroller-class</li>
 <li class="self-crumb">pinWidget abstract method</li>
 </ol>
 <h5>HereMapController class</h5>
@@ -87,4 +88,5 @@ When not set, the coordinates are interpreted as at ground level.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

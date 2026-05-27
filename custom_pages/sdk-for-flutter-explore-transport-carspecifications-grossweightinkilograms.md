@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "grossWeightInKilograms property"
 slug: "sdk-for-flutter-explore-transport-carspecifications-grossweightinkilograms"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- grossWeightInKilograms.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-transport-carspecifications-grossweightinkilogram
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
-<li><a href="../../transport/CarSpecifications-class.html">/sdk-for-flutter-explore-transport-carspecifications-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-transport-transport-library</li>
+<li>/sdk-for-flutter-explore-transport-carspecifications-class</li>
 <li class="self-crumb">grossWeightInKilograms property</li>
 </ol>
 <div class="self-name">grossWeightInKilograms</div>
@@ -60,9 +61,9 @@ This parameter is limited to a maximum weight of 4250 kg without trailer and 755
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
-<li><a href="../../transport/CarSpecifications-class.html">/sdk-for-flutter-explore-transport-carspecifications-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-transport-transport-library</li>
+<li>/sdk-for-flutter-explore-transport-carspecifications-class</li>
 <li class="self-crumb">grossWeightInKilograms property</li>
 </ol>
 <h5>CarSpecifications class</h5>
@@ -79,4 +80,5 @@ This parameter is limited to a maximum weight of 4250 kg without trailer and 755
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

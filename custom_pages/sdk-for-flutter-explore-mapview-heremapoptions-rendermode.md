@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "renderMode property"
 slug: "sdk-for-flutter-explore-mapview-heremapoptions-rendermode"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- renderMode.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-heremapoptions-rendermode"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/HereMapOptions-class.html">/sdk-for-flutter-explore-mapview-heremapoptions-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-heremapoptions-class</li>
 <li class="self-crumb">renderMode property</li>
 </ol>
 <div class="self-name">renderMode</div>
@@ -37,13 +38,13 @@ menu
 <div>
 <h1>renderMode property</h1></div>
 <section class="multi-line-signature">
-<a href="../../mapview/MapRenderMode.html">/sdk-for-flutter-explore-mapview-maprendermode</a>
+/sdk-for-flutter-explore-mapview-maprendermode
 renderMode
 <div class="features">getter/setter pair</div>
 </section>
 <section class="desc markdown">
 <p>For Android only: specifies whether the <code>SurfaceView</code> or <code>TextureView</code> is used for map rendering.
-Defaults to <a href="../../mapview/MapRenderMode.html">/sdk-for-flutter-explore-mapview-maprendermode</a>.</p>
+Defaults to /sdk-for-flutter-explore-mapview-maprendermode.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -57,9 +58,9 @@ Defaults to <a href="../../mapview/MapRenderMode.html">/sdk-for-flutter-explore-
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/HereMapOptions-class.html">/sdk-for-flutter-explore-mapview-heremapoptions-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-heremapoptions-class</li>
 <li class="self-crumb">renderMode property</li>
 </ol>
 <h5>HereMapOptions class</h5>
@@ -76,4 +77,5 @@ Defaults to <a href="../../mapview/MapRenderMode.html">/sdk-for-flutter-explore-
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

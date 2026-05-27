@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "getGeometry abstract method"
 slug: "sdk-for-flutter-explore-mapview-datasource-polygondataaccessor-getgeometry"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- getGeometry.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-datasource-polygondataaccessor-getgeometr
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
-<li><a href="../../mapview.datasource/PolygonDataAccessor-class.html">/sdk-for-flutter-explore-mapview-datasource-polygondataaccessor-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-polygondataaccessor-class</li>
 <li class="self-crumb">getGeometry abstract method</li>
 </ol>
 <div class="self-name">getGeometry</div>
@@ -37,7 +38,7 @@ menu
 <div>
 <h1>getGeometry abstract method</h1></div>
 <section class="multi-line-signature">
-<a href="../../core/GeoPolygon-class.html">/sdk-for-flutter-explore-core-geopolygon-class</a>
+/sdk-for-flutter-explore-core-geopolygon-class
 getGeometry(<wbr/>)
 
       
@@ -45,7 +46,7 @@ getGeometry(<wbr/>)
     </section>
 <section class="desc markdown">
 <p>Gets polygon geometry.</p>
-<p>Returns <a href="../../core/GeoPolygon-class.html">/sdk-for-flutter-explore-core-geopolygon-class</a>. The polygon geometry.</p>
+<p>Returns /sdk-for-flutter-explore-core-geopolygon-class. The polygon geometry.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -59,9 +60,9 @@ getGeometry(<wbr/>)
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
-<li><a href="../../mapview.datasource/PolygonDataAccessor-class.html">/sdk-for-flutter-explore-mapview-datasource-polygondataaccessor-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-polygondataaccessor-class</li>
 <li class="self-crumb">getGeometry abstract method</li>
 </ol>
 <h5>PolygonDataAccessor class</h5>
@@ -78,4 +79,5 @@ getGeometry(<wbr/>)
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

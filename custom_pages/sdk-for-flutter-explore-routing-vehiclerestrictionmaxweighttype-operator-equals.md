@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "operator == method"
 slug: "sdk-for-flutter-explore-routing-vehiclerestrictionmaxweighttype-operator-equals"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- operator_equals.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-routing-vehiclerestrictionmaxweighttype-operator-
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/VehicleRestrictionMaxWeightType.html">/sdk-for-flutter-explore-routing-vehiclerestrictionmaxweighttype</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-vehiclerestrictionmaxweighttype</li>
 <li class="self-crumb">operator == method</li>
 </ol>
 <div class="self-name">operator ==</div>
@@ -84,9 +85,9 @@ the <code>hashCode</code> method as well to maintain consistency.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/VehicleRestrictionMaxWeightType.html">/sdk-for-flutter-explore-routing-vehiclerestrictionmaxweighttype</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-vehiclerestrictionmaxweighttype</li>
 <li class="self-crumb">operator == method</li>
 </ol>
 <h5>VehicleRestrictionMaxWeightType enum</h5>
@@ -103,4 +104,5 @@ the <code>hashCode</code> method as well to maintain consistency.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

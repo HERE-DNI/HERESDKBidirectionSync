@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "highDensityEncodingEnabled property"
 slug: "sdk-for-flutter-explore-search-searchoptions-highdensityencodingenabled"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- highDensityEncodingEnabled.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-search-searchoptions-highdensityencodingenabled"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/SearchOptions-class.html">/sdk-for-flutter-explore-search-searchoptions-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-searchoptions-class</li>
 <li class="self-crumb">highDensityEncodingEnabled property</li>
 </ol>
 <div class="self-name">highDensityEncodingEnabled</div>
@@ -50,7 +51,7 @@ Only supported for search in <code>SearchEngine</code>, otherwise it is ignored.
 unexpected behaviors.
 Related APIs may change for new releases without a deprecation process.
 Only participants of the closed-alpha group can get access from HERE to use this feature,
-otherwise, a <a href="../../search/SearchError.html">/sdk-for-flutter-explore-search-searcherror</a> will be propagated in callbacks.</p>
+otherwise, a /sdk-for-flutter-explore-search-searcherror will be propagated in callbacks.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -64,9 +65,9 @@ otherwise, a <a href="../../search/SearchError.html">/sdk-for-flutter-explore-se
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/SearchOptions-class.html">/sdk-for-flutter-explore-search-searchoptions-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-searchoptions-class</li>
 <li class="self-crumb">highDensityEncodingEnabled property</li>
 </ol>
 <h5>SearchOptions class</h5>
@@ -83,4 +84,5 @@ otherwise, a <a href="../../search/SearchError.html">/sdk-for-flutter-explore-se
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

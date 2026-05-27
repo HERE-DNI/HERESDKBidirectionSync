@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "EngineOptions class"
 slug: "sdk-for-flutter-explore-core-engine-engineoptions-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- EngineOptions-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -26,8 +27,8 @@ slug: "sdk-for-flutter-explore-core-engine-engineoptions-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
 <li class="self-crumb">EngineOptions class</li>
 </ol>
 <div class="self-name">EngineOptions</div>
@@ -59,7 +60,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="EngineOptions">
-<a href="../core.engine/EngineOptions/EngineOptions.html">/sdk-for-flutter-explore-core-engine-engineoptions-engineoptions</a>()
+/sdk-for-flutter-explore-core-engine-engineoptions-engineoptions()
 </dt>
 <dd>
           Creates a new instance with default values.
@@ -70,8 +71,8 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="customAuthenticationMode">
-<a href="../core.engine/EngineOptions/customAuthenticationMode.html">/sdk-for-flutter-explore-core-engine-engineoptions-customauthenticationmode</a>
-↔ <a href="../core.engine/AuthenticationMode-class.html">/sdk-for-flutter-explore-core-engine-authenticationmode-class</a>?
+/sdk-for-flutter-explore-core-engine-engineoptions-customauthenticationmode
+↔ /sdk-for-flutter-explore-core-engine-authenticationmode-class?
 </dt>
 <dd>
   Allows bearer authentication mode for engines. This mode adds a header
@@ -81,7 +82,7 @@ or retrieved via key/secret from a dedicated backend.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="customBaseUrl">
-<a href="../core.engine/EngineOptions/customBaseUrl.html">/sdk-for-flutter-explore-core-engine-engineoptions-custombaseurl</a>
+/sdk-for-flutter-explore-core-engine-engineoptions-custombaseurl
 ↔ String?
 </dt>
 <dd>
@@ -92,7 +93,7 @@ Please contact your HERE representative to learn about possible custom base URL 
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-<a href="../core.engine/EngineOptions/hashCode.html">/sdk-for-flutter-explore-core-engine-engineoptions-hashcode</a>
+/sdk-for-flutter-explore-core-engine-engineoptions-hashcode
 → int
 </dt>
 <dd>
@@ -100,7 +101,7 @@ Please contact your HERE representative to learn about possible custom base URL 
   <div class="features">no setter</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../core.engine/EngineOptions/runtimeType.html">/sdk-for-flutter-explore-core-engine-engineoptions-runtimetype</a>
+/sdk-for-flutter-explore-core-engine-engineoptions-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -113,7 +114,7 @@ Please contact your HERE representative to learn about possible custom base URL 
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../core.engine/EngineOptions/noSuchMethod.html">/sdk-for-flutter-explore-core-engine-engineoptions-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-core-engine-engineoptions-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -122,7 +123,7 @@ Please contact your HERE representative to learn about possible custom base URL 
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../core.engine/EngineOptions/toString.html">/sdk-for-flutter-explore-core-engine-engineoptions-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-core-engine-engineoptions-tostring(<wbr/>)
     → String
 
 </dt>
@@ -136,7 +137,7 @@ Please contact your HERE representative to learn about possible custom base URL 
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-<a href="../core.engine/EngineOptions/operator_equals.html">/sdk-for-flutter-explore-core-engine-engineoptions-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-core-engine-engineoptions-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -155,8 +156,8 @@ Please contact your HERE representative to learn about possible custom base URL 
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
 <li class="self-crumb">EngineOptions class</li>
 </ol>
 <h5>core.engine library</h5>
@@ -173,4 +174,5 @@ Please contact your HERE representative to learn about possible custom base URL 
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

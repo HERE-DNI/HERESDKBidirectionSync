@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "radians property"
 slug: "sdk-for-flutter-explore-core-angle-radians"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- radians.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-core-angle-radians"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
-<li><a href="../../core/Angle-class.html">/sdk-for-flutter-explore-core-angle-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
+<li>/sdk-for-flutter-explore-core-angle-class</li>
 <li class="self-crumb">radians property</li>
 </ol>
 <div class="self-name">radians</div>
@@ -58,9 +59,9 @@ Gets the value of this angle in radians.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
-<li><a href="../../core/Angle-class.html">/sdk-for-flutter-explore-core-angle-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
+<li>/sdk-for-flutter-explore-core-angle-class</li>
 <li class="self-crumb">radians property</li>
 </ol>
 <h5>Angle class</h5>
@@ -77,4 +78,5 @@ Gets the value of this angle in radians.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "EVMobilityServiceProviderPreferences class"
 slug: "sdk-for-flutter-explore-routing-evmobilityserviceproviderpreferences-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- EVMobilityServiceProviderPreferences-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -27,8 +28,8 @@ slug: "sdk-for-flutter-explore-routing-evmobilityserviceproviderpreferences-clas
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
 <li class="self-crumb">EVMobilityServiceProviderPreferences class</li>
 </ol>
 <div class="self-name">EVMobilityServiceProviderPreferences</div>
@@ -63,7 +64,7 @@ Defaults to using all available providers with no prioritization.</p>
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="EVMobilityServiceProviderPreferences">
-<a href="../routing/EVMobilityServiceProviderPreferences/EVMobilityServiceProviderPreferences.html">/sdk-for-flutter-explore-routing-evmobilityserviceproviderpreferences-evmobilityserviceproviderpreferences</a>()
+/sdk-for-flutter-explore-routing-evmobilityserviceproviderpreferences-evmobilityserviceproviderpreferences()
 </dt>
 <dd>
 </dd>
@@ -73,7 +74,7 @@ Defaults to using all available providers with no prioritization.</p>
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="hashCode">
-<a href="../routing/EVMobilityServiceProviderPreferences/hashCode.html">/sdk-for-flutter-explore-routing-evmobilityserviceproviderpreferences-hashcode</a>
+/sdk-for-flutter-explore-routing-evmobilityserviceproviderpreferences-hashcode
 → int
 </dt>
 <dd>
@@ -81,7 +82,7 @@ Defaults to using all available providers with no prioritization.</p>
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="high">
-<a href="../routing/EVMobilityServiceProviderPreferences/high.html">/sdk-for-flutter-explore-routing-evmobilityserviceproviderpreferences-high</a>
+/sdk-for-flutter-explore-routing-evmobilityserviceproviderpreferences-high
 ↔ List&lt;<wbr/>String&gt;
 </dt>
 <dd>
@@ -89,7 +90,7 @@ Defaults to using all available providers with no prioritization.</p>
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="low">
-<a href="../routing/EVMobilityServiceProviderPreferences/low.html">/sdk-for-flutter-explore-routing-evmobilityserviceproviderpreferences-low</a>
+/sdk-for-flutter-explore-routing-evmobilityserviceproviderpreferences-low
 ↔ List&lt;<wbr/>String&gt;
 </dt>
 <dd>
@@ -97,7 +98,7 @@ Defaults to using all available providers with no prioritization.</p>
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="medium">
-<a href="../routing/EVMobilityServiceProviderPreferences/medium.html">/sdk-for-flutter-explore-routing-evmobilityserviceproviderpreferences-medium</a>
+/sdk-for-flutter-explore-routing-evmobilityserviceproviderpreferences-medium
 ↔ List&lt;<wbr/>String&gt;
 </dt>
 <dd>
@@ -105,7 +106,7 @@ Defaults to using all available providers with no prioritization.</p>
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../routing/EVMobilityServiceProviderPreferences/runtimeType.html">/sdk-for-flutter-explore-routing-evmobilityserviceproviderpreferences-runtimetype</a>
+/sdk-for-flutter-explore-routing-evmobilityserviceproviderpreferences-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -118,7 +119,7 @@ Defaults to using all available providers with no prioritization.</p>
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../routing/EVMobilityServiceProviderPreferences/noSuchMethod.html">/sdk-for-flutter-explore-routing-evmobilityserviceproviderpreferences-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-routing-evmobilityserviceproviderpreferences-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -127,7 +128,7 @@ Defaults to using all available providers with no prioritization.</p>
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../routing/EVMobilityServiceProviderPreferences/toString.html">/sdk-for-flutter-explore-routing-evmobilityserviceproviderpreferences-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-routing-evmobilityserviceproviderpreferences-tostring(<wbr/>)
     → String
 
 </dt>
@@ -141,7 +142,7 @@ Defaults to using all available providers with no prioritization.</p>
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-<a href="../routing/EVMobilityServiceProviderPreferences/operator_equals.html">/sdk-for-flutter-explore-routing-evmobilityserviceproviderpreferences-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-routing-evmobilityserviceproviderpreferences-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -160,8 +161,8 @@ Defaults to using all available providers with no prioritization.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
 <li class="self-crumb">EVMobilityServiceProviderPreferences class</li>
 </ol>
 <h5>routing library</h5>
@@ -178,4 +179,5 @@ Defaults to using all available providers with no prioritization.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

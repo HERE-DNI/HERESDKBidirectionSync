@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "maxPowerAtLowVoltageInKilowatts property"
 slug: "sdk-for-flutter-explore-routing-batteryspecifications-maxpoweratlowvoltageinkilowatts"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- maxPowerAtLowVoltageInKilowatts.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-routing-batteryspecifications-maxpoweratlowvoltag
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/BatterySpecifications-class.html">/sdk-for-flutter-explore-routing-batteryspecifications-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-batteryspecifications-class</li>
 <li class="self-crumb">maxPowerAtLowVoltageInKilowatts property</li>
 </ol>
 <div class="self-name">maxPowerAtLowVoltageInKilowatts</div>
@@ -46,7 +47,7 @@ menu
 <p>The maximum power in kilowatts at which a vehicle can charge under given these conditions:</p>
 <ul>
 <li>The charging station connector's maximum supply voltage is less than 800 V.</li>
-<li><a href="../../routing/BatterySpecifications/maxChargingVoltageInVolts.html">/sdk-for-flutter-explore-routing-batteryspecifications-maxchargingvoltageinvolts</a> is greater than or equal to 800 V.
+<li>/sdk-for-flutter-explore-routing-batteryspecifications-maxchargingvoltageinvolts is greater than or equal to 800 V.
 The provided value must be greater than or equal to 0. By default, it is not set.
 <strong>Note:</strong> The feature is not supported by the <code>OfflineRoutingEngine</code>.</li>
 </ul>
@@ -63,9 +64,9 @@ The provided value must be greater than or equal to 0. By default, it is not set
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/BatterySpecifications-class.html">/sdk-for-flutter-explore-routing-batteryspecifications-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-batteryspecifications-class</li>
 <li class="self-crumb">maxPowerAtLowVoltageInKilowatts property</li>
 </ol>
 <h5>BatterySpecifications class</h5>
@@ -82,4 +83,5 @@ The provided value must be greater than or equal to 0. By default, it is not set
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

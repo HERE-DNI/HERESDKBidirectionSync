@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "GeoOrientationKeyframe class"
 slug: "sdk-for-flutter-explore-animation-geoorientationkeyframe-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- GeoOrientationKeyframe-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -26,8 +27,8 @@ slug: "sdk-for-flutter-explore-animation-geoorientationkeyframe-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../animation/animation-library.html">/sdk-for-flutter-explore-animation-animation-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-animation-animation-library</li>
 <li class="self-crumb">GeoOrientationKeyframe class</li>
 </ol>
 <div class="self-name">GeoOrientationKeyframe</div>
@@ -67,7 +68,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="GeoOrientationKeyframe">
-<a href="../animation/GeoOrientationKeyframe/GeoOrientationKeyframe.html">/sdk-for-flutter-explore-animation-geoorientationkeyframe-geoorientationkeyframe</a>(<a href="../core/GeoOrientation-class.html">/sdk-for-flutter-explore-core-geoorientation-class</a> value, Duration duration)
+/sdk-for-flutter-explore-animation-geoorientationkeyframe-geoorientationkeyframe(/sdk-for-flutter-explore-core-geoorientation-class value, Duration duration)
 </dt>
 <dd>
           Constructs a GeoOrientationKeyframe from the value and offset.
@@ -79,7 +80,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="duration">
-<a href="../animation/GeoOrientationKeyframe/duration.html">/sdk-for-flutter-explore-animation-geoorientationkeyframe-duration</a>
+/sdk-for-flutter-explore-animation-geoorientationkeyframe-duration
 → Duration
 </dt>
 <dd>
@@ -88,7 +89,7 @@ Negative duration value gets clamped to 0.
   <div class="features">final</div>
 </dd>
 <dt class="property" id="hashCode">
-<a href="../animation/GeoOrientationKeyframe/hashCode.html">/sdk-for-flutter-explore-animation-geoorientationkeyframe-hashcode</a>
+/sdk-for-flutter-explore-animation-geoorientationkeyframe-hashcode
 → int
 </dt>
 <dd>
@@ -96,7 +97,7 @@ Negative duration value gets clamped to 0.
   <div class="features">no setter</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../animation/GeoOrientationKeyframe/runtimeType.html">/sdk-for-flutter-explore-animation-geoorientationkeyframe-runtimetype</a>
+/sdk-for-flutter-explore-animation-geoorientationkeyframe-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -104,8 +105,8 @@ Negative duration value gets clamped to 0.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="value">
-<a href="../animation/GeoOrientationKeyframe/value.html">/sdk-for-flutter-explore-animation-geoorientationkeyframe-value</a>
-→ <a href="../core/GeoOrientation-class.html">/sdk-for-flutter-explore-core-geoorientation-class</a>
+/sdk-for-flutter-explore-animation-geoorientationkeyframe-value
+→ /sdk-for-flutter-explore-core-geoorientation-class
 </dt>
 <dd>
   GeoOrientation keyframe value.
@@ -117,7 +118,7 @@ Negative duration value gets clamped to 0.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../animation/GeoOrientationKeyframe/noSuchMethod.html">/sdk-for-flutter-explore-animation-geoorientationkeyframe-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-animation-geoorientationkeyframe-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -126,7 +127,7 @@ Negative duration value gets clamped to 0.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../animation/GeoOrientationKeyframe/toString.html">/sdk-for-flutter-explore-animation-geoorientationkeyframe-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-animation-geoorientationkeyframe-tostring(<wbr/>)
     → String
 
 </dt>
@@ -140,7 +141,7 @@ Negative duration value gets clamped to 0.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-<a href="../animation/GeoOrientationKeyframe/operator_equals.html">/sdk-for-flutter-explore-animation-geoorientationkeyframe-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-animation-geoorientationkeyframe-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -159,8 +160,8 @@ Negative duration value gets clamped to 0.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../animation/animation-library.html">/sdk-for-flutter-explore-animation-animation-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-animation-animation-library</li>
 <li class="self-crumb">GeoOrientationKeyframe class</li>
 </ol>
 <h5>animation library</h5>
@@ -177,4 +178,5 @@ Negative duration value gets clamped to 0.
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "customEngineOptions property"
 slug: "sdk-for-flutter-explore-core-engine-sdkoptions-customengineoptions"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- customEngineOptions.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-core-engine-sdkoptions-customengineoptions"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
-<li><a href="../../core.engine/SDKOptions-class.html">/sdk-for-flutter-explore-core-engine-sdkoptions-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
+<li>/sdk-for-flutter-explore-core-engine-sdkoptions-class</li>
 <li class="self-crumb">customEngineOptions property</li>
 </ol>
 <div class="self-name">customEngineOptions</div>
@@ -38,7 +39,7 @@ menu
 <h1>customEngineOptions property</h1></div>
 <section class="multi-line-signature">
         
-        Map&lt;<wbr/><a href="../../core.engine/EngineBaseURL.html">/sdk-for-flutter-explore-core-engine-enginebaseurl</a>, <a href="../../core.engine/EngineOptions-class.html">/sdk-for-flutter-explore-core-engine-engineoptions-class</a>&gt;
+        Map&lt;<wbr/>/sdk-for-flutter-explore-core-engine-enginebaseurl, /sdk-for-flutter-explore-core-engine-engineoptions-class&gt;
 customEngineOptions
 <div class="features">getter/setter pair</div>
 </section>
@@ -70,9 +71,9 @@ Related APIs may change for new releases without a deprecation process.</li>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
-<li><a href="../../core.engine/SDKOptions-class.html">/sdk-for-flutter-explore-core-engine-sdkoptions-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
+<li>/sdk-for-flutter-explore-core-engine-sdkoptions-class</li>
 <li class="self-crumb">customEngineOptions property</li>
 </ol>
 <h5>SDKOptions class</h5>
@@ -89,4 +90,5 @@ Related APIs may change for new releases without a deprecation process.</li>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

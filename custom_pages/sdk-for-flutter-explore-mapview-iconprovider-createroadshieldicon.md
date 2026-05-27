@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "createRoadShieldIcon method"
 slug: "sdk-for-flutter-explore-mapview-iconprovider-createroadshieldicon"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- createRoadShieldIcon.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-iconprovider-createroadshieldicon"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/IconProvider-class.html">/sdk-for-flutter-explore-mapview-iconprovider-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-iconprovider-class</li>
 <li class="self-crumb">createRoadShieldIcon method</li>
 </ol>
 <div class="self-name">createRoadShieldIcon</div>
@@ -38,12 +39,12 @@ menu
 <h1>createRoadShieldIcon method</h1></div>
 <section class="multi-line-signature">
 void
-createRoadShieldIcon(<wbr/><ol class="parameter-list"> <li><a href="../../mapview/RoadShieldIconProperties-class.html">/sdk-for-flutter-explore-mapview-roadshieldiconproperties-class</a> properties, </li>
-<li><a href="../../mapview/MapScheme.html">/sdk-for-flutter-explore-mapview-mapscheme</a> mapScheme, </li>
-<li><a href="../../mapview/IconProviderAssetType.html">/sdk-for-flutter-explore-mapview-iconproviderassettype</a> assetType, </li>
+createRoadShieldIcon(<wbr/><ol class="parameter-list"> <li>/sdk-for-flutter-explore-mapview-roadshieldiconproperties-class properties, </li>
+<li>/sdk-for-flutter-explore-mapview-mapscheme mapScheme, </li>
+<li>/sdk-for-flutter-explore-mapview-iconproviderassettype assetType, </li>
 <li>int widthConstraintInPixels, </li>
 <li>int heightConstraintInPixels, </li>
-<li><a href="../../mapview/IconProviderCallback.html">/sdk-for-flutter-explore-mapview-iconprovidercallback</a> callback, </li>
+<li>/sdk-for-flutter-explore-mapview-iconprovidercallback callback, </li>
 </ol>)
 
       
@@ -93,9 +94,9 @@ Related APIs may change for new releases without a deprecation process.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/IconProvider-class.html">/sdk-for-flutter-explore-mapview-iconprovider-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-iconprovider-class</li>
 <li class="self-crumb">createRoadShieldIcon method</li>
 </ol>
 <h5>IconProvider class</h5>
@@ -112,4 +113,5 @@ Related APIs may change for new releases without a deprecation process.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

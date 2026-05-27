@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "metadata property"
 slug: "sdk-for-flutter-explore-mapview-mapmarker3d-metadata"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- metadata.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-mapmarker3d-metadata"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapMarker3D-class.html">/sdk-for-flutter-explore-mapview-mapmarker3d-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapmarker3d-class</li>
 <li class="self-crumb">metadata property</li>
 </ol>
 <div class="self-name">metadata</div>
@@ -38,12 +39,12 @@ menu
 <h1>metadata property</h1></div>
 <section id="getter">
 <section class="multi-line-signature">
-<a href="../../core/Metadata-class.html">/sdk-for-flutter-explore-core-metadata-class</a>?
+/sdk-for-flutter-explore-core-metadata-class?
 metadata
 </section>
 <section class="desc markdown">
-<p>The <a href="../../core/Metadata-class.html">/sdk-for-flutter-explore-core-metadata-class</a> instance attached to this 3D marker.
-Gets the <a href="../../core/Metadata-class.html">/sdk-for-flutter-explore-core-metadata-class</a> instance attached to this 3D marker.
+<p>The /sdk-for-flutter-explore-core-metadata-class instance attached to this 3D marker.
+Gets the /sdk-for-flutter-explore-core-metadata-class instance attached to this 3D marker.
 The default value is <code>null</code>.</p>
 </section>
 <section class="summary source-code" id="source">
@@ -54,11 +55,11 @@ The default value is <code>null</code>.</p>
 <section id="setter">
 <section class="multi-line-signature">
 void
-metadata=(<wbr/><a href="../../core/Metadata-class.html">/sdk-for-flutter-explore-core-metadata-class</a>? value)
+metadata=(<wbr/>/sdk-for-flutter-explore-core-metadata-class? value)
 </section>
 <section class="desc markdown">
-<p>The <a href="../../core/Metadata-class.html">/sdk-for-flutter-explore-core-metadata-class</a> instance attached to this 3D marker.
-Sets the <a href="../../core/Metadata-class.html">/sdk-for-flutter-explore-core-metadata-class</a> instance attached to this 3D marker.</p>
+<p>The /sdk-for-flutter-explore-core-metadata-class instance attached to this 3D marker.
+Sets the /sdk-for-flutter-explore-core-metadata-class instance attached to this 3D marker.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -73,9 +74,9 @@ Sets the <a href="../../core/Metadata-class.html">/sdk-for-flutter-explore-core-
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapMarker3D-class.html">/sdk-for-flutter-explore-mapview-mapmarker3d-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapmarker3d-class</li>
 <li class="self-crumb">metadata property</li>
 </ol>
 <h5>MapMarker3D class</h5>
@@ -92,4 +93,5 @@ Sets the <a href="../../core/Metadata-class.html">/sdk-for-flutter-explore-core-
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

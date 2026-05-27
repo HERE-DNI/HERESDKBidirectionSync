@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "noThroughRestrictions property"
 slug: "sdk-for-flutter-explore-routing-section-nothroughrestrictions"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- noThroughRestrictions.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-routing-section-nothroughrestrictions"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/Section-class.html">/sdk-for-flutter-explore-routing-section-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-section-class</li>
 <li class="self-crumb">noThroughRestrictions property</li>
 </ol>
 <div class="self-name">noThroughRestrictions</div>
@@ -38,7 +39,7 @@ menu
 <h1>noThroughRestrictions property</h1></div>
 <section id="getter">
 <section class="multi-line-signature">
-List&lt;<wbr/><a href="../../routing/ViolatedRestriction-class.html">/sdk-for-flutter-explore-routing-violatedrestriction-class</a>&gt;
+List&lt;<wbr/>/sdk-for-flutter-explore-routing-violatedrestriction-class&gt;
 noThroughRestrictions
 </section>
 <section class="desc markdown">
@@ -61,9 +62,9 @@ list of no through restriction.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/Section-class.html">/sdk-for-flutter-explore-routing-section-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-section-class</li>
 <li class="self-crumb">noThroughRestrictions property</li>
 </ol>
 <h5>Section class</h5>
@@ -80,4 +81,5 @@ list of no through restriction.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

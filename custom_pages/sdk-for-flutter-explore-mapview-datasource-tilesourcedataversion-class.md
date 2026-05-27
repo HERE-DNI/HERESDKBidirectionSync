@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "TileSourceDataVersion class"
 slug: "sdk-for-flutter-explore-mapview-datasource-tilesourcedataversion-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- TileSourceDataVersion-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -26,8 +27,8 @@ slug: "sdk-for-flutter-explore-mapview-datasource-tilesourcedataversion-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
 <li class="self-crumb">TileSourceDataVersion class</li>
 </ol>
 <div class="self-name">TileSourceDataVersion</div>
@@ -57,7 +58,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="TileSourceDataVersion">
-<a href="../mapview.datasource/TileSourceDataVersion/TileSourceDataVersion.html">/sdk-for-flutter-explore-mapview-datasource-tilesourcedataversion-tilesourcedataversion</a>(int majorVersion, int minorVersion)
+/sdk-for-flutter-explore-mapview-datasource-tilesourcedataversion-tilesourcedataversion(int majorVersion, int minorVersion)
 </dt>
 <dd>
           Creates a new instance.
@@ -68,7 +69,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="hashCode">
-<a href="../mapview.datasource/TileSourceDataVersion/hashCode.html">/sdk-for-flutter-explore-mapview-datasource-tilesourcedataversion-hashcode</a>
+/sdk-for-flutter-explore-mapview-datasource-tilesourcedataversion-hashcode
 → int
 </dt>
 <dd class="inherited">
@@ -76,7 +77,7 @@ menu
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="majorVersion">
-<a href="../mapview.datasource/TileSourceDataVersion/majorVersion.html">/sdk-for-flutter-explore-mapview-datasource-tilesourcedataversion-majorversion</a>
+/sdk-for-flutter-explore-mapview-datasource-tilesourcedataversion-majorversion
 ↔ int
 </dt>
 <dd>
@@ -86,7 +87,7 @@ Describes changes in underlying data that would require a complete reload
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="minorVersion">
-<a href="../mapview.datasource/TileSourceDataVersion/minorVersion.html">/sdk-for-flutter-explore-mapview-datasource-tilesourcedataversion-minorversion</a>
+/sdk-for-flutter-explore-mapview-datasource-tilesourcedataversion-minorversion
 ↔ int
 </dt>
 <dd>
@@ -96,7 +97,7 @@ Describes changes in underlying data that would not require a complete reload
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../mapview.datasource/TileSourceDataVersion/runtimeType.html">/sdk-for-flutter-explore-mapview-datasource-tilesourcedataversion-runtimetype</a>
+/sdk-for-flutter-explore-mapview-datasource-tilesourcedataversion-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -109,7 +110,7 @@ Describes changes in underlying data that would not require a complete reload
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../mapview.datasource/TileSourceDataVersion/noSuchMethod.html">/sdk-for-flutter-explore-mapview-datasource-tilesourcedataversion-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-mapview-datasource-tilesourcedataversion-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -118,7 +119,7 @@ Describes changes in underlying data that would not require a complete reload
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../mapview.datasource/TileSourceDataVersion/toString.html">/sdk-for-flutter-explore-mapview-datasource-tilesourcedataversion-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-mapview-datasource-tilesourcedataversion-tostring(<wbr/>)
     → String
 
 </dt>
@@ -132,7 +133,7 @@ Describes changes in underlying data that would not require a complete reload
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-<a href="../mapview.datasource/TileSourceDataVersion/operator_equals.html">/sdk-for-flutter-explore-mapview-datasource-tilesourcedataversion-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-mapview-datasource-tilesourcedataversion-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -150,8 +151,8 @@ Describes changes in underlying data that would not require a complete reload
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
 <li class="self-crumb">TileSourceDataVersion class</li>
 </ol>
 <h5>mapview.datasource library</h5>
@@ -168,4 +169,5 @@ Describes changes in underlying data that would not require a complete reload
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

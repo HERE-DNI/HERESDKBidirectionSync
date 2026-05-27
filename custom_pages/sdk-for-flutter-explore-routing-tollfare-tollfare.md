@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "TollFare constructor"
 slug: "sdk-for-flutter-explore-routing-tollfare-tollfare"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- TollFare.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-routing-tollfare-tollfare"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/TollFare-class.html">/sdk-for-flutter-explore-routing-tollfare-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-tollfare-class</li>
 <li class="self-crumb">TollFare constructor</li>
 </ol>
 <div class="self-name">TollFare</div>
@@ -39,10 +40,10 @@ menu
 <section class="multi-line-signature">
 TollFare(<wbr/><ol class="parameter-list"> <li>String currency, </li>
 <li>double price, </li>
-<li>List&lt;<wbr/><a href="../../routing/PaymentMethod.html">/sdk-for-flutter-explore-routing-paymentmethod</a>&gt; paymentMethods, [</li>
-<li><a href="../../core/TimeRule-class.html">/sdk-for-flutter-explore-core-timerule-class</a>? timeRule = null, </li>
+<li>List&lt;<wbr/>/sdk-for-flutter-explore-routing-paymentmethod&gt; paymentMethods, [</li>
+<li>/sdk-for-flutter-explore-core-timerule-class? timeRule = null, </li>
 <li>List&lt;<wbr/>String&gt; transponders = const [], </li>
-<li><a href="../../routing/TollFarePass-class.html">/sdk-for-flutter-explore-routing-tollfarepass-class</a>? pass = null, </li>
+<li>/sdk-for-flutter-explore-routing-tollfarepass-class? pass = null, </li>
 </ol>])
     </section>
 <section class="desc markdown">
@@ -56,7 +57,7 @@ If this field is missing, it means the fare is always valid.
 For a detailed description of the Time Domain specification and usage in routing services, please refer to
 the documentation available in the <a href="https://www.here.com/docs/bundle/routing-api-developer-guide-v8/page/topics/time-domain.html">Time Domain</a></li>
 <li><code>transponders</code> The list of available transponders.</li>
-<li><code>pass</code> Specifies whether this <a href="../../routing/TollFare-class.html">/sdk-for-flutter-explore-routing-tollfare-class</a> is a multi-travel pass, and its characteristics.</li>
+<li><code>pass</code> Specifies whether this /sdk-for-flutter-explore-routing-tollfare-class is a multi-travel pass, and its characteristics.</li>
 </ul>
 </section>
 <section class="summary source-code" id="source">
@@ -72,9 +73,9 @@ the documentation available in the <a href="https://www.here.com/docs/bundle/rou
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/TollFare-class.html">/sdk-for-flutter-explore-routing-tollfare-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-tollfare-class</li>
 <li class="self-crumb">TollFare constructor</li>
 </ol>
 <h5>TollFare class</h5>
@@ -91,4 +92,5 @@ the documentation available in the <a href="https://www.here.com/docs/bundle/rou
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

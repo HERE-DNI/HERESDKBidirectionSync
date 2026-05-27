@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "MapMarker3D.withScale constructor"
 slug: "sdk-for-flutter-explore-mapview-mapmarker3d-mapmarker3d-withscale"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- MapMarker3D.withScale.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-mapmarker3d-mapmarker3d-withscale"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapMarker3D-class.html">/sdk-for-flutter-explore-mapview-mapmarker3d-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapmarker3d-class</li>
 <li class="self-crumb">MapMarker3D.withScale factory constructor</li>
 </ol>
 <div class="self-name">MapMarker3D.withScale</div>
@@ -37,8 +38,8 @@ menu
 <div>
 <h1>MapMarker3D.withScale constructor</h1></div>
 <section class="multi-line-signature">
-MapMarker3D.withScale(<wbr/><ol class="parameter-list single-line"> <li><a href="../../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a> at, </li>
-<li><a href="../../mapview/MapMarker3DModel-class.html">/sdk-for-flutter-explore-mapview-mapmarker3dmodel-class</a> model, </li>
+MapMarker3D.withScale(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-core-geocoordinates-class at, </li>
+<li>/sdk-for-flutter-explore-mapview-mapmarker3dmodel-class model, </li>
 <li>double scale</li>
 </ol>)
     </section>
@@ -75,9 +76,9 @@ above ground. If not set, the 3D marker is placed at ground level.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapMarker3D-class.html">/sdk-for-flutter-explore-mapview-mapmarker3d-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapmarker3d-class</li>
 <li class="self-crumb">MapMarker3D.withScale factory constructor</li>
 </ol>
 <h5>MapMarker3D class</h5>
@@ -94,4 +95,5 @@ above ground. If not set, the 3D marker is placed at ground level.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

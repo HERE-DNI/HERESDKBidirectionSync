@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "Point3D.zero constructor"
 slug: "sdk-for-flutter-explore-core-point3d-point3d-zero"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- Point3D.zero.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-core-point3d-point3d-zero"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
-<li><a href="../../core/Point3D-class.html">/sdk-for-flutter-explore-core-point3d-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
+<li>/sdk-for-flutter-explore-core-point3d-class</li>
 <li class="self-crumb">Point3D.zero constructor</li>
 </ol>
 <div class="self-name">Point3D.zero</div>
@@ -55,9 +56,9 @@ Point3D.zero(<wbr/>)
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
-<li><a href="../../core/Point3D-class.html">/sdk-for-flutter-explore-core-point3d-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
+<li>/sdk-for-flutter-explore-core-point3d-class</li>
 <li class="self-crumb">Point3D.zero constructor</li>
 </ol>
 <h5>Point3D class</h5>
@@ -74,4 +75,5 @@ Point3D.zero(<wbr/>)
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "RefreshRouteOptions.withBusOptions constructor"
 slug: "sdk-for-flutter-explore-routing-refreshrouteoptions-refreshrouteoptions-withbusoptions"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- RefreshRouteOptions.withBusOptions.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-routing-refreshrouteoptions-refreshrouteoptions-w
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/RefreshRouteOptions-class.html">/sdk-for-flutter-explore-routing-refreshrouteoptions-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-refreshrouteoptions-class</li>
 <li class="self-crumb">RefreshRouteOptions.withBusOptions factory constructor</li>
 </ol>
 <div class="self-name">RefreshRouteOptions.withBusOptions</div>
@@ -37,15 +38,15 @@ menu
 <div>
 <h1>RefreshRouteOptions.withBusOptions constructor</h1></div>
 <section class="multi-line-signature">
-RefreshRouteOptions.withBusOptions(<wbr/><ol class="parameter-list single-line"> <li><a class="deprecated" href="../../routing/BusOptions-class.html">/sdk-for-flutter-explore-routing-busoptions-class</a> busOptions</li>
+RefreshRouteOptions.withBusOptions(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-routing-busoptions-class busOptions</li>
 </ol>)
     </section>
 <section class="desc markdown">
-<p>Constructs a RefreshRouteOptions object with <a class="deprecated" href="../../routing/BusOptions-class.html">/sdk-for-flutter-explore-routing-busoptions-class</a>.</p>
+<p>Constructs a RefreshRouteOptions object with /sdk-for-flutter-explore-routing-busoptions-class.</p>
 <ul>
 <li><code>busOptions</code> Converts the route to a bus route, if a different transport mode was used for the
-<a href="../../routing/RouteHandle-class.html">/sdk-for-flutter-explore-routing-routehandle-class</a>. Note that in case this is not possible,
-an <a href="../../routing/RoutingError.html">/sdk-for-flutter-explore-routing-routingerror</a> error will be triggered.</li>
+/sdk-for-flutter-explore-routing-routehandle-class. Note that in case this is not possible,
+an /sdk-for-flutter-explore-routing-routingerror error will be triggered.</li>
 </ul>
 </section>
 <section class="summary source-code" id="source">
@@ -60,9 +61,9 @@ an <a href="../../routing/RoutingError.html">/sdk-for-flutter-explore-routing-ro
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/RefreshRouteOptions-class.html">/sdk-for-flutter-explore-routing-refreshrouteoptions-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-refreshrouteoptions-class</li>
 <li class="self-crumb">RefreshRouteOptions.withBusOptions factory constructor</li>
 </ol>
 <h5>RefreshRouteOptions class</h5>
@@ -79,4 +80,5 @@ an <a href="../../routing/RoutingError.html">/sdk-for-flutter-explore-routing-ro
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

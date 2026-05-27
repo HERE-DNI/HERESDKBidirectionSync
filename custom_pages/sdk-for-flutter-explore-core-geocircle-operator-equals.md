@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "operator == method"
 slug: "sdk-for-flutter-explore-core-geocircle-operator-equals"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- operator_equals.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-core-geocircle-operator-equals"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
-<li><a href="../../core/GeoCircle-class.html">/sdk-for-flutter-explore-core-geocircle-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
+<li>/sdk-for-flutter-explore-core-geocircle-class</li>
 <li class="self-crumb">operator == method</li>
 </ol>
 <div class="self-name">operator ==</div>
@@ -76,7 +77,7 @@ either both be true, or both be false.</p>
 so whether two objects are equal should only change
 if at least one of the objects was modified.</p>
 <p>If a subclass overrides the equality operator, it should override
-the <a href="../../core/GeoCircle/hashCode.html">/sdk-for-flutter-explore-core-geocircle-hashcode</a> method as well to maintain consistency.</p>
+the /sdk-for-flutter-explore-core-geocircle-hashcode method as well to maintain consistency.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -97,9 +98,9 @@ bool operator ==(Object other) {
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
-<li><a href="../../core/GeoCircle-class.html">/sdk-for-flutter-explore-core-geocircle-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
+<li>/sdk-for-flutter-explore-core-geocircle-class</li>
 <li class="self-crumb">operator == method</li>
 </ol>
 <h5>GeoCircle class</h5>
@@ -116,4 +117,5 @@ bool operator ==(Object other) {
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

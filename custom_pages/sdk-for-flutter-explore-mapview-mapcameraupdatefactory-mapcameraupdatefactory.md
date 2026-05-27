@@ -3,7 +3,8 @@ title: "MapCameraUpdateFactory constructor"
 slug: "sdk-for-flutter-explore-mapview-mapcameraupdatefactory-mapcameraupdatefactory"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- MapCameraUpdateFactory.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-mapcameraupdatefactory-mapcameraupdatefac
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapCameraUpdateFactory-class.html">/sdk-for-flutter-explore-mapview-mapcameraupdatefactory-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapcameraupdatefactory-class</li>
 <li class="self-crumb">MapCameraUpdateFactory constructor</li>
 </ol>
 <div class="self-name">MapCameraUpdateFactory</div>
@@ -47,9 +48,9 @@ MapCameraUpdateFactory(<wbr/>)
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapCameraUpdateFactory-class.html">/sdk-for-flutter-explore-mapview-mapcameraupdatefactory-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapcameraupdatefactory-class</li>
 <li class="self-crumb">MapCameraUpdateFactory constructor</li>
 </ol>
 <h5>MapCameraUpdateFactory class</h5>
@@ -66,4 +67,5 @@ MapCameraUpdateFactory(<wbr/>)
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

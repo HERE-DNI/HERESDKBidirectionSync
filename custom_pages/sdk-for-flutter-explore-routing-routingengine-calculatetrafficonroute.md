@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "calculateTrafficOnRoute abstract method"
 slug: "sdk-for-flutter-explore-routing-routingengine-calculatetrafficonroute"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- calculateTrafficOnRoute.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-routing-routingengine-calculatetrafficonroute"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/RoutingEngine-class.html">/sdk-for-flutter-explore-routing-routingengine-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-routingengine-class</li>
 <li class="self-crumb">calculateTrafficOnRoute abstract method</li>
 </ol>
 <div class="self-name">calculateTrafficOnRoute</div>
@@ -37,11 +38,11 @@ menu
 <div>
 <h1>calculateTrafficOnRoute abstract method</h1></div>
 <section class="multi-line-signature">
-<a href="../../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a>
-calculateTrafficOnRoute(<wbr/><ol class="parameter-list"> <li><a href="../../routing/Route-class.html">/sdk-for-flutter-explore-routing-route-class</a> route, </li>
+/sdk-for-flutter-explore-core-threading-taskhandle-class
+calculateTrafficOnRoute(<wbr/><ol class="parameter-list"> <li>/sdk-for-flutter-explore-routing-route-class route, </li>
 <li>int lastTraveledSectionIndex, </li>
 <li>int traveledDistanceOnLastSectionInMeters, </li>
-<li><a href="../../routing/CalculateTrafficOnRouteCallback.html">/sdk-for-flutter-explore-routing-calculatetrafficonroutecallback</a> callback, </li>
+<li>/sdk-for-flutter-explore-routing-calculatetrafficonroutecallback callback, </li>
 </ol>)
 
       
@@ -57,8 +58,8 @@ is needed. This can be called periodically to retrieve updated ETA values during
 if you are using the <a href="https://www.here.com/get-started/pricing">Base Plan</a>.</p>
 <ul>
 <li>
-<p><code>route</code> A <a href="../../routing/Route-class.html">/sdk-for-flutter-explore-routing-route-class</a> calculated using the online routing engine. Its
-<a href="../../routing/RouteHandle-class.html">/sdk-for-flutter-explore-routing-routehandle-class</a> and the original route calculation options will be used to
+<p><code>route</code> A /sdk-for-flutter-explore-routing-route-class calculated using the online routing engine. Its
+/sdk-for-flutter-explore-routing-routehandle-class and the original route calculation options will be used to
 compute the traffic on the route. The original route remains untouched.</p>
 </li>
 <li>
@@ -74,7 +75,7 @@ traveled section index.</p>
 It is always invoked on the main thread.</p>
 </li>
 </ul>
-<p>Returns <a href="../../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a>. Handle that will be used to manipulate the execution of the task.</p>
+<p>Returns /sdk-for-flutter-explore-core-threading-taskhandle-class. Handle that will be used to manipulate the execution of the task.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -88,9 +89,9 @@ It is always invoked on the main thread.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/RoutingEngine-class.html">/sdk-for-flutter-explore-routing-routingengine-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-routingengine-class</li>
 <li class="self-crumb">calculateTrafficOnRoute abstract method</li>
 </ol>
 <h5>RoutingEngine class</h5>
@@ -107,4 +108,5 @@ It is always invoked on the main thread.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

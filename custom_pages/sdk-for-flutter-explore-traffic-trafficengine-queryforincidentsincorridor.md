@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "queryForIncidentsInCorridor abstract method"
 slug: "sdk-for-flutter-explore-traffic-trafficengine-queryforincidentsincorridor"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- queryForIncidentsInCorridor.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-traffic-trafficengine-queryforincidentsincorridor
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../traffic/traffic-library.html">/sdk-for-flutter-explore-traffic-traffic-library</a></li>
-<li><a href="../../traffic/TrafficEngine-class.html">/sdk-for-flutter-explore-traffic-trafficengine-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-traffic-traffic-library</li>
+<li>/sdk-for-flutter-explore-traffic-trafficengine-class</li>
 <li class="self-crumb">queryForIncidentsInCorridor abstract method</li>
 </ol>
 <div class="self-name">queryForIncidentsInCorridor</div>
@@ -37,10 +38,10 @@ menu
 <div>
 <h1>queryForIncidentsInCorridor abstract method</h1></div>
 <section class="multi-line-signature">
-<a href="../../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a>
-queryForIncidentsInCorridor(<wbr/><ol class="parameter-list single-line"> <li><a href="../../core/GeoCorridor-class.html">/sdk-for-flutter-explore-core-geocorridor-class</a> corridorArea, </li>
-<li><a href="../../traffic/TrafficIncidentsQueryOptions-class.html">/sdk-for-flutter-explore-traffic-trafficincidentsqueryoptions-class</a> queryOptions, </li>
-<li><a href="../../traffic/TrafficIncidentsQueryCallback.html">/sdk-for-flutter-explore-traffic-trafficincidentsquerycallback</a> callback</li>
+/sdk-for-flutter-explore-core-threading-taskhandle-class
+queryForIncidentsInCorridor(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-core-geocorridor-class corridorArea, </li>
+<li>/sdk-for-flutter-explore-traffic-trafficincidentsqueryoptions-class queryOptions, </li>
+<li>/sdk-for-flutter-explore-traffic-trafficincidentsquerycallback callback</li>
 </ol>)
 
       
@@ -54,7 +55,7 @@ The maximum length for the corridor is 500000 meters and the maximum <code>GeoCo
 If the number of points in corridor is greater than 300 then request is split into smaller ones and results are
 aggregated into single response, this will result in multiple requests to the backend. This process does not change a shape of the corridor.</li>
 </ul>
-<p>To reduce number of points in the corridor use <a href="../../core/PolylineSimplifier-class.html">/sdk-for-flutter-explore-core-polylinesimplifier-class</a>.</p>
+<p>To reduce number of points in the corridor use /sdk-for-flutter-explore-core-polylinesimplifier-class.</p>
 <p>If no <code>GeoCorridor.half_width_in_meters</code> is specified, the default value is used. The default value is 30 meters.</p>
 <ul>
 <li>
@@ -64,7 +65,7 @@ aggregated into single response, this will result in multiple requests to the ba
 <p><code>callback</code> It is always invoked on the main thread.</p>
 </li>
 </ul>
-<p>Returns <a href="../../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a>. Handle that will be used to manipulate the execution of the task.</p>
+<p>Returns /sdk-for-flutter-explore-core-threading-taskhandle-class. Handle that will be used to manipulate the execution of the task.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -78,9 +79,9 @@ aggregated into single response, this will result in multiple requests to the ba
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../traffic/traffic-library.html">/sdk-for-flutter-explore-traffic-traffic-library</a></li>
-<li><a href="../../traffic/TrafficEngine-class.html">/sdk-for-flutter-explore-traffic-trafficengine-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-traffic-traffic-library</li>
+<li>/sdk-for-flutter-explore-traffic-trafficengine-class</li>
 <li class="self-crumb">queryForIncidentsInCorridor abstract method</li>
 </ol>
 <h5>TrafficEngine class</h5>
@@ -97,4 +98,5 @@ aggregated into single response, this will result in multiple requests to the ba
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

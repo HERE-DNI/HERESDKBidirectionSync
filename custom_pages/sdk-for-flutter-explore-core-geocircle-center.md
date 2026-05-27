@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "center property"
 slug: "sdk-for-flutter-explore-core-geocircle-center"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- center.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-core-geocircle-center"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
-<li><a href="../../core/GeoCircle-class.html">/sdk-for-flutter-explore-core-geocircle-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
+<li>/sdk-for-flutter-explore-core-geocircle-class</li>
 <li class="self-crumb">center property</li>
 </ol>
 <div class="self-name">center</div>
@@ -37,7 +38,7 @@ menu
 <div>
 <h1>center property</h1></div>
 <section class="multi-line-signature">
-<a href="../../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>
+/sdk-for-flutter-explore-core-geocoordinates-class
 center
 <div class="features">final</div>
 </section>
@@ -56,9 +57,9 @@ center
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
-<li><a href="../../core/GeoCircle-class.html">/sdk-for-flutter-explore-core-geocircle-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
+<li>/sdk-for-flutter-explore-core-geocircle-class</li>
 <li class="self-crumb">center property</li>
 </ol>
 <h5>GeoCircle class</h5>
@@ -75,4 +76,5 @@ center
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "condition property"
 slug: "sdk-for-flutter-explore-search-evchargingtariffelement-condition"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- condition.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-search-evchargingtariffelement-condition"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/EVChargingTariffElement-class.html">/sdk-for-flutter-explore-search-evchargingtariffelement-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-evchargingtariffelement-class</li>
 <li class="self-crumb">condition property</li>
 </ol>
 <div class="self-name">condition</div>
@@ -37,7 +38,7 @@ menu
 <div>
 <h1>condition property</h1></div>
 <section class="multi-line-signature">
-<a href="../../search/EVChargingTariffElementCondition-class.html">/sdk-for-flutter-explore-search-evchargingtariffelementcondition-class</a>?
+/sdk-for-flutter-explore-search-evchargingtariffelementcondition-class?
         condition
 <div class="features">getter/setter pair</div>
 </section>
@@ -46,8 +47,8 @@ menu
 condition is typically present for charging sessions that do not meet any of the conditions.</p>
 <p>For example, a tariff element with a lower price can be valid only during nighttime, while a generic
 tariff element without conditions applies for daytime charging sessions. The conditions are listed in
-priority order. I.e., when <a href="../../search/EVChargingTariffElementCondition/date.html">/sdk-for-flutter-explore-search-evchargingtariffelementcondition-date</a> is present, it should be matched first,
-followed by <a href="../../search/EVChargingTariffElementCondition/days.html">/sdk-for-flutter-explore-search-evchargingtariffelementcondition-days</a> and so on.</p>
+priority order. I.e., when /sdk-for-flutter-explore-search-evchargingtariffelementcondition-date is present, it should be matched first,
+followed by /sdk-for-flutter-explore-search-evchargingtariffelementcondition-days and so on.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -61,9 +62,9 @@ followed by <a href="../../search/EVChargingTariffElementCondition/days.html">/s
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/EVChargingTariffElement-class.html">/sdk-for-flutter-explore-search-evchargingtariffelement-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-evchargingtariffelement-class</li>
 <li class="self-crumb">condition property</li>
 </ol>
 <h5>EVChargingTariffElement class</h5>
@@ -80,4 +81,5 @@ followed by <a href="../../search/EVChargingTariffElementCondition/days.html">/s
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

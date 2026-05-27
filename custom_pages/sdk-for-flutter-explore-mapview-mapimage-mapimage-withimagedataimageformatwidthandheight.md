@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "MapImage.withImageDataImageFormatWidthAndHeight constructor"
 slug: "sdk-for-flutter-explore-mapview-mapimage-mapimage-withimagedataimageformatwidthandheight"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- MapImage.withImageDataImageFormatWidthAndHeight.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-mapimage-mapimage-withimagedataimageforma
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapImage-class.html">/sdk-for-flutter-explore-mapview-mapimage-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapimage-class</li>
 <li class="self-crumb">MapImage.withImageDataImageFormatWidthAndHeight factory constructor</li>
 </ol>
 <div class="self-name">MapImage.withImageDataImageFormatWidthAndHeight</div>
@@ -38,7 +39,7 @@ menu
 <h1>MapImage.withImageDataImageFormatWidthAndHeight constructor</h1></div>
 <section class="multi-line-signature">
 MapImage.withImageDataImageFormatWidthAndHeight(<wbr/><ol class="parameter-list"> <li>Uint8List imageData, </li>
-<li><a href="../../mapview/ImageFormat.html">/sdk-for-flutter-explore-mapview-imageformat</a> imageFormat, </li>
+<li>/sdk-for-flutter-explore-mapview-imageformat imageFormat, </li>
 <li>int width, </li>
 <li>int height, </li>
 </ol>)
@@ -47,7 +48,7 @@ MapImage.withImageDataImageFormatWidthAndHeight(<wbr/><ol class="parameter-list"
 <p>Creates a new map image from the provided image data.</p>
 <ul>
 <li>
-<p><code>imageData</code> Data to be used for the image. For image format <a href="../../mapview/ImageFormat.html">/sdk-for-flutter-explore-mapview-imageformat</a> the bytes
+<p><code>imageData</code> Data to be used for the image. For image format /sdk-for-flutter-explore-mapview-imageformat the bytes
 of a UTF-8 encoded string in SVG Tiny format are expected. For the format specification
 see <a href="https://www.w3.org/TR/SVGTiny12">https://www.w3.org/TR/SVGTiny12</a></p>
 </li>
@@ -74,9 +75,9 @@ see <a href="https://www.w3.org/TR/SVGTiny12">https://www.w3.org/TR/SVGTiny12</a
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapImage-class.html">/sdk-for-flutter-explore-mapview-mapimage-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapimage-class</li>
 <li class="self-crumb">MapImage.withImageDataImageFormatWidthAndHeight factory constructor</li>
 </ol>
 <h5>MapImage class</h5>
@@ -93,4 +94,5 @@ see <a href="https://www.w3.org/TR/SVGTiny12">https://www.w3.org/TR/SVGTiny12</a
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

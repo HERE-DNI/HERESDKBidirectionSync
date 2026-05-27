@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "UsageStatsNetworkStats class"
 slug: "sdk-for-flutter-explore-core-engine-usagestatsnetworkstats-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- UsageStatsNetworkStats-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -28,8 +29,8 @@ slug: "sdk-for-flutter-explore-core-engine-usagestatsnetworkstats-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
 <li class="self-crumb">UsageStatsNetworkStats class</li>
 </ol>
 <div class="self-name">UsageStatsNetworkStats</div>
@@ -59,7 +60,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="UsageStatsNetworkStats">
-<a href="../core.engine/UsageStatsNetworkStats/UsageStatsNetworkStats.html">/sdk-for-flutter-explore-core-engine-usagestatsnetworkstats-usagestatsnetworkstats</a>(int sentBytes, int receivedBytes, String methodCall, int requestCounter)
+/sdk-for-flutter-explore-core-engine-usagestatsnetworkstats-usagestatsnetworkstats(int sentBytes, int receivedBytes, String methodCall, int requestCounter)
 </dt>
 <dd>
           Creates a new instance.
@@ -70,7 +71,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="hashCode">
-<a href="../core.engine/UsageStatsNetworkStats/hashCode.html">/sdk-for-flutter-explore-core-engine-usagestatsnetworkstats-hashcode</a>
+/sdk-for-flutter-explore-core-engine-usagestatsnetworkstats-hashcode
 → int
 </dt>
 <dd class="inherited">
@@ -78,7 +79,7 @@ menu
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="methodCall">
-<a href="../core.engine/UsageStatsNetworkStats/methodCall.html">/sdk-for-flutter-explore-core-engine-usagestatsnetworkstats-methodcall</a>
+/sdk-for-flutter-explore-core-engine-usagestatsnetworkstats-methodcall
 ↔ String
 </dt>
 <dd>
@@ -86,7 +87,7 @@ menu
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="receivedBytes">
-<a href="../core.engine/UsageStatsNetworkStats/receivedBytes.html">/sdk-for-flutter-explore-core-engine-usagestatsnetworkstats-receivedbytes</a>
+/sdk-for-flutter-explore-core-engine-usagestatsnetworkstats-receivedbytes
 ↔ int
 </dt>
 <dd>
@@ -94,7 +95,7 @@ menu
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="requestCounter">
-<a href="../core.engine/UsageStatsNetworkStats/requestCounter.html">/sdk-for-flutter-explore-core-engine-usagestatsnetworkstats-requestcounter</a>
+/sdk-for-flutter-explore-core-engine-usagestatsnetworkstats-requestcounter
 ↔ int
 </dt>
 <dd>
@@ -106,7 +107,7 @@ will be considered as 1 methodCall, and requestCounter is 2.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../core.engine/UsageStatsNetworkStats/runtimeType.html">/sdk-for-flutter-explore-core-engine-usagestatsnetworkstats-runtimetype</a>
+/sdk-for-flutter-explore-core-engine-usagestatsnetworkstats-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -114,7 +115,7 @@ will be considered as 1 methodCall, and requestCounter is 2.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="sentBytes">
-<a href="../core.engine/UsageStatsNetworkStats/sentBytes.html">/sdk-for-flutter-explore-core-engine-usagestatsnetworkstats-sentbytes</a>
+/sdk-for-flutter-explore-core-engine-usagestatsnetworkstats-sentbytes
 ↔ int
 </dt>
 <dd>
@@ -127,7 +128,7 @@ will be considered as 1 methodCall, and requestCounter is 2.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../core.engine/UsageStatsNetworkStats/noSuchMethod.html">/sdk-for-flutter-explore-core-engine-usagestatsnetworkstats-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-core-engine-usagestatsnetworkstats-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -136,7 +137,7 @@ will be considered as 1 methodCall, and requestCounter is 2.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../core.engine/UsageStatsNetworkStats/toString.html">/sdk-for-flutter-explore-core-engine-usagestatsnetworkstats-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-core-engine-usagestatsnetworkstats-tostring(<wbr/>)
     → String
 
 </dt>
@@ -150,7 +151,7 @@ will be considered as 1 methodCall, and requestCounter is 2.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-<a href="../core.engine/UsageStatsNetworkStats/operator_equals.html">/sdk-for-flutter-explore-core-engine-usagestatsnetworkstats-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-core-engine-usagestatsnetworkstats-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -168,8 +169,8 @@ will be considered as 1 methodCall, and requestCounter is 2.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
 <li class="self-crumb">UsageStatsNetworkStats class</li>
 </ol>
 <h5>core.engine library</h5>
@@ -186,4 +187,5 @@ will be considered as 1 methodCall, and requestCounter is 2.
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

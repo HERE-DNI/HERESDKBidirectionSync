@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "IsolineOptionsCalculation.withDefaultsAndDirection constructor"
 slug: "sdk-for-flutter-explore-routing-isolineoptionscalculation-isolineoptionscalculation-withdefaultsanddirection"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- IsolineOptionsCalculation.withDefaultsAndDirection.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-routing-isolineoptionscalculation-isolineoptionsc
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/IsolineOptionsCalculation-class.html">/sdk-for-flutter-explore-routing-isolineoptionscalculation-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-isolineoptionscalculation-class</li>
 <li class="self-crumb">IsolineOptionsCalculation.withDefaultsAndDirection factory constructor</li>
 </ol>
 <div class="self-name">IsolineOptionsCalculation.withDefaultsAndDirection</div>
@@ -37,9 +38,9 @@ menu
 <div>
 <h1>IsolineOptionsCalculation.withDefaultsAndDirection constructor</h1></div>
 <section class="multi-line-signature">
-IsolineOptionsCalculation.withDefaultsAndDirection(<wbr/><ol class="parameter-list single-line"> <li><a href="../../routing/IsolineRangeType.html">/sdk-for-flutter-explore-routing-isolinerangetype</a> rangeType, </li>
+IsolineOptionsCalculation.withDefaultsAndDirection(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-routing-isolinerangetype rangeType, </li>
 <li>List&lt;<wbr/>int&gt; rangeValues, </li>
-<li><a href="../../routing/RoutePlaceDirection.html">/sdk-for-flutter-explore-routing-routeplacedirection</a> isolineDirection</li>
+<li>/sdk-for-flutter-explore-routing-routeplacedirection isolineDirection</li>
 </ol>)
     </section>
 <section class="desc markdown">
@@ -67,9 +68,9 @@ IsolineOptionsCalculation.withDefaultsAndDirection(<wbr/><ol class="parameter-li
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/IsolineOptionsCalculation-class.html">/sdk-for-flutter-explore-routing-isolineoptionscalculation-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-isolineoptionscalculation-class</li>
 <li class="self-crumb">IsolineOptionsCalculation.withDefaultsAndDirection factory constructor</li>
 </ol>
 <h5>IsolineOptionsCalculation class</h5>
@@ -86,4 +87,5 @@ IsolineOptionsCalculation.withDefaultsAndDirection(<wbr/><ol class="parameter-li
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "languageCode property"
 slug: "sdk-for-flutter-explore-traffic-trafficincidentsqueryoptions-languagecode"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- languageCode.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-traffic-trafficincidentsqueryoptions-languagecode
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../traffic/traffic-library.html">/sdk-for-flutter-explore-traffic-traffic-library</a></li>
-<li><a href="../../traffic/TrafficIncidentsQueryOptions-class.html">/sdk-for-flutter-explore-traffic-trafficincidentsqueryoptions-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-traffic-traffic-library</li>
+<li>/sdk-for-flutter-explore-traffic-trafficincidentsqueryoptions-class</li>
 <li class="self-crumb">languageCode property</li>
 </ol>
 <div class="self-name">languageCode</div>
@@ -37,14 +38,14 @@ menu
 <div>
 <h1>languageCode property</h1></div>
 <section class="multi-line-signature">
-<a href="../../core/LanguageCode.html">/sdk-for-flutter-explore-core-languagecode</a>?
+/sdk-for-flutter-explore-core-languagecode?
         languageCode
 <div class="features">getter/setter pair</div>
 </section>
 <section class="desc markdown">
 <p>The language code of the query.
-It's the expected language of fields <a href="../../traffic/TrafficIncidentBase/description.html">/sdk-for-flutter-explore-traffic-trafficincidentbase-description</a> and <a href="../../traffic/TrafficIncident/summary.html">/sdk-for-flutter-explore-traffic-trafficincident-summary</a> in the relevant response.
-However, the language code doesn't impact on <a href="../../traffic/TrafficLocation/description.html">/sdk-for-flutter-explore-traffic-trafficlocation-description</a>.
+It's the expected language of fields /sdk-for-flutter-explore-traffic-trafficincidentbase-description and /sdk-for-flutter-explore-traffic-trafficincident-summary in the relevant response.
+However, the language code doesn't impact on /sdk-for-flutter-explore-traffic-trafficlocation-description.
 If the language code is null or not supported then response fields are expected in the original language of the country that the incident belongs to.</p>
 </section>
 <section class="summary source-code" id="source">
@@ -59,9 +60,9 @@ If the language code is null or not supported then response fields are expected 
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../traffic/traffic-library.html">/sdk-for-flutter-explore-traffic-traffic-library</a></li>
-<li><a href="../../traffic/TrafficIncidentsQueryOptions-class.html">/sdk-for-flutter-explore-traffic-trafficincidentsqueryoptions-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-traffic-traffic-library</li>
+<li>/sdk-for-flutter-explore-traffic-trafficincidentsqueryoptions-class</li>
 <li class="self-crumb">languageCode property</li>
 </ol>
 <h5>TrafficIncidentsQueryOptions class</h5>
@@ -78,4 +79,5 @@ If the language code is null or not supported then response fields are expected 
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

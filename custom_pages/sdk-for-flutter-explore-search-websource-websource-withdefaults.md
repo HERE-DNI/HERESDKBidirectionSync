@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "WebSource.withDefaults constructor"
 slug: "sdk-for-flutter-explore-search-websource-websource-withdefaults"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- WebSource.withDefaults.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-search-websource-websource-withdefaults"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/WebSource-class.html">/sdk-for-flutter-explore-search-websource-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-websource-class</li>
 <li class="self-crumb">WebSource.withDefaults constructor</li>
 </ol>
 <div class="self-name">WebSource.withDefaults</div>
@@ -55,9 +56,9 @@ WebSource.withDefaults(<wbr/>)
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/WebSource-class.html">/sdk-for-flutter-explore-search-websource-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-websource-class</li>
 <li class="self-crumb">WebSource.withDefaults constructor</li>
 </ol>
 <h5>WebSource class</h5>
@@ -74,4 +75,5 @@ WebSource.withDefaults(<wbr/>)
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

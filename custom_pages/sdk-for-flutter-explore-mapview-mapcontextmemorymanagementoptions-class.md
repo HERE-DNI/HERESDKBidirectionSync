@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "MapContextMemoryManagementOptions class"
 slug: "sdk-for-flutter-explore-mapview-mapcontextmemorymanagementoptions-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- MapContextMemoryManagementOptions-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -27,8 +28,8 @@ slug: "sdk-for-flutter-explore-mapview-mapcontextmemorymanagementoptions-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
 <li class="self-crumb">MapContextMemoryManagementOptions class</li>
 </ol>
 <div class="self-name">MapContextMemoryManagementOptions</div>
@@ -60,7 +61,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="MapContextMemoryManagementOptions">
-<a href="../mapview/MapContextMemoryManagementOptions/MapContextMemoryManagementOptions.html">/sdk-for-flutter-explore-mapview-mapcontextmemorymanagementoptions-mapcontextmemorymanagementoptions</a>()
+/sdk-for-flutter-explore-mapview-mapcontextmemorymanagementoptions-mapcontextmemorymanagementoptions()
 </dt>
 <dd>
           Creates a new instance.
@@ -71,7 +72,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="hashCode">
-<a href="../mapview/MapContextMemoryManagementOptions/hashCode.html">/sdk-for-flutter-explore-mapview-mapcontextmemorymanagementoptions-hashcode</a>
+/sdk-for-flutter-explore-mapview-mapcontextmemorymanagementoptions-hashcode
 → int
 </dt>
 <dd class="inherited">
@@ -79,14 +80,14 @@ behavior. Related APIs may change for new releases without a deprecation process
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="memoryManagementStrategy">
-<a href="../mapview/MapContextMemoryManagementOptions/memoryManagementStrategy.html">/sdk-for-flutter-explore-mapview-mapcontextmemorymanagementoptions-memorymanagementstrategy</a>
-↔ <a href="../mapview/MapContextMemoryManagementStrategy.html">/sdk-for-flutter-explore-mapview-mapcontextmemorymanagementstrategy</a>
+/sdk-for-flutter-explore-mapview-mapcontextmemorymanagementoptions-memorymanagementstrategy
+↔ /sdk-for-flutter-explore-mapview-mapcontextmemorymanagementstrategy
 </dt>
 <dd>
   The default setting MemoryManagementStrategy.DYNAMIC is suitable for common cases. The map
 data cache can adjust dynamically to fit visible data. When the visible data needs extra
 memory, it would increase. When it's not needed, it will reduce to a limit which is
-calculated internally or by using <a href="../mapview/MapContextMemoryManagementOptions/tileCacheMemoryLimitInKiB.html">/sdk-for-flutter-explore-mapview-mapcontextmemorymanagementoptions-tilecachememorylimitinkib</a> option.
+calculated internally or by using /sdk-for-flutter-explore-mapview-mapcontextmemorymanagementoptions-tilecachememorylimitinkib option.
 The MemoryManagementStrategy.FIXED would be only useful when there is very
 strict memory consumption requirement for the application. It potentially can have
 flickering visual artifacts when the map data to be visualized is very large and exceeds
@@ -94,7 +95,7 @@ the cache limit.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../mapview/MapContextMemoryManagementOptions/runtimeType.html">/sdk-for-flutter-explore-mapview-mapcontextmemorymanagementoptions-runtimetype</a>
+/sdk-for-flutter-explore-mapview-mapcontextmemorymanagementoptions-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -102,7 +103,7 @@ the cache limit.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="tileCacheMemoryLimitInKiB">
-<a href="../mapview/MapContextMemoryManagementOptions/tileCacheMemoryLimitInKiB.html">/sdk-for-flutter-explore-mapview-mapcontextmemorymanagementoptions-tilecachememorylimitinkib</a>
+/sdk-for-flutter-explore-mapview-mapcontextmemorymanagementoptions-tilecachememorylimitinkib
 ↔ int?
 </dt>
 <dd>
@@ -112,7 +113,7 @@ Low tile cache limit will lead to eviction of tiles only if MemoryManagementStra
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="videoMemoryLimitInKiB">
-<a href="../mapview/MapContextMemoryManagementOptions/videoMemoryLimitInKiB.html">/sdk-for-flutter-explore-mapview-mapcontextmemorymanagementoptions-videomemorylimitinkib</a>
+/sdk-for-flutter-explore-mapview-mapcontextmemorymanagementoptions-videomemorylimitinkib
 ↔ int?
 </dt>
 <dd>
@@ -126,7 +127,7 @@ Default value is <code>null</code>.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../mapview/MapContextMemoryManagementOptions/noSuchMethod.html">/sdk-for-flutter-explore-mapview-mapcontextmemorymanagementoptions-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-mapview-mapcontextmemorymanagementoptions-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -135,7 +136,7 @@ Default value is <code>null</code>.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../mapview/MapContextMemoryManagementOptions/toString.html">/sdk-for-flutter-explore-mapview-mapcontextmemorymanagementoptions-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-mapview-mapcontextmemorymanagementoptions-tostring(<wbr/>)
     → String
 
 </dt>
@@ -149,7 +150,7 @@ Default value is <code>null</code>.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-<a href="../mapview/MapContextMemoryManagementOptions/operator_equals.html">/sdk-for-flutter-explore-mapview-mapcontextmemorymanagementoptions-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-mapview-mapcontextmemorymanagementoptions-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -167,8 +168,8 @@ Default value is <code>null</code>.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
 <li class="self-crumb">MapContextMemoryManagementOptions class</li>
 </ol>
 <h5>mapview library</h5>
@@ -185,4 +186,5 @@ Default value is <code>null</code>.
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

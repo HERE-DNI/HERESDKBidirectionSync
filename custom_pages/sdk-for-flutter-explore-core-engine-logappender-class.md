@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "LogAppender class abstract"
 slug: "sdk-for-flutter-explore-core-engine-logappender-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- LogAppender-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -25,8 +26,8 @@ slug: "sdk-for-flutter-explore-core-engine-logappender-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
 <li class="self-crumb">LogAppender class</li>
 </ol>
 <div class="self-name">LogAppender</div>
@@ -56,7 +57,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="LogAppender">
-<a href="../core.engine/LogAppender/LogAppender.html">/sdk-for-flutter-explore-core-engine-logappender-logappender</a>(void logLambda(<a href="../core.engine/LogLevel.html">/sdk-for-flutter-explore-core-engine-loglevel</a>, String))
+/sdk-for-flutter-explore-core-engine-logappender-logappender(void logLambda(/sdk-for-flutter-explore-core-engine-loglevel, String))
 </dt>
 <dd>
           An interface to implement a listener to receive log messages.
@@ -68,7 +69,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="hashCode">
-<a href="../core.engine/LogAppender/hashCode.html">/sdk-for-flutter-explore-core-engine-logappender-hashcode</a>
+/sdk-for-flutter-explore-core-engine-logappender-hashcode
 → int
 </dt>
 <dd class="inherited">
@@ -76,7 +77,7 @@ menu
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../core.engine/LogAppender/runtimeType.html">/sdk-for-flutter-explore-core-engine-logappender-runtimetype</a>
+/sdk-for-flutter-explore-core-engine-logappender-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -89,7 +90,7 @@ menu
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable" id="log">
-<a href="../core.engine/LogAppender/log.html">/sdk-for-flutter-explore-core-engine-logappender-log</a>(<wbr/><a href="../core.engine/LogLevel.html">/sdk-for-flutter-explore-core-engine-loglevel</a> level, String message)
+/sdk-for-flutter-explore-core-engine-logappender-log(<wbr/>/sdk-for-flutter-explore-core-engine-loglevel level, String message)
     → void
 
 </dt>
@@ -102,7 +103,7 @@ menu
 </li>
 </dd>
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../core.engine/LogAppender/noSuchMethod.html">/sdk-for-flutter-explore-core-engine-logappender-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-core-engine-logappender-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -111,7 +112,7 @@ menu
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../core.engine/LogAppender/toString.html">/sdk-for-flutter-explore-core-engine-logappender-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-core-engine-logappender-tostring(<wbr/>)
     → String
 
 </dt>
@@ -125,7 +126,7 @@ menu
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-<a href="../core.engine/LogAppender/operator_equals.html">/sdk-for-flutter-explore-core-engine-logappender-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-core-engine-logappender-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -143,8 +144,8 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
 <li class="self-crumb">LogAppender class</li>
 </ol>
 <h5>core.engine library</h5>
@@ -161,4 +162,5 @@ menu
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

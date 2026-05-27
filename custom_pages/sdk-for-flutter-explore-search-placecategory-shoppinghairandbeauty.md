@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "shoppingHairAndBeauty property"
 slug: "sdk-for-flutter-explore-search-placecategory-shoppinghairandbeauty"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- shoppingHairAndBeauty.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-search-placecategory-shoppinghairandbeauty"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/PlaceCategory-class.html">/sdk-for-flutter-explore-search-placecategory-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-placecategory-class</li>
 <li class="self-crumb">shoppingHairAndBeauty property</li>
 </ol>
 <div class="self-name">shoppingHairAndBeauty</div>
@@ -58,9 +59,9 @@ Places in this category may also sell hair products and other related cosmetic i
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/PlaceCategory-class.html">/sdk-for-flutter-explore-search-placecategory-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-placecategory-class</li>
 <li class="self-crumb">shoppingHairAndBeauty property</li>
 </ol>
 <h5>PlaceCategory class</h5>
@@ -77,4 +78,5 @@ Places in this category may also sell hair products and other related cosmetic i
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

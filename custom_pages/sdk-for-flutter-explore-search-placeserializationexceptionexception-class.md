@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "PlaceSerializationExceptionException class"
 slug: "sdk-for-flutter-explore-search-placeserializationexceptionexception-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- PlaceSerializationExceptionException-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -25,8 +26,8 @@ slug: "sdk-for-flutter-explore-search-placeserializationexceptionexception-class
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
 <li class="self-crumb">PlaceSerializationExceptionException class</li>
 </ol>
 <div class="self-name">PlaceSerializationExceptionException</div>
@@ -56,7 +57,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="PlaceSerializationExceptionException">
-<a href="../search/PlaceSerializationExceptionException/PlaceSerializationExceptionException.html">/sdk-for-flutter-explore-search-placeserializationexceptionexception-placeserializationexceptionexception</a>(<a href="../search/PlaceSerializationError.html">/sdk-for-flutter-explore-search-placeserializationerror</a> error)
+/sdk-for-flutter-explore-search-placeserializationexceptionexception-placeserializationexceptionexception(/sdk-for-flutter-explore-search-placeserializationerror error)
 </dt>
 <dd>
 </dd>
@@ -66,14 +67,14 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="error">
-<a href="../search/PlaceSerializationExceptionException/error.html">/sdk-for-flutter-explore-search-placeserializationexceptionexception-error</a>
-→ <a href="../search/PlaceSerializationError.html">/sdk-for-flutter-explore-search-placeserializationerror</a>
+/sdk-for-flutter-explore-search-placeserializationexceptionexception-error
+→ /sdk-for-flutter-explore-search-placeserializationerror
 </dt>
 <dd>
 <div class="features">final</div>
 </dd>
 <dt class="property inherited" id="hashCode">
-<a href="../search/PlaceSerializationExceptionException/hashCode.html">/sdk-for-flutter-explore-search-placeserializationexceptionexception-hashcode</a>
+/sdk-for-flutter-explore-search-placeserializationexceptionexception-hashcode
 → int
 </dt>
 <dd class="inherited">
@@ -81,7 +82,7 @@ menu
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../search/PlaceSerializationExceptionException/runtimeType.html">/sdk-for-flutter-explore-search-placeserializationexceptionexception-runtimetype</a>
+/sdk-for-flutter-explore-search-placeserializationexceptionexception-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -94,7 +95,7 @@ menu
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../search/PlaceSerializationExceptionException/noSuchMethod.html">/sdk-for-flutter-explore-search-placeserializationexceptionexception-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-search-placeserializationexceptionexception-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -103,7 +104,7 @@ menu
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../search/PlaceSerializationExceptionException/toString.html">/sdk-for-flutter-explore-search-placeserializationexceptionexception-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-search-placeserializationexceptionexception-tostring(<wbr/>)
     → String
 
 </dt>
@@ -117,7 +118,7 @@ menu
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-<a href="../search/PlaceSerializationExceptionException/operator_equals.html">/sdk-for-flutter-explore-search-placeserializationexceptionexception-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-search-placeserializationexceptionexception-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -135,8 +136,8 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
 <li class="self-crumb">PlaceSerializationExceptionException class</li>
 </ol>
 <h5>search library</h5>
@@ -153,4 +154,5 @@ menu
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

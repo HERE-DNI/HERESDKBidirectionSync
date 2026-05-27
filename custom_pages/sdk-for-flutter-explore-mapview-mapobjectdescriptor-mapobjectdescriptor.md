@@ -3,7 +3,8 @@ title: "MapObjectDescriptor constructor"
 slug: "sdk-for-flutter-explore-mapview-mapobjectdescriptor-mapobjectdescriptor"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- MapObjectDescriptor.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-mapobjectdescriptor-mapobjectdescriptor"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapObjectDescriptor-class.html">/sdk-for-flutter-explore-mapview-mapobjectdescriptor-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapobjectdescriptor-class</li>
 <li class="self-crumb">MapObjectDescriptor constructor</li>
 </ol>
 <div class="self-name">MapObjectDescriptor</div>
@@ -47,9 +48,9 @@ MapObjectDescriptor(<wbr/>)
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapObjectDescriptor-class.html">/sdk-for-flutter-explore-mapview-mapobjectdescriptor-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapobjectdescriptor-class</li>
 <li class="self-crumb">MapObjectDescriptor constructor</li>
 </ol>
 <h5>MapObjectDescriptor class</h5>
@@ -66,4 +67,5 @@ MapObjectDescriptor(<wbr/>)
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

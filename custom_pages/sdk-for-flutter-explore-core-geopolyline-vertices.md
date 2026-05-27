@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "vertices property"
 slug: "sdk-for-flutter-explore-core-geopolyline-vertices"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- vertices.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-core-geopolyline-vertices"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
-<li><a href="../../core/GeoPolyline-class.html">/sdk-for-flutter-explore-core-geopolyline-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
+<li>/sdk-for-flutter-explore-core-geopolyline-class</li>
 <li class="self-crumb">vertices property</li>
 </ol>
 <div class="self-name">vertices</div>
@@ -38,7 +39,7 @@ menu
 <h1>vertices property</h1></div>
 <section class="multi-line-signature">
         
-        List&lt;<wbr/><a href="../../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>&gt;
+        List&lt;<wbr/>/sdk-for-flutter-explore-core-geocoordinates-class&gt;
 vertices
 <div class="features">final</div>
 </section>
@@ -57,9 +58,9 @@ vertices
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
-<li><a href="../../core/GeoPolyline-class.html">/sdk-for-flutter-explore-core-geopolyline-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
+<li>/sdk-for-flutter-explore-core-geopolyline-class</li>
 <li class="self-crumb">vertices property</li>
 </ol>
 <h5>GeoPolyline class</h5>
@@ -76,4 +77,5 @@ vertices
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

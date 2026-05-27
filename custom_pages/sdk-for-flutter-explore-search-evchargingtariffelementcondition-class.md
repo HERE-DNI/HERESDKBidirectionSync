@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "EVChargingTariffElementCondition class"
 slug: "sdk-for-flutter-explore-search-evchargingtariffelementcondition-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- EVChargingTariffElementCondition-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -29,8 +30,8 @@ slug: "sdk-for-flutter-explore-search-evchargingtariffelementcondition-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
 <li class="self-crumb">EVChargingTariffElementCondition class</li>
 </ol>
 <div class="self-name">EVChargingTariffElementCondition</div>
@@ -70,7 +71,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="EVChargingTariffElementCondition">
-<a href="../search/EVChargingTariffElementCondition/EVChargingTariffElementCondition.html">/sdk-for-flutter-explore-search-evchargingtariffelementcondition-evchargingtariffelementcondition</a>()
+/sdk-for-flutter-explore-search-evchargingtariffelementcondition-evchargingtariffelementcondition()
 </dt>
 <dd>
 </dd>
@@ -80,8 +81,8 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="date">
-<a href="../search/EVChargingTariffElementCondition/date.html">/sdk-for-flutter-explore-search-evchargingtariffelementcondition-date</a>
-↔ <a href="../search/DateRange-class.html">/sdk-for-flutter-explore-search-daterange-class</a>?
+/sdk-for-flutter-explore-search-evchargingtariffelementcondition-date
+↔ /sdk-for-flutter-explore-search-daterange-class?
 </dt>
 <dd>
   Date range when the tariff element is valid. This is typically used to indicate seasonal
@@ -90,8 +91,8 @@ spot prices, together with time period.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="days">
-<a href="../search/EVChargingTariffElementCondition/days.html">/sdk-for-flutter-explore-search-evchargingtariffelementcondition-days</a>
-↔ List&lt;<wbr/><a href="../search/DayOfWeek.html">/sdk-for-flutter-explore-search-dayofweek</a>&gt;
+/sdk-for-flutter-explore-search-evchargingtariffelementcondition-days
+↔ List&lt;<wbr/>/sdk-for-flutter-explore-search-dayofweek&gt;
 </dt>
 <dd>
   Day(s) of the week when the tariff element is valid.
@@ -99,15 +100,15 @@ An example would be to specify lower prices for weekends
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="duration">
-<a href="../search/EVChargingTariffElementCondition/duration.html">/sdk-for-flutter-explore-search-evchargingtariffelementcondition-duration</a>
-↔ <a href="../search/EVChargingDurationRange-class.html">/sdk-for-flutter-explore-search-evchargingdurationrange-class</a>?
+/sdk-for-flutter-explore-search-evchargingtariffelementcondition-duration
+↔ /sdk-for-flutter-explore-search-evchargingdurationrange-class?
 </dt>
 <dd>
   Duration of the charging session when the tariff element is valid, in seconds.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-<a href="../search/EVChargingTariffElementCondition/hashCode.html">/sdk-for-flutter-explore-search-evchargingtariffelementcondition-hashcode</a>
+/sdk-for-flutter-explore-search-evchargingtariffelementcondition-hashcode
 → int
 </dt>
 <dd>
@@ -115,7 +116,7 @@ An example would be to specify lower prices for weekends
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="overstayBatteryLevel">
-<a href="../search/EVChargingTariffElementCondition/overstayBatteryLevel.html">/sdk-for-flutter-explore-search-evchargingtariffelementcondition-overstaybatterylevel</a>
+/sdk-for-flutter-explore-search-evchargingtariffelementcondition-overstaybatterylevel
 ↔ int?
 </dt>
 <dd>
@@ -124,7 +125,7 @@ set additional fees for charging a full or nearly full battery.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../search/EVChargingTariffElementCondition/runtimeType.html">/sdk-for-flutter-explore-search-evchargingtariffelementcondition-runtimetype</a>
+/sdk-for-flutter-explore-search-evchargingtariffelementcondition-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -132,13 +133,13 @@ set additional fees for charging a full or nearly full battery.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="time">
-<a href="../search/EVChargingTariffElementCondition/time.html">/sdk-for-flutter-explore-search-evchargingtariffelementcondition-time</a>
-↔ <a href="../search/TimeOfDayRange-class.html">/sdk-for-flutter-explore-search-timeofdayrange-class</a>?
+/sdk-for-flutter-explore-search-evchargingtariffelementcondition-time
+↔ /sdk-for-flutter-explore-search-timeofdayrange-class?
 </dt>
 <dd>
   Time period when the tariff element is valid, in local time. The time period wraps around to
-the next day, when end time of the period <a href="../search/TimeOfDayRange/to.html">/sdk-for-flutter-explore-search-timeofdayrange-to</a>
-is smaller than the beginning <a href="../search/TimeOfDayRange/from.html">/sdk-for-flutter-explore-search-timeofdayrange-from</a>.
+the next day, when end time of the period /sdk-for-flutter-explore-search-timeofdayrange-to
+is smaller than the beginning /sdk-for-flutter-explore-search-timeofdayrange-from.
   <div class="features">getter/setter pair</div>
 </dd>
 </dl>
@@ -147,7 +148,7 @@ is smaller than the beginning <a href="../search/TimeOfDayRange/from.html">/sdk-
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../search/EVChargingTariffElementCondition/noSuchMethod.html">/sdk-for-flutter-explore-search-evchargingtariffelementcondition-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-search-evchargingtariffelementcondition-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -156,7 +157,7 @@ is smaller than the beginning <a href="../search/TimeOfDayRange/from.html">/sdk-
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../search/EVChargingTariffElementCondition/toString.html">/sdk-for-flutter-explore-search-evchargingtariffelementcondition-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-search-evchargingtariffelementcondition-tostring(<wbr/>)
     → String
 
 </dt>
@@ -170,7 +171,7 @@ is smaller than the beginning <a href="../search/TimeOfDayRange/from.html">/sdk-
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-<a href="../search/EVChargingTariffElementCondition/operator_equals.html">/sdk-for-flutter-explore-search-evchargingtariffelementcondition-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-search-evchargingtariffelementcondition-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -189,8 +190,8 @@ is smaller than the beginning <a href="../search/TimeOfDayRange/from.html">/sdk-
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
 <li class="self-crumb">EVChargingTariffElementCondition class</li>
 </ol>
 <h5>search library</h5>
@@ -207,4 +208,5 @@ is smaller than the beginning <a href="../search/TimeOfDayRange/from.html">/sdk-
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

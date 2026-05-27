@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "MapMarkerCluster.WithCounter constructor"
 slug: "sdk-for-flutter-explore-mapview-mapmarkercluster-mapmarkercluster-withcounter"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- MapMarkerCluster.WithCounter.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-mapmarkercluster-mapmarkercluster-withcou
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapMarkerCluster-class.html">/sdk-for-flutter-explore-mapview-mapmarkercluster-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapmarkercluster-class</li>
 <li class="self-crumb">MapMarkerCluster.WithCounter factory constructor</li>
 </ol>
 <div class="self-name">MapMarkerCluster.WithCounter</div>
@@ -37,8 +38,8 @@ menu
 <div>
 <h1>MapMarkerCluster.WithCounter constructor</h1></div>
 <section class="multi-line-signature">
-MapMarkerCluster.WithCounter(<wbr/><ol class="parameter-list single-line"> <li><a href="../../mapview/MapMarkerClusterImageStyle-class.html">/sdk-for-flutter-explore-mapview-mapmarkerclusterimagestyle-class</a> imageStyle, </li>
-<li><a href="../../mapview/MapMarkerClusterCounterStyle-class.html">/sdk-for-flutter-explore-mapview-mapmarkerclustercounterstyle-class</a> counterStyle</li>
+MapMarkerCluster.WithCounter(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-mapview-mapmarkerclusterimagestyle-class imageStyle, </li>
+<li>/sdk-for-flutter-explore-mapview-mapmarkerclustercounterstyle-class counterStyle</li>
 </ol>)
     </section>
 <section class="desc markdown">
@@ -66,9 +67,9 @@ showing how many markers are actually grouped under particular cluster icon.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapMarkerCluster-class.html">/sdk-for-flutter-explore-mapview-mapmarkercluster-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapmarkercluster-class</li>
 <li class="self-crumb">MapMarkerCluster.WithCounter factory constructor</li>
 </ol>
 <h5>MapMarkerCluster class</h5>
@@ -85,4 +86,5 @@ showing how many markers are actually grouped under particular cluster icon.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

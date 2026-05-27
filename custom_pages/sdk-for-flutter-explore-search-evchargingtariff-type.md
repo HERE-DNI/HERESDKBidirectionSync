@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "type property"
 slug: "sdk-for-flutter-explore-search-evchargingtariff-type"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- type.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-search-evchargingtariff-type"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/EVChargingTariff-class.html">/sdk-for-flutter-explore-search-evchargingtariff-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-evchargingtariff-class</li>
 <li class="self-crumb">type property</li>
 </ol>
 <div class="self-name">type</div>
@@ -37,7 +38,7 @@ menu
 <div>
 <h1>type property</h1></div>
 <section class="multi-line-signature">
-<a href="../../search/EVChargingTariffType.html">/sdk-for-flutter-explore-search-evchargingtarifftype</a>
+/sdk-for-flutter-explore-search-evchargingtarifftype
 type
 <div class="features">getter/setter pair</div>
 </section>
@@ -56,9 +57,9 @@ type
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/EVChargingTariff-class.html">/sdk-for-flutter-explore-search-evchargingtariff-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-evchargingtariff-class</li>
 <li class="self-crumb">type property</li>
 </ol>
 <h5>EVChargingTariff class</h5>
@@ -75,4 +76,5 @@ type
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

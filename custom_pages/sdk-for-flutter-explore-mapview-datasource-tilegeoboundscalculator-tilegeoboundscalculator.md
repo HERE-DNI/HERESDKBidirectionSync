@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "TileGeoBoundsCalculator constructor"
 slug: "sdk-for-flutter-explore-mapview-datasource-tilegeoboundscalculator-tilegeoboundscalculator"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- TileGeoBoundsCalculator.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-datasource-tilegeoboundscalculator-tilege
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
-<li><a href="../../mapview.datasource/TileGeoBoundsCalculator-class.html">/sdk-for-flutter-explore-mapview-datasource-tilegeoboundscalculator-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-tilegeoboundscalculator-class</li>
 <li class="self-crumb">TileGeoBoundsCalculator factory constructor</li>
 </ol>
 <div class="self-name">TileGeoBoundsCalculator</div>
@@ -37,11 +38,11 @@ menu
 <div>
 <h1>TileGeoBoundsCalculator constructor</h1></div>
 <section class="multi-line-signature">
-TileGeoBoundsCalculator(<wbr/><ol class="parameter-list single-line"> <li><a href="../../mapview.datasource/TilingScheme.html">/sdk-for-flutter-explore-mapview-datasource-tilingscheme</a> tilingScheme</li>
+TileGeoBoundsCalculator(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-mapview-datasource-tilingscheme tilingScheme</li>
 </ol>)
     </section>
 <section class="desc markdown">
-<p>Creates an instance of <a href="../../mapview.datasource/TileGeoBoundsCalculator-class.html">/sdk-for-flutter-explore-mapview-datasource-tilegeoboundscalculator-class</a>.</p>
+<p>Creates an instance of /sdk-for-flutter-explore-mapview-datasource-tilegeoboundscalculator-class.</p>
 <ul>
 <li><code>tilingScheme</code> The tiling scheme used for generating the tile keys that are to be supported by this instance.</li>
 </ul>
@@ -58,9 +59,9 @@ TileGeoBoundsCalculator(<wbr/><ol class="parameter-list single-line"> <li><a hre
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
-<li><a href="../../mapview.datasource/TileGeoBoundsCalculator-class.html">/sdk-for-flutter-explore-mapview-datasource-tilegeoboundscalculator-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-tilegeoboundscalculator-class</li>
 <li class="self-crumb">TileGeoBoundsCalculator factory constructor</li>
 </ol>
 <h5>TileGeoBoundsCalculator class</h5>
@@ -77,4 +78,5 @@ TileGeoBoundsCalculator(<wbr/><ol class="parameter-list single-line"> <li><a hre
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

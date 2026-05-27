@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "withLoadPriority abstract method"
 slug: "sdk-for-flutter-explore-mapview-maplayerbuilder-withloadpriority"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- withLoadPriority.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-maplayerbuilder-withloadpriority"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapLayerBuilder-class.html">/sdk-for-flutter-explore-mapview-maplayerbuilder-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-maplayerbuilder-class</li>
 <li class="self-crumb">withLoadPriority abstract method</li>
 </ol>
 <div class="self-name">withLoadPriority</div>
@@ -37,7 +38,7 @@ menu
 <div>
 <h1>withLoadPriority abstract method</h1></div>
 <section class="multi-line-signature">
-<a href="../../mapview/MapLayerBuilder-class.html">/sdk-for-flutter-explore-mapview-maplayerbuilder-class</a>
+/sdk-for-flutter-explore-mapview-maplayerbuilder-class
 withLoadPriority(<wbr/><ol class="parameter-list single-line"> <li>double loadPriority</li>
 </ol>)
 
@@ -50,7 +51,7 @@ withLoadPriority(<wbr/><ol class="parameter-list single-line"> <li>double loadPr
 <ul>
 <li><code>loadPriority</code> Load priority for layer.</li>
 </ul>
-<p>Returns <a href="../../mapview/MapLayerBuilder-class.html">/sdk-for-flutter-explore-mapview-maplayerbuilder-class</a>. This class instance.</p>
+<p>Returns /sdk-for-flutter-explore-mapview-maplayerbuilder-class. This class instance.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -64,9 +65,9 @@ withLoadPriority(<wbr/><ol class="parameter-list single-line"> <li>double loadPr
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapLayerBuilder-class.html">/sdk-for-flutter-explore-mapview-maplayerbuilder-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-maplayerbuilder-class</li>
 <li class="self-crumb">withLoadPriority abstract method</li>
 </ol>
 <h5>MapLayerBuilder class</h5>
@@ -83,4 +84,5 @@ withLoadPriority(<wbr/><ol class="parameter-list single-line"> <li>double loadPr
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "MapSceneMapPickFilter constructor"
 slug: "sdk-for-flutter-explore-mapview-mapscenemappickfilter-mapscenemappickfilter"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- MapSceneMapPickFilter.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-mapscenemappickfilter-mapscenemappickfilt
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapSceneMapPickFilter-class.html">/sdk-for-flutter-explore-mapview-mapscenemappickfilter-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapscenemappickfilter-class</li>
 <li class="self-crumb">MapSceneMapPickFilter factory constructor</li>
 </ol>
 <div class="self-name">MapSceneMapPickFilter</div>
@@ -37,11 +38,11 @@ menu
 <div>
 <h1>MapSceneMapPickFilter constructor</h1></div>
 <section class="multi-line-signature">
-MapSceneMapPickFilter(<wbr/><ol class="parameter-list single-line"> <li>List&lt;<wbr/><a href="../../mapview/MapSceneMapPickFilterContentType.html">/sdk-for-flutter-explore-mapview-mapscenemappickfiltercontenttype</a>&gt; filter</li>
+MapSceneMapPickFilter(<wbr/><ol class="parameter-list single-line"> <li>List&lt;<wbr/>/sdk-for-flutter-explore-mapview-mapscenemappickfiltercontenttype&gt; filter</li>
 </ol>)
     </section>
 <section class="desc markdown">
-<p>Creates a new instance of <a href="../../mapview/MapSceneMapPickFilter-class.html">/sdk-for-flutter-explore-mapview-mapscenemappickfilter-class</a>.</p>
+<p>Creates a new instance of /sdk-for-flutter-explore-mapview-mapscenemappickfilter-class.</p>
 <ul>
 <li><code>filter</code> List of pickable map content. For an empty list all of the content will be picked.</li>
 </ul>
@@ -58,9 +59,9 @@ MapSceneMapPickFilter(<wbr/><ol class="parameter-list single-line"> <li>List&lt;
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapSceneMapPickFilter-class.html">/sdk-for-flutter-explore-mapview-mapscenemappickfilter-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapscenemappickfilter-class</li>
 <li class="self-crumb">MapSceneMapPickFilter factory constructor</li>
 </ol>
 <h5>MapSceneMapPickFilter class</h5>
@@ -77,4 +78,5 @@ MapSceneMapPickFilter(<wbr/><ol class="parameter-list single-line"> <li>List&lt;
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

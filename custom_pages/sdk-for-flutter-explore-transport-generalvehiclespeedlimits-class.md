@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "GeneralVehicleSpeedLimits class"
 slug: "sdk-for-flutter-explore-transport-generalvehiclespeedlimits-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- GeneralVehicleSpeedLimits-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -31,8 +32,8 @@ slug: "sdk-for-flutter-explore-transport-generalvehiclespeedlimits-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-transport-transport-library</li>
 <li class="self-crumb">GeneralVehicleSpeedLimits class</li>
 </ol>
 <div class="self-name">GeneralVehicleSpeedLimits</div>
@@ -62,7 +63,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="GeneralVehicleSpeedLimits">
-<a href="../transport/GeneralVehicleSpeedLimits/GeneralVehicleSpeedLimits.html">/sdk-for-flutter-explore-transport-generalvehiclespeedlimits-generalvehiclespeedlimits</a>()
+/sdk-for-flutter-explore-transport-generalvehiclespeedlimits-generalvehiclespeedlimits()
 </dt>
 <dd>
 </dd>
@@ -72,7 +73,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="hashCode">
-<a href="../transport/GeneralVehicleSpeedLimits/hashCode.html">/sdk-for-flutter-explore-transport-generalvehiclespeedlimits-hashcode</a>
+/sdk-for-flutter-explore-transport-generalvehiclespeedlimits-hashcode
 → int
 </dt>
 <dd>
@@ -80,7 +81,7 @@ menu
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="maxSpeedHighwaysInMetersPerSecond">
-<a href="../transport/GeneralVehicleSpeedLimits/maxSpeedHighwaysInMetersPerSecond.html">/sdk-for-flutter-explore-transport-generalvehiclespeedlimits-maxspeedhighwaysinmeterspersecond</a>
+/sdk-for-flutter-explore-transport-generalvehiclespeedlimits-maxspeedhighwaysinmeterspersecond
 ↔ double?
 </dt>
 <dd>
@@ -89,7 +90,7 @@ It is <code>null</code> if the general speed limit on highways for the country /
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="maxSpeedNightInMetersPerSecond">
-<a href="../transport/GeneralVehicleSpeedLimits/maxSpeedNightInMetersPerSecond.html">/sdk-for-flutter-explore-transport-generalvehiclespeedlimits-maxspeednightinmeterspersecond</a>
+/sdk-for-flutter-explore-transport-generalvehiclespeedlimits-maxspeednightinmeterspersecond
 ↔ double?
 </dt>
 <dd>
@@ -98,7 +99,7 @@ It is <code>null</code> if the general speed limit at night for the country / st
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="maxSpeedRainingInMetersPerSecond">
-<a href="../transport/GeneralVehicleSpeedLimits/maxSpeedRainingInMetersPerSecond.html">/sdk-for-flutter-explore-transport-generalvehiclespeedlimits-maxspeedraininginmeterspersecond</a>
+/sdk-for-flutter-explore-transport-generalvehiclespeedlimits-maxspeedraininginmeterspersecond
 ↔ double?
 </dt>
 <dd>
@@ -107,7 +108,7 @@ It is <code>null</code> if the general speed limit when raining for the country 
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="maxSpeedRuralInMetersPerSecond">
-<a href="../transport/GeneralVehicleSpeedLimits/maxSpeedRuralInMetersPerSecond.html">/sdk-for-flutter-explore-transport-generalvehiclespeedlimits-maxspeedruralinmeterspersecond</a>
+/sdk-for-flutter-explore-transport-generalvehiclespeedlimits-maxspeedruralinmeterspersecond
 ↔ double?
 </dt>
 <dd>
@@ -116,7 +117,7 @@ It is <code>null</code> if the general speed limit on rural roads for the countr
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="maxSpeedSnowingInMetersPerSecond">
-<a href="../transport/GeneralVehicleSpeedLimits/maxSpeedSnowingInMetersPerSecond.html">/sdk-for-flutter-explore-transport-generalvehiclespeedlimits-maxspeedsnowinginmeterspersecond</a>
+/sdk-for-flutter-explore-transport-generalvehiclespeedlimits-maxspeedsnowinginmeterspersecond
 ↔ double?
 </dt>
 <dd>
@@ -125,7 +126,7 @@ It is <code>null</code> if the general speed limit when snowing for the country 
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="maxSpeedUrbanInMetersPerSecond">
-<a href="../transport/GeneralVehicleSpeedLimits/maxSpeedUrbanInMetersPerSecond.html">/sdk-for-flutter-explore-transport-generalvehiclespeedlimits-maxspeedurbaninmeterspersecond</a>
+/sdk-for-flutter-explore-transport-generalvehiclespeedlimits-maxspeedurbaninmeterspersecond
 ↔ double?
 </dt>
 <dd>
@@ -134,7 +135,7 @@ It is <code>null</code> if the general speed limit on urban roads for the countr
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="minSpeedHighwaysInMetersPerSecond">
-<a href="../transport/GeneralVehicleSpeedLimits/minSpeedHighwaysInMetersPerSecond.html">/sdk-for-flutter-explore-transport-generalvehiclespeedlimits-minspeedhighwaysinmeterspersecond</a>
+/sdk-for-flutter-explore-transport-generalvehiclespeedlimits-minspeedhighwaysinmeterspersecond
 ↔ double?
 </dt>
 <dd>
@@ -143,7 +144,7 @@ It is <code>null</code> if the minimum speed on highways for the country / state
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../transport/GeneralVehicleSpeedLimits/runtimeType.html">/sdk-for-flutter-explore-transport-generalvehiclespeedlimits-runtimetype</a>
+/sdk-for-flutter-explore-transport-generalvehiclespeedlimits-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -156,7 +157,7 @@ It is <code>null</code> if the minimum speed on highways for the country / state
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../transport/GeneralVehicleSpeedLimits/noSuchMethod.html">/sdk-for-flutter-explore-transport-generalvehiclespeedlimits-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-transport-generalvehiclespeedlimits-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -165,7 +166,7 @@ It is <code>null</code> if the minimum speed on highways for the country / state
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../transport/GeneralVehicleSpeedLimits/toString.html">/sdk-for-flutter-explore-transport-generalvehiclespeedlimits-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-transport-generalvehiclespeedlimits-tostring(<wbr/>)
     → String
 
 </dt>
@@ -179,7 +180,7 @@ It is <code>null</code> if the minimum speed on highways for the country / state
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-<a href="../transport/GeneralVehicleSpeedLimits/operator_equals.html">/sdk-for-flutter-explore-transport-generalvehiclespeedlimits-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-transport-generalvehiclespeedlimits-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -198,8 +199,8 @@ It is <code>null</code> if the minimum speed on highways for the country / state
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-transport-transport-library</li>
 <li class="self-crumb">GeneralVehicleSpeedLimits class</li>
 </ol>
 <h5>transport library</h5>
@@ -216,4 +217,5 @@ It is <code>null</code> if the minimum speed on highways for the country / state
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

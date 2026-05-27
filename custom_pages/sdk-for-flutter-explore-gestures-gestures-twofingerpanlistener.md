@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "twoFingerPanListener property"
 slug: "sdk-for-flutter-explore-gestures-gestures-twofingerpanlistener"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- twoFingerPanListener.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-gestures-gestures-twofingerpanlistener"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../gestures/gestures-library.html">/sdk-for-flutter-explore-gestures-gestures-library</a></li>
-<li><a href="../../gestures/Gestures-class.html">/sdk-for-flutter-explore-gestures-gestures-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-gestures-gestures-library</li>
+<li>/sdk-for-flutter-explore-gestures-gestures-class</li>
 <li class="self-crumb">twoFingerPanListener property</li>
 </ol>
 <div class="self-name">twoFingerPanListener</div>
@@ -38,12 +39,12 @@ menu
 <h1>twoFingerPanListener property</h1></div>
 <section id="getter">
 <section class="multi-line-signature">
-<a href="../../gestures/TwoFingerPanListener-class.html">/sdk-for-flutter-explore-gestures-twofingerpanlistener-class</a>?
+/sdk-for-flutter-explore-gestures-twofingerpanlistener-class?
 twoFingerPanListener
 </section>
 <section class="desc markdown">
-<p><a href="../../gestures/TwoFingerPanListener-class.html">/sdk-for-flutter-explore-gestures-twofingerpanlistener-class</a> that notifies when a two-finger pan gesture occurs.
-Gets a <a href="../../gestures/TwoFingerPanListener-class.html">/sdk-for-flutter-explore-gestures-twofingerpanlistener-class</a> that notifies when a two-finger pan gesture occurs. <a href="../../gestures/Gestures-class.html">/sdk-for-flutter-explore-gestures-gestures-class</a> holds a strong reference to the listener.</p>
+<p>/sdk-for-flutter-explore-gestures-twofingerpanlistener-class that notifies when a two-finger pan gesture occurs.
+Gets a /sdk-for-flutter-explore-gestures-twofingerpanlistener-class that notifies when a two-finger pan gesture occurs. /sdk-for-flutter-explore-gestures-gestures-class holds a strong reference to the listener.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -53,11 +54,11 @@ Gets a <a href="../../gestures/TwoFingerPanListener-class.html">/sdk-for-flutter
 <section id="setter">
 <section class="multi-line-signature">
 void
-twoFingerPanListener=(<wbr/><a href="../../gestures/TwoFingerPanListener-class.html">/sdk-for-flutter-explore-gestures-twofingerpanlistener-class</a>? value)
+twoFingerPanListener=(<wbr/>/sdk-for-flutter-explore-gestures-twofingerpanlistener-class? value)
 </section>
 <section class="desc markdown">
-<p><a href="../../gestures/TwoFingerPanListener-class.html">/sdk-for-flutter-explore-gestures-twofingerpanlistener-class</a> that notifies when a two-finger pan gesture occurs.
-Sets a <a href="../../gestures/TwoFingerPanListener-class.html">/sdk-for-flutter-explore-gestures-twofingerpanlistener-class</a> that notifies when a two-finger pan gesture occurs.</p>
+<p>/sdk-for-flutter-explore-gestures-twofingerpanlistener-class that notifies when a two-finger pan gesture occurs.
+Sets a /sdk-for-flutter-explore-gestures-twofingerpanlistener-class that notifies when a two-finger pan gesture occurs.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -72,9 +73,9 @@ Sets a <a href="../../gestures/TwoFingerPanListener-class.html">/sdk-for-flutter
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../gestures/gestures-library.html">/sdk-for-flutter-explore-gestures-gestures-library</a></li>
-<li><a href="../../gestures/Gestures-class.html">/sdk-for-flutter-explore-gestures-gestures-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-gestures-gestures-library</li>
+<li>/sdk-for-flutter-explore-gestures-gestures-class</li>
 <li class="self-crumb">twoFingerPanListener property</li>
 </ol>
 <h5>Gestures class</h5>
@@ -91,4 +92,5 @@ Sets a <a href="../../gestures/TwoFingerPanListener-class.html">/sdk-for-flutter
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

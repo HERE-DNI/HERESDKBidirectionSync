@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "fuelStation property"
 slug: "sdk-for-flutter-explore-search-details-fuelstation"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- fuelStation.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-search-details-fuelstation"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/Details-class.html">/sdk-for-flutter-explore-search-details-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-details-class</li>
 <li class="self-crumb">fuelStation property</li>
 </ol>
 <div class="self-name">fuelStation</div>
@@ -37,19 +38,19 @@ menu
 <div>
 <h1>fuelStation property</h1></div>
 <section class="multi-line-signature">
-<a href="../../search/FuelStation-class.html">/sdk-for-flutter-explore-search-fuelstation-class</a>?
+/sdk-for-flutter-explore-search-fuelstation-class?
         fuelStation
 <div class="features">getter/setter pair</div>
 </section>
 <section class="desc markdown">
 <p>Fuel station details. It is available only if a place is a fuel station and contain fuel data.
-It is fully supported for offline search, provided that <a href="../../core.engine/LayerConfigurationFeature.html">/sdk-for-flutter-explore-core-engine-layerconfigurationfeature</a>
-is enabled in <a href="../../core.engine/SDKOptions/layerConfiguration.html">/sdk-for-flutter-explore-core-engine-sdkoptions-layerconfiguration</a>.</p>
+It is fully supported for offline search, provided that /sdk-for-flutter-explore-core-engine-layerconfigurationfeature
+is enabled in /sdk-for-flutter-explore-core-engine-sdkoptions-layerconfiguration.</p>
 <p><strong>Note:</strong> Currently, for online search, this is a closed-alpha feature, so it is available
 only for selected customers. The field is always null for everyone that is not part of
 the closed-alpha group.
 Participants of the closed-alpha group can get access from HERE to use this feature.
-If the credentials are not enabled, a <a href="../../search/SearchError.html">/sdk-for-flutter-explore-search-searcherror</a> will be propagated.</p>
+If the credentials are not enabled, a /sdk-for-flutter-explore-search-searcherror will be propagated.</p>
 <p>For online search, this feature is only available if it is explicitly enabled.
 To do that, call <code>SearchEngine.set_custom_option()</code> with arguments:
 name: "lookup.show" or "discover.show" or "autosuggest.show" or "browse.show"
@@ -73,9 +74,9 @@ Related APIs may change for new releases without a deprecation process.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/Details-class.html">/sdk-for-flutter-explore-search-details-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-details-class</li>
 <li class="self-crumb">fuelStation property</li>
 </ol>
 <h5>Details class</h5>
@@ -92,4 +93,5 @@ Related APIs may change for new releases without a deprecation process.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "withStyle abstract method"
 slug: "sdk-for-flutter-explore-mapview-maplayerbuilder-withstyle"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- withStyle.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-maplayerbuilder-withstyle"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapLayerBuilder-class.html">/sdk-for-flutter-explore-mapview-maplayerbuilder-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-maplayerbuilder-class</li>
 <li class="self-crumb">withStyle abstract method</li>
 </ol>
 <div class="self-name">withStyle</div>
@@ -37,8 +38,8 @@ menu
 <div>
 <h1>withStyle abstract method</h1></div>
 <section class="multi-line-signature">
-<a href="../../mapview/MapLayerBuilder-class.html">/sdk-for-flutter-explore-mapview-maplayerbuilder-class</a>
-withStyle(<wbr/><ol class="parameter-list single-line"> <li><a href="../../mapview/Style-class.html">/sdk-for-flutter-explore-mapview-style-class</a> style</li>
+/sdk-for-flutter-explore-mapview-maplayerbuilder-class
+withStyle(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-mapview-style-class style</li>
 </ol>)
 
       
@@ -53,7 +54,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <ul>
 <li><code>style</code> Style for the layer.</li>
 </ul>
-<p>Returns <a href="../../mapview/MapLayerBuilder-class.html">/sdk-for-flutter-explore-mapview-maplayerbuilder-class</a>. This class instance.</p>
+<p>Returns /sdk-for-flutter-explore-mapview-maplayerbuilder-class. This class instance.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -67,9 +68,9 @@ behavior. Related APIs may change for new releases without a deprecation process
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapLayerBuilder-class.html">/sdk-for-flutter-explore-mapview-maplayerbuilder-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-maplayerbuilder-class</li>
 <li class="self-crumb">withStyle abstract method</li>
 </ol>
 <h5>MapLayerBuilder class</h5>
@@ -86,4 +87,5 @@ behavior. Related APIs may change for new releases without a deprecation process
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

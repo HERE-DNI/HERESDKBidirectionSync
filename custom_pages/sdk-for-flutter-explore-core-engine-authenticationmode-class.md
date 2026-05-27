@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "AuthenticationMode class abstract"
 slug: "sdk-for-flutter-explore-core-engine-authenticationmode-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- AuthenticationMode-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -29,8 +30,8 @@ slug: "sdk-for-flutter-explore-core-engine-authenticationmode-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
 <li class="self-crumb">AuthenticationMode class</li>
 </ol>
 <div class="self-name">AuthenticationMode</div>
@@ -64,7 +65,7 @@ retrieved via key/secret from a dedicated backend.</p>
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="AuthenticationMode">
-<a href="../core.engine/AuthenticationMode/AuthenticationMode.html">/sdk-for-flutter-explore-core-engine-authenticationmode-authenticationmode</a>()
+/sdk-for-flutter-explore-core-engine-authenticationmode-authenticationmode()
 </dt>
 <dd>
 </dd>
@@ -74,7 +75,7 @@ retrieved via key/secret from a dedicated backend.</p>
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="hashCode">
-<a href="../core.engine/AuthenticationMode/hashCode.html">/sdk-for-flutter-explore-core-engine-authenticationmode-hashcode</a>
+/sdk-for-flutter-explore-core-engine-authenticationmode-hashcode
 → int
 </dt>
 <dd class="inherited">
@@ -82,7 +83,7 @@ retrieved via key/secret from a dedicated backend.</p>
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../core.engine/AuthenticationMode/runtimeType.html">/sdk-for-flutter-explore-core-engine-authenticationmode-runtimetype</a>
+/sdk-for-flutter-explore-core-engine-authenticationmode-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -95,7 +96,7 @@ retrieved via key/secret from a dedicated backend.</p>
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../core.engine/AuthenticationMode/noSuchMethod.html">/sdk-for-flutter-explore-core-engine-authenticationmode-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-core-engine-authenticationmode-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -104,7 +105,7 @@ retrieved via key/secret from a dedicated backend.</p>
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../core.engine/AuthenticationMode/toString.html">/sdk-for-flutter-explore-core-engine-authenticationmode-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-core-engine-authenticationmode-tostring(<wbr/>)
     → String
 
 </dt>
@@ -118,7 +119,7 @@ retrieved via key/secret from a dedicated backend.</p>
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-<a href="../core.engine/AuthenticationMode/operator_equals.html">/sdk-for-flutter-explore-core-engine-authenticationmode-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-core-engine-authenticationmode-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -132,8 +133,9 @@ retrieved via key/secret from a dedicated backend.</p>
 <h2>Static Methods</h2>
 <dl class="callables">
 <dt class="callable" id="withExternal">
-<a href="../core.engine/AuthenticationMode/withExternal.html">/sdk-for-flutter-explore-core-engine-authenticationmode-withexternal</a>(<wbr/>)
-    → <a href="../core.engine/AuthenticationMode-class.html">/sdk-for-flutter-explore-core-engine-authenticationmode-class</a>
+/sdk-for-flutter-explore-core-engine-authenticationmode-withexternal(<wbr/>)
+    → /sdk-for-flutter-explore-core-engine-authenticationmode-class
+
 </dt>
 <dd>
   Assumes the authentication is provided by the client.
@@ -141,8 +143,9 @@ retrieved via key/secret from a dedicated backend.</p>
 
 </dd>
 <dt class="callable" id="withKeySecret">
-<a href="../core.engine/AuthenticationMode/withKeySecret.html">/sdk-for-flutter-explore-core-engine-authenticationmode-withkeysecret</a>(<wbr/>String accessKeyId, String accessKeySecret)
-    → <a href="../core.engine/AuthenticationMode-class.html">/sdk-for-flutter-explore-core-engine-authenticationmode-class</a>
+/sdk-for-flutter-explore-core-engine-authenticationmode-withkeysecret(<wbr/>String accessKeyId, String accessKeySecret)
+    → /sdk-for-flutter-explore-core-engine-authenticationmode-class
+
 </dt>
 <dd>
   SDK will authenticate with access key id access key secret to obtain authentication token.
@@ -150,8 +153,9 @@ retrieved via key/secret from a dedicated backend.</p>
 
 </dd>
 <dt class="callable" id="withToken">
-<a href="../core.engine/AuthenticationMode/withToken.html">/sdk-for-flutter-explore-core-engine-authenticationmode-withtoken</a>(<wbr/>String accessToken)
-    → <a href="../core.engine/AuthenticationMode-class.html">/sdk-for-flutter-explore-core-engine-authenticationmode-class</a>
+/sdk-for-flutter-explore-core-engine-authenticationmode-withtoken(<wbr/>String accessToken)
+    → /sdk-for-flutter-explore-core-engine-authenticationmode-class
+
 </dt>
 <dd>
   SDK will pass access token as a Bearer.
@@ -159,8 +163,9 @@ retrieved via key/secret from a dedicated backend.</p>
 
 </dd>
 <dt class="callable" id="withTokenProvider">
-<a href="../core.engine/AuthenticationMode/withTokenProvider.html">/sdk-for-flutter-explore-core-engine-authenticationmode-withtokenprovider</a>(<wbr/><a href="../core.engine/AuthenticationModeAccessTokenProvider.html">/sdk-for-flutter-explore-core-engine-authenticationmodeaccesstokenprovider</a> tokenProvider)
-    → <a href="../core.engine/AuthenticationMode-class.html">/sdk-for-flutter-explore-core-engine-authenticationmode-class</a>
+/sdk-for-flutter-explore-core-engine-authenticationmode-withtokenprovider(<wbr/>/sdk-for-flutter-explore-core-engine-authenticationmodeaccesstokenprovider tokenProvider)
+    → /sdk-for-flutter-explore-core-engine-authenticationmode-class
+
 </dt>
 <dd>
   SDK will use access token provider to retrieve access token.
@@ -177,8 +182,8 @@ retrieved via key/secret from a dedicated backend.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
 <li class="self-crumb">AuthenticationMode class</li>
 </ol>
 <h5>core.engine library</h5>
@@ -195,4 +200,5 @@ retrieved via key/secret from a dedicated backend.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

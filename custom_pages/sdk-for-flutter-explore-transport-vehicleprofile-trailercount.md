@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "trailerCount property"
 slug: "sdk-for-flutter-explore-transport-vehicleprofile-trailercount"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- trailerCount.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-transport-vehicleprofile-trailercount"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
-<li><a href="../../transport/VehicleProfile-class.html">/sdk-for-flutter-explore-transport-vehicleprofile-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-transport-transport-library</li>
+<li>/sdk-for-flutter-explore-transport-vehicleprofile-class</li>
 <li class="self-crumb">trailerCount property</li>
 </ol>
 <div class="self-name">trailerCount</div>
@@ -59,9 +60,9 @@ for route calculation. By default, it is 0.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
-<li><a href="../../transport/VehicleProfile-class.html">/sdk-for-flutter-explore-transport-vehicleprofile-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-transport-transport-library</li>
+<li>/sdk-for-flutter-explore-transport-vehicleprofile-class</li>
 <li class="self-crumb">trailerCount property</li>
 </ol>
 <h5>VehicleProfile class</h5>
@@ -78,4 +79,5 @@ for route calculation. By default, it is 0.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

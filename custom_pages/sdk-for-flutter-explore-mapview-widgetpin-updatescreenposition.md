@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "updateScreenPosition abstract method"
 slug: "sdk-for-flutter-explore-mapview-widgetpin-updatescreenposition"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- updateScreenPosition.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-widgetpin-updatescreenposition"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/WidgetPin-class.html">/sdk-for-flutter-explore-mapview-widgetpin-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-widgetpin-class</li>
 <li class="self-crumb">updateScreenPosition abstract method</li>
 </ol>
 <div class="self-name">updateScreenPosition</div>
@@ -38,7 +39,7 @@ menu
 <h1>updateScreenPosition abstract method</h1></div>
 <section class="multi-line-signature">
 dynamic
-updateScreenPosition(<wbr/><ol class="parameter-list single-line"> <li><a href="../../core/Point2D-class.html">/sdk-for-flutter-explore-core-point2d-class</a>? screenPosition</li>
+updateScreenPosition(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-core-point2d-class? screenPosition</li>
 </ol>)
 
       
@@ -56,9 +57,9 @@ updateScreenPosition(<wbr/><ol class="parameter-list single-line"> <li><a href="
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/WidgetPin-class.html">/sdk-for-flutter-explore-mapview-widgetpin-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-widgetpin-class</li>
 <li class="self-crumb">updateScreenPosition abstract method</li>
 </ol>
 <h5>WidgetPin class</h5>
@@ -75,4 +76,5 @@ updateScreenPosition(<wbr/><ol class="parameter-list single-line"> <li><a href="
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

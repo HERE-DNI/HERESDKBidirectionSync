@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "cacheExpirationPeriod property"
 slug: "sdk-for-flutter-explore-core-engine-catalogconfiguration-cacheexpirationperiod"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- cacheExpirationPeriod.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-core-engine-catalogconfiguration-cacheexpirationp
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
-<li><a href="../../core.engine/CatalogConfiguration-class.html">/sdk-for-flutter-explore-core-engine-catalogconfiguration-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
+<li>/sdk-for-flutter-explore-core-engine-catalogconfiguration-class</li>
 <li class="self-crumb">cacheExpirationPeriod property</li>
 </ol>
 <div class="self-name">cacheExpirationPeriod</div>
@@ -44,7 +45,7 @@ menu
 </section>
 <section class="desc markdown">
 <p>Expiration time in seconds for how long the catalog data is retained in the
-map cache before it is removed. Cache path is specified by <a href="../../core.engine/SDKOptions/cachePath.html">/sdk-for-flutter-explore-core-engine-sdkoptions-cachepath</a>.
+map cache before it is removed. Cache path is specified by /sdk-for-flutter-explore-core-engine-sdkoptions-cachepath.
 If not set, the cache will be deleted on a Least Recently Used (LRU) basis.</p>
 </section>
 <section class="summary source-code" id="source">
@@ -59,9 +60,9 @@ If not set, the cache will be deleted on a Least Recently Used (LRU) basis.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
-<li><a href="../../core.engine/CatalogConfiguration-class.html">/sdk-for-flutter-explore-core-engine-catalogconfiguration-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
+<li>/sdk-for-flutter-explore-core-engine-catalogconfiguration-class</li>
 <li class="self-crumb">cacheExpirationPeriod property</li>
 </ol>
 <h5>CatalogConfiguration class</h5>
@@ -78,4 +79,5 @@ If not set, the cache will be deleted on a Least Recently Used (LRU) basis.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

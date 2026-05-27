@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "dataVersion property"
 slug: "sdk-for-flutter-explore-mapview-datasource-tilesourcetilemetadata-dataversion"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- dataVersion.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-datasource-tilesourcetilemetadata-dataver
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
-<li><a href="../../mapview.datasource/TileSourceTileMetadata-class.html">/sdk-for-flutter-explore-mapview-datasource-tilesourcetilemetadata-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-tilesourcetilemetadata-class</li>
 <li class="self-crumb">dataVersion property</li>
 </ol>
 <div class="self-name">dataVersion</div>
@@ -37,7 +38,7 @@ menu
 <div>
 <h1>dataVersion property</h1></div>
 <section class="multi-line-signature">
-<a href="../../mapview.datasource/TileSourceDataVersion-class.html">/sdk-for-flutter-explore-mapview-datasource-tilesourcedataversion-class</a>
+/sdk-for-flutter-explore-mapview-datasource-tilesourcedataversion-class
 dataVersion
 <div class="features">getter/setter pair</div>
 </section>
@@ -56,9 +57,9 @@ dataVersion
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
-<li><a href="../../mapview.datasource/TileSourceTileMetadata-class.html">/sdk-for-flutter-explore-mapview-datasource-tilesourcetilemetadata-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-tilesourcetilemetadata-class</li>
 <li class="self-crumb">dataVersion property</li>
 </ol>
 <h5>TileSourceTileMetadata class</h5>
@@ -75,4 +76,5 @@ dataVersion
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "RouteStop class"
 slug: "sdk-for-flutter-explore-routing-routestop-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- RouteStop-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -26,8 +27,8 @@ slug: "sdk-for-flutter-explore-routing-routestop-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
 <li class="self-crumb">RouteStop class</li>
 </ol>
 <div class="self-name">RouteStop</div>
@@ -62,7 +63,7 @@ available for the Navigate licence.</p>
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="RouteStop">
-<a href="../routing/RouteStop/RouteStop.html">/sdk-for-flutter-explore-routing-routestop-routestop</a>(int locationIndex)
+/sdk-for-flutter-explore-routing-routestop-routestop(int locationIndex)
 </dt>
 <dd>
 </dd>
@@ -72,7 +73,7 @@ available for the Navigate licence.</p>
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="hashCode">
-<a href="../routing/RouteStop/hashCode.html">/sdk-for-flutter-explore-routing-routestop-hashcode</a>
+/sdk-for-flutter-explore-routing-routestop-hashcode
 → int
 </dt>
 <dd class="inherited">
@@ -80,7 +81,7 @@ available for the Navigate licence.</p>
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="locationIndex">
-<a href="../routing/RouteStop/locationIndex.html">/sdk-for-flutter-explore-routing-routestop-locationindex</a>
+/sdk-for-flutter-explore-routing-routestop-locationindex
 ↔ int
 </dt>
 <dd>
@@ -89,7 +90,7 @@ prevents user from using origin location as route stop.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../routing/RouteStop/runtimeType.html">/sdk-for-flutter-explore-routing-routestop-runtimetype</a>
+/sdk-for-flutter-explore-routing-routestop-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -97,7 +98,7 @@ prevents user from using origin location as route stop.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="stopDuration">
-<a href="../routing/RouteStop/stopDuration.html">/sdk-for-flutter-explore-routing-routestop-stopduration</a>
+/sdk-for-flutter-explore-routing-routestop-stopduration
 ↔ Duration
 </dt>
 <dd>
@@ -110,7 +111,7 @@ prevents user from using origin location as route stop.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../routing/RouteStop/noSuchMethod.html">/sdk-for-flutter-explore-routing-routestop-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-routing-routestop-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -119,7 +120,7 @@ prevents user from using origin location as route stop.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../routing/RouteStop/toString.html">/sdk-for-flutter-explore-routing-routestop-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-routing-routestop-tostring(<wbr/>)
     → String
 
 </dt>
@@ -133,7 +134,7 @@ prevents user from using origin location as route stop.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-<a href="../routing/RouteStop/operator_equals.html">/sdk-for-flutter-explore-routing-routestop-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-routing-routestop-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -151,8 +152,8 @@ prevents user from using origin location as route stop.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
 <li class="self-crumb">RouteStop class</li>
 </ol>
 <h5>routing library</h5>
@@ -169,4 +170,5 @@ prevents user from using origin location as route stop.
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

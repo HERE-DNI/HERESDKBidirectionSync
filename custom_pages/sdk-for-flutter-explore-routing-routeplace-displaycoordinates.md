@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "displayCoordinates property"
 slug: "sdk-for-flutter-explore-routing-routeplace-displaycoordinates"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- displayCoordinates.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-routing-routeplace-displaycoordinates"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/RoutePlace-class.html">/sdk-for-flutter-explore-routing-routeplace-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-routeplace-class</li>
 <li class="self-crumb">displayCoordinates property</li>
 </ol>
 <div class="self-name">displayCoordinates</div>
@@ -37,7 +38,7 @@ menu
 <div>
 <h1>displayCoordinates property</h1></div>
 <section class="multi-line-signature">
-<a href="../../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>?
+/sdk-for-flutter-explore-core-geocoordinates-class?
         displayCoordinates
 <div class="features">getter/setter pair</div>
 </section>
@@ -60,9 +61,9 @@ the display coordinates specify the location of the PoI to be displayed accurate
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/RoutePlace-class.html">/sdk-for-flutter-explore-routing-routeplace-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-routeplace-class</li>
 <li class="self-crumb">displayCoordinates property</li>
 </ol>
 <h5>RoutePlace class</h5>
@@ -79,4 +80,5 @@ the display coordinates specify the location of the PoI to be displayed accurate
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

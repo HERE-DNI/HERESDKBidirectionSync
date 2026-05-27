@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "SDKLogger class abstract"
 slug: "sdk-for-flutter-explore-core-engine-sdklogger-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- SDKLogger-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -30,8 +31,8 @@ slug: "sdk-for-flutter-explore-core-engine-sdklogger-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
 <li class="self-crumb">SDKLogger class</li>
 </ol>
 <div class="self-name">SDKLogger</div>
@@ -56,13 +57,13 @@ menu
 <h1>SDKLogger class abstract</h1></div>
 <section class="desc markdown">
 <p>Logging interface for Android/iOS platforms.</p>
-<p>These logs are under management of <a href="../core.engine/LogControl-class.html">/sdk-for-flutter-explore-core-engine-logcontrol-class</a> and should be used instead of platform-specific logging functions.</p>
+<p>These logs are under management of /sdk-for-flutter-explore-core-engine-logcontrol-class and should be used instead of platform-specific logging functions.</p>
 </section>
 <section class="summary offset-anchor" id="constructors">
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="SDKLogger">
-<a href="../core.engine/SDKLogger/SDKLogger.html">/sdk-for-flutter-explore-core-engine-sdklogger-sdklogger</a>()
+/sdk-for-flutter-explore-core-engine-sdklogger-sdklogger()
 </dt>
 <dd>
 </dd>
@@ -72,7 +73,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="hashCode">
-<a href="../core.engine/SDKLogger/hashCode.html">/sdk-for-flutter-explore-core-engine-sdklogger-hashcode</a>
+/sdk-for-flutter-explore-core-engine-sdklogger-hashcode
 → int
 </dt>
 <dd class="inherited">
@@ -80,7 +81,7 @@ menu
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../core.engine/SDKLogger/runtimeType.html">/sdk-for-flutter-explore-core-engine-sdklogger-runtimetype</a>
+/sdk-for-flutter-explore-core-engine-sdklogger-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -93,7 +94,7 @@ menu
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../core.engine/SDKLogger/noSuchMethod.html">/sdk-for-flutter-explore-core-engine-sdklogger-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-core-engine-sdklogger-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -102,7 +103,7 @@ menu
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../core.engine/SDKLogger/toString.html">/sdk-for-flutter-explore-core-engine-sdklogger-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-core-engine-sdklogger-tostring(<wbr/>)
     → String
 
 </dt>
@@ -116,7 +117,7 @@ menu
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-<a href="../core.engine/SDKLogger/operator_equals.html">/sdk-for-flutter-explore-core-engine-sdklogger-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-core-engine-sdklogger-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -130,7 +131,7 @@ menu
 <h2>Static Methods</h2>
 <dl class="callables">
 <dt class="callable" id="error">
-<a href="../core.engine/SDKLogger/error.html">/sdk-for-flutter-explore-core-engine-sdklogger-error</a>(<wbr/>String tag, String message)
+/sdk-for-flutter-explore-core-engine-sdklogger-error(<wbr/>String tag, String message)
     → void
 
 </dt>
@@ -140,7 +141,7 @@ menu
 
 </dd>
 <dt class="callable" id="fatal">
-<a href="../core.engine/SDKLogger/fatal.html">/sdk-for-flutter-explore-core-engine-sdklogger-fatal</a>(<wbr/>String tag, String message)
+/sdk-for-flutter-explore-core-engine-sdklogger-fatal(<wbr/>String tag, String message)
     → void
 
 </dt>
@@ -150,7 +151,7 @@ menu
 
 </dd>
 <dt class="callable" id="info">
-<a href="../core.engine/SDKLogger/info.html">/sdk-for-flutter-explore-core-engine-sdklogger-info</a>(<wbr/>String tag, String message)
+/sdk-for-flutter-explore-core-engine-sdklogger-info(<wbr/>String tag, String message)
     → void
 
 </dt>
@@ -160,7 +161,7 @@ menu
 
 </dd>
 <dt class="callable" id="log">
-<a href="../core.engine/SDKLogger/log.html">/sdk-for-flutter-explore-core-engine-sdklogger-log</a>(<wbr/><a href="../core.engine/LogLevel.html">/sdk-for-flutter-explore-core-engine-loglevel</a> level, String tag, String message)
+/sdk-for-flutter-explore-core-engine-sdklogger-log(<wbr/>/sdk-for-flutter-explore-core-engine-loglevel level, String tag, String message)
     → void
 
 </dt>
@@ -176,7 +177,7 @@ menu
 </li>
 </dd>
 <dt class="callable" id="warn">
-<a href="../core.engine/SDKLogger/warn.html">/sdk-for-flutter-explore-core-engine-sdklogger-warn</a>(<wbr/>String tag, String message)
+/sdk-for-flutter-explore-core-engine-sdklogger-warn(<wbr/>String tag, String message)
     → void
 
 </dt>
@@ -195,8 +196,8 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
 <li class="self-crumb">SDKLogger class</li>
 </ol>
 <h5>core.engine library</h5>
@@ -213,4 +214,5 @@ menu
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

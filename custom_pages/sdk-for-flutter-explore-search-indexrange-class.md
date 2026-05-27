@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "IndexRange class abstract"
 slug: "sdk-for-flutter-explore-search-indexrange-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- IndexRange-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -26,8 +27,8 @@ slug: "sdk-for-flutter-explore-search-indexrange-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
 <li class="self-crumb">IndexRange class</li>
 </ol>
 <div class="self-name">IndexRange</div>
@@ -58,7 +59,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="IndexRange">
-<a href="../search/IndexRange/IndexRange.html">/sdk-for-flutter-explore-search-indexrange-indexrange</a>()
+/sdk-for-flutter-explore-search-indexrange-indexrange()
 </dt>
 <dd>
 </dd>
@@ -68,7 +69,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="end">
-<a href="../search/IndexRange/end.html">/sdk-for-flutter-explore-search-indexrange-end</a>
+/sdk-for-flutter-explore-search-indexrange-end
 → int
 </dt>
 <dd>
@@ -77,7 +78,7 @@ Gets the position indicating the end of the highlighted part, exclusive.
   <div class="features">no setter</div>
 </dd>
 <dt class="property inherited" id="hashCode">
-<a href="../search/IndexRange/hashCode.html">/sdk-for-flutter-explore-search-indexrange-hashcode</a>
+/sdk-for-flutter-explore-search-indexrange-hashcode
 → int
 </dt>
 <dd class="inherited">
@@ -85,7 +86,7 @@ Gets the position indicating the end of the highlighted part, exclusive.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../search/IndexRange/runtimeType.html">/sdk-for-flutter-explore-search-indexrange-runtimetype</a>
+/sdk-for-flutter-explore-search-indexrange-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -93,7 +94,7 @@ Gets the position indicating the end of the highlighted part, exclusive.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="start">
-<a href="../search/IndexRange/start.html">/sdk-for-flutter-explore-search-indexrange-start</a>
+/sdk-for-flutter-explore-search-indexrange-start
 → int
 </dt>
 <dd>
@@ -107,7 +108,7 @@ Gets the position of the first character that matches a query.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../search/IndexRange/noSuchMethod.html">/sdk-for-flutter-explore-search-indexrange-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-search-indexrange-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -116,7 +117,7 @@ Gets the position of the first character that matches a query.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../search/IndexRange/toString.html">/sdk-for-flutter-explore-search-indexrange-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-search-indexrange-tostring(<wbr/>)
     → String
 
 </dt>
@@ -130,7 +131,7 @@ Gets the position of the first character that matches a query.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-<a href="../search/IndexRange/operator_equals.html">/sdk-for-flutter-explore-search-indexrange-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-search-indexrange-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -148,8 +149,8 @@ Gets the position of the first character that matches a query.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
 <li class="self-crumb">IndexRange class</li>
 </ol>
 <h5>search library</h5>
@@ -166,4 +167,5 @@ Gets the position of the first character that matches a query.
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

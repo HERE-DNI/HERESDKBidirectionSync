@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "closed property"
 slug: "sdk-for-flutter-explore-search-evchargingopeninghoursexception-closed"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- closed.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-search-evchargingopeninghoursexception-closed"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/EVChargingOpeningHoursException-class.html">/sdk-for-flutter-explore-search-evchargingopeninghoursexception-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-evchargingopeninghoursexception-class</li>
 <li class="self-crumb">closed property</li>
 </ol>
 <div class="self-name">closed</div>
@@ -44,7 +45,7 @@ menu
 </section>
 <section class="desc markdown">
 <p>True if the charging location is closed on particular date, in which case
-<a href="../../search/EVChargingOpeningHoursException/periods.html">/sdk-for-flutter-explore-search-evchargingopeninghoursexception-periods</a> is empty.</p>
+/sdk-for-flutter-explore-search-evchargingopeninghoursexception-periods is empty.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -58,9 +59,9 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/EVChargingOpeningHoursException-class.html">/sdk-for-flutter-explore-search-evchargingopeninghoursexception-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-evchargingopeninghoursexception-class</li>
 <li class="self-crumb">closed property</li>
 </ol>
 <h5>EVChargingOpeningHoursException class</h5>
@@ -77,4 +78,5 @@ menu
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

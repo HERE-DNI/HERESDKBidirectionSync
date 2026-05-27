@@ -1,9 +1,10 @@
 ---
-title: "Classes"
+title: "transport library"
 slug: "sdk-for-flutter-explore-transport-transport-library"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- transport-library.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -50,7 +51,7 @@ slug: "sdk-for-flutter-explore-transport-transport-library"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li>/sdk-for-flutter-explore</li>
 <li class="self-crumb">transport.dart</li>
 </ol>
 <div class="self-name">transport</div>
@@ -78,151 +79,151 @@ menu
 <h2>Classes</h2>
 <dl>
 <dt id="BusSpecifications">
-<a class="deprecated" href="../transport/BusSpecifications-class.html">/sdk-for-flutter-explore-transport-busspecifications-class</a>
+/sdk-for-flutter-explore-transport-busspecifications-class
 </dt>
 <dd>
   Bus specifications contain vehicle related attributes.
 </dd>
 <dt id="CarSpecifications">
-<a class="deprecated" href="../transport/CarSpecifications-class.html">/sdk-for-flutter-explore-transport-carspecifications-class</a>
+/sdk-for-flutter-explore-transport-carspecifications-class
 </dt>
 <dd>
   Car specifications contain vehicle related attributes.
 </dd>
 <dt id="GeneralVehicleSpeedLimits">
-<a href="../transport/GeneralVehicleSpeedLimits-class.html">/sdk-for-flutter-explore-transport-generalvehiclespeedlimits-class</a>
+/sdk-for-flutter-explore-transport-generalvehiclespeedlimits-class
 </dt>
 <dd>
   Contains the speed limits for vehicles in a country / state.
 </dd>
 <dt id="PedestrianSpecification">
-<a href="../transport/PedestrianSpecification-class.html">/sdk-for-flutter-explore-transport-pedestrianspecification-class</a>
+/sdk-for-flutter-explore-transport-pedestrianspecification-class
 </dt>
 <dd>
   Pedestrian specific settings.
 </dd>
 <dt id="ScooterSpecification">
-<a href="../transport/ScooterSpecification-class.html">/sdk-for-flutter-explore-transport-scooterspecification-class</a>
+/sdk-for-flutter-explore-transport-scooterspecification-class
 </dt>
 <dd>
   Scooter specific settings.
 </dd>
 <dt id="TaxiSpecification">
-<a href="../transport/TaxiSpecification-class.html">/sdk-for-flutter-explore-transport-taxispecification-class</a>
+/sdk-for-flutter-explore-transport-taxispecification-class
 </dt>
 <dd>
   Taxi specific settings.
 </dd>
 <dt id="TransportSpecification">
-<a href="../transport/TransportSpecification-class.html">/sdk-for-flutter-explore-transport-transportspecification-class</a>
+/sdk-for-flutter-explore-transport-transportspecification-class
 </dt>
 <dd>
   Contains transport attributes details related to the transport mode.
 </dd>
 <dt id="TransportSpecificationBicycleBuilder">
-<a href="../transport/TransportSpecificationBicycleBuilder-class.html">/sdk-for-flutter-explore-transport-transportspecificationbicyclebuilder-class</a>
+/sdk-for-flutter-explore-transport-transportspecificationbicyclebuilder-class
 </dt>
 <dd>
-  This class constructs a <a href="../transport/TransportSpecification-class.html">/sdk-for-flutter-explore-transport-transportspecification-class</a> for a bicycle.
+  This class constructs a /sdk-for-flutter-explore-transport-transportspecification-class for a bicycle.
 </dd>
 <dt id="TransportSpecificationBusBuilder">
-<a href="../transport/TransportSpecificationBusBuilder-class.html">/sdk-for-flutter-explore-transport-transportspecificationbusbuilder-class</a>
+/sdk-for-flutter-explore-transport-transportspecificationbusbuilder-class
 </dt>
 <dd>
-  This class constructs a <a href="../transport/TransportSpecification-class.html">/sdk-for-flutter-explore-transport-transportspecification-class</a> for a bus.
+  This class constructs a /sdk-for-flutter-explore-transport-transportspecification-class for a bus.
 </dd>
 <dt id="TransportSpecificationCarBuilder">
-<a href="../transport/TransportSpecificationCarBuilder-class.html">/sdk-for-flutter-explore-transport-transportspecificationcarbuilder-class</a>
+/sdk-for-flutter-explore-transport-transportspecificationcarbuilder-class
 </dt>
 <dd>
-  This class constructs a <a href="../transport/TransportSpecification-class.html">/sdk-for-flutter-explore-transport-transportspecification-class</a> for a car.
+  This class constructs a /sdk-for-flutter-explore-transport-transportspecification-class for a car.
 </dd>
 <dt id="TransportSpecificationPedestrianBuilder">
-<a href="../transport/TransportSpecificationPedestrianBuilder-class.html">/sdk-for-flutter-explore-transport-transportspecificationpedestrianbuilder-class</a>
+/sdk-for-flutter-explore-transport-transportspecificationpedestrianbuilder-class
 </dt>
 <dd>
-  This class constructs a <a href="../transport/TransportSpecification-class.html">/sdk-for-flutter-explore-transport-transportspecification-class</a> for pedestrian.
+  This class constructs a /sdk-for-flutter-explore-transport-transportspecification-class for pedestrian.
 </dd>
 <dt id="TransportSpecificationPrivateBusBuilder">
-<a href="../transport/TransportSpecificationPrivateBusBuilder-class.html">/sdk-for-flutter-explore-transport-transportspecificationprivatebusbuilder-class</a>
+/sdk-for-flutter-explore-transport-transportspecificationprivatebusbuilder-class
 </dt>
 <dd>
-  This class constructs a <a href="../transport/TransportSpecification-class.html">/sdk-for-flutter-explore-transport-transportspecification-class</a> for a private bus.
+  This class constructs a /sdk-for-flutter-explore-transport-transportspecification-class for a private bus.
 </dd>
 <dt id="TransportSpecificationScooterBuilder">
-<a href="../transport/TransportSpecificationScooterBuilder-class.html">/sdk-for-flutter-explore-transport-transportspecificationscooterbuilder-class</a>
+/sdk-for-flutter-explore-transport-transportspecificationscooterbuilder-class
 </dt>
 <dd>
-  This class constructs a <a href="../transport/TransportSpecification-class.html">/sdk-for-flutter-explore-transport-transportspecification-class</a> for a scooter.
+  This class constructs a /sdk-for-flutter-explore-transport-transportspecification-class for a scooter.
 </dd>
 <dt id="TransportSpecificationTaxiBuilder">
-<a href="../transport/TransportSpecificationTaxiBuilder-class.html">/sdk-for-flutter-explore-transport-transportspecificationtaxibuilder-class</a>
+/sdk-for-flutter-explore-transport-transportspecificationtaxibuilder-class
 </dt>
 <dd>
-  This class constructs a <a href="../transport/TransportSpecification-class.html">/sdk-for-flutter-explore-transport-transportspecification-class</a> for a taxi.
+  This class constructs a /sdk-for-flutter-explore-transport-transportspecification-class for a taxi.
 </dd>
 <dt id="TransportSpecificationTruckBuilder">
-<a href="../transport/TransportSpecificationTruckBuilder-class.html">/sdk-for-flutter-explore-transport-transportspecificationtruckbuilder-class</a>
+/sdk-for-flutter-explore-transport-transportspecificationtruckbuilder-class
 </dt>
 <dd>
-  This class constructs a <a href="../transport/TransportSpecification-class.html">/sdk-for-flutter-explore-transport-transportspecification-class</a> for a truck.
+  This class constructs a /sdk-for-flutter-explore-transport-transportspecification-class for a truck.
 </dd>
 <dt id="TruckSpecifications">
-<a class="deprecated" href="../transport/TruckSpecifications-class.html">/sdk-for-flutter-explore-transport-truckspecifications-class</a>
+/sdk-for-flutter-explore-transport-truckspecifications-class
 </dt>
 <dd>
   Truck specifications contain vehicle related attributes.
 </dd>
 <dt id="VehicleProfile">
-<a class="deprecated" href="../transport/VehicleProfile-class.html">/sdk-for-flutter-explore-transport-vehicleprofile-class</a>
+/sdk-for-flutter-explore-transport-vehicleprofile-class
 </dt>
 <dd>
   A vehicle profile describes the vehicle being used with the HSDK.
 </dd>
 <dt id="VehicleSpecification">
-<a href="../transport/VehicleSpecification-class.html">/sdk-for-flutter-explore-transport-vehiclespecification-class</a>
+/sdk-for-flutter-explore-transport-vehiclespecification-class
 </dt>
 <dd>
   Contains vehicle related attributes.
 </dd>
 <dt id="VehicleSpecificationBusBuilder">
-<a href="../transport/VehicleSpecificationBusBuilder-class.html">/sdk-for-flutter-explore-transport-vehiclespecificationbusbuilder-class</a>
+/sdk-for-flutter-explore-transport-vehiclespecificationbusbuilder-class
 </dt>
 <dd>
-  This class constructs a <a href="../transport/VehicleSpecification-class.html">/sdk-for-flutter-explore-transport-vehiclespecification-class</a> for a bus.
+  This class constructs a /sdk-for-flutter-explore-transport-vehiclespecification-class for a bus.
 </dd>
 <dt id="VehicleSpecificationCarBuilder">
-<a href="../transport/VehicleSpecificationCarBuilder-class.html">/sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-class</a>
+/sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-class
 </dt>
 <dd>
-  This class constructs a <a href="../transport/VehicleSpecification-class.html">/sdk-for-flutter-explore-transport-vehiclespecification-class</a> for a car.
+  This class constructs a /sdk-for-flutter-explore-transport-vehiclespecification-class for a car.
 </dd>
 <dt id="VehicleSpecificationPrivateBusBuilder">
-<a href="../transport/VehicleSpecificationPrivateBusBuilder-class.html">/sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-class</a>
+/sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-class
 </dt>
 <dd>
-  This class constructs a <a href="../transport/VehicleSpecification-class.html">/sdk-for-flutter-explore-transport-vehiclespecification-class</a> for a private bus.
+  This class constructs a /sdk-for-flutter-explore-transport-vehiclespecification-class for a private bus.
 </dd>
 <dt id="VehicleSpecificationScooterBuilder">
-<a href="../transport/VehicleSpecificationScooterBuilder-class.html">/sdk-for-flutter-explore-transport-vehiclespecificationscooterbuilder-class</a>
+/sdk-for-flutter-explore-transport-vehiclespecificationscooterbuilder-class
 </dt>
 <dd>
-  This class constructs a <a href="../transport/VehicleSpecification-class.html">/sdk-for-flutter-explore-transport-vehiclespecification-class</a> for a scooter.
+  This class constructs a /sdk-for-flutter-explore-transport-vehiclespecification-class for a scooter.
 </dd>
 <dt id="VehicleSpecificationTaxiBuilder">
-<a href="../transport/VehicleSpecificationTaxiBuilder-class.html">/sdk-for-flutter-explore-transport-vehiclespecificationtaxibuilder-class</a>
+/sdk-for-flutter-explore-transport-vehiclespecificationtaxibuilder-class
 </dt>
 <dd>
-  This class constructs a <a href="../transport/VehicleSpecification-class.html">/sdk-for-flutter-explore-transport-vehiclespecification-class</a> for a taxi.
+  This class constructs a /sdk-for-flutter-explore-transport-vehiclespecification-class for a taxi.
 </dd>
 <dt id="VehicleSpecificationTruckBuilder">
-<a href="../transport/VehicleSpecificationTruckBuilder-class.html">/sdk-for-flutter-explore-transport-vehiclespecificationtruckbuilder-class</a>
+/sdk-for-flutter-explore-transport-vehiclespecificationtruckbuilder-class
 </dt>
 <dd>
-  This class constructs a <a href="../transport/VehicleSpecification-class.html">/sdk-for-flutter-explore-transport-vehiclespecification-class</a> for a truck.
+  This class constructs a /sdk-for-flutter-explore-transport-vehiclespecification-class for a truck.
 </dd>
 <dt id="WeightPerAxleGroup">
-<a href="../transport/WeightPerAxleGroup-class.html">/sdk-for-flutter-explore-transport-weightperaxlegroup-class</a>
+/sdk-for-flutter-explore-transport-weightperaxlegroup-class
 </dt>
 <dd>
   Struct which defines the weight of the different axle groups of a vehicle.
@@ -233,68 +234,68 @@ menu
 <h2>Enums</h2>
 <dl>
 <dt id="FuelAdditiveType">
-<a href="../transport/FuelAdditiveType.html">/sdk-for-flutter-explore-transport-fueladditivetype</a>
+/sdk-for-flutter-explore-transport-fueladditivetype
 </dt>
 <dd>
   Defines possible fuel additives that a fuel could contain.
 </dd>
 <dt id="FuelType">
-<a href="../transport/FuelType.html">/sdk-for-flutter-explore-transport-fueltype</a>
+/sdk-for-flutter-explore-transport-fueltype
 </dt>
 <dd>
   Defines possible fuel types provided by a fuel station.
 </dd>
 <dt id="HazardousMaterial">
-<a href="../transport/HazardousMaterial.html">/sdk-for-flutter-explore-transport-hazardousmaterial</a>
+/sdk-for-flutter-explore-transport-hazardousmaterial
 </dt>
 <dd>
   Identifiers for different types of hazardous materials which
 can be shipped by the truck.
 </dd>
 <dt id="TransportMode">
-<a href="../transport/TransportMode.html">/sdk-for-flutter-explore-transport-transportmode</a>
+/sdk-for-flutter-explore-transport-transportmode
 </dt>
 <dd>
   Specifies the mode of transport used for route calculalation.
 </dd>
 <dt id="TruckCategory">
-<a href="../transport/TruckCategory.html">/sdk-for-flutter-explore-transport-truckcategory</a>
+/sdk-for-flutter-explore-transport-truckcategory
 </dt>
 <dd>
   Specifies the truck category.
 </dd>
 <dt id="TruckClass">
-<a href="../transport/TruckClass.html">/sdk-for-flutter-explore-transport-truckclass</a>
+/sdk-for-flutter-explore-transport-truckclass
 </dt>
 <dd>
   Defines truck class based on weight.
 </dd>
 <dt id="TruckFuelType">
-<a href="../transport/TruckFuelType.html">/sdk-for-flutter-explore-transport-truckfueltype</a>
+/sdk-for-flutter-explore-transport-truckfueltype
 </dt>
 <dd>
   Define possible fuel types for trucks provided by a fuel station.
 </dd>
 <dt id="TruckRoadType">
-<a href="../transport/TruckRoadType.html">/sdk-for-flutter-explore-transport-truckroadtype</a>
+/sdk-for-flutter-explore-transport-truckroadtype
 </dt>
 <dd>
   Specifies Truck road type
 </dd>
 <dt id="TruckType">
-<a class="deprecated" href="../transport/TruckType.html">/sdk-for-flutter-explore-transport-trucktype</a>
+/sdk-for-flutter-explore-transport-trucktype
 </dt>
 <dd>
   Specifies the type of truck.
 </dd>
 <dt id="TunnelCategory">
-<a href="../transport/TunnelCategory.html">/sdk-for-flutter-explore-transport-tunnelcategory</a>
+/sdk-for-flutter-explore-transport-tunnelcategory
 </dt>
 <dd>
   Specifies the tunnel categories.
 </dd>
 <dt id="VehicleType">
-<a class="deprecated" href="../transport/VehicleType.html">/sdk-for-flutter-explore-transport-vehicletype</a>
+/sdk-for-flutter-explore-transport-vehicletype
 </dt>
 <dd>
   Defines the type of the vehicle.
@@ -309,25 +310,25 @@ can be shipped by the truck.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li>/sdk-for-flutter-explore</li>
 <li class="self-crumb">transport.dart</li>
 </ol>
 <h5>here_sdk package</h5>
 <ol>
 <li class="section-title">Libraries</li>
-<li><a href="../animation/animation-library.html">/sdk-for-flutter-explore-animation-animation-library</a></li>
-<li><a href="../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
-<li><a href="../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
-<li><a href="../core.errors/core.errors-library.html">/sdk-for-flutter-explore-core-errors-core-errors-library</a></li>
-<li><a href="../core.threading/core.threading-library.html">/sdk-for-flutter-explore-core-threading-core-threading-library</a></li>
-<li><a href="../ev/ev-library.html">/sdk-for-flutter-explore-ev-ev-library</a></li>
-<li><a href="../gestures/gestures-library.html">/sdk-for-flutter-explore-gestures-gestures-library</a></li>
-<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
-<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../traffic/traffic-library.html">/sdk-for-flutter-explore-traffic-traffic-library</a></li>
-<li><a href="../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
+<li>/sdk-for-flutter-explore-animation-animation-library</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
+<li>/sdk-for-flutter-explore-core-errors-core-errors-library</li>
+<li>/sdk-for-flutter-explore-core-threading-core-threading-library</li>
+<li>/sdk-for-flutter-explore-ev-ev-library</li>
+<li>/sdk-for-flutter-explore-gestures-gestures-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-traffic-traffic-library</li>
+<li>/sdk-for-flutter-explore-transport-transport-library</li>
 </ol>
 </div>
 <div class="sidebar sidebar-offcanvas-right" id="dartdoc-sidebar-right">
@@ -342,4 +343,5 @@ can be shipped by the truck.
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

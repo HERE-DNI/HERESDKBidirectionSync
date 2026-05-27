@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "editorials property"
 slug: "sdk-for-flutter-explore-search-webdetails-editorials"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- editorials.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-search-webdetails-editorials"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/WebDetails-class.html">/sdk-for-flutter-explore-search-webdetails-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-webdetails-class</li>
 <li class="self-crumb">editorials property</li>
 </ol>
 <div class="self-name">editorials</div>
@@ -38,7 +39,7 @@ menu
 <h1>editorials property</h1></div>
 <section class="multi-line-signature">
         
-        List&lt;<wbr/><a href="../../search/WebEditorial-class.html">/sdk-for-flutter-explore-search-webeditorial-class</a>&gt;
+        List&lt;<wbr/>/sdk-for-flutter-explore-search-webeditorial-class&gt;
 editorials
 <div class="features">getter/setter pair</div>
 </section>
@@ -59,9 +60,9 @@ valid contracts with said suppliers. If the user has no such contracts, the list
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/WebDetails-class.html">/sdk-for-flutter-explore-search-webdetails-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-webdetails-class</li>
 <li class="self-crumb">editorials property</li>
 </ol>
 <h5>WebDetails class</h5>
@@ -78,4 +79,5 @@ valid contracts with said suppliers. If the user has no such contracts, the list
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

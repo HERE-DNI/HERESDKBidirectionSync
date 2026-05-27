@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "environmentalZones property"
 slug: "sdk-for-flutter-explore-mapview-mapfeatures-environmentalzones"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- environmentalZones.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-mapfeatures-environmentalzones"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapFeatures-class.html">/sdk-for-flutter-explore-mapview-mapfeatures-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapfeatures-class</li>
 <li class="self-crumb">environmentalZones property</li>
 </ol>
 <div class="self-name">environmentalZones</div>
@@ -45,9 +46,9 @@ menu
 <section class="desc markdown">
 <p>City areas designated as environmental zones, which empose limitations
 on the type of vehicles that are allowed to enter such areas.</p>
-<p>Supports only one mode: <a href="../../mapview/MapFeatureModes/environmentalZonesAll.html">/sdk-for-flutter-explore-mapview-mapfeaturemodes-environmentalzonesall</a>.</p>
-<p>Not supported for <a href="../../mapview/MapScheme.html">/sdk-for-flutter-explore-mapview-mapscheme</a>, <a href="../../mapview/MapScheme.html">/sdk-for-flutter-explore-mapview-mapscheme</a>
-and <a href="../../mapview/MapScheme.html">/sdk-for-flutter-explore-mapview-mapscheme</a>.
+<p>Supports only one mode: /sdk-for-flutter-explore-mapview-mapfeaturemodes-environmentalzonesall.</p>
+<p>Not supported for /sdk-for-flutter-explore-mapview-mapscheme, /sdk-for-flutter-explore-mapview-mapscheme
+and /sdk-for-flutter-explore-mapview-mapscheme.
 By default, this map feature is not enabled.</p>
 </section>
 <section class="summary source-code" id="source">
@@ -62,9 +63,9 @@ By default, this map feature is not enabled.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapFeatures-class.html">/sdk-for-flutter-explore-mapview-mapfeatures-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapfeatures-class</li>
 <li class="self-crumb">environmentalZones property</li>
 </ol>
 <h5>MapFeatures class</h5>
@@ -81,4 +82,5 @@ By default, this map feature is not enabled.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

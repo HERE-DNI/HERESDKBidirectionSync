@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "SDKBuildInformation class abstract"
 slug: "sdk-for-flutter-explore-core-engine-sdkbuildinformation-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- SDKBuildInformation-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -26,8 +27,8 @@ slug: "sdk-for-flutter-explore-core-engine-sdkbuildinformation-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
 <li class="self-crumb">SDKBuildInformation class</li>
 </ol>
 <div class="self-name">SDKBuildInformation</div>
@@ -57,7 +58,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="SDKBuildInformation">
-<a href="../core.engine/SDKBuildInformation/SDKBuildInformation.html">/sdk-for-flutter-explore-core-engine-sdkbuildinformation-sdkbuildinformation</a>()
+/sdk-for-flutter-explore-core-engine-sdkbuildinformation-sdkbuildinformation()
 </dt>
 <dd>
 </dd>
@@ -67,7 +68,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="hashCode">
-<a href="../core.engine/SDKBuildInformation/hashCode.html">/sdk-for-flutter-explore-core-engine-sdkbuildinformation-hashcode</a>
+/sdk-for-flutter-explore-core-engine-sdkbuildinformation-hashcode
 → int
 </dt>
 <dd class="inherited">
@@ -75,7 +76,7 @@ menu
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../core.engine/SDKBuildInformation/runtimeType.html">/sdk-for-flutter-explore-core-engine-sdkbuildinformation-runtimetype</a>
+/sdk-for-flutter-explore-core-engine-sdkbuildinformation-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -88,7 +89,7 @@ menu
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../core.engine/SDKBuildInformation/noSuchMethod.html">/sdk-for-flutter-explore-core-engine-sdkbuildinformation-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-core-engine-sdkbuildinformation-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -97,7 +98,7 @@ menu
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../core.engine/SDKBuildInformation/toString.html">/sdk-for-flutter-explore-core-engine-sdkbuildinformation-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-core-engine-sdkbuildinformation-tostring(<wbr/>)
     → String
 
 </dt>
@@ -111,7 +112,7 @@ menu
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-<a href="../core.engine/SDKBuildInformation/operator_equals.html">/sdk-for-flutter-explore-core-engine-sdkbuildinformation-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-core-engine-sdkbuildinformation-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -125,11 +126,12 @@ menu
 <h2>Static Methods</h2>
 <dl class="callables">
 <dt class="callable" id="sdkVersion">
-<a href="../core.engine/SDKBuildInformation/sdkVersion.html">/sdk-for-flutter-explore-core-engine-sdkbuildinformation-sdkversion</a>(<wbr/>)
-    → <a href="../core.engine/SDKVersion-class.html">/sdk-for-flutter-explore-core-engine-sdkversion-class</a>
+/sdk-for-flutter-explore-core-engine-sdkbuildinformation-sdkversion(<wbr/>)
+    → /sdk-for-flutter-explore-core-engine-sdkversion-class
+
 </dt>
 <dd>
-  Returns <a href="../core.engine/SDKVersion-class.html">/sdk-for-flutter-explore-core-engine-sdkversion-class</a>. SDK version information.
+  Returns /sdk-for-flutter-explore-core-engine-sdkversion-class. SDK version information.
   
 
 </dd>
@@ -143,8 +145,8 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
 <li class="self-crumb">SDKBuildInformation class</li>
 </ol>
 <h5>core.engine library</h5>
@@ -161,4 +163,5 @@ menu
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

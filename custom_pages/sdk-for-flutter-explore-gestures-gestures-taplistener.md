@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "tapListener property"
 slug: "sdk-for-flutter-explore-gestures-gestures-taplistener"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- tapListener.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-gestures-gestures-taplistener"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../gestures/gestures-library.html">/sdk-for-flutter-explore-gestures-gestures-library</a></li>
-<li><a href="../../gestures/Gestures-class.html">/sdk-for-flutter-explore-gestures-gestures-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-gestures-gestures-library</li>
+<li>/sdk-for-flutter-explore-gestures-gestures-class</li>
 <li class="self-crumb">tapListener property</li>
 </ol>
 <div class="self-name">tapListener</div>
@@ -38,12 +39,12 @@ menu
 <h1>tapListener property</h1></div>
 <section id="getter">
 <section class="multi-line-signature">
-<a href="../../gestures/TapListener-class.html">/sdk-for-flutter-explore-gestures-taplistener-class</a>?
+/sdk-for-flutter-explore-gestures-taplistener-class?
 tapListener
 </section>
 <section class="desc markdown">
-<p><a href="../../gestures/TapListener-class.html">/sdk-for-flutter-explore-gestures-taplistener-class</a> that notifies when a tap gesture occurs.
-Gets a <a href="../../gestures/TapListener-class.html">/sdk-for-flutter-explore-gestures-taplistener-class</a> that notifies when a tap gesture occurs. <a href="../../gestures/Gestures-class.html">/sdk-for-flutter-explore-gestures-gestures-class</a> holds a strong reference to the listener.</p>
+<p>/sdk-for-flutter-explore-gestures-taplistener-class that notifies when a tap gesture occurs.
+Gets a /sdk-for-flutter-explore-gestures-taplistener-class that notifies when a tap gesture occurs. /sdk-for-flutter-explore-gestures-gestures-class holds a strong reference to the listener.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -53,11 +54,11 @@ Gets a <a href="../../gestures/TapListener-class.html">/sdk-for-flutter-explore-
 <section id="setter">
 <section class="multi-line-signature">
 void
-tapListener=(<wbr/><a href="../../gestures/TapListener-class.html">/sdk-for-flutter-explore-gestures-taplistener-class</a>? value)
+tapListener=(<wbr/>/sdk-for-flutter-explore-gestures-taplistener-class? value)
 </section>
 <section class="desc markdown">
-<p><a href="../../gestures/TapListener-class.html">/sdk-for-flutter-explore-gestures-taplistener-class</a> that notifies when a tap gesture occurs.
-Sets a <a href="../../gestures/TapListener-class.html">/sdk-for-flutter-explore-gestures-taplistener-class</a> that notifies when a tap gesture occurs.</p>
+<p>/sdk-for-flutter-explore-gestures-taplistener-class that notifies when a tap gesture occurs.
+Sets a /sdk-for-flutter-explore-gestures-taplistener-class that notifies when a tap gesture occurs.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -72,9 +73,9 @@ Sets a <a href="../../gestures/TapListener-class.html">/sdk-for-flutter-explore-
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../gestures/gestures-library.html">/sdk-for-flutter-explore-gestures-gestures-library</a></li>
-<li><a href="../../gestures/Gestures-class.html">/sdk-for-flutter-explore-gestures-gestures-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-gestures-gestures-library</li>
+<li>/sdk-for-flutter-explore-gestures-gestures-class</li>
 <li class="self-crumb">tapListener property</li>
 </ol>
 <h5>Gestures class</h5>
@@ -91,4 +92,5 @@ Sets a <a href="../../gestures/TapListener-class.html">/sdk-for-flutter-explore-
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

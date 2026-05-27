@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "intersection method"
 slug: "sdk-for-flutter-explore-core-geobox-intersection"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- intersection.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-core-geobox-intersection"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
-<li><a href="../../core/GeoBox-class.html">/sdk-for-flutter-explore-core-geobox-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
+<li>/sdk-for-flutter-explore-core-geobox-class</li>
 <li class="self-crumb">intersection method</li>
 </ol>
 <div class="self-name">intersection</div>
@@ -37,15 +38,15 @@ menu
 <div>
 <h1>intersection method</h1></div>
 <section class="multi-line-signature">
-List&lt;<wbr/><a href="../../core/GeoBox-class.html">/sdk-for-flutter-explore-core-geobox-class</a>&gt;
-intersection(<wbr/><ol class="parameter-list single-line"> <li><a href="../../core/GeoBox-class.html">/sdk-for-flutter-explore-core-geobox-class</a> geoBox</li>
+List&lt;<wbr/>/sdk-for-flutter-explore-core-geobox-class&gt;
+intersection(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-core-geobox-class geoBox</li>
 </ol>)
 
       
 
     </section>
 <section class="desc markdown">
-<p>Computes the intersection with the passed <a href="../../core/GeoBox-class.html">/sdk-for-flutter-explore-core-geobox-class</a>.</p>
+<p>Computes the intersection with the passed /sdk-for-flutter-explore-core-geobox-class.</p>
 <p>The altitude values are ignored.
 Limitation: Geo boxes are considered as non-intersecting if they overlap only on a single point, horizontal line or vertical line.</p>
 <p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
@@ -54,7 +55,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <li><code>geoBox</code> Another geo box to check intersection with.</li>
 </ul>
 <p>Returns <code>List&lt;GeoBox&gt;</code>. It will be empty if there is no overlap.</p>
-<p>Otherwise, 1 or more geo boxes covering common area by this and passed <a href="../../core/GeoBox-class.html">/sdk-for-flutter-explore-core-geobox-class</a>.</p>
+<p>Otherwise, 1 or more geo boxes covering common area by this and passed /sdk-for-flutter-explore-core-geobox-class.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -68,9 +69,9 @@ Related APIs may change for new releases without a deprecation process.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
-<li><a href="../../core/GeoBox-class.html">/sdk-for-flutter-explore-core-geobox-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
+<li>/sdk-for-flutter-explore-core-geobox-class</li>
 <li class="self-crumb">intersection method</li>
 </ol>
 <h5>GeoBox class</h5>
@@ -87,4 +88,5 @@ Related APIs may change for new releases without a deprecation process.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

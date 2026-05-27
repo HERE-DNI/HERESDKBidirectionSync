@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "GeoCorridor constructor"
 slug: "sdk-for-flutter-explore-core-geocorridor-geocorridor"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- GeoCorridor.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-core-geocorridor-geocorridor"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
-<li><a href="../../core/GeoCorridor-class.html">/sdk-for-flutter-explore-core-geocorridor-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
+<li>/sdk-for-flutter-explore-core-geocorridor-class</li>
 <li class="self-crumb">GeoCorridor factory constructor</li>
 </ol>
 <div class="self-name">GeoCorridor</div>
@@ -37,7 +38,7 @@ menu
 <div>
 <h1>GeoCorridor constructor</h1></div>
 <section class="multi-line-signature">
-GeoCorridor(<wbr/><ol class="parameter-list single-line"> <li>List&lt;<wbr/><a href="../../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>&gt; polyline, </li>
+GeoCorridor(<wbr/><ol class="parameter-list single-line"> <li>List&lt;<wbr/>/sdk-for-flutter-explore-core-geocoordinates-class&gt; polyline, </li>
 <li>int halfWidthInMeters</li>
 </ol>)
     </section>
@@ -64,9 +65,9 @@ GeoCorridor(<wbr/><ol class="parameter-list single-line"> <li>List&lt;<wbr/><a h
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
-<li><a href="../../core/GeoCorridor-class.html">/sdk-for-flutter-explore-core-geocorridor-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
+<li>/sdk-for-flutter-explore-core-geocorridor-class</li>
 <li class="self-crumb">GeoCorridor factory constructor</li>
 </ol>
 <h5>GeoCorridor class</h5>
@@ -83,4 +84,5 @@ GeoCorridor(<wbr/><ol class="parameter-list single-line"> <li>List&lt;<wbr/><a h
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

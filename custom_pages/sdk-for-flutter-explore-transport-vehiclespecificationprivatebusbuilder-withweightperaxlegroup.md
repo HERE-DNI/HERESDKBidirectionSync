@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "withWeightPerAxleGroup abstract method"
 slug: "sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-withweightperaxlegroup"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- withWeightPerAxleGroup.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-w
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
-<li><a href="../../transport/VehicleSpecificationPrivateBusBuilder-class.html">/sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-transport-transport-library</li>
+<li>/sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-class</li>
 <li class="self-crumb">withWeightPerAxleGroup abstract method</li>
 </ol>
 <div class="self-name">withWeightPerAxleGroup</div>
@@ -37,8 +38,8 @@ menu
 <div>
 <h1>withWeightPerAxleGroup abstract method</h1></div>
 <section class="multi-line-signature">
-<a href="../../transport/VehicleSpecificationPrivateBusBuilder-class.html">/sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-class</a>
-withWeightPerAxleGroup(<wbr/><ol class="parameter-list single-line"> <li><a href="../../transport/WeightPerAxleGroup-class.html">/sdk-for-flutter-explore-transport-weightperaxlegroup-class</a> weightPerAxleGroup</li>
+/sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-class
+withWeightPerAxleGroup(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-transport-weightperaxlegroup-class weightPerAxleGroup</li>
 </ol>)
 
       
@@ -49,7 +50,7 @@ withWeightPerAxleGroup(<wbr/><ol class="parameter-list single-line"> <li><a href
 <ul>
 <li><code>weightPerAxleGroup</code> The vehicle weight per axle group.</li>
 </ul>
-<p>Returns <a href="../../transport/VehicleSpecificationPrivateBusBuilder-class.html">/sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-class</a>. The <a href="../../transport/VehicleSpecificationPrivateBusBuilder-class.html">/sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-class</a> object with the current weight per axle group set to the new value.</p>
+<p>Returns /sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-class. The /sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-class object with the current weight per axle group set to the new value.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -63,9 +64,9 @@ withWeightPerAxleGroup(<wbr/><ol class="parameter-list single-line"> <li><a href
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
-<li><a href="../../transport/VehicleSpecificationPrivateBusBuilder-class.html">/sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-transport-transport-library</li>
+<li>/sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-class</li>
 <li class="self-crumb">withWeightPerAxleGroup abstract method</li>
 </ol>
 <h5>VehicleSpecificationPrivateBusBuilder class</h5>
@@ -82,4 +83,5 @@ withWeightPerAxleGroup(<wbr/><ol class="parameter-list single-line"> <li><a href
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

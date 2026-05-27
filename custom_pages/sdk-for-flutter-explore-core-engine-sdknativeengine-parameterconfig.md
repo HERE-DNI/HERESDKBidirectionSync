@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "parameterConfig property"
 slug: "sdk-for-flutter-explore-core-engine-sdknativeengine-parameterconfig"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- parameterConfig.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-core-engine-sdknativeengine-parameterconfig"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
-<li><a href="../../core.engine/SDKNativeEngine-class.html">/sdk-for-flutter-explore-core-engine-sdknativeengine-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
+<li>/sdk-for-flutter-explore-core-engine-sdknativeengine-class</li>
 <li class="self-crumb">parameterConfig property</li>
 </ol>
 <div class="self-name">parameterConfig</div>
@@ -38,7 +39,7 @@ menu
 <h1>parameterConfig property</h1></div>
 <section id="getter">
 <section class="multi-line-signature">
-<a href="../../core/ParameterConfiguration-class.html">/sdk-for-flutter-explore-core-parameterconfiguration-class</a>
+/sdk-for-flutter-explore-core-parameterconfiguration-class
 parameterConfig
 </section>
 <section class="desc markdown">
@@ -55,7 +56,7 @@ Gets the configuration for default values of parameters used in the HERE SDK.</p
 <section id="setter">
 <section class="multi-line-signature">
 void
-parameterConfig=(<wbr/><a href="../../core/ParameterConfiguration-class.html">/sdk-for-flutter-explore-core-parameterconfiguration-class</a> value)
+parameterConfig=(<wbr/>/sdk-for-flutter-explore-core-parameterconfiguration-class value)
 </section>
 <section class="desc markdown">
 <p>Configuration for default values of parameters used in the HERE SDK.
@@ -76,9 +77,9 @@ Sets the configuration for default values of parameters used in the HERE SDK.</p
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
-<li><a href="../../core.engine/SDKNativeEngine-class.html">/sdk-for-flutter-explore-core-engine-sdknativeengine-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
+<li>/sdk-for-flutter-explore-core-engine-sdknativeengine-class</li>
 <li class="self-crumb">parameterConfig property</li>
 </ol>
 <h5>SDKNativeEngine class</h5>
@@ -95,4 +96,5 @@ Sets the configuration for default values of parameters used in the HERE SDK.</p
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

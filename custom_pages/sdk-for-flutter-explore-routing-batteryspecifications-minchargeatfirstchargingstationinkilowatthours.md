@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "minChargeAtFirstChargingStationInKilowattHours property"
 slug: "sdk-for-flutter-explore-routing-batteryspecifications-minchargeatfirstchargingstationinkilowatthours"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- minChargeAtFirstChargingStationInKilowattHours.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-routing-batteryspecifications-minchargeatfirstcha
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/BatterySpecifications-class.html">/sdk-for-flutter-explore-routing-batteryspecifications-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-batteryspecifications-class</li>
 <li class="self-crumb">minChargeAtFirstChargingStationInKilowattHours property</li>
 </ol>
 <div class="self-name">minChargeAtFirstChargingStationInKilowattHours</div>
@@ -44,13 +45,13 @@ menu
 </section>
 <section class="desc markdown">
 <p>Minimum charge when arriving at first charging station in kWh.
-This overrides <a href="../../routing/BatterySpecifications/minChargeAtChargingStationInKilowattHours.html">/sdk-for-flutter-explore-routing-batteryspecifications-minchargeatchargingstationinkilowatthours</a> for the first charging station.
-If not specified, <a href="../../routing/BatterySpecifications/minChargeAtChargingStationInKilowattHours.html">/sdk-for-flutter-explore-routing-batteryspecifications-minchargeatchargingstationinkilowatthours</a> will be used
+This overrides /sdk-for-flutter-explore-routing-batteryspecifications-minchargeatchargingstationinkilowatthours for the first charging station.
+If not specified, /sdk-for-flutter-explore-routing-batteryspecifications-minchargeatchargingstationinkilowatthours will be used
 for all charging stations, including the first one.
 Defaults to <code>null</code>.
 When initialized, it must be non-negative and less than the value of
-<a href="../../routing/BatterySpecifications/targetChargeInKilowattHours.html">/sdk-for-flutter-explore-routing-batteryspecifications-targetchargeinkilowatthours</a>,
-otherwise the <a href="../../routing/BatterySpecifications-class.html">/sdk-for-flutter-explore-routing-batteryspecifications-class</a> instance is considered invalid.
+/sdk-for-flutter-explore-routing-batteryspecifications-targetchargeinkilowatthours,
+otherwise the /sdk-for-flutter-explore-routing-batteryspecifications-class instance is considered invalid.
 This is usually used when the current charge is too low to reach a charging station within <code>minChargeAtChargingStation</code> limits.</p>
 </section>
 <section class="summary source-code" id="source">
@@ -65,9 +66,9 @@ This is usually used when the current charge is too low to reach a charging stat
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/BatterySpecifications-class.html">/sdk-for-flutter-explore-routing-batteryspecifications-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-batteryspecifications-class</li>
 <li class="self-crumb">minChargeAtFirstChargingStationInKilowattHours property</li>
 </ol>
 <h5>BatterySpecifications class</h5>
@@ -84,4 +85,5 @@ This is usually used when the current charge is too low to reach a charging stat
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

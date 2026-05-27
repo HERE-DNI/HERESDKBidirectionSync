@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "TransportSpecificationPedestrianBuilder constructor"
 slug: "sdk-for-flutter-explore-transport-transportspecificationpedestrianbuilder-transportspecificationpedestrianbuilder"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- TransportSpecificationPedestrianBuilder.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-transport-transportspecificationpedestrianbuilder
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
-<li><a href="../../transport/TransportSpecificationPedestrianBuilder-class.html">/sdk-for-flutter-explore-transport-transportspecificationpedestrianbuilder-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-transport-transport-library</li>
+<li>/sdk-for-flutter-explore-transport-transportspecificationpedestrianbuilder-class</li>
 <li class="self-crumb">TransportSpecificationPedestrianBuilder factory constructor</li>
 </ol>
 <div class="self-name">TransportSpecificationPedestrianBuilder</div>
@@ -54,9 +55,9 @@ TransportSpecificationPedestrianBuilder(<wbr/>)
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
-<li><a href="../../transport/TransportSpecificationPedestrianBuilder-class.html">/sdk-for-flutter-explore-transport-transportspecificationpedestrianbuilder-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-transport-transport-library</li>
+<li>/sdk-for-flutter-explore-transport-transportspecificationpedestrianbuilder-class</li>
 <li class="self-crumb">TransportSpecificationPedestrianBuilder factory constructor</li>
 </ol>
 <h5>TransportSpecificationPedestrianBuilder class</h5>
@@ -73,4 +74,5 @@ TransportSpecificationPedestrianBuilder(<wbr/>)
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

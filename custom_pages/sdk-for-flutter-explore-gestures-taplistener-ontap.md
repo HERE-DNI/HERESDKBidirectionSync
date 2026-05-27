@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "onTap abstract method"
 slug: "sdk-for-flutter-explore-gestures-taplistener-ontap"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- onTap.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-gestures-taplistener-ontap"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../gestures/gestures-library.html">/sdk-for-flutter-explore-gestures-gestures-library</a></li>
-<li><a href="../../gestures/TapListener-class.html">/sdk-for-flutter-explore-gestures-taplistener-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-gestures-gestures-library</li>
+<li>/sdk-for-flutter-explore-gestures-taplistener-class</li>
 <li class="self-crumb">onTap abstract method</li>
 </ol>
 <div class="self-name">onTap</div>
@@ -38,7 +39,7 @@ menu
 <h1>onTap abstract method</h1></div>
 <section class="multi-line-signature">
 void
-onTap(<wbr/><ol class="parameter-list single-line"> <li><a href="../../core/Point2D-class.html">/sdk-for-flutter-explore-core-point2d-class</a> origin</li>
+onTap(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-core-point2d-class origin</li>
 </ol>)
 
       
@@ -62,9 +63,9 @@ onTap(<wbr/><ol class="parameter-list single-line"> <li><a href="../../core/Poin
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../gestures/gestures-library.html">/sdk-for-flutter-explore-gestures-gestures-library</a></li>
-<li><a href="../../gestures/TapListener-class.html">/sdk-for-flutter-explore-gestures-taplistener-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-gestures-gestures-library</li>
+<li>/sdk-for-flutter-explore-gestures-taplistener-class</li>
 <li class="self-crumb">onTap abstract method</li>
 </ol>
 <h5>TapListener class</h5>
@@ -81,4 +82,5 @@ onTap(<wbr/><ol class="parameter-list single-line"> <li><a href="../../core/Poin
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

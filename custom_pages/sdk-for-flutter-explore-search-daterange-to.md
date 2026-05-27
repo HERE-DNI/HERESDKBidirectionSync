@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "to property"
 slug: "sdk-for-flutter-explore-search-daterange-to"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- to.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-search-daterange-to"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/DateRange-class.html">/sdk-for-flutter-explore-search-daterange-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-daterange-class</li>
 <li class="self-crumb">to property</li>
 </ol>
 <div class="self-name">to</div>
@@ -43,7 +44,7 @@ menu
 <div class="features">getter/setter pair</div>
 </section>
 <section class="desc markdown">
-<p>First date when the element is no longer valid, exclusive and later than <a href="../../search/DateRange/from.html">/sdk-for-flutter-explore-search-daterange-from</a>.
+<p>First date when the element is no longer valid, exclusive and later than /sdk-for-flutter-explore-search-daterange-from.
 If absent the element is valid until some other element takes over.</p>
 </section>
 <section class="summary source-code" id="source">
@@ -58,9 +59,9 @@ If absent the element is valid until some other element takes over.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/DateRange-class.html">/sdk-for-flutter-explore-search-daterange-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-daterange-class</li>
 <li class="self-crumb">to property</li>
 </ol>
 <h5>DateRange class</h5>
@@ -77,4 +78,5 @@ If absent the element is valid until some other element takes over.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "LocalizedText class"
 slug: "sdk-for-flutter-explore-core-localizedtext-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- LocalizedText-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -26,8 +27,8 @@ slug: "sdk-for-flutter-explore-core-localizedtext-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
 <li class="self-crumb">LocalizedText class</li>
 </ol>
 <div class="self-name">LocalizedText</div>
@@ -57,7 +58,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="LocalizedText">
-<a href="../core/LocalizedText/LocalizedText.html">/sdk-for-flutter-explore-core-localizedtext-localizedtext</a>(String text, <a href="https://pub.dev/documentation/intl/0.20.2/locale/Locale-class.html">Locale</a>? locale)
+/sdk-for-flutter-explore-core-localizedtext-localizedtext(String text, <a href="https://pub.dev/documentation/intl/0.20.2/locale/Locale-class.html">Locale</a>? locale)
 </dt>
 <dd>
           Creates a new instance.
@@ -68,7 +69,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="hashCode">
-<a href="../core/LocalizedText/hashCode.html">/sdk-for-flutter-explore-core-localizedtext-hashcode</a>
+/sdk-for-flutter-explore-core-localizedtext-hashcode
 → int
 </dt>
 <dd>
@@ -76,7 +77,7 @@ menu
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="locale">
-<a href="../core/LocalizedText/locale.html">/sdk-for-flutter-explore-core-localizedtext-locale</a>
+/sdk-for-flutter-explore-core-localizedtext-locale
 ↔ <a href="https://pub.dev/documentation/intl/0.20.2/locale/Locale-class.html">Locale</a>?
 </dt>
 <dd>
@@ -85,7 +86,7 @@ If locale is not supported by the platform, <code>null</code> is returned.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../core/LocalizedText/runtimeType.html">/sdk-for-flutter-explore-core-localizedtext-runtimetype</a>
+/sdk-for-flutter-explore-core-localizedtext-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -93,7 +94,7 @@ If locale is not supported by the platform, <code>null</code> is returned.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="text">
-<a href="../core/LocalizedText/text.html">/sdk-for-flutter-explore-core-localizedtext-text</a>
+/sdk-for-flutter-explore-core-localizedtext-text
 ↔ String
 </dt>
 <dd>
@@ -106,7 +107,7 @@ If locale is not supported by the platform, <code>null</code> is returned.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../core/LocalizedText/noSuchMethod.html">/sdk-for-flutter-explore-core-localizedtext-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-core-localizedtext-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -115,7 +116,7 @@ If locale is not supported by the platform, <code>null</code> is returned.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../core/LocalizedText/toString.html">/sdk-for-flutter-explore-core-localizedtext-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-core-localizedtext-tostring(<wbr/>)
     → String
 
 </dt>
@@ -129,7 +130,7 @@ If locale is not supported by the platform, <code>null</code> is returned.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-<a href="../core/LocalizedText/operator_equals.html">/sdk-for-flutter-explore-core-localizedtext-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-core-localizedtext-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -148,8 +149,8 @@ If locale is not supported by the platform, <code>null</code> is returned.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
 <li class="self-crumb">LocalizedText class</li>
 </ol>
 <h5>core library</h5>
@@ -166,4 +167,5 @@ If locale is not supported by the platform, <code>null</code> is returned.
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

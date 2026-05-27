@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "trafficFlow property"
 slug: "sdk-for-flutter-explore-mapview-mapfeatures-trafficflow"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- trafficFlow.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-mapfeatures-trafficflow"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapFeatures-class.html">/sdk-for-flutter-explore-mapview-mapfeatures-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapfeatures-class</li>
 <li class="self-crumb">trafficFlow property</li>
 </ol>
 <div class="self-name">trafficFlow</div>
@@ -51,13 +52,13 @@ pass-through feature for traffic flow on <code>sdk.core.engine.SDKNativeEngine</
 See <code>sdk.core.engine.SDKNativeEngine.pass_through_features</code> for details.</p>
 <p>Supported modes:</p>
 <ul>
-<li><a href="../../mapview/MapFeatureModes/trafficFlowJapanWithoutFreeFlow.html">/sdk-for-flutter-explore-mapview-mapfeaturemodes-trafficflowjapanwithoutfreeflow</a>,</li>
-<li><a href="../../mapview/MapFeatureModes/trafficFlowWithFreeFlow.html">/sdk-for-flutter-explore-mapview-mapfeaturemodes-trafficflowwithfreeflow</a>,</li>
-<li><a href="../../mapview/MapFeatureModes/trafficFlowWithoutFreeFlow.html">/sdk-for-flutter-explore-mapview-mapfeaturemodes-trafficflowwithoutfreeflow</a>.</li>
+<li>/sdk-for-flutter-explore-mapview-mapfeaturemodes-trafficflowjapanwithoutfreeflow,</li>
+<li>/sdk-for-flutter-explore-mapview-mapfeaturemodes-trafficflowwithfreeflow,</li>
+<li>/sdk-for-flutter-explore-mapview-mapfeaturemodes-trafficflowwithoutfreeflow.</li>
 </ul>
-<p>Default mode is <a href="../../mapview/MapFeatureModes/trafficFlowWithFreeFlow.html">/sdk-for-flutter-explore-mapview-mapfeaturemodes-trafficflowwithfreeflow</a>.</p>
-<p>Not supported for <a href="../../mapview/MapScheme.html">/sdk-for-flutter-explore-mapview-mapscheme</a>, <a href="../../mapview/MapScheme.html">/sdk-for-flutter-explore-mapview-mapscheme</a>
-and <a href="../../mapview/MapScheme.html">/sdk-for-flutter-explore-mapview-mapscheme</a>.
+<p>Default mode is /sdk-for-flutter-explore-mapview-mapfeaturemodes-trafficflowwithfreeflow.</p>
+<p>Not supported for /sdk-for-flutter-explore-mapview-mapscheme, /sdk-for-flutter-explore-mapview-mapscheme
+and /sdk-for-flutter-explore-mapview-mapscheme.
 By default, this map feature is not enabled.</p>
 </section>
 <section class="summary source-code" id="source">
@@ -72,9 +73,9 @@ By default, this map feature is not enabled.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapFeatures-class.html">/sdk-for-flutter-explore-mapview-mapfeatures-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapfeatures-class</li>
 <li class="self-crumb">trafficFlow property</li>
 </ol>
 <h5>MapFeatures class</h5>
@@ -91,4 +92,5 @@ By default, this map feature is not enabled.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

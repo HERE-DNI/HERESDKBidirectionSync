@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "geometry property"
 slug: "sdk-for-flutter-explore-mapview-mappolygon-geometry"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- geometry.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-mappolygon-geometry"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapPolygon-class.html">/sdk-for-flutter-explore-mapview-mappolygon-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mappolygon-class</li>
 <li class="self-crumb">geometry property</li>
 </ol>
 <div class="self-name">geometry</div>
@@ -38,7 +39,7 @@ menu
 <h1>geometry property</h1></div>
 <section id="getter">
 <section class="multi-line-signature">
-<a href="../../core/GeoPolygon-class.html">/sdk-for-flutter-explore-core-geopolygon-class</a>
+/sdk-for-flutter-explore-core-geopolygon-class
 geometry
 </section>
 <section class="desc markdown">
@@ -53,7 +54,7 @@ Gets the current geometry of the polygon.</p>
 <section id="setter">
 <section class="multi-line-signature">
 void
-geometry=(<wbr/><a href="../../core/GeoPolygon-class.html">/sdk-for-flutter-explore-core-geopolygon-class</a> value)
+geometry=(<wbr/>/sdk-for-flutter-explore-core-geopolygon-class value)
 </section>
 <section class="desc markdown">
 <p>The geometry of the polygon. Setting a new geometry will update the appearance.
@@ -82,9 +83,9 @@ artifacts.</li>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapPolygon-class.html">/sdk-for-flutter-explore-mapview-mappolygon-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mappolygon-class</li>
 <li class="self-crumb">geometry property</li>
 </ol>
 <h5>MapPolygon class</h5>
@@ -101,4 +102,5 @@ artifacts.</li>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

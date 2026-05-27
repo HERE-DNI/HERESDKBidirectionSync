@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "queryForIncidentsInBox abstract method"
 slug: "sdk-for-flutter-explore-traffic-trafficengine-queryforincidentsinbox"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- queryForIncidentsInBox.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-traffic-trafficengine-queryforincidentsinbox"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../traffic/traffic-library.html">/sdk-for-flutter-explore-traffic-traffic-library</a></li>
-<li><a href="../../traffic/TrafficEngine-class.html">/sdk-for-flutter-explore-traffic-trafficengine-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-traffic-traffic-library</li>
+<li>/sdk-for-flutter-explore-traffic-trafficengine-class</li>
 <li class="self-crumb">queryForIncidentsInBox abstract method</li>
 </ol>
 <div class="self-name">queryForIncidentsInBox</div>
@@ -37,10 +38,10 @@ menu
 <div>
 <h1>queryForIncidentsInBox abstract method</h1></div>
 <section class="multi-line-signature">
-<a href="../../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a>
-queryForIncidentsInBox(<wbr/><ol class="parameter-list single-line"> <li><a href="../../core/GeoBox-class.html">/sdk-for-flutter-explore-core-geobox-class</a> boxArea, </li>
-<li><a href="../../traffic/TrafficIncidentsQueryOptions-class.html">/sdk-for-flutter-explore-traffic-trafficincidentsqueryoptions-class</a> queryOptions, </li>
-<li><a href="../../traffic/TrafficIncidentsQueryCallback.html">/sdk-for-flutter-explore-traffic-trafficincidentsquerycallback</a> callback</li>
+/sdk-for-flutter-explore-core-threading-taskhandle-class
+queryForIncidentsInBox(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-core-geobox-class boxArea, </li>
+<li>/sdk-for-flutter-explore-traffic-trafficincidentsqueryoptions-class queryOptions, </li>
+<li>/sdk-for-flutter-explore-traffic-trafficincidentsquerycallback callback</li>
 </ol>)
 
       
@@ -60,7 +61,7 @@ The maximum width and height for a bounding box filter is 1 degree.</p>
 <p><code>callback</code> It is always invoked on the main thread.</p>
 </li>
 </ul>
-<p>Returns <a href="../../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a>. Handle that will be used to manipulate the execution of the task.</p>
+<p>Returns /sdk-for-flutter-explore-core-threading-taskhandle-class. Handle that will be used to manipulate the execution of the task.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -74,9 +75,9 @@ The maximum width and height for a bounding box filter is 1 degree.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../traffic/traffic-library.html">/sdk-for-flutter-explore-traffic-traffic-library</a></li>
-<li><a href="../../traffic/TrafficEngine-class.html">/sdk-for-flutter-explore-traffic-trafficengine-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-traffic-traffic-library</li>
+<li>/sdk-for-flutter-explore-traffic-trafficengine-class</li>
 <li class="self-crumb">queryForIncidentsInBox abstract method</li>
 </ol>
 <h5>TrafficEngine class</h5>
@@ -93,4 +94,5 @@ The maximum width and height for a bounding box filter is 1 degree.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

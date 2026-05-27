@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "getClosestPoint abstract method"
 slug: "sdk-for-flutter-explore-mapview-mapobjectdescriptor-getclosestpoint"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- getClosestPoint.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-mapobjectdescriptor-getclosestpoint"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapObjectDescriptor-class.html">/sdk-for-flutter-explore-mapview-mapobjectdescriptor-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapobjectdescriptor-class</li>
 <li class="self-crumb">getClosestPoint abstract method</li>
 </ol>
 <div class="self-name">getClosestPoint</div>
@@ -37,7 +38,7 @@ menu
 <div>
 <h1>getClosestPoint abstract method</h1></div>
 <section class="multi-line-signature">
-<a href="../../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>?
+/sdk-for-flutter-explore-core-geocoordinates-class?
 getClosestPoint(<wbr/>)
 
       
@@ -46,7 +47,7 @@ getClosestPoint(<wbr/>)
 <section class="desc markdown">
 <p>Return a geo point of the picked object, closest to the picking location.</p>
 <p>For polygons and polylines <code>null</code> is returned.</p>
-<p>Returns <a href="../../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>. The coordinates of a map object.</p>
+<p>Returns /sdk-for-flutter-explore-core-geocoordinates-class. The coordinates of a map object.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -60,9 +61,9 @@ getClosestPoint(<wbr/>)
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapObjectDescriptor-class.html">/sdk-for-flutter-explore-mapview-mapobjectdescriptor-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapobjectdescriptor-class</li>
 <li class="self-crumb">getClosestPoint abstract method</li>
 </ol>
 <h5>MapObjectDescriptor class</h5>
@@ -79,4 +80,5 @@ getClosestPoint(<wbr/>)
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

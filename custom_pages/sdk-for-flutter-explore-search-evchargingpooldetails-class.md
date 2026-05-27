@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "EVChargingPoolDetails class"
 slug: "sdk-for-flutter-explore-search-evchargingpooldetails-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- EVChargingPoolDetails-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -29,8 +30,8 @@ slug: "sdk-for-flutter-explore-search-evchargingpooldetails-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
 <li class="self-crumb">EVChargingPoolDetails class</li>
 </ol>
 <div class="self-name">EVChargingPoolDetails</div>
@@ -60,7 +61,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="EVChargingPoolDetails">
-<a href="../search/EVChargingPoolDetails/EVChargingPoolDetails.html">/sdk-for-flutter-explore-search-evchargingpooldetails-evchargingpooldetails</a>()
+/sdk-for-flutter-explore-search-evchargingpooldetails-evchargingpooldetails()
 </dt>
 <dd>
 </dd>
@@ -70,7 +71,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="evChargingOnSite">
-<a href="../search/EVChargingPoolDetails/evChargingOnSite.html">/sdk-for-flutter-explore-search-evchargingpooldetails-evchargingonsite</a>
+/sdk-for-flutter-explore-search-evchargingpooldetails-evchargingonsite
 ↔ bool?
 </dt>
 <dd>
@@ -78,7 +79,7 @@ menu
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="evNetwork">
-<a href="../search/EVChargingPoolDetails/evNetwork.html">/sdk-for-flutter-explore-search-evchargingpooldetails-evnetwork</a>
+/sdk-for-flutter-explore-search-evchargingpooldetails-evnetwork
 ↔ String?
 </dt>
 <dd>
@@ -87,7 +88,7 @@ Note: not all stations participate in a network.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-<a href="../search/EVChargingPoolDetails/hashCode.html">/sdk-for-flutter-explore-search-evchargingpooldetails-hashcode</a>
+/sdk-for-flutter-explore-search-evchargingpooldetails-hashcode
 → int
 </dt>
 <dd>
@@ -95,7 +96,7 @@ Note: not all stations participate in a network.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="ownerInformation">
-<a href="../search/EVChargingPoolDetails/ownerInformation.html">/sdk-for-flutter-explore-search-evchargingpooldetails-ownerinformation</a>
+/sdk-for-flutter-explore-search-evchargingpooldetails-ownerinformation
 ↔ String?
 </dt>
 <dd>
@@ -103,7 +104,7 @@ Note: not all stations participate in a network.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="reservable">
-<a href="../search/EVChargingPoolDetails/reservable.html">/sdk-for-flutter-explore-search-evchargingpooldetails-reservable</a>
+/sdk-for-flutter-explore-search-evchargingpooldetails-reservable
 ↔ bool?
 </dt>
 <dd>
@@ -112,7 +113,7 @@ Note: Reservable charging stations operate on a first-come/first served basis.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../search/EVChargingPoolDetails/runtimeType.html">/sdk-for-flutter-explore-search-evchargingpooldetails-runtimetype</a>
+/sdk-for-flutter-explore-search-evchargingpooldetails-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -120,7 +121,7 @@ Note: Reservable charging stations operate on a first-come/first served basis.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="totalNumberOfStations">
-<a href="../search/EVChargingPoolDetails/totalNumberOfStations.html">/sdk-for-flutter-explore-search-evchargingpooldetails-totalnumberofstations</a>
+/sdk-for-flutter-explore-search-evchargingpooldetails-totalnumberofstations
 ↔ int?
 </dt>
 <dd>
@@ -133,7 +134,7 @@ Note: Reservable charging stations operate on a first-come/first served basis.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../search/EVChargingPoolDetails/noSuchMethod.html">/sdk-for-flutter-explore-search-evchargingpooldetails-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-search-evchargingpooldetails-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -142,7 +143,7 @@ Note: Reservable charging stations operate on a first-come/first served basis.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../search/EVChargingPoolDetails/toString.html">/sdk-for-flutter-explore-search-evchargingpooldetails-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-search-evchargingpooldetails-tostring(<wbr/>)
     → String
 
 </dt>
@@ -156,7 +157,7 @@ Note: Reservable charging stations operate on a first-come/first served basis.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-<a href="../search/EVChargingPoolDetails/operator_equals.html">/sdk-for-flutter-explore-search-evchargingpooldetails-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-search-evchargingpooldetails-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -175,8 +176,8 @@ Note: Reservable charging stations operate on a first-come/first served basis.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
 <li class="self-crumb">EVChargingPoolDetails class</li>
 </ol>
 <h5>search library</h5>
@@ -193,4 +194,5 @@ Note: Reservable charging stations operate on a first-come/first served basis.
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

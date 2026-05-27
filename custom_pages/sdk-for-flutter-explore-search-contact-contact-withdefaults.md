@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "Contact.withDefaults constructor"
 slug: "sdk-for-flutter-explore-search-contact-contact-withdefaults"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- Contact.withDefaults.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-search-contact-contact-withdefaults"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/Contact-class.html">/sdk-for-flutter-explore-search-contact-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-contact-class</li>
 <li class="self-crumb">Contact.withDefaults constructor</li>
 </ol>
 <div class="self-name">Contact.withDefaults</div>
@@ -55,9 +56,9 @@ Contact.withDefaults(<wbr/>)
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/Contact-class.html">/sdk-for-flutter-explore-search-contact-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-contact-class</li>
 <li class="self-crumb">Contact.withDefaults constructor</li>
 </ol>
 <h5>Contact class</h5>
@@ -74,4 +75,5 @@ Contact.withDefaults(<wbr/>)
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

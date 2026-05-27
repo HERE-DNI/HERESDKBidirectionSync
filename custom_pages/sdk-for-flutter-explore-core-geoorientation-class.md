@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "GeoOrientation class"
 slug: "sdk-for-flutter-explore-core-geoorientation-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- GeoOrientation-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -26,8 +27,8 @@ slug: "sdk-for-flutter-explore-core-geoorientation-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
 <li class="self-crumb">GeoOrientation class</li>
 </ol>
 <div class="self-name">GeoOrientation</div>
@@ -67,7 +68,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="GeoOrientation">
-<a href="../core/GeoOrientation/GeoOrientation.html">/sdk-for-flutter-explore-core-geoorientation-geoorientation</a>(double bearing, double tilt)
+/sdk-for-flutter-explore-core-geoorientation-geoorientation(double bearing, double tilt)
 </dt>
 <dd>
 <li>
@@ -84,7 +85,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="bearing">
-<a href="../core/GeoOrientation/bearing.html">/sdk-for-flutter-explore-core-geoorientation-bearing</a>
+/sdk-for-flutter-explore-core-geoorientation-bearing
 → double
 </dt>
 <dd>
@@ -93,7 +94,7 @@ Bearing axis is perpendicular to the ground and passes through the target coordi
   <div class="features">final</div>
 </dd>
 <dt class="property" id="hashCode">
-<a href="../core/GeoOrientation/hashCode.html">/sdk-for-flutter-explore-core-geoorientation-hashcode</a>
+/sdk-for-flutter-explore-core-geoorientation-hashcode
 → int
 </dt>
 <dd>
@@ -101,7 +102,7 @@ Bearing axis is perpendicular to the ground and passes through the target coordi
   <div class="features">no setter</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../core/GeoOrientation/runtimeType.html">/sdk-for-flutter-explore-core-geoorientation-runtimetype</a>
+/sdk-for-flutter-explore-core-geoorientation-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -109,7 +110,7 @@ Bearing axis is perpendicular to the ground and passes through the target coordi
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="tilt">
-<a href="../core/GeoOrientation/tilt.html">/sdk-for-flutter-explore-core-geoorientation-tilt</a>
+/sdk-for-flutter-explore-core-geoorientation-tilt
 → double
 </dt>
 <dd>
@@ -122,7 +123,7 @@ Bearing axis is perpendicular to the ground and passes through the target coordi
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../core/GeoOrientation/noSuchMethod.html">/sdk-for-flutter-explore-core-geoorientation-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-core-geoorientation-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -131,7 +132,7 @@ Bearing axis is perpendicular to the ground and passes through the target coordi
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../core/GeoOrientation/toString.html">/sdk-for-flutter-explore-core-geoorientation-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-core-geoorientation-tostring(<wbr/>)
     → String
 
 </dt>
@@ -145,7 +146,7 @@ Bearing axis is perpendicular to the ground and passes through the target coordi
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-<a href="../core/GeoOrientation/operator_equals.html">/sdk-for-flutter-explore-core-geoorientation-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-core-geoorientation-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -164,8 +165,8 @@ Bearing axis is perpendicular to the ground and passes through the target coordi
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
 <li class="self-crumb">GeoOrientation class</li>
 </ol>
 <h5>core library</h5>
@@ -182,4 +183,5 @@ Bearing axis is perpendicular to the ground and passes through the target coordi
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

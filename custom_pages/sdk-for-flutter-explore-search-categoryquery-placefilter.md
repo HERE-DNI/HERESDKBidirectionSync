@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "placeFilter property"
 slug: "sdk-for-flutter-explore-search-categoryquery-placefilter"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- placeFilter.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-search-categoryquery-placefilter"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/CategoryQuery-class.html">/sdk-for-flutter-explore-search-categoryquery-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-categoryquery-class</li>
 <li class="self-crumb">placeFilter property</li>
 </ol>
 <div class="self-name">placeFilter</div>
@@ -37,7 +38,7 @@ menu
 <div>
 <h1>placeFilter property</h1></div>
 <section class="multi-line-signature">
-<a href="../../search/PlaceFilter-class.html">/sdk-for-flutter-explore-search-placefilter-class</a>
+/sdk-for-flutter-explore-search-placefilter-class
 placeFilter
 <div class="features">getter/setter pair</div>
 </section>
@@ -57,9 +58,9 @@ Consists of fuel and truck options.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/CategoryQuery-class.html">/sdk-for-flutter-explore-search-categoryquery-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-categoryquery-class</li>
 <li class="self-crumb">placeFilter property</li>
 </ol>
 <h5>CategoryQuery class</h5>
@@ -76,4 +77,5 @@ Consists of fuel and truck options.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "AuthenticationExceptionException class"
 slug: "sdk-for-flutter-explore-core-authenticationexceptionexception-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- AuthenticationExceptionException-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -25,8 +26,8 @@ slug: "sdk-for-flutter-explore-core-authenticationexceptionexception-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
 <li class="self-crumb">AuthenticationExceptionException class</li>
 </ol>
 <div class="self-name">AuthenticationExceptionException</div>
@@ -56,7 +57,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="AuthenticationExceptionException">
-<a href="../core/AuthenticationExceptionException/AuthenticationExceptionException.html">/sdk-for-flutter-explore-core-authenticationexceptionexception-authenticationexceptionexception</a>(<a href="../core/AuthenticationError.html">/sdk-for-flutter-explore-core-authenticationerror</a> error)
+/sdk-for-flutter-explore-core-authenticationexceptionexception-authenticationexceptionexception(/sdk-for-flutter-explore-core-authenticationerror error)
 </dt>
 <dd>
 </dd>
@@ -66,14 +67,14 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="error">
-<a href="../core/AuthenticationExceptionException/error.html">/sdk-for-flutter-explore-core-authenticationexceptionexception-error</a>
-→ <a href="../core/AuthenticationError.html">/sdk-for-flutter-explore-core-authenticationerror</a>
+/sdk-for-flutter-explore-core-authenticationexceptionexception-error
+→ /sdk-for-flutter-explore-core-authenticationerror
 </dt>
 <dd>
 <div class="features">final</div>
 </dd>
 <dt class="property inherited" id="hashCode">
-<a href="../core/AuthenticationExceptionException/hashCode.html">/sdk-for-flutter-explore-core-authenticationexceptionexception-hashcode</a>
+/sdk-for-flutter-explore-core-authenticationexceptionexception-hashcode
 → int
 </dt>
 <dd class="inherited">
@@ -81,7 +82,7 @@ menu
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../core/AuthenticationExceptionException/runtimeType.html">/sdk-for-flutter-explore-core-authenticationexceptionexception-runtimetype</a>
+/sdk-for-flutter-explore-core-authenticationexceptionexception-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -94,7 +95,7 @@ menu
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../core/AuthenticationExceptionException/noSuchMethod.html">/sdk-for-flutter-explore-core-authenticationexceptionexception-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-core-authenticationexceptionexception-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -103,7 +104,7 @@ menu
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../core/AuthenticationExceptionException/toString.html">/sdk-for-flutter-explore-core-authenticationexceptionexception-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-core-authenticationexceptionexception-tostring(<wbr/>)
     → String
 
 </dt>
@@ -117,7 +118,7 @@ menu
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-<a href="../core/AuthenticationExceptionException/operator_equals.html">/sdk-for-flutter-explore-core-authenticationexceptionexception-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-core-authenticationexceptionexception-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -135,8 +136,8 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
 <li class="self-crumb">AuthenticationExceptionException class</li>
 </ol>
 <h5>core library</h5>
@@ -153,4 +154,5 @@ menu
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

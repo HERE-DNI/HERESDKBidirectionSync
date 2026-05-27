@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "placeCategoryId property"
 slug: "sdk-for-flutter-explore-core-pickedplace-placecategoryid"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- placeCategoryId.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-core-pickedplace-placecategoryid"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
-<li><a href="../../core/PickedPlace-class.html">/sdk-for-flutter-explore-core-pickedplace-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
+<li>/sdk-for-flutter-explore-core-pickedplace-class</li>
 <li class="self-crumb">placeCategoryId property</li>
 </ol>
 <div class="self-name">placeCategoryId</div>
@@ -60,9 +61,9 @@ This is the same String value as <code>PlaceCategory.id</code> that can be obtai
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
-<li><a href="../../core/PickedPlace-class.html">/sdk-for-flutter-explore-core-pickedplace-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
+<li>/sdk-for-flutter-explore-core-pickedplace-class</li>
 <li class="self-crumb">placeCategoryId property</li>
 </ol>
 <h5>PickedPlace class</h5>
@@ -79,4 +80,5 @@ This is the same String value as <code>PlaceCategory.id</code> that can be obtai
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

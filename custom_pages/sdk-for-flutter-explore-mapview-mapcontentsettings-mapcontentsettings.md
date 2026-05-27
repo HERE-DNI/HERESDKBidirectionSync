@@ -3,7 +3,8 @@ title: "MapContentSettings constructor"
 slug: "sdk-for-flutter-explore-mapview-mapcontentsettings-mapcontentsettings"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- MapContentSettings.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-mapcontentsettings-mapcontentsettings"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapContentSettings-class.html">/sdk-for-flutter-explore-mapview-mapcontentsettings-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapcontentsettings-class</li>
 <li class="self-crumb">MapContentSettings constructor</li>
 </ol>
 <div class="self-name">MapContentSettings</div>
@@ -47,9 +48,9 @@ MapContentSettings(<wbr/>)
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapContentSettings-class.html">/sdk-for-flutter-explore-mapview-mapcontentsettings-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapcontentsettings-class</li>
 <li class="self-crumb">MapContentSettings constructor</li>
 </ol>
 <h5>MapContentSettings class</h5>
@@ -66,4 +67,5 @@ MapContentSettings(<wbr/>)
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

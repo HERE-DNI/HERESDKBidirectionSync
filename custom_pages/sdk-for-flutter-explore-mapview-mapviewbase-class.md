@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "MapViewBase class abstract"
 slug: "sdk-for-flutter-explore-mapview-mapviewbase-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- MapViewBase-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -40,8 +41,8 @@ slug: "sdk-for-flutter-explore-mapview-mapviewbase-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
 <li class="self-crumb">MapViewBase class</li>
 </ol>
 <div class="self-name">MapViewBase</div>
@@ -71,7 +72,7 @@ menu
 <dl class="dl-horizontal">
 <dt>Implementers</dt>
 <dd><ul class="comma-separated clazz-relationships">
-<li><a href="../mapview/HereMapController-class.html">/sdk-for-flutter-explore-mapview-heremapcontroller-class</a></li>
+<li>/sdk-for-flutter-explore-mapview-heremapcontroller-class</li>
 </ul></dd>
 </dl>
 </section>
@@ -79,7 +80,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="MapViewBase">
-<a href="../mapview/MapViewBase/MapViewBase.html">/sdk-for-flutter-explore-mapview-mapviewbase-mapviewbase</a>(<a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>? viewToGeoCoordinatesLambda(<a href="../core/Point2D-class.html">/sdk-for-flutter-explore-core-point2d-class</a>), <a href="../core/Point2D-class.html">/sdk-for-flutter-explore-core-point2d-class</a>? geoToViewCoordinatesLambda(<a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>), void setWatermarkLocationLambda(<a href="../core/Anchor2D-class.html">/sdk-for-flutter-explore-core-anchor2d-class</a>, <a href="../core/Point2D-class.html">/sdk-for-flutter-explore-core-point2d-class</a>), void addLifecycleListenerLambda(<a href="../mapview/MapViewLifecycleListener-class.html">/sdk-for-flutter-explore-mapview-mapviewlifecyclelistener-class</a>), void removeLifecycleListenerLambda(<a href="../mapview/MapViewLifecycleListener-class.html">/sdk-for-flutter-explore-mapview-mapviewlifecyclelistener-class</a>), void pickLambda(<a href="../mapview/MapSceneMapPickFilter-class.html">/sdk-for-flutter-explore-mapview-mapscenemappickfilter-class</a>?, <a href="../core/Rectangle2D-class.html">/sdk-for-flutter-explore-core-rectangle2d-class</a>, <a href="../mapview/MapViewBaseMapPickCallback.html">/sdk-for-flutter-explore-mapview-mapviewbasemappickcallback</a> ), bool isValidGetLambda(), <a href="../mapview/MapCamera-class.html">/sdk-for-flutter-explore-mapview-mapcamera-class</a> cameraGetLambda(), <a href="../gestures/Gestures-class.html">/sdk-for-flutter-explore-gestures-gestures-class</a> gesturesGetLambda(), <a href="../mapview/MapScene-class.html">/sdk-for-flutter-explore-mapview-mapscene-class</a> mapSceneGetLambda(), <a href="../mapview/MapContext-class.html">/sdk-for-flutter-explore-mapview-mapcontext-class</a> mapContextGetLambda(), <a href="../mapview/HereMapControllerCore-class.html">/sdk-for-flutter-explore-mapview-heremapcontrollercore-class</a> hereMapControllerCoreGetLambda(), <a href="../core/Size2D-class.html">/sdk-for-flutter-explore-core-size2d-class</a> viewportSizeGetLambda(), int frameRateGetLambda(), void frameRateSetLambda(int), double pixelScaleGetLambda(), <a href="../core/Size2D-class.html">/sdk-for-flutter-explore-core-size2d-class</a> watermarkSizeGetLambda())
+/sdk-for-flutter-explore-mapview-mapviewbase-mapviewbase(/sdk-for-flutter-explore-core-geocoordinates-class? viewToGeoCoordinatesLambda(/sdk-for-flutter-explore-core-point2d-class), /sdk-for-flutter-explore-core-point2d-class? geoToViewCoordinatesLambda(/sdk-for-flutter-explore-core-geocoordinates-class), void setWatermarkLocationLambda(/sdk-for-flutter-explore-core-anchor2d-class, /sdk-for-flutter-explore-core-point2d-class), void addLifecycleListenerLambda(/sdk-for-flutter-explore-mapview-mapviewlifecyclelistener-class), void removeLifecycleListenerLambda(/sdk-for-flutter-explore-mapview-mapviewlifecyclelistener-class), void pickLambda(/sdk-for-flutter-explore-mapview-mapscenemappickfilter-class?, /sdk-for-flutter-explore-core-rectangle2d-class, /sdk-for-flutter-explore-mapview-mapviewbasemappickcallback ), bool isValidGetLambda(), /sdk-for-flutter-explore-mapview-mapcamera-class cameraGetLambda(), /sdk-for-flutter-explore-gestures-gestures-class gesturesGetLambda(), /sdk-for-flutter-explore-mapview-mapscene-class mapSceneGetLambda(), /sdk-for-flutter-explore-mapview-mapcontext-class mapContextGetLambda(), /sdk-for-flutter-explore-mapview-heremapcontrollercore-class hereMapControllerCoreGetLambda(), /sdk-for-flutter-explore-core-size2d-class viewportSizeGetLambda(), int frameRateGetLambda(), void frameRateSetLambda(int), double pixelScaleGetLambda(), /sdk-for-flutter-explore-core-size2d-class watermarkSizeGetLambda())
 </dt>
 <dd>
           Represents the available public API from  <code>MapView</code>.
@@ -91,8 +92,8 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="camera">
-<a href="../mapview/MapViewBase/camera.html">/sdk-for-flutter-explore-mapview-mapviewbase-camera</a>
-→ <a href="../mapview/MapCamera-class.html">/sdk-for-flutter-explore-mapview-mapcamera-class</a>
+/sdk-for-flutter-explore-mapview-mapviewbase-camera
+→ /sdk-for-flutter-explore-mapview-mapcamera-class
 </dt>
 <dd>
   The camera to control the view for the map.
@@ -100,7 +101,7 @@ Gets the camera to control the view for the map.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="frameRate">
-<a href="../mapview/MapViewBase/frameRate.html">/sdk-for-flutter-explore-mapview-mapviewbase-framerate</a>
+/sdk-for-flutter-explore-mapview-mapviewbase-framerate
 ↔ int
 </dt>
 <dd>
@@ -109,8 +110,8 @@ Gets maximum render frame rate in frames per second.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="gestures">
-<a href="../mapview/MapViewBase/gestures.html">/sdk-for-flutter-explore-mapview-mapviewbase-gestures</a>
-→ <a href="../gestures/Gestures-class.html">/sdk-for-flutter-explore-gestures-gestures-class</a>
+/sdk-for-flutter-explore-mapview-mapviewbase-gestures
+→ /sdk-for-flutter-explore-gestures-gestures-class
 </dt>
 <dd>
   The gestures control object for setting up the capture of gestures.
@@ -118,7 +119,7 @@ Gets the gestures control object.
   <div class="features">no setter</div>
 </dd>
 <dt class="property inherited" id="hashCode">
-<a href="../mapview/MapViewBase/hashCode.html">/sdk-for-flutter-explore-mapview-mapviewbase-hashcode</a>
+/sdk-for-flutter-explore-mapview-mapviewbase-hashcode
 → int
 </dt>
 <dd class="inherited">
@@ -126,16 +127,16 @@ Gets the gestures control object.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="hereMapControllerCore">
-<a href="../mapview/MapViewBase/hereMapControllerCore.html">/sdk-for-flutter-explore-mapview-mapviewbase-heremapcontrollercore</a>
-→ <a href="../mapview/HereMapControllerCore-class.html">/sdk-for-flutter-explore-mapview-heremapcontrollercore-class</a>
+/sdk-for-flutter-explore-mapview-mapviewbase-heremapcontrollercore
+→ /sdk-for-flutter-explore-mapview-heremapcontrollercore-class
 </dt>
 <dd>
   Here Map associated with this map view.
-Gets the <a href="../mapview/HereMapControllerCore-class.html">/sdk-for-flutter-explore-mapview-heremapcontrollercore-class</a> associated with this map view.
+Gets the /sdk-for-flutter-explore-mapview-heremapcontrollercore-class associated with this map view.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="isValid">
-<a href="../mapview/MapViewBase/isValid.html">/sdk-for-flutter-explore-mapview-mapviewbase-isvalid</a>
+/sdk-for-flutter-explore-mapview-mapviewbase-isvalid
 → bool
 </dt>
 <dd>
@@ -145,8 +146,8 @@ Returns <code>true</code> if this instance is valid, <code>false</code> otherwis
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="mapContext">
-<a href="../mapview/MapViewBase/mapContext.html">/sdk-for-flutter-explore-mapview-mapviewbase-mapcontext</a>
-→ <a href="../mapview/MapContext-class.html">/sdk-for-flutter-explore-mapview-mapcontext-class</a>
+/sdk-for-flutter-explore-mapview-mapviewbase-mapcontext
+→ /sdk-for-flutter-explore-mapview-mapcontext-class
 </dt>
 <dd>
   Map context associated with this map view.
@@ -154,8 +155,8 @@ Gets the map context associated with this map view.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="mapScene">
-<a href="../mapview/MapViewBase/mapScene.html">/sdk-for-flutter-explore-mapview-mapviewbase-mapscene</a>
-→ <a href="../mapview/MapScene-class.html">/sdk-for-flutter-explore-mapview-mapscene-class</a>
+/sdk-for-flutter-explore-mapview-mapviewbase-mapscene
+→ /sdk-for-flutter-explore-mapview-mapscene-class
 </dt>
 <dd>
   Map scene associated with this map view.
@@ -163,7 +164,7 @@ Gets the map scene associated with this map view.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="pixelScale">
-<a href="../mapview/MapViewBase/pixelScale.html">/sdk-for-flutter-explore-mapview-mapviewbase-pixelscale</a>
+/sdk-for-flutter-explore-mapview-mapviewbase-pixelscale
 → double
 </dt>
 <dd>
@@ -171,7 +172,7 @@ Gets the map scene associated with this map view.
   <div class="features">no setter</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../mapview/MapViewBase/runtimeType.html">/sdk-for-flutter-explore-mapview-mapviewbase-runtimetype</a>
+/sdk-for-flutter-explore-mapview-mapviewbase-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -179,20 +180,20 @@ Gets the map scene associated with this map view.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="viewportSize">
-<a href="../mapview/MapViewBase/viewportSize.html">/sdk-for-flutter-explore-mapview-mapviewbase-viewportsize</a>
-→ <a href="../core/Size2D-class.html">/sdk-for-flutter-explore-core-size2d-class</a>
+/sdk-for-flutter-explore-mapview-mapviewbase-viewportsize
+→ /sdk-for-flutter-explore-core-size2d-class
 </dt>
 <dd>
   The size of this map view in physical pixels.
 If internally the map view's render surface is not attached yet
-(see: <a href="../mapview/MapViewLifecycleListener-class.html">/sdk-for-flutter-explore-mapview-mapviewlifecyclelistener-class</a>), or after the map view has been destroyed
+(see: /sdk-for-flutter-explore-mapview-mapviewlifecyclelistener-class), or after the map view has been destroyed
 then a <code>Size2D</code> with zero width and height is returned.
 Gets the size of this map view in physical pixels.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="watermarkSize">
-<a href="../mapview/MapViewBase/watermarkSize.html">/sdk-for-flutter-explore-mapview-mapviewbase-watermarksize</a>
-→ <a href="../core/Size2D-class.html">/sdk-for-flutter-explore-core-size2d-class</a>
+/sdk-for-flutter-explore-mapview-mapviewbase-watermarksize
+→ /sdk-for-flutter-explore-core-size2d-class
 </dt>
 <dd>
   Provides the size of the watermark in physical pixels.
@@ -205,18 +206,18 @@ Returns the watermark size in physical pixels.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable" id="addLifecycleListener">
-<a href="../mapview/MapViewBase/addLifecycleListener.html">/sdk-for-flutter-explore-mapview-mapviewbase-addlifecyclelistener</a>(<wbr/><a href="../mapview/MapViewLifecycleListener-class.html">/sdk-for-flutter-explore-mapview-mapviewlifecyclelistener-class</a> lifecycleListener)
+/sdk-for-flutter-explore-mapview-mapviewbase-addlifecyclelistener(<wbr/>/sdk-for-flutter-explore-mapview-mapviewlifecyclelistener-class lifecycleListener)
     → void
 
 </dt>
 <dd>
-  Adds a <a href="../mapview/MapViewLifecycleListener-class.html">/sdk-for-flutter-explore-mapview-mapviewlifecyclelistener-class</a> to this map view.
+  Adds a /sdk-for-flutter-explore-mapview-mapviewlifecyclelistener-class to this map view.
   
 
 </dd>
 <dt class="callable" id="geoToViewCoordinates">
-<a href="../mapview/MapViewBase/geoToViewCoordinates.html">/sdk-for-flutter-explore-mapview-mapviewbase-geotoviewcoordinates</a>(<wbr/><a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a> geoCoordinates)
-    → <a href="../core/Point2D-class.html">/sdk-for-flutter-explore-core-point2d-class</a>?
+/sdk-for-flutter-explore-mapview-mapviewbase-geotoviewcoordinates(<wbr/>/sdk-for-flutter-explore-core-geocoordinates-class geoCoordinates)
+    → /sdk-for-flutter-explore-core-point2d-class?
 
 </dt>
 <dd>
@@ -225,7 +226,7 @@ Returns the watermark size in physical pixels.
 
 </dd>
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../mapview/MapViewBase/noSuchMethod.html">/sdk-for-flutter-explore-mapview-mapviewbase-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-mapview-mapviewbase-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -234,7 +235,7 @@ Returns the watermark size in physical pixels.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable" id="pick">
-<a href="../mapview/MapViewBase/pick.html">/sdk-for-flutter-explore-mapview-mapviewbase-pick</a>(<wbr/><a href="../mapview/MapSceneMapPickFilter-class.html">/sdk-for-flutter-explore-mapview-mapscenemappickfilter-class</a>? filter, <a href="../core/Rectangle2D-class.html">/sdk-for-flutter-explore-core-rectangle2d-class</a> viewArea, <a href="../mapview/MapViewBaseMapPickCallback.html">/sdk-for-flutter-explore-mapview-mapviewbasemappickcallback</a> callback)
+/sdk-for-flutter-explore-mapview-mapviewbase-pick(<wbr/>/sdk-for-flutter-explore-mapview-mapscenemappickfilter-class? filter, /sdk-for-flutter-explore-core-rectangle2d-class viewArea, /sdk-for-flutter-explore-mapview-mapviewbasemappickcallback callback)
     → void
 
 </dt>
@@ -244,17 +245,17 @@ Returns the watermark size in physical pixels.
 
 </dd>
 <dt class="callable" id="removeLifecycleListener">
-<a href="../mapview/MapViewBase/removeLifecycleListener.html">/sdk-for-flutter-explore-mapview-mapviewbase-removelifecyclelistener</a>(<wbr/><a href="../mapview/MapViewLifecycleListener-class.html">/sdk-for-flutter-explore-mapview-mapviewlifecyclelistener-class</a> lifecycleListener)
+/sdk-for-flutter-explore-mapview-mapviewbase-removelifecyclelistener(<wbr/>/sdk-for-flutter-explore-mapview-mapviewlifecyclelistener-class lifecycleListener)
     → void
 
 </dt>
 <dd>
-  Removes a <a href="../mapview/MapViewLifecycleListener-class.html">/sdk-for-flutter-explore-mapview-mapviewlifecyclelistener-class</a> from this map view.
+  Removes a /sdk-for-flutter-explore-mapview-mapviewlifecyclelistener-class from this map view.
   
 
 </dd>
 <dt class="callable" id="setWatermarkLocation">
-<a href="../mapview/MapViewBase/setWatermarkLocation.html">/sdk-for-flutter-explore-mapview-mapviewbase-setwatermarklocation</a>(<wbr/><a href="../core/Anchor2D-class.html">/sdk-for-flutter-explore-core-anchor2d-class</a> anchor, <a href="../core/Point2D-class.html">/sdk-for-flutter-explore-core-point2d-class</a> offset)
+/sdk-for-flutter-explore-mapview-mapviewbase-setwatermarklocation(<wbr/>/sdk-for-flutter-explore-core-anchor2d-class anchor, /sdk-for-flutter-explore-core-point2d-class offset)
     → void
 
 </dt>
@@ -264,7 +265,7 @@ Returns the watermark size in physical pixels.
 
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../mapview/MapViewBase/toString.html">/sdk-for-flutter-explore-mapview-mapviewbase-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-mapview-mapviewbase-tostring(<wbr/>)
     → String
 
 </dt>
@@ -273,8 +274,8 @@ Returns the watermark size in physical pixels.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable" id="viewToGeoCoordinates">
-<a href="../mapview/MapViewBase/viewToGeoCoordinates.html">/sdk-for-flutter-explore-mapview-mapviewbase-viewtogeocoordinates</a>(<wbr/><a href="../core/Point2D-class.html">/sdk-for-flutter-explore-core-point2d-class</a> viewCoordinates)
-    → <a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>?
+/sdk-for-flutter-explore-mapview-mapviewbase-viewtogeocoordinates(<wbr/>/sdk-for-flutter-explore-core-point2d-class viewCoordinates)
+    → /sdk-for-flutter-explore-core-geocoordinates-class?
 
 </dt>
 <dd>
@@ -288,7 +289,7 @@ Returns the watermark size in physical pixels.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-<a href="../mapview/MapViewBase/operator_equals.html">/sdk-for-flutter-explore-mapview-mapviewbase-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-mapview-mapviewbase-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -306,8 +307,8 @@ Returns the watermark size in physical pixels.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
 <li class="self-crumb">MapViewBase class</li>
 </ol>
 <h5>mapview library</h5>
@@ -324,4 +325,5 @@ Returns the watermark size in physical pixels.
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

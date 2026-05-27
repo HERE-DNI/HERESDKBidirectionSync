@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "RasterTileSourceLoadResultHandler class abstract"
 slug: "sdk-for-flutter-explore-mapview-datasource-rastertilesourceloadresulthandler-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- RasterTileSourceLoadResultHandler-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -26,8 +27,8 @@ slug: "sdk-for-flutter-explore-mapview-datasource-rastertilesourceloadresulthand
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
 <li class="self-crumb">RasterTileSourceLoadResultHandler class</li>
 </ol>
 <div class="self-name">RasterTileSourceLoadResultHandler</div>
@@ -57,7 +58,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="RasterTileSourceLoadResultHandler">
-<a href="../mapview.datasource/RasterTileSourceLoadResultHandler/RasterTileSourceLoadResultHandler.html">/sdk-for-flutter-explore-mapview-datasource-rastertilesourceloadresulthandler-rastertilesourceloadresulthandler</a>(void loadedLambda(<a href="../mapview.datasource/TileKey-class.html">/sdk-for-flutter-explore-mapview-datasource-tilekey-class</a>, Uint8List, <a href="../mapview.datasource/TileSourceTileMetadata-class.html">/sdk-for-flutter-explore-mapview-datasource-tilesourcetilemetadata-class</a>), void failedLambda(<a href="../mapview.datasource/TileKey-class.html">/sdk-for-flutter-explore-mapview-datasource-tilekey-class</a>))
+/sdk-for-flutter-explore-mapview-datasource-rastertilesourceloadresulthandler-rastertilesourceloadresulthandler(void loadedLambda(/sdk-for-flutter-explore-mapview-datasource-tilekey-class, Uint8List, /sdk-for-flutter-explore-mapview-datasource-tilesourcetilemetadata-class), void failedLambda(/sdk-for-flutter-explore-mapview-datasource-tilekey-class))
 </dt>
 <dd>
           Result handler of a load tile request.
@@ -69,7 +70,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="hashCode">
-<a href="../mapview.datasource/RasterTileSourceLoadResultHandler/hashCode.html">/sdk-for-flutter-explore-mapview-datasource-rastertilesourceloadresulthandler-hashcode</a>
+/sdk-for-flutter-explore-mapview-datasource-rastertilesourceloadresulthandler-hashcode
 → int
 </dt>
 <dd class="inherited">
@@ -77,7 +78,7 @@ menu
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../mapview.datasource/RasterTileSourceLoadResultHandler/runtimeType.html">/sdk-for-flutter-explore-mapview-datasource-rastertilesourceloadresulthandler-runtimetype</a>
+/sdk-for-flutter-explore-mapview-datasource-rastertilesourceloadresulthandler-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -90,7 +91,7 @@ menu
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable" id="failed">
-<a href="../mapview.datasource/RasterTileSourceLoadResultHandler/failed.html">/sdk-for-flutter-explore-mapview-datasource-rastertilesourceloadresulthandler-failed</a>(<wbr/><a href="../mapview.datasource/TileKey-class.html">/sdk-for-flutter-explore-mapview-datasource-tilekey-class</a> tileKey)
+/sdk-for-flutter-explore-mapview-datasource-rastertilesourceloadresulthandler-failed(<wbr/>/sdk-for-flutter-explore-mapview-datasource-tilekey-class tileKey)
     → void
 
 </dt>
@@ -100,7 +101,7 @@ menu
 
 </dd>
 <dt class="callable" id="loaded">
-<a href="../mapview.datasource/RasterTileSourceLoadResultHandler/loaded.html">/sdk-for-flutter-explore-mapview-datasource-rastertilesourceloadresulthandler-loaded</a>(<wbr/><a href="../mapview.datasource/TileKey-class.html">/sdk-for-flutter-explore-mapview-datasource-tilekey-class</a> tileKey, Uint8List data, <a href="../mapview.datasource/TileSourceTileMetadata-class.html">/sdk-for-flutter-explore-mapview-datasource-tilesourcetilemetadata-class</a> metadata)
+/sdk-for-flutter-explore-mapview-datasource-rastertilesourceloadresulthandler-loaded(<wbr/>/sdk-for-flutter-explore-mapview-datasource-tilekey-class tileKey, Uint8List data, /sdk-for-flutter-explore-mapview-datasource-tilesourcetilemetadata-class metadata)
     → void
 
 </dt>
@@ -110,7 +111,7 @@ menu
 
 </dd>
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../mapview.datasource/RasterTileSourceLoadResultHandler/noSuchMethod.html">/sdk-for-flutter-explore-mapview-datasource-rastertilesourceloadresulthandler-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-mapview-datasource-rastertilesourceloadresulthandler-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -119,7 +120,7 @@ menu
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../mapview.datasource/RasterTileSourceLoadResultHandler/toString.html">/sdk-for-flutter-explore-mapview-datasource-rastertilesourceloadresulthandler-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-mapview-datasource-rastertilesourceloadresulthandler-tostring(<wbr/>)
     → String
 
 </dt>
@@ -133,7 +134,7 @@ menu
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-<a href="../mapview.datasource/RasterTileSourceLoadResultHandler/operator_equals.html">/sdk-for-flutter-explore-mapview-datasource-rastertilesourceloadresulthandler-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-mapview-datasource-rastertilesourceloadresulthandler-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -151,8 +152,8 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
 <li class="self-crumb">RasterTileSourceLoadResultHandler class</li>
 </ol>
 <h5>mapview.datasource library</h5>
@@ -169,4 +170,5 @@ menu
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

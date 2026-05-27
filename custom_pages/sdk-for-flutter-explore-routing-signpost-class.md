@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "Signpost class"
 slug: "sdk-for-flutter-explore-routing-signpost-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- Signpost-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -25,8 +26,8 @@ slug: "sdk-for-flutter-explore-routing-signpost-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
 <li class="self-crumb">Signpost class</li>
 </ol>
 <div class="self-name">Signpost</div>
@@ -56,7 +57,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="Signpost">
-<a href="../routing/Signpost/Signpost.html">/sdk-for-flutter-explore-routing-signpost-signpost</a>(List&lt;<wbr/><a href="../routing/SignpostLabel-class.html">/sdk-for-flutter-explore-routing-signpostlabel-class</a>&gt; labels)
+/sdk-for-flutter-explore-routing-signpost-signpost(List&lt;<wbr/>/sdk-for-flutter-explore-routing-signpostlabel-class&gt; labels)
 </dt>
 <dd>
           Creates a new instance.
@@ -67,7 +68,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="hashCode">
-<a href="../routing/Signpost/hashCode.html">/sdk-for-flutter-explore-routing-signpost-hashcode</a>
+/sdk-for-flutter-explore-routing-signpost-hashcode
 → int
 </dt>
 <dd>
@@ -75,15 +76,15 @@ menu
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="labels">
-<a href="../routing/Signpost/labels.html">/sdk-for-flutter-explore-routing-signpost-labels</a>
-↔ List&lt;<wbr/><a href="../routing/SignpostLabel-class.html">/sdk-for-flutter-explore-routing-signpostlabel-class</a>&gt;
+/sdk-for-flutter-explore-routing-signpost-labels
+↔ List&lt;<wbr/>/sdk-for-flutter-explore-routing-signpostlabel-class&gt;
 </dt>
 <dd>
   List of signpost labels.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../routing/Signpost/runtimeType.html">/sdk-for-flutter-explore-routing-signpost-runtimetype</a>
+/sdk-for-flutter-explore-routing-signpost-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -96,7 +97,7 @@ menu
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../routing/Signpost/noSuchMethod.html">/sdk-for-flutter-explore-routing-signpost-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-routing-signpost-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -105,7 +106,7 @@ menu
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../routing/Signpost/toString.html">/sdk-for-flutter-explore-routing-signpost-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-routing-signpost-tostring(<wbr/>)
     → String
 
 </dt>
@@ -119,7 +120,7 @@ menu
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-<a href="../routing/Signpost/operator_equals.html">/sdk-for-flutter-explore-routing-signpost-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-routing-signpost-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -138,8 +139,8 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
 <li class="self-crumb">Signpost class</li>
 </ol>
 <h5>routing library</h5>
@@ -156,4 +157,5 @@ menu
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

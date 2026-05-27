@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "TrafficIncidentsQueryCallback typedef"
 slug: "sdk-for-flutter-explore-traffic-trafficincidentsquerycallback"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- TrafficIncidentsQueryCallback.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,8 +12,8 @@ slug: "sdk-for-flutter-explore-traffic-trafficincidentsquerycallback"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../traffic/traffic-library.html">/sdk-for-flutter-explore-traffic-traffic-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-traffic-traffic-library</li>
 <li class="self-crumb">TrafficIncidentsQueryCallback typedef</li>
 </ol>
 <div class="self-name">TrafficIncidentsQueryCallback</div>
@@ -37,10 +38,10 @@ menu
 <h1>TrafficIncidentsQueryCallback typedef</h1></div>
 <section class="multi-line-signature">
 TrafficIncidentsQueryCallback =
-     void Function(<a href="../traffic/TrafficQueryError.html">/sdk-for-flutter-explore-traffic-trafficqueryerror</a>? queryError, List&lt;<wbr/><a href="../traffic/TrafficIncident-class.html">/sdk-for-flutter-explore-traffic-trafficincident-class</a>&gt;? result)
+     void Function(/sdk-for-flutter-explore-traffic-trafficqueryerror? queryError, List&lt;<wbr/>/sdk-for-flutter-explore-traffic-trafficincident-class&gt;? result)
 </section>
 <section class="desc markdown">
-<p>Callback passed to <a href="../traffic/TrafficEngine/queryForIncidentsInCorridor.html">/sdk-for-flutter-explore-traffic-trafficengine-queryforincidentsincorridor</a>.</p>
+<p>Callback passed to /sdk-for-flutter-explore-traffic-trafficengine-queryforincidentsincorridor.</p>
 <p>The method will be called on the main thread when a search call has been completed.
 The first argument is the error in the case of the failure. It is <code>null</code> for an operation that succeeds.
 The second argument is the list of incidents in the case of the success. It is <code>null</code> in case of an error.</p>
@@ -65,8 +66,8 @@ The second argument is the list of incidents in the case of the success. It is <
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../traffic/traffic-library.html">/sdk-for-flutter-explore-traffic-traffic-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-traffic-traffic-library</li>
 <li class="self-crumb">TrafficIncidentsQueryCallback typedef</li>
 </ol>
 <h5>traffic library</h5>
@@ -83,4 +84,5 @@ The second argument is the list of incidents in the case of the success. It is <
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

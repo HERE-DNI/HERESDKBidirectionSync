@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "PlaceCategory class abstract"
 slug: "sdk-for-flutter-explore-search-placecategory-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- PlaceCategory-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -99,8 +100,8 @@ slug: "sdk-for-flutter-explore-search-placecategory-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
 <li class="self-crumb">PlaceCategory class</li>
 </ol>
 <div class="self-name">PlaceCategory</div>
@@ -131,7 +132,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="PlaceCategory">
-<a href="../search/PlaceCategory/PlaceCategory.html">/sdk-for-flutter-explore-search-placecategory-placecategory</a>(String id)
+/sdk-for-flutter-explore-search-placecategory-placecategory(String id)
 </dt>
 <dd>
           Creates a new instance of this class.
@@ -143,7 +144,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="hashCode">
-<a href="../search/PlaceCategory/hashCode.html">/sdk-for-flutter-explore-search-placecategory-hashcode</a>
+/sdk-for-flutter-explore-search-placecategory-hashcode
 → int
 </dt>
 <dd class="inherited">
@@ -151,7 +152,7 @@ menu
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="id">
-<a href="../search/PlaceCategory/id.html">/sdk-for-flutter-explore-search-placecategory-id</a>
+/sdk-for-flutter-explore-search-placecategory-id
 → String
 </dt>
 <dd>
@@ -160,7 +161,7 @@ Gets the place category ID.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="name">
-<a href="../search/PlaceCategory/name.html">/sdk-for-flutter-explore-search-placecategory-name</a>
+/sdk-for-flutter-explore-search-placecategory-name
 → String?
 </dt>
 <dd>
@@ -172,7 +173,7 @@ Gets the localised place category name.
   <div class="features">no setter</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../search/PlaceCategory/runtimeType.html">/sdk-for-flutter-explore-search-placecategory-runtimetype</a>
+/sdk-for-flutter-explore-search-placecategory-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -185,7 +186,7 @@ Gets the localised place category name.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../search/PlaceCategory/noSuchMethod.html">/sdk-for-flutter-explore-search-placecategory-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-search-placecategory-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -194,7 +195,7 @@ Gets the localised place category name.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../search/PlaceCategory/toString.html">/sdk-for-flutter-explore-search-placecategory-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-search-placecategory-tostring(<wbr/>)
     → String
 
 </dt>
@@ -208,7 +209,7 @@ Gets the localised place category name.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-<a href="../search/PlaceCategory/operator_equals.html">/sdk-for-flutter-explore-search-placecategory-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-search-placecategory-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -222,7 +223,7 @@ Gets the localised place category name.
 <h2>Static Properties</h2>
 <dl class="properties">
 <dt class="property" id="accommodation">
-<a href="../search/PlaceCategory/accommodation.html">/sdk-for-flutter-explore-search-placecategory-accommodation</a>
+/sdk-for-flutter-explore-search-placecategory-accommodation
 → String
 </dt>
 <dd>
@@ -231,7 +232,7 @@ such as hotels, motels, resorts, cruise ships and campgrounds.
   <div class="features">final</div>
 </dd>
 <dt class="property" id="accommodationHotelMotel">
-<a href="../search/PlaceCategory/accommodationHotelMotel.html">/sdk-for-flutter-explore-search-placecategory-accommodationhotelmotel</a>
+/sdk-for-flutter-explore-search-placecategory-accommodationhotelmotel
 → String
 </dt>
 <dd>
@@ -239,7 +240,7 @@ such as hotels, motels, resorts, cruise ships and campgrounds.
   <div class="features">final</div>
 </dd>
 <dt class="property" id="accommodationLodging">
-<a href="../search/PlaceCategory/accommodationLodging.html">/sdk-for-flutter-explore-search-placecategory-accommodationlodging</a>
+/sdk-for-flutter-explore-search-placecategory-accommodationlodging
 → String
 </dt>
 <dd>
@@ -247,7 +248,7 @@ such as hotels, motels, resorts, cruise ships and campgrounds.
   <div class="features">final</div>
 </dd>
 <dt class="property" id="areasAndBuildings">
-<a href="../search/PlaceCategory/areasAndBuildings.html">/sdk-for-flutter-explore-search-placecategory-areasandbuildings</a>
+/sdk-for-flutter-explore-search-placecategory-areasandbuildings
 → String
 </dt>
 <dd>
@@ -256,7 +257,7 @@ such as cities, towns, villages, boroughs and shires.
   <div class="features">final</div>
 </dd>
 <dt class="property" id="areasAndBuildingsOutdoorComplex">
-<a href="../search/PlaceCategory/areasAndBuildingsOutdoorComplex.html">/sdk-for-flutter-explore-search-placecategory-areasandbuildingsoutdoorcomplex</a>
+/sdk-for-flutter-explore-search-placecategory-areasandbuildingsoutdoorcomplex
 → String
 </dt>
 <dd>
@@ -264,7 +265,7 @@ such as cities, towns, villages, boroughs and shires.
   <div class="features">final</div>
 </dd>
 <dt class="property" id="areasAndBuildingsResidentalOffice">
-<a href="../search/PlaceCategory/areasAndBuildingsResidentalOffice.html">/sdk-for-flutter-explore-search-placecategory-areasandbuildingsresidentaloffice</a>
+/sdk-for-flutter-explore-search-placecategory-areasandbuildingsresidentaloffice
 → String
 </dt>
 <dd>
@@ -272,7 +273,7 @@ such as cities, towns, villages, boroughs and shires.
   <div class="features">final</div>
 </dd>
 <dt class="property" id="businessAndCommercialServices">
-<a href="../search/PlaceCategory/businessAndCommercialServices.html">/sdk-for-flutter-explore-search-placecategory-businessandcommercialservices</a>
+/sdk-for-flutter-explore-search-placecategory-businessandcommercialservices
 → String
 </dt>
 <dd>
@@ -280,7 +281,7 @@ such as cities, towns, villages, boroughs and shires.
   <div class="features">final</div>
 </dd>
 <dt class="property" id="businessAndConsumerServices">
-<a href="../search/PlaceCategory/businessAndConsumerServices.html">/sdk-for-flutter-explore-search-placecategory-businessandconsumerservices</a>
+/sdk-for-flutter-explore-search-placecategory-businessandconsumerservices
 → String
 </dt>
 <dd>
@@ -288,7 +289,7 @@ such as cities, towns, villages, boroughs and shires.
   <div class="features">final</div>
 </dd>
 <dt class="property" id="businessAndServices">
-<a href="../search/PlaceCategory/businessAndServices.html">/sdk-for-flutter-explore-search-placecategory-businessandservices</a>
+/sdk-for-flutter-explore-search-placecategory-businessandservices
 → String
 </dt>
 <dd>
@@ -297,7 +298,7 @@ such as printing, photocopying, graphic design, marketing, advertising and other
   <div class="features">final</div>
 </dd>
 <dt class="property" id="businessAndServicesAtm">
-<a href="../search/PlaceCategory/businessAndServicesAtm.html">/sdk-for-flutter-explore-search-placecategory-businessandservicesatm</a>
+/sdk-for-flutter-explore-search-placecategory-businessandservicesatm
 → String
 </dt>
 <dd>
@@ -305,7 +306,7 @@ such as printing, photocopying, graphic design, marketing, advertising and other
   <div class="features">final</div>
 </dd>
 <dt class="property" id="businessAndServicesBanking">
-<a href="../search/PlaceCategory/businessAndServicesBanking.html">/sdk-for-flutter-explore-search-placecategory-businessandservicesbanking</a>
+/sdk-for-flutter-explore-search-placecategory-businessandservicesbanking
 → String
 </dt>
 <dd>
@@ -313,7 +314,7 @@ such as printing, photocopying, graphic design, marketing, advertising and other
   <div class="features">final</div>
 </dd>
 <dt class="property" id="businessAndServicesCarDealerSales">
-<a href="../search/PlaceCategory/businessAndServicesCarDealerSales.html">/sdk-for-flutter-explore-search-placecategory-businessandservicescardealersales</a>
+/sdk-for-flutter-explore-search-placecategory-businessandservicescardealersales
 → String
 </dt>
 <dd>
@@ -321,7 +322,7 @@ such as printing, photocopying, graphic design, marketing, advertising and other
   <div class="features">final</div>
 </dd>
 <dt class="property" id="businessAndServicesCarRental">
-<a href="../search/PlaceCategory/businessAndServicesCarRental.html">/sdk-for-flutter-explore-search-placecategory-businessandservicescarrental</a>
+/sdk-for-flutter-explore-search-placecategory-businessandservicescarrental
 → String
 </dt>
 <dd>
@@ -329,7 +330,7 @@ such as printing, photocopying, graphic design, marketing, advertising and other
   <div class="features">final</div>
 </dd>
 <dt class="property" id="businessAndServicesCarRepairServices">
-<a href="../search/PlaceCategory/businessAndServicesCarRepairServices.html">/sdk-for-flutter-explore-search-placecategory-businessandservicescarrepairservices</a>
+/sdk-for-flutter-explore-search-placecategory-businessandservicescarrepairservices
 → String
 </dt>
 <dd>
@@ -337,7 +338,7 @@ such as printing, photocopying, graphic design, marketing, advertising and other
   <div class="features">final</div>
 </dd>
 <dt class="property" id="businessAndServicesCommunicationMedia">
-<a href="../search/PlaceCategory/businessAndServicesCommunicationMedia.html">/sdk-for-flutter-explore-search-placecategory-businessandservicescommunicationmedia</a>
+/sdk-for-flutter-explore-search-placecategory-businessandservicescommunicationmedia
 → String
 </dt>
 <dd>
@@ -345,7 +346,7 @@ such as printing, photocopying, graphic design, marketing, advertising and other
   <div class="features">final</div>
 </dd>
 <dt class="property" id="businessAndServicesEvChargingStation">
-<a href="../search/PlaceCategory/businessAndServicesEvChargingStation.html">/sdk-for-flutter-explore-search-placecategory-businessandservicesevchargingstation</a>
+/sdk-for-flutter-explore-search-placecategory-businessandservicesevchargingstation
 → String
 </dt>
 <dd>
@@ -353,7 +354,7 @@ such as printing, photocopying, graphic design, marketing, advertising and other
   <div class="features">final</div>
 </dd>
 <dt class="property" id="businessAndServicesFuelingStation">
-<a href="../search/PlaceCategory/businessAndServicesFuelingStation.html">/sdk-for-flutter-explore-search-placecategory-businessandservicesfuelingstation</a>
+/sdk-for-flutter-explore-search-placecategory-businessandservicesfuelingstation
 → String
 </dt>
 <dd>
@@ -361,7 +362,7 @@ such as printing, photocopying, graphic design, marketing, advertising and other
   <div class="features">final</div>
 </dd>
 <dt class="property" id="businessAndServicesIndustry">
-<a href="../search/PlaceCategory/businessAndServicesIndustry.html">/sdk-for-flutter-explore-search-placecategory-businessandservicesindustry</a>
+/sdk-for-flutter-explore-search-placecategory-businessandservicesindustry
 → String
 </dt>
 <dd>
@@ -369,7 +370,7 @@ such as printing, photocopying, graphic design, marketing, advertising and other
   <div class="features">final</div>
 </dd>
 <dt class="property" id="businessAndServicesMoneyCash">
-<a href="../search/PlaceCategory/businessAndServicesMoneyCash.html">/sdk-for-flutter-explore-search-placecategory-businessandservicesmoneycash</a>
+/sdk-for-flutter-explore-search-placecategory-businessandservicesmoneycash
 → String
 </dt>
 <dd>
@@ -377,7 +378,7 @@ such as printing, photocopying, graphic design, marketing, advertising and other
   <div class="features">final</div>
 </dd>
 <dt class="property" id="businessAndServicesPetrolGasolineStation">
-<a href="../search/PlaceCategory/businessAndServicesPetrolGasolineStation.html">/sdk-for-flutter-explore-search-placecategory-businessandservicespetrolgasolinestation</a>
+/sdk-for-flutter-explore-search-placecategory-businessandservicespetrolgasolinestation
 → String
 </dt>
 <dd>
@@ -385,7 +386,7 @@ such as printing, photocopying, graphic design, marketing, advertising and other
   <div class="features">final</div>
 </dd>
 <dt class="property" id="businessAndServicesPoliceFireEmergency">
-<a href="../search/PlaceCategory/businessAndServicesPoliceFireEmergency.html">/sdk-for-flutter-explore-search-placecategory-businessandservicespolicefireemergency</a>
+/sdk-for-flutter-explore-search-placecategory-businessandservicespolicefireemergency
 → String
 </dt>
 <dd>
@@ -393,7 +394,7 @@ such as printing, photocopying, graphic design, marketing, advertising and other
   <div class="features">final</div>
 </dd>
 <dt class="property" id="businessAndServicesPostOffice">
-<a href="../search/PlaceCategory/businessAndServicesPostOffice.html">/sdk-for-flutter-explore-search-placecategory-businessandservicespostoffice</a>
+/sdk-for-flutter-explore-search-placecategory-businessandservicespostoffice
 → String
 </dt>
 <dd>
@@ -401,7 +402,7 @@ such as printing, photocopying, graphic design, marketing, advertising and other
   <div class="features">final</div>
 </dd>
 <dt class="property" id="businessAndServicesTouristInformation">
-<a href="../search/PlaceCategory/businessAndServicesTouristInformation.html">/sdk-for-flutter-explore-search-placecategory-businessandservicestouristinformation</a>
+/sdk-for-flutter-explore-search-placecategory-businessandservicestouristinformation
 → String
 </dt>
 <dd>
@@ -410,7 +411,7 @@ such as event schedules, lodging/accommodations, restaurants, attractions and mo
   <div class="features">final</div>
 </dd>
 <dt class="property" id="businessAndServicesTruckSemiDealer">
-<a href="../search/PlaceCategory/businessAndServicesTruckSemiDealer.html">/sdk-for-flutter-explore-search-placecategory-businessandservicestrucksemidealer</a>
+/sdk-for-flutter-explore-search-placecategory-businessandservicestrucksemidealer
 → String
 </dt>
 <dd>
@@ -418,7 +419,7 @@ such as event schedules, lodging/accommodations, restaurants, attractions and mo
   <div class="features">final</div>
 </dd>
 <dt class="property" id="eatAndDrink">
-<a href="../search/PlaceCategory/eatAndDrink.html">/sdk-for-flutter-explore-search-placecategory-eatanddrink</a>
+/sdk-for-flutter-explore-search-placecategory-eatanddrink
 → String
 </dt>
 <dd>
@@ -426,7 +427,7 @@ such as event schedules, lodging/accommodations, restaurants, attractions and mo
   <div class="features">final</div>
 </dd>
 <dt class="property" id="eatAndDrinkCoffeeTea">
-<a href="../search/PlaceCategory/eatAndDrinkCoffeeTea.html">/sdk-for-flutter-explore-search-placecategory-eatanddrinkcoffeetea</a>
+/sdk-for-flutter-explore-search-placecategory-eatanddrinkcoffeetea
 → String
 </dt>
 <dd>
@@ -434,7 +435,7 @@ such as event schedules, lodging/accommodations, restaurants, attractions and mo
   <div class="features">final</div>
 </dd>
 <dt class="property" id="eatAndDrinkRestaurant">
-<a href="../search/PlaceCategory/eatAndDrinkRestaurant.html">/sdk-for-flutter-explore-search-placecategory-eatanddrinkrestaurant</a>
+/sdk-for-flutter-explore-search-placecategory-eatanddrinkrestaurant
 → String
 </dt>
 <dd>
@@ -442,7 +443,7 @@ such as event schedules, lodging/accommodations, restaurants, attractions and mo
   <div class="features">final</div>
 </dd>
 <dt class="property" id="facilities">
-<a href="../search/PlaceCategory/facilities.html">/sdk-for-flutter-explore-search-placecategory-facilities</a>
+/sdk-for-flutter-explore-search-placecategory-facilities
 → String
 </dt>
 <dd>
@@ -451,7 +452,7 @@ such as sports venues, government buildings, health care centers and other types
   <div class="features">final</div>
 </dd>
 <dt class="property" id="facilitiesEducation">
-<a href="../search/PlaceCategory/facilitiesEducation.html">/sdk-for-flutter-explore-search-placecategory-facilitieseducation</a>
+/sdk-for-flutter-explore-search-placecategory-facilitieseducation
 → String
 </dt>
 <dd>
@@ -459,7 +460,7 @@ such as sports venues, government buildings, health care centers and other types
   <div class="features">final</div>
 </dd>
 <dt class="property" id="facilitiesEventSpaces">
-<a href="../search/PlaceCategory/facilitiesEventSpaces.html">/sdk-for-flutter-explore-search-placecategory-facilitieseventspaces</a>
+/sdk-for-flutter-explore-search-placecategory-facilitieseventspaces
 → String
 </dt>
 <dd>
@@ -467,7 +468,7 @@ such as sports venues, government buildings, health care centers and other types
   <div class="features">final</div>
 </dd>
 <dt class="property" id="facilitiesGovernmentCommunitty">
-<a href="../search/PlaceCategory/facilitiesGovernmentCommunitty.html">/sdk-for-flutter-explore-search-placecategory-facilitiesgovernmentcommunitty</a>
+/sdk-for-flutter-explore-search-placecategory-facilitiesgovernmentcommunitty
 → String
 </dt>
 <dd>
@@ -475,7 +476,7 @@ such as sports venues, government buildings, health care centers and other types
   <div class="features">final</div>
 </dd>
 <dt class="property" id="facilitiesHospitalHealthcare">
-<a href="../search/PlaceCategory/facilitiesHospitalHealthcare.html">/sdk-for-flutter-explore-search-placecategory-facilitieshospitalhealthcare</a>
+/sdk-for-flutter-explore-search-placecategory-facilitieshospitalhealthcare
 → String
 </dt>
 <dd>
@@ -483,7 +484,7 @@ such as sports venues, government buildings, health care centers and other types
   <div class="features">final</div>
 </dd>
 <dt class="property" id="facilitiesLibrary">
-<a href="../search/PlaceCategory/facilitiesLibrary.html">/sdk-for-flutter-explore-search-placecategory-facilitieslibrary</a>
+/sdk-for-flutter-explore-search-placecategory-facilitieslibrary
 → String
 </dt>
 <dd>
@@ -491,7 +492,7 @@ such as sports venues, government buildings, health care centers and other types
   <div class="features">final</div>
 </dd>
 <dt class="property" id="facilitiesOther">
-<a href="../search/PlaceCategory/facilitiesOther.html">/sdk-for-flutter-explore-search-placecategory-facilitiesother</a>
+/sdk-for-flutter-explore-search-placecategory-facilitiesother
 → String
 </dt>
 <dd>
@@ -499,7 +500,7 @@ such as sports venues, government buildings, health care centers and other types
   <div class="features">final</div>
 </dd>
 <dt class="property" id="facilitiesParking">
-<a href="../search/PlaceCategory/facilitiesParking.html">/sdk-for-flutter-explore-search-placecategory-facilitiesparking</a>
+/sdk-for-flutter-explore-search-placecategory-facilitiesparking
 → String
 </dt>
 <dd>
@@ -507,7 +508,7 @@ such as sports venues, government buildings, health care centers and other types
   <div class="features">final</div>
 </dd>
 <dt class="property" id="facilitiesSchool">
-<a href="../search/PlaceCategory/facilitiesSchool.html">/sdk-for-flutter-explore-search-placecategory-facilitiesschool</a>
+/sdk-for-flutter-explore-search-placecategory-facilitiesschool
 → String
 </dt>
 <dd>
@@ -515,7 +516,7 @@ such as sports venues, government buildings, health care centers and other types
   <div class="features">final</div>
 </dd>
 <dt class="property" id="facilitiesVenueSports">
-<a href="../search/PlaceCategory/facilitiesVenueSports.html">/sdk-for-flutter-explore-search-placecategory-facilitiesvenuesports</a>
+/sdk-for-flutter-explore-search-placecategory-facilitiesvenuesports
 → String
 </dt>
 <dd>
@@ -523,7 +524,7 @@ such as sports venues, government buildings, health care centers and other types
   <div class="features">final</div>
 </dd>
 <dt class="property" id="goingOutCinema">
-<a href="../search/PlaceCategory/goingOutCinema.html">/sdk-for-flutter-explore-search-placecategory-goingoutcinema</a>
+/sdk-for-flutter-explore-search-placecategory-goingoutcinema
 → String
 </dt>
 <dd>
@@ -531,7 +532,7 @@ such as sports venues, government buildings, health care centers and other types
   <div class="features">final</div>
 </dd>
 <dt class="property" id="goingOutEntertainment">
-<a href="../search/PlaceCategory/goingOutEntertainment.html">/sdk-for-flutter-explore-search-placecategory-goingoutentertainment</a>
+/sdk-for-flutter-explore-search-placecategory-goingoutentertainment
 → String
 </dt>
 <dd>
@@ -540,7 +541,7 @@ such as bars, cinemas, theatres, casinos and night clubs.
   <div class="features">final</div>
 </dd>
 <dt class="property" id="goingOutGamblingLotteryBetting">
-<a href="../search/PlaceCategory/goingOutGamblingLotteryBetting.html">/sdk-for-flutter-explore-search-placecategory-goingoutgamblinglotterybetting</a>
+/sdk-for-flutter-explore-search-placecategory-goingoutgamblinglotterybetting
 → String
 </dt>
 <dd>
@@ -548,7 +549,7 @@ such as bars, cinemas, theatres, casinos and night clubs.
   <div class="features">final</div>
 </dd>
 <dt class="property" id="goingOutNightlife">
-<a href="../search/PlaceCategory/goingOutNightlife.html">/sdk-for-flutter-explore-search-placecategory-goingoutnightlife</a>
+/sdk-for-flutter-explore-search-placecategory-goingoutnightlife
 → String
 </dt>
 <dd>
@@ -556,7 +557,7 @@ such as bars, cinemas, theatres, casinos and night clubs.
   <div class="features">final</div>
 </dd>
 <dt class="property" id="goingOutTheatreMusicCulture">
-<a href="../search/PlaceCategory/goingOutTheatreMusicCulture.html">/sdk-for-flutter-explore-search-placecategory-goingouttheatremusicculture</a>
+/sdk-for-flutter-explore-search-placecategory-goingouttheatremusicculture
 → String
 </dt>
 <dd>
@@ -564,7 +565,7 @@ such as bars, cinemas, theatres, casinos and night clubs.
   <div class="features">final</div>
 </dd>
 <dt class="property" id="leisureAndOutdoor">
-<a href="../search/PlaceCategory/leisureAndOutdoor.html">/sdk-for-flutter-explore-search-placecategory-leisureandoutdoor</a>
+/sdk-for-flutter-explore-search-placecategory-leisureandoutdoor
 → String
 </dt>
 <dd>
@@ -573,7 +574,7 @@ and other leisure and outdoor activities.
   <div class="features">final</div>
 </dd>
 <dt class="property" id="leisureOther">
-<a href="../search/PlaceCategory/leisureOther.html">/sdk-for-flutter-explore-search-placecategory-leisureother</a>
+/sdk-for-flutter-explore-search-placecategory-leisureother
 → String
 </dt>
 <dd>
@@ -581,7 +582,7 @@ and other leisure and outdoor activities.
   <div class="features">final</div>
 </dd>
 <dt class="property" id="leisureOutdoorRecreation">
-<a href="../search/PlaceCategory/leisureOutdoorRecreation.html">/sdk-for-flutter-explore-search-placecategory-leisureoutdoorrecreation</a>
+/sdk-for-flutter-explore-search-placecategory-leisureoutdoorrecreation
 → String
 </dt>
 <dd>
@@ -589,7 +590,7 @@ and other leisure and outdoor activities.
   <div class="features">final</div>
 </dd>
 <dt class="property" id="naturalAndGeographical">
-<a href="../search/PlaceCategory/naturalAndGeographical.html">/sdk-for-flutter-explore-search-placecategory-naturalandgeographical</a>
+/sdk-for-flutter-explore-search-placecategory-naturalandgeographical
 → String
 </dt>
 <dd>
@@ -598,7 +599,7 @@ such as bodies of water, mountains, forested areas and other geographic areas.
   <div class="features">final</div>
 </dd>
 <dt class="property" id="naturalAndGeographicalBodyOfWater">
-<a href="../search/PlaceCategory/naturalAndGeographicalBodyOfWater.html">/sdk-for-flutter-explore-search-placecategory-naturalandgeographicalbodyofwater</a>
+/sdk-for-flutter-explore-search-placecategory-naturalandgeographicalbodyofwater
 → String
 </dt>
 <dd>
@@ -606,7 +607,7 @@ such as bodies of water, mountains, forested areas and other geographic areas.
   <div class="features">final</div>
 </dd>
 <dt class="property" id="naturalAndGeographicalForestHealthOtherVegetation">
-<a href="../search/PlaceCategory/naturalAndGeographicalForestHealthOtherVegetation.html">/sdk-for-flutter-explore-search-placecategory-naturalandgeographicalforesthealthothervegetation</a>
+/sdk-for-flutter-explore-search-placecategory-naturalandgeographicalforesthealthothervegetation
 → String
 </dt>
 <dd>
@@ -614,7 +615,7 @@ such as bodies of water, mountains, forested areas and other geographic areas.
   <div class="features">final</div>
 </dd>
 <dt class="property" id="naturalAndGeographicalMountainOrHill">
-<a href="../search/PlaceCategory/naturalAndGeographicalMountainOrHill.html">/sdk-for-flutter-explore-search-placecategory-naturalandgeographicalmountainorhill</a>
+/sdk-for-flutter-explore-search-placecategory-naturalandgeographicalmountainorhill
 → String
 </dt>
 <dd>
@@ -622,7 +623,7 @@ such as bodies of water, mountains, forested areas and other geographic areas.
   <div class="features">final</div>
 </dd>
 <dt class="property" id="naturalAndGeographicalOther">
-<a href="../search/PlaceCategory/naturalAndGeographicalOther.html">/sdk-for-flutter-explore-search-placecategory-naturalandgeographicalother</a>
+/sdk-for-flutter-explore-search-placecategory-naturalandgeographicalother
 → String
 </dt>
 <dd>
@@ -630,7 +631,7 @@ such as bodies of water, mountains, forested areas and other geographic areas.
   <div class="features">final</div>
 </dd>
 <dt class="property" id="naturalAndGeographicalUnderseaFeature">
-<a href="../search/PlaceCategory/naturalAndGeographicalUnderseaFeature.html">/sdk-for-flutter-explore-search-placecategory-naturalandgeographicalunderseafeature</a>
+/sdk-for-flutter-explore-search-placecategory-naturalandgeographicalunderseafeature
 → String
 </dt>
 <dd>
@@ -638,7 +639,7 @@ such as bodies of water, mountains, forested areas and other geographic areas.
   <div class="features">final</div>
 </dd>
 <dt class="property" id="shopping">
-<a href="../search/PlaceCategory/shopping.html">/sdk-for-flutter-explore-search-placecategory-shopping</a>
+/sdk-for-flutter-explore-search-placecategory-shopping
 → String
 </dt>
 <dd>
@@ -647,7 +648,7 @@ such as clothing stores, grocery stores, hardware stores and other types of shop
   <div class="features">final</div>
 </dd>
 <dt class="property" id="shoppingBookstore">
-<a href="../search/PlaceCategory/shoppingBookstore.html">/sdk-for-flutter-explore-search-placecategory-shoppingbookstore</a>
+/sdk-for-flutter-explore-search-placecategory-shoppingbookstore
 → String
 </dt>
 <dd>
@@ -655,7 +656,7 @@ such as clothing stores, grocery stores, hardware stores and other types of shop
   <div class="features">final</div>
 </dd>
 <dt class="property" id="shoppingClothingAndAccesories">
-<a href="../search/PlaceCategory/shoppingClothingAndAccesories.html">/sdk-for-flutter-explore-search-placecategory-shoppingclothingandaccesories</a>
+/sdk-for-flutter-explore-search-placecategory-shoppingclothingandaccesories
 → String
 </dt>
 <dd>
@@ -663,7 +664,7 @@ such as clothing stores, grocery stores, hardware stores and other types of shop
   <div class="features">final</div>
 </dd>
 <dt class="property" id="shoppingConsumerGoods">
-<a href="../search/PlaceCategory/shoppingConsumerGoods.html">/sdk-for-flutter-explore-search-placecategory-shoppingconsumergoods</a>
+/sdk-for-flutter-explore-search-placecategory-shoppingconsumergoods
 → String
 </dt>
 <dd>
@@ -671,7 +672,7 @@ such as clothing stores, grocery stores, hardware stores and other types of shop
   <div class="features">final</div>
 </dd>
 <dt class="property" id="shoppingConvenienceStore">
-<a href="../search/PlaceCategory/shoppingConvenienceStore.html">/sdk-for-flutter-explore-search-placecategory-shoppingconveniencestore</a>
+/sdk-for-flutter-explore-search-placecategory-shoppingconveniencestore
 → String
 </dt>
 <dd>
@@ -679,7 +680,7 @@ such as clothing stores, grocery stores, hardware stores and other types of shop
   <div class="features">final</div>
 </dd>
 <dt class="property" id="shoppingDepartmentStore">
-<a href="../search/PlaceCategory/shoppingDepartmentStore.html">/sdk-for-flutter-explore-search-placecategory-shoppingdepartmentstore</a>
+/sdk-for-flutter-explore-search-placecategory-shoppingdepartmentstore
 → String
 </dt>
 <dd>
@@ -687,7 +688,7 @@ such as clothing stores, grocery stores, hardware stores and other types of shop
   <div class="features">final</div>
 </dd>
 <dt class="property" id="shoppingDrugstorePharmacy">
-<a href="../search/PlaceCategory/shoppingDrugstorePharmacy.html">/sdk-for-flutter-explore-search-placecategory-shoppingdrugstorepharmacy</a>
+/sdk-for-flutter-explore-search-placecategory-shoppingdrugstorepharmacy
 → String
 </dt>
 <dd>
@@ -695,7 +696,7 @@ such as clothing stores, grocery stores, hardware stores and other types of shop
   <div class="features">final</div>
 </dd>
 <dt class="property" id="shoppingElectronics">
-<a href="../search/PlaceCategory/shoppingElectronics.html">/sdk-for-flutter-explore-search-placecategory-shoppingelectronics</a>
+/sdk-for-flutter-explore-search-placecategory-shoppingelectronics
 → String
 </dt>
 <dd>
@@ -703,7 +704,7 @@ such as clothing stores, grocery stores, hardware stores and other types of shop
   <div class="features">final</div>
 </dd>
 <dt class="property" id="shoppingFoodAndDrink">
-<a href="../search/PlaceCategory/shoppingFoodAndDrink.html">/sdk-for-flutter-explore-search-placecategory-shoppingfoodanddrink</a>
+/sdk-for-flutter-explore-search-placecategory-shoppingfoodanddrink
 → String
 </dt>
 <dd>
@@ -711,7 +712,7 @@ such as clothing stores, grocery stores, hardware stores and other types of shop
   <div class="features">final</div>
 </dd>
 <dt class="property" id="shoppingHairAndBeauty">
-<a href="../search/PlaceCategory/shoppingHairAndBeauty.html">/sdk-for-flutter-explore-search-placecategory-shoppinghairandbeauty</a>
+/sdk-for-flutter-explore-search-placecategory-shoppinghairandbeauty
 → String
 </dt>
 <dd>
@@ -720,7 +721,7 @@ Places in this category may also sell hair products and other related cosmetic i
   <div class="features">final</div>
 </dd>
 <dt class="property" id="shoppingHardwareHouseGarden">
-<a href="../search/PlaceCategory/shoppingHardwareHouseGarden.html">/sdk-for-flutter-explore-search-placecategory-shoppinghardwarehousegarden</a>
+/sdk-for-flutter-explore-search-placecategory-shoppinghardwarehousegarden
 → String
 </dt>
 <dd>
@@ -728,7 +729,7 @@ Places in this category may also sell hair products and other related cosmetic i
   <div class="features">final</div>
 </dd>
 <dt class="property" id="shoppingMallComplex">
-<a href="../search/PlaceCategory/shoppingMallComplex.html">/sdk-for-flutter-explore-search-placecategory-shoppingmallcomplex</a>
+/sdk-for-flutter-explore-search-placecategory-shoppingmallcomplex
 → String
 </dt>
 <dd>
@@ -736,7 +737,7 @@ Places in this category may also sell hair products and other related cosmetic i
   <div class="features">final</div>
 </dd>
 <dt class="property" id="sightsAndMuseums">
-<a href="../search/PlaceCategory/sightsAndMuseums.html">/sdk-for-flutter-explore-search-placecategory-sightsandmuseums</a>
+/sdk-for-flutter-explore-search-placecategory-sightsandmuseums
 → String
 </dt>
 <dd>
@@ -745,7 +746,7 @@ such as common tourist attractions, museums and places of worship.
   <div class="features">final</div>
 </dd>
 <dt class="property" id="sightsLandmarkAttraction">
-<a href="../search/PlaceCategory/sightsLandmarkAttraction.html">/sdk-for-flutter-explore-search-placecategory-sightslandmarkattraction</a>
+/sdk-for-flutter-explore-search-placecategory-sightslandmarkattraction
 → String
 </dt>
 <dd>
@@ -753,7 +754,7 @@ such as common tourist attractions, museums and places of worship.
   <div class="features">final</div>
 </dd>
 <dt class="property" id="sightsMuseum">
-<a href="../search/PlaceCategory/sightsMuseum.html">/sdk-for-flutter-explore-search-placecategory-sightsmuseum</a>
+/sdk-for-flutter-explore-search-placecategory-sightsmuseum
 → String
 </dt>
 <dd>
@@ -761,7 +762,7 @@ such as common tourist attractions, museums and places of worship.
   <div class="features">final</div>
 </dd>
 <dt class="property" id="sightsReligiousPlace">
-<a href="../search/PlaceCategory/sightsReligiousPlace.html">/sdk-for-flutter-explore-search-placecategory-sightsreligiousplace</a>
+/sdk-for-flutter-explore-search-placecategory-sightsreligiousplace
 → String
 </dt>
 <dd>
@@ -769,7 +770,7 @@ such as common tourist attractions, museums and places of worship.
   <div class="features">final</div>
 </dd>
 <dt class="property" id="transport">
-<a href="../search/PlaceCategory/transport.html">/sdk-for-flutter-explore-search-placecategory-transport</a>
+/sdk-for-flutter-explore-search-placecategory-transport
 → String
 </dt>
 <dd>
@@ -778,7 +779,7 @@ including airports, rail yards and seaports.
   <div class="features">final</div>
 </dd>
 <dt class="property" id="transportAirport">
-<a href="../search/PlaceCategory/transportAirport.html">/sdk-for-flutter-explore-search-placecategory-transportairport</a>
+/sdk-for-flutter-explore-search-placecategory-transportairport
 → String
 </dt>
 <dd>
@@ -786,7 +787,7 @@ including airports, rail yards and seaports.
   <div class="features">final</div>
 </dd>
 <dt class="property" id="transportCargo">
-<a href="../search/PlaceCategory/transportCargo.html">/sdk-for-flutter-explore-search-placecategory-transportcargo</a>
+/sdk-for-flutter-explore-search-placecategory-transportcargo
 → String
 </dt>
 <dd>
@@ -794,7 +795,7 @@ including airports, rail yards and seaports.
   <div class="features">final</div>
 </dd>
 <dt class="property" id="transportPublic">
-<a href="../search/PlaceCategory/transportPublic.html">/sdk-for-flutter-explore-search-placecategory-transportpublic</a>
+/sdk-for-flutter-explore-search-placecategory-transportpublic
 → String
 </dt>
 <dd>
@@ -802,7 +803,7 @@ including airports, rail yards and seaports.
   <div class="features">final</div>
 </dd>
 <dt class="property" id="transportRestArea">
-<a href="../search/PlaceCategory/transportRestArea.html">/sdk-for-flutter-explore-search-placecategory-transportrestarea</a>
+/sdk-for-flutter-explore-search-placecategory-transportrestarea
 → String
 </dt>
 <dd>
@@ -819,8 +820,8 @@ including airports, rail yards and seaports.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
 <li class="self-crumb">PlaceCategory class</li>
 </ol>
 <h5>search library</h5>
@@ -837,4 +838,5 @@ including airports, rail yards and seaports.
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

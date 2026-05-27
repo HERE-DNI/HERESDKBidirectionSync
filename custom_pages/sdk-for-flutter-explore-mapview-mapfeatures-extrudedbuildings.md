@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "extrudedBuildings property"
 slug: "sdk-for-flutter-explore-mapview-mapfeatures-extrudedbuildings"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- extrudedBuildings.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-mapfeatures-extrudedbuildings"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapFeatures-class.html">/sdk-for-flutter-explore-mapview-mapfeatures-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapfeatures-class</li>
 <li class="self-crumb">extrudedBuildings property</li>
 </ol>
 <div class="self-name">extrudedBuildings</div>
@@ -44,12 +45,12 @@ menu
 </section>
 <section class="desc markdown">
 <p>Simple 3D representation of buildings.</p>
-<p>Supports only one mode: <a href="../../mapview/MapFeatureModes/extrudedBuildingsAll.html">/sdk-for-flutter-explore-mapview-mapfeaturemodes-extrudedbuildingsall</a>.</p>
-<p>Not supported for <a href="../../mapview/MapScheme.html">/sdk-for-flutter-explore-mapview-mapscheme</a>, <a href="../../mapview/MapScheme.html">/sdk-for-flutter-explore-mapview-mapscheme</a>,
-<a href="../../mapview/MapScheme.html">/sdk-for-flutter-explore-mapview-mapscheme</a> and all hybrid schemes: <a href="../../mapview/MapScheme.html">/sdk-for-flutter-explore-mapview-mapscheme</a>
-<a href="../../mapview/MapScheme.html">/sdk-for-flutter-explore-mapview-mapscheme</a>, <a href="../../mapview/MapScheme.html">/sdk-for-flutter-explore-mapview-mapscheme</a>
-<a href="../../mapview/MapScheme.html">/sdk-for-flutter-explore-mapview-mapscheme</a>, <a href="../../mapview/MapScheme.html">/sdk-for-flutter-explore-mapview-mapscheme</a> and
-<a href="../../mapview/MapScheme.html">/sdk-for-flutter-explore-mapview-mapscheme</a>.</p>
+<p>Supports only one mode: /sdk-for-flutter-explore-mapview-mapfeaturemodes-extrudedbuildingsall.</p>
+<p>Not supported for /sdk-for-flutter-explore-mapview-mapscheme, /sdk-for-flutter-explore-mapview-mapscheme,
+/sdk-for-flutter-explore-mapview-mapscheme and all hybrid schemes: /sdk-for-flutter-explore-mapview-mapscheme
+/sdk-for-flutter-explore-mapview-mapscheme, /sdk-for-flutter-explore-mapview-mapscheme
+/sdk-for-flutter-explore-mapview-mapscheme, /sdk-for-flutter-explore-mapview-mapscheme and
+/sdk-for-flutter-explore-mapview-mapscheme.</p>
 <p>By default, extruded buildings are enabled on all compatible map schemes.</p>
 </section>
 <section class="summary source-code" id="source">
@@ -64,9 +65,9 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapFeatures-class.html">/sdk-for-flutter-explore-mapview-mapfeatures-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapfeatures-class</li>
 <li class="self-crumb">extrudedBuildings property</li>
 </ol>
 <h5>MapFeatures class</h5>
@@ -83,4 +84,5 @@ menu
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

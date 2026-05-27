@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "Details class"
 slug: "sdk-for-flutter-explore-search-details-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- Details-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -39,8 +40,8 @@ slug: "sdk-for-flutter-explore-search-details-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
 <li class="self-crumb">Details class</li>
 </ol>
 <div class="self-name">Details</div>
@@ -71,13 +72,13 @@ opening hours and assigned categories.</p>
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="Details">
-<a href="../search/Details/Details.html">/sdk-for-flutter-explore-search-details-details</a>(List&lt;<wbr/><a href="../search/Contact-class.html">/sdk-for-flutter-explore-search-contact-class</a>&gt; contacts, List&lt;<wbr/><a href="../search/OpeningHours-class.html">/sdk-for-flutter-explore-search-openinghours-class</a>&gt; openingHours, List&lt;<wbr/><a href="../search/PlaceCategory-class.html">/sdk-for-flutter-explore-search-placecategory-class</a>&gt; categories, List&lt;<wbr/><a href="../search/WebImage-class.html">/sdk-for-flutter-explore-search-webimage-class</a>&gt; images, List&lt;<wbr/><a href="../search/WebEditorial-class.html">/sdk-for-flutter-explore-search-webeditorial-class</a>&gt; editorials, List&lt;<wbr/><a href="../search/WebRating-class.html">/sdk-for-flutter-explore-search-webrating-class</a>&gt; ratings, List&lt;<wbr/><a href="../search/SupplierReference-class.html">/sdk-for-flutter-explore-search-supplierreference-class</a>&gt; references, [<a href="../search/EVChargingPool-class.html">/sdk-for-flutter-explore-search-evchargingpool-class</a>? evChargingPool = null, <a href="../search/TruckAmenities-class.html">/sdk-for-flutter-explore-search-truckamenities-class</a>? truckAmenities = null, <a href="../search/FuelStation-class.html">/sdk-for-flutter-explore-search-fuelstation-class</a>? fuelStation = null, List&lt;<wbr/><a href="../search/PlaceFoodType-class.html">/sdk-for-flutter-explore-search-placefoodtype-class</a>&gt; foodTypes = const [], <a href="../search/POIPaymentDetails-class.html">/sdk-for-flutter-explore-search-poipaymentdetails-class</a>? payment = null, <a href="../search/EVChargingLocation-class.html">/sdk-for-flutter-explore-search-evcharginglocation-class</a>? evChargingLocation = null])
+/sdk-for-flutter-explore-search-details-details(List&lt;<wbr/>/sdk-for-flutter-explore-search-contact-class&gt; contacts, List&lt;<wbr/>/sdk-for-flutter-explore-search-openinghours-class&gt; openingHours, List&lt;<wbr/>/sdk-for-flutter-explore-search-placecategory-class&gt; categories, List&lt;<wbr/>/sdk-for-flutter-explore-search-webimage-class&gt; images, List&lt;<wbr/>/sdk-for-flutter-explore-search-webeditorial-class&gt; editorials, List&lt;<wbr/>/sdk-for-flutter-explore-search-webrating-class&gt; ratings, List&lt;<wbr/>/sdk-for-flutter-explore-search-supplierreference-class&gt; references, [/sdk-for-flutter-explore-search-evchargingpool-class? evChargingPool = null, /sdk-for-flutter-explore-search-truckamenities-class? truckAmenities = null, /sdk-for-flutter-explore-search-fuelstation-class? fuelStation = null, List&lt;<wbr/>/sdk-for-flutter-explore-search-placefoodtype-class&gt; foodTypes = const [], /sdk-for-flutter-explore-search-poipaymentdetails-class? payment = null, /sdk-for-flutter-explore-search-evcharginglocation-class? evChargingLocation = null])
 </dt>
 <dd>
           Creates a new instance.
         </dd>
 <dt class="callable" id="Details.withDefaults">
-<a href="../search/Details/Details.withDefaults.html">/sdk-for-flutter-explore-search-details-details-withdefaults</a>(List&lt;<wbr/><a href="../search/Contact-class.html">/sdk-for-flutter-explore-search-contact-class</a>&gt; contacts, List&lt;<wbr/><a href="../search/OpeningHours-class.html">/sdk-for-flutter-explore-search-openinghours-class</a>&gt; openingHours, List&lt;<wbr/><a href="../search/PlaceCategory-class.html">/sdk-for-flutter-explore-search-placecategory-class</a>&gt; categories, List&lt;<wbr/><a href="../search/WebImage-class.html">/sdk-for-flutter-explore-search-webimage-class</a>&gt; images, List&lt;<wbr/><a href="../search/WebEditorial-class.html">/sdk-for-flutter-explore-search-webeditorial-class</a>&gt; editorials, List&lt;<wbr/><a href="../search/WebRating-class.html">/sdk-for-flutter-explore-search-webrating-class</a>&gt; ratings, List&lt;<wbr/><a href="../search/SupplierReference-class.html">/sdk-for-flutter-explore-search-supplierreference-class</a>&gt; references)
+/sdk-for-flutter-explore-search-details-details-withdefaults(List&lt;<wbr/>/sdk-for-flutter-explore-search-contact-class&gt; contacts, List&lt;<wbr/>/sdk-for-flutter-explore-search-openinghours-class&gt; openingHours, List&lt;<wbr/>/sdk-for-flutter-explore-search-placecategory-class&gt; categories, List&lt;<wbr/>/sdk-for-flutter-explore-search-webimage-class&gt; images, List&lt;<wbr/>/sdk-for-flutter-explore-search-webeditorial-class&gt; editorials, List&lt;<wbr/>/sdk-for-flutter-explore-search-webrating-class&gt; ratings, List&lt;<wbr/>/sdk-for-flutter-explore-search-supplierreference-class&gt; references)
 </dt>
 <dd>
           Creates a new instance.
@@ -88,24 +89,24 @@ opening hours and assigned categories.</p>
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="categories">
-<a href="../search/Details/categories.html">/sdk-for-flutter-explore-search-details-categories</a>
-↔ List&lt;<wbr/><a href="../search/PlaceCategory-class.html">/sdk-for-flutter-explore-search-placecategory-class</a>&gt;
+/sdk-for-flutter-explore-search-details-categories
+↔ List&lt;<wbr/>/sdk-for-flutter-explore-search-placecategory-class&gt;
 </dt>
 <dd>
   The list of categories assigned to this place.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="contacts">
-<a href="../search/Details/contacts.html">/sdk-for-flutter-explore-search-details-contacts</a>
-↔ List&lt;<wbr/><a href="../search/Contact-class.html">/sdk-for-flutter-explore-search-contact-class</a>&gt;
+/sdk-for-flutter-explore-search-details-contacts
+↔ List&lt;<wbr/>/sdk-for-flutter-explore-search-contact-class&gt;
 </dt>
 <dd>
   The list of contact information of the place.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="editorials">
-<a href="../search/Details/editorials.html">/sdk-for-flutter-explore-search-details-editorials</a>
-↔ List&lt;<wbr/><a href="../search/WebEditorial-class.html">/sdk-for-flutter-explore-search-webeditorial-class</a>&gt;
+/sdk-for-flutter-explore-search-details-editorials
+↔ List&lt;<wbr/>/sdk-for-flutter-explore-search-webeditorial-class&gt;
 </dt>
 <dd>
   The list of editorials associated with the place.
@@ -114,8 +115,8 @@ valid contracts with said suppliers. If the user has no such contracts, the list
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="evChargingLocation">
-<a href="../search/Details/evChargingLocation.html">/sdk-for-flutter-explore-search-details-evcharginglocation</a>
-↔ <a href="../search/EVChargingLocation-class.html">/sdk-for-flutter-explore-search-evcharginglocation-class</a>?
+/sdk-for-flutter-explore-search-details-evcharginglocation
+↔ /sdk-for-flutter-explore-search-evcharginglocation-class?
 </dt>
 <dd>
   Details about the EV charging station, if this place belongs to the EV charging station category.
@@ -124,19 +125,19 @@ Related APIs may change for new releases without a deprecation process.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="evChargingPool">
-<a href="../search/Details/evChargingPool.html">/sdk-for-flutter-explore-search-details-evchargingpool</a>
-↔ <a href="../search/EVChargingPool-class.html">/sdk-for-flutter-explore-search-evchargingpool-class</a>?
+/sdk-for-flutter-explore-search-details-evchargingpool
+↔ /sdk-for-flutter-explore-search-evchargingpool-class?
 </dt>
 <dd>
   EV charging pool details. It is available only for a place that is a charging pool
 for electric vehicles.
-It is fully supported for offline search, provided that <a href="../core.engine/LayerConfigurationFeature.html">/sdk-for-flutter-explore-core-engine-layerconfigurationfeature</a>
-is enabled in <a href="../core.engine/SDKOptions/layerConfiguration.html">/sdk-for-flutter-explore-core-engine-sdkoptions-layerconfiguration</a>.
+It is fully supported for offline search, provided that /sdk-for-flutter-explore-core-engine-layerconfigurationfeature
+is enabled in /sdk-for-flutter-explore-core-engine-sdkoptions-layerconfiguration.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="foodTypes">
-<a href="../search/Details/foodTypes.html">/sdk-for-flutter-explore-search-details-foodtypes</a>
-↔ List&lt;<wbr/><a href="../search/PlaceFoodType-class.html">/sdk-for-flutter-explore-search-placefoodtype-class</a>&gt;
+/sdk-for-flutter-explore-search-details-foodtypes
+↔ List&lt;<wbr/>/sdk-for-flutter-explore-search-placefoodtype-class&gt;
 </dt>
 <dd>
   The list of food types assigned to this place.
@@ -144,17 +145,17 @@ Not supported in <code>OfflineSearchEngine</code> (only available for the Naviga
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="fuelStation">
-<a href="../search/Details/fuelStation.html">/sdk-for-flutter-explore-search-details-fuelstation</a>
-↔ <a href="../search/FuelStation-class.html">/sdk-for-flutter-explore-search-fuelstation-class</a>?
+/sdk-for-flutter-explore-search-details-fuelstation
+↔ /sdk-for-flutter-explore-search-fuelstation-class?
 </dt>
 <dd>
   Fuel station details. It is available only if a place is a fuel station and contain fuel data.
-It is fully supported for offline search, provided that <a href="../core.engine/LayerConfigurationFeature.html">/sdk-for-flutter-explore-core-engine-layerconfigurationfeature</a>
-is enabled in <a href="../core.engine/SDKOptions/layerConfiguration.html">/sdk-for-flutter-explore-core-engine-sdkoptions-layerconfiguration</a>.
+It is fully supported for offline search, provided that /sdk-for-flutter-explore-core-engine-layerconfigurationfeature
+is enabled in /sdk-for-flutter-explore-core-engine-sdkoptions-layerconfiguration.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-<a href="../search/Details/hashCode.html">/sdk-for-flutter-explore-search-details-hashcode</a>
+/sdk-for-flutter-explore-search-details-hashcode
 → int
 </dt>
 <dd>
@@ -162,8 +163,8 @@ is enabled in <a href="../core.engine/SDKOptions/layerConfiguration.html">/sdk-f
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="images">
-<a href="../search/Details/images.html">/sdk-for-flutter-explore-search-details-images</a>
-↔ List&lt;<wbr/><a href="../search/WebImage-class.html">/sdk-for-flutter-explore-search-webimage-class</a>&gt;
+/sdk-for-flutter-explore-search-details-images
+↔ List&lt;<wbr/>/sdk-for-flutter-explore-search-webimage-class&gt;
 </dt>
 <dd>
   The list of images associated with the place.
@@ -172,16 +173,16 @@ valid contracts with said suppliers. If the user has no such contracts, the list
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="openingHours">
-<a href="../search/Details/openingHours.html">/sdk-for-flutter-explore-search-details-openinghours</a>
-↔ List&lt;<wbr/><a href="../search/OpeningHours-class.html">/sdk-for-flutter-explore-search-openinghours-class</a>&gt;
+/sdk-for-flutter-explore-search-details-openinghours
+↔ List&lt;<wbr/>/sdk-for-flutter-explore-search-openinghours-class&gt;
 </dt>
 <dd>
   The list of opening hours information of the place.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="payment">
-<a href="../search/Details/payment.html">/sdk-for-flutter-explore-search-details-payment</a>
-↔ <a href="../search/POIPaymentDetails-class.html">/sdk-for-flutter-explore-search-poipaymentdetails-class</a>?
+/sdk-for-flutter-explore-search-details-payment
+↔ /sdk-for-flutter-explore-search-poipaymentdetails-class?
 </dt>
 <dd>
   Details about the payment options at the POI.
@@ -190,8 +191,8 @@ Not supported in <code>OfflineSearchEngine</code> (only available for the Naviga
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="ratings">
-<a href="../search/Details/ratings.html">/sdk-for-flutter-explore-search-details-ratings</a>
-↔ List&lt;<wbr/><a href="../search/WebRating-class.html">/sdk-for-flutter-explore-search-webrating-class</a>&gt;
+/sdk-for-flutter-explore-search-details-ratings
+↔ List&lt;<wbr/>/sdk-for-flutter-explore-search-webrating-class&gt;
 </dt>
 <dd>
   The list of ratings associated with the place.
@@ -200,8 +201,8 @@ valid contracts with said suppliers. If the user has no such contracts, the list
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="references">
-<a href="../search/Details/references.html">/sdk-for-flutter-explore-search-details-references</a>
-↔ List&lt;<wbr/><a href="../search/SupplierReference-class.html">/sdk-for-flutter-explore-search-supplierreference-class</a>&gt;
+/sdk-for-flutter-explore-search-details-references
+↔ List&lt;<wbr/>/sdk-for-flutter-explore-search-supplierreference-class&gt;
 </dt>
 <dd>
   The list of supplier references to this place.
@@ -210,7 +211,7 @@ valid contracts with said suppliers. If the user has no such contracts, the list
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../search/Details/runtimeType.html">/sdk-for-flutter-explore-search-details-runtimetype</a>
+/sdk-for-flutter-explore-search-details-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -218,13 +219,13 @@ valid contracts with said suppliers. If the user has no such contracts, the list
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="truckAmenities">
-<a href="../search/Details/truckAmenities.html">/sdk-for-flutter-explore-search-details-truckamenities</a>
-↔ <a href="../search/TruckAmenities-class.html">/sdk-for-flutter-explore-search-truckamenities-class</a>?
+/sdk-for-flutter-explore-search-details-truckamenities
+↔ /sdk-for-flutter-explore-search-truckamenities-class?
 </dt>
 <dd>
   Additional information that is available only for places that contain truck amenities.
-It is fully supported for offline search, provided that <a href="../core.engine/LayerConfigurationFeature.html">/sdk-for-flutter-explore-core-engine-layerconfigurationfeature</a>
-is enabled in <a href="../core.engine/SDKOptions/layerConfiguration.html">/sdk-for-flutter-explore-core-engine-sdkoptions-layerconfiguration</a>.
+It is fully supported for offline search, provided that /sdk-for-flutter-explore-core-engine-layerconfigurationfeature
+is enabled in /sdk-for-flutter-explore-core-engine-sdkoptions-layerconfiguration.
   <div class="features">getter/setter pair</div>
 </dd>
 </dl>
@@ -233,8 +234,8 @@ is enabled in <a href="../core.engine/SDKOptions/layerConfiguration.html">/sdk-f
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable" id="getPrimaryCategories">
-<a href="../search/Details/getPrimaryCategories.html">/sdk-for-flutter-explore-search-details-getprimarycategories</a>(<wbr/>)
-    → List&lt;<wbr/><a href="../search/PlaceCategory-class.html">/sdk-for-flutter-explore-search-placecategory-class</a>&gt;
+/sdk-for-flutter-explore-search-details-getprimarycategories(<wbr/>)
+    → List&lt;<wbr/>/sdk-for-flutter-explore-search-placecategory-class&gt;
 
 </dt>
 <dd>
@@ -243,7 +244,7 @@ is enabled in <a href="../core.engine/SDKOptions/layerConfiguration.html">/sdk-f
 
 </dd>
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../search/Details/noSuchMethod.html">/sdk-for-flutter-explore-search-details-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-search-details-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -252,7 +253,7 @@ is enabled in <a href="../core.engine/SDKOptions/layerConfiguration.html">/sdk-f
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../search/Details/toString.html">/sdk-for-flutter-explore-search-details-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-search-details-tostring(<wbr/>)
     → String
 
 </dt>
@@ -266,7 +267,7 @@ is enabled in <a href="../core.engine/SDKOptions/layerConfiguration.html">/sdk-f
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-<a href="../search/Details/operator_equals.html">/sdk-for-flutter-explore-search-details-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-search-details-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -285,8 +286,8 @@ is enabled in <a href="../core.engine/SDKOptions/layerConfiguration.html">/sdk-f
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
 <li class="self-crumb">Details class</li>
 </ol>
 <h5>search library</h5>
@@ -303,4 +304,5 @@ is enabled in <a href="../core.engine/SDKOptions/layerConfiguration.html">/sdk-f
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

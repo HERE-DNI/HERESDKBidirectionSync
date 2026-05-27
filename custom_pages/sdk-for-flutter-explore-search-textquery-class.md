@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "TextQuery class"
 slug: "sdk-for-flutter-explore-search-textquery-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- TextQuery-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -27,8 +28,8 @@ slug: "sdk-for-flutter-explore-search-textquery-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
 <li class="self-crumb">TextQuery class</li>
 </ol>
 <div class="self-name">TextQuery</div>
@@ -58,7 +59,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="TextQuery.withArea">
-<a href="../search/TextQuery/TextQuery.withArea.html">/sdk-for-flutter-explore-search-textquery-textquery-witharea</a>(String query, <a href="../search/TextQueryArea-class.html">/sdk-for-flutter-explore-search-textqueryarea-class</a> area)
+/sdk-for-flutter-explore-search-textquery-textquery-witharea(String query, /sdk-for-flutter-explore-search-textqueryarea-class area)
 </dt>
 <dd>
           Constructs a TextQuery from the provided text query and geographic area.
@@ -70,15 +71,15 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="area">
-<a href="../search/TextQuery/area.html">/sdk-for-flutter-explore-search-textquery-area</a>
-↔ <a href="../search/TextQueryArea-class.html">/sdk-for-flutter-explore-search-textqueryarea-class</a>
+/sdk-for-flutter-explore-search-textquery-area
+↔ /sdk-for-flutter-explore-search-textqueryarea-class
 </dt>
 <dd>
   Area which to provide the most relevant places.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-<a href="../search/TextQuery/hashCode.html">/sdk-for-flutter-explore-search-textquery-hashcode</a>
+/sdk-for-flutter-explore-search-textquery-hashcode
 → int
 </dt>
 <dd>
@@ -86,8 +87,8 @@ menu
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="placeFilter">
-<a href="../search/TextQuery/placeFilter.html">/sdk-for-flutter-explore-search-textquery-placefilter</a>
-↔ <a href="../search/PlaceFilter-class.html">/sdk-for-flutter-explore-search-placefilter-class</a>
+/sdk-for-flutter-explore-search-textquery-placefilter
+↔ /sdk-for-flutter-explore-search-placefilter-class
 </dt>
 <dd>
   The filter options to specify a place in query.
@@ -95,7 +96,7 @@ Consists of fuel and truck options.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="query">
-<a href="../search/TextQuery/query.html">/sdk-for-flutter-explore-search-textquery-query</a>
+/sdk-for-flutter-explore-search-textquery-query
 ↔ String
 </dt>
 <dd>
@@ -103,7 +104,7 @@ Consists of fuel and truck options.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../search/TextQuery/runtimeType.html">/sdk-for-flutter-explore-search-textquery-runtimetype</a>
+/sdk-for-flutter-explore-search-textquery-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -116,7 +117,7 @@ Consists of fuel and truck options.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../search/TextQuery/noSuchMethod.html">/sdk-for-flutter-explore-search-textquery-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-search-textquery-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -125,7 +126,7 @@ Consists of fuel and truck options.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../search/TextQuery/toString.html">/sdk-for-flutter-explore-search-textquery-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-search-textquery-tostring(<wbr/>)
     → String
 
 </dt>
@@ -139,7 +140,7 @@ Consists of fuel and truck options.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-<a href="../search/TextQuery/operator_equals.html">/sdk-for-flutter-explore-search-textquery-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-search-textquery-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -158,8 +159,8 @@ Consists of fuel and truck options.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
 <li class="self-crumb">TextQuery class</li>
 </ol>
 <h5>search library</h5>
@@ -176,4 +177,5 @@ Consists of fuel and truck options.
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

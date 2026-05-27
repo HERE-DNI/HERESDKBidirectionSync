@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "axleCount property"
 slug: "sdk-for-flutter-explore-transport-vehiclespecification-axlecount"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- axleCount.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-transport-vehiclespecification-axlecount"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
-<li><a href="../../transport/VehicleSpecification-class.html">/sdk-for-flutter-explore-transport-vehiclespecification-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-transport-transport-library</li>
+<li>/sdk-for-flutter-explore-transport-vehiclespecification-class</li>
 <li class="self-crumb">axleCount property</li>
 </ol>
 <div class="self-name">axleCount</div>
@@ -46,10 +47,10 @@ menu
 <p>Defines total number of axles in the vehicle. The provided value must be greater than or equal to 2.
 By default, it is not set.
 Route calculation: When not set, possible axle count restrictions will not be taken into consideration.
-Rendering: When set, truck restriction icons for an axle count greater than <a href="../../transport/VehicleSpecification/axleCount.html">/sdk-for-flutter-explore-transport-vehiclespecification-axlecount</a> will not be displayed.
-When specifying <a href="../../transport/VehicleSpecification/trailerAxleCount.html">/sdk-for-flutter-explore-transport-vehiclespecification-traileraxlecount</a>, then <a href="../../transport/VehicleSpecification/axleCount.html">/sdk-for-flutter-explore-transport-vehiclespecification-axlecount</a> is required and must be greater than <a href="../../transport/VehicleSpecification/trailerAxleCount.html">/sdk-for-flutter-explore-transport-vehiclespecification-traileraxlecount</a>.</p>
-<p><strong>Note:</strong> Supported in <a href="../../transport/TransportMode.html">/sdk-for-flutter-explore-transport-transportmode</a>, <a href="../../transport/TransportMode.html">/sdk-for-flutter-explore-transport-transportmode</a>, <a href="../../transport/TransportMode.html">/sdk-for-flutter-explore-transport-transportmode</a>,
-<a href="../../transport/TransportMode.html">/sdk-for-flutter-explore-transport-transportmode</a> (Beta), <a href="../../transport/TransportMode.html">/sdk-for-flutter-explore-transport-transportmode</a> (Beta) transport modes.</p>
+Rendering: When set, truck restriction icons for an axle count greater than /sdk-for-flutter-explore-transport-vehiclespecification-axlecount will not be displayed.
+When specifying /sdk-for-flutter-explore-transport-vehiclespecification-traileraxlecount, then /sdk-for-flutter-explore-transport-vehiclespecification-axlecount is required and must be greater than /sdk-for-flutter-explore-transport-vehiclespecification-traileraxlecount.</p>
+<p><strong>Note:</strong> Supported in /sdk-for-flutter-explore-transport-transportmode, /sdk-for-flutter-explore-transport-transportmode, /sdk-for-flutter-explore-transport-transportmode,
+/sdk-for-flutter-explore-transport-transportmode (Beta), /sdk-for-flutter-explore-transport-transportmode (Beta) transport modes.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -63,9 +64,9 @@ When specifying <a href="../../transport/VehicleSpecification/trailerAxleCount.h
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
-<li><a href="../../transport/VehicleSpecification-class.html">/sdk-for-flutter-explore-transport-vehiclespecification-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-transport-transport-library</li>
+<li>/sdk-for-flutter-explore-transport-vehiclespecification-class</li>
 <li class="self-crumb">axleCount property</li>
 </ol>
 <h5>VehicleSpecification class</h5>
@@ -82,4 +83,5 @@ When specifying <a href="../../transport/VehicleSpecification/trailerAxleCount.h
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

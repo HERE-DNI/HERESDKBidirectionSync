@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "location property"
 slug: "sdk-for-flutter-explore-traffic-trafficflow-location"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- location.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-traffic-trafficflow-location"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../traffic/traffic-library.html">/sdk-for-flutter-explore-traffic-traffic-library</a></li>
-<li><a href="../../traffic/TrafficFlow-class.html">/sdk-for-flutter-explore-traffic-trafficflow-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-traffic-traffic-library</li>
+<li>/sdk-for-flutter-explore-traffic-trafficflow-class</li>
 <li class="self-crumb">location property</li>
 </ol>
 <div class="self-name">location</div>
@@ -38,7 +39,7 @@ menu
 <h1>location property</h1></div>
 <section id="getter">
 <section class="multi-line-signature">
-<a href="../../traffic/TrafficLocation-class.html">/sdk-for-flutter-explore-traffic-trafficlocation-class</a>
+/sdk-for-flutter-explore-traffic-trafficlocation-class
 location
 </section>
 <section class="desc markdown">
@@ -58,9 +59,9 @@ Gets the location of the incident.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../traffic/traffic-library.html">/sdk-for-flutter-explore-traffic-traffic-library</a></li>
-<li><a href="../../traffic/TrafficFlow-class.html">/sdk-for-flutter-explore-traffic-trafficflow-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-traffic-traffic-library</li>
+<li>/sdk-for-flutter-explore-traffic-trafficflow-class</li>
 <li class="self-crumb">location property</li>
 </ol>
 <h5>TrafficFlow class</h5>
@@ -77,4 +78,5 @@ Gets the location of the incident.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

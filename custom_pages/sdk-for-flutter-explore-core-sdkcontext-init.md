@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "init static method"
 slug: "sdk-for-flutter-explore-core-sdkcontext-init"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- init.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-core-sdkcontext-init"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
-<li><a href="../../core/SdkContext-class.html">/sdk-for-flutter-explore-core-sdkcontext-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
+<li>/sdk-for-flutter-explore-core-sdkcontext-class</li>
 <li class="self-crumb">init static method</li>
 </ol>
 <div class="self-name">init</div>
@@ -38,7 +39,7 @@ menu
 <h1>init static method</h1></div>
 <section class="multi-line-signature">
 void
-init(<wbr/>[<ol class="parameter-list single-line"> <li><a href="../../core/IsolateOrigin.html">/sdk-for-flutter-explore-core-isolateorigin</a> isolateOrigin = IsolateOrigin.main</li>
+init(<wbr/>[<ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-core-isolateorigin isolateOrigin = IsolateOrigin.main</li>
 </ol>])
 
       
@@ -66,9 +67,9 @@ by default, and this is suitable for almost all use cases.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
-<li><a href="../../core/SdkContext-class.html">/sdk-for-flutter-explore-core-sdkcontext-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
+<li>/sdk-for-flutter-explore-core-sdkcontext-class</li>
 <li class="self-crumb">init static method</li>
 </ol>
 <h5>SdkContext class</h5>
@@ -85,4 +86,5 @@ by default, and this is suitable for almost all use cases.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

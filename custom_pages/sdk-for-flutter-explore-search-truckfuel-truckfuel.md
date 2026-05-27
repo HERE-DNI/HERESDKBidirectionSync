@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "TruckFuel constructor"
 slug: "sdk-for-flutter-explore-search-truckfuel-truckfuel"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- TruckFuel.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-search-truckfuel-truckfuel"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/TruckFuel-class.html">/sdk-for-flutter-explore-search-truckfuel-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-truckfuel-class</li>
 <li class="self-crumb">TruckFuel constructor</li>
 </ol>
 <div class="self-name">TruckFuel</div>
@@ -37,7 +38,7 @@ menu
 <div>
 <h1>TruckFuel constructor</h1></div>
 <section class="multi-line-signature">
-TruckFuel(<wbr/><ol class="parameter-list single-line"> <li><a href="../../transport/TruckFuelType.html">/sdk-for-flutter-explore-transport-truckfueltype</a> type</li>
+TruckFuel(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-transport-truckfueltype type</li>
 </ol>)
     </section>
 <section class="summary source-code" id="source">
@@ -53,9 +54,9 @@ TruckFuel(<wbr/><ol class="parameter-list single-line"> <li><a href="../../trans
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/TruckFuel-class.html">/sdk-for-flutter-explore-search-truckfuel-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-truckfuel-class</li>
 <li class="self-crumb">TruckFuel constructor</li>
 </ol>
 <h5>TruckFuel class</h5>
@@ -72,4 +73,5 @@ TruckFuel(<wbr/><ol class="parameter-list single-line"> <li><a href="../../trans
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

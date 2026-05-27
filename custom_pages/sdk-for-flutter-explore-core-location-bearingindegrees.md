@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "bearingInDegrees property"
 slug: "sdk-for-flutter-explore-core-location-bearingindegrees"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- bearingInDegrees.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-core-location-bearingindegrees"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
-<li><a href="../../core/Location-class.html">/sdk-for-flutter-explore-core-location-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
+<li>/sdk-for-flutter-explore-core-location-class</li>
 <li class="self-crumb">bearingInDegrees property</li>
 </ol>
 <div class="self-name">bearingInDegrees</div>
@@ -62,9 +63,9 @@ guaranteed to be in the range [0, 360).</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
-<li><a href="../../core/Location-class.html">/sdk-for-flutter-explore-core-location-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
+<li>/sdk-for-flutter-explore-core-location-class</li>
 <li class="self-crumb">bearingInDegrees property</li>
 </ol>
 <h5>Location class</h5>
@@ -81,4 +82,5 @@ guaranteed to be in the range [0, 360).</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

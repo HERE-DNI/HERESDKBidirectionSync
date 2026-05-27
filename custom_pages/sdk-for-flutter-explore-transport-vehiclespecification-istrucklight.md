@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "isTruckLight property"
 slug: "sdk-for-flutter-explore-transport-vehiclespecification-istrucklight"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- isTruckLight.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-transport-vehiclespecification-istrucklight"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
-<li><a href="../../transport/VehicleSpecification-class.html">/sdk-for-flutter-explore-transport-vehiclespecification-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-transport-transport-library</li>
+<li>/sdk-for-flutter-explore-transport-vehiclespecification-class</li>
 <li class="self-crumb">isTruckLight property</li>
 </ol>
 <div class="self-name">isTruckLight</div>
@@ -60,7 +61,7 @@ a vehicle matches the classification for light trucks according to the vehicle r
 experimental in other regions. Therefore, for now, it is recommended to use this flag only in Japan.</li>
 <li>Note that this is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
 Related APIs may change for new releases without a deprecation process.</li>
-<li>Supported only in <a href="../../transport/TransportMode.html">/sdk-for-flutter-explore-transport-transportmode</a> transport mode.</li>
+<li>Supported only in /sdk-for-flutter-explore-transport-transportmode transport mode.</li>
 </ul>
 </section>
 <section class="summary source-code" id="source">
@@ -75,9 +76,9 @@ Related APIs may change for new releases without a deprecation process.</li>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
-<li><a href="../../transport/VehicleSpecification-class.html">/sdk-for-flutter-explore-transport-vehiclespecification-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-transport-transport-library</li>
+<li>/sdk-for-flutter-explore-transport-vehiclespecification-class</li>
 <li class="self-crumb">isTruckLight property</li>
 </ol>
 <h5>VehicleSpecification class</h5>
@@ -94,4 +95,5 @@ Related APIs may change for new releases without a deprecation process.</li>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

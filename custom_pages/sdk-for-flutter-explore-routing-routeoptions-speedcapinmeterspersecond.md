@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "speedCapInMetersPerSecond property"
 slug: "sdk-for-flutter-explore-routing-routeoptions-speedcapinmeterspersecond"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- speedCapInMetersPerSecond.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-routing-routeoptions-speedcapinmeterspersecond"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/RouteOptions-class.html">/sdk-for-flutter-explore-routing-routeoptions-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-routeoptions-class</li>
 <li class="self-crumb">speedCapInMetersPerSecond property</li>
 </ol>
 <div class="self-name">speedCapInMetersPerSecond</div>
@@ -44,9 +45,9 @@ menu
 </section>
 <section class="desc markdown">
 <p>Specifies the maximum speed in meters per second, which the user wishes not to exceed.
-The valid range is [1, 70] meters per second. Note that it is valid only for <a href="../../transport/TransportMode.html">/sdk-for-flutter-explore-transport-transportmode</a>,
-<a href="../../transport/TransportMode.html">/sdk-for-flutter-explore-transport-transportmode</a> and <a href="../../transport/TransportMode.html">/sdk-for-flutter-explore-transport-transportmode</a> transport modes.
-For car, truck and scooter transport modes, it will affect <a href="../../routing/Route/duration.html">/sdk-for-flutter-explore-routing-route-duration</a> of
+The valid range is [1, 70] meters per second. Note that it is valid only for /sdk-for-flutter-explore-transport-transportmode,
+/sdk-for-flutter-explore-transport-transportmode and /sdk-for-flutter-explore-transport-transportmode transport modes.
+For car, truck and scooter transport modes, it will affect /sdk-for-flutter-explore-routing-route-duration of
 the route. Only for scooter transport mode, it may affect the route geometry. Defaults to <code>null</code>,
 which means that no speed cap is set.</p>
 </section>
@@ -62,9 +63,9 @@ which means that no speed cap is set.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/RouteOptions-class.html">/sdk-for-flutter-explore-routing-routeoptions-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-routeoptions-class</li>
 <li class="self-crumb">speedCapInMetersPerSecond property</li>
 </ol>
 <h5>RouteOptions class</h5>
@@ -81,4 +82,5 @@ which means that no speed cap is set.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

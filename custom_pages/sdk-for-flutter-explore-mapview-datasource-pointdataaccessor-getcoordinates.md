@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "getCoordinates abstract method"
 slug: "sdk-for-flutter-explore-mapview-datasource-pointdataaccessor-getcoordinates"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- getCoordinates.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-datasource-pointdataaccessor-getcoordinat
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
-<li><a href="../../mapview.datasource/PointDataAccessor-class.html">/sdk-for-flutter-explore-mapview-datasource-pointdataaccessor-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-pointdataaccessor-class</li>
 <li class="self-crumb">getCoordinates abstract method</li>
 </ol>
 <div class="self-name">getCoordinates</div>
@@ -37,7 +38,7 @@ menu
 <div>
 <h1>getCoordinates abstract method</h1></div>
 <section class="multi-line-signature">
-<a href="../../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>
+/sdk-for-flutter-explore-core-geocoordinates-class
 getCoordinates(<wbr/>)
 
       
@@ -45,7 +46,7 @@ getCoordinates(<wbr/>)
     </section>
 <section class="desc markdown">
 <p>Gets point coordinates.</p>
-<p>Returns <a href="../../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>. The point coordinates.</p>
+<p>Returns /sdk-for-flutter-explore-core-geocoordinates-class. The point coordinates.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -59,9 +60,9 @@ getCoordinates(<wbr/>)
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
-<li><a href="../../mapview.datasource/PointDataAccessor-class.html">/sdk-for-flutter-explore-mapview-datasource-pointdataaccessor-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-pointdataaccessor-class</li>
 <li class="self-crumb">getCoordinates abstract method</li>
 </ol>
 <h5>PointDataAccessor class</h5>
@@ -78,4 +79,5 @@ getCoordinates(<wbr/>)
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

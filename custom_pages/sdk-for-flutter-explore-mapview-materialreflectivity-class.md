@@ -1,9 +1,10 @@
 ---
-title: "Lighting OFF vs ON"
+title: "MaterialReflectivity class"
 slug: "sdk-for-flutter-explore-mapview-materialreflectivity-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- MaterialReflectivity-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -26,8 +27,8 @@ slug: "sdk-for-flutter-explore-mapview-materialreflectivity-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
 <li class="self-crumb">MaterialReflectivity class</li>
 </ol>
 <div class="self-name">MaterialReflectivity</div>
@@ -74,7 +75,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="MaterialReflectivity">
-<a href="../mapview/MaterialReflectivity/MaterialReflectivity.html">/sdk-for-flutter-explore-mapview-materialreflectivity-materialreflectivity</a>()
+/sdk-for-flutter-explore-mapview-materialreflectivity-materialreflectivity()
 </dt>
 <dd>
 </dd>
@@ -84,7 +85,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="ambientFactor">
-<a href="../mapview/MaterialReflectivity/ambientFactor.html">/sdk-for-flutter-explore-mapview-materialreflectivity-ambientfactor</a>
+/sdk-for-flutter-explore-mapview-materialreflectivity-ambientfactor
 ↔ double
 </dt>
 <dd>
@@ -93,7 +94,7 @@ constant ambient contribution (independent of light direction) when lighting is 
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="diffuseFactor">
-<a href="../mapview/MaterialReflectivity/diffuseFactor.html">/sdk-for-flutter-explore-mapview-materialreflectivity-diffusefactor</a>
+/sdk-for-flutter-explore-mapview-materialreflectivity-diffusefactor
 ↔ double
 </dt>
 <dd>
@@ -102,7 +103,7 @@ the diffuse lighting component when lighting is enabled. Default value is 1.0.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-<a href="../mapview/MaterialReflectivity/hashCode.html">/sdk-for-flutter-explore-mapview-materialreflectivity-hashcode</a>
+/sdk-for-flutter-explore-mapview-materialreflectivity-hashcode
 → int
 </dt>
 <dd>
@@ -110,7 +111,7 @@ the diffuse lighting component when lighting is enabled. Default value is 1.0.
   <div class="features">no setter</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../mapview/MaterialReflectivity/runtimeType.html">/sdk-for-flutter-explore-mapview-materialreflectivity-runtimetype</a>
+/sdk-for-flutter-explore-mapview-materialreflectivity-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -123,7 +124,7 @@ the diffuse lighting component when lighting is enabled. Default value is 1.0.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../mapview/MaterialReflectivity/noSuchMethod.html">/sdk-for-flutter-explore-mapview-materialreflectivity-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-mapview-materialreflectivity-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -132,7 +133,7 @@ the diffuse lighting component when lighting is enabled. Default value is 1.0.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../mapview/MaterialReflectivity/toString.html">/sdk-for-flutter-explore-mapview-materialreflectivity-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-mapview-materialreflectivity-tostring(<wbr/>)
     → String
 
 </dt>
@@ -146,7 +147,7 @@ the diffuse lighting component when lighting is enabled. Default value is 1.0.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-<a href="../mapview/MaterialReflectivity/operator_equals.html">/sdk-for-flutter-explore-mapview-materialreflectivity-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-mapview-materialreflectivity-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -165,8 +166,8 @@ the diffuse lighting component when lighting is enabled. Default value is 1.0.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
 <li class="self-crumb">MaterialReflectivity class</li>
 </ol>
 <h5>mapview library</h5>
@@ -183,4 +184,5 @@ the diffuse lighting component when lighting is enabled. Default value is 1.0.
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

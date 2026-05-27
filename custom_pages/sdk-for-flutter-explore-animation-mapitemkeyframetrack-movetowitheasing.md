@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "moveToWithEasing static method"
 slug: "sdk-for-flutter-explore-animation-mapitemkeyframetrack-movetowitheasing"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- moveToWithEasing.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-animation-mapitemkeyframetrack-movetowitheasing"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../animation/animation-library.html">/sdk-for-flutter-explore-animation-animation-library</a></li>
-<li><a href="../../animation/MapItemKeyFrameTrack-class.html">/sdk-for-flutter-explore-animation-mapitemkeyframetrack-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-animation-animation-library</li>
+<li>/sdk-for-flutter-explore-animation-mapitemkeyframetrack-class</li>
 <li class="self-crumb">moveToWithEasing static method</li>
 </ol>
 <div class="self-name">moveToWithEasing</div>
@@ -37,10 +38,10 @@ menu
 <div>
 <h1>moveToWithEasing static method</h1></div>
 <section class="multi-line-signature">
-<a href="../../animation/MapItemKeyFrameTrack-class.html">/sdk-for-flutter-explore-animation-mapitemkeyframetrack-class</a>
-moveToWithEasing(<wbr/><ol class="parameter-list single-line"> <li>List&lt;<wbr/><a href="../../animation/GeoCoordinatesKeyframe-class.html">/sdk-for-flutter-explore-animation-geocoordinateskeyframe-class</a>&gt; keyframes, </li>
-<li><a href="../../animation/Easing-class.html">/sdk-for-flutter-explore-animation-easing-class</a> easing, </li>
-<li><a href="../../animation/KeyframeInterpolationMode.html">/sdk-for-flutter-explore-animation-keyframeinterpolationmode</a> interpolationMode</li>
+/sdk-for-flutter-explore-animation-mapitemkeyframetrack-class
+moveToWithEasing(<wbr/><ol class="parameter-list single-line"> <li>List&lt;<wbr/>/sdk-for-flutter-explore-animation-geocoordinateskeyframe-class&gt; keyframes, </li>
+<li>/sdk-for-flutter-explore-animation-easing-class easing, </li>
+<li>/sdk-for-flutter-explore-animation-keyframeinterpolationmode interpolationMode</li>
 </ol>)
 
       
@@ -61,8 +62,8 @@ coordinates where the map item is positioned.</p>
 <p><code>interpolationMode</code> The type of interpolation done between keyframe values.</p>
 </li>
 </ul>
-<p>Returns <a href="../../animation/MapItemKeyFrameTrack-class.html">/sdk-for-flutter-explore-animation-mapitemkeyframetrack-class</a>. MapItemKeyFrameTrack instance.</p>
-<p>Throws <a href="../../animation/MapItemKeyFrameTrackInstantiationException-class.html">/sdk-for-flutter-explore-animation-mapitemkeyframetrackinstantiationexception-class</a>. If the supplied keyframe list is empty or first keyframe duration is not 0.</p>
+<p>Returns /sdk-for-flutter-explore-animation-mapitemkeyframetrack-class. MapItemKeyFrameTrack instance.</p>
+<p>Throws /sdk-for-flutter-explore-animation-mapitemkeyframetrackinstantiationexception-class. If the supplied keyframe list is empty or first keyframe duration is not 0.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -76,9 +77,9 @@ coordinates where the map item is positioned.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../animation/animation-library.html">/sdk-for-flutter-explore-animation-animation-library</a></li>
-<li><a href="../../animation/MapItemKeyFrameTrack-class.html">/sdk-for-flutter-explore-animation-mapitemkeyframetrack-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-animation-animation-library</li>
+<li>/sdk-for-flutter-explore-animation-mapitemkeyframetrack-class</li>
 <li class="self-crumb">moveToWithEasing static method</li>
 </ol>
 <h5>MapItemKeyFrameTrack class</h5>
@@ -95,4 +96,5 @@ coordinates where the map item is positioned.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

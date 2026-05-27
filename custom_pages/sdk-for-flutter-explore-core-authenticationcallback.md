@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "AuthenticationCallback typedef"
 slug: "sdk-for-flutter-explore-core-authenticationcallback"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- AuthenticationCallback.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,8 +12,8 @@ slug: "sdk-for-flutter-explore-core-authenticationcallback"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
 <li class="self-crumb">AuthenticationCallback typedef</li>
 </ol>
 <div class="self-name">AuthenticationCallback</div>
@@ -37,10 +38,10 @@ menu
 <h1>AuthenticationCallback typedef</h1></div>
 <section class="multi-line-signature">
 AuthenticationCallback =
-     void Function(<a href="../core/AuthenticationError.html">/sdk-for-flutter-explore-core-authenticationerror</a>? authenticationError, <a href="../core/AuthenticationData-class.html">/sdk-for-flutter-explore-core-authenticationdata-class</a>? authenticationData)
+     void Function(/sdk-for-flutter-explore-core-authenticationerror? authenticationError, /sdk-for-flutter-explore-core-authenticationdata-class? authenticationData)
 </section>
 <section class="desc markdown">
-<p>Callback passed to <a href="../core/Authentication/authenticateWithSDKNativeEngine.html">/sdk-for-flutter-explore-core-authentication-authenticatewithsdknativeengine</a>.</p>
+<p>Callback passed to /sdk-for-flutter-explore-core-authentication-authenticatewithsdknativeengine.</p>
 <p>This callback is called on the main thread asynchronously when an
 authenticate call has completed.</p>
 <ul>
@@ -64,8 +65,8 @@ authenticate call has completed.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
 <li class="self-crumb">AuthenticationCallback typedef</li>
 </ol>
 <h5>core library</h5>
@@ -82,4 +83,5 @@ authenticate call has completed.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

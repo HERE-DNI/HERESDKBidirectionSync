@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "suggestByText abstract method"
 slug: "sdk-for-flutter-explore-search-searchinterface-suggestbytext"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- suggestByText.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-search-searchinterface-suggestbytext"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/SearchInterface-class.html">/sdk-for-flutter-explore-search-searchinterface-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-searchinterface-class</li>
 <li class="self-crumb">suggestByText abstract method</li>
 </ol>
 <div class="self-name">suggestByText</div>
@@ -37,10 +38,10 @@ menu
 <div>
 <h1>suggestByText abstract method</h1></div>
 <section class="multi-line-signature">
-<a href="../../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a>
-suggestByText(<wbr/><ol class="parameter-list single-line"> <li><a href="../../search/TextQuery-class.html">/sdk-for-flutter-explore-search-textquery-class</a> query, </li>
-<li><a href="../../search/SearchOptions-class.html">/sdk-for-flutter-explore-search-searchoptions-class</a> options, </li>
-<li><a href="../../search/SuggestCallback.html">/sdk-for-flutter-explore-search-suggestcallback</a> callback</li>
+/sdk-for-flutter-explore-core-threading-taskhandle-class
+suggestByText(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-search-textquery-class query, </li>
+<li>/sdk-for-flutter-explore-search-searchoptions-class options, </li>
+<li>/sdk-for-flutter-explore-search-suggestcallback callback</li>
 </ol>)
 
       
@@ -51,7 +52,7 @@ suggestByText(<wbr/><ol class="parameter-list single-line"> <li><a href="../../s
 returns suggestions sorted by relevance.</p>
 <p>Note that while <code>OfflineSearchEngine</code> includes as many details as are available,
 <code>SearchEngine</code> includes only the information that is relevant for autosuggest use cases.
-Complete details can be obtained by searching with <a href="../../search/PlaceIdQuery-class.html">/sdk-for-flutter-explore-search-placeidquery-class</a>.</p>
+Complete details can be obtained by searching with /sdk-for-flutter-explore-search-placeidquery-class.</p>
 <ul>
 <li>
 <p><code>query</code> Desired text query to search.</p>
@@ -63,7 +64,7 @@ Complete details can be obtained by searching with <a href="../../search/PlaceId
 <p><code>callback</code> Callback which receives the result on the main thread.</p>
 </li>
 </ul>
-<p>Returns <a href="../../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a>. Handle that will be used to manipulate the execution of the task.</p>
+<p>Returns /sdk-for-flutter-explore-core-threading-taskhandle-class. Handle that will be used to manipulate the execution of the task.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -77,9 +78,9 @@ Complete details can be obtained by searching with <a href="../../search/PlaceId
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/SearchInterface-class.html">/sdk-for-flutter-explore-search-searchinterface-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-searchinterface-class</li>
 <li class="self-crumb">suggestByText abstract method</li>
 </ol>
 <h5>SearchInterface class</h5>
@@ -96,4 +97,5 @@ Complete details can be obtained by searching with <a href="../../search/PlaceId
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

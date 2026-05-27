@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "MapSceneLoadOptions class abstract"
 slug: "sdk-for-flutter-explore-mapview-mapsceneloadoptions-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- MapSceneLoadOptions-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -24,8 +25,8 @@ slug: "sdk-for-flutter-explore-mapview-mapsceneloadoptions-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
 <li class="self-crumb">MapSceneLoadOptions class</li>
 </ol>
 <div class="self-name">MapSceneLoadOptions</div>
@@ -52,7 +53,7 @@ menu
 <p>Represents the configuration options for loading a map scene.</p>
 <p>This class combines both the scene source (MapScheme or configuration file) and
 optional settings like features, watermark style and overriding map style.</p>
-<p>It is left empty intentionally. Use <a href="../mapview/MapSceneLoadOptionsBuilder-class.html">/sdk-for-flutter-explore-mapview-mapsceneloadoptionsbuilder-class</a> to create instances of this class.</p>
+<p>It is left empty intentionally. Use /sdk-for-flutter-explore-mapview-mapsceneloadoptionsbuilder-class to create instances of this class.</p>
 <p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
 Related APIs may change for new releases without a deprecation process.</p>
 </section>
@@ -60,7 +61,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="MapSceneLoadOptions">
-<a href="../mapview/MapSceneLoadOptions/MapSceneLoadOptions.html">/sdk-for-flutter-explore-mapview-mapsceneloadoptions-mapsceneloadoptions</a>()
+/sdk-for-flutter-explore-mapview-mapsceneloadoptions-mapsceneloadoptions()
 </dt>
 <dd>
 </dd>
@@ -70,7 +71,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="hashCode">
-<a href="../mapview/MapSceneLoadOptions/hashCode.html">/sdk-for-flutter-explore-mapview-mapsceneloadoptions-hashcode</a>
+/sdk-for-flutter-explore-mapview-mapsceneloadoptions-hashcode
 → int
 </dt>
 <dd class="inherited">
@@ -78,7 +79,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../mapview/MapSceneLoadOptions/runtimeType.html">/sdk-for-flutter-explore-mapview-mapsceneloadoptions-runtimetype</a>
+/sdk-for-flutter-explore-mapview-mapsceneloadoptions-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -91,7 +92,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../mapview/MapSceneLoadOptions/noSuchMethod.html">/sdk-for-flutter-explore-mapview-mapsceneloadoptions-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-mapview-mapsceneloadoptions-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -100,7 +101,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../mapview/MapSceneLoadOptions/toString.html">/sdk-for-flutter-explore-mapview-mapsceneloadoptions-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-mapview-mapsceneloadoptions-tostring(<wbr/>)
     → String
 
 </dt>
@@ -114,7 +115,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-<a href="../mapview/MapSceneLoadOptions/operator_equals.html">/sdk-for-flutter-explore-mapview-mapsceneloadoptions-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-mapview-mapsceneloadoptions-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -132,8 +133,8 @@ Related APIs may change for new releases without a deprecation process.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
 <li class="self-crumb">MapSceneLoadOptions class</li>
 </ol>
 <h5>mapview library</h5>
@@ -150,4 +151,5 @@ Related APIs may change for new releases without a deprecation process.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

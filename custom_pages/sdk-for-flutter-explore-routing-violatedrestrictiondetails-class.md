@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "ViolatedRestrictionDetails class"
 slug: "sdk-for-flutter-explore-routing-violatedrestrictiondetails-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- ViolatedRestrictionDetails-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -42,8 +43,8 @@ slug: "sdk-for-flutter-explore-routing-violatedrestrictiondetails-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
 <li class="self-crumb">ViolatedRestrictionDetails class</li>
 </ol>
 <div class="self-name">ViolatedRestrictionDetails</div>
@@ -75,7 +76,7 @@ be set with the maximum allowed height value.</p>
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="ViolatedRestrictionDetails">
-<a href="../routing/ViolatedRestrictionDetails/ViolatedRestrictionDetails.html">/sdk-for-flutter-explore-routing-violatedrestrictiondetails-violatedrestrictiondetails</a>()
+/sdk-for-flutter-explore-routing-violatedrestrictiondetails-violatedrestrictiondetails()
 </dt>
 <dd>
 </dd>
@@ -85,64 +86,64 @@ be set with the maximum allowed height value.</p>
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="forbiddenAxleCount">
-<a href="../routing/ViolatedRestrictionDetails/forbiddenAxleCount.html">/sdk-for-flutter-explore-routing-violatedrestrictiondetails-forbiddenaxlecount</a>
-↔ <a href="../core/IntegerRange-class.html">/sdk-for-flutter-explore-core-integerrange-class</a>?
+/sdk-for-flutter-explore-routing-violatedrestrictiondetails-forbiddenaxlecount
+↔ /sdk-for-flutter-explore-core-integerrange-class?
 </dt>
 <dd>
   The restriction to trucks with axles number within specified range during the trip.
-This property will be set if the <a href="../transport/VehicleSpecification/axleCount.html">/sdk-for-flutter-explore-transport-vehiclespecification-axlecount</a>
+This property will be set if the /sdk-for-flutter-explore-transport-vehiclespecification-axlecount
 is within this range.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="forbiddenHazardousGoods">
-<a href="../routing/ViolatedRestrictionDetails/forbiddenHazardousGoods.html">/sdk-for-flutter-explore-routing-violatedrestrictiondetails-forbiddenhazardousgoods</a>
-↔ List&lt;<wbr/><a href="../transport/HazardousMaterial.html">/sdk-for-flutter-explore-transport-hazardousmaterial</a>&gt;
+/sdk-for-flutter-explore-routing-violatedrestrictiondetails-forbiddenhazardousgoods
+↔ List&lt;<wbr/>/sdk-for-flutter-explore-transport-hazardousmaterial&gt;
 </dt>
 <dd>
   There are two lists for our trip: Hazardous goods restrictions applied during the trip, and the list used
-for the route calculation provided using <a href="../transport/VehicleSpecification/hazardousMaterials.html">/sdk-for-flutter-explore-transport-vehiclespecification-hazardousmaterials</a> from
-<a href="../transport/TransportSpecification/vehicleSpecification.html">/sdk-for-flutter-explore-transport-transportspecification-vehiclespecification</a> from <a href="../routing/RoutingOptions/transportSpecification.html">/sdk-for-flutter-explore-routing-routingoptions-transportspecification</a>.
+for the route calculation provided using /sdk-for-flutter-explore-transport-vehiclespecification-hazardousmaterials from
+/sdk-for-flutter-explore-transport-transportspecification-vehiclespecification from /sdk-for-flutter-explore-routing-routingoptions-transportspecification.
 This property is the intersection of the two lists.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="forbiddenTrailerCount">
-<a href="../routing/ViolatedRestrictionDetails/forbiddenTrailerCount.html">/sdk-for-flutter-explore-routing-violatedrestrictiondetails-forbiddentrailercount</a>
-↔ <a href="../core/IntegerRange-class.html">/sdk-for-flutter-explore-core-integerrange-class</a>?
+/sdk-for-flutter-explore-routing-violatedrestrictiondetails-forbiddentrailercount
+↔ /sdk-for-flutter-explore-core-integerrange-class?
 </dt>
 <dd>
   Constrains the restriction to trucks with number of trailer within specified range during the trip.
-This property will be set if the <a href="../transport/VehicleSpecification/trailerCount.html">/sdk-for-flutter-explore-transport-vehiclespecification-trailercount</a>
+This property will be set if the /sdk-for-flutter-explore-transport-vehiclespecification-trailercount
 is within this range.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="forbiddenTruckCategory">
-<a href="../routing/ViolatedRestrictionDetails/forbiddenTruckCategory.html">/sdk-for-flutter-explore-routing-violatedrestrictiondetails-forbiddentruckcategory</a>
-↔ <a href="../transport/TruckCategory.html">/sdk-for-flutter-explore-transport-truckcategory</a>?
+/sdk-for-flutter-explore-routing-violatedrestrictiondetails-forbiddentruckcategory
+↔ /sdk-for-flutter-explore-transport-truckcategory?
 </dt>
 <dd>
-  This property will be set if a restriction applies to the value of <a href="../transport/TruckCategory.html">/sdk-for-flutter-explore-transport-truckcategory</a>
+  This property will be set if a restriction applies to the value of /sdk-for-flutter-explore-transport-truckcategory
 parameter used for route calculation.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="forbiddenTruckRoadTypes">
-<a href="../routing/ViolatedRestrictionDetails/forbiddenTruckRoadTypes.html">/sdk-for-flutter-explore-routing-violatedrestrictiondetails-forbiddentruckroadtypes</a>
-↔ List&lt;<wbr/><a href="../transport/TruckRoadType.html">/sdk-for-flutter-explore-transport-truckroadtype</a>&gt;
+/sdk-for-flutter-explore-routing-violatedrestrictiondetails-forbiddentruckroadtypes
+↔ List&lt;<wbr/>/sdk-for-flutter-explore-transport-truckroadtype&gt;
 </dt>
 <dd>
   Contains violated restrictions for truck road types.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="forbiddenTruckType">
-<a class="deprecated" href="../routing/ViolatedRestrictionDetails/forbiddenTruckType.html">/sdk-for-flutter-explore-routing-violatedrestrictiondetails-forbiddentrucktype</a>
-↔ <a class="deprecated" href="../transport/TruckType.html">/sdk-for-flutter-explore-transport-trucktype</a>?
+/sdk-for-flutter-explore-routing-violatedrestrictiondetails-forbiddentrucktype
+↔ /sdk-for-flutter-explore-transport-trucktype?
 </dt>
 <dd>
-  This property will be set if a restriction applies to the value of <a class="deprecated" href="../transport/TruckType.html">/sdk-for-flutter-explore-transport-trucktype</a>
+  This property will be set if a restriction applies to the value of /sdk-for-flutter-explore-transport-trucktype
 parameter used for route calculation.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-<a href="../routing/ViolatedRestrictionDetails/hashCode.html">/sdk-for-flutter-explore-routing-violatedrestrictiondetails-hashcode</a>
+/sdk-for-flutter-explore-routing-violatedrestrictiondetails-hashcode
 → int
 </dt>
 <dd>
@@ -150,117 +151,117 @@ parameter used for route calculation.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="maxHeightInCentimeters">
-<a href="../routing/ViolatedRestrictionDetails/maxHeightInCentimeters.html">/sdk-for-flutter-explore-routing-violatedrestrictiondetails-maxheightincentimeters</a>
+/sdk-for-flutter-explore-routing-violatedrestrictiondetails-maxheightincentimeters
 ↔ int?
 </dt>
 <dd>
   Max permitted height during the trip, in centimeters.
-This property will be set if the <a href="../transport/VehicleSpecification/heightInCentimeters.html">/sdk-for-flutter-explore-transport-vehiclespecification-heightincentimeters</a>
+This property will be set if the /sdk-for-flutter-explore-transport-vehiclespecification-heightincentimeters
 exceeds this value.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="maxKingpinToRearAxleDistanceInCentimeters">
-<a href="../routing/ViolatedRestrictionDetails/maxKingpinToRearAxleDistanceInCentimeters.html">/sdk-for-flutter-explore-routing-violatedrestrictiondetails-maxkingpintorearaxledistanceincentimeters</a>
+/sdk-for-flutter-explore-routing-violatedrestrictiondetails-maxkingpintorearaxledistanceincentimeters
 ↔ int?
 </dt>
 <dd>
   Contains the maximum permitted distance from kingpin to the rear axle in centimeters.
 This property will be set if the
-<a href="../transport/VehicleSpecification/kingpinToRearAxleDistanceInCentimeters.html">/sdk-for-flutter-explore-transport-vehiclespecification-kingpintorearaxledistanceincentimeters</a>
+/sdk-for-flutter-explore-transport-vehiclespecification-kingpintorearaxledistanceincentimeters
 exceeds the specified value.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="maxLengthInCentimeters">
-<a href="../routing/ViolatedRestrictionDetails/maxLengthInCentimeters.html">/sdk-for-flutter-explore-routing-violatedrestrictiondetails-maxlengthincentimeters</a>
+/sdk-for-flutter-explore-routing-violatedrestrictiondetails-maxlengthincentimeters
 ↔ int?
 </dt>
 <dd>
   Max permitted length during the trip, in centimeters.
-This property will be set if the <a href="../transport/VehicleSpecification/lengthInCentimeters.html">/sdk-for-flutter-explore-transport-vehiclespecification-lengthincentimeters</a>
+This property will be set if the /sdk-for-flutter-explore-transport-vehiclespecification-lengthincentimeters
 exceeds this value.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="maxNumberOfTires">
-<a href="../routing/ViolatedRestrictionDetails/maxNumberOfTires.html">/sdk-for-flutter-explore-routing-violatedrestrictiondetails-maxnumberoftires</a>
+/sdk-for-flutter-explore-routing-violatedrestrictiondetails-maxnumberoftires
 ↔ int?
 </dt>
 <dd>
   Contains the maximum permitted number of tires.
-This property will be set if the <a href="../transport/VehicleSpecification/tiresCount.html">/sdk-for-flutter-explore-transport-vehiclespecification-tirescount</a> exceeds the specified value.
+This property will be set if the /sdk-for-flutter-explore-transport-vehiclespecification-tirescount exceeds the specified value.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="maxPayloadCapacityInKilograms">
-<a href="../routing/ViolatedRestrictionDetails/maxPayloadCapacityInKilograms.html">/sdk-for-flutter-explore-routing-violatedrestrictiondetails-maxpayloadcapacityinkilograms</a>
+/sdk-for-flutter-explore-routing-violatedrestrictiondetails-maxpayloadcapacityinkilograms
 ↔ int?
 </dt>
 <dd>
   Max permitted payload capacity during the trip, in kilograms.
-This property will be set if the <a href="../transport/VehicleSpecification/payloadCapacityInKilograms.html">/sdk-for-flutter-explore-transport-vehiclespecification-payloadcapacityinkilograms</a>
+This property will be set if the /sdk-for-flutter-explore-transport-vehiclespecification-payloadcapacityinkilograms
 exceeds this value.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="maxTunnelCategory">
-<a href="../routing/ViolatedRestrictionDetails/maxTunnelCategory.html">/sdk-for-flutter-explore-routing-violatedrestrictiondetails-maxtunnelcategory</a>
-↔ <a href="../transport/TunnelCategory.html">/sdk-for-flutter-explore-transport-tunnelcategory</a>?
+/sdk-for-flutter-explore-routing-violatedrestrictiondetails-maxtunnelcategory
+↔ /sdk-for-flutter-explore-transport-tunnelcategory?
 </dt>
 <dd>
   Tunnel category to restrict transport of specific goods during the trip.
-This property will be set if the <a href="../transport/VehicleSpecification/tunnelCategory.html">/sdk-for-flutter-explore-transport-vehiclespecification-tunnelcategory</a> from
-<a href="../transport/TransportSpecification/vehicleSpecification.html">/sdk-for-flutter-explore-transport-transportspecification-vehiclespecification</a> from <a href="../routing/RoutingOptions/transportSpecification.html">/sdk-for-flutter-explore-routing-routingoptions-transportspecification</a>
+This property will be set if the /sdk-for-flutter-explore-transport-vehiclespecification-tunnelcategory from
+/sdk-for-flutter-explore-transport-transportspecification-vehiclespecification from /sdk-for-flutter-explore-routing-routingoptions-transportspecification
 exceeds this value.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="maxWeight">
-<a href="../routing/ViolatedRestrictionDetails/maxWeight.html">/sdk-for-flutter-explore-routing-violatedrestrictiondetails-maxweight</a>
-↔ <a href="../routing/VehicleRestrictionMaxWeight-class.html">/sdk-for-flutter-explore-routing-vehiclerestrictionmaxweight-class</a>?
+/sdk-for-flutter-explore-routing-violatedrestrictiondetails-maxweight
+↔ /sdk-for-flutter-explore-routing-vehiclerestrictionmaxweight-class?
 </dt>
 <dd>
   Max permitted weight during the trip, in kilograms, along with the specific type of maximum permitted weight restriction.
-This property will be set if the <a href="../transport/VehicleSpecification/grossWeightInKilograms.html">/sdk-for-flutter-explore-transport-vehiclespecification-grossweightinkilograms</a>
+This property will be set if the /sdk-for-flutter-explore-transport-vehiclespecification-grossweightinkilograms
 parameter used for route calculation exceeds this value.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="maxWeightPerAxleGroupInKilograms">
-<a href="../routing/ViolatedRestrictionDetails/maxWeightPerAxleGroupInKilograms.html">/sdk-for-flutter-explore-routing-violatedrestrictiondetails-maxweightperaxlegroupinkilograms</a>
-↔ <a href="../routing/MaxAxleGroupWeight-class.html">/sdk-for-flutter-explore-routing-maxaxlegroupweight-class</a>?
+/sdk-for-flutter-explore-routing-violatedrestrictiondetails-maxweightperaxlegroupinkilograms
+↔ /sdk-for-flutter-explore-routing-maxaxlegroupweight-class?
 </dt>
 <dd>
   Max permitted weight per axle group during the trip, in kilograms.
-This property will be set if the <a href="../transport/VehicleSpecification/weightPerAxleGroup.html">/sdk-for-flutter-explore-transport-vehiclespecification-weightperaxlegroup</a>
+This property will be set if the /sdk-for-flutter-explore-transport-vehiclespecification-weightperaxlegroup
 exceeds this value.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="maxWeightPerAxleInKilograms">
-<a href="../routing/ViolatedRestrictionDetails/maxWeightPerAxleInKilograms.html">/sdk-for-flutter-explore-routing-violatedrestrictiondetails-maxweightperaxleinkilograms</a>
+/sdk-for-flutter-explore-routing-violatedrestrictiondetails-maxweightperaxleinkilograms
 ↔ int?
 </dt>
 <dd>
   Max permitted weight per axle during the trip, in kilograms.
-This property will be set if the <a href="../transport/VehicleSpecification/weightPerAxleInKilograms.html">/sdk-for-flutter-explore-transport-vehiclespecification-weightperaxleinkilograms</a>
+This property will be set if the /sdk-for-flutter-explore-transport-vehiclespecification-weightperaxleinkilograms
 exceeds this value.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="maxWidthInCentimeters">
-<a href="../routing/ViolatedRestrictionDetails/maxWidthInCentimeters.html">/sdk-for-flutter-explore-routing-violatedrestrictiondetails-maxwidthincentimeters</a>
+/sdk-for-flutter-explore-routing-violatedrestrictiondetails-maxwidthincentimeters
 ↔ int?
 </dt>
 <dd>
   Max permitted width during the trip, in centimeters.
-This property will be set if the <a href="../transport/VehicleSpecification/widthInCentimeters.html">/sdk-for-flutter-explore-transport-vehiclespecification-widthincentimeters</a>
+This property will be set if the /sdk-for-flutter-explore-transport-vehiclespecification-widthincentimeters
 exceeds this value.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="routingZoneReference">
-<a href="../routing/ViolatedRestrictionDetails/routingZoneReference.html">/sdk-for-flutter-explore-routing-violatedrestrictiondetails-routingzonereference</a>
+/sdk-for-flutter-explore-routing-violatedrestrictiondetails-routingzonereference
 ↔ String?
 </dt>
 <dd>
   Contains the restricted routing zone reference
-This property will be set if the <a href="../routing/AvoidanceOptions/zoneCategories.html">/sdk-for-flutter-explore-routing-avoidanceoptions-zonecategories</a> is not empty
+This property will be set if the /sdk-for-flutter-explore-routing-avoidanceoptions-zonecategories is not empty
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../routing/ViolatedRestrictionDetails/runtimeType.html">/sdk-for-flutter-explore-routing-violatedrestrictiondetails-runtimetype</a>
+/sdk-for-flutter-explore-routing-violatedrestrictiondetails-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -268,8 +269,8 @@ This property will be set if the <a href="../routing/AvoidanceOptions/zoneCatego
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="timeRule">
-<a href="../routing/ViolatedRestrictionDetails/timeRule.html">/sdk-for-flutter-explore-routing-violatedrestrictiondetails-timerule</a>
-↔ <a href="../core/TimeRule-class.html">/sdk-for-flutter-explore-core-timerule-class</a>?
+/sdk-for-flutter-explore-routing-violatedrestrictiondetails-timerule
+↔ /sdk-for-flutter-explore-core-timerule-class?
 </dt>
 <dd>
   Time intervals during which restrictions are enforced.
@@ -281,7 +282,7 @@ This property will be set if the <a href="../routing/AvoidanceOptions/zoneCatego
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../routing/ViolatedRestrictionDetails/noSuchMethod.html">/sdk-for-flutter-explore-routing-violatedrestrictiondetails-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-routing-violatedrestrictiondetails-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -290,7 +291,7 @@ This property will be set if the <a href="../routing/AvoidanceOptions/zoneCatego
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../routing/ViolatedRestrictionDetails/toString.html">/sdk-for-flutter-explore-routing-violatedrestrictiondetails-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-routing-violatedrestrictiondetails-tostring(<wbr/>)
     → String
 
 </dt>
@@ -304,7 +305,7 @@ This property will be set if the <a href="../routing/AvoidanceOptions/zoneCatego
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-<a href="../routing/ViolatedRestrictionDetails/operator_equals.html">/sdk-for-flutter-explore-routing-violatedrestrictiondetails-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-routing-violatedrestrictiondetails-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -323,8 +324,8 @@ This property will be set if the <a href="../routing/AvoidanceOptions/zoneCatego
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
 <li class="self-crumb">ViolatedRestrictionDetails class</li>
 </ol>
 <h5>routing library</h5>
@@ -341,4 +342,5 @@ This property will be set if the <a href="../routing/AvoidanceOptions/zoneCatego
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

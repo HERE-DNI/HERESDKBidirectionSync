@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "size property"
 slug: "sdk-for-flutter-explore-core-rectangle2d-size"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- size.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-core-rectangle2d-size"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
-<li><a href="../../core/Rectangle2D-class.html">/sdk-for-flutter-explore-core-rectangle2d-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
+<li>/sdk-for-flutter-explore-core-rectangle2d-class</li>
 <li class="self-crumb">size property</li>
 </ol>
 <div class="self-name">size</div>
@@ -37,7 +38,7 @@ menu
 <div>
 <h1>size property</h1></div>
 <section class="multi-line-signature">
-<a href="../../core/Size2D-class.html">/sdk-for-flutter-explore-core-size2d-class</a>
+/sdk-for-flutter-explore-core-size2d-class
 size
 <div class="features">getter/setter pair</div>
 </section>
@@ -56,9 +57,9 @@ size
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
-<li><a href="../../core/Rectangle2D-class.html">/sdk-for-flutter-explore-core-rectangle2d-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
+<li>/sdk-for-flutter-explore-core-rectangle2d-class</li>
 <li class="self-crumb">size property</li>
 </ol>
 <h5>Rectangle2D class</h5>
@@ -75,4 +76,5 @@ size
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

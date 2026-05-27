@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "setTrafficRefreshPeriod static method"
 slug: "sdk-for-flutter-explore-mapview-mapcontentsettings-settrafficrefreshperiod"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- setTrafficRefreshPeriod.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-mapcontentsettings-settrafficrefreshperio
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapContentSettings-class.html">/sdk-for-flutter-explore-mapview-mapcontentsettings-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapcontentsettings-class</li>
 <li class="self-crumb">setTrafficRefreshPeriod static method</li>
 </ol>
 <div class="self-name">setTrafficRefreshPeriod</div>
@@ -45,8 +46,8 @@ setTrafficRefreshPeriod(<wbr/><ol class="parameter-list single-line"> <li>Durati
 
     </section>
 <section class="desc markdown">
-<p>Sets the traffic data refresh period for both <a href="../../mapview/MapFeatures/trafficFlow.html">/sdk-for-flutter-explore-mapview-mapfeatures-trafficflow</a> and
-<a href="../../mapview/MapFeatures/trafficIncidents.html">/sdk-for-flutter-explore-mapview-mapfeatures-trafficincidents</a>.</p>
+<p>Sets the traffic data refresh period for both /sdk-for-flutter-explore-mapview-mapfeatures-trafficflow and
+/sdk-for-flutter-explore-mapview-mapfeatures-trafficincidents.</p>
 <p>By default, the traffic information
 validity time and the refresh period is derived from the refresh period of HERE's traffic server.
 The period set by this function will override the server's default setting for
@@ -64,7 +65,7 @@ regardless of the set refresh period. For example, during turn-by-turn navigatio
 frequent viewport changes can result in missing traffic data, causing new requests
 to be made more often.</li>
 </ul>
-<p>Throws <a href="../../mapview/MapContentSettingsTrafficRefreshPeriodExceptionException-class.html">/sdk-for-flutter-explore-mapview-mapcontentsettingstrafficrefreshperiodexceptionexception-class</a>. <a href="../../mapview/MapContentSettingsTrafficRefreshPeriodExceptionException-class.html">/sdk-for-flutter-explore-mapview-mapcontentsettingstrafficrefreshperiodexceptionexception-class</a> indicates what went wrong.</p>
+<p>Throws /sdk-for-flutter-explore-mapview-mapcontentsettingstrafficrefreshperiodexceptionexception-class. /sdk-for-flutter-explore-mapview-mapcontentsettingstrafficrefreshperiodexceptionexception-class indicates what went wrong.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -78,9 +79,9 @@ to be made more often.</li>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapContentSettings-class.html">/sdk-for-flutter-explore-mapview-mapcontentsettings-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapcontentsettings-class</li>
 <li class="self-crumb">setTrafficRefreshPeriod static method</li>
 </ol>
 <h5>MapContentSettings class</h5>
@@ -97,4 +98,5 @@ to be made more often.</li>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

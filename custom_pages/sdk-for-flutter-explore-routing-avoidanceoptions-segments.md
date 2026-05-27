@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "segments property"
 slug: "sdk-for-flutter-explore-routing-avoidanceoptions-segments"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- segments.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-routing-avoidanceoptions-segments"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/AvoidanceOptions-class.html">/sdk-for-flutter-explore-routing-avoidanceoptions-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-avoidanceoptions-class</li>
 <li class="self-crumb">segments property</li>
 </ol>
 <div class="self-name">segments</div>
@@ -38,13 +39,13 @@ menu
 <h1>segments property</h1></div>
 <section class="multi-line-signature">
         
-        List&lt;<wbr/><a href="../../routing/SegmentReference-class.html">/sdk-for-flutter-explore-routing-segmentreference-class</a>&gt;
+        List&lt;<wbr/>/sdk-for-flutter-explore-routing-segmentreference-class&gt;
 segments
 <div class="features">getter/setter pair</div>
 </section>
 <section class="desc markdown">
 <p>Segments that routes will avoid going through.
-Violations are reported as <a href="../../routing/SectionNoticeCode.html">/sdk-for-flutter-explore-routing-sectionnoticecode</a>.</p>
+Violations are reported as /sdk-for-flutter-explore-routing-sectionnoticecode.</p>
 <p><strong>Notes:</strong></p>
 <ul>
 <li>This avoidance option is not supported in <code>IsolineOptions</code> for isoline calculation.</li>
@@ -66,9 +67,9 @@ on the backend and it is therefore not guaranteed to be stable.</li>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/AvoidanceOptions-class.html">/sdk-for-flutter-explore-routing-avoidanceoptions-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-avoidanceoptions-class</li>
 <li class="self-crumb">segments property</li>
 </ol>
 <h5>AvoidanceOptions class</h5>
@@ -85,4 +86,5 @@ on the backend and it is therefore not guaranteed to be stable.</li>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

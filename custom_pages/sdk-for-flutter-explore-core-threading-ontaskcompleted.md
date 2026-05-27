@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "OnTaskCompleted typedef"
 slug: "sdk-for-flutter-explore-core-threading-ontaskcompleted"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- OnTaskCompleted.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,8 +12,8 @@ slug: "sdk-for-flutter-explore-core-threading-ontaskcompleted"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../core.threading/core.threading-library.html">/sdk-for-flutter-explore-core-threading-core-threading-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-threading-core-threading-library</li>
 <li class="self-crumb">OnTaskCompleted typedef</li>
 </ol>
 <div class="self-name">OnTaskCompleted</div>
@@ -37,7 +38,7 @@ menu
 <h1>OnTaskCompleted typedef</h1></div>
 <section class="multi-line-signature">
 OnTaskCompleted =
-     void Function(<a href="../core.threading/TaskOutcome.html">/sdk-for-flutter-explore-core-threading-taskoutcome</a> taskOutcome)
+     void Function(/sdk-for-flutter-explore-core-threading-taskoutcome taskOutcome)
 </section>
 <section class="desc markdown">
 <p>The method will be called on the main thread when a task call has been completed.</p>
@@ -57,8 +58,8 @@ OnTaskCompleted =
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../core.threading/core.threading-library.html">/sdk-for-flutter-explore-core-threading-core-threading-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-threading-core-threading-library</li>
 <li class="self-crumb">OnTaskCompleted typedef</li>
 </ol>
 <h5>core.threading library</h5>
@@ -75,4 +76,5 @@ OnTaskCompleted =
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

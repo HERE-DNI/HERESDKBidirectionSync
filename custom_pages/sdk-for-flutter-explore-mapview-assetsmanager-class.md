@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "AssetsManager class abstract"
 slug: "sdk-for-flutter-explore-mapview-assetsmanager-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- AssetsManager-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -26,8 +27,8 @@ slug: "sdk-for-flutter-explore-mapview-assetsmanager-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
 <li class="self-crumb">AssetsManager class</li>
 </ol>
 <div class="self-name">AssetsManager</div>
@@ -60,7 +61,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="AssetsManager">
-<a href="../mapview/AssetsManager/AssetsManager.html">/sdk-for-flutter-explore-mapview-assetsmanager-assetsmanager</a>(<a href="../mapview/MapContext-class.html">/sdk-for-flutter-explore-mapview-mapcontext-class</a> context)
+/sdk-for-flutter-explore-mapview-assetsmanager-assetsmanager(/sdk-for-flutter-explore-mapview-mapcontext-class context)
 </dt>
 <dd>
           Creates an instance of AssetsManager.
@@ -72,7 +73,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="hashCode">
-<a href="../mapview/AssetsManager/hashCode.html">/sdk-for-flutter-explore-mapview-assetsmanager-hashcode</a>
+/sdk-for-flutter-explore-mapview-assetsmanager-hashcode
 → int
 </dt>
 <dd class="inherited">
@@ -80,7 +81,7 @@ behavior. Related APIs may change for new releases without a deprecation process
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../mapview/AssetsManager/runtimeType.html">/sdk-for-flutter-explore-mapview-assetsmanager-runtimetype</a>
+/sdk-for-flutter-explore-mapview-assetsmanager-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -93,7 +94,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../mapview/AssetsManager/noSuchMethod.html">/sdk-for-flutter-explore-mapview-assetsmanager-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-mapview-assetsmanager-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -102,7 +103,7 @@ behavior. Related APIs may change for new releases without a deprecation process
   <div class="features">inherited</div>
 </dd>
 <dt class="callable" id="registerFont">
-<a href="../mapview/AssetsManager/registerFont.html">/sdk-for-flutter-explore-mapview-assetsmanager-registerfont</a>(<wbr/>String fontName, String fontPath)
+/sdk-for-flutter-explore-mapview-assetsmanager-registerfont(<wbr/>String fontName, String fontPath)
     → void
 
 </dt>
@@ -112,7 +113,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 
 </dd>
 <dt class="callable" id="registerFontWithFallback">
-<a href="../mapview/AssetsManager/registerFontWithFallback.html">/sdk-for-flutter-explore-mapview-assetsmanager-registerfontwithfallback</a>(<wbr/>String fontName, String fontPath, List&lt;<wbr/>String&gt; fallbackFontFilePaths)
+/sdk-for-flutter-explore-mapview-assetsmanager-registerfontwithfallback(<wbr/>String fontName, String fontPath, List&lt;<wbr/>String&gt; fallbackFontFilePaths)
     → void
 
 </dt>
@@ -122,7 +123,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../mapview/AssetsManager/toString.html">/sdk-for-flutter-explore-mapview-assetsmanager-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-mapview-assetsmanager-tostring(<wbr/>)
     → String
 
 </dt>
@@ -136,7 +137,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-<a href="../mapview/AssetsManager/operator_equals.html">/sdk-for-flutter-explore-mapview-assetsmanager-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-mapview-assetsmanager-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -154,8 +155,8 @@ behavior. Related APIs may change for new releases without a deprecation process
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
 <li class="self-crumb">AssetsManager class</li>
 </ol>
 <h5>mapview library</h5>
@@ -172,4 +173,5 @@ behavior. Related APIs may change for new releases without a deprecation process
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "VehicleProfile constructor"
 slug: "sdk-for-flutter-explore-transport-vehicleprofile-vehicleprofile"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- VehicleProfile.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-transport-vehicleprofile-vehicleprofile"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
-<li><a href="../../transport/VehicleProfile-class.html">/sdk-for-flutter-explore-transport-vehicleprofile-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-transport-transport-library</li>
+<li>/sdk-for-flutter-explore-transport-vehicleprofile-class</li>
 <li class="self-crumb">VehicleProfile constructor</li>
 </ol>
 <div class="self-name">VehicleProfile</div>
@@ -37,7 +38,7 @@ menu
 <div>
 <h1>VehicleProfile constructor</h1></div>
 <section class="multi-line-signature">
-VehicleProfile(<wbr/><ol class="parameter-list single-line"> <li><a class="deprecated" href="../../transport/VehicleType.html">/sdk-for-flutter-explore-transport-vehicletype</a> vehicleType</li>
+VehicleProfile(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-transport-vehicletype vehicleType</li>
 </ol>)
     </section>
 <section class="desc markdown">
@@ -59,9 +60,9 @@ VehicleProfile(<wbr/><ol class="parameter-list single-line"> <li><a class="depre
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
-<li><a href="../../transport/VehicleProfile-class.html">/sdk-for-flutter-explore-transport-vehicleprofile-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-transport-transport-library</li>
+<li>/sdk-for-flutter-explore-transport-vehicleprofile-class</li>
 <li class="self-crumb">VehicleProfile constructor</li>
 </ol>
 <h5>VehicleProfile class</h5>
@@ -78,4 +79,5 @@ VehicleProfile(<wbr/><ol class="parameter-list single-line"> <li><a class="depre
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

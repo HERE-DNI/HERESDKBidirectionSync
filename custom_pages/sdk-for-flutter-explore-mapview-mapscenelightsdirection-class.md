@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "MapSceneLightsDirection class"
 slug: "sdk-for-flutter-explore-mapview-mapscenelightsdirection-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- MapSceneLightsDirection-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -27,8 +28,8 @@ slug: "sdk-for-flutter-explore-mapview-mapscenelightsdirection-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
 <li class="self-crumb">MapSceneLightsDirection class</li>
 </ol>
 <div class="self-name">MapSceneLightsDirection</div>
@@ -59,13 +60,13 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="MapSceneLightsDirection">
-<a href="../mapview/MapSceneLightsDirection/MapSceneLightsDirection.html">/sdk-for-flutter-explore-mapview-mapscenelightsdirection-mapscenelightsdirection</a>(double azimuth, double altitude)
+/sdk-for-flutter-explore-mapview-mapscenelightsdirection-mapscenelightsdirection(double azimuth, double altitude)
 </dt>
 <dd>
           Constructs a Direction from the values.
         </dd>
 <dt class="callable" id="MapSceneLightsDirection.zero">
-<a href="../mapview/MapSceneLightsDirection/MapSceneLightsDirection.zero.html">/sdk-for-flutter-explore-mapview-mapscenelightsdirection-mapscenelightsdirection-zero</a>()
+/sdk-for-flutter-explore-mapview-mapscenelightsdirection-mapscenelightsdirection-zero()
 </dt>
 <dd>
           Constructs a Direction with default values: azimuth = 0.0, altitude = 0.0.
@@ -76,7 +77,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="altitude">
-<a href="../mapview/MapSceneLightsDirection/altitude.html">/sdk-for-flutter-explore-mapview-mapscenelightsdirection-altitude</a>
+/sdk-for-flutter-explore-mapview-mapscenelightsdirection-altitude
 ↔ double
 </dt>
 <dd>
@@ -92,7 +93,7 @@ For instance, (0, -10) is changed to (0, 0) rather than (180, 10).
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="azimuth">
-<a href="../mapview/MapSceneLightsDirection/azimuth.html">/sdk-for-flutter-explore-mapview-mapscenelightsdirection-azimuth</a>
+/sdk-for-flutter-explore-mapview-mapscenelightsdirection-azimuth
 ↔ double
 </dt>
 <dd>
@@ -107,7 +108,7 @@ Thus, 90 degrees corresponds to East, 180 degrees to South, and 270 degrees to W
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-<a href="../mapview/MapSceneLightsDirection/hashCode.html">/sdk-for-flutter-explore-mapview-mapscenelightsdirection-hashcode</a>
+/sdk-for-flutter-explore-mapview-mapscenelightsdirection-hashcode
 → int
 </dt>
 <dd>
@@ -115,7 +116,7 @@ Thus, 90 degrees corresponds to East, 180 degrees to South, and 270 degrees to W
   <div class="features">no setter</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../mapview/MapSceneLightsDirection/runtimeType.html">/sdk-for-flutter-explore-mapview-mapscenelightsdirection-runtimetype</a>
+/sdk-for-flutter-explore-mapview-mapscenelightsdirection-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -128,7 +129,7 @@ Thus, 90 degrees corresponds to East, 180 degrees to South, and 270 degrees to W
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../mapview/MapSceneLightsDirection/noSuchMethod.html">/sdk-for-flutter-explore-mapview-mapscenelightsdirection-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-mapview-mapscenelightsdirection-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -137,7 +138,7 @@ Thus, 90 degrees corresponds to East, 180 degrees to South, and 270 degrees to W
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../mapview/MapSceneLightsDirection/toString.html">/sdk-for-flutter-explore-mapview-mapscenelightsdirection-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-mapview-mapscenelightsdirection-tostring(<wbr/>)
     → String
 
 </dt>
@@ -151,7 +152,7 @@ Thus, 90 degrees corresponds to East, 180 degrees to South, and 270 degrees to W
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-<a href="../mapview/MapSceneLightsDirection/operator_equals.html">/sdk-for-flutter-explore-mapview-mapscenelightsdirection-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-mapview-mapscenelightsdirection-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -170,8 +171,8 @@ Thus, 90 degrees corresponds to East, 180 degrees to South, and 270 degrees to W
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
 <li class="self-crumb">MapSceneLightsDirection class</li>
 </ol>
 <h5>mapview library</h5>
@@ -188,4 +189,5 @@ Thus, 90 degrees corresponds to East, 180 degrees to South, and 270 degrees to W
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "getGeoCoordinates abstract method"
 slug: "sdk-for-flutter-explore-core-metadata-getgeocoordinates"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- getGeoCoordinates.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-core-metadata-getgeocoordinates"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
-<li><a href="../../core/Metadata-class.html">/sdk-for-flutter-explore-core-metadata-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
+<li>/sdk-for-flutter-explore-core-metadata-class</li>
 <li class="self-crumb">getGeoCoordinates abstract method</li>
 </ol>
 <div class="self-name">getGeoCoordinates</div>
@@ -37,7 +38,7 @@ menu
 <div>
 <h1>getGeoCoordinates abstract method</h1></div>
 <section class="multi-line-signature">
-<a href="../../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>?
+/sdk-for-flutter-explore-core-geocoordinates-class?
 getGeoCoordinates(<wbr/><ol class="parameter-list single-line"> <li>String key</li>
 </ol>)
 
@@ -49,7 +50,7 @@ getGeoCoordinates(<wbr/><ol class="parameter-list single-line"> <li>String key</
 <ul>
 <li><code>key</code> The name of the key for which to obtain the value.</li>
 </ul>
-<p>Returns <a href="../../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>. The value associated with the key.</p>
+<p>Returns /sdk-for-flutter-explore-core-geocoordinates-class. The value associated with the key.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -63,9 +64,9 @@ getGeoCoordinates(<wbr/><ol class="parameter-list single-line"> <li>String key</
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
-<li><a href="../../core/Metadata-class.html">/sdk-for-flutter-explore-core-metadata-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
+<li>/sdk-for-flutter-explore-core-metadata-class</li>
 <li class="self-crumb">getGeoCoordinates abstract method</li>
 </ol>
 <h5>Metadata class</h5>
@@ -82,4 +83,5 @@ getGeoCoordinates(<wbr/><ol class="parameter-list single-line"> <li>String key</
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

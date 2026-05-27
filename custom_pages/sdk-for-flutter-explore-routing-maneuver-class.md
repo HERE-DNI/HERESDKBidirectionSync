@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "Maneuver class abstract"
 slug: "sdk-for-flutter-explore-routing-maneuver-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- Maneuver-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -40,8 +41,8 @@ slug: "sdk-for-flutter-explore-routing-maneuver-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
 <li class="self-crumb">Maneuver class</li>
 </ol>
 <div class="self-name">Maneuver</div>
@@ -67,14 +68,14 @@ menu
 <section class="desc markdown">
 <p>This class provides all the information for a maneuver.</p>
 <p>The directional information (e.g. road names, road
-numbers and signpost direction) is stored in <a href="../routing/Maneuver/roadTexts.html">/sdk-for-flutter-explore-routing-maneuver-roadtexts</a> and <a href="../routing/Maneuver/nextRoadTexts.html">/sdk-for-flutter-explore-routing-maneuver-nextroadtexts</a> attributes.
-As for the motorway exit information, it can be obtained from <a href="../routing/Maneuver/exitSignTexts.html">/sdk-for-flutter-explore-routing-maneuver-exitsigntexts</a> attribute.</p>
+numbers and signpost direction) is stored in /sdk-for-flutter-explore-routing-maneuver-roadtexts and /sdk-for-flutter-explore-routing-maneuver-nextroadtexts attributes.
+As for the motorway exit information, it can be obtained from /sdk-for-flutter-explore-routing-maneuver-exitsigntexts attribute.</p>
 </section>
 <section class="summary offset-anchor" id="constructors">
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="Maneuver">
-<a href="../routing/Maneuver/Maneuver.html">/sdk-for-flutter-explore-routing-maneuver-maneuver</a>()
+/sdk-for-flutter-explore-routing-maneuver-maneuver()
 </dt>
 <dd>
 </dd>
@@ -84,8 +85,8 @@ As for the motorway exit information, it can be obtained from <a href="../routin
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="action">
-<a href="../routing/Maneuver/action.html">/sdk-for-flutter-explore-routing-maneuver-action</a>
-→ <a href="../routing/ManeuverAction.html">/sdk-for-flutter-explore-routing-maneuveraction</a>
+/sdk-for-flutter-explore-routing-maneuver-action
+→ /sdk-for-flutter-explore-routing-maneuveraction
 </dt>
 <dd>
   Indicates the maneuver action.
@@ -93,8 +94,8 @@ Gets the maneuver action.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="coordinates">
-<a href="../routing/Maneuver/coordinates.html">/sdk-for-flutter-explore-routing-maneuver-coordinates</a>
-→ <a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>
+/sdk-for-flutter-explore-routing-maneuver-coordinates
+→ /sdk-for-flutter-explore-core-geocoordinates-class
 </dt>
 <dd>
   Geographic coordinates where the maneuver is located.
@@ -102,7 +103,7 @@ Gets the geographic coordinates where the maneuver is located.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="countryCode">
-<a href="../routing/Maneuver/countryCode.html">/sdk-for-flutter-explore-routing-maneuver-countrycode</a>
+/sdk-for-flutter-explore-routing-maneuver-countrycode
 → String?
 </dt>
 <dd>
@@ -111,7 +112,7 @@ Gets the country code of the maneuver position. The value is <code>null</code> w
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="duration">
-<a href="../routing/Maneuver/duration.html">/sdk-for-flutter-explore-routing-maneuver-duration</a>
+/sdk-for-flutter-explore-routing-maneuver-duration
 → Duration
 </dt>
 <dd>
@@ -120,8 +121,8 @@ Gets the estimated time in seconds needed to perform the maneuver.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="exitSignTexts">
-<a href="../routing/Maneuver/exitSignTexts.html">/sdk-for-flutter-explore-routing-maneuver-exitsigntexts</a>
-→ <a href="../core/LocalizedTexts-class.html">/sdk-for-flutter-explore-core-localizedtexts-class</a>
+/sdk-for-flutter-explore-routing-maneuver-exitsigntexts
+→ /sdk-for-flutter-explore-core-localizedtexts-class
 </dt>
 <dd>
   The textual attributes of the exit sign. These might contain exit number(s) and/or name(s).
@@ -131,7 +132,7 @@ Gets the textual attributes of the exit sign. These might contain exit number(s)
   <div class="features">no setter</div>
 </dd>
 <dt class="property inherited" id="hashCode">
-<a href="../routing/Maneuver/hashCode.html">/sdk-for-flutter-explore-routing-maneuver-hashcode</a>
+/sdk-for-flutter-explore-routing-maneuver-hashcode
 → int
 </dt>
 <dd class="inherited">
@@ -139,8 +140,8 @@ Gets the textual attributes of the exit sign. These might contain exit number(s)
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="intersectionNames">
-<a href="../routing/Maneuver/intersectionNames.html">/sdk-for-flutter-explore-routing-maneuver-intersectionnames</a>
-→ <a href="../core/LocalizedTexts-class.html">/sdk-for-flutter-explore-core-localizedtexts-class</a>
+/sdk-for-flutter-explore-routing-maneuver-intersectionnames
+→ /sdk-for-flutter-explore-core-localizedtexts-class
 </dt>
 <dd>
   The textual attributes of the intersection.
@@ -151,7 +152,7 @@ Gets the textual attributes of the intersection.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="lengthInMeters">
-<a href="../routing/Maneuver/lengthInMeters.html">/sdk-for-flutter-explore-routing-maneuver-lengthinmeters</a>
+/sdk-for-flutter-explore-routing-maneuver-lengthinmeters
 → int
 </dt>
 <dd>
@@ -160,8 +161,8 @@ Gets the length of the maneuver in meters.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="nextRoadTexts">
-<a href="../routing/Maneuver/nextRoadTexts.html">/sdk-for-flutter-explore-routing-maneuver-nextroadtexts</a>
-→ <a href="../routing/RoadTexts-class.html">/sdk-for-flutter-explore-routing-roadtexts-class</a>
+/sdk-for-flutter-explore-routing-maneuver-nextroadtexts
+→ /sdk-for-flutter-explore-routing-roadtexts-class
 </dt>
 <dd>
   The textual attributes of the next road containing the corresponding road name(s) and road number(s) after the maneuver point.
@@ -171,17 +172,17 @@ Gets the textual attributes of the next road containing the corresponding road n
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="offset">
-<a href="../routing/Maneuver/offset.html">/sdk-for-flutter-explore-routing-maneuver-offset</a>
+/sdk-for-flutter-explore-routing-maneuver-offset
 → int
 </dt>
 <dd>
-  Index over <a href="../routing/Section/geometry.html">/sdk-for-flutter-explore-routing-section-geometry</a> where the maneuver is located.
-Gets the index over <a href="../routing/Section/geometry.html">/sdk-for-flutter-explore-routing-section-geometry</a> where the maneuver is located.
+  Index over /sdk-for-flutter-explore-routing-section-geometry where the maneuver is located.
+Gets the index over /sdk-for-flutter-explore-routing-section-geometry where the maneuver is located.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="roadTexts">
-<a href="../routing/Maneuver/roadTexts.html">/sdk-for-flutter-explore-routing-maneuver-roadtexts</a>
-→ <a href="../routing/RoadTexts-class.html">/sdk-for-flutter-explore-routing-roadtexts-class</a>
+/sdk-for-flutter-explore-routing-maneuver-roadtexts
+→ /sdk-for-flutter-explore-routing-roadtexts-class
 </dt>
 <dd>
   The textual attributes of the current road containing road names, road numbers and signpost direction (towards) information.
@@ -191,7 +192,7 @@ Gets the textual attributes of the current road containing road names, road numb
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="roundaboutAngleInDegrees">
-<a href="../routing/Maneuver/roundaboutAngleInDegrees.html">/sdk-for-flutter-explore-routing-maneuver-roundaboutangleindegrees</a>
+/sdk-for-flutter-explore-routing-maneuver-roundaboutangleindegrees
 → double?
 </dt>
 <dd>
@@ -211,7 +212,7 @@ The angle is estimated between the incoming and outgoing route parts before ente
   <div class="features">no setter</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../routing/Maneuver/runtimeType.html">/sdk-for-flutter-explore-routing-maneuver-runtimetype</a>
+/sdk-for-flutter-explore-routing-maneuver-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -219,50 +220,50 @@ The angle is estimated between the incoming and outgoing route parts before ente
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="sectionIndex">
-<a href="../routing/Maneuver/sectionIndex.html">/sdk-for-flutter-explore-routing-maneuver-sectionindex</a>
+/sdk-for-flutter-explore-routing-maneuver-sectionindex
 → int
 </dt>
 <dd>
-  Index over <a href="../routing/Route/sections.html">/sdk-for-flutter-explore-routing-route-sections</a> indicating the section to which the maneuver belongs to.
-Gets the index over <a href="../routing/Route/sections.html">/sdk-for-flutter-explore-routing-route-sections</a> indicating the section to which the maneuver belongs to.
+  Index over /sdk-for-flutter-explore-routing-route-sections indicating the section to which the maneuver belongs to.
+Gets the index over /sdk-for-flutter-explore-routing-route-sections indicating the section to which the maneuver belongs to.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="signpost">
-<a href="../routing/Maneuver/signpost.html">/sdk-for-flutter-explore-routing-maneuver-signpost</a>
-→ <a href="../routing/Signpost-class.html">/sdk-for-flutter-explore-routing-signpost-class</a>?
+/sdk-for-flutter-explore-routing-maneuver-signpost
+→ /sdk-for-flutter-explore-routing-signpost-class?
 </dt>
 <dd>
-  Gets the <a href="../routing/Signpost-class.html">/sdk-for-flutter-explore-routing-signpost-class</a> object.
-Gets <a href="../routing/Signpost-class.html">/sdk-for-flutter-explore-routing-signpost-class</a> object.
+  Gets the /sdk-for-flutter-explore-routing-signpost-class object.
+Gets /sdk-for-flutter-explore-routing-signpost-class object.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="spanIndex">
-<a href="../routing/Maneuver/spanIndex.html">/sdk-for-flutter-explore-routing-maneuver-spanindex</a>
+/sdk-for-flutter-explore-routing-maneuver-spanindex
 → int
 </dt>
 <dd>
-  Index over <a href="../routing/Section/spans.html">/sdk-for-flutter-explore-routing-section-spans</a> indicating the first span after the maneuver point.
+  Index over /sdk-for-flutter-explore-routing-section-spans indicating the first span after the maneuver point.
 <strong>Note:</strong> The span index for the last maneuvers (those maneuvers with maneuver action set to
-<a href="../routing/ManeuverAction.html">/sdk-for-flutter-explore-routing-maneuveraction</a>) cannot be used, since these maneuvers are placed after the last span of the route and
+/sdk-for-flutter-explore-routing-maneuveraction) cannot be used, since these maneuvers are placed after the last span of the route and
 the span index for them would be greater than the span list size.
-Gets the index over <a href="../routing/Section/spans.html">/sdk-for-flutter-explore-routing-section-spans</a> indicating the first span after the maneuver point.
+Gets the index over /sdk-for-flutter-explore-routing-section-spans indicating the first span after the maneuver point.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="text">
-<a href="../routing/Maneuver/text.html">/sdk-for-flutter-explore-routing-maneuver-text</a>
+/sdk-for-flutter-explore-routing-maneuver-text
 → String
 </dt>
 <dd>
   The maneuver instruction. The text is formatted and localized as specified via
-<a href="../routing/RouteTextOptions-class.html">/sdk-for-flutter-explore-routing-routetextoptions-class</a>.
+/sdk-for-flutter-explore-routing-routetextoptions-class.
 <strong>Note for users of the Navigate license:</strong> This text is meant to be displayed in a preview context, whereas real-time <code>EventTextListener</code> texts are meant to be used
 for spoken voice announcements during a trip.
 Gets the maneuver instruction. The text is formatted and localized as specified via
-<a href="../routing/RouteTextOptions-class.html">/sdk-for-flutter-explore-routing-routetextoptions-class</a>.
+/sdk-for-flutter-explore-routing-routetextoptions-class.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="turnAngleInDegrees">
-<a href="../routing/Maneuver/turnAngleInDegrees.html">/sdk-for-flutter-explore-routing-maneuver-turnangleindegrees</a>
+/sdk-for-flutter-explore-routing-maneuver-turnangleindegrees
 → double?
 </dt>
 <dd>
@@ -281,7 +282,7 @@ Gets the angle of the turn component of the maneuver. The value is in degrees an
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../routing/Maneuver/noSuchMethod.html">/sdk-for-flutter-explore-routing-maneuver-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-routing-maneuver-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -290,7 +291,7 @@ Gets the angle of the turn component of the maneuver. The value is in degrees an
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../routing/Maneuver/toString.html">/sdk-for-flutter-explore-routing-maneuver-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-routing-maneuver-tostring(<wbr/>)
     → String
 
 </dt>
@@ -304,7 +305,7 @@ Gets the angle of the turn component of the maneuver. The value is in degrees an
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-<a href="../routing/Maneuver/operator_equals.html">/sdk-for-flutter-explore-routing-maneuver-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-routing-maneuver-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -322,8 +323,8 @@ Gets the angle of the turn component of the maneuver. The value is in degrees an
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
 <li class="self-crumb">Maneuver class</li>
 </ol>
 <h5>routing library</h5>
@@ -340,4 +341,5 @@ Gets the angle of the turn component of the maneuver. The value is in degrees an
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

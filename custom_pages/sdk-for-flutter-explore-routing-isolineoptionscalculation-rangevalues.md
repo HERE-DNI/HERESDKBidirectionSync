@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "rangeValues property"
 slug: "sdk-for-flutter-explore-routing-isolineoptionscalculation-rangevalues"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- rangeValues.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-routing-isolineoptionscalculation-rangevalues"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/IsolineOptionsCalculation-class.html">/sdk-for-flutter-explore-routing-isolineoptionscalculation-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-isolineoptionscalculation-class</li>
 <li class="self-crumb">rangeValues property</li>
 </ol>
 <div class="self-name">rangeValues</div>
@@ -45,8 +46,8 @@ rangeValues
 <section class="desc markdown">
 <p>A list of ranges. The unit is defined by the type parameter.
 Each range defines the maximum allowed value to reach a destination.
-For each value an <a href="../../routing/Isoline-class.html">/sdk-for-flutter-explore-routing-isoline-class</a> is calculated indicating the reachable area.
-If empty, <a href="../../routing/IsolineOptions-class.html">/sdk-for-flutter-explore-routing-isolineoptions-class</a> object is considered invalid.</p>
+For each value an /sdk-for-flutter-explore-routing-isoline-class is calculated indicating the reachable area.
+If empty, /sdk-for-flutter-explore-routing-isolineoptions-class object is considered invalid.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -60,9 +61,9 @@ If empty, <a href="../../routing/IsolineOptions-class.html">/sdk-for-flutter-exp
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/IsolineOptionsCalculation-class.html">/sdk-for-flutter-explore-routing-isolineoptionscalculation-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-isolineoptionscalculation-class</li>
 <li class="self-crumb">rangeValues property</li>
 </ol>
 <h5>IsolineOptionsCalculation class</h5>
@@ -79,4 +80,5 @@ If empty, <a href="../../routing/IsolineOptions-class.html">/sdk-for-flutter-exp
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

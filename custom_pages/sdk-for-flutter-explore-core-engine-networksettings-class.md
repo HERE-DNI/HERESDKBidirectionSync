@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "NetworkSettings class"
 slug: "sdk-for-flutter-explore-core-engine-networksettings-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- NetworkSettings-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -28,8 +29,8 @@ slug: "sdk-for-flutter-explore-core-engine-networksettings-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
 <li class="self-crumb">NetworkSettings class</li>
 </ol>
 <div class="self-name">NetworkSettings</div>
@@ -53,13 +54,13 @@ menu
 <div>
 <h1>NetworkSettings class</h1></div>
 <section class="desc markdown">
-<p>Network configuration to be used by <a href="../core.engine/SDKNativeEngine-class.html">/sdk-for-flutter-explore-core-engine-sdknativeengine-class</a> during the initialization.</p>
+<p>Network configuration to be used by /sdk-for-flutter-explore-core-engine-sdknativeengine-class during the initialization.</p>
 </section>
 <section class="summary offset-anchor" id="constructors">
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="NetworkSettings">
-<a href="../core.engine/NetworkSettings/NetworkSettings.html">/sdk-for-flutter-explore-core-engine-networksettings-networksettings</a>()
+/sdk-for-flutter-explore-core-engine-networksettings-networksettings()
 </dt>
 <dd>
 </dd>
@@ -69,8 +70,8 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="certificates">
-<a href="../core.engine/NetworkSettings/certificates.html">/sdk-for-flutter-explore-core-engine-networksettings-certificates</a>
-↔ <a href="../core.engine/CertificateSettings-class.html">/sdk-for-flutter-explore-core-engine-certificatesettings-class</a>?
+/sdk-for-flutter-explore-core-engine-networksettings-certificates
+↔ /sdk-for-flutter-explore-core-engine-certificatesettings-class?
 </dt>
 <dd>
   Certificate settings to use on Android
@@ -79,7 +80,7 @@ behaviors. Related APIs may change for new releases without a deprecation proces
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="diagnosticsOutputPath">
-<a href="../core.engine/NetworkSettings/diagnosticsOutputPath.html">/sdk-for-flutter-explore-core-engine-networksettings-diagnosticsoutputpath</a>
+/sdk-for-flutter-explore-core-engine-networksettings-diagnosticsoutputpath
 ↔ String?
 </dt>
 <dd>
@@ -90,8 +91,8 @@ behaviors. Related APIs may change for new releases without a deprecation proces
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="domainNameSystemServers">
-<a href="../core.engine/NetworkSettings/domainNameSystemServers.html">/sdk-for-flutter-explore-core-engine-networksettings-domainnamesystemservers</a>
-↔ List&lt;<wbr/><a href="../core/NetworkEndpoint-class.html">/sdk-for-flutter-explore-core-networkendpoint-class</a>&gt;
+/sdk-for-flutter-explore-core-engine-networksettings-domainnamesystemservers
+↔ List&lt;<wbr/>/sdk-for-flutter-explore-core-networkendpoint-class&gt;
 </dt>
 <dd>
   Domain Name Server list. This list fully replaces embedded mechanism to detect DNS.
@@ -101,7 +102,7 @@ Currently only IPv4 is supported.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-<a href="../core.engine/NetworkSettings/hashCode.html">/sdk-for-flutter-explore-core-engine-networksettings-hashcode</a>
+/sdk-for-flutter-explore-core-engine-networksettings-hashcode
 → int
 </dt>
 <dd>
@@ -109,15 +110,15 @@ Currently only IPv4 is supported.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="proxySettings">
-<a href="../core.engine/NetworkSettings/proxySettings.html">/sdk-for-flutter-explore-core-engine-networksettings-proxysettings</a>
-↔ <a href="../core.engine/ProxySettings-class.html">/sdk-for-flutter-explore-core-engine-proxysettings-class</a>?
+/sdk-for-flutter-explore-core-engine-networksettings-proxysettings
+↔ /sdk-for-flutter-explore-core-engine-proxysettings-class?
 </dt>
 <dd>
-  Proxy settings. It can be later accessed or changed with <a href="../core.engine/SDKNativeEngine/proxySettings.html">/sdk-for-flutter-explore-core-engine-sdknativeengine-proxysettings</a>.
+  Proxy settings. It can be later accessed or changed with /sdk-for-flutter-explore-core-engine-sdknativeengine-proxysettings.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../core.engine/NetworkSettings/runtimeType.html">/sdk-for-flutter-explore-core-engine-networksettings-runtimetype</a>
+/sdk-for-flutter-explore-core-engine-networksettings-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -130,7 +131,7 @@ Currently only IPv4 is supported.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../core.engine/NetworkSettings/noSuchMethod.html">/sdk-for-flutter-explore-core-engine-networksettings-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-core-engine-networksettings-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -139,7 +140,7 @@ Currently only IPv4 is supported.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../core.engine/NetworkSettings/toString.html">/sdk-for-flutter-explore-core-engine-networksettings-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-core-engine-networksettings-tostring(<wbr/>)
     → String
 
 </dt>
@@ -153,7 +154,7 @@ Currently only IPv4 is supported.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-<a href="../core.engine/NetworkSettings/operator_equals.html">/sdk-for-flutter-explore-core-engine-networksettings-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-core-engine-networksettings-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -172,8 +173,8 @@ Currently only IPv4 is supported.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
 <li class="self-crumb">NetworkSettings class</li>
 </ol>
 <h5>core.engine library</h5>
@@ -190,4 +191,5 @@ Currently only IPv4 is supported.
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

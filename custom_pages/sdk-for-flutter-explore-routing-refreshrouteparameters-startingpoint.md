@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "startingPoint property"
 slug: "sdk-for-flutter-explore-routing-refreshrouteparameters-startingpoint"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- startingPoint.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-routing-refreshrouteparameters-startingpoint"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/RefreshRouteParameters-class.html">/sdk-for-flutter-explore-routing-refreshrouteparameters-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-refreshrouteparameters-class</li>
 <li class="self-crumb">startingPoint property</li>
 </ol>
 <div class="self-name">startingPoint</div>
@@ -37,20 +38,20 @@ menu
 <div>
 <h1>startingPoint property</h1></div>
 <section class="multi-line-signature">
-<a href="../../routing/Waypoint-class.html">/sdk-for-flutter-explore-routing-waypoint-class</a>?
+/sdk-for-flutter-explore-routing-waypoint-class?
         startingPoint
 <div class="features">getter/setter pair</div>
 </section>
 <section class="desc markdown">
-<p>Identify the new starting point of the route. It should be of type <a href="../../routing/WaypointType.html">/sdk-for-flutter-explore-routing-waypointtype</a>.
-Otherwise, an <a href="../../routing/RoutingError.html">/sdk-for-flutter-explore-routing-routingerror</a> error is generated. Moreover, it should be very close to the
-original route specified with the <a href="../../routing/RouteHandle-class.html">/sdk-for-flutter-explore-routing-routehandle-class</a>. The location of this waypoint may by provided,
+<p>Identify the new starting point of the route. It should be of type /sdk-for-flutter-explore-routing-waypointtype.
+Otherwise, an /sdk-for-flutter-explore-routing-routingerror error is generated. Moreover, it should be very close to the
+original route specified with the /sdk-for-flutter-explore-routing-routehandle-class. The location of this waypoint may by provided,
 for example, by a <code>RouteProgress</code> event. Since the new starting point is expected to be
 along the original route, the original route geometry is used to reach the remaining waypoints. The new route
-will not include the <a href="../../routing/Waypoint-class.html">/sdk-for-flutter-explore-routing-waypoint-class</a> items that lie behind the new starting point (i.e. the path that
-was already traveled). Plus, <a href="../../routing/Route/lengthInMeters.html">/sdk-for-flutter-explore-routing-route-lengthinmeters</a>, <a href="../../routing/Route/duration.html">/sdk-for-flutter-explore-routing-route-duration</a>, and similar
+will not include the /sdk-for-flutter-explore-routing-waypoint-class items that lie behind the new starting point (i.e. the path that
+was already traveled). Plus, /sdk-for-flutter-explore-routing-route-lengthinmeters, /sdk-for-flutter-explore-routing-route-duration, and similar
 values are from the new starting point to the destination. If the new waypoint is too far off the original
-route, the route refresh may fail and an <a href="../../routing/RoutingError.html">/sdk-for-flutter-explore-routing-routingerror</a> error is triggered.
+route, the route refresh may fail and an /sdk-for-flutter-explore-routing-routingerror error is triggered.
 In that case, an application may decide to calculate a new route from scratch.</p>
 </section>
 <section class="summary source-code" id="source">
@@ -65,9 +66,9 @@ In that case, an application may decide to calculate a new route from scratch.</
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/RefreshRouteParameters-class.html">/sdk-for-flutter-explore-routing-refreshrouteparameters-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-refreshrouteparameters-class</li>
 <li class="self-crumb">startingPoint property</li>
 </ol>
 <h5>RefreshRouteParameters class</h5>
@@ -84,4 +85,5 @@ In that case, an application may decide to calculate a new route from scratch.</
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

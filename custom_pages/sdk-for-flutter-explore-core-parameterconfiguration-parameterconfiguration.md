@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "ParameterConfiguration constructor"
 slug: "sdk-for-flutter-explore-core-parameterconfiguration-parameterconfiguration"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- ParameterConfiguration.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-core-parameterconfiguration-parameterconfiguratio
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
-<li><a href="../../core/ParameterConfiguration-class.html">/sdk-for-flutter-explore-core-parameterconfiguration-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
+<li>/sdk-for-flutter-explore-core-parameterconfiguration-class</li>
 <li class="self-crumb">ParameterConfiguration factory constructor</li>
 </ol>
 <div class="self-name">ParameterConfiguration</div>
@@ -40,10 +41,10 @@ menu
 ParameterConfiguration(<wbr/>)
     </section>
 <section class="desc markdown">
-<p>Creates a new instance of <a href="../../core/ParameterConfiguration-class.html">/sdk-for-flutter-explore-core-parameterconfiguration-class</a> with the default values set.</p>
-<p><strong>Note</strong> By default, the <a href="../../core/ParameterConfiguration/transportSpecification.html">/sdk-for-flutter-explore-core-parameterconfiguration-transportspecification</a> will return a
-valid <a href="../../transport/TransportSpecification-class.html">/sdk-for-flutter-explore-transport-transportspecification-class</a> object with the <a href="../../transport/TransportSpecification/transportMode.html">/sdk-for-flutter-explore-transport-transportspecification-transportmode</a> set
-to <a href="../../transport/TransportMode.html">/sdk-for-flutter-explore-transport-transportmode</a>.</p>
+<p>Creates a new instance of /sdk-for-flutter-explore-core-parameterconfiguration-class with the default values set.</p>
+<p><strong>Note</strong> By default, the /sdk-for-flutter-explore-core-parameterconfiguration-transportspecification will return a
+valid /sdk-for-flutter-explore-transport-transportspecification-class object with the /sdk-for-flutter-explore-transport-transportspecification-transportmode set
+to /sdk-for-flutter-explore-transport-transportmode.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -57,9 +58,9 @@ to <a href="../../transport/TransportMode.html">/sdk-for-flutter-explore-transpo
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
-<li><a href="../../core/ParameterConfiguration-class.html">/sdk-for-flutter-explore-core-parameterconfiguration-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
+<li>/sdk-for-flutter-explore-core-parameterconfiguration-class</li>
 <li class="self-crumb">ParameterConfiguration factory constructor</li>
 </ol>
 <h5>ParameterConfiguration class</h5>
@@ -76,4 +77,5 @@ to <a href="../../transport/TransportMode.html">/sdk-for-flutter-explore-transpo
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

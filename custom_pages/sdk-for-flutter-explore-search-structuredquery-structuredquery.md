@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "StructuredQuery constructor"
 slug: "sdk-for-flutter-explore-search-structuredquery-structuredquery"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- StructuredQuery.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-search-structuredquery-structuredquery"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/StructuredQuery-class.html">/sdk-for-flutter-explore-search-structuredquery-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-structuredquery-class</li>
 <li class="self-crumb">StructuredQuery constructor</li>
 </ol>
 <div class="self-name">StructuredQuery</div>
@@ -38,7 +39,7 @@ menu
 <h1>StructuredQuery constructor</h1></div>
 <section class="multi-line-signature">
 StructuredQuery(<wbr/><ol class="parameter-list single-line"> <li>String query, </li>
-<li><a href="../../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a> areaCenter</li>
+<li>/sdk-for-flutter-explore-core-geocoordinates-class areaCenter</li>
 </ol>)
     </section>
 <section class="summary source-code" id="source">
@@ -54,9 +55,9 @@ StructuredQuery(<wbr/><ol class="parameter-list single-line"> <li>String query, 
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/StructuredQuery-class.html">/sdk-for-flutter-explore-search-structuredquery-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-structuredquery-class</li>
 <li class="self-crumb">StructuredQuery constructor</li>
 </ol>
 <h5>StructuredQuery class</h5>
@@ -73,4 +74,5 @@ StructuredQuery(<wbr/><ol class="parameter-list single-line"> <li>String query, 
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

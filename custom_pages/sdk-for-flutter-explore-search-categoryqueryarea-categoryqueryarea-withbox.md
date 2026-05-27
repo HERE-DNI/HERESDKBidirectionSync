@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "CategoryQueryArea.withBox constructor"
 slug: "sdk-for-flutter-explore-search-categoryqueryarea-categoryqueryarea-withbox"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- CategoryQueryArea.withBox.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-search-categoryqueryarea-categoryqueryarea-withbo
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/CategoryQueryArea-class.html">/sdk-for-flutter-explore-search-categoryqueryarea-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-categoryqueryarea-class</li>
 <li class="self-crumb">CategoryQueryArea.withBox factory constructor</li>
 </ol>
 <div class="self-name">CategoryQueryArea.withBox</div>
@@ -37,8 +38,8 @@ menu
 <div>
 <h1>CategoryQueryArea.withBox constructor</h1></div>
 <section class="multi-line-signature">
-CategoryQueryArea.withBox(<wbr/><ol class="parameter-list single-line"> <li><a href="../../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a> areaCenter, </li>
-<li><a href="../../core/GeoBox-class.html">/sdk-for-flutter-explore-core-geobox-class</a> boxArea</li>
+CategoryQueryArea.withBox(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-core-geocoordinates-class areaCenter, </li>
+<li>/sdk-for-flutter-explore-core-geobox-class boxArea</li>
 </ol>)
     </section>
 <section class="desc markdown">
@@ -64,9 +65,9 @@ CategoryQueryArea.withBox(<wbr/><ol class="parameter-list single-line"> <li><a h
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/CategoryQueryArea-class.html">/sdk-for-flutter-explore-search-categoryqueryarea-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-categoryqueryarea-class</li>
 <li class="self-crumb">CategoryQueryArea.withBox factory constructor</li>
 </ol>
 <h5>CategoryQueryArea class</h5>
@@ -83,4 +84,5 @@ CategoryQueryArea.withBox(<wbr/><ol class="parameter-list single-line"> <li><a h
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

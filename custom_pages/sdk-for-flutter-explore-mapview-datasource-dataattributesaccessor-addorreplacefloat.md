@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "addOrReplaceFloat abstract method"
 slug: "sdk-for-flutter-explore-mapview-datasource-dataattributesaccessor-addorreplacefloat"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- addOrReplaceFloat.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-datasource-dataattributesaccessor-addorre
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
-<li><a href="../../mapview.datasource/DataAttributesAccessor-class.html">/sdk-for-flutter-explore-mapview-datasource-dataattributesaccessor-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-dataattributesaccessor-class</li>
 <li class="self-crumb">addOrReplaceFloat abstract method</li>
 </ol>
 <div class="self-name">addOrReplaceFloat</div>
@@ -68,9 +69,9 @@ addOrReplaceFloat(<wbr/><ol class="parameter-list single-line"> <li>String name,
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
-<li><a href="../../mapview.datasource/DataAttributesAccessor-class.html">/sdk-for-flutter-explore-mapview-datasource-dataattributesaccessor-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-dataattributesaccessor-class</li>
 <li class="self-crumb">addOrReplaceFloat abstract method</li>
 </ol>
 <h5>DataAttributesAccessor class</h5>
@@ -87,4 +88,5 @@ addOrReplaceFloat(<wbr/><ol class="parameter-list single-line"> <li>String name,
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

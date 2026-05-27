@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "occupantsNumber property"
 slug: "sdk-for-flutter-explore-routing-truckoptions-occupantsnumber"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- occupantsNumber.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-routing-truckoptions-occupantsnumber"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/TruckOptions-class.html">/sdk-for-flutter-explore-routing-truckoptions-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-truckoptions-class</li>
 <li class="self-crumb">occupantsNumber property</li>
 </ol>
 <div class="self-name">occupantsNumber</div>
@@ -46,7 +47,7 @@ menu
 <p>Specifies the number of occupants in the vehicle, including driver,
 can affect the vehicle's ability to use HOV/carpool restricted lanes.
 Shouldn't be less than 1 or greater than 255. Defaults to 1.</p>
-<p><strong>Note:</strong> This parameter has no effect unless HOV and/or HOT lane usage is enabled via <a href="../../routing/TruckOptions/allowOptions.html">/sdk-for-flutter-explore-routing-truckoptions-allowoptions</a> and such lanes are available in the selected country.</p>
+<p><strong>Note:</strong> This parameter has no effect unless HOV and/or HOT lane usage is enabled via /sdk-for-flutter-explore-routing-truckoptions-allowoptions and such lanes are available in the selected country.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -60,9 +61,9 @@ Shouldn't be less than 1 or greater than 255. Defaults to 1.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/TruckOptions-class.html">/sdk-for-flutter-explore-routing-truckoptions-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-truckoptions-class</li>
 <li class="self-crumb">occupantsNumber property</li>
 </ol>
 <h5>TruckOptions class</h5>
@@ -79,4 +80,5 @@ Shouldn't be less than 1 or greater than 255. Defaults to 1.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

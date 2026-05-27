@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "SuggestCallbackExtended typedef"
 slug: "sdk-for-flutter-explore-search-suggestcallbackextended"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- SuggestCallbackExtended.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,8 +12,8 @@ slug: "sdk-for-flutter-explore-search-suggestcallbackextended"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
 <li class="self-crumb">SuggestCallbackExtended typedef</li>
 </ol>
 <div class="self-name">SuggestCallbackExtended</div>
@@ -37,7 +38,7 @@ menu
 <h1>SuggestCallbackExtended typedef</h1></div>
 <section class="multi-line-signature">
 SuggestCallbackExtended =
-     void Function(<a href="../search/SearchError.html">/sdk-for-flutter-explore-search-searcherror</a>? searchError, List&lt;<wbr/><a href="../search/Suggestion-class.html">/sdk-for-flutter-explore-search-suggestion-class</a>&gt;? suggestions, <a href="../search/ResponseDetails-class.html">/sdk-for-flutter-explore-search-responsedetails-class</a>? responseDetails)
+     void Function(/sdk-for-flutter-explore-search-searcherror? searchError, List&lt;<wbr/>/sdk-for-flutter-explore-search-suggestion-class&gt;? suggestions, /sdk-for-flutter-explore-search-responsedetails-class? responseDetails)
 </section>
 <section class="desc markdown">
 <p>The method will be called on the main thread when a suggest call has been completed.</p>
@@ -68,8 +69,8 @@ This API is not supported by offline search.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
 <li class="self-crumb">SuggestCallbackExtended typedef</li>
 </ol>
 <h5>search library</h5>
@@ -86,4 +87,5 @@ This API is not supported by offline search.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

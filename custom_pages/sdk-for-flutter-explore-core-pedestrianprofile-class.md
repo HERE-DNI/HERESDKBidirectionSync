@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "PedestrianProfile class"
 slug: "sdk-for-flutter-explore-core-pedestrianprofile-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- PedestrianProfile-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -25,8 +26,8 @@ slug: "sdk-for-flutter-explore-core-pedestrianprofile-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
 <li class="self-crumb">PedestrianProfile class</li>
 </ol>
 <div class="self-name">PedestrianProfile</div>
@@ -58,7 +59,7 @@ menu
 <dt>Annotations</dt>
 <dd>
 <ul class="annotation-list clazz-relationships">
-<li>@Deprecated("Will be removed in v4.28.0. Use `sdk.transport.TransportSpecification` instead.")</li>
+<li>@Deprecated("Will be removed in v4.28.0. Use <code>sdk.transport.TransportSpecification</code> instead.")</li>
 </ul>
 </dd>
 </dl>
@@ -67,7 +68,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="PedestrianProfile">
-<a href="../core/PedestrianProfile/PedestrianProfile.html">/sdk-for-flutter-explore-core-pedestrianprofile-pedestrianprofile</a>()
+/sdk-for-flutter-explore-core-pedestrianprofile-pedestrianprofile()
 </dt>
 <dd>
 </dd>
@@ -77,7 +78,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="hashCode">
-<a href="../core/PedestrianProfile/hashCode.html">/sdk-for-flutter-explore-core-pedestrianprofile-hashcode</a>
+/sdk-for-flutter-explore-core-pedestrianprofile-hashcode
 → int
 </dt>
 <dd>
@@ -85,7 +86,7 @@ menu
   <div class="features">no setter</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../core/PedestrianProfile/runtimeType.html">/sdk-for-flutter-explore-core-pedestrianprofile-runtimetype</a>
+/sdk-for-flutter-explore-core-pedestrianprofile-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -93,7 +94,7 @@ menu
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="walkingSpeedInMetersPerSecond">
-<a href="../core/PedestrianProfile/walkingSpeedInMetersPerSecond.html">/sdk-for-flutter-explore-core-pedestrianprofile-walkingspeedinmeterspersecond</a>
+/sdk-for-flutter-explore-core-pedestrianprofile-walkingspeedinmeterspersecond
 ↔ double
 </dt>
 <dd>
@@ -107,7 +108,7 @@ By default this value is 1 meter per second.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../core/PedestrianProfile/noSuchMethod.html">/sdk-for-flutter-explore-core-pedestrianprofile-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-core-pedestrianprofile-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -116,7 +117,7 @@ By default this value is 1 meter per second.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../core/PedestrianProfile/toString.html">/sdk-for-flutter-explore-core-pedestrianprofile-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-core-pedestrianprofile-tostring(<wbr/>)
     → String
 
 </dt>
@@ -130,7 +131,7 @@ By default this value is 1 meter per second.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-<a href="../core/PedestrianProfile/operator_equals.html">/sdk-for-flutter-explore-core-pedestrianprofile-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-core-pedestrianprofile-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -149,8 +150,8 @@ By default this value is 1 meter per second.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
 <li class="self-crumb">PedestrianProfile class</li>
 </ol>
 <h5>core library</h5>
@@ -167,4 +168,5 @@ By default this value is 1 meter per second.
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

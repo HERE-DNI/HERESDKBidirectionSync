@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "HereMapCreatedCallback typedef"
 slug: "sdk-for-flutter-explore-mapview-heremapcreatedcallback"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- HereMapCreatedCallback.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,8 +12,8 @@ slug: "sdk-for-flutter-explore-mapview-heremapcreatedcallback"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
 <li class="self-crumb">HereMapCreatedCallback typedef</li>
 </ol>
 <div class="self-name">HereMapCreatedCallback</div>
@@ -37,7 +38,7 @@ menu
 <h1>HereMapCreatedCallback typedef</h1></div>
 <section class="multi-line-signature">
 HereMapCreatedCallback =
-     void Function(<a href="../mapview/HereMapController-class.html">/sdk-for-flutter-explore-mapview-heremapcontroller-class</a> mapController)
+     void Function(/sdk-for-flutter-explore-mapview-heremapcontroller-class mapController)
 </section>
 <section class="desc markdown">
 <p>Method called when the map is ready to be used.</p>
@@ -54,8 +55,8 @@ HereMapCreatedCallback =
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
 <li class="self-crumb">HereMapCreatedCallback typedef</li>
 </ol>
 <h5>mapview library</h5>
@@ -72,4 +73,5 @@ HereMapCreatedCallback =
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

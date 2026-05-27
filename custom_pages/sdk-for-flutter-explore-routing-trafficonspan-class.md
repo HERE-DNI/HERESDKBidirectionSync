@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "TrafficOnSpan class"
 slug: "sdk-for-flutter-explore-routing-trafficonspan-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- TrafficOnSpan-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -33,8 +34,8 @@ slug: "sdk-for-flutter-explore-routing-trafficonspan-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
 <li class="self-crumb">TrafficOnSpan class</li>
 </ol>
 <div class="self-name">TrafficOnSpan</div>
@@ -64,7 +65,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="TrafficOnSpan">
-<a href="../routing/TrafficOnSpan/TrafficOnSpan.html">/sdk-for-flutter-explore-routing-trafficonspan-trafficonspan</a>()
+/sdk-for-flutter-explore-routing-trafficonspan-trafficonspan()
 </dt>
 <dd>
 </dd>
@@ -74,7 +75,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="baseSpeedInMetersPerSecond">
-<a href="../routing/TrafficOnSpan/baseSpeedInMetersPerSecond.html">/sdk-for-flutter-explore-routing-trafficonspan-basespeedinmeterspersecond</a>
+/sdk-for-flutter-explore-routing-trafficonspan-basespeedinmeterspersecond
 ↔ double
 </dt>
 <dd>
@@ -82,7 +83,7 @@ menu
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="consumptionInKilowattHours">
-<a href="../routing/TrafficOnSpan/consumptionInKilowattHours.html">/sdk-for-flutter-explore-routing-trafficonspan-consumptioninkilowatthours</a>
+/sdk-for-flutter-explore-routing-trafficonspan-consumptioninkilowatthours
 ↔ double?
 </dt>
 <dd>
@@ -90,7 +91,7 @@ menu
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="duration">
-<a href="../routing/TrafficOnSpan/duration.html">/sdk-for-flutter-explore-routing-trafficonspan-duration</a>
+/sdk-for-flutter-explore-routing-trafficonspan-duration
 ↔ Duration
 </dt>
 <dd>
@@ -99,7 +100,7 @@ consideration the delays caused by the traffic.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-<a href="../routing/TrafficOnSpan/hashCode.html">/sdk-for-flutter-explore-routing-trafficonspan-hashcode</a>
+/sdk-for-flutter-explore-routing-trafficonspan-hashcode
 → int
 </dt>
 <dd>
@@ -107,15 +108,15 @@ consideration the delays caused by the traffic.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="incidentIndices">
-<a href="../routing/TrafficOnSpan/incidentIndices.html">/sdk-for-flutter-explore-routing-trafficonspan-incidentindices</a>
+/sdk-for-flutter-explore-routing-trafficonspan-incidentindices
 ↔ List&lt;<wbr/>int&gt;
 </dt>
 <dd>
-  The indices of traffic incidents from the field <a href="../routing/TrafficOnSection/trafficIncidents.html">/sdk-for-flutter-explore-routing-trafficonsection-trafficincidents</a>.
+  The indices of traffic incidents from the field /sdk-for-flutter-explore-routing-trafficonsection-trafficincidents.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="jamFactor">
-<a href="../routing/TrafficOnSpan/jamFactor.html">/sdk-for-flutter-explore-routing-trafficonspan-jamfactor</a>
+/sdk-for-flutter-explore-routing-trafficonspan-jamfactor
 ↔ double
 </dt>
 <dd>
@@ -125,7 +126,7 @@ in general. Specifically, 0.0 means free traffic and 10.0 means stationary traff
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="lengthInMeters">
-<a href="../routing/TrafficOnSpan/lengthInMeters.html">/sdk-for-flutter-explore-routing-trafficonspan-lengthinmeters</a>
+/sdk-for-flutter-explore-routing-trafficonspan-lengthinmeters
 ↔ double
 </dt>
 <dd>
@@ -133,7 +134,7 @@ in general. Specifically, 0.0 means free traffic and 10.0 means stationary traff
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../routing/TrafficOnSpan/runtimeType.html">/sdk-for-flutter-explore-routing-trafficonspan-runtimetype</a>
+/sdk-for-flutter-explore-routing-trafficonspan-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -141,7 +142,7 @@ in general. Specifically, 0.0 means free traffic and 10.0 means stationary traff
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="trafficDelay">
-<a href="../routing/TrafficOnSpan/trafficDelay.html">/sdk-for-flutter-explore-routing-trafficonspan-trafficdelay</a>
+/sdk-for-flutter-explore-routing-trafficonspan-trafficdelay
 ↔ Duration
 </dt>
 <dd>
@@ -150,15 +151,15 @@ Negative values indicate that the traffic span can be traversed faster than usua
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="trafficSectionPolylineOffset">
-<a href="../routing/TrafficOnSpan/trafficSectionPolylineOffset.html">/sdk-for-flutter-explore-routing-trafficonspan-trafficsectionpolylineoffset</a>
+/sdk-for-flutter-explore-routing-trafficonspan-trafficsectionpolylineoffset
 ↔ int
 </dt>
 <dd>
-  Index over <a href="../routing/TrafficOnSection/geometry.html">/sdk-for-flutter-explore-routing-trafficonsection-geometry</a> where this span starts.
+  Index over /sdk-for-flutter-explore-routing-trafficonsection-geometry where this span starts.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="trafficSpeedInMetersPerSecond">
-<a href="../routing/TrafficOnSpan/trafficSpeedInMetersPerSecond.html">/sdk-for-flutter-explore-routing-trafficonspan-trafficspeedinmeterspersecond</a>
+/sdk-for-flutter-explore-routing-trafficonspan-trafficspeedinmeterspersecond
 ↔ double
 </dt>
 <dd>
@@ -171,7 +172,7 @@ Negative values indicate that the traffic span can be traversed faster than usua
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../routing/TrafficOnSpan/noSuchMethod.html">/sdk-for-flutter-explore-routing-trafficonspan-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-routing-trafficonspan-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -180,7 +181,7 @@ Negative values indicate that the traffic span can be traversed faster than usua
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../routing/TrafficOnSpan/toString.html">/sdk-for-flutter-explore-routing-trafficonspan-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-routing-trafficonspan-tostring(<wbr/>)
     → String
 
 </dt>
@@ -194,7 +195,7 @@ Negative values indicate that the traffic span can be traversed faster than usua
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-<a href="../routing/TrafficOnSpan/operator_equals.html">/sdk-for-flutter-explore-routing-trafficonspan-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-routing-trafficonspan-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -213,8 +214,8 @@ Negative values indicate that the traffic span can be traversed faster than usua
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
 <li class="self-crumb">TrafficOnSpan class</li>
 </ol>
 <h5>routing library</h5>
@@ -231,4 +232,5 @@ Negative values indicate that the traffic span can be traversed faster than usua
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

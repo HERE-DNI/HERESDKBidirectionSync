@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "categories property"
 slug: "sdk-for-flutter-explore-search-mobilephone-categories"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- categories.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-search-mobilephone-categories"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/MobilePhone-class.html">/sdk-for-flutter-explore-search-mobilephone-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-mobilephone-class</li>
 <li class="self-crumb">categories property</li>
 </ol>
 <div class="self-name">categories</div>
@@ -38,14 +39,14 @@ menu
 <h1>categories property</h1></div>
 <section class="multi-line-signature">
         
-        List&lt;<wbr/><a href="../../search/PlaceCategory-class.html">/sdk-for-flutter-explore-search-placecategory-class</a>&gt;
+        List&lt;<wbr/>/sdk-for-flutter-explore-search-placecategory-class&gt;
 categories
 <div class="features">getter/setter pair</div>
 </section>
 <section class="desc markdown">
 <p>Categories associated with phone number.
-Note: In case <a href="../../search/MobilePhone/categories.html">/sdk-for-flutter-explore-search-mobilephone-categories</a> are not empty, then <a href="../../search/MobilePhone/phoneNumber.html">/sdk-for-flutter-explore-search-mobilephone-phonenumber</a> should be used according to given categories.
-Otherwise, <a href="../../search/MobilePhone/phoneNumber.html">/sdk-for-flutter-explore-search-mobilephone-phonenumber</a> is meant for general use.</p>
+Note: In case /sdk-for-flutter-explore-search-mobilephone-categories are not empty, then /sdk-for-flutter-explore-search-mobilephone-phonenumber should be used according to given categories.
+Otherwise, /sdk-for-flutter-explore-search-mobilephone-phonenumber is meant for general use.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -59,9 +60,9 @@ Otherwise, <a href="../../search/MobilePhone/phoneNumber.html">/sdk-for-flutter-
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/MobilePhone-class.html">/sdk-for-flutter-explore-search-mobilephone-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-mobilephone-class</li>
 <li class="self-crumb">categories property</li>
 </ol>
 <h5>MobilePhone class</h5>
@@ -78,4 +79,5 @@ Otherwise, <a href="../../search/MobilePhone/phoneNumber.html">/sdk-for-flutter-
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "hrn property"
 slug: "sdk-for-flutter-explore-core-engine-catalogidentifier-hrn"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- hrn.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-core-engine-catalogidentifier-hrn"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
-<li><a href="../../core.engine/CatalogIdentifier-class.html">/sdk-for-flutter-explore-core-engine-catalogidentifier-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
+<li>/sdk-for-flutter-explore-core-engine-catalogidentifier-class</li>
 <li class="self-crumb">hrn property</li>
 </ol>
 <div class="self-name">hrn</div>
@@ -47,7 +48,7 @@ menu
 catalog to your project. For information about catalog creation process refer to
 <a href="https://www.here.com/docs/bundle/data-api-developer-guide/page/rest/creating-a-catalog.html">the Data API</a>
 By default, this field points to a default catalog on HERE platform, which contains data for the whole world excluding the region of Japan.
-Use <a href="../../core.engine/CatalogConfiguration/getDefault.html">/sdk-for-flutter-explore-core-engine-catalogconfiguration-getdefault</a> to get the default HRN value for use with the HERE platform.</p>
+Use /sdk-for-flutter-explore-core-engine-catalogconfiguration-getdefault to get the default HRN value for use with the HERE platform.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -61,9 +62,9 @@ Use <a href="../../core.engine/CatalogConfiguration/getDefault.html">/sdk-for-fl
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
-<li><a href="../../core.engine/CatalogIdentifier-class.html">/sdk-for-flutter-explore-core-engine-catalogidentifier-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
+<li>/sdk-for-flutter-explore-core-engine-catalogidentifier-class</li>
 <li class="self-crumb">hrn property</li>
 </ol>
 <h5>CatalogIdentifier class</h5>
@@ -80,4 +81,5 @@ Use <a href="../../core.engine/CatalogConfiguration/getDefault.html">/sdk-for-fl
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

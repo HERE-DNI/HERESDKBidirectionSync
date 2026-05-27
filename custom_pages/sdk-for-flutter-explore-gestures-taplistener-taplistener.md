@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "TapListener constructor"
 slug: "sdk-for-flutter-explore-gestures-taplistener-taplistener"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- TapListener.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-gestures-taplistener-taplistener"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../gestures/gestures-library.html">/sdk-for-flutter-explore-gestures-gestures-library</a></li>
-<li><a href="../../gestures/TapListener-class.html">/sdk-for-flutter-explore-gestures-taplistener-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-gestures-gestures-library</li>
+<li>/sdk-for-flutter-explore-gestures-taplistener-class</li>
 <li class="self-crumb">TapListener factory constructor</li>
 </ol>
 <div class="self-name">TapListener</div>
@@ -37,7 +38,7 @@ menu
 <div>
 <h1>TapListener constructor</h1></div>
 <section class="multi-line-signature">
-TapListener(<wbr/><ol class="parameter-list single-line"> <li>void onTapLambda(<ol class="parameter-list single-line"> <li><a href="../../core/Point2D-class.html">/sdk-for-flutter-explore-core-point2d-class</a></li>
+TapListener(<wbr/><ol class="parameter-list single-line"> <li>void onTapLambda(<ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-core-point2d-class</li>
 </ol>)</li>
 </ol>)
     </section>
@@ -63,9 +64,9 @@ TapListener(<wbr/><ol class="parameter-list single-line"> <li>void onTapLambda(<
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../gestures/gestures-library.html">/sdk-for-flutter-explore-gestures-gestures-library</a></li>
-<li><a href="../../gestures/TapListener-class.html">/sdk-for-flutter-explore-gestures-taplistener-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-gestures-gestures-library</li>
+<li>/sdk-for-flutter-explore-gestures-taplistener-class</li>
 <li class="self-crumb">TapListener factory constructor</li>
 </ol>
 <h5>TapListener class</h5>
@@ -82,4 +83,5 @@ TapListener(<wbr/><ol class="parameter-list single-line"> <li>void onTapLambda(<
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

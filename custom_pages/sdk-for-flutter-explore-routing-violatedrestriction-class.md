@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "ViolatedRestriction class"
 slug: "sdk-for-flutter-explore-routing-violatedrestriction-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- ViolatedRestriction-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -27,8 +28,8 @@ slug: "sdk-for-flutter-explore-routing-violatedrestriction-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
 <li class="self-crumb">ViolatedRestriction class</li>
 </ol>
 <div class="self-name">ViolatedRestriction</div>
@@ -58,7 +59,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="ViolatedRestriction">
-<a href="../routing/ViolatedRestriction/ViolatedRestriction.html">/sdk-for-flutter-explore-routing-violatedrestriction-violatedrestriction</a>(String cause, bool timeDependent)
+/sdk-for-flutter-explore-routing-violatedrestriction-violatedrestriction(String cause, bool timeDependent)
 </dt>
 <dd>
 </dd>
@@ -68,7 +69,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="cause">
-<a href="../routing/ViolatedRestriction/cause.html">/sdk-for-flutter-explore-routing-violatedrestriction-cause</a>
+/sdk-for-flutter-explore-routing-violatedrestriction-cause
 ↔ String
 </dt>
 <dd>
@@ -76,8 +77,8 @@ menu
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="details">
-<a href="../routing/ViolatedRestriction/details.html">/sdk-for-flutter-explore-routing-violatedrestriction-details</a>
-↔ <a href="../routing/ViolatedRestrictionDetails-class.html">/sdk-for-flutter-explore-routing-violatedrestrictiondetails-class</a>?
+/sdk-for-flutter-explore-routing-violatedrestriction-details
+↔ /sdk-for-flutter-explore-routing-violatedrestrictiondetails-class?
 </dt>
 <dd>
   The detailed information of restriction depending on the specific violation.
@@ -88,7 +89,7 @@ gross weight for this route.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-<a href="../routing/ViolatedRestriction/hashCode.html">/sdk-for-flutter-explore-routing-violatedrestriction-hashcode</a>
+/sdk-for-flutter-explore-routing-violatedrestriction-hashcode
 → int
 </dt>
 <dd>
@@ -96,7 +97,7 @@ gross weight for this route.
   <div class="features">no setter</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../routing/ViolatedRestriction/runtimeType.html">/sdk-for-flutter-explore-routing-violatedrestriction-runtimetype</a>
+/sdk-for-flutter-explore-routing-violatedrestriction-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -104,7 +105,7 @@ gross weight for this route.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="timeDependent">
-<a href="../routing/ViolatedRestriction/timeDependent.html">/sdk-for-flutter-explore-routing-violatedrestriction-timedependent</a>
+/sdk-for-flutter-explore-routing-violatedrestriction-timedependent
 ↔ bool
 </dt>
 <dd>
@@ -117,7 +118,7 @@ gross weight for this route.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../routing/ViolatedRestriction/noSuchMethod.html">/sdk-for-flutter-explore-routing-violatedrestriction-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-routing-violatedrestriction-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -126,7 +127,7 @@ gross weight for this route.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../routing/ViolatedRestriction/toString.html">/sdk-for-flutter-explore-routing-violatedrestriction-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-routing-violatedrestriction-tostring(<wbr/>)
     → String
 
 </dt>
@@ -140,7 +141,7 @@ gross weight for this route.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-<a href="../routing/ViolatedRestriction/operator_equals.html">/sdk-for-flutter-explore-routing-violatedrestriction-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-routing-violatedrestriction-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -159,8 +160,8 @@ gross weight for this route.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
 <li class="self-crumb">ViolatedRestriction class</li>
 </ol>
 <h5>routing library</h5>
@@ -177,4 +178,5 @@ gross weight for this route.
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

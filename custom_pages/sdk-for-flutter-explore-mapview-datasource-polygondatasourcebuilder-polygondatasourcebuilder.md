@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "PolygonDataSourceBuilder constructor"
 slug: "sdk-for-flutter-explore-mapview-datasource-polygondatasourcebuilder-polygondatasourcebuilder"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- PolygonDataSourceBuilder.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-datasource-polygondatasourcebuilder-polyg
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
-<li><a href="../../mapview.datasource/PolygonDataSourceBuilder-class.html">/sdk-for-flutter-explore-mapview-datasource-polygondatasourcebuilder-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-polygondatasourcebuilder-class</li>
 <li class="self-crumb">PolygonDataSourceBuilder factory constructor</li>
 </ol>
 <div class="self-name">PolygonDataSourceBuilder</div>
@@ -37,7 +38,7 @@ menu
 <div>
 <h1>PolygonDataSourceBuilder constructor</h1></div>
 <section class="multi-line-signature">
-PolygonDataSourceBuilder(<wbr/><ol class="parameter-list single-line"> <li><a href="../../mapview/MapContext-class.html">/sdk-for-flutter-explore-mapview-mapcontext-class</a> context</li>
+PolygonDataSourceBuilder(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-mapview-mapcontext-class context</li>
 </ol>)
     </section>
 <section class="desc markdown">
@@ -58,9 +59,9 @@ PolygonDataSourceBuilder(<wbr/><ol class="parameter-list single-line"> <li><a hr
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
-<li><a href="../../mapview.datasource/PolygonDataSourceBuilder-class.html">/sdk-for-flutter-explore-mapview-datasource-polygondatasourcebuilder-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-polygondatasourcebuilder-class</li>
 <li class="self-crumb">PolygonDataSourceBuilder factory constructor</li>
 </ol>
 <h5>PolygonDataSourceBuilder class</h5>
@@ -77,4 +78,5 @@ PolygonDataSourceBuilder(<wbr/><ol class="parameter-list single-line"> <li><a hr
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

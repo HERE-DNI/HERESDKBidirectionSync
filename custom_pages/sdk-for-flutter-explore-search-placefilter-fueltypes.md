@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "fuelTypes property"
 slug: "sdk-for-flutter-explore-search-placefilter-fueltypes"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- fuelTypes.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-search-placefilter-fueltypes"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/PlaceFilter-class.html">/sdk-for-flutter-explore-search-placefilter-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-placefilter-class</li>
 <li class="self-crumb">fuelTypes property</li>
 </ol>
 <div class="self-name">fuelTypes</div>
@@ -38,13 +39,13 @@ menu
 <h1>fuelTypes property</h1></div>
 <section class="multi-line-signature">
         
-        List&lt;<wbr/><a href="../../transport/FuelType.html">/sdk-for-flutter-explore-transport-fueltype</a>&gt;
+        List&lt;<wbr/>/sdk-for-flutter-explore-transport-fueltype&gt;
 fuelTypes
 <div class="features">getter/setter pair</div>
 </section>
 <section class="desc markdown">
-<p>The list of <a href="../../transport/FuelType.html">/sdk-for-flutter-explore-transport-fueltype</a> elements that should be used to find only
-the <a href="../../search/FuelStation-class.html">/sdk-for-flutter-explore-search-fuelstation-class</a> search results that support all of them.
+<p>The list of /sdk-for-flutter-explore-transport-fueltype elements that should be used to find only
+the /sdk-for-flutter-explore-search-fuelstation-class search results that support all of them.
 This filter is available to use with the <code>SearchEngine</code> and
 <code>OfflineSearchEngine</code> (only available for the Navigate license), however <code>OfflineSearchEngine</code>
 supports it only for <code>searchByText</code> and <code>searchByCategory</code> with allowed fuel types <code>DIESEL</code>, <code>LPG</code>,
@@ -65,9 +66,9 @@ Related APIs may change for new releases without a deprecation process.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/PlaceFilter-class.html">/sdk-for-flutter-explore-search-placefilter-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-placefilter-class</li>
 <li class="self-crumb">fuelTypes property</li>
 </ol>
 <h5>PlaceFilter class</h5>
@@ -84,4 +85,5 @@ Related APIs may change for new releases without a deprecation process.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

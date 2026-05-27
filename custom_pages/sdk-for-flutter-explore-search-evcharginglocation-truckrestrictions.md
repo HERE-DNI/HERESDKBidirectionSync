@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "truckRestrictions property"
 slug: "sdk-for-flutter-explore-search-evcharginglocation-truckrestrictions"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- truckRestrictions.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-search-evcharginglocation-truckrestrictions"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/EVChargingLocation-class.html">/sdk-for-flutter-explore-search-evcharginglocation-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-evcharginglocation-class</li>
 <li class="self-crumb">truckRestrictions property</li>
 </ol>
 <div class="self-name">truckRestrictions</div>
@@ -38,7 +39,7 @@ menu
 <h1>truckRestrictions property</h1></div>
 <section id="getter">
 <section class="multi-line-signature">
-<a href="../../search/EVChargingTruckRestriction-class.html">/sdk-for-flutter-explore-search-evchargingtruckrestriction-class</a>?
+/sdk-for-flutter-explore-search-evchargingtruckrestriction-class?
 truckRestrictions
 </section>
 <section class="desc markdown">
@@ -61,9 +62,9 @@ Gets the access restrictions for trucks and light commercial vehicles.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/EVChargingLocation-class.html">/sdk-for-flutter-explore-search-evcharginglocation-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-evcharginglocation-class</li>
 <li class="self-crumb">truckRestrictions property</li>
 </ol>
 <h5>EVChargingLocation class</h5>
@@ -80,4 +81,5 @@ Gets the access restrictions for trucks and light commercial vehicles.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

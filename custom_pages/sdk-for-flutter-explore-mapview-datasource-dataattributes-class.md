@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "DataAttributes class abstract"
 slug: "sdk-for-flutter-explore-mapview-datasource-dataattributes-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- DataAttributes-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -33,8 +34,8 @@ slug: "sdk-for-flutter-explore-mapview-datasource-dataattributes-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
 <li class="self-crumb">DataAttributes class</li>
 </ol>
 <div class="self-name">DataAttributes</div>
@@ -67,7 +68,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <dt>Implemented types</dt>
 <dd>
 <ul class="comma-separated clazz-relationships">
-<li><a href="../mapview.datasource/DataAttributesBase-class.html">/sdk-for-flutter-explore-mapview-datasource-dataattributesbase-class</a></li>
+<li>/sdk-for-flutter-explore-mapview-datasource-dataattributesbase-class</li>
 </ul>
 </dd>
 </dl>
@@ -76,7 +77,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="DataAttributes">
-<a href="../mapview.datasource/DataAttributes/DataAttributes.html">/sdk-for-flutter-explore-mapview-datasource-dataattributes-dataattributes</a>()
+/sdk-for-flutter-explore-mapview-datasource-dataattributes-dataattributes()
 </dt>
 <dd>
 </dd>
@@ -86,7 +87,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="hashCode">
-<a href="../mapview.datasource/DataAttributesBase/hashCode.html">/sdk-for-flutter-explore-mapview-datasource-dataattributesbase-hashcode</a>
+/sdk-for-flutter-explore-mapview-datasource-dataattributesbase-hashcode
 → int
 </dt>
 <dd class="inherited">
@@ -94,7 +95,7 @@ behavior. Related APIs may change for new releases without a deprecation process
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../mapview.datasource/DataAttributesBase/runtimeType.html">/sdk-for-flutter-explore-mapview-datasource-dataattributesbase-runtimetype</a>
+/sdk-for-flutter-explore-mapview-datasource-dataattributesbase-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -107,7 +108,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="getAsString">
-<a href="../mapview.datasource/DataAttributesBase/getAsString.html">/sdk-for-flutter-explore-mapview-datasource-dataattributesbase-getasstring</a>(<wbr/>String name)
+/sdk-for-flutter-explore-mapview-datasource-dataattributesbase-getasstring(<wbr/>String name)
     → String?
 
 </dt>
@@ -116,7 +117,7 @@ behavior. Related APIs may change for new releases without a deprecation process
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="getAttributeNames">
-<a href="../mapview.datasource/DataAttributesBase/getAttributeNames.html">/sdk-for-flutter-explore-mapview-datasource-dataattributesbase-getattributenames</a>(<wbr/>)
+/sdk-for-flutter-explore-mapview-datasource-dataattributesbase-getattributenames(<wbr/>)
     → List&lt;<wbr/>String&gt;
 
 </dt>
@@ -125,7 +126,7 @@ behavior. Related APIs may change for new releases without a deprecation process
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="getBoolean">
-<a href="../mapview.datasource/DataAttributesBase/getBoolean.html">/sdk-for-flutter-explore-mapview-datasource-dataattributesbase-getboolean</a>(<wbr/>String name)
+/sdk-for-flutter-explore-mapview-datasource-dataattributesbase-getboolean(<wbr/>String name)
     → bool?
 
 </dt>
@@ -134,7 +135,7 @@ behavior. Related APIs may change for new releases without a deprecation process
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="getDouble">
-<a href="../mapview.datasource/DataAttributesBase/getDouble.html">/sdk-for-flutter-explore-mapview-datasource-dataattributesbase-getdouble</a>(<wbr/>String name)
+/sdk-for-flutter-explore-mapview-datasource-dataattributesbase-getdouble(<wbr/>String name)
     → double?
 
 </dt>
@@ -143,7 +144,7 @@ behavior. Related APIs may change for new releases without a deprecation process
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="getFloat">
-<a href="../mapview.datasource/DataAttributesBase/getFloat.html">/sdk-for-flutter-explore-mapview-datasource-dataattributesbase-getfloat</a>(<wbr/>String name)
+/sdk-for-flutter-explore-mapview-datasource-dataattributesbase-getfloat(<wbr/>String name)
     → double?
 
 </dt>
@@ -152,7 +153,7 @@ behavior. Related APIs may change for new releases without a deprecation process
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="getInt64">
-<a href="../mapview.datasource/DataAttributesBase/getInt64.html">/sdk-for-flutter-explore-mapview-datasource-dataattributesbase-getint64</a>(<wbr/>String name)
+/sdk-for-flutter-explore-mapview-datasource-dataattributesbase-getint64(<wbr/>String name)
     → int?
 
 </dt>
@@ -161,7 +162,7 @@ behavior. Related APIs may change for new releases without a deprecation process
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="getString">
-<a href="../mapview.datasource/DataAttributesBase/getString.html">/sdk-for-flutter-explore-mapview-datasource-dataattributesbase-getstring</a>(<wbr/>String name)
+/sdk-for-flutter-explore-mapview-datasource-dataattributesbase-getstring(<wbr/>String name)
     → String?
 
 </dt>
@@ -170,8 +171,8 @@ behavior. Related APIs may change for new releases without a deprecation process
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="getValue">
-<a href="../mapview.datasource/DataAttributesBase/getValue.html">/sdk-for-flutter-explore-mapview-datasource-dataattributesbase-getvalue</a>(<wbr/>String name)
-    → <a href="../mapview.datasource/DataAttributeValue-class.html">/sdk-for-flutter-explore-mapview-datasource-dataattributevalue-class</a>?
+/sdk-for-flutter-explore-mapview-datasource-dataattributesbase-getvalue(<wbr/>String name)
+    → /sdk-for-flutter-explore-mapview-datasource-dataattributevalue-class?
 
 </dt>
 <dd class="inherited">
@@ -179,8 +180,8 @@ behavior. Related APIs may change for new releases without a deprecation process
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="getValueType">
-<a href="../mapview.datasource/DataAttributesBase/getValueType.html">/sdk-for-flutter-explore-mapview-datasource-dataattributesbase-getvaluetype</a>(<wbr/>String name)
-    → <a href="../mapview.datasource/DataAttributeValueValueType.html">/sdk-for-flutter-explore-mapview-datasource-dataattributevaluevaluetype</a>?
+/sdk-for-flutter-explore-mapview-datasource-dataattributesbase-getvaluetype(<wbr/>String name)
+    → /sdk-for-flutter-explore-mapview-datasource-dataattributevaluevaluetype?
 
 </dt>
 <dd class="inherited">
@@ -188,7 +189,7 @@ behavior. Related APIs may change for new releases without a deprecation process
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../mapview.datasource/DataAttributesBase/noSuchMethod.html">/sdk-for-flutter-explore-mapview-datasource-dataattributesbase-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-mapview-datasource-dataattributesbase-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -197,7 +198,7 @@ behavior. Related APIs may change for new releases without a deprecation process
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../mapview.datasource/DataAttributesBase/toString.html">/sdk-for-flutter-explore-mapview-datasource-dataattributesbase-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-mapview-datasource-dataattributesbase-tostring(<wbr/>)
     → String
 
 </dt>
@@ -211,7 +212,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-<a href="../mapview.datasource/DataAttributesBase/operator_equals.html">/sdk-for-flutter-explore-mapview-datasource-dataattributesbase-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-mapview-datasource-dataattributesbase-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -229,8 +230,8 @@ behavior. Related APIs may change for new releases without a deprecation process
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
 <li class="self-crumb">DataAttributes class</li>
 </ol>
 <h5>mapview.datasource library</h5>
@@ -247,4 +248,5 @@ behavior. Related APIs may change for new releases without a deprecation process
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

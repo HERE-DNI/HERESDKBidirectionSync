@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "PlaceCategory constructor"
 slug: "sdk-for-flutter-explore-search-placecategory-placecategory"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- PlaceCategory.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-search-placecategory-placecategory"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/PlaceCategory-class.html">/sdk-for-flutter-explore-search-placecategory-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-placecategory-class</li>
 <li class="self-crumb">PlaceCategory factory constructor</li>
 </ol>
 <div class="self-name">PlaceCategory</div>
@@ -55,7 +56,7 @@ Their IDs take the form "xxx-xxxx", for example "100-1000".</li>
 such as "Eat and Drink / Restaurant / Casual Dining".
 Their IDs take the form "xxx-xxxx-xxxx", for example "100-1000-0001".
 The category ID can be provided as one of the predefined values, such as
-<a href="../../search/PlaceCategory/eatAndDrinkRestaurant.html">/sdk-for-flutter-explore-search-placecategory-eatanddrinkrestaurant</a> or as a literal string that matches
+/sdk-for-flutter-explore-search-placecategory-eatanddrinkrestaurant or as a literal string that matches
 one of the category IDs defined by the HERE Search service.
 Only level 1 and 2 category IDs are predefined.
 The complete list of supported category IDs, including level 3, can be found online:
@@ -74,9 +75,9 @@ The complete list of supported category IDs, including level 3, can be found onl
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/PlaceCategory-class.html">/sdk-for-flutter-explore-search-placecategory-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-placecategory-class</li>
 <li class="self-crumb">PlaceCategory factory constructor</li>
 </ol>
 <h5>PlaceCategory class</h5>
@@ -93,4 +94,5 @@ The complete list of supported category IDs, including level 3, can be found onl
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

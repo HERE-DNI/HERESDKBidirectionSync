@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "AddressQuery.withAreaCenter constructor"
 slug: "sdk-for-flutter-explore-search-addressquery-addressquery-withareacenter"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- AddressQuery.withAreaCenter.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-search-addressquery-addressquery-withareacenter"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/AddressQuery-class.html">/sdk-for-flutter-explore-search-addressquery-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-addressquery-class</li>
 <li class="self-crumb">AddressQuery.withAreaCenter factory constructor</li>
 </ol>
 <div class="self-name">AddressQuery.withAreaCenter</div>
@@ -38,7 +39,7 @@ menu
 <h1>AddressQuery.withAreaCenter constructor</h1></div>
 <section class="multi-line-signature">
 AddressQuery.withAreaCenter(<wbr/><ol class="parameter-list single-line"> <li>String query, </li>
-<li><a href="../../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a> areaCenter</li>
+<li>/sdk-for-flutter-explore-core-geocoordinates-class areaCenter</li>
 </ol>)
     </section>
 <section class="desc markdown">
@@ -64,9 +65,9 @@ AddressQuery.withAreaCenter(<wbr/><ol class="parameter-list single-line"> <li>St
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/AddressQuery-class.html">/sdk-for-flutter-explore-search-addressquery-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-addressquery-class</li>
 <li class="self-crumb">AddressQuery.withAreaCenter factory constructor</li>
 </ol>
 <h5>AddressQuery class</h5>
@@ -83,4 +84,5 @@ AddressQuery.withAreaCenter(<wbr/><ol class="parameter-list single-line"> <li>St
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

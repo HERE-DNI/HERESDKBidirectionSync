@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "TruckOptions class"
 slug: "sdk-for-flutter-explore-routing-truckoptions-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- TruckOptions-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -36,8 +37,8 @@ slug: "sdk-for-flutter-explore-routing-truckoptions-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
 <li class="self-crumb">TruckOptions class</li>
 </ol>
 <div class="self-name">TruckOptions</div>
@@ -68,7 +69,7 @@ menu
 <dt>Annotations</dt>
 <dd>
 <ul class="annotation-list clazz-relationships">
-<li>@Deprecated("Will be removed in v4.28.0. Use `RoutingOptions` class instead.")</li>
+<li>@Deprecated("Will be removed in v4.28.0. Use <code>RoutingOptions</code> class instead.")</li>
 </ul>
 </dd>
 </dl>
@@ -77,7 +78,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="TruckOptions">
-<a href="../routing/TruckOptions/TruckOptions.html">/sdk-for-flutter-explore-routing-truckoptions-truckoptions</a>()
+/sdk-for-flutter-explore-routing-truckoptions-truckoptions()
 </dt>
 <dd>
 </dd>
@@ -87,8 +88,8 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="allowOptions">
-<a href="../routing/TruckOptions/allowOptions.html">/sdk-for-flutter-explore-routing-truckoptions-allowoptions</a>
-↔ <a href="../routing/AllowOptions-class.html">/sdk-for-flutter-explore-routing-allowoptions-class</a>
+/sdk-for-flutter-explore-routing-truckoptions-allowoptions
+↔ /sdk-for-flutter-explore-routing-allowoptions-class
 </dt>
 <dd>
   The options explicitly allowed by user for route calculations. By default
@@ -96,8 +97,8 @@ no options are opt in.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="avoidanceOptions">
-<a href="../routing/TruckOptions/avoidanceOptions.html">/sdk-for-flutter-explore-routing-truckoptions-avoidanceoptions</a>
-↔ <a href="../routing/AvoidanceOptions-class.html">/sdk-for-flutter-explore-routing-avoidanceoptions-class</a>
+/sdk-for-flutter-explore-routing-truckoptions-avoidanceoptions
+↔ /sdk-for-flutter-explore-routing-avoidanceoptions-class
 </dt>
 <dd>
   Options to specify restrictions for route calculations. By default
@@ -105,16 +106,16 @@ no restrictions are applied.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="avoidedTruckRoadTypes">
-<a href="../routing/TruckOptions/avoidedTruckRoadTypes.html">/sdk-for-flutter-explore-routing-truckoptions-avoidedtruckroadtypes</a>
-↔ List&lt;<wbr/><a href="../transport/TruckRoadType.html">/sdk-for-flutter-explore-transport-truckroadtype</a>&gt;
+/sdk-for-flutter-explore-routing-truckoptions-avoidedtruckroadtypes
+↔ List&lt;<wbr/>/sdk-for-flutter-explore-transport-truckroadtype&gt;
 </dt>
 <dd>
   Specifies a list of avoided truck road types for vehicle.
-Refer to <a href="../transport/TruckRoadType.html">/sdk-for-flutter-explore-transport-truckroadtype</a> for the available options.
+Refer to /sdk-for-flutter-explore-transport-truckroadtype for the available options.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-<a href="../routing/TruckOptions/hashCode.html">/sdk-for-flutter-explore-routing-truckoptions-hashcode</a>
+/sdk-for-flutter-explore-routing-truckoptions-hashcode
 → int
 </dt>
 <dd>
@@ -122,16 +123,16 @@ Refer to <a href="../transport/TruckRoadType.html">/sdk-for-flutter-explore-tran
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="hazardousMaterials">
-<a href="../routing/TruckOptions/hazardousMaterials.html">/sdk-for-flutter-explore-routing-truckoptions-hazardousmaterials</a>
-↔ List&lt;<wbr/><a href="../transport/HazardousMaterial.html">/sdk-for-flutter-explore-transport-hazardousmaterial</a>&gt;
+/sdk-for-flutter-explore-routing-truckoptions-hazardousmaterials
+↔ List&lt;<wbr/>/sdk-for-flutter-explore-transport-hazardousmaterial&gt;
 </dt>
 <dd>
   Specifies a list of hazardous materials shipped in the vehicle.
-Refer to <a href="../transport/HazardousMaterial.html">/sdk-for-flutter-explore-transport-hazardousmaterial</a> for the available options.
+Refer to /sdk-for-flutter-explore-transport-hazardousmaterial for the available options.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="lastCharacterOfLicensePlate">
-<a href="../routing/TruckOptions/lastCharacterOfLicensePlate.html">/sdk-for-flutter-explore-routing-truckoptions-lastcharacteroflicenseplate</a>
+/sdk-for-flutter-explore-routing-truckoptions-lastcharacteroflicenseplate
 ↔ String?
 </dt>
 <dd>
@@ -145,25 +146,25 @@ Example usage: "7", when the license plate of a vehicle looks like "B-ET-182487"
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="linkTunnelCategory">
-<a href="../routing/TruckOptions/linkTunnelCategory.html">/sdk-for-flutter-explore-routing-truckoptions-linktunnelcategory</a>
-↔ <a href="../transport/TunnelCategory.html">/sdk-for-flutter-explore-transport-tunnelcategory</a>?
+/sdk-for-flutter-explore-routing-truckoptions-linktunnelcategory
+↔ /sdk-for-flutter-explore-transport-tunnelcategory?
 </dt>
 <dd>
   Specifies the tunnel categories to restrict certain route links.
 The route will pass only through tunnels of a less strict category.
-Refer to <a href="../transport/TunnelCategory.html">/sdk-for-flutter-explore-transport-tunnelcategory</a> for the available options.
+Refer to /sdk-for-flutter-explore-transport-tunnelcategory for the available options.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="maxSpeedOnSegments">
-<a href="../routing/TruckOptions/maxSpeedOnSegments.html">/sdk-for-flutter-explore-routing-truckoptions-maxspeedonsegments</a>
-↔ List&lt;<wbr/><a href="../routing/MaxSpeedOnSegment-class.html">/sdk-for-flutter-explore-routing-maxspeedonsegment-class</a>&gt;
+/sdk-for-flutter-explore-routing-truckoptions-maxspeedonsegments
+↔ List&lt;<wbr/>/sdk-for-flutter-explore-routing-maxspeedonsegment-class&gt;
 </dt>
 <dd>
-  Segments with restriction on maximum <a href="../routing/DynamicSpeedInfo/baseSpeedInMetersPerSecond.html">/sdk-for-flutter-explore-routing-dynamicspeedinfo-basespeedinmeterspersecond</a>.
+  Segments with restriction on maximum /sdk-for-flutter-explore-routing-dynamicspeedinfo-basespeedinmeterspersecond.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="occupantsNumber">
-<a href="../routing/TruckOptions/occupantsNumber.html">/sdk-for-flutter-explore-routing-truckoptions-occupantsnumber</a>
+/sdk-for-flutter-explore-routing-truckoptions-occupantsnumber
 ↔ int
 </dt>
 <dd>
@@ -173,15 +174,15 @@ Shouldn't be less than 1 or greater than 255. Defaults to 1.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="routeOptions">
-<a href="../routing/TruckOptions/routeOptions.html">/sdk-for-flutter-explore-routing-truckoptions-routeoptions</a>
-↔ <a href="../routing/RouteOptions-class.html">/sdk-for-flutter-explore-routing-routeoptions-class</a>
+/sdk-for-flutter-explore-routing-truckoptions-routeoptions
+↔ /sdk-for-flutter-explore-routing-routeoptions-class
 </dt>
 <dd>
   Specifies the common route calculation options.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../routing/TruckOptions/runtimeType.html">/sdk-for-flutter-explore-routing-truckoptions-runtimetype</a>
+/sdk-for-flutter-explore-routing-truckoptions-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -189,8 +190,8 @@ Shouldn't be less than 1 or greater than 255. Defaults to 1.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="textOptions">
-<a href="../routing/TruckOptions/textOptions.html">/sdk-for-flutter-explore-routing-truckoptions-textoptions</a>
-↔ <a href="../routing/RouteTextOptions-class.html">/sdk-for-flutter-explore-routing-routetextoptions-class</a>
+/sdk-for-flutter-explore-routing-truckoptions-textoptions
+↔ /sdk-for-flutter-explore-routing-routetextoptions-class
 </dt>
 <dd>
   Customize textual content returned from the route calculation, such
@@ -198,8 +199,8 @@ as localization, format, and unit system.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="tollOptions">
-<a href="../routing/TruckOptions/tollOptions.html">/sdk-for-flutter-explore-routing-truckoptions-tolloptions</a>
-↔ <a href="../routing/TollOptions-class.html">/sdk-for-flutter-explore-routing-tolloptions-class</a>
+/sdk-for-flutter-explore-routing-truckoptions-tolloptions
+↔ /sdk-for-flutter-explore-routing-tolloptions-class
 </dt>
 <dd>
   Options to specify how the tolls should be calculated,
@@ -207,8 +208,8 @@ such as transponders, vehicle category, and emission type.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="truckSpecifications">
-<a href="../routing/TruckOptions/truckSpecifications.html">/sdk-for-flutter-explore-routing-truckoptions-truckspecifications</a>
-↔ <a class="deprecated" href="../transport/TruckSpecifications-class.html">/sdk-for-flutter-explore-transport-truckspecifications-class</a>
+/sdk-for-flutter-explore-routing-truckoptions-truckspecifications
+↔ /sdk-for-flutter-explore-transport-truckspecifications-class
 </dt>
 <dd>
   Detailed truck specifications such as dimensions and weight.
@@ -220,7 +221,7 @@ such as transponders, vehicle category, and emission type.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../routing/TruckOptions/noSuchMethod.html">/sdk-for-flutter-explore-routing-truckoptions-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-routing-truckoptions-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -229,7 +230,7 @@ such as transponders, vehicle category, and emission type.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../routing/TruckOptions/toString.html">/sdk-for-flutter-explore-routing-truckoptions-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-routing-truckoptions-tostring(<wbr/>)
     → String
 
 </dt>
@@ -243,7 +244,7 @@ such as transponders, vehicle category, and emission type.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-<a href="../routing/TruckOptions/operator_equals.html">/sdk-for-flutter-explore-routing-truckoptions-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-routing-truckoptions-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -262,8 +263,8 @@ such as transponders, vehicle category, and emission type.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
 <li class="self-crumb">TruckOptions class</li>
 </ol>
 <h5>routing library</h5>
@@ -280,4 +281,5 @@ such as transponders, vehicle category, and emission type.
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "MapFeatureModes class"
 slug: "sdk-for-flutter-explore-mapview-mapfeaturemodes-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- MapFeatureModes-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -40,8 +41,8 @@ slug: "sdk-for-flutter-explore-mapview-mapfeaturemodes-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
 <li class="self-crumb">MapFeatureModes class</li>
 </ol>
 <div class="self-name">MapFeatureModes</div>
@@ -65,18 +66,18 @@ menu
 <div>
 <h1>MapFeatureModes class</h1></div>
 <section class="desc markdown">
-<p>Holds constants for map feature modes, to be used with <a href="../mapview/MapScene/enableFeatures.html">/sdk-for-flutter-explore-mapview-mapscene-enablefeatures</a>.</p>
-<p>Use <a href="../mapview/MapFeatureModes/defaultMode.html">/sdk-for-flutter-explore-mapview-mapfeaturemodes-defaultmode</a> to enable a feature with its default mode.</p>
+<p>Holds constants for map feature modes, to be used with /sdk-for-flutter-explore-mapview-mapscene-enablefeatures.</p>
+<p>Use /sdk-for-flutter-explore-mapview-mapfeaturemodes-defaultmode to enable a feature with its default mode.</p>
 <p>Note: The default mode is defined by the currently loaded map scene configuration and
-may vary per <a href="../mapview/MapScheme.html">/sdk-for-flutter-explore-mapview-mapscheme</a>. The currently active features and modes can be inspected
-using <a href="../mapview/MapScene/getActiveFeatures.html">/sdk-for-flutter-explore-mapview-mapscene-getactivefeatures</a> after the scene is loaded.</p>
-<p>See <a href="../mapview/MapFeatures-class.html">/sdk-for-flutter-explore-mapview-mapfeatures-class</a> for constants representing the feature names.</p>
+may vary per /sdk-for-flutter-explore-mapview-mapscheme. The currently active features and modes can be inspected
+using /sdk-for-flutter-explore-mapview-mapscene-getactivefeatures after the scene is loaded.</p>
+<p>See /sdk-for-flutter-explore-mapview-mapfeatures-class for constants representing the feature names.</p>
 </section>
 <section class="summary offset-anchor" id="constructors">
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="MapFeatureModes">
-<a href="../mapview/MapFeatureModes/MapFeatureModes.html">/sdk-for-flutter-explore-mapview-mapfeaturemodes-mapfeaturemodes</a>()
+/sdk-for-flutter-explore-mapview-mapfeaturemodes-mapfeaturemodes()
 </dt>
 <dd>
 </dd>
@@ -86,7 +87,7 @@ using <a href="../mapview/MapScene/getActiveFeatures.html">/sdk-for-flutter-expl
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="hashCode">
-<a href="../mapview/MapFeatureModes/hashCode.html">/sdk-for-flutter-explore-mapview-mapfeaturemodes-hashcode</a>
+/sdk-for-flutter-explore-mapview-mapfeaturemodes-hashcode
 → int
 </dt>
 <dd class="inherited">
@@ -94,7 +95,7 @@ using <a href="../mapview/MapScene/getActiveFeatures.html">/sdk-for-flutter-expl
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../mapview/MapFeatureModes/runtimeType.html">/sdk-for-flutter-explore-mapview-mapfeaturemodes-runtimetype</a>
+/sdk-for-flutter-explore-mapview-mapfeaturemodes-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -107,7 +108,7 @@ using <a href="../mapview/MapScene/getActiveFeatures.html">/sdk-for-flutter-expl
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../mapview/MapFeatureModes/noSuchMethod.html">/sdk-for-flutter-explore-mapview-mapfeaturemodes-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-mapview-mapfeaturemodes-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -116,7 +117,7 @@ using <a href="../mapview/MapScene/getActiveFeatures.html">/sdk-for-flutter-expl
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../mapview/MapFeatureModes/toString.html">/sdk-for-flutter-explore-mapview-mapfeaturemodes-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-mapview-mapfeaturemodes-tostring(<wbr/>)
     → String
 
 </dt>
@@ -130,7 +131,7 @@ using <a href="../mapview/MapScene/getActiveFeatures.html">/sdk-for-flutter-expl
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-<a href="../mapview/MapFeatureModes/operator_equals.html">/sdk-for-flutter-explore-mapview-mapfeaturemodes-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-mapview-mapfeaturemodes-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -144,7 +145,7 @@ using <a href="../mapview/MapScene/getActiveFeatures.html">/sdk-for-flutter-expl
 <h2>Static Properties</h2>
 <dl class="properties">
 <dt class="property" id="ambientOcclusionAll">
-<a href="../mapview/MapFeatureModes/ambientOcclusionAll.html">/sdk-for-flutter-explore-mapview-mapfeaturemodes-ambientocclusionall</a>
+/sdk-for-flutter-explore-mapview-mapfeaturemodes-ambientocclusionall
 → String
 </dt>
 <dd>
@@ -152,7 +153,7 @@ using <a href="../mapview/MapScene/getActiveFeatures.html">/sdk-for-flutter-expl
   <div class="features">final</div>
 </dd>
 <dt class="property" id="buildingFootprintsAll">
-<a href="../mapview/MapFeatureModes/buildingFootprintsAll.html">/sdk-for-flutter-explore-mapview-mapfeaturemodes-buildingfootprintsall</a>
+/sdk-for-flutter-explore-mapview-mapfeaturemodes-buildingfootprintsall
 → String
 </dt>
 <dd>
@@ -160,7 +161,7 @@ using <a href="../mapview/MapScene/getActiveFeatures.html">/sdk-for-flutter-expl
   <div class="features">final</div>
 </dd>
 <dt class="property" id="congestionZonesAll">
-<a href="../mapview/MapFeatureModes/congestionZonesAll.html">/sdk-for-flutter-explore-mapview-mapfeaturemodes-congestionzonesall</a>
+/sdk-for-flutter-explore-mapview-mapfeaturemodes-congestionzonesall
 → String
 </dt>
 <dd>
@@ -168,7 +169,7 @@ using <a href="../mapview/MapScene/getActiveFeatures.html">/sdk-for-flutter-expl
   <div class="features">final</div>
 </dd>
 <dt class="property" id="defaultMode">
-<a href="../mapview/MapFeatureModes/defaultMode.html">/sdk-for-flutter-explore-mapview-mapfeaturemodes-defaultmode</a>
+/sdk-for-flutter-explore-mapview-mapfeaturemodes-defaultmode
 → String
 </dt>
 <dd>
@@ -176,7 +177,7 @@ using <a href="../mapview/MapScene/getActiveFeatures.html">/sdk-for-flutter-expl
   <div class="features">final</div>
 </dd>
 <dt class="property" id="environmentalZonesAll">
-<a href="../mapview/MapFeatureModes/environmentalZonesAll.html">/sdk-for-flutter-explore-mapview-mapfeaturemodes-environmentalzonesall</a>
+/sdk-for-flutter-explore-mapview-mapfeaturemodes-environmentalzonesall
 → String
 </dt>
 <dd>
@@ -184,7 +185,7 @@ using <a href="../mapview/MapScene/getActiveFeatures.html">/sdk-for-flutter-expl
   <div class="features">final</div>
 </dd>
 <dt class="property" id="extrudedBuildingsAll">
-<a href="../mapview/MapFeatureModes/extrudedBuildingsAll.html">/sdk-for-flutter-explore-mapview-mapfeaturemodes-extrudedbuildingsall</a>
+/sdk-for-flutter-explore-mapview-mapfeaturemodes-extrudedbuildingsall
 → String
 </dt>
 <dd>
@@ -192,7 +193,7 @@ using <a href="../mapview/MapScene/getActiveFeatures.html">/sdk-for-flutter-expl
   <div class="features">final</div>
 </dd>
 <dt class="property" id="lowSpeedZonesAll">
-<a href="../mapview/MapFeatureModes/lowSpeedZonesAll.html">/sdk-for-flutter-explore-mapview-mapfeaturemodes-lowspeedzonesall</a>
+/sdk-for-flutter-explore-mapview-mapfeaturemodes-lowspeedzonesall
 → String
 </dt>
 <dd>
@@ -200,7 +201,7 @@ using <a href="../mapview/MapScene/getActiveFeatures.html">/sdk-for-flutter-expl
   <div class="features">final</div>
 </dd>
 <dt class="property" id="roadExitLabelsAll">
-<a href="../mapview/MapFeatureModes/roadExitLabelsAll.html">/sdk-for-flutter-explore-mapview-mapfeaturemodes-roadexitlabelsall</a>
+/sdk-for-flutter-explore-mapview-mapfeaturemodes-roadexitlabelsall
 → String
 </dt>
 <dd>
@@ -208,7 +209,7 @@ using <a href="../mapview/MapScene/getActiveFeatures.html">/sdk-for-flutter-expl
   <div class="features">final</div>
 </dd>
 <dt class="property" id="roadExitLabelsNumbersOnly">
-<a href="../mapview/MapFeatureModes/roadExitLabelsNumbersOnly.html">/sdk-for-flutter-explore-mapview-mapfeaturemodes-roadexitlabelsnumbersonly</a>
+/sdk-for-flutter-explore-mapview-mapfeaturemodes-roadexitlabelsnumbersonly
 → String
 </dt>
 <dd>
@@ -216,7 +217,7 @@ using <a href="../mapview/MapScene/getActiveFeatures.html">/sdk-for-flutter-expl
   <div class="features">final</div>
 </dd>
 <dt class="property" id="shadowsAll">
-<a href="../mapview/MapFeatureModes/shadowsAll.html">/sdk-for-flutter-explore-mapview-mapfeaturemodes-shadowsall</a>
+/sdk-for-flutter-explore-mapview-mapfeaturemodes-shadowsall
 → String
 </dt>
 <dd>
@@ -224,7 +225,7 @@ using <a href="../mapview/MapScene/getActiveFeatures.html">/sdk-for-flutter-expl
   <div class="features">final</div>
 </dd>
 <dt class="property" id="trafficFlowJapanWithoutFreeFlow">
-<a href="../mapview/MapFeatureModes/trafficFlowJapanWithoutFreeFlow.html">/sdk-for-flutter-explore-mapview-mapfeaturemodes-trafficflowjapanwithoutfreeflow</a>
+/sdk-for-flutter-explore-mapview-mapfeaturemodes-trafficflowjapanwithoutfreeflow
 → String
 </dt>
 <dd>
@@ -232,7 +233,7 @@ using <a href="../mapview/MapScene/getActiveFeatures.html">/sdk-for-flutter-expl
   <div class="features">final</div>
 </dd>
 <dt class="property" id="trafficFlowWithFreeFlow">
-<a href="../mapview/MapFeatureModes/trafficFlowWithFreeFlow.html">/sdk-for-flutter-explore-mapview-mapfeaturemodes-trafficflowwithfreeflow</a>
+/sdk-for-flutter-explore-mapview-mapfeaturemodes-trafficflowwithfreeflow
 → String
 </dt>
 <dd>
@@ -240,7 +241,7 @@ using <a href="../mapview/MapScene/getActiveFeatures.html">/sdk-for-flutter-expl
   <div class="features">final</div>
 </dd>
 <dt class="property" id="trafficFlowWithoutFreeFlow">
-<a href="../mapview/MapFeatureModes/trafficFlowWithoutFreeFlow.html">/sdk-for-flutter-explore-mapview-mapfeaturemodes-trafficflowwithoutfreeflow</a>
+/sdk-for-flutter-explore-mapview-mapfeaturemodes-trafficflowwithoutfreeflow
 → String
 </dt>
 <dd>
@@ -248,7 +249,7 @@ using <a href="../mapview/MapScene/getActiveFeatures.html">/sdk-for-flutter-expl
   <div class="features">final</div>
 </dd>
 <dt class="property" id="trafficIncidentsAll">
-<a href="../mapview/MapFeatureModes/trafficIncidentsAll.html">/sdk-for-flutter-explore-mapview-mapfeaturemodes-trafficincidentsall</a>
+/sdk-for-flutter-explore-mapview-mapfeaturemodes-trafficincidentsall
 → String
 </dt>
 <dd>
@@ -256,7 +257,7 @@ using <a href="../mapview/MapScene/getActiveFeatures.html">/sdk-for-flutter-expl
   <div class="features">final</div>
 </dd>
 <dt class="property" id="trafficLightsAll">
-<a href="../mapview/MapFeatureModes/trafficLightsAll.html">/sdk-for-flutter-explore-mapview-mapfeaturemodes-trafficlightsall</a>
+/sdk-for-flutter-explore-mapview-mapfeaturemodes-trafficlightsall
 → String
 </dt>
 <dd>
@@ -273,8 +274,8 @@ using <a href="../mapview/MapScene/getActiveFeatures.html">/sdk-for-flutter-expl
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
 <li class="self-crumb">MapFeatureModes class</li>
 </ol>
 <h5>mapview library</h5>
@@ -291,4 +292,5 @@ using <a href="../mapview/MapScene/getActiveFeatures.html">/sdk-for-flutter-expl
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

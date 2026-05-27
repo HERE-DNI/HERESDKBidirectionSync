@@ -3,7 +3,8 @@ title: "SdkContext constructor"
 slug: "sdk-for-flutter-explore-core-sdkcontext-sdkcontext"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- SdkContext.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-core-sdkcontext-sdkcontext"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
-<li><a href="../../core/SdkContext-class.html">/sdk-for-flutter-explore-core-sdkcontext-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
+<li>/sdk-for-flutter-explore-core-sdkcontext-class</li>
 <li class="self-crumb">SdkContext constructor</li>
 </ol>
 <div class="self-name">SdkContext</div>
@@ -47,9 +48,9 @@ SdkContext(<wbr/>)
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
-<li><a href="../../core/SdkContext-class.html">/sdk-for-flutter-explore-core-sdkcontext-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
+<li>/sdk-for-flutter-explore-core-sdkcontext-class</li>
 <li class="self-crumb">SdkContext constructor</li>
 </ol>
 <h5>SdkContext class</h5>
@@ -66,4 +67,5 @@ SdkContext(<wbr/>)
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

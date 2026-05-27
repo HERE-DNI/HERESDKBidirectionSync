@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "searchByPlaceId abstract method"
 slug: "sdk-for-flutter-explore-search-searchinterface-searchbyplaceid"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- searchByPlaceId.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-search-searchinterface-searchbyplaceid"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/SearchInterface-class.html">/sdk-for-flutter-explore-search-searchinterface-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-searchinterface-class</li>
 <li class="self-crumb">searchByPlaceId abstract method</li>
 </ol>
 <div class="self-name">searchByPlaceId</div>
@@ -37,18 +38,18 @@ menu
 <div>
 <h1>searchByPlaceId abstract method</h1></div>
 <section class="multi-line-signature">
-<a href="../../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a>
-searchByPlaceId(<wbr/><ol class="parameter-list single-line"> <li><a href="../../search/PlaceIdQuery-class.html">/sdk-for-flutter-explore-search-placeidquery-class</a> query, </li>
-<li><a href="../../core/LanguageCode.html">/sdk-for-flutter-explore-core-languagecode</a>? languageCode, </li>
-<li><a href="../../search/PlaceIdSearchCallback.html">/sdk-for-flutter-explore-search-placeidsearchcallback</a> callback</li>
+/sdk-for-flutter-explore-core-threading-taskhandle-class
+searchByPlaceId(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-search-placeidquery-class query, </li>
+<li>/sdk-for-flutter-explore-core-languagecode? languageCode, </li>
+<li>/sdk-for-flutter-explore-search-placeidsearchcallback callback</li>
 </ol>)
 
       
 
     </section>
 <section class="desc markdown">
-<p>Performs an asynchronous search for a <a href="../../search/Place-class.html">/sdk-for-flutter-explore-search-place-class</a> based on its ID and
-<a href="../../core/LanguageCode.html">/sdk-for-flutter-explore-core-languagecode</a>.</p>
+<p>Performs an asynchronous search for a /sdk-for-flutter-explore-search-place-class based on its ID and
+/sdk-for-flutter-explore-core-languagecode.</p>
 <ul>
 <li>
 <p><code>query</code> The id of place to search.</p>
@@ -61,7 +62,7 @@ results will be returned in their local language.</p>
 <p><code>callback</code> Callback which receives the result on the main thread.</p>
 </li>
 </ul>
-<p>Returns <a href="../../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a>. Handle that will be used to manipulate the execution of the task.</p>
+<p>Returns /sdk-for-flutter-explore-core-threading-taskhandle-class. Handle that will be used to manipulate the execution of the task.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -75,9 +76,9 @@ results will be returned in their local language.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/SearchInterface-class.html">/sdk-for-flutter-explore-search-searchinterface-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-searchinterface-class</li>
 <li class="self-crumb">searchByPlaceId abstract method</li>
 </ol>
 <h5>SearchInterface class</h5>
@@ -94,4 +95,5 @@ results will be returned in their local language.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

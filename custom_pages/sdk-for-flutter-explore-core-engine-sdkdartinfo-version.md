@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "version property"
 slug: "sdk-for-flutter-explore-core-engine-sdkdartinfo-version"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- version.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-core-engine-sdkdartinfo-version"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
-<li><a href="../../core.engine/SDKDartInfo-class.html">/sdk-for-flutter-explore-core-engine-sdkdartinfo-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
+<li>/sdk-for-flutter-explore-core-engine-sdkdartinfo-class</li>
 <li class="self-crumb">version property</li>
 </ol>
 <div class="self-name">version</div>
@@ -80,9 +81,9 @@ Sets the version of the Dart runtime.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
-<li><a href="../../core.engine/SDKDartInfo-class.html">/sdk-for-flutter-explore-core-engine-sdkdartinfo-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
+<li>/sdk-for-flutter-explore-core-engine-sdkdartinfo-class</li>
 <li class="self-crumb">version property</li>
 </ol>
 <h5>SDKDartInfo class</h5>
@@ -99,4 +100,5 @@ Sets the version of the Dart runtime.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

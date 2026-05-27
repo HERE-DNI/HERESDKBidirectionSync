@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "MapFeatures class"
 slug: "sdk-for-flutter-explore-mapview-mapfeatures-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- MapFeatures-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -36,8 +37,8 @@ slug: "sdk-for-flutter-explore-mapview-mapfeatures-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
 <li class="self-crumb">MapFeatures class</li>
 </ol>
 <div class="self-name">MapFeatures</div>
@@ -62,14 +63,14 @@ menu
 <h1>MapFeatures class</h1></div>
 <section class="desc markdown">
 <p>Holds constants for map features, to be used with
-<a href="../mapview/MapScene/enableFeatures.html">/sdk-for-flutter-explore-mapview-mapscene-enablefeatures</a> and <a href="../mapview/MapScene/disableFeatures.html">/sdk-for-flutter-explore-mapview-mapscene-disablefeatures</a>.</p>
-<p>See <a href="../mapview/MapFeatureModes-class.html">/sdk-for-flutter-explore-mapview-mapfeaturemodes-class</a> for constants representing feature modes.</p>
+/sdk-for-flutter-explore-mapview-mapscene-enablefeatures and /sdk-for-flutter-explore-mapview-mapscene-disablefeatures.</p>
+<p>See /sdk-for-flutter-explore-mapview-mapfeaturemodes-class for constants representing feature modes.</p>
 </section>
 <section class="summary offset-anchor" id="constructors">
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="MapFeatures">
-<a href="../mapview/MapFeatures/MapFeatures.html">/sdk-for-flutter-explore-mapview-mapfeatures-mapfeatures</a>()
+/sdk-for-flutter-explore-mapview-mapfeatures-mapfeatures()
 </dt>
 <dd>
 </dd>
@@ -79,7 +80,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="hashCode">
-<a href="../mapview/MapFeatures/hashCode.html">/sdk-for-flutter-explore-mapview-mapfeatures-hashcode</a>
+/sdk-for-flutter-explore-mapview-mapfeatures-hashcode
 → int
 </dt>
 <dd class="inherited">
@@ -87,7 +88,7 @@ menu
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../mapview/MapFeatures/runtimeType.html">/sdk-for-flutter-explore-mapview-mapfeatures-runtimetype</a>
+/sdk-for-flutter-explore-mapview-mapfeatures-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -100,7 +101,7 @@ menu
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../mapview/MapFeatures/noSuchMethod.html">/sdk-for-flutter-explore-mapview-mapfeatures-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-mapview-mapfeatures-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -109,7 +110,7 @@ menu
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../mapview/MapFeatures/toString.html">/sdk-for-flutter-explore-mapview-mapfeatures-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-mapview-mapfeatures-tostring(<wbr/>)
     → String
 
 </dt>
@@ -123,7 +124,7 @@ menu
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-<a href="../mapview/MapFeatures/operator_equals.html">/sdk-for-flutter-explore-mapview-mapfeatures-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-mapview-mapfeatures-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -137,7 +138,7 @@ menu
 <h2>Static Properties</h2>
 <dl class="properties">
 <dt class="property" id="ambientOcclusion">
-<a href="../mapview/MapFeatures/ambientOcclusion.html">/sdk-for-flutter-explore-mapview-mapfeatures-ambientocclusion</a>
+/sdk-for-flutter-explore-mapview-mapfeatures-ambientocclusion
 → String
 </dt>
 <dd>
@@ -145,7 +146,7 @@ menu
   <div class="features">final</div>
 </dd>
 <dt class="property" id="buildingFootprints">
-<a href="../mapview/MapFeatures/buildingFootprints.html">/sdk-for-flutter-explore-mapview-mapfeatures-buildingfootprints</a>
+/sdk-for-flutter-explore-mapview-mapfeatures-buildingfootprints
 → String
 </dt>
 <dd>
@@ -153,7 +154,7 @@ menu
   <div class="features">final</div>
 </dd>
 <dt class="property" id="congestionZones">
-<a href="../mapview/MapFeatures/congestionZones.html">/sdk-for-flutter-explore-mapview-mapfeatures-congestionzones</a>
+/sdk-for-flutter-explore-mapview-mapfeatures-congestionzones
 → String
 </dt>
 <dd>
@@ -162,7 +163,7 @@ which impose fees on entering such areas.
   <div class="features">final</div>
 </dd>
 <dt class="property" id="environmentalZones">
-<a href="../mapview/MapFeatures/environmentalZones.html">/sdk-for-flutter-explore-mapview-mapfeatures-environmentalzones</a>
+/sdk-for-flutter-explore-mapview-mapfeatures-environmentalzones
 → String
 </dt>
 <dd>
@@ -171,7 +172,7 @@ on the type of vehicles that are allowed to enter such areas.
   <div class="features">final</div>
 </dd>
 <dt class="property" id="extrudedBuildings">
-<a href="../mapview/MapFeatures/extrudedBuildings.html">/sdk-for-flutter-explore-mapview-mapfeatures-extrudedbuildings</a>
+/sdk-for-flutter-explore-mapview-mapfeatures-extrudedbuildings
 → String
 </dt>
 <dd>
@@ -179,7 +180,7 @@ on the type of vehicles that are allowed to enter such areas.
   <div class="features">final</div>
 </dd>
 <dt class="property" id="lowSpeedZones">
-<a href="../mapview/MapFeatures/lowSpeedZones.html">/sdk-for-flutter-explore-mapview-mapfeatures-lowspeedzones</a>
+/sdk-for-flutter-explore-mapview-mapfeatures-lowspeedzones
 → String
 </dt>
 <dd>
@@ -188,7 +189,7 @@ Only available when Japan map is used.
   <div class="features">final</div>
 </dd>
 <dt class="property" id="roadExitLabels">
-<a href="../mapview/MapFeatures/roadExitLabels.html">/sdk-for-flutter-explore-mapview-mapfeatures-roadexitlabels</a>
+/sdk-for-flutter-explore-mapview-mapfeatures-roadexitlabels
 → String
 </dt>
 <dd>
@@ -196,7 +197,7 @@ Only available when Japan map is used.
   <div class="features">final</div>
 </dd>
 <dt class="property" id="shadows">
-<a href="../mapview/MapFeatures/shadows.html">/sdk-for-flutter-explore-mapview-mapfeatures-shadows</a>
+/sdk-for-flutter-explore-mapview-mapfeatures-shadows
 → String
 </dt>
 <dd>
@@ -204,7 +205,7 @@ Only available when Japan map is used.
   <div class="features">final</div>
 </dd>
 <dt class="property" id="trafficFlow">
-<a href="../mapview/MapFeatures/trafficFlow.html">/sdk-for-flutter-explore-mapview-mapfeatures-trafficflow</a>
+/sdk-for-flutter-explore-mapview-mapfeatures-trafficflow
 → String
 </dt>
 <dd>
@@ -213,7 +214,7 @@ flow to be shown.
   <div class="features">final</div>
 </dd>
 <dt class="property" id="trafficIncidents">
-<a href="../mapview/MapFeatures/trafficIncidents.html">/sdk-for-flutter-explore-mapview-mapfeatures-trafficincidents</a>
+/sdk-for-flutter-explore-mapview-mapfeatures-trafficincidents
 → String
 </dt>
 <dd>
@@ -222,7 +223,7 @@ incidents to be shown.
   <div class="features">final</div>
 </dd>
 <dt class="property" id="trafficLights">
-<a href="../mapview/MapFeatures/trafficLights.html">/sdk-for-flutter-explore-mapview-mapfeatures-trafficlights</a>
+/sdk-for-flutter-explore-mapview-mapfeatures-trafficlights
 → String
 </dt>
 <dd>
@@ -239,8 +240,8 @@ incidents to be shown.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
 <li class="self-crumb">MapFeatures class</li>
 </ol>
 <h5>mapview library</h5>
@@ -257,4 +258,5 @@ incidents to be shown.
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

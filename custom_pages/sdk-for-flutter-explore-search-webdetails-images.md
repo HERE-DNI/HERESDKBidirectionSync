@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "images property"
 slug: "sdk-for-flutter-explore-search-webdetails-images"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- images.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-search-webdetails-images"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/WebDetails-class.html">/sdk-for-flutter-explore-search-webdetails-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-webdetails-class</li>
 <li class="self-crumb">images property</li>
 </ol>
 <div class="self-name">images</div>
@@ -38,7 +39,7 @@ menu
 <h1>images property</h1></div>
 <section class="multi-line-signature">
         
-        List&lt;<wbr/><a href="../../search/WebImage-class.html">/sdk-for-flutter-explore-search-webimage-class</a>&gt;
+        List&lt;<wbr/>/sdk-for-flutter-explore-search-webimage-class&gt;
 images
 <div class="features">getter/setter pair</div>
 </section>
@@ -59,9 +60,9 @@ valid contracts with said suppliers. If the user has no such contracts, the list
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/WebDetails-class.html">/sdk-for-flutter-explore-search-webdetails-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-webdetails-class</li>
 <li class="self-crumb">images property</li>
 </ol>
 <h5>WebDetails class</h5>
@@ -78,4 +79,5 @@ valid contracts with said suppliers. If the user has no such contracts, the list
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "withGeometry abstract method"
 slug: "sdk-for-flutter-explore-mapview-datasource-linedatabuilder-withgeometry"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- withGeometry.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-datasource-linedatabuilder-withgeometry"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
-<li><a href="../../mapview.datasource/LineDataBuilder-class.html">/sdk-for-flutter-explore-mapview-datasource-linedatabuilder-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-linedatabuilder-class</li>
 <li class="self-crumb">withGeometry abstract method</li>
 </ol>
 <div class="self-name">withGeometry</div>
@@ -37,8 +38,8 @@ menu
 <div>
 <h1>withGeometry abstract method</h1></div>
 <section class="multi-line-signature">
-<a href="../../mapview.datasource/LineDataBuilder-class.html">/sdk-for-flutter-explore-mapview-datasource-linedatabuilder-class</a>
-withGeometry(<wbr/><ol class="parameter-list single-line"> <li><a href="../../core/GeoPolyline-class.html">/sdk-for-flutter-explore-core-geopolyline-class</a> geometry</li>
+/sdk-for-flutter-explore-mapview-datasource-linedatabuilder-class
+withGeometry(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-core-geopolyline-class geometry</li>
 </ol>)
 
       
@@ -53,7 +54,7 @@ resp. previous and next vertices and thus belong to single line segments.
 Consecutive duplicate vertices are ignored.
 Altitude of polyline vertices is ignored.</li>
 </ul>
-<p>Returns <a href="../../mapview.datasource/LineDataBuilder-class.html">/sdk-for-flutter-explore-mapview-datasource-linedatabuilder-class</a>. The builder.</p>
+<p>Returns /sdk-for-flutter-explore-mapview-datasource-linedatabuilder-class. The builder.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -67,9 +68,9 @@ Altitude of polyline vertices is ignored.</li>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
-<li><a href="../../mapview.datasource/LineDataBuilder-class.html">/sdk-for-flutter-explore-mapview-datasource-linedatabuilder-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-linedatabuilder-class</li>
 <li class="self-crumb">withGeometry abstract method</li>
 </ol>
 <h5>LineDataBuilder class</h5>
@@ -86,4 +87,5 @@ Altitude of polyline vertices is ignored.</li>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

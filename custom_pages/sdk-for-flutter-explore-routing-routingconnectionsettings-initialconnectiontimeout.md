@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "initialConnectionTimeout property"
 slug: "sdk-for-flutter-explore-routing-routingconnectionsettings-initialconnectiontimeout"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- initialConnectionTimeout.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-routing-routingconnectionsettings-initialconnecti
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/RoutingConnectionSettings-class.html">/sdk-for-flutter-explore-routing-routingconnectionsettings-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-routingconnectionsettings-class</li>
 <li class="self-crumb">initialConnectionTimeout property</li>
 </ol>
 <div class="self-name">initialConnectionTimeout</div>
@@ -58,9 +59,9 @@ By default, the initial connection timeout is 5 seconds.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/RoutingConnectionSettings-class.html">/sdk-for-flutter-explore-routing-routingconnectionsettings-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-routingconnectionsettings-class</li>
 <li class="self-crumb">initialConnectionTimeout property</li>
 </ol>
 <h5>RoutingConnectionSettings class</h5>
@@ -77,4 +78,5 @@ By default, the initial connection timeout is 5 seconds.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "WebRating class"
 slug: "sdk-for-flutter-explore-search-webrating-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- WebRating-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -28,8 +29,8 @@ slug: "sdk-for-flutter-explore-search-webrating-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
 <li class="self-crumb">WebRating class</li>
 </ol>
 <div class="self-name">WebRating</div>
@@ -59,13 +60,13 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="WebRating">
-<a href="../search/WebRating/WebRating.html">/sdk-for-flutter-explore-search-webrating-webrating</a>(int count, double average, <a href="../search/WebSource-class.html">/sdk-for-flutter-explore-search-websource-class</a> source)
+/sdk-for-flutter-explore-search-webrating-webrating(int count, double average, /sdk-for-flutter-explore-search-websource-class source)
 </dt>
 <dd>
           Creates a new instance.
         </dd>
 <dt class="callable" id="WebRating.withDefaults">
-<a href="../search/WebRating/WebRating.withDefaults.html">/sdk-for-flutter-explore-search-webrating-webrating-withdefaults</a>()
+/sdk-for-flutter-explore-search-webrating-webrating-withdefaults()
 </dt>
 <dd>
           Creates a new instance.
@@ -76,7 +77,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="average">
-<a href="../search/WebRating/average.html">/sdk-for-flutter-explore-search-webrating-average</a>
+/sdk-for-flutter-explore-search-webrating-average
 ↔ double
 </dt>
 <dd>
@@ -84,7 +85,7 @@ menu
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="count">
-<a href="../search/WebRating/count.html">/sdk-for-flutter-explore-search-webrating-count</a>
+/sdk-for-flutter-explore-search-webrating-count
 ↔ int
 </dt>
 <dd>
@@ -92,7 +93,7 @@ menu
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-<a href="../search/WebRating/hashCode.html">/sdk-for-flutter-explore-search-webrating-hashcode</a>
+/sdk-for-flutter-explore-search-webrating-hashcode
 → int
 </dt>
 <dd>
@@ -100,7 +101,7 @@ menu
   <div class="features">no setter</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../search/WebRating/runtimeType.html">/sdk-for-flutter-explore-search-webrating-runtimetype</a>
+/sdk-for-flutter-explore-search-webrating-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -108,8 +109,8 @@ menu
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="source">
-<a href="../search/WebRating/source.html">/sdk-for-flutter-explore-search-webrating-source</a>
-↔ <a href="../search/WebSource-class.html">/sdk-for-flutter-explore-search-websource-class</a>
+/sdk-for-flutter-explore-search-webrating-source
+↔ /sdk-for-flutter-explore-search-websource-class
 </dt>
 <dd>
   Detailed information about rating.
@@ -121,7 +122,7 @@ menu
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../search/WebRating/noSuchMethod.html">/sdk-for-flutter-explore-search-webrating-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-search-webrating-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -130,7 +131,7 @@ menu
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../search/WebRating/toString.html">/sdk-for-flutter-explore-search-webrating-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-search-webrating-tostring(<wbr/>)
     → String
 
 </dt>
@@ -144,7 +145,7 @@ menu
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-<a href="../search/WebRating/operator_equals.html">/sdk-for-flutter-explore-search-webrating-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-search-webrating-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -163,8 +164,8 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
 <li class="self-crumb">WebRating class</li>
 </ol>
 <h5>search library</h5>
@@ -181,4 +182,5 @@ menu
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

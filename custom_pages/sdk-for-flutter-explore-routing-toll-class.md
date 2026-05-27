@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "Toll class"
 slug: "sdk-for-flutter-explore-routing-toll-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- Toll-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -27,8 +28,8 @@ slug: "sdk-for-flutter-explore-routing-toll-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
 <li class="self-crumb">Toll class</li>
 </ol>
 <div class="self-name">Toll</div>
@@ -64,7 +65,7 @@ is only available for the Navigate license. If you're using the
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="Toll">
-<a href="../routing/Toll/Toll.html">/sdk-for-flutter-explore-routing-toll-toll</a>(String countryCode, List&lt;<wbr/>String&gt; tollSystems, List&lt;<wbr/><a href="../routing/TollFare-class.html">/sdk-for-flutter-explore-routing-tollfare-class</a>&gt; fares)
+/sdk-for-flutter-explore-routing-toll-toll(String countryCode, List&lt;<wbr/>String&gt; tollSystems, List&lt;<wbr/>/sdk-for-flutter-explore-routing-tollfare-class&gt; fares)
 </dt>
 <dd>
           Creates a new instance.
@@ -75,7 +76,7 @@ is only available for the Navigate license. If you're using the
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="countryCode">
-<a href="../routing/Toll/countryCode.html">/sdk-for-flutter-explore-routing-toll-countrycode</a>
+/sdk-for-flutter-explore-routing-toll-countrycode
 ↔ String
 </dt>
 <dd>
@@ -83,8 +84,8 @@ is only available for the Navigate license. If you're using the
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="fares">
-<a href="../routing/Toll/fares.html">/sdk-for-flutter-explore-routing-toll-fares</a>
-↔ List&lt;<wbr/><a href="../routing/TollFare-class.html">/sdk-for-flutter-explore-routing-tollfare-class</a>&gt;
+/sdk-for-flutter-explore-routing-toll-fares
+↔ List&lt;<wbr/>/sdk-for-flutter-explore-routing-tollfare-class&gt;
 </dt>
 <dd>
   The list of toll fares possible for the toll which may depend on time of day, payment method, vehicle
@@ -94,7 +95,7 @@ is never empty.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-<a href="../routing/Toll/hashCode.html">/sdk-for-flutter-explore-routing-toll-hashcode</a>
+/sdk-for-flutter-explore-routing-toll-hashcode
 → int
 </dt>
 <dd>
@@ -102,7 +103,7 @@ is never empty.
   <div class="features">no setter</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../routing/Toll/runtimeType.html">/sdk-for-flutter-explore-routing-toll-runtimetype</a>
+/sdk-for-flutter-explore-routing-toll-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -110,7 +111,7 @@ is never empty.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="tollSystems">
-<a href="../routing/Toll/tollSystems.html">/sdk-for-flutter-explore-routing-toll-tollsystems</a>
+/sdk-for-flutter-explore-routing-toll-tollsystems
 ↔ List&lt;<wbr/>String&gt;
 </dt>
 <dd>
@@ -125,7 +126,7 @@ all toll system names are listed here and the last element will be one of the ex
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../routing/Toll/noSuchMethod.html">/sdk-for-flutter-explore-routing-toll-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-routing-toll-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -134,7 +135,7 @@ all toll system names are listed here and the last element will be one of the ex
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../routing/Toll/toString.html">/sdk-for-flutter-explore-routing-toll-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-routing-toll-tostring(<wbr/>)
     → String
 
 </dt>
@@ -148,7 +149,7 @@ all toll system names are listed here and the last element will be one of the ex
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-<a href="../routing/Toll/operator_equals.html">/sdk-for-flutter-explore-routing-toll-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-routing-toll-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -167,8 +168,8 @@ all toll system names are listed here and the last element will be one of the ex
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
 <li class="self-crumb">Toll class</li>
 </ol>
 <h5>routing library</h5>
@@ -185,4 +186,5 @@ all toll system names are listed here and the last element will be one of the ex
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

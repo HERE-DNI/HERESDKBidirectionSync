@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "loadTile abstract method"
 slug: "sdk-for-flutter-explore-mapview-datasource-linetilesource-loadtile"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- loadTile.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-datasource-linetilesource-loadtile"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
-<li><a href="../../mapview.datasource/LineTileSource-class.html">/sdk-for-flutter-explore-mapview-datasource-linetilesource-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-linetilesource-class</li>
 <li class="self-crumb">loadTile abstract method</li>
 </ol>
 <div class="self-name">loadTile</div>
@@ -37,9 +38,9 @@ menu
 <div>
 <h1>loadTile abstract method</h1></div>
 <section class="multi-line-signature">
-<a href="../../mapview.datasource/TileSourceLoadTileRequestHandle-class.html">/sdk-for-flutter-explore-mapview-datasource-tilesourceloadtilerequesthandle-class</a>?
-loadTile(<wbr/><ol class="parameter-list single-line"> <li><a href="../../mapview.datasource/TileKey-class.html">/sdk-for-flutter-explore-mapview-datasource-tilekey-class</a> tileKey, </li>
-<li><a href="../../mapview.datasource/LineTileSourceLoadResultHandler-class.html">/sdk-for-flutter-explore-mapview-datasource-linetilesourceloadresulthandler-class</a> completionHandler</li>
+/sdk-for-flutter-explore-mapview-datasource-tilesourceloadtilerequesthandle-class?
+loadTile(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-mapview-datasource-tilekey-class tileKey, </li>
+<li>/sdk-for-flutter-explore-mapview-datasource-linetilesourceloadresulthandler-class completionHandler</li>
 </ol>)
 
       
@@ -56,7 +57,7 @@ loadTile(<wbr/><ol class="parameter-list single-line"> <li><a href="../../mapvie
 <p><code>completionHandler</code> Load result handler.</p>
 </li>
 </ul>
-<p>Returns <a href="../../mapview.datasource/TileSourceLoadTileRequestHandle-class.html">/sdk-for-flutter-explore-mapview-datasource-tilesourceloadtilerequesthandle-class</a>. A handle to the created load request.</p>
+<p>Returns /sdk-for-flutter-explore-mapview-datasource-tilesourceloadtilerequesthandle-class. A handle to the created load request.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -70,9 +71,9 @@ loadTile(<wbr/><ol class="parameter-list single-line"> <li><a href="../../mapvie
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
-<li><a href="../../mapview.datasource/LineTileSource-class.html">/sdk-for-flutter-explore-mapview-datasource-linetilesource-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-linetilesource-class</li>
 <li class="self-crumb">loadTile abstract method</li>
 </ol>
 <h5>LineTileSource class</h5>
@@ -89,4 +90,5 @@ loadTile(<wbr/><ol class="parameter-list single-line"> <li><a href="../../mapvie
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

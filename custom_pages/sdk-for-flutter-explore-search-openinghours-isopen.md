@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "isOpen property"
 slug: "sdk-for-flutter-explore-search-openinghours-isopen"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- isOpen.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-search-openinghours-isopen"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/OpeningHours-class.html">/sdk-for-flutter-explore-search-openinghours-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-openinghours-class</li>
 <li class="self-crumb">isOpen property</li>
 </ol>
 <div class="self-name">isOpen</div>
@@ -59,9 +60,9 @@ so it may give incorrect value if device and place are located in different time
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/OpeningHours-class.html">/sdk-for-flutter-explore-search-openinghours-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-openinghours-class</li>
 <li class="self-crumb">isOpen property</li>
 </ol>
 <h5>OpeningHours class</h5>
@@ -78,4 +79,5 @@ so it may give incorrect value if device and place are located in different time
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

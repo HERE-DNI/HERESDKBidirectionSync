@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "withCategory abstract method"
 slug: "sdk-for-flutter-explore-mapview-maplayerprioritybuilder-withcategory"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- withCategory.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-maplayerprioritybuilder-withcategory"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapLayerPriorityBuilder-class.html">/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-class</li>
 <li class="self-crumb">withCategory abstract method</li>
 </ol>
 <div class="self-name">withCategory</div>
@@ -37,7 +38,7 @@ menu
 <div>
 <h1>withCategory abstract method</h1></div>
 <section class="multi-line-signature">
-<a href="../../mapview/MapLayerPriorityBuilder-class.html">/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-class</a>
+/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-class
 withCategory(<wbr/><ol class="parameter-list single-line"> <li>String category</li>
 </ol>)
 
@@ -52,7 +53,7 @@ is cleared and the builder refers again to the layer itself.</p>
 <ul>
 <li><code>category</code> The name of the layer category.</li>
 </ul>
-<p>Returns <a href="../../mapview/MapLayerPriorityBuilder-class.html">/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-class</a>. This class instance.</p>
+<p>Returns /sdk-for-flutter-explore-mapview-maplayerprioritybuilder-class. This class instance.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -66,9 +67,9 @@ is cleared and the builder refers again to the layer itself.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapLayerPriorityBuilder-class.html">/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-class</li>
 <li class="self-crumb">withCategory abstract method</li>
 </ol>
 <h5>MapLayerPriorityBuilder class</h5>
@@ -85,4 +86,5 @@ is cleared and the builder refers again to the layer itself.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

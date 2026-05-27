@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "LineDataBuilder class abstract"
 slug: "sdk-for-flutter-explore-mapview-datasource-linedatabuilder-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- LineDataBuilder-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -27,8 +28,8 @@ slug: "sdk-for-flutter-explore-mapview-datasource-linedatabuilder-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
 <li class="self-crumb">LineDataBuilder class</li>
 </ol>
 <div class="self-name">LineDataBuilder</div>
@@ -52,7 +53,7 @@ menu
 <div>
 <h1>LineDataBuilder class abstract</h1></div>
 <section class="desc markdown">
-<p>Builder of <a href="../mapview.datasource/LineData-class.html">/sdk-for-flutter-explore-mapview-datasource-linedata-class</a> instances.</p>
+<p>Builder of /sdk-for-flutter-explore-mapview-datasource-linedata-class instances.</p>
 <p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
 behavior. Related APIs may change for new releases without a deprecation process.</p>
 </section>
@@ -60,7 +61,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="LineDataBuilder">
-<a href="../mapview.datasource/LineDataBuilder/LineDataBuilder.html">/sdk-for-flutter-explore-mapview-datasource-linedatabuilder-linedatabuilder</a>()
+/sdk-for-flutter-explore-mapview-datasource-linedatabuilder-linedatabuilder()
 </dt>
 <dd>
           Creates a builder instance.
@@ -72,7 +73,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="hashCode">
-<a href="../mapview.datasource/LineDataBuilder/hashCode.html">/sdk-for-flutter-explore-mapview-datasource-linedatabuilder-hashcode</a>
+/sdk-for-flutter-explore-mapview-datasource-linedatabuilder-hashcode
 → int
 </dt>
 <dd class="inherited">
@@ -80,7 +81,7 @@ behavior. Related APIs may change for new releases without a deprecation process
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../mapview.datasource/LineDataBuilder/runtimeType.html">/sdk-for-flutter-explore-mapview-datasource-linedatabuilder-runtimetype</a>
+/sdk-for-flutter-explore-mapview-datasource-linedatabuilder-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -93,16 +94,17 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable" id="build">
-<a href="../mapview.datasource/LineDataBuilder/build.html">/sdk-for-flutter-explore-mapview-datasource-linedatabuilder-build</a>(<wbr/>)
-    → <a href="../mapview.datasource/LineData-class.html">/sdk-for-flutter-explore-mapview-datasource-linedata-class</a>
+/sdk-for-flutter-explore-mapview-datasource-linedatabuilder-build(<wbr/>)
+    → /sdk-for-flutter-explore-mapview-datasource-linedata-class
+
 </dt>
 <dd>
-  Builds an instance of <a href="../mapview.datasource/LineData-class.html">/sdk-for-flutter-explore-mapview-datasource-linedata-class</a> and resets the builder instance.
+  Builds an instance of /sdk-for-flutter-explore-mapview-datasource-linedata-class and resets the builder instance.
   
 
 </dd>
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../mapview.datasource/LineDataBuilder/noSuchMethod.html">/sdk-for-flutter-explore-mapview-datasource-linedatabuilder-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-mapview-datasource-linedatabuilder-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -111,7 +113,7 @@ behavior. Related APIs may change for new releases without a deprecation process
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../mapview.datasource/LineDataBuilder/toString.html">/sdk-for-flutter-explore-mapview-datasource-linedatabuilder-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-mapview-datasource-linedatabuilder-tostring(<wbr/>)
     → String
 
 </dt>
@@ -120,8 +122,9 @@ behavior. Related APIs may change for new releases without a deprecation process
   <div class="features">inherited</div>
 </dd>
 <dt class="callable" id="withAttributes">
-<a href="../mapview.datasource/LineDataBuilder/withAttributes.html">/sdk-for-flutter-explore-mapview-datasource-linedatabuilder-withattributes</a>(<wbr/><a href="../mapview.datasource/DataAttributes-class.html">/sdk-for-flutter-explore-mapview-datasource-dataattributes-class</a> attributes)
-    → <a href="../mapview.datasource/LineDataBuilder-class.html">/sdk-for-flutter-explore-mapview-datasource-linedatabuilder-class</a>
+/sdk-for-flutter-explore-mapview-datasource-linedatabuilder-withattributes(<wbr/>/sdk-for-flutter-explore-mapview-datasource-dataattributes-class attributes)
+    → /sdk-for-flutter-explore-mapview-datasource-linedatabuilder-class
+
 </dt>
 <dd>
   Configures the builder with custom attributes for line to be created.
@@ -129,8 +132,9 @@ behavior. Related APIs may change for new releases without a deprecation process
 
 </dd>
 <dt class="callable" id="withGeometry">
-<a href="../mapview.datasource/LineDataBuilder/withGeometry.html">/sdk-for-flutter-explore-mapview-datasource-linedatabuilder-withgeometry</a>(<wbr/><a href="../core/GeoPolyline-class.html">/sdk-for-flutter-explore-core-geopolyline-class</a> geometry)
-    → <a href="../mapview.datasource/LineDataBuilder-class.html">/sdk-for-flutter-explore-mapview-datasource-linedatabuilder-class</a>
+/sdk-for-flutter-explore-mapview-datasource-linedatabuilder-withgeometry(<wbr/>/sdk-for-flutter-explore-core-geopolyline-class geometry)
+    → /sdk-for-flutter-explore-mapview-datasource-linedatabuilder-class
+
 </dt>
 <dd>
   Configures the builder with geometry for line to be created.
@@ -143,7 +147,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-<a href="../mapview.datasource/LineDataBuilder/operator_equals.html">/sdk-for-flutter-explore-mapview-datasource-linedatabuilder-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-mapview-datasource-linedatabuilder-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -161,8 +165,8 @@ behavior. Related APIs may change for new releases without a deprecation process
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
 <li class="self-crumb">LineDataBuilder class</li>
 </ol>
 <h5>mapview.datasource library</h5>
@@ -179,4 +183,5 @@ behavior. Related APIs may change for new releases without a deprecation process
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

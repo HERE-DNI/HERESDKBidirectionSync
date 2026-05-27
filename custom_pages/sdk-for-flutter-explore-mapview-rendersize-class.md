@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "RenderSize class"
 slug: "sdk-for-flutter-explore-mapview-rendersize-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- RenderSize-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -24,8 +25,8 @@ slug: "sdk-for-flutter-explore-mapview-rendersize-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
 <li class="self-crumb">RenderSize class</li>
 </ol>
 <div class="self-name">RenderSize</div>
@@ -55,7 +56,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="RenderSize">
-<a href="../mapview/RenderSize/RenderSize.html">/sdk-for-flutter-explore-mapview-rendersize-rendersize</a>()
+/sdk-for-flutter-explore-mapview-rendersize-rendersize()
 </dt>
 <dd>
 </dd>
@@ -65,7 +66,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="hashCode">
-<a href="../mapview/RenderSize/hashCode.html">/sdk-for-flutter-explore-mapview-rendersize-hashcode</a>
+/sdk-for-flutter-explore-mapview-rendersize-hashcode
 → int
 </dt>
 <dd class="inherited">
@@ -73,7 +74,7 @@ menu
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../mapview/RenderSize/runtimeType.html">/sdk-for-flutter-explore-mapview-rendersize-runtimetype</a>
+/sdk-for-flutter-explore-mapview-rendersize-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -86,7 +87,7 @@ menu
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../mapview/RenderSize/noSuchMethod.html">/sdk-for-flutter-explore-mapview-rendersize-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-mapview-rendersize-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -95,7 +96,7 @@ menu
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../mapview/RenderSize/toString.html">/sdk-for-flutter-explore-mapview-rendersize-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-mapview-rendersize-tostring(<wbr/>)
     → String
 
 </dt>
@@ -109,7 +110,7 @@ menu
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-<a href="../mapview/RenderSize/operator_equals.html">/sdk-for-flutter-explore-mapview-rendersize-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-mapview-rendersize-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -127,8 +128,8 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
 <li class="self-crumb">RenderSize class</li>
 </ol>
 <h5>mapview library</h5>
@@ -145,4 +146,5 @@ menu
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

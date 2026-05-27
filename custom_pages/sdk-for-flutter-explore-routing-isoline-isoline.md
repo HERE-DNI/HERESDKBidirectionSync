@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "Isoline constructor"
 slug: "sdk-for-flutter-explore-routing-isoline-isoline"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- Isoline.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-routing-isoline-isoline"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/Isoline-class.html">/sdk-for-flutter-explore-routing-isoline-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-isoline-class</li>
 <li class="self-crumb">Isoline factory constructor</li>
 </ol>
 <div class="self-name">Isoline</div>
@@ -37,16 +38,16 @@ menu
 <div>
 <h1>Isoline constructor</h1></div>
 <section class="multi-line-signature">
-Isoline(<wbr/><ol class="parameter-list"> <li><a href="../../routing/IsolineRangeType.html">/sdk-for-flutter-explore-routing-isolinerangetype</a> rangeType, </li>
+Isoline(<wbr/><ol class="parameter-list"> <li>/sdk-for-flutter-explore-routing-isolinerangetype rangeType, </li>
 <li>double rangeValue, </li>
-<li><a href="../../routing/MapMatchedCoordinates-class.html">/sdk-for-flutter-explore-routing-mapmatchedcoordinates-class</a> center, </li>
-<li>List&lt;<wbr/><a href="../../core/GeoPolygon-class.html">/sdk-for-flutter-explore-core-geopolygon-class</a>&gt; polygons, </li>
+<li>/sdk-for-flutter-explore-routing-mapmatchedcoordinates-class center, </li>
+<li>List&lt;<wbr/>/sdk-for-flutter-explore-core-geopolygon-class&gt; polygons, </li>
 </ol>)
     </section>
 <section class="desc markdown">
 <p>Constructs an isoline instance.</p>
 <p>This instance is provided by the
-<a href="../../routing/CalculateIsolineCallback.html">/sdk-for-flutter-explore-routing-calculateisolinecallback</a>.</p>
+/sdk-for-flutter-explore-routing-calculateisolinecallback.</p>
 <ul>
 <li>
 <p><code>rangeType</code> Specifies the range type of the provided <code>Isoline.Isoline().rangeValue</code> list.</p>
@@ -74,9 +75,9 @@ Isoline(<wbr/><ol class="parameter-list"> <li><a href="../../routing/IsolineRang
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/Isoline-class.html">/sdk-for-flutter-explore-routing-isoline-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-isoline-class</li>
 <li class="self-crumb">Isoline factory constructor</li>
 </ol>
 <h5>Isoline class</h5>
@@ -93,4 +94,5 @@ Isoline(<wbr/><ol class="parameter-list"> <li><a href="../../routing/IsolineRang
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

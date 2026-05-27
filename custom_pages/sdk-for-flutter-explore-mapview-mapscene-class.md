@@ -1,9 +1,10 @@
 ---
-title: "Map schemes"
+title: "MapScene class abstract"
 slug: "sdk-for-flutter-explore-mapview-mapscene-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- MapScene-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -62,8 +63,8 @@ slug: "sdk-for-flutter-explore-mapview-mapscene-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
 <li class="self-crumb">MapScene class</li>
 </ol>
 <div class="self-name">MapScene</div>
@@ -90,14 +91,14 @@ menu
 <p>Represents a map scene and exposes the functionality to manipulate its content.</p>
 <h2 id="map-schemes">Map schemes</h2>
 <p>The content of the displayed map and how it looks is specified by a
-<a href="../mapview/MapScheme.html">/sdk-for-flutter-explore-mapview-mapscheme</a> which is set when loading a scene with <a href="../mapview/MapScene/loadSceneForMapScheme.html">/sdk-for-flutter-explore-mapview-mapscene-loadsceneformapscheme</a>.
+/sdk-for-flutter-explore-mapview-mapscheme which is set when loading a scene with /sdk-for-flutter-explore-mapview-mapscene-loadsceneformapscheme.
 It is also possible to load your own custom map scheme from a file bundled
 with your application. Supported file formats are:</p>
 <ul>
-<li>JSON (file extension '.json'; e.g. 'my_custom_style.json')</li>
-<li>ZIP archive (file extension '.zip'; e.g. 'my_custom_style.zip'), with the following archive structure:
+<li>JSON (file extension '.json'; e.g. '<code>my_custom_style</code>.json')</li>
+<li>ZIP archive (file extension '.zip'; e.g. '<code>my_custom_style</code>.zip'), with the following archive structure:
 <ul>
-<li>root folder: any, not empty (e.g. 'my_custom_style')</li>
+<li>root folder: any, not empty (e.g. '<code>my_custom_style</code>')</li>
 <li>JSON configuration: '<root folder="">/style.json'</root></li>
 <li>custom assets folder: '<root folder="">/assets'</root></li>
 </ul>
@@ -106,21 +107,21 @@ with your application. Supported file formats are:</p>
 <h2 id="map-features">Map features</h2>
 <p>Different map schemes offer different sets of features, for example showing traffic or 3D buildings.
 Some features have multiple modes of operation, but most have only one.
-<a href="../mapview/MapScene/getSupportedFeatures.html">/sdk-for-flutter-explore-mapview-mapscene-getsupportedfeatures</a> can be used to check what features and modes are supported
-for the current scene. Features can be enabled using <a href="../mapview/MapScene/enableFeatures.html">/sdk-for-flutter-explore-mapview-mapscene-enablefeatures</a> and disabled
-with <a href="../mapview/MapScene/disableFeatures.html">/sdk-for-flutter-explore-mapview-mapscene-disablefeatures</a>. Checking which features are currently enabled can be done using
-<a href="../mapview/MapScene/getActiveFeatures.html">/sdk-for-flutter-explore-mapview-mapscene-getactivefeatures</a>. For convenience, <a href="../mapview/MapFeatures-class.html">/sdk-for-flutter-explore-mapview-mapfeatures-class</a> and <a href="../mapview/MapFeatureModes-class.html">/sdk-for-flutter-explore-mapview-mapfeaturemodes-class</a> hold
+/sdk-for-flutter-explore-mapview-mapscene-getsupportedfeatures can be used to check what features and modes are supported
+for the current scene. Features can be enabled using /sdk-for-flutter-explore-mapview-mapscene-enablefeatures and disabled
+with /sdk-for-flutter-explore-mapview-mapscene-disablefeatures. Checking which features are currently enabled can be done using
+/sdk-for-flutter-explore-mapview-mapscene-getactivefeatures. For convenience, /sdk-for-flutter-explore-mapview-mapfeatures-class and /sdk-for-flutter-explore-mapview-mapfeaturemodes-class hold
 constants for feature and mode names.</p>
-<p>Since version 4.15.0, map features cannot be controlled using <a href="../mapview/MapScene/setLayerVisibility.html">/sdk-for-flutter-explore-mapview-mapscene-setlayervisibility</a>, since <a href="../mapview/MapScene/setLayerVisibility.html">/sdk-for-flutter-explore-mapview-mapscene-setlayervisibility</a> controls
-only visibility of the layers which are corresponding to the features enabled either by <a href="../mapview/MapScene/enableFeatures.html">/sdk-for-flutter-explore-mapview-mapscene-enablefeatures</a>
+<p>Since version 4.15.0, map features cannot be controlled using /sdk-for-flutter-explore-mapview-mapscene-setlayervisibility, since /sdk-for-flutter-explore-mapview-mapscene-setlayervisibility controls
+only visibility of the layers which are corresponding to the features enabled either by /sdk-for-flutter-explore-mapview-mapscene-enablefeatures
 or enabled by default for the scene.</p>
 <h2 id="map-layers">Map layers</h2>
-<p>A map scheme is organized in layers, which can be controlled using <a href="../mapview/MapScene/setLayerVisibility.html">/sdk-for-flutter-explore-mapview-mapscene-setlayervisibility</a>.
+<p>A map scheme is organized in layers, which can be controlled using /sdk-for-flutter-explore-mapview-mapscene-setlayervisibility.
 It's possible to change the visibility state of any map layer as long as the name is known.</p>
 <p>Layer visibility settings persist between scene reloading.</p>
 <h2 id="user-content">User content</h2>
-<p>User generated content can be visualised on the map using <a href="../mapview/MapPolyline-class.html">/sdk-for-flutter-explore-mapview-mappolyline-class</a>, <a href="../mapview/MapPolygon-class.html">/sdk-for-flutter-explore-mapview-mappolygon-class</a>, <a href="../mapview/MapMarker-class.html">/sdk-for-flutter-explore-mapview-mapmarker-class</a>,
-<a href="../mapview/MapMarkerCluster-class.html">/sdk-for-flutter-explore-mapview-mapmarkercluster-class</a>, <a href="../mapview/MapArrow-class.html">/sdk-for-flutter-explore-mapview-maparrow-class</a>, <a href="../mapview/MapMarker3D-class.html">/sdk-for-flutter-explore-mapview-mapmarker3d-class</a> and <a href="../mapview/MapImageOverlay-class.html">/sdk-for-flutter-explore-mapview-mapimageoverlay-class</a>
+<p>User generated content can be visualised on the map using /sdk-for-flutter-explore-mapview-mappolyline-class, /sdk-for-flutter-explore-mapview-mappolygon-class, /sdk-for-flutter-explore-mapview-mapmarker-class,
+/sdk-for-flutter-explore-mapview-mapmarkercluster-class, /sdk-for-flutter-explore-mapview-maparrow-class, /sdk-for-flutter-explore-mapview-mapmarker3d-class and /sdk-for-flutter-explore-mapview-mapimageoverlay-class
 (collectively referred to as "map items"). Those can be added to and removed
 from the scene by respective add and remove methods. The render order of the map items
 is according to the list above. The order of objects within the same type can be controlled using
@@ -128,9 +129,9 @@ the <code>drawOrder</code> property of each object.</p>
 <p>Be careful when adding a very large number of map items as this can have a negative impact on
 the performance of the app.
 To work around this limitation the following approach can be used:
-Register to map camera updates using <a href="../mapview/MapCamera/addListener.html">/sdk-for-flutter-explore-mapview-mapcamera-addlistener</a>. Query the bounding box of the
-camera viewport using <a href="../mapview/MapCamera/boundingBox.html">/sdk-for-flutter-explore-mapview-mapcamera-boundingbox</a> (it may be extended) and then use the method
-<a href="../core/GeoBox/containsGeoCoordinates.html">/sdk-for-flutter-explore-core-geobox-containsgeocoordinates</a> in combination with <a href="../mapview/MapCameraState/distanceToTargetInMeters.html">/sdk-for-flutter-explore-mapview-mapcamerastate-distancetotargetinmeters</a> to
+Register to map camera updates using /sdk-for-flutter-explore-mapview-mapcamera-addlistener. Query the bounding box of the
+camera viewport using /sdk-for-flutter-explore-mapview-mapcamera-boundingbox (it may be extended) and then use the method
+/sdk-for-flutter-explore-core-geobox-containsgeocoordinates in combination with /sdk-for-flutter-explore-mapview-mapcamerastate-distancetotargetinmeters to
 determine which map items are actually visible to the user in the current camera viewport and
 thus need to be added to the map.</p>
 </section>
@@ -138,7 +139,7 @@ thus need to be added to the map.</p>
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="MapScene">
-<a href="../mapview/MapScene/MapScene.html">/sdk-for-flutter-explore-mapview-mapscene-mapscene</a>()
+/sdk-for-flutter-explore-mapview-mapscene-mapscene()
 </dt>
 <dd>
 </dd>
@@ -148,7 +149,7 @@ thus need to be added to the map.</p>
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="hashCode">
-<a href="../mapview/MapScene/hashCode.html">/sdk-for-flutter-explore-mapview-mapscene-hashcode</a>
+/sdk-for-flutter-explore-mapview-mapscene-hashcode
 → int
 </dt>
 <dd class="inherited">
@@ -156,8 +157,8 @@ thus need to be added to the map.</p>
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="lights">
-<a href="../mapview/MapScene/lights.html">/sdk-for-flutter-explore-mapview-mapscene-lights</a>
-→ <a href="../mapview/MapSceneLights-class.html">/sdk-for-flutter-explore-mapview-mapscenelights-class</a>
+/sdk-for-flutter-explore-mapview-mapscene-lights
+→ /sdk-for-flutter-explore-mapview-mapscenelights-class
 </dt>
 <dd>
   Controls lights present in the scene.
@@ -165,7 +166,7 @@ Provides access to a MapSceneLights instance that controls the lights in the sce
   <div class="features">no setter</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../mapview/MapScene/runtimeType.html">/sdk-for-flutter-explore-mapview-mapscene-runtimetype</a>
+/sdk-for-flutter-explore-mapview-mapscene-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -178,7 +179,7 @@ Provides access to a MapSceneLights instance that controls the lights in the sce
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable" id="addMapArrow">
-<a href="../mapview/MapScene/addMapArrow.html">/sdk-for-flutter-explore-mapview-mapscene-addmaparrow</a>(<wbr/><a href="../mapview/MapArrow-class.html">/sdk-for-flutter-explore-mapview-maparrow-class</a> mapArrow)
+/sdk-for-flutter-explore-mapview-mapscene-addmaparrow(<wbr/>/sdk-for-flutter-explore-mapview-maparrow-class mapArrow)
     → void
 
 </dt>
@@ -188,7 +189,7 @@ Provides access to a MapSceneLights instance that controls the lights in the sce
 
 </dd>
 <dt class="callable" id="addMapImageOverlay">
-<a href="../mapview/MapScene/addMapImageOverlay.html">/sdk-for-flutter-explore-mapview-mapscene-addmapimageoverlay</a>(<wbr/><a href="../mapview/MapImageOverlay-class.html">/sdk-for-flutter-explore-mapview-mapimageoverlay-class</a> overlay)
+/sdk-for-flutter-explore-mapview-mapscene-addmapimageoverlay(<wbr/>/sdk-for-flutter-explore-mapview-mapimageoverlay-class overlay)
     → void
 
 </dt>
@@ -198,7 +199,7 @@ Provides access to a MapSceneLights instance that controls the lights in the sce
 
 </dd>
 <dt class="callable" id="addMapMarker">
-<a href="../mapview/MapScene/addMapMarker.html">/sdk-for-flutter-explore-mapview-mapscene-addmapmarker</a>(<wbr/><a href="../mapview/MapMarker-class.html">/sdk-for-flutter-explore-mapview-mapmarker-class</a> marker)
+/sdk-for-flutter-explore-mapview-mapscene-addmapmarker(<wbr/>/sdk-for-flutter-explore-mapview-mapmarker-class marker)
     → void
 
 </dt>
@@ -208,7 +209,7 @@ Provides access to a MapSceneLights instance that controls the lights in the sce
 
 </dd>
 <dt class="callable" id="addMapMarker3d">
-<a href="../mapview/MapScene/addMapMarker3d.html">/sdk-for-flutter-explore-mapview-mapscene-addmapmarker3d</a>(<wbr/><a href="../mapview/MapMarker3D-class.html">/sdk-for-flutter-explore-mapview-mapmarker3d-class</a> marker)
+/sdk-for-flutter-explore-mapview-mapscene-addmapmarker3d(<wbr/>/sdk-for-flutter-explore-mapview-mapmarker3d-class marker)
     → void
 
 </dt>
@@ -218,7 +219,7 @@ Provides access to a MapSceneLights instance that controls the lights in the sce
 
 </dd>
 <dt class="callable" id="addMapMarkerCluster">
-<a href="../mapview/MapScene/addMapMarkerCluster.html">/sdk-for-flutter-explore-mapview-mapscene-addmapmarkercluster</a>(<wbr/><a href="../mapview/MapMarkerCluster-class.html">/sdk-for-flutter-explore-mapview-mapmarkercluster-class</a> cluster)
+/sdk-for-flutter-explore-mapview-mapscene-addmapmarkercluster(<wbr/>/sdk-for-flutter-explore-mapview-mapmarkercluster-class cluster)
     → void
 
 </dt>
@@ -228,7 +229,7 @@ Provides access to a MapSceneLights instance that controls the lights in the sce
 
 </dd>
 <dt class="callable" id="addMapMarkers">
-<a href="../mapview/MapScene/addMapMarkers.html">/sdk-for-flutter-explore-mapview-mapscene-addmapmarkers</a>(<wbr/>List&lt;<wbr/><a href="../mapview/MapMarker-class.html">/sdk-for-flutter-explore-mapview-mapmarker-class</a>&gt; markers)
+/sdk-for-flutter-explore-mapview-mapscene-addmapmarkers(<wbr/>List&lt;<wbr/>/sdk-for-flutter-explore-mapview-mapmarker-class&gt; markers)
     → void
 
 </dt>
@@ -238,7 +239,7 @@ Provides access to a MapSceneLights instance that controls the lights in the sce
 
 </dd>
 <dt class="callable" id="addMapMarkers3d">
-<a href="../mapview/MapScene/addMapMarkers3d.html">/sdk-for-flutter-explore-mapview-mapscene-addmapmarkers3d</a>(<wbr/>List&lt;<wbr/><a href="../mapview/MapMarker3D-class.html">/sdk-for-flutter-explore-mapview-mapmarker3d-class</a>&gt; markers)
+/sdk-for-flutter-explore-mapview-mapscene-addmapmarkers3d(<wbr/>List&lt;<wbr/>/sdk-for-flutter-explore-mapview-mapmarker3d-class&gt; markers)
     → void
 
 </dt>
@@ -248,7 +249,7 @@ Provides access to a MapSceneLights instance that controls the lights in the sce
 
 </dd>
 <dt class="callable" id="addMapPolygon">
-<a href="../mapview/MapScene/addMapPolygon.html">/sdk-for-flutter-explore-mapview-mapscene-addmappolygon</a>(<wbr/><a href="../mapview/MapPolygon-class.html">/sdk-for-flutter-explore-mapview-mappolygon-class</a> mapPolygon)
+/sdk-for-flutter-explore-mapview-mapscene-addmappolygon(<wbr/>/sdk-for-flutter-explore-mapview-mappolygon-class mapPolygon)
     → void
 
 </dt>
@@ -258,7 +259,7 @@ Provides access to a MapSceneLights instance that controls the lights in the sce
 
 </dd>
 <dt class="callable" id="addMapPolygons">
-<a href="../mapview/MapScene/addMapPolygons.html">/sdk-for-flutter-explore-mapview-mapscene-addmappolygons</a>(<wbr/>List&lt;<wbr/><a href="../mapview/MapPolygon-class.html">/sdk-for-flutter-explore-mapview-mappolygon-class</a>&gt; mapPolygons)
+/sdk-for-flutter-explore-mapview-mapscene-addmappolygons(<wbr/>List&lt;<wbr/>/sdk-for-flutter-explore-mapview-mappolygon-class&gt; mapPolygons)
     → void
 
 </dt>
@@ -268,7 +269,7 @@ Provides access to a MapSceneLights instance that controls the lights in the sce
 
 </dd>
 <dt class="callable" id="addMapPolyline">
-<a href="../mapview/MapScene/addMapPolyline.html">/sdk-for-flutter-explore-mapview-mapscene-addmappolyline</a>(<wbr/><a href="../mapview/MapPolyline-class.html">/sdk-for-flutter-explore-mapview-mappolyline-class</a> mapPolyline)
+/sdk-for-flutter-explore-mapview-mapscene-addmappolyline(<wbr/>/sdk-for-flutter-explore-mapview-mappolyline-class mapPolyline)
     → void
 
 </dt>
@@ -278,7 +279,7 @@ Provides access to a MapSceneLights instance that controls the lights in the sce
 
 </dd>
 <dt class="callable" id="addMapPolylines">
-<a href="../mapview/MapScene/addMapPolylines.html">/sdk-for-flutter-explore-mapview-mapscene-addmappolylines</a>(<wbr/>List&lt;<wbr/><a href="../mapview/MapPolyline-class.html">/sdk-for-flutter-explore-mapview-mappolyline-class</a>&gt; mapPolylines)
+/sdk-for-flutter-explore-mapview-mapscene-addmappolylines(<wbr/>List&lt;<wbr/>/sdk-for-flutter-explore-mapview-mappolyline-class&gt; mapPolylines)
     → void
 
 </dt>
@@ -288,7 +289,7 @@ Provides access to a MapSceneLights instance that controls the lights in the sce
 
 </dd>
 <dt class="callable" id="disableFeatures">
-<a href="../mapview/MapScene/disableFeatures.html">/sdk-for-flutter-explore-mapview-mapscene-disablefeatures</a>(<wbr/>List&lt;<wbr/>String&gt; features)
+/sdk-for-flutter-explore-mapview-mapscene-disablefeatures(<wbr/>List&lt;<wbr/>String&gt; features)
     → void
 
 </dt>
@@ -298,7 +299,7 @@ Provides access to a MapSceneLights instance that controls the lights in the sce
 
 </dd>
 <dt class="callable" id="enableFeatures">
-<a href="../mapview/MapScene/enableFeatures.html">/sdk-for-flutter-explore-mapview-mapscene-enablefeatures</a>(<wbr/>Map&lt;<wbr/>String, String&gt; features)
+/sdk-for-flutter-explore-mapview-mapscene-enablefeatures(<wbr/>Map&lt;<wbr/>String, String&gt; features)
     → void
 
 </dt>
@@ -308,7 +309,7 @@ Provides access to a MapSceneLights instance that controls the lights in the sce
 
 </dd>
 <dt class="callable" id="getActiveFeatures">
-<a href="../mapview/MapScene/getActiveFeatures.html">/sdk-for-flutter-explore-mapview-mapscene-getactivefeatures</a>(<wbr/>)
+/sdk-for-flutter-explore-mapview-mapscene-getactivefeatures(<wbr/>)
     → Map&lt;<wbr/>String, String&gt;
 
 </dt>
@@ -318,7 +319,7 @@ Provides access to a MapSceneLights instance that controls the lights in the sce
 
 </dd>
 <dt class="callable" id="getSupportedFeatures">
-<a href="../mapview/MapScene/getSupportedFeatures.html">/sdk-for-flutter-explore-mapview-mapscene-getsupportedfeatures</a>(<wbr/>)
+/sdk-for-flutter-explore-mapview-mapscene-getsupportedfeatures(<wbr/>)
     → Map&lt;<wbr/>String, List&lt;<wbr/>String&gt;&gt;
 
 </dt>
@@ -329,7 +330,7 @@ loaded scene configuration.
 
 </dd>
 <dt class="callable" id="loadScene">
-<a href="../mapview/MapScene/loadScene.html">/sdk-for-flutter-explore-mapview-mapscene-loadscene</a>(<wbr/><a href="../mapview/MapSceneLoadOptions-class.html">/sdk-for-flutter-explore-mapview-mapsceneloadoptions-class</a> options, <a href="../mapview/MapSceneLoadSceneCallback.html">/sdk-for-flutter-explore-mapview-mapsceneloadscenecallback</a>? callback)
+/sdk-for-flutter-explore-mapview-mapscene-loadscene(<wbr/>/sdk-for-flutter-explore-mapview-mapsceneloadoptions-class options, /sdk-for-flutter-explore-mapview-mapsceneloadscenecallback? callback)
     → void
 
 </dt>
@@ -339,7 +340,7 @@ loaded scene configuration.
 
 </dd>
 <dt class="callable" id="loadSceneForMapScheme">
-<a href="../mapview/MapScene/loadSceneForMapScheme.html">/sdk-for-flutter-explore-mapview-mapscene-loadsceneformapscheme</a>(<wbr/><a href="../mapview/MapScheme.html">/sdk-for-flutter-explore-mapview-mapscheme</a> mapScheme, <a href="../mapview/MapSceneLoadSceneCallback.html">/sdk-for-flutter-explore-mapview-mapsceneloadscenecallback</a>? callback)
+/sdk-for-flutter-explore-mapview-mapscene-loadsceneformapscheme(<wbr/>/sdk-for-flutter-explore-mapview-mapscheme mapScheme, /sdk-for-flutter-explore-mapview-mapsceneloadscenecallback? callback)
     → void
 
 </dt>
@@ -349,7 +350,7 @@ loaded scene configuration.
 
 </dd>
 <dt class="callable" id="loadSceneFromConfigurationFile">
-<a href="../mapview/MapScene/loadSceneFromConfigurationFile.html">/sdk-for-flutter-explore-mapview-mapscene-loadscenefromconfigurationfile</a>(<wbr/>String configurationFile, <a href="../mapview/MapSceneLoadSceneCallback.html">/sdk-for-flutter-explore-mapview-mapsceneloadscenecallback</a>? callback)
+/sdk-for-flutter-explore-mapview-mapscene-loadscenefromconfigurationfile(<wbr/>String configurationFile, /sdk-for-flutter-explore-mapview-mapsceneloadscenecallback? callback)
     → void
 
 </dt>
@@ -359,7 +360,7 @@ loaded scene configuration.
 
 </dd>
 <dt class="callable" id="loadSceneFromConfigurationFileWithWatermarkStyle">
-<a href="../mapview/MapScene/loadSceneFromConfigurationFileWithWatermarkStyle.html">/sdk-for-flutter-explore-mapview-mapscene-loadscenefromconfigurationfilewithwatermarkstyle</a>(<wbr/>String configurationFile, <a href="../mapview/WatermarkStyle.html">/sdk-for-flutter-explore-mapview-watermarkstyle</a> watermarkStyle, <a href="../mapview/MapSceneLoadSceneCallback.html">/sdk-for-flutter-explore-mapview-mapsceneloadscenecallback</a>? callback)
+/sdk-for-flutter-explore-mapview-mapscene-loadscenefromconfigurationfilewithwatermarkstyle(<wbr/>String configurationFile, /sdk-for-flutter-explore-mapview-watermarkstyle watermarkStyle, /sdk-for-flutter-explore-mapview-mapsceneloadscenecallback? callback)
     → void
 
 </dt>
@@ -369,7 +370,7 @@ loaded scene configuration.
 
 </dd>
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../mapview/MapScene/noSuchMethod.html">/sdk-for-flutter-explore-mapview-mapscene-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-mapview-mapscene-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -378,7 +379,7 @@ loaded scene configuration.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable" id="reloadScene">
-<a href="../mapview/MapScene/reloadScene.html">/sdk-for-flutter-explore-mapview-mapscene-reloadscene</a>(<wbr/>)
+/sdk-for-flutter-explore-mapview-mapscene-reloadscene(<wbr/>)
     → void
 
 </dt>
@@ -388,7 +389,7 @@ loaded scene configuration.
 
 </dd>
 <dt class="callable" id="removeAllMapItems">
-<a href="../mapview/MapScene/removeAllMapItems.html">/sdk-for-flutter-explore-mapview-mapscene-removeallmapitems</a>(<wbr/>)
+/sdk-for-flutter-explore-mapview-mapscene-removeallmapitems(<wbr/>)
     → void
 
 </dt>
@@ -398,7 +399,7 @@ loaded scene configuration.
 
 </dd>
 <dt class="callable" id="removeAllMapMarkers">
-<a href="../mapview/MapScene/removeAllMapMarkers.html">/sdk-for-flutter-explore-mapview-mapscene-removeallmapmarkers</a>(<wbr/>)
+/sdk-for-flutter-explore-mapview-mapscene-removeallmapmarkers(<wbr/>)
     → void
 
 </dt>
@@ -408,7 +409,7 @@ loaded scene configuration.
 
 </dd>
 <dt class="callable" id="removeAllMapMarkers3d">
-<a href="../mapview/MapScene/removeAllMapMarkers3d.html">/sdk-for-flutter-explore-mapview-mapscene-removeallmapmarkers3d</a>(<wbr/>)
+/sdk-for-flutter-explore-mapview-mapscene-removeallmapmarkers3d(<wbr/>)
     → void
 
 </dt>
@@ -418,7 +419,7 @@ loaded scene configuration.
 
 </dd>
 <dt class="callable" id="removeAllMapPolygons">
-<a href="../mapview/MapScene/removeAllMapPolygons.html">/sdk-for-flutter-explore-mapview-mapscene-removeallmappolygons</a>(<wbr/>)
+/sdk-for-flutter-explore-mapview-mapscene-removeallmappolygons(<wbr/>)
     → void
 
 </dt>
@@ -428,7 +429,7 @@ loaded scene configuration.
 
 </dd>
 <dt class="callable" id="removeAllMapPolylines">
-<a href="../mapview/MapScene/removeAllMapPolylines.html">/sdk-for-flutter-explore-mapview-mapscene-removeallmappolylines</a>(<wbr/>)
+/sdk-for-flutter-explore-mapview-mapscene-removeallmappolylines(<wbr/>)
     → void
 
 </dt>
@@ -438,7 +439,7 @@ loaded scene configuration.
 
 </dd>
 <dt class="callable" id="removeMapArrow">
-<a href="../mapview/MapScene/removeMapArrow.html">/sdk-for-flutter-explore-mapview-mapscene-removemaparrow</a>(<wbr/><a href="../mapview/MapArrow-class.html">/sdk-for-flutter-explore-mapview-maparrow-class</a> mapArrow)
+/sdk-for-flutter-explore-mapview-mapscene-removemaparrow(<wbr/>/sdk-for-flutter-explore-mapview-maparrow-class mapArrow)
     → void
 
 </dt>
@@ -448,7 +449,7 @@ loaded scene configuration.
 
 </dd>
 <dt class="callable" id="removeMapImageOverlay">
-<a href="../mapview/MapScene/removeMapImageOverlay.html">/sdk-for-flutter-explore-mapview-mapscene-removemapimageoverlay</a>(<wbr/><a href="../mapview/MapImageOverlay-class.html">/sdk-for-flutter-explore-mapview-mapimageoverlay-class</a> overlay)
+/sdk-for-flutter-explore-mapview-mapscene-removemapimageoverlay(<wbr/>/sdk-for-flutter-explore-mapview-mapimageoverlay-class overlay)
     → void
 
 </dt>
@@ -458,7 +459,7 @@ loaded scene configuration.
 
 </dd>
 <dt class="callable" id="removeMapMarker">
-<a href="../mapview/MapScene/removeMapMarker.html">/sdk-for-flutter-explore-mapview-mapscene-removemapmarker</a>(<wbr/><a href="../mapview/MapMarker-class.html">/sdk-for-flutter-explore-mapview-mapmarker-class</a> marker)
+/sdk-for-flutter-explore-mapview-mapscene-removemapmarker(<wbr/>/sdk-for-flutter-explore-mapview-mapmarker-class marker)
     → void
 
 </dt>
@@ -468,7 +469,7 @@ loaded scene configuration.
 
 </dd>
 <dt class="callable" id="removeMapMarker3d">
-<a href="../mapview/MapScene/removeMapMarker3d.html">/sdk-for-flutter-explore-mapview-mapscene-removemapmarker3d</a>(<wbr/><a href="../mapview/MapMarker3D-class.html">/sdk-for-flutter-explore-mapview-mapmarker3d-class</a> marker)
+/sdk-for-flutter-explore-mapview-mapscene-removemapmarker3d(<wbr/>/sdk-for-flutter-explore-mapview-mapmarker3d-class marker)
     → void
 
 </dt>
@@ -478,7 +479,7 @@ loaded scene configuration.
 
 </dd>
 <dt class="callable" id="removeMapMarkerCluster">
-<a href="../mapview/MapScene/removeMapMarkerCluster.html">/sdk-for-flutter-explore-mapview-mapscene-removemapmarkercluster</a>(<wbr/><a href="../mapview/MapMarkerCluster-class.html">/sdk-for-flutter-explore-mapview-mapmarkercluster-class</a> cluster)
+/sdk-for-flutter-explore-mapview-mapscene-removemapmarkercluster(<wbr/>/sdk-for-flutter-explore-mapview-mapmarkercluster-class cluster)
     → void
 
 </dt>
@@ -488,7 +489,7 @@ loaded scene configuration.
 
 </dd>
 <dt class="callable" id="removeMapMarkers">
-<a href="../mapview/MapScene/removeMapMarkers.html">/sdk-for-flutter-explore-mapview-mapscene-removemapmarkers</a>(<wbr/>List&lt;<wbr/><a href="../mapview/MapMarker-class.html">/sdk-for-flutter-explore-mapview-mapmarker-class</a>&gt; markers)
+/sdk-for-flutter-explore-mapview-mapscene-removemapmarkers(<wbr/>List&lt;<wbr/>/sdk-for-flutter-explore-mapview-mapmarker-class&gt; markers)
     → void
 
 </dt>
@@ -498,7 +499,7 @@ loaded scene configuration.
 
 </dd>
 <dt class="callable" id="removeMapMarkers3d">
-<a href="../mapview/MapScene/removeMapMarkers3d.html">/sdk-for-flutter-explore-mapview-mapscene-removemapmarkers3d</a>(<wbr/>List&lt;<wbr/><a href="../mapview/MapMarker3D-class.html">/sdk-for-flutter-explore-mapview-mapmarker3d-class</a>&gt; markers)
+/sdk-for-flutter-explore-mapview-mapscene-removemapmarkers3d(<wbr/>List&lt;<wbr/>/sdk-for-flutter-explore-mapview-mapmarker3d-class&gt; markers)
     → void
 
 </dt>
@@ -508,7 +509,7 @@ loaded scene configuration.
 
 </dd>
 <dt class="callable" id="removeMapPolygon">
-<a href="../mapview/MapScene/removeMapPolygon.html">/sdk-for-flutter-explore-mapview-mapscene-removemappolygon</a>(<wbr/><a href="../mapview/MapPolygon-class.html">/sdk-for-flutter-explore-mapview-mappolygon-class</a> mapPolygon)
+/sdk-for-flutter-explore-mapview-mapscene-removemappolygon(<wbr/>/sdk-for-flutter-explore-mapview-mappolygon-class mapPolygon)
     → void
 
 </dt>
@@ -518,7 +519,7 @@ loaded scene configuration.
 
 </dd>
 <dt class="callable" id="removeMapPolygons">
-<a href="../mapview/MapScene/removeMapPolygons.html">/sdk-for-flutter-explore-mapview-mapscene-removemappolygons</a>(<wbr/>List&lt;<wbr/><a href="../mapview/MapPolygon-class.html">/sdk-for-flutter-explore-mapview-mappolygon-class</a>&gt; mapPolygons)
+/sdk-for-flutter-explore-mapview-mapscene-removemappolygons(<wbr/>List&lt;<wbr/>/sdk-for-flutter-explore-mapview-mappolygon-class&gt; mapPolygons)
     → void
 
 </dt>
@@ -528,7 +529,7 @@ loaded scene configuration.
 
 </dd>
 <dt class="callable" id="removeMapPolyline">
-<a href="../mapview/MapScene/removeMapPolyline.html">/sdk-for-flutter-explore-mapview-mapscene-removemappolyline</a>(<wbr/><a href="../mapview/MapPolyline-class.html">/sdk-for-flutter-explore-mapview-mappolyline-class</a> mapPolyline)
+/sdk-for-flutter-explore-mapview-mapscene-removemappolyline(<wbr/>/sdk-for-flutter-explore-mapview-mappolyline-class mapPolyline)
     → void
 
 </dt>
@@ -538,7 +539,7 @@ loaded scene configuration.
 
 </dd>
 <dt class="callable" id="removeMapPolylines">
-<a href="../mapview/MapScene/removeMapPolylines.html">/sdk-for-flutter-explore-mapview-mapscene-removemappolylines</a>(<wbr/>List&lt;<wbr/><a href="../mapview/MapPolyline-class.html">/sdk-for-flutter-explore-mapview-mappolyline-class</a>&gt; mapPolylines)
+/sdk-for-flutter-explore-mapview-mapscene-removemappolylines(<wbr/>List&lt;<wbr/>/sdk-for-flutter-explore-mapview-mappolyline-class&gt; mapPolylines)
     → void
 
 </dt>
@@ -548,7 +549,7 @@ loaded scene configuration.
 
 </dd>
 <dt class="callable" id="setLayerVisibility">
-<a href="../mapview/MapScene/setLayerVisibility.html">/sdk-for-flutter-explore-mapview-mapscene-setlayervisibility</a>(<wbr/>String layerName, <a href="../mapview/VisibilityState.html">/sdk-for-flutter-explore-mapview-visibilitystate</a> visibility)
+/sdk-for-flutter-explore-mapview-mapscene-setlayervisibility(<wbr/>String layerName, /sdk-for-flutter-explore-mapview-visibilitystate visibility)
     → void
 
 </dt>
@@ -558,7 +559,7 @@ loaded scene configuration.
 
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../mapview/MapScene/toString.html">/sdk-for-flutter-explore-mapview-mapscene-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-mapview-mapscene-tostring(<wbr/>)
     → String
 
 </dt>
@@ -572,7 +573,7 @@ loaded scene configuration.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-<a href="../mapview/MapScene/operator_equals.html">/sdk-for-flutter-explore-mapview-mapscene-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-mapview-mapscene-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -590,8 +591,8 @@ loaded scene configuration.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
 <li class="self-crumb">MapScene class</li>
 </ol>
 <h5>mapview library</h5>
@@ -608,4 +609,5 @@ loaded scene configuration.
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

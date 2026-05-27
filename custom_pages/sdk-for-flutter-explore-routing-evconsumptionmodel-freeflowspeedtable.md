@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "freeFlowSpeedTable property"
 slug: "sdk-for-flutter-explore-routing-evconsumptionmodel-freeflowspeedtable"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- freeFlowSpeedTable.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-routing-evconsumptionmodel-freeflowspeedtable"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/EVConsumptionModel-class.html">/sdk-for-flutter-explore-routing-evconsumptionmodel-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-evconsumptionmodel-class</li>
 <li class="self-crumb">freeFlowSpeedTable property</li>
 </ol>
 <div class="self-name">freeFlowSpeedTable</div>
@@ -67,9 +68,9 @@ used for all possible speed keys.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/EVConsumptionModel-class.html">/sdk-for-flutter-explore-routing-evconsumptionmodel-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-evconsumptionmodel-class</li>
 <li class="self-crumb">freeFlowSpeedTable property</li>
 </ol>
 <h5>EVConsumptionModel class</h5>
@@ -86,4 +87,5 @@ used for all possible speed keys.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

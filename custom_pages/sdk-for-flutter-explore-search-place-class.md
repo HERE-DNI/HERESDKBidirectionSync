@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "Place class abstract"
 slug: "sdk-for-flutter-explore-search-place-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- Place-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -39,8 +40,8 @@ slug: "sdk-for-flutter-explore-search-place-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
 <li class="self-crumb">Place class</li>
 </ol>
 <div class="self-name">Place</div>
@@ -70,7 +71,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="Place">
-<a href="../search/Place/Place.html">/sdk-for-flutter-explore-search-place-place</a>()
+/sdk-for-flutter-explore-search-place-place()
 </dt>
 <dd>
 </dd>
@@ -80,8 +81,8 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="accessPoints">
-<a href="../search/Place/accessPoints.html">/sdk-for-flutter-explore-search-place-accesspoints</a>
-→ List&lt;<wbr/><a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>&gt;
+/sdk-for-flutter-explore-search-place-accesspoints
+→ List&lt;<wbr/>/sdk-for-flutter-explore-core-geocoordinates-class&gt;
 </dt>
 <dd>
   The access points to the place, such as the points on a road or in a parking lot.
@@ -101,25 +102,25 @@ Gets the access points to the place, such as the points on a road or in a parkin
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="address">
-<a href="../search/Place/address.html">/sdk-for-flutter-explore-search-place-address</a>
-→ <a href="../search/Address-class.html">/sdk-for-flutter-explore-search-address-class</a>
+/sdk-for-flutter-explore-search-place-address
+→ /sdk-for-flutter-explore-search-address-class
 </dt>
 <dd>
   The address of the place.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="areaType">
-<a href="../search/Place/areaType.html">/sdk-for-flutter-explore-search-place-areatype</a>
-→ <a href="../search/AreaType.html">/sdk-for-flutter-explore-search-areatype</a>?
+/sdk-for-flutter-explore-search-place-areatype
+→ /sdk-for-flutter-explore-search-areatype?
 </dt>
 <dd>
-  The area type. It is available only when the <a href="../search/Place/placeType.html">/sdk-for-flutter-explore-search-place-placetype</a> is <a href="../search/PlaceType.html">/sdk-for-flutter-explore-search-placetype</a>.
-Gets the area type. It is available only when the <a href="../search/Place/placeType.html">/sdk-for-flutter-explore-search-place-placetype</a> is <a href="../search/PlaceType.html">/sdk-for-flutter-explore-search-placetype</a>.
+  The area type. It is available only when the /sdk-for-flutter-explore-search-place-placetype is /sdk-for-flutter-explore-search-placetype.
+Gets the area type. It is available only when the /sdk-for-flutter-explore-search-place-placetype is /sdk-for-flutter-explore-search-placetype.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="boundingBox">
-<a href="../search/Place/boundingBox.html">/sdk-for-flutter-explore-search-place-boundingbox</a>
-→ <a href="../core/GeoBox-class.html">/sdk-for-flutter-explore-core-geobox-class</a>?
+/sdk-for-flutter-explore-search-place-boundingbox
+→ /sdk-for-flutter-explore-core-geobox-class?
 </dt>
 <dd>
   The geographic coordinates of the map bounding box containing the place.
@@ -127,8 +128,8 @@ Gets the geographic coordinates of the bounding box containing the place.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="details">
-<a href="../search/Place/details.html">/sdk-for-flutter-explore-search-place-details</a>
-→ <a href="../search/Details-class.html">/sdk-for-flutter-explore-search-details-class</a>
+/sdk-for-flutter-explore-search-place-details
+→ /sdk-for-flutter-explore-search-details-class
 </dt>
 <dd>
   The place's detailed information.
@@ -136,7 +137,7 @@ Gets the place's detailed information.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="distanceInMeters">
-<a href="../search/Place/distanceInMeters.html">/sdk-for-flutter-explore-search-place-distanceinmeters</a>
+/sdk-for-flutter-explore-search-place-distanceinmeters
 → int?
 </dt>
 <dd>
@@ -145,8 +146,8 @@ Gets the distance from the search center to the place in meters.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="geoCoordinates">
-<a href="../search/Place/geoCoordinates.html">/sdk-for-flutter-explore-search-place-geocoordinates</a>
-→ <a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>?
+/sdk-for-flutter-explore-search-place-geocoordinates
+→ /sdk-for-flutter-explore-core-geocoordinates-class?
 </dt>
 <dd>
   The geographic coordinates of the place.
@@ -155,7 +156,7 @@ Gets the geographic coordinates of the place.
   <div class="features">no setter</div>
 </dd>
 <dt class="property inherited" id="hashCode">
-<a href="../search/Place/hashCode.html">/sdk-for-flutter-explore-search-place-hashcode</a>
+/sdk-for-flutter-explore-search-place-hashcode
 → int
 </dt>
 <dd class="inherited">
@@ -163,7 +164,7 @@ Gets the geographic coordinates of the place.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="id">
-<a href="../search/Place/id.html">/sdk-for-flutter-explore-search-place-id</a>
+/sdk-for-flutter-explore-search-place-id
 → String
 </dt>
 <dd>
@@ -174,20 +175,20 @@ Gets the unique id of this resource. It can be used to query further information
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="isCoordinatesInterpolated">
-<a href="../search/Place/isCoordinatesInterpolated.html">/sdk-for-flutter-explore-search-place-iscoordinatesinterpolated</a>
+/sdk-for-flutter-explore-search-place-iscoordinatesinterpolated
 → bool
 </dt>
 <dd>
   A property that says whether the coordinates of the house number were interpolated or not.
 This property is valid only for house number results retrieved using online search.
-When false, it means <a href="../search/Place/geoCoordinates.html">/sdk-for-flutter-explore-search-place-geocoordinates</a> point to an accurate position of the house. Otherwise
+When false, it means /sdk-for-flutter-explore-search-place-geocoordinates point to an accurate position of the house. Otherwise
 coordinates are slightly less accurate, but are based on a highly optimized interpolation algorithm.
 Gets the flag saying whether the coordinates of the house number were interpolated or not.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="placeType">
-<a href="../search/Place/placeType.html">/sdk-for-flutter-explore-search-place-placetype</a>
-→ <a href="../search/PlaceType.html">/sdk-for-flutter-explore-search-placetype</a>
+/sdk-for-flutter-explore-search-place-placetype
+→ /sdk-for-flutter-explore-search-placetype
 </dt>
 <dd>
   The place type.
@@ -195,20 +196,20 @@ Gets the place type.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="politicalView">
-<a href="../search/Place/politicalView.html">/sdk-for-flutter-explore-search-place-politicalview</a>
+/sdk-for-flutter-explore-search-place-politicalview
 → String?
 </dt>
 <dd>
   The geopolitical view, defined as a three letter country code, each disputed territory has international and alternative views.
-Populated when the geopolitical view parameter is set in the <a href="../core.engine/SDKOptions-class.html">/sdk-for-flutter-explore-core-engine-sdkoptions-class</a>
-and passed to <a href="../core.engine/SDKNativeEngine-class.html">/sdk-for-flutter-explore-core-engine-sdknativeengine-class</a> on instantiation,
+Populated when the geopolitical view parameter is set in the /sdk-for-flutter-explore-core-engine-sdkoptions-class
+and passed to /sdk-for-flutter-explore-core-engine-sdknativeengine-class on instantiation,
 but only if it is an alternative view.
-For more details refer to <a href="../core.engine/SDKOptions-class.html">/sdk-for-flutter-explore-core-engine-sdkoptions-class</a>.
+For more details refer to /sdk-for-flutter-explore-core-engine-sdkoptions-class.
 Gets the geopolitical view, defined as a three letter country code, each disputed territory has international and alternative views.
   <div class="features">no setter</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../search/Place/runtimeType.html">/sdk-for-flutter-explore-search-place-runtimetype</a>
+/sdk-for-flutter-explore-search-place-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -216,7 +217,7 @@ Gets the geopolitical view, defined as a three letter country code, each dispute
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="title">
-<a href="../search/Place/title.html">/sdk-for-flutter-explore-search-place-title</a>
+/sdk-for-flutter-explore-search-place-title
 → String
 </dt>
 <dd>
@@ -230,7 +231,7 @@ Gets the localized title for the resource.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../search/Place/noSuchMethod.html">/sdk-for-flutter-explore-search-place-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-search-place-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -239,17 +240,17 @@ Gets the localized title for the resource.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable" id="serializeCompact">
-<a href="../search/Place/serializeCompact.html">/sdk-for-flutter-explore-search-place-serializecompact</a>(<wbr/>)
+/sdk-for-flutter-explore-search-place-serializecompact(<wbr/>)
     → String
 
 </dt>
 <dd>
-  Serializes <a href="../search/Place-class.html">/sdk-for-flutter-explore-search-place-class</a> to persist or transfer.
+  Serializes /sdk-for-flutter-explore-search-place-class to persist or transfer.
   
 
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../search/Place/toString.html">/sdk-for-flutter-explore-search-place-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-search-place-tostring(<wbr/>)
     → String
 
 </dt>
@@ -263,7 +264,7 @@ Gets the localized title for the resource.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-<a href="../search/Place/operator_equals.html">/sdk-for-flutter-explore-search-place-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-search-place-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -277,11 +278,12 @@ Gets the localized title for the resource.
 <h2>Static Methods</h2>
 <dl class="callables">
 <dt class="callable" id="deserialize">
-<a href="../search/Place/deserialize.html">/sdk-for-flutter-explore-search-place-deserialize</a>(<wbr/>String serializedPlace)
-    → <a href="../search/Place-class.html">/sdk-for-flutter-explore-search-place-class</a>
+/sdk-for-flutter-explore-search-place-deserialize(<wbr/>String serializedPlace)
+    → /sdk-for-flutter-explore-search-place-class
+
 </dt>
 <dd>
-  Returns a <a href="../search/Place-class.html">/sdk-for-flutter-explore-search-place-class</a> created from serialized string.
+  Returns a /sdk-for-flutter-explore-search-place-class created from serialized string.
   
 
 </dd>
@@ -295,8 +297,8 @@ Gets the localized title for the resource.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
 <li class="self-crumb">Place class</li>
 </ol>
 <h5>search library</h5>
@@ -313,4 +315,5 @@ Gets the localized title for the resource.
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "truckType property"
 slug: "sdk-for-flutter-explore-transport-truckspecifications-trucktype"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- truckType.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-transport-truckspecifications-trucktype"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
-<li><a href="../../transport/TruckSpecifications-class.html">/sdk-for-flutter-explore-transport-truckspecifications-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-transport-transport-library</li>
+<li>/sdk-for-flutter-explore-transport-truckspecifications-class</li>
 <li class="self-crumb">truckType property</li>
 </ol>
 <div class="self-name">truckType</div>
@@ -37,13 +38,13 @@ menu
 <div>
 <h1>truckType property</h1></div>
 <section class="multi-line-signature">
-<a class="deprecated" href="../../transport/TruckType.html">/sdk-for-flutter-explore-transport-trucktype</a>
+/sdk-for-flutter-explore-transport-trucktype
 truckType
 <div class="features">getter/setter pair</div>
 </section>
 <section class="desc markdown">
-<p>Defines the type of truck. By default, it is <a href="../../transport/TruckType.html">/sdk-for-flutter-explore-transport-trucktype</a>.
-Rendering <code>sdk.mapview.TruckProfile</code>: <a href="../../transport/TruckSpecifications/truckType.html">/sdk-for-flutter-explore-transport-truckspecifications-trucktype</a> is ignored and has no effect.</p>
+<p>Defines the type of truck. By default, it is /sdk-for-flutter-explore-transport-trucktype.
+Rendering <code>sdk.mapview.TruckProfile</code>: /sdk-for-flutter-explore-transport-truckspecifications-trucktype is ignored and has no effect.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -57,9 +58,9 @@ Rendering <code>sdk.mapview.TruckProfile</code>: <a href="../../transport/TruckS
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
-<li><a href="../../transport/TruckSpecifications-class.html">/sdk-for-flutter-explore-transport-truckspecifications-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-transport-transport-library</li>
+<li>/sdk-for-flutter-explore-transport-truckspecifications-class</li>
 <li class="self-crumb">truckType property</li>
 </ol>
 <h5>TruckSpecifications class</h5>
@@ -76,4 +77,5 @@ Rendering <code>sdk.mapview.TruckProfile</code>: <a href="../../transport/TruckS
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

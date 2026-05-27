@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "IndoorLevelChangeData constructor"
 slug: "sdk-for-flutter-explore-routing-indoorlevelchangedata-indoorlevelchangedata"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- IndoorLevelChangeData.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-routing-indoorlevelchangedata-indoorlevelchangeda
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/IndoorLevelChangeData-class.html">/sdk-for-flutter-explore-routing-indoorlevelchangedata-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-indoorlevelchangedata-class</li>
 <li class="self-crumb">IndoorLevelChangeData constructor</li>
 </ol>
 <div class="self-name">IndoorLevelChangeData</div>
@@ -37,7 +38,7 @@ menu
 <div>
 <h1>IndoorLevelChangeData constructor</h1></div>
 <section class="multi-line-signature">
-IndoorLevelChangeData(<wbr/><ol class="parameter-list single-line"> <li><a href="../../routing/IndoorLevelChangeFeatures.html">/sdk-for-flutter-explore-routing-indoorlevelchangefeatures</a> connector, </li>
+IndoorLevelChangeData(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-routing-indoorlevelchangefeatures connector, </li>
 <li>int deltaZ</li>
 </ol>)
     </section>
@@ -61,9 +62,9 @@ a value of -1 means that a user needs to go one level down. The value is never 0
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/IndoorLevelChangeData-class.html">/sdk-for-flutter-explore-routing-indoorlevelchangedata-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-indoorlevelchangedata-class</li>
 <li class="self-crumb">IndoorLevelChangeData constructor</li>
 </ol>
 <h5>IndoorLevelChangeData class</h5>
@@ -80,4 +81,5 @@ a value of -1 means that a user needs to go one level down. The value is never 0
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

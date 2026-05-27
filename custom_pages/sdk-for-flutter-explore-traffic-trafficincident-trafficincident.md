@@ -3,7 +3,8 @@ title: "TrafficIncident constructor"
 slug: "sdk-for-flutter-explore-traffic-trafficincident-trafficincident"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- TrafficIncident.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-traffic-trafficincident-trafficincident"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../traffic/traffic-library.html">/sdk-for-flutter-explore-traffic-traffic-library</a></li>
-<li><a href="../../traffic/TrafficIncident-class.html">/sdk-for-flutter-explore-traffic-trafficincident-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-traffic-traffic-library</li>
+<li>/sdk-for-flutter-explore-traffic-trafficincident-class</li>
 <li class="self-crumb">TrafficIncident constructor</li>
 </ol>
 <div class="self-name">TrafficIncident</div>
@@ -47,9 +48,9 @@ TrafficIncident(<wbr/>)
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../traffic/traffic-library.html">/sdk-for-flutter-explore-traffic-traffic-library</a></li>
-<li><a href="../../traffic/TrafficIncident-class.html">/sdk-for-flutter-explore-traffic-trafficincident-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-traffic-traffic-library</li>
+<li>/sdk-for-flutter-explore-traffic-trafficincident-class</li>
 <li class="self-crumb">TrafficIncident constructor</li>
 </ol>
 <h5>TrafficIncident class</h5>
@@ -66,4 +67,5 @@ TrafficIncident(<wbr/>)
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

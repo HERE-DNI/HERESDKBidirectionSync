@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "setEVInterface abstract method"
 slug: "sdk-for-flutter-explore-search-searchengine-setevinterface"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- setEVInterface.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-search-searchengine-setevinterface"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/SearchEngine-class.html">/sdk-for-flutter-explore-search-searchengine-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-searchengine-class</li>
 <li class="self-crumb">setEVInterface abstract method</li>
 </ol>
 <div class="self-name">setEVInterface</div>
@@ -38,7 +39,7 @@ menu
 <h1>setEVInterface abstract method</h1></div>
 <section class="multi-line-signature">
 void
-setEVInterface(<wbr/><ol class="parameter-list single-line"> <li><a href="../../search/EVSearchInterface-class.html">/sdk-for-flutter-explore-search-evsearchinterface-class</a> evcpInterface</li>
+setEVInterface(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-search-evsearchinterface-class evcpInterface</li>
 </ol>)
 
       
@@ -64,9 +65,9 @@ Related APIs may change for new releases without a deprecation process.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/SearchEngine-class.html">/sdk-for-flutter-explore-search-searchengine-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-searchengine-class</li>
 <li class="self-crumb">setEVInterface abstract method</li>
 </ol>
 <h5>SearchEngine class</h5>
@@ -83,4 +84,5 @@ Related APIs may change for new releases without a deprecation process.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

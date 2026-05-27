@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "loadSceneForMapScheme abstract method"
 slug: "sdk-for-flutter-explore-mapview-mapscene-loadsceneformapscheme"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- loadSceneForMapScheme.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-mapscene-loadsceneformapscheme"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapScene-class.html">/sdk-for-flutter-explore-mapview-mapscene-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapscene-class</li>
 <li class="self-crumb">loadSceneForMapScheme abstract method</li>
 </ol>
 <div class="self-name">loadSceneForMapScheme</div>
@@ -38,8 +39,8 @@ menu
 <h1>loadSceneForMapScheme abstract method</h1></div>
 <section class="multi-line-signature">
 void
-loadSceneForMapScheme(<wbr/><ol class="parameter-list single-line"> <li><a href="../../mapview/MapScheme.html">/sdk-for-flutter-explore-mapview-mapscheme</a> mapScheme, </li>
-<li><a href="../../mapview/MapSceneLoadSceneCallback.html">/sdk-for-flutter-explore-mapview-mapsceneloadscenecallback</a>? callback</li>
+loadSceneForMapScheme(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-mapview-mapscheme mapScheme, </li>
+<li>/sdk-for-flutter-explore-mapview-mapsceneloadscenecallback? callback</li>
 </ol>)
 
       
@@ -50,8 +51,8 @@ loadSceneForMapScheme(<wbr/><ol class="parameter-list single-line"> <li><a href=
 <p>Any previous map scene config will be replaced. The loaded scene is cached and so any changes
 made to the scene files on disk might not get reflected on a successive call to this function.
 Instead the reloadScene API can handle such use-cases to force-update the scene.</p>
-<p>Map features enabled or disabled using <a href="../../mapview/MapScene/enableFeatures.html">/sdk-for-flutter-explore-mapview-mapscene-enablefeatures</a>
-and <a href="../../mapview/MapScene/disableFeatures.html">/sdk-for-flutter-explore-mapview-mapscene-disablefeatures</a> will be reset to defaults for the new
+<p>Map features enabled or disabled using /sdk-for-flutter-explore-mapview-mapscene-enablefeatures
+and /sdk-for-flutter-explore-mapview-mapscene-disablefeatures will be reset to defaults for the new
 scene configuration.</p>
 <p>The callback is called on the main thread.</p>
 <ul>
@@ -75,9 +76,9 @@ scene configuration.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapScene-class.html">/sdk-for-flutter-explore-mapview-mapscene-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapscene-class</li>
 <li class="self-crumb">loadSceneForMapScheme abstract method</li>
 </ol>
 <h5>MapScene class</h5>
@@ -94,4 +95,5 @@ scene configuration.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

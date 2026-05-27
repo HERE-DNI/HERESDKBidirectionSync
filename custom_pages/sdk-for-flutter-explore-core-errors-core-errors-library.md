@@ -1,9 +1,10 @@
 ---
-title: "Enums"
+title: "core.errors library"
 slug: "sdk-for-flutter-explore-core-errors-core-errors-library"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- core.errors-library.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -16,7 +17,7 @@ slug: "sdk-for-flutter-explore-core-errors-core-errors-library"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li>/sdk-for-flutter-explore</li>
 <li class="self-crumb">core.errors.dart</li>
 </ol>
 <div class="self-name">core.errors</div>
@@ -44,7 +45,7 @@ menu
 <h2>Enums</h2>
 <dl>
 <dt id="InstantiationErrorCode">
-<a href="../core.errors/InstantiationErrorCode.html">/sdk-for-flutter-explore-core-errors-instantiationerrorcode</a>
+/sdk-for-flutter-explore-core-errors-instantiationerrorcode
 </dt>
 <dd>
   Instantiation error.
@@ -55,7 +56,7 @@ menu
 <h2>Exceptions / Errors</h2>
 <dl>
 <dt id="InstantiationException">
-<a href="../core.errors/InstantiationException-class.html">/sdk-for-flutter-explore-core-errors-instantiationexception-class</a>
+/sdk-for-flutter-explore-core-errors-instantiationexception-class
 </dt>
 <dd>
   Instantiation error.
@@ -70,25 +71,25 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li>/sdk-for-flutter-explore</li>
 <li class="self-crumb">core.errors.dart</li>
 </ol>
 <h5>here_sdk package</h5>
 <ol>
 <li class="section-title">Libraries</li>
-<li><a href="../animation/animation-library.html">/sdk-for-flutter-explore-animation-animation-library</a></li>
-<li><a href="../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
-<li><a href="../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
-<li><a href="../core.errors/core.errors-library.html">/sdk-for-flutter-explore-core-errors-core-errors-library</a></li>
-<li><a href="../core.threading/core.threading-library.html">/sdk-for-flutter-explore-core-threading-core-threading-library</a></li>
-<li><a href="../ev/ev-library.html">/sdk-for-flutter-explore-ev-ev-library</a></li>
-<li><a href="../gestures/gestures-library.html">/sdk-for-flutter-explore-gestures-gestures-library</a></li>
-<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
-<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../traffic/traffic-library.html">/sdk-for-flutter-explore-traffic-traffic-library</a></li>
-<li><a href="../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
+<li>/sdk-for-flutter-explore-animation-animation-library</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
+<li>/sdk-for-flutter-explore-core-errors-core-errors-library</li>
+<li>/sdk-for-flutter-explore-core-threading-core-threading-library</li>
+<li>/sdk-for-flutter-explore-ev-ev-library</li>
+<li>/sdk-for-flutter-explore-gestures-gestures-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-traffic-traffic-library</li>
+<li>/sdk-for-flutter-explore-transport-transport-library</li>
 </ol>
 </div>
 <div class="sidebar sidebar-offcanvas-right" id="dartdoc-sidebar-right">
@@ -103,4 +104,5 @@ menu
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

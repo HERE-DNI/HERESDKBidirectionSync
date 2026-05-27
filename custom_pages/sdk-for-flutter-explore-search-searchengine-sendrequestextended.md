@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "sendRequestExtended abstract method"
 slug: "sdk-for-flutter-explore-search-searchengine-sendrequestextended"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- sendRequestExtended.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-search-searchengine-sendrequestextended"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/SearchEngine-class.html">/sdk-for-flutter-explore-search-searchengine-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-searchengine-class</li>
 <li class="self-crumb">sendRequestExtended abstract method</li>
 </ol>
 <div class="self-name">sendRequestExtended</div>
@@ -37,9 +38,9 @@ menu
 <div>
 <h1>sendRequestExtended abstract method</h1></div>
 <section class="multi-line-signature">
-<a href="../../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a>
+/sdk-for-flutter-explore-core-threading-taskhandle-class
 sendRequestExtended(<wbr/><ol class="parameter-list single-line"> <li>String href, </li>
-<li><a href="../../search/SearchCallbackExtended.html">/sdk-for-flutter-explore-search-searchcallbackextended</a> callback</li>
+<li>/sdk-for-flutter-explore-search-searchcallbackextended callback</li>
 </ol>)
 
       
@@ -47,8 +48,8 @@ sendRequestExtended(<wbr/><ol class="parameter-list single-line"> <li>String hre
     </section>
 <section class="desc markdown">
 <p>Performs an asynchronous request by using the given href.</p>
-<p>The href value can be obtained from <a href="../../search/Suggestion-class.html">/sdk-for-flutter-explore-search-suggestion-class</a> objects,
-which are the result of successful call to <a href="../../search/SearchEngine/suggestExtended.html">/sdk-for-flutter-explore-search-searchengine-suggestextended</a>.
+<p>The href value can be obtained from /sdk-for-flutter-explore-search-suggestion-class objects,
+which are the result of successful call to /sdk-for-flutter-explore-search-searchengine-suggestextended.
 Currently supports only /v1/discover path.
 Provides candidate places sorted by relevance.</p>
 <ul>
@@ -59,7 +60,7 @@ Provides candidate places sorted by relevance.</p>
 <p><code>callback</code> Callback which receives result on the main thread.</p>
 </li>
 </ul>
-<p>Returns <a href="../../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a>. Handle that will be used to manipulate execution of the task.</p>
+<p>Returns /sdk-for-flutter-explore-core-threading-taskhandle-class. Handle that will be used to manipulate execution of the task.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -73,9 +74,9 @@ Provides candidate places sorted by relevance.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/SearchEngine-class.html">/sdk-for-flutter-explore-search-searchengine-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-searchengine-class</li>
 <li class="self-crumb">sendRequestExtended abstract method</li>
 </ol>
 <h5>SearchEngine class</h5>
@@ -92,4 +93,5 @@ Provides candidate places sorted by relevance.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

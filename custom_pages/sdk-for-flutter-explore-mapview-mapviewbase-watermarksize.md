@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "watermarkSize property"
 slug: "sdk-for-flutter-explore-mapview-mapviewbase-watermarksize"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- watermarkSize.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-mapviewbase-watermarksize"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapViewBase-class.html">/sdk-for-flutter-explore-mapview-mapviewbase-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapviewbase-class</li>
 <li class="self-crumb">watermarkSize property</li>
 </ol>
 <div class="self-name">watermarkSize</div>
@@ -38,7 +39,7 @@ menu
 <h1>watermarkSize property</h1></div>
 <section id="getter">
 <section class="multi-line-signature">
-<a href="../../core/Size2D-class.html">/sdk-for-flutter-explore-core-size2d-class</a>
+/sdk-for-flutter-explore-core-size2d-class
 watermarkSize
 </section>
 <section class="desc markdown">
@@ -58,9 +59,9 @@ Returns the watermark size in physical pixels.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapViewBase-class.html">/sdk-for-flutter-explore-mapview-mapviewbase-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapviewbase-class</li>
 <li class="self-crumb">watermarkSize property</li>
 </ol>
 <h5>MapViewBase class</h5>
@@ -77,4 +78,5 @@ Returns the watermark size in physical pixels.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

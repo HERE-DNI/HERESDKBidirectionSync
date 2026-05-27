@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "GeoCorridor class"
 slug: "sdk-for-flutter-explore-core-geocorridor-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- GeoCorridor-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -27,8 +28,8 @@ slug: "sdk-for-flutter-explore-core-geocorridor-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
 <li class="self-crumb">GeoCorridor class</li>
 </ol>
 <div class="self-name">GeoCorridor</div>
@@ -70,14 +71,14 @@ any point of the polyline to the closest border of the corridor is always the sa
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="GeoCorridor">
-<a href="../core/GeoCorridor/GeoCorridor.html">/sdk-for-flutter-explore-core-geocorridor-geocorridor</a>(List&lt;<wbr/><a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>&gt; polyline, int halfWidthInMeters)
+/sdk-for-flutter-explore-core-geocorridor-geocorridor(List&lt;<wbr/>/sdk-for-flutter-explore-core-geocoordinates-class&gt; polyline, int halfWidthInMeters)
 </dt>
 <dd>
           Constructs a GeoCorridor from the provided polyline and half-width in meters.
             <div class="constructor-modifier features">factory</div>
 </dd>
 <dt class="callable" id="GeoCorridor.withPolyline">
-<a href="../core/GeoCorridor/GeoCorridor.withPolyline.html">/sdk-for-flutter-explore-core-geocorridor-geocorridor-withpolyline</a>(List&lt;<wbr/><a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>&gt; polyline)
+/sdk-for-flutter-explore-core-geocorridor-geocorridor-withpolyline(List&lt;<wbr/>/sdk-for-flutter-explore-core-geocoordinates-class&gt; polyline)
 </dt>
 <dd>
           Constructs a GeoCorridor from the provided polyline.
@@ -89,7 +90,7 @@ any point of the polyline to the closest border of the corridor is always the sa
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="halfWidthInMeters">
-<a href="../core/GeoCorridor/halfWidthInMeters.html">/sdk-for-flutter-explore-core-geocorridor-halfwidthinmeters</a>
+/sdk-for-flutter-explore-core-geocorridor-halfwidthinmeters
 → int?
 </dt>
 <dd>
@@ -97,7 +98,7 @@ any point of the polyline to the closest border of the corridor is always the sa
   <div class="features">final</div>
 </dd>
 <dt class="property" id="hashCode">
-<a href="../core/GeoCorridor/hashCode.html">/sdk-for-flutter-explore-core-geocorridor-hashcode</a>
+/sdk-for-flutter-explore-core-geocorridor-hashcode
 → int
 </dt>
 <dd>
@@ -105,15 +106,15 @@ any point of the polyline to the closest border of the corridor is always the sa
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="polyline">
-<a href="../core/GeoCorridor/polyline.html">/sdk-for-flutter-explore-core-geocorridor-polyline</a>
-→ List&lt;<wbr/><a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>&gt;
+/sdk-for-flutter-explore-core-geocorridor-polyline
+→ List&lt;<wbr/>/sdk-for-flutter-explore-core-geocoordinates-class&gt;
 </dt>
 <dd>
   The polyline passing through the middle of the corridor.
   <div class="features">final</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../core/GeoCorridor/runtimeType.html">/sdk-for-flutter-explore-core-geocorridor-runtimetype</a>
+/sdk-for-flutter-explore-core-geocorridor-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -126,7 +127,7 @@ any point of the polyline to the closest border of the corridor is always the sa
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../core/GeoCorridor/noSuchMethod.html">/sdk-for-flutter-explore-core-geocorridor-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-core-geocorridor-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -135,7 +136,7 @@ any point of the polyline to the closest border of the corridor is always the sa
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../core/GeoCorridor/toString.html">/sdk-for-flutter-explore-core-geocorridor-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-core-geocorridor-tostring(<wbr/>)
     → String
 
 </dt>
@@ -149,7 +150,7 @@ any point of the polyline to the closest border of the corridor is always the sa
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-<a href="../core/GeoCorridor/operator_equals.html">/sdk-for-flutter-explore-core-geocorridor-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-core-geocorridor-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -168,8 +169,8 @@ any point of the polyline to the closest border of the corridor is always the sa
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
 <li class="self-crumb">GeoCorridor class</li>
 </ol>
 <h5>core library</h5>
@@ -186,4 +187,5 @@ any point of the polyline to the closest border of the corridor is always the sa
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

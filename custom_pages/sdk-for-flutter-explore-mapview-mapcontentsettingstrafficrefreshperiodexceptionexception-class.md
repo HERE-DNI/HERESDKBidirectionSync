@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "MapContentSettingsTrafficRefreshPeriodExceptionException class"
 slug: "sdk-for-flutter-explore-mapview-mapcontentsettingstrafficrefreshperiodexceptionexception-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- MapContentSettingsTrafficRefreshPeriodExceptionException-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -25,8 +26,8 @@ slug: "sdk-for-flutter-explore-mapview-mapcontentsettingstrafficrefreshperiodexc
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
 <li class="self-crumb">MapContentSettingsTrafficRefreshPeriodExceptionException class</li>
 </ol>
 <div class="self-name">MapContentSettingsTrafficRefreshPeriodExceptionException</div>
@@ -56,7 +57,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="MapContentSettingsTrafficRefreshPeriodExceptionException">
-<a href="../mapview/MapContentSettingsTrafficRefreshPeriodExceptionException/MapContentSettingsTrafficRefreshPeriodExceptionException.html">/sdk-for-flutter-explore-mapview-mapcontentsettingstrafficrefreshperiodexceptionexception-mapcontentsettingstrafficrefreshperiodexceptionexception</a>(<a href="../mapview/MapContentSettingsTrafficRefreshPeriodErrorCode.html">/sdk-for-flutter-explore-mapview-mapcontentsettingstrafficrefreshperioderrorcode</a> error)
+/sdk-for-flutter-explore-mapview-mapcontentsettingstrafficrefreshperiodexceptionexception-mapcontentsettingstrafficrefreshperiodexceptionexception(/sdk-for-flutter-explore-mapview-mapcontentsettingstrafficrefreshperioderrorcode error)
 </dt>
 <dd>
 </dd>
@@ -66,14 +67,14 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="error">
-<a href="../mapview/MapContentSettingsTrafficRefreshPeriodExceptionException/error.html">/sdk-for-flutter-explore-mapview-mapcontentsettingstrafficrefreshperiodexceptionexception-error</a>
-→ <a href="../mapview/MapContentSettingsTrafficRefreshPeriodErrorCode.html">/sdk-for-flutter-explore-mapview-mapcontentsettingstrafficrefreshperioderrorcode</a>
+/sdk-for-flutter-explore-mapview-mapcontentsettingstrafficrefreshperiodexceptionexception-error
+→ /sdk-for-flutter-explore-mapview-mapcontentsettingstrafficrefreshperioderrorcode
 </dt>
 <dd>
 <div class="features">final</div>
 </dd>
 <dt class="property inherited" id="hashCode">
-<a href="../mapview/MapContentSettingsTrafficRefreshPeriodExceptionException/hashCode.html">/sdk-for-flutter-explore-mapview-mapcontentsettingstrafficrefreshperiodexceptionexception-hashcode</a>
+/sdk-for-flutter-explore-mapview-mapcontentsettingstrafficrefreshperiodexceptionexception-hashcode
 → int
 </dt>
 <dd class="inherited">
@@ -81,7 +82,7 @@ menu
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../mapview/MapContentSettingsTrafficRefreshPeriodExceptionException/runtimeType.html">/sdk-for-flutter-explore-mapview-mapcontentsettingstrafficrefreshperiodexceptionexception-runtimetype</a>
+/sdk-for-flutter-explore-mapview-mapcontentsettingstrafficrefreshperiodexceptionexception-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -94,7 +95,7 @@ menu
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../mapview/MapContentSettingsTrafficRefreshPeriodExceptionException/noSuchMethod.html">/sdk-for-flutter-explore-mapview-mapcontentsettingstrafficrefreshperiodexceptionexception-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-mapview-mapcontentsettingstrafficrefreshperiodexceptionexception-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -103,7 +104,7 @@ menu
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../mapview/MapContentSettingsTrafficRefreshPeriodExceptionException/toString.html">/sdk-for-flutter-explore-mapview-mapcontentsettingstrafficrefreshperiodexceptionexception-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-mapview-mapcontentsettingstrafficrefreshperiodexceptionexception-tostring(<wbr/>)
     → String
 
 </dt>
@@ -117,7 +118,7 @@ menu
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-<a href="../mapview/MapContentSettingsTrafficRefreshPeriodExceptionException/operator_equals.html">/sdk-for-flutter-explore-mapview-mapcontentsettingstrafficrefreshperiodexceptionexception-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-mapview-mapcontentsettingstrafficrefreshperiodexceptionexception-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -135,8 +136,8 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
 <li class="self-crumb">MapContentSettingsTrafficRefreshPeriodExceptionException class</li>
 </ol>
 <h5>mapview library</h5>
@@ -153,4 +154,5 @@ menu
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

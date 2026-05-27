@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "isMyPlace method"
 slug: "sdk-for-flutter-explore-search-geoplace-ismyplace"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- isMyPlace.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-search-geoplace-ismyplace"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/GeoPlace-class.html">/sdk-for-flutter-explore-search-geoplace-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-geoplace-class</li>
 <li class="self-crumb">isMyPlace method</li>
 </ol>
 <div class="self-name">isMyPlace</div>
@@ -59,9 +60,9 @@ isMyPlace(<wbr/>)
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/GeoPlace-class.html">/sdk-for-flutter-explore-search-geoplace-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-geoplace-class</li>
 <li class="self-crumb">isMyPlace method</li>
 </ol>
 <h5>GeoPlace class</h5>
@@ -78,4 +79,5 @@ isMyPlace(<wbr/>)
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "withWidthInCentimeters abstract method"
 slug: "sdk-for-flutter-explore-transport-vehiclespecificationtruckbuilder-withwidthincentimeters"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- withWidthInCentimeters.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-transport-vehiclespecificationtruckbuilder-withwi
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
-<li><a href="../../transport/VehicleSpecificationTruckBuilder-class.html">/sdk-for-flutter-explore-transport-vehiclespecificationtruckbuilder-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-transport-transport-library</li>
+<li>/sdk-for-flutter-explore-transport-vehiclespecificationtruckbuilder-class</li>
 <li class="self-crumb">withWidthInCentimeters abstract method</li>
 </ol>
 <div class="self-name">withWidthInCentimeters</div>
@@ -37,7 +38,7 @@ menu
 <div>
 <h1>withWidthInCentimeters abstract method</h1></div>
 <section class="multi-line-signature">
-<a href="../../transport/VehicleSpecificationTruckBuilder-class.html">/sdk-for-flutter-explore-transport-vehiclespecificationtruckbuilder-class</a>
+/sdk-for-flutter-explore-transport-vehiclespecificationtruckbuilder-class
 withWidthInCentimeters(<wbr/><ol class="parameter-list single-line"> <li>int widthInCentimeters</li>
 </ol>)
 
@@ -49,7 +50,7 @@ withWidthInCentimeters(<wbr/><ol class="parameter-list single-line"> <li>int wid
 <ul>
 <li><code>widthInCentimeters</code> The vehicle width in centimeters.</li>
 </ul>
-<p>Returns <a href="../../transport/VehicleSpecificationTruckBuilder-class.html">/sdk-for-flutter-explore-transport-vehiclespecificationtruckbuilder-class</a>. The <a href="../../transport/VehicleSpecificationTruckBuilder-class.html">/sdk-for-flutter-explore-transport-vehiclespecificationtruckbuilder-class</a> object with the vehicle width set to the new value.</p>
+<p>Returns /sdk-for-flutter-explore-transport-vehiclespecificationtruckbuilder-class. The /sdk-for-flutter-explore-transport-vehiclespecificationtruckbuilder-class object with the vehicle width set to the new value.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -63,9 +64,9 @@ withWidthInCentimeters(<wbr/><ol class="parameter-list single-line"> <li>int wid
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
-<li><a href="../../transport/VehicleSpecificationTruckBuilder-class.html">/sdk-for-flutter-explore-transport-vehiclespecificationtruckbuilder-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-transport-transport-library</li>
+<li>/sdk-for-flutter-explore-transport-vehiclespecificationtruckbuilder-class</li>
 <li class="self-crumb">withWidthInCentimeters abstract method</li>
 </ol>
 <h5>VehicleSpecificationTruckBuilder class</h5>
@@ -82,4 +83,5 @@ withWidthInCentimeters(<wbr/><ol class="parameter-list single-line"> <li>int wid
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

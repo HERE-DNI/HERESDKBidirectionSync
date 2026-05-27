@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "price property"
 slug: "sdk-for-flutter-explore-search-evchargingtariffpricecomponent-price"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- price.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-search-evchargingtariffpricecomponent-price"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/EVChargingTariffPriceComponent-class.html">/sdk-for-flutter-explore-search-evchargingtariffpricecomponent-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-evchargingtariffpricecomponent-class</li>
 <li class="self-crumb">price property</li>
 </ol>
 <div class="self-name">price</div>
@@ -43,7 +44,7 @@ menu
 <div class="features">getter/setter pair</div>
 </section>
 <section class="desc markdown">
-<p>The price per unit, excluding VAT. The units are defined by the <a href="../../search/EVChargingTariffPriceComponent/dimension.html">/sdk-for-flutter-explore-search-evchargingtariffpricecomponent-dimension</a></p>
+<p>The price per unit, excluding VAT. The units are defined by the /sdk-for-flutter-explore-search-evchargingtariffpricecomponent-dimension</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -57,9 +58,9 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/EVChargingTariffPriceComponent-class.html">/sdk-for-flutter-explore-search-evchargingtariffpricecomponent-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-evchargingtariffpricecomponent-class</li>
 <li class="self-crumb">price property</li>
 </ol>
 <h5>EVChargingTariffPriceComponent class</h5>
@@ -76,4 +77,5 @@ menu
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

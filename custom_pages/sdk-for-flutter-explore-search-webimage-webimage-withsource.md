@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "WebImage.withSource constructor"
 slug: "sdk-for-flutter-explore-search-webimage-webimage-withsource"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- WebImage.withSource.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-search-webimage-webimage-withsource"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/WebImage-class.html">/sdk-for-flutter-explore-search-webimage-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-webimage-class</li>
 <li class="self-crumb">WebImage.withSource factory constructor</li>
 </ol>
 <div class="self-name">WebImage.withSource</div>
@@ -37,12 +38,12 @@ menu
 <div>
 <h1>WebImage.withSource constructor</h1></div>
 <section class="multi-line-signature">
-WebImage.withSource(<wbr/><ol class="parameter-list single-line"> <li><a href="../../search/WebSource-class.html">/sdk-for-flutter-explore-search-websource-class</a> source</li>
+WebImage.withSource(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-search-websource-class source</li>
 </ol>)
     </section>
 <section class="desc markdown">
 <p>Creates a new instance.</p>
-<p>Sets <a href="../../search/WebImage/source.html">/sdk-for-flutter-explore-search-webimage-source</a> to the given source.</p>
+<p>Sets /sdk-for-flutter-explore-search-webimage-source to the given source.</p>
 <ul>
 <li><code>source</code> Detailed information about image source.</li>
 </ul>
@@ -59,9 +60,9 @@ WebImage.withSource(<wbr/><ol class="parameter-list single-line"> <li><a href=".
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/WebImage-class.html">/sdk-for-flutter-explore-search-webimage-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-webimage-class</li>
 <li class="self-crumb">WebImage.withSource factory constructor</li>
 </ol>
 <h5>WebImage class</h5>
@@ -78,4 +79,5 @@ WebImage.withSource(<wbr/><ol class="parameter-list single-line"> <li><a href=".
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

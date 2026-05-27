@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "CalculateRouteCallback typedef"
 slug: "sdk-for-flutter-explore-routing-calculateroutecallback"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- CalculateRouteCallback.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,8 +12,8 @@ slug: "sdk-for-flutter-explore-routing-calculateroutecallback"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
 <li class="self-crumb">CalculateRouteCallback typedef</li>
 </ol>
 <div class="self-name">CalculateRouteCallback</div>
@@ -37,7 +38,7 @@ menu
 <h1>CalculateRouteCallback typedef</h1></div>
 <section class="multi-line-signature">
 CalculateRouteCallback =
-     void Function(<a href="../routing/RoutingError.html">/sdk-for-flutter-explore-routing-routingerror</a>? routingError, List&lt;<wbr/><a href="../routing/Route-class.html">/sdk-for-flutter-explore-routing-route-class</a>&gt;? routeList)
+     void Function(/sdk-for-flutter-explore-routing-routingerror? routingError, List&lt;<wbr/>/sdk-for-flutter-explore-routing-route-class&gt;? routeList)
 </section>
 <section class="desc markdown">
 <p>A function which is called by the RoutingEngine after route calculation has completed.</p>
@@ -65,8 +66,8 @@ The second argument is the calculated routes. It is <code>null</code> in case of
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
 <li class="self-crumb">CalculateRouteCallback typedef</li>
 </ol>
 <h5>routing library</h5>
@@ -83,4 +84,5 @@ The second argument is the calculated routes. It is <code>null</code> in case of
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "TransportSpecificationTaxiBuilder constructor"
 slug: "sdk-for-flutter-explore-transport-transportspecificationtaxibuilder-transportspecificationtaxibuilder"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- TransportSpecificationTaxiBuilder.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-transport-transportspecificationtaxibuilder-trans
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
-<li><a href="../../transport/TransportSpecificationTaxiBuilder-class.html">/sdk-for-flutter-explore-transport-transportspecificationtaxibuilder-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-transport-transport-library</li>
+<li>/sdk-for-flutter-explore-transport-transportspecificationtaxibuilder-class</li>
 <li class="self-crumb">TransportSpecificationTaxiBuilder factory constructor</li>
 </ol>
 <div class="self-name">TransportSpecificationTaxiBuilder</div>
@@ -54,9 +55,9 @@ TransportSpecificationTaxiBuilder(<wbr/>)
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
-<li><a href="../../transport/TransportSpecificationTaxiBuilder-class.html">/sdk-for-flutter-explore-transport-transportspecificationtaxibuilder-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-transport-transport-library</li>
+<li>/sdk-for-flutter-explore-transport-transportspecificationtaxibuilder-class</li>
 <li class="self-crumb">TransportSpecificationTaxiBuilder factory constructor</li>
 </ol>
 <h5>TransportSpecificationTaxiBuilder class</h5>
@@ -73,4 +74,5 @@ TransportSpecificationTaxiBuilder(<wbr/>)
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

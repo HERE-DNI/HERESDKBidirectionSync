@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "domainNameSystemServers property"
 slug: "sdk-for-flutter-explore-core-engine-networksettings-domainnamesystemservers"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- domainNameSystemServers.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-core-engine-networksettings-domainnamesystemserve
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
-<li><a href="../../core.engine/NetworkSettings-class.html">/sdk-for-flutter-explore-core-engine-networksettings-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
+<li>/sdk-for-flutter-explore-core-engine-networksettings-class</li>
 <li class="self-crumb">domainNameSystemServers property</li>
 </ol>
 <div class="self-name">domainNameSystemServers</div>
@@ -38,7 +39,7 @@ menu
 <h1>domainNameSystemServers property</h1></div>
 <section class="multi-line-signature">
         
-        List&lt;<wbr/><a href="../../core/NetworkEndpoint-class.html">/sdk-for-flutter-explore-core-networkendpoint-class</a>&gt;
+        List&lt;<wbr/>/sdk-for-flutter-explore-core-networkendpoint-class&gt;
 domainNameSystemServers
 <div class="features">getter/setter pair</div>
 </section>
@@ -60,9 +61,9 @@ Currently only IPv4 is supported.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
-<li><a href="../../core.engine/NetworkSettings-class.html">/sdk-for-flutter-explore-core-engine-networksettings-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
+<li>/sdk-for-flutter-explore-core-engine-networksettings-class</li>
 <li class="self-crumb">domainNameSystemServers property</li>
 </ol>
 <h5>NetworkSettings class</h5>
@@ -79,4 +80,5 @@ Currently only IPv4 is supported.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

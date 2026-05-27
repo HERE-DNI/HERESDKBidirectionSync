@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "makeMyPlace static method"
 slug: "sdk-for-flutter-explore-search-geoplace-makemyplace"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- makeMyPlace.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-search-geoplace-makemyplace"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/GeoPlace-class.html">/sdk-for-flutter-explore-search-geoplace-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-geoplace-class</li>
 <li class="self-crumb">makeMyPlace static method</li>
 </ol>
 <div class="self-name">makeMyPlace</div>
@@ -37,9 +38,9 @@ menu
 <div>
 <h1>makeMyPlace static method</h1></div>
 <section class="multi-line-signature">
-<a href="../../search/GeoPlace-class.html">/sdk-for-flutter-explore-search-geoplace-class</a>
+/sdk-for-flutter-explore-search-geoplace-class
 makeMyPlace(<wbr/><ol class="parameter-list single-line"> <li>String title, </li>
-<li><a href="../../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a> coordinates</li>
+<li>/sdk-for-flutter-explore-core-geocoordinates-class coordinates</li>
 </ol>)
 
       
@@ -57,7 +58,7 @@ and all properties containing lists will contain empty lists.</p>
 <p><code>coordinates</code> The coordinates.</p>
 </li>
 </ul>
-<p>Returns <a href="../../search/GeoPlace-class.html">/sdk-for-flutter-explore-search-geoplace-class</a>. An instance of <a href="../../search/GeoPlace-class.html">/sdk-for-flutter-explore-search-geoplace-class</a>.</p>
+<p>Returns /sdk-for-flutter-explore-search-geoplace-class. An instance of /sdk-for-flutter-explore-search-geoplace-class.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -71,9 +72,9 @@ and all properties containing lists will contain empty lists.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/GeoPlace-class.html">/sdk-for-flutter-explore-search-geoplace-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-geoplace-class</li>
 <li class="self-crumb">makeMyPlace static method</li>
 </ol>
 <h5>GeoPlace class</h5>
@@ -90,4 +91,5 @@ and all properties containing lists will contain empty lists.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "Location class"
 slug: "sdk-for-flutter-explore-core-location-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- Location-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -37,8 +38,8 @@ slug: "sdk-for-flutter-explore-core-location-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
 <li class="self-crumb">Location class</li>
 </ol>
 <div class="self-name">Location</div>
@@ -68,7 +69,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="Location.withCoordinates">
-<a href="../core/Location/Location.withCoordinates.html">/sdk-for-flutter-explore-core-location-location-withcoordinates</a>(<a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a> coordinates)
+/sdk-for-flutter-explore-core-location-location-withcoordinates(/sdk-for-flutter-explore-core-geocoordinates-class coordinates)
 </dt>
 <dd>
           Creates a new Location instance from the provided GeoCoordinates value.
@@ -81,7 +82,7 @@ The rest of the fields will be initialized to null.
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="bearingAccuracyInDegrees">
-<a href="../core/Location/bearingAccuracyInDegrees.html">/sdk-for-flutter-explore-core-location-bearingaccuracyindegrees</a>
+/sdk-for-flutter-explore-core-location-bearingaccuracyindegrees
 ↔ double?
 </dt>
 <dd>
@@ -90,7 +91,7 @@ If it cannot be determined, the value is <code>null</code>.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="bearingInDegrees">
-<a href="../core/Location/bearingInDegrees.html">/sdk-for-flutter-explore-core-location-bearingindegrees</a>
+/sdk-for-flutter-explore-core-location-bearingindegrees
 ↔ double?
 </dt>
 <dd>
@@ -103,15 +104,15 @@ guaranteed to be in the range [0, 360).
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="coordinates">
-<a href="../core/Location/coordinates.html">/sdk-for-flutter-explore-core-location-coordinates</a>
-↔ <a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>
+/sdk-for-flutter-explore-core-location-coordinates
+↔ /sdk-for-flutter-explore-core-geocoordinates-class
 </dt>
 <dd>
   The geographic coordinates of the location.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="gnssTime">
-<a href="../core/Location/gnssTime.html">/sdk-for-flutter-explore-core-location-gnsstime</a>
+/sdk-for-flutter-explore-core-location-gnsstime
 ↔ Duration?
 </dt>
 <dd>
@@ -121,7 +122,7 @@ If it cannot be determined, the value is <code>null</code>.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-<a href="../core/Location/hashCode.html">/sdk-for-flutter-explore-core-location-hashcode</a>
+/sdk-for-flutter-explore-core-location-hashcode
 → int
 </dt>
 <dd>
@@ -129,7 +130,7 @@ If it cannot be determined, the value is <code>null</code>.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="horizontalAccuracyInMeters">
-<a href="../core/Location/horizontalAccuracyInMeters.html">/sdk-for-flutter-explore-core-location-horizontalaccuracyinmeters</a>
+/sdk-for-flutter-explore-core-location-horizontalaccuracyinmeters
 ↔ double?
 </dt>
 <dd>
@@ -137,8 +138,8 @@ If it cannot be determined, the value is <code>null</code>.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="locationTechnology">
-<a href="../core/Location/locationTechnology.html">/sdk-for-flutter-explore-core-location-locationtechnology</a>
-↔ <a href="../core/LocationTechnology.html">/sdk-for-flutter-explore-core-locationtechnology</a>?
+/sdk-for-flutter-explore-core-location-locationtechnology
+↔ /sdk-for-flutter-explore-core-locationtechnology?
 </dt>
 <dd>
   Optional technology or provider of this location.
@@ -146,7 +147,7 @@ If it cannot be determined, the value is <code>null</code>.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="pitchInDegrees">
-<a href="../core/Location/pitchInDegrees.html">/sdk-for-flutter-explore-core-location-pitchindegrees</a>
+/sdk-for-flutter-explore-core-location-pitchindegrees
 ↔ double?
 </dt>
 <dd>
@@ -155,7 +156,7 @@ If it cannot be determined, the value is <code>null</code>.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../core/Location/runtimeType.html">/sdk-for-flutter-explore-core-location-runtimetype</a>
+/sdk-for-flutter-explore-core-location-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -163,8 +164,8 @@ If it cannot be determined, the value is <code>null</code>.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="source">
-<a href="../core/Location/source.html">/sdk-for-flutter-explore-core-location-source</a>
-↔ <a href="../core/LocationSource.html">/sdk-for-flutter-explore-core-locationsource</a>?
+/sdk-for-flutter-explore-core-location-source
+↔ /sdk-for-flutter-explore-core-locationsource?
 </dt>
 <dd>
   Optional source of this location.
@@ -172,7 +173,7 @@ If it cannot be determined, the value is <code>null</code>.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="speedAccuracyInMetersPerSecond">
-<a href="../core/Location/speedAccuracyInMetersPerSecond.html">/sdk-for-flutter-explore-core-location-speedaccuracyinmeterspersecond</a>
+/sdk-for-flutter-explore-core-location-speedaccuracyinmeterspersecond
 ↔ double?
 </dt>
 <dd>
@@ -181,7 +182,7 @@ If it cannot be determined, the value is <code>null</code>.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="speedInMetersPerSecond">
-<a href="../core/Location/speedInMetersPerSecond.html">/sdk-for-flutter-explore-core-location-speedinmeterspersecond</a>
+/sdk-for-flutter-explore-core-location-speedinmeterspersecond
 ↔ double?
 </dt>
 <dd>
@@ -189,7 +190,7 @@ If it cannot be determined, the value is <code>null</code>.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="time">
-<a href="../core/Location/time.html">/sdk-for-flutter-explore-core-location-time</a>
+/sdk-for-flutter-explore-core-location-time
 ↔ DateTime?
 </dt>
 <dd>
@@ -197,7 +198,7 @@ If it cannot be determined, the value is <code>null</code>.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="timestampSinceBoot">
-<a href="../core/Location/timestampSinceBoot.html">/sdk-for-flutter-explore-core-location-timestampsinceboot</a>
+/sdk-for-flutter-explore-core-location-timestampsinceboot
 ↔ Duration?
 </dt>
 <dd>
@@ -209,7 +210,7 @@ If it cannot be determined, the value is <code>null</code>.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="verticalAccuracyInMeters">
-<a href="../core/Location/verticalAccuracyInMeters.html">/sdk-for-flutter-explore-core-location-verticalaccuracyinmeters</a>
+/sdk-for-flutter-explore-core-location-verticalaccuracyinmeters
 ↔ double?
 </dt>
 <dd>
@@ -227,7 +228,7 @@ is 8, then the actual value is most likely in the range [42, 58].
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../core/Location/noSuchMethod.html">/sdk-for-flutter-explore-core-location-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-core-location-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -236,7 +237,7 @@ is 8, then the actual value is most likely in the range [42, 58].
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../core/Location/toString.html">/sdk-for-flutter-explore-core-location-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-core-location-tostring(<wbr/>)
     → String
 
 </dt>
@@ -250,7 +251,7 @@ is 8, then the actual value is most likely in the range [42, 58].
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-<a href="../core/Location/operator_equals.html">/sdk-for-flutter-explore-core-location-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-core-location-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -269,8 +270,8 @@ is 8, then the actual value is most likely in the range [42, 58].
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
 <li class="self-crumb">Location class</li>
 </ol>
 <h5>core library</h5>
@@ -287,4 +288,5 @@ is 8, then the actual value is most likely in the range [42, 58].
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

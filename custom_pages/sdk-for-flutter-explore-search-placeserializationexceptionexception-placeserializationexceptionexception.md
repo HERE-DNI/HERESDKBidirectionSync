@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "PlaceSerializationExceptionException constructor"
 slug: "sdk-for-flutter-explore-search-placeserializationexceptionexception-placeserializationexceptionexception"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- PlaceSerializationExceptionException.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-search-placeserializationexceptionexception-place
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/PlaceSerializationExceptionException-class.html">/sdk-for-flutter-explore-search-placeserializationexceptionexception-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-placeserializationexceptionexception-class</li>
 <li class="self-crumb">PlaceSerializationExceptionException constructor</li>
 </ol>
 <div class="self-name">PlaceSerializationExceptionException</div>
@@ -37,7 +38,7 @@ menu
 <div>
 <h1>PlaceSerializationExceptionException constructor</h1></div>
 <section class="multi-line-signature">
-PlaceSerializationExceptionException(<wbr/><ol class="parameter-list single-line"> <li><a href="../../search/PlaceSerializationError.html">/sdk-for-flutter-explore-search-placeserializationerror</a> error</li>
+PlaceSerializationExceptionException(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-search-placeserializationerror error</li>
 </ol>)
     </section>
 <section class="summary source-code" id="source">
@@ -52,9 +53,9 @@ PlaceSerializationExceptionException(<wbr/><ol class="parameter-list single-line
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/PlaceSerializationExceptionException-class.html">/sdk-for-flutter-explore-search-placeserializationexceptionexception-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-placeserializationexceptionexception-class</li>
 <li class="self-crumb">PlaceSerializationExceptionException constructor</li>
 </ol>
 <h5>PlaceSerializationExceptionException class</h5>
@@ -71,4 +72,5 @@ PlaceSerializationExceptionException(<wbr/><ol class="parameter-list single-line
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

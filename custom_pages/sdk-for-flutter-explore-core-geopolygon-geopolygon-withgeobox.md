@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "GeoPolygon.withGeoBox constructor"
 slug: "sdk-for-flutter-explore-core-geopolygon-geopolygon-withgeobox"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- GeoPolygon.withGeoBox.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-core-geopolygon-geopolygon-withgeobox"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
-<li><a href="../../core/GeoPolygon-class.html">/sdk-for-flutter-explore-core-geopolygon-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
+<li>/sdk-for-flutter-explore-core-geopolygon-class</li>
 <li class="self-crumb">GeoPolygon.withGeoBox factory constructor</li>
 </ol>
 <div class="self-name">GeoPolygon.withGeoBox</div>
@@ -37,14 +38,14 @@ menu
 <div>
 <h1>GeoPolygon.withGeoBox constructor</h1></div>
 <section class="multi-line-signature">
-GeoPolygon.withGeoBox(<wbr/><ol class="parameter-list single-line"> <li><a href="../../core/GeoBox-class.html">/sdk-for-flutter-explore-core-geobox-class</a> geoBox</li>
+GeoPolygon.withGeoBox(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-core-geobox-class geoBox</li>
 </ol>)
     </section>
 <section class="desc markdown">
-<p>Constructs an instance of this class from <a href="../../core/GeoBox-class.html">/sdk-for-flutter-explore-core-geobox-class</a>.</p>
+<p>Constructs an instance of this class from /sdk-for-flutter-explore-core-geobox-class.</p>
 <ul>
-<li><code>geoBox</code> A rectangle defined by the <a href="../../core/GeoBox-class.html">/sdk-for-flutter-explore-core-geobox-class</a> to be converted into <a href="../../core/GeoPolygon-class.html">/sdk-for-flutter-explore-core-geopolygon-class</a>.
-The corner coordinates defined by the <a href="../../core/GeoBox-class.html">/sdk-for-flutter-explore-core-geobox-class</a> will define the outer boundary verticies of the <a href="../../core/GeoPolygon-class.html">/sdk-for-flutter-explore-core-geopolygon-class</a>.</li>
+<li><code>geoBox</code> A rectangle defined by the /sdk-for-flutter-explore-core-geobox-class to be converted into /sdk-for-flutter-explore-core-geopolygon-class.
+The corner coordinates defined by the /sdk-for-flutter-explore-core-geobox-class will define the outer boundary verticies of the /sdk-for-flutter-explore-core-geopolygon-class.</li>
 </ul>
 </section>
 <section class="summary source-code" id="source">
@@ -59,9 +60,9 @@ The corner coordinates defined by the <a href="../../core/GeoBox-class.html">/sd
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
-<li><a href="../../core/GeoPolygon-class.html">/sdk-for-flutter-explore-core-geopolygon-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
+<li>/sdk-for-flutter-explore-core-geopolygon-class</li>
 <li class="self-crumb">GeoPolygon.withGeoBox factory constructor</li>
 </ol>
 <h5>GeoPolygon class</h5>
@@ -78,4 +79,5 @@ The corner coordinates defined by the <a href="../../core/GeoBox-class.html">/sd
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

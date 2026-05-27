@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "azimuth property"
 slug: "sdk-for-flutter-explore-mapview-mapscenelightsdirection-azimuth"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- azimuth.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-mapscenelightsdirection-azimuth"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapSceneLightsDirection-class.html">/sdk-for-flutter-explore-mapview-mapscenelightsdirection-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapscenelightsdirection-class</li>
 <li class="self-crumb">azimuth property</li>
 </ol>
 <div class="self-name">azimuth</div>
@@ -64,9 +65,9 @@ Thus, 90 degrees corresponds to East, 180 degrees to South, and 270 degrees to W
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapSceneLightsDirection-class.html">/sdk-for-flutter-explore-mapview-mapscenelightsdirection-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapscenelightsdirection-class</li>
 <li class="self-crumb">azimuth property</li>
 </ol>
 <h5>MapSceneLightsDirection class</h5>
@@ -83,4 +84,5 @@ Thus, 90 degrees corresponds to East, 180 degrees to South, and 270 degrees to W
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

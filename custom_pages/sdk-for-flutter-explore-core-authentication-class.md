@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "Authentication class abstract"
 slug: "sdk-for-flutter-explore-core-authentication-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- Authentication-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -27,8 +28,8 @@ slug: "sdk-for-flutter-explore-core-authentication-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
 <li class="self-crumb">Authentication class</li>
 </ol>
 <div class="self-name">Authentication</div>
@@ -59,7 +60,7 @@ can be used with other HERE services.</p>
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="Authentication">
-<a href="../core/Authentication/Authentication.html">/sdk-for-flutter-explore-core-authentication-authentication</a>()
+/sdk-for-flutter-explore-core-authentication-authentication()
 </dt>
 <dd>
 </dd>
@@ -69,7 +70,7 @@ can be used with other HERE services.</p>
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="hashCode">
-<a href="../core/Authentication/hashCode.html">/sdk-for-flutter-explore-core-authentication-hashcode</a>
+/sdk-for-flutter-explore-core-authentication-hashcode
 → int
 </dt>
 <dd class="inherited">
@@ -77,7 +78,7 @@ can be used with other HERE services.</p>
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../core/Authentication/runtimeType.html">/sdk-for-flutter-explore-core-authentication-runtimetype</a>
+/sdk-for-flutter-explore-core-authentication-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -90,7 +91,7 @@ can be used with other HERE services.</p>
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../core/Authentication/noSuchMethod.html">/sdk-for-flutter-explore-core-authentication-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-core-authentication-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -99,7 +100,7 @@ can be used with other HERE services.</p>
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../core/Authentication/toString.html">/sdk-for-flutter-explore-core-authentication-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-core-authentication-tostring(<wbr/>)
     → String
 
 </dt>
@@ -113,7 +114,7 @@ can be used with other HERE services.</p>
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-<a href="../core/Authentication/operator_equals.html">/sdk-for-flutter-explore-core-authentication-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-core-authentication-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -127,7 +128,7 @@ can be used with other HERE services.</p>
 <h2>Static Methods</h2>
 <dl class="callables">
 <dt class="callable" id="authenticate">
-<a href="../core/Authentication/authenticate.html">/sdk-for-flutter-explore-core-authentication-authenticate</a>(<wbr/><a href="../core.engine/SDKNativeEngine-class.html">/sdk-for-flutter-explore-core-engine-sdknativeengine-class</a> sdkNativeEngine, <a href="../core/AuthenticationCallback.html">/sdk-for-flutter-explore-core-authenticationcallback</a> callback)
+/sdk-for-flutter-explore-core-authentication-authenticate(<wbr/>/sdk-for-flutter-explore-core-engine-sdknativeengine-class sdkNativeEngine, /sdk-for-flutter-explore-core-authenticationcallback callback)
     → void
 
 </dt>
@@ -138,8 +139,9 @@ retrieve a secure token.
 
 </dd>
 <dt class="callable" id="authenticateWithSDKNativeEngine">
-<a href="../core/Authentication/authenticateWithSDKNativeEngine.html">/sdk-for-flutter-explore-core-authentication-authenticatewithsdknativeengine</a>(<wbr/><a href="../core.engine/SDKNativeEngine-class.html">/sdk-for-flutter-explore-core-engine-sdknativeengine-class</a> sdkNativeEngine)
-    → <a href="../core/AuthenticationData-class.html">/sdk-for-flutter-explore-core-authenticationdata-class</a>
+/sdk-for-flutter-explore-core-authentication-authenticatewithsdknativeengine(<wbr/>/sdk-for-flutter-explore-core-engine-sdknativeengine-class sdkNativeEngine)
+    → /sdk-for-flutter-explore-core-authenticationdata-class
+
 </dt>
 <dd>
   Uses the authentication service that is connected to the given SDK engine to authenticate and
@@ -157,8 +159,8 @@ retrieve a secure token.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
 <li class="self-crumb">Authentication class</li>
 </ol>
 <h5>core library</h5>
@@ -175,4 +177,5 @@ retrieve a secure token.
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "SearchInterface constructor"
 slug: "sdk-for-flutter-explore-search-searchinterface-searchinterface"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- SearchInterface.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-search-searchinterface-searchinterface"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/SearchInterface-class.html">/sdk-for-flutter-explore-search-searchinterface-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-searchinterface-class</li>
 <li class="self-crumb">SearchInterface factory constructor</li>
 </ol>
 <div class="self-name">SearchInterface</div>
@@ -37,33 +38,33 @@ menu
 <div>
 <h1>SearchInterface constructor</h1></div>
 <section class="multi-line-signature">
-SearchInterface(<wbr/><ol class="parameter-list"> <li><a href="../../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a> searchByTextLambda(<ol class="parameter-list single-line"> <li><a href="../../search/TextQuery-class.html">/sdk-for-flutter-explore-search-textquery-class</a>, </li>
-<li><a href="../../search/SearchOptions-class.html">/sdk-for-flutter-explore-search-searchoptions-class</a>, </li>
-<li><a href="../../search/SearchCallback.html">/sdk-for-flutter-explore-search-searchcallback</a> </li>
+SearchInterface(<wbr/><ol class="parameter-list"> <li>/sdk-for-flutter-explore-core-threading-taskhandle-class searchByTextLambda(<ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-search-textquery-class, </li>
+<li>/sdk-for-flutter-explore-search-searchoptions-class, </li>
+<li>/sdk-for-flutter-explore-search-searchcallback </li>
 </ol>), </li>
-<li><a href="../../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a> searchByAddressLambda(<ol class="parameter-list single-line"> <li><a href="../../search/AddressQuery-class.html">/sdk-for-flutter-explore-search-addressquery-class</a>, </li>
-<li><a href="../../search/SearchOptions-class.html">/sdk-for-flutter-explore-search-searchoptions-class</a>, </li>
-<li><a href="../../search/SearchCallback.html">/sdk-for-flutter-explore-search-searchcallback</a> </li>
+<li>/sdk-for-flutter-explore-core-threading-taskhandle-class searchByAddressLambda(<ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-search-addressquery-class, </li>
+<li>/sdk-for-flutter-explore-search-searchoptions-class, </li>
+<li>/sdk-for-flutter-explore-search-searchcallback </li>
 </ol>), </li>
-<li><a href="../../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a> searchByCategoryLambda(<ol class="parameter-list single-line"> <li><a href="../../search/CategoryQuery-class.html">/sdk-for-flutter-explore-search-categoryquery-class</a>, </li>
-<li><a href="../../search/SearchOptions-class.html">/sdk-for-flutter-explore-search-searchoptions-class</a>, </li>
-<li><a href="../../search/SearchCallback.html">/sdk-for-flutter-explore-search-searchcallback</a> </li>
+<li>/sdk-for-flutter-explore-core-threading-taskhandle-class searchByCategoryLambda(<ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-search-categoryquery-class, </li>
+<li>/sdk-for-flutter-explore-search-searchoptions-class, </li>
+<li>/sdk-for-flutter-explore-search-searchcallback </li>
 </ol>), </li>
-<li><a href="../../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a> searchByCoordinatesLambda(<ol class="parameter-list single-line"> <li><a href="../../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>, </li>
-<li><a href="../../search/SearchOptions-class.html">/sdk-for-flutter-explore-search-searchoptions-class</a>, </li>
-<li><a href="../../search/SearchCallback.html">/sdk-for-flutter-explore-search-searchcallback</a> </li>
+<li>/sdk-for-flutter-explore-core-threading-taskhandle-class searchByCoordinatesLambda(<ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-core-geocoordinates-class, </li>
+<li>/sdk-for-flutter-explore-search-searchoptions-class, </li>
+<li>/sdk-for-flutter-explore-search-searchcallback </li>
 </ol>), </li>
-<li><a href="../../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a> searchByPlaceIdLambda(<ol class="parameter-list single-line"> <li><a href="../../search/PlaceIdQuery-class.html">/sdk-for-flutter-explore-search-placeidquery-class</a>, </li>
-<li><a href="../../core/LanguageCode.html">/sdk-for-flutter-explore-core-languagecode</a>?, </li>
-<li><a href="../../search/PlaceIdSearchCallback.html">/sdk-for-flutter-explore-search-placeidsearchcallback</a> </li>
+<li>/sdk-for-flutter-explore-core-threading-taskhandle-class searchByPlaceIdLambda(<ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-search-placeidquery-class, </li>
+<li>/sdk-for-flutter-explore-core-languagecode?, </li>
+<li>/sdk-for-flutter-explore-search-placeidsearchcallback </li>
 </ol>), </li>
-<li><a href="../../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a> searchByPickedPlaceLambda(<ol class="parameter-list single-line"> <li><a href="../../core/PickedPlace-class.html">/sdk-for-flutter-explore-core-pickedplace-class</a>, </li>
-<li><a href="../../core/LanguageCode.html">/sdk-for-flutter-explore-core-languagecode</a>?, </li>
-<li><a href="../../search/PlaceIdSearchCallback.html">/sdk-for-flutter-explore-search-placeidsearchcallback</a> </li>
+<li>/sdk-for-flutter-explore-core-threading-taskhandle-class searchByPickedPlaceLambda(<ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-core-pickedplace-class, </li>
+<li>/sdk-for-flutter-explore-core-languagecode?, </li>
+<li>/sdk-for-flutter-explore-search-placeidsearchcallback </li>
 </ol>), </li>
-<li><a href="../../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a> suggestByTextLambda(<ol class="parameter-list single-line"> <li><a href="../../search/TextQuery-class.html">/sdk-for-flutter-explore-search-textquery-class</a>, </li>
-<li><a href="../../search/SearchOptions-class.html">/sdk-for-flutter-explore-search-searchoptions-class</a>, </li>
-<li><a href="../../search/SuggestCallback.html">/sdk-for-flutter-explore-search-suggestcallback</a> </li>
+<li>/sdk-for-flutter-explore-core-threading-taskhandle-class suggestByTextLambda(<ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-search-textquery-class, </li>
+<li>/sdk-for-flutter-explore-search-searchoptions-class, </li>
+<li>/sdk-for-flutter-explore-search-suggestcallback </li>
 </ol>), </li>
 </ol>)
     </section>
@@ -101,9 +102,9 @@ search engines.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/SearchInterface-class.html">/sdk-for-flutter-explore-search-searchinterface-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-searchinterface-class</li>
 <li class="self-crumb">SearchInterface factory constructor</li>
 </ol>
 <h5>SearchInterface class</h5>
@@ -120,4 +121,5 @@ search engines.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

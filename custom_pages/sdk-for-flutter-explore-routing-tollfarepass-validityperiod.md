@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "validityPeriod property"
 slug: "sdk-for-flutter-explore-routing-tollfarepass-validityperiod"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- validityPeriod.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-routing-tollfarepass-validityperiod"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/TollFarePass-class.html">/sdk-for-flutter-explore-routing-tollfarepass-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-tollfarepass-class</li>
 <li class="self-crumb">validityPeriod property</li>
 </ol>
 <div class="self-name">validityPeriod</div>
@@ -37,7 +38,7 @@ menu
 <div>
 <h1>validityPeriod property</h1></div>
 <section class="multi-line-signature">
-<a href="../../routing/FarePassValidityPeriod-class.html">/sdk-for-flutter-explore-routing-farepassvalidityperiod-class</a>?
+/sdk-for-flutter-explore-routing-farepassvalidityperiod-class?
         validityPeriod
 <div class="features">getter/setter pair</div>
 </section>
@@ -56,9 +57,9 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/TollFarePass-class.html">/sdk-for-flutter-explore-routing-tollfarepass-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-tollfarepass-class</li>
 <li class="self-crumb">validityPeriod property</li>
 </ol>
 <h5>TollFarePass class</h5>
@@ -75,4 +76,5 @@ menu
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

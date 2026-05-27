@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "loaded abstract method"
 slug: "sdk-for-flutter-explore-mapview-datasource-rastertilesourceloadresulthandler-loaded"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- loaded.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-datasource-rastertilesourceloadresulthand
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
-<li><a href="../../mapview.datasource/RasterTileSourceLoadResultHandler-class.html">/sdk-for-flutter-explore-mapview-datasource-rastertilesourceloadresulthandler-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-rastertilesourceloadresulthandler-class</li>
 <li class="self-crumb">loaded abstract method</li>
 </ol>
 <div class="self-name">loaded</div>
@@ -38,9 +39,9 @@ menu
 <h1>loaded abstract method</h1></div>
 <section class="multi-line-signature">
 void
-loaded(<wbr/><ol class="parameter-list single-line"> <li><a href="../../mapview.datasource/TileKey-class.html">/sdk-for-flutter-explore-mapview-datasource-tilekey-class</a> tileKey, </li>
+loaded(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-mapview-datasource-tilekey-class tileKey, </li>
 <li>Uint8List data, </li>
-<li><a href="../../mapview.datasource/TileSourceTileMetadata-class.html">/sdk-for-flutter-explore-mapview-datasource-tilesourcetilemetadata-class</a> metadata</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-tilesourcetilemetadata-class metadata</li>
 </ol>)
 
       
@@ -73,9 +74,9 @@ Supported are images in PNG or JPEG format.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
-<li><a href="../../mapview.datasource/RasterTileSourceLoadResultHandler-class.html">/sdk-for-flutter-explore-mapview-datasource-rastertilesourceloadresulthandler-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-rastertilesourceloadresulthandler-class</li>
 <li class="self-crumb">loaded abstract method</li>
 </ol>
 <h5>RasterTileSourceLoadResultHandler class</h5>
@@ -92,4 +93,5 @@ Supported are images in PNG or JPEG format.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

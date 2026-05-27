@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "trafficIncidents property"
 slug: "sdk-for-flutter-explore-mapview-pickmapcontentresult-trafficincidents"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- trafficIncidents.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-pickmapcontentresult-trafficincidents"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/PickMapContentResult-class.html">/sdk-for-flutter-explore-mapview-pickmapcontentresult-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-pickmapcontentresult-class</li>
 <li class="self-crumb">trafficIncidents property</li>
 </ol>
 <div class="self-name">trafficIncidents</div>
@@ -38,7 +39,7 @@ menu
 <h1>trafficIncidents property</h1></div>
 <section id="getter">
 <section class="multi-line-signature">
-List&lt;<wbr/><a href="../../mapview/PickTrafficIncidentResult-class.html">/sdk-for-flutter-explore-mapview-picktrafficincidentresult-class</a>&gt;
+List&lt;<wbr/>/sdk-for-flutter-explore-mapview-picktrafficincidentresult-class&gt;
 trafficIncidents
 </section>
 <section class="desc markdown">
@@ -58,9 +59,9 @@ Gets the list of traffic incidents at the location of picking.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/PickMapContentResult-class.html">/sdk-for-flutter-explore-mapview-pickmapcontentresult-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-pickmapcontentresult-class</li>
 <li class="self-crumb">trafficIncidents property</li>
 </ol>
 <h5>PickMapContentResult class</h5>
@@ -77,4 +78,5 @@ Gets the list of traffic incidents at the location of picking.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

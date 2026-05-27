@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "maxPoints property"
 slug: "sdk-for-flutter-explore-core-polylinesimplifieroptions-maxpoints"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- maxPoints.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-core-polylinesimplifieroptions-maxpoints"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
-<li><a href="../../core/PolylineSimplifierOptions-class.html">/sdk-for-flutter-explore-core-polylinesimplifieroptions-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
+<li>/sdk-for-flutter-explore-core-polylinesimplifieroptions-class</li>
 <li class="self-crumb">maxPoints property</li>
 </ol>
 <div class="self-name">maxPoints</div>
@@ -44,14 +45,14 @@ menu
 </section>
 <section class="desc markdown">
 <p>Sets the upper limit on the resulting collection for
-the <a href="../../core/PolylineSimplifier/simplify.html">/sdk-for-flutter-explore-core-polylinesimplifier-simplify</a>. Lower
+the /sdk-for-flutter-explore-core-polylinesimplifier-simplify. Lower
 value results in the lower accuracy of the resulting
 polyline. If <code>maxPoints</code> is less than <code>2</code>
 then resulting polyline will not have an upper limit
-on the size and only <a href="../../core/PolylineSimplifierOptions/simplificationToleranceInMeters.html">/sdk-for-flutter-explore-core-polylinesimplifieroptions-simplificationtoleranceinmeters</a>
+on the size and only /sdk-for-flutter-explore-core-polylinesimplifieroptions-simplificationtoleranceinmeters
 will be considered. When <code>maxPoints</code> is greater than
 size of the passed polyline then simplification algorithm
-will take into account only <a href="../../core/PolylineSimplifierOptions/simplificationToleranceInMeters.html">/sdk-for-flutter-explore-core-polylinesimplifieroptions-simplificationtoleranceinmeters</a>.</p>
+will take into account only /sdk-for-flutter-explore-core-polylinesimplifieroptions-simplificationtoleranceinmeters.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -65,9 +66,9 @@ will take into account only <a href="../../core/PolylineSimplifierOptions/simpli
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
-<li><a href="../../core/PolylineSimplifierOptions-class.html">/sdk-for-flutter-explore-core-polylinesimplifieroptions-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
+<li>/sdk-for-flutter-explore-core-polylinesimplifieroptions-class</li>
 <li class="self-crumb">maxPoints property</li>
 </ol>
 <h5>PolylineSimplifierOptions class</h5>
@@ -84,4 +85,5 @@ will take into account only <a href="../../core/PolylineSimplifierOptions/simpli
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

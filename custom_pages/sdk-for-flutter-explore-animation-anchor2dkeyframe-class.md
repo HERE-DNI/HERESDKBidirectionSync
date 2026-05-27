@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "Anchor2DKeyframe class"
 slug: "sdk-for-flutter-explore-animation-anchor2dkeyframe-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- Anchor2DKeyframe-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -26,8 +27,8 @@ slug: "sdk-for-flutter-explore-animation-anchor2dkeyframe-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../animation/animation-library.html">/sdk-for-flutter-explore-animation-animation-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-animation-animation-library</li>
 <li class="self-crumb">Anchor2DKeyframe class</li>
 </ol>
 <div class="self-name">Anchor2DKeyframe</div>
@@ -68,7 +69,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="Anchor2DKeyframe">
-<a href="../animation/Anchor2DKeyframe/Anchor2DKeyframe.html">/sdk-for-flutter-explore-animation-anchor2dkeyframe-anchor2dkeyframe</a>(<a href="../core/Anchor2D-class.html">/sdk-for-flutter-explore-core-anchor2d-class</a> value, Duration duration)
+/sdk-for-flutter-explore-animation-anchor2dkeyframe-anchor2dkeyframe(/sdk-for-flutter-explore-core-anchor2d-class value, Duration duration)
 </dt>
 <dd>
           Constructs a Anchor2DKeyframe from the value and offset.
@@ -80,7 +81,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="duration">
-<a href="../animation/Anchor2DKeyframe/duration.html">/sdk-for-flutter-explore-animation-anchor2dkeyframe-duration</a>
+/sdk-for-flutter-explore-animation-anchor2dkeyframe-duration
 → Duration
 </dt>
 <dd>
@@ -89,7 +90,7 @@ Negative duration value gets clamped to 0.
   <div class="features">final</div>
 </dd>
 <dt class="property" id="hashCode">
-<a href="../animation/Anchor2DKeyframe/hashCode.html">/sdk-for-flutter-explore-animation-anchor2dkeyframe-hashcode</a>
+/sdk-for-flutter-explore-animation-anchor2dkeyframe-hashcode
 → int
 </dt>
 <dd>
@@ -97,7 +98,7 @@ Negative duration value gets clamped to 0.
   <div class="features">no setter</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../animation/Anchor2DKeyframe/runtimeType.html">/sdk-for-flutter-explore-animation-anchor2dkeyframe-runtimetype</a>
+/sdk-for-flutter-explore-animation-anchor2dkeyframe-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -105,8 +106,8 @@ Negative duration value gets clamped to 0.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="value">
-<a href="../animation/Anchor2DKeyframe/value.html">/sdk-for-flutter-explore-animation-anchor2dkeyframe-value</a>
-→ <a href="../core/Anchor2D-class.html">/sdk-for-flutter-explore-core-anchor2d-class</a>
+/sdk-for-flutter-explore-animation-anchor2dkeyframe-value
+→ /sdk-for-flutter-explore-core-anchor2d-class
 </dt>
 <dd>
   Anchor2D keyframe value.
@@ -118,7 +119,7 @@ Negative duration value gets clamped to 0.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../animation/Anchor2DKeyframe/noSuchMethod.html">/sdk-for-flutter-explore-animation-anchor2dkeyframe-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-animation-anchor2dkeyframe-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -127,7 +128,7 @@ Negative duration value gets clamped to 0.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../animation/Anchor2DKeyframe/toString.html">/sdk-for-flutter-explore-animation-anchor2dkeyframe-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-animation-anchor2dkeyframe-tostring(<wbr/>)
     → String
 
 </dt>
@@ -141,7 +142,7 @@ Negative duration value gets clamped to 0.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-<a href="../animation/Anchor2DKeyframe/operator_equals.html">/sdk-for-flutter-explore-animation-anchor2dkeyframe-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-animation-anchor2dkeyframe-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -160,8 +161,8 @@ Negative duration value gets clamped to 0.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../animation/animation-library.html">/sdk-for-flutter-explore-animation-animation-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-animation-animation-library</li>
 <li class="self-crumb">Anchor2DKeyframe class</li>
 </ol>
 <h5>animation library</h5>
@@ -178,4 +179,5 @@ Negative duration value gets clamped to 0.
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

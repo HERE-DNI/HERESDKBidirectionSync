@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "getActiveFeatures abstract method"
 slug: "sdk-for-flutter-explore-mapview-mapscene-getactivefeatures"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- getActiveFeatures.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-mapscene-getactivefeatures"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapScene-class.html">/sdk-for-flutter-explore-mapview-mapscene-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapscene-class</li>
 <li class="self-crumb">getActiveFeatures abstract method</li>
 </ol>
 <div class="self-name">getActiveFeatures</div>
@@ -46,7 +47,7 @@ getActiveFeatures(<wbr/>)
 <section class="desc markdown">
 <p>Gets map features that are currently active.</p>
 <p>Active features are features that are either
-enabled via a call to <a href="../../mapview/MapScene/enableFeatures.html">/sdk-for-flutter-explore-mapview-mapscene-enablefeatures</a> or that are enabled by default in the scene.</p>
+enabled via a call to /sdk-for-flutter-explore-mapview-mapscene-enablefeatures or that are enabled by default in the scene.</p>
 <p>The key to the resulting map is the name of the feature
 and the value is the active mode.</p>
 <p>Result is empty if scene has not been loaded.</p>
@@ -64,9 +65,9 @@ and the value is the active mode.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapScene-class.html">/sdk-for-flutter-explore-mapview-mapscene-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapscene-class</li>
 <li class="self-crumb">getActiveFeatures abstract method</li>
 </ol>
 <h5>MapScene class</h5>
@@ -83,4 +84,5 @@ and the value is the active mode.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

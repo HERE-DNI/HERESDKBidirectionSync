@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "index property"
 slug: "sdk-for-flutter-explore-core-engine-enginebaseurl"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- index.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-core-engine-enginebaseurl"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
-<li><a href="../../core.engine/EngineBaseURL.html">/sdk-for-flutter-explore-core-engine-enginebaseurl</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
+<li>/sdk-for-flutter-explore-core-engine-enginebaseurl</li>
 <li class="self-crumb">index property</li>
 </ol>
 <div class="self-name">index</div>
@@ -63,9 +64,9 @@ enumerated type's static <code>values</code> list.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
-<li><a href="../../core.engine/EngineBaseURL.html">/sdk-for-flutter-explore-core-engine-enginebaseurl</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
+<li>/sdk-for-flutter-explore-core-engine-enginebaseurl</li>
 <li class="self-crumb">index property</li>
 </ol>
 <h5>EngineBaseURL enum</h5>
@@ -82,4 +83,5 @@ enumerated type's static <code>values</code> list.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

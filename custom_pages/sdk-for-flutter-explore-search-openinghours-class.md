@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "OpeningHours class"
 slug: "sdk-for-flutter-explore-search-openinghours-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- OpeningHours-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -28,8 +29,8 @@ slug: "sdk-for-flutter-explore-search-openinghours-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
 <li class="self-crumb">OpeningHours class</li>
 </ol>
 <div class="self-name">OpeningHours</div>
@@ -59,7 +60,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="OpeningHours">
-<a href="../search/OpeningHours/OpeningHours.html">/sdk-for-flutter-explore-search-openinghours-openinghours</a>(List&lt;<wbr/>String&gt; text, bool isOpen, List&lt;<wbr/><a href="../search/ScheduleDetails-class.html">/sdk-for-flutter-explore-search-scheduledetails-class</a>&gt; scheduleDetailsList, List&lt;<wbr/><a href="../search/PlaceCategory-class.html">/sdk-for-flutter-explore-search-placecategory-class</a>&gt; categories)
+/sdk-for-flutter-explore-search-openinghours-openinghours(List&lt;<wbr/>String&gt; text, bool isOpen, List&lt;<wbr/>/sdk-for-flutter-explore-search-scheduledetails-class&gt; scheduleDetailsList, List&lt;<wbr/>/sdk-for-flutter-explore-search-placecategory-class&gt; categories)
 </dt>
 <dd>
           Creates a new instance.
@@ -70,8 +71,8 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="categories">
-<a href="../search/OpeningHours/categories.html">/sdk-for-flutter-explore-search-openinghours-categories</a>
-↔ List&lt;<wbr/><a href="../search/PlaceCategory-class.html">/sdk-for-flutter-explore-search-placecategory-class</a>&gt;
+/sdk-for-flutter-explore-search-openinghours-categories
+↔ List&lt;<wbr/>/sdk-for-flutter-explore-search-placecategory-class&gt;
 </dt>
 <dd>
   The list of categories related to opening hours information.
@@ -79,7 +80,7 @@ This data is not available in offline search.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-<a href="../search/OpeningHours/hashCode.html">/sdk-for-flutter-explore-search-openinghours-hashcode</a>
+/sdk-for-flutter-explore-search-openinghours-hashcode
 → int
 </dt>
 <dd>
@@ -87,7 +88,7 @@ This data is not available in offline search.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="isOpen">
-<a href="../search/OpeningHours/isOpen.html">/sdk-for-flutter-explore-search-openinghours-isopen</a>
+/sdk-for-flutter-explore-search-openinghours-isopen
 ↔ bool
 </dt>
 <dd>
@@ -97,7 +98,7 @@ so it may give incorrect value if device and place are located in different time
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../search/OpeningHours/runtimeType.html">/sdk-for-flutter-explore-search-openinghours-runtimetype</a>
+/sdk-for-flutter-explore-search-openinghours-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -105,15 +106,15 @@ so it may give incorrect value if device and place are located in different time
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="scheduleDetailsList">
-<a href="../search/OpeningHours/scheduleDetailsList.html">/sdk-for-flutter-explore-search-openinghours-scheduledetailslist</a>
-↔ List&lt;<wbr/><a href="../search/ScheduleDetails-class.html">/sdk-for-flutter-explore-search-scheduledetails-class</a>&gt;
+/sdk-for-flutter-explore-search-openinghours-scheduledetailslist
+↔ List&lt;<wbr/>/sdk-for-flutter-explore-search-scheduledetails-class&gt;
 </dt>
 <dd>
   The list of schedule details.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="text">
-<a href="../search/OpeningHours/text.html">/sdk-for-flutter-explore-search-openinghours-text</a>
+/sdk-for-flutter-explore-search-openinghours-text
 ↔ List&lt;<wbr/>String&gt;
 </dt>
 <dd>
@@ -126,7 +127,7 @@ so it may give incorrect value if device and place are located in different time
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../search/OpeningHours/noSuchMethod.html">/sdk-for-flutter-explore-search-openinghours-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-search-openinghours-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -135,7 +136,7 @@ so it may give incorrect value if device and place are located in different time
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../search/OpeningHours/toString.html">/sdk-for-flutter-explore-search-openinghours-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-search-openinghours-tostring(<wbr/>)
     → String
 
 </dt>
@@ -149,7 +150,7 @@ so it may give incorrect value if device and place are located in different time
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-<a href="../search/OpeningHours/operator_equals.html">/sdk-for-flutter-explore-search-openinghours-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-search-openinghours-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -168,8 +169,8 @@ so it may give incorrect value if device and place are located in different time
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
 <li class="self-crumb">OpeningHours class</li>
 </ol>
 <h5>search library</h5>
@@ -186,4 +187,5 @@ so it may give incorrect value if device and place are located in different time
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

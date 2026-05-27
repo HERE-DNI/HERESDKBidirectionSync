@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "onAnimationStateChanged abstract method"
 slug: "sdk-for-flutter-explore-animation-animationlistener-onanimationstatechanged"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- onAnimationStateChanged.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-animation-animationlistener-onanimationstatechang
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../animation/animation-library.html">/sdk-for-flutter-explore-animation-animation-library</a></li>
-<li><a href="../../animation/AnimationListener-class.html">/sdk-for-flutter-explore-animation-animationlistener-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-animation-animation-library</li>
+<li>/sdk-for-flutter-explore-animation-animationlistener-class</li>
 <li class="self-crumb">onAnimationStateChanged abstract method</li>
 </ol>
 <div class="self-name">onAnimationStateChanged</div>
@@ -38,7 +39,7 @@ menu
 <h1>onAnimationStateChanged abstract method</h1></div>
 <section class="multi-line-signature">
 void
-onAnimationStateChanged(<wbr/><ol class="parameter-list single-line"> <li><a href="../../animation/AnimationState.html">/sdk-for-flutter-explore-animation-animationstate</a> state</li>
+onAnimationStateChanged(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-animation-animationstate state</li>
 </ol>)
 
       
@@ -62,9 +63,9 @@ onAnimationStateChanged(<wbr/><ol class="parameter-list single-line"> <li><a hre
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../animation/animation-library.html">/sdk-for-flutter-explore-animation-animation-library</a></li>
-<li><a href="../../animation/AnimationListener-class.html">/sdk-for-flutter-explore-animation-animationlistener-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-animation-animation-library</li>
+<li>/sdk-for-flutter-explore-animation-animationlistener-class</li>
 <li class="self-crumb">onAnimationStateChanged abstract method</li>
 </ol>
 <h5>AnimationListener class</h5>
@@ -81,4 +82,5 @@ onAnimationStateChanged(<wbr/><ol class="parameter-list single-line"> <li><a hre
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

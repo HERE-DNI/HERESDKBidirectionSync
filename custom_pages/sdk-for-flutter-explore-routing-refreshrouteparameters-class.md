@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "RefreshRouteParameters class"
 slug: "sdk-for-flutter-explore-routing-refreshrouteparameters-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- RefreshRouteParameters-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -30,8 +31,8 @@ slug: "sdk-for-flutter-explore-routing-refreshrouteparameters-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
 <li class="self-crumb">RefreshRouteParameters class</li>
 </ol>
 <div class="self-name">RefreshRouteParameters</div>
@@ -62,24 +63,24 @@ specific location on it.</p>
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="RefreshRouteParameters.withRouteHandleAndSectionPosition">
-<a href="../routing/RefreshRouteParameters/RefreshRouteParameters.withRouteHandleAndSectionPosition.html">/sdk-for-flutter-explore-routing-refreshrouteparameters-refreshrouteparameters-withroutehandleandsectionposition</a>(<a href="../routing/RouteHandle-class.html">/sdk-for-flutter-explore-routing-routehandle-class</a> routeHandle, int startingSectionIndex, int traveledDistanceOnStartingSectionInMeters)
+/sdk-for-flutter-explore-routing-refreshrouteparameters-refreshrouteparameters-withroutehandleandsectionposition(/sdk-for-flutter-explore-routing-routehandle-class routeHandle, int startingSectionIndex, int traveledDistanceOnStartingSectionInMeters)
 </dt>
 <dd>
-          Create a new instance of <a href="../routing/RefreshRouteParameters-class.html">/sdk-for-flutter-explore-routing-refreshrouteparameters-class</a> with the point on the section of the route as a new starting point.
+          Create a new instance of /sdk-for-flutter-explore-routing-refreshrouteparameters-class with the point on the section of the route as a new starting point.
             <div class="constructor-modifier features">factory</div>
 </dd>
 <dt class="callable" id="RefreshRouteParameters.withRouteHandleAndWaypoint">
-<a href="../routing/RefreshRouteParameters/RefreshRouteParameters.withRouteHandleAndWaypoint.html">/sdk-for-flutter-explore-routing-refreshrouteparameters-refreshrouteparameters-withroutehandleandwaypoint</a>(<a href="../routing/RouteHandle-class.html">/sdk-for-flutter-explore-routing-routehandle-class</a> routeHandle, <a href="../routing/Waypoint-class.html">/sdk-for-flutter-explore-routing-waypoint-class</a> startingPoint)
+/sdk-for-flutter-explore-routing-refreshrouteparameters-refreshrouteparameters-withroutehandleandwaypoint(/sdk-for-flutter-explore-routing-routehandle-class routeHandle, /sdk-for-flutter-explore-routing-waypoint-class startingPoint)
 </dt>
 <dd>
-          Create a new instance of <a href="../routing/RefreshRouteParameters-class.html">/sdk-for-flutter-explore-routing-refreshrouteparameters-class</a> with the new starting point on the route.
+          Create a new instance of /sdk-for-flutter-explore-routing-refreshrouteparameters-class with the new starting point on the route.
             <div class="constructor-modifier features">factory</div>
 </dd>
 <dt class="callable" id="RefreshRouteParameters.withRouteHandleAndWaypointAndSectionPosition">
-<a href="../routing/RefreshRouteParameters/RefreshRouteParameters.withRouteHandleAndWaypointAndSectionPosition.html">/sdk-for-flutter-explore-routing-refreshrouteparameters-refreshrouteparameters-withroutehandleandwaypointandsectionposition</a>(<a href="../routing/RouteHandle-class.html">/sdk-for-flutter-explore-routing-routehandle-class</a> routeHandle, <a href="../routing/Waypoint-class.html">/sdk-for-flutter-explore-routing-waypoint-class</a> startingPoint, int startingSectionIndex, int traveledDistanceOnStartingSectionInMeters)
+/sdk-for-flutter-explore-routing-refreshrouteparameters-refreshrouteparameters-withroutehandleandwaypointandsectionposition(/sdk-for-flutter-explore-routing-routehandle-class routeHandle, /sdk-for-flutter-explore-routing-waypoint-class startingPoint, int startingSectionIndex, int traveledDistanceOnStartingSectionInMeters)
 </dt>
 <dd>
-          Create a new instance of <a href="../routing/RefreshRouteParameters-class.html">/sdk-for-flutter-explore-routing-refreshrouteparameters-class</a> with the new starting point and the section position on the route.
+          Create a new instance of /sdk-for-flutter-explore-routing-refreshrouteparameters-class with the new starting point and the section position on the route.
             <div class="constructor-modifier features">factory</div>
 </dd>
 </dl>
@@ -88,7 +89,7 @@ specific location on it.</p>
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="hashCode">
-<a href="../routing/RefreshRouteParameters/hashCode.html">/sdk-for-flutter-explore-routing-refreshrouteparameters-hashcode</a>
+/sdk-for-flutter-explore-routing-refreshrouteparameters-hashcode
 → int
 </dt>
 <dd>
@@ -96,15 +97,15 @@ specific location on it.</p>
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="routeHandle">
-<a href="../routing/RefreshRouteParameters/routeHandle.html">/sdk-for-flutter-explore-routing-refreshrouteparameters-routehandle</a>
-↔ <a href="../routing/RouteHandle-class.html">/sdk-for-flutter-explore-routing-routehandle-class</a>
+/sdk-for-flutter-explore-routing-refreshrouteparameters-routehandle
+↔ /sdk-for-flutter-explore-routing-routehandle-class
 </dt>
 <dd>
   The route handle holding the route to be refreshed.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../routing/RefreshRouteParameters/runtimeType.html">/sdk-for-flutter-explore-routing-refreshrouteparameters-runtimetype</a>
+/sdk-for-flutter-explore-routing-refreshrouteparameters-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -112,40 +113,40 @@ specific location on it.</p>
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="startingPoint">
-<a href="../routing/RefreshRouteParameters/startingPoint.html">/sdk-for-flutter-explore-routing-refreshrouteparameters-startingpoint</a>
-↔ <a href="../routing/Waypoint-class.html">/sdk-for-flutter-explore-routing-waypoint-class</a>?
+/sdk-for-flutter-explore-routing-refreshrouteparameters-startingpoint
+↔ /sdk-for-flutter-explore-routing-waypoint-class?
 </dt>
 <dd>
-  Identify the new starting point of the route. It should be of type <a href="../routing/WaypointType.html">/sdk-for-flutter-explore-routing-waypointtype</a>.
-Otherwise, an <a href="../routing/RoutingError.html">/sdk-for-flutter-explore-routing-routingerror</a> error is generated. Moreover, it should be very close to the
-original route specified with the <a href="../routing/RouteHandle-class.html">/sdk-for-flutter-explore-routing-routehandle-class</a>. The location of this waypoint may by provided,
+  Identify the new starting point of the route. It should be of type /sdk-for-flutter-explore-routing-waypointtype.
+Otherwise, an /sdk-for-flutter-explore-routing-routingerror error is generated. Moreover, it should be very close to the
+original route specified with the /sdk-for-flutter-explore-routing-routehandle-class. The location of this waypoint may by provided,
 for example, by a <code>RouteProgress</code> event. Since the new starting point is expected to be
 along the original route, the original route geometry is used to reach the remaining waypoints. The new route
-will not include the <a href="../routing/Waypoint-class.html">/sdk-for-flutter-explore-routing-waypoint-class</a> items that lie behind the new starting point (i.e. the path that
-was already traveled). Plus, <a href="../routing/Route/lengthInMeters.html">/sdk-for-flutter-explore-routing-route-lengthinmeters</a>, <a href="../routing/Route/duration.html">/sdk-for-flutter-explore-routing-route-duration</a>, and similar
+will not include the /sdk-for-flutter-explore-routing-waypoint-class items that lie behind the new starting point (i.e. the path that
+was already traveled). Plus, /sdk-for-flutter-explore-routing-route-lengthinmeters, /sdk-for-flutter-explore-routing-route-duration, and similar
 values are from the new starting point to the destination. If the new waypoint is too far off the original
-route, the route refresh may fail and an <a href="../routing/RoutingError.html">/sdk-for-flutter-explore-routing-routingerror</a> error is triggered.
+route, the route refresh may fail and an /sdk-for-flutter-explore-routing-routingerror error is triggered.
 In that case, an application may decide to calculate a new route from scratch.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="startingSectionIndex">
-<a href="../routing/RefreshRouteParameters/startingSectionIndex.html">/sdk-for-flutter-explore-routing-refreshrouteparameters-startingsectionindex</a>
+/sdk-for-flutter-explore-routing-refreshrouteparameters-startingsectionindex
 ↔ int?
 </dt>
 <dd>
   Indicates the index of the last traveled route section. When it is provided, the previous sections are discarded
 from the refreshed route and the starting point is searched in the provided section. If the starting point
-is not found in that section an <a href="../routing/RoutingError.html">/sdk-for-flutter-explore-routing-routingerror</a> error is triggered.
+is not found in that section an /sdk-for-flutter-explore-routing-routingerror error is triggered.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="traveledDistanceOnStartingSectionInMeters">
-<a href="../routing/RefreshRouteParameters/traveledDistanceOnStartingSectionInMeters.html">/sdk-for-flutter-explore-routing-refreshrouteparameters-traveleddistanceonstartingsectioninmeters</a>
+/sdk-for-flutter-explore-routing-refreshrouteparameters-traveleddistanceonstartingsectioninmeters
 ↔ int?
 </dt>
 <dd>
   Provides an indication on how much of the starting section is already traveled. The refresh route function
 would ignore the first part of the section. If it is provided with an invalid starting section index, an
-<a href="../routing/RoutingError.html">/sdk-for-flutter-explore-routing-routingerror</a> error is generated.
+/sdk-for-flutter-explore-routing-routingerror error is generated.
   <div class="features">getter/setter pair</div>
 </dd>
 </dl>
@@ -154,7 +155,7 @@ would ignore the first part of the section. If it is provided with an invalid st
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../routing/RefreshRouteParameters/noSuchMethod.html">/sdk-for-flutter-explore-routing-refreshrouteparameters-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-routing-refreshrouteparameters-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -163,7 +164,7 @@ would ignore the first part of the section. If it is provided with an invalid st
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../routing/RefreshRouteParameters/toString.html">/sdk-for-flutter-explore-routing-refreshrouteparameters-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-routing-refreshrouteparameters-tostring(<wbr/>)
     → String
 
 </dt>
@@ -177,7 +178,7 @@ would ignore the first part of the section. If it is provided with an invalid st
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-<a href="../routing/RefreshRouteParameters/operator_equals.html">/sdk-for-flutter-explore-routing-refreshrouteparameters-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-routing-refreshrouteparameters-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -196,8 +197,8 @@ would ignore the first part of the section. If it is provided with an invalid st
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
 <li class="self-crumb">RefreshRouteParameters class</li>
 </ol>
 <h5>routing library</h5>
@@ -214,4 +215,5 @@ would ignore the first part of the section. If it is provided with an invalid st
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

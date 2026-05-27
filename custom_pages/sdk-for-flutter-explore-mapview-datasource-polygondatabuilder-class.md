@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "PolygonDataBuilder class abstract"
 slug: "sdk-for-flutter-explore-mapview-datasource-polygondatabuilder-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- PolygonDataBuilder-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -27,8 +28,8 @@ slug: "sdk-for-flutter-explore-mapview-datasource-polygondatabuilder-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
 <li class="self-crumb">PolygonDataBuilder class</li>
 </ol>
 <div class="self-name">PolygonDataBuilder</div>
@@ -52,8 +53,8 @@ menu
 <div>
 <h1>PolygonDataBuilder class abstract</h1></div>
 <section class="desc markdown">
-<p>Builder of <a href="../mapview.datasource/PolygonData-class.html">/sdk-for-flutter-explore-mapview-datasource-polygondata-class</a> instances.</p>
-<p>The builder can create <a href="../mapview.datasource/PolygonData-class.html">/sdk-for-flutter-explore-mapview-datasource-polygondata-class</a> instances for polygons with an outer boundary and
+<p>Builder of /sdk-for-flutter-explore-mapview-datasource-polygondata-class instances.</p>
+<p>The builder can create /sdk-for-flutter-explore-mapview-datasource-polygondata-class instances for polygons with an outer boundary and
 optionally one or more inner boundaries (holes).</p>
 <p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
 behavior. Related APIs may change for new releases without a deprecation process.</p>
@@ -62,7 +63,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="PolygonDataBuilder">
-<a href="../mapview.datasource/PolygonDataBuilder/PolygonDataBuilder.html">/sdk-for-flutter-explore-mapview-datasource-polygondatabuilder-polygondatabuilder</a>()
+/sdk-for-flutter-explore-mapview-datasource-polygondatabuilder-polygondatabuilder()
 </dt>
 <dd>
           Creates a builder instance.
@@ -74,7 +75,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="hashCode">
-<a href="../mapview.datasource/PolygonDataBuilder/hashCode.html">/sdk-for-flutter-explore-mapview-datasource-polygondatabuilder-hashcode</a>
+/sdk-for-flutter-explore-mapview-datasource-polygondatabuilder-hashcode
 → int
 </dt>
 <dd class="inherited">
@@ -82,7 +83,7 @@ behavior. Related APIs may change for new releases without a deprecation process
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../mapview.datasource/PolygonDataBuilder/runtimeType.html">/sdk-for-flutter-explore-mapview-datasource-polygondatabuilder-runtimetype</a>
+/sdk-for-flutter-explore-mapview-datasource-polygondatabuilder-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -95,16 +96,17 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable" id="build">
-<a href="../mapview.datasource/PolygonDataBuilder/build.html">/sdk-for-flutter-explore-mapview-datasource-polygondatabuilder-build</a>(<wbr/>)
-    → <a href="../mapview.datasource/PolygonData-class.html">/sdk-for-flutter-explore-mapview-datasource-polygondata-class</a>
+/sdk-for-flutter-explore-mapview-datasource-polygondatabuilder-build(<wbr/>)
+    → /sdk-for-flutter-explore-mapview-datasource-polygondata-class
+
 </dt>
 <dd>
-  Builds an instance of <a href="../mapview.datasource/PolygonData-class.html">/sdk-for-flutter-explore-mapview-datasource-polygondata-class</a> and resets the builder instance.
+  Builds an instance of /sdk-for-flutter-explore-mapview-datasource-polygondata-class and resets the builder instance.
   
 
 </dd>
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../mapview.datasource/PolygonDataBuilder/noSuchMethod.html">/sdk-for-flutter-explore-mapview-datasource-polygondatabuilder-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-mapview-datasource-polygondatabuilder-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -113,7 +115,7 @@ behavior. Related APIs may change for new releases without a deprecation process
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../mapview.datasource/PolygonDataBuilder/toString.html">/sdk-for-flutter-explore-mapview-datasource-polygondatabuilder-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-mapview-datasource-polygondatabuilder-tostring(<wbr/>)
     → String
 
 </dt>
@@ -122,8 +124,9 @@ behavior. Related APIs may change for new releases without a deprecation process
   <div class="features">inherited</div>
 </dd>
 <dt class="callable" id="withAttributes">
-<a href="../mapview.datasource/PolygonDataBuilder/withAttributes.html">/sdk-for-flutter-explore-mapview-datasource-polygondatabuilder-withattributes</a>(<wbr/><a href="../mapview.datasource/DataAttributes-class.html">/sdk-for-flutter-explore-mapview-datasource-dataattributes-class</a> attributes)
-    → <a href="../mapview.datasource/PolygonDataBuilder-class.html">/sdk-for-flutter-explore-mapview-datasource-polygondatabuilder-class</a>
+/sdk-for-flutter-explore-mapview-datasource-polygondatabuilder-withattributes(<wbr/>/sdk-for-flutter-explore-mapview-datasource-dataattributes-class attributes)
+    → /sdk-for-flutter-explore-mapview-datasource-polygondatabuilder-class
+
 </dt>
 <dd>
   Configures the builder with custom attributes for polygon to be created.
@@ -131,8 +134,9 @@ behavior. Related APIs may change for new releases without a deprecation process
 
 </dd>
 <dt class="callable" id="withGeometry">
-<a href="../mapview.datasource/PolygonDataBuilder/withGeometry.html">/sdk-for-flutter-explore-mapview-datasource-polygondatabuilder-withgeometry</a>(<wbr/><a href="../core/GeoPolygon-class.html">/sdk-for-flutter-explore-core-geopolygon-class</a> geometry)
-    → <a href="../mapview.datasource/PolygonDataBuilder-class.html">/sdk-for-flutter-explore-mapview-datasource-polygondatabuilder-class</a>
+/sdk-for-flutter-explore-mapview-datasource-polygondatabuilder-withgeometry(<wbr/>/sdk-for-flutter-explore-core-geopolygon-class geometry)
+    → /sdk-for-flutter-explore-mapview-datasource-polygondatabuilder-class
+
 </dt>
 <dd>
   Configures the builder with geometry for the polygon to be created.
@@ -145,7 +149,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-<a href="../mapview.datasource/PolygonDataBuilder/operator_equals.html">/sdk-for-flutter-explore-mapview-datasource-polygondatabuilder-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-mapview-datasource-polygondatabuilder-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -163,8 +167,8 @@ behavior. Related APIs may change for new releases without a deprecation process
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
 <li class="self-crumb">PolygonDataBuilder class</li>
 </ol>
 <h5>mapview.datasource library</h5>
@@ -181,4 +185,5 @@ behavior. Related APIs may change for new releases without a deprecation process
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

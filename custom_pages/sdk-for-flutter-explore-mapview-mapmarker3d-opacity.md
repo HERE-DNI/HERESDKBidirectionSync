@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "opacity property"
 slug: "sdk-for-flutter-explore-mapview-mapmarker3d-opacity"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- opacity.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-mapmarker3d-opacity"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapMarker3D-class.html">/sdk-for-flutter-explore-mapview-mapmarker3d-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapmarker3d-class</li>
 <li class="self-crumb">opacity property</li>
 </ol>
 <div class="self-name">opacity</div>
@@ -46,7 +47,7 @@ opacity
 The factor is applied to the alpha channel of the resulting texture of the marker.
 Default value is 1.0 meaning marker is displayed with the default opacity of the texture image or the
 specified fill color specified
-in <a href="../../mapview/MapMarker3DModel-class.html">/sdk-for-flutter-explore-mapview-mapmarker3dmodel-class</a>.
+in /sdk-for-flutter-explore-mapview-mapmarker3dmodel-class.
 Returns an opacity factor which specifies the translucency of a 3D map marker.</p>
 </section>
 <section class="summary source-code" id="source">
@@ -64,7 +65,7 @@ opacity=(<wbr/>double value)
 The factor is applied to the alpha channel of the resulting texture of the marker.
 Default value is 1.0 meaning marker is displayed with the default opacity of the texture image or the
 specified fill color specified
-in <a href="../../mapview/MapMarker3DModel-class.html">/sdk-for-flutter-explore-mapview-mapmarker3dmodel-class</a>.
+in /sdk-for-flutter-explore-mapview-mapmarker3dmodel-class.
 Sets an opacity factor which specifies the translucency of a 3D map marker.</p>
 <p>Provided value is clamped to the [0.0, 1.0] range.</p>
 </section>
@@ -81,9 +82,9 @@ Sets an opacity factor which specifies the translucency of a 3D map marker.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapMarker3D-class.html">/sdk-for-flutter-explore-mapview-mapmarker3d-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapmarker3d-class</li>
 <li class="self-crumb">opacity property</li>
 </ol>
 <h5>MapMarker3D class</h5>
@@ -100,4 +101,5 @@ Sets an opacity factor which specifies the translucency of a 3D map marker.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

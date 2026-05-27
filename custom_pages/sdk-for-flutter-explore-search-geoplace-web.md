@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "web property"
 slug: "sdk-for-flutter-explore-search-geoplace-web"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- web.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-search-geoplace-web"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/GeoPlace-class.html">/sdk-for-flutter-explore-search-geoplace-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-geoplace-class</li>
 <li class="self-crumb">web property</li>
 </ol>
 <div class="self-name">web</div>
@@ -37,7 +38,7 @@ menu
 <div>
 <h1>web property</h1></div>
 <section class="multi-line-signature">
-<a href="../../search/WebDetails-class.html">/sdk-for-flutter-explore-search-webdetails-class</a>
+/sdk-for-flutter-explore-search-webdetails-class
 web
 <div class="features">getter/setter pair</div>
 </section>
@@ -57,9 +58,9 @@ Note: WebDetails can have default value when no data is available.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/GeoPlace-class.html">/sdk-for-flutter-explore-search-geoplace-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-geoplace-class</li>
 <li class="self-crumb">web property</li>
 </ol>
 <h5>GeoPlace class</h5>
@@ -76,4 +77,5 @@ Note: WebDetails can have default value when no data is available.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

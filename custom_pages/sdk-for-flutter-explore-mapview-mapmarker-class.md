@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "MapMarker class abstract"
 slug: "sdk-for-flutter-explore-mapview-mapmarker-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- MapMarker-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -40,8 +41,8 @@ slug: "sdk-for-flutter-explore-mapview-mapmarker-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
 <li class="self-crumb">MapMarker class</li>
 </ol>
 <div class="self-name">MapMarker</div>
@@ -68,11 +69,11 @@ menu
 <p><code>MapMarker</code> is used to draw images on the map, for example to mark a specific location.</p>
 <p>By default, the marker is centered on the given geographic coordinates.
 Markers keep their size regardless of the current zoom level of the map view.</p>
-<p>The image to be displayed is represented by <a href="../mapview/MapImage-class.html">/sdk-for-flutter-explore-mapview-mapimage-class</a> object. For performance reasons,
+<p>The image to be displayed is represented by /sdk-for-flutter-explore-mapview-mapimage-class object. For performance reasons,
 it is highly recommended to reuse a single instance of the image when creating multiple
 identical markers.</p>
-<p>To display the map marker, it needs to be added to the scene using <a href="../mapview/MapScene/addMapMarker.html">/sdk-for-flutter-explore-mapview-mapscene-addmapmarker</a>.
-To stop displaying it, remove it from the scene using <a href="../mapview/MapScene/removeMapMarker.html">/sdk-for-flutter-explore-mapview-mapscene-removemapmarker</a>.</p>
+<p>To display the map marker, it needs to be added to the scene using /sdk-for-flutter-explore-mapview-mapscene-addmapmarker.
+To stop displaying it, remove it from the scene using /sdk-for-flutter-explore-mapview-mapscene-removemapmarker.</p>
 <p>The display of a map marker is only guaranteed in case its origin is within the viewport.
 At the moment, this is a known limitation that mostly affects map markers which are visually
 large and cover a sizeable part of the viewport.</p>
@@ -81,24 +82,24 @@ Due to technical limitations using the MapMarkers API to add a very large number
 (several thousands, especially 10000+) is not recommended. Adding this many markers will have a
 negative impact on the performance leading to stuttering of the app and lower frame rates.
 To work around this limitation the following approach can be used:
-Register to map camera updates using <a href="../mapview/MapCamera/addListener.html">/sdk-for-flutter-explore-mapview-mapcamera-addlistener</a>. Query the bounding box of the
-camera viewport using <a href="../mapview/MapCamera/boundingBox.html">/sdk-for-flutter-explore-mapview-mapcamera-boundingbox</a> (it may be extended)
-and then use the method <a href="../core/GeoBox/containsGeoCoordinates.html">/sdk-for-flutter-explore-core-geobox-containsgeocoordinates</a> in combination with
-<a href="../mapview/MapCameraState/distanceToTargetInMeters.html">/sdk-for-flutter-explore-mapview-mapcamerastate-distancetotargetinmeters</a> to determine which MapMarkers are actually visible
+Register to map camera updates using /sdk-for-flutter-explore-mapview-mapcamera-addlistener. Query the bounding box of the
+camera viewport using /sdk-for-flutter-explore-mapview-mapcamera-boundingbox (it may be extended)
+and then use the method /sdk-for-flutter-explore-core-geobox-containsgeocoordinates in combination with
+/sdk-for-flutter-explore-mapview-mapcamerastate-distancetotargetinmeters to determine which MapMarkers are actually visible
 to the user in the current camera viewport and thus need to be added to the map.</p>
 </section>
 <section class="summary offset-anchor" id="constructors">
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="MapMarker">
-<a href="../mapview/MapMarker/MapMarker.html">/sdk-for-flutter-explore-mapview-mapmarker-mapmarker</a>(<a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a> coordinates, <a href="../mapview/MapImage-class.html">/sdk-for-flutter-explore-mapview-mapimage-class</a> image)
+/sdk-for-flutter-explore-mapview-mapmarker-mapmarker(/sdk-for-flutter-explore-core-geocoordinates-class coordinates, /sdk-for-flutter-explore-mapview-mapimage-class image)
 </dt>
 <dd>
           Creates an instance of a marker at given coordinates, represented by specified image.
             <div class="constructor-modifier features">factory</div>
 </dd>
 <dt class="callable" id="MapMarker.withAnchor">
-<a href="../mapview/MapMarker/MapMarker.withAnchor.html">/sdk-for-flutter-explore-mapview-mapmarker-mapmarker-withanchor</a>(<a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a> coordinates, <a href="../mapview/MapImage-class.html">/sdk-for-flutter-explore-mapview-mapimage-class</a> image, <a href="../core/Anchor2D-class.html">/sdk-for-flutter-explore-core-anchor2d-class</a> anchor)
+/sdk-for-flutter-explore-mapview-mapmarker-mapmarker-withanchor(/sdk-for-flutter-explore-core-geocoordinates-class coordinates, /sdk-for-flutter-explore-mapview-mapimage-class image, /sdk-for-flutter-explore-core-anchor2d-class anchor)
 </dt>
 <dd>
           Creates an instance of a marker at given coordinates, represented by specified image,
@@ -106,7 +107,7 @@ with anchor point specifying how the image is positioned relative to the marker'
             <div class="constructor-modifier features">factory</div>
 </dd>
 <dt class="callable" id="MapMarker.withImageAndText">
-<a href="../mapview/MapMarker/MapMarker.withImageAndText.html">/sdk-for-flutter-explore-mapview-mapmarker-mapmarker-withimageandtext</a>(<a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a> coordinates, <a href="../mapview/MapImage-class.html">/sdk-for-flutter-explore-mapview-mapimage-class</a> image, String text)
+/sdk-for-flutter-explore-mapview-mapmarker-mapmarker-withimageandtext(/sdk-for-flutter-explore-core-geocoordinates-class coordinates, /sdk-for-flutter-explore-mapview-mapimage-class image, String text)
 </dt>
 <dd>
           Creates a <code>MapMarker</code> instance at given coordinates with specified image and text and a default text style.
@@ -118,8 +119,8 @@ with anchor point specifying how the image is positioned relative to the marker'
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="anchor">
-<a href="../mapview/MapMarker/anchor.html">/sdk-for-flutter-explore-mapview-mapmarker-anchor</a>
-↔ <a href="../core/Anchor2D-class.html">/sdk-for-flutter-explore-core-anchor2d-class</a>
+/sdk-for-flutter-explore-mapview-mapmarker-anchor
+↔ /sdk-for-flutter-explore-core-anchor2d-class
 </dt>
 <dd>
   The anchor point for the marker image which specifies the position offset relative
@@ -128,8 +129,8 @@ Gets current anchor point for the marker image.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="coordinates">
-<a href="../mapview/MapMarker/coordinates.html">/sdk-for-flutter-explore-mapview-mapmarker-coordinates</a>
-↔ <a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>
+/sdk-for-flutter-explore-mapview-mapmarker-coordinates
+↔ /sdk-for-flutter-explore-core-geocoordinates-class
 </dt>
 <dd>
   The point on the map where the map marker is drawn.
@@ -137,7 +138,7 @@ Gets the point on the map where the marker is drawn.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="drawOrder">
-<a href="../mapview/MapMarker/drawOrder.html">/sdk-for-flutter-explore-mapview-mapmarker-draworder</a>
+/sdk-for-flutter-explore-mapview-mapmarker-draworder
 ↔ int
 </dt>
 <dd>
@@ -146,7 +147,7 @@ Gets draw order of this marker relative to other markers. The default value is 0
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="fadeDuration">
-<a href="../mapview/MapMarker/fadeDuration.html">/sdk-for-flutter-explore-mapview-mapmarker-fadeduration</a>
+/sdk-for-flutter-explore-mapview-mapmarker-fadeduration
 ↔ Duration
 </dt>
 <dd>
@@ -155,7 +156,7 @@ Gets the current duration of a fade-in effect on marker addition to a scene or a
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="hashCode">
-<a href="../mapview/MapMarker/hashCode.html">/sdk-for-flutter-explore-mapview-mapmarker-hashcode</a>
+/sdk-for-flutter-explore-mapview-mapmarker-hashcode
 → int
 </dt>
 <dd class="inherited">
@@ -163,8 +164,8 @@ Gets the current duration of a fade-in effect on marker addition to a scene or a
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="image">
-<a href="../mapview/MapMarker/image.html">/sdk-for-flutter-explore-mapview-mapmarker-image</a>
-↔ <a href="../mapview/MapImage-class.html">/sdk-for-flutter-explore-mapview-mapimage-class</a>
+/sdk-for-flutter-explore-mapview-mapmarker-image
+↔ /sdk-for-flutter-explore-mapview-mapimage-class
 </dt>
 <dd>
   Image representing the marker on the screen.
@@ -172,7 +173,7 @@ Gets currently used map image.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="isOverlapAllowed">
-<a href="../mapview/MapMarker/isOverlapAllowed.html">/sdk-for-flutter-explore-mapview-mapmarker-isoverlapallowed</a>
+/sdk-for-flutter-explore-mapview-mapmarker-isoverlapallowed
 ↔ bool
 </dt>
 <dd>
@@ -182,7 +183,7 @@ Defaults to <code>true</code>.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="isTextOptional">
-<a href="../mapview/MapMarker/isTextOptional.html">/sdk-for-flutter-explore-mapview-mapmarker-istextoptional</a>
+/sdk-for-flutter-explore-mapview-mapmarker-istextoptional
 ↔ bool
 </dt>
 <dd>
@@ -192,17 +193,17 @@ Defaults to <code>false</code>.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="metadata">
-<a href="../mapview/MapMarker/metadata.html">/sdk-for-flutter-explore-mapview-mapmarker-metadata</a>
-↔ <a href="../core/Metadata-class.html">/sdk-for-flutter-explore-core-metadata-class</a>?
+/sdk-for-flutter-explore-mapview-mapmarker-metadata
+↔ /sdk-for-flutter-explore-core-metadata-class?
 </dt>
 <dd>
-  The Metadata instance attached to this marker, see <a href="../core/Metadata-class.html">/sdk-for-flutter-explore-core-metadata-class</a>.
+  The Metadata instance attached to this marker, see /sdk-for-flutter-explore-core-metadata-class.
 Gets the Metadata instance attached to this marker.
 This will be <code>null</code> if nothing has been attached before.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="opacity">
-<a href="../mapview/MapMarker/opacity.html">/sdk-for-flutter-explore-mapview-mapmarker-opacity</a>
+/sdk-for-flutter-explore-mapview-mapmarker-opacity
 ↔ double
 </dt>
 <dd>
@@ -212,7 +213,7 @@ Default value is 1.0.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../mapview/MapMarker/runtimeType.html">/sdk-for-flutter-explore-mapview-mapmarker-runtimetype</a>
+/sdk-for-flutter-explore-mapview-mapmarker-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -220,7 +221,7 @@ Default value is 1.0.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="text">
-<a href="../mapview/MapMarker/text.html">/sdk-for-flutter-explore-mapview-mapmarker-text</a>
+/sdk-for-flutter-explore-mapview-mapmarker-text
 ↔ String
 </dt>
 <dd>
@@ -229,8 +230,8 @@ Gets the text drawn on the map by the <code>MapMarker</code>.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="textStyle">
-<a href="../mapview/MapMarker/textStyle.html">/sdk-for-flutter-explore-mapview-mapmarker-textstyle</a>
-↔ <a href="../mapview/MapMarkerTextStyle-class.html">/sdk-for-flutter-explore-mapview-mapmarkertextstyle-class</a>
+/sdk-for-flutter-explore-mapview-mapmarker-textstyle
+↔ /sdk-for-flutter-explore-mapview-mapmarkertextstyle-class
 </dt>
 <dd>
   The <code>TextStyle</code> applied to the text of the <code>MapMarker</code>.
@@ -238,8 +239,8 @@ Gets a copy of the <code>TextStyle</code> currently in use by the <code>MapMarke
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="visibilityRanges">
-<a href="../mapview/MapMarker/visibilityRanges.html">/sdk-for-flutter-explore-mapview-mapmarker-visibilityranges</a>
-↔ List&lt;<wbr/><a href="../mapview/MapMeasureRange-class.html">/sdk-for-flutter-explore-mapview-mapmeasurerange-class</a>&gt;
+/sdk-for-flutter-explore-mapview-mapmarker-visibilityranges
+↔ List&lt;<wbr/>/sdk-for-flutter-explore-mapview-mapmeasurerange-class&gt;
 </dt>
 <dd>
   The list of visibility ranges. The map marker is visible only inside these map measure ranges.
@@ -253,7 +254,7 @@ ranges. When empty (the default), the map marker is visible without map measure 
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable" id="cancelAnimation">
-<a href="../mapview/MapMarker/cancelAnimation.html">/sdk-for-flutter-explore-mapview-mapmarker-cancelanimation</a>(<wbr/><a href="../animation/MapMarkerAnimation-class.html">/sdk-for-flutter-explore-animation-mapmarkeranimation-class</a> animation)
+/sdk-for-flutter-explore-mapview-mapmarker-cancelanimation(<wbr/>/sdk-for-flutter-explore-animation-mapmarkeranimation-class animation)
     → void
 
 </dt>
@@ -263,7 +264,7 @@ ranges. When empty (the default), the map marker is visible without map measure 
 
 </dd>
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../mapview/MapMarker/noSuchMethod.html">/sdk-for-flutter-explore-mapview-mapmarker-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-mapview-mapmarker-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -272,17 +273,17 @@ ranges. When empty (the default), the map marker is visible without map measure 
   <div class="features">inherited</div>
 </dd>
 <dt class="callable" id="startAnimation">
-<a href="../mapview/MapMarker/startAnimation.html">/sdk-for-flutter-explore-mapview-mapmarker-startanimation</a>(<wbr/><a href="../animation/MapMarkerAnimation-class.html">/sdk-for-flutter-explore-animation-mapmarkeranimation-class</a> animation, <a href="../animation/AnimationListener-class.html">/sdk-for-flutter-explore-animation-animationlistener-class</a>? animationListener)
+/sdk-for-flutter-explore-mapview-mapmarker-startanimation(<wbr/>/sdk-for-flutter-explore-animation-mapmarkeranimation-class animation, /sdk-for-flutter-explore-animation-animationlistener-class? animationListener)
     → void
 
 </dt>
 <dd>
-  Starts animation of this map marker according to provided <a href="../animation/MapMarkerAnimation-class.html">/sdk-for-flutter-explore-animation-mapmarkeranimation-class</a>.
+  Starts animation of this map marker according to provided /sdk-for-flutter-explore-animation-mapmarkeranimation-class.
   
 
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../mapview/MapMarker/toString.html">/sdk-for-flutter-explore-mapview-mapmarker-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-mapview-mapmarker-tostring(<wbr/>)
     → String
 
 </dt>
@@ -296,7 +297,7 @@ ranges. When empty (the default), the map marker is visible without map measure 
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-<a href="../mapview/MapMarker/operator_equals.html">/sdk-for-flutter-explore-mapview-mapmarker-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-mapview-mapmarker-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -314,8 +315,8 @@ ranges. When empty (the default), the map marker is visible without map measure 
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
 <li class="self-crumb">MapMarker class</li>
 </ol>
 <h5>mapview library</h5>
@@ -332,4 +333,5 @@ ranges. When empty (the default), the map marker is visible without map measure 
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

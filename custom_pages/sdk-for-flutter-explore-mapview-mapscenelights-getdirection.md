@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "getDirection abstract method"
 slug: "sdk-for-flutter-explore-mapview-mapscenelights-getdirection"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- getDirection.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-mapscenelights-getdirection"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapSceneLights-class.html">/sdk-for-flutter-explore-mapview-mapscenelights-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapscenelights-class</li>
 <li class="self-crumb">getDirection abstract method</li>
 </ol>
 <div class="self-name">getDirection</div>
@@ -37,8 +38,8 @@ menu
 <div>
 <h1>getDirection abstract method</h1></div>
 <section class="multi-line-signature">
-<a href="../../mapview/MapSceneLightsDirection-class.html">/sdk-for-flutter-explore-mapview-mapscenelightsdirection-class</a>?
-getDirection(<wbr/><ol class="parameter-list single-line"> <li><a href="../../mapview/MapSceneLightsCategory.html">/sdk-for-flutter-explore-mapview-mapscenelightscategory</a> category</li>
+/sdk-for-flutter-explore-mapview-mapscenelightsdirection-class?
+getDirection(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-mapview-mapscenelightscategory category</li>
 </ol>)
 
       
@@ -49,7 +50,7 @@ getDirection(<wbr/><ol class="parameter-list single-line"> <li><a href="../../ma
 <ul>
 <li><code>category</code> The category of light from which the direction is retrieved.</li>
 </ul>
-<p>Returns <a href="../../mapview/MapSceneLightsDirection-class.html">/sdk-for-flutter-explore-mapview-mapscenelightsdirection-class</a>. The current direction of the light, or <code>null</code> if the light is missing from the loaded scene
+<p>Returns /sdk-for-flutter-explore-mapview-mapscenelightsdirection-class. The current direction of the light, or <code>null</code> if the light is missing from the loaded scene
 or MapScene is not intitialized.</p>
 </section>
 <section class="summary source-code" id="source">
@@ -64,9 +65,9 @@ or MapScene is not intitialized.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapSceneLights-class.html">/sdk-for-flutter-explore-mapview-mapscenelights-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapscenelights-class</li>
 <li class="self-crumb">getDirection abstract method</li>
 </ol>
 <h5>MapSceneLights class</h5>
@@ -83,4 +84,5 @@ or MapScene is not intitialized.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "withPolylines abstract method"
 slug: "sdk-for-flutter-explore-mapview-datasource-linedatasourcebuilder-withpolylines"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- withPolylines.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-datasource-linedatasourcebuilder-withpoly
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
-<li><a href="../../mapview.datasource/LineDataSourceBuilder-class.html">/sdk-for-flutter-explore-mapview-datasource-linedatasourcebuilder-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-linedatasourcebuilder-class</li>
 <li class="self-crumb">withPolylines abstract method</li>
 </ol>
 <div class="self-name">withPolylines</div>
@@ -37,8 +38,8 @@ menu
 <div>
 <h1>withPolylines abstract method</h1></div>
 <section class="multi-line-signature">
-<a href="../../mapview.datasource/LineDataSourceBuilder-class.html">/sdk-for-flutter-explore-mapview-datasource-linedatasourcebuilder-class</a>
-withPolylines(<wbr/><ol class="parameter-list single-line"> <li>List&lt;<wbr/><a href="../../mapview.datasource/LineData-class.html">/sdk-for-flutter-explore-mapview-datasource-linedata-class</a>&gt; polylines</li>
+/sdk-for-flutter-explore-mapview-datasource-linedatasourcebuilder-class
+withPolylines(<wbr/><ol class="parameter-list single-line"> <li>List&lt;<wbr/>/sdk-for-flutter-explore-mapview-datasource-linedata-class&gt; polylines</li>
 </ol>)
 
       
@@ -49,7 +50,7 @@ withPolylines(<wbr/><ol class="parameter-list single-line"> <li>List&lt;<wbr/><a
 <ul>
 <li><code>polylines</code> Polylines to add.</li>
 </ul>
-<p>Returns <a href="../../mapview.datasource/LineDataSourceBuilder-class.html">/sdk-for-flutter-explore-mapview-datasource-linedatasourcebuilder-class</a>. This data source builder instance.</p>
+<p>Returns /sdk-for-flutter-explore-mapview-datasource-linedatasourcebuilder-class. This data source builder instance.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -63,9 +64,9 @@ withPolylines(<wbr/><ol class="parameter-list single-line"> <li>List&lt;<wbr/><a
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
-<li><a href="../../mapview.datasource/LineDataSourceBuilder-class.html">/sdk-for-flutter-explore-mapview-datasource-linedatasourcebuilder-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-linedatasourcebuilder-class</li>
 <li class="self-crumb">withPolylines abstract method</li>
 </ol>
 <h5>LineDataSourceBuilder class</h5>
@@ -82,4 +83,5 @@ withPolylines(<wbr/><ol class="parameter-list single-line"> <li>List&lt;<wbr/><a
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

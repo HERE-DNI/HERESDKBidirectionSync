@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "countryCode property"
 slug: "sdk-for-flutter-explore-routing-span-countrycode"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- countryCode.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-routing-span-countrycode"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/Span-class.html">/sdk-for-flutter-explore-routing-span-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-span-class</li>
 <li class="self-crumb">countryCode property</li>
 </ol>
 <div class="self-name">countryCode</div>
@@ -58,9 +59,9 @@ Gets the country code of the span. The value is <code>null</code> when no data i
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/Span-class.html">/sdk-for-flutter-explore-routing-span-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-span-class</li>
 <li class="self-crumb">countryCode property</li>
 </ol>
 <h5>Span class</h5>
@@ -77,4 +78,5 @@ Gets the country code of the span. The value is <code>null</code> when no data i
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

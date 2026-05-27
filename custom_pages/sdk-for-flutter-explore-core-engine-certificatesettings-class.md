@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "CertificateSettings class"
 slug: "sdk-for-flutter-explore-core-engine-certificatesettings-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- CertificateSettings-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -27,8 +28,8 @@ slug: "sdk-for-flutter-explore-core-engine-certificatesettings-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
 <li class="self-crumb">CertificateSettings class</li>
 </ol>
 <div class="self-name">CertificateSettings</div>
@@ -58,7 +59,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="CertificateSettings">
-<a href="../core.engine/CertificateSettings/CertificateSettings.html">/sdk-for-flutter-explore-core-engine-certificatesettings-certificatesettings</a>(String clientCertFileBlob, String clientKeyFileBlob)
+/sdk-for-flutter-explore-core-engine-certificatesettings-certificatesettings(String clientCertFileBlob, String clientKeyFileBlob)
 </dt>
 <dd>
 </dd>
@@ -68,7 +69,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="certFileBlob">
-<a href="../core.engine/CertificateSettings/certFileBlob.html">/sdk-for-flutter-explore-core-engine-certificatesettings-certfileblob</a>
+/sdk-for-flutter-explore-core-engine-certificatesettings-certfileblob
 ↔ String?
 </dt>
 <dd>
@@ -80,7 +81,7 @@ behaviors. Related APIs may change for new releases without a deprecation proces
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="clientCertFileBlob">
-<a href="../core.engine/CertificateSettings/clientCertFileBlob.html">/sdk-for-flutter-explore-core-engine-certificatesettings-clientcertfileblob</a>
+/sdk-for-flutter-explore-core-engine-certificatesettings-clientcertfileblob
 ↔ String
 </dt>
 <dd>
@@ -92,7 +93,7 @@ behaviors. Related APIs may change for new releases without a deprecation proces
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="clientKeyFileBlob">
-<a href="../core.engine/CertificateSettings/clientKeyFileBlob.html">/sdk-for-flutter-explore-core-engine-certificatesettings-clientkeyfileblob</a>
+/sdk-for-flutter-explore-core-engine-certificatesettings-clientkeyfileblob
 ↔ String
 </dt>
 <dd>
@@ -104,7 +105,7 @@ behaviors. Related APIs may change for new releases without a deprecation proces
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-<a href="../core.engine/CertificateSettings/hashCode.html">/sdk-for-flutter-explore-core-engine-certificatesettings-hashcode</a>
+/sdk-for-flutter-explore-core-engine-certificatesettings-hashcode
 → int
 </dt>
 <dd>
@@ -112,7 +113,7 @@ behaviors. Related APIs may change for new releases without a deprecation proces
   <div class="features">no setter</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../core.engine/CertificateSettings/runtimeType.html">/sdk-for-flutter-explore-core-engine-certificatesettings-runtimetype</a>
+/sdk-for-flutter-explore-core-engine-certificatesettings-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -125,7 +126,7 @@ behaviors. Related APIs may change for new releases without a deprecation proces
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../core.engine/CertificateSettings/noSuchMethod.html">/sdk-for-flutter-explore-core-engine-certificatesettings-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-core-engine-certificatesettings-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -134,7 +135,7 @@ behaviors. Related APIs may change for new releases without a deprecation proces
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../core.engine/CertificateSettings/toString.html">/sdk-for-flutter-explore-core-engine-certificatesettings-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-core-engine-certificatesettings-tostring(<wbr/>)
     → String
 
 </dt>
@@ -148,7 +149,7 @@ behaviors. Related APIs may change for new releases without a deprecation proces
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-<a href="../core.engine/CertificateSettings/operator_equals.html">/sdk-for-flutter-explore-core-engine-certificatesettings-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-core-engine-certificatesettings-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -167,8 +168,8 @@ behaviors. Related APIs may change for new releases without a deprecation proces
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
 <li class="self-crumb">CertificateSettings class</li>
 </ol>
 <h5>core.engine library</h5>
@@ -185,4 +186,5 @@ behaviors. Related APIs may change for new releases without a deprecation proces
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

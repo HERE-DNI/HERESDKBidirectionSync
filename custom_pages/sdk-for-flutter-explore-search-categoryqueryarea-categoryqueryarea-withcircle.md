@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "CategoryQueryArea.withCircle constructor"
 slug: "sdk-for-flutter-explore-search-categoryqueryarea-categoryqueryarea-withcircle"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- CategoryQueryArea.withCircle.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-search-categoryqueryarea-categoryqueryarea-withci
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/CategoryQueryArea-class.html">/sdk-for-flutter-explore-search-categoryqueryarea-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-categoryqueryarea-class</li>
 <li class="self-crumb">CategoryQueryArea.withCircle factory constructor</li>
 </ol>
 <div class="self-name">CategoryQueryArea.withCircle</div>
@@ -37,8 +38,8 @@ menu
 <div>
 <h1>CategoryQueryArea.withCircle constructor</h1></div>
 <section class="multi-line-signature">
-CategoryQueryArea.withCircle(<wbr/><ol class="parameter-list single-line"> <li><a href="../../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a> areaCenter, </li>
-<li><a href="../../core/GeoCircle-class.html">/sdk-for-flutter-explore-core-geocircle-class</a> circleArea</li>
+CategoryQueryArea.withCircle(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-core-geocoordinates-class areaCenter, </li>
+<li>/sdk-for-flutter-explore-core-geocircle-class circleArea</li>
 </ol>)
     </section>
 <section class="desc markdown">
@@ -64,9 +65,9 @@ CategoryQueryArea.withCircle(<wbr/><ol class="parameter-list single-line"> <li><
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/CategoryQueryArea-class.html">/sdk-for-flutter-explore-search-categoryqueryarea-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-categoryqueryarea-class</li>
 <li class="self-crumb">CategoryQueryArea.withCircle factory constructor</li>
 </ol>
 <h5>CategoryQueryArea class</h5>
@@ -83,4 +84,5 @@ CategoryQueryArea.withCircle(<wbr/><ol class="parameter-list single-line"> <li><
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

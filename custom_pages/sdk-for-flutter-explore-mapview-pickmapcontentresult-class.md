@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "PickMapContentResult class abstract"
 slug: "sdk-for-flutter-explore-mapview-pickmapcontentresult-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- PickMapContentResult-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -26,8 +27,8 @@ slug: "sdk-for-flutter-explore-mapview-pickmapcontentresult-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
 <li class="self-crumb">PickMapContentResult class</li>
 </ol>
 <div class="self-name">PickMapContentResult</div>
@@ -57,7 +58,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="PickMapContentResult">
-<a href="../mapview/PickMapContentResult/PickMapContentResult.html">/sdk-for-flutter-explore-mapview-pickmapcontentresult-pickmapcontentresult</a>()
+/sdk-for-flutter-explore-mapview-pickmapcontentresult-pickmapcontentresult()
 </dt>
 <dd>
 </dd>
@@ -67,7 +68,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="hashCode">
-<a href="../mapview/PickMapContentResult/hashCode.html">/sdk-for-flutter-explore-mapview-pickmapcontentresult-hashcode</a>
+/sdk-for-flutter-explore-mapview-pickmapcontentresult-hashcode
 → int
 </dt>
 <dd class="inherited">
@@ -75,8 +76,8 @@ menu
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="pickedPlaces">
-<a href="../mapview/PickMapContentResult/pickedPlaces.html">/sdk-for-flutter-explore-mapview-pickmapcontentresult-pickedplaces</a>
-→ List&lt;<wbr/><a href="../core/PickedPlace-class.html">/sdk-for-flutter-explore-core-pickedplace-class</a>&gt;
+/sdk-for-flutter-explore-mapview-pickmapcontentresult-pickedplaces
+→ List&lt;<wbr/>/sdk-for-flutter-explore-core-pickedplace-class&gt;
 </dt>
 <dd>
   List of picked places containing the POIs at the location of picking.
@@ -84,7 +85,7 @@ Gets a list of picked places containing the POIs at the location of picking.
   <div class="features">no setter</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../mapview/PickMapContentResult/runtimeType.html">/sdk-for-flutter-explore-mapview-pickmapcontentresult-runtimetype</a>
+/sdk-for-flutter-explore-mapview-pickmapcontentresult-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -92,8 +93,8 @@ Gets a list of picked places containing the POIs at the location of picking.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="trafficIncidents">
-<a href="../mapview/PickMapContentResult/trafficIncidents.html">/sdk-for-flutter-explore-mapview-pickmapcontentresult-trafficincidents</a>
-→ List&lt;<wbr/><a href="../mapview/PickTrafficIncidentResult-class.html">/sdk-for-flutter-explore-mapview-picktrafficincidentresult-class</a>&gt;
+/sdk-for-flutter-explore-mapview-pickmapcontentresult-trafficincidents
+→ List&lt;<wbr/>/sdk-for-flutter-explore-mapview-picktrafficincidentresult-class&gt;
 </dt>
 <dd>
   List of traffic incidents at the location of picking.
@@ -106,7 +107,7 @@ Gets the list of traffic incidents at the location of picking.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../mapview/PickMapContentResult/noSuchMethod.html">/sdk-for-flutter-explore-mapview-pickmapcontentresult-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-mapview-pickmapcontentresult-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -115,7 +116,7 @@ Gets the list of traffic incidents at the location of picking.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../mapview/PickMapContentResult/toString.html">/sdk-for-flutter-explore-mapview-pickmapcontentresult-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-mapview-pickmapcontentresult-tostring(<wbr/>)
     → String
 
 </dt>
@@ -129,7 +130,7 @@ Gets the list of traffic incidents at the location of picking.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-<a href="../mapview/PickMapContentResult/operator_equals.html">/sdk-for-flutter-explore-mapview-pickmapcontentresult-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-mapview-pickmapcontentresult-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -147,8 +148,8 @@ Gets the list of traffic incidents at the location of picking.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
 <li class="self-crumb">PickMapContentResult class</li>
 </ol>
 <h5>mapview library</h5>
@@ -165,4 +166,5 @@ Gets the list of traffic incidents at the location of picking.
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

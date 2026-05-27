@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "IconProvider constructor"
 slug: "sdk-for-flutter-explore-mapview-iconprovider-iconprovider"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- IconProvider.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-iconprovider-iconprovider"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/IconProvider-class.html">/sdk-for-flutter-explore-mapview-iconprovider-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-iconprovider-class</li>
 <li class="self-crumb">IconProvider constructor</li>
 </ol>
 <div class="self-name">IconProvider</div>
@@ -37,12 +38,12 @@ menu
 <div>
 <h1>IconProvider constructor</h1></div>
 <section class="multi-line-signature">
-IconProvider(<wbr/><ol class="parameter-list single-line"> <li><a href="../../mapview/MapContext-class.html">/sdk-for-flutter-explore-mapview-mapcontext-class</a> mapContext</li>
+IconProvider(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-mapview-mapcontext-class mapContext</li>
 </ol>)
     </section>
 <section class="desc markdown">
 <p>Constructor.
-<code>mapContext</code> The map context instance which is obtained using <a href="../../mapview/MapViewBase/mapContext.html">/sdk-for-flutter-explore-mapview-mapviewbase-mapcontext</a>.</p>
+<code>mapContext</code> The map context instance which is obtained using /sdk-for-flutter-explore-mapview-mapviewbase-mapcontext.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -58,9 +59,9 @@ IconProvider(<wbr/><ol class="parameter-list single-line"> <li><a href="../../ma
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/IconProvider-class.html">/sdk-for-flutter-explore-mapview-iconprovider-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-iconprovider-class</li>
 <li class="self-crumb">IconProvider constructor</li>
 </ol>
 <h5>IconProvider class</h5>
@@ -77,4 +78,5 @@ IconProvider(<wbr/><ol class="parameter-list single-line"> <li><a href="../../ma
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

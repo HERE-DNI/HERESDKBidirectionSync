@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "isAccuracyVisualized property"
 slug: "sdk-for-flutter-explore-mapview-locationindicator-isaccuracyvisualized"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- isAccuracyVisualized.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-locationindicator-isaccuracyvisualized"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/LocationIndicator-class.html">/sdk-for-flutter-explore-mapview-locationindicator-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-locationindicator-class</li>
 <li class="self-crumb">isAccuracyVisualized property</li>
 </ol>
 <div class="self-name">isAccuracyVisualized</div>
@@ -43,7 +44,7 @@ isAccuracyVisualized
 </section>
 <section class="desc markdown">
 <p>Whether the horizontal accuracy is visualized by scaling the accuracy indicator halo.
-Returns whether <a href="../../core/Location/horizontalAccuracyInMeters.html">/sdk-for-flutter-explore-core-location-horizontalaccuracyinmeters</a> is used to scale the accuracy indicator halo.
+Returns whether /sdk-for-flutter-explore-core-location-horizontalaccuracyinmeters is used to scale the accuracy indicator halo.
 Default is <code>false</code>, in which case the halo has a fixed and zoom level independent size.</p>
 </section>
 <section class="summary source-code" id="source">
@@ -58,15 +59,15 @@ isAccuracyVisualized=(<wbr/>bool value)
 </section>
 <section class="desc markdown">
 <p>Whether the horizontal accuracy is visualized by scaling the accuracy indicator halo.
-Sets whether <a href="../../core/Location/horizontalAccuracyInMeters.html">/sdk-for-flutter-explore-core-location-horizontalaccuracyinmeters</a> is used to scale the accuracy indicator halo.
+Sets whether /sdk-for-flutter-explore-core-location-horizontalaccuracyinmeters is used to scale the accuracy indicator halo.
 Default is <code>false</code>, in which case the halo has a fixed and zoom level independent size.</p>
 <p>When set to <code>true</code>, the radius of the halo corresponds to the value of
-<a href="../../core/Location/horizontalAccuracyInMeters.html">/sdk-for-flutter-explore-core-location-horizontalaccuracyinmeters</a> passed to <a href="../../mapview/LocationIndicator/updateLocation.html">/sdk-for-flutter-explore-mapview-locationindicator-updatelocation</a>
+/sdk-for-flutter-explore-core-location-horizontalaccuracyinmeters passed to /sdk-for-flutter-explore-mapview-locationindicator-updatelocation
 and scales in world coordinates.</p>
 <p>For values smaller than 20 meters the halo is hidden.
 The radius of the halo is limited to 500 meters and values higher than that or <code>null</code>
 will keep the halo at that size.</p>
-<p>If the location indicator is set to inactive (which can be checked via <a href="../../mapview/LocationIndicator/isActive.html">/sdk-for-flutter-explore-mapview-locationindicator-isactive</a> flag),
+<p>If the location indicator is set to inactive (which can be checked via /sdk-for-flutter-explore-mapview-locationindicator-isactive flag),
 then the halo is always hidden. The value of this property remains unchanged regardless of the flag's value.
 If the location indicator is set to active:</p>
 <ul>
@@ -74,14 +75,14 @@ If the location indicator is set to active:</p>
 <ul>
 <li>The halo is always shown.</li>
 <li>If the accuracy visualization is set to <code>true</code>, the size of the halo scales with
-<a href="../../core/Location/horizontalAccuracyInMeters.html">/sdk-for-flutter-explore-core-location-horizontalaccuracyinmeters</a> in world coordinates.</li>
+/sdk-for-flutter-explore-core-location-horizontalaccuracyinmeters in world coordinates.</li>
 <li>If the accuracy visualization is set to <code>false</code>, halo displays at a default size.</li>
 </ul>
 </li>
 <li>Custom location indicator:
 <ul>
 <li>If the accuracy visualization is set to <code>true</code>, halo is shown and the size of the halo scales with
-<a href="../../core/Location/horizontalAccuracyInMeters.html">/sdk-for-flutter-explore-core-location-horizontalaccuracyinmeters</a> in world coordinates.</li>
+/sdk-for-flutter-explore-core-location-horizontalaccuracyinmeters in world coordinates.</li>
 <li>If the accuracy visualization is set to <code>false</code>, no halo is shown since it might not fit together with the custom 3d model.</li>
 </ul>
 </li>
@@ -100,9 +101,9 @@ If the location indicator is set to active:</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/LocationIndicator-class.html">/sdk-for-flutter-explore-mapview-locationindicator-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-locationindicator-class</li>
 <li class="self-crumb">isAccuracyVisualized property</li>
 </ol>
 <h5>LocationIndicator class</h5>
@@ -119,4 +120,5 @@ If the location indicator is set to active:</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

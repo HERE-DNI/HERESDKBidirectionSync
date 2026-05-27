@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "BusSpecifications class"
 slug: "sdk-for-flutter-explore-transport-busspecifications-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- BusSpecifications-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -29,8 +30,8 @@ slug: "sdk-for-flutter-explore-transport-busspecifications-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-transport-transport-library</li>
 <li class="self-crumb">BusSpecifications class</li>
 </ol>
 <div class="self-name">BusSpecifications</div>
@@ -63,7 +64,7 @@ Only the fields that are set are considered for restriction handling.</p>
 <dt>Annotations</dt>
 <dd>
 <ul class="annotation-list clazz-relationships">
-<li>@Deprecated("Will be removed in v4.28.0. Use `TransportSpecification` instead.")</li>
+<li>@Deprecated("Will be removed in v4.28.0. Use <code>TransportSpecification</code> instead.")</li>
 </ul>
 </dd>
 </dl>
@@ -72,13 +73,13 @@ Only the fields that are set are considered for restriction handling.</p>
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="BusSpecifications">
-<a href="../transport/BusSpecifications/BusSpecifications.html">/sdk-for-flutter-explore-transport-busspecifications-busspecifications</a>([int? grossWeightInKilograms = null, int? heightInCentimeters = null, int? widthInCentimeters = null, int? lengthInCentimeters = null])
+/sdk-for-flutter-explore-transport-busspecifications-busspecifications([int? grossWeightInKilograms = null, int? heightInCentimeters = null, int? widthInCentimeters = null, int? lengthInCentimeters = null])
 </dt>
 <dd>
           Creates a new instance.
         </dd>
 <dt class="callable" id="BusSpecifications.withDefaults">
-<a href="../transport/BusSpecifications/BusSpecifications.withDefaults.html">/sdk-for-flutter-explore-transport-busspecifications-busspecifications-withdefaults</a>()
+/sdk-for-flutter-explore-transport-busspecifications-busspecifications-withdefaults()
 </dt>
 <dd>
           Creates a new instance.
@@ -89,7 +90,7 @@ Only the fields that are set are considered for restriction handling.</p>
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="grossWeightInKilograms">
-<a href="../transport/BusSpecifications/grossWeightInKilograms.html">/sdk-for-flutter-explore-transport-busspecifications-grossweightinkilograms</a>
+/sdk-for-flutter-explore-transport-busspecifications-grossweightinkilograms
 ↔ int?
 </dt>
 <dd>
@@ -98,7 +99,7 @@ By default, it is not set.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-<a href="../transport/BusSpecifications/hashCode.html">/sdk-for-flutter-explore-transport-busspecifications-hashcode</a>
+/sdk-for-flutter-explore-transport-busspecifications-hashcode
 → int
 </dt>
 <dd>
@@ -106,7 +107,7 @@ By default, it is not set.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="heightInCentimeters">
-<a href="../transport/BusSpecifications/heightInCentimeters.html">/sdk-for-flutter-explore-transport-busspecifications-heightincentimeters</a>
+/sdk-for-flutter-explore-transport-busspecifications-heightincentimeters
 ↔ int?
 </dt>
 <dd>
@@ -115,7 +116,7 @@ By default, it is not set.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="lengthInCentimeters">
-<a href="../transport/BusSpecifications/lengthInCentimeters.html">/sdk-for-flutter-explore-transport-busspecifications-lengthincentimeters</a>
+/sdk-for-flutter-explore-transport-busspecifications-lengthincentimeters
 ↔ int?
 </dt>
 <dd>
@@ -124,7 +125,7 @@ By default, it is not set.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../transport/BusSpecifications/runtimeType.html">/sdk-for-flutter-explore-transport-busspecifications-runtimetype</a>
+/sdk-for-flutter-explore-transport-busspecifications-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -132,7 +133,7 @@ By default, it is not set.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="widthInCentimeters">
-<a href="../transport/BusSpecifications/widthInCentimeters.html">/sdk-for-flutter-explore-transport-busspecifications-widthincentimeters</a>
+/sdk-for-flutter-explore-transport-busspecifications-widthincentimeters
 ↔ int?
 </dt>
 <dd>
@@ -146,7 +147,7 @@ By default, it is not set.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../transport/BusSpecifications/noSuchMethod.html">/sdk-for-flutter-explore-transport-busspecifications-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-transport-busspecifications-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -155,7 +156,7 @@ By default, it is not set.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../transport/BusSpecifications/toString.html">/sdk-for-flutter-explore-transport-busspecifications-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-transport-busspecifications-tostring(<wbr/>)
     → String
 
 </dt>
@@ -169,7 +170,7 @@ By default, it is not set.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-<a href="../transport/BusSpecifications/operator_equals.html">/sdk-for-flutter-explore-transport-busspecifications-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-transport-busspecifications-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -188,8 +189,8 @@ By default, it is not set.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-transport-transport-library</li>
 <li class="self-crumb">BusSpecifications class</li>
 </ol>
 <h5>transport library</h5>
@@ -206,4 +207,5 @@ By default, it is not set.
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

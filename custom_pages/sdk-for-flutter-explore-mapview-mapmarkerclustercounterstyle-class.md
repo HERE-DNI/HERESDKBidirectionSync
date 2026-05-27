@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "MapMarkerClusterCounterStyle class"
 slug: "sdk-for-flutter-explore-mapview-mapmarkerclustercounterstyle-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- MapMarkerClusterCounterStyle-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -29,8 +30,8 @@ slug: "sdk-for-flutter-explore-mapview-mapmarkerclustercounterstyle-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
 <li class="self-crumb">MapMarkerClusterCounterStyle class</li>
 </ol>
 <div class="self-name">MapMarkerClusterCounterStyle</div>
@@ -60,7 +61,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="MapMarkerClusterCounterStyle">
-<a href="../mapview/MapMarkerClusterCounterStyle/MapMarkerClusterCounterStyle.html">/sdk-for-flutter-explore-mapview-mapmarkerclustercounterstyle-mapmarkerclustercounterstyle</a>()
+/sdk-for-flutter-explore-mapview-mapmarkerclustercounterstyle-mapmarkerclustercounterstyle()
 </dt>
 <dd>
 </dd>
@@ -70,15 +71,15 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="aboveMaxText">
-<a href="../mapview/MapMarkerClusterCounterStyle/aboveMaxText.html">/sdk-for-flutter-explore-mapview-mapmarkerclustercounterstyle-abovemaxtext</a>
+/sdk-for-flutter-explore-mapview-mapmarkerclustercounterstyle-abovemaxtext
 ↔ String
 </dt>
 <dd>
-  String to display if there are more markers clustered than <a href="../mapview/MapMarkerClusterCounterStyle/maxCountNumber.html">/sdk-for-flutter-explore-mapview-mapmarkerclustercounterstyle-maxcountnumber</a>. Default value is "+99".
+  String to display if there are more markers clustered than /sdk-for-flutter-explore-mapview-mapmarkerclustercounterstyle-maxcountnumber. Default value is "+99".
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="fontSize">
-<a href="../mapview/MapMarkerClusterCounterStyle/fontSize.html">/sdk-for-flutter-explore-mapview-mapmarkerclustercounterstyle-fontsize</a>
+/sdk-for-flutter-explore-mapview-mapmarkerclustercounterstyle-fontsize
 ↔ double
 </dt>
 <dd>
@@ -86,7 +87,7 @@ menu
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="hashCode">
-<a href="../mapview/MapMarkerClusterCounterStyle/hashCode.html">/sdk-for-flutter-explore-mapview-mapmarkerclustercounterstyle-hashcode</a>
+/sdk-for-flutter-explore-mapview-mapmarkerclustercounterstyle-hashcode
 → int
 </dt>
 <dd class="inherited">
@@ -94,16 +95,16 @@ menu
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="maxCountNumber">
-<a href="../mapview/MapMarkerClusterCounterStyle/maxCountNumber.html">/sdk-for-flutter-explore-mapview-mapmarkerclustercounterstyle-maxcountnumber</a>
+/sdk-for-flutter-explore-mapview-mapmarkerclustercounterstyle-maxcountnumber
 ↔ int
 </dt>
 <dd>
   Maximal number of markers represented as exact number. Values smaller than 2 will be clamped to 2.
-Default value is 99. When this value is changed, it is recommended to adapt <a href="../mapview/MapMarkerClusterCounterStyle/aboveMaxText.html">/sdk-for-flutter-explore-mapview-mapmarkerclustercounterstyle-abovemaxtext</a> accordingly.
+Default value is 99. When this value is changed, it is recommended to adapt /sdk-for-flutter-explore-mapview-mapmarkerclustercounterstyle-abovemaxtext accordingly.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../mapview/MapMarkerClusterCounterStyle/runtimeType.html">/sdk-for-flutter-explore-mapview-mapmarkerclustercounterstyle-runtimetype</a>
+/sdk-for-flutter-explore-mapview-mapmarkerclustercounterstyle-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -111,15 +112,15 @@ Default value is 99. When this value is changed, it is recommended to adapt <a h
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="textAnchor">
-<a href="../mapview/MapMarkerClusterCounterStyle/textAnchor.html">/sdk-for-flutter-explore-mapview-mapmarkerclustercounterstyle-textanchor</a>
-↔ <a href="../core/Anchor2D-class.html">/sdk-for-flutter-explore-core-anchor2d-class</a>
+/sdk-for-flutter-explore-mapview-mapmarkerclustercounterstyle-textanchor
+↔ /sdk-for-flutter-explore-core-anchor2d-class
 </dt>
 <dd>
   Anchor of counter in regards to marker cluster image. Default is at the center.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="textColor">
-<a href="../mapview/MapMarkerClusterCounterStyle/textColor.html">/sdk-for-flutter-explore-mapview-mapmarkerclustercounterstyle-textcolor</a>
+/sdk-for-flutter-explore-mapview-mapmarkerclustercounterstyle-textcolor
 ↔ Color
 </dt>
 <dd>
@@ -132,7 +133,7 @@ Default value is 99. When this value is changed, it is recommended to adapt <a h
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../mapview/MapMarkerClusterCounterStyle/noSuchMethod.html">/sdk-for-flutter-explore-mapview-mapmarkerclustercounterstyle-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-mapview-mapmarkerclustercounterstyle-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -141,7 +142,7 @@ Default value is 99. When this value is changed, it is recommended to adapt <a h
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../mapview/MapMarkerClusterCounterStyle/toString.html">/sdk-for-flutter-explore-mapview-mapmarkerclustercounterstyle-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-mapview-mapmarkerclustercounterstyle-tostring(<wbr/>)
     → String
 
 </dt>
@@ -155,7 +156,7 @@ Default value is 99. When this value is changed, it is recommended to adapt <a h
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-<a href="../mapview/MapMarkerClusterCounterStyle/operator_equals.html">/sdk-for-flutter-explore-mapview-mapmarkerclustercounterstyle-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-mapview-mapmarkerclustercounterstyle-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -173,8 +174,8 @@ Default value is 99. When this value is changed, it is recommended to adapt <a h
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
 <li class="self-crumb">MapMarkerClusterCounterStyle class</li>
 </ol>
 <h5>mapview library</h5>
@@ -191,4 +192,5 @@ Default value is 99. When this value is changed, it is recommended to adapt <a h
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

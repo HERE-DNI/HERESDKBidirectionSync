@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "searchByCategoryExtended abstract method"
 slug: "sdk-for-flutter-explore-search-searchengine-searchbycategoryextended"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- searchByCategoryExtended.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-search-searchengine-searchbycategoryextended"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/SearchEngine-class.html">/sdk-for-flutter-explore-search-searchengine-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-searchengine-class</li>
 <li class="self-crumb">searchByCategoryExtended abstract method</li>
 </ol>
 <div class="self-name">searchByCategoryExtended</div>
@@ -37,18 +38,18 @@ menu
 <div>
 <h1>searchByCategoryExtended abstract method</h1></div>
 <section class="multi-line-signature">
-<a href="../../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a>
-searchByCategoryExtended(<wbr/><ol class="parameter-list single-line"> <li><a href="../../search/CategoryQuery-class.html">/sdk-for-flutter-explore-search-categoryquery-class</a> query, </li>
-<li><a href="../../search/SearchOptions-class.html">/sdk-for-flutter-explore-search-searchoptions-class</a> options, </li>
-<li><a href="../../search/SearchCallbackExtended.html">/sdk-for-flutter-explore-search-searchcallbackextended</a> callback</li>
+/sdk-for-flutter-explore-core-threading-taskhandle-class
+searchByCategoryExtended(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-search-categoryquery-class query, </li>
+<li>/sdk-for-flutter-explore-search-searchoptions-class options, </li>
+<li>/sdk-for-flutter-explore-search-searchcallbackextended callback</li>
 </ol>)
 
       
 
     </section>
 <section class="desc markdown">
-<p>Performs an asynchronous request to do a category search for <a href="../../search/Place-class.html">/sdk-for-flutter-explore-search-place-class</a> instances.</p>
-<p>A list containing at least one <a href="../../search/PlaceCategory-class.html">/sdk-for-flutter-explore-search-placecategory-class</a> must be provided
+<p>Performs an asynchronous request to do a category search for /sdk-for-flutter-explore-search-place-class instances.</p>
+<p>A list containing at least one /sdk-for-flutter-explore-search-placecategory-class must be provided
 as part of the <code>SearchEngine.searchByCategoryExtended.query</code>.</p>
 <ul>
 <li>
@@ -61,7 +62,7 @@ as part of the <code>SearchEngine.searchByCategoryExtended.query</code>.</p>
 <p><code>callback</code> Callback which receives the result on the main thread.</p>
 </li>
 </ul>
-<p>Returns <a href="../../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a>. Handle that will be used to manipulate the execution of the task.</p>
+<p>Returns /sdk-for-flutter-explore-core-threading-taskhandle-class. Handle that will be used to manipulate the execution of the task.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -75,9 +76,9 @@ as part of the <code>SearchEngine.searchByCategoryExtended.query</code>.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/SearchEngine-class.html">/sdk-for-flutter-explore-search-searchengine-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-searchengine-class</li>
 <li class="self-crumb">searchByCategoryExtended abstract method</li>
 </ol>
 <h5>SearchEngine class</h5>
@@ -94,4 +95,5 @@ as part of the <code>SearchEngine.searchByCategoryExtended.query</code>.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "addPoints abstract method"
 slug: "sdk-for-flutter-explore-mapview-datasource-pointdatasource-addpoints"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- addPoints.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-datasource-pointdatasource-addpoints"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
-<li><a href="../../mapview.datasource/PointDataSource-class.html">/sdk-for-flutter-explore-mapview-datasource-pointdatasource-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-pointdatasource-class</li>
 <li class="self-crumb">addPoints abstract method</li>
 </ol>
 <div class="self-name">addPoints</div>
@@ -38,7 +39,7 @@ menu
 <h1>addPoints abstract method</h1></div>
 <section class="multi-line-signature">
 void
-addPoints(<wbr/><ol class="parameter-list single-line"> <li>List&lt;<wbr/><a href="../../mapview.datasource/PointData-class.html">/sdk-for-flutter-explore-mapview-datasource-pointdata-class</a>&gt; points</li>
+addPoints(<wbr/><ol class="parameter-list single-line"> <li>List&lt;<wbr/>/sdk-for-flutter-explore-mapview-datasource-pointdata-class&gt; points</li>
 </ol>)
 
       
@@ -63,9 +64,9 @@ addPoints(<wbr/><ol class="parameter-list single-line"> <li>List&lt;<wbr/><a hre
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
-<li><a href="../../mapview.datasource/PointDataSource-class.html">/sdk-for-flutter-explore-mapview-datasource-pointdatasource-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-pointdatasource-class</li>
 <li class="self-crumb">addPoints abstract method</li>
 </ol>
 <h5>PointDataSource class</h5>
@@ -82,4 +83,5 @@ addPoints(<wbr/><ol class="parameter-list single-line"> <li>List&lt;<wbr/><a hre
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

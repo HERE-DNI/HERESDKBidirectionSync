@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "MapMarkerCluster class abstract"
 slug: "sdk-for-flutter-explore-mapview-mapmarkercluster-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- MapMarkerCluster-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -32,8 +33,8 @@ slug: "sdk-for-flutter-explore-mapview-mapmarkercluster-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
 <li class="self-crumb">MapMarkerCluster class</li>
 </ol>
 <div class="self-name">MapMarkerCluster</div>
@@ -63,7 +64,7 @@ them in a small area.</p>
 are generated based on geographical distance between objects, not based on screen space collision.
 Hence it is possible, that cluster markers can overlap.</p>
 <p>The markers can be added to a cluster or to a scene, but not to both. To display the cluster on the
-map, add it to the scene using <a href="../mapview/MapScene/addMapMarkerCluster.html">/sdk-for-flutter-explore-mapview-mapscene-addmapmarkercluster</a>. The display of a cluster is only
+map, add it to the scene using /sdk-for-flutter-explore-mapview-mapscene-addmapmarkercluster. The display of a cluster is only
 guaranteed in case its origin is within the viewport. At the moment, this is a known limitation
 that mostly affects clusters which are visually large and cover a sizeable part of the viewport.</p>
 <p>Markers part of the cluster with opacity set to zero are still on the map and are considered for picking and clustering.</p>
@@ -72,14 +73,14 @@ that mostly affects clusters which are visually large and cover a sizeable part 
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="MapMarkerCluster">
-<a href="../mapview/MapMarkerCluster/MapMarkerCluster.html">/sdk-for-flutter-explore-mapview-mapmarkercluster-mapmarkercluster</a>(<a href="../mapview/MapMarkerClusterImageStyle-class.html">/sdk-for-flutter-explore-mapview-mapmarkerclusterimagestyle-class</a> imageStyle)
+/sdk-for-flutter-explore-mapview-mapmarkercluster-mapmarkercluster(/sdk-for-flutter-explore-mapview-mapmarkerclusterimagestyle-class imageStyle)
 </dt>
 <dd>
           Creates a new instance of a map marker cluster which is represented as an image.
             <div class="constructor-modifier features">factory</div>
 </dd>
 <dt class="callable" id="MapMarkerCluster.WithCounter">
-<a href="../mapview/MapMarkerCluster/MapMarkerCluster.WithCounter.html">/sdk-for-flutter-explore-mapview-mapmarkercluster-mapmarkercluster-withcounter</a>(<a href="../mapview/MapMarkerClusterImageStyle-class.html">/sdk-for-flutter-explore-mapview-mapmarkerclusterimagestyle-class</a> imageStyle, <a href="../mapview/MapMarkerClusterCounterStyle-class.html">/sdk-for-flutter-explore-mapview-mapmarkerclustercounterstyle-class</a> counterStyle)
+/sdk-for-flutter-explore-mapview-mapmarkercluster-mapmarkercluster-withcounter(/sdk-for-flutter-explore-mapview-mapmarkerclusterimagestyle-class imageStyle, /sdk-for-flutter-explore-mapview-mapmarkerclustercounterstyle-class counterStyle)
 </dt>
 <dd>
           Creates a new instance of a map marker cluster which is represented as an image along with a counter
@@ -92,7 +93,7 @@ showing how many markers are actually grouped under particular cluster icon.
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="hashCode">
-<a href="../mapview/MapMarkerCluster/hashCode.html">/sdk-for-flutter-explore-mapview-mapmarkercluster-hashcode</a>
+/sdk-for-flutter-explore-mapview-mapmarkercluster-hashcode
 → int
 </dt>
 <dd class="inherited">
@@ -100,8 +101,8 @@ showing how many markers are actually grouped under particular cluster icon.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="markers">
-<a href="../mapview/MapMarkerCluster/markers.html">/sdk-for-flutter-explore-mapview-mapmarkercluster-markers</a>
-→ List&lt;<wbr/><a href="../mapview/MapMarker-class.html">/sdk-for-flutter-explore-mapview-mapmarker-class</a>&gt;
+/sdk-for-flutter-explore-mapview-mapmarkercluster-markers
+→ List&lt;<wbr/>/sdk-for-flutter-explore-mapview-mapmarker-class&gt;
 </dt>
 <dd>
   The list of map markers which currently belong to this cluster.
@@ -110,7 +111,7 @@ Returns the list of map markers which currently belong to this cluster.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="opacity">
-<a href="../mapview/MapMarkerCluster/opacity.html">/sdk-for-flutter-explore-mapview-mapmarkercluster-opacity</a>
+/sdk-for-flutter-explore-mapview-mapmarkercluster-opacity
 ↔ double
 </dt>
 <dd>
@@ -119,7 +120,7 @@ Gets the current opacity of the marker cluster image.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../mapview/MapMarkerCluster/runtimeType.html">/sdk-for-flutter-explore-mapview-mapmarkercluster-runtimetype</a>
+/sdk-for-flutter-explore-mapview-mapmarkercluster-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -132,7 +133,7 @@ Gets the current opacity of the marker cluster image.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable" id="addMapMarker">
-<a href="../mapview/MapMarkerCluster/addMapMarker.html">/sdk-for-flutter-explore-mapview-mapmarkercluster-addmapmarker</a>(<wbr/><a href="../mapview/MapMarker-class.html">/sdk-for-flutter-explore-mapview-mapmarker-class</a> marker)
+/sdk-for-flutter-explore-mapview-mapmarkercluster-addmapmarker(<wbr/>/sdk-for-flutter-explore-mapview-mapmarker-class marker)
     → void
 
 </dt>
@@ -142,7 +143,7 @@ Gets the current opacity of the marker cluster image.
 
 </dd>
 <dt class="callable" id="addMapMarkers">
-<a href="../mapview/MapMarkerCluster/addMapMarkers.html">/sdk-for-flutter-explore-mapview-mapmarkercluster-addmapmarkers</a>(<wbr/>List&lt;<wbr/><a href="../mapview/MapMarker-class.html">/sdk-for-flutter-explore-mapview-mapmarker-class</a>&gt; markers)
+/sdk-for-flutter-explore-mapview-mapmarkercluster-addmapmarkers(<wbr/>List&lt;<wbr/>/sdk-for-flutter-explore-mapview-mapmarker-class&gt; markers)
     → void
 
 </dt>
@@ -152,7 +153,7 @@ Gets the current opacity of the marker cluster image.
 
 </dd>
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../mapview/MapMarkerCluster/noSuchMethod.html">/sdk-for-flutter-explore-mapview-mapmarkercluster-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-mapview-mapmarkercluster-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -161,7 +162,7 @@ Gets the current opacity of the marker cluster image.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable" id="removeAllMapMarkers">
-<a href="../mapview/MapMarkerCluster/removeAllMapMarkers.html">/sdk-for-flutter-explore-mapview-mapmarkercluster-removeallmapmarkers</a>(<wbr/>)
+/sdk-for-flutter-explore-mapview-mapmarkercluster-removeallmapmarkers(<wbr/>)
     → void
 
 </dt>
@@ -171,7 +172,7 @@ Gets the current opacity of the marker cluster image.
 
 </dd>
 <dt class="callable" id="removeMapMarker">
-<a href="../mapview/MapMarkerCluster/removeMapMarker.html">/sdk-for-flutter-explore-mapview-mapmarkercluster-removemapmarker</a>(<wbr/><a href="../mapview/MapMarker-class.html">/sdk-for-flutter-explore-mapview-mapmarker-class</a> marker)
+/sdk-for-flutter-explore-mapview-mapmarkercluster-removemapmarker(<wbr/>/sdk-for-flutter-explore-mapview-mapmarker-class marker)
     → void
 
 </dt>
@@ -181,7 +182,7 @@ Gets the current opacity of the marker cluster image.
 
 </dd>
 <dt class="callable" id="removeMapMarkers">
-<a href="../mapview/MapMarkerCluster/removeMapMarkers.html">/sdk-for-flutter-explore-mapview-mapmarkercluster-removemapmarkers</a>(<wbr/>List&lt;<wbr/><a href="../mapview/MapMarker-class.html">/sdk-for-flutter-explore-mapview-mapmarker-class</a>&gt; markers)
+/sdk-for-flutter-explore-mapview-mapmarkercluster-removemapmarkers(<wbr/>List&lt;<wbr/>/sdk-for-flutter-explore-mapview-mapmarker-class&gt; markers)
     → void
 
 </dt>
@@ -191,7 +192,7 @@ Gets the current opacity of the marker cluster image.
 
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../mapview/MapMarkerCluster/toString.html">/sdk-for-flutter-explore-mapview-mapmarkercluster-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-mapview-mapmarkercluster-tostring(<wbr/>)
     → String
 
 </dt>
@@ -205,7 +206,7 @@ Gets the current opacity of the marker cluster image.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-<a href="../mapview/MapMarkerCluster/operator_equals.html">/sdk-for-flutter-explore-mapview-mapmarkercluster-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-mapview-mapmarkercluster-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -223,8 +224,8 @@ Gets the current opacity of the marker cluster image.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
 <li class="self-crumb">MapMarkerCluster class</li>
 </ol>
 <h5>mapview library</h5>
@@ -241,4 +242,5 @@ Gets the current opacity of the marker cluster image.
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

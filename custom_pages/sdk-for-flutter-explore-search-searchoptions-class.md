@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "SearchOptions class"
 slug: "sdk-for-flutter-explore-search-searchoptions-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- SearchOptions-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -28,8 +29,8 @@ slug: "sdk-for-flutter-explore-search-searchoptions-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
 <li class="self-crumb">SearchOptions class</li>
 </ol>
 <div class="self-name">SearchOptions</div>
@@ -59,7 +60,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="SearchOptions">
-<a href="../search/SearchOptions/SearchOptions.html">/sdk-for-flutter-explore-search-searchoptions-searchoptions</a>()
+/sdk-for-flutter-explore-search-searchoptions-searchoptions()
 </dt>
 <dd>
 </dd>
@@ -69,7 +70,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="distributedResults">
-<a href="../search/SearchOptions/distributedResults.html">/sdk-for-flutter-explore-search-searchoptions-distributedresults</a>
+/sdk-for-flutter-explore-search-searchoptions-distributedresults
 ↔ bool
 </dt>
 <dd>
@@ -78,7 +79,7 @@ It is only supported for:
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-<a href="../search/SearchOptions/hashCode.html">/sdk-for-flutter-explore-search-searchoptions-hashcode</a>
+/sdk-for-flutter-explore-search-searchoptions-hashcode
 → int
 </dt>
 <dd>
@@ -86,7 +87,7 @@ It is only supported for:
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="highDensityEncodingEnabled">
-<a href="../search/SearchOptions/highDensityEncodingEnabled.html">/sdk-for-flutter-explore-search-searchoptions-highdensityencodingenabled</a>
+/sdk-for-flutter-explore-search-searchoptions-highdensityencodingenabled
 ↔ bool
 </dt>
 <dd>
@@ -97,12 +98,12 @@ Only supported for search in <code>SearchEngine</code>, otherwise it is ignored.
 unexpected behaviors.
 Related APIs may change for new releases without a deprecation process.
 Only participants of the closed-alpha group can get access from HERE to use this feature,
-otherwise, a <a href="../search/SearchError.html">/sdk-for-flutter-explore-search-searcherror</a> will be propagated in callbacks.
+otherwise, a /sdk-for-flutter-explore-search-searcherror will be propagated in callbacks.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="languageCode">
-<a href="../search/SearchOptions/languageCode.html">/sdk-for-flutter-explore-search-searchoptions-languagecode</a>
-↔ <a href="../core/LanguageCode.html">/sdk-for-flutter-explore-core-languagecode</a>?
+/sdk-for-flutter-explore-search-searchoptions-languagecode
+↔ /sdk-for-flutter-explore-core-languagecode?
 </dt>
 <dd>
   The preferred language of the result. When unset or unsupported language is chosen,
@@ -110,7 +111,7 @@ results will be returned in their local language.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="maxItems">
-<a href="../search/SearchOptions/maxItems.html">/sdk-for-flutter-explore-search-searchoptions-maxitems</a>
+/sdk-for-flutter-explore-search-searchoptions-maxitems
 ↔ int?
 </dt>
 <dd>
@@ -120,7 +121,7 @@ For location search (reverse geocode) by default results limited to 1.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../search/SearchOptions/runtimeType.html">/sdk-for-flutter-explore-search-searchoptions-runtimetype</a>
+/sdk-for-flutter-explore-search-searchoptions-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -133,7 +134,7 @@ For location search (reverse geocode) by default results limited to 1.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../search/SearchOptions/noSuchMethod.html">/sdk-for-flutter-explore-search-searchoptions-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-search-searchoptions-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -142,7 +143,7 @@ For location search (reverse geocode) by default results limited to 1.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../search/SearchOptions/toString.html">/sdk-for-flutter-explore-search-searchoptions-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-search-searchoptions-tostring(<wbr/>)
     → String
 
 </dt>
@@ -156,7 +157,7 @@ For location search (reverse geocode) by default results limited to 1.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-<a href="../search/SearchOptions/operator_equals.html">/sdk-for-flutter-explore-search-searchoptions-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-search-searchoptions-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -175,8 +176,8 @@ For location search (reverse geocode) by default results limited to 1.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
 <li class="self-crumb">SearchOptions class</li>
 </ol>
 <h5>search library</h5>
@@ -193,4 +194,5 @@ For location search (reverse geocode) by default results limited to 1.
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

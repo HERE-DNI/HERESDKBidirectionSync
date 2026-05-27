@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "status property"
 slug: "sdk-for-flutter-explore-search-evse-status"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- status.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-search-evse-status"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/Evse-class.html">/sdk-for-flutter-explore-search-evse-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-evse-class</li>
 <li class="self-crumb">status property</li>
 </ol>
 <div class="self-name">status</div>
@@ -37,7 +38,7 @@ menu
 <div>
 <h1>status property</h1></div>
 <section class="multi-line-signature">
-<a href="../../search/EVSEStatus.html">/sdk-for-flutter-explore-search-evsestatus</a>?
+/sdk-for-flutter-explore-search-evsestatus?
         status
 <div class="features">getter/setter pair</div>
 </section>
@@ -56,9 +57,9 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/Evse-class.html">/sdk-for-flutter-explore-search-evse-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-evse-class</li>
 <li class="self-crumb">status property</li>
 </ol>
 <h5>Evse class</h5>
@@ -75,4 +76,5 @@ menu
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

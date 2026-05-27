@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "codes property"
 slug: "sdk-for-flutter-explore-traffic-trafficincident-codes"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- codes.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-traffic-trafficincident-codes"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../traffic/traffic-library.html">/sdk-for-flutter-explore-traffic-traffic-library</a></li>
-<li><a href="../../traffic/TrafficIncident-class.html">/sdk-for-flutter-explore-traffic-trafficincident-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-traffic-traffic-library</li>
+<li>/sdk-for-flutter-explore-traffic-trafficincident-class</li>
 <li class="self-crumb">codes property</li>
 </ol>
 <div class="self-name">codes</div>
@@ -59,9 +60,9 @@ Gets the list of standardized codes as categorized in ISO 14819-2:2013 standard 
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../traffic/traffic-library.html">/sdk-for-flutter-explore-traffic-traffic-library</a></li>
-<li><a href="../../traffic/TrafficIncident-class.html">/sdk-for-flutter-explore-traffic-trafficincident-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-traffic-traffic-library</li>
+<li>/sdk-for-flutter-explore-traffic-trafficincident-class</li>
 <li class="self-crumb">codes property</li>
 </ol>
 <h5>TrafficIncident class</h5>
@@ -78,4 +79,5 @@ Gets the list of standardized codes as categorized in ISO 14819-2:2013 standard 
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

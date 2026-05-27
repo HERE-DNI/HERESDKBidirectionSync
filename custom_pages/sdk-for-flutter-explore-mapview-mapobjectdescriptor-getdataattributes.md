@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "getDataAttributes abstract method"
 slug: "sdk-for-flutter-explore-mapview-mapobjectdescriptor-getdataattributes"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- getDataAttributes.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-mapobjectdescriptor-getdataattributes"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapObjectDescriptor-class.html">/sdk-for-flutter-explore-mapview-mapobjectdescriptor-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapobjectdescriptor-class</li>
 <li class="self-crumb">getDataAttributes abstract method</li>
 </ol>
 <div class="self-name">getDataAttributes</div>
@@ -37,7 +38,7 @@ menu
 <div>
 <h1>getDataAttributes abstract method</h1></div>
 <section class="multi-line-signature">
-<a href="../../mapview.datasource/DataAttributes-class.html">/sdk-for-flutter-explore-mapview-datasource-dataattributes-class</a>
+/sdk-for-flutter-explore-mapview-datasource-dataattributes-class
 getDataAttributes(<wbr/>)
 
       
@@ -45,7 +46,7 @@ getDataAttributes(<wbr/>)
     </section>
 <section class="desc markdown">
 <p>Returns data attributes of a map object.</p>
-<p>Returns <a href="../../mapview.datasource/DataAttributes-class.html">/sdk-for-flutter-explore-mapview-datasource-dataattributes-class</a>. The data attributes of a map object.</p>
+<p>Returns /sdk-for-flutter-explore-mapview-datasource-dataattributes-class. The data attributes of a map object.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -59,9 +60,9 @@ getDataAttributes(<wbr/>)
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapObjectDescriptor-class.html">/sdk-for-flutter-explore-mapview-mapobjectdescriptor-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapobjectdescriptor-class</li>
 <li class="self-crumb">getDataAttributes abstract method</li>
 </ol>
 <h5>MapObjectDescriptor class</h5>
@@ -78,4 +79,5 @@ getDataAttributes(<wbr/>)
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

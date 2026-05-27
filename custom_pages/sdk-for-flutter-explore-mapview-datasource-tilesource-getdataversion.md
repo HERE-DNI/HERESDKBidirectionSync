@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "getDataVersion abstract method"
 slug: "sdk-for-flutter-explore-mapview-datasource-tilesource-getdataversion"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- getDataVersion.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-datasource-tilesource-getdataversion"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
-<li><a href="../../mapview.datasource/TileSource-class.html">/sdk-for-flutter-explore-mapview-datasource-tilesource-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-tilesource-class</li>
 <li class="self-crumb">getDataVersion abstract method</li>
 </ol>
 <div class="self-name">getDataVersion</div>
@@ -37,8 +38,8 @@ menu
 <div>
 <h1>getDataVersion abstract method</h1></div>
 <section class="multi-line-signature">
-<a href="../../mapview.datasource/TileSourceDataVersion-class.html">/sdk-for-flutter-explore-mapview-datasource-tilesourcedataversion-class</a>
-getDataVersion(<wbr/><ol class="parameter-list single-line"> <li><a href="../../mapview.datasource/TileKey-class.html">/sdk-for-flutter-explore-mapview-datasource-tilekey-class</a> tileKey</li>
+/sdk-for-flutter-explore-mapview-datasource-tilesourcedataversion-class
+getDataVersion(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-mapview-datasource-tilekey-class tileKey</li>
 </ol>)
 
       
@@ -49,7 +50,7 @@ getDataVersion(<wbr/><ol class="parameter-list single-line"> <li><a href="../../
 <ul>
 <li><code>tileKey</code> Key of the tile for which to retrieve the version.</li>
 </ul>
-<p>Returns <a href="../../mapview.datasource/TileSourceDataVersion-class.html">/sdk-for-flutter-explore-mapview-datasource-tilesourcedataversion-class</a>. Data version for a tile.</p>
+<p>Returns /sdk-for-flutter-explore-mapview-datasource-tilesourcedataversion-class. Data version for a tile.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -63,9 +64,9 @@ getDataVersion(<wbr/><ol class="parameter-list single-line"> <li><a href="../../
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
-<li><a href="../../mapview.datasource/TileSource-class.html">/sdk-for-flutter-explore-mapview-datasource-tilesource-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-tilesource-class</li>
 <li class="self-crumb">getDataVersion abstract method</li>
 </ol>
 <h5>TileSource class</h5>
@@ -82,4 +83,5 @@ getDataVersion(<wbr/><ol class="parameter-list single-line"> <li><a href="../../
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

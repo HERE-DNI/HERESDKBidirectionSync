@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "SdkContext class"
 slug: "sdk-for-flutter-explore-core-sdkcontext-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- SdkContext-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -27,8 +28,8 @@ slug: "sdk-for-flutter-explore-core-sdkcontext-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
 <li class="self-crumb">SdkContext class</li>
 </ol>
 <div class="self-name">SdkContext</div>
@@ -55,7 +56,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="SdkContext">
-<a href="../core/SdkContext/SdkContext.html">/sdk-for-flutter-explore-core-sdkcontext-sdkcontext</a>()
+/sdk-for-flutter-explore-core-sdkcontext-sdkcontext()
 </dt>
 <dd>
 </dd>
@@ -65,7 +66,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="hashCode">
-<a href="../core/SdkContext/hashCode.html">/sdk-for-flutter-explore-core-sdkcontext-hashcode</a>
+/sdk-for-flutter-explore-core-sdkcontext-hashcode
 → int
 </dt>
 <dd class="inherited">
@@ -73,7 +74,7 @@ menu
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../core/SdkContext/runtimeType.html">/sdk-for-flutter-explore-core-sdkcontext-runtimetype</a>
+/sdk-for-flutter-explore-core-sdkcontext-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -86,7 +87,7 @@ menu
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../core/SdkContext/noSuchMethod.html">/sdk-for-flutter-explore-core-sdkcontext-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-core-sdkcontext-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -95,7 +96,7 @@ menu
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../core/SdkContext/toString.html">/sdk-for-flutter-explore-core-sdkcontext-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-core-sdkcontext-tostring(<wbr/>)
     → String
 
 </dt>
@@ -109,7 +110,7 @@ menu
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-<a href="../core/SdkContext/operator_equals.html">/sdk-for-flutter-explore-core-sdkcontext-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-core-sdkcontext-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -123,7 +124,7 @@ menu
 <h2>Static Methods</h2>
 <dl class="callables">
 <dt class="callable" id="init">
-<a href="../core/SdkContext/init.html">/sdk-for-flutter-explore-core-sdkcontext-init</a>(<wbr/>[<a href="../core/IsolateOrigin.html">/sdk-for-flutter-explore-core-isolateorigin</a> isolateOrigin = IsolateOrigin.main])
+/sdk-for-flutter-explore-core-sdkcontext-init(<wbr/>[/sdk-for-flutter-explore-core-isolateorigin isolateOrigin = IsolateOrigin.main])
     → void
 
 </dt>
@@ -133,7 +134,7 @@ menu
 
 </dd>
 <dt class="callable" id="release">
-<a href="../core/SdkContext/release.html">/sdk-for-flutter-explore-core-sdkcontext-release</a>(<wbr/>)
+/sdk-for-flutter-explore-core-sdkcontext-release(<wbr/>)
     → void
 
 </dt>
@@ -152,8 +153,8 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
 <li class="self-crumb">SdkContext class</li>
 </ol>
 <h5>core library</h5>
@@ -170,4 +171,5 @@ menu
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

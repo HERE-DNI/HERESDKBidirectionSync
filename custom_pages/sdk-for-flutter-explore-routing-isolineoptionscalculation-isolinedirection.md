@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "isolineDirection property"
 slug: "sdk-for-flutter-explore-routing-isolineoptionscalculation-isolinedirection"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- isolineDirection.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-routing-isolineoptionscalculation-isolinedirectio
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/IsolineOptionsCalculation-class.html">/sdk-for-flutter-explore-routing-isolineoptionscalculation-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-isolineoptionscalculation-class</li>
 <li class="self-crumb">isolineDirection property</li>
 </ol>
 <div class="self-name">isolineDirection</div>
@@ -37,13 +38,13 @@ menu
 <div>
 <h1>isolineDirection property</h1></div>
 <section class="multi-line-signature">
-<a href="../../routing/RoutePlaceDirection.html">/sdk-for-flutter-explore-routing-routeplacedirection</a>
+/sdk-for-flutter-explore-routing-routeplacedirection
 isolineDirection
 <div class="features">getter/setter pair</div>
 </section>
 <section class="desc markdown">
 <p>Specifies if calculations will be from or to a specific point.
-The default isoline direction is <a href="../../routing/RoutePlaceDirection.html">/sdk-for-flutter-explore-routing-routeplacedirection</a>.</p>
+The default isoline direction is /sdk-for-flutter-explore-routing-routeplacedirection.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -57,9 +58,9 @@ The default isoline direction is <a href="../../routing/RoutePlaceDirection.html
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/IsolineOptionsCalculation-class.html">/sdk-for-flutter-explore-routing-isolineoptionscalculation-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-isolineoptionscalculation-class</li>
 <li class="self-crumb">isolineDirection property</li>
 </ol>
 <h5>IsolineOptionsCalculation class</h5>
@@ -76,4 +77,5 @@ The default isoline direction is <a href="../../routing/RoutePlaceDirection.html
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

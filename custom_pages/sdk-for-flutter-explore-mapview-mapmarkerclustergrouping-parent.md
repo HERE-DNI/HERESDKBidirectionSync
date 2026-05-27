@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "parent property"
 slug: "sdk-for-flutter-explore-mapview-mapmarkerclustergrouping-parent"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- parent.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-mapmarkerclustergrouping-parent"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapMarkerClusterGrouping-class.html">/sdk-for-flutter-explore-mapview-mapmarkerclustergrouping-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapmarkerclustergrouping-class</li>
 <li class="self-crumb">parent property</li>
 </ol>
 <div class="self-name">parent</div>
@@ -37,12 +38,12 @@ menu
 <div>
 <h1>parent property</h1></div>
 <section class="multi-line-signature">
-<a href="../../mapview/MapMarkerCluster-class.html">/sdk-for-flutter-explore-mapview-mapmarkercluster-class</a>
+/sdk-for-flutter-explore-mapview-mapmarkercluster-class
 parent
 <div class="features">getter/setter pair</div>
 </section>
 <section class="desc markdown">
-<p>Map marker cluster that entries in <a href="../../mapview/MapMarkerClusterGrouping/markers.html">/sdk-for-flutter-explore-mapview-mapmarkerclustergrouping-markers</a> belong to.</p>
+<p>Map marker cluster that entries in /sdk-for-flutter-explore-mapview-mapmarkerclustergrouping-markers belong to.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -56,9 +57,9 @@ parent
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapMarkerClusterGrouping-class.html">/sdk-for-flutter-explore-mapview-mapmarkerclustergrouping-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapmarkerclustergrouping-class</li>
 <li class="self-crumb">parent property</li>
 </ol>
 <h5>MapMarkerClusterGrouping class</h5>
@@ -75,4 +76,5 @@ parent
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

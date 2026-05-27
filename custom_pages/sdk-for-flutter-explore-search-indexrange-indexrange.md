@@ -3,7 +3,8 @@ title: "IndexRange constructor"
 slug: "sdk-for-flutter-explore-search-indexrange-indexrange"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- IndexRange.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-search-indexrange-indexrange"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/IndexRange-class.html">/sdk-for-flutter-explore-search-indexrange-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-indexrange-class</li>
 <li class="self-crumb">IndexRange constructor</li>
 </ol>
 <div class="self-name">IndexRange</div>
@@ -47,9 +48,9 @@ IndexRange(<wbr/>)
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/IndexRange-class.html">/sdk-for-flutter-explore-search-indexrange-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-indexrange-class</li>
 <li class="self-crumb">IndexRange constructor</li>
 </ol>
 <h5>IndexRange class</h5>
@@ -66,4 +67,5 @@ IndexRange(<wbr/>)
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

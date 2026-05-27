@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "log abstract method"
 slug: "sdk-for-flutter-explore-core-engine-logappender-log"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- log.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-core-engine-logappender-log"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
-<li><a href="../../core.engine/LogAppender-class.html">/sdk-for-flutter-explore-core-engine-logappender-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
+<li>/sdk-for-flutter-explore-core-engine-logappender-class</li>
 <li class="self-crumb">log abstract method</li>
 </ol>
 <div class="self-name">log</div>
@@ -38,7 +39,7 @@ menu
 <h1>log abstract method</h1></div>
 <section class="multi-line-signature">
 void
-log(<wbr/><ol class="parameter-list single-line"> <li><a href="../../core.engine/LogLevel.html">/sdk-for-flutter-explore-core-engine-loglevel</a> level, </li>
+log(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-core-engine-loglevel level, </li>
 <li>String message</li>
 </ol>)
 
@@ -67,9 +68,9 @@ log(<wbr/><ol class="parameter-list single-line"> <li><a href="../../core.engine
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
-<li><a href="../../core.engine/LogAppender-class.html">/sdk-for-flutter-explore-core-engine-logappender-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
+<li>/sdk-for-flutter-explore-core-engine-logappender-class</li>
 <li class="self-crumb">log abstract method</li>
 </ol>
 <h5>LogAppender class</h5>
@@ -86,4 +87,5 @@ log(<wbr/><ol class="parameter-list single-line"> <li><a href="../../core.engine
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

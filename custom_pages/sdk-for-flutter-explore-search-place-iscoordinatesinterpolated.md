@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "isCoordinatesInterpolated property"
 slug: "sdk-for-flutter-explore-search-place-iscoordinatesinterpolated"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- isCoordinatesInterpolated.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-search-place-iscoordinatesinterpolated"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/Place-class.html">/sdk-for-flutter-explore-search-place-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-place-class</li>
 <li class="self-crumb">isCoordinatesInterpolated property</li>
 </ol>
 <div class="self-name">isCoordinatesInterpolated</div>
@@ -44,7 +45,7 @@ isCoordinatesInterpolated
 <section class="desc markdown">
 <p>A property that says whether the coordinates of the house number were interpolated or not.
 This property is valid only for house number results retrieved using online search.
-When false, it means <a href="../../search/Place/geoCoordinates.html">/sdk-for-flutter-explore-search-place-geocoordinates</a> point to an accurate position of the house. Otherwise
+When false, it means /sdk-for-flutter-explore-search-place-geocoordinates point to an accurate position of the house. Otherwise
 coordinates are slightly less accurate, but are based on a highly optimized interpolation algorithm.
 Gets the flag saying whether the coordinates of the house number were interpolated or not.</p>
 </section>
@@ -61,9 +62,9 @@ Gets the flag saying whether the coordinates of the house number were interpolat
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/Place-class.html">/sdk-for-flutter-explore-search-place-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-place-class</li>
 <li class="self-crumb">isCoordinatesInterpolated property</li>
 </ol>
 <h5>Place class</h5>
@@ -80,4 +81,5 @@ Gets the flag saying whether the coordinates of the house number were interpolat
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "totalNumberOfStations property"
 slug: "sdk-for-flutter-explore-search-evchargingpooldetails-totalnumberofstations"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- totalNumberOfStations.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-search-evchargingpooldetails-totalnumberofstation
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/EVChargingPoolDetails-class.html">/sdk-for-flutter-explore-search-evchargingpooldetails-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-evchargingpooldetails-class</li>
 <li class="self-crumb">totalNumberOfStations property</li>
 </ol>
 <div class="self-name">totalNumberOfStations</div>
@@ -57,9 +58,9 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/EVChargingPoolDetails-class.html">/sdk-for-flutter-explore-search-evchargingpooldetails-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-evchargingpooldetails-class</li>
 <li class="self-crumb">totalNumberOfStations property</li>
 </ol>
 <h5>EVChargingPoolDetails class</h5>
@@ -76,4 +77,5 @@ menu
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

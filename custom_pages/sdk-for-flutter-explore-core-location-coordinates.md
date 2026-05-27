@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "coordinates property"
 slug: "sdk-for-flutter-explore-core-location-coordinates"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- coordinates.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-core-location-coordinates"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
-<li><a href="../../core/Location-class.html">/sdk-for-flutter-explore-core-location-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
+<li>/sdk-for-flutter-explore-core-location-class</li>
 <li class="self-crumb">coordinates property</li>
 </ol>
 <div class="self-name">coordinates</div>
@@ -37,7 +38,7 @@ menu
 <div>
 <h1>coordinates property</h1></div>
 <section class="multi-line-signature">
-<a href="../../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>
+/sdk-for-flutter-explore-core-geocoordinates-class
 coordinates
 <div class="features">getter/setter pair</div>
 </section>
@@ -56,9 +57,9 @@ coordinates
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
-<li><a href="../../core/Location-class.html">/sdk-for-flutter-explore-core-location-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
+<li>/sdk-for-flutter-explore-core-location-class</li>
 <li class="self-crumb">coordinates property</li>
 </ol>
 <h5>Location class</h5>
@@ -75,4 +76,5 @@ coordinates
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

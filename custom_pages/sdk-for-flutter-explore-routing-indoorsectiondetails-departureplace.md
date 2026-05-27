@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "departurePlace property"
 slug: "sdk-for-flutter-explore-routing-indoorsectiondetails-departureplace"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- departurePlace.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-routing-indoorsectiondetails-departureplace"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/IndoorSectionDetails-class.html">/sdk-for-flutter-explore-routing-indoorsectiondetails-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-indoorsectiondetails-class</li>
 <li class="self-crumb">departurePlace property</li>
 </ol>
 <div class="self-name">departurePlace</div>
@@ -38,7 +39,7 @@ menu
 <h1>departurePlace property</h1></div>
 <section id="getter">
 <section class="multi-line-signature">
-<a href="../../routing/IndoorRoutePlace-class.html">/sdk-for-flutter-explore-routing-indoorrouteplace-class</a>
+/sdk-for-flutter-explore-routing-indoorrouteplace-class
 departurePlace
 </section>
 <section class="desc markdown">
@@ -58,9 +59,9 @@ Gets the departure place of the indoor section.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/IndoorSectionDetails-class.html">/sdk-for-flutter-explore-routing-indoorsectiondetails-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-indoorsectiondetails-class</li>
 <li class="self-crumb">departurePlace property</li>
 </ol>
 <h5>IndoorSectionDetails class</h5>
@@ -77,4 +78,5 @@ Gets the departure place of the indoor section.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

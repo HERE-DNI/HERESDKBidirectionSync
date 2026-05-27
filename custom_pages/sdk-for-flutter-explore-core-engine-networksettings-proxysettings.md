@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "proxySettings property"
 slug: "sdk-for-flutter-explore-core-engine-networksettings-proxysettings"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- proxySettings.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-core-engine-networksettings-proxysettings"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
-<li><a href="../../core.engine/NetworkSettings-class.html">/sdk-for-flutter-explore-core-engine-networksettings-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
+<li>/sdk-for-flutter-explore-core-engine-networksettings-class</li>
 <li class="self-crumb">proxySettings property</li>
 </ol>
 <div class="self-name">proxySettings</div>
@@ -37,12 +38,12 @@ menu
 <div>
 <h1>proxySettings property</h1></div>
 <section class="multi-line-signature">
-<a href="../../core.engine/ProxySettings-class.html">/sdk-for-flutter-explore-core-engine-proxysettings-class</a>?
+/sdk-for-flutter-explore-core-engine-proxysettings-class?
         proxySettings
 <div class="features">getter/setter pair</div>
 </section>
 <section class="desc markdown">
-<p>Proxy settings. It can be later accessed or changed with <a href="../../core.engine/SDKNativeEngine/proxySettings.html">/sdk-for-flutter-explore-core-engine-sdknativeengine-proxysettings</a>.</p>
+<p>Proxy settings. It can be later accessed or changed with /sdk-for-flutter-explore-core-engine-sdknativeengine-proxysettings.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -56,9 +57,9 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
-<li><a href="../../core.engine/NetworkSettings-class.html">/sdk-for-flutter-explore-core-engine-networksettings-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
+<li>/sdk-for-flutter-explore-core-engine-networksettings-class</li>
 <li class="self-crumb">proxySettings property</li>
 </ol>
 <h5>NetworkSettings class</h5>
@@ -75,4 +76,5 @@ menu
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

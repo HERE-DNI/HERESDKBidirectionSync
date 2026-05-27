@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "empiricalConsumptionModel property"
 slug: "sdk-for-flutter-explore-routing-electricvehicleoptions-empiricalconsumptionmodel"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- empiricalConsumptionModel.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-routing-electricvehicleoptions-empiricalconsumpti
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/ElectricVehicleOptions-class.html">/sdk-for-flutter-explore-routing-electricvehicleoptions-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-electricvehicleoptions-class</li>
 <li class="self-crumb">empiricalConsumptionModel property</li>
 </ol>
 <div class="self-name">empiricalConsumptionModel</div>
@@ -37,7 +38,7 @@ menu
 <div>
 <h1>empiricalConsumptionModel property</h1></div>
 <section class="multi-line-signature">
-<a href="../../routing/EmpiricalConsumptionModel-class.html">/sdk-for-flutter-explore-routing-empiricalconsumptionmodel-class</a>?
+/sdk-for-flutter-explore-routing-empiricalconsumptionmodel-class?
         empiricalConsumptionModel
 <div class="features">getter/setter pair</div>
 </section>
@@ -59,9 +60,9 @@ Only one consumption model is supported per route.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/ElectricVehicleOptions-class.html">/sdk-for-flutter-explore-routing-electricvehicleoptions-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-electricvehicleoptions-class</li>
 <li class="self-crumb">empiricalConsumptionModel property</li>
 </ol>
 <h5>ElectricVehicleOptions class</h5>
@@ -78,4 +79,5 @@ Only one consumption model is supported per route.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

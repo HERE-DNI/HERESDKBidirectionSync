@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "WebsiteAddress constructor"
 slug: "sdk-for-flutter-explore-search-websiteaddress-websiteaddress"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- WebsiteAddress.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-search-websiteaddress-websiteaddress"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/WebsiteAddress-class.html">/sdk-for-flutter-explore-search-websiteaddress-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-websiteaddress-class</li>
 <li class="self-crumb">WebsiteAddress constructor</li>
 </ol>
 <div class="self-name">WebsiteAddress</div>
@@ -38,7 +39,7 @@ menu
 <h1>WebsiteAddress constructor</h1></div>
 <section class="multi-line-signature">
 WebsiteAddress(<wbr/><ol class="parameter-list single-line"> <li>String address, </li>
-<li>List&lt;<wbr/><a href="../../search/PlaceCategory-class.html">/sdk-for-flutter-explore-search-placecategory-class</a>&gt; categories</li>
+<li>List&lt;<wbr/>/sdk-for-flutter-explore-search-placecategory-class&gt; categories</li>
 </ol>)
     </section>
 <section class="desc markdown">
@@ -46,8 +47,8 @@ WebsiteAddress(<wbr/><ol class="parameter-list single-line"> <li>String address,
 <ul>
 <li><code>address</code> The website address.</li>
 <li><code>categories</code> Categories associated with website address.
-Note: In case <a href="../../search/WebsiteAddress/categories.html">/sdk-for-flutter-explore-search-websiteaddress-categories</a> are not empty, then <a href="../../search/WebsiteAddress/address.html">/sdk-for-flutter-explore-search-websiteaddress-address</a> should be used according to given categories.
-Otherwise, <a href="../../search/WebsiteAddress/address.html">/sdk-for-flutter-explore-search-websiteaddress-address</a> is meant for general use.</li>
+Note: In case /sdk-for-flutter-explore-search-websiteaddress-categories are not empty, then /sdk-for-flutter-explore-search-websiteaddress-address should be used according to given categories.
+Otherwise, /sdk-for-flutter-explore-search-websiteaddress-address is meant for general use.</li>
 </ul>
 </section>
 <section class="summary source-code" id="source">
@@ -62,9 +63,9 @@ Otherwise, <a href="../../search/WebsiteAddress/address.html">/sdk-for-flutter-e
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/WebsiteAddress-class.html">/sdk-for-flutter-explore-search-websiteaddress-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-websiteaddress-class</li>
 <li class="self-crumb">WebsiteAddress constructor</li>
 </ol>
 <h5>WebsiteAddress class</h5>
@@ -81,4 +82,5 @@ Otherwise, <a href="../../search/WebsiteAddress/address.html">/sdk-for-flutter-e
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

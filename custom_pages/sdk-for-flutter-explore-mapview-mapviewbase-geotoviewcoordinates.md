@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "geoToViewCoordinates abstract method"
 slug: "sdk-for-flutter-explore-mapview-mapviewbase-geotoviewcoordinates"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- geoToViewCoordinates.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-mapviewbase-geotoviewcoordinates"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapViewBase-class.html">/sdk-for-flutter-explore-mapview-mapviewbase-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapviewbase-class</li>
 <li class="self-crumb">geoToViewCoordinates abstract method</li>
 </ol>
 <div class="self-name">geoToViewCoordinates</div>
@@ -37,8 +38,8 @@ menu
 <div>
 <h1>geoToViewCoordinates abstract method</h1></div>
 <section class="multi-line-signature">
-<a href="../../core/Point2D-class.html">/sdk-for-flutter-explore-core-point2d-class</a>?
-geoToViewCoordinates(<wbr/><ol class="parameter-list single-line"> <li><a href="../../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a> geoCoordinates</li>
+/sdk-for-flutter-explore-core-point2d-class?
+geoToViewCoordinates(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-core-geocoordinates-class geoCoordinates</li>
 </ol>)
 
       
@@ -55,7 +56,7 @@ less than zero or greater than view's dimensions.</p>
 <ul>
 <li><code>geoCoordinates</code> Geographical coordinates to convert.</li>
 </ul>
-<p>Returns <a href="../../core/Point2D-class.html">/sdk-for-flutter-explore-core-point2d-class</a>. The view coordinates of the specified geographical point or <code>null</code>
+<p>Returns /sdk-for-flutter-explore-core-point2d-class. The view coordinates of the specified geographical point or <code>null</code>
 if there is no render surface attached.</p>
 </section>
 <section class="summary source-code" id="source">
@@ -70,9 +71,9 @@ if there is no render surface attached.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapViewBase-class.html">/sdk-for-flutter-explore-mapview-mapviewbase-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapviewbase-class</li>
 <li class="self-crumb">geoToViewCoordinates abstract method</li>
 </ol>
 <h5>MapViewBase class</h5>
@@ -89,4 +90,5 @@ if there is no render surface attached.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

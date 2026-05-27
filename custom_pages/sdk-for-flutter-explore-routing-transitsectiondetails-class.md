@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "TransitSectionDetails class"
 slug: "sdk-for-flutter-explore-routing-transitsectiondetails-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- TransitSectionDetails-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -30,8 +31,8 @@ slug: "sdk-for-flutter-explore-routing-transitsectiondetails-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
 <li class="self-crumb">TransitSectionDetails class</li>
 </ol>
 <div class="self-name">TransitSectionDetails</div>
@@ -61,7 +62,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="TransitSectionDetails">
-<a href="../routing/TransitSectionDetails/TransitSectionDetails.html">/sdk-for-flutter-explore-routing-transitsectiondetails-transitsectiondetails</a>(<a href="../routing/Agency-class.html">/sdk-for-flutter-explore-routing-agency-class</a> agency)
+/sdk-for-flutter-explore-routing-transitsectiondetails-transitsectiondetails(/sdk-for-flutter-explore-routing-agency-class agency)
 </dt>
 <dd>
           Creates a new instance.
@@ -72,31 +73,31 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="agency">
-<a href="../routing/TransitSectionDetails/agency.html">/sdk-for-flutter-explore-routing-transitsectiondetails-agency</a>
-↔ <a href="../routing/Agency-class.html">/sdk-for-flutter-explore-routing-agency-class</a>
+/sdk-for-flutter-explore-routing-transitsectiondetails-agency
+↔ /sdk-for-flutter-explore-routing-agency-class
 </dt>
 <dd>
   Contains information about a particular agency.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="attributions">
-<a href="../routing/TransitSectionDetails/attributions.html">/sdk-for-flutter-explore-routing-transitsectiondetails-attributions</a>
-↔ List&lt;<wbr/><a href="../routing/Attribution-class.html">/sdk-for-flutter-explore-routing-attribution-class</a>&gt;
+/sdk-for-flutter-explore-routing-transitsectiondetails-attributions
+↔ List&lt;<wbr/>/sdk-for-flutter-explore-routing-attribution-class&gt;
 </dt>
 <dd>
   List of required attributions to display.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="fares">
-<a href="../routing/TransitSectionDetails/fares.html">/sdk-for-flutter-explore-routing-transitsectiondetails-fares</a>
-↔ List&lt;<wbr/><a href="../routing/Fare-class.html">/sdk-for-flutter-explore-routing-fare-class</a>&gt;
+/sdk-for-flutter-explore-routing-transitsectiondetails-fares
+↔ List&lt;<wbr/>/sdk-for-flutter-explore-routing-fare-class&gt;
 </dt>
 <dd>
   List of tickets to pay for this section of the route.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-<a href="../routing/TransitSectionDetails/hashCode.html">/sdk-for-flutter-explore-routing-transitsectiondetails-hashcode</a>
+/sdk-for-flutter-explore-routing-transitsectiondetails-hashcode
 → int
 </dt>
 <dd>
@@ -104,23 +105,23 @@ menu
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="incidents">
-<a href="../routing/TransitSectionDetails/incidents.html">/sdk-for-flutter-explore-routing-transitsectiondetails-incidents</a>
-↔ List&lt;<wbr/><a href="../routing/TransitIncident-class.html">/sdk-for-flutter-explore-routing-transitincident-class</a>&gt;
+/sdk-for-flutter-explore-routing-transitsectiondetails-incidents
+↔ List&lt;<wbr/>/sdk-for-flutter-explore-routing-transitincident-class&gt;
 </dt>
 <dd>
   A list of all incidents that apply to the section.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="intermediateStops">
-<a href="../routing/TransitSectionDetails/intermediateStops.html">/sdk-for-flutter-explore-routing-transitsectiondetails-intermediatestops</a>
-↔ List&lt;<wbr/><a href="../routing/TransitStop-class.html">/sdk-for-flutter-explore-routing-transitstop-class</a>&gt;
+/sdk-for-flutter-explore-routing-transitsectiondetails-intermediatestops
+↔ List&lt;<wbr/>/sdk-for-flutter-explore-routing-transitstop-class&gt;
 </dt>
 <dd>
   All the intermediate stops between departure and destination of this section.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../routing/TransitSectionDetails/runtimeType.html">/sdk-for-flutter-explore-routing-transitsectiondetails-runtimetype</a>
+/sdk-for-flutter-explore-routing-transitsectiondetails-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -128,8 +129,8 @@ menu
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="transport">
-<a href="../routing/TransitSectionDetails/transport.html">/sdk-for-flutter-explore-routing-transitsectiondetails-transport</a>
-↔ <a href="../routing/TransitTransport-class.html">/sdk-for-flutter-explore-routing-transittransport-class</a>?
+/sdk-for-flutter-explore-routing-transitsectiondetails-transport
+↔ /sdk-for-flutter-explore-routing-transittransport-class?
 </dt>
 <dd>
   Transit transport information.
@@ -141,7 +142,7 @@ menu
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../routing/TransitSectionDetails/noSuchMethod.html">/sdk-for-flutter-explore-routing-transitsectiondetails-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-routing-transitsectiondetails-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -150,7 +151,7 @@ menu
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../routing/TransitSectionDetails/toString.html">/sdk-for-flutter-explore-routing-transitsectiondetails-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-routing-transitsectiondetails-tostring(<wbr/>)
     → String
 
 </dt>
@@ -164,7 +165,7 @@ menu
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-<a href="../routing/TransitSectionDetails/operator_equals.html">/sdk-for-flutter-explore-routing-transitsectiondetails-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-routing-transitsectiondetails-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -183,8 +184,8 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
 <li class="self-crumb">TransitSectionDetails class</li>
 </ol>
 <h5>routing library</h5>
@@ -201,4 +202,5 @@ menu
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

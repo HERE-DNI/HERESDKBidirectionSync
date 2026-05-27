@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "location property"
 slug: "sdk-for-flutter-explore-search-geoplace-location"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- location.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-search-geoplace-location"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/GeoPlace-class.html">/sdk-for-flutter-explore-search-geoplace-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-geoplace-class</li>
 <li class="self-crumb">location property</li>
 </ol>
 <div class="self-name">location</div>
@@ -37,7 +38,7 @@ menu
 <div>
 <h1>location property</h1></div>
 <section class="multi-line-signature">
-<a href="../../search/LocationDetails-class.html">/sdk-for-flutter-explore-search-locationdetails-class</a>?
+/sdk-for-flutter-explore-search-locationdetails-class?
         location
 <div class="features">getter/setter pair</div>
 </section>
@@ -57,9 +58,9 @@ Note: Can be <code>null</code> when retrieved from a suggestion's place property
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/GeoPlace-class.html">/sdk-for-flutter-explore-search-geoplace-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-geoplace-class</li>
 <li class="self-crumb">location property</li>
 </ol>
 <h5>GeoPlace class</h5>
@@ -76,4 +77,5 @@ Note: Can be <code>null</code> when retrieved from a suggestion's place property
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

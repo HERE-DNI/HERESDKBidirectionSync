@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "allowHighway property"
 slug: "sdk-for-flutter-explore-routing-scooteroptions-allowhighway"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- allowHighway.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-routing-scooteroptions-allowhighway"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/ScooterOptions-class.html">/sdk-for-flutter-explore-routing-scooteroptions-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-scooteroptions-class</li>
 <li class="self-crumb">allowHighway property</li>
 </ol>
 <div class="self-name">allowHighway</div>
@@ -45,12 +46,12 @@ menu
 <section class="desc markdown">
 <p>Specifies whether scooter is allowed on highway or not. <code>True</code> means scooter is
 allowed to use highways and <code>false</code> means otherwise. By default it is set to <code>false</code>.
-Note that there is a similar parameter in <a href="../../routing/AvoidanceOptions-class.html">/sdk-for-flutter-explore-routing-avoidanceoptions-class</a>, to
-disallow highway usage, see <a href="../../routing/RoadFeatures.html">/sdk-for-flutter-explore-routing-roadfeatures</a>.
+Note that there is a similar parameter in /sdk-for-flutter-explore-routing-avoidanceoptions-class, to
+disallow highway usage, see /sdk-for-flutter-explore-routing-roadfeatures.
 As the avoidance options takes precedence, if this parameter is also used, then
 scooters are not allowed to use highways even if <code>allowHighway</code> is set to <code>true</code>.
 However, if no alternative route is possible, the calculated route may use highways.
-In such a case, a <a href="../../routing/SectionNotice-class.html">/sdk-for-flutter-explore-routing-sectionnotice-class</a> will be provided in the related <a href="../../routing/Section-class.html">/sdk-for-flutter-explore-routing-section-class</a>
+In such a case, a /sdk-for-flutter-explore-routing-sectionnotice-class will be provided in the related /sdk-for-flutter-explore-routing-section-class
 to indicate that the highway usage restriction is violated on this route.
 A few examples:</p>
 <p>1 - If no avoidance option is set, and <code>allowHighway = false</code>, when no route is found without
@@ -74,9 +75,9 @@ when no route is found without highway usage, a notice is received.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/ScooterOptions-class.html">/sdk-for-flutter-explore-routing-scooteroptions-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-scooteroptions-class</li>
 <li class="self-crumb">allowHighway property</li>
 </ol>
 <h5>ScooterOptions class</h5>
@@ -93,4 +94,5 @@ when no route is found without highway usage, a notice is received.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

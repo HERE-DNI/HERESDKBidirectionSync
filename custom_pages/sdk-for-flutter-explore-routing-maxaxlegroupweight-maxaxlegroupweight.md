@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "MaxAxleGroupWeight constructor"
 slug: "sdk-for-flutter-explore-routing-maxaxlegroupweight-maxaxlegroupweight"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- MaxAxleGroupWeight.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-routing-maxaxlegroupweight-maxaxlegroupweight"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/MaxAxleGroupWeight-class.html">/sdk-for-flutter-explore-routing-maxaxlegroupweight-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-maxaxlegroupweight-class</li>
 <li class="self-crumb">MaxAxleGroupWeight constructor</li>
 </ol>
 <div class="self-name">MaxAxleGroupWeight</div>
@@ -60,9 +61,9 @@ MaxAxleGroupWeight(<wbr/><ol class="parameter-list single-line"> <li>int maxWeig
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
-<li><a href="../../routing/MaxAxleGroupWeight-class.html">/sdk-for-flutter-explore-routing-maxaxlegroupweight-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-maxaxlegroupweight-class</li>
 <li class="self-crumb">MaxAxleGroupWeight constructor</li>
 </ol>
 <h5>MaxAxleGroupWeight class</h5>
@@ -79,4 +80,5 @@ MaxAxleGroupWeight(<wbr/><ol class="parameter-list single-line"> <li>int maxWeig
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

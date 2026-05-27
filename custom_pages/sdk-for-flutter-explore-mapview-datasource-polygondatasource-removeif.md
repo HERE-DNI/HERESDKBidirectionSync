@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "removeIf abstract method"
 slug: "sdk-for-flutter-explore-mapview-datasource-polygondatasource-removeif"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- removeIf.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-datasource-polygondatasource-removeif"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
-<li><a href="../../mapview.datasource/PolygonDataSource-class.html">/sdk-for-flutter-explore-mapview-datasource-polygondatasource-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-polygondatasource-class</li>
 <li class="self-crumb">removeIf abstract method</li>
 </ol>
 <div class="self-name">removeIf</div>
@@ -38,7 +39,7 @@ menu
 <h1>removeIf abstract method</h1></div>
 <section class="multi-line-signature">
 void
-removeIf(<wbr/><ol class="parameter-list single-line"> <li><a href="../../mapview.datasource/PolygonDataSourcePolygonDataProcessor.html">/sdk-for-flutter-explore-mapview-datasource-polygondatasourcepolygondataprocessor</a> inspector</li>
+removeIf(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-mapview-datasource-polygondatasourcepolygondataprocessor inspector</li>
 </ol>)
 
       
@@ -65,9 +66,9 @@ The inspector cannot update the polygon data.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
-<li><a href="../../mapview.datasource/PolygonDataSource-class.html">/sdk-for-flutter-explore-mapview-datasource-polygondatasource-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li>/sdk-for-flutter-explore-mapview-datasource-polygondatasource-class</li>
 <li class="self-crumb">removeIf abstract method</li>
 </ol>
 <h5>PolygonDataSource class</h5>
@@ -84,4 +85,5 @@ The inspector cannot update the polygon data.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

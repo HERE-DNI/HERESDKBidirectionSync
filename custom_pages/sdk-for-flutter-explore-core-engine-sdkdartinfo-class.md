@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "SDKDartInfo class abstract"
 slug: "sdk-for-flutter-explore-core-engine-sdkdartinfo-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- SDKDartInfo-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -26,8 +27,8 @@ slug: "sdk-for-flutter-explore-core-engine-sdkdartinfo-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
 <li class="self-crumb">SDKDartInfo class</li>
 </ol>
 <div class="self-name">SDKDartInfo</div>
@@ -58,7 +59,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="SDKDartInfo">
-<a href="../core.engine/SDKDartInfo/SDKDartInfo.html">/sdk-for-flutter-explore-core-engine-sdkdartinfo-sdkdartinfo</a>()
+/sdk-for-flutter-explore-core-engine-sdkdartinfo-sdkdartinfo()
 </dt>
 <dd>
 </dd>
@@ -68,7 +69,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="hashCode">
-<a href="../core.engine/SDKDartInfo/hashCode.html">/sdk-for-flutter-explore-core-engine-sdkdartinfo-hashcode</a>
+/sdk-for-flutter-explore-core-engine-sdkdartinfo-hashcode
 → int
 </dt>
 <dd class="inherited">
@@ -76,7 +77,7 @@ menu
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../core.engine/SDKDartInfo/runtimeType.html">/sdk-for-flutter-explore-core-engine-sdkdartinfo-runtimetype</a>
+/sdk-for-flutter-explore-core-engine-sdkdartinfo-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -89,7 +90,7 @@ menu
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../core.engine/SDKDartInfo/noSuchMethod.html">/sdk-for-flutter-explore-core-engine-sdkdartinfo-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-core-engine-sdkdartinfo-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -98,7 +99,7 @@ menu
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../core.engine/SDKDartInfo/toString.html">/sdk-for-flutter-explore-core-engine-sdkdartinfo-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-core-engine-sdkdartinfo-tostring(<wbr/>)
     → String
 
 </dt>
@@ -112,7 +113,7 @@ menu
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-<a href="../core.engine/SDKDartInfo/operator_equals.html">/sdk-for-flutter-explore-core-engine-sdkdartinfo-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-core-engine-sdkdartinfo-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -126,7 +127,7 @@ menu
 <h2>Static Properties</h2>
 <dl class="properties">
 <dt class="property" id="version">
-<a href="../core.engine/SDKDartInfo/version.html">/sdk-for-flutter-explore-core-engine-sdkdartinfo-version</a>
+/sdk-for-flutter-explore-core-engine-sdkdartinfo-version
 ↔ String?
 </dt>
 <dd>
@@ -148,8 +149,8 @@ Gets the stored version of the Dart runtime.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
 <li class="self-crumb">SDKDartInfo class</li>
 </ol>
 <h5>core.engine library</h5>
@@ -166,4 +167,5 @@ Gets the stored version of the Dart runtime.
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

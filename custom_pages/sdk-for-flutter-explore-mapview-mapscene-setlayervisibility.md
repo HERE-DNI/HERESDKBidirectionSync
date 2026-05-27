@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "setLayerVisibility abstract method"
 slug: "sdk-for-flutter-explore-mapview-mapscene-setlayervisibility"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- setLayerVisibility.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-mapscene-setlayervisibility"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapScene-class.html">/sdk-for-flutter-explore-mapview-mapscene-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapscene-class</li>
 <li class="self-crumb">setLayerVisibility abstract method</li>
 </ol>
 <div class="self-name">setLayerVisibility</div>
@@ -39,7 +40,7 @@ menu
 <section class="multi-line-signature">
 void
 setLayerVisibility(<wbr/><ol class="parameter-list single-line"> <li>String layerName, </li>
-<li><a href="../../mapview/VisibilityState.html">/sdk-for-flutter-explore-mapview-visibilitystate</a> visibility</li>
+<li>/sdk-for-flutter-explore-mapview-visibilitystate visibility</li>
 </ol>)
 
       
@@ -68,9 +69,9 @@ setLayerVisibility(<wbr/><ol class="parameter-list single-line"> <li>String laye
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapScene-class.html">/sdk-for-flutter-explore-mapview-mapscene-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapscene-class</li>
 <li class="self-crumb">setLayerVisibility abstract method</li>
 </ol>
 <h5>MapScene class</h5>
@@ -87,4 +88,5 @@ setLayerVisibility(<wbr/><ol class="parameter-list single-line"> <li>String laye
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

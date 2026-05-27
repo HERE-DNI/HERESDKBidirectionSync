@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "mapContent property"
 slug: "sdk-for-flutter-explore-mapview-mappickresult-mapcontent"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- mapContent.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-mapview-mappickresult-mapcontent"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapPickResult-class.html">/sdk-for-flutter-explore-mapview-mappickresult-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mappickresult-class</li>
 <li class="self-crumb">mapContent property</li>
 </ol>
 <div class="self-name">mapContent</div>
@@ -38,7 +39,7 @@ menu
 <h1>mapContent property</h1></div>
 <section id="getter">
 <section class="multi-line-signature">
-<a href="../../mapview/PickMapContentResult-class.html">/sdk-for-flutter-explore-mapview-pickmapcontentresult-class</a>?
+/sdk-for-flutter-explore-mapview-pickmapcontentresult-class?
 mapContent
 </section>
 <section class="desc markdown">
@@ -58,9 +59,9 @@ Gets a picked map content result.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
-<li><a href="../../mapview/MapPickResult-class.html">/sdk-for-flutter-explore-mapview-mappickresult-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mappickresult-class</li>
 <li class="self-crumb">mapContent property</li>
 </ol>
 <h5>MapPickResult class</h5>
@@ -77,4 +78,5 @@ Gets a picked map content result.</p>
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

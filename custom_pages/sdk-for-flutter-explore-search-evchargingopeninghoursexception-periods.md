@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "periods property"
 slug: "sdk-for-flutter-explore-search-evchargingopeninghoursexception-periods"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- periods.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-search-evchargingopeninghoursexception-periods"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/EVChargingOpeningHoursException-class.html">/sdk-for-flutter-explore-search-evchargingopeninghoursexception-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-evchargingopeninghoursexception-class</li>
 <li class="self-crumb">periods property</li>
 </ol>
 <div class="self-name">periods</div>
@@ -38,15 +39,15 @@ menu
 <h1>periods property</h1></div>
 <section class="multi-line-signature">
         
-        List&lt;<wbr/><a href="../../search/TimeOfDayRange-class.html">/sdk-for-flutter-explore-search-timeofdayrange-class</a>&gt;
+        List&lt;<wbr/>/sdk-for-flutter-explore-search-timeofdayrange-class&gt;
 periods
 <div class="features">getter/setter pair</div>
 </section>
 <section class="desc markdown">
 <p>A list of time periods when the charging location is open on the specified date.
 The time periods are in the local time zone of the charging location, and
-are represented as a list of objects with <a href="../../search/TimeOfDayRange/from.html">/sdk-for-flutter-explore-search-timeofdayrange-from</a>
-and <a href="../../search/TimeOfDayRange/to.html">/sdk-for-flutter-explore-search-timeofdayrange-to</a> properties.</p>
+are represented as a list of objects with /sdk-for-flutter-explore-search-timeofdayrange-from
+and /sdk-for-flutter-explore-search-timeofdayrange-to properties.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -60,9 +61,9 @@ and <a href="../../search/TimeOfDayRange/to.html">/sdk-for-flutter-explore-searc
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/EVChargingOpeningHoursException-class.html">/sdk-for-flutter-explore-search-evchargingopeninghoursexception-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-evchargingopeninghoursexception-class</li>
 <li class="self-crumb">periods property</li>
 </ol>
 <h5>EVChargingOpeningHoursException class</h5>
@@ -79,4 +80,5 @@ and <a href="../../search/TimeOfDayRange/to.html">/sdk-for-flutter-explore-searc
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

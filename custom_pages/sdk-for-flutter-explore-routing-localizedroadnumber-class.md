@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "LocalizedRoadNumber class"
 slug: "sdk-for-flutter-explore-routing-localizedroadnumber-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- LocalizedRoadNumber-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -28,8 +29,8 @@ slug: "sdk-for-flutter-explore-routing-localizedroadnumber-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
 <li class="self-crumb">LocalizedRoadNumber class</li>
 </ol>
 <div class="self-name">LocalizedRoadNumber</div>
@@ -59,7 +60,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="LocalizedRoadNumber">
-<a href="../routing/LocalizedRoadNumber/LocalizedRoadNumber.html">/sdk-for-flutter-explore-routing-localizedroadnumber-localizedroadnumber</a>(<a href="../core/LocalizedText-class.html">/sdk-for-flutter-explore-core-localizedtext-class</a> localizedNumber, <a href="../core/RouteType.html">/sdk-for-flutter-explore-core-routetype</a> routeType)
+/sdk-for-flutter-explore-routing-localizedroadnumber-localizedroadnumber(/sdk-for-flutter-explore-core-localizedtext-class localizedNumber, /sdk-for-flutter-explore-core-routetype routeType)
 </dt>
 <dd>
 </dd>
@@ -69,8 +70,8 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="direction">
-<a href="../routing/LocalizedRoadNumber/direction.html">/sdk-for-flutter-explore-routing-localizedroadnumber-direction</a>
-↔ <a href="../core/CardinalDirection.html">/sdk-for-flutter-explore-core-cardinaldirection</a>?
+/sdk-for-flutter-explore-routing-localizedroadnumber-direction
+↔ /sdk-for-flutter-explore-core-cardinaldirection?
 </dt>
 <dd>
   Road direction.
@@ -83,7 +84,7 @@ However, the official direction on sign is North/South.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-<a href="../routing/LocalizedRoadNumber/hashCode.html">/sdk-for-flutter-explore-routing-localizedroadnumber-hashcode</a>
+/sdk-for-flutter-explore-routing-localizedroadnumber-hashcode
 → int
 </dt>
 <dd>
@@ -91,23 +92,23 @@ However, the official direction on sign is North/South.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="localizedNumber">
-<a href="../routing/LocalizedRoadNumber/localizedNumber.html">/sdk-for-flutter-explore-routing-localizedroadnumber-localizednumber</a>
-↔ <a href="../core/LocalizedText-class.html">/sdk-for-flutter-explore-core-localizedtext-class</a>
+/sdk-for-flutter-explore-routing-localizedroadnumber-localizednumber
+↔ /sdk-for-flutter-explore-core-localizedtext-class
 </dt>
 <dd>
   Road number with locale information.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="routeType">
-<a href="../routing/LocalizedRoadNumber/routeType.html">/sdk-for-flutter-explore-routing-localizedroadnumber-routetype</a>
-↔ <a href="../core/RouteType.html">/sdk-for-flutter-explore-core-routetype</a>
+/sdk-for-flutter-explore-routing-localizedroadnumber-routetype
+↔ /sdk-for-flutter-explore-core-routetype
 </dt>
 <dd>
   The route type of the LocalizedRoadNumber.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../routing/LocalizedRoadNumber/runtimeType.html">/sdk-for-flutter-explore-routing-localizedroadnumber-runtimetype</a>
+/sdk-for-flutter-explore-routing-localizedroadnumber-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -120,7 +121,7 @@ However, the official direction on sign is North/South.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable" id="getTextWithDirection">
-<a href="../routing/LocalizedRoadNumber/getTextWithDirection.html">/sdk-for-flutter-explore-routing-localizedroadnumber-gettextwithdirection</a>(<wbr/>)
+/sdk-for-flutter-explore-routing-localizedroadnumber-gettextwithdirection(<wbr/>)
     → String
 
 </dt>
@@ -130,7 +131,7 @@ However, the official direction on sign is North/South.
 
 </dd>
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../routing/LocalizedRoadNumber/noSuchMethod.html">/sdk-for-flutter-explore-routing-localizedroadnumber-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-routing-localizedroadnumber-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -139,7 +140,7 @@ However, the official direction on sign is North/South.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../routing/LocalizedRoadNumber/toString.html">/sdk-for-flutter-explore-routing-localizedroadnumber-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-routing-localizedroadnumber-tostring(<wbr/>)
     → String
 
 </dt>
@@ -153,7 +154,7 @@ However, the official direction on sign is North/South.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-<a href="../routing/LocalizedRoadNumber/operator_equals.html">/sdk-for-flutter-explore-routing-localizedroadnumber-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-routing-localizedroadnumber-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -172,8 +173,8 @@ However, the official direction on sign is North/South.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
 <li class="self-crumb">LocalizedRoadNumber class</li>
 </ol>
 <h5>routing library</h5>
@@ -190,4 +191,5 @@ However, the official direction on sign is North/South.
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

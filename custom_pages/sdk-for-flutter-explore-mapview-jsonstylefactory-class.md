@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "JsonStyleFactory class abstract"
 slug: "sdk-for-flutter-explore-mapview-jsonstylefactory-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- JsonStyleFactory-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -26,8 +27,8 @@ slug: "sdk-for-flutter-explore-mapview-jsonstylefactory-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
 <li class="self-crumb">JsonStyleFactory class</li>
 </ol>
 <div class="self-name">JsonStyleFactory</div>
@@ -51,7 +52,7 @@ menu
 <div>
 <h1>JsonStyleFactory class abstract</h1></div>
 <section class="desc markdown">
-<p>A factory of <a href="../mapview/Style-class.html">/sdk-for-flutter-explore-mapview-style-class</a> objects from styles defined in JSON format.</p>
+<p>A factory of /sdk-for-flutter-explore-mapview-style-class objects from styles defined in JSON format.</p>
 <p>For more details see Custom Layer Style Reference in the documentation.</p>
 <p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
 behavior. Related APIs may change for new releases without a deprecation process.</p>
@@ -60,7 +61,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="JsonStyleFactory">
-<a href="../mapview/JsonStyleFactory/JsonStyleFactory.html">/sdk-for-flutter-explore-mapview-jsonstylefactory-jsonstylefactory</a>()
+/sdk-for-flutter-explore-mapview-jsonstylefactory-jsonstylefactory()
 </dt>
 <dd>
 </dd>
@@ -70,7 +71,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="hashCode">
-<a href="../mapview/JsonStyleFactory/hashCode.html">/sdk-for-flutter-explore-mapview-jsonstylefactory-hashcode</a>
+/sdk-for-flutter-explore-mapview-jsonstylefactory-hashcode
 → int
 </dt>
 <dd class="inherited">
@@ -78,7 +79,7 @@ behavior. Related APIs may change for new releases without a deprecation process
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../mapview/JsonStyleFactory/runtimeType.html">/sdk-for-flutter-explore-mapview-jsonstylefactory-runtimetype</a>
+/sdk-for-flutter-explore-mapview-jsonstylefactory-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -91,7 +92,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../mapview/JsonStyleFactory/noSuchMethod.html">/sdk-for-flutter-explore-mapview-jsonstylefactory-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-mapview-jsonstylefactory-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -100,7 +101,7 @@ behavior. Related APIs may change for new releases without a deprecation process
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../mapview/JsonStyleFactory/toString.html">/sdk-for-flutter-explore-mapview-jsonstylefactory-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-mapview-jsonstylefactory-tostring(<wbr/>)
     → String
 
 </dt>
@@ -114,7 +115,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-<a href="../mapview/JsonStyleFactory/operator_equals.html">/sdk-for-flutter-explore-mapview-jsonstylefactory-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-mapview-jsonstylefactory-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -128,8 +129,9 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h2>Static Methods</h2>
 <dl class="callables">
 <dt class="callable" id="createFromString">
-<a href="../mapview/JsonStyleFactory/createFromString.html">/sdk-for-flutter-explore-mapview-jsonstylefactory-createfromstring</a>(<wbr/>String styleString)
-    → <a href="../mapview/Style-class.html">/sdk-for-flutter-explore-mapview-style-class</a>
+/sdk-for-flutter-explore-mapview-jsonstylefactory-createfromstring(<wbr/>String styleString)
+    → /sdk-for-flutter-explore-mapview-style-class
+
 </dt>
 <dd>
   Creates an instance of Style from a JSON string.
@@ -146,8 +148,8 @@ behavior. Related APIs may change for new releases without a deprecation process
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
 <li class="self-crumb">JsonStyleFactory class</li>
 </ol>
 <h5>mapview library</h5>
@@ -164,4 +166,5 @@ behavior. Related APIs may change for new releases without a deprecation process
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

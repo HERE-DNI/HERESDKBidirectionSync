@@ -1,9 +1,10 @@
 ---
-title: "Implementation"
+title: "serializeCompact abstract method"
 slug: "sdk-for-flutter-explore-search-place-serializecompact"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- serializeCompact.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -11,9 +12,9 @@ slug: "sdk-for-flutter-explore-search-place-serializecompact"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/Place-class.html">/sdk-for-flutter-explore-search-place-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-place-class</li>
 <li class="self-crumb">serializeCompact abstract method</li>
 </ol>
 <div class="self-name">serializeCompact</div>
@@ -44,18 +45,18 @@ serializeCompact(<wbr/>)
 
     </section>
 <section class="desc markdown">
-<p>Serializes <a href="../../search/Place-class.html">/sdk-for-flutter-explore-search-place-class</a> to persist or transfer.</p>
+<p>Serializes /sdk-for-flutter-explore-search-place-class to persist or transfer.</p>
 <p>Preserves limited amount of data:</p>
 <ul>
-<li><a href="../../search/Place/title.html">/sdk-for-flutter-explore-search-place-title</a></li>
-<li><a href="../../search/Place/id.html">/sdk-for-flutter-explore-search-place-id</a></li>
-<li><a href="../../search/Place/geoCoordinates.html">/sdk-for-flutter-explore-search-place-geocoordinates</a></li>
-<li><a href="../../search/Place/accessPoints.html">/sdk-for-flutter-explore-search-place-accesspoints</a></li>
-<li><a href="../../search/Place/placeType.html">/sdk-for-flutter-explore-search-place-placetype</a></li>
-<li><a href="../../search/Place/boundingBox.html">/sdk-for-flutter-explore-search-place-boundingbox</a></li>
-<li><a href="../../search/Details/getPrimaryCategories.html">/sdk-for-flutter-explore-search-details-getprimarycategories</a></li>
-<li><a href="../../search/Address/addressText.html">/sdk-for-flutter-explore-search-address-addresstext</a></li>
-<li><a href="../../search/Address/countryCode.html">/sdk-for-flutter-explore-search-address-countrycode</a></li>
+<li>/sdk-for-flutter-explore-search-place-title</li>
+<li>/sdk-for-flutter-explore-search-place-id</li>
+<li>/sdk-for-flutter-explore-search-place-geocoordinates</li>
+<li>/sdk-for-flutter-explore-search-place-accesspoints</li>
+<li>/sdk-for-flutter-explore-search-place-placetype</li>
+<li>/sdk-for-flutter-explore-search-place-boundingbox</li>
+<li>/sdk-for-flutter-explore-search-details-getprimarycategories</li>
+<li>/sdk-for-flutter-explore-search-address-addresstext</li>
+<li>/sdk-for-flutter-explore-search-address-countrycode</li>
 </ul>
 <p>Returns <code>String</code>. The serialized place</p>
 </section>
@@ -71,9 +72,9 @@ serializeCompact(<wbr/>)
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
-<li><a href="../../search/Place-class.html">/sdk-for-flutter-explore-search-place-class</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-search-search-library</li>
+<li>/sdk-for-flutter-explore-search-place-class</li>
 <li class="self-crumb">serializeCompact abstract method</li>
 </ol>
 <h5>Place class</h5>
@@ -90,4 +91,5 @@ serializeCompact(<wbr/>)
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>

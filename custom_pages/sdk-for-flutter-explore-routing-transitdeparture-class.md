@@ -1,9 +1,10 @@
 ---
-title: "Constructors"
+title: "TransitDeparture class"
 slug: "sdk-for-flutter-explore-routing-transitdeparture-class"
 ---
 
-<HTMLBlock>
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- TransitDeparture-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -28,8 +29,8 @@ slug: "sdk-for-flutter-explore-routing-transitdeparture-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
 <li class="self-crumb">TransitDeparture class</li>
 </ol>
 <div class="self-name">TransitDeparture</div>
@@ -59,7 +60,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="TransitDeparture">
-<a href="../routing/TransitDeparture/TransitDeparture.html">/sdk-for-flutter-explore-routing-transitdeparture-transitdeparture</a>(<a href="../routing/RoutePlace-class.html">/sdk-for-flutter-explore-routing-routeplace-class</a> place, DateTime? time, int? delay, <a href="../routing/TransitDepartureStatus.html">/sdk-for-flutter-explore-routing-transitdeparturestatus</a>? status)
+/sdk-for-flutter-explore-routing-transitdeparture-transitdeparture(/sdk-for-flutter-explore-routing-routeplace-class place, DateTime? time, int? delay, /sdk-for-flutter-explore-routing-transitdeparturestatus? status)
 </dt>
 <dd>
           Creates a new instance.
@@ -70,7 +71,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="delay">
-<a href="../routing/TransitDeparture/delay.html">/sdk-for-flutter-explore-routing-transitdeparture-delay</a>
+/sdk-for-flutter-explore-routing-transitdeparture-delay
 ↔ int?
 </dt>
 <dd>
@@ -78,7 +79,7 @@ menu
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-<a href="../routing/TransitDeparture/hashCode.html">/sdk-for-flutter-explore-routing-transitdeparture-hashcode</a>
+/sdk-for-flutter-explore-routing-transitdeparture-hashcode
 → int
 </dt>
 <dd>
@@ -86,15 +87,15 @@ menu
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="place">
-<a href="../routing/TransitDeparture/place.html">/sdk-for-flutter-explore-routing-transitdeparture-place</a>
-↔ <a href="../routing/RoutePlace-class.html">/sdk-for-flutter-explore-routing-routeplace-class</a>
+/sdk-for-flutter-explore-routing-transitdeparture-place
+↔ /sdk-for-flutter-explore-routing-routeplace-class
 </dt>
 <dd>
   The departure or arrival place.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-<a href="../routing/TransitDeparture/runtimeType.html">/sdk-for-flutter-explore-routing-transitdeparture-runtimetype</a>
+/sdk-for-flutter-explore-routing-transitdeparture-runtimetype
 → Type
 </dt>
 <dd class="inherited">
@@ -102,15 +103,15 @@ menu
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="status">
-<a href="../routing/TransitDeparture/status.html">/sdk-for-flutter-explore-routing-transitdeparture-status</a>
-↔ <a href="../routing/TransitDepartureStatus.html">/sdk-for-flutter-explore-routing-transitdeparturestatus</a>?
+/sdk-for-flutter-explore-routing-transitdeparture-status
+↔ /sdk-for-flutter-explore-routing-transitdeparturestatus?
 </dt>
 <dd>
   Status of the departure.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="time">
-<a href="../routing/TransitDeparture/time.html">/sdk-for-flutter-explore-routing-transitdeparture-time</a>
+/sdk-for-flutter-explore-routing-transitdeparture-time
 ↔ DateTime?
 </dt>
 <dd>
@@ -123,7 +124,7 @@ menu
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-<a href="../routing/TransitDeparture/noSuchMethod.html">/sdk-for-flutter-explore-routing-transitdeparture-nosuchmethod</a>(<wbr/>Invocation invocation)
+/sdk-for-flutter-explore-routing-transitdeparture-nosuchmethod(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -132,7 +133,7 @@ menu
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-<a href="../routing/TransitDeparture/toString.html">/sdk-for-flutter-explore-routing-transitdeparture-tostring</a>(<wbr/>)
+/sdk-for-flutter-explore-routing-transitdeparture-tostring(<wbr/>)
     → String
 
 </dt>
@@ -146,7 +147,7 @@ menu
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-<a href="../routing/TransitDeparture/operator_equals.html">/sdk-for-flutter-explore-routing-transitdeparture-operator-equals</a>(<wbr/>Object other)
+/sdk-for-flutter-explore-routing-transitdeparture-operator-equals(<wbr/>Object other)
     → bool
 
 </dt>
@@ -165,8 +166,8 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
-<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
 <li class="self-crumb">TransitDeparture class</li>
 </ol>
 <h5>routing library</h5>
@@ -183,4 +184,5 @@ menu
 </footer>
 </div></div>
 </div>
-</HTMLBlock>
+`
+}</HTMLBlock>
