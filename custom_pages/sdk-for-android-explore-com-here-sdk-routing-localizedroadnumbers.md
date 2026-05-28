@@ -225,7 +225,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-localizedroadnumbers"
 <div class="block"><p>Returns the default value.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
-<dd><p>The default value or null` if list is empty.</p></dd>
+<dd><p>The default value or null if list is empty.</p></dd>
 </dl>
 </section>
 </li>

@@ -202,7 +202,7 @@ slug: "sdk-for-android-navigate-navigate-com-here-sdk-venue-style-venuegeometrys
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span class="element-name">getLabelStyleName</span>()</div>
 <div class="block"><p>Gets the label style name.
- </p><p>Defaults to`null, if a label style name
+ </p><p>Defaults tonull, if a label style name
  has not been set for this style.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
