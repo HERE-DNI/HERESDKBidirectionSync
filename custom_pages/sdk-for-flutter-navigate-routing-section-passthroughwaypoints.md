@@ -1,0 +1,82 @@
+---
+title: "passthroughWaypoints property"
+slug: "sdk-for-flutter-navigate-routing-section-passthroughwaypoints"
+---
+
+<HTMLBlock>{
+`
+<div class="sdk-for-flutter">
+<!-- passthroughWaypoints.html -->
+<div class="doc-with-sidebar"><div class="doc-content">
+<div id="overlay-under-drawer"></div>
+<header id="title">
+menu
+<ol class="breadcrumbs gt-separated dark hidden-xs">
+<li>/sdk-for-flutter-navigate</li>
+<li>/sdk-for-flutter-navigate-routing-routing-library</li>
+<li>/sdk-for-flutter-navigate-routing-section-class</li>
+<li class="self-crumb">passthroughWaypoints property</li>
+</ol>
+<div class="self-name">passthroughWaypoints</div>
+<form class="search navbar-right" role="search">
+<input autocomplete="off" class="form-control typeahead" disabled="" id="search-box" placeholder="Loading search..." type="text"/>
+</form>
+<div class="toggle" id="theme-button" title="Toggle brightness">
+<label for="theme">
+<input id="theme" type="checkbox" value="light-theme"/>
+
+        dark_mode
+      
+
+        light_mode
+      
+</label>
+</div>
+</header>
+<main>
+<div class="main-content" data-above-sidebar="routing/Section-class-sidebar.html" data-below-sidebar="" id="dartdoc-main-content">
+<div>
+<h1>passthroughWaypoints property</h1></div>
+<section id="getter">
+<section class="multi-line-signature">
+List&lt;<wbr/>/sdk-for-flutter-navigate-routing-passthroughwaypoint-class&gt;
+passthroughWaypoints
+</section>
+<section class="desc markdown">
+<p>The list of passthrough waypoints in this section.
+Gets the list of passthrough waypoints in this section.</p>
+</section>
+<section class="summary source-code" id="source">
+<h2>Implementation</h2>
+<pre class="language-dart"><code class="language-dart">List&lt;PassThroughWaypoint&gt; get passthroughWaypoints;</code></pre>
+</section>
+</section>
+</div>
+<div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
+<header class="hidden-l" id="header-search-sidebar">
+<form class="search-sidebar" role="search">
+<input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
+</form>
+</header>
+<ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
+<li>/sdk-for-flutter-navigate</li>
+<li>/sdk-for-flutter-navigate-routing-routing-library</li>
+<li>/sdk-for-flutter-navigate-routing-section-class</li>
+<li class="self-crumb">passthroughWaypoints property</li>
+</ol>
+<h5>Section class</h5>
+<div id="dartdoc-sidebar-left-content"></div>
+</div>
+<div class="sidebar sidebar-offcanvas-right" id="dartdoc-sidebar-right">
+</div>
+</main>
+<footer>
+
+    here_sdk
+      4.26.0
+  
+</footer>
+</div></div>
+</div>
+`
+}</HTMLBlock>

@@ -1,0 +1,85 @@
+---
+title: "getEnabledWarnings abstract method"
+slug: "sdk-for-flutter-navigate-warner-warnerengine-getenabledwarnings"
+---
+
+<HTMLBlock>{
+`
+<div class="sdk-for-flutter">
+<!-- getEnabledWarnings.html -->
+<div class="doc-with-sidebar"><div class="doc-content">
+<div id="overlay-under-drawer"></div>
+<header id="title">
+menu
+<ol class="breadcrumbs gt-separated dark hidden-xs">
+<li>/sdk-for-flutter-navigate</li>
+<li>/sdk-for-flutter-navigate-warner-warner-library</li>
+<li>/sdk-for-flutter-navigate-warner-warnerengine-class</li>
+<li class="self-crumb">getEnabledWarnings abstract method</li>
+</ol>
+<div class="self-name">getEnabledWarnings</div>
+<form class="search navbar-right" role="search">
+<input autocomplete="off" class="form-control typeahead" disabled="" id="search-box" placeholder="Loading search..." type="text"/>
+</form>
+<div class="toggle" id="theme-button" title="Toggle brightness">
+<label for="theme">
+<input id="theme" type="checkbox" value="light-theme"/>
+
+        dark_mode
+      
+
+        light_mode
+      
+</label>
+</div>
+</header>
+<main>
+<div class="main-content" data-above-sidebar="warner/WarnerEngine-class-sidebar.html" data-below-sidebar="" id="dartdoc-main-content">
+<div>
+<h1>getEnabledWarnings abstract method</h1></div>
+<section class="multi-line-signature">
+List&lt;<wbr/>/sdk-for-flutter-navigate-navigation-warningtype&gt;
+getEnabledWarnings(<wbr/>)
+
+      
+
+    </section>
+<section class="desc markdown">
+<p>Returns the current list of enabled warning types.</p>
+<p>If the WarnerEngine was retrieved from the <code>Navigator</code>, it will also contain
+all the warnings enabled for which listeners are set.</p>
+<p>Returns <code>List&lt;WarningType&gt;</code>. The currect list instance.</p>
+</section>
+<section class="summary source-code" id="source">
+<h2>Implementation</h2>
+<pre class="language-dart"><code class="language-dart">List&lt;WarningType&gt; getEnabledWarnings();</code></pre>
+</section>
+</div>
+<div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
+<header class="hidden-l" id="header-search-sidebar">
+<form class="search-sidebar" role="search">
+<input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
+</form>
+</header>
+<ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
+<li>/sdk-for-flutter-navigate</li>
+<li>/sdk-for-flutter-navigate-warner-warner-library</li>
+<li>/sdk-for-flutter-navigate-warner-warnerengine-class</li>
+<li class="self-crumb">getEnabledWarnings abstract method</li>
+</ol>
+<h5>WarnerEngine class</h5>
+<div id="dartdoc-sidebar-left-content"></div>
+</div>
+<div class="sidebar sidebar-offcanvas-right" id="dartdoc-sidebar-right">
+</div>
+</main>
+<footer>
+
+    here_sdk
+      4.26.0
+  
+</footer>
+</div></div>
+</div>
+`
+}</HTMLBlock>

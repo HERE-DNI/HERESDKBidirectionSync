@@ -1,0 +1,203 @@
+---
+title: "W3WSquare class"
+slug: "sdk-for-flutter-navigate-search-w3wsquare-class"
+---
+
+<HTMLBlock>{
+`
+<div class="sdk-for-flutter">
+<!-- W3WSquare-class.html -->
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="search/W3WSquare-class.html#constructors">Constructors</a></li>
+<li><a href="search/W3WSquare/W3WSquare.html">W3WSquare</a></li>
+<li class="section-title">
+<a href="search/W3WSquare-class.html#instance-properties">Properties</a>
+</li>
+<li><a href="search/W3WSquare/coordinates.html">coordinates</a></li>
+<li><a href="search/W3WSquare/countryCode.html">countryCode</a></li>
+<li><a href="search/W3WSquare/hashCode.html">hashCode</a></li>
+<li><a href="search/W3WSquare/languageCode.html">languageCode</a></li>
+<li class="inherited"><a href="search/W3WSquare/runtimeType.html">runtimeType</a></li>
+<li><a href="search/W3WSquare/square.html">square</a></li>
+<li><a href="search/W3WSquare/words.html">words</a></li>
+<li class="section-title inherited"><a href="search/W3WSquare-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="search/W3WSquare/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="search/W3WSquare/toString.html">toString</a></li>
+<li class="section-title"><a href="search/W3WSquare-class.html#operators">Operators</a></li>
+<li><a href="search/W3WSquare/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
+<div id="overlay-under-drawer"></div>
+<header id="title">
+menu
+<ol class="breadcrumbs gt-separated dark hidden-xs">
+<li>/sdk-for-flutter-navigate</li>
+<li>/sdk-for-flutter-navigate-search-search-library</li>
+<li class="self-crumb">W3WSquare class</li>
+</ol>
+<div class="self-name">W3WSquare</div>
+<form class="search navbar-right" role="search">
+<input autocomplete="off" class="form-control typeahead" disabled="" id="search-box" placeholder="Loading search..." type="text"/>
+</form>
+<div class="toggle" id="theme-button" title="Toggle brightness">
+<label for="theme">
+<input id="theme" type="checkbox" value="light-theme"/>
+
+        dark_mode
+      
+
+        light_mode
+      
+</label>
+</div>
+</header>
+<main>
+<div class="main-content" data-above-sidebar="search/search-library-sidebar.html" data-below-sidebar="search/W3WSquare-class-sidebar.html" id="dartdoc-main-content">
+<div>
+<h1>W3WSquare class</h1></div>
+<section class="desc markdown">
+<p>Contains information about one of the squares in the what3words geocode system.</p>
+<p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
+Related APIs may change for new releases without a deprecation process.</p>
+</section>
+<section class="summary offset-anchor" id="constructors">
+<h2>Constructors</h2>
+<dl class="constructor-summary-list">
+<dt class="callable" id="W3WSquare">
+/sdk-for-flutter-navigate-search-w3wsquare-w3wsquare(/sdk-for-flutter-navigate-core-geobox-class square, /sdk-for-flutter-navigate-core-geocoordinates-class coordinates, String words, String languageCode)
+</dt>
+<dd>
+</dd>
+</dl>
+</section>
+<section class="summary offset-anchor" id="instance-properties">
+<h2>Properties</h2>
+<dl class="properties">
+<dt class="property" id="coordinates">
+/sdk-for-flutter-navigate-search-w3wsquare-coordinates
+↔ /sdk-for-flutter-navigate-core-geocoordinates-class
+</dt>
+<dd>
+  The center of the square.
+  <div class="features">getter/setter pair</div>
+</dd>
+<dt class="property" id="countryCode">
+/sdk-for-flutter-navigate-search-w3wsquare-countrycode
+↔ String?
+</dt>
+<dd>
+  Country that contains the square.
+Not set if the square is in an area not governed by a specific country, such as
+international waters, Antarctica, some uninhabited islands etc.
+  <div class="features">getter/setter pair</div>
+</dd>
+<dt class="property" id="hashCode">
+/sdk-for-flutter-navigate-search-w3wsquare-hashcode
+→ int
+</dt>
+<dd>
+  The hash code for this object.
+  <div class="features">no setter</div>
+</dd>
+<dt class="property" id="languageCode">
+/sdk-for-flutter-navigate-search-w3wsquare-languagecode
+↔ String
+</dt>
+<dd>
+  The language code of the words as an ISO 639-1 2 letter code.
+Each supported language has its own set of words for each of the squares in
+the what3words geocode system.
+For Bosnian-Croatian-Montenegrin-Serbian, a special code "oo" is used.
+  <div class="features">getter/setter pair</div>
+</dd>
+<dt class="property inherited" id="runtimeType">
+/sdk-for-flutter-navigate-search-w3wsquare-runtimetype
+→ Type
+</dt>
+<dd class="inherited">
+  A representation of the runtime type of the object.
+  <div class="features">no setterinherited</div>
+</dd>
+<dt class="property" id="square">
+/sdk-for-flutter-navigate-search-w3wsquare-square
+↔ /sdk-for-flutter-navigate-core-geobox-class
+</dt>
+<dd>
+  A 3-by-3-metre square defined by the what3words geocode system.
+  <div class="features">getter/setter pair</div>
+</dd>
+<dt class="property" id="words">
+/sdk-for-flutter-navigate-search-w3wsquare-words
+↔ String
+</dt>
+<dd>
+  3 word address of the square, for example "///wage.mere.heap".
+  <div class="features">getter/setter pair</div>
+</dd>
+</dl>
+</section>
+<section class="summary offset-anchor inherited" id="instance-methods">
+<h2>Methods</h2>
+<dl class="callables">
+<dt class="callable inherited" id="noSuchMethod">
+/sdk-for-flutter-navigate-search-w3wsquare-nosuchmethod(<wbr/>Invocation invocation)
+    → dynamic
+
+</dt>
+<dd class="inherited">
+  Invoked when a nonexistent method or property is accessed.
+  <div class="features">inherited</div>
+</dd>
+<dt class="callable inherited" id="toString">
+/sdk-for-flutter-navigate-search-w3wsquare-tostring(<wbr/>)
+    → String
+
+</dt>
+<dd class="inherited">
+  A string representation of this object.
+  <div class="features">inherited</div>
+</dd>
+</dl>
+</section>
+<section class="summary offset-anchor" id="operators">
+<h2>Operators</h2>
+<dl class="callables">
+<dt class="callable" id="operator ==">
+/sdk-for-flutter-navigate-search-w3wsquare-operator-equals(<wbr/>Object other)
+    → bool
+
+</dt>
+<dd>
+  The equality operator.
+  
+
+</dd>
+</dl>
+</section>
+</div>
+<div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
+<header class="hidden-l" id="header-search-sidebar">
+<form class="search-sidebar" role="search">
+<input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
+</form>
+</header>
+<ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
+<li>/sdk-for-flutter-navigate</li>
+<li>/sdk-for-flutter-navigate-search-search-library</li>
+<li class="self-crumb">W3WSquare class</li>
+</ol>
+<h5>search library</h5>
+<div id="dartdoc-sidebar-left-content"></div>
+</div>
+<div class="sidebar sidebar-offcanvas-right" id="dartdoc-sidebar-right">
+</div>
+</main>
+<footer>
+
+    here_sdk
+      4.26.0
+  
+</footer>
+</div></div>
+</div>
+`
+}</HTMLBlock>
