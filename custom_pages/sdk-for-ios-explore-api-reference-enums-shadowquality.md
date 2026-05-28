@@ -1,0 +1,181 @@
+---
+title: "Maps / ShadowQuality"
+slug: "sdk-for-ios-explore-api-reference-enums-shadowquality"
+---
+
+<HTMLBlock>{
+`
+<!DOCTYPE html>
+
+<html lang="en">
+
+<body>
+<a class="dashAnchor" name="//apple_ref/swift/Enum/ShadowQuality"></a>
+<a title="ShadowQuality Enumeration Reference"></a>
+
+<div class="content-wrapper">
+<p id="breadcrumbs">
+<a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
+<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-..-maps">Maps</a>
+<img alt="" id="carat" src="../img/carat.png"/>
+        ShadowQuality Enumeration Reference
+      </p>
+</div>
+<div class="content-wrapper">
+
+<article class="main-content">
+<section>
+<section class="section">
+<h1>ShadowQuality</h1>
+<div class="declaration">
+<div class="language">
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">ShadowQuality</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
+</div>
+</div>
+<p>The shadow quality. Controls the quality of the shadow cascade (i.e. the size of the shadow
+maps and the cascade count), which is shared by all views.</p>
+</section>
+<section class="section task-group-section">
+<div class="task-group">
+<ul>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk13ShadowQualityO7veryLowyA2CmF"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Element/veryLow"></a>
+<a class="token" href="#/s:7heresdk13ShadowQualityO7veryLowyA2CmF">veryLow</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Very low</p>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">veryLow</span></code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk13ShadowQualityO3lowyA2CmF"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Element/low"></a>
+<a class="token" href="#/s:7heresdk13ShadowQualityO3lowyA2CmF">low</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Low</p>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">low</span></code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk13ShadowQualityO6mediumyA2CmF"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Element/medium"></a>
+<a class="token" href="#/s:7heresdk13ShadowQualityO6mediumyA2CmF">medium</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Medium</p>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">medium</span></code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk13ShadowQualityO4highyA2CmF"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Element/high"></a>
+<a class="token" href="#/s:7heresdk13ShadowQualityO4highyA2CmF">high</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>High</p>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">high</span></code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk13ShadowQualityO8veryHighyA2CmF"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Element/veryHigh"></a>
+<a class="token" href="#/s:7heresdk13ShadowQualityO8veryHighyA2CmF">veryHigh</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Very high</p>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">veryHigh</span></code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+</ul>
+</div>
+</section>
+</section>
+<section id="footer">
+<p>© 2026 <a class="link" href="" rel="external noopener" target="_blank"></a>. All rights reserved. (Last updated: 2026-04-14)</p>
+<p>Generated by <a class="link" href="https://github.com/realm/jazzy" rel="external noopener" target="_blank">jazzy ♪♫ v0.15.2</a>, a <a class="link" href="https://realm.io" rel="external noopener" target="_blank">Realm</a> project.</p>
+</section>
+</article>
+</div>
+</body>
+</html>
+
+`
+}</HTMLBlock>

@@ -1,0 +1,138 @@
+---
+title: "Search / POIPaymentDetails"
+slug: "sdk-for-ios-explore-api-reference-structs-poipaymentdetails"
+---
+
+<HTMLBlock>{
+`
+<!DOCTYPE html>
+
+<html lang="en">
+
+<body>
+<a class="dashAnchor" name="//apple_ref/swift/Struct/POIPaymentDetails"></a>
+<a title="POIPaymentDetails Structure Reference"></a>
+
+<div class="content-wrapper">
+<p id="breadcrumbs">
+<a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
+<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-..-search">Search</a>
+<img alt="" id="carat" src="../img/carat.png"/>
+        POIPaymentDetails Structure Reference
+      </p>
+</div>
+<div class="content-wrapper">
+
+<article class="main-content">
+<section>
+<section class="section">
+<h1>POIPaymentDetails</h1>
+<div class="declaration">
+<div class="language">
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">POIPaymentDetails</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
+</div>
+</div>
+<p>Details about the payment options at the POI.</p>
+<p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and
+unexpected behaviors.
+Related APIs may change for new releases without a deprecation process.</p>
+</section>
+<section class="section task-group-section">
+<div class="task-group">
+<ul>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk17POIPaymentDetailsV15acceptedMethodsSaySSGvp"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Property/acceptedMethods"></a>
+<a class="token" href="#/s:7heresdk17POIPaymentDetailsV15acceptedMethodsSaySSGvp">acceptedMethods</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Accepted payment methods.
+Currently supported methods are defined in <code><a href="sdk-for-ios-explore-api-reference-..-structs-poipaymentmethod">POIPaymentMethod</a></code>.</p>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">acceptedMethods</span><span class="p">:</span> <span class="p">[</span><span class="kt">String</span><span class="p">]</span></code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk17POIPaymentDetailsV22acceptedCashCurrenciesSaySSGSgvp"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Property/acceptedCashCurrencies"></a>
+<a class="token" href="#/s:7heresdk17POIPaymentDetailsV22acceptedCashCurrenciesSaySSGSgvp">acceptedCashCurrencies</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Accepted currencies for cash payment, represented by their ISO 4217 code, for example
+“EUR”, “USD”, “CNY” etc.
+See the full list of <a href="https://en.wikipedia.org/wiki/ISO_4217">ISO 421 codes</a>.
+If cash is not an accepted payment method or the list of accepted currencies is
+not available, it is set to <code>nil</code>.</p>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">acceptedCashCurrencies</span><span class="p">:</span> <span class="p">[</span><span class="kt">String</span><span class="p">]?</span></code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk17POIPaymentDetailsV15acceptedMethods0D14CashCurrenciesACSaySSG_AFSgtcfc"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Method/init(acceptedMethods:acceptedCashCurrencies:)"></a>
+<a class="token" href="#/s:7heresdk17POIPaymentDetailsV15acceptedMethods0D14CashCurrenciesACSaySSG_AFSgtcfc">init(acceptedMethods:<wbr/>acceptedCashCurrencies:<wbr/>)</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Creates a new instance.</p>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">acceptedMethods</span><span class="p">:</span> <span class="p">[</span><span class="kt">String</span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">acceptedCashCurrencies</span><span class="p">:</span> <span class="p">[</span><span class="kt">String</span><span class="p">]?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">)</span></code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+</ul>
+</div>
+</section>
+</section>
+<section id="footer">
+<p>© 2026 <a class="link" href="" rel="external noopener" target="_blank"></a>. All rights reserved. (Last updated: 2026-04-14)</p>
+<p>Generated by <a class="link" href="https://github.com/realm/jazzy" rel="external noopener" target="_blank">jazzy ♪♫ v0.15.2</a>, a <a class="link" href="https://realm.io" rel="external noopener" target="_blank">Realm</a> project.</p>
+</section>
+</article>
+</div>
+</body>
+</html>
+
+`
+}</HTMLBlock>

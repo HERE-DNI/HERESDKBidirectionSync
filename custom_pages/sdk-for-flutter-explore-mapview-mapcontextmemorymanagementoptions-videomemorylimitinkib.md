@@ -1,0 +1,82 @@
+---
+title: "videoMemoryLimitInKiB property"
+slug: "sdk-for-flutter-explore-mapview-mapcontextmemorymanagementoptions-videomemorylimitinkib"
+---
+
+<HTMLBlock>{
+`
+<div class="sdk-for-flutter">
+<!-- videoMemoryLimitInKiB.html -->
+<div class="doc-with-sidebar"><div class="doc-content">
+<div id="overlay-under-drawer"></div>
+<header id="title">
+menu
+<ol class="breadcrumbs gt-separated dark hidden-xs">
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapcontextmemorymanagementoptions-class</li>
+<li class="self-crumb">videoMemoryLimitInKiB property</li>
+</ol>
+<div class="self-name">videoMemoryLimitInKiB</div>
+<form class="search navbar-right" role="search">
+<input autocomplete="off" class="form-control typeahead" disabled="" id="search-box" placeholder="Loading search..." type="text"/>
+</form>
+<div class="toggle" id="theme-button" title="Toggle brightness">
+<label for="theme">
+<input id="theme" type="checkbox" value="light-theme"/>
+
+        dark_mode
+      
+
+        light_mode
+      
+</label>
+</div>
+</header>
+<main>
+<div class="main-content" data-above-sidebar="mapview/MapContextMemoryManagementOptions-class-sidebar.html" data-below-sidebar="" id="dartdoc-main-content">
+<div>
+<h1>videoMemoryLimitInKiB property</h1></div>
+<section class="multi-line-signature">
+        
+        int?
+        videoMemoryLimitInKiB
+<div class="features">getter/setter pair</div>
+</section>
+<section class="desc markdown">
+<p>Target video memory limit in kibibytes. Non positive or <code>null</code> values are ignored.
+Default value is <code>null</code>.</p>
+</section>
+<section class="summary source-code" id="source">
+<h2>Implementation</h2>
+<pre class="language-dart"><code class="language-dart">int? videoMemoryLimitInKiB;</code></pre>
+</section>
+</div>
+<div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
+<header class="hidden-l" id="header-search-sidebar">
+<form class="search-sidebar" role="search">
+<input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
+</form>
+</header>
+<ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li>/sdk-for-flutter-explore-mapview-mapcontextmemorymanagementoptions-class</li>
+<li class="self-crumb">videoMemoryLimitInKiB property</li>
+</ol>
+<h5>MapContextMemoryManagementOptions class</h5>
+<div id="dartdoc-sidebar-left-content"></div>
+</div>
+<div class="sidebar sidebar-offcanvas-right" id="dartdoc-sidebar-right">
+</div>
+</main>
+<footer>
+
+    here_sdk
+      4.26.0
+  
+</footer>
+</div></div>
+</div>
+`
+}</HTMLBlock>

@@ -1,0 +1,635 @@
+---
+title: "HERE SDK for iOS API Reference"
+slug: "sdk-for-ios-explore-api-reference"
+---
+
+## Overview
+
+Browse the API reference.
+
+## sdk-for-ios-explore-api-reference-core
+
+### Other
+- Anchor2D
+- Anchor2DKeyframe
+- Angle
+- AngleRange
+- Authentication
+- AuthenticationCompletionHandler
+- AuthenticationException
+- AuthenticationMode
+- BrandLogo
+- CardinalDirection
+- CatalogConfiguration
+- CatalogIdentifier
+- CatalogType
+- CatalogVersionHint
+- CollectionOf
+- CountryCode
+- CurrentType
+- CustomMetadataValue
+- DesiredCatalog
+- DeviceIdHandle
+- EngineBaseURL
+- EngineOptions
+- ExternalID
+- GeoBox
+- GeoCircle
+- GeoCoordinates
+- GeoCoordinatesUpdate
+- GeoCorridor
+- GeoOrientation
+- GeoOrientationUpdate
+- GeoPolygon
+- GeoPolyline
+- GeoPolylineDirection
+- InstantiationError
+- InstantiationErrorCode
+- IntegerRange
+- JunctionsTraversability
+- LanguageCode
+- LayerConfiguration
+- – Feature
+- LocalizedRoadNumber
+- LocalizedRoadNumbers
+- LocalizedText
+- LocalizedTexts
+- Location
+- LocationDelegate
+- LocationSource
+- LocationTechnology
+- LocationTime
+- LogAppender
+- LogControl
+- LogLevel
+- Metadata
+- MetadataType
+- NameID
+- NetworkEndpoint
+- NetworkSettings
+- ParameterConfiguration
+- PassThroughFeature
+- PowerType
+- PedestrianProfile
+- PickedPlace
+- PlatformThreading
+- Point2D
+- Point3D
+- PolylineSimplificationCompletionHandler
+- PolylineSimplificationError
+- PolylineSimplifier
+- – Options
+- ProxySettings
+- – ProxyType
+- – Credentials
+- Rectangle2D
+- RouteType
+- Runnable
+- SDKBuildInformation
+- SDKInternalInitializer
+- SDKLogger
+- SDKNativeEngine
+- – PurgeMemoryStrategy
+- SDKNativeEngineHolder
+- SDKOptions
+- SDKVersion
+- Size2D
+- String
+- TaskCompletionHandler
+- TaskHandle
+- TaskOutcome
+- Threading
+- TimeRule
+- TransportProfile
+- UIColor
+- UnitSystem
+- UsageStats
+- – Feature
+- – NetworkStats
+
+## sdk-for-ios-explore-api-reference-ev
+
+### Other
+- EVChargingConnectorFormat
+- EVChargingConnectorType
+- EVSECapability
+- EVSEPaymentSupport
+- EVSEState
+
+## sdk-for-ios-explore-api-reference-positioning
+
+### Other
+- AuthenticationData
+- AuthenticationError
+
+## sdk-for-ios-explore-api-reference-maploader
+
+### Other
+- DataAttributesBase
+- LineData
+- LineDataAccessor
+- LineDataBuilder
+- LineDataSource
+- LineDataSourceBuilder
+
+## sdk-for-ios-explore-api-reference-maps
+
+### Other
+- AnimationDelegate
+- AnimationState
+- AssetsManager
+- DataAttributes
+- DataAttributesAccessor
+- DataAttributesBuilder
+- DataAttributeValue
+- – ValueType
+- DashPattern
+- DoubleTapDelegate
+- DrawOrderType
+- Easing
+- – InstantiationErrorCode
+- EasingFunction
+- GeoCoordinatesKeyframe
+- GeoOrientationKeyframe
+- GestureState
+- GestureType
+- Gestures
+- HereMap
+- IconProvider
+- IconProviderAssetType
+- IconProviderCallback
+- IconProviderError
+- ImageFormat
+- JsonStyleFactory
+- – InstantiationErrorCode
+- – InstantiationErrorDetails
+- KeyframeInterpolationMode
+- LineCap
+- LineTileDataSource
+- LineTileSource
+- LineTileSourceLoadResultHandler
+- LocationIndicator
+- – IndicatorStyle
+- – MarkerType
+- LongPressDelegate
+- MapArrow
+- MapCamera
+- – State
+- – FarPlaneConfiguration
+- MapCameraAnimation
+- – InstantiationErrorCode
+- MapCameraAnimationFactory
+- MapCameraDelegate
+- MapCameraKeyframeTrack
+- – InstantiationErrorCode
+- MapCameraLimits
+- MapCameraUpdate
+- – InstantiationErrorCode
+- MapCameraUpdateFactory
+- MapContentCategory
+- MapContentSettings
+- – TrafficRefreshPeriodErrorCode
+- MapContentType
+- MapContext
+- – MemoryManagementStrategy
+- – MemoryManagementResultCode
+- – ResourceType
+- – FreeResourceSeverity
+- – MemoryManagementResult
+- – MemoryManagementOptions
+- MapError
+- MapFeatures
+- MapFeatureModes
+- MapIdleDelegate
+- MapImage
+- MapImageOverlay
+- MapItemKeyFrameTrack
+- – InstantiationErrorCode
+- MapItemRepresentation
+- MapLayer
+- MapLayerBuilder
+- – InstantiationErrorCode
+- – InstantiationErrorDetails
+- MapLayerPriority
+- MapLayerPriorityBuilder
+- MapLayerMapMeasureDependentStorageLevels
+- MapLayerVisibilityRange
+- MapMarkerCluster
+- – Grouping
+- – ImageStyle
+- – CounterStyle
+- MapMeasureRange
+- MapObjectDescriptor
+- MapProjection
+- MapSceneLights
+- – Category
+- – AttributeSettingError
+- – Direction
+- MapSceneLoadOptions
+- MapSceneLoadOptionsBuilder
+- – InstantiationErrorCode
+- – InstantiationErrorDetails
+- MapMarker
+- – TextStyle
+- MapMarker3D
+- MapMarker3DModel
+- – InstantiationErrorCode
+- MapMarkerAnimation
+- – InstantiationErrorCode
+- MapMeasure
+- – Kind
+- MapMeasureDependentRenderSize
+- – InstantiationErrorCode
+- MapPolygon
+- MapPolyline
+- – Representation
+- – DashImageRepresentation
+- – SolidRepresentation
+- – DashRepresentation
+- – SolidMultiColorRepresentation
+- MapPolylineAnimation
+- – InstantiationErrorCode
+- MapPickResult
+- MapScene
+- – MapPickFilter
+- MapScheme
+- MapViewBase
+- MapView
+- – ViewPin
+- MapViewLifecycleDelegate
+- MapViewOptions
+- MaterialReflectivity
+- Mesh
+- MeshBuilder
+- PanDelegate
+- PickMapContentResult
+- – TrafficIncidentResult
+- PickMapItemsResult
+- PinchRotateDelegate
+- PointData
+- PointDataAccessor
+- PointDataBuilder
+- PointDataSource
+- PointDataSourceBuilder
+- PointTileDataSource
+- PointTileSource
+- PointTileSourceLoadResultHandler
+- Point2DKeyframe
+- PolygonData
+- PolygonDataAccessor
+- PolygonDataBuilder
+- PolygonDataSource
+- PolygonDataSourceBuilder
+- PolygonTileDataSource
+- PolygonTileSource
+- PolygonTileSourceLoadResultHandler
+- QuadMeshBuilder
+- RasterDataSource
+- RasterDataSourceConfiguration
+- – Provider
+- – Cache
+- RasterDataSourceConfigurationUpdate
+- RasterDataSourceDelegate
+- RasterDataSourceError
+- RasterTileSource
+- RasterTileSourceLoadResultHandler
+- RoadShieldIconProperties
+- RenderSize
+- – Unit
+- ScalarKeyframe
+- SDKMapViewInitializer
+- ShadowQuality
+- Style
+- TapDelegate
+- TileGeoBoundsCalculator
+- TileSource
+- TileSourceDataVersion
+- TileSourceDelegate
+- TileSourceLoadTileRequestHandle
+- TileSourceTileMetadata
+- TileKey
+- TileUrlProviderFactory
+- TileUrlRequestHandler
+- TilingScheme
+- TranslucentMapLayerGroup
+- – ErrorCode
+- – ErrorDetails
+- TriangleMeshBuilder
+- TwoFingerPanDelegate
+- TwoFingerTapDelegate
+- VisibilityState
+- WatermarkStyle
+
+## sdk-for-ios-explore-api-reference-routing
+
+### Classes
+- FunctionalRoadClass
+
+### Protocols
+- RoutingProtocol
+
+### Other
+- AccessAttributes
+- Agency
+- AllowOptions
+- Attribution
+- AttributionType
+- AvoidanceOptions
+- AvoidBoundingBoxAreaOptions
+- AvoidCorridorAreaOptions
+- AvoidPolygonAreaOptions
+- BatterySpecifications
+- BicycleOptions
+- BusOptions
+- CarOptions
+- CalculateIsolineCompletionHandler
+- CalculateRouteCompletionHandler
+- CalculateTrafficOnRouteCompletionHandler
+- ChargingActionDetails
+- ChargingConnectorAttributes
+- ChargingConnectorType
+- – Key
+- – CodingError
+- ChargingStation
+- ChargingStop
+- ChargingSupplyType
+- DynamicSpeedInfo
+- ElectricVehicleOptions
+- EmpiricalConsumptionModel
+- EVCarOptions
+- EVChargingPool
+- EVChargingStation
+- EVConsumptionModel
+- EVMobilityServiceProviderPreferences
+- EVTruckOptions
+- Fare
+- FarePassValidityPeriod
+- FarePassValidityPeriodType
+- FarePrice
+- FarePriceType
+- FareReason
+- HazardousMaterial
+- IndoorManeuver
+- Isoline
+- IsolineCalculationMode
+- IsolineOptions
+- – Calculation
+- IsolineRangeType
+- IsolineRoutingEngine
+- LocalizedTextPreference
+- Maneuver
+- ManeuverAction
+- MapMatchedCoordinates
+- MatchSideOfStreet
+- MaxAxleGroupWeight
+- MaxSpeedOnSegment
+- NoticeSeverity
+- OptimizationMode
+- PassThroughWaypoint
+- PaymentMethod
+- PedestrianOptions
+- PhysicalConsumptionModel
+- PostAction
+- PostActionType
+- PreAction
+- PreActionType
+- PrivateBusOptions
+- RefreshRouteOptions
+- RoadFeatures
+- RoadTexts
+- Route
+- RouteHandle
+- RouteLabel
+- RouteLabelType
+- RouteOffset
+- RouteOptions
+- RoutePlace
+- RoutePlaceDirection
+- RoutePlaceType
+- RouteRailwayCrossing
+- RouteRailwayCrossingType
+- RouteStop
+- RouteTextOptions
+- RoutingConnectionSettings
+- RoutingEngine
+- RoutingError
+- RoutingOptions
+- ScooterOptions
+- Section
+- SectionNotice
+- SectionNoticeCode
+- SectionTransportMode
+- SegmentReference
+- SideOfDestination
+- Signpost
+- SignpostLabel
+- StreetAttributes
+- Span
+- TaxiOptions
+- TextUsageOptions
+- Toll
+- TollFare
+- TollFarePass
+- TollOptions
+- – VehicleCategory
+- – EmissionType
+- TrafficOnRoute
+- TrafficOnSpan
+- TrafficOnSection
+- TransitDeparture
+- TransitDepartureStatus
+- TransitIncident
+- TransitIncidentEffect
+- TransitIncidentType
+- TransitMode
+- TransitModeFilter
+- TrafficOptimizationMode
+- TransitRouteOptions
+- TransitRoutingEngine
+- TransitSectionDetails
+- TransitStop
+- TransitTransport
+- TransitWaypoint
+- TravelDirection
+- TruckOptions
+- TruckSpecifications
+- TruckType
+- TunnelCategory
+- VehicleRestrictionMaxWeight
+- VehicleRestrictionMaxWeightType
+- VehicleSpecification
+- – CarBuilder
+- – TruckBuilder
+- – ScooterBuilder
+- – TaxiBuilder
+- – BusBuilder
+- – PrivateBusBuilder
+- ViolatedRestriction
+- – Details
+- WalkAttributes
+- Waypoint
+- WaypointType
+- ZoneCategory
+
+## sdk-for-ios-explore-api-reference-search
+
+### Structs
+- StructuredQuery
+
+### Other
+- Address
+- AddressType
+- AddressQuery
+- AreaType
+- BusinessDetails
+- CategoryQuery
+- – Area
+- Contact
+- DateRange
+- DayOfWeek
+- Details
+- EmailAddress
+- EMobilityServiceProvider
+- EnergyMix
+- EnergySource
+- EnergySourceType
+- EnvironmentalImpact
+- EnvironmentalImpactCategory
+- EVAccessRestrictionReason
+- EVAccessType
+- EVChargingConnector
+- EVChargingConnectorGroup
+- EVChargingConnectorReference
+- EVChargingDurationRange
+- EVChargingLocation
+- EVChargingLocationFeature
+- EVChargingOpeningHours
+- EVChargingOpeningHoursException
+- EVChargingOpeningHoursSchedule
+- EVChargingOperator
+- EVChargingPoolDetails
+- EVChargingTariff
+- EVChargingTariffDimension
+- EVChargingTariffElement
+- EVChargingTariffElementCondition
+- EVChargingTariffPriceComponent
+- EVChargingTariffRequest
+- EVChargingTariffType
+- EVChargingTruckRestriction
+- EVChargingVehicleCategory
+- EVCP3SearchCompletionHandler
+- Evse
+- EVSearchEngine
+- EVSearchError
+- EVSearchInterface
+- EVSearchOptions
+- EVSEConnector
+- EVSEInfo
+- EVSEStatus
+- FacilityType
+- FuelAdditive
+- FuelAdditiveType
+- FuelStation
+- FuelType
+- GenericFuel
+- GeoPlace
+- HighlightType
+- IndexRange
+- LandlinePhone
+- LocationDetails
+- MobilePhone
+- OpeningHours
+- ParkingType
+- Place
+- PlaceCategory
+- PlaceChain
+- PlaceFilter
+- – Ev
+- PlaceFoodType
+- PlaceIdQuery
+- PlaceIdSearchCompletionHandler
+- PlaceIdSearchExtendedCompletionHandler
+- PlaceSerializationError
+- PlaceSerializationException
+- PlaceType
+- POIPaymentDetails
+- POIPaymentMethod
+- ResponseDetails
+- ScheduleDetails
+- SearchCompletionHandler
+- SearchExtendedCompletionHandler
+- SearchEngine
+- SearchError
+- SearchInterface
+- SearchOptions
+- – ResultType
+- – AddressElements
+- Suggestion
+- SuggestionType
+- SuggestCompletionHandler
+- SuggestExtendedCompletionHandler
+- SupplierReference
+- TextQuery
+- – Area
+- TimeOfDayRange
+- TruckAmenities
+- TruckFuel
+- WebDetails
+- WebEditorial
+- WebImage
+- WebRating
+- WebsiteAddress
+- WebSource
+
+## sdk-for-ios-explore-api-reference-traffic
+
+### Other
+- TrafficDataProvider
+- TrafficEngine
+- TrafficFlow
+- TrafficFlowBase
+- TrafficFlowQueryOptions
+- TrafficFlowQueryCompletionHandler
+- TrafficIncident
+- – RestrictedVehicleCategory
+- – VehicleRestriction
+- TrafficIncidentBase
+- TrafficIncidentCompletionHandler
+- TrafficIncidentImpact
+- TrafficIncidentLookupOptions
+- TrafficIncidentOnRoute
+- TrafficIncidentType
+- TrafficIncidentsQueryCompletionHandler
+- TrafficIncidentsQueryOptions
+- TrafficLocation
+- TrafficQueryError
+- Traversability
+
+## sdk-for-ios-explore-api-reference-transport
+
+### Classes
+- TruckClass
+
+### Other
+- BusSpecifications
+- CarSpecifications
+- GeneralVehicleSpeedLimits
+- PedestrianSpecification
+- ScooterSpecification
+- TaxiSpecification
+- TransportMode
+- TransportSpecification
+- – CarBuilder
+- – TruckBuilder
+- – PedestrianBuilder
+- – ScooterBuilder
+- – BicycleBuilder
+- – TaxiBuilder
+- – BusBuilder
+- – PrivateBusBuilder
+- TruckCategory
+- TruckRoadType
+- TruckFuelType
+- VehicleType
+- VehicleProfile
+- WeightPerAxleGroup

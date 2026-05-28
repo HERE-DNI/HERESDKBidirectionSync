@@ -1,0 +1,180 @@
+---
+title: "Core / LogLevel"
+slug: "sdk-for-ios-navigate-api-reference-enums-loglevel"
+---
+
+<HTMLBlock>{
+`
+<!DOCTYPE html>
+
+<html lang="en">
+
+<body>
+<a class="dashAnchor" name="//apple_ref/swift/Enum/LogLevel"></a>
+<a title="LogLevel Enumeration Reference"></a>
+
+<div class="content-wrapper">
+<p id="breadcrumbs">
+<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
+<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-..-core">Core</a>
+<img alt="" id="carat" src="../img/carat.png"/>
+        LogLevel Enumeration Reference
+      </p>
+</div>
+<div class="content-wrapper">
+
+<article class="main-content">
+<section>
+<section class="section">
+<h1>LogLevel</h1>
+<div class="declaration">
+<div class="language">
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">LogLevel</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
+</div>
+</div>
+<p>Severity levels for log messages.</p>
+</section>
+<section class="section task-group-section">
+<div class="task-group">
+<ul>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk8LogLevelO03logC4InfoyA2CmF"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Element/logLevelInfo"></a>
+<a class="token" href="#/s:7heresdk8LogLevelO03logC4InfoyA2CmF">logLevelInfo</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>The severity value for informational messages.</p>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">logLevelInfo</span></code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk8LogLevelO03logC7WarningyA2CmF"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Element/logLevelWarning"></a>
+<a class="token" href="#/s:7heresdk8LogLevelO03logC7WarningyA2CmF">logLevelWarning</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>The severity value for warning messages.</p>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">logLevelWarning</span></code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk8LogLevelO03logC5ErroryA2CmF"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Element/logLevelError"></a>
+<a class="token" href="#/s:7heresdk8LogLevelO03logC5ErroryA2CmF">logLevelError</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>The severity value for error messages.</p>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">logLevelError</span></code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk8LogLevelO03logC5FatalyA2CmF"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Element/logLevelFatal"></a>
+<a class="token" href="#/s:7heresdk8LogLevelO03logC5FatalyA2CmF">logLevelFatal</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>The severity value for fatal messages.</p>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">logLevelFatal</span></code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk8LogLevelO03logC3OffyA2CmF"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Element/logLevelOff"></a>
+<a class="token" href="#/s:7heresdk8LogLevelO03logC3OffyA2CmF">logLevelOff</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>A special value to turn off logging.</p>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">logLevelOff</span></code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+</ul>
+</div>
+</section>
+</section>
+<section id="footer">
+<p>© 2026 <a class="link" href="" rel="external noopener" target="_blank"></a>. All rights reserved. (Last updated: 2026-04-14)</p>
+<p>Generated by <a class="link" href="https://github.com/realm/jazzy" rel="external noopener" target="_blank">jazzy ♪♫ v0.15.2</a>, a <a class="link" href="https://realm.io" rel="external noopener" target="_blank">Realm</a> project.</p>
+</section>
+</article>
+</div>
+</body>
+</html>
+
+`
+}</HTMLBlock>
