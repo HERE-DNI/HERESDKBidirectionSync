@@ -58,7 +58,7 @@ menu
 <p>Defines the settings for the retry logic when connecting to the HERE routing backend.</p>
 <p>When a timeout is triggered,
 the next connection attempt starts with a increased timeout.
-<code>new_timeout</code> = <code>initial_timeout</code> + increment * <code>retry_count</code></p>
+new_timeout = initial_timeout + increment * retry_count</p>
 </section>
 <section class="summary offset-anchor" id="constructors">
 <h2>Constructors</h2>

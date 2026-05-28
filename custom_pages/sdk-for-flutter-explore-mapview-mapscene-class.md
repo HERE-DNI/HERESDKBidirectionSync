@@ -95,10 +95,10 @@ menu
 It is also possible to load your own custom map scheme from a file bundled
 with your application. Supported file formats are:</p>
 <ul>
-<li>JSON (file extension '.json'; e.g. '<code>my_custom_style</code>.json')</li>
-<li>ZIP archive (file extension '.zip'; e.g. '<code>my_custom_style</code>.zip'), with the following archive structure:
+<li>JSON (file extension '.json'; e.g. 'my_custom_style.json')</li>
+<li>ZIP archive (file extension '.zip'; e.g. 'my_custom_style.zip'), with the following archive structure:
 <ul>
-<li>root folder: any, not empty (e.g. '<code>my_custom_style</code>')</li>
+<li>root folder: any, not empty (e.g. 'my_custom_style')</li>
 <li>JSON configuration: '<root folder="">/style.json'</root></li>
 <li>custom assets folder: '<root folder="">/assets'</root></li>
 </ul>

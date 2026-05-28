@@ -44,7 +44,7 @@ menu
 <div class="features">getter/setter pair</div>
 </section>
 <section class="desc markdown">
-<p>Desired upper bound of application size in bytes. When cached data exceeds <code>cache_size</code>, least recently used data will be removed.
+<p>Desired upper bound of application size in bytes. When cached data exceeds cache_size, least recently used data will be removed.
 Default value 256MB</p>
 </section>
 <section class="summary source-code" id="source">

@@ -46,7 +46,7 @@ getDefaultValue(<wbr/>)
     </section>
 <section class="desc markdown">
 <p>Returns the default value.</p>
-<p>Returns <code>String?</code>. The default value or null if list is empty.</p>
+<p>Returns <code>String?</code>. The default value or null` if list is empty.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>

@@ -40,7 +40,7 @@ menu
 <section class="multi-line-signature">
 <div>
 <ol class="annotation-list">
-<li>@Deprecated("Will be removed in v4.28.0. Use the <code>routing_options</code> instead.")</li>
+<li>@Deprecated("Will be removed in v4.28.0. Use the `routing_options` instead.")</li>
 </ol>
 </div>
 /sdk-for-flutter-explore-routing-caroptions-class?
@@ -53,7 +53,7 @@ Mutually exclusive with /sdk-for-flutter-explore-routing-isolineoptions-truckopt
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
-<pre class="language-dart"><code class="language-dart">@Deprecated("Will be removed in v4.28.0. Use the routing_options instead.")
+<pre class="language-dart"><code class="language-dart">@Deprecated("Will be removed in v4.28.0. Use the `routing_options` instead.")
 CarOptions? carOptions;</code></pre>
 </section>
 </div>

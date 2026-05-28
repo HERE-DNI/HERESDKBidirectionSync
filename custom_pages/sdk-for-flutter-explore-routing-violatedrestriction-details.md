@@ -46,7 +46,7 @@ menu
 <p>The detailed information of restriction depending on the specific violation.
 For time dependent restriction or transport mode restriction, this property will be null.
 For vehicle restriction, the corresponding member will be set, for example, if the vehicle violates the maximum
-allowed gross weight for a specific route, the <code>max_gross_weight_in_kilograms</code> will be set with the maximum allowed
+allowed gross weight for a specific route, the max_gross_weight_in_kilograms will be set with the maximum allowed
 gross weight for this route.</p>
 </section>
 <section class="summary source-code" id="source">

@@ -40,7 +40,7 @@ menu
 <section class="multi-line-signature">
 <div>
 <ol class="annotation-list">
-<li>@Deprecated("Will be removed in v4.27.0. Use <code>VehicleSpecification.truckCategory</code> instead.")</li>
+<li>@Deprecated("Will be removed in v4.27.0. Use `VehicleSpecification.truckCategory` instead.")</li>
 </ol>
 </div>
 /sdk-for-flutter-explore-transport-trucktype
@@ -55,7 +55,7 @@ Rendering <code>sdk.mapview.TruckProfile</code>: /sdk-for-flutter-explore-transp
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
-<pre class="language-dart"><code class="language-dart">@Deprecated("Will be removed in v4.27.0. Use VehicleSpecification.truckCategory instead.")
+<pre class="language-dart"><code class="language-dart">@Deprecated("Will be removed in v4.27.0. Use `VehicleSpecification.truckCategory` instead.")
 TruckType truckType;</code></pre>
 </section>
 </div>

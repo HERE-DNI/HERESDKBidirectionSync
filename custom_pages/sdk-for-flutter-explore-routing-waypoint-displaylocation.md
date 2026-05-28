@@ -46,7 +46,7 @@ menu
 <p>Optional coordinates to indicate physical location of the Points of Interest (PoI).
 It is different from coordinates and /sdk-for-flutter-explore-routing-waypoint-sideofstreethint which are generally expected to to be
 on the navigable road network and can be different from actual location of the PoI.
-<code>display_location</code> is used for visualization of the PoI regardless of road network.</p>
+display_location is used for visualization of the PoI regardless of road network.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>

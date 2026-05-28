@@ -60,7 +60,7 @@ menu
 <dt>Annotations</dt>
 <dd>
 <ul class="annotation-list clazz-relationships">
-<li>@Deprecated("Will be removed in v4.28.0. Use <code>TransportSpecification</code> instead.")</li>
+<li>@Deprecated("Will be removed in v4.28.0. Use `TransportSpecification` instead.")</li>
 </ul>
 </dd>
 </dl>

@@ -40,7 +40,7 @@ menu
 <section class="multi-line-signature">
 <div>
 <ol class="annotation-list">
-<li>@Deprecated("Will be removed in v4.28.0. Use the constructor with <code>RoutingOptions</code> parameter instead.")</li>
+<li>@Deprecated("Will be removed in v4.28.0. Use the constructor with `RoutingOptions` parameter instead.")</li>
 </ol>
 </div>
 IsolineOptions.withTruckOptions(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-routing-isolineoptionscalculation-class calculationOptions, </li>
@@ -62,7 +62,7 @@ This determines also the transportation type.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
-<pre class="language-dart"><code class="language-dart">@Deprecated("Will be removed in v4.28.0. Use the constructor with RoutingOptions parameter instead.")
+<pre class="language-dart"><code class="language-dart">@Deprecated("Will be removed in v4.28.0. Use the constructor with `RoutingOptions` parameter instead.")
 
 factory IsolineOptions.withTruckOptions(IsolineOptionsCalculation calculationOptions, TruckOptions truckOptions) =&gt; $prototype.withTruckOptions(calculationOptions, truckOptions);</code></pre>
 </section>

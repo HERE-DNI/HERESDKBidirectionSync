@@ -70,7 +70,7 @@ menu
 <dt>Annotations</dt>
 <dd>
 <ul class="annotation-list clazz-relationships">
-<li>@Deprecated("Will be removed in v4.28.0. Use <code>RoutingOptions</code> class instead.")</li>
+<li>@Deprecated("Will be removed in v4.28.0. Use `RoutingOptions` class instead.")</li>
 </ul>
 </dd>
 </dl>

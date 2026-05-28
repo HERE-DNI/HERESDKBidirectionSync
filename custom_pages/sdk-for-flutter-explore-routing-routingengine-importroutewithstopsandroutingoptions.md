@@ -65,7 +65,7 @@ size is not in the range [2,50000].</p>
 <li><code>routeStops</code> The list of RouteStop's which contains index of location from locations list used for route stop and duration in seconds spent on stop.</li>
 </ul>
 <p>An /sdk-for-flutter-explore-routing-routingerror error is generated when the route stops list
-size is not in the range [1,locations.size()-2], any of <code>location_index</code> is &lt; 1 or <code>location_indexes</code> are not unique.</p>
+size is not in the range [1,locations.size()-2], any of location_index is &lt; 1 or location_indexes are not unique.</p>
 <ul>
 <li>
 <p><code>options</code> The options define the vehicle and route options to calculate the route.</p>

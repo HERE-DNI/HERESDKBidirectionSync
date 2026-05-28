@@ -40,7 +40,7 @@ menu
 <section class="multi-line-signature">
 <div>
 <ol class="annotation-list">
-<li>@Deprecated("Will be removed in v4.27.0. Please use the <code>setMarker3dModelWithRenderSizeUnit</code> instead.")</li>
+<li>@Deprecated("Will be removed in v4.27.0. Please use the `setMarker3dModelWithRenderSizeUnit` instead.")</li>
 </ol>
 </div>
 void
@@ -79,7 +79,7 @@ To display a unit qube of 1x1x1 meter as is, please use a scale value of 6.0.</p
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
-<pre class="language-dart"><code class="language-dart">@Deprecated("Will be removed in v4.27.0. Please use the setMarker3dModelWithRenderSizeUnit instead.")
+<pre class="language-dart"><code class="language-dart">@Deprecated("Will be removed in v4.27.0. Please use the `setMarker3dModelWithRenderSizeUnit` instead.")
 
 void setMarker3dModel(MapMarker3DModel model, double scale, LocationIndicatorMarkerType type);</code></pre>
 </section>

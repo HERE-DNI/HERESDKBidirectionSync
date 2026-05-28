@@ -45,7 +45,7 @@ CalculateIsolineCallback =
 <p>It is always called on the main thread.
 The first argument is the error in case of a failure. It is <code>null</code> for an operation that succeeds.
 The second argument holds a list of calculated isolines. The list is <code>null</code> in case of an error.
-The size of the list matches the size of the provided sdk.routing.IsolineOptions.<code>range_values</code>:
+The size of the list matches the size of the provided sdk.routing.IsolineOptions.range_values:
 For each range limit, one isoline is calculated.</p>
 <ul>
 <li>

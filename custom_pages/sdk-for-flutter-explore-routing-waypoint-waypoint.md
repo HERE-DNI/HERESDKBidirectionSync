@@ -83,7 +83,7 @@ value greater than zero.</li>
 <li><code>displayLocation</code> Optional coordinates to indicate physical location of the Points of Interest (PoI).
 It is different from coordinates and /sdk-for-flutter-explore-routing-waypoint-sideofstreethint which are generally expected to to be
 on the navigable road network and can be different from actual location of the PoI.
-<code>display_location</code> is used for visualization of the PoI regardless of road network.</li>
+display_location is used for visualization of the PoI regardless of road network.</li>
 <li><code>minCourseDistanceInMeters</code> Optional distance in meters during which the user wants to avoid taking actions. For example, if
 the origin is set by a moving vehicle, the user might not have time to react to immediate actions such
 as a sharp right turn.</li>

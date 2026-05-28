@@ -50,7 +50,7 @@ setCustomOption(<wbr/><ol class="parameter-list single-line"> <li>String name, <
 <p>Sets a custom option for search backend queries.</p>
 <p>This allows more control over the behavior
 of the search algorithm.
-Name has the format &lt;<code>endpoint_name</code>&gt;.&lt;<code>option_name</code>&gt;, for example "discover.show".
+Name has the format &lt;endpoint_name&gt;.&lt;option_name&gt;, for example "discover.show".
 Values can be combined for the same name by using a comma, for example "truck,fuel".
 The custom option is applied only for the endpoint that is specified as prefix in <code>name</code>.
 Some of the supported name/value options are:</p>
@@ -89,7 +89,7 @@ they will be missing rich TripAdvisor content.</p>
 </li>
 <li>
 <p>name = "lookup.datasets" or "discover.datasets" or "browse.datasets" or "autosuggest.datasets",
-value = &lt;<code>your_dataset_hrn</code>&gt; enables ingesting and searching of private POIs.
+value = &lt;your_dataset_hrn&gt; enables ingesting and searching of private POIs.
 <strong>Note:</strong> Only participants of the search customization can get access from HERE to use this feature,
 otherwise, a /sdk-for-flutter-explore-search-searcherror will be propagated in callbacks.</p>
 </li>
@@ -105,7 +105,7 @@ For a complete list of available endpoints, parameter names and their valid valu
 so make sure you read and understand the backend documentation.</p>
 </li>
 <li>
-<p><code>name</code> Option name in the format &lt;<code>endpoint_name</code>&gt;.&lt;<code>option_name</code>&gt;, for example "discover.show".</p>
+<p><code>name</code> Option name in the format &lt;endpoint_name&gt;.&lt;option_name&gt;, for example "discover.show".</p>
 </li>
 <li>
 <p><code>value</code> Option value.</p>

@@ -65,7 +65,7 @@ menu
 <h1>TruckAmenities class</h1></div>
 <section class="desc markdown">
 <p>Truck amenities struct, represents availability (true/false) for each feature,
-except <code>shower_count</code> - number of showers, if data is available.</p>
+except shower_count - number of showers, if data is available.</p>
 <p>Note: This is a BETA feature and thus subject to change.</p>
 </section>
 <section class="summary offset-anchor" id="constructors">
