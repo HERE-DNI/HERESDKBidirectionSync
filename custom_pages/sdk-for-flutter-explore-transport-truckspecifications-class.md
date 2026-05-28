@@ -73,7 +73,7 @@ Only the fields that are set are considered for restriction handling.</p>
 <dt>Annotations</dt>
 <dd>
 <ul class="annotation-list clazz-relationships">
-<li>@Deprecated("Will be removed in v4.28.0. Use `TransportSpecification` instead.")</li>
+<li>@Deprecated("Will be removed in v4.28.0. Use TransportSpecification instead.")</li>
 </ul>
 </dd>
 </dl>

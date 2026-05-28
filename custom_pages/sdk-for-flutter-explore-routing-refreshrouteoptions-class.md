@@ -78,7 +78,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <dt>Annotations</dt>
 <dd>
 <ul class="annotation-list clazz-relationships">
-<li>@Deprecated("Will be removed in v4.28.0. Use the `RoutingOptions` class instead.")</li>
+<li>@Deprecated("Will be removed in v4.28.0. Use the RoutingOptions class instead.")</li>
 </ul>
 </dd>
 </dl>

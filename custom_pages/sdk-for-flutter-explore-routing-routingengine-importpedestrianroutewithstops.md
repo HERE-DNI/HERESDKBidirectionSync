@@ -40,7 +40,7 @@ menu
 <section class="multi-line-signature">
 <div>
 <ol class="annotation-list">
-<li>@Deprecated("Will be removed in v4.28.0. Use the `import_route()` methods with RoutingOptions parameter instead.")</li>
+<li>@Deprecated("Will be removed in v4.28.0. Use the import_route() methods with RoutingOptions parameter instead.")</li>
 </ol>
 </div>
 /sdk-for-flutter-explore-core-threading-taskhandle-class
@@ -87,7 +87,7 @@ It is always invoked on the main thread.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
-<pre class="language-dart"><code class="language-dart">@Deprecated("Will be removed in v4.28.0. Use the `import_route()` methods with RoutingOptions parameter instead.")
+<pre class="language-dart"><code class="language-dart">@Deprecated("Will be removed in v4.28.0. Use the import_route() methods with RoutingOptions parameter instead.")
 
 TaskHandle importPedestrianRouteWithStops(List&lt;Location&gt; locations, List&lt;RouteStop&gt; routeStops, PedestrianOptions pedestrianOptions, CalculateRouteCallback callback);</code></pre>
 </section>

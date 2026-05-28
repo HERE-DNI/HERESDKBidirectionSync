@@ -69,7 +69,7 @@ the street a passenger wants to leave the taxi.</p>
 <dt>Annotations</dt>
 <dd>
 <ul class="annotation-list clazz-relationships">
-<li>@Deprecated("Will be removed in v4.28.0. Use `RoutingOptions` class instead.")</li>
+<li>@Deprecated("Will be removed in v4.28.0. Use RoutingOptions class instead.")</li>
 </ul>
 </dd>
 </dl>

@@ -40,7 +40,7 @@ menu
 <section class="multi-line-signature">
 <div>
 <ol class="annotation-list">
-<li>@Deprecated("Will be removed in v4.27.0. Use `forbidden_truck_category` instead.")</li>
+<li>@Deprecated("Will be removed in v4.27.0. Use forbidden_truck_category instead.")</li>
 </ol>
 </div>
 /sdk-for-flutter-explore-transport-trucktype?
@@ -53,7 +53,7 @@ parameter used for route calculation.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
-<pre class="language-dart"><code class="language-dart">@Deprecated("Will be removed in v4.27.0. Use `forbidden_truck_category` instead.")
+<pre class="language-dart"><code class="language-dart">@Deprecated("Will be removed in v4.27.0. Use forbidden_truck_category instead.")
 TruckType? forbiddenTruckType;</code></pre>
 </section>
 </div>
