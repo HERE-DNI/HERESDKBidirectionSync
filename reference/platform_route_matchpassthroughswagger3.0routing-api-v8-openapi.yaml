@@ -715,7 +715,7 @@ components:
         $ref: '#/components/schemas/TimeWithAny'
     destination:
       name: destination
-      example: 52.5200%2C13.4049
+      example: 52.5200,13.4049
       description: >
         A location defining the destination of the trip.
 
@@ -739,7 +739,6 @@ components:
           subsequent section will start at the arrival time of the former section + stop
           duration.
       in: query
-      allowReserved: true
       required: true
       schema:
         $ref: '#/components/schemas/Waypoint'
@@ -1168,7 +1167,7 @@ components:
         $ref: '#/components/schemas/NetworkRestrictedTruck'
     origin:
       name: origin
-      example: 52.5160%2C13.3779
+      example: 52.5160,13.3779
       description: >
         A location defining the origin of the trip.
 
@@ -1291,7 +1290,6 @@ components:
         properly percent-encoded.
           Please refer to the Developer Guide for more details.
       in: query
-      allowReserved: true
       required: true
       schema:
         $ref: '#/components/schemas/Waypoint'
