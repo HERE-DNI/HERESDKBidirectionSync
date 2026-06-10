@@ -1,5 +1,5 @@
 ---
-title: "TransportSpecification / BicycleBuilder"
+title: "sdk-for-ios-explore-api-reference-structs-transportspecification-bicyclebuilder"
 slug: "sdk-for-ios-explore-api-reference-structs-transportspecification-bicyclebuilder"
 ---
 

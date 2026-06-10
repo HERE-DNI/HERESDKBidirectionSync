@@ -1,5 +1,5 @@
 ---
-title: "Maps / MapContext"
+title: "sdk-for-ios-explore-api-reference-classes-mapcontext"
 slug: "sdk-for-ios-explore-api-reference-classes-mapcontext"
 ---
 

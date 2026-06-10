@@ -1,5 +1,5 @@
 ---
-title: "Routing / FarePassValidityPeriod"
+title: "sdk-for-ios-explore-api-reference-structs-farepassvalidityperiod"
 slug: "sdk-for-ios-explore-api-reference-structs-farepassvalidityperiod"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "MapMeasure / Kind"
+title: "sdk-for-ios-explore-api-reference-structs-mapmeasure-kind"
 slug: "sdk-for-ios-explore-api-reference-structs-mapmeasure-kind"
 ---
 

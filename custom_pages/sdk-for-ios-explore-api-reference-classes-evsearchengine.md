@@ -1,5 +1,5 @@
 ---
-title: "Search / EVSearchEngine"
+title: "sdk-for-ios-explore-api-reference-classes-evsearchengine"
 slug: "sdk-for-ios-explore-api-reference-classes-evsearchengine"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Maps / MapMarker"
+title: "sdk-for-ios-explore-api-reference-classes-mapmarker"
 slug: "sdk-for-ios-explore-api-reference-classes-mapmarker"
 ---
 

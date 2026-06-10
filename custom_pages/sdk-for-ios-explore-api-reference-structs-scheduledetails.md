@@ -1,5 +1,5 @@
 ---
-title: "Search / ScheduleDetails"
+title: "sdk-for-ios-explore-api-reference-structs-scheduledetails"
 slug: "sdk-for-ios-explore-api-reference-structs-scheduledetails"
 ---
 

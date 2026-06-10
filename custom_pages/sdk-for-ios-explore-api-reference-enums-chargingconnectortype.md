@@ -1,5 +1,5 @@
 ---
-title: "Routing / ChargingConnectorType"
+title: "sdk-for-ios-explore-api-reference-enums-chargingconnectortype"
 slug: "sdk-for-ios-explore-api-reference-enums-chargingconnectortype"
 ---
 

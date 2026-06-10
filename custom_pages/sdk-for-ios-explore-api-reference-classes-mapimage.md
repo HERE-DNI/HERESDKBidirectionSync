@@ -1,5 +1,5 @@
 ---
-title: "Maps / MapImage"
+title: "sdk-for-ios-explore-api-reference-classes-mapimage"
 slug: "sdk-for-ios-explore-api-reference-classes-mapimage"
 ---
 

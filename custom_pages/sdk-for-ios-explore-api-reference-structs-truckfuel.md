@@ -1,5 +1,5 @@
 ---
-title: "Search / TruckFuel"
+title: "sdk-for-ios-explore-api-reference-structs-truckfuel"
 slug: "sdk-for-ios-explore-api-reference-structs-truckfuel"
 ---
 

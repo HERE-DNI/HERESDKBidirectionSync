@@ -1,5 +1,5 @@
 ---
-title: "Maps / HereMap"
+title: "sdk-for-ios-explore-api-reference-classes-heremap"
 slug: "sdk-for-ios-explore-api-reference-classes-heremap"
 ---
 

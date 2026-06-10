@@ -1,5 +1,5 @@
 ---
-title: "Search / EVSearchOptions"
+title: "sdk-for-ios-explore-api-reference-structs-evsearchoptions"
 slug: "sdk-for-ios-explore-api-reference-structs-evsearchoptions"
 ---
 

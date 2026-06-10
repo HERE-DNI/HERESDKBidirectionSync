@@ -1,5 +1,5 @@
 ---
-title: "Maps / MaterialReflectivity"
+title: "sdk-for-ios-explore-api-reference-structs-materialreflectivity"
 slug: "sdk-for-ios-explore-api-reference-structs-materialreflectivity"
 ---
 

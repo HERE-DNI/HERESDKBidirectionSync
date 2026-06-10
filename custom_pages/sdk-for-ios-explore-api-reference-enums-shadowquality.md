@@ -1,5 +1,5 @@
 ---
-title: "Maps / ShadowQuality"
+title: "sdk-for-ios-explore-api-reference-enums-shadowquality"
 slug: "sdk-for-ios-explore-api-reference-enums-shadowquality"
 ---
 

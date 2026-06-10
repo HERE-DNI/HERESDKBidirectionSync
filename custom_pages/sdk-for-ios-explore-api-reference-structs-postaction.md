@@ -1,5 +1,5 @@
 ---
-title: "Routing / PostAction"
+title: "sdk-for-ios-explore-api-reference-structs-postaction"
 slug: "sdk-for-ios-explore-api-reference-structs-postaction"
 ---
 

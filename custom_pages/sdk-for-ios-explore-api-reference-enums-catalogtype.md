@@ -1,5 +1,5 @@
 ---
-title: "Core / CatalogType"
+title: "sdk-for-ios-explore-api-reference-enums-catalogtype"
 slug: "sdk-for-ios-explore-api-reference-enums-catalogtype"
 ---
 

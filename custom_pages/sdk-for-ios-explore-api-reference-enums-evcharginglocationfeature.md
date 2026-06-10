@@ -1,5 +1,5 @@
 ---
-title: "Search / EVChargingLocationFeature"
+title: "sdk-for-ios-explore-api-reference-enums-evcharginglocationfeature"
 slug: "sdk-for-ios-explore-api-reference-enums-evcharginglocationfeature"
 ---
 

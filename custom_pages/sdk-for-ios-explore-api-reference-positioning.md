@@ -1,5 +1,5 @@
 ---
-title: "Positioning"
+title: "sdk-for-ios-explore-api-reference-positioning"
 slug: "sdk-for-ios-explore-api-reference-positioning"
 ---
 

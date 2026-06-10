@@ -1,5 +1,5 @@
 ---
-title: "MapCamera / State"
+title: "sdk-for-ios-explore-api-reference-classes-mapcamera-state"
 slug: "sdk-for-ios-explore-api-reference-classes-mapcamera-state"
 ---
 

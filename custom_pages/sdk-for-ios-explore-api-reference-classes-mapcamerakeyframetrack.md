@@ -1,5 +1,5 @@
 ---
-title: "Maps / MapCameraKeyframeTrack"
+title: "sdk-for-ios-explore-api-reference-classes-mapcamerakeyframetrack"
 slug: "sdk-for-ios-explore-api-reference-classes-mapcamerakeyframetrack"
 ---
 
@@ -284,7 +284,7 @@ be clamped according to the minimum and maximum zoom levels set for the map came
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">@available(*, deprecated, message: "Will be removed in v4.27.0. Use <code>MapCameraKeyframeTrack.lookAtDistance(MapMeasure.Kind, [ScalarKeyframe], Easing, KeyframeInterpolationMode﹚</code> instead.")</span>
+<pre class="highlight swift"><code><span class="kd">@available(*, deprecated, message: "Will be removed in v4.27.0. Use `MapCameraKeyframeTrack.lookAtDistance(MapMeasure.Kind, [ScalarKeyframe], Easing, KeyframeInterpolationMode﹚` instead.")</span>
 <span class="kd">public</span> <span class="kd">static</span> <span class="kd">func</span> <span class="nf">lookAtDistance</span><span class="p">(</span><span class="nv">keyframes</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-scalarkeyframe">ScalarKeyframe</a></span><span class="p">],</span> <span class="nv">easing</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-easing">Easing</a></span><span class="p">,</span> <span class="nv">interpolationMode</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-keyframeinterpolationmode">KeyframeInterpolationMode</a></span><span class="p">)</span> <span class="k">throws</span> <span class="o">-&gt;</span> <span class="kt">MapCameraKeyframeTrack</span></code></pre>
 </div>
 </div>

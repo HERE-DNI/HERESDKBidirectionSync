@@ -1,5 +1,5 @@
 ---
-title: "Search / EnvironmentalImpactCategory"
+title: "sdk-for-ios-explore-api-reference-enums-environmentalimpactcategory"
 slug: "sdk-for-ios-explore-api-reference-enums-environmentalimpactcategory"
 ---
 

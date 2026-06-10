@@ -1,5 +1,5 @@
 ---
-title: "Maps / AssetsManager"
+title: "sdk-for-ios-explore-api-reference-classes-assetsmanager"
 slug: "sdk-for-ios-explore-api-reference-classes-assetsmanager"
 ---
 

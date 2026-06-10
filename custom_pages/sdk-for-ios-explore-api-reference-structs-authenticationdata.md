@@ -1,5 +1,5 @@
 ---
-title: "Positioning / AuthenticationData"
+title: "sdk-for-ios-explore-api-reference-structs-authenticationdata"
 slug: "sdk-for-ios-explore-api-reference-structs-authenticationdata"
 ---
 

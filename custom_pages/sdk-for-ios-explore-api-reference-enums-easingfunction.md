@@ -1,5 +1,5 @@
 ---
-title: "Maps / EasingFunction"
+title: "sdk-for-ios-explore-api-reference-enums-easingfunction"
 slug: "sdk-for-ios-explore-api-reference-enums-easingfunction"
 ---
 

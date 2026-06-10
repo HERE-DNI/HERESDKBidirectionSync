@@ -1,5 +1,5 @@
 ---
-title: "Other Structures"
+title: "sdk-for-ios-explore-api-reference-other structs"
 slug: "sdk-for-ios-explore-api-reference-other structs"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Maps / PointDataAccessor"
+title: "sdk-for-ios-explore-api-reference-classes-pointdataaccessor"
 slug: "sdk-for-ios-explore-api-reference-classes-pointdataaccessor"
 ---
 

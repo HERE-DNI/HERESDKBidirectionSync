@@ -1,5 +1,5 @@
 ---
-title: "Maps / GestureType"
+title: "sdk-for-ios-explore-api-reference-enums-gesturetype"
 slug: "sdk-for-ios-explore-api-reference-enums-gesturetype"
 ---
 

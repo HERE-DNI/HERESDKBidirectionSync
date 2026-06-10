@@ -1,5 +1,5 @@
 ---
-title: "Maps / MapCameraDelegate"
+title: "sdk-for-ios-explore-api-reference-protocols-mapcameradelegate"
 slug: "sdk-for-ios-explore-api-reference-protocols-mapcameradelegate"
 ---
 

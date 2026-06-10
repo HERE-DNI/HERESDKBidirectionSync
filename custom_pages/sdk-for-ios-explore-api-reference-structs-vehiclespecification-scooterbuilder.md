@@ -1,5 +1,5 @@
 ---
-title: "VehicleSpecification / ScooterBuilder"
+title: "sdk-for-ios-explore-api-reference-structs-vehiclespecification-scooterbuilder"
 slug: "sdk-for-ios-explore-api-reference-structs-vehiclespecification-scooterbuilder"
 ---
 

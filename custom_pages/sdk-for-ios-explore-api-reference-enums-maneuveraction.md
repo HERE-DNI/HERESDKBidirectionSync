@@ -1,5 +1,5 @@
 ---
-title: "Routing / ManeuverAction"
+title: "sdk-for-ios-explore-api-reference-enums-maneuveraction"
 slug: "sdk-for-ios-explore-api-reference-enums-maneuveraction"
 ---
 

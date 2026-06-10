@@ -1,5 +1,5 @@
 ---
-title: "Core / BrandLogo"
+title: "sdk-for-ios-explore-api-reference-structs-brandlogo"
 slug: "sdk-for-ios-explore-api-reference-structs-brandlogo"
 ---
 

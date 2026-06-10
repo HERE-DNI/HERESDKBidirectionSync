@@ -1,5 +1,5 @@
 ---
-title: "Maps / PointTileSourceLoadResultHandler"
+title: "sdk-for-ios-explore-api-reference-protocols-pointtilesourceloadresulthandler"
 slug: "sdk-for-ios-explore-api-reference-protocols-pointtilesourceloadresulthandler"
 ---
 

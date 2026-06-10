@@ -1,5 +1,5 @@
 ---
-title: "Maps / LocationIndicator"
+title: "sdk-for-ios-explore-api-reference-classes-locationindicator"
 slug: "sdk-for-ios-explore-api-reference-classes-locationindicator"
 ---
 
@@ -539,7 +539,7 @@ supported. Models created from Mesh will be ignored.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">@available(*, deprecated, message: "Will be removed in v4.27.0. Please use the overloaded method with <code>RenderSize.Unit</code> instead.")</span>
+<pre class="highlight swift"><code><span class="kd">@available(*, deprecated, message: "Will be removed in v4.27.0. Please use the overloaded method with `RenderSize.Unit` instead.")</span>
 <span class="kd">public</span> <span class="kd">func</span> <span class="nf">setMarker3dModel</span><span class="p">(</span><span class="n">_</span> <span class="nv">model</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapmarker3dmodel">MapMarker3DModel</a></span><span class="p">,</span> <span class="nv">scale</span><span class="p">:</span> <span class="kt">Double</span><span class="p">,</span> <span class="nv">type</span><span class="p">:</span> <span class="kt">LocationIndicator</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-locationindicator-markertype">MarkerType</a></span><span class="p">)</span></code></pre>
 </div>
 </div>

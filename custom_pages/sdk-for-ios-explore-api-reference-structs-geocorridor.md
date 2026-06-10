@@ -1,5 +1,5 @@
 ---
-title: "Core / GeoCorridor"
+title: "sdk-for-ios-explore-api-reference-structs-geocorridor"
 slug: "sdk-for-ios-explore-api-reference-structs-geocorridor"
 ---
 

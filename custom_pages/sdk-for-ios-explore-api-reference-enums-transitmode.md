@@ -1,5 +1,5 @@
 ---
-title: "Routing / TransitMode"
+title: "sdk-for-ios-explore-api-reference-enums-transitmode"
 slug: "sdk-for-ios-explore-api-reference-enums-transitmode"
 ---
 

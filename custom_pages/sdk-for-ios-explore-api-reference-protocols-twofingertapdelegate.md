@@ -1,5 +1,5 @@
 ---
-title: "Maps / TwoFingerTapDelegate"
+title: "sdk-for-ios-explore-api-reference-protocols-twofingertapdelegate"
 slug: "sdk-for-ios-explore-api-reference-protocols-twofingertapdelegate"
 ---
 

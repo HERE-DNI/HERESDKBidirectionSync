@@ -1,5 +1,5 @@
 ---
-title: "Maps / LineTileSource"
+title: "sdk-for-ios-explore-api-reference-protocols-linetilesource"
 slug: "sdk-for-ios-explore-api-reference-protocols-linetilesource"
 ---
 

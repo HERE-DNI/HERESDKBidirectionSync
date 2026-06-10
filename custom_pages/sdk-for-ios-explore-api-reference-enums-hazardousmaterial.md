@@ -1,5 +1,5 @@
 ---
-title: "Routing / HazardousMaterial"
+title: "sdk-for-ios-explore-api-reference-enums-hazardousmaterial"
 slug: "sdk-for-ios-explore-api-reference-enums-hazardousmaterial"
 ---
 

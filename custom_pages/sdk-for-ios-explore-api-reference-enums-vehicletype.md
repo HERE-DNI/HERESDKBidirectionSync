@@ -1,5 +1,5 @@
 ---
-title: "Transport / VehicleType"
+title: "sdk-for-ios-explore-api-reference-enums-vehicletype"
 slug: "sdk-for-ios-explore-api-reference-enums-vehicletype"
 ---
 
@@ -30,7 +30,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-vehicletype"
 <h1>VehicleType</h1>
 <div class="declaration">
 <div class="language">
-<pre class="highlight swift"><code><span class="kd">@available(*, deprecated, message: "Will be removed in v4.28.0. Use <code>sdk.transport.TransportMode</code> instead.")</span>
+<pre class="highlight swift"><code><span class="kd">@available(*, deprecated, message: "Will be removed in v4.28.0. Use `sdk.transport.TransportMode` instead.")</span>
 <span class="kd">public</span> <span class="kd">enum</span> <span class="kt">VehicleType</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>

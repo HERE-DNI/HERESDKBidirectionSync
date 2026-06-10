@@ -1,5 +1,5 @@
 ---
-title: "Routing / Waypoint"
+title: "sdk-for-ios-explore-api-reference-structs-waypoint"
 slug: "sdk-for-ios-explore-api-reference-structs-waypoint"
 ---
 

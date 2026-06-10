@@ -1,5 +1,5 @@
 ---
-title: "Routing / PostActionType"
+title: "sdk-for-ios-explore-api-reference-enums-postactiontype"
 slug: "sdk-for-ios-explore-api-reference-enums-postactiontype"
 ---
 

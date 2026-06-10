@@ -1,5 +1,5 @@
 ---
-title: "Search / TextQuery"
+title: "sdk-for-ios-explore-api-reference-structs-textquery"
 slug: "sdk-for-ios-explore-api-reference-structs-textquery"
 ---
 

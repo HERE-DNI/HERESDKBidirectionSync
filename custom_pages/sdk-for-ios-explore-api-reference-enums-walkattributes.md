@@ -1,5 +1,5 @@
 ---
-title: "Routing / WalkAttributes"
+title: "sdk-for-ios-explore-api-reference-enums-walkattributes"
 slug: "sdk-for-ios-explore-api-reference-enums-walkattributes"
 ---
 

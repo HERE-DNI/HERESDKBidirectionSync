@@ -1,5 +1,5 @@
 ---
-title: "Routing / EmpiricalConsumptionModel"
+title: "sdk-for-ios-explore-api-reference-structs-empiricalconsumptionmodel"
 slug: "sdk-for-ios-explore-api-reference-structs-empiricalconsumptionmodel"
 ---
 

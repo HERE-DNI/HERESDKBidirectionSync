@@ -1,5 +1,5 @@
 ---
-title: "Core / LogControl"
+title: "sdk-for-ios-explore-api-reference-classes-logcontrol"
 slug: "sdk-for-ios-explore-api-reference-classes-logcontrol"
 ---
 

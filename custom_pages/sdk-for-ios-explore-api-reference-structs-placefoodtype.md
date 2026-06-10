@@ -1,5 +1,5 @@
 ---
-title: "Search / PlaceFoodType"
+title: "sdk-for-ios-explore-api-reference-structs-placefoodtype"
 slug: "sdk-for-ios-explore-api-reference-structs-placefoodtype"
 ---
 

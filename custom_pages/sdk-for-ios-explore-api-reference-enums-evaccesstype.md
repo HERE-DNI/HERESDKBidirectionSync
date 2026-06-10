@@ -1,5 +1,5 @@
 ---
-title: "Search / EVAccessType"
+title: "sdk-for-ios-explore-api-reference-enums-evaccesstype"
 slug: "sdk-for-ios-explore-api-reference-enums-evaccesstype"
 ---
 

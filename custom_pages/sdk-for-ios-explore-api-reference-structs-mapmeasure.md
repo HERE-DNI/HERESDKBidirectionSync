@@ -1,5 +1,5 @@
 ---
-title: "Maps / MapMeasure"
+title: "sdk-for-ios-explore-api-reference-structs-mapmeasure"
 slug: "sdk-for-ios-explore-api-reference-structs-mapmeasure"
 ---
 

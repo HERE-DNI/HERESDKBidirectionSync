@@ -1,5 +1,5 @@
 ---
-title: "Search / DateRange"
+title: "sdk-for-ios-explore-api-reference-structs-daterange"
 slug: "sdk-for-ios-explore-api-reference-structs-daterange"
 ---
 

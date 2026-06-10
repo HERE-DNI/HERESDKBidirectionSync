@@ -1,5 +1,5 @@
 ---
-title: "Transport / TransportSpecification"
+title: "sdk-for-ios-explore-api-reference-structs-transportspecification"
 slug: "sdk-for-ios-explore-api-reference-structs-transportspecification"
 ---
 

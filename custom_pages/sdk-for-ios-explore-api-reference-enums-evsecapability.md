@@ -1,5 +1,5 @@
 ---
-title: "EV / EVSECapability"
+title: "sdk-for-ios-explore-api-reference-enums-evsecapability"
 slug: "sdk-for-ios-explore-api-reference-enums-evsecapability"
 ---
 

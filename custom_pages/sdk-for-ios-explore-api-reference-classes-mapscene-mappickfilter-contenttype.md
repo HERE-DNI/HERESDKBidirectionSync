@@ -1,5 +1,5 @@
 ---
-title: "MapPickFilter / ContentType"
+title: "sdk-for-ios-explore-api-reference-classes-mapscene-mappickfilter-contenttype"
 slug: "sdk-for-ios-explore-api-reference-classes-mapscene-mappickfilter-contenttype"
 ---
 

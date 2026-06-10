@@ -1,5 +1,5 @@
 ---
-title: "Maps / ImageFormat"
+title: "sdk-for-ios-explore-api-reference-enums-imageformat"
 slug: "sdk-for-ios-explore-api-reference-enums-imageformat"
 ---
 

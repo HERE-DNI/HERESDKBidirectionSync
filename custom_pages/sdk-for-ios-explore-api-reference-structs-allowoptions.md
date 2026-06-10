@@ -1,5 +1,5 @@
 ---
-title: "Routing / AllowOptions"
+title: "sdk-for-ios-explore-api-reference-structs-allowoptions"
 slug: "sdk-for-ios-explore-api-reference-structs-allowoptions"
 ---
 

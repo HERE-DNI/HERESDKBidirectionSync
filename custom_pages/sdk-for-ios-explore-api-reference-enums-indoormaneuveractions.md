@@ -1,5 +1,5 @@
 ---
-title: "Other Enumerations / IndoorManeuverActions"
+title: "sdk-for-ios-explore-api-reference-enums-indoormaneuveractions"
 slug: "sdk-for-ios-explore-api-reference-enums-indoormaneuveractions"
 ---
 

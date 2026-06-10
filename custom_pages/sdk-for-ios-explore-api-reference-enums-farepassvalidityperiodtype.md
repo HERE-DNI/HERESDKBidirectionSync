@@ -1,5 +1,5 @@
 ---
-title: "Routing / FarePassValidityPeriodType"
+title: "sdk-for-ios-explore-api-reference-enums-farepassvalidityperiodtype"
 slug: "sdk-for-ios-explore-api-reference-enums-farepassvalidityperiodtype"
 ---
 

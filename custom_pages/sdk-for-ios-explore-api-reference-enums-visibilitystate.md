@@ -1,5 +1,5 @@
 ---
-title: "Maps / VisibilityState"
+title: "sdk-for-ios-explore-api-reference-enums-visibilitystate"
 slug: "sdk-for-ios-explore-api-reference-enums-visibilitystate"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Search / WebDetails"
+title: "sdk-for-ios-explore-api-reference-structs-webdetails"
 slug: "sdk-for-ios-explore-api-reference-structs-webdetails"
 ---
 

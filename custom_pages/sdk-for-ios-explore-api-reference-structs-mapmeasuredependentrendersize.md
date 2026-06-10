@@ -1,5 +1,5 @@
 ---
-title: "Maps / MapMeasureDependentRenderSize"
+title: "sdk-for-ios-explore-api-reference-structs-mapmeasuredependentrendersize"
 slug: "sdk-for-ios-explore-api-reference-structs-mapmeasuredependentrendersize"
 ---
 

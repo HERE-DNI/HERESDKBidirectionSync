@@ -1,5 +1,5 @@
 ---
-title: "Transport / TransportMode"
+title: "sdk-for-ios-explore-api-reference-enums-transportmode"
 slug: "sdk-for-ios-explore-api-reference-enums-transportmode"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Search / SearchEngine"
+title: "sdk-for-ios-explore-api-reference-classes-searchengine"
 slug: "sdk-for-ios-explore-api-reference-classes-searchengine"
 ---
 

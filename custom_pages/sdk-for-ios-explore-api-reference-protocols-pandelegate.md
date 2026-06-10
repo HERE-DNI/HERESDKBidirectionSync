@@ -1,5 +1,5 @@
 ---
-title: "Maps / PanDelegate"
+title: "sdk-for-ios-explore-api-reference-protocols-pandelegate"
 slug: "sdk-for-ios-explore-api-reference-protocols-pandelegate"
 ---
 

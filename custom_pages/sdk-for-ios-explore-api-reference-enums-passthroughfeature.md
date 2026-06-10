@@ -1,5 +1,5 @@
 ---
-title: "Core / PassThroughFeature"
+title: "sdk-for-ios-explore-api-reference-enums-passthroughfeature"
 slug: "sdk-for-ios-explore-api-reference-enums-passthroughfeature"
 ---
 

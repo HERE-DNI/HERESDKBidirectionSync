@@ -1,5 +1,5 @@
 ---
-title: "Routing / MaxSpeedOnSegment"
+title: "sdk-for-ios-explore-api-reference-structs-maxspeedonsegment"
 slug: "sdk-for-ios-explore-api-reference-structs-maxspeedonsegment"
 ---
 

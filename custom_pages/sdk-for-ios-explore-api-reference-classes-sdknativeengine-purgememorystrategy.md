@@ -1,5 +1,5 @@
 ---
-title: "SDKNativeEngine / PurgeMemoryStrategy"
+title: "sdk-for-ios-explore-api-reference-classes-sdknativeengine-purgememorystrategy"
 slug: "sdk-for-ios-explore-api-reference-classes-sdknativeengine-purgememorystrategy"
 ---
 

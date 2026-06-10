@@ -1,5 +1,5 @@
 ---
-title: "Traffic / TrafficIncidentBase"
+title: "sdk-for-ios-explore-api-reference-protocols-trafficincidentbase"
 slug: "sdk-for-ios-explore-api-reference-protocols-trafficincidentbase"
 ---
 

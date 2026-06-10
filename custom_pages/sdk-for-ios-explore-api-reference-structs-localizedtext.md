@@ -1,5 +1,5 @@
 ---
-title: "Core / LocalizedText"
+title: "sdk-for-ios-explore-api-reference-structs-localizedtext"
 slug: "sdk-for-ios-explore-api-reference-structs-localizedtext"
 ---
 

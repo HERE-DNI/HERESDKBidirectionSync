@@ -1,5 +1,5 @@
 ---
-title: "Maps / MapMarker3D"
+title: "sdk-for-ios-explore-api-reference-classes-mapmarker3d"
 slug: "sdk-for-ios-explore-api-reference-classes-mapmarker3d"
 ---
 

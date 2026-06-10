@@ -1,5 +1,5 @@
 ---
-title: "Maps / TileSourceLoadTileRequestHandle"
+title: "sdk-for-ios-explore-api-reference-protocols-tilesourceloadtilerequesthandle"
 slug: "sdk-for-ios-explore-api-reference-protocols-tilesourceloadtilerequesthandle"
 ---
 

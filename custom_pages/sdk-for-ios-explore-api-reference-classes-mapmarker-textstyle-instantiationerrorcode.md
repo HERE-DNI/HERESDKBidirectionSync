@@ -1,5 +1,5 @@
 ---
-title: "TextStyle / InstantiationErrorCode"
+title: "sdk-for-ios-explore-api-reference-classes-mapmarker-textstyle-instantiationerrorcode"
 slug: "sdk-for-ios-explore-api-reference-classes-mapmarker-textstyle-instantiationerrorcode"
 ---
 

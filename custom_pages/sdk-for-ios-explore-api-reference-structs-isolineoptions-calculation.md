@@ -1,5 +1,5 @@
 ---
-title: "IsolineOptions / Calculation"
+title: "sdk-for-ios-explore-api-reference-structs-isolineoptions-calculation"
 slug: "sdk-for-ios-explore-api-reference-structs-isolineoptions-calculation"
 ---
 

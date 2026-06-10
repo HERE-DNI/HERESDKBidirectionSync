@@ -1,5 +1,5 @@
 ---
-title: "Core / Anchor2DKeyframe"
+title: "sdk-for-ios-explore-api-reference-structs-anchor2dkeyframe"
 slug: "sdk-for-ios-explore-api-reference-structs-anchor2dkeyframe"
 ---
 

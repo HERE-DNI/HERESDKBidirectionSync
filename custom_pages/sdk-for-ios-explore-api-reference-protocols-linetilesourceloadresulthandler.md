@@ -1,5 +1,5 @@
 ---
-title: "Maps / LineTileSourceLoadResultHandler"
+title: "sdk-for-ios-explore-api-reference-protocols-linetilesourceloadresulthandler"
 slug: "sdk-for-ios-explore-api-reference-protocols-linetilesourceloadresulthandler"
 ---
 

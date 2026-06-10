@@ -1,5 +1,5 @@
 ---
-title: "MapContext / MemoryManagementOptions"
+title: "sdk-for-ios-explore-api-reference-classes-mapcontext-memorymanagementoptions"
 slug: "sdk-for-ios-explore-api-reference-classes-mapcontext-memorymanagementoptions"
 ---
 

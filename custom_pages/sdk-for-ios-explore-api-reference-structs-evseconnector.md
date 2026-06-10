@@ -1,5 +1,5 @@
 ---
-title: "Search / EVSEConnector"
+title: "sdk-for-ios-explore-api-reference-structs-evseconnector"
 slug: "sdk-for-ios-explore-api-reference-structs-evseconnector"
 ---
 

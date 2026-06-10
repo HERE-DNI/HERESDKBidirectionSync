@@ -1,5 +1,5 @@
 ---
-title: "Routing / EVChargingPool"
+title: "sdk-for-ios-explore-api-reference-structs-evchargingpool"
 slug: "sdk-for-ios-explore-api-reference-structs-evchargingpool"
 ---
 

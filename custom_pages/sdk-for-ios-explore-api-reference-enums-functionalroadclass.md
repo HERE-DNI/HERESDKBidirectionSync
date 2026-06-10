@@ -1,5 +1,5 @@
 ---
-title: "Routing / FunctionalRoadClass"
+title: "sdk-for-ios-explore-api-reference-enums-functionalroadclass"
 slug: "sdk-for-ios-explore-api-reference-enums-functionalroadclass"
 ---
 

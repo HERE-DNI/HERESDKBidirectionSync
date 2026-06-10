@@ -1,5 +1,5 @@
 ---
-title: "Search / ParkingType"
+title: "sdk-for-ios-explore-api-reference-enums-parkingtype"
 slug: "sdk-for-ios-explore-api-reference-enums-parkingtype"
 ---
 

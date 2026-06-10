@@ -1,5 +1,5 @@
 ---
-title: "Core / RouteType"
+title: "sdk-for-ios-explore-api-reference-enums-routetype"
 slug: "sdk-for-ios-explore-api-reference-enums-routetype"
 ---
 

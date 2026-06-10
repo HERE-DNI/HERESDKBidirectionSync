@@ -1,5 +1,5 @@
 ---
-title: "Search / IndexRange"
+title: "sdk-for-ios-explore-api-reference-classes-indexrange"
 slug: "sdk-for-ios-explore-api-reference-classes-indexrange"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "MapMarkerCluster / Grouping"
+title: "sdk-for-ios-explore-api-reference-classes-mapmarkercluster-grouping"
 slug: "sdk-for-ios-explore-api-reference-classes-mapmarkercluster-grouping"
 ---
 

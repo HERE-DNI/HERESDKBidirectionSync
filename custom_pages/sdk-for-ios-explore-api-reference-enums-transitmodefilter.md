@@ -1,5 +1,5 @@
 ---
-title: "Routing / TransitModeFilter"
+title: "sdk-for-ios-explore-api-reference-enums-transitmodefilter"
 slug: "sdk-for-ios-explore-api-reference-enums-transitmodefilter"
 ---
 

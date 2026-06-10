@@ -1,5 +1,5 @@
 ---
-title: "Core / SDKLogger"
+title: "sdk-for-ios-explore-api-reference-classes-sdklogger"
 slug: "sdk-for-ios-explore-api-reference-classes-sdklogger"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Core / AuthenticationMode"
+title: "sdk-for-ios-explore-api-reference-classes-authenticationmode"
 slug: "sdk-for-ios-explore-api-reference-classes-authenticationmode"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Search / SuggestionType"
+title: "sdk-for-ios-explore-api-reference-enums-suggestiontype"
 slug: "sdk-for-ios-explore-api-reference-enums-suggestiontype"
 ---
 

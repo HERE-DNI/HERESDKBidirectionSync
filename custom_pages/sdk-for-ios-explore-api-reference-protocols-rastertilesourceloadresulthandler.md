@@ -1,5 +1,5 @@
 ---
-title: "Maps / RasterTileSourceLoadResultHandler"
+title: "sdk-for-ios-explore-api-reference-protocols-rastertilesourceloadresulthandler"
 slug: "sdk-for-ios-explore-api-reference-protocols-rastertilesourceloadresulthandler"
 ---
 

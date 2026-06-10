@@ -1,5 +1,5 @@
 ---
-title: "Maps / MapScheme"
+title: "sdk-for-ios-explore-api-reference-enums-mapscheme"
 slug: "sdk-for-ios-explore-api-reference-enums-mapscheme"
 ---
 

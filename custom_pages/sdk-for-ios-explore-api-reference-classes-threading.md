@@ -1,5 +1,5 @@
 ---
-title: "Core / Threading"
+title: "sdk-for-ios-explore-api-reference-classes-threading"
 slug: "sdk-for-ios-explore-api-reference-classes-threading"
 ---
 

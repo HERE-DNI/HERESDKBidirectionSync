@@ -1,5 +1,5 @@
 ---
-title: "Maps / WatermarkStyle"
+title: "sdk-for-ios-explore-api-reference-enums-watermarkstyle"
 slug: "sdk-for-ios-explore-api-reference-enums-watermarkstyle"
 ---
 

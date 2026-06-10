@@ -1,5 +1,5 @@
 ---
-title: "MapLoader / LineDataSourceBuilder"
+title: "sdk-for-ios-explore-api-reference-classes-linedatasourcebuilder"
 slug: "sdk-for-ios-explore-api-reference-classes-linedatasourcebuilder"
 ---
 

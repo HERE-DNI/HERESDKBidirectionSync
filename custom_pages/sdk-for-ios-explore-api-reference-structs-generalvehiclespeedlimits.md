@@ -1,5 +1,5 @@
 ---
-title: "Transport / GeneralVehicleSpeedLimits"
+title: "sdk-for-ios-explore-api-reference-structs-generalvehiclespeedlimits"
 slug: "sdk-for-ios-explore-api-reference-structs-generalvehiclespeedlimits"
 ---
 

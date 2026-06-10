@@ -1,5 +1,5 @@
 ---
-title: "MapPolylineAnimation / InstantiationErrorCode"
+title: "sdk-for-ios-explore-api-reference-classes-mappolylineanimation-instantiationerrorcode"
 slug: "sdk-for-ios-explore-api-reference-classes-mappolylineanimation-instantiationerrorcode"
 ---
 

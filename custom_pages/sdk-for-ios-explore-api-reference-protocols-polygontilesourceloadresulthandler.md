@@ -1,5 +1,5 @@
 ---
-title: "Maps / PolygonTileSourceLoadResultHandler"
+title: "sdk-for-ios-explore-api-reference-protocols-polygontilesourceloadresulthandler"
 slug: "sdk-for-ios-explore-api-reference-protocols-polygontilesourceloadresulthandler"
 ---
 

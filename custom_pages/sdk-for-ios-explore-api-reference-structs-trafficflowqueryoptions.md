@@ -1,5 +1,5 @@
 ---
-title: "Traffic / TrafficFlowQueryOptions"
+title: "sdk-for-ios-explore-api-reference-structs-trafficflowqueryoptions"
 slug: "sdk-for-ios-explore-api-reference-structs-trafficflowqueryoptions"
 ---
 

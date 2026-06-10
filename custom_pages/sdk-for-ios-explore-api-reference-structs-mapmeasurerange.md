@@ -1,5 +1,5 @@
 ---
-title: "Maps / MapMeasureRange"
+title: "sdk-for-ios-explore-api-reference-structs-mapmeasurerange"
 slug: "sdk-for-ios-explore-api-reference-structs-mapmeasurerange"
 ---
 

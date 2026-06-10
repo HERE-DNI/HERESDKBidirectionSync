@@ -1,5 +1,5 @@
 ---
-title: "Core / SDKInternalInitializer"
+title: "sdk-for-ios-explore-api-reference-classes-sdkinternalinitializer"
 slug: "sdk-for-ios-explore-api-reference-classes-sdkinternalinitializer"
 ---
 

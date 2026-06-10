@@ -1,5 +1,5 @@
 ---
-title: "Routing / IsolineCalculationMode"
+title: "sdk-for-ios-explore-api-reference-enums-isolinecalculationmode"
 slug: "sdk-for-ios-explore-api-reference-enums-isolinecalculationmode"
 ---
 

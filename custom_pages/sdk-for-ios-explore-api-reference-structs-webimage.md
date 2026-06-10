@@ -1,5 +1,5 @@
 ---
-title: "Search / WebImage"
+title: "sdk-for-ios-explore-api-reference-structs-webimage"
 slug: "sdk-for-ios-explore-api-reference-structs-webimage"
 ---
 

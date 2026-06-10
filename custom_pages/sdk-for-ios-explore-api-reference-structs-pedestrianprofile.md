@@ -1,5 +1,5 @@
 ---
-title: "Core / PedestrianProfile"
+title: "sdk-for-ios-explore-api-reference-structs-pedestrianprofile"
 slug: "sdk-for-ios-explore-api-reference-structs-pedestrianprofile"
 ---
 
@@ -30,7 +30,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-pedestrianprofile"
 <h1>PedestrianProfile</h1>
 <div class="declaration">
 <div class="language">
-<pre class="highlight swift"><code><span class="kd">@available(*, deprecated, message: "Will be removed in v4.28.0. Use <code>sdk.transport.TransportSpecification</code> instead.")</span>
+<pre class="highlight swift"><code><span class="kd">@available(*, deprecated, message: "Will be removed in v4.28.0. Use `sdk.transport.TransportSpecification` instead.")</span>
 <span class="kd">public</span> <span class="kd">struct</span> <span class="kt">PedestrianProfile</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>

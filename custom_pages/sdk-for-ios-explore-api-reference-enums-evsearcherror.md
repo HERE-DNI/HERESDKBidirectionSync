@@ -1,5 +1,5 @@
 ---
-title: "Search / EVSearchError"
+title: "sdk-for-ios-explore-api-reference-enums-evsearcherror"
 slug: "sdk-for-ios-explore-api-reference-enums-evsearcherror"
 ---
 

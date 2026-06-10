@@ -1,5 +1,5 @@
 ---
-title: "Other Classes / IndoorSectionDetails"
+title: "sdk-for-ios-explore-api-reference-classes-indoorsectiondetails"
 slug: "sdk-for-ios-explore-api-reference-classes-indoorsectiondetails"
 ---
 

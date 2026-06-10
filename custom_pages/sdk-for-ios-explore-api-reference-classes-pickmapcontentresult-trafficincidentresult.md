@@ -1,5 +1,5 @@
 ---
-title: "PickMapContentResult / TrafficIncidentResult"
+title: "sdk-for-ios-explore-api-reference-classes-pickmapcontentresult-trafficincidentresult"
 slug: "sdk-for-ios-explore-api-reference-classes-pickmapcontentresult-trafficincidentresult"
 ---
 

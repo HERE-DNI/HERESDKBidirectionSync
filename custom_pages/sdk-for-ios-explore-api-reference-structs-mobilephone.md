@@ -1,5 +1,5 @@
 ---
-title: "Search / MobilePhone"
+title: "sdk-for-ios-explore-api-reference-structs-mobilephone"
 slug: "sdk-for-ios-explore-api-reference-structs-mobilephone"
 ---
 

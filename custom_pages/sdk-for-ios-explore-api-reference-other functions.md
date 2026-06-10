@@ -1,5 +1,5 @@
 ---
-title: "Other Functions"
+title: "sdk-for-ios-explore-api-reference-other functions"
 slug: "sdk-for-ios-explore-api-reference-other functions"
 ---
 

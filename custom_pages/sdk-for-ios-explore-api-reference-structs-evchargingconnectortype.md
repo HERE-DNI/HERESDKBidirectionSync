@@ -1,5 +1,5 @@
 ---
-title: "EV / EVChargingConnectorType"
+title: "sdk-for-ios-explore-api-reference-structs-evchargingconnectortype"
 slug: "sdk-for-ios-explore-api-reference-structs-evchargingconnectortype"
 ---
 

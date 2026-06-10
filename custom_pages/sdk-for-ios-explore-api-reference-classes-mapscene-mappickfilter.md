@@ -1,5 +1,5 @@
 ---
-title: "MapScene / MapPickFilter"
+title: "sdk-for-ios-explore-api-reference-classes-mapscene-mappickfilter"
 slug: "sdk-for-ios-explore-api-reference-classes-mapscene-mappickfilter"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Routing / FareReason"
+title: "sdk-for-ios-explore-api-reference-enums-farereason"
 slug: "sdk-for-ios-explore-api-reference-enums-farereason"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Core / GeoOrientation"
+title: "sdk-for-ios-explore-api-reference-structs-geoorientation"
 slug: "sdk-for-ios-explore-api-reference-structs-geoorientation"
 ---
 

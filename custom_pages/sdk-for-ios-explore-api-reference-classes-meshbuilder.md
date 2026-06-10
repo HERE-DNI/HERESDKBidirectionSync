@@ -1,5 +1,5 @@
 ---
-title: "Maps / MeshBuilder"
+title: "sdk-for-ios-explore-api-reference-classes-meshbuilder"
 slug: "sdk-for-ios-explore-api-reference-classes-meshbuilder"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Maps / TileKey"
+title: "sdk-for-ios-explore-api-reference-structs-tilekey"
 slug: "sdk-for-ios-explore-api-reference-structs-tilekey"
 ---
 

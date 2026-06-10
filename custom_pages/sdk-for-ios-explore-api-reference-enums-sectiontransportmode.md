@@ -1,5 +1,5 @@
 ---
-title: "Routing / SectionTransportMode"
+title: "sdk-for-ios-explore-api-reference-enums-sectiontransportmode"
 slug: "sdk-for-ios-explore-api-reference-enums-sectiontransportmode"
 ---
 

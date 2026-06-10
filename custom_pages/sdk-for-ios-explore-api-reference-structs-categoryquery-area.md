@@ -1,5 +1,5 @@
 ---
-title: "CategoryQuery / Area"
+title: "sdk-for-ios-explore-api-reference-structs-categoryquery-area"
 slug: "sdk-for-ios-explore-api-reference-structs-categoryquery-area"
 ---
 

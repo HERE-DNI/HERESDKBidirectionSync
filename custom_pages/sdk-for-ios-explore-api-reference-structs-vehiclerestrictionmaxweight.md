@@ -1,5 +1,5 @@
 ---
-title: "Routing / VehicleRestrictionMaxWeight"
+title: "sdk-for-ios-explore-api-reference-structs-vehiclerestrictionmaxweight"
 slug: "sdk-for-ios-explore-api-reference-structs-vehiclerestrictionmaxweight"
 ---
 

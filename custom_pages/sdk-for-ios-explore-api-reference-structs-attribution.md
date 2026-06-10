@@ -1,5 +1,5 @@
 ---
-title: "Routing / Attribution"
+title: "sdk-for-ios-explore-api-reference-structs-attribution"
 slug: "sdk-for-ios-explore-api-reference-structs-attribution"
 ---
 

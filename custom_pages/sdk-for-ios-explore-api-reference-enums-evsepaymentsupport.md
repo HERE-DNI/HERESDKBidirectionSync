@@ -1,5 +1,5 @@
 ---
-title: "EV / EVSEPaymentSupport"
+title: "sdk-for-ios-explore-api-reference-enums-evsepaymentsupport"
 slug: "sdk-for-ios-explore-api-reference-enums-evsepaymentsupport"
 ---
 

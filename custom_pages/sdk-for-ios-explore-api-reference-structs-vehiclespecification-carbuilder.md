@@ -1,5 +1,5 @@
 ---
-title: "VehicleSpecification / CarBuilder"
+title: "sdk-for-ios-explore-api-reference-structs-vehiclespecification-carbuilder"
 slug: "sdk-for-ios-explore-api-reference-structs-vehiclespecification-carbuilder"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Search / EVChargingTariffRequest"
+title: "sdk-for-ios-explore-api-reference-structs-evchargingtariffrequest"
 slug: "sdk-for-ios-explore-api-reference-structs-evchargingtariffrequest"
 ---
 

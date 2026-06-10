@@ -1,5 +1,5 @@
 ---
-title: "Search / EVChargingConnector"
+title: "sdk-for-ios-explore-api-reference-structs-evchargingconnector"
 slug: "sdk-for-ios-explore-api-reference-structs-evchargingconnector"
 ---
 

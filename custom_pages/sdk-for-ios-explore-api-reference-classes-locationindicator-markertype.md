@@ -1,5 +1,5 @@
 ---
-title: "LocationIndicator / MarkerType"
+title: "sdk-for-ios-explore-api-reference-classes-locationindicator-markertype"
 slug: "sdk-for-ios-explore-api-reference-classes-locationindicator-markertype"
 ---
 

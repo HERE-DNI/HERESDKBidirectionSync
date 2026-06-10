@@ -1,5 +1,5 @@
 ---
-title: "Core / SDKOptions"
+title: "sdk-for-ios-explore-api-reference-structs-sdkoptions"
 slug: "sdk-for-ios-explore-api-reference-structs-sdkoptions"
 ---
 

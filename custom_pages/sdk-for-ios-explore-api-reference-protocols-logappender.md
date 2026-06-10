@@ -1,5 +1,5 @@
 ---
-title: "Core / LogAppender"
+title: "sdk-for-ios-explore-api-reference-protocols-logappender"
 slug: "sdk-for-ios-explore-api-reference-protocols-logappender"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Routing / TollFarePass"
+title: "sdk-for-ios-explore-api-reference-structs-tollfarepass"
 slug: "sdk-for-ios-explore-api-reference-structs-tollfarepass"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Routing / BatterySpecifications"
+title: "sdk-for-ios-explore-api-reference-structs-batteryspecifications"
 slug: "sdk-for-ios-explore-api-reference-structs-batteryspecifications"
 ---
 

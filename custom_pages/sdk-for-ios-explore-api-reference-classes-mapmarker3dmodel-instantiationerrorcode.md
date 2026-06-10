@@ -1,5 +1,5 @@
 ---
-title: "MapMarker3DModel / InstantiationErrorCode"
+title: "sdk-for-ios-explore-api-reference-classes-mapmarker3dmodel-instantiationerrorcode"
 slug: "sdk-for-ios-explore-api-reference-classes-mapmarker3dmodel-instantiationerrorcode"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Transport / TruckFuelType"
+title: "sdk-for-ios-explore-api-reference-enums-truckfueltype"
 slug: "sdk-for-ios-explore-api-reference-enums-truckfueltype"
 ---
 

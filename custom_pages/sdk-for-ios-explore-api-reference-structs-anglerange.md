@@ -1,5 +1,5 @@
 ---
-title: "Core / AngleRange"
+title: "sdk-for-ios-explore-api-reference-structs-anglerange"
 slug: "sdk-for-ios-explore-api-reference-structs-anglerange"
 ---
 

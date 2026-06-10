@@ -1,5 +1,5 @@
 ---
-title: "Core / CustomMetadataValue"
+title: "sdk-for-ios-explore-api-reference-protocols-custommetadatavalue"
 slug: "sdk-for-ios-explore-api-reference-protocols-custommetadatavalue"
 ---
 

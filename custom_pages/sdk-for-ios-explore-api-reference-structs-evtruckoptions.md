@@ -1,5 +1,5 @@
 ---
-title: "Routing / EVTruckOptions"
+title: "sdk-for-ios-explore-api-reference-structs-evtruckoptions"
 slug: "sdk-for-ios-explore-api-reference-structs-evtruckoptions"
 ---
 
@@ -30,7 +30,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-evtruckoptions"
 <h1>EVTruckOptions</h1>
 <div class="declaration">
 <div class="language">
-<pre class="highlight swift"><code><span class="kd">@available(*, deprecated, message: "Will be removed in v4.28.0. Use <code>RoutingOptions</code> class instead.")</span>
+<pre class="highlight swift"><code><span class="kd">@available(*, deprecated, message: "Will be removed in v4.28.0. Use `RoutingOptions` class instead.")</span>
 <span class="kd">public</span> <span class="kd">struct</span> <span class="kt">EVTruckOptions</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>

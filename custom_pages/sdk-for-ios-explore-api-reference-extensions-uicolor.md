@@ -1,5 +1,5 @@
 ---
-title: "Core / UIColor"
+title: "sdk-for-ios-explore-api-reference-extensions-uicolor"
 slug: "sdk-for-ios-explore-api-reference-extensions-uicolor"
 ---
 

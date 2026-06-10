@@ -1,5 +1,5 @@
 ---
-title: "Core / PickedPlace"
+title: "sdk-for-ios-explore-api-reference-structs-pickedplace"
 slug: "sdk-for-ios-explore-api-reference-structs-pickedplace"
 ---
 

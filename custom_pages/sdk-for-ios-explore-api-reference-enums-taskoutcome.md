@@ -1,5 +1,5 @@
 ---
-title: "Core / TaskOutcome"
+title: "sdk-for-ios-explore-api-reference-enums-taskoutcome"
 slug: "sdk-for-ios-explore-api-reference-enums-taskoutcome"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Core / GeoBox"
+title: "sdk-for-ios-explore-api-reference-structs-geobox"
 slug: "sdk-for-ios-explore-api-reference-structs-geobox"
 ---
 

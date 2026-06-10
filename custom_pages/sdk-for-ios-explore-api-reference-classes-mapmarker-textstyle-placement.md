@@ -1,5 +1,5 @@
 ---
-title: "TextStyle / Placement"
+title: "sdk-for-ios-explore-api-reference-classes-mapmarker-textstyle-placement"
 slug: "sdk-for-ios-explore-api-reference-classes-mapmarker-textstyle-placement"
 ---
 

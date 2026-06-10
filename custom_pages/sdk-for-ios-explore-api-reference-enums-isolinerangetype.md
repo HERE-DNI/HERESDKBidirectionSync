@@ -1,5 +1,5 @@
 ---
-title: "Routing / IsolineRangeType"
+title: "sdk-for-ios-explore-api-reference-enums-isolinerangetype"
 slug: "sdk-for-ios-explore-api-reference-enums-isolinerangetype"
 ---
 

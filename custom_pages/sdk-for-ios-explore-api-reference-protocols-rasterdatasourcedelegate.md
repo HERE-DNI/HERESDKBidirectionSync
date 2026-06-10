@@ -1,5 +1,5 @@
 ---
-title: "Maps / RasterDataSourceDelegate"
+title: "sdk-for-ios-explore-api-reference-protocols-rasterdatasourcedelegate"
 slug: "sdk-for-ios-explore-api-reference-protocols-rasterdatasourcedelegate"
 ---
 

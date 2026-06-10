@@ -1,5 +1,5 @@
 ---
-title: "Other Enumerations / IndoorLevelChangeFeatures"
+title: "sdk-for-ios-explore-api-reference-enums-indoorlevelchangefeatures"
 slug: "sdk-for-ios-explore-api-reference-enums-indoorlevelchangefeatures"
 ---
 

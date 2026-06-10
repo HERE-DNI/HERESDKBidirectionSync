@@ -1,5 +1,5 @@
 ---
-title: "Routing / TransitRouteOptions"
+title: "sdk-for-ios-explore-api-reference-structs-transitrouteoptions"
 slug: "sdk-for-ios-explore-api-reference-structs-transitrouteoptions"
 ---
 

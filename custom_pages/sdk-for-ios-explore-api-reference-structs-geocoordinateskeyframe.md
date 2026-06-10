@@ -1,5 +1,5 @@
 ---
-title: "Maps / GeoCoordinatesKeyframe"
+title: "sdk-for-ios-explore-api-reference-structs-geocoordinateskeyframe"
 slug: "sdk-for-ios-explore-api-reference-structs-geocoordinateskeyframe"
 ---
 

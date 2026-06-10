@@ -1,5 +1,5 @@
 ---
-title: "DataAttributeValue / ValueType"
+title: "sdk-for-ios-explore-api-reference-classes-dataattributevalue-valuetype"
 slug: "sdk-for-ios-explore-api-reference-classes-dataattributevalue-valuetype"
 ---
 

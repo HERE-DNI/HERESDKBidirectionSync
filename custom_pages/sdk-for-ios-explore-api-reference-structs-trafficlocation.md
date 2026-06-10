@@ -1,5 +1,5 @@
 ---
-title: "Traffic / TrafficLocation"
+title: "sdk-for-ios-explore-api-reference-structs-trafficlocation"
 slug: "sdk-for-ios-explore-api-reference-structs-trafficlocation"
 ---
 

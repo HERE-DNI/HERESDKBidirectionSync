@@ -1,5 +1,5 @@
 ---
-title: "Core / JunctionsTraversability"
+title: "sdk-for-ios-explore-api-reference-enums-junctionstraversability"
 slug: "sdk-for-ios-explore-api-reference-enums-junctionstraversability"
 ---
 

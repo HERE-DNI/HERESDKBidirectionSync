@@ -1,5 +1,5 @@
 ---
-title: "Transport / TaxiSpecification"
+title: "sdk-for-ios-explore-api-reference-structs-taxispecification"
 slug: "sdk-for-ios-explore-api-reference-structs-taxispecification"
 ---
 

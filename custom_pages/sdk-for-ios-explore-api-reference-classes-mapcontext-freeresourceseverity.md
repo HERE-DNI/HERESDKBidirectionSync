@@ -1,5 +1,5 @@
 ---
-title: "MapContext / FreeResourceSeverity"
+title: "sdk-for-ios-explore-api-reference-classes-mapcontext-freeresourceseverity"
 slug: "sdk-for-ios-explore-api-reference-classes-mapcontext-freeresourceseverity"
 ---
 

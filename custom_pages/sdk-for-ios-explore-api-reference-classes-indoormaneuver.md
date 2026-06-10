@@ -1,5 +1,5 @@
 ---
-title: "Routing / IndoorManeuver"
+title: "sdk-for-ios-explore-api-reference-classes-indoormaneuver"
 slug: "sdk-for-ios-explore-api-reference-classes-indoormaneuver"
 ---
 

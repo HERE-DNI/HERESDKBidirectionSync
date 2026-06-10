@@ -1,5 +1,5 @@
 ---
-title: "Search / EVChargingOperator"
+title: "sdk-for-ios-explore-api-reference-structs-evchargingoperator"
 slug: "sdk-for-ios-explore-api-reference-structs-evchargingoperator"
 ---
 

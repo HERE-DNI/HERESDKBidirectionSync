@@ -1,5 +1,5 @@
 ---
-title: "RasterDataSourceConfiguration / Cache"
+title: "sdk-for-ios-explore-api-reference-structs-rasterdatasourceconfiguration-cache"
 slug: "sdk-for-ios-explore-api-reference-structs-rasterdatasourceconfiguration-cache"
 ---
 

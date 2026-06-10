@@ -1,5 +1,5 @@
 ---
-title: "Core / ParameterConfiguration"
+title: "sdk-for-ios-explore-api-reference-structs-parameterconfiguration"
 slug: "sdk-for-ios-explore-api-reference-structs-parameterconfiguration"
 ---
 

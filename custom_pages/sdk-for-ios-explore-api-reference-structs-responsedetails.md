@@ -1,5 +1,5 @@
 ---
-title: "Search / ResponseDetails"
+title: "sdk-for-ios-explore-api-reference-structs-responsedetails"
 slug: "sdk-for-ios-explore-api-reference-structs-responsedetails"
 ---
 

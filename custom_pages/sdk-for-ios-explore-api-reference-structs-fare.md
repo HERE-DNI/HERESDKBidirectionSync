@@ -1,5 +1,5 @@
 ---
-title: "Routing / Fare"
+title: "sdk-for-ios-explore-api-reference-structs-fare"
 slug: "sdk-for-ios-explore-api-reference-structs-fare"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "StructuredQuery / ResultType"
+title: "sdk-for-ios-explore-api-reference-structs-structuredquery-resulttype"
 slug: "sdk-for-ios-explore-api-reference-structs-structuredquery-resulttype"
 ---
 

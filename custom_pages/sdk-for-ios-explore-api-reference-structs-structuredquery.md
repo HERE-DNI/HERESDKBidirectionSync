@@ -1,5 +1,5 @@
 ---
-title: "Search / StructuredQuery"
+title: "sdk-for-ios-explore-api-reference-structs-structuredquery"
 slug: "sdk-for-ios-explore-api-reference-structs-structuredquery"
 ---
 

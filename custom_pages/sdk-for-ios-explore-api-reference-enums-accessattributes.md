@@ -1,5 +1,5 @@
 ---
-title: "Routing / AccessAttributes"
+title: "sdk-for-ios-explore-api-reference-enums-accessattributes"
 slug: "sdk-for-ios-explore-api-reference-enums-accessattributes"
 ---
 

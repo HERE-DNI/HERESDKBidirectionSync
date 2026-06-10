@@ -1,5 +1,5 @@
 ---
-title: "Search / EVChargingTruckRestriction"
+title: "sdk-for-ios-explore-api-reference-structs-evchargingtruckrestriction"
 slug: "sdk-for-ios-explore-api-reference-structs-evchargingtruckrestriction"
 ---
 

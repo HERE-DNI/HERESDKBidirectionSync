@@ -1,5 +1,5 @@
 ---
-title: "Routing / PhysicalConsumptionModel"
+title: "sdk-for-ios-explore-api-reference-structs-physicalconsumptionmodel"
 slug: "sdk-for-ios-explore-api-reference-structs-physicalconsumptionmodel"
 ---
 

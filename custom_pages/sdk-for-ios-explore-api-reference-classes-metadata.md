@@ -1,5 +1,5 @@
 ---
-title: "Core / Metadata"
+title: "sdk-for-ios-explore-api-reference-classes-metadata"
 slug: "sdk-for-ios-explore-api-reference-classes-metadata"
 ---
 

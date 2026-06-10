@@ -1,5 +1,5 @@
 ---
-title: "Maps / JsonStyleFactory"
+title: "sdk-for-ios-explore-api-reference-classes-jsonstylefactory"
 slug: "sdk-for-ios-explore-api-reference-classes-jsonstylefactory"
 ---
 

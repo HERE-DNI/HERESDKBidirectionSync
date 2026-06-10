@@ -1,5 +1,5 @@
 ---
-title: "Search / EVChargingOpeningHoursSchedule"
+title: "sdk-for-ios-explore-api-reference-structs-evchargingopeninghoursschedule"
 slug: "sdk-for-ios-explore-api-reference-structs-evchargingopeninghoursschedule"
 ---
 

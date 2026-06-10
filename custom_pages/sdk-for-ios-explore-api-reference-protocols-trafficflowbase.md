@@ -1,5 +1,5 @@
 ---
-title: "Traffic / TrafficFlowBase"
+title: "sdk-for-ios-explore-api-reference-protocols-trafficflowbase"
 slug: "sdk-for-ios-explore-api-reference-protocols-trafficflowbase"
 ---
 

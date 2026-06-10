@@ -1,5 +1,5 @@
 ---
-title: "Search / EVChargingLocation"
+title: "sdk-for-ios-explore-api-reference-classes-evcharginglocation"
 slug: "sdk-for-ios-explore-api-reference-classes-evcharginglocation"
 ---
 

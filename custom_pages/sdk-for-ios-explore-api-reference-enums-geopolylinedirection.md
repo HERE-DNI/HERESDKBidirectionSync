@@ -1,5 +1,5 @@
 ---
-title: "Core / GeoPolylineDirection"
+title: "sdk-for-ios-explore-api-reference-enums-geopolylinedirection"
 slug: "sdk-for-ios-explore-api-reference-enums-geopolylinedirection"
 ---
 

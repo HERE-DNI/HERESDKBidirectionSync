@@ -1,5 +1,5 @@
 ---
-title: "Core / Angle"
+title: "sdk-for-ios-explore-api-reference-classes-angle"
 slug: "sdk-for-ios-explore-api-reference-classes-angle"
 ---
 

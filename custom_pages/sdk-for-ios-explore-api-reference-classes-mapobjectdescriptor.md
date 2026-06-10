@@ -1,5 +1,5 @@
 ---
-title: "Maps / MapObjectDescriptor"
+title: "sdk-for-ios-explore-api-reference-classes-mapobjectdescriptor"
 slug: "sdk-for-ios-explore-api-reference-classes-mapobjectdescriptor"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "TransportSpecification / TruckBuilder"
+title: "sdk-for-ios-explore-api-reference-structs-transportspecification-truckbuilder"
 slug: "sdk-for-ios-explore-api-reference-structs-transportspecification-truckbuilder"
 ---
 

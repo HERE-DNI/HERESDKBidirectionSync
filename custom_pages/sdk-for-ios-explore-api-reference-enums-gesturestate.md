@@ -1,5 +1,5 @@
 ---
-title: "Maps / GestureState"
+title: "sdk-for-ios-explore-api-reference-enums-gesturestate"
 slug: "sdk-for-ios-explore-api-reference-enums-gesturestate"
 ---
 

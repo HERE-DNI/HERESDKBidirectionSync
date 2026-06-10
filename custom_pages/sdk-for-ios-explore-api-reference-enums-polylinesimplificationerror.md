@@ -1,5 +1,5 @@
 ---
-title: "Core / PolylineSimplificationError"
+title: "sdk-for-ios-explore-api-reference-enums-polylinesimplificationerror"
 slug: "sdk-for-ios-explore-api-reference-enums-polylinesimplificationerror"
 ---
 

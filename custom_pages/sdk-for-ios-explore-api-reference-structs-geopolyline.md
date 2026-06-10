@@ -1,5 +1,5 @@
 ---
-title: "Core / GeoPolyline"
+title: "sdk-for-ios-explore-api-reference-structs-geopolyline"
 slug: "sdk-for-ios-explore-api-reference-structs-geopolyline"
 ---
 

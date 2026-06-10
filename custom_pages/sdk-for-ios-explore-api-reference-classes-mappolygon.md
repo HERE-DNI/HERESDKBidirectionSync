@@ -1,5 +1,5 @@
 ---
-title: "Maps / MapPolygon"
+title: "sdk-for-ios-explore-api-reference-classes-mappolygon"
 slug: "sdk-for-ios-explore-api-reference-classes-mappolygon"
 ---
 

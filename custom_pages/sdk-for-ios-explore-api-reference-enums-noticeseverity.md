@@ -1,5 +1,5 @@
 ---
-title: "Routing / NoticeSeverity"
+title: "sdk-for-ios-explore-api-reference-enums-noticeseverity"
 slug: "sdk-for-ios-explore-api-reference-enums-noticeseverity"
 ---
 

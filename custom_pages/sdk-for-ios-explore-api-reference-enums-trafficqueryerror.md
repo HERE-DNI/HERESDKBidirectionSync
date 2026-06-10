@@ -1,5 +1,5 @@
 ---
-title: "Traffic / TrafficQueryError"
+title: "sdk-for-ios-explore-api-reference-enums-trafficqueryerror"
 slug: "sdk-for-ios-explore-api-reference-enums-trafficqueryerror"
 ---
 

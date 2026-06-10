@@ -1,5 +1,5 @@
 ---
-title: "Search / PlaceType"
+title: "sdk-for-ios-explore-api-reference-enums-placetype"
 slug: "sdk-for-ios-explore-api-reference-enums-placetype"
 ---
 

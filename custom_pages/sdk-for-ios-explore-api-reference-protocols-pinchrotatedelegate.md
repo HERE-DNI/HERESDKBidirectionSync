@@ -1,5 +1,5 @@
 ---
-title: "Maps / PinchRotateDelegate"
+title: "sdk-for-ios-explore-api-reference-protocols-pinchrotatedelegate"
 slug: "sdk-for-ios-explore-api-reference-protocols-pinchrotatedelegate"
 ---
 

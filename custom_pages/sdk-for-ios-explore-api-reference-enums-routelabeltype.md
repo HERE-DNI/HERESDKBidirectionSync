@@ -1,5 +1,5 @@
 ---
-title: "Routing / RouteLabelType"
+title: "sdk-for-ios-explore-api-reference-enums-routelabeltype"
 slug: "sdk-for-ios-explore-api-reference-enums-routelabeltype"
 ---
 

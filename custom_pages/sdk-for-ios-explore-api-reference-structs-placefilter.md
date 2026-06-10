@@ -1,5 +1,5 @@
 ---
-title: "Search / PlaceFilter"
+title: "sdk-for-ios-explore-api-reference-structs-placefilter"
 slug: "sdk-for-ios-explore-api-reference-structs-placefilter"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Routing / ChargingConnectorAttributes"
+title: "sdk-for-ios-explore-api-reference-structs-chargingconnectorattributes"
 slug: "sdk-for-ios-explore-api-reference-structs-chargingconnectorattributes"
 ---
 

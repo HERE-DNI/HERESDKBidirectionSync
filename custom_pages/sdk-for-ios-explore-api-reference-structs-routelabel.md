@@ -1,5 +1,5 @@
 ---
-title: "Routing / RouteLabel"
+title: "sdk-for-ios-explore-api-reference-structs-routelabel"
 slug: "sdk-for-ios-explore-api-reference-structs-routelabel"
 ---
 

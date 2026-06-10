@@ -1,5 +1,5 @@
 ---
-title: "Traffic / TrafficIncidentImpact"
+title: "sdk-for-ios-explore-api-reference-enums-trafficincidentimpact"
 slug: "sdk-for-ios-explore-api-reference-enums-trafficincidentimpact"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Routing / SideOfDestination"
+title: "sdk-for-ios-explore-api-reference-enums-sideofdestination"
 slug: "sdk-for-ios-explore-api-reference-enums-sideofdestination"
 ---
 

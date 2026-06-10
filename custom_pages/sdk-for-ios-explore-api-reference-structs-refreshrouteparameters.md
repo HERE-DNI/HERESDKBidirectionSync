@@ -1,5 +1,5 @@
 ---
-title: "Other Structures / RefreshRouteParameters"
+title: "sdk-for-ios-explore-api-reference-structs-refreshrouteparameters"
 slug: "sdk-for-ios-explore-api-reference-structs-refreshrouteparameters"
 ---
 

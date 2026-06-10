@@ -1,5 +1,5 @@
 ---
-title: "Maps / IconProviderAssetType"
+title: "sdk-for-ios-explore-api-reference-enums-iconproviderassettype"
 slug: "sdk-for-ios-explore-api-reference-enums-iconproviderassettype"
 ---
 

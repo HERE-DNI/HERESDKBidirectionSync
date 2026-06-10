@@ -1,5 +1,5 @@
 ---
-title: "TranslucentMapLayerGroup / ErrorDetails"
+title: "sdk-for-ios-explore-api-reference-classes-translucentmaplayergroup-errordetails"
 slug: "sdk-for-ios-explore-api-reference-classes-translucentmaplayergroup-errordetails"
 ---
 

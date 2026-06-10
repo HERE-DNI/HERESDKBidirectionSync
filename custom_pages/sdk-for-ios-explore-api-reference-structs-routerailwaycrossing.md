@@ -1,5 +1,5 @@
 ---
-title: "Routing / RouteRailwayCrossing"
+title: "sdk-for-ios-explore-api-reference-structs-routerailwaycrossing"
 slug: "sdk-for-ios-explore-api-reference-structs-routerailwaycrossing"
 ---
 

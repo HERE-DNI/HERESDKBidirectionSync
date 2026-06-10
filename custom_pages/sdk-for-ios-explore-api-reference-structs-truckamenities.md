@@ -1,5 +1,5 @@
 ---
-title: "Search / TruckAmenities"
+title: "sdk-for-ios-explore-api-reference-structs-truckamenities"
 slug: "sdk-for-ios-explore-api-reference-structs-truckamenities"
 ---
 

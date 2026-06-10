@@ -1,5 +1,5 @@
 ---
-title: "MapCameraAnimation / InstantiationErrorCode"
+title: "sdk-for-ios-explore-api-reference-classes-mapcameraanimation-instantiationerrorcode"
 slug: "sdk-for-ios-explore-api-reference-classes-mapcameraanimation-instantiationerrorcode"
 ---
 

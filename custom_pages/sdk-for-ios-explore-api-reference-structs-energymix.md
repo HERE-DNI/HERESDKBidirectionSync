@@ -1,5 +1,5 @@
 ---
-title: "Search / EnergyMix"
+title: "sdk-for-ios-explore-api-reference-structs-energymix"
 slug: "sdk-for-ios-explore-api-reference-structs-energymix"
 ---
 

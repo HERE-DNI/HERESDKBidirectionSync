@@ -1,5 +1,5 @@
 ---
-title: "Maps / DoubleTapDelegate"
+title: "sdk-for-ios-explore-api-reference-protocols-doubletapdelegate"
 slug: "sdk-for-ios-explore-api-reference-protocols-doubletapdelegate"
 ---
 

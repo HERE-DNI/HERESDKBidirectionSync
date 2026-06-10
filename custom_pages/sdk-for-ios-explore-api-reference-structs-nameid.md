@@ -1,5 +1,5 @@
 ---
-title: "Core / NameID"
+title: "sdk-for-ios-explore-api-reference-structs-nameid"
 slug: "sdk-for-ios-explore-api-reference-structs-nameid"
 ---
 

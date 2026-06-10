@@ -1,5 +1,5 @@
 ---
-title: "ProxySettings / Credentials"
+title: "sdk-for-ios-explore-api-reference-structs-proxysettings-credentials"
 slug: "sdk-for-ios-explore-api-reference-structs-proxysettings-credentials"
 ---
 

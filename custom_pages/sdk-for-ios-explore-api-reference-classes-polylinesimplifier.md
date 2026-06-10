@@ -1,5 +1,5 @@
 ---
-title: "Core / PolylineSimplifier"
+title: "sdk-for-ios-explore-api-reference-classes-polylinesimplifier"
 slug: "sdk-for-ios-explore-api-reference-classes-polylinesimplifier"
 ---
 

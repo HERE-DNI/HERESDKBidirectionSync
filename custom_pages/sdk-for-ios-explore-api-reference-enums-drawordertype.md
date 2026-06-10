@@ -1,5 +1,5 @@
 ---
-title: "Maps / DrawOrderType"
+title: "sdk-for-ios-explore-api-reference-enums-drawordertype"
 slug: "sdk-for-ios-explore-api-reference-enums-drawordertype"
 ---
 

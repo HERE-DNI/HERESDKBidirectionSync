@@ -1,5 +1,5 @@
 ---
-title: "Traffic / TrafficIncidentLookupOptions"
+title: "sdk-for-ios-explore-api-reference-structs-trafficincidentlookupoptions"
 slug: "sdk-for-ios-explore-api-reference-structs-trafficincidentlookupoptions"
 ---
 

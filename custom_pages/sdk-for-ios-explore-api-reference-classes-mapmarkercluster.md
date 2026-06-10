@@ -1,5 +1,5 @@
 ---
-title: "Maps / MapMarkerCluster"
+title: "sdk-for-ios-explore-api-reference-classes-mapmarkercluster"
 slug: "sdk-for-ios-explore-api-reference-classes-mapmarkercluster"
 ---
 

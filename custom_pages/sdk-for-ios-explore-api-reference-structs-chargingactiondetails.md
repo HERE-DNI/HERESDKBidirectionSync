@@ -1,5 +1,5 @@
 ---
-title: "Routing / ChargingActionDetails"
+title: "sdk-for-ios-explore-api-reference-structs-chargingactiondetails"
 slug: "sdk-for-ios-explore-api-reference-structs-chargingactiondetails"
 ---
 

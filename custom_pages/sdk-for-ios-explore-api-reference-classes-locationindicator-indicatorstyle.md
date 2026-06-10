@@ -1,5 +1,5 @@
 ---
-title: "LocationIndicator / IndicatorStyle"
+title: "sdk-for-ios-explore-api-reference-classes-locationindicator-indicatorstyle"
 slug: "sdk-for-ios-explore-api-reference-classes-locationindicator-indicatorstyle"
 ---
 

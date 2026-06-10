@@ -1,5 +1,5 @@
 ---
-title: "Maps / MapArrow"
+title: "sdk-for-ios-explore-api-reference-classes-maparrow"
 slug: "sdk-for-ios-explore-api-reference-classes-maparrow"
 ---
 

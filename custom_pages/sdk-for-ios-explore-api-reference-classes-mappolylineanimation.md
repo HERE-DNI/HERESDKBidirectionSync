@@ -1,5 +1,5 @@
 ---
-title: "Maps / MapPolylineAnimation"
+title: "sdk-for-ios-explore-api-reference-classes-mappolylineanimation"
 slug: "sdk-for-ios-explore-api-reference-classes-mappolylineanimation"
 ---
 

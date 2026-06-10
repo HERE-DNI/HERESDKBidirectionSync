@@ -1,5 +1,5 @@
 ---
-title: "Maps / MapFeatures"
+title: "sdk-for-ios-explore-api-reference-structs-mapfeatures"
 slug: "sdk-for-ios-explore-api-reference-structs-mapfeatures"
 ---
 

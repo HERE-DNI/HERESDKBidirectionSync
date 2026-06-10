@@ -1,5 +1,5 @@
 ---
-title: "Search / EnergySource"
+title: "sdk-for-ios-explore-api-reference-structs-energysource"
 slug: "sdk-for-ios-explore-api-reference-structs-energysource"
 ---
 

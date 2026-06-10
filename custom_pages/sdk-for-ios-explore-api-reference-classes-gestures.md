@@ -1,5 +1,5 @@
 ---
-title: "Maps / Gestures"
+title: "sdk-for-ios-explore-api-reference-classes-gestures"
 slug: "sdk-for-ios-explore-api-reference-classes-gestures"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Maps / TileSource"
+title: "sdk-for-ios-explore-api-reference-protocols-tilesource"
 slug: "sdk-for-ios-explore-api-reference-protocols-tilesource"
 ---
 

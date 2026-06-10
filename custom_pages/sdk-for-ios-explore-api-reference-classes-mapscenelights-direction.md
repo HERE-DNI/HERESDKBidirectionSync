@@ -1,5 +1,5 @@
 ---
-title: "MapSceneLights / Direction"
+title: "sdk-for-ios-explore-api-reference-classes-mapscenelights-direction"
 slug: "sdk-for-ios-explore-api-reference-classes-mapscenelights-direction"
 ---
 

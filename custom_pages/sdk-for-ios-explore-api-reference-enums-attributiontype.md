@@ -1,5 +1,5 @@
 ---
-title: "Routing / AttributionType"
+title: "sdk-for-ios-explore-api-reference-enums-attributiontype"
 slug: "sdk-for-ios-explore-api-reference-enums-attributiontype"
 ---
 

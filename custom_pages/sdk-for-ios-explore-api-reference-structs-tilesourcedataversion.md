@@ -1,5 +1,5 @@
 ---
-title: "Maps / TileSourceDataVersion"
+title: "sdk-for-ios-explore-api-reference-structs-tilesourcedataversion"
 slug: "sdk-for-ios-explore-api-reference-structs-tilesourcedataversion"
 ---
 

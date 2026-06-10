@@ -1,5 +1,5 @@
 ---
-title: "TransportSpecification / BusBuilder"
+title: "sdk-for-ios-explore-api-reference-structs-transportspecification-busbuilder"
 slug: "sdk-for-ios-explore-api-reference-structs-transportspecification-busbuilder"
 ---
 

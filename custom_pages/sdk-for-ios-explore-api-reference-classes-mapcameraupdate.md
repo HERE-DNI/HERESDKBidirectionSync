@@ -1,5 +1,5 @@
 ---
-title: "Maps / MapCameraUpdate"
+title: "sdk-for-ios-explore-api-reference-classes-mapcameraupdate"
 slug: "sdk-for-ios-explore-api-reference-classes-mapcameraupdate"
 ---
 

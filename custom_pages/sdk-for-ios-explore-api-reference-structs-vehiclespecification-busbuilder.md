@@ -1,5 +1,5 @@
 ---
-title: "VehicleSpecification / BusBuilder"
+title: "sdk-for-ios-explore-api-reference-structs-vehiclespecification-busbuilder"
 slug: "sdk-for-ios-explore-api-reference-structs-vehiclespecification-busbuilder"
 ---
 

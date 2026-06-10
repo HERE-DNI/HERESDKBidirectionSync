@@ -1,5 +1,5 @@
 ---
-title: "Search / EMobilityServiceProvider"
+title: "sdk-for-ios-explore-api-reference-structs-emobilityserviceprovider"
 slug: "sdk-for-ios-explore-api-reference-structs-emobilityserviceprovider"
 ---
 

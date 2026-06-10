@@ -1,5 +1,5 @@
 ---
-title: "Transport / WeightPerAxleGroup"
+title: "sdk-for-ios-explore-api-reference-structs-weightperaxlegroup"
 slug: "sdk-for-ios-explore-api-reference-structs-weightperaxlegroup"
 ---
 

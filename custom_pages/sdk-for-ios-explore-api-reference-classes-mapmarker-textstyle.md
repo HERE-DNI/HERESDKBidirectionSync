@@ -1,5 +1,5 @@
 ---
-title: "MapMarker / TextStyle"
+title: "sdk-for-ios-explore-api-reference-classes-mapmarker-textstyle"
 slug: "sdk-for-ios-explore-api-reference-classes-mapmarker-textstyle"
 ---
 

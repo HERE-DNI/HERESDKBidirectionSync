@@ -1,5 +1,5 @@
 ---
-title: "Search / AddressQuery"
+title: "sdk-for-ios-explore-api-reference-structs-addressquery"
 slug: "sdk-for-ios-explore-api-reference-structs-addressquery"
 ---
 

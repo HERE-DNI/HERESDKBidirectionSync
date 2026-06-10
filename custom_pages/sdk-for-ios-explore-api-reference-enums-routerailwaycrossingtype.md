@@ -1,5 +1,5 @@
 ---
-title: "Routing / RouteRailwayCrossingType"
+title: "sdk-for-ios-explore-api-reference-enums-routerailwaycrossingtype"
 slug: "sdk-for-ios-explore-api-reference-enums-routerailwaycrossingtype"
 ---
 

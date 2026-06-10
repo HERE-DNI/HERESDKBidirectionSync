@@ -1,5 +1,5 @@
 ---
-title: "Maps / PolygonDataAccessor"
+title: "sdk-for-ios-explore-api-reference-classes-polygondataaccessor"
 slug: "sdk-for-ios-explore-api-reference-classes-polygondataaccessor"
 ---
 

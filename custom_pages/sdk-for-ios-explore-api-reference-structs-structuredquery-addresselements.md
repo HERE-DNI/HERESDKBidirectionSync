@@ -1,5 +1,5 @@
 ---
-title: "StructuredQuery / AddressElements"
+title: "sdk-for-ios-explore-api-reference-structs-structuredquery-addresselements"
 slug: "sdk-for-ios-explore-api-reference-structs-structuredquery-addresselements"
 ---
 

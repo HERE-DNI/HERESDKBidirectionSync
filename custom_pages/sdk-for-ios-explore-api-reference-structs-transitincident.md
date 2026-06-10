@@ -1,5 +1,5 @@
 ---
-title: "Routing / TransitIncident"
+title: "sdk-for-ios-explore-api-reference-structs-transitincident"
 slug: "sdk-for-ios-explore-api-reference-structs-transitincident"
 ---
 

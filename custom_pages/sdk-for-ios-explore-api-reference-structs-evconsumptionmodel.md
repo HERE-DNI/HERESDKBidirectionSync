@@ -1,5 +1,5 @@
 ---
-title: "Routing / EVConsumptionModel"
+title: "sdk-for-ios-explore-api-reference-structs-evconsumptionmodel"
 slug: "sdk-for-ios-explore-api-reference-structs-evconsumptionmodel"
 ---
 

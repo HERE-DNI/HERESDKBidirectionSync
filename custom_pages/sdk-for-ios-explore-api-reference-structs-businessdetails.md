@@ -1,5 +1,5 @@
 ---
-title: "Search / BusinessDetails"
+title: "sdk-for-ios-explore-api-reference-structs-businessdetails"
 slug: "sdk-for-ios-explore-api-reference-structs-businessdetails"
 ---
 

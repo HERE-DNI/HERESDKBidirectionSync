@@ -1,5 +1,5 @@
 ---
-title: "Search / SearchError"
+title: "sdk-for-ios-explore-api-reference-enums-searcherror"
 slug: "sdk-for-ios-explore-api-reference-enums-searcherror"
 ---
 

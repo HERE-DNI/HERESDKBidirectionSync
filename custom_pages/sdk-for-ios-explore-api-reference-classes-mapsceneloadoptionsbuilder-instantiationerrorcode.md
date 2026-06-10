@@ -1,5 +1,5 @@
 ---
-title: "MapSceneLoadOptionsBuilder / InstantiationErrorCode"
+title: "sdk-for-ios-explore-api-reference-classes-mapsceneloadoptionsbuilder-instantiationerrorcode"
 slug: "sdk-for-ios-explore-api-reference-classes-mapsceneloadoptionsbuilder-instantiationerrorcode"
 ---
 

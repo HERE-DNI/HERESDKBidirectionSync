@@ -1,5 +1,5 @@
 ---
-title: "Maps / RasterDataSourceConfiguration"
+title: "sdk-for-ios-explore-api-reference-structs-rasterdatasourceconfiguration"
 slug: "sdk-for-ios-explore-api-reference-structs-rasterdatasourceconfiguration"
 ---
 

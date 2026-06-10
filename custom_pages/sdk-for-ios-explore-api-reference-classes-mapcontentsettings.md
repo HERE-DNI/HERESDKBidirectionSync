@@ -1,5 +1,5 @@
 ---
-title: "Maps / MapContentSettings"
+title: "sdk-for-ios-explore-api-reference-classes-mapcontentsettings"
 slug: "sdk-for-ios-explore-api-reference-classes-mapcontentsettings"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Maps / PickMapContentResult"
+title: "sdk-for-ios-explore-api-reference-classes-pickmapcontentresult"
 slug: "sdk-for-ios-explore-api-reference-classes-pickmapcontentresult"
 ---
 

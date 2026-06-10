@@ -1,5 +1,5 @@
 ---
-title: "Maps / MapCameraLimits"
+title: "sdk-for-ios-explore-api-reference-classes-mapcameralimits"
 slug: "sdk-for-ios-explore-api-reference-classes-mapcameralimits"
 ---
 

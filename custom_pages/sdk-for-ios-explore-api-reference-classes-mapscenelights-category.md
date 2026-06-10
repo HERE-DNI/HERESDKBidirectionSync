@@ -1,5 +1,5 @@
 ---
-title: "MapSceneLights / Category"
+title: "sdk-for-ios-explore-api-reference-classes-mapscenelights-category"
 slug: "sdk-for-ios-explore-api-reference-classes-mapscenelights-category"
 ---
 

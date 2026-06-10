@@ -1,5 +1,5 @@
 ---
-title: "Search / TimeOfDayRange"
+title: "sdk-for-ios-explore-api-reference-structs-timeofdayrange"
 slug: "sdk-for-ios-explore-api-reference-structs-timeofdayrange"
 ---
 

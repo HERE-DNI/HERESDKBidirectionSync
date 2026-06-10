@@ -1,5 +1,5 @@
 ---
-title: "MapMarkerCluster / CounterStyle"
+title: "sdk-for-ios-explore-api-reference-classes-mapmarkercluster-counterstyle"
 slug: "sdk-for-ios-explore-api-reference-classes-mapmarkercluster-counterstyle"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Search / FacilityType"
+title: "sdk-for-ios-explore-api-reference-enums-facilitytype"
 slug: "sdk-for-ios-explore-api-reference-enums-facilitytype"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Core / GeoPolygon"
+title: "sdk-for-ios-explore-api-reference-structs-geopolygon"
 slug: "sdk-for-ios-explore-api-reference-structs-geopolygon"
 ---
 

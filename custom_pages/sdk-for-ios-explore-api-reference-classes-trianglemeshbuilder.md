@@ -1,5 +1,5 @@
 ---
-title: "Maps / TriangleMeshBuilder"
+title: "sdk-for-ios-explore-api-reference-classes-trianglemeshbuilder"
 slug: "sdk-for-ios-explore-api-reference-classes-trianglemeshbuilder"
 ---
 

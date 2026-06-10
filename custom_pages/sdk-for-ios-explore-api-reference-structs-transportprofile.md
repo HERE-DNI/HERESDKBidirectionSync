@@ -1,5 +1,5 @@
 ---
-title: "Core / TransportProfile"
+title: "sdk-for-ios-explore-api-reference-structs-transportprofile"
 slug: "sdk-for-ios-explore-api-reference-structs-transportprofile"
 ---
 
@@ -30,7 +30,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-transportprofile"
 <h1>TransportProfile</h1>
 <div class="declaration">
 <div class="language">
-<pre class="highlight swift"><code><span class="kd">@available(*, deprecated, message: "Will be removed in v4.28.0. Use <code>TransportSpecification</code> instead.")</span>
+<pre class="highlight swift"><code><span class="kd">@available(*, deprecated, message: "Will be removed in v4.28.0. Use `TransportSpecification` instead.")</span>
 <span class="kd">public</span> <span class="kd">struct</span> <span class="kt">TransportProfile</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>

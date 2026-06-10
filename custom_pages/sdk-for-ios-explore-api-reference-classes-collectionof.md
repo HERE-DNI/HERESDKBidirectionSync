@@ -1,5 +1,5 @@
 ---
-title: "Core / CollectionOf"
+title: "sdk-for-ios-explore-api-reference-classes-collectionof"
 slug: "sdk-for-ios-explore-api-reference-classes-collectionof"
 ---
 

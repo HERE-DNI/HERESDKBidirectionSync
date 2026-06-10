@@ -1,5 +1,5 @@
 ---
-title: "Maps / MapMarkerAnimation"
+title: "sdk-for-ios-explore-api-reference-classes-mapmarkeranimation"
 slug: "sdk-for-ios-explore-api-reference-classes-mapmarkeranimation"
 ---
 

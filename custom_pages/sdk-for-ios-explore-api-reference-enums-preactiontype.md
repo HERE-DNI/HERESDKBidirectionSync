@@ -1,5 +1,5 @@
 ---
-title: "Routing / PreActionType"
+title: "sdk-for-ios-explore-api-reference-enums-preactiontype"
 slug: "sdk-for-ios-explore-api-reference-enums-preactiontype"
 ---
 

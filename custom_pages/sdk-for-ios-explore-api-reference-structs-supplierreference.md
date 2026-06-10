@@ -1,5 +1,5 @@
 ---
-title: "Search / SupplierReference"
+title: "sdk-for-ios-explore-api-reference-structs-supplierreference"
 slug: "sdk-for-ios-explore-api-reference-structs-supplierreference"
 ---
 

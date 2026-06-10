@@ -1,5 +1,5 @@
 ---
-title: "Routing / AvoidBoundingBoxAreaOptions"
+title: "sdk-for-ios-explore-api-reference-structs-avoidboundingboxareaoptions"
 slug: "sdk-for-ios-explore-api-reference-structs-avoidboundingboxareaoptions"
 ---
 

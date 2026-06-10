@@ -1,5 +1,5 @@
 ---
-title: "Search / SearchOptions"
+title: "sdk-for-ios-explore-api-reference-structs-searchoptions"
 slug: "sdk-for-ios-explore-api-reference-structs-searchoptions"
 ---
 

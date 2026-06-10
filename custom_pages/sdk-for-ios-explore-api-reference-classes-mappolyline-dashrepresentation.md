@@ -1,5 +1,5 @@
 ---
-title: "MapPolyline / DashRepresentation"
+title: "sdk-for-ios-explore-api-reference-classes-mappolyline-dashrepresentation"
 slug: "sdk-for-ios-explore-api-reference-classes-mappolyline-dashrepresentation"
 ---
 

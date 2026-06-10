@@ -1,5 +1,5 @@
 ---
-title: "Routing / ZoneCategory"
+title: "sdk-for-ios-explore-api-reference-enums-zonecategory"
 slug: "sdk-for-ios-explore-api-reference-enums-zonecategory"
 ---
 

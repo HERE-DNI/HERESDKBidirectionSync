@@ -1,5 +1,5 @@
 ---
-title: "MapLayerBuilder / InstantiationErrorCode"
+title: "sdk-for-ios-explore-api-reference-classes-maplayerbuilder-instantiationerrorcode"
 slug: "sdk-for-ios-explore-api-reference-classes-maplayerbuilder-instantiationerrorcode"
 ---
 

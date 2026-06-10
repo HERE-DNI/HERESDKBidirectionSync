@@ -1,5 +1,5 @@
 ---
-title: "ChargingConnectorType / CodingError"
+title: "sdk-for-ios-explore-api-reference-enums-chargingconnectortype-codingerror"
 slug: "sdk-for-ios-explore-api-reference-enums-chargingconnectortype-codingerror"
 ---
 

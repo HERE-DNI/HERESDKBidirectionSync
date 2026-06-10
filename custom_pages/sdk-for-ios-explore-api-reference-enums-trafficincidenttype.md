@@ -1,5 +1,5 @@
 ---
-title: "Traffic / TrafficIncidentType"
+title: "sdk-for-ios-explore-api-reference-enums-trafficincidenttype"
 slug: "sdk-for-ios-explore-api-reference-enums-trafficincidenttype"
 ---
 

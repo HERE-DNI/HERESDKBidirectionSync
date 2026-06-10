@@ -1,5 +1,5 @@
 ---
-title: "Search / CategoryQuery"
+title: "sdk-for-ios-explore-api-reference-structs-categoryquery"
 slug: "sdk-for-ios-explore-api-reference-structs-categoryquery"
 ---
 

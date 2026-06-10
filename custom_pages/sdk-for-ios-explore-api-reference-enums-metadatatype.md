@@ -1,5 +1,5 @@
 ---
-title: "Core / MetadataType"
+title: "sdk-for-ios-explore-api-reference-enums-metadatatype"
 slug: "sdk-for-ios-explore-api-reference-enums-metadatatype"
 ---
 

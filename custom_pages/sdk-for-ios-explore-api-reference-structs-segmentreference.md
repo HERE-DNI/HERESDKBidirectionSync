@@ -1,5 +1,5 @@
 ---
-title: "Routing / SegmentReference"
+title: "sdk-for-ios-explore-api-reference-structs-segmentreference"
 slug: "sdk-for-ios-explore-api-reference-structs-segmentreference"
 ---
 

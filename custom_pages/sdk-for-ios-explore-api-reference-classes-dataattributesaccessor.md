@@ -1,5 +1,5 @@
 ---
-title: "Maps / DataAttributesAccessor"
+title: "sdk-for-ios-explore-api-reference-classes-dataattributesaccessor"
 slug: "sdk-for-ios-explore-api-reference-classes-dataattributesaccessor"
 ---
 

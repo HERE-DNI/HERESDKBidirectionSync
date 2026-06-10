@@ -1,5 +1,5 @@
 ---
-title: "Routing / PaymentMethod"
+title: "sdk-for-ios-explore-api-reference-enums-paymentmethod"
 slug: "sdk-for-ios-explore-api-reference-enums-paymentmethod"
 ---
 

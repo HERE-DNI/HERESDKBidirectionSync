@@ -1,5 +1,5 @@
 ---
-title: "EV"
+title: "sdk-for-ios-explore-api-reference-ev"
 slug: "sdk-for-ios-explore-api-reference-ev"
 ---
 

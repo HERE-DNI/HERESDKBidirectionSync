@@ -1,5 +1,5 @@
 ---
-title: "Routing / FarePrice"
+title: "sdk-for-ios-explore-api-reference-structs-fareprice"
 slug: "sdk-for-ios-explore-api-reference-structs-fareprice"
 ---
 

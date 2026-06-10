@@ -1,5 +1,5 @@
 ---
-title: "Routing / TrafficOnSection"
+title: "sdk-for-ios-explore-api-reference-structs-trafficonsection"
 slug: "sdk-for-ios-explore-api-reference-structs-trafficonsection"
 ---
 

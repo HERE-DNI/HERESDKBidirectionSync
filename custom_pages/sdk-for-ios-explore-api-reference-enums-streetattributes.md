@@ -1,5 +1,5 @@
 ---
-title: "Routing / StreetAttributes"
+title: "sdk-for-ios-explore-api-reference-enums-streetattributes"
 slug: "sdk-for-ios-explore-api-reference-enums-streetattributes"
 ---
 

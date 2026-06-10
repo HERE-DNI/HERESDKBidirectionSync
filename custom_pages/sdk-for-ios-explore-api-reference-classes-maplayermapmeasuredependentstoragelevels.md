@@ -1,5 +1,5 @@
 ---
-title: "Maps / MapLayerMapMeasureDependentStorageLevels"
+title: "sdk-for-ios-explore-api-reference-classes-maplayermapmeasuredependentstoragelevels"
 slug: "sdk-for-ios-explore-api-reference-classes-maplayermapmeasuredependentstoragelevels"
 ---
 

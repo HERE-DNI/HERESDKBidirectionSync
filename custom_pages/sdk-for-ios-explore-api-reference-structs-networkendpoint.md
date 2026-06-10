@@ -1,5 +1,5 @@
 ---
-title: "Core / NetworkEndpoint"
+title: "sdk-for-ios-explore-api-reference-structs-networkendpoint"
 slug: "sdk-for-ios-explore-api-reference-structs-networkendpoint"
 ---
 

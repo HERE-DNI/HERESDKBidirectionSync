@@ -1,5 +1,5 @@
 ---
-title: "Routing / RoutePlaceDirection"
+title: "sdk-for-ios-explore-api-reference-enums-routeplacedirection"
 slug: "sdk-for-ios-explore-api-reference-enums-routeplacedirection"
 ---
 

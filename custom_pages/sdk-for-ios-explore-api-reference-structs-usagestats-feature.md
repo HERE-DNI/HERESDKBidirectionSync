@@ -1,5 +1,5 @@
 ---
-title: "UsageStats / Feature"
+title: "sdk-for-ios-explore-api-reference-structs-usagestats-feature"
 slug: "sdk-for-ios-explore-api-reference-structs-usagestats-feature"
 ---
 

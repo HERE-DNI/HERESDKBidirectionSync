@@ -1,5 +1,5 @@
 ---
-title: "Core / PowerType"
+title: "sdk-for-ios-explore-api-reference-enums-powertype"
 slug: "sdk-for-ios-explore-api-reference-enums-powertype"
 ---
 

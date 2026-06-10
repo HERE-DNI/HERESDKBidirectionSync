@@ -1,5 +1,5 @@
 ---
-title: "TransportSpecification / PrivateBusBuilder"
+title: "sdk-for-ios-explore-api-reference-structs-transportspecification-privatebusbuilder"
 slug: "sdk-for-ios-explore-api-reference-structs-transportspecification-privatebusbuilder"
 ---
 

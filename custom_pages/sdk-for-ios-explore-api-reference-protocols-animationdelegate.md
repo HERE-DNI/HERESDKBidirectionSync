@@ -1,5 +1,5 @@
 ---
-title: "Maps / AnimationDelegate"
+title: "sdk-for-ios-explore-api-reference-protocols-animationdelegate"
 slug: "sdk-for-ios-explore-api-reference-protocols-animationdelegate"
 ---
 

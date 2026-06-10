@@ -1,5 +1,5 @@
 ---
-title: "Search / SearchInterface"
+title: "sdk-for-ios-explore-api-reference-protocols-searchinterface"
 slug: "sdk-for-ios-explore-api-reference-protocols-searchinterface"
 ---
 

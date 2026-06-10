@@ -1,5 +1,5 @@
 ---
-title: "Maps / MapView"
+title: "sdk-for-ios-explore-api-reference-classes-mapview"
 slug: "sdk-for-ios-explore-api-reference-classes-mapview"
 ---
 

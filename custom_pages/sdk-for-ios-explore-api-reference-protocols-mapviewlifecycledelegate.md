@@ -1,5 +1,5 @@
 ---
-title: "Maps / MapViewLifecycleDelegate"
+title: "sdk-for-ios-explore-api-reference-protocols-mapviewlifecycledelegate"
 slug: "sdk-for-ios-explore-api-reference-protocols-mapviewlifecycledelegate"
 ---
 

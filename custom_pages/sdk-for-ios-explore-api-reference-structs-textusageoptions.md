@@ -1,5 +1,5 @@
 ---
-title: "Routing / TextUsageOptions"
+title: "sdk-for-ios-explore-api-reference-structs-textusageoptions"
 slug: "sdk-for-ios-explore-api-reference-structs-textusageoptions"
 ---
 

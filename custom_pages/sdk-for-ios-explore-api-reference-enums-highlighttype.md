@@ -1,5 +1,5 @@
 ---
-title: "Search / HighlightType"
+title: "sdk-for-ios-explore-api-reference-enums-highlighttype"
 slug: "sdk-for-ios-explore-api-reference-enums-highlighttype"
 ---
 

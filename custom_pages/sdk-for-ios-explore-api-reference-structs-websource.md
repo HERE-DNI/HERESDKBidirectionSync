@@ -1,5 +1,5 @@
 ---
-title: "Search / WebSource"
+title: "sdk-for-ios-explore-api-reference-structs-websource"
 slug: "sdk-for-ios-explore-api-reference-structs-websource"
 ---
 

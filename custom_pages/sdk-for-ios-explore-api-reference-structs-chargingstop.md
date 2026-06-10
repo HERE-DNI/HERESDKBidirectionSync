@@ -1,5 +1,5 @@
 ---
-title: "Routing / ChargingStop"
+title: "sdk-for-ios-explore-api-reference-structs-chargingstop"
 slug: "sdk-for-ios-explore-api-reference-structs-chargingstop"
 ---
 

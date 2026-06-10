@@ -1,5 +1,5 @@
 ---
-title: "MapView / ViewPin"
+title: "sdk-for-ios-explore-api-reference-classes-mapview-viewpin"
 slug: "sdk-for-ios-explore-api-reference-classes-mapview-viewpin"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Core / SDKNativeEngine"
+title: "sdk-for-ios-explore-api-reference-classes-sdknativeengine"
 slug: "sdk-for-ios-explore-api-reference-classes-sdknativeengine"
 ---
 

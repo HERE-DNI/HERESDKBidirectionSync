@@ -1,5 +1,5 @@
 ---
-title: "Core / IntegerRange"
+title: "sdk-for-ios-explore-api-reference-structs-integerrange"
 slug: "sdk-for-ios-explore-api-reference-structs-integerrange"
 ---
 

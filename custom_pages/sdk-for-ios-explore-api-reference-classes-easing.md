@@ -1,5 +1,5 @@
 ---
-title: "Maps / Easing"
+title: "sdk-for-ios-explore-api-reference-classes-easing"
 slug: "sdk-for-ios-explore-api-reference-classes-easing"
 ---
 

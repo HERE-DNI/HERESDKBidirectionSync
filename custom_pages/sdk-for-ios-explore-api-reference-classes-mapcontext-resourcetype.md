@@ -1,5 +1,5 @@
 ---
-title: "MapContext / ResourceType"
+title: "sdk-for-ios-explore-api-reference-classes-mapcontext-resourcetype"
 slug: "sdk-for-ios-explore-api-reference-classes-mapcontext-resourcetype"
 ---
 

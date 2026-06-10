@@ -1,5 +1,5 @@
 ---
-title: "Maps / MapLayerVisibilityRange"
+title: "sdk-for-ios-explore-api-reference-structs-maplayervisibilityrange"
 slug: "sdk-for-ios-explore-api-reference-structs-maplayervisibilityrange"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Maps / TileSourceDelegate"
+title: "sdk-for-ios-explore-api-reference-protocols-tilesourcedelegate"
 slug: "sdk-for-ios-explore-api-reference-protocols-tilesourcedelegate"
 ---
 

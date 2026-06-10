@@ -1,5 +1,5 @@
 ---
-title: "RenderSize / Unit"
+title: "sdk-for-ios-explore-api-reference-structs-rendersize-unit"
 slug: "sdk-for-ios-explore-api-reference-structs-rendersize-unit"
 ---
 

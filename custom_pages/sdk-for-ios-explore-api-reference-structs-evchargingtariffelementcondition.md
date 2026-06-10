@@ -1,5 +1,5 @@
 ---
-title: "Search / EVChargingTariffElementCondition"
+title: "sdk-for-ios-explore-api-reference-structs-evchargingtariffelementcondition"
 slug: "sdk-for-ios-explore-api-reference-structs-evchargingtariffelementcondition"
 ---
 

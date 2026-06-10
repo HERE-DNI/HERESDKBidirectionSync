@@ -1,5 +1,5 @@
 ---
-title: "MapContentSettings / TrafficRefreshPeriodErrorCode"
+title: "sdk-for-ios-explore-api-reference-classes-mapcontentsettings-trafficrefreshperioderrorcode"
 slug: "sdk-for-ios-explore-api-reference-classes-mapcontentsettings-trafficrefreshperioderrorcode"
 ---
 

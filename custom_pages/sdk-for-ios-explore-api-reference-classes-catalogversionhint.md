@@ -1,5 +1,5 @@
 ---
-title: "Core / CatalogVersionHint"
+title: "sdk-for-ios-explore-api-reference-classes-catalogversionhint"
 slug: "sdk-for-ios-explore-api-reference-classes-catalogversionhint"
 ---
 

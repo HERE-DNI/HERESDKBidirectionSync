@@ -1,5 +1,5 @@
 ---
-title: "Routing / Route"
+title: "sdk-for-ios-explore-api-reference-classes-route"
 slug: "sdk-for-ios-explore-api-reference-classes-route"
 ---
 

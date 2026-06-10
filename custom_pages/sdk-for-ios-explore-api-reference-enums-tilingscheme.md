@@ -1,5 +1,5 @@
 ---
-title: "Maps / TilingScheme"
+title: "sdk-for-ios-explore-api-reference-enums-tilingscheme"
 slug: "sdk-for-ios-explore-api-reference-enums-tilingscheme"
 ---
 

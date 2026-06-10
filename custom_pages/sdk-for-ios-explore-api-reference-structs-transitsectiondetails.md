@@ -1,5 +1,5 @@
 ---
-title: "Routing / TransitSectionDetails"
+title: "sdk-for-ios-explore-api-reference-structs-transitsectiondetails"
 slug: "sdk-for-ios-explore-api-reference-structs-transitsectiondetails"
 ---
 

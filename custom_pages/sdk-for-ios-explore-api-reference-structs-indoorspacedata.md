@@ -1,5 +1,5 @@
 ---
-title: "Other Structures / IndoorSpaceData"
+title: "sdk-for-ios-explore-api-reference-structs-indoorspacedata"
 slug: "sdk-for-ios-explore-api-reference-structs-indoorspacedata"
 ---
 

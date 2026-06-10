@@ -1,5 +1,5 @@
 ---
-title: "Routing / RoutingConnectionSettings"
+title: "sdk-for-ios-explore-api-reference-structs-routingconnectionsettings"
 slug: "sdk-for-ios-explore-api-reference-structs-routingconnectionsettings"
 ---
 

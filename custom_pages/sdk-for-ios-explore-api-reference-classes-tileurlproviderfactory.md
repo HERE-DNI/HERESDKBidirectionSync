@@ -1,5 +1,5 @@
 ---
-title: "Maps / TileUrlProviderFactory"
+title: "sdk-for-ios-explore-api-reference-classes-tileurlproviderfactory"
 slug: "sdk-for-ios-explore-api-reference-classes-tileurlproviderfactory"
 ---
 

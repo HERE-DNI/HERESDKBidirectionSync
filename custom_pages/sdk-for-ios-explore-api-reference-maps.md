@@ -1,5 +1,5 @@
 ---
-title: "Maps"
+title: "sdk-for-ios-explore-api-reference-maps"
 slug: "sdk-for-ios-explore-api-reference-maps"
 ---
 

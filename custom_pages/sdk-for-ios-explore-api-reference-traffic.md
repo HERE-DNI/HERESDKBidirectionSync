@@ -1,5 +1,5 @@
 ---
-title: "Traffic"
+title: "sdk-for-ios-explore-api-reference-traffic"
 slug: "sdk-for-ios-explore-api-reference-traffic"
 ---
 

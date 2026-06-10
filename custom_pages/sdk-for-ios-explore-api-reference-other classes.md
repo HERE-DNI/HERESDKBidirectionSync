@@ -1,5 +1,5 @@
 ---
-title: "Other Classes"
+title: "sdk-for-ios-explore-api-reference-other classes"
 slug: "sdk-for-ios-explore-api-reference-other classes"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Search / Place"
+title: "sdk-for-ios-explore-api-reference-classes-place"
 slug: "sdk-for-ios-explore-api-reference-classes-place"
 ---
 

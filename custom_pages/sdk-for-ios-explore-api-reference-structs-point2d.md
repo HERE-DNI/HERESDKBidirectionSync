@@ -1,5 +1,5 @@
 ---
-title: "Core / Point2D"
+title: "sdk-for-ios-explore-api-reference-structs-point2d"
 slug: "sdk-for-ios-explore-api-reference-structs-point2d"
 ---
 

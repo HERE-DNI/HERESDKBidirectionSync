@@ -1,5 +1,5 @@
 ---
-title: "MapMarkerAnimation / InstantiationErrorCode"
+title: "sdk-for-ios-explore-api-reference-classes-mapmarkeranimation-instantiationerrorcode"
 slug: "sdk-for-ios-explore-api-reference-classes-mapmarkeranimation-instantiationerrorcode"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Routing / ChargingStation"
+title: "sdk-for-ios-explore-api-reference-structs-chargingstation"
 slug: "sdk-for-ios-explore-api-reference-structs-chargingstation"
 ---
 

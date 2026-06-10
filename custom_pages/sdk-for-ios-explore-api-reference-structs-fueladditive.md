@@ -1,5 +1,5 @@
 ---
-title: "Search / FuelAdditive"
+title: "sdk-for-ios-explore-api-reference-structs-fueladditive"
 slug: "sdk-for-ios-explore-api-reference-structs-fueladditive"
 ---
 

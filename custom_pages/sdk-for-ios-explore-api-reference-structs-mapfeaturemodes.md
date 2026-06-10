@@ -1,5 +1,5 @@
 ---
-title: "Maps / MapFeatureModes"
+title: "sdk-for-ios-explore-api-reference-structs-mapfeaturemodes"
 slug: "sdk-for-ios-explore-api-reference-structs-mapfeaturemodes"
 ---
 

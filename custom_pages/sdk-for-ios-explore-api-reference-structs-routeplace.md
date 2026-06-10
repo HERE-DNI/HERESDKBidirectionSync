@@ -1,5 +1,5 @@
 ---
-title: "Routing / RoutePlace"
+title: "sdk-for-ios-explore-api-reference-structs-routeplace"
 slug: "sdk-for-ios-explore-api-reference-structs-routeplace"
 ---
 

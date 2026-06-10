@@ -1,5 +1,5 @@
 ---
-title: "Core / EngineBaseURL"
+title: "sdk-for-ios-explore-api-reference-enums-enginebaseurl"
 slug: "sdk-for-ios-explore-api-reference-enums-enginebaseurl"
 ---
 

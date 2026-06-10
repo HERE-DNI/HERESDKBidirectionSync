@@ -1,5 +1,5 @@
 ---
-title: "VehicleSpecification / PrivateBusBuilder"
+title: "sdk-for-ios-explore-api-reference-structs-vehiclespecification-privatebusbuilder"
 slug: "sdk-for-ios-explore-api-reference-structs-vehiclespecification-privatebusbuilder"
 ---
 

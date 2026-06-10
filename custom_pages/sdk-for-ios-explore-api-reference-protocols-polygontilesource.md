@@ -1,5 +1,5 @@
 ---
-title: "Maps / PolygonTileSource"
+title: "sdk-for-ios-explore-api-reference-protocols-polygontilesource"
 slug: "sdk-for-ios-explore-api-reference-protocols-polygontilesource"
 ---
 

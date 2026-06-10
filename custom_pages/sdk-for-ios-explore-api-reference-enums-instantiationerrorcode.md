@@ -1,5 +1,5 @@
 ---
-title: "Core / InstantiationErrorCode"
+title: "sdk-for-ios-explore-api-reference-enums-instantiationerrorcode"
 slug: "sdk-for-ios-explore-api-reference-enums-instantiationerrorcode"
 ---
 

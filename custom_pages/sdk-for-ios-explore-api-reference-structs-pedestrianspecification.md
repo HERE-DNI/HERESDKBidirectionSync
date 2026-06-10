@@ -1,5 +1,5 @@
 ---
-title: "Transport / PedestrianSpecification"
+title: "sdk-for-ios-explore-api-reference-structs-pedestrianspecification"
 slug: "sdk-for-ios-explore-api-reference-structs-pedestrianspecification"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Core / Runnable"
+title: "sdk-for-ios-explore-api-reference-protocols-runnable"
 slug: "sdk-for-ios-explore-api-reference-protocols-runnable"
 ---
 

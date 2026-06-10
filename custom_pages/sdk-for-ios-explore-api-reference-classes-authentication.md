@@ -1,5 +1,5 @@
 ---
-title: "Core / Authentication"
+title: "sdk-for-ios-explore-api-reference-classes-authentication"
 slug: "sdk-for-ios-explore-api-reference-classes-authentication"
 ---
 

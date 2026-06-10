@@ -1,5 +1,5 @@
 ---
-title: "Maps / TapDelegate"
+title: "sdk-for-ios-explore-api-reference-protocols-tapdelegate"
 slug: "sdk-for-ios-explore-api-reference-protocols-tapdelegate"
 ---
 

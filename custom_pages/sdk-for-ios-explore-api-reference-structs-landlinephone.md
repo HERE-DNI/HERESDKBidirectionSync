@@ -1,5 +1,5 @@
 ---
-title: "Search / LandlinePhone"
+title: "sdk-for-ios-explore-api-reference-structs-landlinephone"
 slug: "sdk-for-ios-explore-api-reference-structs-landlinephone"
 ---
 

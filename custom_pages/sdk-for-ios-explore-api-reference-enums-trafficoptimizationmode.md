@@ -1,5 +1,5 @@
 ---
-title: "Routing / TrafficOptimizationMode"
+title: "sdk-for-ios-explore-api-reference-enums-trafficoptimizationmode"
 slug: "sdk-for-ios-explore-api-reference-enums-trafficoptimizationmode"
 ---
 

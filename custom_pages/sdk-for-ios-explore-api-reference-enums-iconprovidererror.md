@@ -1,5 +1,5 @@
 ---
-title: "Maps / IconProviderError"
+title: "sdk-for-ios-explore-api-reference-enums-iconprovidererror"
 slug: "sdk-for-ios-explore-api-reference-enums-iconprovidererror"
 ---
 

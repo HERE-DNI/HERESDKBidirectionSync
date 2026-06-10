@@ -1,5 +1,5 @@
 ---
-title: "Search / DayOfWeek"
+title: "sdk-for-ios-explore-api-reference-enums-dayofweek"
 slug: "sdk-for-ios-explore-api-reference-enums-dayofweek"
 ---
 

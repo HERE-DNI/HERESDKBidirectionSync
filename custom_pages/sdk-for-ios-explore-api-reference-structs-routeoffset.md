@@ -1,5 +1,5 @@
 ---
-title: "Routing / RouteOffset"
+title: "sdk-for-ios-explore-api-reference-structs-routeoffset"
 slug: "sdk-for-ios-explore-api-reference-structs-routeoffset"
 ---
 

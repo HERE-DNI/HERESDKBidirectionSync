@@ -1,5 +1,5 @@
 ---
-title: "Other Enumerations"
+title: "sdk-for-ios-explore-api-reference-other enums"
 slug: "sdk-for-ios-explore-api-reference-other enums"
 ---
 

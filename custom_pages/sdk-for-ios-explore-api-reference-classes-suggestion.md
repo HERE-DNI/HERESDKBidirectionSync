@@ -1,5 +1,5 @@
 ---
-title: "Search / Suggestion"
+title: "sdk-for-ios-explore-api-reference-classes-suggestion"
 slug: "sdk-for-ios-explore-api-reference-classes-suggestion"
 ---
 

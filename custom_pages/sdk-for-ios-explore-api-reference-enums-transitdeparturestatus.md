@@ -1,5 +1,5 @@
 ---
-title: "Routing / TransitDepartureStatus"
+title: "sdk-for-ios-explore-api-reference-enums-transitdeparturestatus"
 slug: "sdk-for-ios-explore-api-reference-enums-transitdeparturestatus"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Maps / MapSceneLoadOptionsBuilder"
+title: "sdk-for-ios-explore-api-reference-classes-mapsceneloadoptionsbuilder"
 slug: "sdk-for-ios-explore-api-reference-classes-mapsceneloadoptionsbuilder"
 ---
 

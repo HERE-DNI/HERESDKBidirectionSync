@@ -1,5 +1,5 @@
 ---
-title: "Search / GeoPlace"
+title: "sdk-for-ios-explore-api-reference-structs-geoplace"
 slug: "sdk-for-ios-explore-api-reference-structs-geoplace"
 ---
 

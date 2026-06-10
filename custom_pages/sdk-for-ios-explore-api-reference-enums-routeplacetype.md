@@ -1,5 +1,5 @@
 ---
-title: "Routing / RoutePlaceType"
+title: "sdk-for-ios-explore-api-reference-enums-routeplacetype"
 slug: "sdk-for-ios-explore-api-reference-enums-routeplacetype"
 ---
 

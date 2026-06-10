@@ -1,5 +1,5 @@
 ---
-title: "Search / WebsiteAddress"
+title: "sdk-for-ios-explore-api-reference-structs-websiteaddress"
 slug: "sdk-for-ios-explore-api-reference-structs-websiteaddress"
 ---
 

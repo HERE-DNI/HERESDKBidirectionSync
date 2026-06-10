@@ -1,5 +1,5 @@
 ---
-title: "Search / EVSearchInterface"
+title: "sdk-for-ios-explore-api-reference-protocols-evsearchinterface"
 slug: "sdk-for-ios-explore-api-reference-protocols-evsearchinterface"
 ---
 

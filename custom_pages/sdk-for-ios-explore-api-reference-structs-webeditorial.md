@@ -1,5 +1,5 @@
 ---
-title: "Search / WebEditorial"
+title: "sdk-for-ios-explore-api-reference-structs-webeditorial"
 slug: "sdk-for-ios-explore-api-reference-structs-webeditorial"
 ---
 

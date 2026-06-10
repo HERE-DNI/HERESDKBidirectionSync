@@ -1,5 +1,5 @@
 ---
-title: "Maps / PolygonDataSourceBuilder"
+title: "sdk-for-ios-explore-api-reference-classes-polygondatasourcebuilder"
 slug: "sdk-for-ios-explore-api-reference-classes-polygondatasourcebuilder"
 ---
 

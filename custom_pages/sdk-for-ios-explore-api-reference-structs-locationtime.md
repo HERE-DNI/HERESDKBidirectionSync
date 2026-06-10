@@ -1,5 +1,5 @@
 ---
-title: "Core / LocationTime"
+title: "sdk-for-ios-explore-api-reference-structs-locationtime"
 slug: "sdk-for-ios-explore-api-reference-structs-locationtime"
 ---
 

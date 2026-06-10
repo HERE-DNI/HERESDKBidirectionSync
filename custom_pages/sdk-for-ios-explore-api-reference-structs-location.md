@@ -1,5 +1,5 @@
 ---
-title: "Core / Location"
+title: "sdk-for-ios-explore-api-reference-structs-location"
 slug: "sdk-for-ios-explore-api-reference-structs-location"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Routing / AvoidCorridorAreaOptions"
+title: "sdk-for-ios-explore-api-reference-structs-avoidcorridorareaoptions"
 slug: "sdk-for-ios-explore-api-reference-structs-avoidcorridorareaoptions"
 ---
 

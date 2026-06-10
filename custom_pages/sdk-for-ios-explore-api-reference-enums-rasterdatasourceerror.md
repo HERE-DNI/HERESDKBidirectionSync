@@ -1,5 +1,5 @@
 ---
-title: "Maps / RasterDataSourceError"
+title: "sdk-for-ios-explore-api-reference-enums-rasterdatasourceerror"
 slug: "sdk-for-ios-explore-api-reference-enums-rasterdatasourceerror"
 ---
 

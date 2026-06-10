@@ -1,5 +1,5 @@
 ---
-title: "Routing / SignpostLabel"
+title: "sdk-for-ios-explore-api-reference-structs-signpostlabel"
 slug: "sdk-for-ios-explore-api-reference-structs-signpostlabel"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Routing / AvoidPolygonAreaOptions"
+title: "sdk-for-ios-explore-api-reference-structs-avoidpolygonareaoptions"
 slug: "sdk-for-ios-explore-api-reference-structs-avoidpolygonareaoptions"
 ---
 

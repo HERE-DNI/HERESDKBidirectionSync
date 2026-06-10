@@ -1,5 +1,5 @@
 ---
-title: "Core / Anchor2D"
+title: "sdk-for-ios-explore-api-reference-structs-anchor2d"
 slug: "sdk-for-ios-explore-api-reference-structs-anchor2d"
 ---
 

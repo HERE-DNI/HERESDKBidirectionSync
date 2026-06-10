@@ -1,5 +1,5 @@
 ---
-title: "Search / WebRating"
+title: "sdk-for-ios-explore-api-reference-structs-webrating"
 slug: "sdk-for-ios-explore-api-reference-structs-webrating"
 ---
 

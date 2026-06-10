@@ -1,5 +1,5 @@
 ---
-title: "Search / LocationDetails"
+title: "sdk-for-ios-explore-api-reference-structs-locationdetails"
 slug: "sdk-for-ios-explore-api-reference-structs-locationdetails"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Search / FuelAdditiveType"
+title: "sdk-for-ios-explore-api-reference-enums-fueladditivetype"
 slug: "sdk-for-ios-explore-api-reference-enums-fueladditivetype"
 ---
 

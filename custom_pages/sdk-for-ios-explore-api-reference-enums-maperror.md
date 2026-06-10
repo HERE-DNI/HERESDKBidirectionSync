@@ -1,5 +1,5 @@
 ---
-title: "Maps / MapError"
+title: "sdk-for-ios-explore-api-reference-enums-maperror"
 slug: "sdk-for-ios-explore-api-reference-enums-maperror"
 ---
 

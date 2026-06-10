@@ -1,5 +1,5 @@
 ---
-title: "Routing / TravelDirection"
+title: "sdk-for-ios-explore-api-reference-enums-traveldirection"
 slug: "sdk-for-ios-explore-api-reference-enums-traveldirection"
 ---
 

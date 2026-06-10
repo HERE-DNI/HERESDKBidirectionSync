@@ -1,5 +1,5 @@
 ---
-title: "Search"
+title: "sdk-for-ios-explore-api-reference-search"
 slug: "sdk-for-ios-explore-api-reference-search"
 ---
 

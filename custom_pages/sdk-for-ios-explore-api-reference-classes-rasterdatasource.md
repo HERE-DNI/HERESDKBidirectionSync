@@ -1,5 +1,5 @@
 ---
-title: "Maps / RasterDataSource"
+title: "sdk-for-ios-explore-api-reference-classes-rasterdatasource"
 slug: "sdk-for-ios-explore-api-reference-classes-rasterdatasource"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Search / AddressType"
+title: "sdk-for-ios-explore-api-reference-enums-addresstype"
 slug: "sdk-for-ios-explore-api-reference-enums-addresstype"
 ---
 

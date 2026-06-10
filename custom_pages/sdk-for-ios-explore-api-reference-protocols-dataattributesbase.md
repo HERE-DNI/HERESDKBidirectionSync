@@ -1,5 +1,5 @@
 ---
-title: "MapLoader / DataAttributesBase"
+title: "sdk-for-ios-explore-api-reference-protocols-dataattributesbase"
 slug: "sdk-for-ios-explore-api-reference-protocols-dataattributesbase"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Routing / AvoidanceOptions"
+title: "sdk-for-ios-explore-api-reference-structs-avoidanceoptions"
 slug: "sdk-for-ios-explore-api-reference-structs-avoidanceoptions"
 ---
 

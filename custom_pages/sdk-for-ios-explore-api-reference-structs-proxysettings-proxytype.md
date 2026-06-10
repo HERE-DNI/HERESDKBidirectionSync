@@ -1,5 +1,5 @@
 ---
-title: "ProxySettings / ProxyType"
+title: "sdk-for-ios-explore-api-reference-structs-proxysettings-proxytype"
 slug: "sdk-for-ios-explore-api-reference-structs-proxysettings-proxytype"
 ---
 

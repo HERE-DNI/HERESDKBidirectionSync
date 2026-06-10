@@ -1,5 +1,5 @@
 ---
-title: "Core / TimeRule"
+title: "sdk-for-ios-explore-api-reference-classes-timerule"
 slug: "sdk-for-ios-explore-api-reference-classes-timerule"
 ---
 

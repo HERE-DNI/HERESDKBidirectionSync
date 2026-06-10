@@ -1,5 +1,5 @@
 ---
-title: "TrafficIncident / VehicleRestriction"
+title: "sdk-for-ios-explore-api-reference-classes-trafficincident-vehiclerestriction"
 slug: "sdk-for-ios-explore-api-reference-classes-trafficincident-vehiclerestriction"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "TollOptions / EmissionType"
+title: "sdk-for-ios-explore-api-reference-structs-tolloptions-emissiontype"
 slug: "sdk-for-ios-explore-api-reference-structs-tolloptions-emissiontype"
 ---
 

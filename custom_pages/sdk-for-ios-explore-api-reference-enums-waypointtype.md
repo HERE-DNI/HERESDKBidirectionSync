@@ -1,5 +1,5 @@
 ---
-title: "Routing / WaypointType"
+title: "sdk-for-ios-explore-api-reference-enums-waypointtype"
 slug: "sdk-for-ios-explore-api-reference-enums-waypointtype"
 ---
 

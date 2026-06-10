@@ -1,5 +1,5 @@
 ---
-title: "Transport / TruckRoadType"
+title: "sdk-for-ios-explore-api-reference-enums-truckroadtype"
 slug: "sdk-for-ios-explore-api-reference-enums-truckroadtype"
 ---
 

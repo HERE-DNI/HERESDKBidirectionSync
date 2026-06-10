@@ -1,5 +1,5 @@
 ---
-title: "Core / PlatformThreading"
+title: "sdk-for-ios-explore-api-reference-protocols-platformthreading"
 slug: "sdk-for-ios-explore-api-reference-protocols-platformthreading"
 ---
 

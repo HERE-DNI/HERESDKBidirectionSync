@@ -1,5 +1,5 @@
 ---
-title: "EV / EVSEState"
+title: "sdk-for-ios-explore-api-reference-enums-evsestate"
 slug: "sdk-for-ios-explore-api-reference-enums-evsestate"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "UsageStats / NetworkStats"
+title: "sdk-for-ios-explore-api-reference-structs-usagestats-networkstats"
 slug: "sdk-for-ios-explore-api-reference-structs-usagestats-networkstats"
 ---
 

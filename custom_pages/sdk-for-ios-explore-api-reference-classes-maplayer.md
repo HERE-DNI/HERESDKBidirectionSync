@@ -1,5 +1,5 @@
 ---
-title: "Maps / MapLayer"
+title: "sdk-for-ios-explore-api-reference-classes-maplayer"
 slug: "sdk-for-ios-explore-api-reference-classes-maplayer"
 ---
 

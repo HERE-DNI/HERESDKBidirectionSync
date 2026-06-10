@@ -1,5 +1,5 @@
 ---
-title: "Search / PlaceCategory"
+title: "sdk-for-ios-explore-api-reference-classes-placecategory"
 slug: "sdk-for-ios-explore-api-reference-classes-placecategory"
 ---
 

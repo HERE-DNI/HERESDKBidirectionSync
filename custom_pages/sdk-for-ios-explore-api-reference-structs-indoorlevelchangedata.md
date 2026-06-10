@@ -1,5 +1,5 @@
 ---
-title: "Other Structures / IndoorLevelChangeData"
+title: "sdk-for-ios-explore-api-reference-structs-indoorlevelchangedata"
 slug: "sdk-for-ios-explore-api-reference-structs-indoorlevelchangedata"
 ---
 

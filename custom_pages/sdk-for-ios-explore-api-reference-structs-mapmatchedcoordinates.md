@@ -1,5 +1,5 @@
 ---
-title: "Routing / MapMatchedCoordinates"
+title: "sdk-for-ios-explore-api-reference-structs-mapmatchedcoordinates"
 slug: "sdk-for-ios-explore-api-reference-structs-mapmatchedcoordinates"
 ---
 

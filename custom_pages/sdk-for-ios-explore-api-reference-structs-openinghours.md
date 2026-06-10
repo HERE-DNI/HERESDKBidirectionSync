@@ -1,5 +1,5 @@
 ---
-title: "Search / OpeningHours"
+title: "sdk-for-ios-explore-api-reference-structs-openinghours"
 slug: "sdk-for-ios-explore-api-reference-structs-openinghours"
 ---
 

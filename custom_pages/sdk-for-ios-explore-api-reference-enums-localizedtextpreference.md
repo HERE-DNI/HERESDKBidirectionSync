@@ -1,5 +1,5 @@
 ---
-title: "Routing / LocalizedTextPreference"
+title: "sdk-for-ios-explore-api-reference-enums-localizedtextpreference"
 slug: "sdk-for-ios-explore-api-reference-enums-localizedtextpreference"
 ---
 

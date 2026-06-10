@@ -1,5 +1,5 @@
 ---
-title: "Search / GenericFuel"
+title: "sdk-for-ios-explore-api-reference-structs-genericfuel"
 slug: "sdk-for-ios-explore-api-reference-structs-genericfuel"
 ---
 

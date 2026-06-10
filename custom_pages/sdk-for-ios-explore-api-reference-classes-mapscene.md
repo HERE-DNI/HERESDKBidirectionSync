@@ -1,5 +1,5 @@
 ---
-title: "Maps / MapScene"
+title: "sdk-for-ios-explore-api-reference-classes-mapscene"
 slug: "sdk-for-ios-explore-api-reference-classes-mapscene"
 ---
 

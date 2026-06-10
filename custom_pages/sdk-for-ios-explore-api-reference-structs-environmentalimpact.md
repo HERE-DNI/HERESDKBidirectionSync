@@ -1,5 +1,5 @@
 ---
-title: "Search / EnvironmentalImpact"
+title: "sdk-for-ios-explore-api-reference-structs-environmentalimpact"
 slug: "sdk-for-ios-explore-api-reference-structs-environmentalimpact"
 ---
 

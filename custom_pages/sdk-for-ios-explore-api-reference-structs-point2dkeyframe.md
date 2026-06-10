@@ -1,5 +1,5 @@
 ---
-title: "Maps / Point2DKeyframe"
+title: "sdk-for-ios-explore-api-reference-structs-point2dkeyframe"
 slug: "sdk-for-ios-explore-api-reference-structs-point2dkeyframe"
 ---
 

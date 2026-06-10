@@ -1,5 +1,5 @@
 ---
-title: "Routing / RoutingError"
+title: "sdk-for-ios-explore-api-reference-enums-routingerror"
 slug: "sdk-for-ios-explore-api-reference-enums-routingerror"
 ---
 

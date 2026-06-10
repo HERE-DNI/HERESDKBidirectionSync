@@ -1,5 +1,5 @@
 ---
-title: "Core / CardinalDirection"
+title: "sdk-for-ios-explore-api-reference-enums-cardinaldirection"
 slug: "sdk-for-ios-explore-api-reference-enums-cardinaldirection"
 ---
 

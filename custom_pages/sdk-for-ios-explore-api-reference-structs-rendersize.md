@@ -1,5 +1,5 @@
 ---
-title: "Maps / RenderSize"
+title: "sdk-for-ios-explore-api-reference-structs-rendersize"
 slug: "sdk-for-ios-explore-api-reference-structs-rendersize"
 ---
 

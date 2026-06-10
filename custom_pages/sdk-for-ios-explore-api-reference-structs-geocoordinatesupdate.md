@@ -1,5 +1,5 @@
 ---
-title: "Core / GeoCoordinatesUpdate"
+title: "sdk-for-ios-explore-api-reference-structs-geocoordinatesupdate"
 slug: "sdk-for-ios-explore-api-reference-structs-geocoordinatesupdate"
 ---
 

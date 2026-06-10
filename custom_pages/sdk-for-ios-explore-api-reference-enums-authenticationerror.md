@@ -1,5 +1,5 @@
 ---
-title: "Positioning / AuthenticationError"
+title: "sdk-for-ios-explore-api-reference-enums-authenticationerror"
 slug: "sdk-for-ios-explore-api-reference-enums-authenticationerror"
 ---
 

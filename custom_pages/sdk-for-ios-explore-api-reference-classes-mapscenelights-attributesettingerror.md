@@ -1,5 +1,5 @@
 ---
-title: "MapSceneLights / AttributeSettingError"
+title: "sdk-for-ios-explore-api-reference-classes-mapscenelights-attributesettingerror"
 slug: "sdk-for-ios-explore-api-reference-classes-mapscenelights-attributesettingerror"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Maps / MapViewBase"
+title: "sdk-for-ios-explore-api-reference-protocols-mapviewbase"
 slug: "sdk-for-ios-explore-api-reference-protocols-mapviewbase"
 ---
 

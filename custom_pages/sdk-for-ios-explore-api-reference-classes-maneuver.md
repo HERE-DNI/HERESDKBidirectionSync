@@ -1,5 +1,5 @@
 ---
-title: "Routing / Maneuver"
+title: "sdk-for-ios-explore-api-reference-classes-maneuver"
 slug: "sdk-for-ios-explore-api-reference-classes-maneuver"
 ---
 

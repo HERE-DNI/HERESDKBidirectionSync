@@ -1,5 +1,5 @@
 ---
-title: "TextQuery / Area"
+title: "sdk-for-ios-explore-api-reference-structs-textquery-area"
 slug: "sdk-for-ios-explore-api-reference-structs-textquery-area"
 ---
 

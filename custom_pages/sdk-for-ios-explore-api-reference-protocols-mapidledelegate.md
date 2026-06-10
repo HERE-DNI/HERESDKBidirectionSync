@@ -1,5 +1,5 @@
 ---
-title: "Maps / MapIdleDelegate"
+title: "sdk-for-ios-explore-api-reference-protocols-mapidledelegate"
 slug: "sdk-for-ios-explore-api-reference-protocols-mapidledelegate"
 ---
 

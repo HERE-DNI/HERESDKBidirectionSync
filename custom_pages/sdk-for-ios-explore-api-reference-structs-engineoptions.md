@@ -1,5 +1,5 @@
 ---
-title: "Core / EngineOptions"
+title: "sdk-for-ios-explore-api-reference-structs-engineoptions"
 slug: "sdk-for-ios-explore-api-reference-structs-engineoptions"
 ---
 

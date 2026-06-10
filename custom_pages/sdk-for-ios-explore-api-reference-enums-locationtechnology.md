@@ -1,5 +1,5 @@
 ---
-title: "Core / LocationTechnology"
+title: "sdk-for-ios-explore-api-reference-enums-locationtechnology"
 slug: "sdk-for-ios-explore-api-reference-enums-locationtechnology"
 ---
 

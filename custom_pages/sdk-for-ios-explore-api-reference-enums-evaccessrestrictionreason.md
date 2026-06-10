@@ -1,5 +1,5 @@
 ---
-title: "Search / EVAccessRestrictionReason"
+title: "sdk-for-ios-explore-api-reference-enums-evaccessrestrictionreason"
 slug: "sdk-for-ios-explore-api-reference-enums-evaccessrestrictionreason"
 ---
 

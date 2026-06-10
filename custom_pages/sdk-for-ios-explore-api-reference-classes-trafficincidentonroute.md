@@ -1,5 +1,5 @@
 ---
-title: "Traffic / TrafficIncidentOnRoute"
+title: "sdk-for-ios-explore-api-reference-classes-trafficincidentonroute"
 slug: "sdk-for-ios-explore-api-reference-classes-trafficincidentonroute"
 ---
 

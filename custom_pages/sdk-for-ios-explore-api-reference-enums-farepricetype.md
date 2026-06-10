@@ -1,5 +1,5 @@
 ---
-title: "Routing / FarePriceType"
+title: "sdk-for-ios-explore-api-reference-enums-farepricetype"
 slug: "sdk-for-ios-explore-api-reference-enums-farepricetype"
 ---
 

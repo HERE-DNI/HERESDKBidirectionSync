@@ -1,5 +1,5 @@
 ---
-title: "Core / GeoCircle"
+title: "sdk-for-ios-explore-api-reference-structs-geocircle"
 slug: "sdk-for-ios-explore-api-reference-structs-geocircle"
 ---
 

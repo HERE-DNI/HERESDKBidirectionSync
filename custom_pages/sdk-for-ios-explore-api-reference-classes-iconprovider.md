@@ -1,5 +1,5 @@
 ---
-title: "Maps / IconProvider"
+title: "sdk-for-ios-explore-api-reference-classes-iconprovider"
 slug: "sdk-for-ios-explore-api-reference-classes-iconprovider"
 ---
 

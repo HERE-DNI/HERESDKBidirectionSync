@@ -1,5 +1,5 @@
 ---
-title: "Search / EVChargingTariffDimension"
+title: "sdk-for-ios-explore-api-reference-enums-evchargingtariffdimension"
 slug: "sdk-for-ios-explore-api-reference-enums-evchargingtariffdimension"
 ---
 

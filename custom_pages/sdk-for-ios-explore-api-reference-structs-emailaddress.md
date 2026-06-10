@@ -1,5 +1,5 @@
 ---
-title: "Search / EmailAddress"
+title: "sdk-for-ios-explore-api-reference-structs-emailaddress"
 slug: "sdk-for-ios-explore-api-reference-structs-emailaddress"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Maps / DataAttributeValue"
+title: "sdk-for-ios-explore-api-reference-classes-dataattributevalue"
 slug: "sdk-for-ios-explore-api-reference-classes-dataattributevalue"
 ---
 

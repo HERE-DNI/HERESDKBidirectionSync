@@ -1,5 +1,5 @@
 ---
-title: "JsonStyleFactory / InstantiationErrorDetails"
+title: "sdk-for-ios-explore-api-reference-classes-jsonstylefactory-instantiationerrordetails"
 slug: "sdk-for-ios-explore-api-reference-classes-jsonstylefactory-instantiationerrordetails"
 ---
 

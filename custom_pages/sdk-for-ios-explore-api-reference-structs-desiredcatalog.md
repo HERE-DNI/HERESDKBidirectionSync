@@ -1,5 +1,5 @@
 ---
-title: "Core / DesiredCatalog"
+title: "sdk-for-ios-explore-api-reference-structs-desiredcatalog"
 slug: "sdk-for-ios-explore-api-reference-structs-desiredcatalog"
 ---
 

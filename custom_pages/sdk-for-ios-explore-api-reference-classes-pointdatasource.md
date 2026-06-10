@@ -1,5 +1,5 @@
 ---
-title: "Maps / PointDataSource"
+title: "sdk-for-ios-explore-api-reference-classes-pointdatasource"
 slug: "sdk-for-ios-explore-api-reference-classes-pointdatasource"
 ---
 

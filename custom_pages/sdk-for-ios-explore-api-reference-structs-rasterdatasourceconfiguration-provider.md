@@ -1,5 +1,5 @@
 ---
-title: "RasterDataSourceConfiguration / Provider"
+title: "sdk-for-ios-explore-api-reference-structs-rasterdatasourceconfiguration-provider"
 slug: "sdk-for-ios-explore-api-reference-structs-rasterdatasourceconfiguration-provider"
 ---
 

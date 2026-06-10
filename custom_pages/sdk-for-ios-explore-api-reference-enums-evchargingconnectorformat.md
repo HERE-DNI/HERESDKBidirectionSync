@@ -1,5 +1,5 @@
 ---
-title: "EV / EVChargingConnectorFormat"
+title: "sdk-for-ios-explore-api-reference-enums-evchargingconnectorformat"
 slug: "sdk-for-ios-explore-api-reference-enums-evchargingconnectorformat"
 ---
 

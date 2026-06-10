@@ -1,5 +1,5 @@
 ---
-title: "Core / CurrentType"
+title: "sdk-for-ios-explore-api-reference-enums-currenttype"
 slug: "sdk-for-ios-explore-api-reference-enums-currenttype"
 ---
 

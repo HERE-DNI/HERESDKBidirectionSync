@@ -1,5 +1,5 @@
 ---
-title: "Search / EVChargingDurationRange"
+title: "sdk-for-ios-explore-api-reference-structs-evchargingdurationrange"
 slug: "sdk-for-ios-explore-api-reference-structs-evchargingdurationrange"
 ---
 

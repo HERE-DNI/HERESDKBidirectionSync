@@ -1,5 +1,5 @@
 ---
-title: "Routing / RouteHandle"
+title: "sdk-for-ios-explore-api-reference-structs-routehandle"
 slug: "sdk-for-ios-explore-api-reference-structs-routehandle"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "MapMarkerCluster / ImageStyle"
+title: "sdk-for-ios-explore-api-reference-classes-mapmarkercluster-imagestyle"
 slug: "sdk-for-ios-explore-api-reference-classes-mapmarkercluster-imagestyle"
 ---
 

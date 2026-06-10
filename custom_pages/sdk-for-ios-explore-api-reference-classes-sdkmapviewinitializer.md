@@ -1,5 +1,5 @@
 ---
-title: "Maps / SDKMapViewInitializer"
+title: "sdk-for-ios-explore-api-reference-classes-sdkmapviewinitializer"
 slug: "sdk-for-ios-explore-api-reference-classes-sdkmapviewinitializer"
 ---
 

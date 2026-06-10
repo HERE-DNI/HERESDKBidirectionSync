@@ -1,5 +1,5 @@
 ---
-title: "Search / EVChargingOpeningHoursException"
+title: "sdk-for-ios-explore-api-reference-structs-evchargingopeninghoursexception"
 slug: "sdk-for-ios-explore-api-reference-structs-evchargingopeninghoursexception"
 ---
 

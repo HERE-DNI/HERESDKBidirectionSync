@@ -1,5 +1,5 @@
 ---
-title: "Search / FuelStation"
+title: "sdk-for-ios-explore-api-reference-structs-fuelstation"
 slug: "sdk-for-ios-explore-api-reference-structs-fuelstation"
 ---
 

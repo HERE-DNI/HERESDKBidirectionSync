@@ -1,5 +1,5 @@
 ---
-title: "Maps / MapLayerPriorityBuilder"
+title: "sdk-for-ios-explore-api-reference-classes-maplayerprioritybuilder"
 slug: "sdk-for-ios-explore-api-reference-classes-maplayerprioritybuilder"
 ---
 

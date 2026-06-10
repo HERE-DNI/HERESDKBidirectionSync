@@ -1,5 +1,5 @@
 ---
-title: "Core / TaskHandle"
+title: "sdk-for-ios-explore-api-reference-protocols-taskhandle"
 slug: "sdk-for-ios-explore-api-reference-protocols-taskhandle"
 ---
 

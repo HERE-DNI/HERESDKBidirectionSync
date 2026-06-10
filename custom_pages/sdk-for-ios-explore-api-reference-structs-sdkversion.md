@@ -1,5 +1,5 @@
 ---
-title: "Core / SDKVersion"
+title: "sdk-for-ios-explore-api-reference-structs-sdkversion"
 slug: "sdk-for-ios-explore-api-reference-structs-sdkversion"
 ---
 

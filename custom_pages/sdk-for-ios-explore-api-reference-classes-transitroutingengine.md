@@ -1,5 +1,5 @@
 ---
-title: "Routing / TransitRoutingEngine"
+title: "sdk-for-ios-explore-api-reference-classes-transitroutingengine"
 slug: "sdk-for-ios-explore-api-reference-classes-transitroutingengine"
 ---
 

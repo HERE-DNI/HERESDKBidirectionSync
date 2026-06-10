@@ -1,5 +1,5 @@
 ---
-title: "Transport / ScooterSpecification"
+title: "sdk-for-ios-explore-api-reference-structs-scooterspecification"
 slug: "sdk-for-ios-explore-api-reference-structs-scooterspecification"
 ---
 

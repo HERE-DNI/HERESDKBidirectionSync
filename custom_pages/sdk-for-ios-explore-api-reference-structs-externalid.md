@@ -1,5 +1,5 @@
 ---
-title: "Core / ExternalID"
+title: "sdk-for-ios-explore-api-reference-structs-externalid"
 slug: "sdk-for-ios-explore-api-reference-structs-externalid"
 ---
 

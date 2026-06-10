@@ -1,5 +1,5 @@
 ---
-title: "Search / EVChargingVehicleCategory"
+title: "sdk-for-ios-explore-api-reference-enums-evchargingvehiclecategory"
 slug: "sdk-for-ios-explore-api-reference-enums-evchargingvehiclecategory"
 ---
 

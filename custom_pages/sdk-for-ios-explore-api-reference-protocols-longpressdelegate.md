@@ -1,5 +1,5 @@
 ---
-title: "Maps / LongPressDelegate"
+title: "sdk-for-ios-explore-api-reference-protocols-longpressdelegate"
 slug: "sdk-for-ios-explore-api-reference-protocols-longpressdelegate"
 ---
 

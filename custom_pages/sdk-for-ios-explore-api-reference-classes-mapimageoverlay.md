@@ -1,5 +1,5 @@
 ---
-title: "Maps / MapImageOverlay"
+title: "sdk-for-ios-explore-api-reference-classes-mapimageoverlay"
 slug: "sdk-for-ios-explore-api-reference-classes-mapimageoverlay"
 ---
 

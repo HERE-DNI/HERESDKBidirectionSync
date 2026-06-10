@@ -1,5 +1,5 @@
 ---
-title: "Maps / RoadShieldIconProperties"
+title: "sdk-for-ios-explore-api-reference-structs-roadshieldiconproperties"
 slug: "sdk-for-ios-explore-api-reference-structs-roadshieldiconproperties"
 ---
 

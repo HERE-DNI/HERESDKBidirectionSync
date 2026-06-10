@@ -1,5 +1,5 @@
 ---
-title: "Core / LocationDelegate"
+title: "sdk-for-ios-explore-api-reference-protocols-locationdelegate"
 slug: "sdk-for-ios-explore-api-reference-protocols-locationdelegate"
 ---
 

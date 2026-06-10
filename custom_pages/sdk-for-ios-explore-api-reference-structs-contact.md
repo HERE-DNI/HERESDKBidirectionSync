@@ -1,5 +1,5 @@
 ---
-title: "Search / Contact"
+title: "sdk-for-ios-explore-api-reference-structs-contact"
 slug: "sdk-for-ios-explore-api-reference-structs-contact"
 ---
 

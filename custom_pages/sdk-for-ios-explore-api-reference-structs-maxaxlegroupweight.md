@@ -1,5 +1,5 @@
 ---
-title: "Routing / MaxAxleGroupWeight"
+title: "sdk-for-ios-explore-api-reference-structs-maxaxlegroupweight"
 slug: "sdk-for-ios-explore-api-reference-structs-maxaxlegroupweight"
 ---
 

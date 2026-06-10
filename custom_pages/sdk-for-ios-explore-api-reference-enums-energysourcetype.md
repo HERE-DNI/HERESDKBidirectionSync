@@ -1,5 +1,5 @@
 ---
-title: "Search / EnergySourceType"
+title: "sdk-for-ios-explore-api-reference-enums-energysourcetype"
 slug: "sdk-for-ios-explore-api-reference-enums-energysourcetype"
 ---
 

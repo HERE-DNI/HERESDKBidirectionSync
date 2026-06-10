@@ -1,5 +1,5 @@
 ---
-title: "Search / PlaceChain"
+title: "sdk-for-ios-explore-api-reference-structs-placechain"
 slug: "sdk-for-ios-explore-api-reference-structs-placechain"
 ---
 

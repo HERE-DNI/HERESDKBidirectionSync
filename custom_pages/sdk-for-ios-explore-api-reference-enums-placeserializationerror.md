@@ -1,5 +1,5 @@
 ---
-title: "Search / PlaceSerializationError"
+title: "sdk-for-ios-explore-api-reference-enums-placeserializationerror"
 slug: "sdk-for-ios-explore-api-reference-enums-placeserializationerror"
 ---
 

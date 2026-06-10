@@ -1,5 +1,5 @@
 ---
-title: "Core / SDKBuildInformation"
+title: "sdk-for-ios-explore-api-reference-classes-sdkbuildinformation"
 slug: "sdk-for-ios-explore-api-reference-classes-sdkbuildinformation"
 ---
 

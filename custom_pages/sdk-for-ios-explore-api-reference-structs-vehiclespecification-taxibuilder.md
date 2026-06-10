@@ -1,5 +1,5 @@
 ---
-title: "VehicleSpecification / TaxiBuilder"
+title: "sdk-for-ios-explore-api-reference-structs-vehiclespecification-taxibuilder"
 slug: "sdk-for-ios-explore-api-reference-structs-vehiclespecification-taxibuilder"
 ---
 

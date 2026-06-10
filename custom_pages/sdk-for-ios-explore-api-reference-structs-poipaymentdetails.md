@@ -1,5 +1,5 @@
 ---
-title: "Search / POIPaymentDetails"
+title: "sdk-for-ios-explore-api-reference-structs-poipaymentdetails"
 slug: "sdk-for-ios-explore-api-reference-structs-poipaymentdetails"
 ---
 

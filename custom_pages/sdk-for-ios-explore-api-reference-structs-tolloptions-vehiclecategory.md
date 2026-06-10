@@ -1,5 +1,5 @@
 ---
-title: "TollOptions / VehicleCategory"
+title: "sdk-for-ios-explore-api-reference-structs-tolloptions-vehiclecategory"
 slug: "sdk-for-ios-explore-api-reference-structs-tolloptions-vehiclecategory"
 ---
 

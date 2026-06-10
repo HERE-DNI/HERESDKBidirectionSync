@@ -1,5 +1,5 @@
 ---
-title: "Routing / TransitWaypoint"
+title: "sdk-for-ios-explore-api-reference-structs-transitwaypoint"
 slug: "sdk-for-ios-explore-api-reference-structs-transitwaypoint"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Maps / QuadMeshBuilder"
+title: "sdk-for-ios-explore-api-reference-classes-quadmeshbuilder"
 slug: "sdk-for-ios-explore-api-reference-classes-quadmeshbuilder"
 ---
 

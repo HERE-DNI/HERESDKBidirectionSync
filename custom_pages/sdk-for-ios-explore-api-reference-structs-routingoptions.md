@@ -1,5 +1,5 @@
 ---
-title: "Routing / RoutingOptions"
+title: "sdk-for-ios-explore-api-reference-structs-routingoptions"
 slug: "sdk-for-ios-explore-api-reference-structs-routingoptions"
 ---
 

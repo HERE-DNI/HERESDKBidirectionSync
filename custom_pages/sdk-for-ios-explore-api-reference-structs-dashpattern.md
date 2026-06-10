@@ -1,5 +1,5 @@
 ---
-title: "Maps / DashPattern"
+title: "sdk-for-ios-explore-api-reference-structs-dashpattern"
 slug: "sdk-for-ios-explore-api-reference-structs-dashpattern"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Maps / GeoOrientationKeyframe"
+title: "sdk-for-ios-explore-api-reference-structs-geoorientationkeyframe"
 slug: "sdk-for-ios-explore-api-reference-structs-geoorientationkeyframe"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Maps / MapProjection"
+title: "sdk-for-ios-explore-api-reference-enums-mapprojection"
 slug: "sdk-for-ios-explore-api-reference-enums-mapprojection"
 ---
 

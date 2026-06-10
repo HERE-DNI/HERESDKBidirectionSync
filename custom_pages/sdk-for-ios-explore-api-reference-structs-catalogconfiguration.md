@@ -1,5 +1,5 @@
 ---
-title: "Core / CatalogConfiguration"
+title: "sdk-for-ios-explore-api-reference-structs-catalogconfiguration"
 slug: "sdk-for-ios-explore-api-reference-structs-catalogconfiguration"
 ---
 

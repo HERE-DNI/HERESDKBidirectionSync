@@ -1,5 +1,5 @@
 ---
-title: "Core / NetworkSettings"
+title: "sdk-for-ios-explore-api-reference-structs-networksettings"
 slug: "sdk-for-ios-explore-api-reference-structs-networksettings"
 ---
 

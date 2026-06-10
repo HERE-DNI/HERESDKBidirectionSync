@@ -1,5 +1,5 @@
 ---
-title: "Routing / PassThroughWaypoint"
+title: "sdk-for-ios-explore-api-reference-structs-passthroughwaypoint"
 slug: "sdk-for-ios-explore-api-reference-structs-passthroughwaypoint"
 ---
 

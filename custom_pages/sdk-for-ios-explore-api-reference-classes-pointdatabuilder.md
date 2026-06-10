@@ -1,5 +1,5 @@
 ---
-title: "Maps / PointDataBuilder"
+title: "sdk-for-ios-explore-api-reference-classes-pointdatabuilder"
 slug: "sdk-for-ios-explore-api-reference-classes-pointdatabuilder"
 ---
 

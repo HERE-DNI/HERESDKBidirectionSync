@@ -1,5 +1,5 @@
 ---
-title: "MapLoader / LineDataSource"
+title: "sdk-for-ios-explore-api-reference-classes-linedatasource"
 slug: "sdk-for-ios-explore-api-reference-classes-linedatasource"
 ---
 

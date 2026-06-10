@@ -1,5 +1,5 @@
 ---
-title: "Maps / KeyframeInterpolationMode"
+title: "sdk-for-ios-explore-api-reference-enums-keyframeinterpolationmode"
 slug: "sdk-for-ios-explore-api-reference-enums-keyframeinterpolationmode"
 ---
 

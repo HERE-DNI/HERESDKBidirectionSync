@@ -1,5 +1,5 @@
 ---
-title: "Routing / TunnelCategory"
+title: "sdk-for-ios-explore-api-reference-enums-tunnelcategory"
 slug: "sdk-for-ios-explore-api-reference-enums-tunnelcategory"
 ---
 

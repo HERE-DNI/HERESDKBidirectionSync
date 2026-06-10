@@ -1,5 +1,5 @@
 ---
-title: "Maps / MapPickResult"
+title: "sdk-for-ios-explore-api-reference-classes-mappickresult"
 slug: "sdk-for-ios-explore-api-reference-classes-mappickresult"
 ---
 

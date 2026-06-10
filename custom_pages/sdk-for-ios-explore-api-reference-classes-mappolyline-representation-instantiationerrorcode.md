@@ -1,5 +1,5 @@
 ---
-title: "Representation / InstantiationErrorCode"
+title: "sdk-for-ios-explore-api-reference-classes-mappolyline-representation-instantiationerrorcode"
 slug: "sdk-for-ios-explore-api-reference-classes-mappolyline-representation-instantiationerrorcode"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Maps / MapItemKeyFrameTrack"
+title: "sdk-for-ios-explore-api-reference-classes-mapitemkeyframetrack"
 slug: "sdk-for-ios-explore-api-reference-classes-mapitemkeyframetrack"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Maps / MapPolyline"
+title: "sdk-for-ios-explore-api-reference-classes-mappolyline"
 slug: "sdk-for-ios-explore-api-reference-classes-mappolyline"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Search / PlaceIdQuery"
+title: "sdk-for-ios-explore-api-reference-structs-placeidquery"
 slug: "sdk-for-ios-explore-api-reference-structs-placeidquery"
 ---
 

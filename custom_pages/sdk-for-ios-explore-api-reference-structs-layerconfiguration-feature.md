@@ -1,5 +1,5 @@
 ---
-title: "LayerConfiguration / Feature"
+title: "sdk-for-ios-explore-api-reference-structs-layerconfiguration-feature"
 slug: "sdk-for-ios-explore-api-reference-structs-layerconfiguration-feature"
 ---
 

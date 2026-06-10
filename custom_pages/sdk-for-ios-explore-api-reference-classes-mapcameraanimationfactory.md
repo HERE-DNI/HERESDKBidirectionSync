@@ -1,5 +1,5 @@
 ---
-title: "Maps / MapCameraAnimationFactory"
+title: "sdk-for-ios-explore-api-reference-classes-mapcameraanimationfactory"
 slug: "sdk-for-ios-explore-api-reference-classes-mapcameraanimationfactory"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Routing / TransitTransport"
+title: "sdk-for-ios-explore-api-reference-structs-transittransport"
 slug: "sdk-for-ios-explore-api-reference-structs-transittransport"
 ---
 

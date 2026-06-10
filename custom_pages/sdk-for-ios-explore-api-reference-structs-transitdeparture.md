@@ -1,5 +1,5 @@
 ---
-title: "Routing / TransitDeparture"
+title: "sdk-for-ios-explore-api-reference-structs-transitdeparture"
 slug: "sdk-for-ios-explore-api-reference-structs-transitdeparture"
 ---
 

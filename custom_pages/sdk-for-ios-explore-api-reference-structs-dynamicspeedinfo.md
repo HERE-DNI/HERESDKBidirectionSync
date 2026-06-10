@@ -1,5 +1,5 @@
 ---
-title: "Routing / DynamicSpeedInfo"
+title: "sdk-for-ios-explore-api-reference-structs-dynamicspeedinfo"
 slug: "sdk-for-ios-explore-api-reference-structs-dynamicspeedinfo"
 ---
 

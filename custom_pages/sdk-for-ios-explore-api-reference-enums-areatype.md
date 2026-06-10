@@ -1,5 +1,5 @@
 ---
-title: "Search / AreaType"
+title: "sdk-for-ios-explore-api-reference-enums-areatype"
 slug: "sdk-for-ios-explore-api-reference-enums-areatype"
 ---
 

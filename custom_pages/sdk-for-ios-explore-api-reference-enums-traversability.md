@@ -1,5 +1,5 @@
 ---
-title: "Traffic / Traversability"
+title: "sdk-for-ios-explore-api-reference-enums-traversability"
 slug: "sdk-for-ios-explore-api-reference-enums-traversability"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Core / Size2D"
+title: "sdk-for-ios-explore-api-reference-structs-size2d"
 slug: "sdk-for-ios-explore-api-reference-structs-size2d"
 ---
 

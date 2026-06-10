@@ -1,5 +1,5 @@
 ---
-title: "Core / CatalogIdentifier"
+title: "sdk-for-ios-explore-api-reference-structs-catalogidentifier"
 slug: "sdk-for-ios-explore-api-reference-structs-catalogidentifier"
 ---
 

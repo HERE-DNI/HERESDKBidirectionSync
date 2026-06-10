@@ -1,5 +1,5 @@
 ---
-title: "MapItemKeyFrameTrack / InstantiationErrorCode"
+title: "sdk-for-ios-explore-api-reference-classes-mapitemkeyframetrack-instantiationerrorcode"
 slug: "sdk-for-ios-explore-api-reference-classes-mapitemkeyframetrack-instantiationerrorcode"
 ---
 

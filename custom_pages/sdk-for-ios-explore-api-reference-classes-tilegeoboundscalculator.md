@@ -1,5 +1,5 @@
 ---
-title: "Maps / TileGeoBoundsCalculator"
+title: "sdk-for-ios-explore-api-reference-classes-tilegeoboundscalculator"
 slug: "sdk-for-ios-explore-api-reference-classes-tilegeoboundscalculator"
 ---
 

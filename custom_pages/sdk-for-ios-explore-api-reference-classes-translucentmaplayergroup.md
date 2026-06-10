@@ -1,5 +1,5 @@
 ---
-title: "Maps / TranslucentMapLayerGroup"
+title: "sdk-for-ios-explore-api-reference-classes-translucentmaplayergroup"
 slug: "sdk-for-ios-explore-api-reference-classes-translucentmaplayergroup"
 ---
 

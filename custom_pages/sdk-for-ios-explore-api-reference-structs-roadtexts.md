@@ -1,5 +1,5 @@
 ---
-title: "Routing / RoadTexts"
+title: "sdk-for-ios-explore-api-reference-structs-roadtexts"
 slug: "sdk-for-ios-explore-api-reference-structs-roadtexts"
 ---
 

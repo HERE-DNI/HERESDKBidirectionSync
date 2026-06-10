@@ -1,5 +1,5 @@
 ---
-title: "Core / LanguageCode"
+title: "sdk-for-ios-explore-api-reference-enums-languagecode"
 slug: "sdk-for-ios-explore-api-reference-enums-languagecode"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "MapLoader"
+title: "sdk-for-ios-explore-api-reference-maploader"
 slug: "sdk-for-ios-explore-api-reference-maploader"
 ---
 

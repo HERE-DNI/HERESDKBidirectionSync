@@ -1,5 +1,5 @@
 ---
-title: "Routing / SectionNoticeCode"
+title: "sdk-for-ios-explore-api-reference-enums-sectionnoticecode"
 slug: "sdk-for-ios-explore-api-reference-enums-sectionnoticecode"
 ---
 

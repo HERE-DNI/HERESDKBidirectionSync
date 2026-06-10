@@ -1,5 +1,5 @@
 ---
-title: "Routing / TruckOptions"
+title: "sdk-for-ios-explore-api-reference-structs-truckoptions"
 slug: "sdk-for-ios-explore-api-reference-structs-truckoptions"
 ---
 
@@ -30,7 +30,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-truckoptions"
 <h1>TruckOptions</h1>
 <div class="declaration">
 <div class="language">
-<pre class="highlight swift"><code><span class="kd">@available(*, deprecated, message: "Will be removed in v4.28.0. Use <code>RoutingOptions</code> class instead.")</span>
+<pre class="highlight swift"><code><span class="kd">@available(*, deprecated, message: "Will be removed in v4.28.0. Use `RoutingOptions` class instead.")</span>
 <span class="kd">public</span> <span class="kd">struct</span> <span class="kt">TruckOptions</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>

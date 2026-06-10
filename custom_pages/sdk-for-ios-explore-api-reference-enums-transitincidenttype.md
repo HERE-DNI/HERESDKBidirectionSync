@@ -1,5 +1,5 @@
 ---
-title: "Routing / TransitIncidentType"
+title: "sdk-for-ios-explore-api-reference-enums-transitincidenttype"
 slug: "sdk-for-ios-explore-api-reference-enums-transitincidenttype"
 ---
 

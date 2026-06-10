@@ -1,5 +1,5 @@
 ---
-title: "Routing / VehicleRestrictionMaxWeightType"
+title: "sdk-for-ios-explore-api-reference-enums-vehiclerestrictionmaxweighttype"
 slug: "sdk-for-ios-explore-api-reference-enums-vehiclerestrictionmaxweighttype"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Routing / ViolatedRestriction"
+title: "sdk-for-ios-explore-api-reference-structs-violatedrestriction"
 slug: "sdk-for-ios-explore-api-reference-structs-violatedrestriction"
 ---
 

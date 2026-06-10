@@ -1,5 +1,5 @@
 ---
-title: "MapCamera / FarPlaneConfiguration"
+title: "sdk-for-ios-explore-api-reference-classes-mapcamera-farplaneconfiguration"
 slug: "sdk-for-ios-explore-api-reference-classes-mapcamera-farplaneconfiguration"
 ---
 

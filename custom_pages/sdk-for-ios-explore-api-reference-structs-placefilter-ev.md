@@ -1,5 +1,5 @@
 ---
-title: "PlaceFilter / Ev"
+title: "sdk-for-ios-explore-api-reference-structs-placefilter-ev"
 slug: "sdk-for-ios-explore-api-reference-structs-placefilter-ev"
 ---
 

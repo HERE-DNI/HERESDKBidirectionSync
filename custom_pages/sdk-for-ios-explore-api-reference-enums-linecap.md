@@ -1,5 +1,5 @@
 ---
-title: "Maps / LineCap"
+title: "sdk-for-ios-explore-api-reference-enums-linecap"
 slug: "sdk-for-ios-explore-api-reference-enums-linecap"
 ---
 

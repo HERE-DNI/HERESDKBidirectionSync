@@ -1,5 +1,5 @@
 ---
-title: "MapPolyline / SolidMultiColorRepresentation"
+title: "sdk-for-ios-explore-api-reference-classes-mappolyline-solidmulticolorrepresentation"
 slug: "sdk-for-ios-explore-api-reference-classes-mappolyline-solidmulticolorrepresentation"
 ---
 

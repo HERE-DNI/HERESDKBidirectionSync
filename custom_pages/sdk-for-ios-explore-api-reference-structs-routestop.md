@@ -1,5 +1,5 @@
 ---
-title: "Routing / RouteStop"
+title: "sdk-for-ios-explore-api-reference-structs-routestop"
 slug: "sdk-for-ios-explore-api-reference-structs-routestop"
 ---
 

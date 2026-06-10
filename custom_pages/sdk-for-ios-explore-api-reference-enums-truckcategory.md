@@ -1,5 +1,5 @@
 ---
-title: "Transport / TruckCategory"
+title: "sdk-for-ios-explore-api-reference-enums-truckcategory"
 slug: "sdk-for-ios-explore-api-reference-enums-truckcategory"
 ---
 

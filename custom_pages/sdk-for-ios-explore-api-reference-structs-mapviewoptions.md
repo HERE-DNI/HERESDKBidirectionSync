@@ -1,5 +1,5 @@
 ---
-title: "Maps / MapViewOptions"
+title: "sdk-for-ios-explore-api-reference-structs-mapviewoptions"
 slug: "sdk-for-ios-explore-api-reference-structs-mapviewoptions"
 ---
 

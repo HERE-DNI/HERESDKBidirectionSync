@@ -1,5 +1,5 @@
 ---
-title: "Routing / SectionNotice"
+title: "sdk-for-ios-explore-api-reference-structs-sectionnotice"
 slug: "sdk-for-ios-explore-api-reference-structs-sectionnotice"
 ---
 

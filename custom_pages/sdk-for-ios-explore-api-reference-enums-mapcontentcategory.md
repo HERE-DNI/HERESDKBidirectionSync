@@ -1,5 +1,5 @@
 ---
-title: "Maps / MapContentCategory"
+title: "sdk-for-ios-explore-api-reference-enums-mapcontentcategory"
 slug: "sdk-for-ios-explore-api-reference-enums-mapcontentcategory"
 ---
 

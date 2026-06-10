@@ -1,5 +1,5 @@
 ---
-title: "Routing / IsolineRoutingEngine"
+title: "sdk-for-ios-explore-api-reference-classes-isolineroutingengine"
 slug: "sdk-for-ios-explore-api-reference-classes-isolineroutingengine"
 ---
 

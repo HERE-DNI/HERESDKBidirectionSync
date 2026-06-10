@@ -1,5 +1,5 @@
 ---
-title: "MapContext / MemoryManagementResultCode"
+title: "sdk-for-ios-explore-api-reference-classes-mapcontext-memorymanagementresultcode"
 slug: "sdk-for-ios-explore-api-reference-classes-mapcontext-memorymanagementresultcode"
 ---
 

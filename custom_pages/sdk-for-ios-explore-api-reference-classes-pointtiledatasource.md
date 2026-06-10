@@ -1,5 +1,5 @@
 ---
-title: "Maps / PointTileDataSource"
+title: "sdk-for-ios-explore-api-reference-classes-pointtiledatasource"
 slug: "sdk-for-ios-explore-api-reference-classes-pointtiledatasource"
 ---
 

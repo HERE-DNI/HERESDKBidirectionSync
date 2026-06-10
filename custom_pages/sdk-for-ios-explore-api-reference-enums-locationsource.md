@@ -1,5 +1,5 @@
 ---
-title: "Core / LocationSource"
+title: "sdk-for-ios-explore-api-reference-enums-locationsource"
 slug: "sdk-for-ios-explore-api-reference-enums-locationsource"
 ---
 
