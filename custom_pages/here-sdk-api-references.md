@@ -16,4 +16,4 @@ Flutter Navigate: <Anchor label="Flutter Navigate API Reference" target="_blank"
 
 <br />
 
-iOS Explore <Anchor label="iOS Explore API Reference" target="_blank" href="sdk-for-ios-explore-api-reference-index.md">iOS Explore API Reference</Anchor>
+iOS Explore <Anchor label="iOS Explore API Reference" target="_blank" href="sdk-for-ios-explore-api-reference-index">iOS Explore API Reference</Anchor>
