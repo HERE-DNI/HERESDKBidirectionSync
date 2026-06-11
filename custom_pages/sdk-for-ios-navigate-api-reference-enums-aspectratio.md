@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-navigate-api-reference-enums-aspectratio"
+title: "AspectRatio"
 slug: "sdk-for-ios-navigate-api-reference-enums-aspectratio"
 ---
 
@@ -16,9 +16,9 @@ slug: "sdk-for-ios-navigate-api-reference-enums-aspectratio"
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-navigate-api-reference-navigation">Navigation</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         AspectRatio Enumeration Reference
       </p>
 </div>

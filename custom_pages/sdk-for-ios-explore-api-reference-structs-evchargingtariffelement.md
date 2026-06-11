@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-explore-api-reference-structs-evchargingtariffelement"
+title: "EVChargingTariffElement"
 slug: "sdk-for-ios-explore-api-reference-structs-evchargingtariffelement"
 ---
 
@@ -16,9 +16,9 @@ slug: "sdk-for-ios-explore-api-reference-structs-evchargingtariffelement"
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-explore-api-reference-search">Search</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         EVChargingTariffElement Structure Reference
       </p>
 </div>

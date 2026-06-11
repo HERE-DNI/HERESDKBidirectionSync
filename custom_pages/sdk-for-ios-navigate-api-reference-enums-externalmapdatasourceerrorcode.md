@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-navigate-api-reference-enums-externalmapdatasourceerrorcode"
+title: "ExternalMapDataSourceErrorCode"
 slug: "sdk-for-ios-navigate-api-reference-enums-externalmapdatasourceerrorcode"
 ---
 
@@ -16,9 +16,9 @@ slug: "sdk-for-ios-navigate-api-reference-enums-externalmapdatasourceerrorcode"
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-navigate-api-reference-maploader">MapLoader</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         ExternalMapDataSourceErrorCode Enumeration Reference
       </p>
 </div>

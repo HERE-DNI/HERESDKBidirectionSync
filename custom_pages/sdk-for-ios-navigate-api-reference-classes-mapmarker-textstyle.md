@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-navigate-api-reference-classes-mapmarker-textstyle"
+title: "TextStyle"
 slug: "sdk-for-ios-navigate-api-reference-classes-mapmarker-textstyle"
 ---
 
@@ -16,11 +16,11 @@ slug: "sdk-for-ios-navigate-api-reference-classes-mapmarker-textstyle"
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-navigate-api-reference-maps">Maps</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-navigate-api-reference-classes-mapmarker">MapMarker</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         TextStyle Class Reference
       </p>
 </div>

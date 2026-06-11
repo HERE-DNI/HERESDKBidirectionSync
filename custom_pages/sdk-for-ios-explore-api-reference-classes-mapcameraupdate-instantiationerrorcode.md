@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-explore-api-reference-classes-mapcameraupdate-instantiationerrorcode"
+title: "InstantiationErrorCode"
 slug: "sdk-for-ios-explore-api-reference-classes-mapcameraupdate-instantiationerrorcode"
 ---
 
@@ -16,11 +16,11 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapcameraupdate-instantiationer
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-explore-api-reference-maps">Maps</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-explore-api-reference-classes-mapcameraupdate">MapCameraUpdate</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         InstantiationErrorCode Enumeration Reference
       </p>
 </div>

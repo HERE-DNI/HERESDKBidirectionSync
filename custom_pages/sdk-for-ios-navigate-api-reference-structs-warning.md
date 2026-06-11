@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-navigate-api-reference-structs-warning"
+title: "Warning"
 slug: "sdk-for-ios-navigate-api-reference-structs-warning"
 ---
 
@@ -16,9 +16,9 @@ slug: "sdk-for-ios-navigate-api-reference-structs-warning"
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-navigate-api-reference-warnerengine">WarnerEngine</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         Warning Structure Reference
       </p>
 </div>

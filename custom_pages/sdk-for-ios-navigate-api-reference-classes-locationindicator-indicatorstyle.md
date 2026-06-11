@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-navigate-api-reference-classes-locationindicator-indicatorstyle"
+title: "IndicatorStyle"
 slug: "sdk-for-ios-navigate-api-reference-classes-locationindicator-indicatorstyle"
 ---
 
@@ -16,11 +16,11 @@ slug: "sdk-for-ios-navigate-api-reference-classes-locationindicator-indicatorsty
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-navigate-api-reference-maps">Maps</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-navigate-api-reference-classes-locationindicator">LocationIndicator</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         IndicatorStyle Enumeration Reference
       </p>
 </div>

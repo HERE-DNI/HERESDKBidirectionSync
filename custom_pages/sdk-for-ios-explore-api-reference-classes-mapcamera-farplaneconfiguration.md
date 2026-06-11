@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-explore-api-reference-classes-mapcamera-farplaneconfiguration"
+title: "FarPlaneConfiguration"
 slug: "sdk-for-ios-explore-api-reference-classes-mapcamera-farplaneconfiguration"
 ---
 
@@ -16,11 +16,11 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapcamera-farplaneconfiguration
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-explore-api-reference-maps">Maps</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-explore-api-reference-classes-mapcamera">MapCamera</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         FarPlaneConfiguration Structure Reference
       </p>
 </div>

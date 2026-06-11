@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-explore-api-reference-classes-polygontiledatasource"
+title: "PolygonTileDataSource"
 slug: "sdk-for-ios-explore-api-reference-classes-polygontiledatasource"
 ---
 
@@ -16,9 +16,9 @@ slug: "sdk-for-ios-explore-api-reference-classes-polygontiledatasource"
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-explore-api-reference-maps">Maps</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         PolygonTileDataSource Class Reference
       </p>
 </div>

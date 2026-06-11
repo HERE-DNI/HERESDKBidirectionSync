@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-explore-api-reference-classes-pickmapitemsresult"
+title: "PickMapItemsResult"
 slug: "sdk-for-ios-explore-api-reference-classes-pickmapitemsresult"
 ---
 
@@ -16,9 +16,9 @@ slug: "sdk-for-ios-explore-api-reference-classes-pickmapitemsresult"
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-explore-api-reference-maps">Maps</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         PickMapItemsResult Class Reference
       </p>
 </div>

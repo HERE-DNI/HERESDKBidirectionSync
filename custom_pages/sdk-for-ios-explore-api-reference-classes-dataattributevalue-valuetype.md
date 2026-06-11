@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-explore-api-reference-classes-dataattributevalue-valuetype"
+title: "ValueType"
 slug: "sdk-for-ios-explore-api-reference-classes-dataattributevalue-valuetype"
 ---
 
@@ -16,11 +16,11 @@ slug: "sdk-for-ios-explore-api-reference-classes-dataattributevalue-valuetype"
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-explore-api-reference-maps">Maps</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-explore-api-reference-classes-dataattributevalue">DataAttributeValue</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         ValueType Enumeration Reference
       </p>
 </div>

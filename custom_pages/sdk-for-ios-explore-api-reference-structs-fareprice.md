@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-explore-api-reference-structs-fareprice"
+title: "FarePrice"
 slug: "sdk-for-ios-explore-api-reference-structs-fareprice"
 ---
 
@@ -16,9 +16,9 @@ slug: "sdk-for-ios-explore-api-reference-structs-fareprice"
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-explore-api-reference-routing">Routing</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         FarePrice Structure Reference
       </p>
 </div>

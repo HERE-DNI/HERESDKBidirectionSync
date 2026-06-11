@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-explore-api-reference-protocols-routingprotocol"
+title: "RoutingProtocol"
 slug: "sdk-for-ios-explore-api-reference-protocols-routingprotocol"
 ---
 
@@ -16,9 +16,9 @@ slug: "sdk-for-ios-explore-api-reference-protocols-routingprotocol"
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-explore-api-reference-routing">Routing</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         RoutingProtocol Protocol Reference
       </p>
 </div>

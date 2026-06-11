@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-explore-api-reference-structs-trafficincidentsqueryoptions"
+title: "TrafficIncidentsQueryOptions"
 slug: "sdk-for-ios-explore-api-reference-structs-trafficincidentsqueryoptions"
 ---
 
@@ -16,9 +16,9 @@ slug: "sdk-for-ios-explore-api-reference-structs-trafficincidentsqueryoptions"
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-explore-api-reference-traffic">Traffic</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         TrafficIncidentsQueryOptions Structure Reference
       </p>
 </div>

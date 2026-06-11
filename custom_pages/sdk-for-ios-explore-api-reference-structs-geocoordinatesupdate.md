@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-explore-api-reference-structs-geocoordinatesupdate"
+title: "GeoCoordinatesUpdate"
 slug: "sdk-for-ios-explore-api-reference-structs-geocoordinatesupdate"
 ---
 
@@ -16,9 +16,9 @@ slug: "sdk-for-ios-explore-api-reference-structs-geocoordinatesupdate"
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-explore-api-reference-core">Core</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         GeoCoordinatesUpdate Structure Reference
       </p>
 </div>

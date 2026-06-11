@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-explore-api-reference-structs-textusageoptions"
+title: "TextUsageOptions"
 slug: "sdk-for-ios-explore-api-reference-structs-textusageoptions"
 ---
 
@@ -16,9 +16,9 @@ slug: "sdk-for-ios-explore-api-reference-structs-textusageoptions"
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-explore-api-reference-routing">Routing</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         TextUsageOptions Structure Reference
       </p>
 </div>

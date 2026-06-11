@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-navigate-api-reference-protocols-customwarningprovider"
+title: "CustomWarningProvider"
 slug: "sdk-for-ios-navigate-api-reference-protocols-customwarningprovider"
 ---
 
@@ -16,9 +16,9 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-customwarningprovider"
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-navigate-api-reference-warnerengine">WarnerEngine</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         CustomWarningProvider Protocol Reference
       </p>
 </div>

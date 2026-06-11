@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-navigate-api-reference-structs-layerconfiguration-feature"
+title: "Feature"
 slug: "sdk-for-ios-navigate-api-reference-structs-layerconfiguration-feature"
 ---
 
@@ -16,11 +16,11 @@ slug: "sdk-for-ios-navigate-api-reference-structs-layerconfiguration-feature"
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-navigate-api-reference-core">Core</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-navigate-api-reference-structs-layerconfiguration">LayerConfiguration</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         Feature Enumeration Reference
       </p>
 </div>

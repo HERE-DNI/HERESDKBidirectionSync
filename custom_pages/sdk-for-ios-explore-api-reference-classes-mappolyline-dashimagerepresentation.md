@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-explore-api-reference-classes-mappolyline-dashimagerepresentation"
+title: "DashImageRepresentation"
 slug: "sdk-for-ios-explore-api-reference-classes-mappolyline-dashimagerepresentation"
 ---
 
@@ -16,11 +16,11 @@ slug: "sdk-for-ios-explore-api-reference-classes-mappolyline-dashimagerepresenta
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-explore-api-reference-maps">Maps</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-explore-api-reference-classes-mappolyline">MapPolyline</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         DashImageRepresentation Class Reference
       </p>
 </div>

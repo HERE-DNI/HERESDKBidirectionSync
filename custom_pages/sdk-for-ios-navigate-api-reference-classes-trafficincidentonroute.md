@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-navigate-api-reference-classes-trafficincidentonroute"
+title: "TrafficIncidentOnRoute"
 slug: "sdk-for-ios-navigate-api-reference-classes-trafficincidentonroute"
 ---
 
@@ -16,9 +16,9 @@ slug: "sdk-for-ios-navigate-api-reference-classes-trafficincidentonroute"
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-navigate-api-reference-traffic">Traffic</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         TrafficIncidentOnRoute Class Reference
       </p>
 </div>

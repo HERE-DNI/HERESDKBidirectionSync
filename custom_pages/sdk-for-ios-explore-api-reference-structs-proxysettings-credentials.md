@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-explore-api-reference-structs-proxysettings-credentials"
+title: "Credentials"
 slug: "sdk-for-ios-explore-api-reference-structs-proxysettings-credentials"
 ---
 
@@ -16,11 +16,11 @@ slug: "sdk-for-ios-explore-api-reference-structs-proxysettings-credentials"
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-explore-api-reference-core">Core</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-explore-api-reference-structs-proxysettings">ProxySettings</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         Credentials Structure Reference
       </p>
 </div>

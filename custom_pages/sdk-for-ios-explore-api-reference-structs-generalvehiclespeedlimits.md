@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-explore-api-reference-structs-generalvehiclespeedlimits"
+title: "GeneralVehicleSpeedLimits"
 slug: "sdk-for-ios-explore-api-reference-structs-generalvehiclespeedlimits"
 ---
 
@@ -16,9 +16,9 @@ slug: "sdk-for-ios-explore-api-reference-structs-generalvehiclespeedlimits"
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-explore-api-reference-transport">Transport</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         GeneralVehicleSpeedLimits Structure Reference
       </p>
 </div>

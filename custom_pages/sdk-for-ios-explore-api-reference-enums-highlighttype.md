@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-explore-api-reference-enums-highlighttype"
+title: "HighlightType"
 slug: "sdk-for-ios-explore-api-reference-enums-highlighttype"
 ---
 
@@ -16,9 +16,9 @@ slug: "sdk-for-ios-explore-api-reference-enums-highlighttype"
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-explore-api-reference-search">Search</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         HighlightType Enumeration Reference
       </p>
 </div>

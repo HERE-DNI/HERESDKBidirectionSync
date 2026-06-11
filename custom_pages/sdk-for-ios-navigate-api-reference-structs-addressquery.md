@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-navigate-api-reference-structs-addressquery"
+title: "AddressQuery"
 slug: "sdk-for-ios-navigate-api-reference-structs-addressquery"
 ---
 
@@ -16,9 +16,9 @@ slug: "sdk-for-ios-navigate-api-reference-structs-addressquery"
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-navigate-api-reference-search">Search</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         AddressQuery Structure Reference
       </p>
 </div>

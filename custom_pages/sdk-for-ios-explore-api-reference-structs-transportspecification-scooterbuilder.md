@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-explore-api-reference-structs-transportspecification-scooterbuilder"
+title: "ScooterBuilder"
 slug: "sdk-for-ios-explore-api-reference-structs-transportspecification-scooterbuilder"
 ---
 
@@ -16,11 +16,11 @@ slug: "sdk-for-ios-explore-api-reference-structs-transportspecification-scooterb
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-explore-api-reference-transport">Transport</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-explore-api-reference-structs-transportspecification">TransportSpecification</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         ScooterBuilder Class Reference
       </p>
 </div>

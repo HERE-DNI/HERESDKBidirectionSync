@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-explore-api-reference-structs-scooteroptions"
+title: "ScooterOptions"
 slug: "sdk-for-ios-explore-api-reference-structs-scooteroptions"
 ---
 
@@ -16,9 +16,9 @@ slug: "sdk-for-ios-explore-api-reference-structs-scooteroptions"
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-explore-api-reference-routing">Routing</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         ScooterOptions Structure Reference
       </p>
 </div>

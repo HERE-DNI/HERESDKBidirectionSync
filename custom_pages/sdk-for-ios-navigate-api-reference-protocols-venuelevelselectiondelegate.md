@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-navigate-api-reference-protocols-venuelevelselectiondelegate"
+title: "VenueLevelSelectionDelegate"
 slug: "sdk-for-ios-navigate-api-reference-protocols-venuelevelselectiondelegate"
 ---
 
@@ -16,9 +16,9 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-venuelevelselectiondelegate"
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-navigate-api-reference-venues">Venues</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         VenueLevelSelectionDelegate Protocol Reference
       </p>
 </div>

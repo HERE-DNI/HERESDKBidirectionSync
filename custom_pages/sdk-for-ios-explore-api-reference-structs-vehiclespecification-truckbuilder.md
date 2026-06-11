@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-explore-api-reference-structs-vehiclespecification-truckbuilder"
+title: "TruckBuilder"
 slug: "sdk-for-ios-explore-api-reference-structs-vehiclespecification-truckbuilder"
 ---
 
@@ -16,11 +16,11 @@ slug: "sdk-for-ios-explore-api-reference-structs-vehiclespecification-truckbuild
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-explore-api-reference-routing">Routing</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-explore-api-reference-structs-vehiclespecification">VehicleSpecification</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         TruckBuilder Class Reference
       </p>
 </div>

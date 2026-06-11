@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-navigate-api-reference-classes-speedbasedcamerabehavior-profilevalue"
+title: "ProfileValue"
 slug: "sdk-for-ios-navigate-api-reference-classes-speedbasedcamerabehavior-profilevalue"
 ---
 
@@ -16,11 +16,11 @@ slug: "sdk-for-ios-navigate-api-reference-classes-speedbasedcamerabehavior-profi
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-navigate-api-reference-navigation">Navigation</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-navigate-api-reference-classes-speedbasedcamerabehavior">SpeedBasedCameraBehavior</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         ProfileValue Structure Reference
       </p>
 </div>

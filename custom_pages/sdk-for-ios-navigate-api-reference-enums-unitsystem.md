@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-navigate-api-reference-enums-unitsystem"
+title: "UnitSystem"
 slug: "sdk-for-ios-navigate-api-reference-enums-unitsystem"
 ---
 
@@ -16,9 +16,9 @@ slug: "sdk-for-ios-navigate-api-reference-enums-unitsystem"
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-navigate-api-reference-core">Core</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         UnitSystem Enumeration Reference
       </p>
 </div>

@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-explore-api-reference-structs-usagestats-networkstats"
+title: "NetworkStats"
 slug: "sdk-for-ios-explore-api-reference-structs-usagestats-networkstats"
 ---
 
@@ -16,11 +16,11 @@ slug: "sdk-for-ios-explore-api-reference-structs-usagestats-networkstats"
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-explore-api-reference-core">Core</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-explore-api-reference-structs-usagestats">UsageStats</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         NetworkStats Structure Reference
       </p>
 </div>

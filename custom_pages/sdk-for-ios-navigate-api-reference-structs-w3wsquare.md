@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-navigate-api-reference-structs-w3wsquare"
+title: "W3WSquare"
 slug: "sdk-for-ios-navigate-api-reference-structs-w3wsquare"
 ---
 
@@ -16,9 +16,9 @@ slug: "sdk-for-ios-navigate-api-reference-structs-w3wsquare"
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-navigate-api-reference-search">Search</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         W3WSquare Structure Reference
       </p>
 </div>

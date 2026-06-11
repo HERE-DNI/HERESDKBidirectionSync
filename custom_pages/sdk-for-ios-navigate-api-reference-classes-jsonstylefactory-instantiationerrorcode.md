@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-navigate-api-reference-classes-jsonstylefactory-instantiationerrorcode"
+title: "InstantiationErrorCode"
 slug: "sdk-for-ios-navigate-api-reference-classes-jsonstylefactory-instantiationerrorcode"
 ---
 
@@ -16,11 +16,11 @@ slug: "sdk-for-ios-navigate-api-reference-classes-jsonstylefactory-instantiation
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-navigate-api-reference-maps">Maps</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-navigate-api-reference-classes-jsonstylefactory">JsonStyleFactory</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         InstantiationErrorCode Enumeration Reference
       </p>
 </div>

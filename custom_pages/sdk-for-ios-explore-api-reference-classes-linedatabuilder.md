@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-explore-api-reference-classes-linedatabuilder"
+title: "LineDataBuilder"
 slug: "sdk-for-ios-explore-api-reference-classes-linedatabuilder"
 ---
 
@@ -16,9 +16,9 @@ slug: "sdk-for-ios-explore-api-reference-classes-linedatabuilder"
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-explore-api-reference-maploader">MapLoader</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         LineDataBuilder Class Reference
       </p>
 </div>

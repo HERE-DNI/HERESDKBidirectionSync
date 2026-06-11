@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-navigate-api-reference-structs-segmentspeedlimit"
+title: "SegmentSpeedLimit"
 slug: "sdk-for-ios-navigate-api-reference-structs-segmentspeedlimit"
 ---
 
@@ -16,9 +16,9 @@ slug: "sdk-for-ios-navigate-api-reference-structs-segmentspeedlimit"
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-navigate-api-reference-mapdata">MapData</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         SegmentSpeedLimit Structure Reference
       </p>
 </div>

@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-navigate-api-reference-protocols-matchedlocationlistener"
+title: "MatchedLocationListener"
 slug: "sdk-for-ios-navigate-api-reference-protocols-matchedlocationlistener"
 ---
 
@@ -16,9 +16,9 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-matchedlocationlistener"
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-navigate-api-reference-other%20protocols">Other Protocols</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         MatchedLocationListener Protocol Reference
       </p>
 </div>

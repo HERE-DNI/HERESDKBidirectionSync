@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-navigate-api-reference-protocols-schoolzonewarningdelegate"
+title: "SchoolZoneWarningDelegate"
 slug: "sdk-for-ios-navigate-api-reference-protocols-schoolzonewarningdelegate"
 ---
 
@@ -16,9 +16,9 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-schoolzonewarningdelegate"
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-navigate-api-reference-navigation">Navigation</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         SchoolZoneWarningDelegate Protocol Reference
       </p>
 </div>

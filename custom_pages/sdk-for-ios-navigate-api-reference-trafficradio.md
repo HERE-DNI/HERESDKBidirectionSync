@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-navigate-api-reference-trafficradio"
+title: "TrafficRadio"
 slug: "sdk-for-ios-navigate-api-reference-trafficradio"
 ---
 
@@ -16,7 +16,7 @@ slug: "sdk-for-ios-navigate-api-reference-trafficradio"
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         TrafficRadio  Reference
       </p>
 </div>

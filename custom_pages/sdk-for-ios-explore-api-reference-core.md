@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-explore-api-reference-core"
+title: "Core"
 slug: "sdk-for-ios-explore-api-reference-core"
 ---
 
@@ -16,7 +16,7 @@ slug: "sdk-for-ios-explore-api-reference-core"
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         Core  Reference
       </p>
 </div>

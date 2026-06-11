@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-navigate-api-reference-structs-timerestriction-category"
+title: "Category"
 slug: "sdk-for-ios-navigate-api-reference-structs-timerestriction-category"
 ---
 
@@ -16,11 +16,11 @@ slug: "sdk-for-ios-navigate-api-reference-structs-timerestriction-category"
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-navigate-api-reference-transport">Transport</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-navigate-api-reference-structs-timerestriction">TimeRestriction</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         Category Enumeration Reference
       </p>
 </div>

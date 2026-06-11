@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-explore-api-reference-structs-mapmeasure-kind"
+title: "Kind"
 slug: "sdk-for-ios-explore-api-reference-structs-mapmeasure-kind"
 ---
 
@@ -16,11 +16,11 @@ slug: "sdk-for-ios-explore-api-reference-structs-mapmeasure-kind"
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-explore-api-reference-maps">Maps</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-explore-api-reference-structs-mapmeasure">MapMeasure</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         Kind Enumeration Reference
       </p>
 </div>

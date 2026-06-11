@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-navigate-api-reference-classes-sdkbuildinformation"
+title: "SDKBuildInformation"
 slug: "sdk-for-ios-navigate-api-reference-classes-sdkbuildinformation"
 ---
 
@@ -16,9 +16,9 @@ slug: "sdk-for-ios-navigate-api-reference-classes-sdkbuildinformation"
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-navigate-api-reference-core">Core</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         SDKBuildInformation Class Reference
       </p>
 </div>

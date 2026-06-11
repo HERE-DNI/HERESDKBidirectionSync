@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-explore-api-reference-classes-mapcamera-state"
+title: "State"
 slug: "sdk-for-ios-explore-api-reference-classes-mapcamera-state"
 ---
 
@@ -16,11 +16,11 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapcamera-state"
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-explore-api-reference-maps">Maps</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-explore-api-reference-classes-mapcamera">MapCamera</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         State Structure Reference
       </p>
 </div>

@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-explore-api-reference-protocols-runnable"
+title: "Runnable"
 slug: "sdk-for-ios-explore-api-reference-protocols-runnable"
 ---
 
@@ -16,9 +16,9 @@ slug: "sdk-for-ios-explore-api-reference-protocols-runnable"
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-explore-api-reference-core">Core</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         Runnable Protocol Reference
       </p>
 </div>

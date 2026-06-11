@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-navigate-api-reference-classes-locationsimulator"
+title: "LocationSimulator"
 slug: "sdk-for-ios-navigate-api-reference-classes-locationsimulator"
 ---
 
@@ -16,9 +16,9 @@ slug: "sdk-for-ios-navigate-api-reference-classes-locationsimulator"
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-navigate-api-reference-positioning">Positioning</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         LocationSimulator Class Reference
       </p>
 </div>

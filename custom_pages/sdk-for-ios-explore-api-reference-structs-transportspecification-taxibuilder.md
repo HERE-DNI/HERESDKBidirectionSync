@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-explore-api-reference-structs-transportspecification-taxibuilder"
+title: "TaxiBuilder"
 slug: "sdk-for-ios-explore-api-reference-structs-transportspecification-taxibuilder"
 ---
 
@@ -16,11 +16,11 @@ slug: "sdk-for-ios-explore-api-reference-structs-transportspecification-taxibuil
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-explore-api-reference-transport">Transport</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-explore-api-reference-structs-transportspecification">TransportSpecification</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         TaxiBuilder Class Reference
       </p>
 </div>

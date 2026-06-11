@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-navigate-api-reference-classes-locationmanager"
+title: "LocationManager"
 slug: "sdk-for-ios-navigate-api-reference-classes-locationmanager"
 ---
 
@@ -16,9 +16,9 @@ slug: "sdk-for-ios-navigate-api-reference-classes-locationmanager"
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-navigate-api-reference-other%20classes">Other Classes</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         LocationManager Class Reference
       </p>
 </div>

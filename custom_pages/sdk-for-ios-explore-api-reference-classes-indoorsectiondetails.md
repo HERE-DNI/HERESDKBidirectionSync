@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-explore-api-reference-classes-indoorsectiondetails"
+title: "IndoorSectionDetails"
 slug: "sdk-for-ios-explore-api-reference-classes-indoorsectiondetails"
 ---
 
@@ -16,9 +16,9 @@ slug: "sdk-for-ios-explore-api-reference-classes-indoorsectiondetails"
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-explore-api-reference-other%20classes">Other Classes</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         IndoorSectionDetails Class Reference
       </p>
 </div>

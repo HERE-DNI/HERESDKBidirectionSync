@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-navigate-api-reference-classes-speedbasedcamerabehavior"
+title: "SpeedBasedCameraBehavior"
 slug: "sdk-for-ios-navigate-api-reference-classes-speedbasedcamerabehavior"
 ---
 
@@ -16,9 +16,9 @@ slug: "sdk-for-ios-navigate-api-reference-classes-speedbasedcamerabehavior"
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-navigate-api-reference-navigation">Navigation</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         SpeedBasedCameraBehavior Class Reference
       </p>
 </div>

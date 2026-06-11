@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-navigate-api-reference-other structs"
+title: "Other Structures"
 slug: "sdk-for-ios-navigate-api-reference-other structs"
 ---
 
@@ -16,7 +16,7 @@ slug: "sdk-for-ios-navigate-api-reference-other structs"
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         Other Structures  Reference
       </p>
 </div>

@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-navigate-api-reference-protocols-offroadprogressdelegate"
+title: "OffRoadProgressDelegate"
 slug: "sdk-for-ios-navigate-api-reference-protocols-offroadprogressdelegate"
 ---
 
@@ -16,9 +16,9 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-offroadprogressdelegate"
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-navigate-api-reference-navigation">Navigation</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         OffRoadProgressDelegate Protocol Reference
       </p>
 </div>

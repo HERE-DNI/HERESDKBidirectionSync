@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-navigate-api-reference-enums-venueserviceinitstatus"
+title: "VenueServiceInitStatus"
 slug: "sdk-for-ios-navigate-api-reference-enums-venueserviceinitstatus"
 ---
 
@@ -16,9 +16,9 @@ slug: "sdk-for-ios-navigate-api-reference-enums-venueserviceinitstatus"
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-navigate-api-reference-venues">Venues</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         VenueServiceInitStatus Enumeration Reference
       </p>
 </div>

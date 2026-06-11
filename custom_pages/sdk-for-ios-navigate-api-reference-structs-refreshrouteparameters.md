@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-navigate-api-reference-structs-refreshrouteparameters"
+title: "RefreshRouteParameters"
 slug: "sdk-for-ios-navigate-api-reference-structs-refreshrouteparameters"
 ---
 
@@ -16,9 +16,9 @@ slug: "sdk-for-ios-navigate-api-reference-structs-refreshrouteparameters"
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-navigate-api-reference-other%20structs">Other Structures</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         RefreshRouteParameters Structure Reference
       </p>
 </div>

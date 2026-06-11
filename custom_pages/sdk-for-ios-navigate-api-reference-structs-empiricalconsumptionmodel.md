@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-navigate-api-reference-structs-empiricalconsumptionmodel"
+title: "EmpiricalConsumptionModel"
 slug: "sdk-for-ios-navigate-api-reference-structs-empiricalconsumptionmodel"
 ---
 
@@ -16,9 +16,9 @@ slug: "sdk-for-ios-navigate-api-reference-structs-empiricalconsumptionmodel"
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-navigate-api-reference-routing">Routing</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         EmpiricalConsumptionModel Structure Reference
       </p>
 </div>

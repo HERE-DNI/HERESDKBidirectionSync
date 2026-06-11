@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-explore-api-reference-protocols-logappender"
+title: "LogAppender"
 slug: "sdk-for-ios-explore-api-reference-protocols-logappender"
 ---
 
@@ -16,9 +16,9 @@ slug: "sdk-for-ios-explore-api-reference-protocols-logappender"
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-explore-api-reference-core">Core</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         LogAppender Protocol Reference
       </p>
 </div>

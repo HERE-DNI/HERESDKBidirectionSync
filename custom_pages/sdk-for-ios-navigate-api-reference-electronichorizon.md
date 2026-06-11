@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-navigate-api-reference-electronichorizon"
+title: "ElectronicHorizon"
 slug: "sdk-for-ios-navigate-api-reference-electronichorizon"
 ---
 
@@ -16,7 +16,7 @@ slug: "sdk-for-ios-navigate-api-reference-electronichorizon"
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         ElectronicHorizon  Reference
       </p>
 </div>

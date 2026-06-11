@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-navigate-api-reference-enums-localroadcharacteristic"
+title: "LocalRoadCharacteristic"
 slug: "sdk-for-ios-navigate-api-reference-enums-localroadcharacteristic"
 ---
 
@@ -16,9 +16,9 @@ slug: "sdk-for-ios-navigate-api-reference-enums-localroadcharacteristic"
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-navigate-api-reference-mapdata">MapData</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         LocalRoadCharacteristic Enumeration Reference
       </p>
 </div>

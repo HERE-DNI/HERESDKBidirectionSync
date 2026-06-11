@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-explore-api-reference-structs-usagestats-feature"
+title: "Feature"
 slug: "sdk-for-ios-explore-api-reference-structs-usagestats-feature"
 ---
 
@@ -16,11 +16,11 @@ slug: "sdk-for-ios-explore-api-reference-structs-usagestats-feature"
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-explore-api-reference-core">Core</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-explore-api-reference-structs-usagestats">UsageStats</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         Feature Enumeration Reference
       </p>
 </div>

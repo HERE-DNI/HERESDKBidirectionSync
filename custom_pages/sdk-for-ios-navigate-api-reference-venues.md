@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-navigate-api-reference-venues"
+title: "Venues"
 slug: "sdk-for-ios-navigate-api-reference-venues"
 ---
 
@@ -16,7 +16,7 @@ slug: "sdk-for-ios-navigate-api-reference-venues"
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         Venues  Reference
       </p>
 </div>

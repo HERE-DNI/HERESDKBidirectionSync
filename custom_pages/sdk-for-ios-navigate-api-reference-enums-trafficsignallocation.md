@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-navigate-api-reference-enums-trafficsignallocation"
+title: "TrafficSignalLocation"
 slug: "sdk-for-ios-navigate-api-reference-enums-trafficsignallocation"
 ---
 
@@ -16,9 +16,9 @@ slug: "sdk-for-ios-navigate-api-reference-enums-trafficsignallocation"
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-navigate-api-reference-mapdata">MapData</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         TrafficSignalLocation Enumeration Reference
       </p>
 </div>

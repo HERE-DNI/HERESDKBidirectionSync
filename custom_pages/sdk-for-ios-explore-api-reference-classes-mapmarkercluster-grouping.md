@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-explore-api-reference-classes-mapmarkercluster-grouping"
+title: "Grouping"
 slug: "sdk-for-ios-explore-api-reference-classes-mapmarkercluster-grouping"
 ---
 
@@ -16,11 +16,11 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapmarkercluster-grouping"
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-explore-api-reference-maps">Maps</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-explore-api-reference-classes-mapmarkercluster">MapMarkerCluster</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         Grouping Structure Reference
       </p>
 </div>

@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-navigate-api-reference-structs-electronichorizonsegment"
+title: "ElectronicHorizonSegment"
 slug: "sdk-for-ios-navigate-api-reference-structs-electronichorizonsegment"
 ---
 
@@ -16,9 +16,9 @@ slug: "sdk-for-ios-navigate-api-reference-structs-electronichorizonsegment"
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-navigate-api-reference-electronichorizon">ElectronicHorizon</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         ElectronicHorizonSegment Structure Reference
       </p>
 </div>

@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-explore-api-reference-structs-rasterdatasourceconfigurationupdate"
+title: "RasterDataSourceConfigurationUpdate"
 slug: "sdk-for-ios-explore-api-reference-structs-rasterdatasourceconfigurationupdate"
 ---
 
@@ -16,9 +16,9 @@ slug: "sdk-for-ios-explore-api-reference-structs-rasterdatasourceconfigurationup
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-explore-api-reference-maps">Maps</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         RasterDataSourceConfigurationUpdate Structure Reference
       </p>
 </div>

@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-navigate-api-reference-classes-dynamiccamerabehavior"
+title: "DynamicCameraBehavior"
 slug: "sdk-for-ios-navigate-api-reference-classes-dynamiccamerabehavior"
 ---
 
@@ -16,9 +16,9 @@ slug: "sdk-for-ios-navigate-api-reference-classes-dynamiccamerabehavior"
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-navigate-api-reference-navigation">Navigation</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         DynamicCameraBehavior Class Reference
       </p>
 </div>

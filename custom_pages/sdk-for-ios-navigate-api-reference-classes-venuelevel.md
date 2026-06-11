@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-navigate-api-reference-classes-venuelevel"
+title: "VenueLevel"
 slug: "sdk-for-ios-navigate-api-reference-classes-venuelevel"
 ---
 
@@ -16,9 +16,9 @@ slug: "sdk-for-ios-navigate-api-reference-classes-venuelevel"
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-navigate-api-reference-venues">Venues</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         VenueLevel Class Reference
       </p>
 </div>

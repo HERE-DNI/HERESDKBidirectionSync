@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-explore-api-reference-other functions"
+title: "Other Functions"
 slug: "sdk-for-ios-explore-api-reference-other functions"
 ---
 
@@ -16,7 +16,7 @@ slug: "sdk-for-ios-explore-api-reference-other functions"
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         Other Functions  Reference
       </p>
 </div>

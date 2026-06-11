@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-navigate-api-reference-enums-truckclass"
+title: "TruckClass"
 slug: "sdk-for-ios-navigate-api-reference-enums-truckclass"
 ---
 
@@ -16,9 +16,9 @@ slug: "sdk-for-ios-navigate-api-reference-enums-truckclass"
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-navigate-api-reference-transport">Transport</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         TruckClass Enumeration Reference
       </p>
 </div>

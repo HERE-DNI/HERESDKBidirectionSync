@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-explore-api-reference-structs-isolineoptions-calculation"
+title: "Calculation"
 slug: "sdk-for-ios-explore-api-reference-structs-isolineoptions-calculation"
 ---
 
@@ -16,11 +16,11 @@ slug: "sdk-for-ios-explore-api-reference-structs-isolineoptions-calculation"
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-explore-api-reference-routing">Routing</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-explore-api-reference-structs-isolineoptions">IsolineOptions</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         Calculation Structure Reference
       </p>
 </div>

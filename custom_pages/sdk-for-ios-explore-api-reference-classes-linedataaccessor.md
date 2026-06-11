@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-explore-api-reference-classes-linedataaccessor"
+title: "LineDataAccessor"
 slug: "sdk-for-ios-explore-api-reference-classes-linedataaccessor"
 ---
 
@@ -16,9 +16,9 @@ slug: "sdk-for-ios-explore-api-reference-classes-linedataaccessor"
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-explore-api-reference-maploader">MapLoader</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         LineDataAccessor Class Reference
       </p>
 </div>

@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-navigate-api-reference-structs-sslservercredentialsoptions"
+title: "SslServerCredentialsOptions"
 slug: "sdk-for-ios-navigate-api-reference-structs-sslservercredentialsoptions"
 ---
 
@@ -16,9 +16,9 @@ slug: "sdk-for-ios-navigate-api-reference-structs-sslservercredentialsoptions"
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-navigate-api-reference-maploader">MapLoader</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         SslServerCredentialsOptions Structure Reference
       </p>
 </div>

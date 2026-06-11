@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-navigate-api-reference-structs-rasterdatasourceconfiguration"
+title: "RasterDataSourceConfiguration"
 slug: "sdk-for-ios-navigate-api-reference-structs-rasterdatasourceconfiguration"
 ---
 
@@ -16,9 +16,9 @@ slug: "sdk-for-ios-navigate-api-reference-structs-rasterdatasourceconfiguration"
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-navigate-api-reference-maps">Maps</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         RasterDataSourceConfiguration Structure Reference
       </p>
 </div>

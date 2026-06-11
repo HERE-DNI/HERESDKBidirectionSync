@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-navigate-api-reference-structs-agency"
+title: "Agency"
 slug: "sdk-for-ios-navigate-api-reference-structs-agency"
 ---
 
@@ -16,9 +16,9 @@ slug: "sdk-for-ios-navigate-api-reference-structs-agency"
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-navigate-api-reference-routing">Routing</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         Agency Structure Reference
       </p>
 </div>

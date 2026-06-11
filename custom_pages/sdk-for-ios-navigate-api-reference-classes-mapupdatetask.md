@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-navigate-api-reference-classes-mapupdatetask"
+title: "MapUpdateTask"
 slug: "sdk-for-ios-navigate-api-reference-classes-mapupdatetask"
 ---
 
@@ -16,9 +16,9 @@ slug: "sdk-for-ios-navigate-api-reference-classes-mapupdatetask"
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-navigate-api-reference-maploader">MapLoader</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         MapUpdateTask Class Reference
       </p>
 </div>

@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-navigate-api-reference-classes-mapscene-mappickfilter"
+title: "MapPickFilter"
 slug: "sdk-for-ios-navigate-api-reference-classes-mapscene-mappickfilter"
 ---
 
@@ -16,11 +16,11 @@ slug: "sdk-for-ios-navigate-api-reference-classes-mapscene-mappickfilter"
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-navigate-api-reference-maps">Maps</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-navigate-api-reference-classes-mapscene">MapScene</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         MapPickFilter Class Reference
       </p>
 </div>

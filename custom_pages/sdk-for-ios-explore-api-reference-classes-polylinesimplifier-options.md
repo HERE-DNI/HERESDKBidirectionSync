@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-explore-api-reference-classes-polylinesimplifier-options"
+title: "Options"
 slug: "sdk-for-ios-explore-api-reference-classes-polylinesimplifier-options"
 ---
 
@@ -16,11 +16,11 @@ slug: "sdk-for-ios-explore-api-reference-classes-polylinesimplifier-options"
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-explore-api-reference-core">Core</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-explore-api-reference-classes-polylinesimplifier">PolylineSimplifier</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         Options Structure Reference
       </p>
 </div>

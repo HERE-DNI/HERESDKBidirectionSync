@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-navigate-api-reference-enums-trafficincidenttype"
+title: "TrafficIncidentType"
 slug: "sdk-for-ios-navigate-api-reference-enums-trafficincidenttype"
 ---
 
@@ -16,9 +16,9 @@ slug: "sdk-for-ios-navigate-api-reference-enums-trafficincidenttype"
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-navigate-api-reference-traffic">Traffic</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         TrafficIncidentType Enumeration Reference
       </p>
 </div>

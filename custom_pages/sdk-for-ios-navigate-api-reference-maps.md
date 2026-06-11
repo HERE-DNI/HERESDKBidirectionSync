@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-navigate-api-reference-maps"
+title: "Maps"
 slug: "sdk-for-ios-navigate-api-reference-maps"
 ---
 
@@ -16,7 +16,7 @@ slug: "sdk-for-ios-navigate-api-reference-maps"
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         Maps  Reference
       </p>
 </div>

@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-navigate-api-reference-classes-venuegeometry-lookuptype"
+title: "LookupType"
 slug: "sdk-for-ios-navigate-api-reference-classes-venuegeometry-lookuptype"
 ---
 
@@ -16,11 +16,11 @@ slug: "sdk-for-ios-navigate-api-reference-classes-venuegeometry-lookuptype"
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-navigate-api-reference-venues">Venues</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-navigate-api-reference-classes-venuegeometry">VenueGeometry</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         LookupType Enumeration Reference
       </p>
 </div>

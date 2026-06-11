@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-navigate-api-reference-protocols-venueinfolistlistenerdelegate"
+title: "VenueInfoListListenerDelegate"
 slug: "sdk-for-ios-navigate-api-reference-protocols-venueinfolistlistenerdelegate"
 ---
 
@@ -16,9 +16,9 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-venueinfolistlistenerdelegat
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-navigate-api-reference-venues">Venues</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         VenueInfoListListenerDelegate Protocol Reference
       </p>
 </div>

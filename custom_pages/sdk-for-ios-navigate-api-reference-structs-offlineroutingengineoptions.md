@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-navigate-api-reference-structs-offlineroutingengineoptions"
+title: "OfflineRoutingEngineOptions"
 slug: "sdk-for-ios-navigate-api-reference-structs-offlineroutingengineoptions"
 ---
 
@@ -16,9 +16,9 @@ slug: "sdk-for-ios-navigate-api-reference-structs-offlineroutingengineoptions"
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-navigate-api-reference-routing">Routing</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         OfflineRoutingEngineOptions Structure Reference
       </p>
 </div>

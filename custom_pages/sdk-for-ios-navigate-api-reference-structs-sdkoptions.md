@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-navigate-api-reference-structs-sdkoptions"
+title: "SDKOptions"
 slug: "sdk-for-ios-navigate-api-reference-structs-sdkoptions"
 ---
 
@@ -16,9 +16,9 @@ slug: "sdk-for-ios-navigate-api-reference-structs-sdkoptions"
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-navigate-api-reference-core">Core</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         SDKOptions Structure Reference
       </p>
 </div>

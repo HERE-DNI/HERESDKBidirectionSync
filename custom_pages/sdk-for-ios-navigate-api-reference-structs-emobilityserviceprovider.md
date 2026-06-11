@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-navigate-api-reference-structs-emobilityserviceprovider"
+title: "EMobilityServiceProvider"
 slug: "sdk-for-ios-navigate-api-reference-structs-emobilityserviceprovider"
 ---
 
@@ -16,9 +16,9 @@ slug: "sdk-for-ios-navigate-api-reference-structs-emobilityserviceprovider"
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-navigate-api-reference-search">Search</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         EMobilityServiceProvider Structure Reference
       </p>
 </div>

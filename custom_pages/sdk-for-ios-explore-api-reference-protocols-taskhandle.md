@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-explore-api-reference-protocols-taskhandle"
+title: "TaskHandle"
 slug: "sdk-for-ios-explore-api-reference-protocols-taskhandle"
 ---
 
@@ -16,9 +16,9 @@ slug: "sdk-for-ios-explore-api-reference-protocols-taskhandle"
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-explore-api-reference-core">Core</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         TaskHandle Protocol Reference
       </p>
 </div>

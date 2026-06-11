@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-navigate-api-reference-protocols-locationstatusdelegate"
+title: "LocationStatusDelegate"
 slug: "sdk-for-ios-navigate-api-reference-protocols-locationstatusdelegate"
 ---
 
@@ -16,9 +16,9 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-locationstatusdelegate"
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-navigate-api-reference-positioning">Positioning</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         LocationStatusDelegate Protocol Reference
       </p>
 </div>

@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-navigate-api-reference-protocols-offlinesearchindexlistener"
+title: "OfflineSearchIndexListener"
 slug: "sdk-for-ios-navigate-api-reference-protocols-offlinesearchindexlistener"
 ---
 
@@ -16,9 +16,9 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-offlinesearchindexlistener"
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-navigate-api-reference-search">Search</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         OfflineSearchIndexListener Protocol Reference
       </p>
 </div>

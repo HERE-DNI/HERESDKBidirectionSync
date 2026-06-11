@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-explore-api-reference-classes-mapcontentsettings-trafficrefreshperioderrorcode"
+title: "TrafficRefreshPeriodErrorCode"
 slug: "sdk-for-ios-explore-api-reference-classes-mapcontentsettings-trafficrefreshperioderrorcode"
 ---
 
@@ -16,11 +16,11 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapcontentsettings-trafficrefre
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-explore-api-reference-maps">Maps</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-explore-api-reference-classes-mapcontentsettings">MapContentSettings</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         TrafficRefreshPeriodErrorCode Enumeration Reference
       </p>
 </div>

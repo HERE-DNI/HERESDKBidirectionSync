@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-explore-api-reference-protocols-pointtilesource"
+title: "PointTileSource"
 slug: "sdk-for-ios-explore-api-reference-protocols-pointtilesource"
 ---
 
@@ -16,9 +16,9 @@ slug: "sdk-for-ios-explore-api-reference-protocols-pointtilesource"
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-explore-api-reference-maps">Maps</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         PointTileSource Protocol Reference
       </p>
 </div>

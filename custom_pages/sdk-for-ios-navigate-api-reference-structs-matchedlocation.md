@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-navigate-api-reference-structs-matchedlocation"
+title: "MatchedLocation"
 slug: "sdk-for-ios-navigate-api-reference-structs-matchedlocation"
 ---
 
@@ -16,9 +16,9 @@ slug: "sdk-for-ios-navigate-api-reference-structs-matchedlocation"
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-navigate-api-reference-mapmatcher">MapMatcher</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         MatchedLocation Structure Reference
       </p>
 </div>

@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-explore-api-reference-classes-trafficincident-vehiclerestriction"
+title: "VehicleRestriction"
 slug: "sdk-for-ios-explore-api-reference-classes-trafficincident-vehiclerestriction"
 ---
 
@@ -16,11 +16,11 @@ slug: "sdk-for-ios-explore-api-reference-classes-trafficincident-vehiclerestrict
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-explore-api-reference-traffic">Traffic</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-explore-api-reference-classes-trafficincident">TrafficIncident</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         VehicleRestriction Structure Reference
       </p>
 </div>

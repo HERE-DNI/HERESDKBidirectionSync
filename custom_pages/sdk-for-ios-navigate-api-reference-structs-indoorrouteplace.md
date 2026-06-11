@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-navigate-api-reference-structs-indoorrouteplace"
+title: "IndoorRoutePlace"
 slug: "sdk-for-ios-navigate-api-reference-structs-indoorrouteplace"
 ---
 
@@ -16,9 +16,9 @@ slug: "sdk-for-ios-navigate-api-reference-structs-indoorrouteplace"
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-navigate-api-reference-other%20structs">Other Structures</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         IndoorRoutePlace Structure Reference
       </p>
 </div>

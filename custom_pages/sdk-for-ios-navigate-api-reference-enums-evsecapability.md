@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-navigate-api-reference-enums-evsecapability"
+title: "EVSECapability"
 slug: "sdk-for-ios-navigate-api-reference-enums-evsecapability"
 ---
 
@@ -16,9 +16,9 @@ slug: "sdk-for-ios-navigate-api-reference-enums-evsecapability"
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-navigate-api-reference-ev">EV</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         EVSECapability Enumeration Reference
       </p>
 </div>

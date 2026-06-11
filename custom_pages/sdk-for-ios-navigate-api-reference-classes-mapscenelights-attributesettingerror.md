@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-navigate-api-reference-classes-mapscenelights-attributesettingerror"
+title: "AttributeSettingError"
 slug: "sdk-for-ios-navigate-api-reference-classes-mapscenelights-attributesettingerror"
 ---
 
@@ -16,11 +16,11 @@ slug: "sdk-for-ios-navigate-api-reference-classes-mapscenelights-attributesettin
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-navigate-api-reference-maps">Maps</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-navigate-api-reference-classes-mapscenelights">MapSceneLights</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         AttributeSettingError Enumeration Reference
       </p>
 </div>

@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-navigate-api-reference-classes-venueservice-venueoptionalfeature"
+title: "VenueOptionalFeature"
 slug: "sdk-for-ios-navigate-api-reference-classes-venueservice-venueoptionalfeature"
 ---
 
@@ -16,11 +16,11 @@ slug: "sdk-for-ios-navigate-api-reference-classes-venueservice-venueoptionalfeat
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-navigate-api-reference-venues">Venues</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-navigate-api-reference-classes-venueservice">VenueService</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         VenueOptionalFeature Enumeration Reference
       </p>
 </div>

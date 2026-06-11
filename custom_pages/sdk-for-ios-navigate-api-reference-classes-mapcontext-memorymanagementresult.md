@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-navigate-api-reference-classes-mapcontext-memorymanagementresult"
+title: "MemoryManagementResult"
 slug: "sdk-for-ios-navigate-api-reference-classes-mapcontext-memorymanagementresult"
 ---
 
@@ -16,11 +16,11 @@ slug: "sdk-for-ios-navigate-api-reference-classes-mapcontext-memorymanagementres
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-navigate-api-reference-maps">Maps</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-navigate-api-reference-classes-mapcontext">MapContext</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         MemoryManagementResult Structure Reference
       </p>
 </div>

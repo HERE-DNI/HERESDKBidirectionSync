@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-explore-api-reference-structs-evchargingconnectortype"
+title: "EVChargingConnectorType"
 slug: "sdk-for-ios-explore-api-reference-structs-evchargingconnectortype"
 ---
 
@@ -16,9 +16,9 @@ slug: "sdk-for-ios-explore-api-reference-structs-evchargingconnectortype"
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-explore-api-reference-ev">EV</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         EVChargingConnectorType Structure Reference
       </p>
 </div>

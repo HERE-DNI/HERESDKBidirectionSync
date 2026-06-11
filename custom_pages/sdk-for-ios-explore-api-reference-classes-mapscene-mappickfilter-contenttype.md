@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-explore-api-reference-classes-mapscene-mappickfilter-contenttype"
+title: "ContentType"
 slug: "sdk-for-ios-explore-api-reference-classes-mapscene-mappickfilter-contenttype"
 ---
 
@@ -16,13 +16,13 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapscene-mappickfilter-contentt
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-explore-api-reference-maps">Maps</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-explore-api-reference-classes-mapscene">MapScene</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-explore-api-reference-classes-mapscene-mappickfilter">MapPickFilter</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         ContentType Enumeration Reference
       </p>
 </div>

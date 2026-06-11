@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-navigate-api-reference-structs-roadprofilecondition"
+title: "RoadProfileCondition"
 slug: "sdk-for-ios-navigate-api-reference-structs-roadprofilecondition"
 ---
 
@@ -16,9 +16,9 @@ slug: "sdk-for-ios-navigate-api-reference-structs-roadprofilecondition"
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-navigate-api-reference-other%20structs">Other Structures</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         RoadProfileCondition Structure Reference
       </p>
 </div>

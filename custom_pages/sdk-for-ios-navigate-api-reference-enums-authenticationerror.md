@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-navigate-api-reference-enums-authenticationerror"
+title: "AuthenticationError"
 slug: "sdk-for-ios-navigate-api-reference-enums-authenticationerror"
 ---
 
@@ -16,9 +16,9 @@ slug: "sdk-for-ios-navigate-api-reference-enums-authenticationerror"
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-navigate-api-reference-positioning">Positioning</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         AuthenticationError Enumeration Reference
       </p>
 </div>

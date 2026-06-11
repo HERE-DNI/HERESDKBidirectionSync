@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-navigate-api-reference-classes-maplayerbuilder-instantiationerrordetails"
+title: "InstantiationErrorDetails"
 slug: "sdk-for-ios-navigate-api-reference-classes-maplayerbuilder-instantiationerrordetails"
 ---
 
@@ -16,11 +16,11 @@ slug: "sdk-for-ios-navigate-api-reference-classes-maplayerbuilder-instantiatione
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-navigate-api-reference-maps">Maps</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-navigate-api-reference-classes-maplayerbuilder">MapLayerBuilder</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         InstantiationErrorDetails Structure Reference
       </p>
 </div>

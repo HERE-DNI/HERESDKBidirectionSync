@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-explore-api-reference-enums-chargingconnectortype-key"
+title: "Key"
 slug: "sdk-for-ios-explore-api-reference-enums-chargingconnectortype-key"
 ---
 
@@ -16,11 +16,11 @@ slug: "sdk-for-ios-explore-api-reference-enums-chargingconnectortype-key"
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-explore-api-reference-routing">Routing</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-explore-api-reference-enums-chargingconnectortype">ChargingConnectorType</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         Key Enumeration Reference
       </p>
 </div>

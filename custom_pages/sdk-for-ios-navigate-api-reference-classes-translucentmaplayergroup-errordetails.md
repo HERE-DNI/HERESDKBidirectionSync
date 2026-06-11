@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-navigate-api-reference-classes-translucentmaplayergroup-errordetails"
+title: "ErrorDetails"
 slug: "sdk-for-ios-navigate-api-reference-classes-translucentmaplayergroup-errordetails"
 ---
 
@@ -16,11 +16,11 @@ slug: "sdk-for-ios-navigate-api-reference-classes-translucentmaplayergroup-error
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-navigate-api-reference-maps">Maps</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-navigate-api-reference-classes-translucentmaplayergroup">TranslucentMapLayerGroup</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         ErrorDetails Structure Reference
       </p>
 </div>

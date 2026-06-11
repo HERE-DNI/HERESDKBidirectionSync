@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-explore-api-reference-structs-placefilter-ev"
+title: "Ev"
 slug: "sdk-for-ios-explore-api-reference-structs-placefilter-ev"
 ---
 
@@ -16,11 +16,11 @@ slug: "sdk-for-ios-explore-api-reference-structs-placefilter-ev"
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-explore-api-reference-search">Search</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-explore-api-reference-structs-placefilter">PlaceFilter</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         Ev Structure Reference
       </p>
 </div>

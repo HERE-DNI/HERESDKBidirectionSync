@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-explore-api-reference-classes-mapmarker-textstyle-instantiationerrorcode"
+title: "InstantiationErrorCode"
 slug: "sdk-for-ios-explore-api-reference-classes-mapmarker-textstyle-instantiationerrorcode"
 ---
 
@@ -16,13 +16,13 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapmarker-textstyle-instantiati
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-explore-api-reference-maps">Maps</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-explore-api-reference-classes-mapmarker">MapMarker</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-explore-api-reference-classes-mapmarker-textstyle">TextStyle</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         InstantiationErrorCode Enumeration Reference
       </p>
 </div>

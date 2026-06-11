@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-explore-api-reference-enums-keyframeinterpolationmode"
+title: "KeyframeInterpolationMode"
 slug: "sdk-for-ios-explore-api-reference-enums-keyframeinterpolationmode"
 ---
 
@@ -16,9 +16,9 @@ slug: "sdk-for-ios-explore-api-reference-enums-keyframeinterpolationmode"
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-explore-api-reference-maps">Maps</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         KeyframeInterpolationMode Enumeration Reference
       </p>
 </div>

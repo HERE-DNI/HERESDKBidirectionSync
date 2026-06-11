@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-explore-api-reference-classes-mapcontext-freeresourceseverity"
+title: "FreeResourceSeverity"
 slug: "sdk-for-ios-explore-api-reference-classes-mapcontext-freeresourceseverity"
 ---
 
@@ -16,11 +16,11 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapcontext-freeresourceseverity
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-explore-api-reference-maps">Maps</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-explore-api-reference-classes-mapcontext">MapContext</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         FreeResourceSeverity Enumeration Reference
       </p>
 </div>

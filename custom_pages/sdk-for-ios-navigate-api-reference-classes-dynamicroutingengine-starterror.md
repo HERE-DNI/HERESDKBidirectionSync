@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-navigate-api-reference-classes-dynamicroutingengine-starterror"
+title: "StartError"
 slug: "sdk-for-ios-navigate-api-reference-classes-dynamicroutingengine-starterror"
 ---
 
@@ -16,11 +16,11 @@ slug: "sdk-for-ios-navigate-api-reference-classes-dynamicroutingengine-starterro
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-navigate-api-reference-navigation">Navigation</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-navigate-api-reference-classes-dynamicroutingengine">DynamicRoutingEngine</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         StartError Enumeration Reference
       </p>
 </div>

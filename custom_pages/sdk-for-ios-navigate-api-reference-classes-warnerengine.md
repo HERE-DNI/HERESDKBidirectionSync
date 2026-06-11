@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-navigate-api-reference-classes-warnerengine"
+title: "WarnerEngine"
 slug: "sdk-for-ios-navigate-api-reference-classes-warnerengine"
 ---
 
@@ -16,9 +16,9 @@ slug: "sdk-for-ios-navigate-api-reference-classes-warnerengine"
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-navigate-api-reference-warnerengine">WarnerEngine</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         WarnerEngine Class Reference
       </p>
 </div>

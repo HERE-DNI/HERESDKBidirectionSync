@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-navigate-api-reference-classes-trackingcamerabehavior-zoompolicy"
+title: "ZoomPolicy"
 slug: "sdk-for-ios-navigate-api-reference-classes-trackingcamerabehavior-zoompolicy"
 ---
 
@@ -16,11 +16,11 @@ slug: "sdk-for-ios-navigate-api-reference-classes-trackingcamerabehavior-zoompol
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-navigate-api-reference-navigation">Navigation</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-navigate-api-reference-classes-trackingcamerabehavior">TrackingCameraBehavior</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         ZoomPolicy Class Reference
       </p>
 </div>

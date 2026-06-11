@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-explore-api-reference-structs-authenticationdata"
+title: "AuthenticationData"
 slug: "sdk-for-ios-explore-api-reference-structs-authenticationdata"
 ---
 
@@ -16,9 +16,9 @@ slug: "sdk-for-ios-explore-api-reference-structs-authenticationdata"
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-explore-api-reference-positioning">Positioning</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         AuthenticationData Structure Reference
       </p>
 </div>

@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-navigate-api-reference-protocols-warningdelegate"
+title: "WarningDelegate"
 slug: "sdk-for-ios-navigate-api-reference-protocols-warningdelegate"
 ---
 
@@ -16,9 +16,9 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-warningdelegate"
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-navigate-api-reference-warnerengine">WarnerEngine</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         WarningDelegate Protocol Reference
       </p>
 </div>

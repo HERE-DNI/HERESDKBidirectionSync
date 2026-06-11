@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-navigate-api-reference-classes-mapupdater-mapupdateversioncommitpolicy"
+title: "MapUpdateVersionCommitPolicy"
 slug: "sdk-for-ios-navigate-api-reference-classes-mapupdater-mapupdateversioncommitpolicy"
 ---
 
@@ -16,11 +16,11 @@ slug: "sdk-for-ios-navigate-api-reference-classes-mapupdater-mapupdateversioncom
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-navigate-api-reference-maploader">MapLoader</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-navigate-api-reference-classes-mapupdater">MapUpdater</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         MapUpdateVersionCommitPolicy Enumeration Reference
       </p>
 </div>

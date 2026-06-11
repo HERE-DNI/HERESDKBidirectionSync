@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-navigate-api-reference-classes-crosswalk-classificationstyle"
+title: "ClassificationStyle"
 slug: "sdk-for-ios-navigate-api-reference-classes-crosswalk-classificationstyle"
 ---
 
@@ -16,11 +16,11 @@ slug: "sdk-for-ios-navigate-api-reference-classes-crosswalk-classificationstyle"
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-navigate-api-reference-venues">Venues</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-navigate-api-reference-classes-crosswalk">Crosswalk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         ClassificationStyle Enumeration Reference
       </p>
 </div>

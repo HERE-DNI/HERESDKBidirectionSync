@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-navigate-api-reference-classes-offlinesearchindex-options"
+title: "Options"
 slug: "sdk-for-ios-navigate-api-reference-classes-offlinesearchindex-options"
 ---
 
@@ -16,11 +16,11 @@ slug: "sdk-for-ios-navigate-api-reference-classes-offlinesearchindex-options"
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-navigate-api-reference-search">Search</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-navigate-api-reference-classes-offlinesearchindex">OfflineSearchIndex</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         Options Structure Reference
       </p>
 </div>

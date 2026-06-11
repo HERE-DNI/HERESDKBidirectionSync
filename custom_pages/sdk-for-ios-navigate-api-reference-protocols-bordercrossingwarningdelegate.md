@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-navigate-api-reference-protocols-bordercrossingwarningdelegate"
+title: "BorderCrossingWarningDelegate"
 slug: "sdk-for-ios-navigate-api-reference-protocols-bordercrossingwarningdelegate"
 ---
 
@@ -16,9 +16,9 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-bordercrossingwarningdelegat
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-navigate-api-reference-navigation">Navigation</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         BorderCrossingWarningDelegate Protocol Reference
       </p>
 </div>

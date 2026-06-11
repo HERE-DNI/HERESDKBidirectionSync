@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-explore-api-reference-positioning"
+title: "Positioning"
 slug: "sdk-for-ios-explore-api-reference-positioning"
 ---
 
@@ -16,7 +16,7 @@ slug: "sdk-for-ios-explore-api-reference-positioning"
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         Positioning  Reference
       </p>
 </div>

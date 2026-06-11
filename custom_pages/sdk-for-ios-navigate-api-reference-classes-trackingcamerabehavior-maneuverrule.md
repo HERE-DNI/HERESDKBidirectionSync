@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-navigate-api-reference-classes-trackingcamerabehavior-maneuverrule"
+title: "ManeuverRule"
 slug: "sdk-for-ios-navigate-api-reference-classes-trackingcamerabehavior-maneuverrule"
 ---
 
@@ -16,11 +16,11 @@ slug: "sdk-for-ios-navigate-api-reference-classes-trackingcamerabehavior-maneuve
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-navigate-api-reference-navigation">Navigation</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-navigate-api-reference-classes-trackingcamerabehavior">TrackingCameraBehavior</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         ManeuverRule Structure Reference
       </p>
 </div>

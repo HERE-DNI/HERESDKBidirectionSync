@@ -1,5 +1,5 @@
 ---
-title: "sdk-for-ios-navigate-api-reference-structs-vehiclerestrictioncondition"
+title: "VehicleRestrictionCondition"
 slug: "sdk-for-ios-navigate-api-reference-structs-vehiclerestrictioncondition"
 ---
 
@@ -16,9 +16,9 @@ slug: "sdk-for-ios-navigate-api-reference-structs-vehiclerestrictioncondition"
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="/carat.png"/>
+
 <a href="sdk-for-ios-navigate-api-reference-other%20structs">Other Structures</a>
-<img alt="" id="carat" src="/carat.png"/>
+
         VehicleRestrictionCondition Structure Reference
       </p>
 </div>
