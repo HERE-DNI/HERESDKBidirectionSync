@@ -1,5 +1,5 @@
 ---
-title: "VehicleSpecification / CarBuilder"
+title: "sdk-for-ios-navigate-api-reference-structs-vehiclespecification-carbuilder"
 slug: "sdk-for-ios-navigate-api-reference-structs-vehiclespecification-carbuilder"
 ---
 
@@ -15,12 +15,12 @@ slug: "sdk-for-ios-navigate-api-reference-structs-vehiclespecification-carbuilde
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-..-index">heresdk</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-..-routing">Routing</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-..-structs-vehiclespecification">VehicleSpecification</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-routing">Routing</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-structs-vehiclespecification">VehicleSpecification</a>
+<img alt="" id="carat" src="/carat.png"/>
         CarBuilder Class Reference
       </p>
 </div>
@@ -33,11 +33,11 @@ slug: "sdk-for-ios-navigate-api-reference-structs-vehiclespecification-carbuilde
 <div class="declaration">
 <div class="language">
 <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">CarBuilder</span></code></pre>
-<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-structs-vehiclespecification">VehicleSpecification</a></span><span class="o">.</span><span class="kt">CarBuilder</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
-<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-structs-vehiclespecification">VehicleSpecification</a></span><span class="o">.</span><span class="kt">CarBuilder</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-vehiclespecification">VehicleSpecification</a></span><span class="o">.</span><span class="kt">CarBuilder</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-vehiclespecification">VehicleSpecification</a></span><span class="o">.</span><span class="kt">CarBuilder</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
-<p>This class constructs a <code><a href="sdk-for-ios-navigate-api-reference-..-..-structs-vehiclespecification">VehicleSpecification</a></code> for a car.</p>
+<p>This class constructs a <code><a href="sdk-for-ios-navigate-api-reference-structs-vehiclespecification">VehicleSpecification</a></code> for a car.</p>
 </section>
 <section class="section task-group-section">
 <div class="task-group">
@@ -86,7 +86,7 @@ slug: "sdk-for-ios-navigate-api-reference-structs-vehiclespecification-carbuilde
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">withHeightInCentimeters</span><span class="p">(</span><span class="n">_</span> <span class="nv">heightInCentimeters</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-structs-vehiclespecification">VehicleSpecification</a></span><span class="o">.</span><span class="kt">CarBuilder</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">withHeightInCentimeters</span><span class="p">(</span><span class="n">_</span> <span class="nv">heightInCentimeters</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-vehiclespecification">VehicleSpecification</a></span><span class="o">.</span><span class="kt">CarBuilder</span></code></pre>
 </div>
 </div>
 <div>
@@ -134,7 +134,7 @@ slug: "sdk-for-ios-navigate-api-reference-structs-vehiclespecification-carbuilde
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">withWidthInCentimeters</span><span class="p">(</span><span class="n">_</span> <span class="nv">widthInCentimeters</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-structs-vehiclespecification">VehicleSpecification</a></span><span class="o">.</span><span class="kt">CarBuilder</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">withWidthInCentimeters</span><span class="p">(</span><span class="n">_</span> <span class="nv">widthInCentimeters</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-vehiclespecification">VehicleSpecification</a></span><span class="o">.</span><span class="kt">CarBuilder</span></code></pre>
 </div>
 </div>
 <div>
@@ -182,7 +182,7 @@ slug: "sdk-for-ios-navigate-api-reference-structs-vehiclespecification-carbuilde
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">withLengthInCentimeters</span><span class="p">(</span><span class="n">_</span> <span class="nv">lengthInCentimeters</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-structs-vehiclespecification">VehicleSpecification</a></span><span class="o">.</span><span class="kt">CarBuilder</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">withLengthInCentimeters</span><span class="p">(</span><span class="n">_</span> <span class="nv">lengthInCentimeters</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-vehiclespecification">VehicleSpecification</a></span><span class="o">.</span><span class="kt">CarBuilder</span></code></pre>
 </div>
 </div>
 <div>
@@ -230,7 +230,7 @@ slug: "sdk-for-ios-navigate-api-reference-structs-vehiclespecification-carbuilde
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">withAxleCount</span><span class="p">(</span><span class="n">_</span> <span class="nv">axleCount</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-structs-vehiclespecification">VehicleSpecification</a></span><span class="o">.</span><span class="kt">CarBuilder</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">withAxleCount</span><span class="p">(</span><span class="n">_</span> <span class="nv">axleCount</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-vehiclespecification">VehicleSpecification</a></span><span class="o">.</span><span class="kt">CarBuilder</span></code></pre>
 </div>
 </div>
 <div>
@@ -278,7 +278,7 @@ slug: "sdk-for-ios-navigate-api-reference-structs-vehiclespecification-carbuilde
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">withKingpinToRearAxleDistanceInCentimeters</span><span class="p">(</span><span class="n">_</span> <span class="nv">length</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-structs-vehiclespecification">VehicleSpecification</a></span><span class="o">.</span><span class="kt">CarBuilder</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">withKingpinToRearAxleDistanceInCentimeters</span><span class="p">(</span><span class="n">_</span> <span class="nv">length</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-vehiclespecification">VehicleSpecification</a></span><span class="o">.</span><span class="kt">CarBuilder</span></code></pre>
 </div>
 </div>
 <div>
@@ -326,7 +326,7 @@ slug: "sdk-for-ios-navigate-api-reference-structs-vehiclespecification-carbuilde
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">withTrailerCount</span><span class="p">(</span><span class="n">_</span> <span class="nv">trailerCount</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-structs-vehiclespecification">VehicleSpecification</a></span><span class="o">.</span><span class="kt">CarBuilder</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">withTrailerCount</span><span class="p">(</span><span class="n">_</span> <span class="nv">trailerCount</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-vehiclespecification">VehicleSpecification</a></span><span class="o">.</span><span class="kt">CarBuilder</span></code></pre>
 </div>
 </div>
 <div>
@@ -374,7 +374,7 @@ slug: "sdk-for-ios-navigate-api-reference-structs-vehiclespecification-carbuilde
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">withPayloadCapacityInKilograms</span><span class="p">(</span><span class="nv">payloadCapacityInKilograms</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-structs-vehiclespecification">VehicleSpecification</a></span><span class="o">.</span><span class="kt">CarBuilder</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">withPayloadCapacityInKilograms</span><span class="p">(</span><span class="nv">payloadCapacityInKilograms</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-vehiclespecification">VehicleSpecification</a></span><span class="o">.</span><span class="kt">CarBuilder</span></code></pre>
 </div>
 </div>
 <div>
@@ -422,7 +422,7 @@ slug: "sdk-for-ios-navigate-api-reference-structs-vehiclespecification-carbuilde
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">withTrailerAxleCount</span><span class="p">(</span><span class="n">_</span> <span class="nv">trailerAxleCount</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-structs-vehiclespecification">VehicleSpecification</a></span><span class="o">.</span><span class="kt">CarBuilder</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">withTrailerAxleCount</span><span class="p">(</span><span class="n">_</span> <span class="nv">trailerAxleCount</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-vehiclespecification">VehicleSpecification</a></span><span class="o">.</span><span class="kt">CarBuilder</span></code></pre>
 </div>
 </div>
 <div>
@@ -470,7 +470,7 @@ slug: "sdk-for-ios-navigate-api-reference-structs-vehiclespecification-carbuilde
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">withGrossWeightInKilograms</span><span class="p">(</span><span class="n">_</span> <span class="nv">grossWeightInKilograms</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-structs-vehiclespecification">VehicleSpecification</a></span><span class="o">.</span><span class="kt">CarBuilder</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">withGrossWeightInKilograms</span><span class="p">(</span><span class="n">_</span> <span class="nv">grossWeightInKilograms</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-vehiclespecification">VehicleSpecification</a></span><span class="o">.</span><span class="kt">CarBuilder</span></code></pre>
 </div>
 </div>
 <div>
@@ -518,7 +518,7 @@ slug: "sdk-for-ios-navigate-api-reference-structs-vehiclespecification-carbuilde
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">withCurrentWeightInKilograms</span><span class="p">(</span><span class="n">_</span> <span class="nv">currentWeightInKilograms</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-structs-vehiclespecification">VehicleSpecification</a></span><span class="o">.</span><span class="kt">CarBuilder</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">withCurrentWeightInKilograms</span><span class="p">(</span><span class="n">_</span> <span class="nv">currentWeightInKilograms</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-vehiclespecification">VehicleSpecification</a></span><span class="o">.</span><span class="kt">CarBuilder</span></code></pre>
 </div>
 </div>
 <div>
@@ -566,7 +566,7 @@ slug: "sdk-for-ios-navigate-api-reference-structs-vehiclespecification-carbuilde
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">withEmptyWeightInKilograms</span><span class="p">(</span><span class="n">_</span> <span class="nv">emptyWeightInKilograms</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-structs-vehiclespecification">VehicleSpecification</a></span><span class="o">.</span><span class="kt">CarBuilder</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">withEmptyWeightInKilograms</span><span class="p">(</span><span class="n">_</span> <span class="nv">emptyWeightInKilograms</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-vehiclespecification">VehicleSpecification</a></span><span class="o">.</span><span class="kt">CarBuilder</span></code></pre>
 </div>
 </div>
 <div>
@@ -614,7 +614,7 @@ slug: "sdk-for-ios-navigate-api-reference-structs-vehiclespecification-carbuilde
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">withWeightPerAxleInKilograms</span><span class="p">(</span><span class="n">_</span> <span class="nv">weightPerAxleInKilograms</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-structs-vehiclespecification">VehicleSpecification</a></span><span class="o">.</span><span class="kt">CarBuilder</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">withWeightPerAxleInKilograms</span><span class="p">(</span><span class="n">_</span> <span class="nv">weightPerAxleInKilograms</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-vehiclespecification">VehicleSpecification</a></span><span class="o">.</span><span class="kt">CarBuilder</span></code></pre>
 </div>
 </div>
 <div>
@@ -662,7 +662,7 @@ slug: "sdk-for-ios-navigate-api-reference-structs-vehiclespecification-carbuilde
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">withIsCommercial</span><span class="p">(</span><span class="n">_</span> <span class="nv">isCommercial</span><span class="p">:</span> <span class="kt">Bool</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-structs-vehiclespecification">VehicleSpecification</a></span><span class="o">.</span><span class="kt">CarBuilder</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">withIsCommercial</span><span class="p">(</span><span class="n">_</span> <span class="nv">isCommercial</span><span class="p">:</span> <span class="kt">Bool</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-vehiclespecification">VehicleSpecification</a></span><span class="o">.</span><span class="kt">CarBuilder</span></code></pre>
 </div>
 </div>
 <div>
@@ -710,7 +710,7 @@ slug: "sdk-for-ios-navigate-api-reference-structs-vehiclespecification-carbuilde
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">withLastCharacterOfLicensePlate</span><span class="p">(</span><span class="n">_</span> <span class="nv">lastCharacterOfLicensePlate</span><span class="p">:</span> <span class="kt">String</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-structs-vehiclespecification">VehicleSpecification</a></span><span class="o">.</span><span class="kt">CarBuilder</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">withLastCharacterOfLicensePlate</span><span class="p">(</span><span class="n">_</span> <span class="nv">lastCharacterOfLicensePlate</span><span class="p">:</span> <span class="kt">String</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-vehiclespecification">VehicleSpecification</a></span><span class="o">.</span><span class="kt">CarBuilder</span></code></pre>
 </div>
 </div>
 <div>
@@ -758,7 +758,7 @@ slug: "sdk-for-ios-navigate-api-reference-structs-vehiclespecification-carbuilde
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">withEngineSizeInCubicCentimeters</span><span class="p">(</span><span class="n">_</span> <span class="nv">engineSizeInCubicCentimeters</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-structs-vehiclespecification">VehicleSpecification</a></span><span class="o">.</span><span class="kt">CarBuilder</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">withEngineSizeInCubicCentimeters</span><span class="p">(</span><span class="n">_</span> <span class="nv">engineSizeInCubicCentimeters</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-vehiclespecification">VehicleSpecification</a></span><span class="o">.</span><span class="kt">CarBuilder</span></code></pre>
 </div>
 </div>
 <div>
@@ -806,7 +806,7 @@ slug: "sdk-for-ios-navigate-api-reference-structs-vehiclespecification-carbuilde
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">withTiresCount</span><span class="p">(</span><span class="n">_</span> <span class="nv">tiresCount</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-structs-vehiclespecification">VehicleSpecification</a></span><span class="o">.</span><span class="kt">CarBuilder</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">withTiresCount</span><span class="p">(</span><span class="n">_</span> <span class="nv">tiresCount</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-vehiclespecification">VehicleSpecification</a></span><span class="o">.</span><span class="kt">CarBuilder</span></code></pre>
 </div>
 </div>
 <div>
@@ -854,7 +854,7 @@ slug: "sdk-for-ios-navigate-api-reference-structs-vehiclespecification-carbuilde
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">withTunnelCategory</span><span class="p">(</span><span class="n">_</span> <span class="nv">tunnelCategory</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-enums-tunnelcategory">TunnelCategory</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-structs-vehiclespecification">VehicleSpecification</a></span><span class="o">.</span><span class="kt">CarBuilder</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">withTunnelCategory</span><span class="p">(</span><span class="n">_</span> <span class="nv">tunnelCategory</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-tunnelcategory">TunnelCategory</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-vehiclespecification">VehicleSpecification</a></span><span class="o">.</span><span class="kt">CarBuilder</span></code></pre>
 </div>
 </div>
 <div>
@@ -902,7 +902,7 @@ slug: "sdk-for-ios-navigate-api-reference-structs-vehiclespecification-carbuilde
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">withOccupancy</span><span class="p">(</span><span class="n">_</span> <span class="nv">occupancy</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-structs-vehiclespecification">VehicleSpecification</a></span><span class="o">.</span><span class="kt">CarBuilder</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">withOccupancy</span><span class="p">(</span><span class="n">_</span> <span class="nv">occupancy</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-vehiclespecification">VehicleSpecification</a></span><span class="o">.</span><span class="kt">CarBuilder</span></code></pre>
 </div>
 </div>
 <div>
@@ -944,19 +944,19 @@ slug: "sdk-for-ios-navigate-api-reference-structs-vehiclespecification-carbuilde
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Builds the <code><a href="sdk-for-ios-navigate-api-reference-..-..-structs-vehiclespecification">VehicleSpecification</a></code> object for <code><a href="../../Enums/TransportMode.html#/s:7heresdk13TransportModeO3caryA2CmF">TransportMode.car</a></code> with the specifications taken
+<p>Builds the <code><a href="sdk-for-ios-navigate-api-reference-structs-vehiclespecification">VehicleSpecification</a></code> object for <code><a href="../../Enums/TransportMode.html#/s:7heresdk13TransportModeO3caryA2CmF">TransportMode.car</a></code> with the specifications taken
 from the <code>VehicleSpecification.CarBuilder</code> object.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">build</span><span class="p">()</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-structs-vehiclespecification">VehicleSpecification</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">build</span><span class="p">()</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-vehiclespecification">VehicleSpecification</a></span></code></pre>
 </div>
 </div>
 <div>
 <h4>Return Value</h4>
-<p>The <code><a href="sdk-for-ios-navigate-api-reference-..-..-structs-vehiclespecification">VehicleSpecification</a></code> object created from the <code>VehicleSpecification.CarBuilder</code> object.</p>
+<p>The <code><a href="sdk-for-ios-navigate-api-reference-structs-vehiclespecification">VehicleSpecification</a></code> object created from the <code>VehicleSpecification.CarBuilder</code> object.</p>
 </div>
 </section>
 </div>

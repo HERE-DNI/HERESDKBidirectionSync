@@ -1,5 +1,5 @@
 ---
-title: "Positioning / LocationSimulator"
+title: "sdk-for-ios-navigate-api-reference-classes-locationsimulator"
 slug: "sdk-for-ios-navigate-api-reference-classes-locationsimulator"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-classes-locationsimulator"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-positioning">Positioning</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-positioning">Positioning</a>
+<img alt="" id="carat" src="/carat.png"/>
         LocationSimulator Class Reference
       </p>
 </div>
@@ -37,7 +37,7 @@ slug: "sdk-for-ios-navigate-api-reference-classes-locationsimulator"
 </div>
 <p>Use the <code>LocationSimulator</code> to generate locations along a route or a GPX document. It notifies
 the registered object about the current location at a fixed interval. In order to customize
-the interval, see <code><a href="sdk-for-ios-navigate-api-reference-..-structs-locationsimulatoroptions">LocationSimulatorOptions</a></code>.
+the interval, see <code><a href="sdk-for-ios-navigate-api-reference-structs-locationsimulatoroptions">LocationSimulatorOptions</a></code>.
 The locations are closely matched to the shape and proceeded from the start to the
 destination as found in the provided route or the GPX document.
 When providing a route, the <code>LocationSimulator</code> uses a base speed taken from each span
@@ -45,7 +45,7 @@ found in the provided route object. This base speed can be multiplied upfront
 with a custom <code>speedFactor</code> for simulation purposes.
 Effectively, this means that traffic-related information is not considered
 to adjust the speed of the simulation.
-For the <code><a href="sdk-for-ios-navigate-api-reference-..-classes-gpxtrack">GPXTrack</a></code>, a speed is either based on timestamps in the original file or provided by the user. The following data is read from a <code><a href="sdk-for-ios-navigate-api-reference-..-classes-gpxtrack">GPXTrack</a></code> and inserted into the provided <code><a href="sdk-for-ios-navigate-api-reference-..-structs-location">Location</a></code> object: <code>latitude</code>, <code>longitude</code>, <code>altitude</code>, <code>time</code>, <code>bearingInDegrees</code>, <code>speedInMetersPerSecond</code>, <code>horizontalAccuracyInMeters</code>, <code>verticalAccuracyInMeters</code> and <code>locationTechnology</code>.</p>
+For the <code><a href="sdk-for-ios-navigate-api-reference-classes-gpxtrack">GPXTrack</a></code>, a speed is either based on timestamps in the original file or provided by the user. The following data is read from a <code><a href="sdk-for-ios-navigate-api-reference-classes-gpxtrack">GPXTrack</a></code> and inserted into the provided <code><a href="sdk-for-ios-navigate-api-reference-structs-location">Location</a></code> object: <code>latitude</code>, <code>longitude</code>, <code>altitude</code>, <code>time</code>, <code>bearingInDegrees</code>, <code>speedInMetersPerSecond</code>, <code>horizontalAccuracyInMeters</code>, <code>verticalAccuracyInMeters</code> and <code>locationTechnology</code>.</p>
 <p>Note that simulation works offline and independent from any map data</p>
 <ul>
 <li>only the information found in the provided route or GPX document is considered.</li>
@@ -56,7 +56,7 @@ any interpolation on the provided location data as this would shadow the recorde
 </ul>
 <p>Notifications will stop after the entire route has been traveled.</p>
 <p><strong>Note:</strong>
-Map-matched locations are only accessible from <code><a href="sdk-for-ios-navigate-api-reference-..-structs-routeprogress">RouteProgress</a></code>.</p>
+Map-matched locations are only accessible from <code><a href="sdk-for-ios-navigate-api-reference-structs-routeprogress">RouteProgress</a></code>.</p>
 </section>
 <section class="section task-group-section">
 <div class="task-group">
@@ -85,7 +85,7 @@ Map-matched locations are only accessible from <code><a href="sdk-for-ios-naviga
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">route</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-route">Route</a></span><span class="p">,</span> <span class="nv">options</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-locationsimulatoroptions">LocationSimulatorOptions</a></span><span class="p">)</span> <span class="k">throws</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">route</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-route">Route</a></span><span class="p">,</span> <span class="nv">options</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-locationsimulatoroptions">LocationSimulatorOptions</a></span><span class="p">)</span> <span class="k">throws</span></code></pre>
 </div>
 </div>
 <div>
@@ -146,7 +146,7 @@ Map-matched locations are only accessible from <code><a href="sdk-for-ios-naviga
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">gpxTrack</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-gpxtrack">GPXTrack</a></span><span class="p">,</span> <span class="nv">options</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-locationsimulatoroptions">LocationSimulatorOptions</a></span><span class="p">)</span> <span class="k">throws</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">gpxTrack</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-gpxtrack">GPXTrack</a></span><span class="p">,</span> <span class="nv">options</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-locationsimulatoroptions">LocationSimulatorOptions</a></span><span class="p">)</span> <span class="k">throws</span></code></pre>
 </div>
 </div>
 <div>
@@ -202,7 +202,7 @@ Map-matched locations are only accessible from <code><a href="sdk-for-ios-naviga
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">weak</span> <span class="k">var</span> <span class="nv">delegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-locationdelegate">LocationDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">weak</span> <span class="k">var</span> <span class="nv">delegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-locationdelegate">LocationDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -223,7 +223,7 @@ Map-matched locations are only accessible from <code><a href="sdk-for-ios-naviga
 <div class="abstract">
 <p>Starts the location provider to send notifications to the subscribers.
 Calling this method will always start the location simulator from the route’s first
-<code><a href="sdk-for-ios-navigate-api-reference-..-structs-waypoint">Waypoint</a></code>, even if a simulation has already been started or stopped.</p>
+<code><a href="sdk-for-ios-navigate-api-reference-structs-waypoint">Waypoint</a></code>, even if a simulation has already been started or stopped.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>

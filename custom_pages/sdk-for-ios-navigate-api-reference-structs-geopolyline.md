@@ -1,5 +1,5 @@
 ---
-title: "Core / GeoPolyline"
+title: "sdk-for-ios-navigate-api-reference-structs-geopolyline"
 slug: "sdk-for-ios-navigate-api-reference-structs-geopolyline"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-structs-geopolyline"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-core">Core</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-core">Core</a>
+<img alt="" id="carat" src="/carat.png"/>
         GeoPolyline Structure Reference
       </p>
 </div>
@@ -59,7 +59,7 @@ Represents a <code>GeoPolyline</code> as a series of geographic coordinates.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">let</span> <span class="nv">vertices</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-geocoordinates">GeoCoordinates</a></span><span class="p">]</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">let</span> <span class="nv">vertices</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-geocoordinates">GeoCoordinates</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -90,7 +90,7 @@ Throws an InstantiationError if the number of vertices is less than two.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">vertices</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-geocoordinates">GeoCoordinates</a></span><span class="p">])</span> <span class="k">throws</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">vertices</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-geocoordinates">GeoCoordinates</a></span><span class="p">])</span> <span class="k">throws</span></code></pre>
 </div>
 </div>
 <div>
@@ -128,13 +128,13 @@ Throws an InstantiationError if the number of vertices is less than two.</p>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Constructs an instance of this class from <code><a href="sdk-for-ios-navigate-api-reference-..-structs-geobox">GeoBox</a></code>.</p>
+<p>Constructs an instance of this class from <code><a href="sdk-for-ios-navigate-api-reference-structs-geobox">GeoBox</a></code>.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">geoBox</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-geobox">GeoBox</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">geoBox</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-geobox">GeoBox</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -149,8 +149,8 @@ Throws an InstantiationError if the number of vertices is less than two.</p>
 </td>
 <td>
 <div>
-<p>A rectangle defined by the <code><a href="sdk-for-ios-navigate-api-reference-..-structs-geobox">GeoBox</a></code> to be converted into <code>GeoPolyline</code>.
-The corner coordinates of the <code><a href="sdk-for-ios-navigate-api-reference-..-structs-geobox">GeoBox</a></code> will define the points of the resulting <code>GeoPolyline</code>.</p>
+<p>A rectangle defined by the <code><a href="sdk-for-ios-navigate-api-reference-structs-geobox">GeoBox</a></code> to be converted into <code>GeoPolyline</code>.
+The corner coordinates of the <code><a href="sdk-for-ios-navigate-api-reference-structs-geobox">GeoBox</a></code> will define the points of the resulting <code>GeoPolyline</code>.</p>
 </div>
 </td>
 </tr>
@@ -179,7 +179,7 @@ The corner coordinates of the <code><a href="sdk-for-ios-navigate-api-reference-
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getNearestIndexTo</span><span class="p">(</span><span class="nv">point</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-geocoordinates">GeoCoordinates</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">UInt32</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getNearestIndexTo</span><span class="p">(</span><span class="nv">point</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-geocoordinates">GeoCoordinates</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">UInt32</span></code></pre>
 </div>
 </div>
 <div>
@@ -241,7 +241,7 @@ they may adapt the result to the length of the underlying object described by th
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">coordinatesAt</span><span class="p">(</span><span class="nv">offsetInMeters</span><span class="p">:</span> <span class="kt">Double</span><span class="p">,</span> <span class="nv">direction</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-geopolylinedirection">GeoPolylineDirection</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-geocoordinates">GeoCoordinates</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">coordinatesAt</span><span class="p">(</span><span class="nv">offsetInMeters</span><span class="p">:</span> <span class="kt">Double</span><span class="p">,</span> <span class="nv">direction</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-geopolylinedirection">GeoPolylineDirection</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-geocoordinates">GeoCoordinates</a></span></code></pre>
 </div>
 </div>
 <div>

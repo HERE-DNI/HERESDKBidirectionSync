@@ -1,5 +1,5 @@
 ---
-title: "Venues / VenueStyle"
+title: "sdk-for-ios-navigate-api-reference-classes-venuestyle"
 slug: "sdk-for-ios-navigate-api-reference-classes-venuestyle"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-classes-venuestyle"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-venues">Venues</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-venues">Venues</a>
+<img alt="" id="carat" src="/carat.png"/>
         VenueStyle Class Reference
       </p>
 </div>
@@ -85,7 +85,7 @@ available for the venue.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getStyle</span><span class="p">(</span><span class="nv">name</span><span class="p">:</span> <span class="kt">String</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-venuegeometrystyle">VenueGeometryStyle</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getStyle</span><span class="p">(</span><span class="nv">name</span><span class="p">:</span> <span class="kt">String</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-venuegeometrystyle">VenueGeometryStyle</a></span></code></pre>
 </div>
 </div>
 <div>
@@ -133,7 +133,7 @@ available for the venue.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getLabelStyle</span><span class="p">(</span><span class="nv">name</span><span class="p">:</span> <span class="kt">String</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-venuelabelstyle">VenueLabelStyle</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getLabelStyle</span><span class="p">(</span><span class="nv">name</span><span class="p">:</span> <span class="kt">String</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-venuelabelstyle">VenueLabelStyle</a></span></code></pre>
 </div>
 </div>
 <div>

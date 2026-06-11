@@ -1,5 +1,5 @@
 ---
-title: "Maps / MapCameraAnimation"
+title: "sdk-for-ios-navigate-api-reference-classes-mapcameraanimation"
 slug: "sdk-for-ios-navigate-api-reference-classes-mapcameraanimation"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-classes-mapcameraanimation"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-maps">Maps</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-maps">Maps</a>
+<img alt="" id="carat" src="/carat.png"/>
         MapCameraAnimation Class Reference
       </p>
 </div>
@@ -35,8 +35,8 @@ slug: "sdk-for-ios-navigate-api-reference-classes-mapcameraanimation"
 <pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapCameraAnimation</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
-<p>An animation that can be applied to a <code><a href="sdk-for-ios-navigate-api-reference-..-classes-mapcamera">MapCamera</a></code>.
-Creation is done via <code><a href="sdk-for-ios-navigate-api-reference-..-classes-mapcameraanimationfactory">MapCameraAnimationFactory</a></code>.</p>
+<p>An animation that can be applied to a <code><a href="sdk-for-ios-navigate-api-reference-classes-mapcamera">MapCamera</a></code>.
+Creation is done via <code><a href="sdk-for-ios-navigate-api-reference-classes-mapcameraanimationfactory">MapCameraAnimationFactory</a></code>.</p>
 </section>
 <section class="section task-group-section">
 <div class="task-group">
@@ -61,7 +61,7 @@ Creation is done via <code><a href="sdk-for-ios-navigate-api-reference-..-classe
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">typealias</span> <span class="kt">InstantiationError</span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-mapcameraanimation-instantiationerrorcode">InstantiationErrorCode</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">typealias</span> <span class="kt">InstantiationError</span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-mapcameraanimation-instantiationerrorcode">InstantiationErrorCode</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -80,15 +80,15 @@ Creation is done via <code><a href="sdk-for-ios-navigate-api-reference-..-classe
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Describes a reason for failing to create a multi-track <code><a href="sdk-for-ios-navigate-api-reference-..-classes-mapcameraanimation">MapCameraAnimation</a></code>.</p>
-<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-..-classes-mapcameraanimation-instantiationerrorcode">See more</a>
+<p>Describes a reason for failing to create a multi-track <code><a href="sdk-for-ios-navigate-api-reference-classes-mapcameraanimation">MapCameraAnimation</a></code>.</p>
+<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-classes-mapcameraanimation-instantiationerrorcode">See more</a>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
 <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">InstantiationErrorCode</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
-<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-mapcameraanimation">MapCameraAnimation</a></span><span class="o">.</span><span class="kt">InstantiationErrorCode</span> <span class="p">:</span> <span class="kt">Error</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-mapcameraanimation">MapCameraAnimation</a></span><span class="o">.</span><span class="kt">InstantiationErrorCode</span> <span class="p">:</span> <span class="kt">Error</span></code></pre>
 </div>
 </div>
 </section>

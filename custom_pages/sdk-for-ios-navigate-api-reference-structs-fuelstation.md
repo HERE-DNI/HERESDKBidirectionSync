@@ -1,5 +1,5 @@
 ---
-title: "Search / FuelStation"
+title: "sdk-for-ios-navigate-api-reference-structs-fuelstation"
 slug: "sdk-for-ios-navigate-api-reference-structs-fuelstation"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-structs-fuelstation"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-search">Search</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-search">Search</a>
+<img alt="" id="carat" src="/carat.png"/>
         FuelStation Structure Reference
       </p>
 </div>
@@ -35,7 +35,7 @@ slug: "sdk-for-ios-navigate-api-reference-structs-fuelstation"
 </div>
 <p>Contains information about a specific fuel station.</p>
 <p>Use <code><a href="../Classes/PlaceCategory.html#/s:7heresdk13PlaceCategoryC40businessAndServicesPetrolGasolineStationSSvpZ">PlaceCategory.businessAndServicesPetrolGasolineStation</a></code> to find fuel stations.
-In the <code><a href="sdk-for-ios-navigate-api-reference-..-structs-details">Details</a></code> of a <code><a href="sdk-for-ios-navigate-api-reference-..-classes-place">Place</a></code> result you can find the associated fuel station information,
+In the <code><a href="sdk-for-ios-navigate-api-reference-structs-details">Details</a></code> of a <code><a href="sdk-for-ios-navigate-api-reference-classes-place">Place</a></code> result you can find the associated fuel station information,
 if any.</p>
 <p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and
 unexpected behaviors. Related APIs may change for new releases without a deprecation process.</p>
@@ -63,7 +63,7 @@ The list can be empty when no generic fuels are offered or when the information 
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">fuels</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-genericfuel">GenericFuel</a></span><span class="p">]</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">fuels</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-genericfuel">GenericFuel</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -89,7 +89,7 @@ The list can be empty when no truck fuels are offered or when the information is
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">truckFuels</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-truckfuel">TruckFuel</a></span><span class="p">]</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">truckFuels</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-truckfuel">TruckFuel</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -164,7 +164,7 @@ The list can be empty when no truck fuels are offered or when the information is
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">fuels</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-genericfuel">GenericFuel</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">truckFuels</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-truckfuel">TruckFuel</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">payAtThePump</span><span class="p">:</span> <span class="kt">Bool</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">highVolumePumps</span><span class="p">:</span> <span class="kt">Bool</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">fuels</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-genericfuel">GenericFuel</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">truckFuels</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-truckfuel">TruckFuel</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">payAtThePump</span><span class="p">:</span> <span class="kt">Bool</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">highVolumePumps</span><span class="p">:</span> <span class="kt">Bool</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>

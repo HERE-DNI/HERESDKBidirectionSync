@@ -1,5 +1,5 @@
 ---
-title: "ElectronicHorizon / ElectronicHorizonErrorCode"
+title: "sdk-for-ios-navigate-api-reference-enums-electronichorizonerrorcode"
 slug: "sdk-for-ios-navigate-api-reference-enums-electronichorizonerrorcode"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-enums-electronichorizonerrorcode"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-electronichorizon">ElectronicHorizon</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-electronichorizon">ElectronicHorizon</a>
+<img alt="" id="carat" src="/carat.png"/>
         ElectronicHorizonErrorCode Enumeration Reference
       </p>
 </div>

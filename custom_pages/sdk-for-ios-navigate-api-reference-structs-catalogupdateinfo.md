@@ -1,5 +1,5 @@
 ---
-title: "MapLoader / CatalogUpdateInfo"
+title: "sdk-for-ios-navigate-api-reference-structs-catalogupdateinfo"
 slug: "sdk-for-ios-navigate-api-reference-structs-catalogupdateinfo"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-structs-catalogupdateinfo"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-maploader">MapLoader</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-maploader">MapLoader</a>
+<img alt="" id="carat" src="/carat.png"/>
         CatalogUpdateInfo Structure Reference
       </p>
 </div>
@@ -58,7 +58,7 @@ and its latest available version.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">installedCatalog</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-installedcatalog">InstalledCatalog</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">installedCatalog</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-installedcatalog">InstalledCatalog</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -108,7 +108,7 @@ and its latest available version.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">state</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-catalogupdatestate">CatalogUpdateState</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">state</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-catalogupdatestate">CatalogUpdateState</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -182,7 +182,7 @@ application can compare amount of the free space on the disk with <code>disk_siz
 <div class="abstract">
 <p>Performing an update requires additional storage on top of existing offline maps.
 This space is used to store intermittent copy of map content according to
-the specified <code><a href="sdk-for-ios-navigate-api-reference-..-classes-mapupdater-mapupdateversioncommitpolicy">MapUpdater.MapUpdateVersionCommitPolicy</a></code>.
+the specified <code><a href="sdk-for-ios-navigate-api-reference-classes-mapupdater-mapupdateversioncommitpolicy">MapUpdater.MapUpdateVersionCommitPolicy</a></code>.
 <strong>Note</strong>
 In order to estimate, if catalog update is feasible, given the amount of free space on the disk,
 application can compare amount of the free space on the disk with <code>disk_size_in_bytes + temporary_disk_requirement_in_bytes</code>.</p>

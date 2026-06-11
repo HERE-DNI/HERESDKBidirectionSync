@@ -1,5 +1,5 @@
 ---
-title: "MapLoader / NavigabilityType"
+title: "sdk-for-ios-navigate-api-reference-enums-navigabilitytype"
 slug: "sdk-for-ios-navigate-api-reference-enums-navigabilitytype"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-enums-navigabilitytype"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-maploader">MapLoader</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-maploader">MapLoader</a>
+<img alt="" id="carat" src="/carat.png"/>
         NavigabilityType Enumeration Reference
       </p>
 </div>

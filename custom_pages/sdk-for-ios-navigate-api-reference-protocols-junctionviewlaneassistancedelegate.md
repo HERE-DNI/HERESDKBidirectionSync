@@ -1,5 +1,5 @@
 ---
-title: "Navigation / JunctionViewLaneAssistanceDelegate"
+title: "sdk-for-ios-navigate-api-reference-protocols-junctionviewlaneassistancedelegate"
 slug: "sdk-for-ios-navigate-api-reference-protocols-junctionviewlaneassistancedelegate"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-junctionviewlaneassistancede
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-navigation">Navigation</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-navigation">Navigation</a>
+<img alt="" id="carat" src="/carat.png"/>
         JunctionViewLaneAssistanceDelegate Protocol Reference
       </p>
 </div>
@@ -34,8 +34,8 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-junctionviewlaneassistancede
 </div>
 </div>
 <p>This protocol should be
-implemented in order to receive notifications on <code><a href="sdk-for-ios-navigate-api-reference-..-structs-junctionviewlaneassistance">JunctionViewLaneAssistance</a></code>.
-See <code><a href="sdk-for-ios-navigate-api-reference-..-structs-junctionviewlaneassistance">JunctionViewLaneAssistance</a></code> documentation for further details.</p>
+implemented in order to receive notifications on <code><a href="sdk-for-ios-navigate-api-reference-structs-junctionviewlaneassistance">JunctionViewLaneAssistance</a></code>.
+See <code><a href="sdk-for-ios-navigate-api-reference-structs-junctionviewlaneassistance">JunctionViewLaneAssistance</a></code> documentation for further details.</p>
 </section>
 <section class="section task-group-section">
 <div class="task-group">
@@ -59,7 +59,7 @@ See <code><a href="sdk-for-ios-navigate-api-reference-..-structs-junctionviewlan
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">onLaneAssistanceUpdated</span><span class="p">(</span><span class="n">_</span> <span class="nv">laneAssistance</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-junctionviewlaneassistance">JunctionViewLaneAssistance</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">onLaneAssistanceUpdated</span><span class="p">(</span><span class="n">_</span> <span class="nv">laneAssistance</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-junctionviewlaneassistance">JunctionViewLaneAssistance</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -74,7 +74,7 @@ See <code><a href="sdk-for-ios-navigate-api-reference-..-structs-junctionviewlan
 </td>
 <td>
 <div>
-<p>The <code><a href="sdk-for-ios-navigate-api-reference-..-structs-junctionviewlaneassistance">JunctionViewLaneAssistance</a></code> notification.</p>
+<p>The <code><a href="sdk-for-ios-navigate-api-reference-structs-junctionviewlaneassistance">JunctionViewLaneAssistance</a></code> notification.</p>
 </div>
 </td>
 </tr>

@@ -1,5 +1,5 @@
 ---
-title: "Navigation / CurrentSituationLaneAssistanceViewDelegate"
+title: "sdk-for-ios-navigate-api-reference-protocols-currentsituationlaneassistanceviewdelegate"
 slug: "sdk-for-ios-navigate-api-reference-protocols-currentsituationlaneassistanceviewdelegate"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-currentsituationlaneassistan
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-navigation">Navigation</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-navigation">Navigation</a>
+<img alt="" id="carat" src="/carat.png"/>
         CurrentSituationLaneAssistanceViewDelegate Protocol Reference
       </p>
 </div>
@@ -34,7 +34,7 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-currentsituationlaneassistan
 </div>
 </div>
 <p>This protocol should be
-implemented in order to receive notifications on <code><a href="sdk-for-ios-navigate-api-reference-..-structs-currentsituationlaneassistanceview">CurrentSituationLaneAssistanceView</a></code>.</p>
+implemented in order to receive notifications on <code><a href="sdk-for-ios-navigate-api-reference-structs-currentsituationlaneassistanceview">CurrentSituationLaneAssistanceView</a></code>.</p>
 <p>The current situation lane assistance view notifications describe the lane information at the current location.</p>
 <p>A new notification is evaluated with each location update. A notification is only sent when there is a change
 in lane data, such as a new upcoming lane.</p>
@@ -72,7 +72,7 @@ behaviors. Related APIs may change for new releases without a deprecation proces
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">onCurrentSituationLaneAssistanceViewUpdate</span><span class="p">(</span><span class="n">_</span> <span class="nv">lanes</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-currentsituationlaneassistanceview">CurrentSituationLaneAssistanceView</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">onCurrentSituationLaneAssistanceViewUpdate</span><span class="p">(</span><span class="n">_</span> <span class="nv">lanes</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-currentsituationlaneassistanceview">CurrentSituationLaneAssistanceView</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>

@@ -1,5 +1,5 @@
 ---
-title: "Routing / TransitSectionDetails"
+title: "sdk-for-ios-navigate-api-reference-structs-transitsectiondetails"
 slug: "sdk-for-ios-navigate-api-reference-structs-transitsectiondetails"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-structs-transitsectiondetails"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-routing">Routing</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-routing">Routing</a>
+<img alt="" id="carat" src="/carat.png"/>
         TransitSectionDetails Structure Reference
       </p>
 </div>
@@ -57,7 +57,7 @@ slug: "sdk-for-ios-navigate-api-reference-structs-transitsectiondetails"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">transport</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-transittransport">TransitTransport</a></span><span class="p">?</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">transport</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-transittransport">TransitTransport</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -82,7 +82,7 @@ slug: "sdk-for-ios-navigate-api-reference-structs-transitsectiondetails"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">intermediateStops</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-transitstop">TransitStop</a></span><span class="p">]</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">intermediateStops</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-transitstop">TransitStop</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -107,7 +107,7 @@ slug: "sdk-for-ios-navigate-api-reference-structs-transitsectiondetails"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">agency</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-agency">Agency</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">agency</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-agency">Agency</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -132,7 +132,7 @@ slug: "sdk-for-ios-navigate-api-reference-structs-transitsectiondetails"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">attributions</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-attribution">Attribution</a></span><span class="p">]</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">attributions</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-attribution">Attribution</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -158,7 +158,7 @@ slug: "sdk-for-ios-navigate-api-reference-structs-transitsectiondetails"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">fares</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-fare">Fare</a></span><span class="p">]</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">fares</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-fare">Fare</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -183,7 +183,7 @@ slug: "sdk-for-ios-navigate-api-reference-structs-transitsectiondetails"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">incidents</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-transitincident">TransitIncident</a></span><span class="p">]</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">incidents</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-transitincident">TransitIncident</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -222,7 +222,7 @@ slug: "sdk-for-ios-navigate-api-reference-structs-transitsectiondetails"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">transport</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-transittransport">TransitTransport</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">intermediateStops</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-transitstop">TransitStop</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">agency</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-agency">Agency</a></span><span class="p">,</span> <span class="nv">attributions</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-attribution">Attribution</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">fares</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-fare">Fare</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">incidents</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-transitincident">TransitIncident</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[])</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">transport</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-transittransport">TransitTransport</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">intermediateStops</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-transitstop">TransitStop</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">agency</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-agency">Agency</a></span><span class="p">,</span> <span class="nv">attributions</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-attribution">Attribution</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">fares</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-fare">Fare</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">incidents</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-transitincident">TransitIncident</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[])</span></code></pre>
 </div>
 </div>
 </section>

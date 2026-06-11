@@ -1,5 +1,5 @@
 ---
-title: "Transport / TimeRestriction"
+title: "sdk-for-ios-navigate-api-reference-structs-timerestriction"
 slug: "sdk-for-ios-navigate-api-reference-structs-timerestriction"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-structs-timerestriction"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-transport">Transport</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-transport">Transport</a>
+<img alt="" id="carat" src="/carat.png"/>
         TimeRestriction Structure Reference
       </p>
 </div>
@@ -59,7 +59,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">category</span><span class="p">:</span> <span class="kt">TimeRestriction</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-timerestriction-category">Category</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">category</span><span class="p">:</span> <span class="kt">TimeRestriction</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-timerestriction-category">Category</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -84,7 +84,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">applicability</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-transporttype">TransportType</a></span><span class="p">]</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">applicability</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-transporttype">TransportType</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -109,7 +109,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">timeRule</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-timerule">TimeRule</a></span><span class="p">?</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">timeRule</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-timerule">TimeRule</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -134,7 +134,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">category</span><span class="p">:</span> <span class="kt">TimeRestriction</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-timerestriction-category">Category</a></span> <span class="o">=</span> <span class="kt">TimeRestriction</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-timerestriction-category">Category</a></span><span class="o">.</span><span class="n">prohibited</span><span class="p">,</span> <span class="nv">applicability</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-transporttype">TransportType</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">timeRule</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-timerule">TimeRule</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">category</span><span class="p">:</span> <span class="kt">TimeRestriction</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-timerestriction-category">Category</a></span> <span class="o">=</span> <span class="kt">TimeRestriction</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-timerestriction-category">Category</a></span><span class="o">.</span><span class="n">prohibited</span><span class="p">,</span> <span class="nv">applicability</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-transporttype">TransportType</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">timeRule</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-timerule">TimeRule</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>
@@ -154,7 +154,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <div class="pointer"></div>
 <div class="abstract">
 <p>Category of time restriction.</p>
-<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-..-structs-timerestriction-category">See more</a>
+<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-structs-timerestriction-category">See more</a>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>

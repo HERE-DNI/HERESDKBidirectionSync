@@ -1,5 +1,5 @@
 ---
-title: "Search / PlaceType"
+title: "sdk-for-ios-navigate-api-reference-enums-placetype"
 slug: "sdk-for-ios-navigate-api-reference-enums-placetype"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-enums-placetype"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-search">Search</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-search">Search</a>
+<img alt="" id="carat" src="/carat.png"/>
         PlaceType Enumeration Reference
       </p>
 </div>

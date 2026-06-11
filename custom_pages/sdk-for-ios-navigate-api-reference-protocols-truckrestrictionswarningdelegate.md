@@ -1,5 +1,5 @@
 ---
-title: "Navigation / TruckRestrictionsWarningDelegate"
+title: "sdk-for-ios-navigate-api-reference-protocols-truckrestrictionswarningdelegate"
 slug: "sdk-for-ios-navigate-api-reference-protocols-truckrestrictionswarningdelegate"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-truckrestrictionswarningdele
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-navigation">Navigation</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-navigation">Navigation</a>
+<img alt="" id="carat" src="/carat.png"/>
         TruckRestrictionsWarningDelegate Protocol Reference
       </p>
 </div>
@@ -61,7 +61,7 @@ updates provided by this method.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">onTruckRestrictionsWarningUpdated</span><span class="p">(</span><span class="n">_</span> <span class="nv">restrictions</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-truckrestrictionwarning">TruckRestrictionWarning</a></span><span class="p">])</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">onTruckRestrictionsWarningUpdated</span><span class="p">(</span><span class="n">_</span> <span class="nv">restrictions</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-truckrestrictionwarning">TruckRestrictionWarning</a></span><span class="p">])</span></code></pre>
 </div>
 </div>
 <div>

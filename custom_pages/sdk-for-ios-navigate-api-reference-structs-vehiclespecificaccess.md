@@ -1,5 +1,5 @@
 ---
-title: "Other Structures / VehicleSpecificAccess"
+title: "sdk-for-ios-navigate-api-reference-structs-vehiclespecificaccess"
 slug: "sdk-for-ios-navigate-api-reference-structs-vehiclespecificaccess"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-structs-vehiclespecificaccess"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-other%20structs">Other Structures</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-other%20structs">Other Structures</a>
+<img alt="" id="carat" src="/carat.png"/>
         VehicleSpecificAccess Structure Reference
       </p>
 </div>
@@ -84,7 +84,7 @@ behaviors. Related APIs may change for new releases without a deprecation proces
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">physicalStructure</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-physicalstructure">PhysicalStructure</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">physicalStructure</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-physicalstructure">PhysicalStructure</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -134,7 +134,7 @@ behaviors. Related APIs may change for new releases without a deprecation proces
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">condition</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-vehiclerestrictioncondition">VehicleRestrictionCondition</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">condition</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-vehiclerestrictioncondition">VehicleRestrictionCondition</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -159,7 +159,7 @@ behaviors. Related APIs may change for new releases without a deprecation proces
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">isPermitBased</span><span class="p">:</span> <span class="kt">Bool</span><span class="p">,</span> <span class="nv">physicalStructure</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-physicalstructure">PhysicalStructure</a></span><span class="p">,</span> <span class="nv">noTruckInnermostLane</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">condition</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-vehiclerestrictioncondition">VehicleRestrictionCondition</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">isPermitBased</span><span class="p">:</span> <span class="kt">Bool</span><span class="p">,</span> <span class="nv">physicalStructure</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-physicalstructure">PhysicalStructure</a></span><span class="p">,</span> <span class="nv">noTruckInnermostLane</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">condition</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-vehiclerestrictioncondition">VehicleRestrictionCondition</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>

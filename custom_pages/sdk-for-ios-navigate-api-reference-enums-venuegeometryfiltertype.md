@@ -1,5 +1,5 @@
 ---
-title: "Venues / VenueGeometryFilterType"
+title: "sdk-for-ios-navigate-api-reference-enums-venuegeometryfiltertype"
 slug: "sdk-for-ios-navigate-api-reference-enums-venuegeometryfiltertype"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-enums-venuegeometryfiltertype"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-venues">Venues</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-venues">Venues</a>
+<img alt="" id="carat" src="/carat.png"/>
         VenueGeometryFilterType Enumeration Reference
       </p>
 </div>
@@ -33,7 +33,7 @@ slug: "sdk-for-ios-navigate-api-reference-enums-venuegeometryfiltertype"
 <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">VenueGeometryFilterType</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
-<p>Filter types for the <code><a href="sdk-for-ios-navigate-api-reference-..-classes-venuegeometry">VenueGeometry</a></code> search.</p>
+<p>Filter types for the <code><a href="sdk-for-ios-navigate-api-reference-classes-venuegeometry">VenueGeometry</a></code> search.</p>
 </section>
 <section class="section task-group-section">
 <div class="task-group">

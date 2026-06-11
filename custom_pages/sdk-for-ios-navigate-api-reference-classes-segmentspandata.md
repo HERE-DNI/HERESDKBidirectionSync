@@ -1,5 +1,5 @@
 ---
-title: "MapData / SegmentSpanData"
+title: "sdk-for-ios-navigate-api-reference-classes-segmentspandata"
 slug: "sdk-for-ios-navigate-api-reference-classes-segmentspandata"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-classes-segmentspandata"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-mapdata">MapData</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-mapdata">MapData</a>
+<img alt="" id="carat" src="/carat.png"/>
         SegmentSpanData Class Reference
       </p>
 </div>
@@ -108,15 +108,15 @@ in positive direction or from the end of the segment to the start of the span in
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>The <code><a href="sdk-for-ios-navigate-api-reference-..-enums-traveldirection">TravelDirection</a></code> object representing the allowed travel directions.
-Gets the <code><a href="sdk-for-ios-navigate-api-reference-..-enums-traveldirection">TravelDirection</a></code> object for the portion of the segment.
+<p>The <code><a href="sdk-for-ios-navigate-api-reference-enums-traveldirection">TravelDirection</a></code> object representing the allowed travel directions.
+Gets the <code><a href="sdk-for-ios-navigate-api-reference-enums-traveldirection">TravelDirection</a></code> object for the portion of the segment.
 Returns <code>nil</code> if <code><a href="../Structs/SegmentDataLoaderOptions.html#/s:7heresdk24SegmentDataLoaderOptionsV19loadTravelDirectionSbvp">SegmentDataLoaderOptions.loadTravelDirection</a></code> is set to <code>false</code>.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">travelDirection</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-traveldirection">TravelDirection</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">travelDirection</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-traveldirection">TravelDirection</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -135,14 +135,14 @@ Returns <code>nil</code> if <code><a href="../Structs/SegmentDataLoaderOptions.h
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>The <code><a href="sdk-for-ios-navigate-api-reference-..-structs-allowedtransportmodes">AllowedTransportModes</a></code> object representing the allowed transport modes.
+<p>The <code><a href="sdk-for-ios-navigate-api-reference-structs-allowedtransportmodes">AllowedTransportModes</a></code> object representing the allowed transport modes.
 Returns <code>nil</code> if <code><a href="../Structs/SegmentDataLoaderOptions.html#/s:7heresdk24SegmentDataLoaderOptionsV24loadTransportModesAccessSbvp">SegmentDataLoaderOptions.loadTransportModesAccess</a></code> is set to <code>false</code>.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">allowedTransportModes</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-allowedtransportmodes">AllowedTransportModes</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">allowedTransportModes</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-allowedtransportmodes">AllowedTransportModes</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -161,14 +161,14 @@ Returns <code>nil</code> if <code><a href="../Structs/SegmentDataLoaderOptions.h
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>The <code><a href="sdk-for-ios-navigate-api-reference-..-enums-functionalroadclass">FunctionalRoadClass</a></code> object representing the polyline of this segment.
+<p>The <code><a href="sdk-for-ios-navigate-api-reference-enums-functionalroadclass">FunctionalRoadClass</a></code> object representing the polyline of this segment.
 Returns <code>nil</code> if <code><a href="../Structs/SegmentDataLoaderOptions.html#/s:7heresdk24SegmentDataLoaderOptionsV23loadFunctionalRoadClassSbvp">SegmentDataLoaderOptions.loadFunctionalRoadClass</a></code> is set to <code>false</code>.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">functionalRoadClass</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-functionalroadclass">FunctionalRoadClass</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">functionalRoadClass</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-functionalroadclass">FunctionalRoadClass</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -187,7 +187,7 @@ Returns <code>nil</code> if <code><a href="../Structs/SegmentDataLoaderOptions.h
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>The <code><a href="sdk-for-ios-navigate-api-reference-..-structs-segmentspeedlimit">SegmentSpeedLimit</a></code> object representing the speed limit of this segment span in the positive
+<p>The <code><a href="sdk-for-ios-navigate-api-reference-structs-segmentspeedlimit">SegmentSpeedLimit</a></code> object representing the speed limit of this segment span in the positive
 tavel direction.
 Returns <code>nil</code> if <code><a href="../Structs/SegmentDataLoaderOptions.html#/s:7heresdk24SegmentDataLoaderOptionsV15loadSpeedLimitsSbvp">SegmentDataLoaderOptions.loadSpeedLimits</a></code> is set to <code>false</code>.</p>
 </div>
@@ -195,7 +195,7 @@ Returns <code>nil</code> if <code><a href="../Structs/SegmentDataLoaderOptions.h
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">positiveDirectionSpeedLimit</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-segmentspeedlimit">SegmentSpeedLimit</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">positiveDirectionSpeedLimit</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-segmentspeedlimit">SegmentSpeedLimit</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -214,7 +214,7 @@ Returns <code>nil</code> if <code><a href="../Structs/SegmentDataLoaderOptions.h
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>The <code><a href="sdk-for-ios-navigate-api-reference-..-structs-segmentspeedlimit">SegmentSpeedLimit</a></code> object representing the speed limit of this segment span in the negative
+<p>The <code><a href="sdk-for-ios-navigate-api-reference-structs-segmentspeedlimit">SegmentSpeedLimit</a></code> object representing the speed limit of this segment span in the negative
 travel direction.
 Returns <code>nil</code> if <code><a href="../Structs/SegmentDataLoaderOptions.html#/s:7heresdk24SegmentDataLoaderOptionsV15loadSpeedLimitsSbvp">SegmentDataLoaderOptions.loadSpeedLimits</a></code> is set to <code>false</code>.</p>
 </div>
@@ -222,7 +222,7 @@ Returns <code>nil</code> if <code><a href="../Structs/SegmentDataLoaderOptions.h
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">negativeDirectionSpeedLimit</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-segmentspeedlimit">SegmentSpeedLimit</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">negativeDirectionSpeedLimit</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-segmentspeedlimit">SegmentSpeedLimit</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -241,14 +241,14 @@ Returns <code>nil</code> if <code><a href="../Structs/SegmentDataLoaderOptions.h
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>The <code><a href="sdk-for-ios-navigate-api-reference-..-structs-segmentspeedlimit">SegmentSpeedLimit</a></code> object representing the speed limit of this segment span.
+<p>The <code><a href="sdk-for-ios-navigate-api-reference-structs-segmentspeedlimit">SegmentSpeedLimit</a></code> object representing the speed limit of this segment span.
 Will be loaded if <code><a href="../Structs/SegmentDataLoaderOptions.html#/s:7heresdk24SegmentDataLoaderOptionsV15loadSpeedLimitsSbvp">SegmentDataLoaderOptions.loadSpeedLimits</a></code> is <code>true</code>.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">speedLimit</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-segmentspeedlimit">SegmentSpeedLimit</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">speedLimit</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-segmentspeedlimit">SegmentSpeedLimit</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -354,7 +354,7 @@ Returns <code>nil</code> if <code><a href="../Structs/SegmentDataLoaderOptions.h
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">localRoadCharacteristics</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-localroadcharacteristic">LocalRoadCharacteristic</a></span><span class="p">]?</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">localRoadCharacteristics</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-localroadcharacteristic">LocalRoadCharacteristic</a></span><span class="p">]?</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -380,7 +380,7 @@ Returns <code>nil</code> if <code><a href="../Structs/SegmentDataLoaderOptions.h
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">streetNames</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-localizedtexts">LocalizedTexts</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">streetNames</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-localizedtexts">LocalizedTexts</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -407,7 +407,7 @@ Returns <code>nil</code> if <code><a href="../Structs/SegmentDataLoaderOptions.h
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">roadNumbers</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-localizedroadnumbers">LocalizedRoadNumbers</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">roadNumbers</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-localizedroadnumbers">LocalizedRoadNumbers</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -433,7 +433,7 @@ Returns <code>nil</code> if <code><a href="../Structs/SegmentDataLoaderOptions.h
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">physicalAttributes</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-physicalattributes">PhysicalAttributes</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">physicalAttributes</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-physicalattributes">PhysicalAttributes</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -459,7 +459,7 @@ Returns <code>nil</code> if <code><a href="../Structs/SegmentDataLoaderOptions.h
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">roadUsages</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-roadusages">RoadUsages</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">roadUsages</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-roadusages">RoadUsages</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -478,7 +478,7 @@ Returns <code>nil</code> if <code><a href="../Structs/SegmentDataLoaderOptions.h
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>The <code><a href="sdk-for-ios-navigate-api-reference-..-structs-administrativerules">AdministrativeRules</a></code> for the segment, containing information
+<p>The <code><a href="sdk-for-ios-navigate-api-reference-structs-administrativerules">AdministrativeRules</a></code> for the segment, containing information
 about country code, state code, unit system, tolls, pre-trip planning and other
 administrative information.
 Returns <code>nil</code> if <code><a href="../Structs/SegmentDataLoaderOptions.html#/s:7heresdk24SegmentDataLoaderOptionsV23loadAdministrativeRulesSbvp">SegmentDataLoaderOptions.loadAdministrativeRules</a></code> is set to <code>false</code>.</p>
@@ -487,7 +487,7 @@ Returns <code>nil</code> if <code><a href="../Structs/SegmentDataLoaderOptions.h
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">administrativeRules</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-administrativerules">AdministrativeRules</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">administrativeRules</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-administrativerules">AdministrativeRules</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -540,7 +540,7 @@ Will be loaded if <code><a href="../Structs/SegmentDataLoaderOptions.html#/s:7he
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">specialSpeedSituations</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-segmentspecialspeedsituation">SegmentSpecialSpeedSituation</a></span><span class="p">]?</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">specialSpeedSituations</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-segmentspecialspeedsituation">SegmentSpecialSpeedSituation</a></span><span class="p">]?</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>

@@ -1,5 +1,5 @@
 ---
-title: "Search / StructuredQuery"
+title: "sdk-for-ios-navigate-api-reference-structs-structuredquery"
 slug: "sdk-for-ios-navigate-api-reference-structs-structuredquery"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-structs-structuredquery"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-search">Search</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-search">Search</a>
+<img alt="" id="carat" src="/carat.png"/>
         StructuredQuery Structure Reference
       </p>
 </div>
@@ -34,7 +34,7 @@ slug: "sdk-for-ios-navigate-api-reference-structs-structuredquery"
 </div>
 </div>
 <p>The options to specify a structured query.
-Only supported in <code><a href="sdk-for-ios-navigate-api-reference-..-classes-offlinesearchengine">OfflineSearchEngine</a></code> (only available for the Navigate license).</p>
+Only supported in <code><a href="sdk-for-ios-navigate-api-reference-classes-offlinesearchengine">OfflineSearchEngine</a></code> (only available for the Navigate license).</p>
 <p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
 Related APIs may change for new releases without a deprecation process.</p>
 </section>
@@ -85,7 +85,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">areaCenter</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-geocoordinates">GeoCoordinates</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">areaCenter</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-geocoordinates">GeoCoordinates</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -110,7 +110,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">addressElements</span><span class="p">:</span> <span class="kt">StructuredQuery</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-structuredquery-addresselements">AddressElements</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">addressElements</span><span class="p">:</span> <span class="kt">StructuredQuery</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-structuredquery-addresselements">AddressElements</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -135,7 +135,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">resultType</span><span class="p">:</span> <span class="kt">StructuredQuery</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-structuredquery-resulttype">ResultType</a></span><span class="p">?</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">resultType</span><span class="p">:</span> <span class="kt">StructuredQuery</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-structuredquery-resulttype">ResultType</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -160,7 +160,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">query</span><span class="p">:</span> <span class="kt">String</span><span class="p">,</span> <span class="nv">areaCenter</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-geocoordinates">GeoCoordinates</a></span><span class="p">,</span> <span class="nv">addressElements</span><span class="p">:</span> <span class="kt">StructuredQuery</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-structuredquery-addresselements">AddressElements</a></span> <span class="o">=</span> <span class="kt">StructuredQuery</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-structuredquery-addresselements">AddressElements</a></span><span class="p">(),</span> <span class="nv">resultType</span><span class="p">:</span> <span class="kt">StructuredQuery</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-structuredquery-resulttype">ResultType</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">query</span><span class="p">:</span> <span class="kt">String</span><span class="p">,</span> <span class="nv">areaCenter</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-geocoordinates">GeoCoordinates</a></span><span class="p">,</span> <span class="nv">addressElements</span><span class="p">:</span> <span class="kt">StructuredQuery</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-structuredquery-addresselements">AddressElements</a></span> <span class="o">=</span> <span class="kt">StructuredQuery</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-structuredquery-addresselements">AddressElements</a></span><span class="p">(),</span> <span class="nv">resultType</span><span class="p">:</span> <span class="kt">StructuredQuery</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-structuredquery-resulttype">ResultType</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>
@@ -180,7 +180,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <div class="pointer"></div>
 <div class="abstract">
 <p>Specifies expected result type.</p>
-<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-..-structs-structuredquery-resulttype">See more</a>
+<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-structs-structuredquery-resulttype">See more</a>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
@@ -210,7 +210,7 @@ It is advised to provide at least one intermediate address element when a large 
 for small admin area searches.
 For example if a user is building a query for a street and providing only country as an address element,
 consider providing city along with it.</p>
-<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-..-structs-structuredquery-addresselements">See more</a>
+<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-structs-structuredquery-addresselements">See more</a>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>

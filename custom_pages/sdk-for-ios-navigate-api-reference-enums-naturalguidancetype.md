@@ -1,5 +1,5 @@
 ---
-title: "Navigation / NaturalGuidanceType"
+title: "sdk-for-ios-navigate-api-reference-enums-naturalguidancetype"
 slug: "sdk-for-ios-navigate-api-reference-enums-naturalguidancetype"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-enums-naturalguidancetype"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-navigation">Navigation</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-navigation">Navigation</a>
+<img alt="" id="carat" src="/carat.png"/>
         NaturalGuidanceType Enumeration Reference
       </p>
 </div>

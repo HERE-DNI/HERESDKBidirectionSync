@@ -1,5 +1,5 @@
 ---
-title: "Maps / DataAttributeValue"
+title: "sdk-for-ios-navigate-api-reference-classes-dataattributevalue"
 slug: "sdk-for-ios-navigate-api-reference-classes-dataattributevalue"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-classes-dataattributevalue"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-maps">Maps</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-maps">Maps</a>
+<img alt="" id="carat" src="/carat.png"/>
         DataAttributeValue Class Reference
       </p>
 </div>
@@ -365,7 +365,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <div class="pointer"></div>
 <div class="abstract">
 <p>Supported types of the data attribute values.</p>
-<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-..-classes-dataattributevalue-valuetype">See more</a>
+<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-classes-dataattributevalue-valuetype">See more</a>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
@@ -396,7 +396,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getType</span><span class="p">()</span> <span class="o">-&gt;</span> <span class="kt">DataAttributeValue</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-dataattributevalue-valuetype">ValueType</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getType</span><span class="p">()</span> <span class="o">-&gt;</span> <span class="kt">DataAttributeValue</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-dataattributevalue-valuetype">ValueType</a></span></code></pre>
 </div>
 </div>
 <div>

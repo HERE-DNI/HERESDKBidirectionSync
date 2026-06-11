@@ -1,5 +1,5 @@
 ---
-title: "Positioning / LocationEngineStatus"
+title: "sdk-for-ios-navigate-api-reference-enums-locationenginestatus"
 slug: "sdk-for-ios-navigate-api-reference-enums-locationenginestatus"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-enums-locationenginestatus"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-positioning">Positioning</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-positioning">Positioning</a>
+<img alt="" id="carat" src="/carat.png"/>
         LocationEngineStatus Enumeration Reference
       </p>
 </div>
@@ -327,7 +327,7 @@ slug: "sdk-for-ios-navigate-api-reference-enums-locationenginestatus"
 <div class="pointer"></div>
 <div class="abstract">
 <p>Method confirmHEREPrivacyNoticeInclusion() (or alternatively confirmHEREPrivacyNoticeException())
-was not called before starting the <code><a href="sdk-for-ios-navigate-api-reference-..-classes-locationengine">LocationEngine</a></code> or HERE privacy notice exception was not
+was not called before starting the <code><a href="sdk-for-ios-navigate-api-reference-classes-locationengine">LocationEngine</a></code> or HERE privacy notice exception was not
 permitted.</p>
 </div>
 <div class="declaration">

@@ -1,5 +1,5 @@
 ---
-title: "Other Protocols / MatchedLocationListener"
+title: "sdk-for-ios-navigate-api-reference-protocols-matchedlocationlistener"
 slug: "sdk-for-ios-navigate-api-reference-protocols-matchedlocationlistener"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-matchedlocationlistener"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-other%20protocols">Other Protocols</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-other%20protocols">Other Protocols</a>
+<img alt="" id="carat" src="/carat.png"/>
         MatchedLocationListener Protocol Reference
       </p>
 </div>
@@ -34,7 +34,7 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-matchedlocationlistener"
 </div>
 </div>
 <p>This protocol should be implemented to receive notifications
-about the current location from <code><a href="sdk-for-ios-navigate-api-reference-..-structs-mapmatchedlocation">MapMatchedLocation</a></code>.</p>
+about the current location from <code><a href="sdk-for-ios-navigate-api-reference-structs-mapmatchedlocation">MapMatchedLocation</a></code>.</p>
 <p><strong>Note:</strong> This is a <strong>beta</strong> release of this feature. There may be bugs and unexpected
 behaviors. Related APIs may change in future releases without a deprecation process.</p>
 </section>
@@ -60,7 +60,7 @@ behaviors. Related APIs may change in future releases without a deprecation proc
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">onMatchedLocationUpdated</span><span class="p">(</span><span class="n">_</span> <span class="nv">matchedLocation</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-matchedlocation">MatchedLocation</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">onMatchedLocationUpdated</span><span class="p">(</span><span class="n">_</span> <span class="nv">matchedLocation</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-matchedlocation">MatchedLocation</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>

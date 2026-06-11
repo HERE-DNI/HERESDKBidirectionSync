@@ -1,5 +1,5 @@
 ---
-title: "LayerConfiguration / Feature"
+title: "sdk-for-ios-navigate-api-reference-structs-layerconfiguration-feature"
 slug: "sdk-for-ios-navigate-api-reference-structs-layerconfiguration-feature"
 ---
 
@@ -15,12 +15,12 @@ slug: "sdk-for-ios-navigate-api-reference-structs-layerconfiguration-feature"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-..-index">heresdk</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-..-core">Core</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-..-structs-layerconfiguration">LayerConfiguration</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-core">Core</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-structs-layerconfiguration">LayerConfiguration</a>
+<img alt="" id="carat" src="/carat.png"/>
         Feature Enumeration Reference
       </p>
 </div>
@@ -306,7 +306,7 @@ that this feature is depended on other layer groups (e.g. navigation), so, in to
 <div class="pointer"></div>
 <div class="abstract">
 <p>Map data that is used to calculate truck routes. When not set,
-the <code><a href="sdk-for-ios-navigate-api-reference-..-..-classes-offlineroutingengine">OfflineRoutingEngine</a></code> may not work properly when being used to calculate truck routes.
+the <code><a href="sdk-for-ios-navigate-api-reference-classes-offlineroutingengine">OfflineRoutingEngine</a></code> may not work properly when being used to calculate truck routes.
 It is also used for map matching during truck navigation and for vehicle restriction
 visualization.
 When not set, truck navigation may not work properly when being used offline.
@@ -345,7 +345,7 @@ By default this feature is disabled.</p>
 <div class="abstract">
 <p>Map data that is used to render 3D landmarks. When not set, the data
 will be excluded when downloading offline regions or prefetching areas that contain such data.
-When the <code>landmarks</code> <code>MapFeature</code> is set to be visible for a <code><a href="sdk-for-ios-navigate-api-reference-..-..-classes-mapscene">MapScene</a></code>, 3D landmarks will still be loaded and
+When the <code>landmarks</code> <code>MapFeature</code> is set to be visible for a <code><a href="sdk-for-ios-navigate-api-reference-classes-mapscene">MapScene</a></code>, 3D landmarks will still be loaded and
 visible during online usage. Increase of 2-3% is to be expected for map size, in case of enabling this feature.</p>
 <p>3D landmark rendering is enabled by default in grayscale on normal,
 logistics and topo schemes, and in textureless mode on lite schemes. However, when this map data feature is disabled,
@@ -378,7 +378,7 @@ Feature enables following OCM layer groups:</p>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Offline map data for <code><a href="sdk-for-ios-navigate-api-reference-..-..-structs-evchargingstation">EVChargingStation</a></code>.</p>
+<p>Offline map data for <code><a href="sdk-for-ios-navigate-api-reference-structs-evchargingstation">EVChargingStation</a></code>.</p>
 <p>Feature enables following OCM layer groups:</p>
 <ul>
 <li>“ev_charging_station_rendering_premium”</li>
@@ -467,7 +467,7 @@ Feature enables following OCM layer groups:</p>
 <div class="pointer"></div>
 <div class="abstract">
 <p>Map data that is used to calculate bus routes.
-When not set, the <code><a href="sdk-for-ios-navigate-api-reference-..-..-classes-offlineroutingengine">OfflineRoutingEngine</a></code> may not be able to calculate routes with <code><a href="sdk-for-ios-navigate-api-reference-..-..-structs-busoptions">BusOptions</a></code>.</p>
+When not set, the <code><a href="sdk-for-ios-navigate-api-reference-classes-offlineroutingengine">OfflineRoutingEngine</a></code> may not be able to calculate routes with <code><a href="sdk-for-ios-navigate-api-reference-structs-busoptions">BusOptions</a></code>.</p>
 <p>Feature enables following OCM layer groups:</p>
 <ul>
 <li>“bus_offline_routing”</li>

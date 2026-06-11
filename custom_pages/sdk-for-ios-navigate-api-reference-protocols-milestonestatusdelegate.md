@@ -1,5 +1,5 @@
 ---
-title: "Navigation / MilestoneStatusDelegate"
+title: "sdk-for-ios-navigate-api-reference-protocols-milestonestatusdelegate"
 slug: "sdk-for-ios-navigate-api-reference-protocols-milestonestatusdelegate"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-milestonestatusdelegate"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-navigation">Navigation</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-navigation">Navigation</a>
+<img alt="" id="carat" src="/carat.png"/>
         MilestoneStatusDelegate Protocol Reference
       </p>
 </div>
@@ -35,7 +35,7 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-milestonestatusdelegate"
 </div>
 <p>This protocol should be
 implemented in order to receive notifications from this class about the
-arrival at each <code><a href="sdk-for-ios-navigate-api-reference-..-structs-milestone">Milestone</a></code> or missing it.</p>
+arrival at each <code><a href="sdk-for-ios-navigate-api-reference-structs-milestone">Milestone</a></code> or missing it.</p>
 </section>
 <section class="section task-group-section">
 <div class="task-group">
@@ -59,7 +59,7 @@ arrival at each <code><a href="sdk-for-ios-navigate-api-reference-..-structs-mil
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">onMilestoneStatusUpdated</span><span class="p">(</span><span class="nv">milestone</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-milestone">Milestone</a></span><span class="p">,</span> <span class="nv">status</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-milestonestatus">MilestoneStatus</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">onMilestoneStatusUpdated</span><span class="p">(</span><span class="nv">milestone</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-milestone">Milestone</a></span><span class="p">,</span> <span class="nv">status</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-milestonestatus">MilestoneStatus</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -74,7 +74,7 @@ arrival at each <code><a href="sdk-for-ios-navigate-api-reference-..-structs-mil
 </td>
 <td>
 <div>
-<p>The reference to the <code><a href="sdk-for-ios-navigate-api-reference-..-structs-milestone">Milestone</a></code>.</p>
+<p>The reference to the <code><a href="sdk-for-ios-navigate-api-reference-structs-milestone">Milestone</a></code>.</p>
 </div>
 </td>
 </tr>
@@ -86,7 +86,7 @@ arrival at each <code><a href="sdk-for-ios-navigate-api-reference-..-structs-mil
 </td>
 <td>
 <div>
-<p>The status of the <code><a href="sdk-for-ios-navigate-api-reference-..-structs-milestone">Milestone</a></code>.</p>
+<p>The status of the <code><a href="sdk-for-ios-navigate-api-reference-structs-milestone">Milestone</a></code>.</p>
 </div>
 </td>
 </tr>

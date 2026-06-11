@@ -1,5 +1,5 @@
 ---
-title: "Search / Place"
+title: "sdk-for-ios-navigate-api-reference-classes-place"
 slug: "sdk-for-ios-navigate-api-reference-classes-place"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-classes-place"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-search">Search</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-search">Search</a>
+<img alt="" id="carat" src="/carat.png"/>
         Place Class Reference
       </p>
 </div>
@@ -79,7 +79,7 @@ slug: "sdk-for-ios-navigate-api-reference-classes-place"
 <div class="pointer"></div>
 <div class="abstract">
 <p>The unique id of this resource. It can be used to query further information.
-When returned from <code><a href="sdk-for-ios-navigate-api-reference-..-classes-offlinesearchengine">OfflineSearchEngine</a></code>, <code>id</code> is valid only for <code>Place</code> objects whose
+When returned from <code><a href="sdk-for-ios-navigate-api-reference-classes-offlinesearchengine">OfflineSearchEngine</a></code>, <code>id</code> is valid only for <code>Place</code> objects whose
 <code>place_type</code> is <code>POI</code>. Otherwise, it is empty.</p>
 </div>
 <div class="declaration">
@@ -111,7 +111,7 @@ When returned from <code><a href="sdk-for-ios-navigate-api-reference-..-classes-
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">placeType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-placetype">PlaceType</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">placeType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-placetype">PlaceType</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -136,7 +136,7 @@ When returned from <code><a href="sdk-for-ios-navigate-api-reference-..-classes-
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">areaType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-areatype">AreaType</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">areaType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-areatype">AreaType</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -158,13 +158,13 @@ When returned from <code><a href="sdk-for-ios-navigate-api-reference-..-classes-
 <p>The address of the place.</p>
 <p>Note that while <code>OfflineSearchEngine.suggest</code> and <code>OfflineSearchEngine.suggestByText</code> set all available details,
 <code>SearchEngine.suggest</code> and <code>SearchEngine.suggestByText</code> set only <code><a href="../Structs/Address.html#/s:7heresdk7AddressV11addressTextSSvp">Address.addressText</a></code>.
-Complete address details can be obtained by searching with <code><a href="sdk-for-ios-navigate-api-reference-..-structs-placeidquery">PlaceIdQuery</a></code>.</p>
+Complete address details can be obtained by searching with <code><a href="sdk-for-ios-navigate-api-reference-structs-placeidquery">PlaceIdQuery</a></code>.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">address</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-address">Address</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">address</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-address">Address</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -189,7 +189,7 @@ Complete address details can be obtained by searching with <code><a href="sdk-fo
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">details</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-details">Details</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">details</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-details">Details</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -215,7 +215,7 @@ Can be <code>nil</code> when retrieved from a suggestion’s place property.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">geoCoordinates</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-geocoordinates">GeoCoordinates</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">geoCoordinates</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-geocoordinates">GeoCoordinates</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -280,7 +280,7 @@ The list is empty when no access points are known or when the place is directly 
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">accessPoints</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-geocoordinates">GeoCoordinates</a></span><span class="p">]</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">accessPoints</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-geocoordinates">GeoCoordinates</a></span><span class="p">]</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -305,7 +305,7 @@ The list is empty when no access points are known or when the place is directly 
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">boundingBox</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-geobox">GeoBox</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">boundingBox</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-geobox">GeoBox</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -350,10 +350,10 @@ The list is empty when no access points are known or when the place is directly 
 <div class="pointer"></div>
 <div class="abstract">
 <p>The geopolitical view, defined as a three letter country code, each disputed territory has international and alternative views.
-Populated when the geopolitical view parameter is set in the <code><a href="sdk-for-ios-navigate-api-reference-..-structs-sdkoptions">SDKOptions</a></code>
-and passed to <code><a href="sdk-for-ios-navigate-api-reference-..-classes-sdknativeengine">SDKNativeEngine</a></code> on instantiation,
+Populated when the geopolitical view parameter is set in the <code><a href="sdk-for-ios-navigate-api-reference-structs-sdkoptions">SDKOptions</a></code>
+and passed to <code><a href="sdk-for-ios-navigate-api-reference-classes-sdknativeengine">SDKNativeEngine</a></code> on instantiation,
 but only if it is an alternative view.
-For more details refer to <code><a href="sdk-for-ios-navigate-api-reference-..-structs-sdkoptions">SDKOptions</a></code>.</p>
+For more details refer to <code><a href="sdk-for-ios-navigate-api-reference-structs-sdkoptions">SDKOptions</a></code>.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>

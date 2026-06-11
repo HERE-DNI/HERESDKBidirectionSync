@@ -1,5 +1,5 @@
 ---
-title: "Maps / MapViewLifecycleDelegate"
+title: "sdk-for-ios-navigate-api-reference-protocols-mapviewlifecycledelegate"
 slug: "sdk-for-ios-navigate-api-reference-protocols-mapviewlifecycledelegate"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-mapviewlifecycledelegate"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-maps">Maps</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-maps">Maps</a>
+<img alt="" id="carat" src="/carat.png"/>
         MapViewLifecycleDelegate Protocol Reference
       </p>
 </div>
@@ -37,7 +37,7 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-mapviewlifecycledelegate"
 whose lifecycle needs to be linked with that of a map view.</p>
 <p>Storing the map view in a strong reference is strongly discouraged, as that
 will create a reference cycle and prevent map view from being released.</p>
-<p>A <code><a href="sdk-for-ios-navigate-api-reference-..-classes-mapview">MapView</a></code> is using a
+<p>A <code><a href="sdk-for-ios-navigate-api-reference-classes-mapview">MapView</a></code> is using a
 <a href="https://developer.apple.com/documentation/quartzcore/cametallayer">CAMetalLayer</a></p>
 <p>to render its content.</p>
 </section>
@@ -70,7 +70,7 @@ will create a reference cycle and prevent map view from being released.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">onAttach</span><span class="p">(</span><span class="n">to</span> <span class="nv">mapView</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-mapviewbase">MapViewBase</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">onAttach</span><span class="p">(</span><span class="n">to</span> <span class="nv">mapView</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-mapviewbase">MapViewBase</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -115,7 +115,7 @@ the logic to remove visual components from the map view and release resources if
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">onDetach</span><span class="p">(</span><span class="n">from</span> <span class="nv">mapView</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-mapviewbase">MapViewBase</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">onDetach</span><span class="p">(</span><span class="n">from</span> <span class="nv">mapView</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-mapviewbase">MapViewBase</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>

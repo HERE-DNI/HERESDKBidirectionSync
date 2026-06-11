@@ -1,5 +1,5 @@
 ---
-title: "Traffic / TrafficIncident"
+title: "sdk-for-ios-navigate-api-reference-classes-trafficincident"
 slug: "sdk-for-ios-navigate-api-reference-classes-trafficincident"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-classes-trafficincident"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-traffic">Traffic</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-traffic">Traffic</a>
+<img alt="" id="carat" src="/carat.png"/>
         TrafficIncident Class Reference
       </p>
 </div>
@@ -30,7 +30,7 @@ slug: "sdk-for-ios-navigate-api-reference-classes-trafficincident"
 <h1>TrafficIncident</h1>
 <div class="declaration">
 <div class="language">
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">TrafficIncident</span> <span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-trafficincidentbase">TrafficIncidentBase</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">TrafficIncident</span> <span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-trafficincidentbase">TrafficIncidentBase</a></span></code></pre>
 <pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">TrafficIncident</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
 <pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">TrafficIncident</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
@@ -60,7 +60,7 @@ The value is <code><a href="../Enums/TrafficIncidentImpact.html#/s:7heresdk21Tra
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">impact</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-trafficincidentimpact">TrafficIncidentImpact</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">impact</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-trafficincidentimpact">TrafficIncidentImpact</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -86,7 +86,7 @@ The value is <code><a href="../Enums/TrafficIncidentType.html#/s:7heresdk19Traff
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">type</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-trafficincidenttype">TrafficIncidentType</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">type</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-trafficincidenttype">TrafficIncidentType</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -108,13 +108,13 @@ The value is <code><a href="../Enums/TrafficIncidentType.html#/s:7heresdk19Traff
 <p>The human readable description of the incident, possibly with location information.
 The description is currently not present in our map data. Therefore, when
 accessing the data from a picked carto POI via <code>TrafficIncidentResult</code>, then
-always an empty string is returned. This does not apply when using the <code><a href="sdk-for-ios-navigate-api-reference-..-classes-trafficengine">TrafficEngine</a></code>.</p>
+always an empty string is returned. This does not apply when using the <code><a href="sdk-for-ios-navigate-api-reference-classes-trafficengine">TrafficEngine</a></code>.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">description</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-localizedtext">LocalizedText</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">description</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-localizedtext">LocalizedText</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -270,7 +270,7 @@ The value is <code>nil</code> if the incident doesn’t have a parent.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">junctionsTraversability</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-junctionstraversability">JunctionsTraversability</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">junctionsTraversability</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-junctionstraversability">JunctionsTraversability</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -349,7 +349,7 @@ via <code><a href="../Structs/TrafficIncidentsQueryOptions.html#/s:7heresdk28Tra
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">summary</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-localizedtext">LocalizedText</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">summary</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-localizedtext">LocalizedText</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -400,7 +400,7 @@ The value is <code>nil</code> if it hasn’t been provided by the traffic incide
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">location</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-trafficlocation">TrafficLocation</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">location</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-trafficlocation">TrafficLocation</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -427,7 +427,7 @@ If the map is empty, there’re no restricted vehicles for the incident.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">vehicleRestrictions</span><span class="p">:</span> <span class="p">[</span><span class="kt">TrafficIncident</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-trafficincident-restrictedvehiclecategory">RestrictedVehicleCategory</a></span> <span class="p">:</span> <span class="kt">TrafficIncident</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-trafficincident-vehiclerestriction">VehicleRestriction</a></span><span class="p">]</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">vehicleRestrictions</span><span class="p">:</span> <span class="p">[</span><span class="kt">TrafficIncident</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-trafficincident-restrictedvehiclecategory">RestrictedVehicleCategory</a></span> <span class="p">:</span> <span class="kt">TrafficIncident</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-trafficincident-vehiclerestriction">VehicleRestriction</a></span><span class="p">]</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -450,8 +450,8 @@ If the map is empty, there’re no restricted vehicles for the incident.</p>
 Note, a vehicle can belong to several categories (e.g. a passenger motor car
 belongs to <code><a href="../Classes/TrafficIncident/RestrictedVehicleCategory.html#/s:7heresdk15TrafficIncidentC25RestrictedVehicleCategoryO3caryA2EmF">TrafficIncident.RestrictedVehicleCategory.car</a></code>, <code><a href="../Classes/TrafficIncident/RestrictedVehicleCategory.html#/s:7heresdk15TrafficIncidentC25RestrictedVehicleCategoryO05motorE0yA2EmF">TrafficIncident.RestrictedVehicleCategory.motorVehicle</a></code>, and <code><a href="../Classes/TrafficIncident/RestrictedVehicleCategory.html#/s:7heresdk15TrafficIncidentC25RestrictedVehicleCategoryO3allyA2EmF">TrafficIncident.RestrictedVehicleCategory.all</a></code>).
 A vehicle is restricted if it belongs to the category presented in the map <code><a href="../Classes/TrafficIncident.html#/s:7heresdk15TrafficIncidentC19vehicleRestrictionsSDyAC25RestrictedVehicleCategoryOAC0G11RestrictionVGvp">TrafficIncident.vehicleRestrictions</a></code>
-and at least one of the vehicle properties is under the matching <code><a href="sdk-for-ios-navigate-api-reference-..-classes-trafficincident-vehiclerestriction">TrafficIncident.VehicleRestriction</a></code>.</p>
-<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-..-classes-trafficincident-restrictedvehiclecategory">See more</a>
+and at least one of the vehicle properties is under the matching <code><a href="sdk-for-ios-navigate-api-reference-classes-trafficincident-vehiclerestriction">TrafficIncident.VehicleRestriction</a></code>.</p>
+<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-classes-trafficincident-restrictedvehiclecategory">See more</a>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
@@ -477,7 +477,7 @@ and at least one of the vehicle properties is under the matching <code><a href="
 <div class="pointer"></div>
 <div class="abstract">
 <p>The vehicle restriction representing a vehicle category and relevant restriction rules.</p>
-<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-..-classes-trafficincident-vehiclerestriction">See more</a>
+<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-classes-trafficincident-vehiclerestriction">See more</a>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>

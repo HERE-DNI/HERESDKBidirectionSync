@@ -1,5 +1,5 @@
 ---
-title: "Navigation / DynamicRoutingEngineOptions"
+title: "sdk-for-ios-navigate-api-reference-structs-dynamicroutingengineoptions"
 slug: "sdk-for-ios-navigate-api-reference-structs-dynamicroutingengineoptions"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-structs-dynamicroutingengineoptions"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-navigation">Navigation</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-navigation">Navigation</a>
+<img alt="" id="carat" src="/carat.png"/>
         DynamicRoutingEngineOptions Structure Reference
       </p>
 </div>
@@ -33,10 +33,10 @@ slug: "sdk-for-ios-navigate-api-reference-structs-dynamicroutingengineoptions"
 <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">DynamicRoutingEngineOptions</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
-<p>Options defining the behavior of the <code><a href="sdk-for-ios-navigate-api-reference-..-classes-dynamicroutingengine">DynamicRoutingEngine</a></code>.
+<p>Options defining the behavior of the <code><a href="sdk-for-ios-navigate-api-reference-classes-dynamicroutingengine">DynamicRoutingEngine</a></code>.
 Both, <code>minTimeDifference</code> and <code>minTimeDifferencePercentage</code>, will be checked:
 When the poll interval is reached, the smaller difference will win and
-the <code><a href="sdk-for-ios-navigate-api-reference-..-protocols-dynamicroutingdelegate">DynamicRoutingDelegate</a></code> is notified.</p>
+the <code><a href="sdk-for-ios-navigate-api-reference-protocols-dynamicroutingdelegate">DynamicRoutingDelegate</a></code> is notified.</p>
 </section>
 <section class="section task-group-section">
 <div class="task-group">
@@ -84,7 +84,7 @@ Defaults to <code>nil</code>.</p>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>The minimum time difference, before notifying the <code><a href="sdk-for-ios-navigate-api-reference-..-protocols-dynamicroutingdelegate">DynamicRoutingDelegate</a></code>.
+<p>The minimum time difference, before notifying the <code><a href="sdk-for-ios-navigate-api-reference-protocols-dynamicroutingdelegate">DynamicRoutingDelegate</a></code>.
 To get notified, the following check must be true:
 oldEstimatedTimeOfArrival - newEstimatedTimeOfArrival &gt; <code>DynamicRoutingEngineOptions.minTimeDifference</code>.
 A value of 0 will be treated as <code>nil</code> meaning no event will be sent.

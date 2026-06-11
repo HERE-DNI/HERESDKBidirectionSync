@@ -1,5 +1,5 @@
 ---
-title: "Navigation / RoadSignWarningOptions"
+title: "sdk-for-ios-navigate-api-reference-structs-roadsignwarningoptions"
 slug: "sdk-for-ios-navigate-api-reference-structs-roadsignwarningoptions"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-structs-roadsignwarningoptions"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-navigation">Navigation</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-navigation">Navigation</a>
+<img alt="" id="carat" src="/carat.png"/>
         RoadSignWarningOptions Structure Reference
       </p>
 </div>
@@ -58,7 +58,7 @@ signs are not filtered by type.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">typesFilter</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-roadsigntype">RoadSignType</a></span><span class="p">]</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">typesFilter</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-roadsigntype">RoadSignType</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -84,7 +84,7 @@ road signs are not filtered by category.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">categoriesFilter</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-roadsigncategory">RoadSignCategory</a></span><span class="p">]</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">categoriesFilter</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-roadsigncategory">RoadSignCategory</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -110,7 +110,7 @@ empty, road signs are not filtered by general warning type.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">generalWarningTypesFilter</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-generalwarningroadsigntype">GeneralWarningRoadSignType</a></span><span class="p">]</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">generalWarningTypesFilter</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-generalwarningroadsigntype">GeneralWarningRoadSignType</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -141,7 +141,7 @@ like cars, then the only option is to set an empty list as filter.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">vehicleTypesFilter</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-roadsignvehicletype">RoadSignVehicleType</a></span><span class="p">]</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">vehicleTypesFilter</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-roadsignvehicletype">RoadSignVehicleType</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -184,7 +184,7 @@ road signs are not filtered by vehicle type, which means that you get road sign 
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">typesFilter</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-roadsigntype">RoadSignType</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">categoriesFilter</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-roadsigncategory">RoadSignCategory</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">generalWarningTypesFilter</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-generalwarningroadsigntype">GeneralWarningRoadSignType</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">vehicleTypesFilter</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-roadsignvehicletype">RoadSignVehicleType</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[])</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">typesFilter</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-roadsigntype">RoadSignType</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">categoriesFilter</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-roadsigncategory">RoadSignCategory</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">generalWarningTypesFilter</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-generalwarningroadsigntype">GeneralWarningRoadSignType</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">vehicleTypesFilter</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-roadsignvehicletype">RoadSignVehicleType</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[])</span></code></pre>
 </div>
 </div>
 </section>

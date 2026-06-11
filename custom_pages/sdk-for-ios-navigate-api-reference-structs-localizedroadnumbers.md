@@ -1,5 +1,5 @@
 ---
-title: "Core / LocalizedRoadNumbers"
+title: "sdk-for-ios-navigate-api-reference-structs-localizedroadnumbers"
 slug: "sdk-for-ios-navigate-api-reference-structs-localizedroadnumbers"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-structs-localizedroadnumbers"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-core">Core</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-core">Core</a>
+<img alt="" id="carat" src="/carat.png"/>
         LocalizedRoadNumbers Structure Reference
       </p>
 </div>
@@ -58,7 +58,7 @@ Recommended to use helper methods instead of directly accessing the items.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">items</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-localizedroadnumber">LocalizedRoadNumber</a></span><span class="p">]</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">items</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-localizedroadnumber">LocalizedRoadNumber</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -165,7 +165,7 @@ default or <code>nil</code> if list is empty.</p>
 </div>
 <div>
 <h4>Return Value</h4>
-<p>The default value or null if list is empty.</p>
+<p>The default value or null` if list is empty.</p>
 </div>
 </section>
 </div>

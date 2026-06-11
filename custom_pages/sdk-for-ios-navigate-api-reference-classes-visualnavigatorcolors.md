@@ -1,5 +1,5 @@
 ---
-title: "Navigation / VisualNavigatorColors"
+title: "sdk-for-ios-navigate-api-reference-classes-visualnavigatorcolors"
 slug: "sdk-for-ios-navigate-api-reference-classes-visualnavigatorcolors"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-classes-visualnavigatorcolors"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-navigation">Navigation</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-navigation">Navigation</a>
+<img alt="" id="carat" src="/carat.png"/>
         VisualNavigatorColors Class Reference
       </p>
 </div>
@@ -35,7 +35,7 @@ slug: "sdk-for-ios-navigate-api-reference-classes-visualnavigatorcolors"
 <pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">VisualNavigatorColors</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
-<p>This class contains colors used by <code><a href="sdk-for-ios-navigate-api-reference-..-classes-visualnavigator">VisualNavigator</a></code> to render
+<p>This class contains colors used by <code><a href="sdk-for-ios-navigate-api-reference-classes-visualnavigator">VisualNavigator</a></code> to render
 the route and the maneuver arrow visualization.</p>
 </section>
 <section class="section task-group-section">
@@ -82,13 +82,13 @@ The alpha channel is ignored. The color is interpreted as fully opaque.</p>
 <div class="pointer"></div>
 <div class="abstract">
 <p>Colors used to visualize traffic conditions on the route ahead of the current location, for segments with a jam factor of 4.0 or higher.
-For route segments with a jam factor below 4.0 and those behind the current location, <code><a href="sdk-for-ios-navigate-api-reference-..-structs-routeprogresscolors">RouteProgressColors</a></code> are used instead.</p>
+For route segments with a jam factor below 4.0 and those behind the current location, <code><a href="sdk-for-ios-navigate-api-reference-structs-routeprogresscolors">RouteProgressColors</a></code> are used instead.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">trafficOnRouteColors</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-trafficonroutecolors">TrafficOnRouteColors</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">trafficOnRouteColors</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-trafficonroutecolors">TrafficOnRouteColors</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -113,7 +113,7 @@ For route segments with a jam factor below 4.0 and those behind the current loca
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">setRouteProgressColors</span><span class="p">(</span><span class="nv">sectionTransportMode</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-sectiontransportmode">SectionTransportMode</a></span><span class="p">,</span> <span class="nv">routeProgressColors</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-routeprogresscolors">RouteProgressColors</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">setRouteProgressColors</span><span class="p">(</span><span class="nv">sectionTransportMode</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-sectiontransportmode">SectionTransportMode</a></span><span class="p">,</span> <span class="nv">routeProgressColors</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-routeprogresscolors">RouteProgressColors</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -169,7 +169,7 @@ For route segments with a jam factor below 4.0 and those behind the current loca
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getRouteProgressColors</span><span class="p">(</span><span class="nv">sectionTransportMode</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-sectiontransportmode">SectionTransportMode</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-routeprogresscolors">RouteProgressColors</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getRouteProgressColors</span><span class="p">(</span><span class="nv">sectionTransportMode</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-sectiontransportmode">SectionTransportMode</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-routeprogresscolors">RouteProgressColors</a></span></code></pre>
 </div>
 </div>
 <div>

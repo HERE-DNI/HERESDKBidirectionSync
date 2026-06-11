@@ -1,5 +1,5 @@
 ---
-title: "Navigation / JunctionViewLaneAssistance"
+title: "sdk-for-ios-navigate-api-reference-structs-junctionviewlaneassistance"
 slug: "sdk-for-ios-navigate-api-reference-structs-junctionviewlaneassistance"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-structs-junctionviewlaneassistance"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-navigation">Navigation</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-navigation">Navigation</a>
+<img alt="" id="carat" src="/carat.png"/>
         JunctionViewLaneAssistance Structure Reference
       </p>
 </div>
@@ -35,20 +35,20 @@ slug: "sdk-for-ios-navigate-api-reference-structs-junctionviewlaneassistance"
 </div>
 <p>A struct that provides lane assistance information for the next complex junction
 in order to keep following the route. It is recommended to indicate <code>JunctionViewLaneAssistance</code>
-and <code><a href="sdk-for-ios-navigate-api-reference-..-structs-maneuverviewlaneassistance">ManeuverViewLaneAssistance</a></code> separately or to indicate only <code><a href="sdk-for-ios-navigate-api-reference-..-structs-maneuverviewlaneassistance">ManeuverViewLaneAssistance</a></code> information -
+and <code><a href="sdk-for-ios-navigate-api-reference-structs-maneuverviewlaneassistance">ManeuverViewLaneAssistance</a></code> separately or to indicate only <code><a href="sdk-for-ios-navigate-api-reference-structs-maneuverviewlaneassistance">ManeuverViewLaneAssistance</a></code> information -
 <code>JunctionViewLaneAssistance</code> will recommend all lanes that allow to pass the upcoming complex junction, regardless
 if they will lead to the next maneuver or not.
 If the location of a maneuver lies on an upcoming complex junction, the recommended lanes will be
-the same as the ones from <code><a href="sdk-for-ios-navigate-api-reference-..-structs-maneuverviewlaneassistance">ManeuverViewLaneAssistance</a></code>.</p>
+the same as the ones from <code><a href="sdk-for-ios-navigate-api-reference-structs-maneuverviewlaneassistance">ManeuverViewLaneAssistance</a></code>.</p>
 <p>A junction is recognized as complex only if:</p>
 <ul>
 <li>it is at least a bifurcation;</li>
 <li>it has at least two lanes whose directions do not follow the current route.
-In opposition to <code><a href="sdk-for-ios-navigate-api-reference-..-structs-maneuverviewlaneassistance">ManeuverViewLaneAssistance</a></code>, notifications are also forwarded when there is
+In opposition to <code><a href="sdk-for-ios-navigate-api-reference-structs-maneuverviewlaneassistance">ManeuverViewLaneAssistance</a></code>, notifications are also forwarded when there is
 no maneuver action occurring at the next complex junction.
 Therefore, <code>JunctionViewLaneAssistance</code> can be disjointed from maneuvers. If lane assistance should be used to
-associate it with upcoming maneuvers, consider to use <code><a href="sdk-for-ios-navigate-api-reference-..-structs-maneuverviewlaneassistance">ManeuverViewLaneAssistance</a></code> instead.
-Note that <code><a href="sdk-for-ios-navigate-api-reference-..-structs-maneuverviewlaneassistance">ManeuverViewLaneAssistance</a></code> notifications are synchronized with maneuver events,
+associate it with upcoming maneuvers, consider to use <code><a href="sdk-for-ios-navigate-api-reference-structs-maneuverviewlaneassistance">ManeuverViewLaneAssistance</a></code> instead.
+Note that <code><a href="sdk-for-ios-navigate-api-reference-structs-maneuverviewlaneassistance">ManeuverViewLaneAssistance</a></code> notifications are synchronized with maneuver events,
 whereas <code>JunctionViewLaneAssistance</code> events are not strictly synchronized with maneuver events.</li>
 </ul>
 </section>
@@ -80,7 +80,7 @@ one event with an empty list afterwards.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">lanesForNextJunction</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-lane">Lane</a></span><span class="p">]</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">lanesForNextJunction</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-lane">Lane</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -145,7 +145,7 @@ one event with an empty list afterwards.</li>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">lanesForNextJunction</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-lane">Lane</a></span><span class="p">],</span> <span class="nv">distanceToJunctionInMeters</span><span class="p">:</span> <span class="kt">Double</span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">lanesForNextJunction</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-lane">Lane</a></span><span class="p">],</span> <span class="nv">distanceToJunctionInMeters</span><span class="p">:</span> <span class="kt">Double</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>

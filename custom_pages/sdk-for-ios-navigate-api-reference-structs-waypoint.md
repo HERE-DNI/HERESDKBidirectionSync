@@ -1,5 +1,5 @@
 ---
-title: "Routing / Waypoint"
+title: "sdk-for-ios-navigate-api-reference-structs-waypoint"
 slug: "sdk-for-ios-navigate-api-reference-structs-waypoint"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-structs-waypoint"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-routing">Routing</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-routing">Routing</a>
+<img alt="" id="carat" src="/carat.png"/>
         Waypoint Structure Reference
       </p>
 </div>
@@ -57,7 +57,7 @@ slug: "sdk-for-ios-navigate-api-reference-structs-waypoint"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">coordinates</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-geocoordinates">GeoCoordinates</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">coordinates</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-geocoordinates">GeoCoordinates</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -83,7 +83,7 @@ The default waypoint type is <code><a href="../Enums/WaypointType.html#/s:7heres
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">type</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-waypointtype">WaypointType</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">type</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-waypointtype">WaypointType</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -175,7 +175,7 @@ value greater than zero.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">sideOfStreetHint</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-geocoordinates">GeoCoordinates</a></span><span class="p">?</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">sideOfStreetHint</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-geocoordinates">GeoCoordinates</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -203,7 +203,7 @@ display_location is used for visualization of the PoI regardless of road network
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">displayLocation</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-geocoordinates">GeoCoordinates</a></span><span class="p">?</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">displayLocation</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-geocoordinates">GeoCoordinates</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -283,7 +283,7 @@ select a residential street.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">matchSideOfStreet</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-matchsideofstreet">MatchSideOfStreet</a></span><span class="p">?</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">matchSideOfStreet</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-matchsideofstreet">MatchSideOfStreet</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -335,13 +335,13 @@ Waypoint coordinates need to be on the segment, otherwise waypoint will be match
 This parameter can be used when the waypoint is too close to more than one segment to force matching to a specific one.
 Only topology segment id and travel direction are used to define the segment hint</p>
 <p><strong>Note:</strong>
-The feature is not supported by the <code><a href="sdk-for-ios-navigate-api-reference-..-classes-offlineroutingengine">OfflineRoutingEngine</a></code>.</p>
+The feature is not supported by the <code><a href="sdk-for-ios-navigate-api-reference-classes-offlineroutingengine">OfflineRoutingEngine</a></code>.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">segmentHint</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-segmentreference">SegmentReference</a></span><span class="p">?</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">segmentHint</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-segmentreference">SegmentReference</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -388,7 +388,7 @@ Outside the threshold only segments which aren’t one of highway/bridge/tunnel/
 <div class="pointer"></div>
 <div class="abstract">
 <p>Specifies of a user-planned charging stop.
-The resulting <code><a href="sdk-for-ios-navigate-api-reference-..-classes-route">Route</a></code> may contain this waypoint as a <code><a href="sdk-for-ios-navigate-api-reference-..-structs-routeplace">RoutePlace</a></code> with a non-null <code><a href="sdk-for-ios-navigate-api-reference-..-structs-chargingstation">ChargingStation</a></code> member
+The resulting <code><a href="sdk-for-ios-navigate-api-reference-classes-route">Route</a></code> may contain this waypoint as a <code><a href="sdk-for-ios-navigate-api-reference-structs-routeplace">RoutePlace</a></code> with a non-null <code><a href="sdk-for-ios-navigate-api-reference-structs-chargingstation">ChargingStation</a></code> member
 when the provided specifications indicate that a stop is required to charge the EV battery.
 <strong>Note:</strong>
 If [EVCarOptions.ensure_reachability] is not set as <code>true</code> and [ChargingStop.min_duration] is not provided,
@@ -398,7 +398,7 @@ route calculation may suggest a better charging stop instead of this stop.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">chargingStop</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-chargingstop">ChargingStop</a></span><span class="p">?</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">chargingStop</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-chargingstop">ChargingStop</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -503,13 +503,13 @@ This parameter can be used when the waypoint is too close to more than one segme
 Only topology segment id and travel direction are used to define the segment hint</li>
 </ul>
 <p><strong>Note:</strong>
-  The feature is not supported by the <code><a href="sdk-for-ios-navigate-api-reference-..-classes-offlineroutingengine">OfflineRoutingEngine</a></code>.</p>
+  The feature is not supported by the <code><a href="sdk-for-ios-navigate-api-reference-classes-offlineroutingengine">OfflineRoutingEngine</a></code>.</p>
 <ul>
 <li>onRoadThresholdInMeters: Optional threshold allows specifying a distance within which the waypoint could be considered
 as being on a highway/bridge/tunnel/sliproad. Within this threshold, the attributes of the segments do not impact the matching.
 Outside the threshold only segments which aren’t one of highway/bridge/tunnel/sliproad can be matched.</li>
 <li>chargingStop: Specifies of a user-planned charging stop.
-The resulting <code><a href="sdk-for-ios-navigate-api-reference-..-classes-route">Route</a></code> may contain this waypoint as a <code><a href="sdk-for-ios-navigate-api-reference-..-structs-routeplace">RoutePlace</a></code> with a non-null <code><a href="sdk-for-ios-navigate-api-reference-..-structs-chargingstation">ChargingStation</a></code> member
+The resulting <code><a href="sdk-for-ios-navigate-api-reference-classes-route">Route</a></code> may contain this waypoint as a <code><a href="sdk-for-ios-navigate-api-reference-structs-routeplace">RoutePlace</a></code> with a non-null <code><a href="sdk-for-ios-navigate-api-reference-structs-chargingstation">ChargingStation</a></code> member
 when the provided specifications indicate that a stop is required to charge the EV battery.
 <strong>Note:</strong>
 If [EVCarOptions.ensure_reachability] is not set as <code>true</code> and [ChargingStop.min_duration] is not provided,
@@ -534,7 +534,7 @@ Relative value in kilograms. Available range: from -40000 to 40000 (inclusive).
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">coordinates</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-geocoordinates">GeoCoordinates</a></span><span class="p">,</span> <span class="nv">type</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-waypointtype">WaypointType</a></span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-waypointtype">WaypointType</a></span><span class="o">.</span><span class="n">stopover</span><span class="p">,</span> <span class="nv">transitRadiusInMeters</span><span class="p">:</span> <span class="kt">Int32</span> <span class="o">=</span> <span class="mi">0</span><span class="p">,</span> <span class="nv">headingInDegrees</span><span class="p">:</span> <span class="kt">Double</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">sideOfStreetHint</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-geocoordinates">GeoCoordinates</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">displayLocation</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-geocoordinates">GeoCoordinates</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">minCourseDistanceInMeters</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">nameHint</span><span class="p">:</span> <span class="kt">String</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">matchSideOfStreet</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-matchsideofstreet">MatchSideOfStreet</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">duration</span><span class="p">:</span> <span class="kt">TimeInterval</span> <span class="o">=</span> <span class="mi">0</span><span class="p">,</span> <span class="nv">segmentHint</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-segmentreference">SegmentReference</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">onRoadThresholdInMeters</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">chargingStop</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-chargingstop">ChargingStop</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">currentWeightChangeInKilograms</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">coordinates</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-geocoordinates">GeoCoordinates</a></span><span class="p">,</span> <span class="nv">type</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-waypointtype">WaypointType</a></span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-waypointtype">WaypointType</a></span><span class="o">.</span><span class="n">stopover</span><span class="p">,</span> <span class="nv">transitRadiusInMeters</span><span class="p">:</span> <span class="kt">Int32</span> <span class="o">=</span> <span class="mi">0</span><span class="p">,</span> <span class="nv">headingInDegrees</span><span class="p">:</span> <span class="kt">Double</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">sideOfStreetHint</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-geocoordinates">GeoCoordinates</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">displayLocation</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-geocoordinates">GeoCoordinates</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">minCourseDistanceInMeters</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">nameHint</span><span class="p">:</span> <span class="kt">String</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">matchSideOfStreet</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-matchsideofstreet">MatchSideOfStreet</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">duration</span><span class="p">:</span> <span class="kt">TimeInterval</span> <span class="o">=</span> <span class="mi">0</span><span class="p">,</span> <span class="nv">segmentHint</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-segmentreference">SegmentReference</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">onRoadThresholdInMeters</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">chargingStop</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-chargingstop">ChargingStop</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">currentWeightChangeInKilograms</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>

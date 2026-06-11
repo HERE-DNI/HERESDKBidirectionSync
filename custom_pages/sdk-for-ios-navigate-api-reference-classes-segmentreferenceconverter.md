@@ -1,5 +1,5 @@
 ---
-title: "MapData / SegmentReferenceConverter"
+title: "sdk-for-ios-navigate-api-reference-classes-segmentreferenceconverter"
 slug: "sdk-for-ios-navigate-api-reference-classes-segmentreferenceconverter"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-classes-segmentreferenceconverter"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-mapdata">MapData</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-mapdata">MapData</a>
+<img alt="" id="carat" src="/carat.png"/>
         SegmentReferenceConverter Class Reference
       </p>
 </div>
@@ -36,7 +36,7 @@ slug: "sdk-for-ios-navigate-api-reference-classes-segmentreferenceconverter"
 </div>
 </div>
 <p>A SegmentReferenceConverter provides possibility to convert mapmatched instances of
-<code><a href="sdk-for-ios-navigate-api-reference-..-structs-segmentreference">SegmentReference</a></code> to corresponding instances of <code><a href="sdk-for-ios-navigate-api-reference-..-structs-directedocmsegmentid">DirectedOCMSegmentId</a></code>.</p>
+<code><a href="sdk-for-ios-navigate-api-reference-structs-segmentreference">SegmentReference</a></code> to corresponding instances of <code><a href="sdk-for-ios-navigate-api-reference-structs-directedocmsegmentid">DirectedOCMSegmentId</a></code>.</p>
 <p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
 behaviors. Related APIs may change for new releases without a deprecation process.</p>
 </section>
@@ -67,7 +67,7 @@ behaviors. Related APIs may change for new releases without a deprecation proces
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">sdkEngine</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-sdknativeengine">SDKNativeEngine</a></span><span class="p">)</span> <span class="k">throws</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">sdkEngine</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-sdknativeengine">SDKNativeEngine</a></span><span class="p">)</span> <span class="k">throws</span></code></pre>
 </div>
 </div>
 <div>
@@ -105,13 +105,13 @@ behaviors. Related APIs may change for new releases without a deprecation proces
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>The <code><a href="sdk-for-ios-navigate-api-reference-..-structs-directedocmsegmentid">DirectedOCMSegmentId</a></code> for provided <code><a href="sdk-for-ios-navigate-api-reference-..-structs-segmentreference">SegmentReference</a></code>.</p>
+<p>The <code><a href="sdk-for-ios-navigate-api-reference-structs-directedocmsegmentid">DirectedOCMSegmentId</a></code> for provided <code><a href="sdk-for-ios-navigate-api-reference-structs-segmentreference">SegmentReference</a></code>.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getOCMSegmentId</span><span class="p">(</span><span class="nv">segmentReference</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-segmentreference">SegmentReference</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-directedocmsegmentid">DirectedOCMSegmentId</a></span><span class="p">?</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getOCMSegmentId</span><span class="p">(</span><span class="nv">segmentReference</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-segmentreference">SegmentReference</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-directedocmsegmentid">DirectedOCMSegmentId</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 <div>
@@ -126,7 +126,7 @@ behaviors. Related APIs may change for new releases without a deprecation proces
 </td>
 <td>
 <div>
-<p><code><a href="sdk-for-ios-navigate-api-reference-..-structs-segmentreference">SegmentReference</a></code> to convert.</p>
+<p><code><a href="sdk-for-ios-navigate-api-reference-structs-segmentreference">SegmentReference</a></code> to convert.</p>
 </div>
 </td>
 </tr>
@@ -135,7 +135,7 @@ behaviors. Related APIs may change for new releases without a deprecation proces
 </div>
 <div>
 <h4>Return Value</h4>
-<p><code><a href="sdk-for-ios-navigate-api-reference-..-structs-directedocmsegmentid">DirectedOCMSegmentId</a></code> corresponding to provided <code><a href="sdk-for-ios-navigate-api-reference-..-structs-segmentreference">SegmentReference</a></code>.</p>
+<p><code><a href="sdk-for-ios-navigate-api-reference-structs-directedocmsegmentid">DirectedOCMSegmentId</a></code> corresponding to provided <code><a href="sdk-for-ios-navigate-api-reference-structs-segmentreference">SegmentReference</a></code>.</p>
 </div>
 </section>
 </div>

@@ -1,5 +1,5 @@
 ---
-title: "Routing / MaxSpeedOnSegment"
+title: "sdk-for-ios-navigate-api-reference-structs-maxspeedonsegment"
 slug: "sdk-for-ios-navigate-api-reference-structs-maxspeedonsegment"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-structs-maxspeedonsegment"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-routing">Routing</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-routing">Routing</a>
+<img alt="" id="carat" src="/carat.png"/>
         MaxSpeedOnSegment Structure Reference
       </p>
 </div>
@@ -34,7 +34,7 @@ slug: "sdk-for-ios-navigate-api-reference-structs-maxspeedonsegment"
 </div>
 </div>
 <p>New base speed for a segment. Affects route calculation and the ETA. Cannot increase base speed on segment.</p>
-<p><strong>Note:</strong> This option can only be used with the <code><a href="sdk-for-ios-navigate-api-reference-..-classes-routingengine">RoutingEngine</a></code>. The <code><a href="sdk-for-ios-navigate-api-reference-..-classes-offlineroutingengine">OfflineRoutingEngine</a></code> is not supported and the option will be ignored. Note that the <code><a href="sdk-for-ios-navigate-api-reference-..-classes-offlineroutingengine">OfflineRoutingEngine</a></code> is only available for the Navigate license.</p>
+<p><strong>Note:</strong> This option can only be used with the <code><a href="sdk-for-ios-navigate-api-reference-classes-routingengine">RoutingEngine</a></code>. The <code><a href="sdk-for-ios-navigate-api-reference-classes-offlineroutingengine">OfflineRoutingEngine</a></code> is not supported and the option will be ignored. Note that the <code><a href="sdk-for-ios-navigate-api-reference-classes-offlineroutingengine">OfflineRoutingEngine</a></code> is only available for the Navigate license.</p>
 </section>
 <section class="section task-group-section">
 <div class="task-group">
@@ -54,8 +54,8 @@ slug: "sdk-for-ios-navigate-api-reference-structs-maxspeedonsegment"
 <div class="abstract">
 <p>A segment for which the new base speed is specified. Only the <code>segmendId</code> and <code>travelDirection</code>
 parameters are used, other parameters are ignored. Setting a <code>segmendId</code> is mandatory.</p>
-<p><strong>Note:</strong> The <code><a href="sdk-for-ios-navigate-api-reference-..-structs-segmentreference">SegmentReference</a></code> is not directly accessible from the map via the HERE SDK.
-Although, after route calculation you can retrieve the related segments for each <code><a href="sdk-for-ios-navigate-api-reference-..-classes-span">Span</a></code>.
+<p><strong>Note:</strong> The <code><a href="sdk-for-ios-navigate-api-reference-structs-segmentreference">SegmentReference</a></code> is not directly accessible from the map via the HERE SDK.
+Although, after route calculation you can retrieve the related segments for each <code><a href="sdk-for-ios-navigate-api-reference-classes-span">Span</a></code>.
 The segment IDs are the same that are also used by, for example, the <a href="https://www.here.com/docs/bundle/routing-api-developer-guide-v8/page/topics/use-cases/avoid-segments.html">Routing REST API</a>.
 These IDs are mostly stable and only change when the underlying map data changes
 due to a new road or similar changes in the real world.</p>
@@ -64,7 +64,7 @@ due to a new road or similar changes in the real world.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">segment</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-segmentreference">SegmentReference</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">segment</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-segmentreference">SegmentReference</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -116,8 +116,8 @@ Cannot increase base speed on segment. If the value is greater than the default 
 <li>segment: A segment for which the new base speed is specified. Only the <code>segmendId</code> and <code>travelDirection</code>
 parameters are used, other parameters are ignored. Setting a <code>segmendId</code> is mandatory.</li>
 </ul>
-<p><strong>Note:</strong> The <code><a href="sdk-for-ios-navigate-api-reference-..-structs-segmentreference">SegmentReference</a></code> is not directly accessible from the map via the HERE SDK.
-  Although, after route calculation you can retrieve the related segments for each <code><a href="sdk-for-ios-navigate-api-reference-..-classes-span">Span</a></code>.
+<p><strong>Note:</strong> The <code><a href="sdk-for-ios-navigate-api-reference-structs-segmentreference">SegmentReference</a></code> is not directly accessible from the map via the HERE SDK.
+  Although, after route calculation you can retrieve the related segments for each <code><a href="sdk-for-ios-navigate-api-reference-classes-span">Span</a></code>.
   The segment IDs are the same that are also used by, for example, the <a href="https://www.here.com/docs/bundle/routing-api-developer-guide-v8/page/topics/use-cases/avoid-segments.html">Routing REST API</a>.
   These IDs are mostly stable and only change when the underlying map data changes
   due to a new road or similar changes in the real world.</p>
@@ -131,7 +131,7 @@ Cannot increase base speed on segment. If the value is greater than the default 
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">segment</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-segmentreference">SegmentReference</a></span><span class="p">,</span> <span class="nv">baseSpeedInMetersPerSecond</span><span class="p">:</span> <span class="kt">Double</span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">segment</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-segmentreference">SegmentReference</a></span><span class="p">,</span> <span class="nv">baseSpeedInMetersPerSecond</span><span class="p">:</span> <span class="kt">Double</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>

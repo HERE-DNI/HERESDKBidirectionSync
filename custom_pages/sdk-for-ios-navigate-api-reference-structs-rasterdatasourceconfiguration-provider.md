@@ -1,5 +1,5 @@
 ---
-title: "RasterDataSourceConfiguration / Provider"
+title: "sdk-for-ios-navigate-api-reference-structs-rasterdatasourceconfiguration-provider"
 slug: "sdk-for-ios-navigate-api-reference-structs-rasterdatasourceconfiguration-provider"
 ---
 
@@ -15,12 +15,12 @@ slug: "sdk-for-ios-navigate-api-reference-structs-rasterdatasourceconfiguration-
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-..-index">heresdk</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-..-maps">Maps</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-..-structs-rasterdatasourceconfiguration">RasterDataSourceConfiguration</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-maps">Maps</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-structs-rasterdatasourceconfiguration">RasterDataSourceConfiguration</a>
+<img alt="" id="carat" src="/carat.png"/>
         Provider Structure Reference
       </p>
 </div>
@@ -84,7 +84,7 @@ slug: "sdk-for-ios-navigate-api-reference-structs-rasterdatasourceconfiguration-
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">tilingScheme</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-enums-tilingscheme">TilingScheme</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">tilingScheme</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-tilingscheme">TilingScheme</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -192,7 +192,7 @@ appropriate z value of the tile key will be determined.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">urlProvider</span><span class="p">:</span> <span class="kd">@escaping</span> <span class="kt"><a href="../../Maps.html#/s:7heresdk21TileUrlRequestHandlera">TileUrlRequestHandler</a></span><span class="p">,</span> <span class="nv">tilingScheme</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-enums-tilingscheme">TilingScheme</a></span><span class="p">,</span> <span class="nv">storageLevels</span><span class="p">:</span> <span class="p">[</span><span class="kt">Int32</span><span class="p">],</span> <span class="nv">hasAlphaChannel</span><span class="p">:</span> <span class="kt">Bool</span> <span class="o">=</span> <span class="kc">false</span><span class="p">,</span> <span class="nv">headers</span><span class="p">:</span> <span class="p">[</span><span class="kt">String</span> <span class="p">:</span> <span class="kt">String</span><span class="p">]?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">urlProvider</span><span class="p">:</span> <span class="kd">@escaping</span> <span class="kt"><a href="../../Maps.html#/s:7heresdk21TileUrlRequestHandlera">TileUrlRequestHandler</a></span><span class="p">,</span> <span class="nv">tilingScheme</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-tilingscheme">TilingScheme</a></span><span class="p">,</span> <span class="nv">storageLevels</span><span class="p">:</span> <span class="p">[</span><span class="kt">Int32</span><span class="p">],</span> <span class="nv">hasAlphaChannel</span><span class="p">:</span> <span class="kt">Bool</span> <span class="o">=</span> <span class="kc">false</span><span class="p">,</span> <span class="nv">headers</span><span class="p">:</span> <span class="p">[</span><span class="kt">String</span> <span class="p">:</span> <span class="kt">String</span><span class="p">]?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>

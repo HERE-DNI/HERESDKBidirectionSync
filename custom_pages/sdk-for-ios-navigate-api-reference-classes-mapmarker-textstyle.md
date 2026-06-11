@@ -1,5 +1,5 @@
 ---
-title: "MapMarker / TextStyle"
+title: "sdk-for-ios-navigate-api-reference-classes-mapmarker-textstyle"
 slug: "sdk-for-ios-navigate-api-reference-classes-mapmarker-textstyle"
 ---
 
@@ -15,12 +15,12 @@ slug: "sdk-for-ios-navigate-api-reference-classes-mapmarker-textstyle"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-..-index">heresdk</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-..-maps">Maps</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-..-classes-mapmarker">MapMarker</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-maps">Maps</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-classes-mapmarker">MapMarker</a>
+<img alt="" id="carat" src="/carat.png"/>
         TextStyle Class Reference
       </p>
 </div>
@@ -33,11 +33,11 @@ slug: "sdk-for-ios-navigate-api-reference-classes-mapmarker-textstyle"
 <div class="declaration">
 <div class="language">
 <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">TextStyle</span></code></pre>
-<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-classes-mapmarker">MapMarker</a></span><span class="o">.</span><span class="kt">TextStyle</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
-<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-classes-mapmarker">MapMarker</a></span><span class="o">.</span><span class="kt">TextStyle</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-mapmarker">MapMarker</a></span><span class="o">.</span><span class="kt">TextStyle</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-mapmarker">MapMarker</a></span><span class="o">.</span><span class="kt">TextStyle</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
-<p>Styling options for the text of a <code><a href="sdk-for-ios-navigate-api-reference-..-..-classes-mapmarker">MapMarker</a></code>.</p>
+<p>Styling options for the text of a <code><a href="sdk-for-ios-navigate-api-reference-classes-mapmarker">MapMarker</a></code>.</p>
 </section>
 <section class="section task-group-section">
 <div class="task-group">
@@ -61,7 +61,7 @@ slug: "sdk-for-ios-navigate-api-reference-classes-mapmarker-textstyle"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">typealias</span> <span class="kt">InstantiationError</span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-classes-mapmarker-textstyle-instantiationerrorcode">InstantiationErrorCode</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">typealias</span> <span class="kt">InstantiationError</span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-mapmarker-textstyle-instantiationerrorcode">InstantiationErrorCode</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -80,7 +80,7 @@ slug: "sdk-for-ios-navigate-api-reference-classes-mapmarker-textstyle"
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Creates a default set of styling options for the text of a <code><a href="sdk-for-ios-navigate-api-reference-..-..-classes-mapmarker">MapMarker</a></code> that consists of
+<p>Creates a default set of styling options for the text of a <code><a href="sdk-for-ios-navigate-api-reference-classes-mapmarker">MapMarker</a></code> that consists of
 the following values:</p>
 <ul>
 <li>Text size: 18 pixels</li>
@@ -89,7 +89,7 @@ the following values:</p>
 <li>Text outline color: opaque black</li>
 <li>Text placement: <code><a href="../../Classes/MapMarker/TextStyle/Placement.html#/s:7heresdk9MapMarkerC9TextStyleC9PlacementO6bottomyA2GmF">MapMarker.TextStyle.Placement.bottom</a></code></li>
 </ul>
-<p>Once the resulting <code>TextStyle</code> is applied to a <code><a href="sdk-for-ios-navigate-api-reference-..-..-classes-mapmarker">MapMarker</a></code>, its text will be centered over its
+<p>Once the resulting <code>TextStyle</code> is applied to a <code><a href="sdk-for-ios-navigate-api-reference-classes-mapmarker">MapMarker</a></code>, its text will be centered over its
 image. The font will be 18 pixels wide, colored opaque white and will have no visible outline.</p>
 </div>
 <div class="declaration">
@@ -115,12 +115,12 @@ image. The font will be 18 pixels wide, colored opaque white and will have no vi
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Creates a set of styling options for the text of a <code><a href="sdk-for-ios-navigate-api-reference-..-..-classes-mapmarker">MapMarker</a></code>.</p>
+<p>Creates a set of styling options for the text of a <code><a href="sdk-for-ios-navigate-api-reference-classes-mapmarker">MapMarker</a></code>.</p>
 <p>List of placements is used to specify allowed placement of text relative to the icon.
 When marker overlapping is allowed as set by <code><a href="../../Classes/MapMarker.html#/s:7heresdk9MapMarkerC16isOverlapAllowedSbvp">MapMarker.isOverlapAllowed</a></code>,
 only first placement element is considered.
 Otherwise the placement value is chosen so that the text does not overlap
-with other <code><a href="sdk-for-ios-navigate-api-reference-..-..-classes-mapmarker">MapMarker</a></code> instances.</p>
+with other <code><a href="sdk-for-ios-navigate-api-reference-classes-mapmarker">MapMarker</a></code> instances.</p>
 <p>Placement values are prioritized according
 to the order in which they appear in the list. Lists with duplicate entries
 as well as empty lists are not supported.</p>
@@ -134,7 +134,7 @@ as well as empty lists are not supported.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">textSize</span><span class="p">:</span> <span class="kt">Double</span><span class="p">,</span> <span class="nv">textColor</span><span class="p">:</span> <span class="kt">UIColor</span><span class="p">,</span> <span class="nv">textOutlineSize</span><span class="p">:</span> <span class="kt">Double</span><span class="p">,</span> <span class="nv">textOutlineColor</span><span class="p">:</span> <span class="kt">UIColor</span><span class="p">,</span> <span class="nv">placements</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-classes-mapmarker">MapMarker</a></span><span class="o">.</span><span class="kt">TextStyle</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-classes-mapmarker-textstyle-placement">Placement</a></span><span class="p">])</span> <span class="k">throws</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">textSize</span><span class="p">:</span> <span class="kt">Double</span><span class="p">,</span> <span class="nv">textColor</span><span class="p">:</span> <span class="kt">UIColor</span><span class="p">,</span> <span class="nv">textOutlineSize</span><span class="p">:</span> <span class="kt">Double</span><span class="p">,</span> <span class="nv">textOutlineColor</span><span class="p">:</span> <span class="kt">UIColor</span><span class="p">,</span> <span class="nv">placements</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-mapmarker">MapMarker</a></span><span class="o">.</span><span class="kt">TextStyle</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-mapmarker-textstyle-placement">Placement</a></span><span class="p">])</span> <span class="k">throws</span></code></pre>
 </div>
 </div>
 <div>
@@ -199,7 +199,7 @@ Only non-negative values are supported.</p>
 </td>
 <td>
 <div>
-<p>List of allowed placements of the text relative to the icon of a <code><a href="sdk-for-ios-navigate-api-reference-..-..-classes-mapmarker">MapMarker</a></code>.</p>
+<p>List of allowed placements of the text relative to the icon of a <code><a href="sdk-for-ios-navigate-api-reference-classes-mapmarker">MapMarker</a></code>.</p>
 </div>
 </td>
 </tr>
@@ -222,14 +222,14 @@ Only non-negative values are supported.</p>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Creates a set of styling options for the text of a <code><a href="sdk-for-ios-navigate-api-reference-..-..-classes-mapmarker">MapMarker</a></code>.</p>
+<p>Creates a set of styling options for the text of a <code><a href="sdk-for-ios-navigate-api-reference-classes-mapmarker">MapMarker</a></code>.</p>
 <p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
 behavior. Related APIs may change for new releases without a deprecation process.</p>
 <p>List of placements is used to specify allowed placement of text relative to the icon.
 When marker overlapping is allowed as set by <code><a href="../../Classes/MapMarker.html#/s:7heresdk9MapMarkerC16isOverlapAllowedSbvp">MapMarker.isOverlapAllowed</a></code>,
 only first placement element is considered.
 Otherwise the placement value is chosen so that the text does not overlap
-with other <code><a href="sdk-for-ios-navigate-api-reference-..-..-classes-mapmarker">MapMarker</a></code> instances.</p>
+with other <code><a href="sdk-for-ios-navigate-api-reference-classes-mapmarker">MapMarker</a></code> instances.</p>
 <p>Placement values are prioritized according
 to the order in which they appear in the list. Lists with duplicate entries
 as well as empty lists are not supported.</p>
@@ -243,7 +243,7 @@ as well as empty lists are not supported.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">textSize</span><span class="p">:</span> <span class="kt">Double</span><span class="p">,</span> <span class="nv">textColor</span><span class="p">:</span> <span class="kt">UIColor</span><span class="p">,</span> <span class="nv">textOutlineSize</span><span class="p">:</span> <span class="kt">Double</span><span class="p">,</span> <span class="nv">textOutlineColor</span><span class="p">:</span> <span class="kt">UIColor</span><span class="p">,</span> <span class="nv">placements</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-classes-mapmarker">MapMarker</a></span><span class="o">.</span><span class="kt">TextStyle</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-classes-mapmarker-textstyle-placement">Placement</a></span><span class="p">],</span> <span class="nv">fontName</span><span class="p">:</span> <span class="kt">String</span><span class="p">)</span> <span class="k">throws</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">textSize</span><span class="p">:</span> <span class="kt">Double</span><span class="p">,</span> <span class="nv">textColor</span><span class="p">:</span> <span class="kt">UIColor</span><span class="p">,</span> <span class="nv">textOutlineSize</span><span class="p">:</span> <span class="kt">Double</span><span class="p">,</span> <span class="nv">textOutlineColor</span><span class="p">:</span> <span class="kt">UIColor</span><span class="p">,</span> <span class="nv">placements</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-mapmarker">MapMarker</a></span><span class="o">.</span><span class="kt">TextStyle</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-mapmarker-textstyle-placement">Placement</a></span><span class="p">],</span> <span class="nv">fontName</span><span class="p">:</span> <span class="kt">String</span><span class="p">)</span> <span class="k">throws</span></code></pre>
 </div>
 </div>
 <div>
@@ -308,7 +308,7 @@ Only non-negative values are supported.</p>
 </td>
 <td>
 <div>
-<p>List of allowed placements of the text relative to the icon of a <code><a href="sdk-for-ios-navigate-api-reference-..-..-classes-mapmarker">MapMarker</a></code>.</p>
+<p>List of allowed placements of the text relative to the icon of a <code><a href="sdk-for-ios-navigate-api-reference-classes-mapmarker">MapMarker</a></code>.</p>
 </div>
 </td>
 </tr>
@@ -469,13 +469,13 @@ If empty string is provided, a default font will be used.</p>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>List of possible text placements relative to the icon of a <code><a href="sdk-for-ios-navigate-api-reference-..-..-classes-mapmarker">MapMarker</a></code>.</p>
+<p>List of possible text placements relative to the icon of a <code><a href="sdk-for-ios-navigate-api-reference-classes-mapmarker">MapMarker</a></code>.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">placements</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-classes-mapmarker">MapMarker</a></span><span class="o">.</span><span class="kt">TextStyle</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-classes-mapmarker-textstyle-placement">Placement</a></span><span class="p">]</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">placements</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-mapmarker">MapMarker</a></span><span class="o">.</span><span class="kt">TextStyle</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-mapmarker-textstyle-placement">Placement</a></span><span class="p">]</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -494,15 +494,15 @@ If empty string is provided, a default font will be used.</p>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Describes a reason for failing to create a <code><a href="sdk-for-ios-navigate-api-reference-..-..-classes-mapmarker-textstyle">MapMarker.TextStyle</a></code>.</p>
-<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-..-..-classes-mapmarker-textstyle-instantiationerrorcode">See more</a>
+<p>Describes a reason for failing to create a <code><a href="sdk-for-ios-navigate-api-reference-classes-mapmarker-textstyle">MapMarker.TextStyle</a></code>.</p>
+<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-classes-mapmarker-textstyle-instantiationerrorcode">See more</a>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
 <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">InstantiationErrorCode</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
-<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-classes-mapmarker">MapMarker</a></span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-classes-mapmarker-textstyle">TextStyle</a></span><span class="o">.</span><span class="kt">InstantiationErrorCode</span> <span class="p">:</span> <span class="kt">Error</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-mapmarker">MapMarker</a></span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-mapmarker-textstyle">TextStyle</a></span><span class="o">.</span><span class="kt">InstantiationErrorCode</span> <span class="p">:</span> <span class="kt">Error</span></code></pre>
 </div>
 </div>
 </section>
@@ -521,8 +521,8 @@ If empty string is provided, a default font will be used.</p>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Represents text placement with respect to the icon of a <code><a href="sdk-for-ios-navigate-api-reference-..-..-classes-mapmarker">MapMarker</a></code>.</p>
-<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-..-..-classes-mapmarker-textstyle-placement">See more</a>
+<p>Represents text placement with respect to the icon of a <code><a href="sdk-for-ios-navigate-api-reference-classes-mapmarker">MapMarker</a></code>.</p>
+<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-classes-mapmarker-textstyle-placement">See more</a>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>

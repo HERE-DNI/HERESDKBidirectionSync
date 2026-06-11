@@ -1,5 +1,5 @@
 ---
-title: "Core / AuthenticationMode"
+title: "sdk-for-ios-navigate-api-reference-classes-authenticationmode"
 slug: "sdk-for-ios-navigate-api-reference-classes-authenticationmode"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-classes-authenticationmode"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-core">Core</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-core">Core</a>
+<img alt="" id="carat" src="/carat.png"/>
         AuthenticationMode Class Reference
       </p>
 </div>

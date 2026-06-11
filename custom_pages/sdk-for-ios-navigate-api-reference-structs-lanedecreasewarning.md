@@ -1,5 +1,5 @@
 ---
-title: "Other Structures / LaneDecreaseWarning"
+title: "sdk-for-ios-navigate-api-reference-structs-lanedecreasewarning"
 slug: "sdk-for-ios-navigate-api-reference-structs-lanedecreasewarning"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-structs-lanedecreasewarning"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-other%20structs">Other Structures</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-other%20structs">Other Structures</a>
+<img alt="" id="carat" src="/carat.png"/>
         LaneDecreaseWarning Structure Reference
       </p>
 </div>
@@ -38,9 +38,9 @@ slug: "sdk-for-ios-navigate-api-reference-structs-lanedecreasewarning"
 than the previous road segment provided by <code>sdk.electronic_horizon.ElectronicHorizonEngine</code>,
 requiring drivers to merge or change lanes.
 Lane decrease is provided only on highways and motorways. It will not be provided for junctions,
-when maneuver is given for the lane decrease situation or when the <code><a href="sdk-for-ios-navigate-api-reference-..-structs-trafficmergewarning">TrafficMergeWarning</a></code>
+when maneuver is given for the lane decrease situation or when the <code><a href="sdk-for-ios-navigate-api-reference-structs-trafficmergewarning">TrafficMergeWarning</a></code>
 is provided. Special lanes (e.g. Bus lane, HOV) will only be included to the lane decrease warning generation
-if the according options are set in <code><a href="sdk-for-ios-navigate-api-reference-..-structs-transportspecification">TransportSpecification</a></code>.</p>
+if the according options are set in <code><a href="sdk-for-ios-navigate-api-reference-structs-transportspecification">TransportSpecification</a></code>.</p>
 <p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
 behaviors. Related APIs may change for new releases without a deprecation process.</p>
 </section>
@@ -221,7 +221,7 @@ ahead, then <code><a href="../Structs/LaneDecreaseWarning.html#/s:7heresdk19Lane
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">distanceType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-distancetype">DistanceType</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">distanceType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-distancetype">DistanceType</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -246,7 +246,7 @@ ahead, then <code><a href="../Structs/LaneDecreaseWarning.html#/s:7heresdk19Lane
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">id</span><span class="p">:</span> <span class="kt">Int32</span> <span class="o">=</span> <span class="mi">0</span><span class="p">,</span> <span class="nv">previousLaneNumber</span><span class="p">:</span> <span class="kt">Int32</span> <span class="o">=</span> <span class="mi">0</span><span class="p">,</span> <span class="nv">newLaneNumber</span><span class="p">:</span> <span class="kt">Int32</span> <span class="o">=</span> <span class="mi">0</span><span class="p">,</span> <span class="nv">lanesDecreasedFromLeft</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">lanesDecreasedFromRight</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">distanceInMeters</span><span class="p">:</span> <span class="kt">Double</span><span class="p">,</span> <span class="nv">distanceType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-distancetype">DistanceType</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">id</span><span class="p">:</span> <span class="kt">Int32</span> <span class="o">=</span> <span class="mi">0</span><span class="p">,</span> <span class="nv">previousLaneNumber</span><span class="p">:</span> <span class="kt">Int32</span> <span class="o">=</span> <span class="mi">0</span><span class="p">,</span> <span class="nv">newLaneNumber</span><span class="p">:</span> <span class="kt">Int32</span> <span class="o">=</span> <span class="mi">0</span><span class="p">,</span> <span class="nv">lanesDecreasedFromLeft</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">lanesDecreasedFromRight</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">distanceInMeters</span><span class="p">:</span> <span class="kt">Double</span><span class="p">,</span> <span class="nv">distanceType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-distancetype">DistanceType</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>

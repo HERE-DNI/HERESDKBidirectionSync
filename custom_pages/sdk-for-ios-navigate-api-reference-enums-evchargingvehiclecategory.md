@@ -1,5 +1,5 @@
 ---
-title: "Search / EVChargingVehicleCategory"
+title: "sdk-for-ios-navigate-api-reference-enums-evchargingvehiclecategory"
 slug: "sdk-for-ios-navigate-api-reference-enums-evchargingvehiclecategory"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-enums-evchargingvehiclecategory"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-search">Search</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-search">Search</a>
+<img alt="" id="carat" src="/carat.png"/>
         EVChargingVehicleCategory Enumeration Reference
       </p>
 </div>

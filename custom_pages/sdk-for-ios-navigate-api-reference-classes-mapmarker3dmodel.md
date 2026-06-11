@@ -1,5 +1,5 @@
 ---
-title: "Maps / MapMarker3DModel"
+title: "sdk-for-ios-navigate-api-reference-classes-mapmarker3dmodel"
 slug: "sdk-for-ios-navigate-api-reference-classes-mapmarker3dmodel"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-classes-mapmarker3dmodel"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-maps">Maps</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-maps">Maps</a>
+<img alt="" id="carat" src="/carat.png"/>
         MapMarker3DModel Class Reference
       </p>
 </div>
@@ -35,9 +35,9 @@ slug: "sdk-for-ios-navigate-api-reference-classes-mapmarker3dmodel"
 <pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapMarker3DModel</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
-<p>Represents a 3D model that can be used by a <code><a href="sdk-for-ios-navigate-api-reference-..-classes-mapmarker3d">MapMarker3D</a></code> to be shown on the map.
+<p>Represents a 3D model that can be used by a <code><a href="sdk-for-ios-navigate-api-reference-classes-mapmarker3d">MapMarker3D</a></code> to be shown on the map.
 Geometry of 3D marker can be provided in form of a Wavefront OBJ file as specified in
-<a href="http://www.martinreddy.net/gfx/3d/OBJ.spec">http://www.martinreddy.net/gfx/3d/OBJ.spec</a> or as mesh built via <code><a href="sdk-for-ios-navigate-api-reference-..-classes-meshbuilder">MeshBuilder</a></code>.</p>
+<a href="http://www.martinreddy.net/gfx/3d/OBJ.spec">http://www.martinreddy.net/gfx/3d/OBJ.spec</a> or as mesh built via <code><a href="sdk-for-ios-navigate-api-reference-classes-meshbuilder">MeshBuilder</a></code>.</p>
 <h1 class="heading" id="1-creating-code-mapmarker3dmodel-code-from-obj-file">1. Creating <code>MapMarker3DModel</code> from OBJ file</h1>
 <p>For OBJ files, HERE SDK only supports the following set of features of the OBJ specification:</p>
 <ul>
@@ -66,7 +66,7 @@ Geometry of 3D marker can be provided in form of a Wavefront OBJ file as specifi
 <p>For supported texture formats, HERE SDK allows the following formats to be specified:
 JPG, PNG, GPU compressed texture formats: ECT1 (OpenGL only), YUV, ASTC, KTX.</p>
 <h1 class="heading" id="2-creating-code-mapmarker3dmodel-code-programatically">2. Creating <code>MapMarker3DModel</code> programatically</h1>
-<p>A 3D mesh can be specified programatically using <code><a href="sdk-for-ios-navigate-api-reference-..-classes-meshbuilder">MeshBuilder</a></code> and passed to
+<p>A 3D mesh can be specified programatically using <code><a href="sdk-for-ios-navigate-api-reference-classes-meshbuilder">MeshBuilder</a></code> and passed to
 <code>MapMarker3DModel</code> constructor. This method supports creating a mesh from
 quads and triangles. Textured geometry is also supported, the mesh faces
 need to have texture coordinates and a texture file needs to be passed
@@ -94,7 +94,7 @@ along with the mesh to <code>MapMarker3DModel</code> constructor.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">typealias</span> <span class="kt">InstantiationError</span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-mapmarker3dmodel-instantiationerrorcode">InstantiationErrorCode</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">typealias</span> <span class="kt">InstantiationError</span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-mapmarker3dmodel-instantiationerrorcode">InstantiationErrorCode</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -461,15 +461,15 @@ This color is multiplied with color of texture.</p>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Indicates the reason for a failure to create <code><a href="sdk-for-ios-navigate-api-reference-..-classes-mapmarker3dmodel">MapMarker3DModel</a></code>.</p>
-<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-..-classes-mapmarker3dmodel-instantiationerrorcode">See more</a>
+<p>Indicates the reason for a failure to create <code><a href="sdk-for-ios-navigate-api-reference-classes-mapmarker3dmodel">MapMarker3DModel</a></code>.</p>
+<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-classes-mapmarker3dmodel-instantiationerrorcode">See more</a>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
 <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">InstantiationErrorCode</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
-<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-mapmarker3dmodel">MapMarker3DModel</a></span><span class="o">.</span><span class="kt">InstantiationErrorCode</span> <span class="p">:</span> <span class="kt">Error</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-mapmarker3dmodel">MapMarker3DModel</a></span><span class="o">.</span><span class="kt">InstantiationErrorCode</span> <span class="p">:</span> <span class="kt">Error</span></code></pre>
 </div>
 </div>
 </section>

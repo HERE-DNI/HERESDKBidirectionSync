@@ -1,5 +1,5 @@
 ---
-title: "TrackingCameraBehavior / SpeedThreshold"
+title: "sdk-for-ios-navigate-api-reference-classes-trackingcamerabehavior-speedthreshold"
 slug: "sdk-for-ios-navigate-api-reference-classes-trackingcamerabehavior-speedthreshold"
 ---
 
@@ -15,12 +15,12 @@ slug: "sdk-for-ios-navigate-api-reference-classes-trackingcamerabehavior-speedth
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-..-index">heresdk</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-..-navigation">Navigation</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-..-classes-trackingcamerabehavior">TrackingCameraBehavior</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-navigation">Navigation</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-classes-trackingcamerabehavior">TrackingCameraBehavior</a>
+<img alt="" id="carat" src="/carat.png"/>
         SpeedThreshold Structure Reference
       </p>
 </div>
@@ -79,13 +79,13 @@ slug: "sdk-for-ios-navigate-api-reference-classes-trackingcamerabehavior-speedth
 <div class="pointer"></div>
 <div class="abstract">
 <p>Zoom applied once the threshold is reached.
-Defaults to a <code><a href="sdk-for-ios-navigate-api-reference-..-..-structs-mapmeasure">MapMeasure</a></code> with kind <code><a href="../../Structs/MapMeasure/Kind.html#/s:7heresdk10MapMeasureV4KindO9zoomLevelyA2EmF">MapMeasure.Kind.zoomLevel</a></code> and value 16.5.</p>
+Defaults to a <code><a href="sdk-for-ios-navigate-api-reference-structs-mapmeasure">MapMeasure</a></code> with kind <code><a href="../../Structs/MapMeasure/Kind.html#/s:7heresdk10MapMeasureV4KindO9zoomLevelyA2EmF">MapMeasure.Kind.zoomLevel</a></code> and value 16.5.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">zoom</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-structs-mapmeasure">MapMeasure</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">zoom</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-mapmeasure">MapMeasure</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -112,7 +112,7 @@ subject to change without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">speedInMetersPerSecond</span><span class="p">:</span> <span class="kt">Double</span> <span class="o">=</span> <span class="mf">0.0</span><span class="p">,</span> <span class="nv">zoom</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-structs-mapmeasure">MapMeasure</a></span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-structs-mapmeasure">MapMeasure</a></span><span class="p">(</span><span class="nv">kind</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-structs-mapmeasure">MapMeasure</a></span><span class="o">.</span><span class="kt">Kind</span><span class="o">.</span><span class="n">zoomLevel</span><span class="p">,</span> <span class="nv">value</span><span class="p">:</span> <span class="mf">16.5</span><span class="p">))</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">speedInMetersPerSecond</span><span class="p">:</span> <span class="kt">Double</span> <span class="o">=</span> <span class="mf">0.0</span><span class="p">,</span> <span class="nv">zoom</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-mapmeasure">MapMeasure</a></span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-mapmeasure">MapMeasure</a></span><span class="p">(</span><span class="nv">kind</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-mapmeasure">MapMeasure</a></span><span class="o">.</span><span class="kt">Kind</span><span class="o">.</span><span class="n">zoomLevel</span><span class="p">,</span> <span class="nv">value</span><span class="p">:</span> <span class="mf">16.5</span><span class="p">))</span></code></pre>
 </div>
 </div>
 </section>

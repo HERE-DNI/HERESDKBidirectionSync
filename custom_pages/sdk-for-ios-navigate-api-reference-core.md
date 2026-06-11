@@ -1,5 +1,5 @@
 ---
-title: "Core"
+title: "sdk-for-ios-navigate-api-reference-core"
 slug: "sdk-for-ios-navigate-api-reference-core"
 ---
 
@@ -16,7 +16,7 @@ slug: "sdk-for-ios-navigate-api-reference-core"
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="img/carat.png"/>
+<img alt="" id="carat" src="/carat.png"/>
         Core  Reference
       </p>
 </div>
@@ -1846,7 +1846,7 @@ This is a BETA feature and thus there can be bugs and unexpected behavior.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">@available(*, deprecated, message: "Will be removed in v4.28.0. Use <code>sdk.transport.TransportSpecification</code> instead.")</span>
+<pre class="highlight swift"><code><span class="kd">@available(*, deprecated, message: "Will be removed in v4.28.0. Use sdk.transport.TransportSpecification instead.")</span>
 <span class="kd">public</span> <span class="kd">struct</span> <span class="kt">PedestrianProfile</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
@@ -2667,7 +2667,7 @@ This is a BETA feature and thus there can be bugs and unexpected behavior.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">@available(*, deprecated, message: "Will be removed in v4.28.0. Use <code>TransportSpecification</code> instead.")</span>
+<pre class="highlight swift"><code><span class="kd">@available(*, deprecated, message: "Will be removed in v4.28.0. Use TransportSpecification instead.")</span>
 <span class="kd">public</span> <span class="kd">struct</span> <span class="kt">TransportProfile</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>

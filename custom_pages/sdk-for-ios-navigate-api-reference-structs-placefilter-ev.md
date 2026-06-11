@@ -1,5 +1,5 @@
 ---
-title: "PlaceFilter / Ev"
+title: "sdk-for-ios-navigate-api-reference-structs-placefilter-ev"
 slug: "sdk-for-ios-navigate-api-reference-structs-placefilter-ev"
 ---
 
@@ -15,12 +15,12 @@ slug: "sdk-for-ios-navigate-api-reference-structs-placefilter-ev"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-..-index">heresdk</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-..-search">Search</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-..-structs-placefilter">PlaceFilter</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-search">Search</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-structs-placefilter">PlaceFilter</a>
+<img alt="" id="carat" src="/carat.png"/>
         Ev Structure Reference
       </p>
 </div>
@@ -54,7 +54,7 @@ slug: "sdk-for-ios-navigate-api-reference-structs-placefilter-ev"
 <div class="pointer"></div>
 <div class="abstract">
 <p>Sets a constraint on the charge point operator name of the EV station.</p>
-<p>Not supported in <code><a href="sdk-for-ios-navigate-api-reference-..-..-classes-offlinesearchengine">OfflineSearchEngine</a></code> (only available for the Navigate license).</p>
+<p>Not supported in <code><a href="sdk-for-ios-navigate-api-reference-classes-offlinesearchengine">OfflineSearchEngine</a></code> (only available for the Navigate license).</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
@@ -82,7 +82,7 @@ slug: "sdk-for-ios-navigate-api-reference-structs-placefilter-ev"
 <p>Filter to retrieve EV charging stations with at least one of the connector type IDs.
 For more information on the current connector types, see
 <a href="https://www.here.com/docs/bundle/ev-charge-points-api-developer-guide/page/topics/resource-type-connector.html">https://www.here.com/docs/bundle/ev-charge-points-api-developer-guide/page/topics/resource-type-connector.html</a></p>
-<p>Not supported in <code><a href="sdk-for-ios-navigate-api-reference-..-..-classes-offlinesearchengine">OfflineSearchEngine</a></code> (only available for the Navigate license).</p>
+<p>Not supported in <code><a href="sdk-for-ios-navigate-api-reference-classes-offlinesearchengine">OfflineSearchEngine</a></code> (only available for the Navigate license).</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
@@ -109,7 +109,7 @@ For more information on the current connector types, see
 <div class="abstract">
 <p>Filter to retrieve EV charging stations with the given minimum charging power in KW
 delivered by at least one of the station EVSE.
-Not supported for <code>suggestByText</code> in <code><a href="sdk-for-ios-navigate-api-reference-..-..-classes-offlinesearchengine">OfflineSearchEngine</a></code> (only available for the Navigate license).</p>
+Not supported for <code>suggestByText</code> in <code><a href="sdk-for-ios-navigate-api-reference-classes-offlinesearchengine">OfflineSearchEngine</a></code> (only available for the Navigate license).</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
@@ -135,7 +135,7 @@ Not supported for <code>suggestByText</code> in <code><a href="sdk-for-ios-navig
 <div class="pointer"></div>
 <div class="abstract">
 <p>Filter to retrieve EV charging stations with at least one matching e-Mobility Service Provider Partner ID.</p>
-<p>Not supported in <code><a href="sdk-for-ios-navigate-api-reference-..-..-classes-offlinesearchengine">OfflineSearchEngine</a></code> (only available for the Navigate license).</p>
+<p>Not supported in <code><a href="sdk-for-ios-navigate-api-reference-classes-offlinesearchengine">OfflineSearchEngine</a></code> (only available for the Navigate license).</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
@@ -162,13 +162,13 @@ Not supported for <code>suggestByText</code> in <code><a href="sdk-for-ios-navig
 <div class="abstract">
 <p>Filter to retrieve EV charging stations with the given current type
 provided at one of the station EVSE. Accepted is either AC or DC.
-Not supported for <code>suggestByText</code> in <code><a href="sdk-for-ios-navigate-api-reference-..-..-classes-offlinesearchengine">OfflineSearchEngine</a></code> (only available for the Navigate license).</p>
+Not supported for <code>suggestByText</code> in <code><a href="sdk-for-ios-navigate-api-reference-classes-offlinesearchengine">OfflineSearchEngine</a></code> (only available for the Navigate license).</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">currentType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-enums-currenttype">CurrentType</a></span><span class="p">?</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">currentType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-currenttype">CurrentType</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -193,24 +193,24 @@ Not supported for <code>suggestByText</code> in <code><a href="sdk-for-ios-navig
 <ul>
 <li>supplierNames: Sets a constraint on the charge point operator name of the EV station.</li>
 </ul>
-<p>Not supported in <code><a href="sdk-for-ios-navigate-api-reference-..-..-classes-offlinesearchengine">OfflineSearchEngine</a></code> (only available for the Navigate license).</p>
+<p>Not supported in <code><a href="sdk-for-ios-navigate-api-reference-classes-offlinesearchengine">OfflineSearchEngine</a></code> (only available for the Navigate license).</p>
 <ul>
 <li>connectorTypeIDs: Filter to retrieve EV charging stations with at least one of the connector type IDs.
 For more information on the current connector types, see
 <a href="https://www.here.com/docs/bundle/ev-charge-points-api-developer-guide/page/topics/resource-type-connector.html">https://www.here.com/docs/bundle/ev-charge-points-api-developer-guide/page/topics/resource-type-connector.html</a></li>
 </ul>
-<p>Not supported in <code><a href="sdk-for-ios-navigate-api-reference-..-..-classes-offlinesearchengine">OfflineSearchEngine</a></code> (only available for the Navigate license).</p>
+<p>Not supported in <code><a href="sdk-for-ios-navigate-api-reference-classes-offlinesearchengine">OfflineSearchEngine</a></code> (only available for the Navigate license).</p>
 <ul>
 <li>minPowerInKilowatts: Filter to retrieve EV charging stations with the given minimum charging power in KW
 delivered by at least one of the station EVSE.
-Not supported for <code>suggestByText</code> in <code><a href="sdk-for-ios-navigate-api-reference-..-..-classes-offlinesearchengine">OfflineSearchEngine</a></code> (only available for the Navigate license).</li>
+Not supported for <code>suggestByText</code> in <code><a href="sdk-for-ios-navigate-api-reference-classes-offlinesearchengine">OfflineSearchEngine</a></code> (only available for the Navigate license).</li>
 <li>eMobilityServiceProviderPartnerIDs: Filter to retrieve EV charging stations with at least one matching e-Mobility Service Provider Partner ID.</li>
 </ul>
-<p>Not supported in <code><a href="sdk-for-ios-navigate-api-reference-..-..-classes-offlinesearchengine">OfflineSearchEngine</a></code> (only available for the Navigate license).</p>
+<p>Not supported in <code><a href="sdk-for-ios-navigate-api-reference-classes-offlinesearchengine">OfflineSearchEngine</a></code> (only available for the Navigate license).</p>
 <ul>
 <li>currentType: Filter to retrieve EV charging stations with the given current type
 provided at one of the station EVSE. Accepted is either AC or DC.
-Not supported for <code>suggestByText</code> in <code><a href="sdk-for-ios-navigate-api-reference-..-..-classes-offlinesearchengine">OfflineSearchEngine</a></code> (only available for the Navigate license).</li>
+Not supported for <code>suggestByText</code> in <code><a href="sdk-for-ios-navigate-api-reference-classes-offlinesearchengine">OfflineSearchEngine</a></code> (only available for the Navigate license).</li>
 </ul></li>
 </ul>
 </div>
@@ -218,7 +218,7 @@ Not supported for <code>suggestByText</code> in <code><a href="sdk-for-ios-navig
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">supplierNames</span><span class="p">:</span> <span class="p">[</span><span class="kt">String</span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">connectorTypeIDs</span><span class="p">:</span> <span class="p">[</span><span class="kt">String</span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">minPowerInKilowatts</span><span class="p">:</span> <span class="kt">Double</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">eMobilityServiceProviderPartnerIDs</span><span class="p">:</span> <span class="p">[</span><span class="kt">String</span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">currentType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-enums-currenttype">CurrentType</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">supplierNames</span><span class="p">:</span> <span class="p">[</span><span class="kt">String</span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">connectorTypeIDs</span><span class="p">:</span> <span class="p">[</span><span class="kt">String</span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">minPowerInKilowatts</span><span class="p">:</span> <span class="kt">Double</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">eMobilityServiceProviderPartnerIDs</span><span class="p">:</span> <span class="p">[</span><span class="kt">String</span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">currentType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-currenttype">CurrentType</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>

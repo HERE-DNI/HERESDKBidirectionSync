@@ -1,5 +1,5 @@
 ---
-title: "MapLoader / PersistentMapRepairError"
+title: "sdk-for-ios-navigate-api-reference-enums-persistentmaprepairerror"
 slug: "sdk-for-ios-navigate-api-reference-enums-persistentmaprepairerror"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-enums-persistentmaprepairerror"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-maploader">MapLoader</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-maploader">MapLoader</a>
+<img alt="" id="carat" src="/carat.png"/>
         PersistentMapRepairError Enumeration Reference
       </p>
 </div>
@@ -209,7 +209,7 @@ The healing procedure is to clean persistent map with <code>sdk.maploader.MapDow
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Repair is invoked on object connected to the disposed <code><a href="sdk-for-ios-navigate-api-reference-..-classes-sdknativeengine">SDKNativeEngine</a></code></p>
+<p>Repair is invoked on object connected to the disposed <code><a href="sdk-for-ios-navigate-api-reference-classes-sdknativeengine">SDKNativeEngine</a></code></p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>

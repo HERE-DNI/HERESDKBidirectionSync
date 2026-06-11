@@ -1,5 +1,5 @@
 ---
-title: "MapLoader / MapLoaderError"
+title: "sdk-for-ios-navigate-api-reference-enums-maploadererror"
 slug: "sdk-for-ios-navigate-api-reference-enums-maploadererror"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-enums-maploadererror"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-maploader">MapLoader</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-maploader">MapLoader</a>
+<img alt="" id="carat" src="/carat.png"/>
         MapLoaderError Enumeration Reference
       </p>
 </div>
@@ -621,7 +621,7 @@ Call <code>sdk.maploader.MapDownloader.repair_persistent_map</code> to perform m
 <div class="abstract">
 <p>Misconfiguration of catalogs.
 This error may occur when <code>sdk.core.engine.CatalogConfiguration</code> is misconfigured and
-cannot be used for any operation with <code><a href="sdk-for-ios-navigate-api-reference-..-classes-mapdownloader">MapDownloader</a></code> or <code><a href="sdk-for-ios-navigate-api-reference-..-classes-mapupdater">MapUpdater</a></code>.
+cannot be used for any operation with <code><a href="sdk-for-ios-navigate-api-reference-classes-mapdownloader">MapDownloader</a></code> or <code><a href="sdk-for-ios-navigate-api-reference-classes-mapupdater">MapUpdater</a></code>.
 Verify <code><a href="../Structs/SDKOptions.html#/s:7heresdk10SDKOptionsV21catalogConfigurationsSayAA20CatalogConfigurationVGvp">SDKOptions.catalogConfigurations</a></code>.</p>
 </div>
 <div class="declaration">

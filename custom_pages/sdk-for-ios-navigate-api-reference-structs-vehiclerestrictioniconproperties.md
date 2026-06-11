@@ -1,5 +1,5 @@
 ---
-title: "Maps / VehicleRestrictionIconProperties"
+title: "sdk-for-ios-navigate-api-reference-structs-vehiclerestrictioniconproperties"
 slug: "sdk-for-ios-navigate-api-reference-structs-vehiclerestrictioniconproperties"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-structs-vehiclerestrictioniconproperti
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-maps">Maps</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-maps">Maps</a>
+<img alt="" id="carat" src="/carat.png"/>
         VehicleRestrictionIconProperties Structure Reference
       </p>
 </div>
@@ -34,7 +34,7 @@ slug: "sdk-for-ios-navigate-api-reference-structs-vehiclerestrictioniconproperti
 </div>
 </div>
 <p>Encapsulates properties for generating vehicle restriction icons
-using <code><a href="sdk-for-ios-navigate-api-reference-..-classes-iconprovider">IconProvider</a></code>.</p>
+using <code><a href="sdk-for-ios-navigate-api-reference-classes-iconprovider">IconProvider</a></code>.</p>
 </section>
 <section class="section task-group-section">
 <div class="task-group">
@@ -58,7 +58,7 @@ using <code><a href="sdk-for-ios-navigate-api-reference-..-classes-iconprovider"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">restriction</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-vehiclerestriction">VehicleRestriction</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">restriction</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-vehiclerestriction">VehicleRestriction</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -84,7 +84,7 @@ if there is no country specific version of requested icon.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">countryCode</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-countrycode">CountryCode</a></span><span class="p">?</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">countryCode</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-countrycode">CountryCode</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -109,7 +109,7 @@ if there is no country specific version of requested icon.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">restriction</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-vehiclerestriction">VehicleRestriction</a></span><span class="p">,</span> <span class="nv">countryCode</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-countrycode">CountryCode</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">restriction</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-vehiclerestriction">VehicleRestriction</a></span><span class="p">,</span> <span class="nv">countryCode</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-countrycode">CountryCode</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>

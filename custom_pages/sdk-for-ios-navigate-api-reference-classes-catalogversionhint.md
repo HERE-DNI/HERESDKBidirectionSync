@@ -1,5 +1,5 @@
 ---
-title: "Core / CatalogVersionHint"
+title: "sdk-for-ios-navigate-api-reference-classes-catalogversionhint"
 slug: "sdk-for-ios-navigate-api-reference-classes-catalogversionhint"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-classes-catalogversionhint"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-core">Core</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-core">Core</a>
+<img alt="" id="carat" src="/carat.png"/>
         CatalogVersionHint Class Reference
       </p>
 </div>
@@ -36,7 +36,7 @@ slug: "sdk-for-ios-navigate-api-reference-classes-catalogversionhint"
 </div>
 </div>
 <p>This is a class for capturing user’s intent for the
-desired catalog version to use in <code><a href="sdk-for-ios-navigate-api-reference-..-structs-desiredcatalog">DesiredCatalog</a></code> class.</p>
+desired catalog version to use in <code><a href="sdk-for-ios-navigate-api-reference-structs-desiredcatalog">DesiredCatalog</a></code> class.</p>
 <p>You can request a specific or latest version of a catalog by calling the
 static functions <code><a href="../Classes/CatalogVersionHint.html#/s:7heresdk18CatalogVersionHintC8specific7versionACs5Int64V_tFZ">CatalogVersionHint.specific(...)</a></code> and
 <code><a href="../Classes/CatalogVersionHint.html#/s:7heresdk18CatalogVersionHintC6latest16ignoreCachedDataACSb_tFZ">CatalogVersionHint.latest(...)</a></code> respectively. The HERE platform will make the
@@ -115,13 +115,13 @@ about invalid version.</p>
 <div class="pointer"></div>
 <div class="abstract">
 <p>This static method can be called when you are interested in getting the most latest version of
-a catalog when initializing the HERE SDK with <code><a href="sdk-for-ios-navigate-api-reference-..-structs-sdkoptions">SDKOptions</a></code> where you can specify the
+a catalog when initializing the HERE SDK with <code><a href="sdk-for-ios-navigate-api-reference-structs-sdkoptions">SDKOptions</a></code> where you can specify the
 catalog(s) you want to use. In effect, this will auto-update the cached map data on each
 start, if possible. Use this only when you have no installed <code>Regions</code>. Since this affects
 only the map data cache, calling this at initialization time has no or only a very limited
 effect on the start-up time.</p>
 <p>In order to auto-update cached OCM-based map data, such as for the HERE SDK (Navigate), use the
-default HRN value: “hrn:here:data::olp-here:ocm” in your <code><a href="sdk-for-ios-navigate-api-reference-..-structs-desiredcatalog">DesiredCatalog</a></code>. Note that the
+default HRN value: “hrn:here:data::olp-here:ocm” in your <code><a href="sdk-for-ios-navigate-api-reference-structs-desiredcatalog">DesiredCatalog</a></code>. Note that the
 HERE SDK (Explore) cannot be used with such settings and the
 initialization of the HERE SDK may fail - since it is based on a different map
 format.</p>
@@ -149,7 +149,7 @@ format.</p>
 trying to update the map version.
 If set to true, the HERE SDK will auto-update to the latest catalog version when no installed
 <code>Regions</code> are present. If present, this call will have no effect - use <code>updateCatalog()</code>
-via <code><a href="sdk-for-ios-navigate-api-reference-..-classes-mapupdater">MapUpdater</a></code> instead to update all map data to the latest version.
+via <code><a href="sdk-for-ios-navigate-api-reference-classes-mapupdater">MapUpdater</a></code> instead to update all map data to the latest version.
 Note that cached data present on a device - for example, data in the map cache or data cached
 by <code>PrefetchAroundLocationWithRadius</code> or <code>PrefetchAroundRouteOnIntervals</code> - will be become obsolete if
 a newer map version is available. Such data will be evicted using a LRU strategy over time.

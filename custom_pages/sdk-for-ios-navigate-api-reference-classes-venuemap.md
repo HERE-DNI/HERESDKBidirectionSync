@@ -1,5 +1,5 @@
 ---
-title: "Venues / VenueMap"
+title: "sdk-for-ios-navigate-api-reference-classes-venuemap"
 slug: "sdk-for-ios-navigate-api-reference-classes-venuemap"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-classes-venuemap"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-venues">Venues</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-venues">Venues</a>
+<img alt="" id="carat" src="/carat.png"/>
         VenueMap Class Reference
       </p>
 </div>
@@ -65,7 +65,7 @@ situations there may be a small delay before the venue is visible.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">typealias</span> <span class="kt">VenueInfoList</span> <span class="o">=</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-venueinfo">VenueInfo</a></span><span class="p">]</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">typealias</span> <span class="kt">VenueInfoList</span> <span class="o">=</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-venueinfo">VenueInfo</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -84,14 +84,14 @@ situations there may be a small delay before the venue is visible.</p>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>The <code><a href="sdk-for-ios-navigate-api-reference-..-classes-venueservice">VenueService</a></code> object.
-It can be used to search and get the <code><a href="sdk-for-ios-navigate-api-reference-..-classes-venuemodel">VenueModel</a></code> objects.</p>
+<p>The <code><a href="sdk-for-ios-navigate-api-reference-classes-venueservice">VenueService</a></code> object.
+It can be used to search and get the <code><a href="sdk-for-ios-navigate-api-reference-classes-venuemodel">VenueModel</a></code> objects.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">venueService</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-venueservice">VenueService</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">venueService</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-venueservice">VenueService</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -117,7 +117,7 @@ Use <code>nil</code> to deselect the venue.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">selectedVenue</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-venue">Venue</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">selectedVenue</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-venue">Venue</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -136,7 +136,7 @@ Use <code>nil</code> to deselect the venue.</p>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Downloads and adds a <code><a href="sdk-for-ios-navigate-api-reference-..-classes-venue">Venue</a></code> to the <code>VenueMap</code>.
+<p>Downloads and adds a <code><a href="sdk-for-ios-navigate-api-reference-classes-venue">Venue</a></code> to the <code>VenueMap</code>.
 Method will do nothing if the venue already exists on the venue map.</p>
 </div>
 <div class="declaration">
@@ -181,7 +181,7 @@ Method will do nothing if the venue already exists on the venue map.</p>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Downloads and adds a <code><a href="sdk-for-ios-navigate-api-reference-..-classes-venue">Venue</a></code> to the <code>VenueMap</code>.
+<p>Downloads and adds a <code><a href="sdk-for-ios-navigate-api-reference-classes-venue">Venue</a></code> to the <code>VenueMap</code>.
 Method will do nothing if the venue already exists on the venue map.</p>
 </div>
 <div class="declaration">
@@ -226,7 +226,7 @@ Method will do nothing if the venue already exists on the venue map.</p>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Downloads and adds a <code><a href="sdk-for-ios-navigate-api-reference-..-classes-venue">Venue</a></code> to the <code>VenueMap</code>.
+<p>Downloads and adds a <code><a href="sdk-for-ios-navigate-api-reference-classes-venue">Venue</a></code> to the <code>VenueMap</code>.
 Method will do nothing if the venue already exists on the venue map.</p>
 </div>
 <div class="declaration">
@@ -283,7 +283,7 @@ Method will do nothing if the venue already exists on the venue map.</p>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Downloads and adds a <code><a href="sdk-for-ios-navigate-api-reference-..-classes-venue">Venue</a></code> to the <code>VenueMap</code>.
+<p>Downloads and adds a <code><a href="sdk-for-ios-navigate-api-reference-classes-venue">Venue</a></code> to the <code>VenueMap</code>.
 Method will do nothing if the venue already exists on the venue map.</p>
 </div>
 <div class="declaration">
@@ -340,13 +340,13 @@ Method will do nothing if the venue already exists on the venue map.</p>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Removes a <code><a href="sdk-for-ios-navigate-api-reference-..-classes-venue">Venue</a></code> from the <code>VenueMap</code>.</p>
+<p>Removes a <code><a href="sdk-for-ios-navigate-api-reference-classes-venue">Venue</a></code> from the <code>VenueMap</code>.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">removeVenue</span><span class="p">(</span><span class="nv">venue</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-venue">Venue</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">removeVenue</span><span class="p">(</span><span class="nv">venue</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-venue">Venue</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -384,7 +384,7 @@ Method will do nothing if the venue already exists on the venue map.</p>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Downloads a <code><a href="sdk-for-ios-navigate-api-reference-..-classes-venuemodel">VenueModel</a></code> if needed and selects a <code><a href="sdk-for-ios-navigate-api-reference-..-classes-venue">Venue</a></code>.</p>
+<p>Downloads a <code><a href="sdk-for-ios-navigate-api-reference-classes-venuemodel">VenueModel</a></code> if needed and selects a <code><a href="sdk-for-ios-navigate-api-reference-classes-venue">Venue</a></code>.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
@@ -428,7 +428,7 @@ Method will do nothing if the venue already exists on the venue map.</p>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Downloads a <code><a href="sdk-for-ios-navigate-api-reference-..-classes-venuemodel">VenueModel</a></code> if needed and selects a <code><a href="sdk-for-ios-navigate-api-reference-..-classes-venue">Venue</a></code>.</p>
+<p>Downloads a <code><a href="sdk-for-ios-navigate-api-reference-classes-venuemodel">VenueModel</a></code> if needed and selects a <code><a href="sdk-for-ios-navigate-api-reference-classes-venue">Venue</a></code>.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
@@ -472,7 +472,7 @@ Method will do nothing if the venue already exists on the venue map.</p>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Downloads a <code><a href="sdk-for-ios-navigate-api-reference-..-classes-venuemodel">VenueModel</a></code> if needed and selects a <code><a href="sdk-for-ios-navigate-api-reference-..-classes-venue">Venue</a></code>.</p>
+<p>Downloads a <code><a href="sdk-for-ios-navigate-api-reference-classes-venuemodel">VenueModel</a></code> if needed and selects a <code><a href="sdk-for-ios-navigate-api-reference-classes-venue">Venue</a></code>.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
@@ -528,7 +528,7 @@ Method will do nothing if the venue already exists on the venue map.</p>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Downloads a <code><a href="sdk-for-ios-navigate-api-reference-..-classes-venuemodel">VenueModel</a></code> if needed and selects a <code><a href="sdk-for-ios-navigate-api-reference-..-classes-venue">Venue</a></code>.</p>
+<p>Downloads a <code><a href="sdk-for-ios-navigate-api-reference-classes-venuemodel">VenueModel</a></code> if needed and selects a <code><a href="sdk-for-ios-navigate-api-reference-classes-venue">Venue</a></code>.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
@@ -614,13 +614,13 @@ that may currently be in progress.</p>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Tries to find a <code><a href="sdk-for-ios-navigate-api-reference-..-classes-venue">Venue</a></code> at the specified geographic coordinates.</p>
+<p>Tries to find a <code><a href="sdk-for-ios-navigate-api-reference-classes-venue">Venue</a></code> at the specified geographic coordinates.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getVenue</span><span class="p">(</span><span class="nv">position</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-geocoordinates">GeoCoordinates</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-venue">Venue</a></span><span class="p">?</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getVenue</span><span class="p">(</span><span class="nv">position</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-geocoordinates">GeoCoordinates</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-venue">Venue</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 <div>
@@ -662,14 +662,14 @@ that may currently be in progress.</p>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Tries to find a <code><a href="sdk-for-ios-navigate-api-reference-..-classes-venuegeometry">VenueGeometry</a></code> at the specified geographic coordinates
-in the selected <code><a href="sdk-for-ios-navigate-api-reference-..-classes-venue">Venue</a></code> in the currently selected <code><a href="sdk-for-ios-navigate-api-reference-..-classes-venuelevel">VenueLevel</a></code>.</p>
+<p>Tries to find a <code><a href="sdk-for-ios-navigate-api-reference-classes-venuegeometry">VenueGeometry</a></code> at the specified geographic coordinates
+in the selected <code><a href="sdk-for-ios-navigate-api-reference-classes-venue">Venue</a></code> in the currently selected <code><a href="sdk-for-ios-navigate-api-reference-classes-venuelevel">VenueLevel</a></code>.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getGeometry</span><span class="p">(</span><span class="nv">position</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-geocoordinates">GeoCoordinates</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-venuegeometry">VenueGeometry</a></span><span class="p">?</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getGeometry</span><span class="p">(</span><span class="nv">position</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-geocoordinates">GeoCoordinates</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-venuegeometry">VenueGeometry</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 <div>
@@ -717,7 +717,7 @@ in the selected <code><a href="sdk-for-ios-navigate-api-reference-..-classes-ven
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">addVenueLifecycleDelegate</span><span class="p">(</span><span class="n">_</span> <span class="nv">delegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-venuelifecycledelegate">VenueLifecycleDelegate</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">addVenueLifecycleDelegate</span><span class="p">(</span><span class="n">_</span> <span class="nv">delegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-venuelifecycledelegate">VenueLifecycleDelegate</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -761,7 +761,7 @@ in the selected <code><a href="sdk-for-ios-navigate-api-reference-..-classes-ven
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">removeVenueLifecycleDelegate</span><span class="p">(</span><span class="n">_</span> <span class="nv">delegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-venuelifecycledelegate">VenueLifecycleDelegate</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">removeVenueLifecycleDelegate</span><span class="p">(</span><span class="n">_</span> <span class="nv">delegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-venuelifecycledelegate">VenueLifecycleDelegate</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -805,7 +805,7 @@ in the selected <code><a href="sdk-for-ios-navigate-api-reference-..-classes-ven
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">addVenueMapLifecycleDelegate</span><span class="p">(</span><span class="n">_</span> <span class="nv">delegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-venuemaplifecycledelegate">VenueMapLifecycleDelegate</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">addVenueMapLifecycleDelegate</span><span class="p">(</span><span class="n">_</span> <span class="nv">delegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-venuemaplifecycledelegate">VenueMapLifecycleDelegate</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -849,7 +849,7 @@ in the selected <code><a href="sdk-for-ios-navigate-api-reference-..-classes-ven
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">removeVenueMapLifecycleDelegate</span><span class="p">(</span><span class="n">_</span> <span class="nv">delegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-venuemaplifecycledelegate">VenueMapLifecycleDelegate</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">removeVenueMapLifecycleDelegate</span><span class="p">(</span><span class="n">_</span> <span class="nv">delegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-venuemaplifecycledelegate">VenueMapLifecycleDelegate</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -893,7 +893,7 @@ in the selected <code><a href="sdk-for-ios-navigate-api-reference-..-classes-ven
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">addVenueSelectionDelegate</span><span class="p">(</span><span class="n">_</span> <span class="nv">delegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-venueselectiondelegate">VenueSelectionDelegate</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">addVenueSelectionDelegate</span><span class="p">(</span><span class="n">_</span> <span class="nv">delegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-venueselectiondelegate">VenueSelectionDelegate</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -937,7 +937,7 @@ in the selected <code><a href="sdk-for-ios-navigate-api-reference-..-classes-ven
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">removeVenueSelectionDelegate</span><span class="p">(</span><span class="n">_</span> <span class="nv">delegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-venueselectiondelegate">VenueSelectionDelegate</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">removeVenueSelectionDelegate</span><span class="p">(</span><span class="n">_</span> <span class="nv">delegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-venueselectiondelegate">VenueSelectionDelegate</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -981,7 +981,7 @@ in the selected <code><a href="sdk-for-ios-navigate-api-reference-..-classes-ven
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">addDrawingSelectionDelegate</span><span class="p">(</span><span class="n">_</span> <span class="nv">delegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-venuedrawingselectiondelegate">VenueDrawingSelectionDelegate</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">addDrawingSelectionDelegate</span><span class="p">(</span><span class="n">_</span> <span class="nv">delegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-venuedrawingselectiondelegate">VenueDrawingSelectionDelegate</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -1025,7 +1025,7 @@ in the selected <code><a href="sdk-for-ios-navigate-api-reference-..-classes-ven
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">removeDrawingSelectionDelegate</span><span class="p">(</span><span class="n">_</span> <span class="nv">delegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-venuedrawingselectiondelegate">VenueDrawingSelectionDelegate</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">removeDrawingSelectionDelegate</span><span class="p">(</span><span class="n">_</span> <span class="nv">delegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-venuedrawingselectiondelegate">VenueDrawingSelectionDelegate</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -1069,7 +1069,7 @@ in the selected <code><a href="sdk-for-ios-navigate-api-reference-..-classes-ven
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">addLevelSelectionDelegate</span><span class="p">(</span><span class="n">_</span> <span class="nv">delegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-venuelevelselectiondelegate">VenueLevelSelectionDelegate</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">addLevelSelectionDelegate</span><span class="p">(</span><span class="n">_</span> <span class="nv">delegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-venuelevelselectiondelegate">VenueLevelSelectionDelegate</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -1113,7 +1113,7 @@ in the selected <code><a href="sdk-for-ios-navigate-api-reference-..-classes-ven
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">removeLevelSelectionDelegate</span><span class="p">(</span><span class="n">_</span> <span class="nv">delegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-venuelevelselectiondelegate">VenueLevelSelectionDelegate</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">removeLevelSelectionDelegate</span><span class="p">(</span><span class="n">_</span> <span class="nv">delegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-venuelevelselectiondelegate">VenueLevelSelectionDelegate</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -1157,7 +1157,7 @@ in the selected <code><a href="sdk-for-ios-navigate-api-reference-..-classes-ven
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">addVenueInfoListDelegate</span><span class="p">(</span><span class="n">_</span> <span class="nv">delegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-venueinfolistlistenerdelegate">VenueInfoListListenerDelegate</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">addVenueInfoListDelegate</span><span class="p">(</span><span class="n">_</span> <span class="nv">delegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-venueinfolistlistenerdelegate">VenueInfoListListenerDelegate</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -1201,7 +1201,7 @@ in the selected <code><a href="sdk-for-ios-navigate-api-reference-..-classes-ven
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">removeVenueInfoListDelegate</span><span class="p">(</span><span class="n">_</span> <span class="nv">delegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-venueinfolistlistenerdelegate">VenueInfoListListenerDelegate</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">removeVenueInfoListDelegate</span><span class="p">(</span><span class="n">_</span> <span class="nv">delegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-venueinfolistlistenerdelegate">VenueInfoListListenerDelegate</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -1239,7 +1239,7 @@ in the selected <code><a href="sdk-for-ios-navigate-api-reference-..-classes-ven
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>The list of <code><a href="sdk-for-ios-navigate-api-reference-..-classes-venueinfo">VenueInfo</a></code> contains venue id and name.</p>
+<p>The list of <code><a href="sdk-for-ios-navigate-api-reference-classes-venueinfo">VenueInfo</a></code> contains venue id and name.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
@@ -1250,7 +1250,7 @@ in the selected <code><a href="sdk-for-ios-navigate-api-reference-..-classes-ven
 </div>
 <div>
 <h4>Return Value</h4>
-<p>returns the list of object of <code><a href="sdk-for-ios-navigate-api-reference-..-classes-venueinfo">VenueInfo</a></code>.</p>
+<p>returns the list of object of <code><a href="sdk-for-ios-navigate-api-reference-classes-venueinfo">VenueInfo</a></code>.</p>
 </div>
 </section>
 </div>
@@ -1268,7 +1268,7 @@ in the selected <code><a href="sdk-for-ios-navigate-api-reference-..-classes-ven
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>The list of <code><a href="sdk-for-ios-navigate-api-reference-..-classes-venueinfo">VenueInfo</a></code> contains venue id and name.</p>
+<p>The list of <code><a href="sdk-for-ios-navigate-api-reference-classes-venueinfo">VenueInfo</a></code> contains venue id and name.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
@@ -1298,7 +1298,7 @@ in the selected <code><a href="sdk-for-ios-navigate-api-reference-..-classes-ven
 </div>
 <div>
 <h4>Return Value</h4>
-<p>returns the list of object of <code><a href="sdk-for-ios-navigate-api-reference-..-classes-venueinfo">VenueInfo</a></code>.</p>
+<p>returns the list of object of <code><a href="sdk-for-ios-navigate-api-reference-classes-venueinfo">VenueInfo</a></code>.</p>
 </div>
 </section>
 </div>
@@ -1316,8 +1316,8 @@ in the selected <code><a href="sdk-for-ios-navigate-api-reference-..-classes-ven
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>The list of <code><a href="sdk-for-ios-navigate-api-reference-..-classes-venueinfo">VenueInfo</a></code> contains venue id and name.
-Downloads the list of <code><a href="sdk-for-ios-navigate-api-reference-..-classes-venueinfo">VenueInfo</a></code> asynchronously.</p>
+<p>The list of <code><a href="sdk-for-ios-navigate-api-reference-classes-venueinfo">VenueInfo</a></code> contains venue id and name.
+Downloads the list of <code><a href="sdk-for-ios-navigate-api-reference-classes-venueinfo">VenueInfo</a></code> asynchronously.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
@@ -1342,8 +1342,8 @@ Downloads the list of <code><a href="sdk-for-ios-navigate-api-reference-..-class
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>The list of <code><a href="sdk-for-ios-navigate-api-reference-..-classes-venueinfo">VenueInfo</a></code> contains venue id and name.
-Downloads the list of <code><a href="sdk-for-ios-navigate-api-reference-..-classes-venueinfo">VenueInfo</a></code> asynchronously.</p>
+<p>The list of <code><a href="sdk-for-ios-navigate-api-reference-classes-venueinfo">VenueInfo</a></code> contains venue id and name.
+Downloads the list of <code><a href="sdk-for-ios-navigate-api-reference-classes-venueinfo">VenueInfo</a></code> asynchronously.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
@@ -1387,14 +1387,14 @@ Downloads the list of <code><a href="sdk-for-ios-navigate-api-reference-..-class
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Tries to find a <code><a href="sdk-for-ios-navigate-api-reference-..-classes-venuetopology">VenueTopology</a></code> at the specified geographic coordinates
-in the selected <code><a href="sdk-for-ios-navigate-api-reference-..-classes-venue">Venue</a></code> in the currently selected <code><a href="sdk-for-ios-navigate-api-reference-..-classes-venuelevel">VenueLevel</a></code>.</p>
+<p>Tries to find a <code><a href="sdk-for-ios-navigate-api-reference-classes-venuetopology">VenueTopology</a></code> at the specified geographic coordinates
+in the selected <code><a href="sdk-for-ios-navigate-api-reference-classes-venue">Venue</a></code> in the currently selected <code><a href="sdk-for-ios-navigate-api-reference-classes-venuelevel">VenueLevel</a></code>.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getTopology</span><span class="p">(</span><span class="nv">position</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-geocoordinates">GeoCoordinates</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-venuetopology">VenueTopology</a></span><span class="p">?</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getTopology</span><span class="p">(</span><span class="nv">position</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-geocoordinates">GeoCoordinates</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-venuetopology">VenueTopology</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 <div>
@@ -1436,14 +1436,14 @@ in the selected <code><a href="sdk-for-ios-navigate-api-reference-..-classes-ven
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Tries to find a <code><a href="sdk-for-ios-navigate-api-reference-..-classes-crosswalk">Crosswalk</a></code> at the specified geographic coordinates
-in the selected <code><a href="sdk-for-ios-navigate-api-reference-..-classes-venue">Venue</a></code> in the currently selected <code><a href="sdk-for-ios-navigate-api-reference-..-classes-venuelevel">VenueLevel</a></code>.</p>
+<p>Tries to find a <code><a href="sdk-for-ios-navigate-api-reference-classes-crosswalk">Crosswalk</a></code> at the specified geographic coordinates
+in the selected <code><a href="sdk-for-ios-navigate-api-reference-classes-venue">Venue</a></code> in the currently selected <code><a href="sdk-for-ios-navigate-api-reference-classes-venuelevel">VenueLevel</a></code>.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getCrosswalk</span><span class="p">(</span><span class="nv">position</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-geocoordinates">GeoCoordinates</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-crosswalk">Crosswalk</a></span><span class="p">?</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getCrosswalk</span><span class="p">(</span><span class="nv">position</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-geocoordinates">GeoCoordinates</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-crosswalk">Crosswalk</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 <div>

@@ -1,5 +1,5 @@
 ---
-title: "Core / PolylineSimplifier"
+title: "sdk-for-ios-navigate-api-reference-classes-polylinesimplifier"
 slug: "sdk-for-ios-navigate-api-reference-classes-polylinesimplifier"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-classes-polylinesimplifier"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-core">Core</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-core">Core</a>
+<img alt="" id="carat" src="/carat.png"/>
         PolylineSimplifier Class Reference
       </p>
 </div>
@@ -38,14 +38,14 @@ slug: "sdk-for-ios-navigate-api-reference-classes-polylinesimplifier"
 <p>PolylineSimplifier helps to reduce the number of points
 in the polyline by removing redundant elements using
 Douglas–Peucker algorithm, so that result stays
-within <code><a href="sdk-for-ios-navigate-api-reference-..-classes-polylinesimplifier-options">PolylineSimplifier.Options</a></code>.</p>
+within <code><a href="sdk-for-ios-navigate-api-reference-classes-polylinesimplifier-options">PolylineSimplifier.Options</a></code>.</p>
 <p>Typical use case is to perform input preparation step
 before invoking computationally heavy API. Such API
 have an upper limit on the input collection size
 and is subject to reduced performance when collection
 is huge. Examples of such API are:</p>
 <ul>
-<li><code><a href="sdk-for-ios-navigate-api-reference-..-classes-trafficengine">TrafficEngine</a></code> methods which accept a <code><a href="sdk-for-ios-navigate-api-reference-..-structs-geocorridor">GeoCorridor</a></code>;</li>
+<li><code><a href="sdk-for-ios-navigate-api-reference-classes-trafficengine">TrafficEngine</a></code> methods which accept a <code><a href="sdk-for-ios-navigate-api-reference-structs-geocorridor">GeoCorridor</a></code>;</li>
 <li><code>RoutePrefetcher.prefetchGeoCorridor</code>.</li>
 </ul>
 </section>
@@ -97,7 +97,7 @@ is huge. Examples of such API are:</p>
 <div class="abstract">
 <p>Controls the strategy of <code><a href="../Classes/PolylineSimplifier.html#/s:7heresdk18PolylineSimplifierC8simplify8polyline24simplificationParameters10completionAA10TaskHandle_pSayAA14GeoCoordinatesVG_AC7OptionsVyAA0B19SimplificationErrorOSg_AKSgtctF">PolylineSimplifier.simplify(...)</a></code>
 when reducing a size of polyline.</p>
-<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-..-classes-polylinesimplifier-options">See more</a>
+<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-classes-polylinesimplifier-options">See more</a>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
@@ -124,7 +124,7 @@ when reducing a size of polyline.</p>
 <div class="abstract">
 <p>Reduces the number of points in the input polyline.
 Does this by removing points which are not significant
-according to the passed <code><a href="sdk-for-ios-navigate-api-reference-..-classes-polylinesimplifier-options">PolylineSimplifier.Options</a></code>.
+according to the passed <code><a href="sdk-for-ios-navigate-api-reference-classes-polylinesimplifier-options">PolylineSimplifier.Options</a></code>.
 Simplification process is performed on the device without
 connecting to the network and is computationally intensive.</p>
 </div>
@@ -132,7 +132,7 @@ connecting to the network and is computationally intensive.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">simplify</span><span class="p">(</span><span class="nv">polyline</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-geocoordinates">GeoCoordinates</a></span><span class="p">],</span> <span class="nv">simplificationParameters</span><span class="p">:</span> <span class="kt">PolylineSimplifier</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-polylinesimplifier-options">Options</a></span><span class="p">,</span> <span class="nv">completion</span><span class="p">:</span> <span class="kd">@escaping</span> <span class="kt"><a href="../Core.html#/s:7heresdk39PolylineSimplificationCompletionHandlera">PolylineSimplificationCompletionHandler</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-taskhandle">TaskHandle</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">simplify</span><span class="p">(</span><span class="nv">polyline</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-geocoordinates">GeoCoordinates</a></span><span class="p">],</span> <span class="nv">simplificationParameters</span><span class="p">:</span> <span class="kt">PolylineSimplifier</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-polylinesimplifier-options">Options</a></span><span class="p">,</span> <span class="nv">completion</span><span class="p">:</span> <span class="kd">@escaping</span> <span class="kt"><a href="../Core.html#/s:7heresdk39PolylineSimplificationCompletionHandlera">PolylineSimplificationCompletionHandler</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-taskhandle">TaskHandle</a></span></code></pre>
 </div>
 </div>
 <div>

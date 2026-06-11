@@ -203,7 +203,7 @@ Rendering <code>sdk.mapview.TruckProfile</code>: <code>VehicleSpecification.truc
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">@available(*, deprecated, message: "Will be removed in v4.27.0. Use `VehicleSpecification.truckCategory` instead.")</span>
+<pre class="highlight swift"><code><span class="kd">@available(*, deprecated, message: "Will be removed in v4.27.0. Use VehicleSpecification.truckCategory instead.")</span>
 <span class="kd">public</span> <span class="k">var</span> <span class="nv">truckType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-enums-trucktype">TruckType</a></span></code></pre>
 </div>
 </div>

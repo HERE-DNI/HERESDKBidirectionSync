@@ -1,5 +1,5 @@
 ---
-title: "Transport / TransportSpecification"
+title: "sdk-for-ios-navigate-api-reference-structs-transportspecification"
 slug: "sdk-for-ios-navigate-api-reference-structs-transportspecification"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-structs-transportspecification"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-transport">Transport</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-transport">Transport</a>
+<img alt="" id="carat" src="/carat.png"/>
         TransportSpecification Structure Reference
       </p>
 </div>
@@ -64,7 +64,7 @@ Defaults to <code>CAR</code>.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">transportMode</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-transportmode">TransportMode</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">transportMode</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-transportmode">TransportMode</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -90,7 +90,7 @@ By default, it is not set.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">vehicleSpecification</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-vehiclespecification">VehicleSpecification</a></span><span class="p">?</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">vehicleSpecification</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-vehiclespecification">VehicleSpecification</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -116,7 +116,7 @@ By default, it is not set.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">pedestrianSpecification</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-pedestrianspecification">PedestrianSpecification</a></span><span class="p">?</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">pedestrianSpecification</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-pedestrianspecification">PedestrianSpecification</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -142,7 +142,7 @@ By default, it is not set.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">taxiSpecification</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-taxispecification">TaxiSpecification</a></span><span class="p">?</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">taxiSpecification</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-taxispecification">TaxiSpecification</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -168,7 +168,7 @@ By default, it is not set.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">scooterSpecification</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-scooterspecification">ScooterSpecification</a></span><span class="p">?</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">scooterSpecification</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-scooterspecification">ScooterSpecification</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -193,7 +193,7 @@ By default, it is not set.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">transportMode</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-transportmode">TransportMode</a></span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-transportmode">TransportMode</a></span><span class="o">.</span><span class="n">car</span><span class="p">,</span> <span class="nv">vehicleSpecification</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-vehiclespecification">VehicleSpecification</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">pedestrianSpecification</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-pedestrianspecification">PedestrianSpecification</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">taxiSpecification</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-taxispecification">TaxiSpecification</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">scooterSpecification</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-scooterspecification">ScooterSpecification</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">transportMode</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-transportmode">TransportMode</a></span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-transportmode">TransportMode</a></span><span class="o">.</span><span class="n">car</span><span class="p">,</span> <span class="nv">vehicleSpecification</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-vehiclespecification">VehicleSpecification</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">pedestrianSpecification</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-pedestrianspecification">PedestrianSpecification</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">taxiSpecification</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-taxispecification">TaxiSpecification</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">scooterSpecification</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-scooterspecification">ScooterSpecification</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>
@@ -212,16 +212,16 @@ By default, it is not set.</p>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>This class constructs a <code><a href="sdk-for-ios-navigate-api-reference-..-structs-transportspecification">TransportSpecification</a></code> for a car.</p>
-<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-..-structs-transportspecification-carbuilder">See more</a>
+<p>This class constructs a <code><a href="sdk-for-ios-navigate-api-reference-structs-transportspecification">TransportSpecification</a></code> for a car.</p>
+<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-structs-transportspecification-carbuilder">See more</a>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
 <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">CarBuilder</span></code></pre>
-<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-transportspecification">TransportSpecification</a></span><span class="o">.</span><span class="kt">CarBuilder</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
-<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-transportspecification">TransportSpecification</a></span><span class="o">.</span><span class="kt">CarBuilder</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-transportspecification">TransportSpecification</a></span><span class="o">.</span><span class="kt">CarBuilder</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-transportspecification">TransportSpecification</a></span><span class="o">.</span><span class="kt">CarBuilder</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -240,16 +240,16 @@ By default, it is not set.</p>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>This class constructs a <code><a href="sdk-for-ios-navigate-api-reference-..-structs-transportspecification">TransportSpecification</a></code> for a truck.</p>
-<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-..-structs-transportspecification-truckbuilder">See more</a>
+<p>This class constructs a <code><a href="sdk-for-ios-navigate-api-reference-structs-transportspecification">TransportSpecification</a></code> for a truck.</p>
+<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-structs-transportspecification-truckbuilder">See more</a>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
 <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">TruckBuilder</span></code></pre>
-<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-transportspecification">TransportSpecification</a></span><span class="o">.</span><span class="kt">TruckBuilder</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
-<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-transportspecification">TransportSpecification</a></span><span class="o">.</span><span class="kt">TruckBuilder</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-transportspecification">TransportSpecification</a></span><span class="o">.</span><span class="kt">TruckBuilder</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-transportspecification">TransportSpecification</a></span><span class="o">.</span><span class="kt">TruckBuilder</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -268,16 +268,16 @@ By default, it is not set.</p>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>This class constructs a <code><a href="sdk-for-ios-navigate-api-reference-..-structs-transportspecification">TransportSpecification</a></code> for pedestrian.</p>
-<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-..-structs-transportspecification-pedestrianbuilder">See more</a>
+<p>This class constructs a <code><a href="sdk-for-ios-navigate-api-reference-structs-transportspecification">TransportSpecification</a></code> for pedestrian.</p>
+<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-structs-transportspecification-pedestrianbuilder">See more</a>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
 <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">PedestrianBuilder</span></code></pre>
-<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-transportspecification">TransportSpecification</a></span><span class="o">.</span><span class="kt">PedestrianBuilder</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
-<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-transportspecification">TransportSpecification</a></span><span class="o">.</span><span class="kt">PedestrianBuilder</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-transportspecification">TransportSpecification</a></span><span class="o">.</span><span class="kt">PedestrianBuilder</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-transportspecification">TransportSpecification</a></span><span class="o">.</span><span class="kt">PedestrianBuilder</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -296,16 +296,16 @@ By default, it is not set.</p>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>This class constructs a <code><a href="sdk-for-ios-navigate-api-reference-..-structs-transportspecification">TransportSpecification</a></code> for a scooter.</p>
-<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-..-structs-transportspecification-scooterbuilder">See more</a>
+<p>This class constructs a <code><a href="sdk-for-ios-navigate-api-reference-structs-transportspecification">TransportSpecification</a></code> for a scooter.</p>
+<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-structs-transportspecification-scooterbuilder">See more</a>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
 <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">ScooterBuilder</span></code></pre>
-<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-transportspecification">TransportSpecification</a></span><span class="o">.</span><span class="kt">ScooterBuilder</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
-<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-transportspecification">TransportSpecification</a></span><span class="o">.</span><span class="kt">ScooterBuilder</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-transportspecification">TransportSpecification</a></span><span class="o">.</span><span class="kt">ScooterBuilder</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-transportspecification">TransportSpecification</a></span><span class="o">.</span><span class="kt">ScooterBuilder</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -324,16 +324,16 @@ By default, it is not set.</p>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>This class constructs a <code><a href="sdk-for-ios-navigate-api-reference-..-structs-transportspecification">TransportSpecification</a></code> for a bicycle.</p>
-<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-..-structs-transportspecification-bicyclebuilder">See more</a>
+<p>This class constructs a <code><a href="sdk-for-ios-navigate-api-reference-structs-transportspecification">TransportSpecification</a></code> for a bicycle.</p>
+<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-structs-transportspecification-bicyclebuilder">See more</a>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
 <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">BicycleBuilder</span></code></pre>
-<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-transportspecification">TransportSpecification</a></span><span class="o">.</span><span class="kt">BicycleBuilder</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
-<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-transportspecification">TransportSpecification</a></span><span class="o">.</span><span class="kt">BicycleBuilder</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-transportspecification">TransportSpecification</a></span><span class="o">.</span><span class="kt">BicycleBuilder</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-transportspecification">TransportSpecification</a></span><span class="o">.</span><span class="kt">BicycleBuilder</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -352,16 +352,16 @@ By default, it is not set.</p>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>This class constructs a <code><a href="sdk-for-ios-navigate-api-reference-..-structs-transportspecification">TransportSpecification</a></code> for a taxi.</p>
-<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-..-structs-transportspecification-taxibuilder">See more</a>
+<p>This class constructs a <code><a href="sdk-for-ios-navigate-api-reference-structs-transportspecification">TransportSpecification</a></code> for a taxi.</p>
+<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-structs-transportspecification-taxibuilder">See more</a>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
 <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">TaxiBuilder</span></code></pre>
-<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-transportspecification">TransportSpecification</a></span><span class="o">.</span><span class="kt">TaxiBuilder</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
-<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-transportspecification">TransportSpecification</a></span><span class="o">.</span><span class="kt">TaxiBuilder</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-transportspecification">TransportSpecification</a></span><span class="o">.</span><span class="kt">TaxiBuilder</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-transportspecification">TransportSpecification</a></span><span class="o">.</span><span class="kt">TaxiBuilder</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -380,16 +380,16 @@ By default, it is not set.</p>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>This class constructs a <code><a href="sdk-for-ios-navigate-api-reference-..-structs-transportspecification">TransportSpecification</a></code> for a bus.</p>
-<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-..-structs-transportspecification-busbuilder">See more</a>
+<p>This class constructs a <code><a href="sdk-for-ios-navigate-api-reference-structs-transportspecification">TransportSpecification</a></code> for a bus.</p>
+<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-structs-transportspecification-busbuilder">See more</a>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
 <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">BusBuilder</span></code></pre>
-<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-transportspecification">TransportSpecification</a></span><span class="o">.</span><span class="kt">BusBuilder</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
-<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-transportspecification">TransportSpecification</a></span><span class="o">.</span><span class="kt">BusBuilder</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-transportspecification">TransportSpecification</a></span><span class="o">.</span><span class="kt">BusBuilder</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-transportspecification">TransportSpecification</a></span><span class="o">.</span><span class="kt">BusBuilder</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -408,16 +408,16 @@ By default, it is not set.</p>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>This class constructs a <code><a href="sdk-for-ios-navigate-api-reference-..-structs-transportspecification">TransportSpecification</a></code> for a private bus.</p>
-<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-..-structs-transportspecification-privatebusbuilder">See more</a>
+<p>This class constructs a <code><a href="sdk-for-ios-navigate-api-reference-structs-transportspecification">TransportSpecification</a></code> for a private bus.</p>
+<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-structs-transportspecification-privatebusbuilder">See more</a>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
 <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">PrivateBusBuilder</span></code></pre>
-<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-transportspecification">TransportSpecification</a></span><span class="o">.</span><span class="kt">PrivateBusBuilder</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
-<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-transportspecification">TransportSpecification</a></span><span class="o">.</span><span class="kt">PrivateBusBuilder</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-transportspecification">TransportSpecification</a></span><span class="o">.</span><span class="kt">PrivateBusBuilder</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-transportspecification">TransportSpecification</a></span><span class="o">.</span><span class="kt">PrivateBusBuilder</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>

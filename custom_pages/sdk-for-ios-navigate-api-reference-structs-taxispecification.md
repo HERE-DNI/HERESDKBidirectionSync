@@ -1,5 +1,5 @@
 ---
-title: "Transport / TaxiSpecification"
+title: "sdk-for-ios-navigate-api-reference-structs-taxispecification"
 slug: "sdk-for-ios-navigate-api-reference-structs-taxispecification"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-structs-taxispecification"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-transport">Transport</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-transport">Transport</a>
+<img alt="" id="carat" src="/carat.png"/>
         TaxiSpecification Structure Reference
       </p>
 </div>

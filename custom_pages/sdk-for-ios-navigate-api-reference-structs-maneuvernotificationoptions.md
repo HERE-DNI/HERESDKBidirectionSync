@@ -1,5 +1,5 @@
 ---
-title: "Navigation / ManeuverNotificationOptions"
+title: "sdk-for-ios-navigate-api-reference-structs-maneuvernotificationoptions"
 slug: "sdk-for-ios-navigate-api-reference-structs-maneuvernotificationoptions"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-structs-maneuvernotificationoptions"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-navigation">Navigation</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-navigation">Navigation</a>
+<img alt="" id="carat" src="/carat.png"/>
         ManeuverNotificationOptions Structure Reference
       </p>
 </div>
@@ -58,7 +58,7 @@ is not supported, the default language is used, which is English (American).</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">language</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-languagecode">LanguageCode</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">language</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-languagecode">LanguageCode</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -83,7 +83,7 @@ is not supported, the default language is used, which is English (American).</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">unitSystem</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-unitsystem">UnitSystem</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">unitSystem</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-unitsystem">UnitSystem</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -102,7 +102,7 @@ is not supported, the default language is used, which is English (American).</p>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>List of <code><a href="sdk-for-ios-navigate-api-reference-..-enums-maneuvernotificationtype">ManeuverNotificationType</a></code> for which notifications should be generated. Excluding all of
+<p>List of <code><a href="sdk-for-ios-navigate-api-reference-enums-maneuvernotificationtype">ManeuverNotificationType</a></code> for which notifications should be generated. Excluding all of
 them will disable the maneuver notifications completely.
 By default, all types are included.</p>
 </div>
@@ -110,7 +110,7 @@ By default, all types are included.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">includedNotificationTypes</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-maneuvernotificationtype">ManeuverNotificationType</a></span><span class="p">]</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">includedNotificationTypes</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-maneuvernotificationtype">ManeuverNotificationType</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -162,7 +162,7 @@ Defaults to <code>true</code>.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">@available(*, deprecated, message: "Will be removed in v4.27.0. Use the <code>ManeuverNotificationOptions.arrivalNotificationOption</code> instead")</span>
+<pre class="highlight swift"><code><span class="kd">@available(*, deprecated, message: "Will be removed in v4.27.0. Use the ManeuverNotificationOptions.arrivalNotificationOption instead")</span>
 <span class="kd">public</span> <span class="k">var</span> <span class="nv">enableDestinationReachedNotification</span><span class="p">:</span> <span class="kt">Bool</span></code></pre>
 </div>
 </div>
@@ -189,7 +189,7 @@ Defaults to <code>ArrivalNotificationOption.BOTH</code>.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">arrivalNotificationOption</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-arrivalnotificationoption">ArrivalNotificationOption</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">arrivalNotificationOption</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-arrivalnotificationoption">ArrivalNotificationOption</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -285,7 +285,7 @@ Other 3rd party TTS engines may support it.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">notificationFormatOption</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-notificationformatoption">NotificationFormatOption</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">notificationFormatOption</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-notificationformatoption">NotificationFormatOption</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -311,7 +311,7 @@ Defaults to each attribute as <code><a href="../Enums/LocalizedTextPreference.ht
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">textUsageOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-textusageoptions">TextUsageOptions</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">textUsageOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-textusageoptions">TextUsageOptions</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -386,7 +386,7 @@ Defaults to <code>false</code>.</p>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>List of <code><a href="sdk-for-ios-navigate-api-reference-..-enums-naturalguidancetype">NaturalGuidanceType</a></code> should be included in the notifications. Excluding
+<p>List of <code><a href="sdk-for-ios-navigate-api-reference-enums-naturalguidancetype">NaturalGuidanceType</a></code> should be included in the notifications. Excluding
 all of them will disable natural guidance information in the notifications completely.</p>
 <p>By default, the list is empty and natural guidance is disabled.</p>
 </div>
@@ -394,7 +394,7 @@ all of them will disable natural guidance information in the notifications compl
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">includedNaturalGuidanceTypes</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-naturalguidancetype">NaturalGuidanceType</a></span><span class="p">]</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">includedNaturalGuidanceTypes</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-naturalguidancetype">NaturalGuidanceType</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -420,7 +420,7 @@ all of them will disable natural guidance information in the notifications compl
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">directionInformationUsageForActionNotificationOption</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-directioninformationusageoption">DirectionInformationUsageOption</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">directionInformationUsageForActionNotificationOption</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-directioninformationusageoption">DirectionInformationUsageOption</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -471,7 +471,7 @@ all of them will disable natural guidance information in the notifications compl
 <div class="language">
 <p class="aside-title">Swift</p>
 <pre class="highlight swift"><code><span class="kd">@available(*, deprecated, message: "Will be removed in v4.23.0. Use the default constructor instead.")</span>
-<span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">language</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-languagecode">LanguageCode</a></span><span class="p">,</span> <span class="nv">unitSystem</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-unitsystem">UnitSystem</a></span><span class="p">)</span></code></pre>
+<span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">language</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-languagecode">LanguageCode</a></span><span class="p">,</span> <span class="nv">unitSystem</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-unitsystem">UnitSystem</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>
@@ -497,7 +497,7 @@ all of them will disable natural guidance information in the notifications compl
 <div class="language">
 <p class="aside-title">Swift</p>
 <pre class="highlight swift"><code><span class="kd">@available(*, deprecated, message: "Will be removed in v4.23.0. Use the default constructor instead.")</span>
-<span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">language</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-languagecode">LanguageCode</a></span><span class="p">,</span> <span class="nv">unitSystem</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-unitsystem">UnitSystem</a></span><span class="p">,</span> <span class="nv">includedNotificationTypes</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-maneuvernotificationtype">ManeuverNotificationType</a></span><span class="p">],</span> <span class="nv">enableRoundaboutNotification</span><span class="p">:</span> <span class="kt">Bool</span><span class="p">,</span> <span class="nv">enableDestinationReachedNotification</span><span class="p">:</span> <span class="kt">Bool</span><span class="p">,</span> <span class="nv">enableDoubleNotification</span><span class="p">:</span> <span class="kt">Bool</span><span class="p">,</span> <span class="nv">enablePhoneme</span><span class="p">:</span> <span class="kt">Bool</span><span class="p">,</span> <span class="nv">textUsageOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-textusageoptions">TextUsageOptions</a></span><span class="p">,</span> <span class="nv">enableHighwayExit</span><span class="p">:</span> <span class="kt">Bool</span><span class="p">)</span></code></pre>
+<span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">language</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-languagecode">LanguageCode</a></span><span class="p">,</span> <span class="nv">unitSystem</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-unitsystem">UnitSystem</a></span><span class="p">,</span> <span class="nv">includedNotificationTypes</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-maneuvernotificationtype">ManeuverNotificationType</a></span><span class="p">],</span> <span class="nv">enableRoundaboutNotification</span><span class="p">:</span> <span class="kt">Bool</span><span class="p">,</span> <span class="nv">enableDestinationReachedNotification</span><span class="p">:</span> <span class="kt">Bool</span><span class="p">,</span> <span class="nv">enableDoubleNotification</span><span class="p">:</span> <span class="kt">Bool</span><span class="p">,</span> <span class="nv">enablePhoneme</span><span class="p">:</span> <span class="kt">Bool</span><span class="p">,</span> <span class="nv">textUsageOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-textusageoptions">TextUsageOptions</a></span><span class="p">,</span> <span class="nv">enableHighwayExit</span><span class="p">:</span> <span class="kt">Bool</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>
@@ -523,7 +523,7 @@ all of them will disable natural guidance information in the notifications compl
 <div class="language">
 <p class="aside-title">Swift</p>
 <pre class="highlight swift"><code><span class="kd">@available(*, deprecated, message: "Will be removed in v4.23.0. Use the default constructor instead.")</span>
-<span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">language</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-languagecode">LanguageCode</a></span><span class="p">,</span> <span class="nv">unitSystem</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-unitsystem">UnitSystem</a></span><span class="p">,</span> <span class="nv">includedNotificationTypes</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-maneuvernotificationtype">ManeuverNotificationType</a></span><span class="p">],</span> <span class="nv">enableRoundaboutNotification</span><span class="p">:</span> <span class="kt">Bool</span><span class="p">,</span> <span class="nv">enableDestinationReachedNotification</span><span class="p">:</span> <span class="kt">Bool</span><span class="p">,</span> <span class="nv">enableDoubleNotification</span><span class="p">:</span> <span class="kt">Bool</span><span class="p">,</span> <span class="nv">enablePhoneme</span><span class="p">:</span> <span class="kt">Bool</span><span class="p">,</span> <span class="nv">enableHighwayExit</span><span class="p">:</span> <span class="kt">Bool</span><span class="p">)</span></code></pre>
+<span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">language</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-languagecode">LanguageCode</a></span><span class="p">,</span> <span class="nv">unitSystem</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-unitsystem">UnitSystem</a></span><span class="p">,</span> <span class="nv">includedNotificationTypes</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-maneuvernotificationtype">ManeuverNotificationType</a></span><span class="p">],</span> <span class="nv">enableRoundaboutNotification</span><span class="p">:</span> <span class="kt">Bool</span><span class="p">,</span> <span class="nv">enableDestinationReachedNotification</span><span class="p">:</span> <span class="kt">Bool</span><span class="p">,</span> <span class="nv">enableDoubleNotification</span><span class="p">:</span> <span class="kt">Bool</span><span class="p">,</span> <span class="nv">enablePhoneme</span><span class="p">:</span> <span class="kt">Bool</span><span class="p">,</span> <span class="nv">enableHighwayExit</span><span class="p">:</span> <span class="kt">Bool</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>
@@ -549,7 +549,7 @@ all of them will disable natural guidance information in the notifications compl
 <li>language: The language in which the notifications will be generated. When the specified language
 is not supported, the default language is used, which is English (American).</li>
 <li>unitSystem: Defines the measurement system used for distances. Defaults to metric.</li>
-<li>includedNotificationTypes: List of <code><a href="sdk-for-ios-navigate-api-reference-..-enums-maneuvernotificationtype">ManeuverNotificationType</a></code> for which notifications should be generated. Excluding all of
+<li>includedNotificationTypes: List of <code><a href="sdk-for-ios-navigate-api-reference-enums-maneuvernotificationtype">ManeuverNotificationType</a></code> for which notifications should be generated. Excluding all of
 them will disable the maneuver notifications completely.
 By default, all types are included.</li>
 <li>enableRoundaboutNotification: A flag that indicates whether notification for roundabout-related maneuvers should be generated.
@@ -592,7 +592,7 @@ Defaults to <code>true</code>.</li>
 <div class="language">
 <p class="aside-title">Swift</p>
 <pre class="highlight swift"><code><span class="kd">@available(*, deprecated, message: "Will be removed in v4.23.0. Use the default constructor instead.")</span>
-<span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">language</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-languagecode">LanguageCode</a></span><span class="p">,</span> <span class="nv">unitSystem</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-unitsystem">UnitSystem</a></span><span class="p">,</span> <span class="nv">includedNotificationTypes</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-maneuvernotificationtype">ManeuverNotificationType</a></span><span class="p">],</span> <span class="nv">enableRoundaboutNotification</span><span class="p">:</span> <span class="kt">Bool</span><span class="p">,</span> <span class="nv">enableDestinationReachedNotification</span><span class="p">:</span> <span class="kt">Bool</span><span class="p">,</span> <span class="nv">enableDoubleNotification</span><span class="p">:</span> <span class="kt">Bool</span><span class="p">,</span> <span class="nv">enablePhoneme</span><span class="p">:</span> <span class="kt">Bool</span><span class="p">,</span> <span class="nv">notificationFormatOption</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-notificationformatoption">NotificationFormatOption</a></span><span class="p">,</span> <span class="nv">enableHighwayExit</span><span class="p">:</span> <span class="kt">Bool</span><span class="p">)</span></code></pre>
+<span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">language</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-languagecode">LanguageCode</a></span><span class="p">,</span> <span class="nv">unitSystem</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-unitsystem">UnitSystem</a></span><span class="p">,</span> <span class="nv">includedNotificationTypes</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-maneuvernotificationtype">ManeuverNotificationType</a></span><span class="p">],</span> <span class="nv">enableRoundaboutNotification</span><span class="p">:</span> <span class="kt">Bool</span><span class="p">,</span> <span class="nv">enableDestinationReachedNotification</span><span class="p">:</span> <span class="kt">Bool</span><span class="p">,</span> <span class="nv">enableDoubleNotification</span><span class="p">:</span> <span class="kt">Bool</span><span class="p">,</span> <span class="nv">enablePhoneme</span><span class="p">:</span> <span class="kt">Bool</span><span class="p">,</span> <span class="nv">notificationFormatOption</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-notificationformatoption">NotificationFormatOption</a></span><span class="p">,</span> <span class="nv">enableHighwayExit</span><span class="p">:</span> <span class="kt">Bool</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>

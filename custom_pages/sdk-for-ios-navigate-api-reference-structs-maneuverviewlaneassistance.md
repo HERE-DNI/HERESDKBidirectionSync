@@ -1,5 +1,5 @@
 ---
-title: "Navigation / ManeuverViewLaneAssistance"
+title: "sdk-for-ios-navigate-api-reference-structs-maneuverviewlaneassistance"
 slug: "sdk-for-ios-navigate-api-reference-structs-maneuverviewlaneassistance"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-structs-maneuverviewlaneassistance"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-navigation">Navigation</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-navigation">Navigation</a>
+<img alt="" id="carat" src="/carat.png"/>
         ManeuverViewLaneAssistance Structure Reference
       </p>
 </div>
@@ -36,8 +36,8 @@ slug: "sdk-for-ios-navigate-api-reference-structs-maneuverviewlaneassistance"
 <p>A struct that provides lane assistance information for the next maneuver(s).
 During turn-by-turn navigation lane assistance can help a driver to choose the recommended lanes
 in order to complete the upcoming maneuvers.
-The notifications are synchronized with the <code><a href="sdk-for-ios-navigate-api-reference-..-protocols-eventtextdelegate">EventTextDelegate</a></code>.
-<code><a href="sdk-for-ios-navigate-api-reference-..-protocols-eventtextdelegate">EventTextDelegate</a></code> has 4 notification types for each maneuver:
+The notifications are synchronized with the <code><a href="sdk-for-ios-navigate-api-reference-protocols-eventtextdelegate">EventTextDelegate</a></code>.
+<code><a href="sdk-for-ios-navigate-api-reference-protocols-eventtextdelegate">EventTextDelegate</a></code> has 4 notification types for each maneuver:
 Range, Reminder, Distance and Action.
 Only the maneuver notification of type Distance will also notify a ManeuverViewLaneAssistance object
 (e.g. “After 400 meters, turn right onto Invalidenstraße”).
@@ -74,7 +74,7 @@ The list is guaranteed to be non-empty.
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">lanesForNextManeuver</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-lane">Lane</a></span><span class="p">]</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">lanesForNextManeuver</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-lane">Lane</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -109,7 +109,7 @@ are too close to each other.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">lanesForNextNextManeuver</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-lane">Lane</a></span><span class="p">]</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">lanesForNextNextManeuver</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-lane">Lane</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -134,7 +134,7 @@ are too close to each other.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">lanesForNextManeuver</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-lane">Lane</a></span><span class="p">],</span> <span class="nv">lanesForNextNextManeuver</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-lane">Lane</a></span><span class="p">])</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">lanesForNextManeuver</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-lane">Lane</a></span><span class="p">],</span> <span class="nv">lanesForNextNextManeuver</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-lane">Lane</a></span><span class="p">])</span></code></pre>
 </div>
 </div>
 </section>

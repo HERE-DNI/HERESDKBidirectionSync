@@ -1,5 +1,5 @@
 ---
-title: "Navigation / EventTextDelegate"
+title: "sdk-for-ios-navigate-api-reference-protocols-eventtextdelegate"
 slug: "sdk-for-ios-navigate-api-reference-protocols-eventtextdelegate"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-eventtextdelegate"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-navigation">Navigation</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-navigation">Navigation</a>
+<img alt="" id="carat" src="/carat.png"/>
         EventTextDelegate Protocol Reference
       </p>
 </div>
@@ -34,7 +34,7 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-eventtextdelegate"
 </div>
 </div>
 <p>This protocol should be implemented in order to receive notifications
-when text notifications are available from <code><a href="sdk-for-ios-navigate-api-reference-..-classes-navigator">Navigator</a></code>. Multiple notifications
+when text notifications are available from <code><a href="sdk-for-ios-navigate-api-reference-classes-navigator">Navigator</a></code>. Multiple notifications
 can be given for the same maneuver at different distances.</p>
 </section>
 <section class="section task-group-section">
@@ -62,7 +62,7 @@ distance.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">onEventTextUpdated</span><span class="p">(</span><span class="n">_</span> <span class="nv">eventText</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-eventtext">EventText</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">onEventTextUpdated</span><span class="p">(</span><span class="n">_</span> <span class="nv">eventText</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-eventtext">EventText</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>

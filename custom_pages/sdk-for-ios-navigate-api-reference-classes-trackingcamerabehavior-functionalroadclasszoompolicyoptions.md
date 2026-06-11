@@ -1,5 +1,5 @@
 ---
-title: "TrackingCameraBehavior / FunctionalRoadClassZoomPolicyOptions"
+title: "sdk-for-ios-navigate-api-reference-classes-trackingcamerabehavior-functionalroadclasszoompolicyoptions"
 slug: "sdk-for-ios-navigate-api-reference-classes-trackingcamerabehavior-functionalroadclasszoompolicyoptions"
 ---
 
@@ -15,12 +15,12 @@ slug: "sdk-for-ios-navigate-api-reference-classes-trackingcamerabehavior-functio
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-..-index">heresdk</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-..-navigation">Navigation</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-..-classes-trackingcamerabehavior">TrackingCameraBehavior</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-navigation">Navigation</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-classes-trackingcamerabehavior">TrackingCameraBehavior</a>
+<img alt="" id="carat" src="/carat.png"/>
         FunctionalRoadClassZoomPolicyOptions Structure Reference
       </p>
 </div>
@@ -55,13 +55,13 @@ For correct default initialization, use <code><a href="../../Classes/TrackingCam
 <div class="pointer"></div>
 <div class="abstract">
 <p>Default zoom returned when the functional road class is missing or unmapped.
-Defaults to a <code><a href="sdk-for-ios-navigate-api-reference-..-..-structs-mapmeasure">MapMeasure</a></code> with kind <code><a href="../../Structs/MapMeasure/Kind.html#/s:7heresdk10MapMeasureV4KindO9zoomLevelyA2EmF">MapMeasure.Kind.zoomLevel</a></code> and value 16.5.</p>
+Defaults to a <code><a href="sdk-for-ios-navigate-api-reference-structs-mapmeasure">MapMeasure</a></code> with kind <code><a href="../../Structs/MapMeasure/Kind.html#/s:7heresdk10MapMeasureV4KindO9zoomLevelyA2EmF">MapMeasure.Kind.zoomLevel</a></code> and value 16.5.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">defaultZoom</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-structs-mapmeasure">MapMeasure</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">defaultZoom</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-mapmeasure">MapMeasure</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -88,7 +88,7 @@ for <code>TrackingCameraBehavior.FunctionalRoadClassZoomPolicyOptions</code>, it
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">functionalRoadClassToZoom</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-enums-functionalroadclass">FunctionalRoadClass</a></span> <span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-structs-mapmeasure">MapMeasure</a></span><span class="p">]</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">functionalRoadClassToZoom</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-functionalroadclass">FunctionalRoadClass</a></span> <span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-mapmeasure">MapMeasure</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -115,7 +115,7 @@ subject to change without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n"><a href="../../Classes/TrackingCameraBehavior/FunctionalRoadClassZoomPolicyOptions.html#/s:7heresdk22TrackingCameraBehaviorC36FunctionalRoadClassZoomPolicyOptionsV07defaultH0AA10MapMeasureVvp">defaultZoom</a></span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-structs-mapmeasure">MapMeasure</a></span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-structs-mapmeasure">MapMeasure</a></span><span class="p">(</span><span class="nv">kind</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-structs-mapmeasure">MapMeasure</a></span><span class="o">.</span><span class="kt">Kind</span><span class="o">.</span><span class="n">zoomLevel</span><span class="p">,</span> <span class="nv">value</span><span class="p">:</span> <span class="mf">16.5</span><span class="p">),</span> <span class="nv">functionalRoadClassToZoom</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-enums-functionalroadclass">FunctionalRoadClass</a></span> <span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-structs-mapmeasure">MapMeasure</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[:])</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n"><a href="../../Classes/TrackingCameraBehavior/FunctionalRoadClassZoomPolicyOptions.html#/s:7heresdk22TrackingCameraBehaviorC36FunctionalRoadClassZoomPolicyOptionsV07defaultH0AA10MapMeasureVvp">defaultZoom</a></span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-mapmeasure">MapMeasure</a></span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-mapmeasure">MapMeasure</a></span><span class="p">(</span><span class="nv">kind</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-mapmeasure">MapMeasure</a></span><span class="o">.</span><span class="kt">Kind</span><span class="o">.</span><span class="n">zoomLevel</span><span class="p">,</span> <span class="nv">value</span><span class="p">:</span> <span class="mf">16.5</span><span class="p">),</span> <span class="nv">functionalRoadClassToZoom</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-functionalroadclass">FunctionalRoadClass</a></span> <span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-mapmeasure">MapMeasure</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[:])</span></code></pre>
 </div>
 </div>
 </section>

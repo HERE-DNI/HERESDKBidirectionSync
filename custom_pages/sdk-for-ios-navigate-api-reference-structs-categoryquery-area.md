@@ -1,5 +1,5 @@
 ---
-title: "CategoryQuery / Area"
+title: "sdk-for-ios-navigate-api-reference-structs-categoryquery-area"
 slug: "sdk-for-ios-navigate-api-reference-structs-categoryquery-area"
 ---
 
@@ -15,12 +15,12 @@ slug: "sdk-for-ios-navigate-api-reference-structs-categoryquery-area"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-..-index">heresdk</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-..-search">Search</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-..-structs-categoryquery">CategoryQuery</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-search">Search</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-structs-categoryquery">CategoryQuery</a>
+<img alt="" id="carat" src="/carat.png"/>
         Area Structure Reference
       </p>
 </div>
@@ -59,7 +59,7 @@ slug: "sdk-for-ios-navigate-api-reference-structs-categoryquery-area"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">let</span> <span class="nv">areaCenter</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-structs-geocoordinates">GeoCoordinates</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">let</span> <span class="nv">areaCenter</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-geocoordinates">GeoCoordinates</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -84,7 +84,7 @@ slug: "sdk-for-ios-navigate-api-reference-structs-categoryquery-area"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">let</span> <span class="nv">boxArea</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-structs-geobox">GeoBox</a></span><span class="p">?</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">let</span> <span class="nv">boxArea</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-geobox">GeoBox</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -109,7 +109,7 @@ slug: "sdk-for-ios-navigate-api-reference-structs-categoryquery-area"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">let</span> <span class="nv">circleArea</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-structs-geocircle">GeoCircle</a></span><span class="p">?</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">let</span> <span class="nv">circleArea</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-geocircle">GeoCircle</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -130,7 +130,7 @@ slug: "sdk-for-ios-navigate-api-reference-structs-categoryquery-area"
 <div class="abstract">
 <p>Geographic corridor area in which to provide the most relevant places.
 The contained polyline and half-width define the area that will be used in a search query.</p>
-<p>When used with <code><a href="sdk-for-ios-navigate-api-reference-..-..-classes-searchengine">SearchEngine</a></code>, the polyline is compressed and sent.
+<p>When used with <code><a href="sdk-for-ios-navigate-api-reference-classes-searchengine">SearchEngine</a></code>, the polyline is compressed and sent.
 More complex polylines with large amounts of coordinates and with smaller
 half-width may have the less relevant part removed, such as the one far away from the
 search center. This usually makes no difference, because there will be enough POIs near
@@ -147,7 +147,7 @@ Milan (Italy) and Konstanz (Germany) will have the far away part removed due to 
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">let</span> <span class="nv">corridorArea</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-structs-geocorridor">GeoCorridor</a></span><span class="p">?</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">let</span> <span class="nv">corridorArea</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-geocorridor">GeoCorridor</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -172,7 +172,7 @@ Milan (Italy) and Konstanz (Germany) will have the far away part removed due to 
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">areaCenter</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-structs-geocoordinates">GeoCoordinates</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">areaCenter</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-geocoordinates">GeoCoordinates</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -216,7 +216,7 @@ Milan (Italy) and Konstanz (Germany) will have the far away part removed due to 
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">near</span> <span class="nv">areaCenter</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-structs-geocoordinates">GeoCoordinates</a></span><span class="p">,</span> <span class="n">inBox</span> <span class="nv">boxArea</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-structs-geobox">GeoBox</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">near</span> <span class="nv">areaCenter</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-geocoordinates">GeoCoordinates</a></span><span class="p">,</span> <span class="n">inBox</span> <span class="nv">boxArea</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-geobox">GeoBox</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -272,7 +272,7 @@ Milan (Italy) and Konstanz (Germany) will have the far away part removed due to 
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">near</span> <span class="nv">areaCenter</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-structs-geocoordinates">GeoCoordinates</a></span><span class="p">,</span> <span class="n">inCircle</span> <span class="nv">circleArea</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-structs-geocircle">GeoCircle</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">near</span> <span class="nv">areaCenter</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-geocoordinates">GeoCoordinates</a></span><span class="p">,</span> <span class="n">inCircle</span> <span class="nv">circleArea</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-geocircle">GeoCircle</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -324,7 +324,7 @@ Milan (Italy) and Konstanz (Germany) will have the far away part removed due to 
 <div class="abstract">
 <p>Constructs a new instance of this class from provided parameters.
 The given corridor and center define the area that will be used in the search query.</p>
-<p>When used with <code><a href="sdk-for-ios-navigate-api-reference-..-..-classes-searchengine">SearchEngine</a></code>, the polyline is compressed and sent.
+<p>When used with <code><a href="sdk-for-ios-navigate-api-reference-classes-searchengine">SearchEngine</a></code>, the polyline is compressed and sent.
 More complex polylines with large amounts of coordinates and with smaller
 half-width may have the less relevant part removed, such as the one far away from the
 search center. This usually makes no difference, because there will be enough POIs near
@@ -339,7 +339,7 @@ Milan (Italy) and Konstanz (Germany) will have the far away part removed due to 
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">inCorridor</span> <span class="nv">corridorArea</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-structs-geocorridor">GeoCorridor</a></span><span class="p">,</span> <span class="n">near</span> <span class="nv">areaCenter</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-structs-geocoordinates">GeoCoordinates</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">inCorridor</span> <span class="nv">corridorArea</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-geocorridor">GeoCorridor</a></span><span class="p">,</span> <span class="n">near</span> <span class="nv">areaCenter</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-geocoordinates">GeoCoordinates</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>

@@ -1,5 +1,5 @@
 ---
-title: "Venues / VenueInfoListListenerDelegate"
+title: "sdk-for-ios-navigate-api-reference-protocols-venueinfolistlistenerdelegate"
 slug: "sdk-for-ios-navigate-api-reference-protocols-venueinfolistlistenerdelegate"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-venueinfolistlistenerdelegat
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-venues">Venues</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-venues">Venues</a>
+<img alt="" id="carat" src="/carat.png"/>
         VenueInfoListListenerDelegate Protocol Reference
       </p>
 </div>
@@ -34,7 +34,7 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-venueinfolistlistenerdelegat
 </div>
 </div>
 <p>The protocol for delegates for
-the list of <code><a href="sdk-for-ios-navigate-api-reference-..-classes-venueinfo">VenueInfo</a></code> load event. Use <code><a href="sdk-for-ios-navigate-api-reference-..-classes-venuemap">VenueMap</a></code>
+the list of <code><a href="sdk-for-ios-navigate-api-reference-classes-venueinfo">VenueInfo</a></code> load event. Use <code><a href="sdk-for-ios-navigate-api-reference-classes-venuemap">VenueMap</a></code>
 to add and remove the <code>VenueInfoListListenerDelegate</code>.</p>
 </section>
 <section class="section task-group-section">
@@ -53,7 +53,7 @@ to add and remove the <code>VenueInfoListListenerDelegate</code>.</p>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Indicates that <code><a href="sdk-for-ios-navigate-api-reference-..-classes-venueinfo">VenueInfo</a></code> list is loaded.</p>
+<p>Indicates that <code><a href="sdk-for-ios-navigate-api-reference-classes-venueinfo">VenueInfo</a></code> list is loaded.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
@@ -74,7 +74,7 @@ to add and remove the <code>VenueInfoListListenerDelegate</code>.</p>
 </td>
 <td>
 <div>
-<p>The <code><a href="sdk-for-ios-navigate-api-reference-..-classes-venuemap">VenueMap</a></code> where the loaded list of <code><a href="sdk-for-ios-navigate-api-reference-..-classes-venueinfo">VenueInfo</a></code>.</p>
+<p>The <code><a href="sdk-for-ios-navigate-api-reference-classes-venuemap">VenueMap</a></code> where the loaded list of <code><a href="sdk-for-ios-navigate-api-reference-classes-venueinfo">VenueInfo</a></code>.</p>
 </div>
 </td>
 </tr>

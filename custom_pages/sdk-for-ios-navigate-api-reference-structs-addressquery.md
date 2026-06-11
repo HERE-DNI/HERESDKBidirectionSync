@@ -1,5 +1,5 @@
 ---
-title: "Search / AddressQuery"
+title: "sdk-for-ios-navigate-api-reference-structs-addressquery"
 slug: "sdk-for-ios-navigate-api-reference-structs-addressquery"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-structs-addressquery"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-search">Search</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-search">Search</a>
+<img alt="" id="carat" src="/carat.png"/>
         AddressQuery Structure Reference
       </p>
 </div>
@@ -37,7 +37,7 @@ slug: "sdk-for-ios-navigate-api-reference-structs-addressquery"
 optionally comma separated. <code>AddressQuery</code> should only be used to search for parts of the address,
 excluding the POI name. For example, “Invalidenstraße 116, Berlin, Germany” is appropriate, whereas
 “HERE, Invalidenstraße 116, Berlin, Germany” is not. To be able to include the POI name, use
-<code><a href="sdk-for-ios-navigate-api-reference-..-structs-textquery">TextQuery</a></code> instead. <code><a href="../Structs/SearchOptions.html#/s:7heresdk13SearchOptionsV12languageCodeAA08LanguageE0OSgvp">SearchOptions.languageCode</a></code> specifies the language of the
+<code><a href="sdk-for-ios-navigate-api-reference-structs-textquery">TextQuery</a></code> instead. <code><a href="../Structs/SearchOptions.html#/s:7heresdk13SearchOptionsV12languageCodeAA08LanguageE0OSgvp">SearchOptions.languageCode</a></code> specifies the language of the
 <code><a href="../Structs/AddressQuery.html#/s:7heresdk12AddressQueryV5querySSvp">AddressQuery.query</a></code> and determines the preferred language of the results.</p>
 </section>
 <section class="section task-group-section">
@@ -88,7 +88,7 @@ For Offline Search null value will result in <code><a href="../Enums/SearchError
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">let</span> <span class="nv">areaCenter</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-geocoordinates">GeoCoordinates</a></span><span class="p">?</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">let</span> <span class="nv">areaCenter</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-geocoordinates">GeoCoordinates</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -108,13 +108,13 @@ For Offline Search null value will result in <code><a href="../Enums/SearchError
 <div class="pointer"></div>
 <div class="abstract">
 <p>A list of countries that the query is applied in.
-Not supported in <code><a href="sdk-for-ios-navigate-api-reference-..-classes-offlinesearchengine">OfflineSearchEngine</a></code> (only available for the Navigate license).</p>
+Not supported in <code><a href="sdk-for-ios-navigate-api-reference-classes-offlinesearchengine">OfflineSearchEngine</a></code> (only available for the Navigate license).</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">let</span> <span class="nv">countries</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-countrycode">CountryCode</a></span><span class="p">]</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">let</span> <span class="nv">countries</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-countrycode">CountryCode</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -139,7 +139,7 @@ Not supported in <code><a href="sdk-for-ios-navigate-api-reference-..-classes-of
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">_</span> <span class="nv">query</span><span class="p">:</span> <span class="kt">String</span><span class="p">,</span> <span class="n">near</span> <span class="nv">areaCenter</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-geocoordinates">GeoCoordinates</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">_</span> <span class="nv">query</span><span class="p">:</span> <span class="kt">String</span><span class="p">,</span> <span class="n">near</span> <span class="nv">areaCenter</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-geocoordinates">GeoCoordinates</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -196,7 +196,7 @@ list of countries the query is applied in.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">_</span> <span class="nv">query</span><span class="p">:</span> <span class="kt">String</span><span class="p">,</span> <span class="n">near</span> <span class="nv">areaCenter</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-geocoordinates">GeoCoordinates</a></span><span class="p">,</span> <span class="n">inCountries</span> <span class="nv">countries</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-countrycode">CountryCode</a></span><span class="p">])</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">_</span> <span class="nv">query</span><span class="p">:</span> <span class="kt">String</span><span class="p">,</span> <span class="n">near</span> <span class="nv">areaCenter</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-geocoordinates">GeoCoordinates</a></span><span class="p">,</span> <span class="n">inCountries</span> <span class="nv">countries</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-countrycode">CountryCode</a></span><span class="p">])</span></code></pre>
 </div>
 </div>
 <div>
@@ -259,7 +259,7 @@ list of countries the query is applied in.</p>
 <div class="pointer"></div>
 <div class="abstract">
 <p>Constructs an AddressQuery from the provided text query.
-Not supported in <code><a href="sdk-for-ios-navigate-api-reference-..-classes-offlinesearchengine">OfflineSearchEngine</a></code> (only available for the Navigate license).</p>
+Not supported in <code><a href="sdk-for-ios-navigate-api-reference-classes-offlinesearchengine">OfflineSearchEngine</a></code> (only available for the Navigate license).</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>

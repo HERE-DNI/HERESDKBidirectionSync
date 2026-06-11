@@ -1,5 +1,5 @@
 ---
-title: "MapLoader / ExternalMapDataSourceClient"
+title: "sdk-for-ios-navigate-api-reference-classes-externalmapdatasourceclient"
 slug: "sdk-for-ios-navigate-api-reference-classes-externalmapdatasourceclient"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-classes-externalmapdatasourceclient"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-maploader">MapLoader</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-maploader">MapLoader</a>
+<img alt="" id="carat" src="/carat.png"/>
         ExternalMapDataSourceClient Class Reference
       </p>
 </div>
@@ -84,8 +84,8 @@ Related APIs may change for new releases without a deprecation process.</p>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Initialize <code><a href="sdk-for-ios-navigate-api-reference-..-classes-sdknativeengine">SDKNativeEngine</a></code> with URL of the remote map data source gRPC server.
-Newly injected map data source replaces exiting one if <code><a href="sdk-for-ios-navigate-api-reference-..-classes-sdknativeengine">SDKNativeEngine</a></code> was already connected.
+<p>Initialize <code><a href="sdk-for-ios-navigate-api-reference-classes-sdknativeengine">SDKNativeEngine</a></code> with URL of the remote map data source gRPC server.
+Newly injected map data source replaces exiting one if <code><a href="sdk-for-ios-navigate-api-reference-classes-sdknativeengine">SDKNativeEngine</a></code> was already connected.
 Suggested configuration is taken from <code><a href="../Structs/SDKOptions.html#/s:7heresdk10SDKOptionsV21catalogConfigurationsSayAA20CatalogConfigurationVGvp">SDKOptions.catalogConfigurations</a></code>, actual catalog
 versions are queried from the remote connection in order to be in sync.
 It is a non-blocking function, and the result will be returned via a callback <code><a href="../MapLoader.html#/s:7heresdk25ConfigureConnectionHandlea">ConfigureConnectionHandle</a></code>.</p>
@@ -94,7 +94,7 @@ It is a non-blocking function, and the result will be returned via a callback <c
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">configureRemoteConnectionAsync</span><span class="p">(</span><span class="nv">url</span><span class="p">:</span> <span class="kt">String</span><span class="p">,</span> <span class="nv">engine</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-sdknativeengine">SDKNativeEngine</a></span><span class="p">,</span> <span class="nv">credentials</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-sslclientcredentialsoptions">SslClientCredentialsOptions</a></span><span class="p">?,</span> <span class="nv">callback</span><span class="p">:</span> <span class="kd">@escaping</span> <span class="kt"><a href="../MapLoader.html#/s:7heresdk25ConfigureConnectionHandlea">ConfigureConnectionHandle</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-taskhandle">TaskHandle</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">configureRemoteConnectionAsync</span><span class="p">(</span><span class="nv">url</span><span class="p">:</span> <span class="kt">String</span><span class="p">,</span> <span class="nv">engine</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-sdknativeengine">SDKNativeEngine</a></span><span class="p">,</span> <span class="nv">credentials</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-sslclientcredentialsoptions">SslClientCredentialsOptions</a></span><span class="p">?,</span> <span class="nv">callback</span><span class="p">:</span> <span class="kd">@escaping</span> <span class="kt"><a href="../MapLoader.html#/s:7heresdk25ConfigureConnectionHandlea">ConfigureConnectionHandle</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-taskhandle">TaskHandle</a></span></code></pre>
 </div>
 </div>
 <div>
@@ -123,7 +123,7 @@ service exposed using <code><a href="../Classes/ExternalMapDataSourceServer.html
 </td>
 <td>
 <div>
-<p>Instance of an existing <code><a href="sdk-for-ios-navigate-api-reference-..-classes-sdknativeengine">SDKNativeEngine</a></code>.</p>
+<p>Instance of an existing <code><a href="sdk-for-ios-navigate-api-reference-classes-sdknativeengine">SDKNativeEngine</a></code>.</p>
 </div>
 </td>
 </tr>
@@ -135,7 +135,7 @@ service exposed using <code><a href="../Classes/ExternalMapDataSourceServer.html
 </td>
 <td>
 <div>
-<p>Instance of <code><a href="sdk-for-ios-navigate-api-reference-..-structs-sslclientcredentialsoptions">SslClientCredentialsOptions</a></code></p>
+<p>Instance of <code><a href="sdk-for-ios-navigate-api-reference-structs-sslclientcredentialsoptions">SslClientCredentialsOptions</a></code></p>
 </div>
 </td>
 </tr>

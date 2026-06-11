@@ -1,5 +1,5 @@
 ---
-title: "MapLoader / InstalledCatalog"
+title: "sdk-for-ios-navigate-api-reference-structs-installedcatalog"
 slug: "sdk-for-ios-navigate-api-reference-structs-installedcatalog"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-structs-installedcatalog"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-maploader">MapLoader</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-maploader">MapLoader</a>
+<img alt="" id="carat" src="/carat.png"/>
         InstalledCatalog Structure Reference
       </p>
 </div>
@@ -57,7 +57,7 @@ slug: "sdk-for-ios-navigate-api-reference-structs-installedcatalog"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">catalogIdentifier</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-catalogidentifier">CatalogIdentifier</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">catalogIdentifier</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-catalogidentifier">CatalogIdentifier</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -97,7 +97,7 @@ slug: "sdk-for-ios-navigate-api-reference-structs-installedcatalog"
 </td>
 <td>
 <div>
-<p>A HERE Resource Name (HRN) for this catalog. See <code><a href="sdk-for-ios-navigate-api-reference-..-structs-catalogidentifier">CatalogIdentifier</a></code> for more info.</p>
+<p>A HERE Resource Name (HRN) for this catalog. See <code><a href="sdk-for-ios-navigate-api-reference-structs-catalogidentifier">CatalogIdentifier</a></code> for more info.</p>
 </div>
 </td>
 </tr>
@@ -109,7 +109,7 @@ slug: "sdk-for-ios-navigate-api-reference-structs-installedcatalog"
 </td>
 <td>
 <div>
-<p>A version number for a catalog. See <code><a href="sdk-for-ios-navigate-api-reference-..-structs-catalogidentifier">CatalogIdentifier</a></code> for more info.</p>
+<p>A version number for a catalog. See <code><a href="sdk-for-ios-navigate-api-reference-structs-catalogidentifier">CatalogIdentifier</a></code> for more info.</p>
 </div>
 </td>
 </tr>

@@ -1,5 +1,5 @@
 ---
-title: "Routing / Toll"
+title: "sdk-for-ios-navigate-api-reference-structs-toll"
 slug: "sdk-for-ios-navigate-api-reference-structs-toll"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-structs-toll"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-routing">Routing</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-routing">Routing</a>
+<img alt="" id="carat" src="/carat.png"/>
         Toll Structure Reference
       </p>
 </div>
@@ -34,12 +34,12 @@ slug: "sdk-for-ios-navigate-api-reference-structs-toll"
 </div>
 </div>
 <p>This struct presents all the data for a toll.</p>
-<p><strong>Note</strong>: If you’re using the <code><a href="sdk-for-ios-navigate-api-reference-..-classes-offlineroutingengine">OfflineRoutingEngine</a></code>, be aware that this feature is
+<p><strong>Note</strong>: If you’re using the <code><a href="sdk-for-ios-navigate-api-reference-classes-offlineroutingengine">OfflineRoutingEngine</a></code>, be aware that this feature is
 currently in <strong>beta</strong>. As a result, there may be some bugs or unexpected behaviors.
 Additionally, this feature and related APIs may be updated in future releases
-without going through the deprecation process. Note that the <code><a href="sdk-for-ios-navigate-api-reference-..-classes-offlineroutingengine">OfflineRoutingEngine</a></code>
+without going through the deprecation process. Note that the <code><a href="sdk-for-ios-navigate-api-reference-classes-offlineroutingengine">OfflineRoutingEngine</a></code>
 is only available for the Navigate license. If you’re using the
-<code><a href="sdk-for-ios-navigate-api-reference-..-classes-routingengine">RoutingEngine</a></code>, this feature is considered to be stable.</p>
+<code><a href="sdk-for-ios-navigate-api-reference-classes-routingengine">RoutingEngine</a></code>, this feature is considered to be stable.</p>
 </section>
 <section class="section task-group-section">
 <div class="task-group">
@@ -118,7 +118,7 @@ is never empty.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">fares</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-tollfare">TollFare</a></span><span class="p">]</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">fares</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-tollfare">TollFare</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -143,7 +143,7 @@ is never empty.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">countryCode</span><span class="p">:</span> <span class="kt">String</span><span class="p">,</span> <span class="nv">tollSystems</span><span class="p">:</span> <span class="p">[</span><span class="kt">String</span><span class="p">],</span> <span class="nv">fares</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-tollfare">TollFare</a></span><span class="p">])</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">countryCode</span><span class="p">:</span> <span class="kt">String</span><span class="p">,</span> <span class="nv">tollSystems</span><span class="p">:</span> <span class="p">[</span><span class="kt">String</span><span class="p">],</span> <span class="nv">fares</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-tollfare">TollFare</a></span><span class="p">])</span></code></pre>
 </div>
 </div>
 </section>

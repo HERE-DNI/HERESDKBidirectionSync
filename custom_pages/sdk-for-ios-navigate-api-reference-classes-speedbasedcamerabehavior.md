@@ -1,5 +1,5 @@
 ---
-title: "Navigation / SpeedBasedCameraBehavior"
+title: "sdk-for-ios-navigate-api-reference-classes-speedbasedcamerabehavior"
 slug: "sdk-for-ios-navigate-api-reference-classes-speedbasedcamerabehavior"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-classes-speedbasedcamerabehavior"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-navigation">Navigation</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-navigation">Navigation</a>
+<img alt="" id="carat" src="/carat.png"/>
         SpeedBasedCameraBehavior Class Reference
       </p>
 </div>
@@ -30,7 +30,7 @@ slug: "sdk-for-ios-navigate-api-reference-classes-speedbasedcamerabehavior"
 <h1>SpeedBasedCameraBehavior</h1>
 <div class="declaration">
 <div class="language">
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">SpeedBasedCameraBehavior</span> <span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-camerabehavior">CameraBehavior</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">SpeedBasedCameraBehavior</span> <span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-camerabehavior">CameraBehavior</a></span></code></pre>
 <pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">SpeedBasedCameraBehavior</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
 <pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">SpeedBasedCameraBehavior</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
@@ -88,7 +88,7 @@ of the mapview.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">normalizedPrincipalPoint</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-anchor2d">Anchor2D</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">normalizedPrincipalPoint</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-anchor2d">Anchor2D</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -109,7 +109,7 @@ of the mapview.</p>
 <div class="abstract">
 <p>A single profile value which indicates the speed range in which it applies to its zoom and
 tilt configuration.</p>
-<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-..-classes-speedbasedcamerabehavior-profilevalue">See more</a>
+<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-classes-speedbasedcamerabehavior-profilevalue">See more</a>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
@@ -150,7 +150,7 @@ Invalid profile will be rejected and error message logged with explanation of vi
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">setProfile</span><span class="p">(</span><span class="n">_</span> <span class="nv">profile</span><span class="p">:</span> <span class="p">[</span><span class="kt">SpeedBasedCameraBehavior</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-speedbasedcamerabehavior-profilevalue">ProfileValue</a></span><span class="p">])</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">setProfile</span><span class="p">(</span><span class="n">_</span> <span class="nv">profile</span><span class="p">:</span> <span class="p">[</span><span class="kt">SpeedBasedCameraBehavior</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-speedbasedcamerabehavior-profilevalue">ProfileValue</a></span><span class="p">])</span></code></pre>
 </div>
 </div>
 <div>
@@ -196,7 +196,7 @@ adjacent levels.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getProfile</span><span class="p">()</span> <span class="o">-&gt;</span> <span class="p">[</span><span class="kt">SpeedBasedCameraBehavior</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-speedbasedcamerabehavior-profilevalue">ProfileValue</a></span><span class="p">]</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getProfile</span><span class="p">()</span> <span class="o">-&gt;</span> <span class="p">[</span><span class="kt">SpeedBasedCameraBehavior</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-speedbasedcamerabehavior-profilevalue">ProfileValue</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 <div>
@@ -224,7 +224,7 @@ adjacent levels.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="kd">func</span> <span class="nf">default3DProfile</span><span class="p">()</span> <span class="o">-&gt;</span> <span class="p">[</span><span class="kt">SpeedBasedCameraBehavior</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-speedbasedcamerabehavior-profilevalue">ProfileValue</a></span><span class="p">]</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="kd">func</span> <span class="nf">default3DProfile</span><span class="p">()</span> <span class="o">-&gt;</span> <span class="p">[</span><span class="kt">SpeedBasedCameraBehavior</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-speedbasedcamerabehavior-profilevalue">ProfileValue</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 <div>
@@ -252,7 +252,7 @@ adjacent levels.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="kd">func</span> <span class="nf">default2DProfile</span><span class="p">()</span> <span class="o">-&gt;</span> <span class="p">[</span><span class="kt">SpeedBasedCameraBehavior</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-speedbasedcamerabehavior-profilevalue">ProfileValue</a></span><span class="p">]</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="kd">func</span> <span class="nf">default2DProfile</span><span class="p">()</span> <span class="o">-&gt;</span> <span class="p">[</span><span class="kt">SpeedBasedCameraBehavior</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-speedbasedcamerabehavior-profilevalue">ProfileValue</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 <div>

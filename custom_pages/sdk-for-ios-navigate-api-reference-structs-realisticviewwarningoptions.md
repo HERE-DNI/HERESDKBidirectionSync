@@ -1,5 +1,5 @@
 ---
-title: "Navigation / RealisticViewWarningOptions"
+title: "sdk-for-ios-navigate-api-reference-structs-realisticviewwarningoptions"
 slug: "sdk-for-ios-navigate-api-reference-structs-realisticviewwarningoptions"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-structs-realisticviewwarningoptions"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-navigation">Navigation</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-navigation">Navigation</a>
+<img alt="" id="carat" src="/carat.png"/>
         RealisticViewWarningOptions Structure Reference
       </p>
 </div>
@@ -60,7 +60,7 @@ the aspect ratio is always portrait.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">aspectRatio</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-aspectratio">AspectRatio</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">aspectRatio</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-aspectratio">AspectRatio</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -112,7 +112,7 @@ scheme. This option is applicable only to the <code><a href="../Structs/Realisti
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">aspectRatio</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-aspectratio">AspectRatio</a></span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-aspectratio">AspectRatio</a></span><span class="o">.</span><span class="n">aspectRatio3X4</span><span class="p">,</span> <span class="nv">darkTheme</span><span class="p">:</span> <span class="kt">Bool</span> <span class="o">=</span> <span class="kc">false</span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">aspectRatio</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-aspectratio">AspectRatio</a></span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-aspectratio">AspectRatio</a></span><span class="o">.</span><span class="n">aspectRatio3X4</span><span class="p">,</span> <span class="nv">darkTheme</span><span class="p">:</span> <span class="kt">Bool</span> <span class="o">=</span> <span class="kc">false</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>

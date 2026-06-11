@@ -1,5 +1,5 @@
 ---
-title: "MapData / TollPoint"
+title: "sdk-for-ios-navigate-api-reference-structs-tollpoint"
 slug: "sdk-for-ios-navigate-api-reference-structs-tollpoint"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-structs-tollpoint"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-mapdata">MapData</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-mapdata">MapData</a>
+<img alt="" id="carat" src="/carat.png"/>
         TollPoint Structure Reference
       </p>
 </div>
@@ -82,7 +82,7 @@ slug: "sdk-for-ios-navigate-api-reference-structs-tollpoint"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">structureManeuvers</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-tollstructuremaneuver">TollStructureManeuver</a></span><span class="p">]</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">structureManeuvers</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-tollstructuremaneuver">TollStructureManeuver</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -107,7 +107,7 @@ slug: "sdk-for-ios-navigate-api-reference-structs-tollpoint"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">offsetInMeters</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">,</span> <span class="nv">structureManeuvers</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-tollstructuremaneuver">TollStructureManeuver</a></span><span class="p">])</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">offsetInMeters</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">,</span> <span class="nv">structureManeuvers</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-tollstructuremaneuver">TollStructureManeuver</a></span><span class="p">])</span></code></pre>
 </div>
 </div>
 </section>

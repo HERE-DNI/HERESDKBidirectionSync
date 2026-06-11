@@ -1,5 +1,5 @@
 ---
-title: "Routing / PrefetchStatusListener"
+title: "sdk-for-ios-navigate-api-reference-protocols-prefetchstatuslistener"
 slug: "sdk-for-ios-navigate-api-reference-protocols-prefetchstatuslistener"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-prefetchstatuslistener"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-routing">Routing</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-routing">Routing</a>
+<img alt="" id="carat" src="/carat.png"/>
         PrefetchStatusListener Protocol Reference
       </p>
 </div>
@@ -104,7 +104,7 @@ Invoked on the main thread.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">onComplete</span><span class="p">(</span><span class="nv">error</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-maploadererror">MapLoaderError</a></span><span class="p">?)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">onComplete</span><span class="p">(</span><span class="nv">error</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-maploadererror">MapLoaderError</a></span><span class="p">?)</span></code></pre>
 </div>
 </div>
 <div>

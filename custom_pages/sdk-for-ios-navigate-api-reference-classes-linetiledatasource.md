@@ -1,5 +1,5 @@
 ---
-title: "Maps / LineTileDataSource"
+title: "sdk-for-ios-navigate-api-reference-classes-linetiledatasource"
 slug: "sdk-for-ios-navigate-api-reference-classes-linetiledatasource"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-classes-linetiledatasource"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-maps">Maps</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-maps">Maps</a>
+<img alt="" id="carat" src="/carat.png"/>
         LineTileDataSource Class Reference
       </p>
 </div>
@@ -36,7 +36,7 @@ slug: "sdk-for-ios-navigate-api-reference-classes-linetiledatasource"
 </div>
 </div>
 <p>Line tile data source allows the rendering engine access to user managed data sets of
-geodetic lines and their attributes through a <code><a href="sdk-for-ios-navigate-api-reference-..-protocols-linetilesource">LineTileSource</a></code>.</p>
+geodetic lines and their attributes through a <code><a href="sdk-for-ios-navigate-api-reference-protocols-linetilesource">LineTileSource</a></code>.</p>
 <p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
 behavior. Related APIs may change for new releases without a deprecation process.</p>
 </section>
@@ -56,13 +56,13 @@ behavior. Related APIs may change for new releases without a deprecation process
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Creates a named <code>LineTileDataSource</code> in the given context over a given <code><a href="sdk-for-ios-navigate-api-reference-..-protocols-linetilesource">LineTileSource</a></code>.</p>
+<p>Creates a named <code>LineTileDataSource</code> in the given context over a given <code><a href="sdk-for-ios-navigate-api-reference-protocols-linetilesource">LineTileSource</a></code>.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="kd">func</span> <span class="nf">create</span><span class="p">(</span><span class="nv">context</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-mapcontext">MapContext</a></span><span class="p">,</span> <span class="nv">name</span><span class="p">:</span> <span class="kt">String</span><span class="p">,</span> <span class="nv">tileSource</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-linetilesource">LineTileSource</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">LineTileDataSource</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="kd">func</span> <span class="nf">create</span><span class="p">(</span><span class="nv">context</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-mapcontext">MapContext</a></span><span class="p">,</span> <span class="nv">name</span><span class="p">:</span> <span class="kt">String</span><span class="p">,</span> <span class="nv">tileSource</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-linetilesource">LineTileSource</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">LineTileDataSource</span></code></pre>
 </div>
 </div>
 <div>

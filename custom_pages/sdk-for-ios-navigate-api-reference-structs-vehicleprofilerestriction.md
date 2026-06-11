@@ -1,5 +1,5 @@
 ---
-title: "Other Structures / VehicleProfileRestriction"
+title: "sdk-for-ios-navigate-api-reference-structs-vehicleprofilerestriction"
 slug: "sdk-for-ios-navigate-api-reference-structs-vehicleprofilerestriction"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-structs-vehicleprofilerestriction"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-other%20structs">Other Structures</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-other%20structs">Other Structures</a>
+<img alt="" id="carat" src="/carat.png"/>
         VehicleProfileRestriction Structure Reference
       </p>
 </div>
@@ -59,7 +59,7 @@ behaviors. Related APIs may change for new releases without a deprecation proces
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">requestedVehicleType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-vehicletypecondition">VehicleTypeCondition</a></span><span class="p">?</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">requestedVehicleType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-vehicletypecondition">VehicleTypeCondition</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -84,7 +84,7 @@ behaviors. Related APIs may change for new releases without a deprecation proces
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">requiredWeightInKilograms</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-integerrange">IntegerRange</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">requiredWeightInKilograms</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-integerrange">IntegerRange</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -109,7 +109,7 @@ behaviors. Related APIs may change for new releases without a deprecation proces
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">requiredGrossWeightInKilograms</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-integerrange">IntegerRange</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">requiredGrossWeightInKilograms</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-integerrange">IntegerRange</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -134,7 +134,7 @@ behaviors. Related APIs may change for new releases without a deprecation proces
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">requiredAmountOfTrailers</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-integerrange">IntegerRange</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">requiredAmountOfTrailers</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-integerrange">IntegerRange</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -159,7 +159,7 @@ behaviors. Related APIs may change for new releases without a deprecation proces
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">hazardousMaterial</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-hazardousmaterialtype">HazardousMaterialType</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">hazardousMaterial</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-hazardousmaterialtype">HazardousMaterialType</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -184,7 +184,7 @@ behaviors. Related APIs may change for new releases without a deprecation proces
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">requestedVehicleType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-vehicletypecondition">VehicleTypeCondition</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">requiredWeightInKilograms</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-integerrange">IntegerRange</a></span><span class="p">,</span> <span class="nv">requiredGrossWeightInKilograms</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-integerrange">IntegerRange</a></span><span class="p">,</span> <span class="nv">requiredAmountOfTrailers</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-integerrange">IntegerRange</a></span><span class="p">,</span> <span class="nv">hazardousMaterial</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-hazardousmaterialtype">HazardousMaterialType</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">requestedVehicleType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-vehicletypecondition">VehicleTypeCondition</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">requiredWeightInKilograms</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-integerrange">IntegerRange</a></span><span class="p">,</span> <span class="nv">requiredGrossWeightInKilograms</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-integerrange">IntegerRange</a></span><span class="p">,</span> <span class="nv">requiredAmountOfTrailers</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-integerrange">IntegerRange</a></span><span class="p">,</span> <span class="nv">hazardousMaterial</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-hazardousmaterialtype">HazardousMaterialType</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>

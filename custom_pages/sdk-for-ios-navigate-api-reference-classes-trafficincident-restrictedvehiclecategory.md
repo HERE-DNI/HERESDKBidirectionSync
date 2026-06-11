@@ -1,5 +1,5 @@
 ---
-title: "TrafficIncident / RestrictedVehicleCategory"
+title: "sdk-for-ios-navigate-api-reference-classes-trafficincident-restrictedvehiclecategory"
 slug: "sdk-for-ios-navigate-api-reference-classes-trafficincident-restrictedvehiclecategory"
 ---
 
@@ -15,12 +15,12 @@ slug: "sdk-for-ios-navigate-api-reference-classes-trafficincident-restrictedvehi
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-..-index">heresdk</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-..-traffic">Traffic</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-..-classes-trafficincident">TrafficIncident</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-traffic">Traffic</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-classes-trafficincident">TrafficIncident</a>
+<img alt="" id="carat" src="/carat.png"/>
         RestrictedVehicleCategory Enumeration Reference
       </p>
 </div>
@@ -39,7 +39,7 @@ slug: "sdk-for-ios-navigate-api-reference-classes-trafficincident-restrictedvehi
 Note, a vehicle can belong to several categories (e.g. a passenger motor car
 belongs to <code><a href="../../Classes/TrafficIncident/RestrictedVehicleCategory.html#/s:7heresdk15TrafficIncidentC25RestrictedVehicleCategoryO3caryA2EmF">TrafficIncident.RestrictedVehicleCategory.car</a></code>, <code><a href="../../Classes/TrafficIncident/RestrictedVehicleCategory.html#/s:7heresdk15TrafficIncidentC25RestrictedVehicleCategoryO05motorE0yA2EmF">TrafficIncident.RestrictedVehicleCategory.motorVehicle</a></code>, and <code><a href="../../Classes/TrafficIncident/RestrictedVehicleCategory.html#/s:7heresdk15TrafficIncidentC25RestrictedVehicleCategoryO3allyA2EmF">TrafficIncident.RestrictedVehicleCategory.all</a></code>).
 A vehicle is restricted if it belongs to the category presented in the map <code><a href="../../Classes/TrafficIncident.html#/s:7heresdk15TrafficIncidentC19vehicleRestrictionsSDyAC25RestrictedVehicleCategoryOAC0G11RestrictionVGvp">TrafficIncident.vehicleRestrictions</a></code>
-and at least one of the vehicle properties is under the matching <code><a href="sdk-for-ios-navigate-api-reference-..-..-classes-trafficincident-vehiclerestriction">TrafficIncident.VehicleRestriction</a></code>.</p>
+and at least one of the vehicle properties is under the matching <code><a href="sdk-for-ios-navigate-api-reference-classes-trafficincident-vehiclerestriction">TrafficIncident.VehicleRestriction</a></code>.</p>
 </section>
 <section class="section task-group-section">
 <div class="task-group">

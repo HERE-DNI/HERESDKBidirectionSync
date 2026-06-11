@@ -1,5 +1,5 @@
 ---
-title: "Search / PlaceFoodType"
+title: "sdk-for-ios-navigate-api-reference-structs-placefoodtype"
 slug: "sdk-for-ios-navigate-api-reference-structs-placefoodtype"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-structs-placefoodtype"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-search">Search</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-search">Search</a>
+<img alt="" id="carat" src="/carat.png"/>
         PlaceFoodType Structure Reference
       </p>
 </div>
@@ -80,7 +80,7 @@ The complete list of supported food type IDs can be found
 <div class="pointer"></div>
 <div class="abstract">
 <p>Name of the food type in the requested language.
-Ignored when used in <code><a href="sdk-for-ios-navigate-api-reference-..-structs-placefilter">PlaceFilter</a></code>.</p>
+Ignored when used in <code><a href="sdk-for-ios-navigate-api-reference-structs-placefilter">PlaceFilter</a></code>.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>

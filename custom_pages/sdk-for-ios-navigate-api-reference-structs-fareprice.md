@@ -1,5 +1,5 @@
 ---
-title: "Routing / FarePrice"
+title: "sdk-for-ios-navigate-api-reference-structs-fareprice"
 slug: "sdk-for-ios-navigate-api-reference-structs-fareprice"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-structs-fareprice"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-routing">Routing</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-routing">Routing</a>
+<img alt="" id="carat" src="/carat.png"/>
         FarePrice Structure Reference
       </p>
 </div>
@@ -58,7 +58,7 @@ Defaults to <code><a href="../Enums/FarePriceType.html#/s:7heresdk13FarePriceTyp
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">type</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-farepricetype">FarePriceType</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">type</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-farepricetype">FarePriceType</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -188,7 +188,7 @@ Defaults to 0.</p>
 <p>3600 seconds - price for one hour</p>
 <p>28800 seconds - price for eight hours</p>
 <p>86400 seconds - price for one day</p>
-<p><strong>Note:</strong> When the ticket validity period starts depends on the <code><a href="sdk-for-ios-navigate-api-reference-..-structs-agency">Agency</a></code> providing the service.
+<p><strong>Note:</strong> When the ticket validity period starts depends on the <code><a href="sdk-for-ios-navigate-api-reference-structs-agency">Agency</a></code> providing the service.
 Defaults to <code>nil</code>.</p>
 </div>
 <div class="declaration">
@@ -236,7 +236,7 @@ Defaults to 0.</li>
 <p>3600 seconds - price for one hour</p>
 <p>28800 seconds - price for eight hours</p>
 <p>86400 seconds - price for one day</p>
-<p><strong>Note:</strong> When the ticket validity period starts depends on the <code><a href="sdk-for-ios-navigate-api-reference-..-structs-agency">Agency</a></code> providing the service.
+<p><strong>Note:</strong> When the ticket validity period starts depends on the <code><a href="sdk-for-ios-navigate-api-reference-structs-agency">Agency</a></code> providing the service.
   Defaults to <code>nil</code>.</p></li>
 </ul>
 </div>
@@ -244,7 +244,7 @@ Defaults to 0.</li>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">type</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-farepricetype">FarePriceType</a></span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-farepricetype">FarePriceType</a></span><span class="o">.</span><span class="n">value</span><span class="p">,</span> <span class="nv">estimated</span><span class="p">:</span> <span class="kt">Bool</span> <span class="o">=</span> <span class="kc">false</span><span class="p">,</span> <span class="nv">currency</span><span class="p">:</span> <span class="kt">String</span> <span class="o">=</span> <span class="s">"EUR"</span><span class="p">,</span> <span class="nv">minimum</span><span class="p">:</span> <span class="kt">Double</span> <span class="o">=</span> <span class="mf">0.0</span><span class="p">,</span> <span class="nv">maximum</span><span class="p">:</span> <span class="kt">Double</span> <span class="o">=</span> <span class="mf">0.0</span><span class="p">,</span> <span class="nv">validityPeriod</span><span class="p">:</span> <span class="kt">TimeInterval</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">type</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-farepricetype">FarePriceType</a></span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-farepricetype">FarePriceType</a></span><span class="o">.</span><span class="n">value</span><span class="p">,</span> <span class="nv">estimated</span><span class="p">:</span> <span class="kt">Bool</span> <span class="o">=</span> <span class="kc">false</span><span class="p">,</span> <span class="nv">currency</span><span class="p">:</span> <span class="kt">String</span> <span class="o">=</span> <span class="s">"EUR"</span><span class="p">,</span> <span class="nv">minimum</span><span class="p">:</span> <span class="kt">Double</span> <span class="o">=</span> <span class="mf">0.0</span><span class="p">,</span> <span class="nv">maximum</span><span class="p">:</span> <span class="kt">Double</span> <span class="o">=</span> <span class="mf">0.0</span><span class="p">,</span> <span class="nv">validityPeriod</span><span class="p">:</span> <span class="kt">TimeInterval</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>

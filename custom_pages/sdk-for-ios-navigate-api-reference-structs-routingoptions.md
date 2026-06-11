@@ -1,5 +1,5 @@
 ---
-title: "Routing / RoutingOptions"
+title: "sdk-for-ios-navigate-api-reference-structs-routingoptions"
 slug: "sdk-for-ios-navigate-api-reference-structs-routingoptions"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-structs-routingoptions"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-routing">Routing</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-routing">Routing</a>
+<img alt="" id="carat" src="/carat.png"/>
         RoutingOptions Structure Reference
       </p>
 </div>
@@ -49,9 +49,9 @@ from <code><a href="../Structs/RoutingOptions.html#/s:7heresdk14RoutingOptionsV2
 </ul></li>
 <li>EmpiricalConsumptionModel</li>
 </ul>
-<p>By setting <code><a href="../Structs/ElectricVehicleOptions.html#/s:7heresdk22ElectricVehicleOptionsV18ensureReachabilitySbvp">ElectricVehicleOptions.ensureReachability</a></code> the <code><a href="sdk-for-ios-navigate-api-reference-..-classes-routingengine">RoutingEngine</a></code> inserts additional charging stations
+<p>By setting <code><a href="../Structs/ElectricVehicleOptions.html#/s:7heresdk22ElectricVehicleOptionsV18ensureReachabilitySbvp">ElectricVehicleOptions.ensureReachability</a></code> the <code><a href="sdk-for-ios-navigate-api-reference-classes-routingengine">RoutingEngine</a></code> inserts additional charging stations
 to reach the waypoints.
-This feature requires setting the <code><a href="sdk-for-ios-navigate-api-reference-..-structs-batteryspecifications">BatterySpecifications</a></code>.
+This feature requires setting the <code><a href="sdk-for-ios-navigate-api-reference-structs-batteryspecifications">BatterySpecifications</a></code>.
 By default a vehicle might not reach the waypoint, when the initial charge is not enough to reach all waypoints.
 See the parameter description below for more details.</p>
 </section>
@@ -79,7 +79,7 @@ for the transport mode chosen.
 <li>By default all vehicle specifications from <code>RoutingOptions.transportSpecification</code> are set to <code>nil</code> and the
 <code><a href="../Structs/TransportSpecification.html#/s:7heresdk22TransportSpecificationV13transportModeAA0bE0Ovp">TransportSpecification.transportMode</a></code> from <code>RoutingOptions.transportSpecification</code> is set to <code><a href="../Enums/TransportMode.html#/s:7heresdk13TransportModeO3caryA2CmF">TransportMode.car</a></code>.</li>
 <li>A route can be calculated with only the <code><a href="../Structs/TransportSpecification.html#/s:7heresdk22TransportSpecificationV13transportModeAA0bE0Ovp">TransportSpecification.transportMode</a></code> from <code>RoutingOptions.transportSpecification</code> set.</li>
-<li>It is highly recommended to define the <code><a href="sdk-for-ios-navigate-api-reference-..-enums-truckcategory">TruckCategory</a></code> that is being used in <code><a href="../Structs/VehicleSpecification.html#/s:7heresdk20VehicleSpecificationV13truckCategoryAA05TruckE0OSgvp">VehicleSpecification.truckCategory</a></code> from
+<li>It is highly recommended to define the <code><a href="sdk-for-ios-navigate-api-reference-enums-truckcategory">TruckCategory</a></code> that is being used in <code><a href="../Structs/VehicleSpecification.html#/s:7heresdk20VehicleSpecificationV13truckCategoryAA05TruckE0OSgvp">VehicleSpecification.truckCategory</a></code> from
 <code><a href="../Structs/TransportSpecification.html#/s:7heresdk22TransportSpecificationV07vehicleC0AA07VehicleC0VSgvp">TransportSpecification.vehicleSpecification</a></code> from <code>RoutingOptions.transportSpecification</code>, if the
 <code><a href="../Structs/TransportSpecification.html#/s:7heresdk22TransportSpecificationV13transportModeAA0bE0Ovp">TransportSpecification.transportMode</a></code> from <code>RoutingOptions.transportSpecification</code> is set to <code><a href="../Enums/TransportMode.html#/s:7heresdk13TransportModeO5truckyA2CmF">TransportMode.truck</a></code>.</li>
 <li>The <code><a href="../Structs/VehicleSpecification.html#/s:7heresdk20VehicleSpecificationV9occupancys5Int32VSgvp">VehicleSpecification.occupancy</a></code> from <code><a href="../Structs/TransportSpecification.html#/s:7heresdk22TransportSpecificationV07vehicleC0AA07VehicleC0VSgvp">TransportSpecification.vehicleSpecification</a></code> won’t have effect
@@ -87,7 +87,7 @@ if HOV and/or HOT lane usage is not allowed using <code><a href="../Structs/EVTr
 <li>The <code><a href="../Structs/PedestrianSpecification.html#/s:7heresdk23PedestrianSpecificationV29walkingSpeedInMetersPerSecondSdvp">PedestrianSpecification.walkingSpeedInMetersPerSecond</a></code> from <code><a href="../Structs/TransportSpecification.html#/s:7heresdk22TransportSpecificationV010pedestrianC0AA010PedestrianC0VSgvp">TransportSpecification.pedestrianSpecification</a></code>
 if present, will be used by the service as the walking speed for pedestrian routing. It influences the duration of walking
 along the route. The provided value must be in the range [0.5, 2.0]. When the value is outside this
-range, an invalid parameter error is raised. Refer to <code><a href="sdk-for-ios-navigate-api-reference-..-enums-routingerror">RoutingError</a></code> for details. The
+range, an invalid parameter error is raised. Refer to <code><a href="sdk-for-ios-navigate-api-reference-enums-routingerror">RoutingError</a></code> for details. The
 default speed is 1 meter per second.</li>
 </ul>
 </div>
@@ -95,7 +95,7 @@ default speed is 1 meter per second.</li>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">transportSpecification</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-transportspecification">TransportSpecification</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">transportSpecification</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-transportspecification">TransportSpecification</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -120,7 +120,7 @@ default speed is 1 meter per second.</li>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">routeOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-routeoptions">RouteOptions</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">routeOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-routeoptions">RouteOptions</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -146,7 +146,7 @@ as localization, format, and unit system.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">textOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-routetextoptions">RouteTextOptions</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">textOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-routetextoptions">RouteTextOptions</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -172,7 +172,7 @@ By default no restrictions are applied.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">avoidanceOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-avoidanceoptions">AvoidanceOptions</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">avoidanceOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-avoidanceoptions">AvoidanceOptions</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -198,7 +198,7 @@ By default no options are opt in.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">allowOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-allowoptions">AllowOptions</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">allowOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-allowoptions">AllowOptions</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -225,7 +225,7 @@ such as transponders, vehicle category, and emission type.
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">tollOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-tolloptions">TollOptions</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">tollOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-tolloptions">TollOptions</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -251,7 +251,7 @@ such as transponders, vehicle category, and emission type.
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">maxSpeedOnSegments</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-maxspeedonsegment">MaxSpeedOnSegment</a></span><span class="p">]</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">maxSpeedOnSegments</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-maxspeedonsegment">MaxSpeedOnSegment</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -277,7 +277,7 @@ When no EV options are defined an internal combustion engine is assumed.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">evOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-electricvehicleoptions">ElectricVehicleOptions</a></span><span class="p">?</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">evOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-electricvehicleoptions">ElectricVehicleOptions</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -302,7 +302,7 @@ When no EV options are defined an internal combustion engine is assumed.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">transportSpecification</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-transportspecification">TransportSpecification</a></span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-transportspecification">TransportSpecification</a></span><span class="p">(),</span> <span class="nv">routeOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-routeoptions">RouteOptions</a></span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-routeoptions">RouteOptions</a></span><span class="p">(),</span> <span class="nv">textOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-routetextoptions">RouteTextOptions</a></span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-routetextoptions">RouteTextOptions</a></span><span class="p">(),</span> <span class="nv">avoidanceOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-avoidanceoptions">AvoidanceOptions</a></span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-avoidanceoptions">AvoidanceOptions</a></span><span class="p">(),</span> <span class="nv">allowOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-allowoptions">AllowOptions</a></span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-allowoptions">AllowOptions</a></span><span class="p">(),</span> <span class="nv">tollOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-tolloptions">TollOptions</a></span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-tolloptions">TollOptions</a></span><span class="p">(),</span> <span class="nv">maxSpeedOnSegments</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-maxspeedonsegment">MaxSpeedOnSegment</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">evOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-electricvehicleoptions">ElectricVehicleOptions</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">transportSpecification</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-transportspecification">TransportSpecification</a></span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-transportspecification">TransportSpecification</a></span><span class="p">(),</span> <span class="nv">routeOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-routeoptions">RouteOptions</a></span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-routeoptions">RouteOptions</a></span><span class="p">(),</span> <span class="nv">textOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-routetextoptions">RouteTextOptions</a></span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-routetextoptions">RouteTextOptions</a></span><span class="p">(),</span> <span class="nv">avoidanceOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-avoidanceoptions">AvoidanceOptions</a></span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-avoidanceoptions">AvoidanceOptions</a></span><span class="p">(),</span> <span class="nv">allowOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-allowoptions">AllowOptions</a></span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-allowoptions">AllowOptions</a></span><span class="p">(),</span> <span class="nv">tollOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-tolloptions">TollOptions</a></span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-tolloptions">TollOptions</a></span><span class="p">(),</span> <span class="nv">maxSpeedOnSegments</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-maxspeedonsegment">MaxSpeedOnSegment</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">evOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-electricvehicleoptions">ElectricVehicleOptions</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>
@@ -324,7 +324,7 @@ When no EV options are defined an internal combustion engine is assumed.</p>
 <p>Returns the default configuration for the transport specification selected in <code><a href="../Structs/ParameterConfiguration.html#/s:7heresdk22ParameterConfigurationV22transportSpecificationAA09TransportE0Vvp">ParameterConfiguration.transportSpecification</a></code>
 from <code><a href="../Classes/SDKNativeEngine.html#/s:7heresdk15SDKNativeEngineC15parameterConfigAA22ParameterConfigurationVvpZ">SDKNativeEngine.parameterConfig</a></code>.
 <strong>Note</strong> By default, the [sdk.core.ParameterConfiguration.transport_specification] from [sdk.core.engine.SDKNativeEngine.parameter_config]
-will return a valid <code><a href="sdk-for-ios-navigate-api-reference-..-structs-transportspecification">TransportSpecification</a></code> object with the [sdk.transport.TransportSpecification.transport_mode]
+will return a valid <code><a href="sdk-for-ios-navigate-api-reference-structs-transportspecification">TransportSpecification</a></code> object with the [sdk.transport.TransportSpecification.transport_mode]
 set to <code><a href="../Enums/TransportMode.html#/s:7heresdk13TransportModeO3caryA2CmF">TransportMode.car</a></code>.</p>
 </div>
 <div class="declaration">

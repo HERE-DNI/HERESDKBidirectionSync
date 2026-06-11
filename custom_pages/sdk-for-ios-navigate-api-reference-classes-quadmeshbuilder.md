@@ -1,5 +1,5 @@
 ---
-title: "Maps / QuadMeshBuilder"
+title: "sdk-for-ios-navigate-api-reference-classes-quadmeshbuilder"
 slug: "sdk-for-ios-navigate-api-reference-classes-quadmeshbuilder"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-classes-quadmeshbuilder"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-maps">Maps</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-maps">Maps</a>
+<img alt="" id="carat" src="/carat.png"/>
         QuadMeshBuilder Class Reference
       </p>
 </div>
@@ -30,7 +30,7 @@ slug: "sdk-for-ios-navigate-api-reference-classes-quadmeshbuilder"
 <h1>QuadMeshBuilder</h1>
 <div class="declaration">
 <div class="language">
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">QuadMeshBuilder</span> <span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-meshbuilder">MeshBuilder</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">QuadMeshBuilder</span> <span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-meshbuilder">MeshBuilder</a></span></code></pre>
 </div>
 </div>
 <p>Builder for a single quad.</p>
@@ -58,7 +58,7 @@ representing the bottom-left and <code>&lt;1,1&gt;</code> upper-right corner.</p
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">withTextureCoordinates</span><span class="p">(</span><span class="nv">a</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-anchor2d">Anchor2D</a></span><span class="p">,</span> <span class="nv">b</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-anchor2d">Anchor2D</a></span><span class="p">,</span> <span class="nv">c</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-anchor2d">Anchor2D</a></span><span class="p">,</span> <span class="nv">d</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-anchor2d">Anchor2D</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-meshbuilder">MeshBuilder</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">withTextureCoordinates</span><span class="p">(</span><span class="nv">a</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-anchor2d">Anchor2D</a></span><span class="p">,</span> <span class="nv">b</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-anchor2d">Anchor2D</a></span><span class="p">,</span> <span class="nv">c</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-anchor2d">Anchor2D</a></span><span class="p">,</span> <span class="nv">d</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-anchor2d">Anchor2D</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-meshbuilder">MeshBuilder</a></span></code></pre>
 </div>
 </div>
 <div>
@@ -118,7 +118,7 @@ representing the bottom-left and <code>&lt;1,1&gt;</code> upper-right corner.</p
 </div>
 <div>
 <h4>Return Value</h4>
-<p>A <code><a href="sdk-for-ios-navigate-api-reference-..-classes-meshbuilder">MeshBuilder</a></code> instance.</p>
+<p>A <code><a href="sdk-for-ios-navigate-api-reference-classes-meshbuilder">MeshBuilder</a></code> instance.</p>
 </div>
 </section>
 </div>

@@ -1,5 +1,5 @@
 ---
-title: "Venues / VenueMapLifecycleDelegate"
+title: "sdk-for-ios-navigate-api-reference-protocols-venuemaplifecycledelegate"
 slug: "sdk-for-ios-navigate-api-reference-protocols-venuemaplifecycledelegate"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-venuemaplifecycledelegate"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-venues">Venues</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-venues">Venues</a>
+<img alt="" id="carat" src="/carat.png"/>
         VenueMapLifecycleDelegate Protocol Reference
       </p>
 </div>
@@ -34,7 +34,7 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-venuemaplifecycledelegate"
 </div>
 </div>
 <p>The protocol for delegates for
-the <code><a href="sdk-for-ios-navigate-api-reference-..-classes-venue">Venue</a></code> lifecycle events. Use the <code><a href="sdk-for-ios-navigate-api-reference-..-classes-venuemap">VenueMap</a></code>
+the <code><a href="sdk-for-ios-navigate-api-reference-classes-venue">Venue</a></code> lifecycle events. Use the <code><a href="sdk-for-ios-navigate-api-reference-classes-venuemap">VenueMap</a></code>
 to add and remove the <code>VenueMapLifecycleDelegate</code>.</p>
 </section>
 <section class="section task-group-section">
@@ -53,13 +53,13 @@ to add and remove the <code>VenueMapLifecycleDelegate</code>.</p>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Indicates that a <code><a href="sdk-for-ios-navigate-api-reference-..-classes-venue">Venue</a></code> was added to the <code><a href="sdk-for-ios-navigate-api-reference-..-classes-venuemap">VenueMap</a></code>.</p>
+<p>Indicates that a <code><a href="sdk-for-ios-navigate-api-reference-classes-venue">Venue</a></code> was added to the <code><a href="sdk-for-ios-navigate-api-reference-classes-venuemap">VenueMap</a></code>.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">onVenueAdded</span><span class="p">(</span><span class="nv">venue</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-venue">Venue</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">onVenueAdded</span><span class="p">(</span><span class="nv">venue</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-venue">Venue</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -74,7 +74,7 @@ to add and remove the <code>VenueMapLifecycleDelegate</code>.</p>
 </td>
 <td>
 <div>
-<p>The created <code><a href="sdk-for-ios-navigate-api-reference-..-classes-venue">Venue</a></code>.</p>
+<p>The created <code><a href="sdk-for-ios-navigate-api-reference-classes-venue">Venue</a></code>.</p>
 </div>
 </td>
 </tr>
@@ -97,7 +97,7 @@ to add and remove the <code>VenueMapLifecycleDelegate</code>.</p>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Indicates that a <code><a href="sdk-for-ios-navigate-api-reference-..-classes-venue">Venue</a></code> was removed from the <code><a href="sdk-for-ios-navigate-api-reference-..-classes-venuemap">VenueMap</a></code>.</p>
+<p>Indicates that a <code><a href="sdk-for-ios-navigate-api-reference-classes-venue">Venue</a></code> was removed from the <code><a href="sdk-for-ios-navigate-api-reference-classes-venuemap">VenueMap</a></code>.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>

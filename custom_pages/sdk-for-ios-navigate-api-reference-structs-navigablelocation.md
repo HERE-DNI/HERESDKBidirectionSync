@@ -1,5 +1,5 @@
 ---
-title: "Navigation / NavigableLocation"
+title: "sdk-for-ios-navigate-api-reference-structs-navigablelocation"
 slug: "sdk-for-ios-navigate-api-reference-structs-navigablelocation"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-structs-navigablelocation"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-navigation">Navigation</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-navigation">Navigation</a>
+<img alt="" id="carat" src="/carat.png"/>
         NavigableLocation Structure Reference
       </p>
 </div>
@@ -51,13 +51,13 @@ slug: "sdk-for-ios-navigate-api-reference-structs-navigablelocation"
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>The original location that was passed in via <code><a href="sdk-for-ios-navigate-api-reference-..-protocols-locationdelegate">LocationDelegate</a></code>.</p>
+<p>The original location that was passed in via <code><a href="sdk-for-ios-navigate-api-reference-protocols-locationdelegate">LocationDelegate</a></code>.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">originalLocation</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-location">Location</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">originalLocation</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-location">Location</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -82,7 +82,7 @@ slug: "sdk-for-ios-navigate-api-reference-structs-navigablelocation"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">mapMatchedLocation</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-mapmatchedlocation">MapMatchedLocation</a></span><span class="p">?</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">mapMatchedLocation</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-mapmatchedlocation">MapMatchedLocation</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -107,7 +107,7 @@ slug: "sdk-for-ios-navigate-api-reference-structs-navigablelocation"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">originalLocation</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-location">Location</a></span><span class="p">,</span> <span class="nv">mapMatchedLocation</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-mapmatchedlocation">MapMatchedLocation</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">originalLocation</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-location">Location</a></span><span class="p">,</span> <span class="nv">mapMatchedLocation</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-mapmatchedlocation">MapMatchedLocation</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>

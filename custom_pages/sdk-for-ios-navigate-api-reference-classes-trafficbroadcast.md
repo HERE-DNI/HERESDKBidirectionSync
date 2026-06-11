@@ -1,5 +1,5 @@
 ---
-title: "TrafficRadio / TrafficBroadcast"
+title: "sdk-for-ios-navigate-api-reference-classes-trafficbroadcast"
 slug: "sdk-for-ios-navigate-api-reference-classes-trafficbroadcast"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-classes-trafficbroadcast"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-trafficradio">TrafficRadio</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-trafficradio">TrafficRadio</a>
+<img alt="" id="carat" src="/carat.png"/>
         TrafficBroadcast Class Reference
       </p>
 </div>
@@ -30,22 +30,22 @@ slug: "sdk-for-ios-navigate-api-reference-classes-trafficbroadcast"
 <h1>TrafficBroadcast</h1>
 <div class="declaration">
 <div class="language">
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">TrafficBroadcast</span> <span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-locationdelegate">LocationDelegate</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">TrafficBroadcast</span> <span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-locationdelegate">LocationDelegate</a></span></code></pre>
 <pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">TrafficBroadcast</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
 <pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">TrafficBroadcast</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>A <code>TrafficBroadcast</code> is expecting the <a href="https://en.wikipedia.org/wiki/Traffic_message_channel">RDS-TMC</a>
-format and it can be used when there is no internet connection, so that the <code><a href="sdk-for-ios-navigate-api-reference-..-classes-offlineroutingengine">OfflineRoutingEngine</a></code>
+format and it can be used when there is no internet connection, so that the <code><a href="sdk-for-ios-navigate-api-reference-classes-offlineroutingengine">OfflineRoutingEngine</a></code>
 can utilize traffic data coming over a radio channel. The <code><a href="../Classes/TrafficBroadcast.html#/s:7heresdk16TrafficBroadcastC8activateyyF">TrafficBroadcast.activate(...)</a></code> method needs to be called to
 receive traffic data events.</p>
 <p><strong>Note:</strong> In order to adopt the <code><a href="../Traffic.html#/s:7heresdk19TrafficDataProviderC">TrafficDataProvider</a></code> interface special hardware is required. Talk
 to your HERE representative for more details. Only by adopting the <code><a href="../Traffic.html#/s:7heresdk19TrafficDataProviderC">TrafficDataProvider</a></code> interface
 you can integrate radio station signals providing traffic broadcasts. Traffic broadcasts are meant
 to be used <em>independently</em> from the already included traffic on routes, on the map and from the
-HERE backends (when using the <code><a href="sdk-for-ios-navigate-api-reference-..-classes-trafficengine">TrafficEngine</a></code>).</p>
+HERE backends (when using the <code><a href="sdk-for-ios-navigate-api-reference-classes-trafficengine">TrafficEngine</a></code>).</p>
 <p>This class continuously reacts to new locations provided from a location source and acts as a
-<code><a href="sdk-for-ios-navigate-api-reference-..-protocols-locationdelegate">LocationDelegate</a></code>. The location must be updated regardless of calling <code><a href="../Classes/TrafficBroadcast.html#/s:7heresdk16TrafficBroadcastC8activateyyF">TrafficBroadcast.activate(...)</a></code>.</p>
+<code><a href="sdk-for-ios-navigate-api-reference-protocols-locationdelegate">LocationDelegate</a></code>. The location must be updated regardless of calling <code><a href="../Classes/TrafficBroadcast.html#/s:7heresdk16TrafficBroadcastC8activateyyF">TrafficBroadcast.activate(...)</a></code>.</p>
 <p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
 behaviors. Related APIs may change for new releases without a deprecation process.</p>
 </section>
@@ -76,7 +76,7 @@ behaviors. Related APIs may change for new releases without a deprecation proces
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">parameters</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-trafficbroadcastparameters">TrafficBroadcastParameters</a></span><span class="p">)</span> <span class="k">throws</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">parameters</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-trafficbroadcastparameters">TrafficBroadcastParameters</a></span><span class="p">)</span> <span class="k">throws</span></code></pre>
 </div>
 </div>
 <div>
@@ -125,7 +125,7 @@ behaviors. Related APIs may change for new releases without a deprecation proces
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">_</span> <span class="nv">sdkEngine</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-sdknativeengine">SDKNativeEngine</a></span><span class="p">,</span> <span class="nv">parameters</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-trafficbroadcastparameters">TrafficBroadcastParameters</a></span><span class="p">)</span> <span class="k">throws</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">_</span> <span class="nv">sdkEngine</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-sdknativeengine">SDKNativeEngine</a></span><span class="p">,</span> <span class="nv">parameters</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-trafficbroadcastparameters">TrafficBroadcastParameters</a></span><span class="p">)</span> <span class="k">throws</span></code></pre>
 </div>
 </div>
 <div>
@@ -201,19 +201,19 @@ behaviors. Related APIs may change for new releases without a deprecation proces
 <div class="pointer"></div>
 <div class="abstract">
 <p>Called each time a new location is available.
-In a navigation context while using the <code><a href="sdk-for-ios-navigate-api-reference-..-classes-navigator">Navigator</a></code> or <code><a href="sdk-for-ios-navigate-api-reference-..-classes-visualnavigator">VisualNavigator</a></code>,
-it’s required to set the <code><a href="../Structs/Location.html#/s:7heresdk8LocationV4time10Foundation4DateVSgvp">Location.time</a></code> parameter for each <code><a href="sdk-for-ios-navigate-api-reference-..-structs-location">Location</a></code>
+In a navigation context while using the <code><a href="sdk-for-ios-navigate-api-reference-classes-navigator">Navigator</a></code> or <code><a href="sdk-for-ios-navigate-api-reference-classes-visualnavigator">VisualNavigator</a></code>,
+it’s required to set the <code><a href="../Structs/Location.html#/s:7heresdk8LocationV4time10Foundation4DateVSgvp">Location.time</a></code> parameter for each <code><a href="sdk-for-ios-navigate-api-reference-structs-location">Location</a></code>
 object so that the HERE SDK can map-match the locations properly.
 If the <code><a href="../Structs/Location.html#/s:7heresdk8LocationV4time10Foundation4DateVSgvp">Location.time</a></code> parameter is missing, the location will be ignored.
 For navigation, it is also recommended to provide the <code>bearing</code> and <code>speed</code>
-parameters for each <code><a href="sdk-for-ios-navigate-api-reference-..-structs-location">Location</a></code> object.
+parameters for each <code><a href="sdk-for-ios-navigate-api-reference-structs-location">Location</a></code> object.
 Invoked on the main thread.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">onLocationUpdated</span><span class="p">(</span><span class="n">_</span> <span class="nv">location</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-location">Location</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">onLocationUpdated</span><span class="p">(</span><span class="n">_</span> <span class="nv">location</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-location">Location</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -312,7 +312,7 @@ With special case of countryCode parameter = 0</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">onTMCServiceProviderInfoUpdated</span><span class="p">(</span><span class="nv">tmcServiceProdiverInfo</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-tmcserviceproviderinfo">TMCServiceProviderInfo</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">onTMCServiceProviderInfoUpdated</span><span class="p">(</span><span class="nv">tmcServiceProdiverInfo</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-tmcserviceproviderinfo">TMCServiceProviderInfo</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -356,7 +356,7 @@ With special case of countryCode parameter = 0</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">onTMCDataUpdated</span><span class="p">(</span><span class="nv">tmcData</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-tmcdata">TMCData</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">onTMCDataUpdated</span><span class="p">(</span><span class="nv">tmcData</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-tmcdata">TMCData</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>

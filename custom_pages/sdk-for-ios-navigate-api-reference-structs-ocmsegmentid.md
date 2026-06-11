@@ -1,5 +1,5 @@
 ---
-title: "MapData / OCMSegmentId"
+title: "sdk-for-ios-navigate-api-reference-structs-ocmsegmentid"
 slug: "sdk-for-ios-navigate-api-reference-structs-ocmsegmentid"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-structs-ocmsegmentid"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-mapdata">MapData</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-mapdata">MapData</a>
+<img alt="" id="carat" src="/carat.png"/>
         OCMSegmentId Structure Reference
       </p>
 </div>
@@ -33,7 +33,7 @@ slug: "sdk-for-ios-navigate-api-reference-structs-ocmsegmentid"
 <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">OCMSegmentId</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
-<p>OCM Segment ID of particular matched <code><a href="sdk-for-ios-navigate-api-reference-..-structs-segmentreference">SegmentReference</a></code> from OCM map,
+<p>OCM Segment ID of particular matched <code><a href="sdk-for-ios-navigate-api-reference-structs-segmentreference">SegmentReference</a></code> from OCM map,
 represented in form: Tile + Local ID’s .</p>
 <p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
 Related APIs may change for new releases without a deprecation process.</p>

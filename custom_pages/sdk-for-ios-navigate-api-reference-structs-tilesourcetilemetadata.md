@@ -1,5 +1,5 @@
 ---
-title: "Maps / TileSourceTileMetadata"
+title: "sdk-for-ios-navigate-api-reference-structs-tilesourcetilemetadata"
 slug: "sdk-for-ios-navigate-api-reference-structs-tilesourcetilemetadata"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-structs-tilesourcetilemetadata"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-maps">Maps</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-maps">Maps</a>
+<img alt="" id="carat" src="/carat.png"/>
         TileSourceTileMetadata Structure Reference
       </p>
 </div>
@@ -57,7 +57,7 @@ slug: "sdk-for-ios-navigate-api-reference-structs-tilesourcetilemetadata"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">dataVersion</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-tilesourcedataversion">TileSourceDataVersion</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">dataVersion</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-tilesourcedataversion">TileSourceDataVersion</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -107,7 +107,7 @@ slug: "sdk-for-ios-navigate-api-reference-structs-tilesourcetilemetadata"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">dataVersion</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-tilesourcedataversion">TileSourceDataVersion</a></span><span class="p">,</span> <span class="nv">dataExpiryTimestamp</span><span class="p">:</span> <span class="kt">Date</span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">dataVersion</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-tilesourcedataversion">TileSourceDataVersion</a></span><span class="p">,</span> <span class="nv">dataExpiryTimestamp</span><span class="p">:</span> <span class="kt">Date</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>

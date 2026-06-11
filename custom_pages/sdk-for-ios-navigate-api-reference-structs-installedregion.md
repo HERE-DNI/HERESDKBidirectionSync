@@ -1,5 +1,5 @@
 ---
-title: "MapLoader / InstalledRegion"
+title: "sdk-for-ios-navigate-api-reference-structs-installedregion"
 slug: "sdk-for-ios-navigate-api-reference-structs-installedregion"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-structs-installedregion"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-maploader">MapLoader</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-maploader">MapLoader</a>
+<img alt="" id="carat" src="/carat.png"/>
         InstalledRegion Structure Reference
       </p>
 </div>
@@ -57,7 +57,7 @@ slug: "sdk-for-ios-navigate-api-reference-structs-installedregion"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">regionId</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-regionid">RegionId</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">regionId</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-regionid">RegionId</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -82,7 +82,7 @@ slug: "sdk-for-ios-navigate-api-reference-structs-installedregion"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">parentId</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-regionid">RegionId</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">parentId</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-regionid">RegionId</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -132,7 +132,7 @@ slug: "sdk-for-ios-navigate-api-reference-structs-installedregion"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">status</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-installedregionstatus">InstalledRegionStatus</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">status</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-installedregionstatus">InstalledRegionStatus</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -182,7 +182,7 @@ slug: "sdk-for-ios-navigate-api-reference-structs-installedregion"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">regionId</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-regionid">RegionId</a></span><span class="p">,</span> <span class="nv">parentId</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-regionid">RegionId</a></span><span class="p">,</span> <span class="nv">sizeOnDiskInBytes</span><span class="p">:</span> <span class="kt">Int64</span><span class="p">,</span> <span class="nv">status</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-installedregionstatus">InstalledRegionStatus</a></span><span class="p">,</span> <span class="nv">lastUpdateTime</span><span class="p">:</span> <span class="kt">Date</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">regionId</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-regionid">RegionId</a></span><span class="p">,</span> <span class="nv">parentId</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-regionid">RegionId</a></span><span class="p">,</span> <span class="nv">sizeOnDiskInBytes</span><span class="p">:</span> <span class="kt">Int64</span><span class="p">,</span> <span class="nv">status</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-installedregionstatus">InstalledRegionStatus</a></span><span class="p">,</span> <span class="nv">lastUpdateTime</span><span class="p">:</span> <span class="kt">Date</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>

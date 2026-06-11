@@ -1,5 +1,5 @@
 ---
-title: "LocationIndicator / MarkerType"
+title: "sdk-for-ios-navigate-api-reference-classes-locationindicator-markertype"
 slug: "sdk-for-ios-navigate-api-reference-classes-locationindicator-markertype"
 ---
 
@@ -15,12 +15,12 @@ slug: "sdk-for-ios-navigate-api-reference-classes-locationindicator-markertype"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-..-index">heresdk</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-..-maps">Maps</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-..-classes-locationindicator">LocationIndicator</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-maps">Maps</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-classes-locationindicator">LocationIndicator</a>
+<img alt="" id="carat" src="/carat.png"/>
         MarkerType Enumeration Reference
       </p>
 </div>

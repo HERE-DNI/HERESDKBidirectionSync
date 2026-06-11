@@ -1,5 +1,5 @@
 ---
-title: "ElectronicHorizon / ElectronicHorizonPath"
+title: "sdk-for-ios-navigate-api-reference-structs-electronichorizonpath"
 slug: "sdk-for-ios-navigate-api-reference-structs-electronichorizonpath"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-structs-electronichorizonpath"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-electronichorizon">ElectronicHorizon</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-electronichorizon">ElectronicHorizon</a>
+<img alt="" id="carat" src="/carat.png"/>
         ElectronicHorizonPath Structure Reference
       </p>
 </div>
@@ -111,7 +111,7 @@ The list can be empty when no segments are available for the current path.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">segments</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-electronichorizonsegment">ElectronicHorizonSegment</a></span><span class="p">]</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">segments</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-electronichorizonsegment">ElectronicHorizonSegment</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -187,7 +187,7 @@ The list can be empty when no segments are available for the current path.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">parentPathIndex</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">parentSegmentIndex</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">segments</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-electronichorizonsegment">ElectronicHorizonSegment</a></span><span class="p">],</span> <span class="nv">probability</span><span class="p">:</span> <span class="kt">Double</span><span class="p">,</span> <span class="nv">level</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">parentPathIndex</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">parentSegmentIndex</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">segments</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-electronichorizonsegment">ElectronicHorizonSegment</a></span><span class="p">],</span> <span class="nv">probability</span><span class="p">:</span> <span class="kt">Double</span><span class="p">,</span> <span class="nv">level</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>

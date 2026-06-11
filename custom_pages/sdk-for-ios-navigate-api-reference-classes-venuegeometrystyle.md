@@ -1,5 +1,5 @@
 ---
-title: "Venues / VenueGeometryStyle"
+title: "sdk-for-ios-navigate-api-reference-classes-venuegeometrystyle"
 slug: "sdk-for-ios-navigate-api-reference-classes-venuegeometrystyle"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-classes-venuegeometrystyle"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-venues">Venues</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-venues">Venues</a>
+<img alt="" id="carat" src="/carat.png"/>
         VenueGeometryStyle Class Reference
       </p>
 </div>
@@ -35,7 +35,7 @@ slug: "sdk-for-ios-navigate-api-reference-classes-venuegeometrystyle"
 <pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">VenueGeometryStyle</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
-<p>Represents a style of the <code><a href="sdk-for-ios-navigate-api-reference-..-classes-venuegeometry">VenueGeometry</a></code>.</p>
+<p>Represents a style of the <code><a href="sdk-for-ios-navigate-api-reference-classes-venuegeometry">VenueGeometry</a></code>.</p>
 </section>
 <section class="section task-group-section">
 <div class="task-group">
@@ -197,7 +197,7 @@ slug: "sdk-for-ios-navigate-api-reference-classes-venuegeometrystyle"
 <div class="pointer"></div>
 <div class="abstract">
 <p>The label style name.
-Defaults tonull, if a label style name
+Defaults to`null, if a label style name
 has not been set for this style.</p>
 </div>
 <div class="declaration">

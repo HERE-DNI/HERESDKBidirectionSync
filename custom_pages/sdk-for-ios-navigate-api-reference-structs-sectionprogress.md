@@ -1,5 +1,5 @@
 ---
-title: "Navigation / SectionProgress"
+title: "sdk-for-ios-navigate-api-reference-structs-sectionprogress"
 slug: "sdk-for-ios-navigate-api-reference-structs-sectionprogress"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-structs-sectionprogress"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-navigation">Navigation</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-navigation">Navigation</a>
+<img alt="" id="carat" src="/carat.png"/>
         SectionProgress Structure Reference
       </p>
 </div>
@@ -33,7 +33,7 @@ slug: "sdk-for-ios-navigate-api-reference-structs-sectionprogress"
 <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">SectionProgress</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
-<p>Indicates a user’s progress along a <code><a href="sdk-for-ios-navigate-api-reference-..-classes-section">Section</a></code>.</p>
+<p>Indicates a user’s progress along a <code><a href="sdk-for-ios-navigate-api-reference-classes-section">Section</a></code>.</p>
 </section>
 <section class="section task-group-section">
 <div class="task-group">
@@ -51,7 +51,7 @@ slug: "sdk-for-ios-navigate-api-reference-structs-sectionprogress"
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>The distance in meters from current location until the end of the <code><a href="sdk-for-ios-navigate-api-reference-..-classes-section">Section</a></code>.
+<p>The distance in meters from current location until the end of the <code><a href="sdk-for-ios-navigate-api-reference-classes-section">Section</a></code>.
 Note that the value is accumulated per section, and that the last section contains the overall
 distance to the destination.
 Defaults to 0.</p>
@@ -79,7 +79,7 @@ Defaults to 0.</p>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>The estimated time in seconds from current location until the end of the <code><a href="sdk-for-ios-navigate-api-reference-..-classes-section">Section</a></code>
+<p>The estimated time in seconds from current location until the end of the <code><a href="sdk-for-ios-navigate-api-reference-classes-section">Section</a></code>
 is reached, including traffic delays if available.
 Note that the value is accumulated per section, and that the last section contains the overall
 duration until the destination is reached.
@@ -109,7 +109,7 @@ Defaults to 0 seconds.</p>
 <div class="pointer"></div>
 <div class="abstract">
 <p>The estimated traffic delay in seconds from current location until the end of the
-<code><a href="sdk-for-ios-navigate-api-reference-..-classes-section">Section</a></code> is reached.
+<code><a href="sdk-for-ios-navigate-api-reference-classes-section">Section</a></code> is reached.
 Note that the value is accumulated per section, and that the last section contains the overall
 traffic delay until the destination is reached. The delay might be a negative value:
 Negative values indicate that the part of this section can be traversed faster than usual.

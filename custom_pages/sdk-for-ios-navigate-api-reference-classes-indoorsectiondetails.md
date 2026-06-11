@@ -1,5 +1,5 @@
 ---
-title: "Other Classes / IndoorSectionDetails"
+title: "sdk-for-ios-navigate-api-reference-classes-indoorsectiondetails"
 slug: "sdk-for-ios-navigate-api-reference-classes-indoorsectiondetails"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-classes-indoorsectiondetails"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-other%20classes">Other Classes</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-other%20classes">Other Classes</a>
+<img alt="" id="carat" src="/carat.png"/>
         IndoorSectionDetails Class Reference
       </p>
 </div>
@@ -35,7 +35,7 @@ slug: "sdk-for-ios-navigate-api-reference-classes-indoorsectiondetails"
 <pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">IndoorSectionDetails</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
-<p>Provides additional details for an indoor <code><a href="sdk-for-ios-navigate-api-reference-..-classes-section">Section</a></code>.</p>
+<p>Provides additional details for an indoor <code><a href="sdk-for-ios-navigate-api-reference-classes-section">Section</a></code>.</p>
 </section>
 <section class="section task-group-section">
 <div class="task-group">
@@ -59,7 +59,7 @@ slug: "sdk-for-ios-navigate-api-reference-classes-indoorsectiondetails"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">private(set)</span> <span class="kd">lazy</span> <span class="k">var</span> <span class="nv">indoorManeuvers</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-indoormaneuver">IndoorManeuver</a></span><span class="p">]</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">private(set)</span> <span class="kd">lazy</span> <span class="k">var</span> <span class="nv">indoorManeuvers</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-indoormaneuver">IndoorManeuver</a></span><span class="p">]</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -84,7 +84,7 @@ slug: "sdk-for-ios-navigate-api-reference-classes-indoorsectiondetails"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">departurePlace</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-indoorrouteplace">IndoorRoutePlace</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">departurePlace</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-indoorrouteplace">IndoorRoutePlace</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -109,7 +109,7 @@ slug: "sdk-for-ios-navigate-api-reference-classes-indoorsectiondetails"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">arrivalPlace</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-indoorrouteplace">IndoorRoutePlace</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">arrivalPlace</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-indoorrouteplace">IndoorRoutePlace</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>

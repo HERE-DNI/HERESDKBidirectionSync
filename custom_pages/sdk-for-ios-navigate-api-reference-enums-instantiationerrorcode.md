@@ -1,5 +1,5 @@
 ---
-title: "Core / InstantiationErrorCode"
+title: "sdk-for-ios-navigate-api-reference-enums-instantiationerrorcode"
 slug: "sdk-for-ios-navigate-api-reference-enums-instantiationerrorcode"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-enums-instantiationerrorcode"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-core">Core</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-core">Core</a>
+<img alt="" id="carat" src="/carat.png"/>
         InstantiationErrorCode Enumeration Reference
       </p>
 </div>
@@ -309,7 +309,7 @@ B. “(double quote)</p>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Instantiation attempt failed because the <code>dispose()</code> method from <code><a href="sdk-for-ios-navigate-api-reference-..-classes-sdknativeengine">SDKNativeEngine</a></code>
+<p>Instantiation attempt failed because the <code>dispose()</code> method from <code><a href="sdk-for-ios-navigate-api-reference-classes-sdknativeengine">SDKNativeEngine</a></code>
 was called already.</p>
 </div>
 <div class="declaration">
@@ -335,7 +335,7 @@ was called already.</p>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p><code><a href="sdk-for-ios-navigate-api-reference-..-structs-catalogconfiguration">CatalogConfiguration</a></code> contains invalid parameters.
+<p><code><a href="sdk-for-ios-navigate-api-reference-structs-catalogconfiguration">CatalogConfiguration</a></code> contains invalid parameters.
 Check the corectness of HRNs and versions.</p>
 </div>
 <div class="declaration">

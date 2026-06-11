@@ -1,5 +1,5 @@
 ---
-title: "TranslucentMapLayerGroup / ErrorDetails"
+title: "sdk-for-ios-navigate-api-reference-classes-translucentmaplayergroup-errordetails"
 slug: "sdk-for-ios-navigate-api-reference-classes-translucentmaplayergroup-errordetails"
 ---
 
@@ -15,12 +15,12 @@ slug: "sdk-for-ios-navigate-api-reference-classes-translucentmaplayergroup-error
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-..-index">heresdk</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-..-maps">Maps</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-..-classes-translucentmaplayergroup">TranslucentMapLayerGroup</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-maps">Maps</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-classes-translucentmaplayergroup">TranslucentMapLayerGroup</a>
+<img alt="" id="carat" src="/carat.png"/>
         ErrorDetails Structure Reference
       </p>
 </div>
@@ -33,7 +33,7 @@ slug: "sdk-for-ios-navigate-api-reference-classes-translucentmaplayergroup-error
 <div class="declaration">
 <div class="language">
 <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">ErrorDetails</span></code></pre>
-<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-classes-translucentmaplayergroup">TranslucentMapLayerGroup</a></span><span class="o">.</span><span class="kt">ErrorDetails</span> <span class="p">:</span> <span class="kt">Error</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-translucentmaplayergroup">TranslucentMapLayerGroup</a></span><span class="o">.</span><span class="kt">ErrorDetails</span> <span class="p">:</span> <span class="kt">Error</span></code></pre>
 </div>
 </div>
 <p>Describes the reason for failing to create the group.</p>
@@ -60,7 +60,7 @@ slug: "sdk-for-ios-navigate-api-reference-classes-translucentmaplayergroup-error
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">errorCode</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-classes-translucentmaplayergroup">TranslucentMapLayerGroup</a></span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-classes-translucentmaplayergroup-errorcode">ErrorCode</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">errorCode</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-translucentmaplayergroup">TranslucentMapLayerGroup</a></span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-translucentmaplayergroup-errorcode">ErrorCode</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -110,7 +110,7 @@ slug: "sdk-for-ios-navigate-api-reference-classes-translucentmaplayergroup-error
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">errorCode</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-classes-translucentmaplayergroup">TranslucentMapLayerGroup</a></span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-classes-translucentmaplayergroup-errorcode">ErrorCode</a></span><span class="p">,</span> <span class="nv">errorDescription</span><span class="p">:</span> <span class="kt">String</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">errorCode</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-translucentmaplayergroup">TranslucentMapLayerGroup</a></span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-translucentmaplayergroup-errorcode">ErrorCode</a></span><span class="p">,</span> <span class="nv">errorDescription</span><span class="p">:</span> <span class="kt">String</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>

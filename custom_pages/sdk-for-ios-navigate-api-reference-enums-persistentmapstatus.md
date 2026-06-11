@@ -1,5 +1,5 @@
 ---
-title: "MapLoader / PersistentMapStatus"
+title: "sdk-for-ios-navigate-api-reference-enums-persistentmapstatus"
 slug: "sdk-for-ios-navigate-api-reference-enums-persistentmapstatus"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-enums-persistentmapstatus"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-maploader">MapLoader</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-maploader">MapLoader</a>
+<img alt="" id="carat" src="/carat.png"/>
         PersistentMapStatus Enumeration Reference
       </p>
 </div>
@@ -191,7 +191,7 @@ To know if a map needs to be repaired, check if <code>sdk.maploader.MapLoaderErr
 <div class="pointer"></div>
 <div class="abstract">
 <p>Unreachable <code><a href="../Structs/SDKOptions.html#/s:7heresdk10SDKOptionsV9cachePathSSvp">SDKOptions.cachePath</a></code> or <code><a href="../Structs/SDKOptions.html#/s:7heresdk10SDKOptionsV24persistentMapStoragePathSSvp">SDKOptions.persistentMapStoragePath</a></code>.
-Make sure that <code><a href="sdk-for-ios-navigate-api-reference-..-structs-sdkoptions">SDKOptions</a></code> has accessible <code><a href="../Structs/SDKOptions.html#/s:7heresdk10SDKOptionsV9cachePathSSvp">SDKOptions.cachePath</a></code>
+Make sure that <code><a href="sdk-for-ios-navigate-api-reference-structs-sdkoptions">SDKOptions</a></code> has accessible <code><a href="../Structs/SDKOptions.html#/s:7heresdk10SDKOptionsV9cachePathSSvp">SDKOptions.cachePath</a></code>
 and <code><a href="../Structs/SDKOptions.html#/s:7heresdk10SDKOptionsV24persistentMapStoragePathSSvp">SDKOptions.persistentMapStoragePath</a></code></p>
 </div>
 <div class="declaration">
@@ -243,7 +243,7 @@ The healing procedure is to clean persistent map with <code>sdk.maploader.MapDow
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Indicates that the status cannot be retrieved as the map storage is already closed due to disposal of <code><a href="sdk-for-ios-navigate-api-reference-..-classes-sdknativeengine">SDKNativeEngine</a></code>.</p>
+<p>Indicates that the status cannot be retrieved as the map storage is already closed due to disposal of <code><a href="sdk-for-ios-navigate-api-reference-classes-sdknativeengine">SDKNativeEngine</a></code>.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>

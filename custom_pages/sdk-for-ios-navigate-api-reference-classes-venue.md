@@ -1,5 +1,5 @@
 ---
-title: "Venues / Venue"
+title: "sdk-for-ios-navigate-api-reference-classes-venue"
 slug: "sdk-for-ios-navigate-api-reference-classes-venue"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-classes-venue"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-venues">Venues</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-venues">Venues</a>
+<img alt="" id="carat" src="/carat.png"/>
         Venue Class Reference
       </p>
 </div>
@@ -35,9 +35,9 @@ slug: "sdk-for-ios-navigate-api-reference-classes-venue"
 <pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">Venue</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
-<p>Controls the <code><a href="sdk-for-ios-navigate-api-reference-..-classes-venuemodel">VenueModel</a></code> inside the <code><a href="sdk-for-ios-navigate-api-reference-..-classes-venuemap">VenueMap</a></code> object.
-The venue controls the selection of the <code><a href="sdk-for-ios-navigate-api-reference-..-classes-venuedrawing">VenueDrawing</a></code> and the <code><a href="sdk-for-ios-navigate-api-reference-..-classes-venuelevel">VenueLevel</a></code>
-of the <code><a href="sdk-for-ios-navigate-api-reference-..-classes-venuemodel">VenueModel</a></code>. It provides the possibility to customize styles for the <code><a href="sdk-for-ios-navigate-api-reference-..-classes-venuegeometry">VenueGeometry</a></code>.
+<p>Controls the <code><a href="sdk-for-ios-navigate-api-reference-classes-venuemodel">VenueModel</a></code> inside the <code><a href="sdk-for-ios-navigate-api-reference-classes-venuemap">VenueMap</a></code> object.
+The venue controls the selection of the <code><a href="sdk-for-ios-navigate-api-reference-classes-venuedrawing">VenueDrawing</a></code> and the <code><a href="sdk-for-ios-navigate-api-reference-classes-venuelevel">VenueLevel</a></code>
+of the <code><a href="sdk-for-ios-navigate-api-reference-classes-venuemodel">VenueModel</a></code>. It provides the possibility to customize styles for the <code><a href="sdk-for-ios-navigate-api-reference-classes-venuegeometry">VenueGeometry</a></code>.
 Objects of this class can only be created using methods
 <code>VenueMap.addVenueAsync(String, VenueLoadErrorHandler)</code> and <code>VenueMap.selectVenueAsync(String, VenueLoadErrorHandler)</code>.</p>
 </section>
@@ -57,15 +57,15 @@ Objects of this class can only be created using methods
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>The <code><a href="sdk-for-ios-navigate-api-reference-..-classes-venuemodel">VenueModel</a></code> controlled by this object.
-It can be used to get the <code><a href="sdk-for-ios-navigate-api-reference-..-classes-venuemodel">VenueModel</a></code>
+<p>The <code><a href="sdk-for-ios-navigate-api-reference-classes-venuemodel">VenueModel</a></code> controlled by this object.
+It can be used to get the <code><a href="sdk-for-ios-navigate-api-reference-classes-venuemodel">VenueModel</a></code>
 belonging to this object, like a building or a complex of buildings.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">venueModel</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-venuemodel">VenueModel</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">venueModel</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-venuemodel">VenueModel</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -84,7 +84,7 @@ belonging to this object, like a building or a complex of buildings.</p>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>The <code><a href="sdk-for-ios-navigate-api-reference-..-classes-venuestyle">VenueStyle</a></code> associated with the <code><a href="sdk-for-ios-navigate-api-reference-..-classes-venuemodel">VenueModel</a></code>
+<p>The <code><a href="sdk-for-ios-navigate-api-reference-classes-venuestyle">VenueStyle</a></code> associated with the <code><a href="sdk-for-ios-navigate-api-reference-classes-venuemodel">VenueModel</a></code>
 controlled by this object.
 It can be used to get the style of the venue. Contains the information about
 the geometry and label styles available for the venue.</p>
@@ -93,7 +93,7 @@ the geometry and label styles available for the venue.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">venueStyle</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-venuestyle">VenueStyle</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">venueStyle</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-venuestyle">VenueStyle</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -120,7 +120,7 @@ hidden or displayed without details, depending on the implementation of the rend
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">selectedDrawing</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-venuedrawing">VenueDrawing</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">selectedDrawing</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-venuedrawing">VenueDrawing</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -148,7 +148,7 @@ If the level doesn’t belong to the currently selected drawing, it can not be s
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">selectedLevel</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-venuelevel">VenueLevel</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">selectedLevel</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-venuelevel">VenueLevel</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -167,7 +167,7 @@ If the level doesn’t belong to the currently selected drawing, it can not be s
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>The Z index value of the <code><a href="sdk-for-ios-navigate-api-reference-..-classes-venuelevel">VenueLevel</a></code> selected.
+<p>The Z index value of the <code><a href="sdk-for-ios-navigate-api-reference-classes-venuelevel">VenueLevel</a></code> selected.
 Z index 0 represents the ground level, negative values represent
 underground levels, positive values - levels above the ground.
 Z index can also be taken from <code><a href="../Classes/VenueLevel.html#/s:7heresdk10VenueLevelC6zIndexs5Int32Vvp">VenueLevel.zIndex</a></code>.</p>
@@ -195,8 +195,8 @@ Z index can also be taken from <code><a href="../Classes/VenueLevel.html#/s:7her
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>The index of the <code><a href="sdk-for-ios-navigate-api-reference-..-classes-venuelevel">VenueLevel</a></code> selected from the level array
-of the <code><a href="sdk-for-ios-navigate-api-reference-..-classes-venuedrawing">VenueDrawing</a></code>.
+<p>The index of the <code><a href="sdk-for-ios-navigate-api-reference-classes-venuelevel">VenueLevel</a></code> selected from the level array
+of the <code><a href="sdk-for-ios-navigate-api-reference-classes-venuedrawing">VenueDrawing</a></code>.
 Unlike the Z index, it can’t have a negative value.</p>
 </div>
 <div class="declaration">
@@ -254,7 +254,7 @@ It can be used to check the status of topology visibility.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">setCustomStyle</span><span class="p">(</span><span class="nv">geometries</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-venuegeometry">VenueGeometry</a></span><span class="p">],</span> <span class="nv">style</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-venuegeometrystyle">VenueGeometryStyle</a></span><span class="p">?,</span> <span class="nv">labelStyle</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-venuelabelstyle">VenueLabelStyle</a></span><span class="p">?)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">setCustomStyle</span><span class="p">(</span><span class="nv">geometries</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-venuegeometry">VenueGeometry</a></span><span class="p">],</span> <span class="nv">style</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-venuegeometrystyle">VenueGeometryStyle</a></span><span class="p">?,</span> <span class="nv">labelStyle</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-venuelabelstyle">VenueLabelStyle</a></span><span class="p">?)</span></code></pre>
 </div>
 </div>
 <div>
@@ -322,7 +322,7 @@ It can be used to check the status of topology visibility.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">setCustomStyle</span><span class="p">(</span><span class="nv">topologies</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-venuetopology">VenueTopology</a></span><span class="p">],</span> <span class="nv">style</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-venuegeometrystyle">VenueGeometryStyle</a></span><span class="p">?)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">setCustomStyle</span><span class="p">(</span><span class="nv">topologies</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-venuetopology">VenueTopology</a></span><span class="p">],</span> <span class="nv">style</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-venuegeometrystyle">VenueGeometryStyle</a></span><span class="p">?)</span></code></pre>
 </div>
 </div>
 <div>
@@ -378,7 +378,7 @@ It can be used to check the status of topology visibility.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">setCustomStyleToCrosswalk</span><span class="p">(</span><span class="nv">crosswalks</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-crosswalk">Crosswalk</a></span><span class="p">],</span> <span class="nv">style</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-venuegeometrystyle">VenueGeometryStyle</a></span><span class="p">?)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">setCustomStyleToCrosswalk</span><span class="p">(</span><span class="nv">crosswalks</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-crosswalk">Crosswalk</a></span><span class="p">],</span> <span class="nv">style</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-venuegeometrystyle">VenueGeometryStyle</a></span><span class="p">?)</span></code></pre>
 </div>
 </div>
 <div>

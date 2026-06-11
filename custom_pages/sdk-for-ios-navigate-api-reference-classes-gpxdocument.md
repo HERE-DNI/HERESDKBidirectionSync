@@ -1,5 +1,5 @@
 ---
-title: "Navigation / GPXDocument"
+title: "sdk-for-ios-navigate-api-reference-classes-gpxdocument"
 slug: "sdk-for-ios-navigate-api-reference-classes-gpxdocument"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-classes-gpxdocument"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-navigation">Navigation</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-navigation">Navigation</a>
+<img alt="" id="carat" src="/carat.png"/>
         GPXDocument Class Reference
       </p>
 </div>
@@ -69,7 +69,7 @@ Elevation values are ignored.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">gpxFilePath</span><span class="p">:</span> <span class="kt">String</span><span class="p">,</span> <span class="nv">options</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-gpxoptions">GPXOptions</a></span><span class="p">)</span> <span class="k">throws</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">gpxFilePath</span><span class="p">:</span> <span class="kt">String</span><span class="p">,</span> <span class="nv">options</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-gpxoptions">GPXOptions</a></span><span class="p">)</span> <span class="k">throws</span></code></pre>
 </div>
 </div>
 <div>
@@ -125,7 +125,7 @@ Elevation values are ignored.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">tracks</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-gpxtrack">GPXTrack</a></span><span class="p">])</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">tracks</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-gpxtrack">GPXTrack</a></span><span class="p">])</span></code></pre>
 </div>
 </div>
 <div>
@@ -169,7 +169,7 @@ Elevation values are ignored.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">tracks</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-gpxtrack">GPXTrack</a></span><span class="p">]</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">tracks</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-gpxtrack">GPXTrack</a></span><span class="p">]</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -199,7 +199,7 @@ Elevation values are ignored.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="kd">func</span> <span class="nf">fromString</span><span class="p">(</span><span class="nv">content</span><span class="p">:</span> <span class="kt">String</span><span class="p">,</span> <span class="nv">options</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-gpxoptions">GPXOptions</a></span><span class="p">)</span> <span class="k">throws</span> <span class="o">-&gt;</span> <span class="kt">GPXDocument</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="kd">func</span> <span class="nf">fromString</span><span class="p">(</span><span class="nv">content</span><span class="p">:</span> <span class="kt">String</span><span class="p">,</span> <span class="nv">options</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-gpxoptions">GPXOptions</a></span><span class="p">)</span> <span class="k">throws</span> <span class="o">-&gt;</span> <span class="kt">GPXDocument</span></code></pre>
 </div>
 </div>
 <div>
@@ -254,7 +254,7 @@ Elevation values are ignored.</p>
 <div class="pointer"></div>
 <div class="abstract">
 <p>Saves the document to a file.
-For saving the <code><a href="../Classes/GPXDocument.html#/s:7heresdk11GPXDocumentC6tracksSayAA8GPXTrackCGvp">GPXDocument.tracks</a></code> modification before writing to a file, use <code><a href="sdk-for-ios-navigate-api-reference-..-classes-gpxtrackwriter">GPXTrackWriter</a></code>.</p>
+For saving the <code><a href="../Classes/GPXDocument.html#/s:7heresdk11GPXDocumentC6tracksSayAA8GPXTrackCGvp">GPXDocument.tracks</a></code> modification before writing to a file, use <code><a href="sdk-for-ios-navigate-api-reference-classes-gpxtrackwriter">GPXTrackWriter</a></code>.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
@@ -309,7 +309,7 @@ For saving the <code><a href="../Classes/GPXDocument.html#/s:7heresdk11GPXDocume
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">addTrack</span><span class="p">(</span><span class="nv">trackToAdd</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-gpxtrack">GPXTrack</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">addTrack</span><span class="p">(</span><span class="nv">trackToAdd</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-gpxtrack">GPXTrack</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>

@@ -1,5 +1,5 @@
 ---
-title: "Search / Details"
+title: "sdk-for-ios-navigate-api-reference-structs-details"
 slug: "sdk-for-ios-navigate-api-reference-structs-details"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-structs-details"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-search">Search</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-search">Search</a>
+<img alt="" id="carat" src="/carat.png"/>
         Details Structure Reference
       </p>
 </div>
@@ -53,13 +53,13 @@ opening hours and assigned categories.</p>
 <div class="pointer"></div>
 <div class="abstract">
 <p>The list of contact information of the place.</p>
-<p><strong>Note:</strong> Not available as part of <code><a href="sdk-for-ios-navigate-api-reference-..-classes-suggestion">Suggestion</a></code> results.</p>
+<p><strong>Note:</strong> Not available as part of <code><a href="sdk-for-ios-navigate-api-reference-classes-suggestion">Suggestion</a></code> results.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">contacts</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-contact">Contact</a></span><span class="p">]</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">contacts</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-contact">Contact</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -79,13 +79,13 @@ opening hours and assigned categories.</p>
 <div class="pointer"></div>
 <div class="abstract">
 <p>The list of opening hours information of the place.</p>
-<p><strong>Note:</strong> Not available as part of <code><a href="sdk-for-ios-navigate-api-reference-..-classes-suggestion">Suggestion</a></code> results.</p>
+<p><strong>Note:</strong> Not available as part of <code><a href="sdk-for-ios-navigate-api-reference-classes-suggestion">Suggestion</a></code> results.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">openingHours</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-openinghours">OpeningHours</a></span><span class="p">]</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">openingHours</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-openinghours">OpeningHours</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -110,7 +110,7 @@ opening hours and assigned categories.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">categories</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-placecategory">PlaceCategory</a></span><span class="p">]</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">categories</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-placecategory">PlaceCategory</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -132,13 +132,13 @@ opening hours and assigned categories.</p>
 <p>The list of images associated with the place.
 The images are provided by external suppliers and are only available to users with
 valid contracts with said suppliers. If the user has no such contracts, the list is empty.</p>
-<p><strong>Note:</strong> Not available as part of <code><a href="sdk-for-ios-navigate-api-reference-..-classes-suggestion">Suggestion</a></code> results.</p>
+<p><strong>Note:</strong> Not available as part of <code><a href="sdk-for-ios-navigate-api-reference-classes-suggestion">Suggestion</a></code> results.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">images</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-webimage">WebImage</a></span><span class="p">]</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">images</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-webimage">WebImage</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -160,13 +160,13 @@ valid contracts with said suppliers. If the user has no such contracts, the list
 <p>The list of editorials associated with the place.
 The editorials are provided by external suppliers and are only available to users with
 valid contracts with said suppliers. If the user has no such contracts, the list is empty.</p>
-<p><strong>Note:</strong> Not available as part of <code><a href="sdk-for-ios-navigate-api-reference-..-classes-suggestion">Suggestion</a></code> results.</p>
+<p><strong>Note:</strong> Not available as part of <code><a href="sdk-for-ios-navigate-api-reference-classes-suggestion">Suggestion</a></code> results.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">editorials</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-webeditorial">WebEditorial</a></span><span class="p">]</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">editorials</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-webeditorial">WebEditorial</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -188,13 +188,13 @@ valid contracts with said suppliers. If the user has no such contracts, the list
 <p>The list of ratings associated with the place.
 The ratings are provided by external suppliers and are only available to users with
 valid contracts with said suppliers. If the user has no such contracts, the list is empty.</p>
-<p><strong>Note:</strong> Not available as part of <code><a href="sdk-for-ios-navigate-api-reference-..-classes-suggestion">Suggestion</a></code> results.</p>
+<p><strong>Note:</strong> Not available as part of <code><a href="sdk-for-ios-navigate-api-reference-classes-suggestion">Suggestion</a></code> results.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">ratings</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-webrating">WebRating</a></span><span class="p">]</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">ratings</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-webrating">WebRating</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -221,7 +221,7 @@ valid contracts with said suppliers. If the user has no such contracts, the list
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">references</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-supplierreference">SupplierReference</a></span><span class="p">]</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">references</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-supplierreference">SupplierReference</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -257,7 +257,7 @@ as “ev,truck”, “ev,truck,fuel” etc.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">evChargingPool</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-evchargingpool">EVChargingPool</a></span><span class="p">?</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">evChargingPool</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-evchargingpool">EVChargingPool</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -299,7 +299,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">truckAmenities</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-truckamenities">TruckAmenities</a></span><span class="p">?</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">truckAmenities</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-truckamenities">TruckAmenities</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -341,7 +341,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">fuelStation</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-fuelstation">FuelStation</a></span><span class="p">?</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">fuelStation</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-fuelstation">FuelStation</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -361,13 +361,13 @@ Related APIs may change for new releases without a deprecation process.</p>
 <div class="pointer"></div>
 <div class="abstract">
 <p>The list of food types assigned to this place.
-Not supported in <code><a href="sdk-for-ios-navigate-api-reference-..-classes-offlinesearchengine">OfflineSearchEngine</a></code> (only available for the Navigate license).</p>
+Not supported in <code><a href="sdk-for-ios-navigate-api-reference-classes-offlinesearchengine">OfflineSearchEngine</a></code> (only available for the Navigate license).</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">foodTypes</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-placefoodtype">PlaceFoodType</a></span><span class="p">]</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">foodTypes</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-placefoodtype">PlaceFoodType</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -388,7 +388,7 @@ Not supported in <code><a href="sdk-for-ios-navigate-api-reference-..-classes-of
 <div class="abstract">
 <p>Details about the payment options at the POI.
 Set to <code>nil</code> if the place is not a POI or if payment details are not available.
-Not supported in <code><a href="sdk-for-ios-navigate-api-reference-..-classes-offlinesearchengine">OfflineSearchEngine</a></code> (only available for the Navigate license).</p>
+Not supported in <code><a href="sdk-for-ios-navigate-api-reference-classes-offlinesearchengine">OfflineSearchEngine</a></code> (only available for the Navigate license).</p>
 <p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and
 unexpected behaviors.
 Related APIs may change for new releases without a deprecation process.</p>
@@ -397,7 +397,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">payment</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-poipaymentdetails">POIPaymentDetails</a></span><span class="p">?</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">payment</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-poipaymentdetails">POIPaymentDetails</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -424,7 +424,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">evChargingLocation</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-evcharginglocation">EVChargingLocation</a></span><span class="p">?</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">evChargingLocation</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-evcharginglocation">EVChargingLocation</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -449,30 +449,30 @@ Related APIs may change for new releases without a deprecation process.</p>
 <ul>
 <li>contacts: The list of contact information of the place.</li>
 </ul>
-<p><strong>Note:</strong> Not available as part of <code><a href="sdk-for-ios-navigate-api-reference-..-classes-suggestion">Suggestion</a></code> results.</p>
+<p><strong>Note:</strong> Not available as part of <code><a href="sdk-for-ios-navigate-api-reference-classes-suggestion">Suggestion</a></code> results.</p>
 <ul>
 <li>openingHours: The list of opening hours information of the place.</li>
 </ul>
-<p><strong>Note:</strong> Not available as part of <code><a href="sdk-for-ios-navigate-api-reference-..-classes-suggestion">Suggestion</a></code> results.</p>
+<p><strong>Note:</strong> Not available as part of <code><a href="sdk-for-ios-navigate-api-reference-classes-suggestion">Suggestion</a></code> results.</p>
 <ul>
 <li>categories: The list of categories assigned to this place.</li>
 <li>images: The list of images associated with the place.
 The images are provided by external suppliers and are only available to users with
 valid contracts with said suppliers. If the user has no such contracts, the list is empty.</li>
 </ul>
-<p><strong>Note:</strong> Not available as part of <code><a href="sdk-for-ios-navigate-api-reference-..-classes-suggestion">Suggestion</a></code> results.</p>
+<p><strong>Note:</strong> Not available as part of <code><a href="sdk-for-ios-navigate-api-reference-classes-suggestion">Suggestion</a></code> results.</p>
 <ul>
 <li>editorials: The list of editorials associated with the place.
 The editorials are provided by external suppliers and are only available to users with
 valid contracts with said suppliers. If the user has no such contracts, the list is empty.</li>
 </ul>
-<p><strong>Note:</strong> Not available as part of <code><a href="sdk-for-ios-navigate-api-reference-..-classes-suggestion">Suggestion</a></code> results.</p>
+<p><strong>Note:</strong> Not available as part of <code><a href="sdk-for-ios-navigate-api-reference-classes-suggestion">Suggestion</a></code> results.</p>
 <ul>
 <li>ratings: The list of ratings associated with the place.
 The ratings are provided by external suppliers and are only available to users with
 valid contracts with said suppliers. If the user has no such contracts, the list is empty.</li>
 </ul>
-<p><strong>Note:</strong> Not available as part of <code><a href="sdk-for-ios-navigate-api-reference-..-classes-suggestion">Suggestion</a></code> results.</p>
+<p><strong>Note:</strong> Not available as part of <code><a href="sdk-for-ios-navigate-api-reference-classes-suggestion">Suggestion</a></code> results.</p>
 <ul>
 <li>references: The list of supplier references to this place.
 The references are provided by external suppliers and are only available to users with
@@ -532,10 +532,10 @@ is enabled in <code><a href="../Structs/SDKOptions.html#/s:7heresdk10SDKOptionsV
   Related APIs may change for new releases without a deprecation process.</p>
 <ul>
 <li>foodTypes: The list of food types assigned to this place.
-Not supported in <code><a href="sdk-for-ios-navigate-api-reference-..-classes-offlinesearchengine">OfflineSearchEngine</a></code> (only available for the Navigate license).</li>
+Not supported in <code><a href="sdk-for-ios-navigate-api-reference-classes-offlinesearchengine">OfflineSearchEngine</a></code> (only available for the Navigate license).</li>
 <li>payment: Details about the payment options at the POI.
 Set to <code>nil</code> if the place is not a POI or if payment details are not available.
-Not supported in <code><a href="sdk-for-ios-navigate-api-reference-..-classes-offlinesearchengine">OfflineSearchEngine</a></code> (only available for the Navigate license).</li>
+Not supported in <code><a href="sdk-for-ios-navigate-api-reference-classes-offlinesearchengine">OfflineSearchEngine</a></code> (only available for the Navigate license).</li>
 </ul>
 <p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and
   unexpected behaviors.
@@ -551,7 +551,7 @@ Related APIs may change for new releases without a deprecation process.</li>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">contacts</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-contact">Contact</a></span><span class="p">],</span> <span class="nv">openingHours</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-openinghours">OpeningHours</a></span><span class="p">],</span> <span class="nv">categories</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-placecategory">PlaceCategory</a></span><span class="p">],</span> <span class="nv">images</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-webimage">WebImage</a></span><span class="p">],</span> <span class="nv">editorials</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-webeditorial">WebEditorial</a></span><span class="p">],</span> <span class="nv">ratings</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-webrating">WebRating</a></span><span class="p">],</span> <span class="nv">references</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-supplierreference">SupplierReference</a></span><span class="p">],</span> <span class="nv">evChargingPool</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-evchargingpool">EVChargingPool</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">truckAmenities</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-truckamenities">TruckAmenities</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">fuelStation</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-fuelstation">FuelStation</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">foodTypes</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-placefoodtype">PlaceFoodType</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">payment</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-poipaymentdetails">POIPaymentDetails</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">evChargingLocation</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-evcharginglocation">EVChargingLocation</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">contacts</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-contact">Contact</a></span><span class="p">],</span> <span class="nv">openingHours</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-openinghours">OpeningHours</a></span><span class="p">],</span> <span class="nv">categories</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-placecategory">PlaceCategory</a></span><span class="p">],</span> <span class="nv">images</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-webimage">WebImage</a></span><span class="p">],</span> <span class="nv">editorials</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-webeditorial">WebEditorial</a></span><span class="p">],</span> <span class="nv">ratings</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-webrating">WebRating</a></span><span class="p">],</span> <span class="nv">references</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-supplierreference">SupplierReference</a></span><span class="p">],</span> <span class="nv">evChargingPool</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-evchargingpool">EVChargingPool</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">truckAmenities</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-truckamenities">TruckAmenities</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">fuelStation</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-fuelstation">FuelStation</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">foodTypes</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-placefoodtype">PlaceFoodType</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">payment</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-poipaymentdetails">POIPaymentDetails</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">evChargingLocation</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-evcharginglocation">EVChargingLocation</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>
@@ -576,7 +576,7 @@ Related APIs may change for new releases without a deprecation process.</li>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getPrimaryCategories</span><span class="p">()</span> <span class="o">-&gt;</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-placecategory">PlaceCategory</a></span><span class="p">]</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getPrimaryCategories</span><span class="p">()</span> <span class="o">-&gt;</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-placecategory">PlaceCategory</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 <div>

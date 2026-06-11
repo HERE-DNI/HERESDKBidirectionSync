@@ -1,5 +1,5 @@
 ---
-title: "Positioning / LocationEngine"
+title: "sdk-for-ios-navigate-api-reference-classes-locationengine"
 slug: "sdk-for-ios-navigate-api-reference-classes-locationengine"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-classes-locationengine"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-positioning">Positioning</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-positioning">Positioning</a>
+<img alt="" id="carat" src="/carat.png"/>
         LocationEngine Class Reference
       </p>
 </div>
@@ -30,7 +30,7 @@ slug: "sdk-for-ios-navigate-api-reference-classes-locationengine"
 <h1>LocationEngine</h1>
 <div class="declaration">
 <div class="language">
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">LocationEngine</span> <span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-locationenginebase">LocationEngineBase</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">LocationEngine</span> <span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-locationenginebase">LocationEngineBase</a></span></code></pre>
 </div>
 </div>
 <p>This class handles location updates received according to the desired LocationAccuracy.
@@ -111,7 +111,7 @@ desired, the LocationEngine needs to be stopped and started again.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">sdkEngine</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-sdknativeengine">SDKNativeEngine</a></span><span class="p">)</span> <span class="k">throws</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">sdkEngine</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-sdknativeengine">SDKNativeEngine</a></span><span class="p">)</span> <span class="k">throws</span></code></pre>
 </div>
 </div>
 </section>
@@ -136,7 +136,7 @@ desired, the LocationEngine needs to be stopped and started again.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">start</span><span class="p">(</span><span class="nv">locationAccuracy</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-locationaccuracy">LocationAccuracy</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-locationenginestatus">LocationEngineStatus</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">start</span><span class="p">(</span><span class="nv">locationAccuracy</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-locationaccuracy">LocationAccuracy</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-locationenginestatus">LocationEngineStatus</a></span></code></pre>
 </div>
 </div>
 <div>
@@ -185,7 +185,7 @@ This method variant is not currently supported on iOS platforms.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">start</span><span class="p">(</span><span class="nv">locationOptions</span><span class="p">:</span> <span class="kt">LocationOptions</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-locationenginestatus">LocationEngineStatus</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">start</span><span class="p">(</span><span class="nv">locationOptions</span><span class="p">:</span> <span class="kt">LocationOptions</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-locationenginestatus">LocationEngineStatus</a></span></code></pre>
 </div>
 </div>
 <div>
@@ -235,7 +235,7 @@ if called for unstarted location engine.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">updateLocationAccuracy</span><span class="p">(</span><span class="nv">locationAccuracy</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-locationaccuracy">LocationAccuracy</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-locationenginestatus">LocationEngineStatus</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">updateLocationAccuracy</span><span class="p">(</span><span class="nv">locationAccuracy</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-locationaccuracy">LocationAccuracy</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-locationenginestatus">LocationEngineStatus</a></span></code></pre>
 </div>
 </div>
 <div>
@@ -259,7 +259,7 @@ if called for unstarted location engine.</p>
 </div>
 <div>
 <h4>Return Value</h4>
-<p>Engine status. Valid values are defined in <code><a href="sdk-for-ios-navigate-api-reference-..-enums-locationenginestatus">LocationEngineStatus</a></code></p>
+<p>Engine status. Valid values are defined in <code><a href="sdk-for-ios-navigate-api-reference-enums-locationenginestatus">LocationEngineStatus</a></code></p>
 </div>
 </section>
 </div>
@@ -286,7 +286,7 @@ This method variant is not currently supported on iOS platforms. Returns <code><
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">updateLocationOptions</span><span class="p">(</span><span class="nv">locationOptions</span><span class="p">:</span> <span class="kt">LocationOptions</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-locationenginestatus">LocationEngineStatus</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">updateLocationOptions</span><span class="p">(</span><span class="nv">locationOptions</span><span class="p">:</span> <span class="kt">LocationOptions</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-locationenginestatus">LocationEngineStatus</a></span></code></pre>
 </div>
 </div>
 <div>
@@ -310,7 +310,7 @@ This method variant is not currently supported on iOS platforms. Returns <code><
 </div>
 <div>
 <h4>Return Value</h4>
-<p>Engine status. Valid values are defined in <code><a href="sdk-for-ios-navigate-api-reference-..-enums-locationenginestatus">LocationEngineStatus</a></code></p>
+<p>Engine status. Valid values are defined in <code><a href="sdk-for-ios-navigate-api-reference-enums-locationenginestatus">LocationEngineStatus</a></code></p>
 </div>
 </section>
 </div>
@@ -337,7 +337,7 @@ was never obtained - nil is returned.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">lastKnownLocation</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-location">Location</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">lastKnownLocation</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-location">Location</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -387,7 +387,7 @@ was never obtained - nil is returned.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">confirmHEREPrivacyNoticeInclusion</span><span class="p">()</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-confirmationstatus">ConfirmationStatus</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">confirmHEREPrivacyNoticeInclusion</span><span class="p">()</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-confirmationstatus">ConfirmationStatus</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -412,7 +412,7 @@ was never obtained - nil is returned.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">confirmHEREPrivacyNoticeException</span><span class="p">()</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-confirmationstatus">ConfirmationStatus</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">confirmHEREPrivacyNoticeException</span><span class="p">()</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-confirmationstatus">ConfirmationStatus</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -438,7 +438,7 @@ update available. Supports more than one delegate, instance is added only once.<
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">addLocationDelegate</span><span class="p">(</span><span class="nv">locationDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-locationdelegate">LocationDelegate</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">addLocationDelegate</span><span class="p">(</span><span class="nv">locationDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-locationdelegate">LocationDelegate</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>
@@ -463,7 +463,7 @@ update available. Supports more than one delegate, instance is added only once.<
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">removeLocationDelegate</span><span class="p">(</span><span class="nv">locationDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-locationdelegate">LocationDelegate</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">removeLocationDelegate</span><span class="p">(</span><span class="nv">locationDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-locationdelegate">LocationDelegate</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>
@@ -487,7 +487,7 @@ update available. Supports more than one delegate, instance is added only once.<
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">addLocationStatusDelegate</span><span class="p">(</span><span class="nv">locationStatusDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-locationstatusdelegate">LocationStatusDelegate</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">addLocationStatusDelegate</span><span class="p">(</span><span class="nv">locationStatusDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-locationstatusdelegate">LocationStatusDelegate</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>
@@ -511,7 +511,7 @@ update available. Supports more than one delegate, instance is added only once.<
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">removeLocationStatusDelegate</span><span class="p">(</span><span class="nv">locationStatusDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-locationstatusdelegate">LocationStatusDelegate</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">removeLocationStatusDelegate</span><span class="p">(</span><span class="nv">locationStatusDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-locationstatusdelegate">LocationStatusDelegate</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>
@@ -537,7 +537,7 @@ are enabled if application has background location capabilities.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">setBackgroundLocationAllowed</span><span class="p">(</span><span class="nv">allowed</span><span class="p">:</span> <span class="kt">Bool</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-locationenginestatus">LocationEngineStatus</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">setBackgroundLocationAllowed</span><span class="p">(</span><span class="nv">allowed</span><span class="p">:</span> <span class="kt">Bool</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-locationenginestatus">LocationEngineStatus</a></span></code></pre>
 </div>
 </div>
 <div>
@@ -618,7 +618,7 @@ is visible, if application has background location capabilities.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">setBackgroundLocationIndicatorVisible</span><span class="p">(</span><span class="nv">visible</span><span class="p">:</span> <span class="kt">Bool</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-locationenginestatus">LocationEngineStatus</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">setBackgroundLocationIndicatorVisible</span><span class="p">(</span><span class="nv">visible</span><span class="p">:</span> <span class="kt">Bool</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-locationenginestatus">LocationEngineStatus</a></span></code></pre>
 </div>
 </div>
 <div>
@@ -700,7 +700,7 @@ location data is unlikely to change. By default automatic pausing of location up
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">setPauseLocationUpdatesAutomatically</span><span class="p">(</span><span class="nv">allowed</span><span class="p">:</span> <span class="kt">Bool</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-locationenginestatus">LocationEngineStatus</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">setPauseLocationUpdatesAutomatically</span><span class="p">(</span><span class="nv">allowed</span><span class="p">:</span> <span class="kt">Bool</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-locationenginestatus">LocationEngineStatus</a></span></code></pre>
 </div>
 </div>
 <div>
@@ -824,7 +824,7 @@ When disabled listener calls can originate from any thread.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">onLocationUpdated</span><span class="p">(</span><span class="n">_</span> <span class="nv">position</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-location">Location</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">onLocationUpdated</span><span class="p">(</span><span class="n">_</span> <span class="nv">position</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-location">Location</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>
@@ -848,7 +848,7 @@ When disabled listener calls can originate from any thread.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">onStatusChanged</span><span class="p">(</span><span class="nv">locationEngineStatus</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-locationenginestatus">LocationEngineStatus</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">onStatusChanged</span><span class="p">(</span><span class="nv">locationEngineStatus</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-locationenginestatus">LocationEngineStatus</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>
@@ -872,7 +872,7 @@ When disabled listener calls can originate from any thread.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">onFeaturesNotAvailable</span><span class="p">(</span><span class="nv">features</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-locationfeature">LocationFeature</a></span><span class="p">])</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">onFeaturesNotAvailable</span><span class="p">(</span><span class="nv">features</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-locationfeature">LocationFeature</a></span><span class="p">])</span></code></pre>
 </div>
 </div>
 </section>

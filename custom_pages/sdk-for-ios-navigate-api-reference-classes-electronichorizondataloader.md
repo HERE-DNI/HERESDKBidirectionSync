@@ -1,5 +1,5 @@
 ---
-title: "ElectronicHorizon / ElectronicHorizonDataLoader"
+title: "sdk-for-ios-navigate-api-reference-classes-electronichorizondataloader"
 slug: "sdk-for-ios-navigate-api-reference-classes-electronichorizondataloader"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-classes-electronichorizondataloader"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-electronichorizon">ElectronicHorizon</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-electronichorizon">ElectronicHorizon</a>
+<img alt="" id="carat" src="/carat.png"/>
         ElectronicHorizonDataLoader Class Reference
       </p>
 </div>
@@ -35,7 +35,7 @@ slug: "sdk-for-ios-navigate-api-reference-classes-electronichorizondataloader"
 <pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">ElectronicHorizonDataLoader</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
-<p>Loads map data for segments that belong to the <code><a href="sdk-for-ios-navigate-api-reference-..-classes-electronichorizonengine">ElectronicHorizonEngine</a></code> paths.</p>
+<p>Loads map data for segments that belong to the <code><a href="sdk-for-ios-navigate-api-reference-classes-electronichorizonengine">ElectronicHorizonEngine</a></code> paths.</p>
 <p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
 behaviors. Related APIs may change for new releases without a deprecation process.</p>
 <p>Offline availability: This property is available online and offline.</p>
@@ -57,7 +57,7 @@ behaviors. Related APIs may change for new releases without a deprecation proces
 <div class="pointer"></div>
 <div class="abstract">
 <p>Creates a new instance of <code>ElectronicHorizonDataLoader</code>.
-The constructor accepts options to configure the data loader. For more information, see <code><a href="sdk-for-ios-navigate-api-reference-..-structs-segmentdataloaderoptions">SegmentDataLoaderOptions</a></code>.
+The constructor accepts options to configure the data loader. For more information, see <code><a href="sdk-for-ios-navigate-api-reference-structs-segmentdataloaderoptions">SegmentDataLoaderOptions</a></code>.
 The cache size limits the number of segments that the loader can keep in memory at the same time.</p>
 <div class="aside aside-throws">
 <p class="aside-title">Throws</p>
@@ -69,7 +69,7 @@ The cache size limits the number of segments that the loader can keep in memory 
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">sdkEngine</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-sdknativeengine">SDKNativeEngine</a></span><span class="p">,</span> <span class="nv">options</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-segmentdataloaderoptions">SegmentDataLoaderOptions</a></span><span class="p">,</span> <span class="nv">segmentDataCacheSize</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">)</span> <span class="k">throws</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">sdkEngine</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-sdknativeengine">SDKNativeEngine</a></span><span class="p">,</span> <span class="nv">options</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-segmentdataloaderoptions">SegmentDataLoaderOptions</a></span><span class="p">,</span> <span class="nv">segmentDataCacheSize</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">)</span> <span class="k">throws</span></code></pre>
 </div>
 </div>
 <div>
@@ -84,7 +84,7 @@ The cache size limits the number of segments that the loader can keep in memory 
 </td>
 <td>
 <div>
-<p>The <code><a href="sdk-for-ios-navigate-api-reference-..-classes-sdknativeengine">SDKNativeEngine</a></code> instance that provides shared services, such as networking and map data.</p>
+<p>The <code><a href="sdk-for-ios-navigate-api-reference-classes-sdknativeengine">SDKNativeEngine</a></code> instance that provides shared services, such as networking and map data.</p>
 </div>
 </td>
 </tr>
@@ -96,7 +96,7 @@ The cache size limits the number of segments that the loader can keep in memory 
 </td>
 <td>
 <div>
-<p>The <code><a href="sdk-for-ios-navigate-api-reference-..-structs-segmentdataloaderoptions">SegmentDataLoaderOptions</a></code> instance that configures how segment data is requested.</p>
+<p>The <code><a href="sdk-for-ios-navigate-api-reference-structs-segmentdataloaderoptions">SegmentDataLoaderOptions</a></code> instance that configures how segment data is requested.</p>
 </div>
 </td>
 </tr>
@@ -137,7 +137,7 @@ The cache size limits the number of segments that the loader can keep in memory 
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">loadData</span><span class="p">(</span><span class="nv">electronicHorizonUpdate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-electronichorizonupdate">ElectronicHorizonUpdate</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">loadData</span><span class="p">(</span><span class="nv">electronicHorizonUpdate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-electronichorizonupdate">ElectronicHorizonUpdate</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -182,7 +182,7 @@ The result contains either the loaded data or an error code.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getSegment</span><span class="p">(</span><span class="nv">segmentId</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-directedocmsegmentid">DirectedOCMSegmentId</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-electronichorizondataloaderresult">ElectronicHorizonDataLoaderResult</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getSegment</span><span class="p">(</span><span class="nv">segmentId</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-directedocmsegmentid">DirectedOCMSegmentId</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-electronichorizondataloaderresult">ElectronicHorizonDataLoaderResult</a></span></code></pre>
 </div>
 </div>
 <div>
@@ -224,13 +224,13 @@ The result contains either the loaded data or an error code.</p>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Adds an <code><a href="sdk-for-ios-navigate-api-reference-..-protocols-electronichorizondataloaderstatusdelegate">ElectronicHorizonDataLoaderStatusDelegate</a></code> to the subscription list.</p>
+<p>Adds an <code><a href="sdk-for-ios-navigate-api-reference-protocols-electronichorizondataloaderstatusdelegate">ElectronicHorizonDataLoaderStatusDelegate</a></code> to the subscription list.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">addElectronicHorizonDataLoaderStatusDelegate</span><span class="p">(</span><span class="n">_</span> <span class="nv">electronicHorizonListener</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-electronichorizondataloaderstatusdelegate">ElectronicHorizonDataLoaderStatusDelegate</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">addElectronicHorizonDataLoaderStatusDelegate</span><span class="p">(</span><span class="n">_</span> <span class="nv">electronicHorizonListener</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-electronichorizondataloaderstatusdelegate">ElectronicHorizonDataLoaderStatusDelegate</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -268,13 +268,13 @@ The result contains either the loaded data or an error code.</p>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Removes an <code><a href="sdk-for-ios-navigate-api-reference-..-protocols-electronichorizondataloaderstatusdelegate">ElectronicHorizonDataLoaderStatusDelegate</a></code> from the subscription list.</p>
+<p>Removes an <code><a href="sdk-for-ios-navigate-api-reference-protocols-electronichorizondataloaderstatusdelegate">ElectronicHorizonDataLoaderStatusDelegate</a></code> from the subscription list.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">removeElectronicHorizonDataLoaderStatusDelegate</span><span class="p">(</span><span class="n">_</span> <span class="nv">electronicHorizonListener</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-electronichorizondataloaderstatusdelegate">ElectronicHorizonDataLoaderStatusDelegate</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">removeElectronicHorizonDataLoaderStatusDelegate</span><span class="p">(</span><span class="n">_</span> <span class="nv">electronicHorizonListener</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-electronichorizondataloaderstatusdelegate">ElectronicHorizonDataLoaderStatusDelegate</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>

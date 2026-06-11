@@ -1,5 +1,5 @@
 ---
-title: "Core / ProxySettings"
+title: "sdk-for-ios-navigate-api-reference-structs-proxysettings"
 slug: "sdk-for-ios-navigate-api-reference-structs-proxysettings"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-structs-proxysettings"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-core">Core</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-core">Core</a>
+<img alt="" id="carat" src="/carat.png"/>
         ProxySettings Structure Reference
       </p>
 </div>
@@ -59,7 +59,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">type</span><span class="p">:</span> <span class="kt">ProxySettings</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-proxysettings-proxytype">ProxyType</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">type</span><span class="p">:</span> <span class="kt">ProxySettings</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-proxysettings-proxytype">ProxyType</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -134,7 +134,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">credentials</span><span class="p">:</span> <span class="kt">ProxySettings</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-proxysettings-credentials">Credentials</a></span><span class="p">?</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">credentials</span><span class="p">:</span> <span class="kt">ProxySettings</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-proxysettings-credentials">Credentials</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -159,7 +159,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">type</span><span class="p">:</span> <span class="kt">ProxySettings</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-proxysettings-proxytype">ProxyType</a></span><span class="p">,</span> <span class="nv">ipAddress</span><span class="p">:</span> <span class="kt">IPAddress</span><span class="p">,</span> <span class="nv">port</span><span class="p">:</span> <span class="kt">UInt16</span><span class="p">,</span> <span class="nv">credentials</span><span class="p">:</span> <span class="kt">ProxySettings</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-proxysettings-credentials">Credentials</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">type</span><span class="p">:</span> <span class="kt">ProxySettings</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-proxysettings-proxytype">ProxyType</a></span><span class="p">,</span> <span class="nv">ipAddress</span><span class="p">:</span> <span class="kt">IPAddress</span><span class="p">,</span> <span class="nv">port</span><span class="p">:</span> <span class="kt">UInt16</span><span class="p">,</span> <span class="nv">credentials</span><span class="p">:</span> <span class="kt">ProxySettings</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-proxysettings-credentials">Credentials</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>
@@ -179,7 +179,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <div class="pointer"></div>
 <div class="abstract">
 <p>Supported types of proxy connection.</p>
-<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-..-structs-proxysettings-proxytype">See more</a>
+<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-structs-proxysettings-proxytype">See more</a>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
@@ -205,7 +205,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <div class="pointer"></div>
 <div class="abstract">
 <p>Authentication data</p>
-<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-..-structs-proxysettings-credentials">See more</a>
+<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-structs-proxysettings-credentials">See more</a>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>

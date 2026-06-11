@@ -1,5 +1,5 @@
 ---
-title: "WarnerEngine / WarningsRegistry"
+title: "sdk-for-ios-navigate-api-reference-classes-warningsregistry"
 slug: "sdk-for-ios-navigate-api-reference-classes-warningsregistry"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-classes-warningsregistry"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-warnerengine">WarnerEngine</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-warnerengine">WarnerEngine</a>
+<img alt="" id="carat" src="/carat.png"/>
         WarningsRegistry Class Reference
       </p>
 </div>
@@ -37,7 +37,7 @@ slug: "sdk-for-ios-navigate-api-reference-classes-warningsregistry"
 </div>
 <p>A class that store warning metadata for different warning types.
 Aggregates individual collection for each warning category (safety cameras, truck restrictions, etc.).
-Provided by <code><a href="sdk-for-ios-navigate-api-reference-..-classes-warnerengine">WarnerEngine</a></code> so callers can lookup detailed information about specific warnings.</p>
+Provided by <code><a href="sdk-for-ios-navigate-api-reference-classes-warnerengine">WarnerEngine</a></code> so callers can lookup detailed information about specific warnings.</p>
 <p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
 behaviors. Related APIs may change for new releases without a deprecation process.</p>
 </section>
@@ -63,7 +63,7 @@ behaviors. Related APIs may change for new releases without a deprecation proces
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getSafetyCameraWarning</span><span class="p">(</span><span class="nv">warning</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-warning">Warning</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-safetycamerawarning">SafetyCameraWarning</a></span><span class="p">?</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getSafetyCameraWarning</span><span class="p">(</span><span class="nv">warning</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-warning">Warning</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-safetycamerawarning">SafetyCameraWarning</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 <div>
@@ -89,7 +89,7 @@ and is used to retrieve its full metadata.</p>
 </div>
 <div>
 <h4>Return Value</h4>
-<p>The <code><a href="sdk-for-ios-navigate-api-reference-..-structs-safetycamerawarning">SafetyCameraWarning</a></code> object associated with the provided <code>WarningsRegistry.getSafetyCameraWarning(...).warning</code>,
+<p>The <code><a href="sdk-for-ios-navigate-api-reference-structs-safetycamerawarning">SafetyCameraWarning</a></code> object associated with the provided <code>WarningsRegistry.getSafetyCameraWarning(...).warning</code>,
 or <code>nil</code> if no warning exists for the given <code>WarningsRegistry.getSafetyCameraWarning(...).warning</code>.
 This object contains the full details and attributes of the corresponding warning.</p>
 </div>
@@ -115,7 +115,7 @@ This object contains the full details and attributes of the corresponding warnin
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getTruckRestrictionWarning</span><span class="p">(</span><span class="nv">warning</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-warning">Warning</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-truckrestrictionwarning">TruckRestrictionWarning</a></span><span class="p">?</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getTruckRestrictionWarning</span><span class="p">(</span><span class="nv">warning</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-warning">Warning</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-truckrestrictionwarning">TruckRestrictionWarning</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 <div>
@@ -141,7 +141,7 @@ and is used to retrieve its full metadata.</p>
 </div>
 <div>
 <h4>Return Value</h4>
-<p>The <code><a href="sdk-for-ios-navigate-api-reference-..-structs-truckrestrictionwarning">TruckRestrictionWarning</a></code> object associated with the provided <code>WarningsRegistry.getTruckRestrictionWarning(...).warning</code>,
+<p>The <code><a href="sdk-for-ios-navigate-api-reference-structs-truckrestrictionwarning">TruckRestrictionWarning</a></code> object associated with the provided <code>WarningsRegistry.getTruckRestrictionWarning(...).warning</code>,
 or <code>nil</code> if no warning exists for the given <code>WarningsRegistry.getTruckRestrictionWarning(...).warning</code>.
 This object contains the full details and attributes of the corresponding warning.</p>
 </div>
@@ -167,7 +167,7 @@ This object contains the full details and attributes of the corresponding warnin
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getRoadSignWarning</span><span class="p">(</span><span class="nv">warning</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-warning">Warning</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-roadsignwarning">RoadSignWarning</a></span><span class="p">?</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getRoadSignWarning</span><span class="p">(</span><span class="nv">warning</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-warning">Warning</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-roadsignwarning">RoadSignWarning</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 <div>
@@ -219,7 +219,7 @@ This object contains the full details and attributes of the corresponding warnin
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getRealisticViewWarning</span><span class="p">(</span><span class="nv">warning</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-warning">Warning</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-realisticviewwarning">RealisticViewWarning</a></span><span class="p">?</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getRealisticViewWarning</span><span class="p">(</span><span class="nv">warning</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-warning">Warning</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-realisticviewwarning">RealisticViewWarning</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 <div>
@@ -245,7 +245,7 @@ and is used to retrieve its full metadata.</p>
 </div>
 <div>
 <h4>Return Value</h4>
-<p>The <code><a href="sdk-for-ios-navigate-api-reference-..-structs-realisticviewwarning">RealisticViewWarning</a></code> object associated with the provided <code>WarningsRegistry.getRealisticViewWarning(...).warning</code>,
+<p>The <code><a href="sdk-for-ios-navigate-api-reference-structs-realisticviewwarning">RealisticViewWarning</a></code> object associated with the provided <code>WarningsRegistry.getRealisticViewWarning(...).warning</code>,
 or <code>nil</code> if no warning exists for the given <code>WarningsRegistry.getRealisticViewWarning(...).warning</code>.
 This object contains the full details and attributes of the corresponding warning.</p>
 </div>
@@ -271,7 +271,7 @@ This object contains the full details and attributes of the corresponding warnin
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getEnvironmentalZoneWarning</span><span class="p">(</span><span class="nv">warning</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-warning">Warning</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-environmentalzonewarning">EnvironmentalZoneWarning</a></span><span class="p">?</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getEnvironmentalZoneWarning</span><span class="p">(</span><span class="nv">warning</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-warning">Warning</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-environmentalzonewarning">EnvironmentalZoneWarning</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 <div>
@@ -297,7 +297,7 @@ and is used to retrieve its full metadata.</p>
 </div>
 <div>
 <h4>Return Value</h4>
-<p>The <code><a href="sdk-for-ios-navigate-api-reference-..-structs-environmentalzonewarning">EnvironmentalZoneWarning</a></code> object associated with the provided <code>WarningsRegistry.getEnvironmentalZoneWarning(...).warning</code>,
+<p>The <code><a href="sdk-for-ios-navigate-api-reference-structs-environmentalzonewarning">EnvironmentalZoneWarning</a></code> object associated with the provided <code>WarningsRegistry.getEnvironmentalZoneWarning(...).warning</code>,
 or <code>nil</code> if no warning exists for the given <code>WarningsRegistry.getEnvironmentalZoneWarning(...).warning</code>.
 This object contains the full details and attributes of the corresponding warning.</p>
 </div>
@@ -323,7 +323,7 @@ This object contains the full details and attributes of the corresponding warnin
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getSchoolZoneWarning</span><span class="p">(</span><span class="nv">warning</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-warning">Warning</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-schoolzonewarning">SchoolZoneWarning</a></span><span class="p">?</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getSchoolZoneWarning</span><span class="p">(</span><span class="nv">warning</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-warning">Warning</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-schoolzonewarning">SchoolZoneWarning</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 <div>
@@ -349,7 +349,7 @@ and is used to retrieve its full metadata.</p>
 </div>
 <div>
 <h4>Return Value</h4>
-<p>The <code><a href="sdk-for-ios-navigate-api-reference-..-structs-schoolzonewarning">SchoolZoneWarning</a></code> object associated with the provided <code>WarningsRegistry.getSchoolZoneWarning(...).warning</code>,
+<p>The <code><a href="sdk-for-ios-navigate-api-reference-structs-schoolzonewarning">SchoolZoneWarning</a></code> object associated with the provided <code>WarningsRegistry.getSchoolZoneWarning(...).warning</code>,
 or <code>nil</code> if no warning exists for the given <code>WarningsRegistry.getSchoolZoneWarning(...).warning</code>.
 This object contains the full details and attributes of the corresponding warning.</p>
 </div>
@@ -375,7 +375,7 @@ This object contains the full details and attributes of the corresponding warnin
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getTollStopWarning</span><span class="p">(</span><span class="nv">warning</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-warning">Warning</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-tollstop">TollStop</a></span><span class="p">?</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getTollStopWarning</span><span class="p">(</span><span class="nv">warning</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-warning">Warning</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-tollstop">TollStop</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 <div>
@@ -401,7 +401,7 @@ and is used to retrieve its full metadata.</p>
 </div>
 <div>
 <h4>Return Value</h4>
-<p>The <code><a href="sdk-for-ios-navigate-api-reference-..-structs-tollstop">TollStop</a></code> object associated with the provided <code>WarningsRegistry.getTollStopWarning(...).warning</code>,
+<p>The <code><a href="sdk-for-ios-navigate-api-reference-structs-tollstop">TollStop</a></code> object associated with the provided <code>WarningsRegistry.getTollStopWarning(...).warning</code>,
 or <code>nil</code> if no warning exists for the given <code>WarningsRegistry.getTollStopWarning(...).warning</code>.
 This object contains the full details and attributes of the corresponding warning.</p>
 </div>
@@ -427,7 +427,7 @@ This object contains the full details and attributes of the corresponding warnin
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getDangerZoneWarning</span><span class="p">(</span><span class="nv">warning</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-warning">Warning</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-dangerzonewarning">DangerZoneWarning</a></span><span class="p">?</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getDangerZoneWarning</span><span class="p">(</span><span class="nv">warning</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-warning">Warning</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-dangerzonewarning">DangerZoneWarning</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 <div>
@@ -453,7 +453,7 @@ and is used to retrieve its full metadata.</p>
 </div>
 <div>
 <h4>Return Value</h4>
-<p>The <code><a href="sdk-for-ios-navigate-api-reference-..-structs-dangerzonewarning">DangerZoneWarning</a></code> object associated with the provided <code>WarningsRegistry.getDangerZoneWarning(...).warning</code>,
+<p>The <code><a href="sdk-for-ios-navigate-api-reference-structs-dangerzonewarning">DangerZoneWarning</a></code> object associated with the provided <code>WarningsRegistry.getDangerZoneWarning(...).warning</code>,
 or <code>nil</code> if no warning exists for the given <code>WarningsRegistry.getDangerZoneWarning(...).warning</code>.
 This object contains the full details and attributes of the corresponding warning.</p>
 </div>
@@ -479,7 +479,7 @@ This object contains the full details and attributes of the corresponding warnin
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getBorderCrossingWarning</span><span class="p">(</span><span class="nv">warning</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-warning">Warning</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-bordercrossingwarning">BorderCrossingWarning</a></span><span class="p">?</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getBorderCrossingWarning</span><span class="p">(</span><span class="nv">warning</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-warning">Warning</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-bordercrossingwarning">BorderCrossingWarning</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 <div>
@@ -505,7 +505,7 @@ and is used to retrieve its full metadata.</p>
 </div>
 <div>
 <h4>Return Value</h4>
-<p>The <code><a href="sdk-for-ios-navigate-api-reference-..-structs-bordercrossingwarning">BorderCrossingWarning</a></code> object associated with the provided <code>WarningsRegistry.getBorderCrossingWarning(...).warning</code>,
+<p>The <code><a href="sdk-for-ios-navigate-api-reference-structs-bordercrossingwarning">BorderCrossingWarning</a></code> object associated with the provided <code>WarningsRegistry.getBorderCrossingWarning(...).warning</code>,
 or <code>nil</code> if no warning exists for the given <code>WarningsRegistry.getBorderCrossingWarning(...).warning</code>.
 This object contains the full details and attributes of the corresponding warning.</p>
 </div>
@@ -531,7 +531,7 @@ This object contains the full details and attributes of the corresponding warnin
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getRailwayCrossingWarning</span><span class="p">(</span><span class="nv">warning</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-warning">Warning</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-railwaycrossingwarning">RailwayCrossingWarning</a></span><span class="p">?</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getRailwayCrossingWarning</span><span class="p">(</span><span class="nv">warning</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-warning">Warning</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-railwaycrossingwarning">RailwayCrossingWarning</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 <div>
@@ -557,7 +557,7 @@ and is used to retrieve its full metadata.</p>
 </div>
 <div>
 <h4>Return Value</h4>
-<p>The <code><a href="sdk-for-ios-navigate-api-reference-..-structs-railwaycrossingwarning">RailwayCrossingWarning</a></code> object associated with the provided <code>WarningsRegistry.getRailwayCrossingWarning(...).warning</code>,
+<p>The <code><a href="sdk-for-ios-navigate-api-reference-structs-railwaycrossingwarning">RailwayCrossingWarning</a></code> object associated with the provided <code>WarningsRegistry.getRailwayCrossingWarning(...).warning</code>,
 or <code>nil</code> if no warning exists for the given <code>WarningsRegistry.getRailwayCrossingWarning(...).warning</code>.
 This object contains the full details and attributes of the corresponding warning.</p>
 </div>
@@ -583,7 +583,7 @@ This object contains the full details and attributes of the corresponding warnin
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getLowSpeedZoneWarning</span><span class="p">(</span><span class="nv">warning</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-warning">Warning</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-lowspeedzonewarning">LowSpeedZoneWarning</a></span><span class="p">?</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getLowSpeedZoneWarning</span><span class="p">(</span><span class="nv">warning</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-warning">Warning</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-lowspeedzonewarning">LowSpeedZoneWarning</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 <div>
@@ -609,7 +609,7 @@ and is used to retrieve its full metadata.</p>
 </div>
 <div>
 <h4>Return Value</h4>
-<p>The <code><a href="sdk-for-ios-navigate-api-reference-..-structs-lowspeedzonewarning">LowSpeedZoneWarning</a></code> object associated with the provided <code>WarningsRegistry.getLowSpeedZoneWarning(...).warning</code>,
+<p>The <code><a href="sdk-for-ios-navigate-api-reference-structs-lowspeedzonewarning">LowSpeedZoneWarning</a></code> object associated with the provided <code>WarningsRegistry.getLowSpeedZoneWarning(...).warning</code>,
 or <code>nil</code> if no warning exists for the given <code>WarningsRegistry.getLowSpeedZoneWarning(...).warning</code>.
 This object contains the full details and attributes of the corresponding warning.</p>
 </div>
@@ -635,7 +635,7 @@ This object contains the full details and attributes of the corresponding warnin
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getTrafficMergeWarning</span><span class="p">(</span><span class="nv">warning</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-warning">Warning</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-trafficmergewarning">TrafficMergeWarning</a></span><span class="p">?</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getTrafficMergeWarning</span><span class="p">(</span><span class="nv">warning</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-warning">Warning</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-trafficmergewarning">TrafficMergeWarning</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 <div>
@@ -687,7 +687,7 @@ This object contains the full details and attributes of the corresponding warnin
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getLaneDecreaseWarning</span><span class="p">(</span><span class="nv">warning</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-warning">Warning</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-lanedecreasewarning">LaneDecreaseWarning</a></span><span class="p">?</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getLaneDecreaseWarning</span><span class="p">(</span><span class="nv">warning</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-warning">Warning</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-lanedecreasewarning">LaneDecreaseWarning</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 <div>
@@ -713,7 +713,7 @@ and is used to retrieve its full metadata.</p>
 </div>
 <div>
 <h4>Return Value</h4>
-<p>The <code><a href="sdk-for-ios-navigate-api-reference-..-structs-lanedecreasewarning">LaneDecreaseWarning</a></code> object associated with the provided <code>WarningsRegistry.getLaneDecreaseWarning(...).warning</code>,
+<p>The <code><a href="sdk-for-ios-navigate-api-reference-structs-lanedecreasewarning">LaneDecreaseWarning</a></code> object associated with the provided <code>WarningsRegistry.getLaneDecreaseWarning(...).warning</code>,
 or <code>nil</code> if no warning exists for the given <code>WarningsRegistry.getLaneDecreaseWarning(...).warning</code>.
 This object contains the full details and attributes of the corresponding warning.</p>
 <p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
@@ -745,7 +745,7 @@ any additional, type-specific data associated with the warning.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getCustomWarning</span><span class="p">(</span><span class="nv">warning</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-warning">Warning</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-customwarning">CustomWarning</a></span><span class="p">?</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getCustomWarning</span><span class="p">(</span><span class="nv">warning</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-warning">Warning</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-customwarning">CustomWarning</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 <div>
@@ -760,7 +760,7 @@ any additional, type-specific data associated with the warning.</p>
 </td>
 <td>
 <div>
-<p>The <code><a href="sdk-for-ios-navigate-api-reference-..-structs-warning">Warning</a></code> instance identifying the custom warning for which
+<p>The <code><a href="sdk-for-ios-navigate-api-reference-structs-warning">Warning</a></code> instance identifying the custom warning for which
 additional data should be retrieved.</p>
 </div>
 </td>
@@ -770,7 +770,7 @@ additional data should be retrieved.</p>
 </div>
 <div>
 <h4>Return Value</h4>
-<p>The <code><a href="sdk-for-ios-navigate-api-reference-..-structs-customwarning">CustomWarning</a></code> associated with the given <code>WarningsRegistry.getCustomWarning(...).warning</code>, or <code>nil</code>
+<p>The <code><a href="sdk-for-ios-navigate-api-reference-structs-customwarning">CustomWarning</a></code> associated with the given <code>WarningsRegistry.getCustomWarning(...).warning</code>, or <code>nil</code>
 if no additional data exists for this warning.
 The returned object contains the payload with type-specific
 details and attributes of the corresponding warning.</p>

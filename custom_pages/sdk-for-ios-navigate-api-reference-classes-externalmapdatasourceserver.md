@@ -1,5 +1,5 @@
 ---
-title: "MapLoader / ExternalMapDataSourceServer"
+title: "sdk-for-ios-navigate-api-reference-classes-externalmapdatasourceserver"
 slug: "sdk-for-ios-navigate-api-reference-classes-externalmapdatasourceserver"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-classes-externalmapdatasourceserver"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-maploader">MapLoader</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-maploader">MapLoader</a>
+<img alt="" id="carat" src="/carat.png"/>
         ExternalMapDataSourceServer Class Reference
       </p>
 </div>
@@ -84,7 +84,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Exposes map data source as GRPC service on given url for <code><a href="sdk-for-ios-navigate-api-reference-..-classes-sdknativeengine">SDKNativeEngine</a></code>.
+<p>Exposes map data source as GRPC service on given url for <code><a href="sdk-for-ios-navigate-api-reference-classes-sdknativeengine">SDKNativeEngine</a></code>.
 The exposed service can be consumed with the help of <code><a href="../Classes/ExternalMapDataSourceClient.html#/s:7heresdk27ExternalMapDataSourceClientC30configureRemoteConnectionAsync3url6engine11credentials8callbackAA10TaskHandle_pSS_AA15SDKNativeEngineCAA03SslF18CredentialsOptionsVSgyAA0bcdE9ErrorCodeOSgctF">ExternalMapDataSourceClient.configureRemoteConnectionAsync(...)</a></code>.
 It is a non-blocking function, and the result will be returned via a callback. <code><a href="../MapLoader.html#/s:7heresdk19ServerStartedHandlea">ServerStartedHandle</a></code>.</p>
 <p>Note: This is a beta release of this feature,
@@ -95,7 +95,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">start</span><span class="p">(</span><span class="nv">url</span><span class="p">:</span> <span class="kt">String</span><span class="p">,</span> <span class="nv">engine</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-sdknativeengine">SDKNativeEngine</a></span><span class="p">,</span> <span class="nv">serviceCredential</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-sslservercredentialsoptions">SslServerCredentialsOptions</a></span><span class="p">?,</span> <span class="nv">callback</span><span class="p">:</span> <span class="kd">@escaping</span> <span class="kt"><a href="../MapLoader.html#/s:7heresdk19ServerStartedHandlea">ServerStartedHandle</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">start</span><span class="p">(</span><span class="nv">url</span><span class="p">:</span> <span class="kt">String</span><span class="p">,</span> <span class="nv">engine</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-sdknativeengine">SDKNativeEngine</a></span><span class="p">,</span> <span class="nv">serviceCredential</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-sslservercredentialsoptions">SslServerCredentialsOptions</a></span><span class="p">?,</span> <span class="nv">callback</span><span class="p">:</span> <span class="kd">@escaping</span> <span class="kt"><a href="../MapLoader.html#/s:7heresdk19ServerStartedHandlea">ServerStartedHandle</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -122,7 +122,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 </td>
 <td>
 <div>
-<p>Instance of an existing <code><a href="sdk-for-ios-navigate-api-reference-..-classes-sdknativeengine">SDKNativeEngine</a></code>.</p>
+<p>Instance of an existing <code><a href="sdk-for-ios-navigate-api-reference-classes-sdknativeengine">SDKNativeEngine</a></code>.</p>
 </div>
 </td>
 </tr>
@@ -134,7 +134,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 </td>
 <td>
 <div>
-<p>Instance of <code><a href="sdk-for-ios-navigate-api-reference-..-structs-sslservercredentialsoptions">SslServerCredentialsOptions</a></code></p>
+<p>Instance of <code><a href="sdk-for-ios-navigate-api-reference-structs-sslservercredentialsoptions">SslServerCredentialsOptions</a></code></p>
 </div>
 </td>
 </tr>

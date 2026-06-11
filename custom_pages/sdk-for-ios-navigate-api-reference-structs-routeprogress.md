@@ -1,5 +1,5 @@
 ---
-title: "Navigation / RouteProgress"
+title: "sdk-for-ios-navigate-api-reference-structs-routeprogress"
 slug: "sdk-for-ios-navigate-api-reference-structs-routeprogress"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-structs-routeprogress"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-navigation">Navigation</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-navigation">Navigation</a>
+<img alt="" id="carat" src="/carat.png"/>
         RouteProgress Structure Reference
       </p>
 </div>
@@ -51,16 +51,16 @@ slug: "sdk-for-ios-navigate-api-reference-structs-routeprogress"
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Index of the <code><a href="sdk-for-ios-navigate-api-reference-..-classes-section">Section</a></code> in the route.
-Note that this section index does not point to the current <code><a href="sdk-for-ios-navigate-api-reference-..-structs-sectionprogress">SectionProgress</a></code>
-but to the route <code><a href="sdk-for-ios-navigate-api-reference-..-classes-section">Section</a></code> that you can access via <code>route</code>
+<p>Index of the <code><a href="sdk-for-ios-navigate-api-reference-classes-section">Section</a></code> in the route.
+Note that this section index does not point to the current <code><a href="sdk-for-ios-navigate-api-reference-structs-sectionprogress">SectionProgress</a></code>
+but to the route <code><a href="sdk-for-ios-navigate-api-reference-classes-section">Section</a></code> that you can access via <code>route</code>
 and <code><a href="../Classes/Route.html#/s:7heresdk5RouteC8sectionsSayAA7SectionCGvp">Route.sections</a></code>.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">@available(*, deprecated, message: "Will be removed in v4.27.0. Use <code>RouteProgress.routeMatchedLocation</code> instead.")</span>
+<pre class="highlight swift"><code><span class="kd">@available(*, deprecated, message: "Will be removed in v4.27.0. Use RouteProgress.routeMatchedLocation instead.")</span>
 <span class="kd">public</span> <span class="k">var</span> <span class="nv">sectionIndex</span><span class="p">:</span> <span class="kt">Int32</span></code></pre>
 </div>
 </div>
@@ -80,13 +80,13 @@ and <code><a href="../Classes/Route.html#/s:7heresdk5RouteC8sectionsSayAA7Sectio
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Index of the <code><a href="sdk-for-ios-navigate-api-reference-..-classes-span">Span</a></code> in the route section.</p>
+<p>Index of the <code><a href="sdk-for-ios-navigate-api-reference-classes-span">Span</a></code> in the route section.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">@available(*, deprecated, message: "Will be removed in v4.27.0. Use <code>RouteProgress.routeMatchedLocation</code> instead.")</span>
+<pre class="highlight swift"><code><span class="kd">@available(*, deprecated, message: "Will be removed in v4.27.0. Use RouteProgress.routeMatchedLocation instead.")</span>
 <span class="kd">public</span> <span class="k">var</span> <span class="nv">spanIndex</span><span class="p">:</span> <span class="kt">Int32</span></code></pre>
 </div>
 </div>
@@ -106,7 +106,7 @@ and <code><a href="../Classes/Route.html#/s:7heresdk5RouteC8sectionsSayAA7Sectio
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>The progress for each <code><a href="sdk-for-ios-navigate-api-reference-..-classes-section">Section</a></code> from the current one to the last one.
+<p>The progress for each <code><a href="sdk-for-ios-navigate-api-reference-classes-section">Section</a></code> from the current one to the last one.
 Note that the progress information is accumulated successively, therefore information relative
 to the final destination is in the last item of the list. The list is guaranteed to be non-empty.</p>
 </div>
@@ -114,7 +114,7 @@ to the final destination is in the last item of the list. The list is guaranteed
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">sectionProgress</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-sectionprogress">SectionProgress</a></span><span class="p">]</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">sectionProgress</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-sectionprogress">SectionProgress</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -133,7 +133,7 @@ to the final destination is in the last item of the list. The list is guaranteed
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>The progress for next and next-next maneuvers (see <code><a href="sdk-for-ios-navigate-api-reference-..-classes-maneuver">Maneuver</a></code>). Note that the list
+<p>The progress for next and next-next maneuvers (see <code><a href="sdk-for-ios-navigate-api-reference-classes-maneuver">Maneuver</a></code>). Note that the list
 can contain at maximum two items (for next and next-next maneuvers) and one or zero when approaching the
 destination.</p>
 </div>
@@ -141,7 +141,7 @@ destination.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">maneuverProgress</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-maneuverprogress">ManeuverProgress</a></span><span class="p">]</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">maneuverProgress</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-maneuverprogress">ManeuverProgress</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -166,7 +166,7 @@ destination.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">routeMatchedLocation</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-routematchedlocation">RouteMatchedLocation</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">routeMatchedLocation</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-routematchedlocation">RouteMatchedLocation</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -191,7 +191,7 @@ destination.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">sectionProgress</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-sectionprogress">SectionProgress</a></span><span class="p">],</span> <span class="nv">maneuverProgress</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-maneuverprogress">ManeuverProgress</a></span><span class="p">],</span> <span class="nv">routeMatchedLocation</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-routematchedlocation">RouteMatchedLocation</a></span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-routematchedlocation">RouteMatchedLocation</a></span><span class="p">())</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">sectionProgress</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-sectionprogress">SectionProgress</a></span><span class="p">],</span> <span class="nv">maneuverProgress</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-maneuverprogress">ManeuverProgress</a></span><span class="p">],</span> <span class="nv">routeMatchedLocation</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-routematchedlocation">RouteMatchedLocation</a></span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-routematchedlocation">RouteMatchedLocation</a></span><span class="p">())</span></code></pre>
 </div>
 </div>
 </section>
@@ -217,7 +217,7 @@ destination.</p>
 <div class="language">
 <p class="aside-title">Swift</p>
 <pre class="highlight swift"><code><span class="kd">@available(*, deprecated)</span>
-<span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">sectionIndex</span><span class="p">:</span> <span class="kt">Int32</span> <span class="o">=</span> <span class="mi">0</span><span class="p">,</span> <span class="nv">spanIndex</span><span class="p">:</span> <span class="kt">Int32</span> <span class="o">=</span> <span class="mi">0</span><span class="p">,</span> <span class="nv">sectionProgress</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-sectionprogress">SectionProgress</a></span><span class="p">],</span> <span class="nv">maneuverProgress</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-maneuverprogress">ManeuverProgress</a></span><span class="p">],</span> <span class="nv">routeMatchedLocation</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-routematchedlocation">RouteMatchedLocation</a></span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-routematchedlocation">RouteMatchedLocation</a></span><span class="p">())</span></code></pre>
+<span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">sectionIndex</span><span class="p">:</span> <span class="kt">Int32</span> <span class="o">=</span> <span class="mi">0</span><span class="p">,</span> <span class="nv">spanIndex</span><span class="p">:</span> <span class="kt">Int32</span> <span class="o">=</span> <span class="mi">0</span><span class="p">,</span> <span class="nv">sectionProgress</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-sectionprogress">SectionProgress</a></span><span class="p">],</span> <span class="nv">maneuverProgress</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-maneuverprogress">ManeuverProgress</a></span><span class="p">],</span> <span class="nv">routeMatchedLocation</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-routematchedlocation">RouteMatchedLocation</a></span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-routematchedlocation">RouteMatchedLocation</a></span><span class="p">())</span></code></pre>
 </div>
 </div>
 </section>

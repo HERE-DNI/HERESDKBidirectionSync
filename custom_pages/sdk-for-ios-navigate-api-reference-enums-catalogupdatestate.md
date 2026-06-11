@@ -1,5 +1,5 @@
 ---
-title: "MapLoader / CatalogUpdateState"
+title: "sdk-for-ios-navigate-api-reference-enums-catalogupdatestate"
 slug: "sdk-for-ios-navigate-api-reference-enums-catalogupdatestate"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-enums-catalogupdatestate"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-maploader">MapLoader</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-maploader">MapLoader</a>
+<img alt="" id="carat" src="/carat.png"/>
         CatalogUpdateState Enumeration Reference
       </p>
 </div>

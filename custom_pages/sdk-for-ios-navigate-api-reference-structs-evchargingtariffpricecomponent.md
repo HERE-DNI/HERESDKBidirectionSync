@@ -1,5 +1,5 @@
 ---
-title: "Search / EVChargingTariffPriceComponent"
+title: "sdk-for-ios-navigate-api-reference-structs-evchargingtariffpricecomponent"
 slug: "sdk-for-ios-navigate-api-reference-structs-evchargingtariffpricecomponent"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-structs-evchargingtariffpricecomponent
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-search">Search</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-search">Search</a>
+<img alt="" id="carat" src="/carat.png"/>
         EVChargingTariffPriceComponent Structure Reference
       </p>
 </div>
@@ -59,7 +59,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">dimension</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-evchargingtariffdimension">EVChargingTariffDimension</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">dimension</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-evchargingtariffdimension">EVChargingTariffDimension</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -164,7 +164,7 @@ Similarly, if step is 100 for energy, then energy is billed in 100 Wh = 0.1 kWh 
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">dimension</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-evchargingtariffdimension">EVChargingTariffDimension</a></span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-evchargingtariffdimension">EVChargingTariffDimension</a></span><span class="o">.</span><span class="n">flat</span><span class="p">,</span> <span class="nv">price</span><span class="p">:</span> <span class="kt">Double</span> <span class="o">=</span> <span class="mf">0.0</span><span class="p">,</span> <span class="nv">vat</span><span class="p">:</span> <span class="kt">Double</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">step</span><span class="p">:</span> <span class="kt">Double</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">dimension</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-evchargingtariffdimension">EVChargingTariffDimension</a></span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-evchargingtariffdimension">EVChargingTariffDimension</a></span><span class="o">.</span><span class="n">flat</span><span class="p">,</span> <span class="nv">price</span><span class="p">:</span> <span class="kt">Double</span> <span class="o">=</span> <span class="mf">0.0</span><span class="p">,</span> <span class="nv">vat</span><span class="p">:</span> <span class="kt">Double</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">step</span><span class="p">:</span> <span class="kt">Double</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>

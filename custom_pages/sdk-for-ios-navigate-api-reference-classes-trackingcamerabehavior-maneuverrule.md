@@ -1,5 +1,5 @@
 ---
-title: "TrackingCameraBehavior / ManeuverRule"
+title: "sdk-for-ios-navigate-api-reference-classes-trackingcamerabehavior-maneuverrule"
 slug: "sdk-for-ios-navigate-api-reference-classes-trackingcamerabehavior-maneuverrule"
 ---
 
@@ -15,12 +15,12 @@ slug: "sdk-for-ios-navigate-api-reference-classes-trackingcamerabehavior-maneuve
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-..-index">heresdk</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-..-navigation">Navigation</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-..-classes-trackingcamerabehavior">TrackingCameraBehavior</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-navigation">Navigation</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-classes-trackingcamerabehavior">TrackingCameraBehavior</a>
+<img alt="" id="carat" src="/carat.png"/>
         ManeuverRule Structure Reference
       </p>
 </div>
@@ -35,7 +35,7 @@ slug: "sdk-for-ios-navigate-api-reference-classes-trackingcamerabehavior-maneuve
 <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">ManeuverRule</span></code></pre>
 </div>
 </div>
-<p>Defines a single rule that determines how <code><a href="sdk-for-ios-navigate-api-reference-..-..-classes-trackingcamerabehavior">TrackingCameraBehavior</a></code> reacts to nearby
+<p>Defines a single rule that determines how <code><a href="sdk-for-ios-navigate-api-reference-classes-trackingcamerabehavior">TrackingCameraBehavior</a></code> reacts to nearby
 maneuvers when the current position matches this rule.</p>
 </section>
 <section class="section task-group-section">
@@ -61,7 +61,7 @@ When empty, this rule applies to all functional road classes. Defaults to an emp
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">functionalRoadClasses</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-enums-functionalroadclass">FunctionalRoadClass</a></span><span class="p">]</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">functionalRoadClasses</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-functionalroadclass">FunctionalRoadClass</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -87,7 +87,7 @@ When empty, this rule applies to all maneuver actions. Defaults to an empty list
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">maneuverActions</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-enums-maneuveraction">ManeuverAction</a></span><span class="p">]</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">maneuverActions</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-maneuveraction">ManeuverAction</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -113,7 +113,7 @@ react to maneuvers that match this rule. Defaults to <code>nil</code>.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">maneuverRuleOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-classes-trackingcamerabehavior">TrackingCameraBehavior</a></span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-classes-trackingcamerabehavior-maneuverruleoptions">ManeuverRuleOptions</a></span><span class="p">?</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">maneuverRuleOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-trackingcamerabehavior">TrackingCameraBehavior</a></span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-trackingcamerabehavior-maneuverruleoptions">ManeuverRuleOptions</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -140,7 +140,7 @@ unexpected behaviors. Related APIs may change for new releases without a depreca
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">functionalRoadClasses</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-enums-functionalroadclass">FunctionalRoadClass</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">maneuverActions</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-enums-maneuveraction">ManeuverAction</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">maneuverRuleOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-classes-trackingcamerabehavior">TrackingCameraBehavior</a></span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-classes-trackingcamerabehavior-maneuverruleoptions">ManeuverRuleOptions</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">functionalRoadClasses</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-functionalroadclass">FunctionalRoadClass</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">maneuverActions</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-maneuveraction">ManeuverAction</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">maneuverRuleOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-trackingcamerabehavior">TrackingCameraBehavior</a></span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-trackingcamerabehavior-maneuverruleoptions">ManeuverRuleOptions</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>

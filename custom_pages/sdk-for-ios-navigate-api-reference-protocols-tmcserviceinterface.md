@@ -1,5 +1,5 @@
 ---
-title: "TrafficRadio / TMCServiceInterface"
+title: "sdk-for-ios-navigate-api-reference-protocols-tmcserviceinterface"
 slug: "sdk-for-ios-navigate-api-reference-protocols-tmcserviceinterface"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-tmcserviceinterface"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-trafficradio">TrafficRadio</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-trafficradio">TrafficRadio</a>
+<img alt="" id="carat" src="/carat.png"/>
         TMCServiceInterface Protocol Reference
       </p>
 </div>
@@ -57,7 +57,7 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-tmcserviceinterface"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">requestTMCService</span><span class="p">(</span><span class="nv">tmcServiceRequest</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-tmcservicerequest">TMCServiceRequest</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">requestTMCService</span><span class="p">(</span><span class="nv">tmcServiceRequest</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-tmcservicerequest">TMCServiceRequest</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -101,7 +101,7 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-tmcserviceinterface"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">getTMCPreferredSids</span><span class="p">(</span><span class="nv">tmcPreferredSidsRequest</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-tmcpreferredsidsrequest">TMCPreferredSidsRequest</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="p">[</span><span class="kt">UInt8</span><span class="p">]</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">getTMCPreferredSids</span><span class="p">(</span><span class="nv">tmcPreferredSidsRequest</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-tmcpreferredsidsrequest">TMCPreferredSidsRequest</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="p">[</span><span class="kt">UInt8</span><span class="p">]</span></code></pre>
 </div>
 </div>
 <div>
@@ -149,7 +149,7 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-tmcserviceinterface"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">getRDSEncryptionKeys</span><span class="p">(</span><span class="nv">rdsEncryptionKeysRequest</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-rdsencryptionkeysrequest">RDSEncryptionKeysRequest</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-rdsencryptionkey">RDSEncryptionKey</a></span><span class="p">]</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">getRDSEncryptionKeys</span><span class="p">(</span><span class="nv">rdsEncryptionKeysRequest</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-rdsencryptionkeysrequest">RDSEncryptionKeysRequest</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-rdsencryptionkey">RDSEncryptionKey</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 <div>

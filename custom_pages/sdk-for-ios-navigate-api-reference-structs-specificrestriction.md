@@ -1,5 +1,5 @@
 ---
-title: "Transport / SpecificRestriction"
+title: "sdk-for-ios-navigate-api-reference-structs-specificrestriction"
 slug: "sdk-for-ios-navigate-api-reference-structs-specificrestriction"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-structs-specificrestriction"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-transport">Transport</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-transport">Transport</a>
+<img alt="" id="carat" src="/carat.png"/>
         SpecificRestriction Structure Reference
       </p>
 </div>
@@ -35,7 +35,7 @@ slug: "sdk-for-ios-navigate-api-reference-structs-specificrestriction"
 </div>
 <p>Represents a specific vehicle restriction.
 A <code>SpecificRestriction</code> defines what type of restriction applies (weight, height, etc.)
-and the range of allowed values. It is always used as part of a <code><a href="sdk-for-ios-navigate-api-reference-..-structs-vehiclerestriction">VehicleRestriction</a></code>.</p>
+and the range of allowed values. It is always used as part of a <code><a href="sdk-for-ios-navigate-api-reference-structs-vehiclerestriction">VehicleRestriction</a></code>.</p>
 <p><strong>Note:</strong> This is a beta release of this feature.
 Related APIs may change for new releases without a deprecation process.</p>
 </section>
@@ -61,7 +61,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">type</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-restrictiontype">RestrictionType</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">type</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-restrictiontype">RestrictionType</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -92,7 +92,7 @@ Examples:</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">value</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-integerrange">IntegerRange</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">value</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-integerrange">IntegerRange</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -117,7 +117,7 @@ Examples:</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">type</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-restrictiontype">RestrictionType</a></span><span class="p">,</span> <span class="nv">value</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-integerrange">IntegerRange</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">type</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-restrictiontype">RestrictionType</a></span><span class="p">,</span> <span class="nv">value</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-integerrange">IntegerRange</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>

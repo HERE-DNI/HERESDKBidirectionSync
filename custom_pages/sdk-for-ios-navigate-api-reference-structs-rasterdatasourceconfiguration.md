@@ -1,5 +1,5 @@
 ---
-title: "Maps / RasterDataSourceConfiguration"
+title: "sdk-for-ios-navigate-api-reference-structs-rasterdatasourceconfiguration"
 slug: "sdk-for-ios-navigate-api-reference-structs-rasterdatasourceconfiguration"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-structs-rasterdatasourceconfiguration"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-maps">Maps</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-maps">Maps</a>
+<img alt="" id="carat" src="/carat.png"/>
         RasterDataSourceConfiguration Structure Reference
       </p>
 </div>
@@ -83,7 +83,7 @@ the configuration.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">provider</span><span class="p">:</span> <span class="kt">RasterDataSourceConfiguration</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-rasterdatasourceconfiguration-provider">Provider</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">provider</span><span class="p">:</span> <span class="kt">RasterDataSourceConfiguration</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-rasterdatasourceconfiguration-provider">Provider</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -108,7 +108,7 @@ the configuration.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">cache</span><span class="p">:</span> <span class="kt">RasterDataSourceConfiguration</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-rasterdatasourceconfiguration-cache">Cache</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">cache</span><span class="p">:</span> <span class="kt">RasterDataSourceConfiguration</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-rasterdatasourceconfiguration-cache">Cache</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -158,7 +158,7 @@ the configuration.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">name</span><span class="p">:</span> <span class="kt">String</span><span class="p">,</span> <span class="nv">provider</span><span class="p">:</span> <span class="kt">RasterDataSourceConfiguration</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-rasterdatasourceconfiguration-provider">Provider</a></span><span class="p">,</span> <span class="nv">cache</span><span class="p">:</span> <span class="kt">RasterDataSourceConfiguration</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-rasterdatasourceconfiguration-cache">Cache</a></span><span class="p">,</span> <span class="nv">ignoreExpiredData</span><span class="p">:</span> <span class="kt">Bool</span> <span class="o">=</span> <span class="kc">false</span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">name</span><span class="p">:</span> <span class="kt">String</span><span class="p">,</span> <span class="nv">provider</span><span class="p">:</span> <span class="kt">RasterDataSourceConfiguration</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-rasterdatasourceconfiguration-provider">Provider</a></span><span class="p">,</span> <span class="nv">cache</span><span class="p">:</span> <span class="kt">RasterDataSourceConfiguration</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-rasterdatasourceconfiguration-cache">Cache</a></span><span class="p">,</span> <span class="nv">ignoreExpiredData</span><span class="p">:</span> <span class="kt">Bool</span> <span class="o">=</span> <span class="kc">false</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>
@@ -178,7 +178,7 @@ the configuration.</p>
 <div class="pointer"></div>
 <div class="abstract">
 <p>Configuration of a data provider.</p>
-<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-..-structs-rasterdatasourceconfiguration-provider">See more</a>
+<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-structs-rasterdatasourceconfiguration-provider">See more</a>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
@@ -204,7 +204,7 @@ the configuration.</p>
 <div class="pointer"></div>
 <div class="abstract">
 <p>Configuration of a local data cache.</p>
-<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-..-structs-rasterdatasourceconfiguration-cache">See more</a>
+<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-structs-rasterdatasourceconfiguration-cache">See more</a>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>

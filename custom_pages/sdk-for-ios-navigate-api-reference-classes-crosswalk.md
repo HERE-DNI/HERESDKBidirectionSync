@@ -1,5 +1,5 @@
 ---
-title: "Venues / Crosswalk"
+title: "sdk-for-ios-navigate-api-reference-classes-crosswalk"
 slug: "sdk-for-ios-navigate-api-reference-classes-crosswalk"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-classes-crosswalk"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-venues">Venues</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-venues">Venues</a>
+<img alt="" id="carat" src="/carat.png"/>
         Crosswalk Class Reference
       </p>
 </div>
@@ -35,7 +35,7 @@ slug: "sdk-for-ios-navigate-api-reference-classes-crosswalk"
 <pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">Crosswalk</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
-<p>Represents crosswalk’s inside the <code><a href="sdk-for-ios-navigate-api-reference-..-classes-venuelevel">VenueLevel</a></code>. A crosswalk is an area of the road surface
+<p>Represents crosswalk’s inside the <code><a href="sdk-for-ios-navigate-api-reference-classes-venuelevel">VenueLevel</a></code>. A crosswalk is an area of the road surface
 where pedestrians are expected to walk across the road. The area is represented as a polygon, which is often,
 but not necessarily, rectangular and oriented with the shorter dimension in the vehicle’s direction of travel.</p>
 </section>
@@ -61,7 +61,7 @@ but not necessarily, rectangular and oriented with the shorter dimension in the 
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">classificationStyle</span><span class="p">:</span> <span class="kt">Crosswalk</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-crosswalk-classificationstyle">ClassificationStyle</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">classificationStyle</span><span class="p">:</span> <span class="kt">Crosswalk</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-crosswalk-classificationstyle">ClassificationStyle</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -111,7 +111,7 @@ but not necessarily, rectangular and oriented with the shorter dimension in the 
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">level</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-venuelevel">VenueLevel</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">level</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-venuelevel">VenueLevel</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -131,7 +131,7 @@ but not necessarily, rectangular and oriented with the shorter dimension in the 
 <div class="pointer"></div>
 <div class="abstract">
 <p>Available Classification styles.</p>
-<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-..-classes-crosswalk-classificationstyle">See more</a>
+<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-classes-crosswalk-classificationstyle">See more</a>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>

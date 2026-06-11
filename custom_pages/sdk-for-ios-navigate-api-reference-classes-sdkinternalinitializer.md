@@ -1,5 +1,5 @@
 ---
-title: "Core / SDKInternalInitializer"
+title: "sdk-for-ios-navigate-api-reference-classes-sdkinternalinitializer"
 slug: "sdk-for-ios-navigate-api-reference-classes-sdkinternalinitializer"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-classes-sdkinternalinitializer"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-core">Core</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-core">Core</a>
+<img alt="" id="carat" src="/carat.png"/>
         SDKInternalInitializer Class Reference
       </p>
 </div>

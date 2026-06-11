@@ -1,5 +1,5 @@
 ---
-title: "Navigation / EventTextOptions"
+title: "sdk-for-ios-navigate-api-reference-structs-eventtextoptions"
 slug: "sdk-for-ios-navigate-api-reference-structs-eventtextoptions"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-structs-eventtextoptions"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-navigation">Navigation</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-navigation">Navigation</a>
+<img alt="" id="carat" src="/carat.png"/>
         EventTextOptions Structure Reference
       </p>
 </div>
@@ -52,7 +52,7 @@ slug: "sdk-for-ios-navigate-api-reference-structs-eventtextoptions"
 <div class="pointer"></div>
 <div class="abstract">
 <p>A flag that indicates whether spatial audio details should be triggered when generating voice notifications
-under <code><a href="sdk-for-ios-navigate-api-reference-..-protocols-eventtextdelegate">EventTextDelegate</a></code>. If enabled, a set of details required to spatialize
+under <code><a href="sdk-for-ios-navigate-api-reference-protocols-eventtextdelegate">EventTextDelegate</a></code>. If enabled, a set of details required to spatialize
 an audio cue will be generated and exposed.</p>
 </div>
 <div class="declaration">

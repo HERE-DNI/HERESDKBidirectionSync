@@ -1,5 +1,5 @@
 ---
-title: "Navigation / ManeuverNotificationTimingOptions"
+title: "sdk-for-ios-navigate-api-reference-structs-maneuvernotificationtimingoptions"
 slug: "sdk-for-ios-navigate-api-reference-structs-maneuvernotificationtimingoptions"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-structs-maneuvernotificationtimingopti
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-navigation">Navigation</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-navigation">Navigation</a>
+<img alt="" id="carat" src="/carat.png"/>
         ManeuverNotificationTimingOptions Structure Reference
       </p>
 </div>
@@ -34,8 +34,8 @@ slug: "sdk-for-ios-navigate-api-reference-structs-maneuvernotificationtimingopti
 </div>
 </div>
 <p>A struct defining timing and distance thresholds for maneuver notifications.</p>
-<p>Setting custom values will impact the time when the notification for each supported <code><a href="sdk-for-ios-navigate-api-reference-..-enums-maneuvernotificationtype">ManeuverNotificationType</a></code> is sent - dependent on the <code><a href="sdk-for-ios-navigate-api-reference-..-enums-timingprofile">TimingProfile</a></code>.</p>
-<p><strong>Note:</strong> By default, notification thresholds depend on <code><a href="sdk-for-ios-navigate-api-reference-..-enums-timingprofile">TimingProfile</a></code>. When custom values are set, then these rules will still apply.
+<p>Setting custom values will impact the time when the notification for each supported <code><a href="sdk-for-ios-navigate-api-reference-enums-maneuvernotificationtype">ManeuverNotificationType</a></code> is sent - dependent on the <code><a href="sdk-for-ios-navigate-api-reference-enums-timingprofile">TimingProfile</a></code>.</p>
+<p><strong>Note:</strong> By default, notification thresholds depend on <code><a href="sdk-for-ios-navigate-api-reference-enums-timingprofile">TimingProfile</a></code>. When custom values are set, then these rules will still apply.
 The following rules apply for all transport modes:</p>
 <ul>
 <li>For <code><a href="../Enums/TimingProfile.html#/s:7heresdk13TimingProfileO9fastSpeedyA2CmF">TimingProfile.fastSpeed</a></code> timing profile, if the current speed limit is less than 62 m/h (100 km/h), then the notification thresholds for <code><a href="../Enums/TimingProfile.html#/s:7heresdk13TimingProfileO12regularSpeedyA2CmF">TimingProfile.regularSpeed</a></code> timing profile will be used instead.</li>
@@ -53,7 +53,7 @@ The following rules apply for all transport modes:</p>
 For example, the following values are valid: range = 4000, reminder = 2500, distance = 1000, action = 400.
 If <code><a href="../Structs/ManeuverNotificationTimingOptions.html#/s:7heresdk33ManeuverNotificationTimingOptionsV05rangeC16DistanceInMeterss5Int32Vvp">ManeuverNotificationTimingOptions.rangeNotificationDistanceInMeters</a></code> is smaller than <code><a href="../Structs/ManeuverNotificationTimingOptions.html#/s:7heresdk33ManeuverNotificationTimingOptionsV08reminderC16DistanceInMeterss5Int32Vvp">ManeuverNotificationTimingOptions.reminderNotificationDistanceInMeters</a></code> the new options will be
 silently ignored and the previous values are kept.</p>
-<p>You always have the choice to specify the thresholds for time or distance. For each <code><a href="sdk-for-ios-navigate-api-reference-..-enums-maneuvernotificationtype">ManeuverNotificationType</a></code> a
+<p>You always have the choice to specify the thresholds for time or distance. For each <code><a href="sdk-for-ios-navigate-api-reference-enums-maneuvernotificationtype">ManeuverNotificationType</a></code> a
 notification is only sent once, so the value that is reached first, wins. However, it is recommended to always update both, time
 and distance values.
 A configuration value of 0 is only allowed for <code><a href="../Structs/ManeuverNotificationTimingOptions.html#/s:7heresdk33ManeuverNotificationTimingOptionsV05rangeC16DistanceInMeterss5Int32Vvp">ManeuverNotificationTimingOptions.rangeNotificationDistanceInMeters</a></code> and <code><a href="../Structs/ManeuverNotificationTimingOptions.html#/s:7heresdk33ManeuverNotificationTimingOptionsV05rangeC13TimeInSecondss5Int32Vvp">ManeuverNotificationTimingOptions.rangeNotificationTimeInSeconds</a></code>.

@@ -1,5 +1,5 @@
 ---
-title: "MapPolyline / SolidMultiColorRepresentation"
+title: "sdk-for-ios-navigate-api-reference-classes-mappolyline-solidmulticolorrepresentation"
 slug: "sdk-for-ios-navigate-api-reference-classes-mappolyline-solidmulticolorrepresentation"
 ---
 
@@ -15,12 +15,12 @@ slug: "sdk-for-ios-navigate-api-reference-classes-mappolyline-solidmulticolorrep
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-..-index">heresdk</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-..-maps">Maps</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-..-classes-mappolyline">MapPolyline</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-maps">Maps</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-classes-mappolyline">MapPolyline</a>
+<img alt="" id="carat" src="/carat.png"/>
         SolidMultiColorRepresentation Class Reference
       </p>
 </div>
@@ -32,7 +32,7 @@ slug: "sdk-for-ios-navigate-api-reference-classes-mappolyline-solidmulticolorrep
 <h1>SolidMultiColorRepresentation</h1>
 <div class="declaration">
 <div class="language">
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">SolidMultiColorRepresentation</span> <span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-classes-mappolyline">MapPolyline</a></span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-classes-mappolyline-representation">Representation</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">SolidMultiColorRepresentation</span> <span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-mappolyline">MapPolyline</a></span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-mappolyline-representation">Representation</a></span></code></pre>
 </div>
 </div>
 <p>Representation allows map polyline to be colored in multiple specified color segments.</p>
@@ -82,8 +82,8 @@ line width is constant and equal to the width given for the biggest
 map measure in the <code>lineWidth</code>.</p>
 <p>At map measures between two nearest given map measures line width is
 linearly interpolated between width values given for these map measures.</p>
-<p>For <code><a href="sdk-for-ios-navigate-api-reference-..-..-structs-mapmeasure-kind">MapMeasure.Kind</a></code> only <code><a href="../../Structs/MapMeasure/Kind.html#/s:7heresdk10MapMeasureV4KindO9zoomLevelyA2EmF">MapMeasure.Kind.zoomLevel</a></code> is supported.</p>
-<p>For <code><a href="sdk-for-ios-navigate-api-reference-..-..-structs-rendersize-unit">RenderSize.Unit</a></code> only <code><a href="../../Structs/RenderSize/Unit.html#/s:7heresdk10RenderSizeV4UnitO6pixelsyA2EmF">RenderSize.Unit.pixels</a></code> is supported.</p>
+<p>For <code><a href="sdk-for-ios-navigate-api-reference-structs-mapmeasure-kind">MapMeasure.Kind</a></code> only <code><a href="../../Structs/MapMeasure/Kind.html#/s:7heresdk10MapMeasureV4KindO9zoomLevelyA2EmF">MapMeasure.Kind.zoomLevel</a></code> is supported.</p>
+<p>For <code><a href="sdk-for-ios-navigate-api-reference-structs-rendersize-unit">RenderSize.Unit</a></code> only <code><a href="../../Structs/RenderSize/Unit.html#/s:7heresdk10RenderSizeV4UnitO6pixelsyA2EmF">RenderSize.Unit.pixels</a></code> is supported.</p>
 <p><code>lineWidth</code> must not be 0 (<code>lineWidth.sizes</code> with all values set to 0.0).</p>
 <p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
 behavior. Related APIs may change for new releases without a deprecation process.</p>
@@ -96,7 +96,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">lineWidth</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-structs-mapmeasuredependentrendersize">MapMeasureDependentRenderSize</a></span><span class="p">,</span> <span class="nv">capShape</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-enums-linecap">LineCap</a></span><span class="p">,</span> <span class="nv">colorStops</span><span class="p">:</span> <span class="p">[</span><span class="kt">Double</span><span class="p">],</span> <span class="nv">colorIndices</span><span class="p">:</span> <span class="p">[</span><span class="kt">UInt32</span><span class="p">],</span> <span class="nv">colors</span><span class="p">:</span> <span class="p">[</span><span class="kt">UIColor</span><span class="p">],</span> <span class="nv">gradientLength</span><span class="p">:</span> <span class="kt">Double</span><span class="p">)</span> <span class="k">throws</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">lineWidth</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-mapmeasuredependentrendersize">MapMeasureDependentRenderSize</a></span><span class="p">,</span> <span class="nv">capShape</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-linecap">LineCap</a></span><span class="p">,</span> <span class="nv">colorStops</span><span class="p">:</span> <span class="p">[</span><span class="kt">Double</span><span class="p">],</span> <span class="nv">colorIndices</span><span class="p">:</span> <span class="p">[</span><span class="kt">UInt32</span><span class="p">],</span> <span class="nv">colors</span><span class="p">:</span> <span class="p">[</span><span class="kt">UIColor</span><span class="p">],</span> <span class="nv">gradientLength</span><span class="p">:</span> <span class="kt">Double</span><span class="p">)</span> <span class="k">throws</span></code></pre>
 </div>
 </div>
 <div>
@@ -219,8 +219,8 @@ and <code>outlineWidth</code>, the value is constant and equal to the width give
 the biggest map measure in the <code>lineWidth</code> and <code>outlineWidth</code>.</p>
 <p>At map measures between two nearest given map measure is
 linearly interpolated between width values given for these map measures.</p>
-<p>For <code><a href="sdk-for-ios-navigate-api-reference-..-..-structs-mapmeasure-kind">MapMeasure.Kind</a></code> only <code><a href="../../Structs/MapMeasure/Kind.html#/s:7heresdk10MapMeasureV4KindO9zoomLevelyA2EmF">MapMeasure.Kind.zoomLevel</a></code> is supported.</p>
-<p>For <code><a href="sdk-for-ios-navigate-api-reference-..-..-structs-rendersize-unit">RenderSize.Unit</a></code> only <code><a href="../../Structs/RenderSize/Unit.html#/s:7heresdk10RenderSizeV4UnitO6pixelsyA2EmF">RenderSize.Unit.pixels</a></code> is supported.</p>
+<p>For <code><a href="sdk-for-ios-navigate-api-reference-structs-mapmeasure-kind">MapMeasure.Kind</a></code> only <code><a href="../../Structs/MapMeasure/Kind.html#/s:7heresdk10MapMeasureV4KindO9zoomLevelyA2EmF">MapMeasure.Kind.zoomLevel</a></code> is supported.</p>
+<p>For <code><a href="sdk-for-ios-navigate-api-reference-structs-rendersize-unit">RenderSize.Unit</a></code> only <code><a href="../../Structs/RenderSize/Unit.html#/s:7heresdk10RenderSizeV4UnitO6pixelsyA2EmF">RenderSize.Unit.pixels</a></code> is supported.</p>
 <p><code>lineWidth</code> must not be 0 (<code>lineWidth.sizes</code> with all values set to 0.0).</p>
 <p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
 behavior. Related APIs may change for new releases without a deprecation process.</p>
@@ -233,7 +233,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">lineWidth</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-structs-mapmeasuredependentrendersize">MapMeasureDependentRenderSize</a></span><span class="p">,</span> <span class="nv">outlineWidth</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-structs-mapmeasuredependentrendersize">MapMeasureDependentRenderSize</a></span><span class="p">,</span> <span class="nv">outlineColor</span><span class="p">:</span> <span class="kt">UIColor</span><span class="p">,</span> <span class="nv">capShape</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-enums-linecap">LineCap</a></span><span class="p">,</span> <span class="nv">colorStops</span><span class="p">:</span> <span class="p">[</span><span class="kt">Double</span><span class="p">],</span> <span class="nv">colorIndices</span><span class="p">:</span> <span class="p">[</span><span class="kt">UInt32</span><span class="p">],</span> <span class="nv">colors</span><span class="p">:</span> <span class="p">[</span><span class="kt">UIColor</span><span class="p">],</span> <span class="nv">gradientLength</span><span class="p">:</span> <span class="kt">Double</span><span class="p">)</span> <span class="k">throws</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">lineWidth</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-mapmeasuredependentrendersize">MapMeasureDependentRenderSize</a></span><span class="p">,</span> <span class="nv">outlineWidth</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-mapmeasuredependentrendersize">MapMeasureDependentRenderSize</a></span><span class="p">,</span> <span class="nv">outlineColor</span><span class="p">:</span> <span class="kt">UIColor</span><span class="p">,</span> <span class="nv">capShape</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-linecap">LineCap</a></span><span class="p">,</span> <span class="nv">colorStops</span><span class="p">:</span> <span class="p">[</span><span class="kt">Double</span><span class="p">],</span> <span class="nv">colorIndices</span><span class="p">:</span> <span class="p">[</span><span class="kt">UInt32</span><span class="p">],</span> <span class="nv">colors</span><span class="p">:</span> <span class="p">[</span><span class="kt">UIColor</span><span class="p">],</span> <span class="nv">gradientLength</span><span class="p">:</span> <span class="kt">Double</span><span class="p">)</span> <span class="k">throws</span></code></pre>
 </div>
 </div>
 <div>
@@ -366,8 +366,8 @@ An empty list is not allowed.</p>
 <div class="pointer"></div>
 <div class="abstract">
 <p>Sets lists of colors and multiple color segment stops for the polyline to be colored in.
-When this representation is already set on any <code><a href="sdk-for-ios-navigate-api-reference-..-..-classes-mappolyline">MapPolyline</a></code>, values will be applied on that <code><a href="sdk-for-ios-navigate-api-reference-..-..-classes-mappolyline">MapPolyline</a></code> right away.
-If this representation is not set on any <code><a href="sdk-for-ios-navigate-api-reference-..-..-classes-mappolyline">MapPolyline</a></code>, values will be applied once representation is set on a <code><a href="sdk-for-ios-navigate-api-reference-..-..-classes-mappolyline">MapPolyline</a></code>.</p>
+When this representation is already set on any <code><a href="sdk-for-ios-navigate-api-reference-classes-mappolyline">MapPolyline</a></code>, values will be applied on that <code><a href="sdk-for-ios-navigate-api-reference-classes-mappolyline">MapPolyline</a></code> right away.
+If this representation is not set on any <code><a href="sdk-for-ios-navigate-api-reference-classes-mappolyline">MapPolyline</a></code>, values will be applied once representation is set on a <code><a href="sdk-for-ios-navigate-api-reference-classes-mappolyline">MapPolyline</a></code>.</p>
 <p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
 behavior. Related APIs may change for new releases without a deprecation process.</p>
 </div>
@@ -461,8 +461,8 @@ For this smallest segment gradient length is applied as-is, for all other segmen
 smallest segment’s size to other segment size ratio.</p>
 <p>Length of ‘0.0’ is the default value which means blending will not be applied.
 Valid value range is [0.0, 1.0]. Out of range values are not supported.
-When this representation is already set on any <code><a href="sdk-for-ios-navigate-api-reference-..-..-classes-mappolyline">MapPolyline</a></code>, value will be applied on that <code><a href="sdk-for-ios-navigate-api-reference-..-..-classes-mappolyline">MapPolyline</a></code> right away.
-If this representation is not set on any <code><a href="sdk-for-ios-navigate-api-reference-..-..-classes-mappolyline">MapPolyline</a></code>, value will be applied once representation is set on a <code><a href="sdk-for-ios-navigate-api-reference-..-..-classes-mappolyline">MapPolyline</a></code>.</p>
+When this representation is already set on any <code><a href="sdk-for-ios-navigate-api-reference-classes-mappolyline">MapPolyline</a></code>, value will be applied on that <code><a href="sdk-for-ios-navigate-api-reference-classes-mappolyline">MapPolyline</a></code> right away.
+If this representation is not set on any <code><a href="sdk-for-ios-navigate-api-reference-classes-mappolyline">MapPolyline</a></code>, value will be applied once representation is set on a <code><a href="sdk-for-ios-navigate-api-reference-classes-mappolyline">MapPolyline</a></code>.</p>
 <p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
 behavior. Related APIs may change for new releases without a deprecation process.</p>
 </div>

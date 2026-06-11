@@ -1,5 +1,5 @@
 ---
-title: "Navigation / SafetyCameraWarningDelegate"
+title: "sdk-for-ios-navigate-api-reference-protocols-safetycamerawarningdelegate"
 slug: "sdk-for-ios-navigate-api-reference-protocols-safetycamerawarningdelegate"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-safetycamerawarningdelegate"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-navigation">Navigation</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-navigation">Navigation</a>
+<img alt="" id="carat" src="/carat.png"/>
         SafetyCameraWarningDelegate Protocol Reference
       </p>
 </div>
@@ -35,8 +35,8 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-safetycamerawarningdelegate"
 </div>
 <p>This protocol
 should be implemented in order to receive notifications on safety cameras.
-A <code><a href="sdk-for-ios-navigate-api-reference-..-structs-safetycamerawarning">SafetyCameraWarning</a></code> will not be given until the previous warning of that type has been passed.
-For example, a route with <code><a href="sdk-for-ios-navigate-api-reference-..-structs-safetycamerawarning">SafetyCameraWarning</a></code> 120 meters and <code><a href="sdk-for-ios-navigate-api-reference-..-structs-safetycamerawarning">SafetyCameraWarning</a></code> 160 meters ahead,
+A <code><a href="sdk-for-ios-navigate-api-reference-structs-safetycamerawarning">SafetyCameraWarning</a></code> will not be given until the previous warning of that type has been passed.
+For example, a route with <code><a href="sdk-for-ios-navigate-api-reference-structs-safetycamerawarning">SafetyCameraWarning</a></code> 120 meters and <code><a href="sdk-for-ios-navigate-api-reference-structs-safetycamerawarning">SafetyCameraWarning</a></code> 160 meters ahead,
 the first <code>SafetyCameraWarning.distance_to_camera_in_meters</code> is 120 meters
 and the next <code>SafetyCameraWarning.distance_to_camera_in_meters</code> is then 40 meters,
 since that is the distance between the first and second warnings.</p>
@@ -60,13 +60,13 @@ That is a first in first out approach is used when multiple safety cameras are r
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Called whenever a new <code><a href="sdk-for-ios-navigate-api-reference-..-structs-safetycamerawarning">SafetyCameraWarning</a></code> is available.</p>
+<p>Called whenever a new <code><a href="sdk-for-ios-navigate-api-reference-structs-safetycamerawarning">SafetyCameraWarning</a></code> is available.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">onSafetyCameraWarningUpdated</span><span class="p">(</span><span class="n">_</span> <span class="nv">safetyCameraWarning</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-safetycamerawarning">SafetyCameraWarning</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">onSafetyCameraWarningUpdated</span><span class="p">(</span><span class="n">_</span> <span class="nv">safetyCameraWarning</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-safetycamerawarning">SafetyCameraWarning</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>

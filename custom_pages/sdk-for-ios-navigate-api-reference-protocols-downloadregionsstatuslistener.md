@@ -1,5 +1,5 @@
 ---
-title: "MapLoader / DownloadRegionsStatusListener"
+title: "sdk-for-ios-navigate-api-reference-protocols-downloadregionsstatuslistener"
 slug: "sdk-for-ios-navigate-api-reference-protocols-downloadregionsstatuslistener"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-downloadregionsstatuslistene
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-maploader">MapLoader</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-maploader">MapLoader</a>
+<img alt="" id="carat" src="/carat.png"/>
         DownloadRegionsStatusListener Protocol Reference
       </p>
 </div>
@@ -63,7 +63,7 @@ Invoked on the main thread.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">onDownloadRegionsComplete</span><span class="p">(</span><span class="nv">error</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-maploadererror">MapLoaderError</a></span><span class="p">?,</span> <span class="nv">regions</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-regionid">RegionId</a></span><span class="p">]?)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">onDownloadRegionsComplete</span><span class="p">(</span><span class="nv">error</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-maploadererror">MapLoaderError</a></span><span class="p">?,</span> <span class="nv">regions</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-regionid">RegionId</a></span><span class="p">]?)</span></code></pre>
 </div>
 </div>
 <div>
@@ -123,7 +123,7 @@ Invoked on the main thread.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">onProgress</span><span class="p">(</span><span class="nv">region</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-regionid">RegionId</a></span><span class="p">,</span> <span class="nv">percentage</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">onProgress</span><span class="p">(</span><span class="nv">region</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-regionid">RegionId</a></span><span class="p">,</span> <span class="nv">percentage</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -180,7 +180,7 @@ region.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">onPause</span><span class="p">(</span><span class="nv">error</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-maploadererror">MapLoaderError</a></span><span class="p">?)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">onPause</span><span class="p">(</span><span class="nv">error</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-maploadererror">MapLoaderError</a></span><span class="p">?)</span></code></pre>
 </div>
 </div>
 <div>

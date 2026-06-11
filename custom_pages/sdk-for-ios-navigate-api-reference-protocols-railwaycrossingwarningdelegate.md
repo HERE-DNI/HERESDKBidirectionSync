@@ -1,5 +1,5 @@
 ---
-title: "Navigation / RailwayCrossingWarningDelegate"
+title: "sdk-for-ios-navigate-api-reference-protocols-railwaycrossingwarningdelegate"
 slug: "sdk-for-ios-navigate-api-reference-protocols-railwaycrossingwarningdelegate"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-railwaycrossingwarningdelega
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-navigation">Navigation</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-navigation">Navigation</a>
+<img alt="" id="carat" src="/carat.png"/>
         RailwayCrossingWarningDelegate Protocol Reference
       </p>
 </div>
@@ -65,7 +65,7 @@ set to <code>DistanceType.AHEAD</code> and <code>DistanceType.PASSED</code> when
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">onRailwayCrossingWarningUpdated</span><span class="p">(</span><span class="n">_</span> <span class="nv">railwayCrossingWarning</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-railwaycrossingwarning">RailwayCrossingWarning</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">onRailwayCrossingWarningUpdated</span><span class="p">(</span><span class="n">_</span> <span class="nv">railwayCrossingWarning</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-railwaycrossingwarning">RailwayCrossingWarning</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>

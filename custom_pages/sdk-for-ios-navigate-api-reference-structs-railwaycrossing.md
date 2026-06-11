@@ -1,5 +1,5 @@
 ---
-title: "MapData / RailwayCrossing"
+title: "sdk-for-ios-navigate-api-reference-structs-railwaycrossing"
 slug: "sdk-for-ios-navigate-api-reference-structs-railwaycrossing"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-structs-railwaycrossing"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-mapdata">MapData</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-mapdata">MapData</a>
+<img alt="" id="carat" src="/carat.png"/>
         RailwayCrossing Structure Reference
       </p>
 </div>
@@ -34,7 +34,7 @@ slug: "sdk-for-ios-navigate-api-reference-structs-railwaycrossing"
 </div>
 </div>
 <p>Identifies the presence and the location of railway corssings.
-Included in <code><a href="sdk-for-ios-navigate-api-reference-..-classes-segmentdata">SegmentData</a></code> only if <code><a href="../Structs/SegmentDataLoaderOptions.html#/s:7heresdk24SegmentDataLoaderOptionsV20loadRailwayCrossingsSbvp">SegmentDataLoaderOptions.loadRailwayCrossings</a></code> is set to <code>true</code>.</p>
+Included in <code><a href="sdk-for-ios-navigate-api-reference-classes-segmentdata">SegmentData</a></code> only if <code><a href="../Structs/SegmentDataLoaderOptions.html#/s:7heresdk24SegmentDataLoaderOptionsV20loadRailwayCrossingsSbvp">SegmentDataLoaderOptions.loadRailwayCrossings</a></code> is set to <code>true</code>.</p>
 </section>
 <section class="section task-group-section">
 <div class="task-group">
@@ -114,7 +114,7 @@ Default value is 0.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">railwayCrossingType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-railwaycrossingtype">RailwayCrossingType</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">railwayCrossingType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-railwaycrossingtype">RailwayCrossingType</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -155,7 +155,7 @@ Default value is 0.</li>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">startOffsetInMeters</span><span class="p">:</span> <span class="kt">Int32</span> <span class="o">=</span> <span class="mi">0</span><span class="p">,</span> <span class="nv">endOffsetInMeters</span><span class="p">:</span> <span class="kt">Int32</span> <span class="o">=</span> <span class="mi">0</span><span class="p">,</span> <span class="nv">railwayCrossingType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-railwaycrossingtype">RailwayCrossingType</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">startOffsetInMeters</span><span class="p">:</span> <span class="kt">Int32</span> <span class="o">=</span> <span class="mi">0</span><span class="p">,</span> <span class="nv">endOffsetInMeters</span><span class="p">:</span> <span class="kt">Int32</span> <span class="o">=</span> <span class="mi">0</span><span class="p">,</span> <span class="nv">railwayCrossingType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-railwaycrossingtype">RailwayCrossingType</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>

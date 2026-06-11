@@ -1,5 +1,5 @@
 ---
-title: "Venues / VenueTopology"
+title: "sdk-for-ios-navigate-api-reference-classes-venuetopology"
 slug: "sdk-for-ios-navigate-api-reference-classes-venuetopology"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-classes-venuetopology"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-venues">Venues</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-venues">Venues</a>
+<img alt="" id="carat" src="/carat.png"/>
         VenueTopology Class Reference
       </p>
 </div>
@@ -35,7 +35,7 @@ slug: "sdk-for-ios-navigate-api-reference-classes-venuetopology"
 <pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">VenueTopology</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
-<p>Represents routing topologies inside the <code><a href="sdk-for-ios-navigate-api-reference-..-classes-venuelevel">VenueLevel</a></code>. The topologies can be paths
+<p>Represents routing topologies inside the <code><a href="sdk-for-ios-navigate-api-reference-classes-venuelevel">VenueLevel</a></code>. The topologies can be paths
 used for enabling routing services.</p>
 </section>
 <section class="section task-group-section">
@@ -60,7 +60,7 @@ used for enabling routing services.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">typealias</span> <span class="kt">AccessCharacteristicsList</span> <span class="o">=</span> <span class="p">[</span><span class="kt">VenueTopology</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-venuetopology-accesscharacteristics">AccessCharacteristics</a></span><span class="p">]</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">typealias</span> <span class="kt">AccessCharacteristicsList</span> <span class="o">=</span> <span class="p">[</span><span class="kt">VenueTopology</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-venuetopology-accesscharacteristics">AccessCharacteristics</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -110,7 +110,7 @@ used for enabling routing services.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">level</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-venuelevel">VenueLevel</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">level</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-venuelevel">VenueLevel</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -129,7 +129,7 @@ used for enabling routing services.</p>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>List of <code><a href="sdk-for-ios-navigate-api-reference-..-classes-venuetopology-accesscharacteristics">VenueTopology.AccessCharacteristics</a></code></p>
+<p>List of <code><a href="sdk-for-ios-navigate-api-reference-classes-venuetopology-accesscharacteristics">VenueTopology.AccessCharacteristics</a></code></p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
@@ -155,17 +155,17 @@ used for enabling routing services.</p>
 <div class="pointer"></div>
 <div class="abstract">
 <p>Represents the access characreisticas of a topology.
-Access characteristics is a combination of <code><a href="sdk-for-ios-navigate-api-reference-..-enums-venuetransportmode">VenueTransportMode</a></code> which is suppoted on this topology
-and the <code><a href="sdk-for-ios-navigate-api-reference-..-classes-venuetopology-topologydirectionality">VenueTopology.TopologyDirectionality</a></code> towards which it is allowed.</p>
-<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-..-classes-venuetopology-accesscharacteristics">See more</a>
+Access characteristics is a combination of <code><a href="sdk-for-ios-navigate-api-reference-enums-venuetransportmode">VenueTransportMode</a></code> which is suppoted on this topology
+and the <code><a href="sdk-for-ios-navigate-api-reference-classes-venuetopology-topologydirectionality">VenueTopology.TopologyDirectionality</a></code> towards which it is allowed.</p>
+<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-classes-venuetopology-accesscharacteristics">See more</a>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
 <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">AccessCharacteristics</span></code></pre>
-<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-venuetopology">VenueTopology</a></span><span class="o">.</span><span class="kt">AccessCharacteristics</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
-<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-venuetopology">VenueTopology</a></span><span class="o">.</span><span class="kt">AccessCharacteristics</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-venuetopology">VenueTopology</a></span><span class="o">.</span><span class="kt">AccessCharacteristics</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-venuetopology">VenueTopology</a></span><span class="o">.</span><span class="kt">AccessCharacteristics</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -185,7 +185,7 @@ and the <code><a href="sdk-for-ios-navigate-api-reference-..-classes-venuetopolo
 <div class="pointer"></div>
 <div class="abstract">
 <p>Available directions.</p>
-<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-..-classes-venuetopology-topologydirectionality">See more</a>
+<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-classes-venuetopology-topologydirectionality">See more</a>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>

@@ -1,5 +1,5 @@
 ---
-title: "VenueGeometry / InternalAddress"
+title: "sdk-for-ios-navigate-api-reference-classes-venuegeometry-internaladdress"
 slug: "sdk-for-ios-navigate-api-reference-classes-venuegeometry-internaladdress"
 ---
 
@@ -15,12 +15,12 @@ slug: "sdk-for-ios-navigate-api-reference-classes-venuegeometry-internaladdress"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-..-index">heresdk</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-..-venues">Venues</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-..-classes-venuegeometry">VenueGeometry</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-venues">Venues</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-classes-venuegeometry">VenueGeometry</a>
+<img alt="" id="carat" src="/carat.png"/>
         InternalAddress Class Reference
       </p>
 </div>
@@ -33,8 +33,8 @@ slug: "sdk-for-ios-navigate-api-reference-classes-venuegeometry-internaladdress"
 <div class="declaration">
 <div class="language">
 <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">InternalAddress</span></code></pre>
-<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-classes-venuegeometry">VenueGeometry</a></span><span class="o">.</span><span class="kt">InternalAddress</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
-<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-classes-venuegeometry">VenueGeometry</a></span><span class="o">.</span><span class="kt">InternalAddress</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-venuegeometry">VenueGeometry</a></span><span class="o">.</span><span class="kt">InternalAddress</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-venuegeometry">VenueGeometry</a></span><span class="o">.</span><span class="kt">InternalAddress</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Represents an internal addresses of the geometry inside the venue. The internal

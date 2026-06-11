@@ -1,5 +1,5 @@
 ---
-title: "MapLoader / MapUpdater"
+title: "sdk-for-ios-navigate-api-reference-classes-mapupdater"
 slug: "sdk-for-ios-navigate-api-reference-classes-mapupdater"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-classes-mapupdater"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-maploader">MapLoader</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-maploader">MapLoader</a>
+<img alt="" id="carat" src="/carat.png"/>
         MapUpdater Class Reference
       </p>
 </div>
@@ -35,16 +35,16 @@ slug: "sdk-for-ios-navigate-api-reference-classes-mapupdater"
 <pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapUpdater</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
-<p>A class for updating regions previously downloaded using the <code><a href="sdk-for-ios-navigate-api-reference-..-classes-mapdownloader">MapDownloader</a></code>.
+<p>A class for updating regions previously downloaded using the <code><a href="sdk-for-ios-navigate-api-reference-classes-mapdownloader">MapDownloader</a></code>.
 First, updates for the regions are downloaded. Once the download is complete, the update process begins,
 installing the new content.
 It is recommended to regularly call <code><a href="../Classes/MapUpdater.html#/s:7heresdk10MapUpdaterC26retrieveCatalogsUpdateInfo8callbackAA10TaskHandle_pyAA0B11LoaderErrorOSg_SayAA07CatalogfG0VGSgtc_tF">MapUpdater.retrieveCatalogsUpdateInfo(...)</a></code> to check for available updates
 for any downloaded regions.</p>
 <p>If updates are available, regions can be updated asynchronously using <code><a href="../Classes/MapUpdater.html#/s:7heresdk10MapUpdaterC13updateCatalog11catalogInfo10completionAA0E10UpdateTaskCAA0eiG0V_AA0eI16ProgressListener_ptF">MapUpdater.updateCatalog(...)</a></code>.
-The <code><a href="sdk-for-ios-navigate-api-reference-..-protocols-mapupdateprogresslistener">MapUpdateProgressListener</a></code> provides update progress for each region.</p>
+The <code><a href="sdk-for-ios-navigate-api-reference-protocols-mapupdateprogresslistener">MapUpdateProgressListener</a></code> provides update progress for each region.</p>
 <p>Incremental map updates are supported, by default: Instead of downloading an entire region,
 only the parts that have changed will be installed. This results in a faster update process.
-MapUpdater also aligns previously downloaded content with <code><a href="sdk-for-ios-navigate-api-reference-..-structs-layerconfiguration">LayerConfiguration</a></code> changes made via <code><a href="sdk-for-ios-navigate-api-reference-..-structs-sdkoptions">SDKOptions</a></code>.</p>
+MapUpdater also aligns previously downloaded content with <code><a href="sdk-for-ios-navigate-api-reference-structs-layerconfiguration">LayerConfiguration</a></code> changes made via <code><a href="sdk-for-ios-navigate-api-reference-structs-sdkoptions">SDKOptions</a></code>.</p>
 <p>Note that patching (also called “incremental updates”) is only supported for up to 8 versions. For example, if an update started
 with version x.y.0 then it will be supported till x.y.8 and stopped starting with x.y.9.
 Usually, OCM updates are released weekly. Incremental updates will stop after 2 months and a full update is performed instead.</p>
@@ -52,15 +52,15 @@ Usually, OCM updates are released weekly. Incremental updates will stop after 2 
 after new map data has been successfully downloaded. Regions that fail to update
 must be retried in a new call. Paused updates can be resumed later.</p>
 <p>During the update process, <code>MapUpdater</code> internally retries failed downloads
-until a timeout occurs. If this happens, it is reported via <code><a href="sdk-for-ios-navigate-api-reference-..-protocols-mapupdateprogresslistener">MapUpdateProgressListener</a></code>.</p>
+until a timeout occurs. If this happens, it is reported via <code><a href="sdk-for-ios-navigate-api-reference-protocols-mapupdateprogresslistener">MapUpdateProgressListener</a></code>.</p>
 <p>If the user cancels the update process during the update phase, it is ignored.
 The update phase begins after all content has been downloaded, then the HERE SDK installs
 and replaces the existing regions. Cancellation is only possible during the download phase,
 and a successful cancellation is indicated via <code>onComplete(...)</code>.</p>
-<p>Note that a <code><a href="../Enums/MapLoaderError.html#/s:7heresdk14MapLoaderErrorO8notReadyyA2CmF">MapLoaderError.notReady</a></code> occurs when the <code><a href="sdk-for-ios-navigate-api-reference-..-classes-mapdownloader">MapDownloader</a></code> is used in parallel.
+<p>Note that a <code><a href="../Enums/MapLoaderError.html#/s:7heresdk14MapLoaderErrorO8notReadyyA2CmF">MapLoaderError.notReady</a></code> occurs when the <code><a href="sdk-for-ios-navigate-api-reference-classes-mapdownloader">MapDownloader</a></code> is used in parallel.
 In general, background updates are not supported explicitly, as the OS can abort background processes.
 In addition, the OfflineSearchEngine and the OfflineRoutingEngine cannot be used while a map update is
-in progress and it will be indicated by a <code><a href="sdk-for-ios-navigate-api-reference-..-enums-maploadererror">MapLoaderError</a></code>.</p>
+in progress and it will be indicated by a <code><a href="sdk-for-ios-navigate-api-reference-enums-maploadererror">MapLoaderError</a></code>.</p>
 </section>
 <section class="section task-group-section">
 <div class="task-group">
@@ -117,7 +117,7 @@ property helps to  determine the success or failure rate of applied patches.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">updateStatistics</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-updatestatistics">UpdateStatistics</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">updateStatistics</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-updatestatistics">UpdateStatistics</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -148,7 +148,7 @@ allows to make faster use of the downloaded region and requires less disk space 
 currently updated region is kept until the process completes.
 However, with an <code><a href="../Classes/MapUpdater/MapUpdateVersionCommitPolicy.html#/s:7heresdk10MapUpdaterC0B25UpdateVersionCommitPolicyO13onFirstRegionyA2EmF">MapUpdater.MapUpdateVersionCommitPolicy.onFirstRegion</a></code> policy the overall
 process can be less reliable and bears a higher risk of errors.</p>
-<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-..-classes-mapupdater-mapupdateversioncommitpolicy">See more</a>
+<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-classes-mapupdater-mapupdateversioncommitpolicy">See more</a>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
@@ -173,13 +173,13 @@ process can be less reliable and bears a higher risk of errors.</p>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Gets a single instance of this class per provided <code><a href="sdk-for-ios-navigate-api-reference-..-classes-sdknativeengine">SDKNativeEngine</a></code>.</p>
+<p>Gets a single instance of this class per provided <code><a href="sdk-for-ios-navigate-api-reference-classes-sdknativeengine">SDKNativeEngine</a></code>.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="kd">func</span> <span class="nf">fromEngineAsync</span><span class="p">(</span><span class="n">_</span> <span class="nv">sdkEngine</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-sdknativeengine">SDKNativeEngine</a></span><span class="p">,</span> <span class="n">_</span> <span class="nv">mapUpdaterConstructionCallback</span><span class="p">:</span> <span class="kd">@escaping</span> <span class="kt"><a href="../MapLoader.html#/s:7heresdk29MapUpdaterConstructionHandlera">MapUpdaterConstructionHandler</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="kd">func</span> <span class="nf">fromEngineAsync</span><span class="p">(</span><span class="n">_</span> <span class="nv">sdkEngine</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-sdknativeengine">SDKNativeEngine</a></span><span class="p">,</span> <span class="n">_</span> <span class="nv">mapUpdaterConstructionCallback</span><span class="p">:</span> <span class="kd">@escaping</span> <span class="kt"><a href="../MapLoader.html#/s:7heresdk29MapUpdaterConstructionHandlera">MapUpdaterConstructionHandler</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -241,7 +241,7 @@ This information is only needed for debugging purposes.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getCurrentMapVersion</span><span class="p">()</span> <span class="k">throws</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-mapversionhandle">MapVersionHandle</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getCurrentMapVersion</span><span class="p">()</span> <span class="k">throws</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-mapversionhandle">MapVersionHandle</a></span></code></pre>
 </div>
 </div>
 <div>
@@ -265,7 +265,7 @@ This information is only needed for debugging purposes.</p>
 <div class="pointer"></div>
 <div class="abstract">
 <p>Performs an asynchronous request for each catalog to update map data to the latest available version.
-This applies to all previously installed <code><a href="sdk-for-ios-navigate-api-reference-..-structs-region">Region</a></code> map data and any incomplete downloads in a pending state.</p>
+This applies to all previously installed <code><a href="sdk-for-ios-navigate-api-reference-structs-region">Region</a></code> map data and any incomplete downloads in a pending state.</p>
 <p>If no regions are downloaded, this method updates only the map version.
 The map cache and persisted regions are always bound to the same map version.</p>
 <p>If no updates are available, <code><a href="../MapLoader.html#/s:7heresdk26CatalogsUpdateInfoCallbacka">CatalogsUpdateInfoCallback</a></code> from
@@ -279,14 +279,14 @@ Information about the required disk space is available in <code><a href="../Stru
 <code><a href="../Classes/MapUpdater/MapUpdateVersionCommitPolicy.html#/s:7heresdk10MapUpdaterC0B25UpdateVersionCommitPolicyO10onCompleteyA2EmF">MapUpdater.MapUpdateVersionCommitPolicy.onComplete</a></code>, try using <code><a href="../Classes/MapUpdater/MapUpdateVersionCommitPolicy.html#/s:7heresdk10MapUpdaterC0B25UpdateVersionCommitPolicyO13onFirstRegionyA2EmF">MapUpdater.MapUpdateVersionCommitPolicy.onFirstRegion</a></code>.
 This option requires less space but follows a different strategy for handling errors during the map update.</p>
 <p>If indexing is enabled through <code>OfflineSearchEngine.setIndexOptions</code>, the index is rebuilt after the map is updated.
-The index helps <code><a href="sdk-for-ios-navigate-api-reference-..-classes-offlinesearchengine">OfflineSearchEngine</a></code> provide better search results.</p>
+The index helps <code><a href="sdk-for-ios-navigate-api-reference-classes-offlinesearchengine">OfflineSearchEngine</a></code> provide better search results.</p>
 <p>Note: Indexing is a beta feature and may have bugs or unexpected behavior.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">updateCatalog</span><span class="p">(</span><span class="nv">catalogInfo</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-catalogupdateinfo">CatalogUpdateInfo</a></span><span class="p">,</span> <span class="nv">completion</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-catalogupdateprogresslistener">CatalogUpdateProgressListener</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-catalogupdatetask">CatalogUpdateTask</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">updateCatalog</span><span class="p">(</span><span class="nv">catalogInfo</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-catalogupdateinfo">CatalogUpdateInfo</a></span><span class="p">,</span> <span class="nv">completion</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-catalogupdateprogresslistener">CatalogUpdateProgressListener</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-catalogupdatetask">CatalogUpdateTask</a></span></code></pre>
 </div>
 </div>
 <div>
@@ -348,7 +348,7 @@ An empty list in <code><a href="../MapLoader.html#/s:7heresdk26CatalogsUpdateInf
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">retrieveCatalogsUpdateInfo</span><span class="p">(</span><span class="nv">callback</span><span class="p">:</span> <span class="kd">@escaping</span> <span class="kt"><a href="../MapLoader.html#/s:7heresdk26CatalogsUpdateInfoCallbacka">CatalogsUpdateInfoCallback</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-taskhandle">TaskHandle</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">retrieveCatalogsUpdateInfo</span><span class="p">(</span><span class="nv">callback</span><span class="p">:</span> <span class="kd">@escaping</span> <span class="kt"><a href="../MapLoader.html#/s:7heresdk26CatalogsUpdateInfoCallbacka">CatalogsUpdateInfoCallback</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-taskhandle">TaskHandle</a></span></code></pre>
 </div>
 </div>
 <div>
@@ -396,7 +396,7 @@ An empty list in <code><a href="../MapLoader.html#/s:7heresdk26CatalogsUpdateInf
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">setVersionCommitPolicy</span><span class="p">(</span><span class="nv">versionCommitPolicy</span><span class="p">:</span> <span class="kt">MapUpdater</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-mapupdater-mapupdateversioncommitpolicy">MapUpdateVersionCommitPolicy</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">setVersionCommitPolicy</span><span class="p">(</span><span class="nv">versionCommitPolicy</span><span class="p">:</span> <span class="kt">MapUpdater</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-mapupdater-mapupdateversioncommitpolicy">MapUpdateVersionCommitPolicy</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -411,7 +411,7 @@ An empty list in <code><a href="../MapLoader.html#/s:7heresdk26CatalogsUpdateInf
 </td>
 <td>
 <div>
-<p>to choose from <code><a href="sdk-for-ios-navigate-api-reference-..-classes-mapupdater-mapupdateversioncommitpolicy">MapUpdater.MapUpdateVersionCommitPolicy</a></code></p>
+<p>to choose from <code><a href="sdk-for-ios-navigate-api-reference-classes-mapupdater-mapupdateversioncommitpolicy">MapUpdater.MapUpdateVersionCommitPolicy</a></code></p>
 </div>
 </td>
 </tr>

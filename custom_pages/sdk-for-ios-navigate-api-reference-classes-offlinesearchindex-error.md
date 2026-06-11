@@ -1,5 +1,5 @@
 ---
-title: "OfflineSearchIndex / Error"
+title: "sdk-for-ios-navigate-api-reference-classes-offlinesearchindex-error"
 slug: "sdk-for-ios-navigate-api-reference-classes-offlinesearchindex-error"
 ---
 
@@ -15,12 +15,12 @@ slug: "sdk-for-ios-navigate-api-reference-classes-offlinesearchindex-error"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-..-index">heresdk</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-..-search">Search</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-..-classes-offlinesearchindex">OfflineSearchIndex</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-search">Search</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-classes-offlinesearchindex">OfflineSearchIndex</a>
+<img alt="" id="carat" src="/carat.png"/>
         Error Enumeration Reference
       </p>
 </div>
@@ -138,7 +138,7 @@ Call <code>MapDownloader.repairPersistentMap</code> to retry index generation.</
 after finishing a map operation while the previous indexing operation was in progress.
 Any previous available index would be deleted when this error occurs.
 In later case, SDK would finish the latest indexing operation successfully and it can be tracked through
-<code><a href="sdk-for-ios-navigate-api-reference-..-..-protocols-offlinesearchindexlistener">OfflineSearchIndexListener</a></code>, otherwise call <code>MapDownloader.repairPersistentMap</code> to retry index generation.</p>
+<code><a href="sdk-for-ios-navigate-api-reference-protocols-offlinesearchindexlistener">OfflineSearchIndexListener</a></code>, otherwise call <code>MapDownloader.repairPersistentMap</code> to retry index generation.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>

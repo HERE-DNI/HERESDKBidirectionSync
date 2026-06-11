@@ -1,5 +1,5 @@
 ---
-title: "Maps / RasterTileSourceLoadResultHandler"
+title: "sdk-for-ios-navigate-api-reference-protocols-rastertilesourceloadresulthandler"
 slug: "sdk-for-ios-navigate-api-reference-protocols-rastertilesourceloadresulthandler"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-rastertilesourceloadresultha
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-maps">Maps</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-maps">Maps</a>
+<img alt="" id="carat" src="/carat.png"/>
         RasterTileSourceLoadResultHandler Protocol Reference
       </p>
 </div>
@@ -57,7 +57,7 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-rastertilesourceloadresultha
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">loaded</span><span class="p">(</span><span class="nv">tileKey</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-tilekey">TileKey</a></span><span class="p">,</span> <span class="nv">data</span><span class="p">:</span> <span class="kt">Data</span><span class="p">,</span> <span class="nv">metadata</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-tilesourcetilemetadata">TileSourceTileMetadata</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">loaded</span><span class="p">(</span><span class="nv">tileKey</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-tilekey">TileKey</a></span><span class="p">,</span> <span class="nv">data</span><span class="p">:</span> <span class="kt">Data</span><span class="p">,</span> <span class="nv">metadata</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-tilesourcetilemetadata">TileSourceTileMetadata</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -126,7 +126,7 @@ Supported are images in PNG or JPEG format.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">failed</span><span class="p">(</span><span class="n">_</span> <span class="nv">tileKey</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-tilekey">TileKey</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">failed</span><span class="p">(</span><span class="n">_</span> <span class="nv">tileKey</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-tilekey">TileKey</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>

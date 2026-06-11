@@ -1,5 +1,5 @@
 ---
-title: "MapLoader / ExternalMapDataSourceErrorCode"
+title: "sdk-for-ios-navigate-api-reference-enums-externalmapdatasourceerrorcode"
 slug: "sdk-for-ios-navigate-api-reference-enums-externalmapdatasourceerrorcode"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-enums-externalmapdatasourceerrorcode"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-maploader">MapLoader</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-maploader">MapLoader</a>
+<img alt="" id="carat" src="/carat.png"/>
         ExternalMapDataSourceErrorCode Enumeration Reference
       </p>
 </div>
@@ -34,7 +34,7 @@ slug: "sdk-for-ios-navigate-api-reference-enums-externalmapdatasourceerrorcode"
 <pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">ExternalMapDataSourceErrorCode</span> <span class="p">:</span> <span class="kt">Error</span></code></pre>
 </div>
 </div>
-<p>Describes the reason for failing to configure <code><a href="sdk-for-ios-navigate-api-reference-..-classes-sdknativeengine">SDKNativeEngine</a></code> with external map data source.
+<p>Describes the reason for failing to configure <code><a href="sdk-for-ios-navigate-api-reference-classes-sdknativeengine">SDKNativeEngine</a></code> with external map data source.
 <strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
 Related APIs may change for new releases without a deprecation process.</p>
 </section>

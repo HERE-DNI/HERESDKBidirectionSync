@@ -1,5 +1,5 @@
 ---
-title: "Venues / VenueDelegate"
+title: "sdk-for-ios-navigate-api-reference-protocols-venuedelegate"
 slug: "sdk-for-ios-navigate-api-reference-protocols-venuedelegate"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-venuedelegate"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-venues">Venues</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-venues">Venues</a>
+<img alt="" id="carat" src="/carat.png"/>
         VenueDelegate Protocol Reference
       </p>
 </div>
@@ -34,7 +34,7 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-venuedelegate"
 </div>
 </div>
 <p>The protocol for delegates for
-venue loading events in <code><a href="sdk-for-ios-navigate-api-reference-..-classes-venueservice">VenueService</a></code>.</p>
+venue loading events in <code><a href="sdk-for-ios-navigate-api-reference-classes-venueservice">VenueService</a></code>.</p>
 </section>
 <section class="section task-group-section">
 <div class="task-group">
@@ -58,7 +58,7 @@ venue loading events in <code><a href="sdk-for-ios-navigate-api-reference-..-cla
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">onGetVenueCompleted</span><span class="p">(</span><span class="nv">venueId</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">,</span> <span class="nv">venueModel</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-venuemodel">VenueModel</a></span><span class="p">?,</span> <span class="nv">online</span><span class="p">:</span> <span class="kt">Bool</span><span class="p">,</span> <span class="nv">venueStyle</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-venuestyle">VenueStyle</a></span><span class="p">?)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">onGetVenueCompleted</span><span class="p">(</span><span class="nv">venueId</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">,</span> <span class="nv">venueModel</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-venuemodel">VenueModel</a></span><span class="p">?,</span> <span class="nv">online</span><span class="p">:</span> <span class="kt">Bool</span><span class="p">,</span> <span class="nv">venueStyle</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-venuestyle">VenueStyle</a></span><span class="p">?)</span></code></pre>
 </div>
 </div>
 <div>

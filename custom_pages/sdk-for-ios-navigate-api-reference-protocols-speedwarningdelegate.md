@@ -1,5 +1,5 @@
 ---
-title: "Navigation / SpeedWarningDelegate"
+title: "sdk-for-ios-navigate-api-reference-protocols-speedwarningdelegate"
 slug: "sdk-for-ios-navigate-api-reference-protocols-speedwarningdelegate"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-speedwarningdelegate"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-navigation">Navigation</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-navigation">Navigation</a>
+<img alt="" id="carat" src="/carat.png"/>
         SpeedWarningDelegate Protocol Reference
       </p>
 </div>
@@ -55,13 +55,13 @@ don’t take into account any temporary special speed limits. See <code>SpeedLim
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Called whenever a new <code><a href="sdk-for-ios-navigate-api-reference-..-enums-speedwarningstatus">SpeedWarningStatus</a></code> is available.</p>
+<p>Called whenever a new <code><a href="sdk-for-ios-navigate-api-reference-enums-speedwarningstatus">SpeedWarningStatus</a></code> is available.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">onSpeedWarningStatusChanged</span><span class="p">(</span><span class="n">_</span> <span class="nv">status</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-speedwarningstatus">SpeedWarningStatus</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">onSpeedWarningStatusChanged</span><span class="p">(</span><span class="n">_</span> <span class="nv">status</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-speedwarningstatus">SpeedWarningStatus</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>

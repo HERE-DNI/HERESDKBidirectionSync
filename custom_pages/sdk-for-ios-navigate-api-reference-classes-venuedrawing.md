@@ -1,5 +1,5 @@
 ---
-title: "Venues / VenueDrawing"
+title: "sdk-for-ios-navigate-api-reference-classes-venuedrawing"
 slug: "sdk-for-ios-navigate-api-reference-classes-venuedrawing"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-classes-venuedrawing"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-venues">Venues</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-venues">Venues</a>
+<img alt="" id="carat" src="/carat.png"/>
         VenueDrawing Class Reference
       </p>
 </div>
@@ -35,7 +35,7 @@ slug: "sdk-for-ios-navigate-api-reference-classes-venuedrawing"
 <pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">VenueDrawing</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
-<p>Represents a drawing inside the <code><a href="sdk-for-ios-navigate-api-reference-..-classes-venuemodel">VenueModel</a></code>. The drawing can be
+<p>Represents a drawing inside the <code><a href="sdk-for-ios-navigate-api-reference-classes-venuemodel">VenueModel</a></code>. The drawing can be
 a separate building in a complex of buildings, or show a different
 view of a venue. For example, in an airport, one drawing can be used
 as an overview of all buildings in this venue, while other drawings
@@ -63,7 +63,7 @@ contains details for each terminal in this airport.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">typealias</span> <span class="kt">GeometryArray</span> <span class="o">=</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-venuegeometry">VenueGeometry</a></span><span class="p">]</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">typealias</span> <span class="kt">GeometryArray</span> <span class="o">=</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-venuegeometry">VenueGeometry</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -88,7 +88,7 @@ contains details for each terminal in this airport.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">typealias</span> <span class="kt">StringToPropertyMap</span> <span class="o">=</span> <span class="p">[</span><span class="kt">String</span> <span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-property">Property</a></span><span class="p">]</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">typealias</span> <span class="kt">StringToPropertyMap</span> <span class="o">=</span> <span class="p">[</span><span class="kt">String</span> <span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-property">Property</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -113,7 +113,7 @@ contains details for each terminal in this airport.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">typealias</span> <span class="kt">LevelArray</span> <span class="o">=</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-venuelevel">VenueLevel</a></span><span class="p">]</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">typealias</span> <span class="kt">LevelArray</span> <span class="o">=</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-venuelevel">VenueLevel</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -188,7 +188,7 @@ contains details for each terminal in this airport.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">typealias</span> <span class="kt">TopologyArray</span> <span class="o">=</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-venuetopology">VenueTopology</a></span><span class="p">]</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">typealias</span> <span class="kt">TopologyArray</span> <span class="o">=</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-venuetopology">VenueTopology</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -261,14 +261,14 @@ drawing in venue.</p>
 <div class="pointer"></div>
 <div class="abstract">
 <p>The parent venue model.
-It can be used to get the <code><a href="sdk-for-ios-navigate-api-reference-..-classes-venuemodel">VenueModel</a></code>
+It can be used to get the <code><a href="sdk-for-ios-navigate-api-reference-classes-venuemodel">VenueModel</a></code>
 where this Drawing belong.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">venueModel</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-venuemodel">VenueModel</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">venueModel</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-venuemodel">VenueModel</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -321,7 +321,7 @@ It can be used to get center coordinates of drawing.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">center</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-geocoordinates">GeoCoordinates</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">center</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-geocoordinates">GeoCoordinates</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -340,7 +340,7 @@ It can be used to get center coordinates of drawing.</p>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>The <code><a href="sdk-for-ios-navigate-api-reference-..-structs-geobox">GeoBox</a></code> of the bounding area of the drawing.
+<p>The <code><a href="sdk-for-ios-navigate-api-reference-structs-geobox">GeoBox</a></code> of the bounding area of the drawing.
 This is used to check if at certain zoom level
 and inside view this GeoBox belongs, then need to render.</p>
 </div>
@@ -348,7 +348,7 @@ and inside view this GeoBox belongs, then need to render.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">boundingBox</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-geobox">GeoBox</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">boundingBox</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-geobox">GeoBox</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -479,7 +479,7 @@ all topologies are realted to Drawing.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getGeometryById</span><span class="p">(</span><span class="nv">geometryId</span><span class="p">:</span> <span class="kt">String</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-venuegeometry">VenueGeometry</a></span><span class="p">?</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getGeometryById</span><span class="p">(</span><span class="nv">geometryId</span><span class="p">:</span> <span class="kt">String</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-venuegeometry">VenueGeometry</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 <div>
@@ -521,13 +521,13 @@ all topologies are realted to Drawing.</p>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Gets a geometry by the <code><a href="sdk-for-ios-navigate-api-reference-..-classes-venuegeometry-internaladdress">VenueGeometry.InternalAddress</a></code>.</p>
+<p>Gets a geometry by the <code><a href="sdk-for-ios-navigate-api-reference-classes-venuegeometry-internaladdress">VenueGeometry.InternalAddress</a></code>.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getGeometryByAddress</span><span class="p">(</span><span class="nv">geometryAddress</span><span class="p">:</span> <span class="kt">String</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-venuegeometry">VenueGeometry</a></span><span class="p">?</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getGeometryByAddress</span><span class="p">(</span><span class="nv">geometryAddress</span><span class="p">:</span> <span class="kt">String</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-venuegeometry">VenueGeometry</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 <div>
@@ -575,7 +575,7 @@ all topologies are realted to Drawing.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">filterGeometry</span><span class="p">(</span><span class="nv">filter</span><span class="p">:</span> <span class="kt">String</span><span class="p">,</span> <span class="nv">filterType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-venuegeometryfiltertype">VenueGeometryFilterType</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">VenueDrawing</span><span class="o">.</span><span class="kt"><a href="../Classes/VenueDrawing.html#/s:7heresdk12VenueDrawingC13GeometryArraya">GeometryArray</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">filterGeometry</span><span class="p">(</span><span class="nv">filter</span><span class="p">:</span> <span class="kt">String</span><span class="p">,</span> <span class="nv">filterType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-venuegeometryfiltertype">VenueGeometryFilterType</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">VenueDrawing</span><span class="o">.</span><span class="kt"><a href="../Classes/VenueDrawing.html#/s:7heresdk12VenueDrawingC13GeometryArraya">GeometryArray</a></span></code></pre>
 </div>
 </div>
 <div>

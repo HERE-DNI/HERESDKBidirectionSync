@@ -1,5 +1,5 @@
 ---
-title: "Maps / MapLayerPriorityBuilder"
+title: "sdk-for-ios-navigate-api-reference-classes-maplayerprioritybuilder"
 slug: "sdk-for-ios-navigate-api-reference-classes-maplayerprioritybuilder"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-classes-maplayerprioritybuilder"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-maps">Maps</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-maps">Maps</a>
+<img alt="" id="carat" src="/carat.png"/>
         MapLayerPriorityBuilder Class Reference
       </p>
 </div>
@@ -245,7 +245,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 </td>
 <td>
 <div>
-<p>The name of the group. For instance the name of a <code><a href="sdk-for-ios-navigate-api-reference-..-classes-translucentmaplayergroup">TranslucentMapLayerGroup</a></code>.</p>
+<p>The name of the group. For instance the name of a <code><a href="sdk-for-ios-navigate-api-reference-classes-translucentmaplayergroup">TranslucentMapLayerGroup</a></code>.</p>
 </div>
 </td>
 </tr>

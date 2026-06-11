@@ -1,5 +1,5 @@
 ---
-title: "Traffic"
+title: "sdk-for-ios-navigate-api-reference-traffic"
 slug: "sdk-for-ios-navigate-api-reference-traffic"
 ---
 
@@ -16,7 +16,7 @@ slug: "sdk-for-ios-navigate-api-reference-traffic"
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
-<img alt="" id="carat" src="img/carat.png"/>
+<img alt="" id="carat" src="/carat.png"/>
         Traffic  Reference
       </p>
 </div>

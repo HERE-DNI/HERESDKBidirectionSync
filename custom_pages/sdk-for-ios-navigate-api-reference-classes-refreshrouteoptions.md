@@ -1,5 +1,5 @@
 ---
-title: "Routing / RefreshRouteOptions"
+title: "sdk-for-ios-navigate-api-reference-classes-refreshrouteoptions"
 slug: "sdk-for-ios-navigate-api-reference-classes-refreshrouteoptions"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-classes-refreshrouteoptions"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-routing">Routing</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-routing">Routing</a>
+<img alt="" id="carat" src="/carat.png"/>
         RefreshRouteOptions Class Reference
       </p>
 </div>
@@ -30,18 +30,18 @@ slug: "sdk-for-ios-navigate-api-reference-classes-refreshrouteoptions"
 <h1>RefreshRouteOptions</h1>
 <div class="declaration">
 <div class="language">
-<pre class="highlight swift"><code><span class="kd">@available(*, deprecated, message: "Will be removed in v4.28.0. Use the <code>RoutingOptions</code> class instead.")</span>
+<pre class="highlight swift"><code><span class="kd">@available(*, deprecated, message: "Will be removed in v4.28.0. Use the RoutingOptions class instead.")</span>
 <span class="kd">public</span> <span class="kd">class</span> <span class="kt">RefreshRouteOptions</span></code></pre>
 <pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">RefreshRouteOptions</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
 <pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">RefreshRouteOptions</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
-<p>The options to specify how to refresh an already calculated route identified by a <code><a href="sdk-for-ios-navigate-api-reference-..-structs-routehandle">RouteHandle</a></code>. All the
+<p>The options to specify how to refresh an already calculated route identified by a <code><a href="sdk-for-ios-navigate-api-reference-structs-routehandle">RouteHandle</a></code>. All the
 options that may result in a new route shape are ignored as no new route is calculated. Instead, only the data that
 accompanies a route, such as traffic information, can be refreshed. Therefore, the following route options are ignored:
 <code><a href="../Structs/RouteOptions.html#/s:7heresdk12RouteOptionsV12alternativess5Int32Vvp">RouteOptions.alternatives</a></code>, <code><a href="../Structs/RouteOptions.html#/s:7heresdk12RouteOptionsV11arrivalTime10Foundation4DateVSgvp">RouteOptions.arrivalTime</a></code>, and <code><a href="../Structs/RouteOptions.html#/s:7heresdk12RouteOptionsV16optimizationModeAA012OptimizationE0Ovp">RouteOptions.optimizationMode</a></code>.
-If new <code><a href="sdk-for-ios-navigate-api-reference-..-structs-avoidanceoptions">AvoidanceOptions</a></code> are specified, they are ignored as well and instead new <code><a href="sdk-for-ios-navigate-api-reference-..-structs-sectionnotice">SectionNotice</a></code>‘s
-are generated that indicate where the requested <code><a href="sdk-for-ios-navigate-api-reference-..-structs-avoidanceoptions">AvoidanceOptions</a></code> are violated. Note that when
+If new <code><a href="sdk-for-ios-navigate-api-reference-structs-avoidanceoptions">AvoidanceOptions</a></code> are specified, they are ignored as well and instead new <code><a href="sdk-for-ios-navigate-api-reference-structs-sectionnotice">SectionNotice</a></code>‘s
+are generated that indicate where the requested <code><a href="sdk-for-ios-navigate-api-reference-structs-avoidanceoptions">AvoidanceOptions</a></code> are violated. Note that when
 <code><a href="../Structs/EVCarOptions.html#/s:7heresdk12EVCarOptionsV18ensureReachabilitySbvp">EVCarOptions.ensureReachability</a></code> is set to true, the route refresh request will fail as this option
 is incompatible with a fixed route shape.
 If any of the ignored options are important, consider calculating a new route instead.</p>
@@ -64,13 +64,13 @@ Related APIs may change for new releases without a deprecation process.</p>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Constructs a RefreshRouteOptions object with <code><a href="sdk-for-ios-navigate-api-reference-..-enums-transportmode">TransportMode</a></code>.</p>
+<p>Constructs a RefreshRouteOptions object with <code><a href="sdk-for-ios-navigate-api-reference-enums-transportmode">TransportMode</a></code>.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">_</span> <span class="nv">transportMode</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-transportmode">TransportMode</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">_</span> <span class="nv">transportMode</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-transportmode">TransportMode</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -108,13 +108,13 @@ Related APIs may change for new releases without a deprecation process.</p>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Constructs a RefreshRouteOptions object with <code><a href="sdk-for-ios-navigate-api-reference-..-structs-caroptions">CarOptions</a></code>.</p>
+<p>Constructs a RefreshRouteOptions object with <code><a href="sdk-for-ios-navigate-api-reference-structs-caroptions">CarOptions</a></code>.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">_</span> <span class="nv">carOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-caroptions">CarOptions</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">_</span> <span class="nv">carOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-caroptions">CarOptions</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -130,7 +130,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <td>
 <div>
 <p>Converts the route to a car route, if a different transport mode was used for the
-<code><a href="sdk-for-ios-navigate-api-reference-..-structs-routehandle">RouteHandle</a></code>. Note that in case this is not possible,
+<code><a href="sdk-for-ios-navigate-api-reference-structs-routehandle">RouteHandle</a></code>. Note that in case this is not possible,
 an <code><a href="../Enums/RoutingError.html#/s:7heresdk12RoutingErrorO12noRouteFoundyA2CmF">RoutingError.noRouteFound</a></code> error will be triggered.</p>
 </div>
 </td>
@@ -154,13 +154,13 @@ an <code><a href="../Enums/RoutingError.html#/s:7heresdk12RoutingErrorO12noRoute
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Constructs a RefreshRouteOptions object with <code><a href="sdk-for-ios-navigate-api-reference-..-structs-truckoptions">TruckOptions</a></code>.</p>
+<p>Constructs a RefreshRouteOptions object with <code><a href="sdk-for-ios-navigate-api-reference-structs-truckoptions">TruckOptions</a></code>.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">_</span> <span class="nv">truckOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-truckoptions">TruckOptions</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">_</span> <span class="nv">truckOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-truckoptions">TruckOptions</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -176,7 +176,7 @@ an <code><a href="../Enums/RoutingError.html#/s:7heresdk12RoutingErrorO12noRoute
 <td>
 <div>
 <p>Converts the route to a truck route, if a different transport mode was used for the
-<code><a href="sdk-for-ios-navigate-api-reference-..-structs-routehandle">RouteHandle</a></code>. Note that in case this is not possible,
+<code><a href="sdk-for-ios-navigate-api-reference-structs-routehandle">RouteHandle</a></code>. Note that in case this is not possible,
 an <code><a href="../Enums/RoutingError.html#/s:7heresdk12RoutingErrorO12noRouteFoundyA2CmF">RoutingError.noRouteFound</a></code> error will be triggered.</p>
 </div>
 </td>
@@ -200,13 +200,13 @@ an <code><a href="../Enums/RoutingError.html#/s:7heresdk12RoutingErrorO12noRoute
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Constructs a RefreshRouteOptions object with <code><a href="sdk-for-ios-navigate-api-reference-..-structs-pedestrianoptions">PedestrianOptions</a></code>.</p>
+<p>Constructs a RefreshRouteOptions object with <code><a href="sdk-for-ios-navigate-api-reference-structs-pedestrianoptions">PedestrianOptions</a></code>.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">_</span> <span class="nv">pedestrianOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-pedestrianoptions">PedestrianOptions</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">_</span> <span class="nv">pedestrianOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-pedestrianoptions">PedestrianOptions</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -222,7 +222,7 @@ an <code><a href="../Enums/RoutingError.html#/s:7heresdk12RoutingErrorO12noRoute
 <td>
 <div>
 <p>Converts the route to a pedestrian route, if a different transport mode was used for the
-<code><a href="sdk-for-ios-navigate-api-reference-..-structs-routehandle">RouteHandle</a></code>. Note that in case this is not possible,
+<code><a href="sdk-for-ios-navigate-api-reference-structs-routehandle">RouteHandle</a></code>. Note that in case this is not possible,
 an <code><a href="../Enums/RoutingError.html#/s:7heresdk12RoutingErrorO12noRouteFoundyA2CmF">RoutingError.noRouteFound</a></code> error will be triggered.</p>
 </div>
 </td>
@@ -246,13 +246,13 @@ an <code><a href="../Enums/RoutingError.html#/s:7heresdk12RoutingErrorO12noRoute
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Constructs a RefreshRouteOptions object with <code><a href="sdk-for-ios-navigate-api-reference-..-structs-scooteroptions">ScooterOptions</a></code>.</p>
+<p>Constructs a RefreshRouteOptions object with <code><a href="sdk-for-ios-navigate-api-reference-structs-scooteroptions">ScooterOptions</a></code>.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">_</span> <span class="nv">scooterOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-scooteroptions">ScooterOptions</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">_</span> <span class="nv">scooterOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-scooteroptions">ScooterOptions</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -268,7 +268,7 @@ an <code><a href="../Enums/RoutingError.html#/s:7heresdk12RoutingErrorO12noRoute
 <td>
 <div>
 <p>Converts the route to a scooter route, if a different transport mode was used for the
-<code><a href="sdk-for-ios-navigate-api-reference-..-structs-routehandle">RouteHandle</a></code>. Note that in case this is not possible,
+<code><a href="sdk-for-ios-navigate-api-reference-structs-routehandle">RouteHandle</a></code>. Note that in case this is not possible,
 an <code><a href="../Enums/RoutingError.html#/s:7heresdk12RoutingErrorO12noRouteFoundyA2CmF">RoutingError.noRouteFound</a></code> error will be triggered.</p>
 </div>
 </td>
@@ -292,13 +292,13 @@ an <code><a href="../Enums/RoutingError.html#/s:7heresdk12RoutingErrorO12noRoute
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Constructs a RefreshRouteOptions object with <code><a href="sdk-for-ios-navigate-api-reference-..-structs-taxioptions">TaxiOptions</a></code>.</p>
+<p>Constructs a RefreshRouteOptions object with <code><a href="sdk-for-ios-navigate-api-reference-structs-taxioptions">TaxiOptions</a></code>.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">_</span> <span class="nv">taxiOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-taxioptions">TaxiOptions</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">_</span> <span class="nv">taxiOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-taxioptions">TaxiOptions</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -314,7 +314,7 @@ an <code><a href="../Enums/RoutingError.html#/s:7heresdk12RoutingErrorO12noRoute
 <td>
 <div>
 <p>Converts the route to a taxi route, if a different transport mode was used for the
-<code><a href="sdk-for-ios-navigate-api-reference-..-structs-routehandle">RouteHandle</a></code>. Note that in case this is not possible,
+<code><a href="sdk-for-ios-navigate-api-reference-structs-routehandle">RouteHandle</a></code>. Note that in case this is not possible,
 an <code><a href="../Enums/RoutingError.html#/s:7heresdk12RoutingErrorO12noRouteFoundyA2CmF">RoutingError.noRouteFound</a></code> error will be triggered.</p>
 </div>
 </td>
@@ -338,13 +338,13 @@ an <code><a href="../Enums/RoutingError.html#/s:7heresdk12RoutingErrorO12noRoute
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Constructs a RefreshRouteOptions object with <code><a href="sdk-for-ios-navigate-api-reference-..-structs-evcaroptions">EVCarOptions</a></code>.</p>
+<p>Constructs a RefreshRouteOptions object with <code><a href="sdk-for-ios-navigate-api-reference-structs-evcaroptions">EVCarOptions</a></code>.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">_</span> <span class="nv">evCarOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-evcaroptions">EVCarOptions</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">_</span> <span class="nv">evCarOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-evcaroptions">EVCarOptions</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -360,7 +360,7 @@ an <code><a href="../Enums/RoutingError.html#/s:7heresdk12RoutingErrorO12noRoute
 <td>
 <div>
 <p>Converts the route to an electric car route, if a different transport mode was used for the
-<code><a href="sdk-for-ios-navigate-api-reference-..-structs-routehandle">RouteHandle</a></code>. Note that in case this is not possible,
+<code><a href="sdk-for-ios-navigate-api-reference-structs-routehandle">RouteHandle</a></code>. Note that in case this is not possible,
 an <code><a href="../Enums/RoutingError.html#/s:7heresdk12RoutingErrorO12noRouteFoundyA2CmF">RoutingError.noRouteFound</a></code> error will be triggered.</p>
 </div>
 </td>
@@ -384,13 +384,13 @@ an <code><a href="../Enums/RoutingError.html#/s:7heresdk12RoutingErrorO12noRoute
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Constructs a RefreshRouteOptions object with <code><a href="sdk-for-ios-navigate-api-reference-..-structs-evtruckoptions">EVTruckOptions</a></code>.</p>
+<p>Constructs a RefreshRouteOptions object with <code><a href="sdk-for-ios-navigate-api-reference-structs-evtruckoptions">EVTruckOptions</a></code>.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">_</span> <span class="nv">evTruckOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-evtruckoptions">EVTruckOptions</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">_</span> <span class="nv">evTruckOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-evtruckoptions">EVTruckOptions</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -406,7 +406,7 @@ an <code><a href="../Enums/RoutingError.html#/s:7heresdk12RoutingErrorO12noRoute
 <td>
 <div>
 <p>Converts the route to an electric truck route, if a different transport mode was used for the
-<code><a href="sdk-for-ios-navigate-api-reference-..-structs-routehandle">RouteHandle</a></code>. Note that in case this is not possible,
+<code><a href="sdk-for-ios-navigate-api-reference-structs-routehandle">RouteHandle</a></code>. Note that in case this is not possible,
 an <code><a href="../Enums/RoutingError.html#/s:7heresdk12RoutingErrorO12noRouteFoundyA2CmF">RoutingError.noRouteFound</a></code> error will be triggered.</p>
 </div>
 </td>
@@ -430,13 +430,13 @@ an <code><a href="../Enums/RoutingError.html#/s:7heresdk12RoutingErrorO12noRoute
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Constructs a RefreshRouteOptions object with <code><a href="sdk-for-ios-navigate-api-reference-..-structs-bicycleoptions">BicycleOptions</a></code>.</p>
+<p>Constructs a RefreshRouteOptions object with <code><a href="sdk-for-ios-navigate-api-reference-structs-bicycleoptions">BicycleOptions</a></code>.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">_</span> <span class="nv">bicycleOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-bicycleoptions">BicycleOptions</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">_</span> <span class="nv">bicycleOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-bicycleoptions">BicycleOptions</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -452,7 +452,7 @@ an <code><a href="../Enums/RoutingError.html#/s:7heresdk12RoutingErrorO12noRoute
 <td>
 <div>
 <p>Converts the route to a bicycle route, if a different transport mode was used for the
-<code><a href="sdk-for-ios-navigate-api-reference-..-structs-routehandle">RouteHandle</a></code>. Note that in case this is not possible,
+<code><a href="sdk-for-ios-navigate-api-reference-structs-routehandle">RouteHandle</a></code>. Note that in case this is not possible,
 an <code><a href="../Enums/RoutingError.html#/s:7heresdk12RoutingErrorO12noRouteFoundyA2CmF">RoutingError.noRouteFound</a></code> error will be triggered.</p>
 </div>
 </td>
@@ -476,13 +476,13 @@ an <code><a href="../Enums/RoutingError.html#/s:7heresdk12RoutingErrorO12noRoute
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Constructs a RefreshRouteOptions object with <code><a href="sdk-for-ios-navigate-api-reference-..-structs-busoptions">BusOptions</a></code>.</p>
+<p>Constructs a RefreshRouteOptions object with <code><a href="sdk-for-ios-navigate-api-reference-structs-busoptions">BusOptions</a></code>.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">_</span> <span class="nv">busOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-busoptions">BusOptions</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">_</span> <span class="nv">busOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-busoptions">BusOptions</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -498,7 +498,7 @@ an <code><a href="../Enums/RoutingError.html#/s:7heresdk12RoutingErrorO12noRoute
 <td>
 <div>
 <p>Converts the route to a bus route, if a different transport mode was used for the
-<code><a href="sdk-for-ios-navigate-api-reference-..-structs-routehandle">RouteHandle</a></code>. Note that in case this is not possible,
+<code><a href="sdk-for-ios-navigate-api-reference-structs-routehandle">RouteHandle</a></code>. Note that in case this is not possible,
 an <code><a href="../Enums/RoutingError.html#/s:7heresdk12RoutingErrorO12noRouteFoundyA2CmF">RoutingError.noRouteFound</a></code> error will be triggered.</p>
 </div>
 </td>
@@ -522,13 +522,13 @@ an <code><a href="../Enums/RoutingError.html#/s:7heresdk12RoutingErrorO12noRoute
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Constructs a RefreshRouteOptions object with <code><a href="sdk-for-ios-navigate-api-reference-..-structs-privatebusoptions">PrivateBusOptions</a></code>.</p>
+<p>Constructs a RefreshRouteOptions object with <code><a href="sdk-for-ios-navigate-api-reference-structs-privatebusoptions">PrivateBusOptions</a></code>.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">_</span> <span class="nv">privateBusOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-privatebusoptions">PrivateBusOptions</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">_</span> <span class="nv">privateBusOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-privatebusoptions">PrivateBusOptions</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -544,7 +544,7 @@ an <code><a href="../Enums/RoutingError.html#/s:7heresdk12RoutingErrorO12noRoute
 <td>
 <div>
 <p>Converts the route to a private bus route, if a different transport mode was used for the
-<code><a href="sdk-for-ios-navigate-api-reference-..-structs-routehandle">RouteHandle</a></code>. Note that in case this is not possible,
+<code><a href="sdk-for-ios-navigate-api-reference-structs-routehandle">RouteHandle</a></code>. Note that in case this is not possible,
 an <code><a href="../Enums/RoutingError.html#/s:7heresdk12RoutingErrorO12noRouteFoundyA2CmF">RoutingError.noRouteFound</a></code> error will be triggered.</p>
 </div>
 </td>

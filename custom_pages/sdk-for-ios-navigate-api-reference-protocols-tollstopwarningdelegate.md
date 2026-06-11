@@ -1,5 +1,5 @@
 ---
-title: "Navigation / TollStopWarningDelegate"
+title: "sdk-for-ios-navigate-api-reference-protocols-tollstopwarningdelegate"
 slug: "sdk-for-ios-navigate-api-reference-protocols-tollstopwarningdelegate"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-tollstopwarningdelegate"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-navigation">Navigation</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-navigation">Navigation</a>
+<img alt="" id="carat" src="/carat.png"/>
         TollStopWarningDelegate Protocol Reference
       </p>
 </div>
@@ -39,8 +39,8 @@ should be implemented in order to receive information on the upcoming toll booth
 and similar structures on the street.</p>
 <p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
 behaviors. Related APIs may change for new releases without a deprecation process.
-A <code><a href="sdk-for-ios-navigate-api-reference-..-structs-tollstop">TollStop</a></code> will not be given until the previous warning of that type has been passed.
-For example, a route with <code><a href="sdk-for-ios-navigate-api-reference-..-structs-tollstop">TollStop</a></code> 120 meters and <code><a href="sdk-for-ios-navigate-api-reference-..-structs-tollstop">TollStop</a></code> 160 meters ahead,
+A <code><a href="sdk-for-ios-navigate-api-reference-structs-tollstop">TollStop</a></code> will not be given until the previous warning of that type has been passed.
+For example, a route with <code><a href="sdk-for-ios-navigate-api-reference-structs-tollstop">TollStop</a></code> 120 meters and <code><a href="sdk-for-ios-navigate-api-reference-structs-tollstop">TollStop</a></code> 160 meters ahead,
 the first <code>TollStop.distance_to_toll_stop_in_meters</code> is 120 meters
 and the next <code>TollStop.distance_to_toll_stop_in_meters</code> is then 40 meters,
 since that is the distance between the first and second warnings.</p>
@@ -61,13 +61,13 @@ since that is the distance between the first and second warnings.</p>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Called whenever a new <code><a href="sdk-for-ios-navigate-api-reference-..-structs-tollstop">TollStop</a></code> is available.</p>
+<p>Called whenever a new <code><a href="sdk-for-ios-navigate-api-reference-structs-tollstop">TollStop</a></code> is available.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">onTollStopWarning</span><span class="p">(</span><span class="n">_</span> <span class="nv">tollStop</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-tollstop">TollStop</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">onTollStopWarning</span><span class="p">(</span><span class="n">_</span> <span class="nv">tollStop</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-tollstop">TollStop</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>

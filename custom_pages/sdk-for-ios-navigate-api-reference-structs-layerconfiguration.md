@@ -1,5 +1,5 @@
 ---
-title: "Core / LayerConfiguration"
+title: "sdk-for-ios-navigate-api-reference-structs-layerconfiguration"
 slug: "sdk-for-ios-navigate-api-reference-structs-layerconfiguration"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-structs-layerconfiguration"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-core">Core</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-core">Core</a>
+<img alt="" id="carat" src="/carat.png"/>
         LayerConfiguration Structure Reference
       </p>
 </div>
@@ -36,8 +36,8 @@ slug: "sdk-for-ios-navigate-api-reference-structs-layerconfiguration"
 <p>A class to configure which layers should be enabled or disabled in the OCM map data.
 Disabling a layer allows to reduce the amount of data that will be
 downloaded or prefetched from the internet, for example, when panning the map view online or when downloading maps for offline use.</p>
-<p><code>LayerConfiguration</code> changes made via <code><a href="sdk-for-ios-navigate-api-reference-..-structs-sdkoptions">SDKOptions</a></code> require <code>sdk.maploader.MapUpdater</code> to align previously downloaded content.
-To ensure that the changes in <code><a href="sdk-for-ios-navigate-api-reference-..-structs-sdkoptions">SDKOptions</a></code> affect the map data,
+<p><code>LayerConfiguration</code> changes made via <code><a href="sdk-for-ios-navigate-api-reference-structs-sdkoptions">SDKOptions</a></code> require <code>sdk.maploader.MapUpdater</code> to align previously downloaded content.
+To ensure that the changes in <code><a href="sdk-for-ios-navigate-api-reference-structs-sdkoptions">SDKOptions</a></code> affect the map data,
 it is recommended to trigger a map update. Without calling <code>mapUpdater.updateCatalog(...)</code>,
 the adjustments will apply only to future map downloads and will not impact the currently installed map data, either in the cache or in the persisted storage.
 Note that calling <code>updateCatalog(...)</code> will
@@ -84,7 +84,7 @@ Empty list disables map download, as no map content specified for download in th
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">enabledFeatures</span><span class="p">:</span> <span class="p">[</span><span class="kt">LayerConfiguration</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-layerconfiguration-feature">Feature</a></span><span class="p">]</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">enabledFeatures</span><span class="p">:</span> <span class="p">[</span><span class="kt">LayerConfiguration</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-layerconfiguration-feature">Feature</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -122,7 +122,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">implicitlyPrefetchedFeatures</span><span class="p">:</span> <span class="p">[</span><span class="kt">LayerConfiguration</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-layerconfiguration-feature">Feature</a></span><span class="p">]</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">implicitlyPrefetchedFeatures</span><span class="p">:</span> <span class="p">[</span><span class="kt">LayerConfiguration</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-layerconfiguration-feature">Feature</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -147,7 +147,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">enabledFeatures</span><span class="p">:</span> <span class="p">[</span><span class="kt">LayerConfiguration</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-layerconfiguration-feature">Feature</a></span><span class="p">])</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">enabledFeatures</span><span class="p">:</span> <span class="p">[</span><span class="kt">LayerConfiguration</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-layerconfiguration-feature">Feature</a></span><span class="p">])</span></code></pre>
 </div>
 </div>
 <div>
@@ -162,7 +162,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 </td>
 <td>
 <div>
-<p>List of map features to downloader through <code><a href="sdk-for-ios-navigate-api-reference-..-classes-mapdownloader">MapDownloader</a></code>, and implicitly prefetch when using <code><a href="sdk-for-ios-navigate-api-reference-..-classes-mapview">MapView</a></code></p>
+<p>List of map features to downloader through <code><a href="sdk-for-ios-navigate-api-reference-classes-mapdownloader">MapDownloader</a></code>, and implicitly prefetch when using <code><a href="sdk-for-ios-navigate-api-reference-classes-mapview">MapView</a></code></p>
 </div>
 </td>
 </tr>
@@ -212,7 +212,7 @@ street names, maneuvers data and ability to interconnect those data sets.</p>
 <p>The same map data is useful for different features, for example <code><a href="../Structs/LayerConfiguration/Feature.html#/s:7heresdk18LayerConfigurationV7FeatureO9renderingyA2EmF">LayerConfiguration.Feature.rendering</a></code>
 uses Places data to present it on the MapView, while <code><a href="../Structs/LayerConfiguration/Feature.html#/s:7heresdk18LayerConfigurationV7FeatureO13offlineSearchyA2EmF">LayerConfiguration.Feature.offlineSearch</a></code> uses
 the same data to enable discoverability by name or category. Hence, features might have overlapping sets of enabled layer groups.</p>
-<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-..-structs-layerconfiguration-feature">See more</a>
+<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-structs-layerconfiguration-feature">See more</a>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>

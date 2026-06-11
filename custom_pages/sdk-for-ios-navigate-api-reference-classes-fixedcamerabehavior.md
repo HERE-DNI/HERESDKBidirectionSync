@@ -1,5 +1,5 @@
 ---
-title: "Navigation / FixedCameraBehavior"
+title: "sdk-for-ios-navigate-api-reference-classes-fixedcamerabehavior"
 slug: "sdk-for-ios-navigate-api-reference-classes-fixedcamerabehavior"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-classes-fixedcamerabehavior"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-navigation">Navigation</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-navigation">Navigation</a>
+<img alt="" id="carat" src="/carat.png"/>
         FixedCameraBehavior Class Reference
       </p>
 </div>
@@ -30,7 +30,7 @@ slug: "sdk-for-ios-navigate-api-reference-classes-fixedcamerabehavior"
 <h1>FixedCameraBehavior</h1>
 <div class="declaration">
 <div class="language">
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">FixedCameraBehavior</span> <span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-camerabehavior">CameraBehavior</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">FixedCameraBehavior</span> <span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-camerabehavior">CameraBehavior</a></span></code></pre>
 <pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">FixedCameraBehavior</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
 <pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">FixedCameraBehavior</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
@@ -90,7 +90,7 @@ of the mapview.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">normalizedPrincipalPoint</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-anchor2d">Anchor2D</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">normalizedPrincipalPoint</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-anchor2d">Anchor2D</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -115,7 +115,7 @@ of the mapview.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">@available(*, deprecated, message: "Will be removed in v4.28.0. Use <code>FixedCameraBehavior.zoom</code> instead.")</span>
+<pre class="highlight swift"><code><span class="kd">@available(*, deprecated, message: "Will be removed in v4.28.0. Use FixedCameraBehavior.zoom instead.")</span>
 <span class="kd">public</span> <span class="k">var</span> <span class="nv">cameraDistanceInMeters</span><span class="p">:</span> <span class="kt">Double</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
@@ -143,7 +143,7 @@ Note: <code><a href="../Structs/MapMeasure/Kind.html#/s:7heresdk10MapMeasureV4Ki
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">zoom</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-mapmeasure">MapMeasure</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">zoom</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-mapmeasure">MapMeasure</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -193,7 +193,7 @@ Optional fixed bearing, from true North (0 degrees) in clockwise direction. The 
 is [0, 360].
 If set, it will prevent the map from rotating to the direction of travel. For example, a
 value of zero results in “north up” mode.
-Defaults to <code>nil</code>, which means the camera derives the bearing from the <code><a href="sdk-for-ios-navigate-api-reference-..-structs-location">Location</a></code>,
+Defaults to <code>nil</code>, which means the camera derives the bearing from the <code><a href="sdk-for-ios-navigate-api-reference-structs-location">Location</a></code>,
 so that it points to the direction of travel.
 If this property is <code>nil</code> and the device does not provide bearing, the last known value is
 used or zero otherwise.</p>

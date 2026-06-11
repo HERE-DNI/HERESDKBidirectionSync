@@ -1,5 +1,5 @@
 ---
-title: "Core / CatalogIdentifier"
+title: "sdk-for-ios-navigate-api-reference-structs-catalogidentifier"
 slug: "sdk-for-ios-navigate-api-reference-structs-catalogidentifier"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-structs-catalogidentifier"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-core">Core</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-core">Core</a>
+<img alt="" id="carat" src="/carat.png"/>
         CatalogIdentifier Structure Reference
       </p>
 </div>
@@ -41,7 +41,7 @@ For example, there can be a layer for road-topology, a layer for
 road-attributes (such as speed limits) and a layer for places and business
 addresses. All these layers, in different geographic regions, can be grouped together into a
 catalog to create a representation of the world we live in, called HERE map.
-It can be also used to render a <code><a href="sdk-for-ios-navigate-api-reference-..-classes-mapview">MapView</a></code>. Each geographic region is cut into geospatial
+It can be also used to render a <code><a href="sdk-for-ios-navigate-api-reference-classes-mapview">MapView</a></code>. Each geographic region is cut into geospatial
 tiles for efficient search, map display, routing, map matching, and driver warnings.
 Each tile partitions the map data (in one or more layers, depending on the product)
 in the geolocation of that specific tile.
@@ -103,7 +103,7 @@ Set <code>nil</code> to automatically get the latest version for a catalog.
 The field defaults to <code>nil</code>.
 Since the data inside a catalog can be updated, each published modification needs to correlate
 to a specific version number.
-Note: when <code>CatalogIdentifier</code> created with <code><a href="sdk-for-ios-navigate-api-reference-..-structs-desiredcatalog">DesiredCatalog</a></code> then:</p>
+Note: when <code>CatalogIdentifier</code> created with <code><a href="sdk-for-ios-navigate-api-reference-structs-desiredcatalog">DesiredCatalog</a></code> then:</p>
 <ul>
 <li>numerical <code>-1</code> corresponds to <code><a href="../Classes/CatalogVersionHint.html#/s:7heresdk18CatalogVersionHintC6latest16ignoreCachedDataACSb_tFZ">CatalogVersionHint.latest(...)</a></code> with <code>ignoreCachedData</code> set to <code>true</code>;</li>
 <li><code>nil</code> corresponds to <code><a href="../Classes/CatalogVersionHint.html#/s:7heresdk18CatalogVersionHintC6latest16ignoreCachedDataACSb_tFZ">CatalogVersionHint.latest(...)</a></code> with <code>ignoreCachedData</code> set to <code>false</code>;</li>

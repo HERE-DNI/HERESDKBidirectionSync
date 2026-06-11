@@ -1,5 +1,5 @@
 ---
-title: "Venues / VenueEngine"
+title: "sdk-for-ios-navigate-api-reference-classes-venueengine"
 slug: "sdk-for-ios-navigate-api-reference-classes-venueengine"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-classes-venueengine"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-venues">Venues</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-venues">Venues</a>
+<img alt="" id="carat" src="/carat.png"/>
         VenueEngine Class Reference
       </p>
 </div>
@@ -83,7 +83,7 @@ to load and visualize venues on the map, search content inside venues etc.</p>
 <td>
 <div>
 <p>The optional callback that will be triggered when a venue engine initialization
-will be completed. After the initialization, the <code><a href="sdk-for-ios-navigate-api-reference-..-classes-venueservice">VenueService</a></code> should
+will be completed. After the initialization, the <code><a href="sdk-for-ios-navigate-api-reference-classes-venueservice">VenueService</a></code> should
 be started using one of its methods or using <code>VenueEngine.start(String)</code>.</p>
 </div>
 </td>
@@ -118,7 +118,7 @@ be started using one of its methods or using <code>VenueEngine.start(String)</co
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">_</span> <span class="nv">sdkEngine</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-sdknativeengine">SDKNativeEngine</a></span><span class="p">,</span> <span class="nv">callback</span><span class="p">:</span> <span class="kt"><a href="../Venues.html#/s:7heresdk32VenueEngineInitCompletionHandlera">VenueEngineInitCompletionHandler</a></span><span class="p">?)</span> <span class="k">throws</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">_</span> <span class="nv">sdkEngine</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-sdknativeengine">SDKNativeEngine</a></span><span class="p">,</span> <span class="nv">callback</span><span class="p">:</span> <span class="kt"><a href="../Venues.html#/s:7heresdk32VenueEngineInitCompletionHandlera">VenueEngineInitCompletionHandler</a></span><span class="p">?)</span> <span class="k">throws</span></code></pre>
 </div>
 </div>
 <div>
@@ -146,7 +146,7 @@ be started using one of its methods or using <code>VenueEngine.start(String)</co
 <td>
 <div>
 <p>The optional callback that will be triggered when a venue engine initialization
-will be completed. After the initialization, the <code><a href="sdk-for-ios-navigate-api-reference-..-classes-venueservice">VenueService</a></code> should
+will be completed. After the initialization, the <code><a href="sdk-for-ios-navigate-api-reference-classes-venueservice">VenueService</a></code> should
 be started using one of its methods or using <code>VenueEngine.start(String)</code>.</p>
 </div>
 </td>
@@ -171,14 +171,14 @@ be started using one of its methods or using <code>VenueEngine.start(String)</co
 <div class="pointer"></div>
 <div class="abstract">
 <p>The venue service.
-Gets the <code><a href="sdk-for-ios-navigate-api-reference-..-classes-venueservice">VenueService</a></code>. This service
-can be used to load the <code><a href="sdk-for-ios-navigate-api-reference-..-classes-venuemodel">VenueModel</a></code> objects.</p>
+Gets the <code><a href="sdk-for-ios-navigate-api-reference-classes-venueservice">VenueService</a></code>. This service
+can be used to load the <code><a href="sdk-for-ios-navigate-api-reference-classes-venuemodel">VenueModel</a></code> objects.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">venueService</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-venueservice">VenueService</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">venueService</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-venueservice">VenueService</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -199,14 +199,14 @@ can be used to load the <code><a href="sdk-for-ios-navigate-api-reference-..-cla
 <div class="abstract">
 <p>The venue map.
 Gets a venue map to visualize venues and control the
-state of the venues on the map. You need to start the <code><a href="sdk-for-ios-navigate-api-reference-..-classes-venueservice">VenueService</a></code> to
+state of the venues on the map. You need to start the <code><a href="sdk-for-ios-navigate-api-reference-classes-venueservice">VenueService</a></code> to
 be able to load venues.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">venueMap</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-venuemap">VenueMap</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">venueMap</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-venuemap">VenueMap</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -226,8 +226,8 @@ be able to load venues.</p>
 <div class="pointer"></div>
 <div class="abstract">
 <p>Authenticates asynchronously using HERE SDK credentials and uses a result token to start
-the <code><a href="sdk-for-ios-navigate-api-reference-..-classes-venueservice">VenueService</a></code>. An initialization status of the venue service is
-returned to objects registered as <code><a href="sdk-for-ios-navigate-api-reference-..-protocols-venueservicedelegate">VenueServiceDelegate</a></code>. If the
+the <code><a href="sdk-for-ios-navigate-api-reference-classes-venueservice">VenueService</a></code>. An initialization status of the venue service is
+returned to objects registered as <code><a href="sdk-for-ios-navigate-api-reference-protocols-venueservicedelegate">VenueServiceDelegate</a></code>. If the
 authentication will fail, the venue service will not be started.</p>
 </div>
 <div class="declaration">
@@ -274,8 +274,8 @@ If the authentication fails, the venue service will not be started.</p>
 <div class="pointer"></div>
 <div class="abstract">
 <p>Authenticates asynchronously using HERE SDK credentials using a token to start
-the <code><a href="sdk-for-ios-navigate-api-reference-..-classes-venueservice">VenueService</a></code>. An initialization status of the venue service is
-returned to objects registered as <code><a href="sdk-for-ios-navigate-api-reference-..-protocols-venueservicedelegate">VenueServiceDelegate</a></code>. If the
+the <code><a href="sdk-for-ios-navigate-api-reference-classes-venueservice">VenueService</a></code>. An initialization status of the venue service is
+returned to objects registered as <code><a href="sdk-for-ios-navigate-api-reference-protocols-venueservicedelegate">VenueServiceDelegate</a></code>. If the
 authentication will fail, the venue service will not be started.</p>
 </div>
 <div class="declaration">

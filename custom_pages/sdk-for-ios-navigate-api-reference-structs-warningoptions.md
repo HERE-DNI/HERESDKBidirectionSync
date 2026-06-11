@@ -1,5 +1,5 @@
 ---
-title: "WarnerEngine / WarningOptions"
+title: "sdk-for-ios-navigate-api-reference-structs-warningoptions"
 slug: "sdk-for-ios-navigate-api-reference-structs-warningoptions"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-structs-warningoptions"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-warnerengine">WarnerEngine</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-warnerengine">WarnerEngine</a>
+<img alt="" id="carat" src="/carat.png"/>
         WarningOptions Structure Reference
       </p>
 </div>
@@ -59,7 +59,7 @@ behaviors. Related APIs may change for new releases without a deprecation proces
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">safetyCameraWarningOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-safetycamerawarningoptions">SafetyCameraWarningOptions</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">safetyCameraWarningOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-safetycamerawarningoptions">SafetyCameraWarningOptions</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -84,7 +84,7 @@ behaviors. Related APIs may change for new releases without a deprecation proces
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">truckRestrictionsWarningOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-truckrestrictionswarningoptions">TruckRestrictionsWarningOptions</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">truckRestrictionsWarningOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-truckrestrictionswarningoptions">TruckRestrictionsWarningOptions</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -110,7 +110,7 @@ Set the options for filtering of road sign notifications.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">roadSignWarningOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-roadsignwarningoptions">RoadSignWarningOptions</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">roadSignWarningOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-roadsignwarningoptions">RoadSignWarningOptions</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -137,7 +137,7 @@ setting the realistic view notification distances based on the road type.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">realisticViewWarningOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-realisticviewwarningoptions">RealisticViewWarningOptions</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">realisticViewWarningOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-realisticviewwarningoptions">RealisticViewWarningOptions</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -163,7 +163,7 @@ Set the options for configuring of school zone notifications.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">schoolZoneWarningOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-schoolzonewarningoptions">SchoolZoneWarningOptions</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">schoolZoneWarningOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-schoolzonewarningoptions">SchoolZoneWarningOptions</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -188,7 +188,7 @@ Set the options for configuring of school zone notifications.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">borderCrossingWarningOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-bordercrossingwarningoptions">BorderCrossingWarningOptions</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">borderCrossingWarningOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-bordercrossingwarningoptions">BorderCrossingWarningOptions</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -214,7 +214,7 @@ Set the options for filtering the traffic merge notifications.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">trafficMergeWarningOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-trafficmergewarningoptions">TrafficMergeWarningOptions</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">trafficMergeWarningOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-trafficmergewarningoptions">TrafficMergeWarningOptions</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -242,7 +242,7 @@ behaviors. Related APIs may change for new releases without a deprecation proces
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">laneDecreaseWarningOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-lanedecreasewarningoptions">LaneDecreaseWarningOptions</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">laneDecreaseWarningOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-lanedecreasewarningoptions">LaneDecreaseWarningOptions</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -288,7 +288,7 @@ Set the options for filtering the lane decrease notifications.</li>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">safetyCameraWarningOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-safetycamerawarningoptions">SafetyCameraWarningOptions</a></span><span class="p">,</span> <span class="nv">truckRestrictionsWarningOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-truckrestrictionswarningoptions">TruckRestrictionsWarningOptions</a></span><span class="p">,</span> <span class="nv">roadSignWarningOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-roadsignwarningoptions">RoadSignWarningOptions</a></span><span class="p">,</span> <span class="nv">realisticViewWarningOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-realisticviewwarningoptions">RealisticViewWarningOptions</a></span><span class="p">,</span> <span class="nv">schoolZoneWarningOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-schoolzonewarningoptions">SchoolZoneWarningOptions</a></span><span class="p">,</span> <span class="nv">borderCrossingWarningOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-bordercrossingwarningoptions">BorderCrossingWarningOptions</a></span><span class="p">,</span> <span class="nv">trafficMergeWarningOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-trafficmergewarningoptions">TrafficMergeWarningOptions</a></span><span class="p">,</span> <span class="nv">laneDecreaseWarningOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-lanedecreasewarningoptions">LaneDecreaseWarningOptions</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">safetyCameraWarningOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-safetycamerawarningoptions">SafetyCameraWarningOptions</a></span><span class="p">,</span> <span class="nv">truckRestrictionsWarningOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-truckrestrictionswarningoptions">TruckRestrictionsWarningOptions</a></span><span class="p">,</span> <span class="nv">roadSignWarningOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-roadsignwarningoptions">RoadSignWarningOptions</a></span><span class="p">,</span> <span class="nv">realisticViewWarningOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-realisticviewwarningoptions">RealisticViewWarningOptions</a></span><span class="p">,</span> <span class="nv">schoolZoneWarningOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-schoolzonewarningoptions">SchoolZoneWarningOptions</a></span><span class="p">,</span> <span class="nv">borderCrossingWarningOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-bordercrossingwarningoptions">BorderCrossingWarningOptions</a></span><span class="p">,</span> <span class="nv">trafficMergeWarningOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-trafficmergewarningoptions">TrafficMergeWarningOptions</a></span><span class="p">,</span> <span class="nv">laneDecreaseWarningOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-lanedecreasewarningoptions">LaneDecreaseWarningOptions</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>

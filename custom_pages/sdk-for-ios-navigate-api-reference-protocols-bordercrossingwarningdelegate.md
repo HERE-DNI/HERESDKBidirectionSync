@@ -1,5 +1,5 @@
 ---
-title: "Navigation / BorderCrossingWarningDelegate"
+title: "sdk-for-ios-navigate-api-reference-protocols-bordercrossingwarningdelegate"
 slug: "sdk-for-ios-navigate-api-reference-protocols-bordercrossingwarningdelegate"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-bordercrossingwarningdelegat
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-navigation">Navigation</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-navigation">Navigation</a>
+<img alt="" id="carat" src="/carat.png"/>
         BorderCrossingWarningDelegate Protocol Reference
       </p>
 </div>
@@ -38,8 +38,8 @@ should be implemented in order to receive border crossing warnings for country a
 <strong>Note:</strong> The border crossing warner is a point warner, which means that for a border crossing there will <em>always</em> be
 2 warnings emitted, with the [BorderCrossingWarning.distance_type] set to <code><a href="../Enums/DistanceType.html#/s:7heresdk12DistanceTypeO5aheadyA2CmF">DistanceType.ahead</a></code> and <code><a href="../Enums/DistanceType.html#/s:7heresdk12DistanceTypeO6passedyA2CmF">DistanceType.passed</a></code>
 which is given when the location of the border crossing is reached.
-A <code><a href="sdk-for-ios-navigate-api-reference-..-structs-bordercrossingwarning">BorderCrossingWarning</a></code> will not be given until the previous warning of that type has been passed.
-For example, a route with <code><a href="sdk-for-ios-navigate-api-reference-..-structs-bordercrossingwarning">BorderCrossingWarning</a></code> 120 meters and <code><a href="sdk-for-ios-navigate-api-reference-..-structs-bordercrossingwarning">BorderCrossingWarning</a></code> 160 meters ahead,
+A <code><a href="sdk-for-ios-navigate-api-reference-structs-bordercrossingwarning">BorderCrossingWarning</a></code> will not be given until the previous warning of that type has been passed.
+For example, a route with <code><a href="sdk-for-ios-navigate-api-reference-structs-bordercrossingwarning">BorderCrossingWarning</a></code> 120 meters and <code><a href="sdk-for-ios-navigate-api-reference-structs-bordercrossingwarning">BorderCrossingWarning</a></code> 160 meters ahead,
 the first [BorderCrossingWarning.distance_to_border_crossing_in_meters] is 120 meters
 and the next [BorderCrossingWarning.distance_to_border_crossing_in_meters] is then 40 meters,
 since that is the distance between the first and second warnings.</p>
@@ -66,7 +66,7 @@ since that is the distance between the first and second warnings.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">onBorderCrossingWarningUpdated</span><span class="p">(</span><span class="n">_</span> <span class="nv">borderCrossingWarning</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-bordercrossingwarning">BorderCrossingWarning</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">onBorderCrossingWarningUpdated</span><span class="p">(</span><span class="n">_</span> <span class="nv">borderCrossingWarning</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-bordercrossingwarning">BorderCrossingWarning</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>

@@ -1,5 +1,5 @@
 ---
-title: "Maps / MapSceneLoadOptionsBuilder"
+title: "sdk-for-ios-navigate-api-reference-classes-mapsceneloadoptionsbuilder"
 slug: "sdk-for-ios-navigate-api-reference-classes-mapsceneloadoptionsbuilder"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-classes-mapsceneloadoptionsbuilder"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-maps">Maps</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-maps">Maps</a>
+<img alt="" id="carat" src="/carat.png"/>
         MapSceneLoadOptionsBuilder Class Reference
       </p>
 </div>
@@ -62,7 +62,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">typealias</span> <span class="kt">InstantiationError</span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-mapsceneloadoptionsbuilder-instantiationerrordetails">InstantiationErrorDetails</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">typealias</span> <span class="kt">InstantiationError</span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-mapsceneloadoptionsbuilder-instantiationerrordetails">InstantiationErrorDetails</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -107,7 +107,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <div class="pointer"></div>
 <div class="abstract">
 <p>Describes a reason for failing to build a <code><a href="../Maps.html#/s:7heresdk19MapSceneLoadOptionsC">MapSceneLoadOptions</a></code>.</p>
-<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-..-classes-mapsceneloadoptionsbuilder-instantiationerrorcode">See more</a>
+<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-classes-mapsceneloadoptionsbuilder-instantiationerrorcode">See more</a>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
@@ -133,14 +133,14 @@ Related APIs may change for new releases without a deprecation process.</p>
 <div class="pointer"></div>
 <div class="abstract">
 <p>Describes the reason for failing to build a <code><a href="../Maps.html#/s:7heresdk19MapSceneLoadOptionsC">MapSceneLoadOptions</a></code>.</p>
-<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-..-classes-mapsceneloadoptionsbuilder-instantiationerrordetails">See more</a>
+<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-classes-mapsceneloadoptionsbuilder-instantiationerrordetails">See more</a>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
 <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">InstantiationErrorDetails</span></code></pre>
-<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-mapsceneloadoptionsbuilder">MapSceneLoadOptionsBuilder</a></span><span class="o">.</span><span class="kt">InstantiationErrorDetails</span> <span class="p">:</span> <span class="kt">Error</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-mapsceneloadoptionsbuilder">MapSceneLoadOptionsBuilder</a></span><span class="o">.</span><span class="kt">InstantiationErrorDetails</span> <span class="p">:</span> <span class="kt">Error</span></code></pre>
 </div>
 </div>
 </section>
@@ -166,7 +166,7 @@ Any configuration file set through <code><a href="../Classes/MapSceneLoadOptions
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">withMapScheme</span><span class="p">(</span><span class="nv">mapScheme</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-mapscheme">MapScheme</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">MapSceneLoadOptionsBuilder</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">withMapScheme</span><span class="p">(</span><span class="nv">mapScheme</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-mapscheme">MapScheme</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">MapSceneLoadOptionsBuilder</span></code></pre>
 </div>
 </div>
 <div>
@@ -359,7 +359,7 @@ Any map scheme set through <code><a href="../Classes/MapSceneLoadOptionsBuilder.
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">withWatermarkStyle</span><span class="p">(</span><span class="nv">watermarkStyle</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-watermarkstyle">WatermarkStyle</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">MapSceneLoadOptionsBuilder</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">withWatermarkStyle</span><span class="p">(</span><span class="nv">watermarkStyle</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-watermarkstyle">WatermarkStyle</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">MapSceneLoadOptionsBuilder</span></code></pre>
 </div>
 </div>
 <div>
@@ -407,7 +407,7 @@ Any map scheme set through <code><a href="../Classes/MapSceneLoadOptionsBuilder.
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">withOverridingMapStyle</span><span class="p">(</span><span class="nv">overridingMapStyle</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-style">Style</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">MapSceneLoadOptionsBuilder</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">withOverridingMapStyle</span><span class="p">(</span><span class="nv">overridingMapStyle</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-style">Style</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">MapSceneLoadOptionsBuilder</span></code></pre>
 </div>
 </div>
 <div>

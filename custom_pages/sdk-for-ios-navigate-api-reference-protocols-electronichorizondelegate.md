@@ -1,5 +1,5 @@
 ---
-title: "ElectronicHorizon / ElectronicHorizonDelegate"
+title: "sdk-for-ios-navigate-api-reference-protocols-electronichorizondelegate"
 slug: "sdk-for-ios-navigate-api-reference-protocols-electronichorizondelegate"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-electronichorizondelegate"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-electronichorizon">ElectronicHorizon</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-electronichorizon">ElectronicHorizon</a>
+<img alt="" id="carat" src="/carat.png"/>
         ElectronicHorizonDelegate Protocol Reference
       </p>
 </div>
@@ -66,7 +66,7 @@ represents an error or a valid update.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">onElectronicHorizonUpdated</span><span class="p">(</span><span class="nv">errorCode</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-electronichorizonerrorcode">ElectronicHorizonErrorCode</a></span><span class="p">?,</span> <span class="nv">update</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-electronichorizonupdate">ElectronicHorizonUpdate</a></span><span class="p">?)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">onElectronicHorizonUpdated</span><span class="p">(</span><span class="nv">errorCode</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-electronichorizonerrorcode">ElectronicHorizonErrorCode</a></span><span class="p">?,</span> <span class="nv">update</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-electronichorizonupdate">ElectronicHorizonUpdate</a></span><span class="p">?)</span></code></pre>
 </div>
 </div>
 <div>

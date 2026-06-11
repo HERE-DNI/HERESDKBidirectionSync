@@ -1,5 +1,5 @@
 ---
-title: "Navigation / NavigatorProtocol"
+title: "sdk-for-ios-navigate-api-reference-protocols-navigatorprotocol"
 slug: "sdk-for-ios-navigate-api-reference-protocols-navigatorprotocol"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-navigatorprotocol"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-navigation">Navigation</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-navigation">Navigation</a>
+<img alt="" id="carat" src="/carat.png"/>
         NavigatorProtocol Protocol Reference
       </p>
 </div>
@@ -30,7 +30,7 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-navigatorprotocol"
 <h1>NavigatorProtocol</h1>
 <div class="declaration">
 <div class="language">
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">protocol</span> <span class="kt">NavigatorProtocol</span> <span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-locationdelegate">LocationDelegate</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">protocol</span> <span class="kt">NavigatorProtocol</span> <span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-locationdelegate">LocationDelegate</a></span></code></pre>
 </div>
 </div>
 <p>This protocol provides the basic functionality needed to run a navigation session.</p>
@@ -57,7 +57,7 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-navigatorprotocol"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">route</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-route">Route</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">route</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-route">Route</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -76,14 +76,14 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-navigatorprotocol"
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Defines the transport profile for the <code><a href="sdk-for-ios-navigate-api-reference-..-classes-navigator">Navigator</a></code>, when no route is present.</p>
+<p>Defines the transport profile for the <code><a href="sdk-for-ios-navigate-api-reference-classes-navigator">Navigator</a></code>, when no route is present.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">@available(*, deprecated, message: "Will be removed in v4.28.0. Use <code>NavigatorInterface.trackingTransportSpecification</code> instead.")</span>
-<span class="k">var</span> <span class="nv">trackingTransportProfile</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-transportprofile">TransportProfile</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">@available(*, deprecated, message: "Will be removed in v4.28.0. Use NavigatorInterface.trackingTransportSpecification instead.")</span>
+<span class="k">var</span> <span class="nv">trackingTransportProfile</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-transportprofile">TransportProfile</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -102,13 +102,13 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-navigatorprotocol"
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Defines the transport specification for the <code><a href="sdk-for-ios-navigate-api-reference-..-classes-navigator">Navigator</a></code>, when no route is present.</p>
+<p>Defines the transport specification for the <code><a href="sdk-for-ios-navigate-api-reference-classes-navigator">Navigator</a></code>, when no route is present.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">trackingTransportSpecification</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-transportspecification">TransportSpecification</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">trackingTransportSpecification</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-transportspecification">TransportSpecification</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -133,7 +133,7 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-navigatorprotocol"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">navigableLocationDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-navigablelocationdelegate">NavigableLocationDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">navigableLocationDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-navigablelocationdelegate">NavigableLocationDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -158,7 +158,7 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-navigatorprotocol"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">routeProgressDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-routeprogressdelegate">RouteProgressDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">routeProgressDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-routeprogressdelegate">RouteProgressDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -183,7 +183,7 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-navigatorprotocol"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">routeDeviationDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-routedeviationdelegate">RouteDeviationDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">routeDeviationDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-routedeviationdelegate">RouteDeviationDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -208,7 +208,7 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-navigatorprotocol"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">eventTextDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-eventtextdelegate">EventTextDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">eventTextDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-eventtextdelegate">EventTextDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -227,13 +227,13 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-navigatorprotocol"
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Object to receive notifications about the arrival at each <code><a href="sdk-for-ios-navigate-api-reference-..-structs-milestone">Milestone</a></code> or missing it.</p>
+<p>Object to receive notifications about the arrival at each <code><a href="sdk-for-ios-navigate-api-reference-structs-milestone">Milestone</a></code> or missing it.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">milestoneStatusDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-milestonestatusdelegate">MilestoneStatusDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">milestoneStatusDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-milestonestatusdelegate">MilestoneStatusDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -258,7 +258,7 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-navigatorprotocol"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">destinationReachedDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-destinationreacheddelegate">DestinationReachedDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">destinationReachedDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-destinationreacheddelegate">DestinationReachedDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -283,7 +283,7 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-navigatorprotocol"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">speedWarningDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-speedwarningdelegate">SpeedWarningDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">speedWarningDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-speedwarningdelegate">SpeedWarningDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -308,7 +308,7 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-navigatorprotocol"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">maneuverViewLaneAssistanceDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-maneuverviewlaneassistancedelegate">ManeuverViewLaneAssistanceDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">maneuverViewLaneAssistanceDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-maneuverviewlaneassistancedelegate">ManeuverViewLaneAssistanceDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -333,7 +333,7 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-navigatorprotocol"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">currentSituationLaneAssistanceViewDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-currentsituationlaneassistanceviewdelegate">CurrentSituationLaneAssistanceViewDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">currentSituationLaneAssistanceViewDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-currentsituationlaneassistanceviewdelegate">CurrentSituationLaneAssistanceViewDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -358,7 +358,7 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-navigatorprotocol"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">environmentalZoneWarningListenerDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-environmentalzonewarningdelegate">EnvironmentalZoneWarningDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">environmentalZoneWarningListenerDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-environmentalzonewarningdelegate">EnvironmentalZoneWarningDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -383,7 +383,7 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-navigatorprotocol"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">junctionViewLaneAssistanceDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-junctionviewlaneassistancedelegate">JunctionViewLaneAssistanceDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">junctionViewLaneAssistanceDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-junctionviewlaneassistancedelegate">JunctionViewLaneAssistanceDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -408,7 +408,7 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-navigatorprotocol"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">safetyCameraWarningDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-safetycamerawarningdelegate">SafetyCameraWarningDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">safetyCameraWarningDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-safetycamerawarningdelegate">SafetyCameraWarningDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -427,13 +427,13 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-navigatorprotocol"
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Safety camera warning options to be passed to <code><a href="sdk-for-ios-navigate-api-reference-..-protocols-safetycamerawarningdelegate">SafetyCameraWarningDelegate</a></code>.</p>
+<p>Safety camera warning options to be passed to <code><a href="sdk-for-ios-navigate-api-reference-protocols-safetycamerawarningdelegate">SafetyCameraWarningDelegate</a></code>.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">safetyCameraWarningOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-safetycamerawarningoptions">SafetyCameraWarningOptions</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">safetyCameraWarningOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-safetycamerawarningoptions">SafetyCameraWarningOptions</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -458,7 +458,7 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-navigatorprotocol"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">dangerZoneWarningListenerDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-dangerzonewarningdelegate">DangerZoneWarningDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">dangerZoneWarningListenerDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-dangerzonewarningdelegate">DangerZoneWarningDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -483,7 +483,7 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-navigatorprotocol"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">truckRestrictionsWarningDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-truckrestrictionswarningdelegate">TruckRestrictionsWarningDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">truckRestrictionsWarningDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-truckrestrictionswarningdelegate">TruckRestrictionsWarningDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -508,7 +508,7 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-navigatorprotocol"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">warnerEngine</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-warnerengine">WarnerEngine</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">warnerEngine</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-warnerengine">WarnerEngine</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -527,13 +527,13 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-navigatorprotocol"
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Truck restrictions warning options that allow to filter truck restrictions to be passed to <code><a href="sdk-for-ios-navigate-api-reference-..-protocols-truckrestrictionswarningdelegate">TruckRestrictionsWarningDelegate</a></code>.</p>
+<p>Truck restrictions warning options that allow to filter truck restrictions to be passed to <code><a href="sdk-for-ios-navigate-api-reference-protocols-truckrestrictionswarningdelegate">TruckRestrictionsWarningDelegate</a></code>.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">truckRestrictionsWarningOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-truckrestrictionswarningoptions">TruckRestrictionsWarningOptions</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">truckRestrictionsWarningOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-truckrestrictionswarningoptions">TruckRestrictionsWarningOptions</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -558,7 +558,7 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-navigatorprotocol"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">postActionDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-postactiondelegate">PostActionDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">postActionDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-postactiondelegate">PostActionDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -583,7 +583,7 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-navigatorprotocol"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">speedLimitDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-speedlimitdelegate">SpeedLimitDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">speedLimitDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-speedlimitdelegate">SpeedLimitDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -608,7 +608,7 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-navigatorprotocol"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">roadTextsDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-roadtextsdelegate">RoadTextsDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">roadTextsDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-roadtextsdelegate">RoadTextsDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -633,7 +633,7 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-navigatorprotocol"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">roadAttributesDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-roadattributesdelegate">RoadAttributesDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">roadAttributesDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-roadattributesdelegate">RoadAttributesDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -658,7 +658,7 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-navigatorprotocol"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">roadSignWarningDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-roadsignwarningdelegate">RoadSignWarningDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">roadSignWarningDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-roadsignwarningdelegate">RoadSignWarningDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -677,13 +677,13 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-navigatorprotocol"
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Road sign warning options that allow to filter road sings to be passed to <code><a href="sdk-for-ios-navigate-api-reference-..-protocols-roadsignwarningdelegate">RoadSignWarningDelegate</a></code>.</p>
+<p>Road sign warning options that allow to filter road sings to be passed to <code><a href="sdk-for-ios-navigate-api-reference-protocols-roadsignwarningdelegate">RoadSignWarningDelegate</a></code>.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">roadSignWarningOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-roadsignwarningoptions">RoadSignWarningOptions</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">roadSignWarningOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-roadsignwarningoptions">RoadSignWarningOptions</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -708,7 +708,7 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-navigatorprotocol"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">schoolZoneWarningDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-schoolzonewarningdelegate">SchoolZoneWarningDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">schoolZoneWarningDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-schoolzonewarningdelegate">SchoolZoneWarningDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -733,7 +733,7 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-navigatorprotocol"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">schoolZoneWarningOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-schoolzonewarningoptions">SchoolZoneWarningOptions</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">schoolZoneWarningOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-schoolzonewarningoptions">SchoolZoneWarningOptions</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -758,7 +758,7 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-navigatorprotocol"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">realisticViewWarningDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-realisticviewwarningdelegate">RealisticViewWarningDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">realisticViewWarningDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-realisticviewwarningdelegate">RealisticViewWarningDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -783,7 +783,7 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-navigatorprotocol"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">realisticViewWarningOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-realisticviewwarningoptions">RealisticViewWarningOptions</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">realisticViewWarningOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-realisticviewwarningoptions">RealisticViewWarningOptions</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -808,7 +808,7 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-navigatorprotocol"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">borderCrossingWarningDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-bordercrossingwarningdelegate">BorderCrossingWarningDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">borderCrossingWarningDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-bordercrossingwarningdelegate">BorderCrossingWarningDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -827,13 +827,13 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-navigatorprotocol"
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Border crossing warning options to be passed to <code><a href="sdk-for-ios-navigate-api-reference-..-protocols-bordercrossingwarningdelegate">BorderCrossingWarningDelegate</a></code>. These options</p>
+<p>Border crossing warning options to be passed to <code><a href="sdk-for-ios-navigate-api-reference-protocols-bordercrossingwarningdelegate">BorderCrossingWarningDelegate</a></code>. These options</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">borderCrossingWarningOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-bordercrossingwarningoptions">BorderCrossingWarningOptions</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">borderCrossingWarningOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-bordercrossingwarningoptions">BorderCrossingWarningOptions</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -858,7 +858,7 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-navigatorprotocol"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">tollStopWarningDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-tollstopwarningdelegate">TollStopWarningDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">tollStopWarningDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-tollstopwarningdelegate">TollStopWarningDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -883,7 +883,7 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-navigatorprotocol"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">railwayCrossingWarningDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-railwaycrossingwarningdelegate">RailwayCrossingWarningDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">railwayCrossingWarningDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-railwaycrossingwarningdelegate">RailwayCrossingWarningDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -908,7 +908,7 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-navigatorprotocol"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">lowSpeedZoneWarningDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-lowspeedzonewarningdelegate">LowSpeedZoneWarningDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">lowSpeedZoneWarningDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-lowspeedzonewarningdelegate">LowSpeedZoneWarningDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -933,7 +933,7 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-navigatorprotocol"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">trafficMergeWarningDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-trafficmergewarningdelegate">TrafficMergeWarningDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">trafficMergeWarningDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-trafficmergewarningdelegate">TrafficMergeWarningDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -953,13 +953,13 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-navigatorprotocol"
 <div class="pointer"></div>
 <div class="abstract">
 <p>Merging traffic warning options that allow to configure merging traffic notifications to be passed to
-<code><a href="sdk-for-ios-navigate-api-reference-..-protocols-trafficmergewarningdelegate">TrafficMergeWarningDelegate</a></code>.</p>
+<code><a href="sdk-for-ios-navigate-api-reference-protocols-trafficmergewarningdelegate">TrafficMergeWarningDelegate</a></code>.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">trafficMergeWarningOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-trafficmergewarningoptions">TrafficMergeWarningOptions</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">trafficMergeWarningOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-trafficmergewarningoptions">TrafficMergeWarningOptions</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -984,7 +984,7 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-navigatorprotocol"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">offRoadDestinationReachedDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-offroaddestinationreacheddelegate">OffRoadDestinationReachedDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">offRoadDestinationReachedDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-offroaddestinationreacheddelegate">OffRoadDestinationReachedDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -1009,7 +1009,7 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-navigatorprotocol"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">offRoadProgressDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-offroadprogressdelegate">OffRoadProgressDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">offRoadProgressDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-offroadprogressdelegate">OffRoadProgressDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -1034,7 +1034,7 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-navigatorprotocol"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">maneuverNotificationOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-maneuvernotificationoptions">ManeuverNotificationOptions</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">maneuverNotificationOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-maneuvernotificationoptions">ManeuverNotificationOptions</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -1059,7 +1059,7 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-navigatorprotocol"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">eventTextOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-eventtextoptions">EventTextOptions</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">eventTextOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-eventtextoptions">EventTextOptions</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -1084,7 +1084,7 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-navigatorprotocol"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">speedWarningOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-speedwarningoptions">SpeedWarningOptions</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">speedWarningOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-speedwarningoptions">SpeedWarningOptions</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -1159,7 +1159,7 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-navigatorprotocol"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">trafficOnRoute</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-trafficonroute">TrafficOnRoute</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">trafficOnRoute</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-trafficonroute">TrafficOnRoute</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -1184,7 +1184,7 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-navigatorprotocol"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">locationManager</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-locationmanager">LocationManager</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">locationManager</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-locationmanager">LocationManager</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -1204,19 +1204,19 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-navigatorprotocol"
 <div class="pointer"></div>
 <div class="abstract">
 <p>Called each time a new location is available.
-In a navigation context while using the <code><a href="sdk-for-ios-navigate-api-reference-..-classes-navigator">Navigator</a></code> or <code><a href="sdk-for-ios-navigate-api-reference-..-classes-visualnavigator">VisualNavigator</a></code>,
-it’s required to set the <code><a href="../Structs/Location.html#/s:7heresdk8LocationV4time10Foundation4DateVSgvp">Location.time</a></code> parameter for each <code><a href="sdk-for-ios-navigate-api-reference-..-structs-location">Location</a></code>
+In a navigation context while using the <code><a href="sdk-for-ios-navigate-api-reference-classes-navigator">Navigator</a></code> or <code><a href="sdk-for-ios-navigate-api-reference-classes-visualnavigator">VisualNavigator</a></code>,
+it’s required to set the <code><a href="../Structs/Location.html#/s:7heresdk8LocationV4time10Foundation4DateVSgvp">Location.time</a></code> parameter for each <code><a href="sdk-for-ios-navigate-api-reference-structs-location">Location</a></code>
 object so that the HERE SDK can map-match the locations properly.
 If the <code><a href="../Structs/Location.html#/s:7heresdk8LocationV4time10Foundation4DateVSgvp">Location.time</a></code> parameter is missing, the location will be ignored.
 For navigation, it is also recommended to provide the <code>bearing</code> and <code>speed</code>
-parameters for each <code><a href="sdk-for-ios-navigate-api-reference-..-structs-location">Location</a></code> object.
+parameters for each <code><a href="sdk-for-ios-navigate-api-reference-structs-location">Location</a></code> object.
 Invoked on the main thread.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">onLocationUpdated</span><span class="p">(</span><span class="n">_</span> <span class="nv">location</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-location">Location</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">onLocationUpdated</span><span class="p">(</span><span class="n">_</span> <span class="nv">location</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-location">Location</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -1260,7 +1260,7 @@ Invoked on the main thread.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">getManeuver</span><span class="p">(</span><span class="nv">index</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-maneuver">Maneuver</a></span><span class="p">?</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">getManeuver</span><span class="p">(</span><span class="nv">index</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-maneuver">Maneuver</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 <div>
@@ -1311,7 +1311,7 @@ for the same combination of transport mode and timing profile.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">getManeuverNotificationTimingOptions</span><span class="p">(</span><span class="nv">transportMode</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-transportmode">TransportMode</a></span><span class="p">,</span> <span class="nv">timingProfile</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-timingprofile">TimingProfile</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-maneuvernotificationtimingoptions">ManeuverNotificationTimingOptions</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">getManeuverNotificationTimingOptions</span><span class="p">(</span><span class="nv">transportMode</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-transportmode">TransportMode</a></span><span class="p">,</span> <span class="nv">timingProfile</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-timingprofile">TimingProfile</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-maneuvernotificationtimingoptions">ManeuverNotificationTimingOptions</a></span></code></pre>
 </div>
 </div>
 <div>
@@ -1372,7 +1372,7 @@ for the same combination of transport mode and timing profile.</p>
 <div class="language">
 <p class="aside-title">Swift</p>
 <pre class="highlight swift"><code><span class="kd">@discardableResult</span>
-<span class="kd">func</span> <span class="nf">setManeuverNotificationTimingOptions</span><span class="p">(</span><span class="nv">transportMode</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-transportmode">TransportMode</a></span><span class="p">,</span> <span class="nv">timingProfile</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-timingprofile">TimingProfile</a></span><span class="p">,</span> <span class="nv">options</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-maneuvernotificationtimingoptions">ManeuverNotificationTimingOptions</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">Bool</span></code></pre>
+<span class="kd">func</span> <span class="nf">setManeuverNotificationTimingOptions</span><span class="p">(</span><span class="nv">transportMode</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-transportmode">TransportMode</a></span><span class="p">,</span> <span class="nv">timingProfile</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-timingprofile">TimingProfile</a></span><span class="p">,</span> <span class="nv">options</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-maneuvernotificationtimingoptions">ManeuverNotificationTimingOptions</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">Bool</span></code></pre>
 </div>
 </div>
 <div>
@@ -1420,7 +1420,7 @@ for the same combination of transport mode and timing profile.</p>
 </div>
 <div>
 <h4>Return Value</h4>
-<p><code>True</code> if set successfully, <code>false</code> when options has invalid value, see <code><a href="sdk-for-ios-navigate-api-reference-..-structs-maneuvernotificationtimingoptions">ManeuverNotificationTimingOptions</a></code> for
+<p><code>True</code> if set successfully, <code>false</code> when options has invalid value, see <code><a href="sdk-for-ios-navigate-api-reference-structs-maneuvernotificationtimingoptions">ManeuverNotificationTimingOptions</a></code> for
 more details about options.</p>
 </div>
 </section>
@@ -1448,7 +1448,7 @@ warning type and the modified warning notification distances object.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">getWarningNotificationDistances</span><span class="p">(</span><span class="nv">warningType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-warningtype">WarningType</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-warningnotificationdistances">WarningNotificationDistances</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">getWarningNotificationDistances</span><span class="p">(</span><span class="nv">warningType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-warningtype">WarningType</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-warningnotificationdistances">WarningNotificationDistances</a></span></code></pre>
 </div>
 </div>
 <div>
@@ -1494,10 +1494,10 @@ warning type and the modified warning notification distances object.</p>
 <strong>Note:</strong> The warning notification distances are set for most warners.
 This method can’t be used to set the warning notification distance for the School Zone warning type because it is applicable regardless of the timing profile. Use <code>NavigatorInterface.school_zone_warning_options</code> instead.
 Attempting to set the warning notification distances for the school zone warner using the <code>NavigatorInterface.set_warning_notification_distances</code> method will fail and return <code>false</code>.
-Always use <code>SchoolZoneWarningOptions.warning_distance_in_meters</code> to set the warning notification distance for the school zone warner regardless of the <code><a href="sdk-for-ios-navigate-api-reference-..-enums-timingprofile">TimingProfile</a></code>.
+Always use <code>SchoolZoneWarningOptions.warning_distance_in_meters</code> to set the warning notification distance for the school zone warner regardless of the <code><a href="sdk-for-ios-navigate-api-reference-enums-timingprofile">TimingProfile</a></code>.
 If <code>NavigatorInterface.set_warning_notification_distances</code> could be used, this would allow for different distances to be set for each timing profile, which is undesirable.
 Attempting to set the warning notification distances for the traffic merge warner using the <code>NavigatorInterface.set_warning_notification_distances</code> method will fail and return <code>false</code>.
-Always use <code>TrafficMergeWarningOptions.warning_distance_in_meters</code> to set the warning notification distance for the traffic merge warner regardless of the <code><a href="sdk-for-ios-navigate-api-reference-..-enums-timingprofile">TimingProfile</a></code>.
+Always use <code>TrafficMergeWarningOptions.warning_distance_in_meters</code> to set the warning notification distance for the traffic merge warner regardless of the <code><a href="sdk-for-ios-navigate-api-reference-enums-timingprofile">TimingProfile</a></code>.
 Using the <code>NavigatorInterface.set_warning_notification_distances</code> method will fail and return <code>false</code> to avoid
 seting different distances on each timing profile since the traffic merge warning is only applicable on highways.</p>
 </div>
@@ -1506,7 +1506,7 @@ seting different distances on each timing profile since the traffic merge warnin
 <div class="language">
 <p class="aside-title">Swift</p>
 <pre class="highlight swift"><code><span class="kd">@discardableResult</span>
-<span class="kd">func</span> <span class="nf">setWarningNotificationDistances</span><span class="p">(</span><span class="nv">warningType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-warningtype">WarningType</a></span><span class="p">,</span> <span class="nv">warningNotificationDistances</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-warningnotificationdistances">WarningNotificationDistances</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">Bool</span></code></pre>
+<span class="kd">func</span> <span class="nf">setWarningNotificationDistances</span><span class="p">(</span><span class="nv">warningType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-warningtype">WarningType</a></span><span class="p">,</span> <span class="nv">warningNotificationDistances</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-warningnotificationdistances">WarningNotificationDistances</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">Bool</span></code></pre>
 </div>
 </div>
 <div>
@@ -1543,7 +1543,7 @@ seting different distances on each timing profile since the traffic merge warnin
 <div>
 <h4>Return Value</h4>
 <p><code>True</code> if set successfully, <code>false</code> when the warning_type is [WarningType.SCHOOL_ZONE] or the options have invalid values,
-see <code><a href="sdk-for-ios-navigate-api-reference-..-structs-warningnotificationdistances">WarningNotificationDistances</a></code> for more details about warning notification distances.</p>
+see <code><a href="sdk-for-ios-navigate-api-reference-structs-warningnotificationdistances">WarningNotificationDistances</a></code> for more details about warning notification distances.</p>
 </div>
 </section>
 </div>
@@ -1593,7 +1593,7 @@ The coordinates must be on the polyline.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">calculateRemainingDistanceInMeters</span><span class="p">(</span><span class="nv">coordinates</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-geocoordinates">GeoCoordinates</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">Int32</span><span class="p">?</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">calculateRemainingDistanceInMeters</span><span class="p">(</span><span class="nv">coordinates</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-geocoordinates">GeoCoordinates</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">Int32</span><span class="p">?</span></code></pre>
 </div>
 </div>
 <div>

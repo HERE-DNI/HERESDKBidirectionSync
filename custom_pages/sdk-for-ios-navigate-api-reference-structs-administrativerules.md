@@ -1,5 +1,5 @@
 ---
-title: "MapData / AdministrativeRules"
+title: "sdk-for-ios-navigate-api-reference-structs-administrativerules"
 slug: "sdk-for-ios-navigate-api-reference-structs-administrativerules"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-structs-administrativerules"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-mapdata">MapData</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-mapdata">MapData</a>
+<img alt="" id="carat" src="/carat.png"/>
         AdministrativeRules Structure Reference
       </p>
 </div>
@@ -57,7 +57,7 @@ slug: "sdk-for-ios-navigate-api-reference-structs-administrativerules"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">countryCode</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-countrycode">CountryCode</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">countryCode</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-countrycode">CountryCode</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -112,7 +112,7 @@ administrative-specific data.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">adminContextId</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-admincontextid">AdminContextId</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">adminContextId</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-admincontextid">AdminContextId</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -140,7 +140,7 @@ from parent administrative regions.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">parentAdminContextIds</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-admincontextid">AdminContextId</a></span><span class="p">]</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">parentAdminContextIds</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-admincontextid">AdminContextId</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -165,7 +165,7 @@ from parent administrative regions.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">drivingSide</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-drivingside">DrivingSide</a></span><span class="p">?</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">drivingSide</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-drivingside">DrivingSide</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -190,7 +190,7 @@ from parent administrative regions.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">unitSystem</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-unitsystem">UnitSystem</a></span><span class="p">?</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">unitSystem</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-unitsystem">UnitSystem</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -215,7 +215,7 @@ from parent administrative regions.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">speedLimits</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-generalvehiclespeedlimits">GeneralVehicleSpeedLimits</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">speedLimits</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-generalvehiclespeedlimits">GeneralVehicleSpeedLimits</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -275,7 +275,7 @@ the time of the calculation, then a value of 60 minutes should be substracted fr
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">daylightSavingPeriod</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-timerule">TimeRule</a></span><span class="p">?</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">daylightSavingPeriod</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-timerule">TimeRule</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -327,7 +327,7 @@ turned on.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">headlightsRequirements</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-headlightsrequirement">HeadlightsRequirement</a></span><span class="p">]</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">headlightsRequirements</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-headlightsrequirement">HeadlightsRequirement</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -403,7 +403,7 @@ roads. Defaults to <code>false</code>.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">turnOnRedRegulations</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-turnonredregulation">TurnOnRedRegulation</a></span><span class="p">]</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">turnOnRedRegulations</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-turnonredregulation">TurnOnRedRegulation</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -428,7 +428,7 @@ roads. Defaults to <code>false</code>.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">parkingSideRegulations</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-parkingsideregulation">ParkingSideRegulation</a></span><span class="p">]</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">parkingSideRegulations</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-parkingsideregulation">ParkingSideRegulation</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -479,7 +479,7 @@ all types of drivers.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">bloodAlcoholContentLimit</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-bloodalcoholcontentlimit">BloodAlcoholContentLimit</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">bloodAlcoholContentLimit</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-bloodalcoholcontentlimit">BloodAlcoholContentLimit</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -504,7 +504,7 @@ all types of drivers.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">tollSystems</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-tollsystem">TollSystem</a></span><span class="p">]</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">tollSystems</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-tollsystem">TollSystem</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -529,7 +529,7 @@ all types of drivers.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">preTripPlanning</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-pretripplanning">PreTripPlanning</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">preTripPlanning</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-pretripplanning">PreTripPlanning</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -554,7 +554,7 @@ all types of drivers.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">countryCode</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-countrycode">CountryCode</a></span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-countrycode">CountryCode</a></span><span class="o">.</span><span class="n">abw</span><span class="p">,</span> <span class="nv">stateCode</span><span class="p">:</span> <span class="kt">String</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">adminContextId</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-admincontextid">AdminContextId</a></span><span class="p">,</span> <span class="nv">parentAdminContextIds</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-admincontextid">AdminContextId</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">drivingSide</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-drivingside">DrivingSide</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">unitSystem</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-unitsystem">UnitSystem</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">speedLimits</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-generalvehiclespeedlimits">GeneralVehicleSpeedLimits</a></span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-generalvehiclespeedlimits">GeneralVehicleSpeedLimits</a></span><span class="p">(),</span> <span class="nv">timeZoneOffsetsInMinutes</span><span class="p">:</span> <span class="p">[</span><span class="kt">TimeInterval</span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">daylightSavingPeriod</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-timerule">TimeRule</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">isUturnRestricted</span><span class="p">:</span> <span class="kt">Bool</span> <span class="o">=</span> <span class="kc">false</span><span class="p">,</span> <span class="nv">headlightsRequirements</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-headlightsrequirement">HeadlightsRequirement</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">isTollRequired</span><span class="p">:</span> <span class="kt">Bool</span> <span class="o">=</span> <span class="kc">false</span><span class="p">,</span> <span class="nv">isTollStickerRequired</span><span class="p">:</span> <span class="kt">Bool</span> <span class="o">=</span> <span class="kc">false</span><span class="p">,</span> <span class="nv">turnOnRedRegulations</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-turnonredregulation">TurnOnRedRegulation</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">parkingSideRegulations</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-parkingsideregulation">ParkingSideRegulation</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">isCleanAirStickerRequired</span><span class="p">:</span> <span class="kt">Bool</span> <span class="o">=</span> <span class="kc">false</span><span class="p">,</span> <span class="nv">bloodAlcoholContentLimit</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-bloodalcoholcontentlimit">BloodAlcoholContentLimit</a></span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-bloodalcoholcontentlimit">BloodAlcoholContentLimit</a></span><span class="p">(),</span> <span class="nv">tollSystems</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-tollsystem">TollSystem</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">preTripPlanning</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-pretripplanning">PreTripPlanning</a></span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-pretripplanning">PreTripPlanning</a></span><span class="p">())</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">countryCode</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-countrycode">CountryCode</a></span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-countrycode">CountryCode</a></span><span class="o">.</span><span class="n">abw</span><span class="p">,</span> <span class="nv">stateCode</span><span class="p">:</span> <span class="kt">String</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">adminContextId</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-admincontextid">AdminContextId</a></span><span class="p">,</span> <span class="nv">parentAdminContextIds</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-admincontextid">AdminContextId</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">drivingSide</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-drivingside">DrivingSide</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">unitSystem</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-unitsystem">UnitSystem</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">speedLimits</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-generalvehiclespeedlimits">GeneralVehicleSpeedLimits</a></span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-generalvehiclespeedlimits">GeneralVehicleSpeedLimits</a></span><span class="p">(),</span> <span class="nv">timeZoneOffsetsInMinutes</span><span class="p">:</span> <span class="p">[</span><span class="kt">TimeInterval</span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">daylightSavingPeriod</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-timerule">TimeRule</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">isUturnRestricted</span><span class="p">:</span> <span class="kt">Bool</span> <span class="o">=</span> <span class="kc">false</span><span class="p">,</span> <span class="nv">headlightsRequirements</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-headlightsrequirement">HeadlightsRequirement</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">isTollRequired</span><span class="p">:</span> <span class="kt">Bool</span> <span class="o">=</span> <span class="kc">false</span><span class="p">,</span> <span class="nv">isTollStickerRequired</span><span class="p">:</span> <span class="kt">Bool</span> <span class="o">=</span> <span class="kc">false</span><span class="p">,</span> <span class="nv">turnOnRedRegulations</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-turnonredregulation">TurnOnRedRegulation</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">parkingSideRegulations</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-parkingsideregulation">ParkingSideRegulation</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">isCleanAirStickerRequired</span><span class="p">:</span> <span class="kt">Bool</span> <span class="o">=</span> <span class="kc">false</span><span class="p">,</span> <span class="nv">bloodAlcoholContentLimit</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-bloodalcoholcontentlimit">BloodAlcoholContentLimit</a></span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-bloodalcoholcontentlimit">BloodAlcoholContentLimit</a></span><span class="p">(),</span> <span class="nv">tollSystems</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-tollsystem">TollSystem</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">preTripPlanning</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-pretripplanning">PreTripPlanning</a></span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-pretripplanning">PreTripPlanning</a></span><span class="p">())</span></code></pre>
 </div>
 </div>
 </section>

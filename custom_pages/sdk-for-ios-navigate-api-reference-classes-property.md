@@ -1,5 +1,5 @@
 ---
-title: "Venues / Property"
+title: "sdk-for-ios-navigate-api-reference-classes-property"
 slug: "sdk-for-ios-navigate-api-reference-classes-property"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-classes-property"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-venues">Venues</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-venues">Venues</a>
+<img alt="" id="carat" src="/carat.png"/>
         Property Class Reference
       </p>
 </div>
@@ -36,8 +36,8 @@ slug: "sdk-for-ios-navigate-api-reference-classes-property"
 </div>
 </div>
 <p>Holds information of varying types, such as Boolean, Integer, String. Properties are used
-in <code><a href="sdk-for-ios-navigate-api-reference-..-classes-venuemodel">VenueModel</a></code> <code><a href="sdk-for-ios-navigate-api-reference-..-classes-venuedrawing">VenueDrawing</a></code>, <code><a href="sdk-for-ios-navigate-api-reference-..-classes-venuelevel">VenueLevel</a></code>
-and <code><a href="sdk-for-ios-navigate-api-reference-..-classes-venuegeometry">VenueGeometry</a></code> to describe this objects.</p>
+in <code><a href="sdk-for-ios-navigate-api-reference-classes-venuemodel">VenueModel</a></code> <code><a href="sdk-for-ios-navigate-api-reference-classes-venuedrawing">VenueDrawing</a></code>, <code><a href="sdk-for-ios-navigate-api-reference-classes-venuelevel">VenueLevel</a></code>
+and <code><a href="sdk-for-ios-navigate-api-reference-classes-venuegeometry">VenueGeometry</a></code> to describe this objects.</p>
 </section>
 <section class="section task-group-section">
 <div class="task-group">
@@ -62,7 +62,7 @@ It can be used to get type of property.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">type</span><span class="p">:</span> <span class="kt">Property</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-property-propertytype">PropertyType</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">type</span><span class="p">:</span> <span class="kt">Property</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-property-propertytype">PropertyType</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -160,7 +160,7 @@ Converts the value of the property to a boolean.</p>
 <div class="pointer"></div>
 <div class="abstract">
 <p>Types of properties.</p>
-<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-..-classes-property-propertytype">See more</a>
+<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-classes-property-propertytype">See more</a>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>

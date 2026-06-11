@@ -30,7 +30,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-trucktype"
 <h1>TruckType</h1>
 <div class="declaration">
 <div class="language">
-<pre class="highlight swift"><code><span class="kd">@available(*, deprecated, message: "Will be removed in v4.27.0. Use `TruckCategory` instead.")</span>
+<pre class="highlight swift"><code><span class="kd">@available(*, deprecated, message: "Will be removed in v4.27.0. Use TruckCategory instead.")</span>
 <span class="kd">public</span> <span class="kd">enum</span> <span class="kt">TruckType</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>

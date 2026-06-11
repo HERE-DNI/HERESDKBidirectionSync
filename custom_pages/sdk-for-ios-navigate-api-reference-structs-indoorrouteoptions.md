@@ -1,5 +1,5 @@
 ---
-title: "Routing / IndoorRouteOptions"
+title: "sdk-for-ios-navigate-api-reference-structs-indoorrouteoptions"
 slug: "sdk-for-ios-navigate-api-reference-structs-indoorrouteoptions"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-structs-indoorrouteoptions"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-routing">Routing</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-routing">Routing</a>
+<img alt="" id="carat" src="/carat.png"/>
         IndoorRouteOptions Structure Reference
       </p>
 </div>
@@ -59,7 +59,7 @@ utilized for indoor route calculation.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">routeOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-routeoptions">RouteOptions</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">routeOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-routeoptions">RouteOptions</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -87,7 +87,7 @@ This option will affect only outdoor route sections.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">transportMode</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-venuetransportmode">VenueTransportMode</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">transportMode</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-venuetransportmode">VenueTransportMode</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -113,7 +113,7 @@ no restrictions are applied.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">indoorAvoidanceOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-indooravoidanceoptions">IndoorAvoidanceOptions</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">indoorAvoidanceOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-indooravoidanceoptions">IndoorAvoidanceOptions</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -133,7 +133,7 @@ no restrictions are applied.</p>
 <div class="pointer"></div>
 <div class="abstract">
 <p>Specifies the speed that will be used by the service as the speed
-for <code><a href="sdk-for-ios-navigate-api-reference-..-enums-venuetransportmode">VenueTransportMode</a></code> in meters per second.
+for <code><a href="sdk-for-ios-navigate-api-reference-enums-venuetransportmode">VenueTransportMode</a></code> in meters per second.
 It influences the duration of segments along the route.
 The default speed is 1 meter per second.</p>
 </div>
@@ -178,7 +178,7 @@ The default speed is 1 meter per second.</p>
 <li>indoorAvoidanceOptions: Options to specify restrictions for indoor route calculations. By default
 no restrictions are applied.</li>
 <li>speedInMetersPerSecond: Specifies the speed that will be used by the service as the speed
-for <code><a href="sdk-for-ios-navigate-api-reference-..-enums-venuetransportmode">VenueTransportMode</a></code> in meters per second.
+for <code><a href="sdk-for-ios-navigate-api-reference-enums-venuetransportmode">VenueTransportMode</a></code> in meters per second.
 It influences the duration of segments along the route.
 The default speed is 1 meter per second.</li>
 </ul></li>
@@ -188,7 +188,7 @@ The default speed is 1 meter per second.</li>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">routeOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-routeoptions">RouteOptions</a></span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-routeoptions">RouteOptions</a></span><span class="p">(),</span> <span class="nv">transportMode</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-venuetransportmode">VenueTransportMode</a></span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-venuetransportmode">VenueTransportMode</a></span><span class="o">.</span><span class="n">pedestrian</span><span class="p">,</span> <span class="nv">indoorAvoidanceOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-indooravoidanceoptions">IndoorAvoidanceOptions</a></span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-indooravoidanceoptions">IndoorAvoidanceOptions</a></span><span class="p">(),</span> <span class="nv">speedInMetersPerSecond</span><span class="p">:</span> <span class="kt">Double</span> <span class="o">=</span> <span class="mf">1.0</span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">routeOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-routeoptions">RouteOptions</a></span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-routeoptions">RouteOptions</a></span><span class="p">(),</span> <span class="nv">transportMode</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-venuetransportmode">VenueTransportMode</a></span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-venuetransportmode">VenueTransportMode</a></span><span class="o">.</span><span class="n">pedestrian</span><span class="p">,</span> <span class="nv">indoorAvoidanceOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-indooravoidanceoptions">IndoorAvoidanceOptions</a></span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-indooravoidanceoptions">IndoorAvoidanceOptions</a></span><span class="p">(),</span> <span class="nv">speedInMetersPerSecond</span><span class="p">:</span> <span class="kt">Double</span> <span class="o">=</span> <span class="mf">1.0</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>

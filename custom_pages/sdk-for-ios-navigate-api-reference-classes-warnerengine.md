@@ -1,5 +1,5 @@
 ---
-title: "WarnerEngine / WarnerEngine"
+title: "sdk-for-ios-navigate-api-reference-classes-warnerengine"
 slug: "sdk-for-ios-navigate-api-reference-classes-warnerengine"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-classes-warnerengine"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-warnerengine">WarnerEngine</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-warnerengine">WarnerEngine</a>
+<img alt="" id="carat" src="/carat.png"/>
         WarnerEngine Class Reference
       </p>
 </div>
@@ -30,14 +30,14 @@ slug: "sdk-for-ios-navigate-api-reference-classes-warnerengine"
 <h1>WarnerEngine</h1>
 <div class="declaration">
 <div class="language">
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">WarnerEngine</span> <span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-electronichorizondelegate">ElectronicHorizonDelegate</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">WarnerEngine</span> <span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-electronichorizondelegate">ElectronicHorizonDelegate</a></span></code></pre>
 <pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">WarnerEngine</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
 <pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">WarnerEngine</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Provides the core functionality for generating and managing navigation warnings.</p>
 <p><code>WarnerEngine</code> processes Electronic Horizon data and determines when various types
-of warnings should be issued. It is used with <code><a href="sdk-for-ios-navigate-api-reference-..-protocols-electronichorizondelegate">ElectronicHorizonDelegate</a></code>,
+of warnings should be issued. It is used with <code><a href="sdk-for-ios-navigate-api-reference-protocols-electronichorizondelegate">ElectronicHorizonDelegate</a></code>,
 which supply the road topology and positional updates required for warning evaluation.</p>
 <p>The engine monitors enabled warning types and notifies registered listeners when new warnings become available.</p>
 <p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
@@ -70,7 +70,7 @@ behaviors. Related APIs may change for new releases without a deprecation proces
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">enabledWarnings</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-warningtype">WarningType</a></span><span class="p">])</span> <span class="k">throws</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">enabledWarnings</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-warningtype">WarningType</a></span><span class="p">])</span> <span class="k">throws</span></code></pre>
 </div>
 </div>
 <div>
@@ -120,7 +120,7 @@ by the engine. Only warnings of these types will be generated.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">sdkEngine</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-sdknativeengine">SDKNativeEngine</a></span><span class="p">,</span> <span class="nv">enabledWarnings</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-warningtype">WarningType</a></span><span class="p">])</span> <span class="k">throws</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">sdkEngine</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-sdknativeengine">SDKNativeEngine</a></span><span class="p">,</span> <span class="nv">enabledWarnings</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-warningtype">WarningType</a></span><span class="p">])</span> <span class="k">throws</span></code></pre>
 </div>
 </div>
 <div>
@@ -182,7 +182,7 @@ by the engine. Only warnings of these types will be generated.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">sdkEngine</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-sdknativeengine">SDKNativeEngine</a></span><span class="p">,</span> <span class="nv">wallClock</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-wallclock">WallClock</a></span><span class="p">,</span> <span class="nv">enabledWarnings</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-warningtype">WarningType</a></span><span class="p">])</span> <span class="k">throws</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">sdkEngine</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-sdknativeengine">SDKNativeEngine</a></span><span class="p">,</span> <span class="nv">wallClock</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-wallclock">WallClock</a></span><span class="p">,</span> <span class="nv">enabledWarnings</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-warningtype">WarningType</a></span><span class="p">])</span> <span class="k">throws</span></code></pre>
 </div>
 </div>
 <div>
@@ -209,7 +209,7 @@ by the engine. Only warnings of these types will be generated.</p>
 </td>
 <td>
 <div>
-<p>A <code><a href="sdk-for-ios-navigate-api-reference-..-protocols-wallclock">WallClock</a></code> instance.</p>
+<p>A <code><a href="sdk-for-ios-navigate-api-reference-protocols-wallclock">WallClock</a></code> instance.</p>
 </div>
 </td>
 </tr>
@@ -252,7 +252,7 @@ Provides configuration parameters for all the warners.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">warningOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-warningoptions">WarningOptions</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">warningOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-warningoptions">WarningOptions</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -274,7 +274,7 @@ Provides configuration parameters for all the warners.</p>
 <p>The timing profile that defines when navigation warnings should be triggered.
 Configures the base notification thresholds used for delivering
 navigation warnings. The effective thresholds depend on the selected
-<code><a href="sdk-for-ios-navigate-api-reference-..-enums-timingprofile">TimingProfile</a></code> and may adjust automatically according to
+<code><a href="sdk-for-ios-navigate-api-reference-enums-timingprofile">TimingProfile</a></code> and may adjust automatically according to
 the current speed limit:</p>
 <ul>
 <li>For <code><a href="../Enums/TimingProfile.html#/s:7heresdk13TimingProfileO9fastSpeedyA2CmF">TimingProfile.fastSpeed</a></code>, thresholds apply when the current
@@ -290,7 +290,7 @@ speed limit is 60 km/h (37 mph) or below.</li>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">timingProfile</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-timingprofile">TimingProfile</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">timingProfile</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-timingprofile">TimingProfile</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -321,7 +321,7 @@ represents an error or a valid update.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">onElectronicHorizonUpdated</span><span class="p">(</span><span class="nv">errorCode</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-electronichorizonerrorcode">ElectronicHorizonErrorCode</a></span><span class="p">?,</span> <span class="nv">update</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-electronichorizonupdate">ElectronicHorizonUpdate</a></span><span class="p">?)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">onElectronicHorizonUpdated</span><span class="p">(</span><span class="nv">errorCode</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-electronichorizonerrorcode">ElectronicHorizonErrorCode</a></span><span class="p">?,</span> <span class="nv">update</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-electronichorizonupdate">ElectronicHorizonUpdate</a></span><span class="p">?)</span></code></pre>
 </div>
 </div>
 <div>
@@ -381,7 +381,7 @@ types included in <code>WarnerEngine.addEnabledWarnings(...).warningTypes</code>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">addEnabledWarnings</span><span class="p">(</span><span class="nv">warningTypes</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-warningtype">WarningType</a></span><span class="p">])</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">addEnabledWarnings</span><span class="p">(</span><span class="nv">warningTypes</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-warningtype">WarningType</a></span><span class="p">])</span></code></pre>
 </div>
 </div>
 <div>
@@ -427,7 +427,7 @@ types included in <code>WarnerEngine.removeEnabledWarnings(...).warningTypes</co
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">removeEnabledWarnings</span><span class="p">(</span><span class="nv">warningTypes</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-warningtype">WarningType</a></span><span class="p">])</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">removeEnabledWarnings</span><span class="p">(</span><span class="nv">warningTypes</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-warningtype">WarningType</a></span><span class="p">])</span></code></pre>
 </div>
 </div>
 <div>
@@ -473,7 +473,7 @@ only for types included in <code>WarnerEngine.setEnabledWarnings(...).warningTyp
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">setEnabledWarnings</span><span class="p">(</span><span class="nv">warningTypes</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-warningtype">WarningType</a></span><span class="p">])</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">setEnabledWarnings</span><span class="p">(</span><span class="nv">warningTypes</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-warningtype">WarningType</a></span><span class="p">])</span></code></pre>
 </div>
 </div>
 <div>
@@ -512,14 +512,14 @@ only for types included in <code>WarnerEngine.setEnabledWarnings(...).warningTyp
 <div class="pointer"></div>
 <div class="abstract">
 <p>Returns the current list of enabled warning types.
-If the WarnerEngine was retrieved from the <code><a href="sdk-for-ios-navigate-api-reference-..-classes-navigator">Navigator</a></code>, it will also contain
+If the WarnerEngine was retrieved from the <code><a href="sdk-for-ios-navigate-api-reference-classes-navigator">Navigator</a></code>, it will also contain
 all the warnings enabled for which listeners are set.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getEnabledWarnings</span><span class="p">()</span> <span class="o">-&gt;</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-warningtype">WarningType</a></span><span class="p">]</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getEnabledWarnings</span><span class="p">()</span> <span class="o">-&gt;</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-warningtype">WarningType</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 <div>
@@ -548,7 +548,7 @@ all the warnings enabled for which listeners are set.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">addWarningDelegate</span><span class="p">(</span><span class="n">_</span> <span class="nv">warningListener</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-warningdelegate">WarningDelegate</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">addWarningDelegate</span><span class="p">(</span><span class="n">_</span> <span class="nv">warningListener</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-warningdelegate">WarningDelegate</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -592,7 +592,7 @@ all the warnings enabled for which listeners are set.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">removeWarningDelegate</span><span class="p">(</span><span class="n">_</span> <span class="nv">warningListener</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-warningdelegate">WarningDelegate</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">removeWarningDelegate</span><span class="p">(</span><span class="n">_</span> <span class="nv">warningListener</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-warningdelegate">WarningDelegate</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -632,19 +632,19 @@ all the warnings enabled for which listeners are set.</p>
 <div class="abstract">
 <p>Returns the centralized access point for retrieving full metadata of any supported
 warning category (e.g., safety cameras, truck restrictions, etc.).
-<code><a href="sdk-for-ios-navigate-api-reference-..-classes-warningsregistry">WarningsRegistry</a></code> class exposes getter methods, each returning the detailed warning object for the given identifier.
+<code><a href="sdk-for-ios-navigate-api-reference-classes-warningsregistry">WarningsRegistry</a></code> class exposes getter methods, each returning the detailed warning object for the given identifier.
 Use this getter to look up complete warning information by its id, as provided through <code>WarningListener.onWarning</code>.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getWarningsRegistry</span><span class="p">()</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-warningsregistry">WarningsRegistry</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getWarningsRegistry</span><span class="p">()</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-warningsregistry">WarningsRegistry</a></span></code></pre>
 </div>
 </div>
 <div>
 <h4>Return Value</h4>
-<p>The centralized <code><a href="sdk-for-ios-navigate-api-reference-..-classes-warningsregistry">WarningsRegistry</a></code> instance.</p>
+<p>The centralized <code><a href="sdk-for-ios-navigate-api-reference-classes-warningsregistry">WarningsRegistry</a></code> instance.</p>
 </div>
 </section>
 </div>
@@ -671,7 +671,7 @@ custom warning type.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getWarningNotificationDistances</span><span class="p">(</span><span class="nv">warningType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-warningtype">WarningType</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-warningnotificationdistances">WarningNotificationDistances</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getWarningNotificationDistances</span><span class="p">(</span><span class="nv">warningType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-warningtype">WarningType</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-warningnotificationdistances">WarningNotificationDistances</a></span></code></pre>
 </div>
 </div>
 <div>
@@ -698,7 +698,7 @@ Must not be <code><a href="../Enums/WarningType.html#/s:7heresdk11WarningTypeO6c
 <h4>Return Value</h4>
 <p>The warning notification distances for the given <code>WarnerEngine.getWarningNotificationDistances(...).warningType</code>.
 If <code>WarnerEngine.getWarningNotificationDistances(...).warningType</code> is <code><a href="../Enums/WarningType.html#/s:7heresdk11WarningTypeO6customyA2CmF">WarningType.custom</a></code>, a default
-<code><a href="sdk-for-ios-navigate-api-reference-..-structs-warningnotificationdistances">WarningNotificationDistances</a></code> value is returned.</p>
+<code><a href="sdk-for-ios-navigate-api-reference-structs-warningnotificationdistances">WarningNotificationDistances</a></code> value is returned.</p>
 </div>
 </section>
 </div>
@@ -725,7 +725,7 @@ custom warning type.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">setWarningNotificationDistances</span><span class="p">(</span><span class="nv">warningType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-warningtype">WarningType</a></span><span class="p">,</span> <span class="nv">warningNotificationDistances</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-warningnotificationdistances">WarningNotificationDistances</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">Bool</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">setWarningNotificationDistances</span><span class="p">(</span><span class="nv">warningType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-warningtype">WarningType</a></span><span class="p">,</span> <span class="nv">warningNotificationDistances</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-warningnotificationdistances">WarningNotificationDistances</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">Bool</span></code></pre>
 </div>
 </div>
 <div>
@@ -782,7 +782,7 @@ Must not be <code><a href="../Enums/WarningType.html#/s:7heresdk11WarningTypeO6c
 <div class="pointer"></div>
 <div class="abstract">
 <p>Returns the warning notification distances for the specified custom warning type.</p>
-<p>Unlike <code><a href="../Classes/WarnerEngine.html#/s:7heresdk12WarnerEngineC31getWarningNotificationDistances11warningTypeAA0efG0VAA0eI0O_tF">WarnerEngine.getWarningNotificationDistances(...)</a></code>, which operates on a <code><a href="sdk-for-ios-navigate-api-reference-..-enums-warningtype">WarningType</a></code>,
+<p>Unlike <code><a href="../Classes/WarnerEngine.html#/s:7heresdk12WarnerEngineC31getWarningNotificationDistances11warningTypeAA0efG0VAA0eI0O_tF">WarnerEngine.getWarningNotificationDistances(...)</a></code>, which operates on a <code><a href="sdk-for-ios-navigate-api-reference-enums-warningtype">WarningType</a></code>,
 this method targets a specific custom warning category identified by <code>WarnerEngine.getCustomWarningNotificationDistances(...).customWarningType</code>,
 as defined in <code><a href="../Structs/CustomWarning.html#/s:7heresdk13CustomWarningV06customC4Types5Int32Vvp">CustomWarning.customWarningType</a></code> and <code><a href="../Structs/Warning.html#/s:7heresdk7WarningV06customB4Types5Int32VSgvp">Warning.customWarningType</a></code>.</p>
 </div>
@@ -790,7 +790,7 @@ as defined in <code><a href="../Structs/CustomWarning.html#/s:7heresdk13CustomWa
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getCustomWarningNotificationDistances</span><span class="p">(</span><span class="nv">customWarningType</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-warningnotificationdistances">WarningNotificationDistances</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getCustomWarningNotificationDistances</span><span class="p">(</span><span class="nv">customWarningType</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-warningnotificationdistances">WarningNotificationDistances</a></span></code></pre>
 </div>
 </div>
 <div>
@@ -817,7 +817,7 @@ notification distances are requested.</p>
 <h4>Return Value</h4>
 <p>The warning notification distances configured for the given <code>WarnerEngine.getCustomWarningNotificationDistances(...).customWarningType</code>.
 If no distances have been explicitly set for this type, a default
-<code><a href="sdk-for-ios-navigate-api-reference-..-structs-warningnotificationdistances">WarningNotificationDistances</a></code> value is returned.</p>
+<code><a href="sdk-for-ios-navigate-api-reference-structs-warningnotificationdistances">WarningNotificationDistances</a></code> value is returned.</p>
 <p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
 behaviors. Related APIs may change for new releases without a deprecation process.</p>
 </div>
@@ -838,7 +838,7 @@ behaviors. Related APIs may change for new releases without a deprecation proces
 <div class="pointer"></div>
 <div class="abstract">
 <p>Sets the warning notification distances for the specified custom warning type.</p>
-<p>Unlike <code><a href="../Classes/WarnerEngine.html#/s:7heresdk12WarnerEngineC31setWarningNotificationDistances11warningType0hfG0SbAA0eI0O_AA0efG0VtF">WarnerEngine.setWarningNotificationDistances(...)</a></code>, which applies settings to a <code><a href="sdk-for-ios-navigate-api-reference-..-enums-warningtype">WarningType</a></code>,
+<p>Unlike <code><a href="../Classes/WarnerEngine.html#/s:7heresdk12WarnerEngineC31setWarningNotificationDistances11warningType0hfG0SbAA0eI0O_AA0efG0VtF">WarnerEngine.setWarningNotificationDistances(...)</a></code>, which applies settings to a <code><a href="sdk-for-ios-navigate-api-reference-enums-warningtype">WarningType</a></code>,
 this method allows configuring notification distances independently for each custom warning
 category identified by <code>WarnerEngine.setCustomWarningNotificationDistances(...).customWarningType</code>, as defined in
 <code><a href="../Structs/CustomWarning.html#/s:7heresdk13CustomWarningV06customC4Types5Int32Vvp">CustomWarning.customWarningType</a></code> and <code><a href="../Structs/Warning.html#/s:7heresdk7WarningV06customB4Types5Int32VSgvp">Warning.customWarningType</a></code>.</p>
@@ -847,7 +847,7 @@ category identified by <code>WarnerEngine.setCustomWarningNotificationDistances(
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">setCustomWarningNotificationDistances</span><span class="p">(</span><span class="nv">customWarningType</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">,</span> <span class="nv">warningNotificationDistances</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-warningnotificationdistances">WarningNotificationDistances</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">Bool</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">setCustomWarningNotificationDistances</span><span class="p">(</span><span class="nv">customWarningType</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">,</span> <span class="nv">warningNotificationDistances</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-warningnotificationdistances">WarningNotificationDistances</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">Bool</span></code></pre>
 </div>
 </div>
 <div>
@@ -906,7 +906,7 @@ behaviors. Related APIs may change for new releases without a deprecation proces
 <div class="pointer"></div>
 <div class="abstract">
 <p>Marks all currently active warnings as passed (<code>DistanceType.PASSED</code>), notifies all
-registered <code><a href="sdk-for-ios-navigate-api-reference-..-protocols-warningdelegate">WarningDelegate</a></code> instances on the main thread, and then clears these
+registered <code><a href="sdk-for-ios-navigate-api-reference-protocols-warningdelegate">WarningDelegate</a></code> instances on the main thread, and then clears these
 warnings from their corresponding registries by invoking the appropriate<code>WarningsRegistry.clear&lt;Type&gt;</code> methods.</p>
 <p>This method triggers notifications only for enabled warners. Warning processing may
 occur asynchronously unless synchronous mode is enabled.</p>
@@ -947,7 +947,7 @@ to generate custom warnings based on the current vehicle position.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">addCustomWarningProvider</span><span class="p">(</span><span class="nv">customWarningProvider</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-customwarningprovider">CustomWarningProvider</a></span><span class="p">,</span> <span class="nv">segmentDataLoaderOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-segmentdataloaderoptions">SegmentDataLoaderOptions</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">addCustomWarningProvider</span><span class="p">(</span><span class="nv">customWarningProvider</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-customwarningprovider">CustomWarningProvider</a></span><span class="p">,</span> <span class="nv">segmentDataLoaderOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-segmentdataloaderoptions">SegmentDataLoaderOptions</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -974,7 +974,7 @@ to generate custom warnings based on the current vehicle position.</p>
 </td>
 <td>
 <div>
-<p>Specifies which data should be loaded by the <code><a href="sdk-for-ios-navigate-api-reference-..-classes-segmentdataloader">SegmentDataLoader</a></code>.</p>
+<p>Specifies which data should be loaded by the <code><a href="sdk-for-ios-navigate-api-reference-classes-segmentdataloader">SegmentDataLoader</a></code>.</p>
 </div>
 </td>
 </tr>
@@ -1005,7 +1005,7 @@ and will not generate custom warnings.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">removeCustomWarningProvider</span><span class="p">(</span><span class="nv">customWarningProvider</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-customwarningprovider">CustomWarningProvider</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">removeCustomWarningProvider</span><span class="p">(</span><span class="nv">customWarningProvider</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-customwarningprovider">CustomWarningProvider</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>

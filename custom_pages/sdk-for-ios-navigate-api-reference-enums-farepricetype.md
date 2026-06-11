@@ -1,5 +1,5 @@
 ---
-title: "Routing / FarePriceType"
+title: "sdk-for-ios-navigate-api-reference-enums-farepricetype"
 slug: "sdk-for-ios-navigate-api-reference-enums-farepricetype"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-enums-farepricetype"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-routing">Routing</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-routing">Routing</a>
+<img alt="" id="carat" src="/carat.png"/>
         FarePriceType Enumeration Reference
       </p>
 </div>
@@ -33,7 +33,7 @@ slug: "sdk-for-ios-navigate-api-reference-enums-farepricetype"
 <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">FarePriceType</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
-<p>Type of price represented by a <code><a href="sdk-for-ios-navigate-api-reference-..-structs-fareprice">FarePrice</a></code> object.</p>
+<p>Type of price represented by a <code><a href="sdk-for-ios-navigate-api-reference-structs-fareprice">FarePrice</a></code> object.</p>
 </section>
 <section class="section task-group-section">
 <div class="task-group">

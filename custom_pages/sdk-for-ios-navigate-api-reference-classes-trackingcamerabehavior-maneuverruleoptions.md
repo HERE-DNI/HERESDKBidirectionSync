@@ -1,5 +1,5 @@
 ---
-title: "TrackingCameraBehavior / ManeuverRuleOptions"
+title: "sdk-for-ios-navigate-api-reference-classes-trackingcamerabehavior-maneuverruleoptions"
 slug: "sdk-for-ios-navigate-api-reference-classes-trackingcamerabehavior-maneuverruleoptions"
 ---
 
@@ -15,12 +15,12 @@ slug: "sdk-for-ios-navigate-api-reference-classes-trackingcamerabehavior-maneuve
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-..-index">heresdk</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-..-navigation">Navigation</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-..-classes-trackingcamerabehavior">TrackingCameraBehavior</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-navigation">Navigation</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-classes-trackingcamerabehavior">TrackingCameraBehavior</a>
+<img alt="" id="carat" src="/carat.png"/>
         ManeuverRuleOptions Structure Reference
       </p>
 </div>
@@ -35,7 +35,7 @@ slug: "sdk-for-ios-navigate-api-reference-classes-trackingcamerabehavior-maneuve
 <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">ManeuverRuleOptions</span></code></pre>
 </div>
 </div>
-<p>Defines a set of configurations specific to a <code><a href="sdk-for-ios-navigate-api-reference-..-..-classes-trackingcamerabehavior-maneuverrule">TrackingCameraBehavior.ManeuverRule</a></code>.</p>
+<p>Defines a set of configurations specific to a <code><a href="sdk-for-ios-navigate-api-reference-classes-trackingcamerabehavior-maneuverrule">TrackingCameraBehavior.ManeuverRule</a></code>.</p>
 </section>
 <section class="section task-group-section">
 <div class="task-group">
@@ -54,13 +54,13 @@ slug: "sdk-for-ios-navigate-api-reference-classes-trackingcamerabehavior-maneuve
 <div class="pointer"></div>
 <div class="abstract">
 <p>The zoom range for this rule. Defines the minimum and maximum zoom levels.
-Defaults to a default-constructed <code><a href="sdk-for-ios-navigate-api-reference-..-..-classes-trackingcamerabehavior-maneuverzoomrange">TrackingCameraBehavior.ManeuverZoomRange</a></code>.</p>
+Defaults to a default-constructed <code><a href="sdk-for-ios-navigate-api-reference-classes-trackingcamerabehavior-maneuverzoomrange">TrackingCameraBehavior.ManeuverZoomRange</a></code>.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">zoomRange</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-classes-trackingcamerabehavior">TrackingCameraBehavior</a></span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-classes-trackingcamerabehavior-maneuverzoomrange">ManeuverZoomRange</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">zoomRange</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-trackingcamerabehavior">TrackingCameraBehavior</a></span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-trackingcamerabehavior-maneuverzoomrange">ManeuverZoomRange</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -167,7 +167,7 @@ unexpected behaviors. Related APIs may change for new releases without a depreca
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">zoomRange</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-classes-trackingcamerabehavior">TrackingCameraBehavior</a></span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-classes-trackingcamerabehavior-maneuverzoomrange">ManeuverZoomRange</a></span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-classes-trackingcamerabehavior">TrackingCameraBehavior</a></span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-classes-trackingcamerabehavior-maneuverzoomrange">ManeuverZoomRange</a></span><span class="p">(),</span> <span class="nv">earlyPreManeuverActivationThresholdInMeters</span><span class="p">:</span> <span class="kt">Double</span> <span class="o">=</span> <span class="mf">0.0</span><span class="p">,</span> <span class="nv">preManeuverActivationThresholdInMeters</span><span class="p">:</span> <span class="kt">Double</span> <span class="o">=</span> <span class="mf">0.0</span><span class="p">,</span> <span class="nv">postManeuverActivationThresholdInMeters</span><span class="p">:</span> <span class="kt">Double</span> <span class="o">=</span> <span class="mf">0.0</span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">zoomRange</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-trackingcamerabehavior">TrackingCameraBehavior</a></span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-trackingcamerabehavior-maneuverzoomrange">ManeuverZoomRange</a></span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-trackingcamerabehavior">TrackingCameraBehavior</a></span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-trackingcamerabehavior-maneuverzoomrange">ManeuverZoomRange</a></span><span class="p">(),</span> <span class="nv">earlyPreManeuverActivationThresholdInMeters</span><span class="p">:</span> <span class="kt">Double</span> <span class="o">=</span> <span class="mf">0.0</span><span class="p">,</span> <span class="nv">preManeuverActivationThresholdInMeters</span><span class="p">:</span> <span class="kt">Double</span> <span class="o">=</span> <span class="mf">0.0</span><span class="p">,</span> <span class="nv">postManeuverActivationThresholdInMeters</span><span class="p">:</span> <span class="kt">Double</span> <span class="o">=</span> <span class="mf">0.0</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>

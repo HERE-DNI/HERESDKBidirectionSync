@@ -1,5 +1,5 @@
 ---
-title: "UsageStats / Feature"
+title: "sdk-for-ios-navigate-api-reference-structs-usagestats-feature"
 slug: "sdk-for-ios-navigate-api-reference-structs-usagestats-feature"
 ---
 
@@ -15,12 +15,12 @@ slug: "sdk-for-ios-navigate-api-reference-structs-usagestats-feature"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-..-index">heresdk</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-..-core">Core</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-..-structs-usagestats">UsageStats</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-core">Core</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-structs-usagestats">UsageStats</a>
+<img alt="" id="carat" src="/carat.png"/>
         Feature Enumeration Reference
       </p>
 </div>
@@ -59,8 +59,8 @@ Counted when data for the corresponding layer is requested by the application
 by performing one of the following actions:</p>
 <ul>
 <li>Pan the map view to areas that have not been cached, prefetched or installed before.</li>
-<li>Use <code><a href="sdk-for-ios-navigate-api-reference-..-..-classes-mapdownloader">MapDownloader</a></code> to download and install a <code><a href="sdk-for-ios-navigate-api-reference-..-..-structs-region">Region</a></code>.</li>
-<li>Prefetch map data into the map cache with the <code><a href="sdk-for-ios-navigate-api-reference-..-..-classes-routeprefetcher">RoutePrefetcher</a></code> for areas that
+<li>Use <code><a href="sdk-for-ios-navigate-api-reference-classes-mapdownloader">MapDownloader</a></code> to download and install a <code><a href="sdk-for-ios-navigate-api-reference-structs-region">Region</a></code>.</li>
+<li>Prefetch map data into the map cache with the <code><a href="sdk-for-ios-navigate-api-reference-classes-routeprefetcher">RoutePrefetcher</a></code> for areas that
 have not been cached, prefetched or installed before.
 Note that you can enable or disable this feature by calling:
 <code>LayerConfiguration.enabledFeatures(..) or LayerConfiguration.implicitlyPrefetchedFeatures()</code>.</li>
@@ -97,8 +97,8 @@ Counted when data for the corresponding layer is requested by the application
 by performing one of the following actions:</p>
 <ul>
 <li>Pan the map view to areas that have not been cached, prefetched or installed before.</li>
-<li>Use <code><a href="sdk-for-ios-navigate-api-reference-..-..-classes-mapdownloader">MapDownloader</a></code> to download and install a <code><a href="sdk-for-ios-navigate-api-reference-..-..-structs-region">Region</a></code>.</li>
-<li>Prefetch map data into the map cache with the <code><a href="sdk-for-ios-navigate-api-reference-..-..-classes-routeprefetcher">RoutePrefetcher</a></code> for areas that
+<li>Use <code><a href="sdk-for-ios-navigate-api-reference-classes-mapdownloader">MapDownloader</a></code> to download and install a <code><a href="sdk-for-ios-navigate-api-reference-structs-region">Region</a></code>.</li>
+<li>Prefetch map data into the map cache with the <code><a href="sdk-for-ios-navigate-api-reference-classes-routeprefetcher">RoutePrefetcher</a></code> for areas that
 have not been cached, prefetched or installed before.
 As of now, this layer cannot be turned off.</li>
 </ul>
@@ -134,8 +134,8 @@ Counted when data for the corresponding layer is requested by the application
 by performing one of the following actions:</p>
 <ul>
 <li>Pan the map view to areas that have not been cached, prefetched or installed before.</li>
-<li>Use <code><a href="sdk-for-ios-navigate-api-reference-..-..-classes-mapdownloader">MapDownloader</a></code> to download and install a <code><a href="sdk-for-ios-navigate-api-reference-..-..-structs-region">Region</a></code>.</li>
-<li>Prefetch map data into the map cache with the <code><a href="sdk-for-ios-navigate-api-reference-..-..-classes-routeprefetcher">RoutePrefetcher</a></code> for areas that
+<li>Use <code><a href="sdk-for-ios-navigate-api-reference-classes-mapdownloader">MapDownloader</a></code> to download and install a <code><a href="sdk-for-ios-navigate-api-reference-structs-region">Region</a></code>.</li>
+<li>Prefetch map data into the map cache with the <code><a href="sdk-for-ios-navigate-api-reference-classes-routeprefetcher">RoutePrefetcher</a></code> for areas that
 have not been cached, prefetched or installed before.
 As of now, this layer cannot be turned off.</li>
 </ul>
@@ -177,8 +177,8 @@ In addition, it is also tracking the following layer configurations:</p>
 Counted when data for the corresponding layer is requested by the application
 by performing one of the following actions:</li>
 <li>Pan the map view to areas that have not been cached, prefetched or installed before.</li>
-<li>Use <code><a href="sdk-for-ios-navigate-api-reference-..-..-classes-mapdownloader">MapDownloader</a></code> to download and install a <code><a href="sdk-for-ios-navigate-api-reference-..-..-structs-region">Region</a></code>.</li>
-<li>Prefetch map data into the map cache with the <code><a href="sdk-for-ios-navigate-api-reference-..-..-classes-routeprefetcher">RoutePrefetcher</a></code> for areas that
+<li>Use <code><a href="sdk-for-ios-navigate-api-reference-classes-mapdownloader">MapDownloader</a></code> to download and install a <code><a href="sdk-for-ios-navigate-api-reference-structs-region">Region</a></code>.</li>
+<li>Prefetch map data into the map cache with the <code><a href="sdk-for-ios-navigate-api-reference-classes-routeprefetcher">RoutePrefetcher</a></code> for areas that
 have not been cached, prefetched or installed before.</li>
 <li>Using online navigation when the requested data is not cached, prefetched, or installed before.
 As of now, the above listed OCM layers cannot be turned off except for those that are exposed as layer configuration.</li>
@@ -239,8 +239,8 @@ Counted when data for the corresponding layer is requested by the application
 by performing one of the following actions:</p>
 <ul>
 <li>Pan the map view to areas that have not been cached, prefetched or installed before.</li>
-<li>Use <code><a href="sdk-for-ios-navigate-api-reference-..-..-classes-mapdownloader">MapDownloader</a></code> to download and install a <code><a href="sdk-for-ios-navigate-api-reference-..-..-structs-region">Region</a></code>.</li>
-<li>Prefetch map data into the map cache with the <code><a href="sdk-for-ios-navigate-api-reference-..-..-classes-routeprefetcher">RoutePrefetcher</a></code> for areas that
+<li>Use <code><a href="sdk-for-ios-navigate-api-reference-classes-mapdownloader">MapDownloader</a></code> to download and install a <code><a href="sdk-for-ios-navigate-api-reference-structs-region">Region</a></code>.</li>
+<li>Prefetch map data into the map cache with the <code><a href="sdk-for-ios-navigate-api-reference-classes-routeprefetcher">RoutePrefetcher</a></code> for areas that
 have not been cached, prefetched or installed before.
 Note that you can enable or disable this feature by calling:
 <code>LayerConfiguration.enabledFeatures(..) or LayerConfiguration.implicitlyPrefetchedFeatures()</code>.</li>
@@ -275,8 +275,8 @@ Counted when data for the corresponding layer is requested by the application
 by performing one of the following actions:</p>
 <ul>
 <li>Pan the map view to areas that have not been cached, prefetched or installed before.</li>
-<li>Use <code><a href="sdk-for-ios-navigate-api-reference-..-..-classes-mapdownloader">MapDownloader</a></code> to download and install a <code><a href="sdk-for-ios-navigate-api-reference-..-..-structs-region">Region</a></code>.</li>
-<li>Prefetch map data into the map cache with the <code><a href="sdk-for-ios-navigate-api-reference-..-..-classes-routeprefetcher">RoutePrefetcher</a></code> for areas that
+<li>Use <code><a href="sdk-for-ios-navigate-api-reference-classes-mapdownloader">MapDownloader</a></code> to download and install a <code><a href="sdk-for-ios-navigate-api-reference-structs-region">Region</a></code>.</li>
+<li>Prefetch map data into the map cache with the <code><a href="sdk-for-ios-navigate-api-reference-classes-routeprefetcher">RoutePrefetcher</a></code> for areas that
 have not been cached, prefetched or installed before.
 Note that you can enable or disable this feature by calling:
 <code>LayerConfiguration.enabledFeatures(..) or LayerConfiguration.implicitlyPrefetchedFeatures()</code>.</li>
@@ -306,7 +306,7 @@ Note that you can enable or disable this feature by calling:
 <div class="pointer"></div>
 <div class="abstract">
 <p>Represents network traffic statistics for online usage corresponding to the
-<code><a href="sdk-for-ios-navigate-api-reference-..-..-classes-routingengine">RoutingEngine</a></code>.
+<code><a href="sdk-for-ios-navigate-api-reference-classes-routingengine">RoutingEngine</a></code>.
 Includes the following transaction counts and APIs:</p>
 <ul>
 <li><strong>Routing Car, Bicycle, Pedestrian</strong> with HRN <code>hrn:here:service::olp-here:routing-8:base</code> counted with the use of
@@ -355,8 +355,8 @@ following layer configurations:</p>
 Counted when data for the corresponding layer is requested by the application
 by performing one of the following actions:</li>
 <li>Pan the map view to areas that have not been cached, prefetched or installed before.</li>
-<li>Use <code><a href="sdk-for-ios-navigate-api-reference-..-..-classes-mapdownloader">MapDownloader</a></code> to download and install a <code><a href="sdk-for-ios-navigate-api-reference-..-..-structs-region">Region</a></code>.</li>
-<li>Prefetch map data into the map cache with the <code><a href="sdk-for-ios-navigate-api-reference-..-..-classes-routeprefetcher">RoutePrefetcher</a></code> for areas that
+<li>Use <code><a href="sdk-for-ios-navigate-api-reference-classes-mapdownloader">MapDownloader</a></code> to download and install a <code><a href="sdk-for-ios-navigate-api-reference-structs-region">Region</a></code>.</li>
+<li>Prefetch map data into the map cache with the <code><a href="sdk-for-ios-navigate-api-reference-classes-routeprefetcher">RoutePrefetcher</a></code> for areas that
 have not been cached, prefetched or installed before.
 Note that you can enable or disable this feature by calling:
 <code>LayerConfiguration.enabledFeatures(..) or LayerConfiguration.implicitlyPrefetchedFeatures()</code>.</li>
@@ -417,8 +417,8 @@ Counted when data for the corresponding layer is requested by the application
 by performing one of the following actions:</p>
 <ul>
 <li>Pan the map view to areas that have not been cached, prefetched or installed before.</li>
-<li>Use <code><a href="sdk-for-ios-navigate-api-reference-..-..-classes-mapdownloader">MapDownloader</a></code> to download and install a <code><a href="sdk-for-ios-navigate-api-reference-..-..-structs-region">Region</a></code>.</li>
-<li>Prefetch map data into the map cache with the <code><a href="sdk-for-ios-navigate-api-reference-..-..-classes-routeprefetcher">RoutePrefetcher</a></code> for areas that
+<li>Use <code><a href="sdk-for-ios-navigate-api-reference-classes-mapdownloader">MapDownloader</a></code> to download and install a <code><a href="sdk-for-ios-navigate-api-reference-structs-region">Region</a></code>.</li>
+<li>Prefetch map data into the map cache with the <code><a href="sdk-for-ios-navigate-api-reference-classes-routeprefetcher">RoutePrefetcher</a></code> for areas that
 have not been cached, prefetched or installed before.
 As of now, these layers cannot be turned off.</li>
 </ul>
@@ -446,7 +446,7 @@ As of now, these layers cannot be turned off.</li>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Represents network traffic statistics for online usage corresponding to the <code><a href="sdk-for-ios-navigate-api-reference-..-..-classes-searchengine">SearchEngine</a></code>.
+<p>Represents network traffic statistics for online usage corresponding to the <code><a href="sdk-for-ios-navigate-api-reference-classes-searchengine">SearchEngine</a></code>.
 Includes the following transaction counts and APIs:</p>
 <ul>
 <li><strong>Discover/Search</strong> with HRN <code>hrn:here:service::olp-here:search-opensearch-1</code> counted with the use of <code>SearchEngine textquery search</code></li>
@@ -484,8 +484,8 @@ Counted when data for the corresponding layer is requested by the application
 by performing one of the following actions:</p>
 <ul>
 <li>Pan the map view to areas that have not been cached, prefetched or installed before.</li>
-<li>Use <code><a href="sdk-for-ios-navigate-api-reference-..-..-classes-mapdownloader">MapDownloader</a></code> to download and install a <code><a href="sdk-for-ios-navigate-api-reference-..-..-structs-region">Region</a></code>.</li>
-<li>Prefetch map data into the map cache with the <code><a href="sdk-for-ios-navigate-api-reference-..-..-classes-routeprefetcher">RoutePrefetcher</a></code> for areas that
+<li>Use <code><a href="sdk-for-ios-navigate-api-reference-classes-mapdownloader">MapDownloader</a></code> to download and install a <code><a href="sdk-for-ios-navigate-api-reference-structs-region">Region</a></code>.</li>
+<li>Prefetch map data into the map cache with the <code><a href="sdk-for-ios-navigate-api-reference-classes-routeprefetcher">RoutePrefetcher</a></code> for areas that
 have not been cached, prefetched or installed before.
 As of now, this layer cannot be turned off.</li>
 </ul>
@@ -513,7 +513,7 @@ As of now, this layer cannot be turned off.</li>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Represents network traffic statistics for online usage corresponding to the <code><a href="sdk-for-ios-navigate-api-reference-..-..-classes-transitroutingengine">TransitRoutingEngine</a></code>.
+<p>Represents network traffic statistics for online usage corresponding to the <code><a href="sdk-for-ios-navigate-api-reference-classes-transitroutingengine">TransitRoutingEngine</a></code>.
 This includes a <strong>Public Transit</strong> transaction count with HRN: <code>hrn:here:service::olp-here:transit-8</code>.</p>
 </div>
 <div class="declaration">
@@ -540,7 +540,7 @@ This includes a <strong>Public Transit</strong> transaction count with HRN: <cod
 <div class="pointer"></div>
 <div class="abstract">
 <p>Represents network traffic statistics for online usage corresponding to the
-calls of <code><a href="sdk-for-ios-navigate-api-reference-..-..-classes-trafficengine">TrafficEngine</a></code>. All calls to <code><a href="sdk-for-ios-navigate-api-reference-..-..-classes-trafficengine">TrafficEngine</a></code> result in transaction counts for
+calls of <code><a href="sdk-for-ios-navigate-api-reference-classes-trafficengine">TrafficEngine</a></code>. All calls to <code><a href="sdk-for-ios-navigate-api-reference-classes-trafficengine">TrafficEngine</a></code> result in transaction counts for
 HRN <code>hrn:here:service::olp-here:traffic-api-7:standard</code>.</p>
 </div>
 <div class="declaration">
@@ -598,8 +598,8 @@ Counted when data for the corresponding layer is requested by the application
 by performing one of the following actions:</p>
 <ul>
 <li>Pan the map view to areas that have not been cached, prefetched or installed before.</li>
-<li>Use <code><a href="sdk-for-ios-navigate-api-reference-..-..-classes-mapdownloader">MapDownloader</a></code> to download and install a <code><a href="sdk-for-ios-navigate-api-reference-..-..-structs-region">Region</a></code>.</li>
-<li>Prefetch map data into the map cache with the <code><a href="sdk-for-ios-navigate-api-reference-..-..-classes-routeprefetcher">RoutePrefetcher</a></code> for areas that
+<li>Use <code><a href="sdk-for-ios-navigate-api-reference-classes-mapdownloader">MapDownloader</a></code> to download and install a <code><a href="sdk-for-ios-navigate-api-reference-structs-region">Region</a></code>.</li>
+<li>Prefetch map data into the map cache with the <code><a href="sdk-for-ios-navigate-api-reference-classes-routeprefetcher">RoutePrefetcher</a></code> for areas that
 have not been cached, prefetched or installed before.
 Note that you can enable or disable this feature by calling:
 <code>LayerConfiguration.enabledFeatures(..) or LayerConfiguration.implicitlyPrefetchedFeatures()</code>.</li>

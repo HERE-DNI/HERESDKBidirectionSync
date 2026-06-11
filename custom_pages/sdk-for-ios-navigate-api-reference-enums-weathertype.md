@@ -1,5 +1,5 @@
 ---
-title: "Navigation / WeatherType"
+title: "sdk-for-ios-navigate-api-reference-enums-weathertype"
 slug: "sdk-for-ios-navigate-api-reference-enums-weathertype"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-enums-weathertype"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-navigation">Navigation</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-navigation">Navigation</a>
+<img alt="" id="carat" src="/carat.png"/>
         WeatherType Enumeration Reference
       </p>
 </div>
@@ -33,7 +33,7 @@ slug: "sdk-for-ios-navigate-api-reference-enums-weathertype"
 <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">WeatherType</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
-<p>Weather type attached to <code><a href="sdk-for-ios-navigate-api-reference-..-structs-roadsignwarning">RoadSignWarning</a></code> or <code>VehicleRestriction.Condition</code> which limits the conditions for which the sign is applicable.</p>
+<p>Weather type attached to <code><a href="sdk-for-ios-navigate-api-reference-structs-roadsignwarning">RoadSignWarning</a></code> or <code>VehicleRestriction.Condition</code> which limits the conditions for which the sign is applicable.</p>
 </section>
 <section class="section task-group-section">
 <div class="task-group">

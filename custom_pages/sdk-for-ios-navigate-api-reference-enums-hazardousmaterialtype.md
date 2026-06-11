@@ -1,5 +1,5 @@
 ---
-title: "Other Enumerations / HazardousMaterialType"
+title: "sdk-for-ios-navigate-api-reference-enums-hazardousmaterialtype"
 slug: "sdk-for-ios-navigate-api-reference-enums-hazardousmaterialtype"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-enums-hazardousmaterialtype"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-other%20enums">Other Enumerations</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-other%20enums">Other Enumerations</a>
+<img alt="" id="carat" src="/carat.png"/>
         HazardousMaterialType Enumeration Reference
       </p>
 </div>

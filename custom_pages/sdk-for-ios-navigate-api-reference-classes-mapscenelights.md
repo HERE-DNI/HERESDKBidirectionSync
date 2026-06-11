@@ -1,5 +1,5 @@
 ---
-title: "Maps / MapSceneLights"
+title: "sdk-for-ios-navigate-api-reference-classes-mapscenelights"
 slug: "sdk-for-ios-navigate-api-reference-classes-mapscenelights"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-classes-mapscenelights"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-maps">Maps</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-maps">Maps</a>
+<img alt="" id="carat" src="/carat.png"/>
         MapSceneLights Class Reference
       </p>
 </div>
@@ -62,7 +62,7 @@ that do not support lights, for instance <code>road.network</code> map scheme.</
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">typealias</span> <span class="kt">AttributeSettingCompletionHandler</span> <span class="o">=</span> <span class="p">(</span><span class="n">_</span> <span class="nv">setLightError</span><span class="p">:</span> <span class="kt">MapSceneLights</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-mapscenelights-attributesettingerror">AttributeSettingError</a></span><span class="p">?)</span> <span class="o">-&gt;</span> <span class="kt">Void</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">typealias</span> <span class="kt">AttributeSettingCompletionHandler</span> <span class="o">=</span> <span class="p">(</span><span class="n">_</span> <span class="nv">setLightError</span><span class="p">:</span> <span class="kt">MapSceneLights</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-mapscenelights-attributesettingerror">AttributeSettingError</a></span><span class="p">?)</span> <span class="o">-&gt;</span> <span class="kt">Void</span></code></pre>
 </div>
 </div>
 <div>
@@ -106,7 +106,7 @@ These lights are directional lights.</p>
 <p>The properties of all lights have an impact on the shading of 3D objects, for instance, extruded buildings within the scene.
 However, shadow casting is only affected by the direction of the main light.</p>
 <p>Category primarily serves as an identifier type for managing the lights.</p>
-<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-..-classes-mapscenelights-category">See more</a>
+<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-classes-mapscenelights-category">See more</a>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
@@ -132,7 +132,7 @@ However, shadow casting is only affected by the direction of the main light.</p>
 <div class="pointer"></div>
 <div class="abstract">
 <p>Error enum indicating reasons for failure when setting light attributes.</p>
-<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-..-classes-mapscenelights-attributesettingerror">See more</a>
+<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-classes-mapscenelights-attributesettingerror">See more</a>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
@@ -159,7 +159,7 @@ However, shadow casting is only affected by the direction of the main light.</p>
 <div class="abstract">
 <p>The direction of lights as a pair of azimuth and altitude angles.
 See <a href="https://en.wikipedia.org/wiki/Horizontal_coordinate_system">https://en.wikipedia.org/wiki/Horizontal_coordinate_system</a></p>
-<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-..-classes-mapscenelights-direction">See more</a>
+<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-classes-mapscenelights-direction">See more</a>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
@@ -190,7 +190,7 @@ See <a href="https://en.wikipedia.org/wiki/Horizontal_coordinate_system">https:/
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">setColor</span><span class="p">(</span><span class="nv">category</span><span class="p">:</span> <span class="kt">MapSceneLights</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-mapscenelights-category">Category</a></span><span class="p">,</span> <span class="nv">color</span><span class="p">:</span> <span class="kt">UIColor</span><span class="p">,</span> <span class="nv">completion</span><span class="p">:</span> <span class="kt">MapSceneLights</span><span class="o">.</span><span class="kt"><a href="../Classes/MapSceneLights.html#/s:7heresdk14MapSceneLightsC33AttributeSettingCompletionHandlera">AttributeSettingCompletionHandler</a></span><span class="p">?)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">setColor</span><span class="p">(</span><span class="nv">category</span><span class="p">:</span> <span class="kt">MapSceneLights</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-mapscenelights-category">Category</a></span><span class="p">,</span> <span class="nv">color</span><span class="p">:</span> <span class="kt">UIColor</span><span class="p">,</span> <span class="nv">completion</span><span class="p">:</span> <span class="kt">MapSceneLights</span><span class="o">.</span><span class="kt"><a href="../Classes/MapSceneLights.html#/s:7heresdk14MapSceneLightsC33AttributeSettingCompletionHandlera">AttributeSettingCompletionHandler</a></span><span class="p">?)</span></code></pre>
 </div>
 </div>
 <div>
@@ -259,7 +259,7 @@ The value of these components must be inside the range [0, 1].</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">setIntensity</span><span class="p">(</span><span class="nv">category</span><span class="p">:</span> <span class="kt">MapSceneLights</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-mapscenelights-category">Category</a></span><span class="p">,</span> <span class="nv">intensity</span><span class="p">:</span> <span class="kt">Double</span><span class="p">,</span> <span class="nv">completion</span><span class="p">:</span> <span class="kt">MapSceneLights</span><span class="o">.</span><span class="kt"><a href="../Classes/MapSceneLights.html#/s:7heresdk14MapSceneLightsC33AttributeSettingCompletionHandlera">AttributeSettingCompletionHandler</a></span><span class="p">?)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">setIntensity</span><span class="p">(</span><span class="nv">category</span><span class="p">:</span> <span class="kt">MapSceneLights</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-mapscenelights-category">Category</a></span><span class="p">,</span> <span class="nv">intensity</span><span class="p">:</span> <span class="kt">Double</span><span class="p">,</span> <span class="nv">completion</span><span class="p">:</span> <span class="kt">MapSceneLights</span><span class="o">.</span><span class="kt"><a href="../Classes/MapSceneLights.html#/s:7heresdk14MapSceneLightsC33AttributeSettingCompletionHandlera">AttributeSettingCompletionHandler</a></span><span class="p">?)</span></code></pre>
 </div>
 </div>
 <div>
@@ -331,7 +331,7 @@ Note: When the intensity value is big,
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">setDirection</span><span class="p">(</span><span class="nv">category</span><span class="p">:</span> <span class="kt">MapSceneLights</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-mapscenelights-category">Category</a></span><span class="p">,</span> <span class="nv">direction</span><span class="p">:</span> <span class="kt">MapSceneLights</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-mapscenelights-direction">Direction</a></span><span class="p">,</span> <span class="nv">completion</span><span class="p">:</span> <span class="kt">MapSceneLights</span><span class="o">.</span><span class="kt"><a href="../Classes/MapSceneLights.html#/s:7heresdk14MapSceneLightsC33AttributeSettingCompletionHandlera">AttributeSettingCompletionHandler</a></span><span class="p">?)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">setDirection</span><span class="p">(</span><span class="nv">category</span><span class="p">:</span> <span class="kt">MapSceneLights</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-mapscenelights-category">Category</a></span><span class="p">,</span> <span class="nv">direction</span><span class="p">:</span> <span class="kt">MapSceneLights</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-mapscenelights-direction">Direction</a></span><span class="p">,</span> <span class="nv">completion</span><span class="p">:</span> <span class="kt">MapSceneLights</span><span class="o">.</span><span class="kt"><a href="../Classes/MapSceneLights.html#/s:7heresdk14MapSceneLightsC33AttributeSettingCompletionHandlera">AttributeSettingCompletionHandler</a></span><span class="p">?)</span></code></pre>
 </div>
 </div>
 <div>
@@ -399,7 +399,7 @@ Note: When the intensity value is big,
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getColor</span><span class="p">(</span><span class="nv">category</span><span class="p">:</span> <span class="kt">MapSceneLights</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-mapscenelights-category">Category</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">UIColor</span><span class="p">?</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getColor</span><span class="p">(</span><span class="nv">category</span><span class="p">:</span> <span class="kt">MapSceneLights</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-mapscenelights-category">Category</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">UIColor</span><span class="p">?</span></code></pre>
 </div>
 </div>
 <div>
@@ -448,7 +448,7 @@ or MapScene is not intitialized.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getIntensity</span><span class="p">(</span><span class="nv">category</span><span class="p">:</span> <span class="kt">MapSceneLights</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-mapscenelights-category">Category</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">Double</span><span class="p">?</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getIntensity</span><span class="p">(</span><span class="nv">category</span><span class="p">:</span> <span class="kt">MapSceneLights</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-mapscenelights-category">Category</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">Double</span><span class="p">?</span></code></pre>
 </div>
 </div>
 <div>
@@ -497,7 +497,7 @@ or MapScene is not intitialized.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getDirection</span><span class="p">(</span><span class="nv">category</span><span class="p">:</span> <span class="kt">MapSceneLights</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-mapscenelights-category">Category</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">MapSceneLights</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-mapscenelights-direction">Direction</a></span><span class="p">?</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getDirection</span><span class="p">(</span><span class="nv">category</span><span class="p">:</span> <span class="kt">MapSceneLights</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-mapscenelights-category">Category</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">MapSceneLights</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-mapscenelights-direction">Direction</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 <div>

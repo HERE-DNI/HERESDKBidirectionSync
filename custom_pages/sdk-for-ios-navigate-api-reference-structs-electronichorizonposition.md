@@ -1,5 +1,5 @@
 ---
-title: "ElectronicHorizon / ElectronicHorizonPosition"
+title: "sdk-for-ios-navigate-api-reference-structs-electronichorizonposition"
 slug: "sdk-for-ios-navigate-api-reference-structs-electronichorizonposition"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-structs-electronichorizonposition"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-electronichorizon">ElectronicHorizon</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-electronichorizon">ElectronicHorizon</a>
+<img alt="" id="carat" src="/carat.png"/>
         ElectronicHorizonPosition Structure Reference
       </p>
 </div>
@@ -33,7 +33,7 @@ slug: "sdk-for-ios-navigate-api-reference-structs-electronichorizonposition"
 <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">ElectronicHorizonPosition</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
-<p>Provides a position on an electronic horizon path with a reference to the current item in the <code><a href="sdk-for-ios-navigate-api-reference-..-structs-electronichorizon">ElectronicHorizon</a></code>.</p>
+<p>Provides a position on an electronic horizon path with a reference to the current item in the <code><a href="sdk-for-ios-navigate-api-reference-structs-electronichorizon">ElectronicHorizon</a></code>.</p>
 <p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
 behaviors. Related APIs may change for new releases without a deprecation process.</p>
 </section>

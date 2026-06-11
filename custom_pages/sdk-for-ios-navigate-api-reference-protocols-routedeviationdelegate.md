@@ -1,5 +1,5 @@
 ---
-title: "Navigation / RouteDeviationDelegate"
+title: "sdk-for-ios-navigate-api-reference-protocols-routedeviationdelegate"
 slug: "sdk-for-ios-navigate-api-reference-protocols-routedeviationdelegate"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-routedeviationdelegate"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-navigation">Navigation</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-navigation">Navigation</a>
+<img alt="" id="carat" src="/carat.png"/>
         RouteDeviationDelegate Protocol Reference
       </p>
 </div>
@@ -35,7 +35,7 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-routedeviationdelegate"
 </div>
 <p>This protocol should be implemented in order to
 receive notifications
-about route deviations from <code><a href="sdk-for-ios-navigate-api-reference-..-classes-navigator">Navigator</a></code>.</p>
+about route deviations from <code><a href="sdk-for-ios-navigate-api-reference-classes-navigator">Navigator</a></code>.</p>
 </section>
 <section class="section task-group-section">
 <div class="task-group">
@@ -60,7 +60,7 @@ that can be used to decide whether to request a re-route calculation from the ro
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">onRouteDeviation</span><span class="p">(</span><span class="n">_</span> <span class="nv">routeDeviation</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-routedeviation">RouteDeviation</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">onRouteDeviation</span><span class="p">(</span><span class="n">_</span> <span class="nv">routeDeviation</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-routedeviation">RouteDeviation</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>

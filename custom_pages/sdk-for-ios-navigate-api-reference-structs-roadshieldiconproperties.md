@@ -1,5 +1,5 @@
 ---
-title: "Maps / RoadShieldIconProperties"
+title: "sdk-for-ios-navigate-api-reference-structs-roadshieldiconproperties"
 slug: "sdk-for-ios-navigate-api-reference-structs-roadshieldiconproperties"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-structs-roadshieldiconproperties"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-maps">Maps</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-maps">Maps</a>
+<img alt="" id="carat" src="/carat.png"/>
         RoadShieldIconProperties Structure Reference
       </p>
 </div>
@@ -58,7 +58,7 @@ slug: "sdk-for-ios-navigate-api-reference-structs-roadshieldiconproperties"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">routeType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-routetype">RouteType</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">routeType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-routetype">RouteType</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -132,8 +132,8 @@ not required for the particular country.</p>
 <div class="pointer"></div>
 <div class="abstract">
 <p>A string that is used to additionally determine the road shield’s visual representation.
-In a routing context, the text can be taken from a <code><a href="sdk-for-ios-navigate-api-reference-..-structs-localizedroadnumber">LocalizedRoadNumber</a></code>, which
-is available for each <code><a href="sdk-for-ios-navigate-api-reference-..-classes-span">Span</a></code> of a <code><a href="sdk-for-ios-navigate-api-reference-..-classes-route">Route</a></code> object.
+In a routing context, the text can be taken from a <code><a href="sdk-for-ios-navigate-api-reference-structs-localizedroadnumber">LocalizedRoadNumber</a></code>, which
+is available for each <code><a href="sdk-for-ios-navigate-api-reference-classes-span">Span</a></code> of a <code><a href="sdk-for-ios-navigate-api-reference-classes-route">Route</a></code> object.
 Typically, the string contains the number of a road, such as “E100”. Internally, the text
 is parsed with a RegEx pattern and the results will be used along with other properties
 such as <code><a href="../Structs/RoadShieldIconProperties.html#/s:7heresdk24RoadShieldIconPropertiesV9routeTypeAA05RouteG0Ovp">routeType</a></code>, <code><a href="../Structs/RoadShieldIconProperties.html#/s:7heresdk24RoadShieldIconPropertiesV11countryCodeSSvp">countryCode</a></code> and <code><a href="../Structs/RoadShieldIconProperties.html#/s:7heresdk24RoadShieldIconPropertiesV9stateCodeSSvp">stateCode</a></code> to identify the visual representation
@@ -142,8 +142,8 @@ of a road shield icon.</p>
 <code><a href="../Structs/RoadShieldIconProperties.html#/s:7heresdk24RoadShieldIconPropertiesV10shieldTextSSvp">RoadShieldIconProperties.shieldText</a></code>. In order to determine the visuals of the icon, <code><a href="../Structs/RoadShieldIconProperties.html#/s:7heresdk24RoadShieldIconPropertiesV11countryCodeSSvp">countryCode</a></code>, <code><a href="../Structs/RoadShieldIconProperties.html#/s:7heresdk24RoadShieldIconPropertiesV9routeTypeAA05RouteG0Ovp">routeType</a></code>
 and eventually the <code><a href="../Structs/RoadShieldIconProperties.html#/s:7heresdk24RoadShieldIconPropertiesV9stateCodeSSvp">stateCode</a></code> is in most cases sufficient to determine the type of road
 shield. In this case an empty string should be passed.</p>
-<p><strong>Note:</strong> Texts that contain a <code><a href="sdk-for-ios-navigate-api-reference-..-enums-cardinaldirection">CardinalDirection</a></code> are currently not supported and may lead
-to unexpected results. See <code><a href="sdk-for-ios-navigate-api-reference-..-structs-localizedroadnumber">LocalizedRoadNumber</a></code> for more details, it provides texts with
+<p><strong>Note:</strong> Texts that contain a <code><a href="sdk-for-ios-navigate-api-reference-enums-cardinaldirection">CardinalDirection</a></code> are currently not supported and may lead
+to unexpected results. See <code><a href="sdk-for-ios-navigate-api-reference-structs-localizedroadnumber">LocalizedRoadNumber</a></code> for more details, it provides texts with
 and without a cardinal direction.</p>
 </div>
 <div class="declaration">
@@ -208,8 +208,8 @@ The code “AL” is for Alabama. Another example is the code for autonomous
 communities listed on <a href="https://en.wikipedia.org/wiki/ISO_3166-2:ES">https://en.wikipedia.org/wiki/ISO_3166-2:ES</a>. Can be empty if
 not required for the particular country.</li>
 <li>routeNumberName: A string that is used to additionally determine the road shield’s visual representation.
-In a routing context, the text can be taken from a <code><a href="sdk-for-ios-navigate-api-reference-..-structs-localizedroadnumber">LocalizedRoadNumber</a></code>, which
-is available for each <code><a href="sdk-for-ios-navigate-api-reference-..-classes-span">Span</a></code> of a <code><a href="sdk-for-ios-navigate-api-reference-..-classes-route">Route</a></code> object.
+In a routing context, the text can be taken from a <code><a href="sdk-for-ios-navigate-api-reference-structs-localizedroadnumber">LocalizedRoadNumber</a></code>, which
+is available for each <code><a href="sdk-for-ios-navigate-api-reference-classes-span">Span</a></code> of a <code><a href="sdk-for-ios-navigate-api-reference-classes-route">Route</a></code> object.
 Typically, the string contains the number of a road, such as “E100”. Internally, the text
 is parsed with a RegEx pattern and the results will be used along with other properties
 such as <code><a href="../Structs/RoadShieldIconProperties.html#/s:7heresdk24RoadShieldIconPropertiesV9routeTypeAA05RouteG0Ovp">routeType</a></code>, <code><a href="../Structs/RoadShieldIconProperties.html#/s:7heresdk24RoadShieldIconPropertiesV11countryCodeSSvp">countryCode</a></code> and <code><a href="../Structs/RoadShieldIconProperties.html#/s:7heresdk24RoadShieldIconPropertiesV9stateCodeSSvp">stateCode</a></code> to identify the visual representation
@@ -219,8 +219,8 @@ of a road shield icon.</li>
   <code><a href="../Structs/RoadShieldIconProperties.html#/s:7heresdk24RoadShieldIconPropertiesV10shieldTextSSvp">RoadShieldIconProperties.shieldText</a></code>. In order to determine the visuals of the icon, <code><a href="../Structs/RoadShieldIconProperties.html#/s:7heresdk24RoadShieldIconPropertiesV11countryCodeSSvp">countryCode</a></code>, <code><a href="../Structs/RoadShieldIconProperties.html#/s:7heresdk24RoadShieldIconPropertiesV9routeTypeAA05RouteG0Ovp">routeType</a></code>
   and eventually the <code><a href="../Structs/RoadShieldIconProperties.html#/s:7heresdk24RoadShieldIconPropertiesV9stateCodeSSvp">stateCode</a></code> is in most cases sufficient to determine the type of road
   shield. In this case an empty string should be passed.</p>
-<p><strong>Note:</strong> Texts that contain a <code><a href="sdk-for-ios-navigate-api-reference-..-enums-cardinaldirection">CardinalDirection</a></code> are currently not supported and may lead
-  to unexpected results. See <code><a href="sdk-for-ios-navigate-api-reference-..-structs-localizedroadnumber">LocalizedRoadNumber</a></code> for more details, it provides texts with
+<p><strong>Note:</strong> Texts that contain a <code><a href="sdk-for-ios-navigate-api-reference-enums-cardinaldirection">CardinalDirection</a></code> are currently not supported and may lead
+  to unexpected results. See <code><a href="sdk-for-ios-navigate-api-reference-structs-localizedroadnumber">LocalizedRoadNumber</a></code> for more details, it provides texts with
   and without a cardinal direction.</p>
 <ul>
 <li>shieldText: The text of the road-shield. This is the text which is displayed on the road-shield
@@ -232,7 +232,7 @@ in reality. It will be in the output road-shield icon.</li>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">routeType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-routetype">RouteType</a></span><span class="p">,</span> <span class="nv">countryCode</span><span class="p">:</span> <span class="kt">String</span><span class="p">,</span> <span class="nv">stateCode</span><span class="p">:</span> <span class="kt">String</span><span class="p">,</span> <span class="nv">routeNumberName</span><span class="p">:</span> <span class="kt">String</span><span class="p">,</span> <span class="nv">shieldText</span><span class="p">:</span> <span class="kt">String</span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">routeType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-routetype">RouteType</a></span><span class="p">,</span> <span class="nv">countryCode</span><span class="p">:</span> <span class="kt">String</span><span class="p">,</span> <span class="nv">stateCode</span><span class="p">:</span> <span class="kt">String</span><span class="p">,</span> <span class="nv">routeNumberName</span><span class="p">:</span> <span class="kt">String</span><span class="p">,</span> <span class="nv">shieldText</span><span class="p">:</span> <span class="kt">String</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>

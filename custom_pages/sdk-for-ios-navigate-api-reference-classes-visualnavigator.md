@@ -1,5 +1,5 @@
 ---
-title: "Navigation / VisualNavigator"
+title: "sdk-for-ios-navigate-api-reference-classes-visualnavigator"
 slug: "sdk-for-ios-navigate-api-reference-classes-visualnavigator"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-classes-visualnavigator"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-navigation">Navigation</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-navigation">Navigation</a>
+<img alt="" id="carat" src="/carat.png"/>
         VisualNavigator Class Reference
       </p>
 </div>
@@ -30,18 +30,18 @@ slug: "sdk-for-ios-navigate-api-reference-classes-visualnavigator"
 <h1>VisualNavigator</h1>
 <div class="declaration">
 <div class="language">
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">VisualNavigator</span> <span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-navigatorprotocol">NavigatorProtocol</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">VisualNavigator</span> <span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-navigatorprotocol">NavigatorProtocol</a></span></code></pre>
 <pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">VisualNavigator</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
 <pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">VisualNavigator</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
-<p>This class provides all functionality of <code><a href="sdk-for-ios-navigate-api-reference-..-protocols-navigatorprotocol">NavigatorProtocol</a></code>. In addition,
+<p>This class provides all functionality of <code><a href="sdk-for-ios-navigate-api-reference-protocols-navigatorprotocol">NavigatorProtocol</a></code>. In addition,
 it provides advanced rendering capabilities for a smooth navigation experience.
 This includes interpolation of location updates along a route during turn-by-turn navigation
 and during tracking mode. By default, suitable map view settings are automatically applied.
 For example, a predefined current location marker is rendered.
-Similar to <code><a href="sdk-for-ios-navigate-api-reference-..-classes-navigator">Navigator</a></code>, this class continuously reacts to new locations
-provided from a location source and acts as a <code><a href="sdk-for-ios-navigate-api-reference-..-protocols-locationdelegate">LocationDelegate</a></code>.
+Similar to <code><a href="sdk-for-ios-navigate-api-reference-classes-navigator">Navigator</a></code>, this class continuously reacts to new locations
+provided from a location source and acts as a <code><a href="sdk-for-ios-navigate-api-reference-protocols-locationdelegate">LocationDelegate</a></code>.
 Note that the VisualNavigator takes control of the MapView’s (maximum) frame rate when rendering,
 i.e., between <code><a href="../Classes/VisualNavigator.html#/s:7heresdk15VisualNavigatorC14startRendering7mapViewyAA03MapG4Base_p_tF">VisualNavigator.startRendering(...)</a></code> and <code><a href="../Classes/VisualNavigator.html#/s:7heresdk15VisualNavigatorC13stopRenderingyyF">VisualNavigator.stopRendering(...)</a></code> calls. It overwrites the MapView’s frame
 rate when some camera behavior is set using the <code><a href="../Classes/VisualNavigator.html#/s:7heresdk15VisualNavigatorC17guidanceFrameRates5Int32Vvp">VisualNavigator.guidanceFrameRate</a></code>. When no camera behavior
@@ -106,7 +106,7 @@ lead to unexpected behavior and therefore should be avoided.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">sdkEngine</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-sdknativeengine">SDKNativeEngine</a></span><span class="p">)</span> <span class="k">throws</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">sdkEngine</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-sdknativeengine">SDKNativeEngine</a></span><span class="p">)</span> <span class="k">throws</span></code></pre>
 </div>
 </div>
 <div>
@@ -144,10 +144,10 @@ lead to unexpected behavior and therefore should be avoided.</p>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Creates a new instance of this class using provided instance of <code><a href="sdk-for-ios-navigate-api-reference-..-protocols-navigatorprotocol">NavigatorProtocol</a></code> as source of data.</p>
-<p><strong>Note:</strong> The <code>VisualNavigator</code> implements the <code><a href="sdk-for-ios-navigate-api-reference-..-protocols-navigatorprotocol">NavigatorProtocol</a></code> interface and forwards
-all calls to the underlying <code><a href="sdk-for-ios-navigate-api-reference-..-protocols-navigatorprotocol">NavigatorProtocol</a></code> instance. When multiple <code>VisualNavigator</code>
-instances share the same <code><a href="sdk-for-ios-navigate-api-reference-..-protocols-navigatorprotocol">NavigatorProtocol</a></code> instance, method calls on this common instance
+<p>Creates a new instance of this class using provided instance of <code><a href="sdk-for-ios-navigate-api-reference-protocols-navigatorprotocol">NavigatorProtocol</a></code> as source of data.</p>
+<p><strong>Note:</strong> The <code>VisualNavigator</code> implements the <code><a href="sdk-for-ios-navigate-api-reference-protocols-navigatorprotocol">NavigatorProtocol</a></code> interface and forwards
+all calls to the underlying <code><a href="sdk-for-ios-navigate-api-reference-protocols-navigatorprotocol">NavigatorProtocol</a></code> instance. When multiple <code>VisualNavigator</code>
+instances share the same <code><a href="sdk-for-ios-navigate-api-reference-protocols-navigatorprotocol">NavigatorProtocol</a></code> instance, method calls on this common instance
 will overwrite changes made by another, which may lead to unexpected behavior.</p>
 <p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
 behavior. Related APIs may change for new releases without a deprecation process.</p>
@@ -161,7 +161,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">navigator</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-navigatorprotocol">NavigatorProtocol</a></span><span class="p">)</span> <span class="k">throws</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">navigator</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-navigatorprotocol">NavigatorProtocol</a></span><span class="p">)</span> <span class="k">throws</span></code></pre>
 </div>
 </div>
 <div>
@@ -199,7 +199,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Creates a new instance of this class using provided instance of <code><a href="sdk-for-ios-navigate-api-reference-..-protocols-navigatorprotocol">NavigatorProtocol</a></code> as source of data.</p>
+<p>Creates a new instance of this class using provided instance of <code><a href="sdk-for-ios-navigate-api-reference-protocols-navigatorprotocol">NavigatorProtocol</a></code> as source of data.</p>
 <p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
 behavior. Related APIs may change for new releases without a deprecation process.</p>
 <div class="aside aside-throws">
@@ -212,7 +212,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">sdkEngine</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-sdknativeengine">SDKNativeEngine</a></span><span class="p">,</span> <span class="nv">navigator</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-navigatorprotocol">NavigatorProtocol</a></span><span class="p">)</span> <span class="k">throws</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">sdkEngine</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-sdknativeengine">SDKNativeEngine</a></span><span class="p">,</span> <span class="nv">navigator</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-navigatorprotocol">NavigatorProtocol</a></span><span class="p">)</span> <span class="k">throws</span></code></pre>
 </div>
 </div>
 <div>
@@ -265,16 +265,16 @@ behavior. Related APIs may change for new releases without a deprecation process
 <p>The route to navigate.
 Gets and sets the route that is being navigated.
 If not set, only the current location information will be
-provided through <code><a href="sdk-for-ios-navigate-api-reference-..-protocols-navigablelocationdelegate">NavigableLocationDelegate</a></code>.
-If set, both route progress (<code><a href="sdk-for-ios-navigate-api-reference-..-protocols-routeprogressdelegate">RouteProgressDelegate</a></code>) and route deviation
-(<code><a href="sdk-for-ios-navigate-api-reference-..-protocols-routedeviationdelegate">RouteDeviationDelegate</a></code>) will receive notifications on updates.
+provided through <code><a href="sdk-for-ios-navigate-api-reference-protocols-navigablelocationdelegate">NavigableLocationDelegate</a></code>.
+If set, both route progress (<code><a href="sdk-for-ios-navigate-api-reference-protocols-routeprogressdelegate">RouteProgressDelegate</a></code>) and route deviation
+(<code><a href="sdk-for-ios-navigate-api-reference-protocols-routedeviationdelegate">RouteDeviationDelegate</a></code>) will receive notifications on updates.
 A route may fail to be set if it is generated by an incompatible engine, in which case the operation has no effect.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">route</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-route">Route</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">route</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-route">Route</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -294,13 +294,13 @@ A route may fail to be set if it is generated by an incompatible engine, in whic
 <div class="pointer"></div>
 <div class="abstract">
 <p>Properly setting the transport profile optimizes the navigation experience, and improves resource consumption.
-For example, a <code><a href="sdk-for-ios-navigate-api-reference-..-structs-transportprofile">TransportProfile</a></code> can be defined with a <code><a href="sdk-for-ios-navigate-api-reference-..-structs-vehicleprofile">VehicleProfile</a></code>.
-A vehicle profile can have several parameters such as <code><a href="sdk-for-ios-navigate-api-reference-..-enums-vehicletype">VehicleType</a></code> to set the
+For example, a <code><a href="sdk-for-ios-navigate-api-reference-structs-transportprofile">TransportProfile</a></code> can be defined with a <code><a href="sdk-for-ios-navigate-api-reference-structs-vehicleprofile">VehicleProfile</a></code>.
+A vehicle profile can have several parameters such as <code><a href="sdk-for-ios-navigate-api-reference-enums-vehicletype">VehicleType</a></code> to set the
 source of information describing the vehicle.
 The default is a <code><a href="../Enums/VehicleType.html#/s:7heresdk11VehicleTypeO3caryA2CmF">VehicleType.car</a></code> profile.</p>
-<p>Currently used members of <code><a href="sdk-for-ios-navigate-api-reference-..-structs-transportprofile">TransportProfile</a></code></p>
+<p>Currently used members of <code><a href="sdk-for-ios-navigate-api-reference-structs-transportprofile">TransportProfile</a></code></p>
 <ul>
-<li><code><a href="sdk-for-ios-navigate-api-reference-..-enums-vehicletype">VehicleType</a></code>: Sets the transport mode.</li>
+<li><code><a href="sdk-for-ios-navigate-api-reference-enums-vehicletype">VehicleType</a></code>: Sets the transport mode.</li>
 <li>From <code>vehicleProfile</code>:
 
 <ul>
@@ -315,8 +315,8 @@ The default is a <code><a href="../Enums/VehicleType.html#/s:7heresdk11VehicleTy
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">@available(*, deprecated, message: "Will be removed in v4.28.0. Use <code>NavigatorInterface.trackingTransportSpecification</code> instead.")</span>
-<span class="kd">public</span> <span class="k">var</span> <span class="nv">trackingTransportProfile</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-transportprofile">TransportProfile</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">@available(*, deprecated, message: "Will be removed in v4.28.0. Use NavigatorInterface.trackingTransportSpecification instead.")</span>
+<span class="kd">public</span> <span class="k">var</span> <span class="nv">trackingTransportProfile</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-transportprofile">TransportProfile</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -335,13 +335,13 @@ The default is a <code><a href="../Enums/VehicleType.html#/s:7heresdk11VehicleTy
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Defines the transport specification for the <code><a href="sdk-for-ios-navigate-api-reference-..-classes-navigator">Navigator</a></code>, when no route is present.
+<p>Defines the transport specification for the <code><a href="sdk-for-ios-navigate-api-reference-classes-navigator">Navigator</a></code>, when no route is present.
 Properly setting the transport specification optimizes the navigation experience, and improves
-resource consumption. An <code><a href="sdk-for-ios-navigate-api-reference-..-structs-transportspecification">TransportSpecification</a></code> must have the <code><a href="../Structs/TransportSpecification.html#/s:7heresdk22TransportSpecificationV13transportModeAA0bE0Ovp">TransportSpecification.transportMode</a></code> set.
+resource consumption. An <code><a href="sdk-for-ios-navigate-api-reference-structs-transportspecification">TransportSpecification</a></code> must have the <code><a href="../Structs/TransportSpecification.html#/s:7heresdk22TransportSpecificationV13transportModeAA0bE0Ovp">TransportSpecification.transportMode</a></code> set.
 A transport specification can have several parameters defined such as <code><a href="../Structs/VehicleSpecification.html#/s:7heresdk20VehicleSpecificationV19lengthInCentimeterss5Int32VSgvp">VehicleSpecification.lengthInCentimeters</a></code>
 defined in <code><a href="../Structs/TransportSpecification.html#/s:7heresdk22TransportSpecificationV07vehicleC0AA07VehicleC0VSgvp">TransportSpecification.vehicleSpecification</a></code> to set the source of information describing the vehicle.
-By default the <code><a href="sdk-for-ios-navigate-api-reference-..-structs-transportspecification">TransportSpecification</a></code> will have the transport mode set to <code><a href="../Enums/TransportMode.html#/s:7heresdk13TransportModeO3caryA2CmF">TransportMode.car</a></code>.</p>
-<p>Currently used members of <code><a href="sdk-for-ios-navigate-api-reference-..-structs-transportspecification">TransportSpecification</a></code></p>
+By default the <code><a href="sdk-for-ios-navigate-api-reference-structs-transportspecification">TransportSpecification</a></code> will have the transport mode set to <code><a href="../Enums/TransportMode.html#/s:7heresdk13TransportModeO3caryA2CmF">TransportMode.car</a></code>.</p>
+<p>Currently used members of <code><a href="sdk-for-ios-navigate-api-reference-structs-transportspecification">TransportSpecification</a></code></p>
 <ul>
 <li><code><a href="../Structs/TransportSpecification.html#/s:7heresdk22TransportSpecificationV13transportModeAA0bE0Ovp">TransportSpecification.transportMode</a></code>: Sets the transport mode.</li>
 <li>From <code><a href="../Structs/TransportSpecification.html#/s:7heresdk22TransportSpecificationV07vehicleC0AA07VehicleC0VSgvp">TransportSpecification.vehicleSpecification</a></code>:
@@ -358,7 +358,7 @@ By default the <code><a href="sdk-for-ios-navigate-api-reference-..-structs-tran
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">trackingTransportSpecification</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-transportspecification">TransportSpecification</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">trackingTransportSpecification</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-transportspecification">TransportSpecification</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -384,7 +384,7 @@ It returns <code>nil</code> when no delegate is set by an user.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">weak</span> <span class="k">var</span> <span class="nv">navigableLocationDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-navigablelocationdelegate">NavigableLocationDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">weak</span> <span class="k">var</span> <span class="nv">navigableLocationDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-navigablelocationdelegate">NavigableLocationDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -412,7 +412,7 @@ It returns <code>nil</code> when no delegate is set by an user.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">weak</span> <span class="k">var</span> <span class="nv">routeProgressDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-routeprogressdelegate">RouteProgressDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">weak</span> <span class="k">var</span> <span class="nv">routeProgressDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-routeprogressdelegate">RouteProgressDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -440,7 +440,7 @@ It returns <code>nil</code> when no delegate is set by an user.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">weak</span> <span class="k">var</span> <span class="nv">routeDeviationDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-routedeviationdelegate">RouteDeviationDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">weak</span> <span class="k">var</span> <span class="nv">routeDeviationDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-routedeviationdelegate">RouteDeviationDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -469,7 +469,7 @@ when <code>TrafficMergeWarningOptions.enable_text_notification</code> has been e
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">weak</span> <span class="k">var</span> <span class="nv">eventTextDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-eventtextdelegate">EventTextDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">weak</span> <span class="k">var</span> <span class="nv">eventTextDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-eventtextdelegate">EventTextDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -488,7 +488,7 @@ when <code>TrafficMergeWarningOptions.enable_text_notification</code> has been e
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Object to receive notifications about the arrival at each <code><a href="sdk-for-ios-navigate-api-reference-..-structs-milestone">Milestone</a></code> or missing it.
+<p>Object to receive notifications about the arrival at each <code><a href="sdk-for-ios-navigate-api-reference-structs-milestone">Milestone</a></code> or missing it.
 It informs on all waypoints (passed or missed) that
 are of type <code><a href="../Enums/MilestoneType.html#/s:7heresdk13MilestoneTypeO8stopoveryA2CmF">MilestoneType.stopover</a></code> but excludes the
 starting waypoint.
@@ -502,7 +502,7 @@ It returns <code>nil</code> when no delegate is set by an user.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">weak</span> <span class="k">var</span> <span class="nv">milestoneStatusDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-milestonestatusdelegate">MilestoneStatusDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">weak</span> <span class="k">var</span> <span class="nv">milestoneStatusDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-milestonestatusdelegate">MilestoneStatusDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -530,7 +530,7 @@ It returns <code>nil</code> when no delegate is set by an user.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">weak</span> <span class="k">var</span> <span class="nv">destinationReachedDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-destinationreacheddelegate">DestinationReachedDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">weak</span> <span class="k">var</span> <span class="nv">destinationReachedDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-destinationreacheddelegate">DestinationReachedDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -557,7 +557,7 @@ It returns <code>nil</code> when no delegate is set by an user.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">weak</span> <span class="k">var</span> <span class="nv">speedWarningDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-speedwarningdelegate">SpeedWarningDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">weak</span> <span class="k">var</span> <span class="nv">speedWarningDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-speedwarningdelegate">SpeedWarningDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -585,7 +585,7 @@ It returns <code>nil</code> when no delegate is set by an user.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">weak</span> <span class="k">var</span> <span class="nv">maneuverViewLaneAssistanceDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-maneuverviewlaneassistancedelegate">ManeuverViewLaneAssistanceDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">weak</span> <span class="k">var</span> <span class="nv">maneuverViewLaneAssistanceDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-maneuverviewlaneassistancedelegate">ManeuverViewLaneAssistanceDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -612,7 +612,7 @@ It returns <code>nil</code> when no delegate is set by an user.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">weak</span> <span class="k">var</span> <span class="nv">currentSituationLaneAssistanceViewDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-currentsituationlaneassistanceviewdelegate">CurrentSituationLaneAssistanceViewDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">weak</span> <span class="k">var</span> <span class="nv">currentSituationLaneAssistanceViewDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-currentsituationlaneassistanceviewdelegate">CurrentSituationLaneAssistanceViewDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -639,7 +639,7 @@ It returns <code>nil</code> when no delegate is set by an user.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">weak</span> <span class="k">var</span> <span class="nv">environmentalZoneWarningListenerDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-environmentalzonewarningdelegate">EnvironmentalZoneWarningDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">weak</span> <span class="k">var</span> <span class="nv">environmentalZoneWarningListenerDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-environmentalzonewarningdelegate">EnvironmentalZoneWarningDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -667,7 +667,7 @@ It returns <code>nil</code> when no delegate is set by an user.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">weak</span> <span class="k">var</span> <span class="nv">junctionViewLaneAssistanceDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-junctionviewlaneassistancedelegate">JunctionViewLaneAssistanceDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">weak</span> <span class="k">var</span> <span class="nv">junctionViewLaneAssistanceDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-junctionviewlaneassistancedelegate">JunctionViewLaneAssistanceDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -688,7 +688,7 @@ It returns <code>nil</code> when no delegate is set by an user.</p>
 <div class="abstract">
 <p>Object to receive safety camera warner notifications.
 If a delegate delegate is present, notifications about
-safety speed cameras will be also sent via <code><a href="sdk-for-ios-navigate-api-reference-..-protocols-safetycamerawarningdelegate">SafetyCameraWarningDelegate</a></code>.
+safety speed cameras will be also sent via <code><a href="sdk-for-ios-navigate-api-reference-protocols-safetycamerawarningdelegate">SafetyCameraWarningDelegate</a></code>.
 Setting <code>nil</code> value to the delegate will unset the delegate.
 It returns <code>nil</code> when no delegate is set by an user.</p>
 </div>
@@ -696,7 +696,7 @@ It returns <code>nil</code> when no delegate is set by an user.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">weak</span> <span class="k">var</span> <span class="nv">safetyCameraWarningDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-safetycamerawarningdelegate">SafetyCameraWarningDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">weak</span> <span class="k">var</span> <span class="nv">safetyCameraWarningDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-safetycamerawarningdelegate">SafetyCameraWarningDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -715,14 +715,14 @@ It returns <code>nil</code> when no delegate is set by an user.</p>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Safety camera warning options to be passed to <code><a href="sdk-for-ios-navigate-api-reference-..-protocols-safetycamerawarningdelegate">SafetyCameraWarningDelegate</a></code>.
+<p>Safety camera warning options to be passed to <code><a href="sdk-for-ios-navigate-api-reference-protocols-safetycamerawarningdelegate">SafetyCameraWarningDelegate</a></code>.
 These options allow the enabling or disabling the text notification for the warner.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">safetyCameraWarningOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-safetycamerawarningoptions">SafetyCameraWarningOptions</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">safetyCameraWarningOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-safetycamerawarningoptions">SafetyCameraWarningOptions</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -749,7 +749,7 @@ It returns <code>nil</code> when no delegate is set by an user.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">weak</span> <span class="k">var</span> <span class="nv">dangerZoneWarningListenerDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-dangerzonewarningdelegate">DangerZoneWarningDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">weak</span> <span class="k">var</span> <span class="nv">dangerZoneWarningListenerDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-dangerzonewarningdelegate">DangerZoneWarningDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -776,7 +776,7 @@ It returns <code>nil</code> when no delegate is set by an user.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">weak</span> <span class="k">var</span> <span class="nv">truckRestrictionsWarningDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-truckrestrictionswarningdelegate">TruckRestrictionsWarningDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">weak</span> <span class="k">var</span> <span class="nv">truckRestrictionsWarningDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-truckrestrictionswarningdelegate">TruckRestrictionsWarningDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -802,7 +802,7 @@ This engine can be used to configure navigation warnings.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">warnerEngine</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-warnerengine">WarnerEngine</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">warnerEngine</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-warnerengine">WarnerEngine</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -821,13 +821,13 @@ This engine can be used to configure navigation warnings.</p>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Truck restrictions warning options that allow to filter truck restrictions to be passed to <code><a href="sdk-for-ios-navigate-api-reference-..-protocols-truckrestrictionswarningdelegate">TruckRestrictionsWarningDelegate</a></code>.</p>
+<p>Truck restrictions warning options that allow to filter truck restrictions to be passed to <code><a href="sdk-for-ios-navigate-api-reference-protocols-truckrestrictionswarningdelegate">TruckRestrictionsWarningDelegate</a></code>.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">truckRestrictionsWarningOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-truckrestrictionswarningoptions">TruckRestrictionsWarningOptions</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">truckRestrictionsWarningOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-truckrestrictionswarningoptions">TruckRestrictionsWarningOptions</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -855,7 +855,7 @@ It returns <code>nil</code> when no delegate is set by an user.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">weak</span> <span class="k">var</span> <span class="nv">postActionDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-postactiondelegate">PostActionDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">weak</span> <span class="k">var</span> <span class="nv">postActionDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-postactiondelegate">PostActionDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -882,7 +882,7 @@ It returns <code>nil</code> when no delegate is set by an user.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">weak</span> <span class="k">var</span> <span class="nv">speedLimitDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-speedlimitdelegate">SpeedLimitDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">weak</span> <span class="k">var</span> <span class="nv">speedLimitDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-speedlimitdelegate">SpeedLimitDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -909,7 +909,7 @@ It returns <code>nil</code> when no delegate is set by an user.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">weak</span> <span class="k">var</span> <span class="nv">roadTextsDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-roadtextsdelegate">RoadTextsDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">weak</span> <span class="k">var</span> <span class="nv">roadTextsDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-roadtextsdelegate">RoadTextsDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -936,7 +936,7 @@ It returns <code>nil</code> when no delegate is set by an user.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">weak</span> <span class="k">var</span> <span class="nv">roadAttributesDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-roadattributesdelegate">RoadAttributesDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">weak</span> <span class="k">var</span> <span class="nv">roadAttributesDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-roadattributesdelegate">RoadAttributesDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -963,7 +963,7 @@ It returns <code>nil</code> when no delegate is set by an user.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">weak</span> <span class="k">var</span> <span class="nv">roadSignWarningDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-roadsignwarningdelegate">RoadSignWarningDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">weak</span> <span class="k">var</span> <span class="nv">roadSignWarningDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-roadsignwarningdelegate">RoadSignWarningDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -982,13 +982,13 @@ It returns <code>nil</code> when no delegate is set by an user.</p>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Road sign warning options that allow to filter road sings to be passed to <code><a href="sdk-for-ios-navigate-api-reference-..-protocols-roadsignwarningdelegate">RoadSignWarningDelegate</a></code>.</p>
+<p>Road sign warning options that allow to filter road sings to be passed to <code><a href="sdk-for-ios-navigate-api-reference-protocols-roadsignwarningdelegate">RoadSignWarningDelegate</a></code>.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">roadSignWarningOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-roadsignwarningoptions">RoadSignWarningOptions</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">roadSignWarningOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-roadsignwarningoptions">RoadSignWarningOptions</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -1016,7 +1016,7 @@ It returns <code>nil</code> when no delegate is set by an user.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">weak</span> <span class="k">var</span> <span class="nv">schoolZoneWarningDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-schoolzonewarningdelegate">SchoolZoneWarningDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">weak</span> <span class="k">var</span> <span class="nv">schoolZoneWarningDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-schoolzonewarningdelegate">SchoolZoneWarningDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -1037,13 +1037,13 @@ It returns <code>nil</code> when no delegate is set by an user.</p>
 <div class="abstract">
 <p>School zone warning options
 It allow to configure school zone notifications to be passed to
-<code><a href="sdk-for-ios-navigate-api-reference-..-protocols-schoolzonewarningdelegate">SchoolZoneWarningDelegate</a></code>.</p>
+<code><a href="sdk-for-ios-navigate-api-reference-protocols-schoolzonewarningdelegate">SchoolZoneWarningDelegate</a></code>.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">schoolZoneWarningOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-schoolzonewarningoptions">SchoolZoneWarningOptions</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">schoolZoneWarningOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-schoolzonewarningoptions">SchoolZoneWarningOptions</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -1072,7 +1072,7 @@ It returns <code>nil</code> when no delegate is set by an user.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">weak</span> <span class="k">var</span> <span class="nv">realisticViewWarningDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-realisticviewwarningdelegate">RealisticViewWarningDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">weak</span> <span class="k">var</span> <span class="nv">realisticViewWarningDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-realisticviewwarningdelegate">RealisticViewWarningDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -1092,7 +1092,7 @@ It returns <code>nil</code> when no delegate is set by an user.</p>
 <div class="pointer"></div>
 <div class="abstract">
 <p>Realistic view warning options.
-It allow to filter realistic views to be passed to <code><a href="sdk-for-ios-navigate-api-reference-..-protocols-realisticviewwarningdelegate">RealisticViewWarningDelegate</a></code>.</p>
+It allow to filter realistic views to be passed to <code><a href="sdk-for-ios-navigate-api-reference-protocols-realisticviewwarningdelegate">RealisticViewWarningDelegate</a></code>.</p>
 <ul>
 <li>This feature requires a map version greater or equal to 67 in order to function properly.</li>
 </ul>
@@ -1101,7 +1101,7 @@ It allow to filter realistic views to be passed to <code><a href="sdk-for-ios-na
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">realisticViewWarningOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-realisticviewwarningoptions">RealisticViewWarningOptions</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">realisticViewWarningOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-realisticviewwarningoptions">RealisticViewWarningOptions</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -1129,7 +1129,7 @@ It returns <code>nil</code> when no delegate is set by an user.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">weak</span> <span class="k">var</span> <span class="nv">borderCrossingWarningDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-bordercrossingwarningdelegate">BorderCrossingWarningDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">weak</span> <span class="k">var</span> <span class="nv">borderCrossingWarningDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-bordercrossingwarningdelegate">BorderCrossingWarningDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -1148,14 +1148,14 @@ It returns <code>nil</code> when no delegate is set by an user.</p>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Border crossing warning options to be passed to <code><a href="sdk-for-ios-navigate-api-reference-..-protocols-bordercrossingwarningdelegate">BorderCrossingWarningDelegate</a></code>. These options
+<p>Border crossing warning options to be passed to <code><a href="sdk-for-ios-navigate-api-reference-protocols-bordercrossingwarningdelegate">BorderCrossingWarningDelegate</a></code>. These options
 allow the filtering of the border crossing warnings received and set the notification distances.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">borderCrossingWarningOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-bordercrossingwarningoptions">BorderCrossingWarningOptions</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">borderCrossingWarningOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-bordercrossingwarningoptions">BorderCrossingWarningOptions</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -1184,7 +1184,7 @@ behaviors. Related APIs may change for new releases without a deprecation proces
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">weak</span> <span class="k">var</span> <span class="nv">tollStopWarningDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-tollstopwarningdelegate">TollStopWarningDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">weak</span> <span class="k">var</span> <span class="nv">tollStopWarningDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-tollstopwarningdelegate">TollStopWarningDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -1212,7 +1212,7 @@ It returns <code>nil</code> when no delegate is set by an user.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">weak</span> <span class="k">var</span> <span class="nv">railwayCrossingWarningDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-railwaycrossingwarningdelegate">RailwayCrossingWarningDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">weak</span> <span class="k">var</span> <span class="nv">railwayCrossingWarningDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-railwaycrossingwarningdelegate">RailwayCrossingWarningDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -1241,7 +1241,7 @@ It returns <code>nil</code> when no delegate is set by an user.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">weak</span> <span class="k">var</span> <span class="nv">lowSpeedZoneWarningDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-lowspeedzonewarningdelegate">LowSpeedZoneWarningDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">weak</span> <span class="k">var</span> <span class="nv">lowSpeedZoneWarningDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-lowspeedzonewarningdelegate">LowSpeedZoneWarningDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -1268,7 +1268,7 @@ It returns <code>nil</code> when no delegate is set by an user.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">weak</span> <span class="k">var</span> <span class="nv">trafficMergeWarningDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-trafficmergewarningdelegate">TrafficMergeWarningDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">weak</span> <span class="k">var</span> <span class="nv">trafficMergeWarningDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-trafficmergewarningdelegate">TrafficMergeWarningDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -1288,13 +1288,13 @@ It returns <code>nil</code> when no delegate is set by an user.</p>
 <div class="pointer"></div>
 <div class="abstract">
 <p>Merging traffic warning options that allow to configure merging traffic notifications to be passed to
-<code><a href="sdk-for-ios-navigate-api-reference-..-protocols-trafficmergewarningdelegate">TrafficMergeWarningDelegate</a></code>.</p>
+<code><a href="sdk-for-ios-navigate-api-reference-protocols-trafficmergewarningdelegate">TrafficMergeWarningDelegate</a></code>.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">trafficMergeWarningOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-trafficmergewarningoptions">TrafficMergeWarningOptions</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">trafficMergeWarningOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-trafficmergewarningoptions">TrafficMergeWarningOptions</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -1323,7 +1323,7 @@ It returns <code>nil</code> when no delegate is set by an user.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">offRoadDestinationReachedDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-offroaddestinationreacheddelegate">OffRoadDestinationReachedDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">offRoadDestinationReachedDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-offroaddestinationreacheddelegate">OffRoadDestinationReachedDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -1352,7 +1352,7 @@ It returns <code>nil</code> when no delegate is set by an user.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">offRoadProgressDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-offroadprogressdelegate">OffRoadProgressDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">offRoadProgressDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-offroadprogressdelegate">OffRoadProgressDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -1378,7 +1378,7 @@ Notifications are only available if a route is present.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">maneuverNotificationOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-maneuvernotificationoptions">ManeuverNotificationOptions</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">maneuverNotificationOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-maneuvernotificationoptions">ManeuverNotificationOptions</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -1404,7 +1404,7 @@ Notifications are only available if a route is present.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">eventTextOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-eventtextoptions">EventTextOptions</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">eventTextOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-eventtextoptions">EventTextOptions</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -1429,7 +1429,7 @@ Notifications are only available if a route is present.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">speedWarningOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-speedwarningoptions">SpeedWarningOptions</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">speedWarningOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-speedwarningoptions">SpeedWarningOptions</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -1501,14 +1501,14 @@ By default the handling of passthrough waypoints is disabled.</p>
 <div class="pointer"></div>
 <div class="abstract">
 <p>Traffic information for the current route.
-This impacts <code><a href="sdk-for-ios-navigate-api-reference-..-structs-routeprogress">RouteProgress</a></code> updates as the duration of the <code><a href="sdk-for-ios-navigate-api-reference-..-structs-sectionprogress">SectionProgress</a></code> might change.
+This impacts <code><a href="sdk-for-ios-navigate-api-reference-structs-routeprogress">RouteProgress</a></code> updates as the duration of the <code><a href="sdk-for-ios-navigate-api-reference-structs-sectionprogress">SectionProgress</a></code> might change.
 However, the remaining distance and the route geometry will remain unchanged.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">trafficOnRoute</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-trafficonroute">TrafficOnRoute</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">trafficOnRoute</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-trafficonroute">TrafficOnRoute</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -1533,7 +1533,7 @@ However, the remaining distance and the route geometry will remain unchanged.</p
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">locationManager</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-locationmanager">LocationManager</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">locationManager</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-locationmanager">LocationManager</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -1558,13 +1558,13 @@ the current location and keeps the last active camera state, i.e., current zoom 
 Furthermore, when <code>nil</code> is set map gestures can be used again to freely pan and zoom
 the map. In opposition, when a camera behavior is defined, then the map cannot be panned and
 zoomed by the user.
-The default value is an instance of <code><a href="sdk-for-ios-navigate-api-reference-..-classes-fixedcamerabehavior">FixedCameraBehavior</a></code>.</p>
+The default value is an instance of <code><a href="sdk-for-ios-navigate-api-reference-classes-fixedcamerabehavior">FixedCameraBehavior</a></code>.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">cameraBehavior</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-camerabehavior">CameraBehavior</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">cameraBehavior</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-camerabehavior">CameraBehavior</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -1583,10 +1583,10 @@ The default value is an instance of <code><a href="sdk-for-ios-navigate-api-refe
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p><code><a href="sdk-for-ios-navigate-api-reference-..-classes-route">Route</a></code> visibility which defines whether to perform route rendering during visual navigation.
-When enabled, the set <code><a href="sdk-for-ios-navigate-api-reference-..-classes-route">Route</a></code> will be rendered as a <code><a href="sdk-for-ios-navigate-api-reference-..-classes-mappolyline">MapPolyline</a></code> together with <code><a href="sdk-for-ios-navigate-api-reference-..-classes-maparrow">MapArrow</a></code> items that
+<p><code><a href="sdk-for-ios-navigate-api-reference-classes-route">Route</a></code> visibility which defines whether to perform route rendering during visual navigation.
+When enabled, the set <code><a href="sdk-for-ios-navigate-api-reference-classes-route">Route</a></code> will be rendered as a <code><a href="sdk-for-ios-navigate-api-reference-classes-mappolyline">MapPolyline</a></code> together with <code><a href="sdk-for-ios-navigate-api-reference-classes-maparrow">MapArrow</a></code> items that
 indicate the next turns. By default, it is enabled.
-When disabled, <code><a href="sdk-for-ios-navigate-api-reference-..-classes-maparrow">MapArrow</a></code> items are still rendered. To hide arrows, use <code><a href="sdk-for-ios-navigate-api-reference-..-classes-visualnavigatorcolors">VisualNavigatorColors</a></code> with
+When disabled, <code><a href="sdk-for-ios-navigate-api-reference-classes-maparrow">MapArrow</a></code> items are still rendered. To hide arrows, use <code><a href="sdk-for-ios-navigate-api-reference-classes-visualnavigatorcolors">VisualNavigatorColors</a></code> with
 transparent color.</p>
 </div>
 <div class="declaration">
@@ -1612,7 +1612,7 @@ transparent color.</p>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p><code><a href="sdk-for-ios-navigate-api-reference-..-structs-routeprogress">RouteProgress</a></code> visibility which defines whether to perform route progress coloring (“eat-up”) during visual navigation.
+<p><code><a href="sdk-for-ios-navigate-api-reference-structs-routeprogress">RouteProgress</a></code> visibility which defines whether to perform route progress coloring (“eat-up”) during visual navigation.
 By default, it is enabled.</p>
 </div>
 <div class="declaration">
@@ -1691,14 +1691,14 @@ which is off-road. By default it is enabled.
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>A boolean which defines whether to perform rendering of traffic conditions on the route when <code><a href="sdk-for-ios-navigate-api-reference-..-classes-route">Route</a></code> visualization
+<p>A boolean which defines whether to perform rendering of traffic conditions on the route when <code><a href="sdk-for-ios-navigate-api-reference-classes-route">Route</a></code> visualization
 is enabled during visual navigation.
-When enabled the route’s <code><a href="sdk-for-ios-navigate-api-reference-..-classes-mappolyline">MapPolyline</a></code> will be enhanced with visualization of the traffic conditions.
+When enabled the route’s <code><a href="sdk-for-ios-navigate-api-reference-classes-mappolyline">MapPolyline</a></code> will be enhanced with visualization of the traffic conditions.
 Colors used for this visualization are defined in <code><a href="../Classes/VisualNavigatorColors.html#/s:7heresdk21VisualNavigatorColorsC014trafficOnRouteD0AA07TrafficfgD0Vvp">VisualNavigatorColors.trafficOnRouteColors</a></code>.
 The presented traffic information is either set by the user via <code><a href="../Classes/VisualNavigator.html#/s:7heresdk15VisualNavigatorC14trafficOnRouteAA07TrafficeF0VSgvp">trafficOnRoute</a></code> or
 is generated from historical traffic data stored in the map.
 <strong>Note:</strong> <code>VisualNavigator</code> does not perform automatic traffic data updates. The updated traffic information is available
-through the [sdk.routing.RoutingEngine.calculate_traffic_on_route] interface. The returned <code><a href="sdk-for-ios-navigate-api-reference-..-structs-trafficonroute">TrafficOnRoute</a></code>
+through the [sdk.routing.RoutingEngine.calculate_traffic_on_route] interface. The returned <code><a href="sdk-for-ios-navigate-api-reference-structs-trafficonroute">TrafficOnRoute</a></code>
 could then be used to update [sdk.navigation.NavigatorInterface.traffic_on_route] to refresh the traffic on route visualization.
 Defaults to <code>false</code>.</p>
 </div>
@@ -1725,9 +1725,9 @@ Defaults to <code>false</code>.</p>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Custom location indicator <code><a href="sdk-for-ios-navigate-api-reference-..-classes-locationindicator">LocationIndicator</a></code> which <code>VisualNavigator</code> uses instead of the default.
+<p>Custom location indicator <code><a href="sdk-for-ios-navigate-api-reference-classes-locationindicator">LocationIndicator</a></code> which <code>VisualNavigator</code> uses instead of the default.
 If set, the user is responsible for adding and removing the object to/from the mapview.
-It is important to stop sending location updates to the provided <code><a href="sdk-for-ios-navigate-api-reference-..-classes-locationindicator">LocationIndicator</a></code>, since
+It is important to stop sending location updates to the provided <code><a href="sdk-for-ios-navigate-api-reference-classes-locationindicator">LocationIndicator</a></code>, since
 <code>VisualNavigator</code> will control its position when rendering is active, i.e., between startRendering(<em>) and
 stopRendering() calls. By default this property is <code>nil</code>,
 which means the default indicator is used, and <code>VisualNavigator</code> automatically adds and removes it to/from
@@ -1737,7 +1737,7 @@ the mapview upon startRendering(</em>) and stopRendering() calls.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">customLocationIndicator</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-locationindicator">LocationIndicator</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">customLocationIndicator</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-locationindicator">LocationIndicator</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -1757,7 +1757,7 @@ the mapview upon startRendering(</em>) and stopRendering() calls.</p>
 <div class="pointer"></div>
 <div class="abstract">
 <p>Object to receive interpolated locations.
-For example, to pan a second instance of a <code><a href="sdk-for-ios-navigate-api-reference-..-protocols-mapviewbase">MapViewBase</a></code> or move additional markers smoothly.
+For example, to pan a second instance of a <code><a href="sdk-for-ios-navigate-api-reference-protocols-mapviewbase">MapViewBase</a></code> or move additional markers smoothly.
 The map-matched locations are used if available, otherwise the non-map-matched ones are used instead.
 Defaults to <code>nil</code>.</p>
 </div>
@@ -1765,7 +1765,7 @@ Defaults to <code>nil</code>.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">weak</span> <span class="k">var</span> <span class="nv">interpolatedLocationDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-interpolatedlocationdelegate">InterpolatedLocationDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">weak</span> <span class="k">var</span> <span class="nv">interpolatedLocationDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-interpolatedlocationdelegate">InterpolatedLocationDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -1810,13 +1810,13 @@ Defaults to <code>nil</code>.</p>
 <div class="pointer"></div>
 <div class="abstract">
 <p>Object containing colors used to render route progress and maneuver arrow visualization.
-Setting a new instance overwrites the default color settings as specified in <code><a href="sdk-for-ios-navigate-api-reference-..-classes-visualnavigatorcolors">VisualNavigatorColors</a></code>.</p>
+Setting a new instance overwrites the default color settings as specified in <code><a href="sdk-for-ios-navigate-api-reference-classes-visualnavigatorcolors">VisualNavigatorColors</a></code>.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">colors</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-visualnavigatorcolors">VisualNavigatorColors</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">colors</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-visualnavigatorcolors">VisualNavigatorColors</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -1836,18 +1836,18 @@ Setting a new instance overwrites the default color settings as specified in <co
 <div class="pointer"></div>
 <div class="abstract">
 <p>The <code>measureDependentWidth</code> that defines the route and maneuver arrows width.
-It is a dictionary that has keys that are <code><a href="sdk-for-ios-navigate-api-reference-..-structs-mapmeasure">MapMeasure</a></code>s and values
-that are width in pixels at this <code><a href="sdk-for-ios-navigate-api-reference-..-structs-mapmeasure">MapMeasure</a></code>s.
+It is a dictionary that has keys that are <code><a href="sdk-for-ios-navigate-api-reference-structs-mapmeasure">MapMeasure</a></code>s and values
+that are width in pixels at this <code><a href="sdk-for-ios-navigate-api-reference-structs-mapmeasure">MapMeasure</a></code>s.
 This route and maneuver arrows width is multiplied by a pixel_scale <code>pixelScale</code>
 before being rendered. The maneuver arrow width is additionally multiplied by a factor configurable with
 <code><a href="../Classes/VisualNavigator.html#/s:7heresdk15VisualNavigatorC24maneuverArrowWidthFactorSdvp">VisualNavigator.maneuverArrowWidthFactor</a></code>; which by default equals one.
 The function defined by a dictionary is linearly interpolated between each successive pair of data points.
-For keys below the lowest <code><a href="sdk-for-ios-navigate-api-reference-..-structs-mapmeasure">MapMeasure</a></code>, its corresponding value width is used.
-For keys above the highest <code><a href="sdk-for-ios-navigate-api-reference-..-structs-mapmeasure">MapMeasure</a></code>, its corresponding value width is used.
-Only <code><a href="sdk-for-ios-navigate-api-reference-..-structs-mapmeasure">MapMeasure</a></code> of [sdk.mapview.MapMeasure.Kind.ZOOM_LEVEL] type are supported.
-<code><a href="sdk-for-ios-navigate-api-reference-..-structs-mapmeasure">MapMeasure</a></code> of other unsupported types will be ignored.
+For keys below the lowest <code><a href="sdk-for-ios-navigate-api-reference-structs-mapmeasure">MapMeasure</a></code>, its corresponding value width is used.
+For keys above the highest <code><a href="sdk-for-ios-navigate-api-reference-structs-mapmeasure">MapMeasure</a></code>, its corresponding value width is used.
+Only <code><a href="sdk-for-ios-navigate-api-reference-structs-mapmeasure">MapMeasure</a></code> of [sdk.mapview.MapMeasure.Kind.ZOOM_LEVEL] type are supported.
+<code><a href="sdk-for-ios-navigate-api-reference-structs-mapmeasure">MapMeasure</a></code> of other unsupported types will be ignored.
 <code>measureDependentWidth</code> with a single entry is equivalent to use of the constant width
-value of this single entry for all <code><a href="sdk-for-ios-navigate-api-reference-..-structs-mapmeasure">MapMeasure</a></code>s.
+value of this single entry for all <code><a href="sdk-for-ios-navigate-api-reference-structs-mapmeasure">MapMeasure</a></code>s.
 Empty <code>measureDependentWidth</code> is ignored and existing dictionary of width is maintained.
 The width values should be positive. Dictionary entries with width values less than or equal to 0 are ignored.
 If route and maneuver arrows were not configured with this property,
@@ -1859,7 +1859,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">measureDependentWidth</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-mapmeasure">MapMeasure</a></span> <span class="p">:</span> <span class="kt">Double</span><span class="p">]</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">measureDependentWidth</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-mapmeasure">MapMeasure</a></span> <span class="p">:</span> <span class="kt">Double</span><span class="p">]</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -2018,7 +2018,7 @@ FPS: 30.0
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Controls if the halo accuracy visualization of the default <code><a href="sdk-for-ios-navigate-api-reference-..-classes-locationindicator">LocationIndicator</a></code> is rendered or not.
+<p>Controls if the halo accuracy visualization of the default <code><a href="sdk-for-ios-navigate-api-reference-classes-locationindicator">LocationIndicator</a></code> is rendered or not.
 Does not affect halo accuracy indicator of the <code><a href="../Classes/VisualNavigator.html#/s:7heresdk15VisualNavigatorC23customLocationIndicatorAA0eF0CSgvp">VisualNavigator.customLocationIndicator</a></code>.
 If <code><a href="../Classes/VisualNavigator.html#/s:7heresdk15VisualNavigatorC23customLocationIndicatorAA0eF0CSgvp">VisualNavigator.customLocationIndicator</a></code> is set, then its halo accuracy indicator can be controlled
 using <code><a href="../Classes/LocationIndicator.html#/s:7heresdk17LocationIndicatorC20isAccuracyVisualizedSbvp">LocationIndicator.isAccuracyVisualized</a></code>.</p>
@@ -2139,7 +2139,7 @@ The default is <code><a href="../Enums/DrawOrderType.html#/s:7heresdk13DrawOrder
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">routeDrawOrderType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-drawordertype">DrawOrderType</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">routeDrawOrderType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-drawordertype">DrawOrderType</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -2164,7 +2164,7 @@ The default is <code><a href="../Enums/DrawOrderType.html#/s:7heresdk13DrawOrder
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getManeuver</span><span class="p">(</span><span class="nv">index</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-maneuver">Maneuver</a></span><span class="p">?</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getManeuver</span><span class="p">(</span><span class="nv">index</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-maneuver">Maneuver</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 <div>
@@ -2215,7 +2215,7 @@ for the same combination of transport mode and timing profile.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getManeuverNotificationTimingOptions</span><span class="p">(</span><span class="nv">transportMode</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-transportmode">TransportMode</a></span><span class="p">,</span> <span class="nv">timingProfile</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-timingprofile">TimingProfile</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-maneuvernotificationtimingoptions">ManeuverNotificationTimingOptions</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getManeuverNotificationTimingOptions</span><span class="p">(</span><span class="nv">transportMode</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-transportmode">TransportMode</a></span><span class="p">,</span> <span class="nv">timingProfile</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-timingprofile">TimingProfile</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-maneuvernotificationtimingoptions">ManeuverNotificationTimingOptions</a></span></code></pre>
 </div>
 </div>
 <div>
@@ -2276,7 +2276,7 @@ for the same combination of transport mode and timing profile.</p>
 <div class="language">
 <p class="aside-title">Swift</p>
 <pre class="highlight swift"><code><span class="kd">@discardableResult</span>
-<span class="kd">public</span> <span class="kd">func</span> <span class="nf">setManeuverNotificationTimingOptions</span><span class="p">(</span><span class="nv">transportMode</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-transportmode">TransportMode</a></span><span class="p">,</span> <span class="nv">timingProfile</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-timingprofile">TimingProfile</a></span><span class="p">,</span> <span class="nv">options</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-maneuvernotificationtimingoptions">ManeuverNotificationTimingOptions</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">Bool</span></code></pre>
+<span class="kd">public</span> <span class="kd">func</span> <span class="nf">setManeuverNotificationTimingOptions</span><span class="p">(</span><span class="nv">transportMode</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-transportmode">TransportMode</a></span><span class="p">,</span> <span class="nv">timingProfile</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-timingprofile">TimingProfile</a></span><span class="p">,</span> <span class="nv">options</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-maneuvernotificationtimingoptions">ManeuverNotificationTimingOptions</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">Bool</span></code></pre>
 </div>
 </div>
 <div>
@@ -2324,7 +2324,7 @@ for the same combination of transport mode and timing profile.</p>
 </div>
 <div>
 <h4>Return Value</h4>
-<p><code>True</code> if set successfully, <code>false</code> when options has invalid value, see <code><a href="sdk-for-ios-navigate-api-reference-..-structs-maneuvernotificationtimingoptions">ManeuverNotificationTimingOptions</a></code> for
+<p><code>True</code> if set successfully, <code>false</code> when options has invalid value, see <code><a href="sdk-for-ios-navigate-api-reference-structs-maneuvernotificationtimingoptions">ManeuverNotificationTimingOptions</a></code> for
 more details about options.</p>
 </div>
 </section>
@@ -2352,7 +2352,7 @@ warning type and the modified warning notification distances object.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getWarningNotificationDistances</span><span class="p">(</span><span class="nv">warningType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-warningtype">WarningType</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-warningnotificationdistances">WarningNotificationDistances</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getWarningNotificationDistances</span><span class="p">(</span><span class="nv">warningType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-warningtype">WarningType</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-warningnotificationdistances">WarningNotificationDistances</a></span></code></pre>
 </div>
 </div>
 <div>
@@ -2398,10 +2398,10 @@ warning type and the modified warning notification distances object.</p>
 <strong>Note:</strong> The warning notification distances are set for most warners.
 This method can’t be used to set the warning notification distance for the School Zone warning type because it is applicable regardless of the timing profile. Use <code>NavigatorInterface.school_zone_warning_options</code> instead.
 Attempting to set the warning notification distances for the school zone warner using the <code>NavigatorInterface.set_warning_notification_distances</code> method will fail and return <code>false</code>.
-Always use <code>SchoolZoneWarningOptions.warning_distance_in_meters</code> to set the warning notification distance for the school zone warner regardless of the <code><a href="sdk-for-ios-navigate-api-reference-..-enums-timingprofile">TimingProfile</a></code>.
+Always use <code>SchoolZoneWarningOptions.warning_distance_in_meters</code> to set the warning notification distance for the school zone warner regardless of the <code><a href="sdk-for-ios-navigate-api-reference-enums-timingprofile">TimingProfile</a></code>.
 If <code>NavigatorInterface.set_warning_notification_distances</code> could be used, this would allow for different distances to be set for each timing profile, which is undesirable.
 Attempting to set the warning notification distances for the traffic merge warner using the <code>NavigatorInterface.set_warning_notification_distances</code> method will fail and return <code>false</code>.
-Always use <code>TrafficMergeWarningOptions.warning_distance_in_meters</code> to set the warning notification distance for the traffic merge warner regardless of the <code><a href="sdk-for-ios-navigate-api-reference-..-enums-timingprofile">TimingProfile</a></code>.
+Always use <code>TrafficMergeWarningOptions.warning_distance_in_meters</code> to set the warning notification distance for the traffic merge warner regardless of the <code><a href="sdk-for-ios-navigate-api-reference-enums-timingprofile">TimingProfile</a></code>.
 Using the <code>NavigatorInterface.set_warning_notification_distances</code> method will fail and return <code>false</code> to avoid
 seting different distances on each timing profile since the traffic merge warning is only applicable on highways.</p>
 </div>
@@ -2410,7 +2410,7 @@ seting different distances on each timing profile since the traffic merge warnin
 <div class="language">
 <p class="aside-title">Swift</p>
 <pre class="highlight swift"><code><span class="kd">@discardableResult</span>
-<span class="kd">public</span> <span class="kd">func</span> <span class="nf">setWarningNotificationDistances</span><span class="p">(</span><span class="nv">warningType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-warningtype">WarningType</a></span><span class="p">,</span> <span class="nv">warningNotificationDistances</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-warningnotificationdistances">WarningNotificationDistances</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">Bool</span></code></pre>
+<span class="kd">public</span> <span class="kd">func</span> <span class="nf">setWarningNotificationDistances</span><span class="p">(</span><span class="nv">warningType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-warningtype">WarningType</a></span><span class="p">,</span> <span class="nv">warningNotificationDistances</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-warningnotificationdistances">WarningNotificationDistances</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">Bool</span></code></pre>
 </div>
 </div>
 <div>
@@ -2447,7 +2447,7 @@ seting different distances on each timing profile since the traffic merge warnin
 <div>
 <h4>Return Value</h4>
 <p><code>True</code> if set successfully, <code>false</code> when the warning_type is [WarningType.SCHOOL_ZONE] or the options have invalid values,
-see <code><a href="sdk-for-ios-navigate-api-reference-..-structs-warningnotificationdistances">WarningNotificationDistances</a></code> for more details about warning notification distances.</p>
+see <code><a href="sdk-for-ios-navigate-api-reference-structs-warningnotificationdistances">WarningNotificationDistances</a></code> for more details about warning notification distances.</p>
 </div>
 </section>
 </div>
@@ -2497,7 +2497,7 @@ The coordinates must be on the polyline.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">calculateRemainingDistanceInMeters</span><span class="p">(</span><span class="nv">coordinates</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-geocoordinates">GeoCoordinates</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">Int32</span><span class="p">?</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">calculateRemainingDistanceInMeters</span><span class="p">(</span><span class="nv">coordinates</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-geocoordinates">GeoCoordinates</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">Int32</span><span class="p">?</span></code></pre>
 </div>
 </div>
 <div>
@@ -2599,19 +2599,19 @@ Undocumented options can change their meaning without going through deprecation 
 <div class="pointer"></div>
 <div class="abstract">
 <p>Called each time a new location is available.
-In a navigation context while using the <code><a href="sdk-for-ios-navigate-api-reference-..-classes-navigator">Navigator</a></code> or <code>VisualNavigator</code>,
-it’s required to set the <code><a href="../Structs/Location.html#/s:7heresdk8LocationV4time10Foundation4DateVSgvp">Location.time</a></code> parameter for each <code><a href="sdk-for-ios-navigate-api-reference-..-structs-location">Location</a></code>
+In a navigation context while using the <code><a href="sdk-for-ios-navigate-api-reference-classes-navigator">Navigator</a></code> or <code>VisualNavigator</code>,
+it’s required to set the <code><a href="../Structs/Location.html#/s:7heresdk8LocationV4time10Foundation4DateVSgvp">Location.time</a></code> parameter for each <code><a href="sdk-for-ios-navigate-api-reference-structs-location">Location</a></code>
 object so that the HERE SDK can map-match the locations properly.
 If the <code><a href="../Structs/Location.html#/s:7heresdk8LocationV4time10Foundation4DateVSgvp">Location.time</a></code> parameter is missing, the location will be ignored.
 For navigation, it is also recommended to provide the <code>bearing</code> and <code>speed</code>
-parameters for each <code><a href="sdk-for-ios-navigate-api-reference-..-structs-location">Location</a></code> object.
+parameters for each <code><a href="sdk-for-ios-navigate-api-reference-structs-location">Location</a></code> object.
 Invoked on the main thread.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">onLocationUpdated</span><span class="p">(</span><span class="n">_</span> <span class="nv">location</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-location">Location</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">onLocationUpdated</span><span class="p">(</span><span class="n">_</span> <span class="nv">location</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-location">Location</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -2655,7 +2655,7 @@ Invoked on the main thread.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="kd">func</span> <span class="nf">availableLanguagesForManeuverNotifications</span><span class="p">()</span> <span class="o">-&gt;</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-languagecode">LanguageCode</a></span><span class="p">]</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="kd">func</span> <span class="nf">availableLanguagesForManeuverNotifications</span><span class="p">()</span> <span class="o">-&gt;</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-languagecode">LanguageCode</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 <div>
@@ -2695,7 +2695,7 @@ between rendering smoothness versus battery consumption.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">startRendering</span><span class="p">(</span><span class="nv">mapView</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-mapviewbase">MapViewBase</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">startRendering</span><span class="p">(</span><span class="nv">mapView</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-mapviewbase">MapViewBase</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -2760,18 +2760,18 @@ are no longer updated.</p>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Retrieves a dictionary of default route and maneuver arrow widths as a function of <code><a href="sdk-for-ios-navigate-api-reference-..-structs-mapmeasure">MapMeasure</a></code>s.</p>
+<p>Retrieves a dictionary of default route and maneuver arrow widths as a function of <code><a href="sdk-for-ios-navigate-api-reference-structs-mapmeasure">MapMeasure</a></code>s.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="kd">func</span> <span class="nf">defaultRouteManeuverArrowMeasureDependentWidths</span><span class="p">()</span> <span class="o">-&gt;</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-mapmeasure">MapMeasure</a></span> <span class="p">:</span> <span class="kt">Double</span><span class="p">]</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="kd">func</span> <span class="nf">defaultRouteManeuverArrowMeasureDependentWidths</span><span class="p">()</span> <span class="o">-&gt;</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-mapmeasure">MapMeasure</a></span> <span class="p">:</span> <span class="kt">Double</span><span class="p">]</span></code></pre>
 </div>
 </div>
 <div>
 <h4>Return Value</h4>
-<p>A dictionary of default route and maneuver arrow widths as a function of <code><a href="sdk-for-ios-navigate-api-reference-..-structs-mapmeasure">MapMeasure</a></code>s.</p>
+<p>A dictionary of default route and maneuver arrow widths as a function of <code><a href="sdk-for-ios-navigate-api-reference-structs-mapmeasure">MapMeasure</a></code>s.</p>
 </div>
 </section>
 </div>

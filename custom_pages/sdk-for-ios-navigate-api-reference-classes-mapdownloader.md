@@ -1,5 +1,5 @@
 ---
-title: "MapLoader / MapDownloader"
+title: "sdk-for-ios-navigate-api-reference-classes-mapdownloader"
 slug: "sdk-for-ios-navigate-api-reference-classes-mapdownloader"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-classes-mapdownloader"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-maploader">MapLoader</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-maploader">MapLoader</a>
+<img alt="" id="carat" src="/carat.png"/>
         MapDownloader Class Reference
       </p>
 </div>
@@ -41,7 +41,7 @@ search, routing, and other features without an active data connection.
 Users can query available regions, download them to disk, or delete them.
 An instance of this class can be created using <code><a href="../Classes/MapDownloader.html#/s:7heresdk13MapDownloaderC15fromEngineAsyncyyAA09SDKNativeE0C_yACctFZ">MapDownloader.fromEngineAsync(...)</a></code>.</p>
 <p>The storage path for downloaded maps can be specified via <code><a href="../Structs/SDKOptions.html#/s:7heresdk10SDKOptionsV24persistentMapStoragePathSSvp">SDKOptions.persistentMapStoragePath</a></code>.</p>
-<p>To control the type of content included in a map download, use <code><a href="sdk-for-ios-navigate-api-reference-..-structs-layerconfiguration">LayerConfiguration</a></code>.
+<p>To control the type of content included in a map download, use <code><a href="sdk-for-ios-navigate-api-reference-structs-layerconfiguration">LayerConfiguration</a></code>.
 Once applied, it affects both the map cache and offline maps.
 Satellite-based map schemes are not included in the downloaded region data.</p>
 <p><strong>Note:</strong>
@@ -49,7 +49,7 @@ During turn-by-turn navigation,
 while a map download or update is in progress, navigation may not function as expected,
 and the app may be blocked until the operation is completed.
 Ensure that all pending map operations are finished before starting navigation.
-This applies only to <code>MapDownloader</code> and <code><a href="sdk-for-ios-navigate-api-reference-..-classes-mapupdater">MapUpdater</a></code>. <code><a href="sdk-for-ios-navigate-api-reference-..-classes-routeprefetcher">RoutePrefetcher</a></code> operations are not affected.</p>
+This applies only to <code>MapDownloader</code> and <code><a href="sdk-for-ios-navigate-api-reference-classes-mapupdater">MapUpdater</a></code>. <code><a href="sdk-for-ios-navigate-api-reference-classes-routeprefetcher">RoutePrefetcher</a></code> operations are not affected.</p>
 </section>
 <section class="section task-group-section">
 <div class="task-group">
@@ -98,13 +98,13 @@ then it is clamped to a valid range:</p>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Gets a single instance of this class per provided <code><a href="sdk-for-ios-navigate-api-reference-..-classes-sdknativeengine">SDKNativeEngine</a></code>.</p>
+<p>Gets a single instance of this class per provided <code><a href="sdk-for-ios-navigate-api-reference-classes-sdknativeengine">SDKNativeEngine</a></code>.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="kd">func</span> <span class="nf">fromEngineAsync</span><span class="p">(</span><span class="n">_</span> <span class="nv">sdkEngine</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-sdknativeengine">SDKNativeEngine</a></span><span class="p">,</span> <span class="n">_</span> <span class="nv">mapDownloaderConstructionCallback</span><span class="p">:</span> <span class="kd">@escaping</span> <span class="kt"><a href="../MapLoader.html#/s:7heresdk31MapDownloaderConstructionHandlea">MapDownloaderConstructionHandle</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="kd">func</span> <span class="nf">fromEngineAsync</span><span class="p">(</span><span class="n">_</span> <span class="nv">sdkEngine</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-sdknativeengine">SDKNativeEngine</a></span><span class="p">,</span> <span class="n">_</span> <span class="nv">mapDownloaderConstructionCallback</span><span class="p">:</span> <span class="kd">@escaping</span> <span class="kt"><a href="../MapLoader.html#/s:7heresdk31MapDownloaderConstructionHandlea">MapDownloaderConstructionHandle</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -154,7 +154,7 @@ then it is clamped to a valid range:</p>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Performs an asynchronous request to fetch a list of <code><a href="sdk-for-ios-navigate-api-reference-..-structs-region">Region</a></code> objects
+<p>Performs an asynchronous request to fetch a list of <code><a href="sdk-for-ios-navigate-api-reference-structs-region">Region</a></code> objects
 for downloading map data in a separate request.</p>
 <p>The default language for <code><a href="../Structs/Region.html#/s:7heresdk6RegionV4nameSSvp">Region.name</a></code> is <code><a href="../Enums/LanguageCode.html#/s:7heresdk12LanguageCodeO4enUsyA2CmF">LanguageCode.enUs</a></code>.</p>
 </div>
@@ -163,7 +163,7 @@ for downloading map data in a separate request.</p>
 <div class="language">
 <p class="aside-title">Swift</p>
 <pre class="highlight swift"><code><span class="kd">@discardableResult</span>
-<span class="kd">public</span> <span class="kd">func</span> <span class="nf">getDownloadableRegions</span><span class="p">(</span><span class="nv">completion</span><span class="p">:</span> <span class="kd">@escaping</span> <span class="kt"><a href="../MapLoader.html#/s:7heresdk17CompletionHandlera">CompletionHandler</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-taskhandle">TaskHandle</a></span></code></pre>
+<span class="kd">public</span> <span class="kd">func</span> <span class="nf">getDownloadableRegions</span><span class="p">(</span><span class="nv">completion</span><span class="p">:</span> <span class="kd">@escaping</span> <span class="kt"><a href="../MapLoader.html#/s:7heresdk17CompletionHandlera">CompletionHandler</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-taskhandle">TaskHandle</a></span></code></pre>
 </div>
 </div>
 <div>
@@ -205,7 +205,7 @@ for downloading map data in a separate request.</p>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Performs an asynchronous request to fetch a list of <code><a href="sdk-for-ios-navigate-api-reference-..-structs-region">Region</a></code> objects with <code><a href="../Structs/Region.html#/s:7heresdk6RegionV4nameSSvp">Region.name</a></code>
+<p>Performs an asynchronous request to fetch a list of <code><a href="sdk-for-ios-navigate-api-reference-structs-region">Region</a></code> objects with <code><a href="../Structs/Region.html#/s:7heresdk6RegionV4nameSSvp">Region.name</a></code>
 in given <code>MapDownloader.getDownloadableRegions(LanguageCode, CompletionHandler).languageCode</code>, that can be used to download the actual map data in a separate request.</p>
 </div>
 <div class="declaration">
@@ -213,7 +213,7 @@ in given <code>MapDownloader.getDownloadableRegions(LanguageCode, CompletionHand
 <div class="language">
 <p class="aside-title">Swift</p>
 <pre class="highlight swift"><code><span class="kd">@discardableResult</span>
-<span class="kd">public</span> <span class="kd">func</span> <span class="nf">getDownloadableRegions</span><span class="p">(</span><span class="nv">languageCode</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-languagecode">LanguageCode</a></span><span class="p">,</span> <span class="nv">completion</span><span class="p">:</span> <span class="kd">@escaping</span> <span class="kt"><a href="../MapLoader.html#/s:7heresdk17CompletionHandlera">CompletionHandler</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-taskhandle">TaskHandle</a></span></code></pre>
+<span class="kd">public</span> <span class="kd">func</span> <span class="nf">getDownloadableRegions</span><span class="p">(</span><span class="nv">languageCode</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-languagecode">LanguageCode</a></span><span class="p">,</span> <span class="nv">completion</span><span class="p">:</span> <span class="kd">@escaping</span> <span class="kt"><a href="../MapLoader.html#/s:7heresdk17CompletionHandlera">CompletionHandler</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-taskhandle">TaskHandle</a></span></code></pre>
 </div>
 </div>
 <div>
@@ -268,16 +268,16 @@ in given <code>MapDownloader.getDownloadableRegions(LanguageCode, CompletionHand
 <div class="pointer"></div>
 <div class="abstract">
 <p>Performs an asynchronous request to download map data for regions specified
-by a list of <code><a href="sdk-for-ios-navigate-api-reference-..-structs-regionid">RegionId</a></code> instances.
+by a list of <code><a href="sdk-for-ios-navigate-api-reference-structs-regionid">RegionId</a></code> instances.
 <code>MapDownloader.downloadRegions(...).statusListener</code> receives notifications until
 <code>onDownloadRegionsComplete(...)</code> is called.
-The returned <code><a href="sdk-for-ios-navigate-api-reference-..-classes-mapdownloadertask">MapDownloaderTask</a></code> can be used to pause or resume the download
+The returned <code><a href="sdk-for-ios-navigate-api-reference-classes-mapdownloadertask">MapDownloaderTask</a></code> can be used to pause or resume the download
 using <code>MapDownloaderTask.pause(Bool)</code> or <code><a href="../Classes/MapDownloaderTask.html#/s:7heresdk17MapDownloaderTaskC6resumeyyF">MapDownloaderTask.resume(...)</a></code>.</p>
 <p>To cancel the request, call <code><a href="../Classes/MapDownloaderTask.html#/s:7heresdk17MapDownloaderTaskC6cancelyyF">MapDownloaderTask.cancel(...)</a></code> on the returned
-<code><a href="sdk-for-ios-navigate-api-reference-..-classes-mapdownloadertask">MapDownloaderTask</a></code> object. After cancellation,
+<code><a href="sdk-for-ios-navigate-api-reference-classes-mapdownloadertask">MapDownloaderTask</a></code> object. After cancellation,
 <code>onDownloadRegionsComplete(...)</code> is called
 with the error <code><a href="../Enums/MapLoaderError.html#/s:7heresdk14MapLoaderErrorO18operationCancelledyA2CmF">MapLoaderError.operationCancelled</a></code>.</p>
-<p><code><a href="sdk-for-ios-navigate-api-reference-..-classes-mapdownloadertask">MapDownloaderTask</a></code> remains operational until <code>onDownloadRegionsComplete(...)</code> is called.</p>
+<p><code><a href="sdk-for-ios-navigate-api-reference-classes-mapdownloadertask">MapDownloaderTask</a></code> remains operational until <code>onDownloadRegionsComplete(...)</code> is called.</p>
 <p>To get list of downloadable regions use <code>MapDownloader.getDownloadableRegions(LanguageCode, CompletionHandler)</code> API.</p>
 <p>Simultaneous downloads of the same region are not supported.
 If this occurs, <code>onDownloadRegionsComplete(...)</code>
@@ -285,7 +285,7 @@ is called with <code><a href="../Enums/MapLoaderError.html#/s:7heresdk14MapLoade
 while the previous one continues uninterrupted.</p>
 <p>If indexing is enabled through <code>OfflineSearchEngine.setIndexOptions</code>, then after
 the requested regions have been downloaded, the corresponding index will be created.
-The index is used by <code><a href="sdk-for-ios-navigate-api-reference-..-classes-offlinesearchengine">OfflineSearchEngine</a></code> to find better results.
+The index is used by <code><a href="sdk-for-ios-navigate-api-reference-classes-offlinesearchengine">OfflineSearchEngine</a></code> to find better results.
 Note: Indexing is a beta feature, so there could be a few bugs and unexpected behaviors.</p>
 <p>To control list of map content features for region download, use <code><a href="../Structs/LayerConfiguration.html#/s:7heresdk18LayerConfigurationV15enabledFeaturesSayAC7FeatureOGvp">LayerConfiguration.enabledFeatures</a></code>.</p>
 <p><br/>
@@ -301,7 +301,7 @@ region three times before giving up. A connection will be timed out after one mi
 <div class="language">
 <p class="aside-title">Swift</p>
 <pre class="highlight swift"><code><span class="kd">@discardableResult</span>
-<span class="kd">public</span> <span class="kd">func</span> <span class="nf">downloadRegions</span><span class="p">(</span><span class="nv">regions</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-regionid">RegionId</a></span><span class="p">],</span> <span class="nv">statusListener</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-downloadregionsstatuslistener">DownloadRegionsStatusListener</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-mapdownloadertask">MapDownloaderTask</a></span></code></pre>
+<span class="kd">public</span> <span class="kd">func</span> <span class="nf">downloadRegions</span><span class="p">(</span><span class="nv">regions</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-regionid">RegionId</a></span><span class="p">],</span> <span class="nv">statusListener</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-downloadregionsstatuslistener">DownloadRegionsStatusListener</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-mapdownloadertask">MapDownloaderTask</a></span></code></pre>
 </div>
 </div>
 <div>
@@ -326,18 +326,18 @@ region three times before giving up. A connection will be timed out after one mi
 <div class="abstract">
 <p>Performs an asynchronous request to download map data for area specified by a GeoPolygon.
 <code>MapDownloader.downloadArea(...).statusListener</code> is receiving notifications until <code>onDownloadRegionsComplete(...)</code> is called.
-Returned <code><a href="sdk-for-ios-navigate-api-reference-..-classes-mapdownloadertask">MapDownloaderTask</a></code> should be used to pause or resume started download, by invoking
+Returned <code><a href="sdk-for-ios-navigate-api-reference-classes-mapdownloadertask">MapDownloaderTask</a></code> should be used to pause or resume started download, by invoking
 <code>MapDownloaderTask.pause(Bool)</code> or <code><a href="../Classes/MapDownloaderTask.html#/s:7heresdk17MapDownloaderTaskC6resumeyyF">MapDownloaderTask.resume(...)</a></code>.
-Request can be cancelled by calling <code><a href="../Classes/MapDownloaderTask.html#/s:7heresdk17MapDownloaderTaskC6cancelyyF">MapDownloaderTask.cancel(...)</a></code> on returned <code><a href="sdk-for-ios-navigate-api-reference-..-classes-mapdownloadertask">MapDownloaderTask</a></code> object, afterwards
+Request can be cancelled by calling <code><a href="../Classes/MapDownloaderTask.html#/s:7heresdk17MapDownloaderTaskC6cancelyyF">MapDownloaderTask.cancel(...)</a></code> on returned <code><a href="sdk-for-ios-navigate-api-reference-classes-mapdownloadertask">MapDownloaderTask</a></code> object, afterwards
 <code>onDownloadRegionsComplete(...)</code> is called with error <code><a href="../Enums/MapLoaderError.html#/s:7heresdk14MapLoaderErrorO18operationCancelledyA2CmF">MapLoaderError.operationCancelled</a></code>.</p>
-<p><code><a href="sdk-for-ios-navigate-api-reference-..-classes-mapdownloadertask">MapDownloaderTask</a></code> remains operational until <code>onDownloadRegionsComplete(...)</code> is called.</p>
-<p>Downloaded area will be associated to a unique id that will be reported via <code><a href="sdk-for-ios-navigate-api-reference-..-protocols-downloadregionsstatuslistener">DownloadRegionsStatusListener</a></code>.</p>
+<p><code><a href="sdk-for-ios-navigate-api-reference-classes-mapdownloadertask">MapDownloaderTask</a></code> remains operational until <code>onDownloadRegionsComplete(...)</code> is called.</p>
+<p>Downloaded area will be associated to a unique id that will be reported via <code><a href="sdk-for-ios-navigate-api-reference-protocols-downloadregionsstatuslistener">DownloadRegionsStatusListener</a></code>.</p>
 <p>Simultaneous download of the same region twice is not supported. When such condition occurs then
 <code>onDownloadRegionsComplete(...)</code> is called with error <code><a href="../Enums/MapLoaderError.html#/s:7heresdk14MapLoaderErrorO19serviceAccessFailedyA2CmF">MapLoaderError.serviceAccessFailed</a></code>
 for a new request, while previous one continues uninterrupted.</p>
 <p>If indexing is enabled through <code>OfflineSearchEngine.setIndexOptions</code>, then after
 the requested regions have been downloaded, the corresponding index will be created.
-The index is used by <code><a href="sdk-for-ios-navigate-api-reference-..-classes-offlinesearchengine">OfflineSearchEngine</a></code> to find better results.
+The index is used by <code><a href="sdk-for-ios-navigate-api-reference-classes-offlinesearchengine">OfflineSearchEngine</a></code> to find better results.
 Note: Indexing is a beta feature, so there could be a few bugs and unexpected behaviors.</p>
 <p>To control list of map content features for area download, use <code><a href="../Structs/LayerConfiguration.html#/s:7heresdk18LayerConfigurationV15enabledFeaturesSayAC7FeatureOGvp">LayerConfiguration.enabledFeatures</a></code>.</p>
 <p><br/>
@@ -355,7 +355,7 @@ state of previous download operation.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">downloadArea</span><span class="p">(</span><span class="nv">area</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-geopolygon">GeoPolygon</a></span><span class="p">,</span> <span class="nv">statusListener</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-downloadregionsstatuslistener">DownloadRegionsStatusListener</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-mapdownloadertask">MapDownloaderTask</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">downloadArea</span><span class="p">(</span><span class="nv">area</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-geopolygon">GeoPolygon</a></span><span class="p">,</span> <span class="nv">statusListener</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-downloadregionsstatuslistener">DownloadRegionsStatusListener</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-mapdownloadertask">MapDownloaderTask</a></span></code></pre>
 </div>
 </div>
 <div>
@@ -378,21 +378,21 @@ state of previous download operation.</p>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Performs an asynchronous operation to delete map data for regions specified by a list of <code><a href="sdk-for-ios-navigate-api-reference-..-structs-regionid">RegionId</a></code>.
+<p>Performs an asynchronous operation to delete map data for regions specified by a list of <code><a href="sdk-for-ios-navigate-api-reference-structs-regionid">RegionId</a></code>.
 Note: Deleting a region when there is a pending download returns error
 <code><a href="../Enums/MapLoaderError.html#/s:7heresdk14MapLoaderErrorO08internalD0yA2CmF">MapLoaderError.internalError</a></code>. Also, deleting a region when there is an ongoing download returns
 error <code><a href="../Enums/MapLoaderError.html#/s:7heresdk14MapLoaderErrorO15parallelRequestyA2CmF">MapLoaderError.parallelRequest</a></code>.</p>
 <p>If indexing is enabled through <code>OfflineSearchEngine.setIndexOptions</code>, then after
 the requested regions have been deleted, the index over remaining regions will be rebuilt,
 so that entries related to deleted regions are removed.
-The index is used by <code><a href="sdk-for-ios-navigate-api-reference-..-classes-offlinesearchengine">OfflineSearchEngine</a></code> to find better results.
+The index is used by <code><a href="sdk-for-ios-navigate-api-reference-classes-offlinesearchengine">OfflineSearchEngine</a></code> to find better results.
 Note: Indexing is a beta feature, so there could be a few bugs and unexpected behaviors.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">deleteRegions</span><span class="p">(</span><span class="nv">regions</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-regionid">RegionId</a></span><span class="p">],</span> <span class="nv">completion</span><span class="p">:</span> <span class="kd">@escaping</span> <span class="kt"><a href="../MapLoader.html#/s:7heresdk30DeleteRegionsCompletionHandlera">DeleteRegionsCompletionHandler</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">deleteRegions</span><span class="p">(</span><span class="nv">regions</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-regionid">RegionId</a></span><span class="p">],</span> <span class="nv">completion</span><span class="p">:</span> <span class="kd">@escaping</span> <span class="kt"><a href="../MapLoader.html#/s:7heresdk30DeleteRegionsCompletionHandlera">DeleteRegionsCompletionHandler</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -508,7 +508,7 @@ set to the <code><a href="../Enums/InstalledRegionStatus.html#/s:7heresdk21Insta
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getInstalledRegions</span><span class="p">()</span> <span class="k">throws</span> <span class="o">-&gt;</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-installedregion">InstalledRegion</a></span><span class="p">]</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getInstalledRegions</span><span class="p">()</span> <span class="k">throws</span> <span class="o">-&gt;</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-installedregion">InstalledRegion</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 <div>
@@ -536,7 +536,7 @@ It is not recommended to download or to upload map data while an app is running 
 background. However, it can happen, that an app gets shut down during an ongoing
 operation, for example, due to a crash. In such a case, some or all of the downloaded map data
 may be in a corrupted state.
-Refer to the <code><a href="sdk-for-ios-navigate-api-reference-..-enums-persistentmapstatus">PersistentMapStatus</a></code> for exact healing procedure for specific
+Refer to the <code><a href="sdk-for-ios-navigate-api-reference-enums-persistentmapstatus">PersistentMapStatus</a></code> for exact healing procedure for specific
 status.
 Note: This value will not change during the lifetime of an app.</p>
 </div>
@@ -544,7 +544,7 @@ Note: This value will not change during the lifetime of an app.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getInitialPersistentMapStatus</span><span class="p">()</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-persistentmapstatus">PersistentMapStatus</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getInitialPersistentMapStatus</span><span class="p">()</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-persistentmapstatus">PersistentMapStatus</a></span></code></pre>
 </div>
 </div>
 <div>
@@ -570,7 +570,7 @@ Note: This value will not change during the lifetime of an app.</p>
 <p>Tries to repair already downloaded regions that are in a corrupted state (see <code><a href="../Classes/MapDownloader.html#/s:7heresdk13MapDownloaderC020getInitialPersistentB6StatusAA0fbG0OyF">MapDownloader.getInitialPersistentMapStatus(...)</a></code>).</p>
 <p>If indexing is enabled through <code>OfflineSearchEngine.setIndexOptions</code>, then index will be
 rebuilt if existing index does not match with the installed map regions after this operation.
-The index is used by <code><a href="sdk-for-ios-navigate-api-reference-..-classes-offlinesearchengine">OfflineSearchEngine</a></code> to find better results.
+The index is used by <code><a href="sdk-for-ios-navigate-api-reference-classes-offlinesearchengine">OfflineSearchEngine</a></code> to find better results.
 Note: Indexing is a beta feature, so there could be a few bugs and unexpected behaviors.</p>
 </div>
 <div class="declaration">
@@ -659,7 +659,7 @@ This includes also data that is currently being downloaded.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getOfflineMapsStorageSizeInBytes</span><span class="p">(</span><span class="nv">completion</span><span class="p">:</span> <span class="kd">@escaping</span> <span class="kt"><a href="../MapLoader.html#/s:7heresdk25OfflineStorageSizeHandlera">OfflineStorageSizeHandler</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-taskhandle">TaskHandle</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getOfflineMapsStorageSizeInBytes</span><span class="p">(</span><span class="nv">completion</span><span class="p">:</span> <span class="kd">@escaping</span> <span class="kt"><a href="../MapLoader.html#/s:7heresdk25OfflineStorageSizeHandlera">OfflineStorageSizeHandler</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-taskhandle">TaskHandle</a></span></code></pre>
 </div>
 </div>
 <div>

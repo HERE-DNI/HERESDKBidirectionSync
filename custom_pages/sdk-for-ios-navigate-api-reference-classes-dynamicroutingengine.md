@@ -1,5 +1,5 @@
 ---
-title: "Navigation / DynamicRoutingEngine"
+title: "sdk-for-ios-navigate-api-reference-classes-dynamicroutingengine"
 slug: "sdk-for-ios-navigate-api-reference-classes-dynamicroutingengine"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-classes-dynamicroutingengine"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-navigation">Navigation</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-navigation">Navigation</a>
+<img alt="" id="carat" src="/carat.png"/>
         DynamicRoutingEngine Class Reference
       </p>
 </div>
@@ -39,15 +39,15 @@ slug: "sdk-for-ios-navigate-api-reference-classes-dynamicroutingengine"
 to find routes with less traffic and therefore an earlier remaining estimated time of arrival.</p>
 <p><code>DynamicRoutingEngine</code> polls the HERE routing backend periodically to find the best new route out
 of a given initial route.
-For initial route calculation it is recommended to use the <code><a href="sdk-for-ios-navigate-api-reference-..-classes-routingengine">RoutingEngine</a></code>
+For initial route calculation it is recommended to use the <code><a href="sdk-for-ios-navigate-api-reference-classes-routingengine">RoutingEngine</a></code>
 as it already requests traffic-optimized routes.</p>
 <p>When a better route is found, it is recommended to follow these steps to set the new route:</p>
 <ol>
 <li>Stop the <code>DynamicRoutingEngine</code>.</li>
-<li>Update the currently active <code><a href="sdk-for-ios-navigate-api-reference-..-classes-navigator">Navigator</a></code>instance with the newly found route.</li>
+<li>Update the currently active <code><a href="sdk-for-ios-navigate-api-reference-classes-navigator">Navigator</a></code>instance with the newly found route.</li>
 <li>Restart the <code>DynamicRoutingEngine</code>. This should be done outside of the <code>onBetterRouteFound()</code> callback.</li>
 </ol>
-<p>For both <code>DynamicRoutingEngine</code> and <code><a href="sdk-for-ios-navigate-api-reference-..-classes-routingengine">RoutingEngine</a></code>,
+<p>For both <code>DynamicRoutingEngine</code> and <code><a href="sdk-for-ios-navigate-api-reference-classes-routingengine">RoutingEngine</a></code>,
 the resulting routes are optimized based on speed flow changes such as traffic jams,
 street closures or road accidents.
 To get the best result, it is recommended to not specify the
@@ -78,7 +78,7 @@ triggered by <code><a href="../Classes/DynamicRoutingEngine.html#/s:7heresdk20Dy
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">typealias</span> <span class="kt">StartException</span> <span class="o">=</span> <span class="kt">DynamicRoutingEngine</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-dynamicroutingengine-starterror">StartError</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">typealias</span> <span class="kt">StartException</span> <span class="o">=</span> <span class="kt">DynamicRoutingEngine</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-dynamicroutingengine-starterror">StartError</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -108,7 +108,7 @@ triggered by <code><a href="../Classes/DynamicRoutingEngine.html#/s:7heresdk20Dy
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">options</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-dynamicroutingengineoptions">DynamicRoutingEngineOptions</a></span><span class="p">?)</span> <span class="k">throws</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">options</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-dynamicroutingengineoptions">DynamicRoutingEngineOptions</a></span><span class="p">?)</span> <span class="k">throws</span></code></pre>
 </div>
 </div>
 <div>
@@ -157,7 +157,7 @@ triggered by <code><a href="../Classes/DynamicRoutingEngine.html#/s:7heresdk20Dy
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">_</span> <span class="nv">sdkEngine</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-sdknativeengine">SDKNativeEngine</a></span><span class="p">,</span> <span class="nv">options</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-dynamicroutingengineoptions">DynamicRoutingEngineOptions</a></span><span class="p">?)</span> <span class="k">throws</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">_</span> <span class="nv">sdkEngine</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-sdknativeengine">SDKNativeEngine</a></span><span class="p">,</span> <span class="nv">options</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-dynamicroutingengineoptions">DynamicRoutingEngineOptions</a></span><span class="p">?)</span> <span class="k">throws</span></code></pre>
 </div>
 </div>
 <div>
@@ -208,14 +208,14 @@ triggered by <code><a href="../Classes/DynamicRoutingEngine.html#/s:7heresdk20Dy
 <div class="pointer"></div>
 <div class="abstract">
 <p>Start error</p>
-<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-..-classes-dynamicroutingengine-starterror">See more</a>
+<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-classes-dynamicroutingengine-starterror">See more</a>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
 <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">StartError</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
-<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-dynamicroutingengine">DynamicRoutingEngine</a></span><span class="o">.</span><span class="kt">StartError</span> <span class="p">:</span> <span class="kt">Error</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-dynamicroutingengine">DynamicRoutingEngine</a></span><span class="o">.</span><span class="kt">StartError</span> <span class="p">:</span> <span class="kt">Error</span></code></pre>
 </div>
 </div>
 </section>
@@ -248,7 +248,7 @@ Therefore, it is not necessary to stop the engine before starting it again.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">start</span><span class="p">(</span><span class="nv">route</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-route">Route</a></span><span class="p">,</span> <span class="nv">delegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-dynamicroutingdelegate">DynamicRoutingDelegate</a></span><span class="p">)</span> <span class="k">throws</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">start</span><span class="p">(</span><span class="nv">route</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-route">Route</a></span><span class="p">,</span> <span class="nv">delegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-dynamicroutingdelegate">DynamicRoutingDelegate</a></span><span class="p">)</span> <span class="k">throws</span></code></pre>
 </div>
 </div>
 <div>
@@ -263,7 +263,7 @@ Therefore, it is not necessary to stop the engine before starting it again.</p>
 </td>
 <td>
 <div>
-<p>The route to be refreshed. The route must contain a <code><a href="sdk-for-ios-navigate-api-reference-..-structs-routehandle">RouteHandle</a></code>,
+<p>The route to be refreshed. The route must contain a <code><a href="sdk-for-ios-navigate-api-reference-structs-routehandle">RouteHandle</a></code>,
 therefore the route must have been requested with
 <code><a href="../Structs/RouteOptions.html#/s:7heresdk12RouteOptionsV06enableB6HandleSbvp">RouteOptions.enableRouteHandle</a></code> set to <code>true</code>.
 The information to calculate new routes will be extracted from the provided route parameter.
@@ -304,7 +304,7 @@ consider to use one of the overloaded methods instead.</p>
 <div class="pointer"></div>
 <div class="abstract">
 <p>Starts polling the HERE backend services to find a better route,
-as defined by the <code><a href="sdk-for-ios-navigate-api-reference-..-structs-dynamicroutingengineoptions">DynamicRoutingEngineOptions</a></code>.</p>
+as defined by the <code><a href="sdk-for-ios-navigate-api-reference-structs-dynamicroutingengineoptions">DynamicRoutingEngineOptions</a></code>.</p>
 <p><strong>Note:</strong> The engine will be internally stopped, if it was started before.
 Therefore, it is not necessary to stop the engine before starting it again.</p>
 <div class="aside aside-throws">
@@ -317,8 +317,8 @@ Therefore, it is not necessary to stop the engine before starting it again.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">@available(*, deprecated, message: "Will be removed in v4.28.0. Use the <code>start(﹚</code> method with RoutingOptions parameter instead.")</span>
-<span class="kd">public</span> <span class="kd">func</span> <span class="nf">start</span><span class="p">(</span><span class="nv">routeHandle</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-routehandle">RouteHandle</a></span><span class="p">,</span> <span class="nv">waypoints</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-waypoint">Waypoint</a></span><span class="p">],</span> <span class="nv">refreshRouteOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-refreshrouteoptions">RefreshRouteOptions</a></span><span class="p">,</span> <span class="nv">delegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-dynamicroutingdelegate">DynamicRoutingDelegate</a></span><span class="p">)</span> <span class="k">throws</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">@available(*, deprecated, message: "Will be removed in v4.28.0. Use the start(﹚ method with RoutingOptions parameter instead.")</span>
+<span class="kd">public</span> <span class="kd">func</span> <span class="nf">start</span><span class="p">(</span><span class="nv">routeHandle</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-routehandle">RouteHandle</a></span><span class="p">,</span> <span class="nv">waypoints</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-waypoint">Waypoint</a></span><span class="p">],</span> <span class="nv">refreshRouteOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-refreshrouteoptions">RefreshRouteOptions</a></span><span class="p">,</span> <span class="nv">delegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-dynamicroutingdelegate">DynamicRoutingDelegate</a></span><span class="p">)</span> <span class="k">throws</span></code></pre>
 </div>
 </div>
 <div>
@@ -348,8 +348,8 @@ Therefore, it is not necessary to stop the engine before starting it again.</p>
 <p>Allows to specify detailed information on the waypoints of the route.
 This parameter can be useful, when additional information needs to be
 specified besides the coordinates - as the coordinates can be retrieved
-from the contained <code><a href="sdk-for-ios-navigate-api-reference-..-structs-routeplace">RoutePlace</a></code> that are already contained in
-the <code><a href="sdk-for-ios-navigate-api-reference-..-structs-routehandle">RouteHandle</a></code> parameter.</p>
+from the contained <code><a href="sdk-for-ios-navigate-api-reference-structs-routeplace">RoutePlace</a></code> that are already contained in
+the <code><a href="sdk-for-ios-navigate-api-reference-structs-routehandle">RouteHandle</a></code> parameter.</p>
 </div>
 </td>
 </tr>
@@ -397,7 +397,7 @@ the <code><a href="sdk-for-ios-navigate-api-reference-..-structs-routehandle">Ro
 <div class="pointer"></div>
 <div class="abstract">
 <p>Starts polling the HERE backend services to find a better route,
-as defined by the <code><a href="sdk-for-ios-navigate-api-reference-..-structs-dynamicroutingengineoptions">DynamicRoutingEngineOptions</a></code>.</p>
+as defined by the <code><a href="sdk-for-ios-navigate-api-reference-structs-dynamicroutingengineoptions">DynamicRoutingEngineOptions</a></code>.</p>
 <p><strong>Note:</strong> The engine will be internally stopped, if it was started before.
 Therefore, it is not necessary to stop the engine before starting it again.</p>
 <div class="aside aside-throws">
@@ -410,7 +410,7 @@ Therefore, it is not necessary to stop the engine before starting it again.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">start</span><span class="p">(</span><span class="nv">routeHandle</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-routehandle">RouteHandle</a></span><span class="p">,</span> <span class="nv">waypoints</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-waypoint">Waypoint</a></span><span class="p">],</span> <span class="nv">routingOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-routingoptions">RoutingOptions</a></span><span class="p">,</span> <span class="nv">delegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-dynamicroutingdelegate">DynamicRoutingDelegate</a></span><span class="p">)</span> <span class="k">throws</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">start</span><span class="p">(</span><span class="nv">routeHandle</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-routehandle">RouteHandle</a></span><span class="p">,</span> <span class="nv">waypoints</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-waypoint">Waypoint</a></span><span class="p">],</span> <span class="nv">routingOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-routingoptions">RoutingOptions</a></span><span class="p">,</span> <span class="nv">delegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-dynamicroutingdelegate">DynamicRoutingDelegate</a></span><span class="p">)</span> <span class="k">throws</span></code></pre>
 </div>
 </div>
 <div>
@@ -440,8 +440,8 @@ Therefore, it is not necessary to stop the engine before starting it again.</p>
 <p>Allows to specify detailed information on the waypoints of the route.
 This parameter can be useful, when additional information needs to be
 specified besides the coordinates - as the coordinates can be retrieved
-from the contained <code><a href="sdk-for-ios-navigate-api-reference-..-structs-routeplace">RoutePlace</a></code> that are already contained in
-the <code><a href="sdk-for-ios-navigate-api-reference-..-structs-routehandle">RouteHandle</a></code> parameter.</p>
+from the contained <code><a href="sdk-for-ios-navigate-api-reference-structs-routeplace">RoutePlace</a></code> that are already contained in
+the <code><a href="sdk-for-ios-navigate-api-reference-structs-routehandle">RouteHandle</a></code> parameter.</p>
 </div>
 </td>
 </tr>
@@ -519,13 +519,13 @@ Therefore, it is recommended to stop the engine when the destination was reached
 <code><a href="../Structs/DynamicRoutingEngineOptions.html#/s:7heresdk27DynamicRoutingEngineOptionsV12pollIntervalSdvp">DynamicRoutingEngineOptions.pollInterval</a></code> is reached and a new route is requested.
 If an immediate route update is needed, consider to use the RoutingEngine instead.
 All subsequently calculated routes used for the ETA calculation will start from this location.
-The location needs to lie on the route or a <code><a href="sdk-for-ios-navigate-api-reference-..-enums-routingerror">RoutingError</a></code> will be issued.</p>
+The location needs to lie on the route or a <code><a href="sdk-for-ios-navigate-api-reference-enums-routingerror">RoutingError</a></code> will be issued.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">updateCurrentLocation</span><span class="p">(</span><span class="nv">mapMatchedLocation</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-mapmatchedlocation">MapMatchedLocation</a></span><span class="p">,</span> <span class="nv">sectionIndex</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">updateCurrentLocation</span><span class="p">(</span><span class="nv">mapMatchedLocation</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-mapmatchedlocation">MapMatchedLocation</a></span><span class="p">,</span> <span class="nv">sectionIndex</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>

@@ -1,5 +1,5 @@
 ---
-title: "Navigation / RealisticViewWarning"
+title: "sdk-for-ios-navigate-api-reference-structs-realisticviewwarning"
 slug: "sdk-for-ios-navigate-api-reference-structs-realisticviewwarning"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-structs-realisticviewwarning"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-navigation">Navigation</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-navigation">Navigation</a>
+<img alt="" id="carat" src="/carat.png"/>
         RealisticViewWarning Structure Reference
       </p>
 </div>
@@ -40,7 +40,7 @@ will be provided with the junction view and the signpost representations. For <c
 with value <code><a href="../Enums/DistanceType.html#/s:7heresdk12DistanceTypeO6passedyA2CmF">DistanceType.passed</a></code>, the <code><a href="../Structs/RealisticViewWarning.html#/s:7heresdk20RealisticViewWarningV09realisticC11VectorImageAA0bcfG0VSgvp">RealisticViewWarning.realisticViewVectorImage</a></code> object will be null.
 Use <code>RealisticViewWarningListener</code> to get notifications about the realistic views of the upcoming junctions.</p>
 <p>Realistic view notifications require an online connection in order to function properly, or that the
-junction or signpost map layer data is cached, installed or preloaded as part of a <code><a href="sdk-for-ios-navigate-api-reference-..-structs-region">Region</a></code>.
+junction or signpost map layer data is cached, installed or preloaded as part of a <code><a href="sdk-for-ios-navigate-api-reference-structs-region">Region</a></code>.
 This can be enabled via feature configurations.</p>
 </section>
 <section class="section task-group-section">
@@ -121,7 +121,7 @@ If this property is not <code>nil</code>, then <code><a href="../Structs/Realist
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">realisticViewVectorImage</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-realisticviewvectorimage">RealisticViewVectorImage</a></span><span class="p">?</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">realisticViewVectorImage</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-realisticviewvectorimage">RealisticViewVectorImage</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -151,7 +151,7 @@ only for Japan, but in the future, more countries might support this type of rea
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">realisticViewRasterImage</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-realisticviewrasterimage">RealisticViewRasterImage</a></span><span class="p">?</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">realisticViewRasterImage</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-realisticviewrasterimage">RealisticViewRasterImage</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -178,7 +178,7 @@ position on the route, <code><a href="../Enums/DistanceType.html#/s:7heresdk12Di
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">distanceType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-distancetype">DistanceType</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">distanceType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-distancetype">DistanceType</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -228,7 +228,7 @@ position on the route, <code><a href="../Enums/DistanceType.html#/s:7heresdk12Di
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">id</span><span class="p">:</span> <span class="kt">Int32</span> <span class="o">=</span> <span class="mi">0</span><span class="p">,</span> <span class="nv">distanceToRealisticViewInMeters</span><span class="p">:</span> <span class="kt">Double</span><span class="p">,</span> <span class="nv">realisticViewVectorImage</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-realisticviewvectorimage">RealisticViewVectorImage</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">realisticViewRasterImage</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-realisticviewrasterimage">RealisticViewRasterImage</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">distanceType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-distancetype">DistanceType</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">id</span><span class="p">:</span> <span class="kt">Int32</span> <span class="o">=</span> <span class="mi">0</span><span class="p">,</span> <span class="nv">distanceToRealisticViewInMeters</span><span class="p">:</span> <span class="kt">Double</span><span class="p">,</span> <span class="nv">realisticViewVectorImage</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-realisticviewvectorimage">RealisticViewVectorImage</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">realisticViewRasterImage</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-realisticviewrasterimage">RealisticViewRasterImage</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">distanceType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-distancetype">DistanceType</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>

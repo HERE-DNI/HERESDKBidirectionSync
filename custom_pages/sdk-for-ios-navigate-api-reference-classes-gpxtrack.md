@@ -1,5 +1,5 @@
 ---
-title: "Navigation / GPXTrack"
+title: "sdk-for-ios-navigate-api-reference-classes-gpxtrack"
 slug: "sdk-for-ios-navigate-api-reference-classes-gpxtrack"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-classes-gpxtrack"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-navigation">Navigation</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-navigation">Navigation</a>
+<img alt="" id="carat" src="/carat.png"/>
         GPXTrack Class Reference
       </p>
 </div>
@@ -35,8 +35,8 @@ slug: "sdk-for-ios-navigate-api-reference-classes-gpxtrack"
 <pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">GPXTrack</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
-<p>Single track from the <code><a href="sdk-for-ios-navigate-api-reference-..-classes-gpxdocument">GPXDocument</a></code>. Can be used as an input to the <code><a href="sdk-for-ios-navigate-api-reference-..-classes-locationsimulator">LocationSimulator</a></code>.
-Can be created and modified via <code><a href="sdk-for-ios-navigate-api-reference-..-classes-gpxtrackwriter">GPXTrackWriter</a></code>.</p>
+<p>Single track from the <code><a href="sdk-for-ios-navigate-api-reference-classes-gpxdocument">GPXDocument</a></code>. Can be used as an input to the <code><a href="sdk-for-ios-navigate-api-reference-classes-locationsimulator">LocationSimulator</a></code>.
+Can be created and modified via <code><a href="sdk-for-ios-navigate-api-reference-classes-gpxtrackwriter">GPXTrackWriter</a></code>.</p>
 </section>
 <section class="section task-group-section">
 <div class="task-group">
@@ -106,19 +106,19 @@ Can be overridden by the user. If nothing was set before, defaults to an empty s
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Provides a list of all stored track points converted to a <code><a href="sdk-for-ios-navigate-api-reference-..-structs-location">Location</a></code> object.
+<p>Provides a list of all stored track points converted to a <code><a href="sdk-for-ios-navigate-api-reference-structs-location">Location</a></code> object.
 See <a href="https://www.topografix.com/GPX/1/1/#type_wptType">type_wptType</a> for more details on the <code>wptType</code> format that is used for a track point.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getLocations</span><span class="p">()</span> <span class="o">-&gt;</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-location">Location</a></span><span class="p">]</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getLocations</span><span class="p">()</span> <span class="o">-&gt;</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-location">Location</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 <div>
 <h4>Return Value</h4>
-<p>List of <code><a href="sdk-for-ios-navigate-api-reference-..-structs-location">Location</a></code> objects.</p>
+<p>List of <code><a href="sdk-for-ios-navigate-api-reference-structs-location">Location</a></code> objects.</p>
 </div>
 </section>
 </div>

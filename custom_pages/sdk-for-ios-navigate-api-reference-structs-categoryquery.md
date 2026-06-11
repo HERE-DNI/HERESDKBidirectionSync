@@ -1,5 +1,5 @@
 ---
-title: "Search / CategoryQuery"
+title: "sdk-for-ios-navigate-api-reference-structs-categoryquery"
 slug: "sdk-for-ios-navigate-api-reference-structs-categoryquery"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-structs-categoryquery"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-search">Search</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-search">Search</a>
+<img alt="" id="carat" src="/carat.png"/>
         CategoryQuery Structure Reference
       </p>
 </div>
@@ -59,7 +59,7 @@ but none are in <code><a href="../Structs/CategoryQuery.html#/s:7heresdk13Catego
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">categories</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-placecategory">PlaceCategory</a></span><span class="p">]</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">categories</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-placecategory">PlaceCategory</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -89,7 +89,7 @@ This is especially useful for excluding specific subcategories from the main cat
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">excludeCategories</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-placecategory">PlaceCategory</a></span><span class="p">]</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">excludeCategories</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-placecategory">PlaceCategory</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -116,7 +116,7 @@ but none are in <code><a href="../Structs/CategoryQuery.html#/s:7heresdk13Catego
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">includeChains</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-placechain">PlaceChain</a></span><span class="p">]</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">includeChains</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-placechain">PlaceChain</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -145,7 +145,7 @@ In short, an exclusion will always win over an inclusion.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">excludeChains</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-placechain">PlaceChain</a></span><span class="p">]</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">excludeChains</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-placechain">PlaceChain</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -172,7 +172,7 @@ but none are in <code><a href="../Structs/CategoryQuery.html#/s:7heresdk13Catego
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">includeFoodTypes</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-placefoodtype">PlaceFoodType</a></span><span class="p">]</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">includeFoodTypes</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-placefoodtype">PlaceFoodType</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -201,7 +201,7 @@ In short, an exclusion will always win over an inclusion.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">excludeFoodTypes</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-placefoodtype">PlaceFoodType</a></span><span class="p">]</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">excludeFoodTypes</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-placefoodtype">PlaceFoodType</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -255,7 +255,7 @@ Consists of fuel and truck options.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">placeFilter</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-placefilter">PlaceFilter</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">placeFilter</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-placefilter">PlaceFilter</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -280,7 +280,7 @@ Consists of fuel and truck options.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">area</span><span class="p">:</span> <span class="kt">CategoryQuery</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-categoryquery-area">Area</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">area</span><span class="p">:</span> <span class="kt">CategoryQuery</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-categoryquery-area">Area</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -305,7 +305,7 @@ Consists of fuel and truck options.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">_</span> <span class="nv">category</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-placecategory">PlaceCategory</a></span><span class="p">,</span> <span class="nv">area</span><span class="p">:</span> <span class="kt">CategoryQuery</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-categoryquery-area">Area</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">_</span> <span class="nv">category</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-placecategory">PlaceCategory</a></span><span class="p">,</span> <span class="nv">area</span><span class="p">:</span> <span class="kt">CategoryQuery</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-categoryquery-area">Area</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -361,7 +361,7 @@ Consists of fuel and truck options.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">_</span> <span class="nv">categories</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-placecategory">PlaceCategory</a></span><span class="p">],</span> <span class="nv">area</span><span class="p">:</span> <span class="kt">CategoryQuery</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-categoryquery-area">Area</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">_</span> <span class="nv">categories</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-placecategory">PlaceCategory</a></span><span class="p">],</span> <span class="nv">area</span><span class="p">:</span> <span class="kt">CategoryQuery</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-categoryquery-area">Area</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -417,7 +417,7 @@ Consists of fuel and truck options.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">_</span> <span class="nv">category</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-placecategory">PlaceCategory</a></span><span class="p">,</span> <span class="nv">filter</span><span class="p">:</span> <span class="kt">String</span><span class="p">,</span> <span class="nv">area</span><span class="p">:</span> <span class="kt">CategoryQuery</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-categoryquery-area">Area</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">_</span> <span class="nv">category</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-placecategory">PlaceCategory</a></span><span class="p">,</span> <span class="nv">filter</span><span class="p">:</span> <span class="kt">String</span><span class="p">,</span> <span class="nv">area</span><span class="p">:</span> <span class="kt">CategoryQuery</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-categoryquery-area">Area</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -486,7 +486,7 @@ Results with a partial match are included in the response.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">_</span> <span class="nv">categories</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-placecategory">PlaceCategory</a></span><span class="p">],</span> <span class="nv">filter</span><span class="p">:</span> <span class="kt">String</span><span class="p">,</span> <span class="nv">area</span><span class="p">:</span> <span class="kt">CategoryQuery</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-categoryquery-area">Area</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">_</span> <span class="nv">categories</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-placecategory">PlaceCategory</a></span><span class="p">],</span> <span class="nv">filter</span><span class="p">:</span> <span class="kt">String</span><span class="p">,</span> <span class="nv">area</span><span class="p">:</span> <span class="kt">CategoryQuery</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-categoryquery-area">Area</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -550,7 +550,7 @@ Results with a partial match are included in the response.</p>
 <div class="pointer"></div>
 <div class="abstract">
 <p>Area to perform search on.</p>
-<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-..-structs-categoryquery-area">See more</a>
+<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-structs-categoryquery-area">See more</a>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>

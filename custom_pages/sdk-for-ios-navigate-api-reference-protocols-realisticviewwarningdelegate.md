@@ -1,5 +1,5 @@
 ---
-title: "Navigation / RealisticViewWarningDelegate"
+title: "sdk-for-ios-navigate-api-reference-protocols-realisticviewwarningdelegate"
 slug: "sdk-for-ios-navigate-api-reference-protocols-realisticviewwarningdelegate"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-realisticviewwarningdelegate
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-navigation">Navigation</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-navigation">Navigation</a>
+<img alt="" id="carat" src="/carat.png"/>
         RealisticViewWarningDelegate Protocol Reference
       </p>
 </div>
@@ -35,8 +35,8 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-realisticviewwarningdelegate
 </div>
 <p>This protocol
 should be implemented in order to receive realistic view warnings.</p>
-<p>A <code><a href="sdk-for-ios-navigate-api-reference-..-structs-realisticviewwarning">RealisticViewWarning</a></code> will not be given until the previous warning of that type has been passed.
-For example, a route with <code><a href="sdk-for-ios-navigate-api-reference-..-structs-realisticviewwarning">RealisticViewWarning</a></code> 120 meters and <code><a href="sdk-for-ios-navigate-api-reference-..-structs-realisticviewwarning">RealisticViewWarning</a></code> 160 meters ahead,
+<p>A <code><a href="sdk-for-ios-navigate-api-reference-structs-realisticviewwarning">RealisticViewWarning</a></code> will not be given until the previous warning of that type has been passed.
+For example, a route with <code><a href="sdk-for-ios-navigate-api-reference-structs-realisticviewwarning">RealisticViewWarning</a></code> 120 meters and <code><a href="sdk-for-ios-navigate-api-reference-structs-realisticviewwarning">RealisticViewWarning</a></code> 160 meters ahead,
 the first <code><a href="../Structs/RealisticViewWarning.html#/s:7heresdk20RealisticViewWarningV010distanceTobC8InMetersSdvp">RealisticViewWarning.distanceToRealisticViewInMeters</a></code> is 120 meters
 and the next <code><a href="../Structs/RealisticViewWarning.html#/s:7heresdk20RealisticViewWarningV010distanceTobC8InMetersSdvp">RealisticViewWarning.distanceToRealisticViewInMeters</a></code> is then 40 meters,
 since that is the distance between the first and second warnings.</p>
@@ -63,7 +63,7 @@ since that is the distance between the first and second warnings.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">onRealisticViewWarningUpdated</span><span class="p">(</span><span class="n">_</span> <span class="nv">realisticViewWarning</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-realisticviewwarning">RealisticViewWarning</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">onRealisticViewWarningUpdated</span><span class="p">(</span><span class="n">_</span> <span class="nv">realisticViewWarning</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-realisticviewwarning">RealisticViewWarning</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>

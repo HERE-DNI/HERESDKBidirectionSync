@@ -1,5 +1,5 @@
 ---
-title: "VenueTopology / AccessCharacteristics"
+title: "sdk-for-ios-navigate-api-reference-classes-venuetopology-accesscharacteristics"
 slug: "sdk-for-ios-navigate-api-reference-classes-venuetopology-accesscharacteristics"
 ---
 
@@ -15,12 +15,12 @@ slug: "sdk-for-ios-navigate-api-reference-classes-venuetopology-accesscharacteri
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-..-index">heresdk</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-..-venues">Venues</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-..-classes-venuetopology">VenueTopology</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-venues">Venues</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-classes-venuetopology">VenueTopology</a>
+<img alt="" id="carat" src="/carat.png"/>
         AccessCharacteristics Class Reference
       </p>
 </div>
@@ -33,13 +33,13 @@ slug: "sdk-for-ios-navigate-api-reference-classes-venuetopology-accesscharacteri
 <div class="declaration">
 <div class="language">
 <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">AccessCharacteristics</span></code></pre>
-<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-classes-venuetopology">VenueTopology</a></span><span class="o">.</span><span class="kt">AccessCharacteristics</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
-<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-classes-venuetopology">VenueTopology</a></span><span class="o">.</span><span class="kt">AccessCharacteristics</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-venuetopology">VenueTopology</a></span><span class="o">.</span><span class="kt">AccessCharacteristics</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-venuetopology">VenueTopology</a></span><span class="o">.</span><span class="kt">AccessCharacteristics</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Represents the access characreisticas of a topology.
-Access characteristics is a combination of <code><a href="sdk-for-ios-navigate-api-reference-..-..-enums-venuetransportmode">VenueTransportMode</a></code> which is suppoted on this topology
-and the <code><a href="sdk-for-ios-navigate-api-reference-..-..-classes-venuetopology-topologydirectionality">VenueTopology.TopologyDirectionality</a></code> towards which it is allowed.</p>
+Access characteristics is a combination of <code><a href="sdk-for-ios-navigate-api-reference-enums-venuetransportmode">VenueTransportMode</a></code> which is suppoted on this topology
+and the <code><a href="sdk-for-ios-navigate-api-reference-classes-venuetopology-topologydirectionality">VenueTopology.TopologyDirectionality</a></code> towards which it is allowed.</p>
 </section>
 <section class="section task-group-section">
 <div class="task-group">
@@ -63,7 +63,7 @@ and the <code><a href="sdk-for-ios-navigate-api-reference-..-..-classes-venuetop
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">mode</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-enums-venuetransportmode">VenueTransportMode</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">mode</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-venuetransportmode">VenueTransportMode</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -88,7 +88,7 @@ and the <code><a href="sdk-for-ios-navigate-api-reference-..-..-classes-venuetop
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">direction</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-classes-venuetopology">VenueTopology</a></span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-classes-venuetopology-topologydirectionality">TopologyDirectionality</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">direction</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-venuetopology">VenueTopology</a></span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-venuetopology-topologydirectionality">TopologyDirectionality</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>

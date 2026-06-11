@@ -1,5 +1,5 @@
 ---
-title: "TextQuery / Area"
+title: "sdk-for-ios-navigate-api-reference-structs-textquery-area"
 slug: "sdk-for-ios-navigate-api-reference-structs-textquery-area"
 ---
 
@@ -15,12 +15,12 @@ slug: "sdk-for-ios-navigate-api-reference-structs-textquery-area"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-..-index">heresdk</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-..-search">Search</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-..-structs-textquery">TextQuery</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-search">Search</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-structs-textquery">TextQuery</a>
+<img alt="" id="carat" src="/carat.png"/>
         Area Structure Reference
       </p>
 </div>
@@ -61,7 +61,7 @@ otherwise it will result in <code><a href="../../Enums/SearchError.html#/s:7here
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">let</span> <span class="nv">areaCenter</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-structs-geocoordinates">GeoCoordinates</a></span><span class="p">?</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">let</span> <span class="nv">areaCenter</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-geocoordinates">GeoCoordinates</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -83,13 +83,13 @@ otherwise it will result in <code><a href="../../Enums/SearchError.html#/s:7here
 <p>Geographic rectangle area in which to provide the most relevant places.
 For Offline Search, one of <code><a href="../../Structs/TextQuery/Area.html#/s:7heresdk9TextQueryV4AreaV10areaCenterAA14GeoCoordinatesVSgvp">TextQuery.Area.areaCenter</a></code>, <code>TextQuery.Area.boxArea</code> and <code><a href="../../Structs/TextQuery/Area.html#/s:7heresdk9TextQueryV4AreaV06circleD0AA9GeoCircleVSgvp">TextQuery.Area.circleArea</a></code> has to be set,
 otherwise it will result in <code><a href="../../Enums/SearchError.html#/s:7heresdk11SearchErrorO11invalidAreayA2CmF">SearchError.invalidArea</a></code>.
-Also, for Offline Search, search in a given <code><a href="sdk-for-ios-navigate-api-reference-..-..-structs-geobox">GeoBox</a></code> restricts the results to only POIs.</p>
+Also, for Offline Search, search in a given <code><a href="sdk-for-ios-navigate-api-reference-structs-geobox">GeoBox</a></code> restricts the results to only POIs.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">let</span> <span class="nv">boxArea</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-structs-geobox">GeoBox</a></span><span class="p">?</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">let</span> <span class="nv">boxArea</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-geobox">GeoBox</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -111,13 +111,13 @@ Also, for Offline Search, search in a given <code><a href="sdk-for-ios-navigate-
 <p>Geographic circle area in which to provide the most relevant places.
 For Offline Search, one of <code><a href="../../Structs/TextQuery/Area.html#/s:7heresdk9TextQueryV4AreaV10areaCenterAA14GeoCoordinatesVSgvp">TextQuery.Area.areaCenter</a></code>, <code><a href="../../Structs/TextQuery/Area.html#/s:7heresdk9TextQueryV4AreaV03boxD0AA6GeoBoxVSgvp">TextQuery.Area.boxArea</a></code> and <code>TextQuery.Area.circleArea</code> has to be set,
 otherwise it will result in <code><a href="../../Enums/SearchError.html#/s:7heresdk11SearchErrorO11invalidAreayA2CmF">SearchError.invalidArea</a></code>.
-Also, for Offline Search, search in a given <code><a href="sdk-for-ios-navigate-api-reference-..-..-structs-geocircle">GeoCircle</a></code> restricts the results to only POIs.</p>
+Also, for Offline Search, search in a given <code><a href="sdk-for-ios-navigate-api-reference-structs-geocircle">GeoCircle</a></code> restricts the results to only POIs.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">let</span> <span class="nv">circleArea</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-structs-geocircle">GeoCircle</a></span><span class="p">?</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">let</span> <span class="nv">circleArea</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-geocircle">GeoCircle</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -150,13 +150,13 @@ Milan (Italy) and Konstanz (Germany) will have the far away part removed due to 
 <p>When <code>TextQuery.Area.corridorArea</code> is provided,
 <code><a href="../../Structs/TextQuery/Area.html#/s:7heresdk9TextQueryV4AreaV10areaCenterAA14GeoCoordinatesVSgvp">TextQuery.Area.areaCenter</a></code> has to be within it, otherwise
 <code><a href="../../Structs/TextQuery/Area.html#/s:7heresdk9TextQueryV4AreaV10areaCenterAA14GeoCoordinatesVSgvp">TextQuery.Area.areaCenter</a></code> is ignored when searching.</p>
-<p>For Offline Search, search in a given <code><a href="sdk-for-ios-navigate-api-reference-..-..-structs-geocorridor">GeoCorridor</a></code> restricts the results to only POIs.</p>
+<p>For Offline Search, search in a given <code><a href="sdk-for-ios-navigate-api-reference-structs-geocorridor">GeoCorridor</a></code> restricts the results to only POIs.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">let</span> <span class="nv">corridorArea</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-structs-geocorridor">GeoCorridor</a></span><span class="p">?</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">let</span> <span class="nv">corridorArea</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-geocorridor">GeoCorridor</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -176,13 +176,13 @@ Milan (Italy) and Konstanz (Germany) will have the far away part removed due to 
 <div class="pointer"></div>
 <div class="abstract">
 <p>A list of countries that the query is applied in.
-Not supported in <code><a href="sdk-for-ios-navigate-api-reference-..-..-classes-offlinesearchengine">OfflineSearchEngine</a></code> (which is only available for the Navigate license).</p>
+Not supported in <code><a href="sdk-for-ios-navigate-api-reference-classes-offlinesearchengine">OfflineSearchEngine</a></code> (which is only available for the Navigate license).</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">let</span> <span class="nv">countries</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-enums-countrycode">CountryCode</a></span><span class="p">]</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">let</span> <span class="nv">countries</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-countrycode">CountryCode</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -207,7 +207,7 @@ Not supported in <code><a href="sdk-for-ios-navigate-api-reference-..-..-classes
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">areaCenter</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-structs-geocoordinates">GeoCoordinates</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">areaCenter</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-geocoordinates">GeoCoordinates</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -246,13 +246,13 @@ Not supported in <code><a href="sdk-for-ios-navigate-api-reference-..-..-classes
 <div class="pointer"></div>
 <div class="abstract">
 <p>Constructs a new instance of this class from provided parameters.
-For Offline Search, search in a given <code><a href="sdk-for-ios-navigate-api-reference-..-..-structs-geobox">GeoBox</a></code> restricts the results to only POIs.</p>
+For Offline Search, search in a given <code><a href="sdk-for-ios-navigate-api-reference-structs-geobox">GeoBox</a></code> restricts the results to only POIs.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">inBox</span> <span class="nv">boxArea</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-structs-geobox">GeoBox</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">inBox</span> <span class="nv">boxArea</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-geobox">GeoBox</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -291,13 +291,13 @@ For Offline Search, search in a given <code><a href="sdk-for-ios-navigate-api-re
 <div class="pointer"></div>
 <div class="abstract">
 <p>Constructs a new instance of this class from provided parameters.
-For Offline Search, search in a given <code><a href="sdk-for-ios-navigate-api-reference-..-..-structs-geocircle">GeoCircle</a></code> restricts the results to only POIs.</p>
+For Offline Search, search in a given <code><a href="sdk-for-ios-navigate-api-reference-structs-geocircle">GeoCircle</a></code> restricts the results to only POIs.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">inCircle</span> <span class="nv">circleArea</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-structs-geocircle">GeoCircle</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">inCircle</span> <span class="nv">circleArea</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-geocircle">GeoCircle</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -347,13 +347,13 @@ For example: Route between New York and Chicago with half-width 800 will be adde
 without removing the far away part, but route of the same length (around 360km) between
 Milan (Italy) and Konstanz (Germany) will have the far away part removed due to its complexity.</p>
 <p>The area center has to be within the corridor, otherwise it is ignored.</p>
-<p>For Offline Search, search in a given <code><a href="sdk-for-ios-navigate-api-reference-..-..-structs-geocorridor">GeoCorridor</a></code> restricts the results to only POIs.</p>
+<p>For Offline Search, search in a given <code><a href="sdk-for-ios-navigate-api-reference-structs-geocorridor">GeoCorridor</a></code> restricts the results to only POIs.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">inCorridor</span> <span class="nv">corridorArea</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-structs-geocorridor">GeoCorridor</a></span><span class="p">,</span> <span class="n">near</span> <span class="nv">areaCenter</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-structs-geocoordinates">GeoCoordinates</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">inCorridor</span> <span class="nv">corridorArea</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-geocorridor">GeoCorridor</a></span><span class="p">,</span> <span class="n">near</span> <span class="nv">areaCenter</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-geocoordinates">GeoCoordinates</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -410,7 +410,7 @@ The given list of countries and center define the area that will be used in the 
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">inCountries</span> <span class="nv">countries</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-enums-countrycode">CountryCode</a></span><span class="p">],</span> <span class="n">near</span> <span class="nv">areaCenter</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-structs-geocoordinates">GeoCoordinates</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">inCountries</span> <span class="nv">countries</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-countrycode">CountryCode</a></span><span class="p">],</span> <span class="n">near</span> <span class="nv">areaCenter</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-geocoordinates">GeoCoordinates</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>

@@ -1,5 +1,5 @@
 ---
-title: "Navigation / DangerZoneWarningDelegate"
+title: "sdk-for-ios-navigate-api-reference-protocols-dangerzonewarningdelegate"
 slug: "sdk-for-ios-navigate-api-reference-protocols-dangerzonewarningdelegate"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-dangerzonewarningdelegate"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-navigation">Navigation</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-navigation">Navigation</a>
+<img alt="" id="carat" src="/carat.png"/>
         DangerZoneWarningDelegate Protocol Reference
       </p>
 </div>
@@ -57,7 +57,7 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-dangerzonewarningdelegate"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">onDangerZoneWarningsUpdated</span><span class="p">(</span><span class="n">_</span> <span class="nv">dangerZonesWarning</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-dangerzonewarning">DangerZoneWarning</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">onDangerZoneWarningsUpdated</span><span class="p">(</span><span class="n">_</span> <span class="nv">dangerZonesWarning</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-dangerzonewarning">DangerZoneWarning</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>

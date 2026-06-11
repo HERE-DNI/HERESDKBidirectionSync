@@ -1,5 +1,5 @@
 ---
-title: "Routing / BatterySpecifications"
+title: "sdk-for-ios-navigate-api-reference-structs-batteryspecifications"
 slug: "sdk-for-ios-navigate-api-reference-structs-batteryspecifications"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-structs-batteryspecifications"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-routing">Routing</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-routing">Routing</a>
+<img alt="" id="carat" src="/carat.png"/>
         BatterySpecifications Structure Reference
       </p>
 </div>
@@ -55,7 +55,7 @@ slug: "sdk-for-ios-navigate-api-reference-structs-batteryspecifications"
 It must be positive.
 Defaults to 0.
 <strong>Note:</strong>
-For a user-planned <code><a href="sdk-for-ios-navigate-api-reference-..-structs-chargingstop">ChargingStop</a></code>, this parameter is also required.
+For a user-planned <code><a href="sdk-for-ios-navigate-api-reference-structs-chargingstop">ChargingStop</a></code>, this parameter is also required.
 If not set greater than 0, the route calculation will fail as an invalid parameter error.</p>
 </div>
 <div class="declaration">
@@ -87,7 +87,7 @@ It must be non-negative and less than or equal to the value of
 otherwise the <code>BatterySpecifications</code> instance is considered invalid.
 Defaults to 0.
 <strong>Note:</strong>
-For a user-planned <code><a href="sdk-for-ios-navigate-api-reference-..-structs-chargingstop">ChargingStop</a></code>, this parameter is also required.
+For a user-planned <code><a href="sdk-for-ios-navigate-api-reference-structs-chargingstop">ChargingStop</a></code>, this parameter is also required.
 If not set greater than 0, the route calculation will fail as an an invalid parameter error.</p>
 </div>
 <div class="declaration">
@@ -154,7 +154,7 @@ otherwise the <code>BatterySpecifications</code> instance is considered invalid.
 The charging curve is considered piecewise constant instead of being interpolated.
 Defaults to an empty container.
 <strong>Note:</strong>
-For a user-planned <code><a href="sdk-for-ios-navigate-api-reference-..-structs-chargingstop">ChargingStop</a></code>, this parameter is also required.
+For a user-planned <code><a href="sdk-for-ios-navigate-api-reference-structs-chargingstop">ChargingStop</a></code>, this parameter is also required.
 If one or more values are not set, the route calculation will fail as an invalid parameter error.</p>
 </div>
 <div class="declaration">
@@ -189,7 +189,7 @@ Defaults to an empty container.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">connectorTypes</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-chargingconnectortype">ChargingConnectorType</a></span><span class="p">]</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">connectorTypes</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-chargingconnectortype">ChargingConnectorType</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -387,7 +387,7 @@ Defaults to 0 seconds.</p>
 <li>The charging station connector’s maximum supply voltage is less than 800 V.</li>
 <li><code><a href="../Structs/BatterySpecifications.html#/s:7heresdk21BatterySpecificationsV25maxChargingVoltageInVoltsSdSgvp">BatterySpecifications.maxChargingVoltageInVolts</a></code> is greater than or equal to 800 V.
 The provided value must be greater than or equal to 0. By default, it is not set.
-<strong>Note:</strong> The feature is not supported by the <code><a href="sdk-for-ios-navigate-api-reference-..-classes-offlineroutingengine">OfflineRoutingEngine</a></code>.</li>
+<strong>Note:</strong> The feature is not supported by the <code><a href="sdk-for-ios-navigate-api-reference-classes-offlineroutingengine">OfflineRoutingEngine</a></code>.</li>
 </ul>
 </div>
 <div class="declaration">
@@ -419,7 +419,7 @@ The provided value must be greater than or equal to 0. By default, it is not set
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">totalCapacityInKilowattHours</span><span class="p">:</span> <span class="kt">Double</span> <span class="o">=</span> <span class="mf">0.0</span><span class="p">,</span> <span class="nv">initialChargeInKilowattHours</span><span class="p">:</span> <span class="kt">Double</span> <span class="o">=</span> <span class="mf">0.0</span><span class="p">,</span> <span class="nv">targetChargeInKilowattHours</span><span class="p">:</span> <span class="kt">Double</span> <span class="o">=</span> <span class="mf">0.0</span><span class="p">,</span> <span class="nv">chargingCurve</span><span class="p">:</span> <span class="p">[</span><span class="kt">Double</span> <span class="p">:</span> <span class="kt">Double</span><span class="p">]</span> <span class="o">=</span> <span class="p">[:],</span> <span class="nv">connectorTypes</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-chargingconnectortype">ChargingConnectorType</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">minChargeAtChargingStationInKilowattHours</span><span class="p">:</span> <span class="kt">Double</span> <span class="o">=</span> <span class="mf">0.0</span><span class="p">,</span> <span class="nv">minChargeAtFirstChargingStationInKilowattHours</span><span class="p">:</span> <span class="kt">Double</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">minChargeAtDestinationInKilowattHours</span><span class="p">:</span> <span class="kt">Double</span> <span class="o">=</span> <span class="mf">0.0</span><span class="p">,</span> <span class="nv">maxChargingVoltageInVolts</span><span class="p">:</span> <span class="kt">Double</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">maxChargingCurrentInAmperes</span><span class="p">:</span> <span class="kt">Double</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">chargingSetupDuration</span><span class="p">:</span> <span class="kt">TimeInterval</span> <span class="o">=</span> <span class="mi">0</span><span class="p">,</span> <span class="nv">maxPowerAtLowVoltageInKilowatts</span><span class="p">:</span> <span class="kt">Double</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">totalCapacityInKilowattHours</span><span class="p">:</span> <span class="kt">Double</span> <span class="o">=</span> <span class="mf">0.0</span><span class="p">,</span> <span class="nv">initialChargeInKilowattHours</span><span class="p">:</span> <span class="kt">Double</span> <span class="o">=</span> <span class="mf">0.0</span><span class="p">,</span> <span class="nv">targetChargeInKilowattHours</span><span class="p">:</span> <span class="kt">Double</span> <span class="o">=</span> <span class="mf">0.0</span><span class="p">,</span> <span class="nv">chargingCurve</span><span class="p">:</span> <span class="p">[</span><span class="kt">Double</span> <span class="p">:</span> <span class="kt">Double</span><span class="p">]</span> <span class="o">=</span> <span class="p">[:],</span> <span class="nv">connectorTypes</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-chargingconnectortype">ChargingConnectorType</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">minChargeAtChargingStationInKilowattHours</span><span class="p">:</span> <span class="kt">Double</span> <span class="o">=</span> <span class="mf">0.0</span><span class="p">,</span> <span class="nv">minChargeAtFirstChargingStationInKilowattHours</span><span class="p">:</span> <span class="kt">Double</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">minChargeAtDestinationInKilowattHours</span><span class="p">:</span> <span class="kt">Double</span> <span class="o">=</span> <span class="mf">0.0</span><span class="p">,</span> <span class="nv">maxChargingVoltageInVolts</span><span class="p">:</span> <span class="kt">Double</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">maxChargingCurrentInAmperes</span><span class="p">:</span> <span class="kt">Double</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">chargingSetupDuration</span><span class="p">:</span> <span class="kt">TimeInterval</span> <span class="o">=</span> <span class="mi">0</span><span class="p">,</span> <span class="nv">maxPowerAtLowVoltageInKilowatts</span><span class="p">:</span> <span class="kt">Double</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>

@@ -1,5 +1,5 @@
 ---
-title: "Navigation / ManeuverProgress"
+title: "sdk-for-ios-navigate-api-reference-structs-maneuverprogress"
 slug: "sdk-for-ios-navigate-api-reference-structs-maneuverprogress"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-structs-maneuverprogress"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-navigation">Navigation</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-navigation">Navigation</a>
+<img alt="" id="carat" src="/carat.png"/>
         ManeuverProgress Structure Reference
       </p>
 </div>
@@ -33,7 +33,7 @@ slug: "sdk-for-ios-navigate-api-reference-structs-maneuverprogress"
 <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">ManeuverProgress</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
-<p>Indicates a user’s progress to a <code><a href="sdk-for-ios-navigate-api-reference-..-classes-maneuver">Maneuver</a></code>.</p>
+<p>Indicates a user’s progress to a <code><a href="sdk-for-ios-navigate-api-reference-classes-maneuver">Maneuver</a></code>.</p>
 </section>
 <section class="section task-group-section">
 <div class="task-group">
@@ -51,7 +51,7 @@ slug: "sdk-for-ios-navigate-api-reference-structs-maneuverprogress"
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Index of the <code><a href="sdk-for-ios-navigate-api-reference-..-classes-maneuver">Maneuver</a></code> being traversed along the route.
+<p>Index of the <code><a href="sdk-for-ios-navigate-api-reference-classes-maneuver">Maneuver</a></code> being traversed along the route.
 Defaults to 0.</p>
 </div>
 <div class="declaration">
@@ -77,7 +77,7 @@ Defaults to 0.</p>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>The distance in meters from current location until the <code><a href="sdk-for-ios-navigate-api-reference-..-classes-maneuver">Maneuver</a></code>.
+<p>The distance in meters from current location until the <code><a href="sdk-for-ios-navigate-api-reference-classes-maneuver">Maneuver</a></code>.
 Defaults to 0.</p>
 </div>
 <div class="declaration">
@@ -103,8 +103,8 @@ Defaults to 0.</p>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>The estimated time in seconds for traversing the <code><a href="sdk-for-ios-navigate-api-reference-..-classes-section">Section</a></code>
-from current location until the <code><a href="sdk-for-ios-navigate-api-reference-..-classes-maneuver">Maneuver</a></code> is reached,
+<p>The estimated time in seconds for traversing the <code><a href="sdk-for-ios-navigate-api-reference-classes-section">Section</a></code>
+from current location until the <code><a href="sdk-for-ios-navigate-api-reference-classes-maneuver">Maneuver</a></code> is reached,
 including traffic delays if available.
 Defaults to 0 seconds.</p>
 </div>

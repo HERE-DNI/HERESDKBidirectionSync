@@ -1,5 +1,5 @@
 ---
-title: "Maps / MaterialReflectivity"
+title: "sdk-for-ios-navigate-api-reference-structs-materialreflectivity"
 slug: "sdk-for-ios-navigate-api-reference-structs-materialreflectivity"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-structs-materialreflectivity"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-maps">Maps</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-maps">Maps</a>
+<img alt="" id="carat" src="/carat.png"/>
         MaterialReflectivity Structure Reference
       </p>
 </div>
@@ -34,7 +34,7 @@ slug: "sdk-for-ios-navigate-api-reference-structs-materialreflectivity"
 </div>
 </div>
 <p>Material reflectivity properties are used to enable per‑pixel lighting for supported map objects
-(e.g. <code><a href="sdk-for-ios-navigate-api-reference-..-classes-locationindicator">LocationIndicator</a></code> markers and their halo).</p>
+(e.g. <code><a href="sdk-for-ios-navigate-api-reference-classes-locationindicator">LocationIndicator</a></code> markers and their halo).</p>
 <h2 class="heading" id="lighting-off-vs-on">Lighting OFF vs ON</h2>
 <p>By default (when no MaterialReflectivity is assigned) objects are rendered “unlit” (emissive):
 their texture / color appears at a constant brightness, unaffected by scene lights. Assigning a

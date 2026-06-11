@@ -1,5 +1,5 @@
 ---
-title: "Navigation / EnvironmentalZoneWarningDelegate"
+title: "sdk-for-ios-navigate-api-reference-protocols-environmentalzonewarningdelegate"
 slug: "sdk-for-ios-navigate-api-reference-protocols-environmentalzonewarningdelegate"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-environmentalzonewarningdele
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-navigation">Navigation</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-navigation">Navigation</a>
+<img alt="" id="carat" src="/carat.png"/>
         EnvironmentalZoneWarningDelegate Protocol Reference
       </p>
 </div>
@@ -57,7 +57,7 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-environmentalzonewarningdele
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">onEnvironmentalZoneWarningsUpdated</span><span class="p">(</span><span class="n">_</span> <span class="nv">environmentalZonesWarning</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-environmentalzonewarning">EnvironmentalZoneWarning</a></span><span class="p">])</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">onEnvironmentalZoneWarningsUpdated</span><span class="p">(</span><span class="n">_</span> <span class="nv">environmentalZonesWarning</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-environmentalzonewarning">EnvironmentalZoneWarning</a></span><span class="p">])</span></code></pre>
 </div>
 </div>
 <div>

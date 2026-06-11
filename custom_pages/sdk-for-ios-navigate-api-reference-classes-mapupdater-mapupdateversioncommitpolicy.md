@@ -1,5 +1,5 @@
 ---
-title: "MapUpdater / MapUpdateVersionCommitPolicy"
+title: "sdk-for-ios-navigate-api-reference-classes-mapupdater-mapupdateversioncommitpolicy"
 slug: "sdk-for-ios-navigate-api-reference-classes-mapupdater-mapupdateversioncommitpolicy"
 ---
 
@@ -15,12 +15,12 @@ slug: "sdk-for-ios-navigate-api-reference-classes-mapupdater-mapupdateversioncom
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-..-index">heresdk</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-..-maploader">MapLoader</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-..-classes-mapupdater">MapUpdater</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-maploader">MapLoader</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-classes-mapupdater">MapUpdater</a>
+<img alt="" id="carat" src="/carat.png"/>
         MapUpdateVersionCommitPolicy Enumeration Reference
       </p>
 </div>
@@ -71,7 +71,7 @@ For example, if Germany is requested to be updated, then the cache and the persi
 storage will be updated as soon as any contained subregion such as Berlin or Brandenburg
 has been fully downloaded. The previous data for a region will be removed once
 that specific region has been updated successfully.
-However, the <code><a href="sdk-for-ios-navigate-api-reference-..-..-classes-mapversionhandle">MapVersionHandle</a></code> will be updated once the first region has
+However, the <code><a href="sdk-for-ios-navigate-api-reference-classes-mapversionhandle">MapVersionHandle</a></code> will be updated once the first region has
 been installed. This inconsistency will be gone, once the update process completes.
 In case of errors, or an aborted update process, <code><a href="../../MapLoader.html#/s:7heresdk26CatalogsUpdateInfoCallbacka">CatalogsUpdateInfoCallback</a></code>
 indicates that still an update is available until the process was successfully repeated.</p>

@@ -1,5 +1,5 @@
 ---
-title: "Routing / PostActionDelegate"
+title: "sdk-for-ios-navigate-api-reference-protocols-postactiondelegate"
 slug: "sdk-for-ios-navigate-api-reference-protocols-postactiondelegate"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-postactiondelegate"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-routing">Routing</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-routing">Routing</a>
+<img alt="" id="carat" src="/carat.png"/>
         PostActionDelegate Protocol Reference
       </p>
 </div>
@@ -52,14 +52,14 @@ receive post action notifications.</p>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Called whenever <code><a href="sdk-for-ios-navigate-api-reference-..-structs-postaction">PostAction</a></code>‘s are available. Note that
-<code><a href="sdk-for-ios-navigate-api-reference-..-structs-postaction">PostAction</a></code>’s are performed after the arrival at the end of a section.</p>
+<p>Called whenever <code><a href="sdk-for-ios-navigate-api-reference-structs-postaction">PostAction</a></code>‘s are available. Note that
+<code><a href="sdk-for-ios-navigate-api-reference-structs-postaction">PostAction</a></code>’s are performed after the arrival at the end of a section.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">onPostActions</span><span class="p">(</span><span class="n">_</span> <span class="nv">postActions</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-postaction">PostAction</a></span><span class="p">])</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">onPostActions</span><span class="p">(</span><span class="n">_</span> <span class="nv">postActions</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-postaction">PostAction</a></span><span class="p">])</span></code></pre>
 </div>
 </div>
 <div>

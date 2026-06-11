@@ -1,5 +1,5 @@
 ---
-title: "MapData / AdministrativeRulesLoader"
+title: "sdk-for-ios-navigate-api-reference-classes-administrativerulesloader"
 slug: "sdk-for-ios-navigate-api-reference-classes-administrativerulesloader"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-classes-administrativerulesloader"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-mapdata">MapData</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-mapdata">MapData</a>
+<img alt="" id="carat" src="/carat.png"/>
         AdministrativeRulesLoader Class Reference
       </p>
 </div>
@@ -100,7 +100,7 @@ behaviors. Related APIs may change for new releases without a deprecation proces
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">sdkEngine</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-sdknativeengine">SDKNativeEngine</a></span><span class="p">)</span> <span class="k">throws</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">sdkEngine</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-sdknativeengine">SDKNativeEngine</a></span><span class="p">)</span> <span class="k">throws</span></code></pre>
 </div>
 </div>
 <div>
@@ -153,7 +153,7 @@ states, the list will be empty.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getStateCodes</span><span class="p">(</span><span class="nv">countryCode</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-countrycode">CountryCode</a></span><span class="p">)</span> <span class="k">throws</span> <span class="o">-&gt;</span> <span class="p">[</span><span class="kt">String</span><span class="p">]</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getStateCodes</span><span class="p">(</span><span class="nv">countryCode</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-countrycode">CountryCode</a></span><span class="p">)</span> <span class="k">throws</span> <span class="o">-&gt;</span> <span class="p">[</span><span class="kt">String</span><span class="p">]</span></code></pre>
 </div>
 </div>
 <div>
@@ -199,10 +199,10 @@ Throws if it’s not possible to return the list of state codes.</p>
 <div class="abstract">
 <p>Synchronously load the administrative rules for the specified country and state.
 <strong>Note:</strong> The <code>state_code</code> parameter can be set to <code>nil</code>. In this case, even if the country has multiple states, each with
-their own administrative rules, an <code><a href="sdk-for-ios-navigate-api-reference-..-structs-administrativerules">AdministrativeRules</a></code> object will be returned, containing the administrative
+their own administrative rules, an <code><a href="sdk-for-ios-navigate-api-reference-structs-administrativerules">AdministrativeRules</a></code> object will be returned, containing the administrative
 rules valid for the entire country. These rules can however be overwritten by the state rules when the driver is in that
 specific state, so it is recommended to always retrieve the rules for a specific state for higher accuracy.
-Returns an <code><a href="sdk-for-ios-navigate-api-reference-..-structs-administrativerules">AdministrativeRules</a></code> object which contains the administrative rules for the specified country and
+Returns an <code><a href="sdk-for-ios-navigate-api-reference-structs-administrativerules">AdministrativeRules</a></code> object which contains the administrative rules for the specified country and
 state.</p>
 <div class="aside aside-throws">
 <p class="aside-title">Throws</p>
@@ -214,7 +214,7 @@ state.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getAdministrativeRules</span><span class="p">(</span><span class="nv">countryCode</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-countrycode">CountryCode</a></span><span class="p">,</span> <span class="nv">stateCode</span><span class="p">:</span> <span class="kt">String</span><span class="p">?)</span> <span class="k">throws</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-administrativerules">AdministrativeRules</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getAdministrativeRules</span><span class="p">(</span><span class="nv">countryCode</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-countrycode">CountryCode</a></span><span class="p">,</span> <span class="nv">stateCode</span><span class="p">:</span> <span class="kt">String</span><span class="p">?)</span> <span class="k">throws</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-administrativerules">AdministrativeRules</a></span></code></pre>
 </div>
 </div>
 <div>

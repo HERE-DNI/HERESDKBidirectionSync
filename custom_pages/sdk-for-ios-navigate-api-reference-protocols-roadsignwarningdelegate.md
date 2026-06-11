@@ -1,5 +1,5 @@
 ---
-title: "Navigation / RoadSignWarningDelegate"
+title: "sdk-for-ios-navigate-api-reference-protocols-roadsignwarningdelegate"
 slug: "sdk-for-ios-navigate-api-reference-protocols-roadsignwarningdelegate"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-roadsignwarningdelegate"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-navigation">Navigation</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-navigation">Navigation</a>
+<img alt="" id="carat" src="/carat.png"/>
         RoadSignWarningDelegate Protocol Reference
       </p>
 </div>
@@ -38,8 +38,8 @@ should be implemented in order to receive road sign warnings.
 <strong>Note:</strong> The road sign warner is a point warner, which means that for a road sign there will <em>always</em> be
 2 warnings emitted, with the [RoadSignWarning.distance_type] set to <code><a href="../Enums/DistanceType.html#/s:7heresdk12DistanceTypeO5aheadyA2CmF">DistanceType.ahead</a></code> and <code><a href="../Enums/DistanceType.html#/s:7heresdk12DistanceTypeO6passedyA2CmF">DistanceType.passed</a></code>
 which is given when the location of the road sign is reached.
-A <code><a href="sdk-for-ios-navigate-api-reference-..-structs-roadsignwarning">RoadSignWarning</a></code> will not be given until the previous warning of that type has been passed.
-For example, a route with <code><a href="sdk-for-ios-navigate-api-reference-..-structs-roadsignwarning">RoadSignWarning</a></code> 120 meters and <code><a href="sdk-for-ios-navigate-api-reference-..-structs-roadsignwarning">RoadSignWarning</a></code> 160 meters ahead,
+A <code><a href="sdk-for-ios-navigate-api-reference-structs-roadsignwarning">RoadSignWarning</a></code> will not be given until the previous warning of that type has been passed.
+For example, a route with <code><a href="sdk-for-ios-navigate-api-reference-structs-roadsignwarning">RoadSignWarning</a></code> 120 meters and <code><a href="sdk-for-ios-navigate-api-reference-structs-roadsignwarning">RoadSignWarning</a></code> 160 meters ahead,
 the first [RoadSignWarning.distance_to_road_sign_in_meters] is 120 meters
 and the next [RoadSignWarning.distance_to_road_sign_in_meters] is then 40 meters,
 since that is the distance between the first and second warnings.</p>
@@ -66,7 +66,7 @@ since that is the distance between the first and second warnings.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">onRoadSignWarningUpdated</span><span class="p">(</span><span class="n">_</span> <span class="nv">roadSignWarning</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-roadsignwarning">RoadSignWarning</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">onRoadSignWarningUpdated</span><span class="p">(</span><span class="n">_</span> <span class="nv">roadSignWarning</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-roadsignwarning">RoadSignWarning</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>

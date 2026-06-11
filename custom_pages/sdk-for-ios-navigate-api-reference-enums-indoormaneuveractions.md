@@ -1,5 +1,5 @@
 ---
-title: "Other Enumerations / IndoorManeuverActions"
+title: "sdk-for-ios-navigate-api-reference-enums-indoormaneuveractions"
 slug: "sdk-for-ios-navigate-api-reference-enums-indoormaneuveractions"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-enums-indoormaneuveractions"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-other%20enums">Other Enumerations</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-other%20enums">Other Enumerations</a>
+<img alt="" id="carat" src="/carat.png"/>
         IndoorManeuverActions Enumeration Reference
       </p>
 </div>

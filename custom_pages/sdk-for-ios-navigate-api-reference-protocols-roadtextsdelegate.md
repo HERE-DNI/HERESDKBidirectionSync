@@ -1,5 +1,5 @@
 ---
-title: "Navigation / RoadTextsDelegate"
+title: "sdk-for-ios-navigate-api-reference-protocols-roadtextsdelegate"
 slug: "sdk-for-ios-navigate-api-reference-protocols-roadtextsdelegate"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-roadtextsdelegate"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-navigation">Navigation</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-navigation">Navigation</a>
+<img alt="" id="carat" src="/carat.png"/>
         RoadTextsDelegate Protocol Reference
       </p>
 </div>
@@ -59,7 +59,7 @@ texts differs from the previous one already issued.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">onRoadTextsUpdated</span><span class="p">(</span><span class="n">_</span> <span class="nv">roadTexts</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-roadtexts">RoadTexts</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">onRoadTextsUpdated</span><span class="p">(</span><span class="n">_</span> <span class="nv">roadTexts</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-roadtexts">RoadTexts</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>

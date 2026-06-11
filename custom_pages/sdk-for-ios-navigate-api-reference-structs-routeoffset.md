@@ -1,5 +1,5 @@
 ---
-title: "Routing / RouteOffset"
+title: "sdk-for-ios-navigate-api-reference-structs-routeoffset"
 slug: "sdk-for-ios-navigate-api-reference-structs-routeoffset"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-structs-routeoffset"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-routing">Routing</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-routing">Routing</a>
+<img alt="" id="carat" src="/carat.png"/>
         RouteOffset Structure Reference
       </p>
 </div>
@@ -54,7 +54,7 @@ For the latter case, the location of a railway crossing can be retrieved from <c
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Index of the corresponding route <code><a href="sdk-for-ios-navigate-api-reference-..-classes-section">Section</a></code>. The start of the section indicates the start of the offset.</p>
+<p>Index of the corresponding route <code><a href="sdk-for-ios-navigate-api-reference-classes-section">Section</a></code>. The start of the section indicates the start of the offset.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
@@ -79,7 +79,7 @@ For the latter case, the location of a railway crossing can be retrieved from <c
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Offset from the start of the indexed <code><a href="sdk-for-ios-navigate-api-reference-..-classes-section">Section</a></code> to the specified location along the route.
+<p>Offset from the start of the indexed <code><a href="sdk-for-ios-navigate-api-reference-classes-section">Section</a></code> to the specified location along the route.
 The maximum possible offset is limited by the length of the section and cannot exceed it.</p>
 </div>
 <div class="declaration">

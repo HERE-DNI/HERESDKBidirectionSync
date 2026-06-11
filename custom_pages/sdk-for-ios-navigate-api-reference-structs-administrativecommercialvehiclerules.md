@@ -1,5 +1,5 @@
 ---
-title: "Other Structures / AdministrativeCommercialVehicleRules"
+title: "sdk-for-ios-navigate-api-reference-structs-administrativecommercialvehiclerules"
 slug: "sdk-for-ios-navigate-api-reference-structs-administrativecommercialvehiclerules"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-structs-administrativecommercialvehicl
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-other%20structs">Other Structures</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-other%20structs">Other Structures</a>
+<img alt="" id="carat" src="/carat.png"/>
         AdministrativeCommercialVehicleRules Structure Reference
       </p>
 </div>
@@ -61,7 +61,7 @@ behaviors. Related APIs may change for new releases without a deprecation proces
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">id</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-admincontextid">AdminContextId</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">id</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-admincontextid">AdminContextId</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -86,7 +86,7 @@ behaviors. Related APIs may change for new releases without a deprecation proces
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">accessRegulations</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-vehiclespecificaccess">VehicleSpecificAccess</a></span><span class="p">]</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">accessRegulations</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-vehiclespecificaccess">VehicleSpecificAccess</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -111,7 +111,7 @@ behaviors. Related APIs may change for new releases without a deprecation proces
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">speedLimitRegulations</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-vehiclespecificspeedlimit">VehicleSpecificSpeedLimit</a></span><span class="p">]</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">speedLimitRegulations</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-vehiclespecificspeedlimit">VehicleSpecificSpeedLimit</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -136,7 +136,7 @@ behaviors. Related APIs may change for new releases without a deprecation proces
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">driveRestRegulation</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-driverestregulation">DriveRestRegulation</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">driveRestRegulation</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-driverestregulation">DriveRestRegulation</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -161,7 +161,7 @@ behaviors. Related APIs may change for new releases without a deprecation proces
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">id</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-admincontextid">AdminContextId</a></span><span class="p">,</span> <span class="nv">accessRegulations</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-vehiclespecificaccess">VehicleSpecificAccess</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">speedLimitRegulations</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-vehiclespecificspeedlimit">VehicleSpecificSpeedLimit</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">driveRestRegulation</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-driverestregulation">DriveRestRegulation</a></span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-driverestregulation">DriveRestRegulation</a></span><span class="p">())</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">id</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-admincontextid">AdminContextId</a></span><span class="p">,</span> <span class="nv">accessRegulations</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-vehiclespecificaccess">VehicleSpecificAccess</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">speedLimitRegulations</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-vehiclespecificspeedlimit">VehicleSpecificSpeedLimit</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">driveRestRegulation</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-driverestregulation">DriveRestRegulation</a></span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-driverestregulation">DriveRestRegulation</a></span><span class="p">())</span></code></pre>
 </div>
 </div>
 </section>

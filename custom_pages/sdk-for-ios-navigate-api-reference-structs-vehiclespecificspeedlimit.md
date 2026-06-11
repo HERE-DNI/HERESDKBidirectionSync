@@ -1,5 +1,5 @@
 ---
-title: "Other Structures / VehicleSpecificSpeedLimit"
+title: "sdk-for-ios-navigate-api-reference-structs-vehiclespecificspeedlimit"
 slug: "sdk-for-ios-navigate-api-reference-structs-vehiclespecificspeedlimit"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-structs-vehiclespecificspeedlimit"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-other%20structs">Other Structures</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-other%20structs">Other Structures</a>
+<img alt="" id="carat" src="/carat.png"/>
         VehicleSpecificSpeedLimit Structure Reference
       </p>
 </div>
@@ -136,7 +136,7 @@ A <code>nil</code> value means the speed limit is not affected by the BUA overri
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">condition</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-vehiclerestrictioncondition">VehicleRestrictionCondition</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">condition</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-vehiclerestrictioncondition">VehicleRestrictionCondition</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -161,7 +161,7 @@ A <code>nil</code> value means the speed limit is not affected by the BUA overri
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">speedLimitInMetersPerSecond</span><span class="p">:</span> <span class="kt">Double</span><span class="p">,</span> <span class="nv">isAdvisory</span><span class="p">:</span> <span class="kt">Bool</span><span class="p">,</span> <span class="nv">builtUpAreaMaxOverrideSpeedInMetersPerSecond</span><span class="p">:</span> <span class="kt">Double</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">condition</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-vehiclerestrictioncondition">VehicleRestrictionCondition</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">speedLimitInMetersPerSecond</span><span class="p">:</span> <span class="kt">Double</span><span class="p">,</span> <span class="nv">isAdvisory</span><span class="p">:</span> <span class="kt">Bool</span><span class="p">,</span> <span class="nv">builtUpAreaMaxOverrideSpeedInMetersPerSecond</span><span class="p">:</span> <span class="kt">Double</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">condition</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-vehiclerestrictioncondition">VehicleRestrictionCondition</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>

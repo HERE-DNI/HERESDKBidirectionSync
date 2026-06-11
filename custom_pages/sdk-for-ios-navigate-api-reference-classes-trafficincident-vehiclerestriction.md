@@ -1,5 +1,5 @@
 ---
-title: "TrafficIncident / VehicleRestriction"
+title: "sdk-for-ios-navigate-api-reference-classes-trafficincident-vehiclerestriction"
 slug: "sdk-for-ios-navigate-api-reference-classes-trafficincident-vehiclerestriction"
 ---
 
@@ -15,12 +15,12 @@ slug: "sdk-for-ios-navigate-api-reference-classes-trafficincident-vehiclerestric
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-..-index">heresdk</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-..-traffic">Traffic</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-..-classes-trafficincident">TrafficIncident</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-traffic">Traffic</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-classes-trafficincident">TrafficIncident</a>
+<img alt="" id="carat" src="/carat.png"/>
         VehicleRestriction Structure Reference
       </p>
 </div>

@@ -1,5 +1,5 @@
 ---
-title: "Navigation / SafetyCameraWarningOptions"
+title: "sdk-for-ios-navigate-api-reference-structs-safetycamerawarningoptions"
 slug: "sdk-for-ios-navigate-api-reference-structs-safetycamerawarningoptions"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-structs-safetycamerawarningoptions"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-navigation">Navigation</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-navigation">Navigation</a>
+<img alt="" id="carat" src="/carat.png"/>
         SafetyCameraWarningOptions Structure Reference
       </p>
 </div>
@@ -53,7 +53,7 @@ slug: "sdk-for-ios-navigate-api-reference-structs-safetycamerawarningoptions"
 <div class="abstract">
 <p>Determines whether a text notification should be triggered along with a safety camera warning.
 Example text: “A safety camera is ahead in 500 meters.”
-The text can be localized via <code><a href="sdk-for-ios-navigate-api-reference-..-structs-maneuvernotificationoptions">ManeuverNotificationOptions</a></code>.
+The text can be localized via <code><a href="sdk-for-ios-navigate-api-reference-structs-maneuvernotificationoptions">ManeuverNotificationOptions</a></code>.
 By default text notifications are enabled.</p>
 </div>
 <div class="declaration">

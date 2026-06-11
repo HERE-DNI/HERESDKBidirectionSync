@@ -1,5 +1,5 @@
 ---
-title: "Navigation / TrackingCameraBehavior"
+title: "sdk-for-ios-navigate-api-reference-classes-trackingcamerabehavior"
 slug: "sdk-for-ios-navigate-api-reference-classes-trackingcamerabehavior"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-classes-trackingcamerabehavior"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-navigation">Navigation</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-navigation">Navigation</a>
+<img alt="" id="carat" src="/carat.png"/>
         TrackingCameraBehavior Class Reference
       </p>
 </div>
@@ -30,7 +30,7 @@ slug: "sdk-for-ios-navigate-api-reference-classes-trackingcamerabehavior"
 <h1>TrackingCameraBehavior</h1>
 <div class="declaration">
 <div class="language">
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">TrackingCameraBehavior</span> <span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-camerabehavior">CameraBehavior</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">TrackingCameraBehavior</span> <span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-camerabehavior">CameraBehavior</a></span></code></pre>
 <pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">TrackingCameraBehavior</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
 <pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">TrackingCameraBehavior</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
@@ -91,7 +91,7 @@ of the mapview.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">normalizedPrincipalPoint</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-anchor2d">Anchor2D</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">normalizedPrincipalPoint</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-anchor2d">Anchor2D</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -146,7 +146,7 @@ Defaults to <code>nil</code>. If not set, it uses the viewport bounds of the und
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">viewRectangle</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-rectangle2d">Rectangle2D</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">viewRectangle</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-rectangle2d">Rectangle2D</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -225,7 +225,7 @@ Optional fixed bearing, from true North (0 degrees) in clockwise direction. The 
 is [0, 360].
 If set, it will prevent the map from rotating to the direction of travel. For example, a
 value of zero results in “north up” mode.
-Defaults to <code>nil</code>, which means the camera derives the bearing from the <code><a href="sdk-for-ios-navigate-api-reference-..-structs-location">Location</a></code>,
+Defaults to <code>nil</code>, which means the camera derives the bearing from the <code><a href="sdk-for-ios-navigate-api-reference-structs-location">Location</a></code>,
 so that it points to the direction of travel.
 If this property is <code>nil</code> and the device does not provide bearing, the last known value is
 used or zero otherwise.</p>
@@ -317,7 +317,7 @@ Defaults to a fixed zoom policy at zoom level 16.5.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">zoomPolicy</span><span class="p">:</span> <span class="kt">TrackingCameraBehavior</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-trackingcamerabehavior-zoompolicy">ZoomPolicy</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">zoomPolicy</span><span class="p">:</span> <span class="kt">TrackingCameraBehavior</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-trackingcamerabehavior-zoompolicy">ZoomPolicy</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -338,8 +338,8 @@ Defaults to a fixed zoom policy at zoom level 16.5.</p>
 <div class="abstract">
 <p>Whether maneuver detection is enabled.
 When <code>true</code>, the camera detects adjacent maneuvers and reacts according to
-the <code><a href="sdk-for-ios-navigate-api-reference-..-classes-trackingcamerabehavior-maneuvermodeconfiguration">TrackingCameraBehavior.ManeuverModeConfiguration</a></code> set via <code><a href="../Classes/TrackingCameraBehavior.html#/s:7heresdk22TrackingCameraBehaviorC28setManeuverModeConfiguration08maneuvergH0yAC0fgH0VSg_tF">TrackingCameraBehavior.setManeuverModeConfiguration(...)</a></code>.
-A valid <code><a href="sdk-for-ios-navigate-api-reference-..-classes-trackingcamerabehavior-maneuvermodeconfiguration">TrackingCameraBehavior.ManeuverModeConfiguration</a></code> must be set for the camera to react. Defaults to <code>false</code>.</p>
+the <code><a href="sdk-for-ios-navigate-api-reference-classes-trackingcamerabehavior-maneuvermodeconfiguration">TrackingCameraBehavior.ManeuverModeConfiguration</a></code> set via <code><a href="../Classes/TrackingCameraBehavior.html#/s:7heresdk22TrackingCameraBehaviorC28setManeuverModeConfiguration08maneuvergH0yAC0fgH0VSg_tF">TrackingCameraBehavior.setManeuverModeConfiguration(...)</a></code>.
+A valid <code><a href="sdk-for-ios-navigate-api-reference-classes-trackingcamerabehavior-maneuvermodeconfiguration">TrackingCameraBehavior.ManeuverModeConfiguration</a></code> must be set for the camera to react. Defaults to <code>false</code>.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
@@ -367,15 +367,15 @@ A valid <code><a href="sdk-for-ios-navigate-api-reference-..-classes-trackingcam
 <p>Defines zoom behavior in different policy settings.</p>
 <p>Note: This is a beta feature; there maybe bugs and unexpected behavior. Related API’s are
 subject to change without a deprecation process.</p>
-<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-..-classes-trackingcamerabehavior-zoompolicy">See more</a>
+<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-classes-trackingcamerabehavior-zoompolicy">See more</a>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
 <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">ZoomPolicy</span></code></pre>
-<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-trackingcamerabehavior">TrackingCameraBehavior</a></span><span class="o">.</span><span class="kt">ZoomPolicy</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
-<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-trackingcamerabehavior">TrackingCameraBehavior</a></span><span class="o">.</span><span class="kt">ZoomPolicy</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-trackingcamerabehavior">TrackingCameraBehavior</a></span><span class="o">.</span><span class="kt">ZoomPolicy</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-trackingcamerabehavior">TrackingCameraBehavior</a></span><span class="o">.</span><span class="kt">ZoomPolicy</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -395,7 +395,7 @@ subject to change without a deprecation process.</p>
 <div class="pointer"></div>
 <div class="abstract">
 <p>Defines a zoom level triggered when the vehicle reaches a specific speed.</p>
-<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-..-classes-trackingcamerabehavior-speedthreshold">See more</a>
+<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-classes-trackingcamerabehavior-speedthreshold">See more</a>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
@@ -422,7 +422,7 @@ subject to change without a deprecation process.</p>
 <div class="abstract">
 <p>Configuration for mapping functional road classes to zoom levels.
 For correct default initialization, use <code><a href="../Classes/TrackingCameraBehavior.html#/s:7heresdk22TrackingCameraBehaviorC43defaultFunctionalRoadClassZoomPolicyOptionsAC0fghijK0VyFZ">TrackingCameraBehavior.defaultFunctionalRoadClassZoomPolicyOptions(...)</a></code>.</p>
-<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-..-classes-trackingcamerabehavior-functionalroadclasszoompolicyoptions">See more</a>
+<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-classes-trackingcamerabehavior-functionalroadclasszoompolicyoptions">See more</a>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
@@ -449,7 +449,7 @@ For correct default initialization, use <code><a href="../Classes/TrackingCamera
 <div class="abstract">
 <p>Configuration for computing zoom levels from speed thresholds defined per road classification.
 For correct default initialization, use <code><a href="../Classes/TrackingCameraBehavior.html#/s:7heresdk22TrackingCameraBehaviorC34defaultSpeedBasedZoomPolicyOptionsAC0fghiJ0VyFZ">TrackingCameraBehavior.defaultSpeedBasedZoomPolicyOptions(...)</a></code>.</p>
-<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-..-classes-trackingcamerabehavior-speedbasedzoompolicyoptions">See more</a>
+<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-classes-trackingcamerabehavior-speedbasedzoompolicyoptions">See more</a>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
@@ -475,8 +475,8 @@ For correct default initialization, use <code><a href="../Classes/TrackingCamera
 <div class="pointer"></div>
 <div class="abstract">
 <p>Defines the bounds within which the zoom level is constrained when approaching a maneuver.
-Used as part of <code><a href="sdk-for-ios-navigate-api-reference-..-classes-trackingcamerabehavior-maneuverruleoptions">TrackingCameraBehavior.ManeuverRuleOptions</a></code>.</p>
-<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-..-classes-trackingcamerabehavior-maneuverzoomrange">See more</a>
+Used as part of <code><a href="sdk-for-ios-navigate-api-reference-classes-trackingcamerabehavior-maneuverruleoptions">TrackingCameraBehavior.ManeuverRuleOptions</a></code>.</p>
+<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-classes-trackingcamerabehavior-maneuverzoomrange">See more</a>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
@@ -501,8 +501,8 @@ Used as part of <code><a href="sdk-for-ios-navigate-api-reference-..-classes-tra
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Defines a set of configurations specific to a <code><a href="sdk-for-ios-navigate-api-reference-..-classes-trackingcamerabehavior-maneuverrule">TrackingCameraBehavior.ManeuverRule</a></code>.</p>
-<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-..-classes-trackingcamerabehavior-maneuverruleoptions">See more</a>
+<p>Defines a set of configurations specific to a <code><a href="sdk-for-ios-navigate-api-reference-classes-trackingcamerabehavior-maneuverrule">TrackingCameraBehavior.ManeuverRule</a></code>.</p>
+<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-classes-trackingcamerabehavior-maneuverruleoptions">See more</a>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
@@ -527,9 +527,9 @@ Used as part of <code><a href="sdk-for-ios-navigate-api-reference-..-classes-tra
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Defines a single rule that determines how <code><a href="sdk-for-ios-navigate-api-reference-..-classes-trackingcamerabehavior">TrackingCameraBehavior</a></code> reacts to nearby
+<p>Defines a single rule that determines how <code><a href="sdk-for-ios-navigate-api-reference-classes-trackingcamerabehavior">TrackingCameraBehavior</a></code> reacts to nearby
 maneuvers when the current position matches this rule.</p>
-<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-..-classes-trackingcamerabehavior-maneuverrule">See more</a>
+<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-classes-trackingcamerabehavior-maneuverrule">See more</a>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
@@ -554,14 +554,14 @@ maneuvers when the current position matches this rule.</p>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Configuration that defines how <code><a href="sdk-for-ios-navigate-api-reference-..-classes-trackingcamerabehavior">TrackingCameraBehavior</a></code> reacts to nearby maneuvers.</p>
+<p>Configuration that defines how <code><a href="sdk-for-ios-navigate-api-reference-classes-trackingcamerabehavior">TrackingCameraBehavior</a></code> reacts to nearby maneuvers.</p>
 <p>On each frame, and based on the current position, the availability of its functional road
 class, and the availability of maneuver data for at least one adjacent maneuver, the camera
 checks for a match against the <code><a href="../Classes/TrackingCameraBehavior/ManeuverModeConfiguration.html#/s:7heresdk22TrackingCameraBehaviorC25ManeuverModeConfigurationV13maneuverRulesSayAC0E4RuleVGvp">TrackingCameraBehavior.ManeuverModeConfiguration.maneuverRules</a></code> in the order they are listed. If a match is
 found, subsequent rules are not checked. If no match is found, if inputs are unavailable,
 or if the matched rule has <code>nil</code> options, the camera does not react.</p>
 <p>For correct default initialization, use <code><a href="../Classes/TrackingCameraBehavior.html#/s:7heresdk22TrackingCameraBehaviorC32defaultManeuverModeConfigurationAC0fgH0VyFZ">TrackingCameraBehavior.defaultManeuverModeConfiguration(...)</a></code>.</p>
-<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-..-classes-trackingcamerabehavior-maneuvermodeconfiguration">See more</a>
+<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-classes-trackingcamerabehavior-maneuvermodeconfiguration">See more</a>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
@@ -624,7 +624,7 @@ Defaults to <code>nil</code>.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">setManeuverModeConfiguration</span><span class="p">(</span><span class="nv">maneuverModeConfiguration</span><span class="p">:</span> <span class="kt">TrackingCameraBehavior</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-trackingcamerabehavior-maneuvermodeconfiguration">ManeuverModeConfiguration</a></span><span class="p">?)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">setManeuverModeConfiguration</span><span class="p">(</span><span class="nv">maneuverModeConfiguration</span><span class="p">:</span> <span class="kt">TrackingCameraBehavior</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-trackingcamerabehavior-maneuvermodeconfiguration">ManeuverModeConfiguration</a></span><span class="p">?)</span></code></pre>
 </div>
 </div>
 <div>
@@ -668,7 +668,7 @@ Defaults to <code>nil</code>.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getManeuverModeConfiguration</span><span class="p">()</span> <span class="o">-&gt;</span> <span class="kt">TrackingCameraBehavior</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-trackingcamerabehavior-maneuvermodeconfiguration">ManeuverModeConfiguration</a></span><span class="p">?</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getManeuverModeConfiguration</span><span class="p">()</span> <span class="o">-&gt;</span> <span class="kt">TrackingCameraBehavior</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-trackingcamerabehavior-maneuvermodeconfiguration">ManeuverModeConfiguration</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 <div>
@@ -696,12 +696,12 @@ Defaults to <code>nil</code>.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="kd">func</span> <span class="nf">defaultFunctionalRoadClassZoomPolicyOptions</span><span class="p">()</span> <span class="o">-&gt;</span> <span class="kt">TrackingCameraBehavior</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-trackingcamerabehavior-functionalroadclasszoompolicyoptions">FunctionalRoadClassZoomPolicyOptions</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="kd">func</span> <span class="nf">defaultFunctionalRoadClassZoomPolicyOptions</span><span class="p">()</span> <span class="o">-&gt;</span> <span class="kt">TrackingCameraBehavior</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-trackingcamerabehavior-functionalroadclasszoompolicyoptions">FunctionalRoadClassZoomPolicyOptions</a></span></code></pre>
 </div>
 </div>
 <div>
 <h4>Return Value</h4>
-<p>The default <code><a href="sdk-for-ios-navigate-api-reference-..-classes-trackingcamerabehavior-functionalroadclasszoompolicyoptions">TrackingCameraBehavior.FunctionalRoadClassZoomPolicyOptions</a></code>.</p>
+<p>The default <code><a href="sdk-for-ios-navigate-api-reference-classes-trackingcamerabehavior-functionalroadclasszoompolicyoptions">TrackingCameraBehavior.FunctionalRoadClassZoomPolicyOptions</a></code>.</p>
 </div>
 </section>
 </div>
@@ -724,12 +724,12 @@ Defaults to <code>nil</code>.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="kd">func</span> <span class="nf">defaultSpeedBasedZoomPolicyOptions</span><span class="p">()</span> <span class="o">-&gt;</span> <span class="kt">TrackingCameraBehavior</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-trackingcamerabehavior-speedbasedzoompolicyoptions">SpeedBasedZoomPolicyOptions</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="kd">func</span> <span class="nf">defaultSpeedBasedZoomPolicyOptions</span><span class="p">()</span> <span class="o">-&gt;</span> <span class="kt">TrackingCameraBehavior</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-trackingcamerabehavior-speedbasedzoompolicyoptions">SpeedBasedZoomPolicyOptions</a></span></code></pre>
 </div>
 </div>
 <div>
 <h4>Return Value</h4>
-<p>The default <code><a href="sdk-for-ios-navigate-api-reference-..-classes-trackingcamerabehavior-speedbasedzoompolicyoptions">TrackingCameraBehavior.SpeedBasedZoomPolicyOptions</a></code>.</p>
+<p>The default <code><a href="sdk-for-ios-navigate-api-reference-classes-trackingcamerabehavior-speedbasedzoompolicyoptions">TrackingCameraBehavior.SpeedBasedZoomPolicyOptions</a></code>.</p>
 </div>
 </section>
 </div>
@@ -752,12 +752,12 @@ Defaults to <code>nil</code>.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="kd">func</span> <span class="nf">defaultManeuverModeConfiguration</span><span class="p">()</span> <span class="o">-&gt;</span> <span class="kt">TrackingCameraBehavior</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-trackingcamerabehavior-maneuvermodeconfiguration">ManeuverModeConfiguration</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="kd">func</span> <span class="nf">defaultManeuverModeConfiguration</span><span class="p">()</span> <span class="o">-&gt;</span> <span class="kt">TrackingCameraBehavior</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-trackingcamerabehavior-maneuvermodeconfiguration">ManeuverModeConfiguration</a></span></code></pre>
 </div>
 </div>
 <div>
 <h4>Return Value</h4>
-<p>The default <code><a href="sdk-for-ios-navigate-api-reference-..-classes-trackingcamerabehavior-maneuvermodeconfiguration">TrackingCameraBehavior.ManeuverModeConfiguration</a></code>.</p>
+<p>The default <code><a href="sdk-for-ios-navigate-api-reference-classes-trackingcamerabehavior-maneuvermodeconfiguration">TrackingCameraBehavior.ManeuverModeConfiguration</a></code>.</p>
 </div>
 </section>
 </div>

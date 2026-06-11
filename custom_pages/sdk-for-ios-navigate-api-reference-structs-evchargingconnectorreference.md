@@ -1,5 +1,5 @@
 ---
-title: "Search / EVChargingConnectorReference"
+title: "sdk-for-ios-navigate-api-reference-structs-evchargingconnectorreference"
 slug: "sdk-for-ios-navigate-api-reference-structs-evchargingconnectorreference"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-structs-evchargingconnectorreference"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-search">Search</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-search">Search</a>
+<img alt="" id="carat" src="/carat.png"/>
         EVChargingConnectorReference Structure Reference
       </p>
 </div>

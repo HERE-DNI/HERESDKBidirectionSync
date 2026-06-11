@@ -1,5 +1,5 @@
 ---
-title: "Core / CatalogConfiguration"
+title: "sdk-for-ios-navigate-api-reference-structs-catalogconfiguration"
 slug: "sdk-for-ios-navigate-api-reference-structs-catalogconfiguration"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-structs-catalogconfiguration"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-core">Core</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-core">Core</a>
+<img alt="" id="carat" src="/carat.png"/>
         CatalogConfiguration Structure Reference
       </p>
 </div>
@@ -33,12 +33,12 @@ slug: "sdk-for-ios-navigate-api-reference-structs-catalogconfiguration"
 <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">CatalogConfiguration</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
-<p>Using this class you can configure in the <code><a href="sdk-for-ios-navigate-api-reference-..-structs-sdkoptions">SDKOptions</a></code>,
-how the <code><a href="sdk-for-ios-navigate-api-reference-..-classes-sdknativeengine">SDKNativeEngine</a></code> should access, use and store the data for the desired catalog.</p>
+<p>Using this class you can configure in the <code><a href="sdk-for-ios-navigate-api-reference-structs-sdkoptions">SDKOptions</a></code>,
+how the <code><a href="sdk-for-ios-navigate-api-reference-classes-sdknativeengine">SDKNativeEngine</a></code> should access, use and store the data for the desired catalog.</p>
 <p>Using this class, you can access default catalogs on the HERE platform and also custom catalogs
 such as for self-hosted or BYOD (bring your own data) use cases.</p>
-<p>For information on how the user can identify a catalog on the HERE platform, see <code><a href="sdk-for-ios-navigate-api-reference-..-structs-desiredcatalog">DesiredCatalog</a></code>
-For further information about catalogs and related concepts see <code><a href="sdk-for-ios-navigate-api-reference-..-structs-catalogidentifier">CatalogIdentifier</a></code>.</p>
+<p>For information on how the user can identify a catalog on the HERE platform, see <code><a href="sdk-for-ios-navigate-api-reference-structs-desiredcatalog">DesiredCatalog</a></code>
+For further information about catalogs and related concepts see <code><a href="sdk-for-ios-navigate-api-reference-structs-catalogidentifier">CatalogIdentifier</a></code>.</p>
 <p><strong>Note:</strong>
 This API is only applicable for the Navigate license.</p>
 </section>
@@ -59,13 +59,13 @@ This API is only applicable for the Navigate license.</p>
 <div class="pointer"></div>
 <div class="abstract">
 <p>The identifier for the desired catalog to be accessed on the HERE platform.
-See <code><a href="sdk-for-ios-navigate-api-reference-..-structs-desiredcatalog">DesiredCatalog</a></code>.</p>
+See <code><a href="sdk-for-ios-navigate-api-reference-structs-desiredcatalog">DesiredCatalog</a></code>.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">catalog</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-desiredcatalog">DesiredCatalog</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">catalog</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-desiredcatalog">DesiredCatalog</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -175,7 +175,7 @@ Defaults to <code>true</code>.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">catalog</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-desiredcatalog">DesiredCatalog</a></span><span class="p">,</span> <span class="nv">patchHrn</span><span class="p">:</span> <span class="kt">String</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">cacheExpirationPeriod</span><span class="p">:</span> <span class="kt">TimeInterval</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">allowDownload</span><span class="p">:</span> <span class="kt">Bool</span> <span class="o">=</span> <span class="kc">true</span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">catalog</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-desiredcatalog">DesiredCatalog</a></span><span class="p">,</span> <span class="nv">patchHrn</span><span class="p">:</span> <span class="kt">String</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">cacheExpirationPeriod</span><span class="p">:</span> <span class="kt">TimeInterval</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">allowDownload</span><span class="p">:</span> <span class="kt">Bool</span> <span class="o">=</span> <span class="kc">true</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>
@@ -201,7 +201,7 @@ It uses the catalog version that was the latest at the time when the HERE SDK wa
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="kd">func</span> <span class="nf">getDefault</span><span class="p">(</span><span class="nv">catalogType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-catalogtype">CatalogType</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">CatalogConfiguration</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="kd">func</span> <span class="nf">getDefault</span><span class="p">(</span><span class="nv">catalogType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-catalogtype">CatalogType</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">CatalogConfiguration</span></code></pre>
 </div>
 </div>
 <div>

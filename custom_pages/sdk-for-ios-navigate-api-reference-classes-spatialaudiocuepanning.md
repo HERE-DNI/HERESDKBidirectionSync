@@ -1,5 +1,5 @@
 ---
-title: "Navigation / SpatialAudioCuePanning"
+title: "sdk-for-ios-navigate-api-reference-classes-spatialaudiocuepanning"
 slug: "sdk-for-ios-navigate-api-reference-classes-spatialaudiocuepanning"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-classes-spatialaudiocuepanning"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-navigation">Navigation</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-navigation">Navigation</a>
+<img alt="" id="carat" src="/carat.png"/>
         SpatialAudioCuePanning Class Reference
       </p>
 </div>
@@ -60,7 +60,7 @@ trajectory along the audio cue.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">typealias</span> <span class="n">onSpatialAzimuthStarterHandler</span> <span class="o">=</span> <span class="p">(</span><span class="n">_</span> <span class="nv">spatialTrajectoryData</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-spatialtrajectorydata">SpatialTrajectoryData</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">Void</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">typealias</span> <span class="n">onSpatialAzimuthStarterHandler</span> <span class="o">=</span> <span class="p">(</span><span class="n">_</span> <span class="nv">spatialTrajectoryData</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-spatialtrajectorydata">SpatialTrajectoryData</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">Void</span></code></pre>
 </div>
 </div>
 <div>
@@ -104,14 +104,14 @@ An optional custom value for <code><a href="../Structs/CustomPanningData.html#/s
 can be here defined if the default data does not fully match the utilized Language or TTS engine
 or angle expectations.
 If startAngularPanning is called to spatialize the audio cue of a new maneuver before the full
-completion of a previous spatial audio trajectory, then <code><a href="sdk-for-ios-navigate-api-reference-..-protocols-eventtextdelegate">EventTextDelegate</a></code> will retrieve
+completion of a previous spatial audio trajectory, then <code><a href="sdk-for-ios-navigate-api-reference-protocols-eventtextdelegate">EventTextDelegate</a></code> will retrieve
 the azimuth values of the new maneuver.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">startAngularPanning</span><span class="p">(</span><span class="nv">nextCustomPanningData</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-custompanningdata">CustomPanningData</a></span><span class="p">?,</span> <span class="nv">azimuthCallback</span><span class="p">:</span> <span class="kd">@escaping</span> <span class="kt">SpatialAudioCuePanning</span><span class="o">.</span><span class="n"><a href="../Classes/SpatialAudioCuePanning.html#/s:7heresdk22SpatialAudioCuePanningC02onB21AzimuthStarterHandlera">onSpatialAzimuthStarterHandler</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">startAngularPanning</span><span class="p">(</span><span class="nv">nextCustomPanningData</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-custompanningdata">CustomPanningData</a></span><span class="p">?,</span> <span class="nv">azimuthCallback</span><span class="p">:</span> <span class="kd">@escaping</span> <span class="kt">SpatialAudioCuePanning</span><span class="o">.</span><span class="n"><a href="../Classes/SpatialAudioCuePanning.html#/s:7heresdk22SpatialAudioCuePanningC02onB21AzimuthStarterHandlera">onSpatialAzimuthStarterHandler</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -127,7 +127,7 @@ the azimuth values of the new maneuver.</p>
 <td>
 <div>
 <p>Defines a new set of values related to spatial audio panning.
-When <code><a href="sdk-for-ios-navigate-api-reference-..-structs-custompanningdata">CustomPanningData</a></code> is initialized as <code>nil</code>, the default set of values provided by HERE SDK
+When <code><a href="sdk-for-ios-navigate-api-reference-structs-custompanningdata">CustomPanningData</a></code> is initialized as <code>nil</code>, the default set of values provided by HERE SDK
 will be used instead.</p>
 </div>
 </td>

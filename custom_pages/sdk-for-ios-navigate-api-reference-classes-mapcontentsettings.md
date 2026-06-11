@@ -1,5 +1,5 @@
 ---
-title: "Maps / MapContentSettings"
+title: "sdk-for-ios-navigate-api-reference-classes-mapcontentsettings"
 slug: "sdk-for-ios-navigate-api-reference-classes-mapcontentsettings"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-classes-mapcontentsettings"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-maps">Maps</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-maps">Maps</a>
+<img alt="" id="carat" src="/carat.png"/>
         MapContentSettings Class Reference
       </p>
 </div>
@@ -60,7 +60,7 @@ can already be changed before a map view instance is created.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">typealias</span> <span class="kt">TrafficRefreshPeriodError</span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-mapcontentsettings-trafficrefreshperioderrorcode">TrafficRefreshPeriodErrorCode</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">typealias</span> <span class="kt">TrafficRefreshPeriodError</span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-mapcontentsettings-trafficrefreshperioderrorcode">TrafficRefreshPeriodErrorCode</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -80,14 +80,14 @@ can already be changed before a map view instance is created.</p>
 <div class="pointer"></div>
 <div class="abstract">
 <p>Traffic refresh period error code</p>
-<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-..-classes-mapcontentsettings-trafficrefreshperioderrorcode">See more</a>
+<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-classes-mapcontentsettings-trafficrefreshperioderrorcode">See more</a>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
 <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">TrafficRefreshPeriodErrorCode</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
-<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-mapcontentsettings">MapContentSettings</a></span><span class="o">.</span><span class="kt">TrafficRefreshPeriodErrorCode</span> <span class="p">:</span> <span class="kt">Error</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-mapcontentsettings">MapContentSettings</a></span><span class="o">.</span><span class="kt">TrafficRefreshPeriodErrorCode</span> <span class="p">:</span> <span class="kt">Error</span></code></pre>
 </div>
 </div>
 </section>
@@ -169,8 +169,8 @@ will be displayed, but not the categories <code><a href="../Enums/TunnelCategory
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">@available(*, deprecated, message: "Will be removed in v4.28.0, use <code>MapContentSettings.configureVehicleRestrictionFilter(TransportSpecification﹚</code> instead.")</span>
-<span class="kd">public</span> <span class="kd">static</span> <span class="kd">func</span> <span class="nf">configureVehicleRestrictionFilter</span><span class="p">(</span><span class="nv">transportMode</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-transportmode">TransportMode</a></span><span class="p">,</span> <span class="nv">truckSpecifications</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-truckspecifications">TruckSpecifications</a></span><span class="p">,</span> <span class="nv">hazardousMaterials</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-hazardousmaterial">HazardousMaterial</a></span><span class="p">]?,</span> <span class="nv">tunnelCategory</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-tunnelcategory">TunnelCategory</a></span><span class="p">?)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">@available(*, deprecated, message: "Will be removed in v4.28.0, use MapContentSettings.configureVehicleRestrictionFilter(TransportSpecification﹚ instead.")</span>
+<span class="kd">public</span> <span class="kd">static</span> <span class="kd">func</span> <span class="nf">configureVehicleRestrictionFilter</span><span class="p">(</span><span class="nv">transportMode</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-transportmode">TransportMode</a></span><span class="p">,</span> <span class="nv">truckSpecifications</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-truckspecifications">TruckSpecifications</a></span><span class="p">,</span> <span class="nv">hazardousMaterials</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-hazardousmaterial">HazardousMaterial</a></span><span class="p">]?,</span> <span class="nv">tunnelCategory</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-tunnelcategory">TunnelCategory</a></span><span class="p">?)</span></code></pre>
 </div>
 </div>
 <div>
@@ -255,7 +255,7 @@ displayed.</p>
 <p>Configures a filter for <code><a href="../Structs/MapFeatures.html#/s:7heresdk11MapFeaturesV19vehicleRestrictionsSSvpZ">MapFeatures.vehicleRestrictions</a></code> to show only the restrictions
 matching the transport specifications when the feature is enabled.</p>
 <p>This method provides a unified way to configure vehicle restriction filters using
-a single <code><a href="sdk-for-ios-navigate-api-reference-..-structs-transportspecification">TransportSpecification</a></code> parameter. This allows you to use the same
+a single <code><a href="sdk-for-ios-navigate-api-reference-structs-transportspecification">TransportSpecification</a></code> parameter. This allows you to use the same
 transport configuration for both routing and map rendering, ensuring consistency between
 route calculation and the restrictions displayed on the map.</p>
 <p>The method extracts the transport mode, vehicle specifications, hazardous materials, and
@@ -282,7 +282,7 @@ restrictions for a count greater than 2 will not be displayed.</li>
 </ul>
 <h1 class="heading" id="filtering-rules-for-hazardous-materials">Filtering rules for hazardous materials</h1>
 <p>Only restrictions applicable to specified hazardous materials will be shown.
-Hazardous materials are specified within the <code><a href="sdk-for-ios-navigate-api-reference-..-structs-vehiclespecification">VehicleSpecification</a></code>
+Hazardous materials are specified within the <code><a href="sdk-for-ios-navigate-api-reference-structs-vehiclespecification">VehicleSpecification</a></code>
 contained in the <code>MapContentSettings.configureVehicleRestrictionFilter(TransportSpecification).transportSpecs</code> parameter.</p>
 <p>If at least one hazardous material of any type is present in the list, all available
 tunnel category restrictions will be displayed. In order to filter-out non-applicable
@@ -305,7 +305,7 @@ restrictions will be displayed together with all available tunnel categories.</l
 <p>Tunnel categories are labeled and rated based on the level of restriction they provide.
 The lowest level of restriction is <code><a href="../Enums/TunnelCategory.html#/s:7heresdk14TunnelCategoryO1byA2CmF">TunnelCategory.b</a></code>, the highest and most
 restrictive one is <code><a href="../Enums/TunnelCategory.html#/s:7heresdk14TunnelCategoryO1eyA2CmF">TunnelCategory.e</a></code>.</p>
-<p>The tunnel category is specified within the <code><a href="sdk-for-ios-navigate-api-reference-..-structs-vehiclespecification">VehicleSpecification</a></code>
+<p>The tunnel category is specified within the <code><a href="sdk-for-ios-navigate-api-reference-structs-vehiclespecification">VehicleSpecification</a></code>
 contained in the <code>MapContentSettings.configureVehicleRestrictionFilter(TransportSpecification).transportSpecs</code> parameter.</p>
 <p>Specifying tunnel category means that:</p>
 <ul>
@@ -336,7 +336,7 @@ will be displayed, but not the categories <code><a href="../Enums/TunnelCategory
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="kd">func</span> <span class="nf">configureVehicleRestrictionFilter</span><span class="p">(</span><span class="nv">transportSpecs</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-transportspecification">TransportSpecification</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="kd">func</span> <span class="nf">configureVehicleRestrictionFilter</span><span class="p">(</span><span class="nv">transportSpecs</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-transportspecification">TransportSpecification</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -352,9 +352,9 @@ will be displayed, but not the categories <code><a href="../Enums/TunnelCategory
 <td>
 <div>
 <p>The transport specification containing the transport mode and vehicle specifications.
-For vehicle modes (car, truck, bus), the <code><a href="sdk-for-ios-navigate-api-reference-..-structs-vehiclespecification">VehicleSpecification</a></code> within
+For vehicle modes (car, truck, bus), the <code><a href="sdk-for-ios-navigate-api-reference-structs-vehiclespecification">VehicleSpecification</a></code> within
 this parameter provides dimensions, weights, hazardous materials, and tunnel category
-information used for filtering. The same <code><a href="sdk-for-ios-navigate-api-reference-..-structs-transportspecification">TransportSpecification</a></code> object
+information used for filtering. The same <code><a href="sdk-for-ios-navigate-api-reference-structs-transportspecification">TransportSpecification</a></code> object
 can be used for both routing configuration and map rendering to ensure consistency.</p>
 </div>
 </td>
@@ -424,7 +424,7 @@ switching a map scheme.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="kd">func</span> <span class="nf">setPoiCategoriesVisibility</span><span class="p">(</span><span class="nv">categoryIds</span><span class="p">:</span> <span class="p">[</span><span class="kt">String</span><span class="p">],</span> <span class="nv">visibility</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-visibilitystate">VisibilityState</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="kd">func</span> <span class="nf">setPoiCategoriesVisibility</span><span class="p">(</span><span class="nv">categoryIds</span><span class="p">:</span> <span class="p">[</span><span class="kt">String</span><span class="p">],</span> <span class="nv">visibility</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-visibilitystate">VisibilityState</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -508,7 +508,7 @@ The display of traffic incidents can be enabled using <code><a href="../Classes/
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="kd">func</span> <span class="nf">filterTrafficIncidents</span><span class="p">(</span><span class="nv">trafficIncidents</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-trafficincidenttype">TrafficIncidentType</a></span><span class="p">])</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="kd">func</span> <span class="nf">filterTrafficIncidents</span><span class="p">(</span><span class="nv">trafficIncidents</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-trafficincidenttype">TrafficIncidentType</a></span><span class="p">])</span></code></pre>
 </div>
 </div>
 <div>

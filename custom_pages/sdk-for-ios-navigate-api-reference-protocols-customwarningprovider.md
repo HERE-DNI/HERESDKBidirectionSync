@@ -1,5 +1,5 @@
 ---
-title: "WarnerEngine / CustomWarningProvider"
+title: "sdk-for-ios-navigate-api-reference-protocols-customwarningprovider"
 slug: "sdk-for-ios-navigate-api-reference-protocols-customwarningprovider"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-customwarningprovider"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-warnerengine">WarnerEngine</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-warnerengine">WarnerEngine</a>
+<img alt="" id="carat" src="/carat.png"/>
         CustomWarningProvider Protocol Reference
       </p>
 </div>
@@ -94,7 +94,7 @@ custom warnings along with corresponding payload.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">getWarnings</span><span class="p">(</span><span class="nv">currentSegment</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-segmentdata">SegmentData</a></span><span class="p">,</span> <span class="nv">previousSegment</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-segmentdata">SegmentData</a></span><span class="p">?)</span> <span class="o">-&gt;</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-customwarning">CustomWarning</a></span><span class="p">]</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">getWarnings</span><span class="p">(</span><span class="nv">currentSegment</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-segmentdata">SegmentData</a></span><span class="p">,</span> <span class="nv">previousSegment</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-segmentdata">SegmentData</a></span><span class="p">?)</span> <span class="o">-&gt;</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-customwarning">CustomWarning</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 <div>
@@ -133,7 +133,7 @@ previous position information is available.</p>
 </div>
 <div>
 <h4>Return Value</h4>
-<p>A list of <code><a href="sdk-for-ios-navigate-api-reference-..-structs-customwarning">CustomWarning</a></code> instances representing all applicable
+<p>A list of <code><a href="sdk-for-ios-navigate-api-reference-structs-customwarning">CustomWarning</a></code> instances representing all applicable
 custom warnings. The list may be empty if no warnings apply.</p>
 </div>
 </section>

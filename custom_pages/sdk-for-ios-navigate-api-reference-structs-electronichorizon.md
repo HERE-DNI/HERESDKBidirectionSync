@@ -1,5 +1,5 @@
 ---
-title: "ElectronicHorizon / ElectronicHorizon"
+title: "sdk-for-ios-navigate-api-reference-structs-electronichorizon"
 slug: "sdk-for-ios-navigate-api-reference-structs-electronichorizon"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-structs-electronichorizon"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-electronichorizon">ElectronicHorizon</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-electronichorizon">ElectronicHorizon</a>
+<img alt="" id="carat" src="/carat.png"/>
         ElectronicHorizon Structure Reference
       </p>
 </div>
@@ -57,13 +57,13 @@ behaviors. Related APIs may change for new releases without a deprecation proces
 <div class="pointer"></div>
 <div class="abstract">
 <p>A list of all available electronic horizon paths.
-The list may be empty if none of the <code><a href="sdk-for-ios-navigate-api-reference-..-structs-electronichorizonpath">ElectronicHorizonPath</a></code>s are available.</p>
+The list may be empty if none of the <code><a href="sdk-for-ios-navigate-api-reference-structs-electronichorizonpath">ElectronicHorizonPath</a></code>s are available.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">paths</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-electronichorizonpath">ElectronicHorizonPath</a></span><span class="p">]</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">paths</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-electronichorizonpath">ElectronicHorizonPath</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -89,7 +89,7 @@ The list may be empty if none of the <code><a href="sdk-for-ios-navigate-api-ref
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">paths</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-electronichorizonpath">ElectronicHorizonPath</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[])</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">paths</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-electronichorizonpath">ElectronicHorizonPath</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[])</span></code></pre>
 </div>
 </div>
 </section>
@@ -114,7 +114,7 @@ The list may be empty if none of the <code><a href="sdk-for-ios-navigate-api-ref
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">mostPreferredPath</span><span class="p">()</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-electronichorizonpath">ElectronicHorizonPath</a></span><span class="p">?</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">mostPreferredPath</span><span class="p">()</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-electronichorizonpath">ElectronicHorizonPath</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 <div>

@@ -1,5 +1,5 @@
 ---
-title: "Search / EVAccessType"
+title: "sdk-for-ios-navigate-api-reference-enums-evaccesstype"
 slug: "sdk-for-ios-navigate-api-reference-enums-evaccesstype"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-enums-evaccesstype"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-search">Search</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-search">Search</a>
+<img alt="" id="carat" src="/carat.png"/>
         EVAccessType Enumeration Reference
       </p>
 </div>
@@ -33,7 +33,7 @@ slug: "sdk-for-ios-navigate-api-reference-enums-evaccesstype"
 <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">EVAccessType</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
-<p>Represents the accessibility level of an <code><a href="sdk-for-ios-navigate-api-reference-..-structs-evchargingpool">EVChargingPool</a></code>.</p>
+<p>Represents the accessibility level of an <code><a href="sdk-for-ios-navigate-api-reference-structs-evchargingpool">EVChargingPool</a></code>.</p>
 </section>
 <section class="section task-group-section">
 <div class="task-group">

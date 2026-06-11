@@ -1,5 +1,5 @@
 ---
-title: "Navigation / AutomotiveCameraBehavior"
+title: "sdk-for-ios-navigate-api-reference-classes-automotivecamerabehavior"
 slug: "sdk-for-ios-navigate-api-reference-classes-automotivecamerabehavior"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-classes-automotivecamerabehavior"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-navigation">Navigation</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-navigation">Navigation</a>
+<img alt="" id="carat" src="/carat.png"/>
         AutomotiveCameraBehavior Class Reference
       </p>
 </div>
@@ -30,14 +30,14 @@ slug: "sdk-for-ios-navigate-api-reference-classes-automotivecamerabehavior"
 <h1>AutomotiveCameraBehavior</h1>
 <div class="declaration">
 <div class="language">
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">AutomotiveCameraBehavior</span> <span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-camerabehavior">CameraBehavior</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">AutomotiveCameraBehavior</span> <span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-camerabehavior">CameraBehavior</a></span></code></pre>
 <pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">AutomotiveCameraBehavior</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
 <pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">AutomotiveCameraBehavior</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Provides a high-level camera controller for automotive navigation that manages both tracking
 and area camera behaviors. This class acts as a facade, delegating camera operations to either
-a <code><a href="sdk-for-ios-navigate-api-reference-..-classes-trackingcamerabehavior">TrackingCameraBehavior</a></code> for following the vehicle during navigation or an <code><a href="sdk-for-ios-navigate-api-reference-..-classes-areacamerabehavior">AreaCameraBehavior</a></code>
+a <code><a href="sdk-for-ios-navigate-api-reference-classes-trackingcamerabehavior">TrackingCameraBehavior</a></code> for following the vehicle during navigation or an <code><a href="sdk-for-ios-navigate-api-reference-classes-areacamerabehavior">AreaCameraBehavior</a></code>
 for showing overview areas such as points of interest or route previews.</p>
 <p>The controller supports three states: tracking mode (following the vehicle), area mode (showing
 geographic regions), or inactive (no automatic camera control). The inactive state allows
@@ -67,7 +67,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <div class="abstract">
 <p>Creates a new instance of this class with default camera behaviors and configuration.
 This constructor automatically creates and configures the underlying
-<code><a href="sdk-for-ios-navigate-api-reference-..-classes-trackingcamerabehavior">TrackingCameraBehavior</a></code> and <code><a href="sdk-for-ios-navigate-api-reference-..-classes-areacamerabehavior">AreaCameraBehavior</a></code> instances with default settings.</p>
+<code><a href="sdk-for-ios-navigate-api-reference-classes-trackingcamerabehavior">TrackingCameraBehavior</a></code> and <code><a href="sdk-for-ios-navigate-api-reference-classes-areacamerabehavior">AreaCameraBehavior</a></code> instances with default settings.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
@@ -94,7 +94,7 @@ This constructor automatically creates and configures the underlying
 <div class="abstract">
 <p>Creates a new instance of this class configured from a JSON string.
 The JSON configuration is validated during construction and applied to the
-underlying <code><a href="sdk-for-ios-navigate-api-reference-..-classes-trackingcamerabehavior">TrackingCameraBehavior</a></code> and <code><a href="sdk-for-ios-navigate-api-reference-..-classes-areacamerabehavior">AreaCameraBehavior</a></code> instances.</p>
+underlying <code><a href="sdk-for-ios-navigate-api-reference-classes-trackingcamerabehavior">TrackingCameraBehavior</a></code> and <code><a href="sdk-for-ios-navigate-api-reference-classes-areacamerabehavior">AreaCameraBehavior</a></code> instances.</p>
 <div class="aside aside-throws">
 <p class="aside-title">Throws</p>
 <code><a href="../Core.html#/s:7heresdk18InstantiationErrora">InstantiationError</a></code> <code><a href="../Core.html#/s:7heresdk18InstantiationErrora">InstantiationError</a></code> when the JSON is malformed or contains
@@ -153,7 +153,7 @@ of the mapview.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">normalizedPrincipalPoint</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-anchor2d">Anchor2D</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">normalizedPrincipalPoint</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-anchor2d">Anchor2D</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -213,7 +213,7 @@ If not set, it uses the viewport bounds of the underlying map view.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">viewRectangle</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-rectangle2d">Rectangle2D</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">viewRectangle</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-rectangle2d">Rectangle2D</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -241,7 +241,7 @@ or <code><a href="../Classes/AutomotiveCameraBehavior/ActiveCameraType.html#/s:7
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">activeCameraType</span><span class="p">:</span> <span class="kt">AutomotiveCameraBehavior</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-automotivecamerabehavior-activecameratype">ActiveCameraType</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">activeCameraType</span><span class="p">:</span> <span class="kt">AutomotiveCameraBehavior</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-automotivecamerabehavior-activecameratype">ActiveCameraType</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -272,7 +272,7 @@ preserved when switching between tracking and area modes.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">orientationMode</span><span class="p">:</span> <span class="kt">AutomotiveCameraBehavior</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-automotivecamerabehavior-orientationmode">OrientationMode</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">orientationMode</span><span class="p">:</span> <span class="kt">AutomotiveCameraBehavior</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-automotivecamerabehavior-orientationmode">OrientationMode</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -292,7 +292,7 @@ preserved when switching between tracking and area modes.</p>
 <div class="pointer"></div>
 <div class="abstract">
 <p>Defines the visual presentation modes for the camera orientation.</p>
-<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-..-classes-automotivecamerabehavior-orientationmode">See more</a>
+<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-classes-automotivecamerabehavior-orientationmode">See more</a>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
@@ -318,7 +318,7 @@ preserved when switching between tracking and area modes.</p>
 <div class="pointer"></div>
 <div class="abstract">
 <p>Defines the type of camera currently handling camera updates.</p>
-<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-..-classes-automotivecamerabehavior-activecameratype">See more</a>
+<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-classes-automotivecamerabehavior-activecameratype">See more</a>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
@@ -356,7 +356,7 @@ configured via <code><a href="../Classes/AutomotiveCameraBehavior.html#/s:7heres
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">setAreaCameraBehaviorVisiblePoints</span><span class="p">(</span><span class="nv">points</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-geocoordinates">GeoCoordinates</a></span><span class="p">],</span> <span class="nv">includeCurrentPosition</span><span class="p">:</span> <span class="kt">Bool</span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">setAreaCameraBehaviorVisiblePoints</span><span class="p">(</span><span class="nv">points</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-geocoordinates">GeoCoordinates</a></span><span class="p">],</span> <span class="nv">includeCurrentPosition</span><span class="p">:</span> <span class="kt">Bool</span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -420,7 +420,7 @@ via <code><a href="../Classes/AutomotiveCameraBehavior.html#/s:7heresdk24Automot
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">setAreaCameraBehaviorGeobox</span><span class="p">(</span><span class="nv">geobox</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-geobox">GeoBox</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">setAreaCameraBehaviorGeobox</span><span class="p">(</span><span class="nv">geobox</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-geobox">GeoBox</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>

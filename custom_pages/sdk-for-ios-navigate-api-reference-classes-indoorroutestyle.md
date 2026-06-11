@@ -1,5 +1,5 @@
 ---
-title: "Routing / IndoorRouteStyle"
+title: "sdk-for-ios-navigate-api-reference-classes-indoorroutestyle"
 slug: "sdk-for-ios-navigate-api-reference-classes-indoorroutestyle"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-classes-indoorroutestyle"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-routing">Routing</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-routing">Routing</a>
+<img alt="" id="carat" src="/carat.png"/>
         IndoorRouteStyle Class Reference
       </p>
 </div>
@@ -36,7 +36,7 @@ slug: "sdk-for-ios-navigate-api-reference-classes-indoorroutestyle"
 </div>
 </div>
 <p>Represents a style of the indoor route. Contains information about route colors and widths.
-Optionally, this style allows to set <code><a href="sdk-for-ios-navigate-api-reference-..-classes-mapmarker">MapMarker</a></code> instances that can be used for
+Optionally, this style allows to set <code><a href="sdk-for-ios-navigate-api-reference-classes-mapmarker">MapMarker</a></code> instances that can be used for
 specific route elements.</p>
 </section>
 <section class="section task-group-section">
@@ -132,14 +132,14 @@ The color of polylines for indoor route sections.</p>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>A <code><a href="sdk-for-ios-navigate-api-reference-..-classes-mapmarker">MapMarker</a></code> instance representing the start of the route. By default, no map marker is provided.
+<p>A <code><a href="sdk-for-ios-navigate-api-reference-classes-mapmarker">MapMarker</a></code> instance representing the start of the route. By default, no map marker is provided.
 The start map marker of the resulting route.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">startMarker</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-mapmarker">MapMarker</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">startMarker</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-mapmarker">MapMarker</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -158,14 +158,14 @@ The start map marker of the resulting route.</p>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>A <code><a href="sdk-for-ios-navigate-api-reference-..-classes-mapmarker">MapMarker</a></code> instance representing the destination of the route. By default, no map marker is provided
+<p>A <code><a href="sdk-for-ios-navigate-api-reference-classes-mapmarker">MapMarker</a></code> instance representing the destination of the route. By default, no map marker is provided
 The destination map marker of the resulting route.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">destinationMarker</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-mapmarker">MapMarker</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">destinationMarker</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-mapmarker">MapMarker</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -184,14 +184,14 @@ The destination map marker of the resulting route.</p>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>A <code><a href="sdk-for-ios-navigate-api-reference-..-classes-mapmarker">MapMarker</a></code> instance representing the walk point of the route. By default, no map marker is provided.
+<p>A <code><a href="sdk-for-ios-navigate-api-reference-classes-mapmarker">MapMarker</a></code> instance representing the walk point of the route. By default, no map marker is provided.
 The walk map marker of the resulting route. It signals that a user should leave their transport vehicle and continue on foot.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">walkMarker</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-mapmarker">MapMarker</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">walkMarker</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-mapmarker">MapMarker</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -210,14 +210,14 @@ The walk map marker of the resulting route. It signals that a user should leave 
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>A <code><a href="sdk-for-ios-navigate-api-reference-..-classes-mapmarker">MapMarker</a></code> instance representing the drive point of the route. By default, no map marker is provided.
+<p>A <code><a href="sdk-for-ios-navigate-api-reference-classes-mapmarker">MapMarker</a></code> instance representing the drive point of the route. By default, no map marker is provided.
 The drive map marker of the resulting route. It signals that a user should take a transport vehicle.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">driveMarker</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-mapmarker">MapMarker</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">driveMarker</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-mapmarker">MapMarker</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -236,14 +236,14 @@ The drive map marker of the resulting route. It signals that a user should take 
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Returns a <code><a href="sdk-for-ios-navigate-api-reference-..-classes-mapmarker">MapMarker</a></code> for a given indoor feature and
+<p>Returns a <code><a href="sdk-for-ios-navigate-api-reference-classes-mapmarker">MapMarker</a></code> for a given indoor feature and
 the number of levels to change. By default, no map markers are provided.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getIndoorMarkerFor</span><span class="p">(</span><span class="nv">feature</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-indoorlevelchangefeatures">IndoorLevelChangeFeatures</a></span><span class="p">,</span> <span class="nv">deltaZ</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-mapmarker">MapMarker</a></span><span class="p">?</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getIndoorMarkerFor</span><span class="p">(</span><span class="nv">feature</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-indoorlevelchangefeatures">IndoorLevelChangeFeatures</a></span><span class="p">,</span> <span class="nv">deltaZ</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-mapmarker">MapMarker</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 <div>
@@ -280,7 +280,7 @@ In the case of 0, the method returns an exit map marker.</p>
 </div>
 <div>
 <h4>Return Value</h4>
-<p>The result <code><a href="sdk-for-ios-navigate-api-reference-..-classes-mapmarker">MapMarker</a></code>, if it was set.</p>
+<p>The result <code><a href="sdk-for-ios-navigate-api-reference-classes-mapmarker">MapMarker</a></code>, if it was set.</p>
 </div>
 </section>
 </div>
@@ -304,7 +304,7 @@ In the case of 0, the method returns an exit map marker.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">setIndoorMarkersFor</span><span class="p">(</span><span class="nv">feature</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-indoorlevelchangefeatures">IndoorLevelChangeFeatures</a></span><span class="p">,</span> <span class="nv">upMarker</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-mapmarker">MapMarker</a></span><span class="p">?,</span> <span class="nv">downMarker</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-mapmarker">MapMarker</a></span><span class="p">?,</span> <span class="nv">exitMarker</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-mapmarker">MapMarker</a></span><span class="p">?)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">setIndoorMarkersFor</span><span class="p">(</span><span class="nv">feature</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-indoorlevelchangefeatures">IndoorLevelChangeFeatures</a></span><span class="p">,</span> <span class="nv">upMarker</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-mapmarker">MapMarker</a></span><span class="p">?,</span> <span class="nv">downMarker</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-mapmarker">MapMarker</a></span><span class="p">?,</span> <span class="nv">exitMarker</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-mapmarker">MapMarker</a></span><span class="p">?)</span></code></pre>
 </div>
 </div>
 <div>
@@ -331,7 +331,7 @@ In the case of 0, the method returns an exit map marker.</p>
 </td>
 <td>
 <div>
-<p>A <code><a href="sdk-for-ios-navigate-api-reference-..-classes-mapmarker">MapMarker</a></code> to go up.</p>
+<p>A <code><a href="sdk-for-ios-navigate-api-reference-classes-mapmarker">MapMarker</a></code> to go up.</p>
 </div>
 </td>
 </tr>
@@ -343,7 +343,7 @@ In the case of 0, the method returns an exit map marker.</p>
 </td>
 <td>
 <div>
-<p>A <code><a href="sdk-for-ios-navigate-api-reference-..-classes-mapmarker">MapMarker</a></code> to go down.</p>
+<p>A <code><a href="sdk-for-ios-navigate-api-reference-classes-mapmarker">MapMarker</a></code> to go down.</p>
 </div>
 </td>
 </tr>
@@ -355,7 +355,7 @@ In the case of 0, the method returns an exit map marker.</p>
 </td>
 <td>
 <div>
-<p>A <code><a href="sdk-for-ios-navigate-api-reference-..-classes-mapmarker">MapMarker</a></code> to exit the indoor feature.</p>
+<p>A <code><a href="sdk-for-ios-navigate-api-reference-classes-mapmarker">MapMarker</a></code> to exit the indoor feature.</p>
 </div>
 </td>
 </tr>

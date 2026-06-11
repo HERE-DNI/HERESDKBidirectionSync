@@ -1,5 +1,5 @@
 ---
-title: "Navigation / MilestoneType"
+title: "sdk-for-ios-navigate-api-reference-enums-milestonetype"
 slug: "sdk-for-ios-navigate-api-reference-enums-milestonetype"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-enums-milestonetype"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-navigation">Navigation</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-navigation">Navigation</a>
+<img alt="" id="carat" src="/carat.png"/>
         MilestoneType Enumeration Reference
       </p>
 </div>
@@ -33,7 +33,7 @@ slug: "sdk-for-ios-navigate-api-reference-enums-milestonetype"
 <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">MilestoneType</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
-<p>This enum represents the type of the <code><a href="sdk-for-ios-navigate-api-reference-..-structs-milestone">Milestone</a></code>.</p>
+<p>This enum represents the type of the <code><a href="sdk-for-ios-navigate-api-reference-structs-milestone">Milestone</a></code>.</p>
 </section>
 <section class="section task-group-section">
 <div class="task-group">
@@ -51,7 +51,7 @@ slug: "sdk-for-ios-navigate-api-reference-enums-milestonetype"
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>A <code><a href="sdk-for-ios-navigate-api-reference-..-structs-milestone">Milestone</a></code> that corresponds to stopover waypoint.</p>
+<p>A <code><a href="sdk-for-ios-navigate-api-reference-structs-milestone">Milestone</a></code> that corresponds to stopover waypoint.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
@@ -76,7 +76,7 @@ slug: "sdk-for-ios-navigate-api-reference-enums-milestonetype"
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>A <code><a href="sdk-for-ios-navigate-api-reference-..-structs-milestone">Milestone</a></code> that corresponds to passthrough waypoint.</p>
+<p>A <code><a href="sdk-for-ios-navigate-api-reference-structs-milestone">Milestone</a></code> that corresponds to passthrough waypoint.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>

@@ -1,5 +1,5 @@
 ---
-title: "Maps / Style"
+title: "sdk-for-ios-navigate-api-reference-classes-style"
 slug: "sdk-for-ios-navigate-api-reference-classes-style"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-classes-style"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-maps">Maps</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-maps">Maps</a>
+<img alt="" id="carat" src="/carat.png"/>
         Style Class Reference
       </p>
 </div>
@@ -36,7 +36,7 @@ slug: "sdk-for-ios-navigate-api-reference-classes-style"
 </div>
 </div>
 <p>A style that defines the visual appearance of map rendered features.
-A <code>Style</code> can be created using a <code><a href="sdk-for-ios-navigate-api-reference-..-classes-jsonstylefactory">JsonStyleFactory</a></code>.</p>
+A <code>Style</code> can be created using a <code><a href="sdk-for-ios-navigate-api-reference-classes-jsonstylefactory">JsonStyleFactory</a></code>.</p>
 <p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
 behavior. Related APIs may change for new releases without a deprecation process.</p>
 </section>

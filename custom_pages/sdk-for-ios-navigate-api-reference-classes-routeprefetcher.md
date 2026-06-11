@@ -1,5 +1,5 @@
 ---
-title: "Routing / RoutePrefetcher"
+title: "sdk-for-ios-navigate-api-reference-classes-routeprefetcher"
 slug: "sdk-for-ios-navigate-api-reference-classes-routeprefetcher"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-classes-routeprefetcher"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-routing">Routing</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-routing">Routing</a>
+<img alt="" id="carat" src="/carat.png"/>
         RoutePrefetcher Class Reference
       </p>
 </div>
@@ -59,13 +59,13 @@ Related APIs may change for new releases without a deprecation process.</p>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Creates a RoutePrefetcher instance for a given <code><a href="sdk-for-ios-navigate-api-reference-..-classes-sdknativeengine">SDKNativeEngine</a></code>.</p>
+<p>Creates a RoutePrefetcher instance for a given <code><a href="sdk-for-ios-navigate-api-reference-classes-sdknativeengine">SDKNativeEngine</a></code>.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">_</span> <span class="nv">sdkEngine</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-sdknativeengine">SDKNativeEngine</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">_</span> <span class="nv">sdkEngine</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-sdknativeengine">SDKNativeEngine</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -142,8 +142,8 @@ to ensure a smooth experience.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">@available(*, deprecated, message: "Will be removed in v4.27.0. Please use <code>PolygonPrefetcher.prefetch(...﹚</code> instead.")</span>
-<span class="kd">public</span> <span class="kd">func</span> <span class="nf">prefetchAroundLocationWithRadius</span><span class="p">(</span><span class="nv">currentLocation</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-geocoordinates">GeoCoordinates</a></span><span class="p">,</span> <span class="nv">radiusInMeters</span><span class="p">:</span> <span class="kt">Double</span><span class="p">?)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">@available(*, deprecated, message: "Will be removed in v4.27.0. Please use PolygonPrefetcher.prefetch(...﹚ instead.")</span>
+<span class="kd">public</span> <span class="kd">func</span> <span class="nf">prefetchAroundLocationWithRadius</span><span class="p">(</span><span class="nv">currentLocation</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-geocoordinates">GeoCoordinates</a></span><span class="p">,</span> <span class="nv">radiusInMeters</span><span class="p">:</span> <span class="kt">Double</span><span class="p">?)</span></code></pre>
 </div>
 </div>
 <div>
@@ -194,12 +194,12 @@ to ensure a smooth experience.</p>
 <div class="pointer"></div>
 <div class="abstract">
 <p>Prefetches map data within a corridor along the route, that is currently set for the
-provided <code><a href="sdk-for-ios-navigate-api-reference-..-protocols-navigatorprotocol">NavigatorProtocol</a></code> instance. If no route is set, no data will be prefetched.
+provided <code><a href="sdk-for-ios-navigate-api-reference-protocols-navigatorprotocol">NavigatorProtocol</a></code> instance. If no route is set, no data will be prefetched.
 The route corridor defaults to a length of 10 km and a width of 5 km.
 To prefetch the whole route before navigation has been started see <code><a href="../Classes/RoutePrefetcher.html#/s:7heresdk15RoutePrefetcherC19prefetchGeoCorridor8corridor8callbackAA10TaskHandle_pAA0eF0V_AA22PrefetchStatusListener_ptF">RoutePrefetcher.prefetchGeoCorridor(...)</a></code>.
 Map data is prefetched only in discrete intervals. Prefetching starts 1 km before reaching the
 end of the current corridor. Prefetching happens based on the current map-matched location - as
-indicated by the <code><a href="sdk-for-ios-navigate-api-reference-..-structs-routeprogress">RouteProgress</a></code> event.
+indicated by the <code><a href="sdk-for-ios-navigate-api-reference-structs-routeprogress">RouteProgress</a></code> event.
 This method should be called right after navigation has started.
 In case of default prefetch length first prefetching will start after traveling a distance
 of 9 km along the route.</p>
@@ -209,7 +209,7 @@ of 9 km along the route.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">prefetchAroundRouteOnIntervals</span><span class="p">(</span><span class="nv">navigator</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-navigatorprotocol">NavigatorProtocol</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">prefetchAroundRouteOnIntervals</span><span class="p">(</span><span class="nv">navigator</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-navigatorprotocol">NavigatorProtocol</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -224,7 +224,7 @@ of 9 km along the route.</p>
 </td>
 <td>
 <div>
-<p>The <code><a href="sdk-for-ios-navigate-api-reference-..-protocols-navigatorprotocol">NavigatorProtocol</a></code> to listen for Route Progress to prefetch data ahead.</p>
+<p>The <code><a href="sdk-for-ios-navigate-api-reference-protocols-navigatorprotocol">NavigatorProtocol</a></code> to listen for Route Progress to prefetch data ahead.</p>
 </div>
 </td>
 </tr>
@@ -247,7 +247,7 @@ of 9 km along the route.</p>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Stops listening <code><a href="sdk-for-ios-navigate-api-reference-..-protocols-navigatorprotocol">NavigatorProtocol</a></code> passed to <code><a href="../Classes/RoutePrefetcher.html#/s:7heresdk15RoutePrefetcherC014prefetchAroundB11OnIntervals9navigatoryAA17NavigatorProtocol_p_tF">RoutePrefetcher.prefetchAroundRouteOnIntervals(...)</a></code>
+<p>Stops listening <code><a href="sdk-for-ios-navigate-api-reference-protocols-navigatorprotocol">NavigatorProtocol</a></code> passed to <code><a href="../Classes/RoutePrefetcher.html#/s:7heresdk15RoutePrefetcherC014prefetchAroundB11OnIntervals9navigatoryAA17NavigatorProtocol_p_tF">RoutePrefetcher.prefetchAroundRouteOnIntervals(...)</a></code>
 for route progress events and stops prefetching data along the current route.</p>
 </div>
 <div class="declaration">
@@ -285,7 +285,7 @@ Please also note, any route calculation may not possible on prefetched tiles.</p
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">prefetchGeoCorridor</span><span class="p">(</span><span class="nv">corridor</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-geocorridor">GeoCorridor</a></span><span class="p">,</span> <span class="nv">callback</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-prefetchstatuslistener">PrefetchStatusListener</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-taskhandle">TaskHandle</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">prefetchGeoCorridor</span><span class="p">(</span><span class="nv">corridor</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-geocorridor">GeoCorridor</a></span><span class="p">,</span> <span class="nv">callback</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-prefetchstatuslistener">PrefetchStatusListener</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-taskhandle">TaskHandle</a></span></code></pre>
 </div>
 </div>
 <div>
@@ -300,7 +300,7 @@ Please also note, any route calculation may not possible on prefetched tiles.</p
 </td>
 <td>
 <div>
-<p>indicates <code><a href="sdk-for-ios-navigate-api-reference-..-structs-geocorridor">GeoCorridor</a></code> that can be constructed from the route.</p>
+<p>indicates <code><a href="sdk-for-ios-navigate-api-reference-structs-geocorridor">GeoCorridor</a></code> that can be constructed from the route.</p>
 </div>
 </td>
 </tr>

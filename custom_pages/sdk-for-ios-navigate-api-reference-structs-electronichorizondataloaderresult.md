@@ -1,5 +1,5 @@
 ---
-title: "ElectronicHorizon / ElectronicHorizonDataLoaderResult"
+title: "sdk-for-ios-navigate-api-reference-structs-electronichorizondataloaderresult"
 slug: "sdk-for-ios-navigate-api-reference-structs-electronichorizondataloaderresult"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-structs-electronichorizondataloaderres
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-electronichorizon">ElectronicHorizon</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-electronichorizon">ElectronicHorizon</a>
+<img alt="" id="carat" src="/carat.png"/>
         ElectronicHorizonDataLoaderResult Structure Reference
       </p>
 </div>
@@ -33,7 +33,7 @@ slug: "sdk-for-ios-navigate-api-reference-structs-electronichorizondataloaderres
 <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">ElectronicHorizonDataLoaderResult</span></code></pre>
 </div>
 </div>
-<p>Represents the result of a data loading operation performed by <code><a href="sdk-for-ios-navigate-api-reference-..-classes-electronichorizondataloader">ElectronicHorizonDataLoader</a></code>.
+<p>Represents the result of a data loading operation performed by <code><a href="sdk-for-ios-navigate-api-reference-classes-electronichorizondataloader">ElectronicHorizonDataLoader</a></code>.
 The result contains either the loaded segment data or an error code.</p>
 <p>Note: This is a <strong>beta</strong> release of this feature, so there could be a few bugs and unexpected behaviors.
 Related APIs may change for new releases without a deprecation process.</p>
@@ -60,7 +60,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">errorCode</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-electronichorizondataloadererrorcode">ElectronicHorizonDataLoaderErrorCode</a></span><span class="p">?</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">errorCode</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-electronichorizondataloadererrorcode">ElectronicHorizonDataLoaderErrorCode</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -85,7 +85,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">segmentData</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-segmentdata">SegmentData</a></span><span class="p">?</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">segmentData</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-segmentdata">SegmentData</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -111,7 +111,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">errorCode</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-electronichorizondataloadererrorcode">ElectronicHorizonDataLoaderErrorCode</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">segmentData</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-segmentdata">SegmentData</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">errorCode</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-electronichorizondataloadererrorcode">ElectronicHorizonDataLoaderErrorCode</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">segmentData</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-segmentdata">SegmentData</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>

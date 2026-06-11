@@ -1,5 +1,5 @@
 ---
-title: "MapLoader / InstalledRegionStatus"
+title: "sdk-for-ios-navigate-api-reference-enums-installedregionstatus"
 slug: "sdk-for-ios-navigate-api-reference-enums-installedregionstatus"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-enums-installedregionstatus"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-maploader">MapLoader</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-maploader">MapLoader</a>
+<img alt="" id="carat" src="/carat.png"/>
         InstalledRegionStatus Enumeration Reference
       </p>
 </div>
@@ -81,7 +81,7 @@ the progress will continue where it was left off - or you can cancel this downlo
 or delete this region.
 The following reasons can lead to this status: An ongoing or paused download or an
 abrupt end, for example, when the app was closed. Ongoing or paused downloads can be
-resumed with the <code><a href="sdk-for-ios-navigate-api-reference-..-classes-mapdownloadertask">MapDownloaderTask</a></code>.</p>
+resumed with the <code><a href="sdk-for-ios-navigate-api-reference-classes-mapdownloadertask">MapDownloaderTask</a></code>.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>

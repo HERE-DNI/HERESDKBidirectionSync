@@ -1,5 +1,5 @@
 ---
-title: "Venues / VenueService"
+title: "sdk-for-ios-navigate-api-reference-classes-venueservice"
 slug: "sdk-for-ios-navigate-api-reference-classes-venueservice"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-classes-venueservice"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-venues">Venues</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-venues">Venues</a>
+<img alt="" id="carat" src="/carat.png"/>
         VenueService Class Reference
       </p>
 </div>
@@ -119,7 +119,7 @@ connection to check if the venue is available for the user.
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">typealias</span> <span class="kt">VenueInfoList</span> <span class="o">=</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-venueinfo">VenueInfo</a></span><span class="p">]</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">typealias</span> <span class="kt">VenueInfoList</span> <span class="o">=</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-venueinfo">VenueInfo</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -144,7 +144,7 @@ connection to check if the venue is available for the user.
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">typealias</span> <span class="kt">VenueOptionalFeatureList</span> <span class="o">=</span> <span class="p">[</span><span class="kt">VenueService</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-venueservice-venueoptionalfeature">VenueOptionalFeature</a></span><span class="p">]</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">typealias</span> <span class="kt">VenueOptionalFeatureList</span> <span class="o">=</span> <span class="p">[</span><span class="kt">VenueService</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-venueservice-venueoptionalfeature">VenueOptionalFeature</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -217,7 +217,7 @@ exist, a venue will be loaded in its default language.</p>
 <div class="pointer"></div>
 <div class="abstract">
 <p>Optional features enum</p>
-<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-..-classes-venueservice-venueoptionalfeature">See more</a>
+<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-classes-venueservice-venueoptionalfeature">See more</a>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
@@ -275,7 +275,7 @@ delegates.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">addServiceDelegate</span><span class="p">(</span><span class="n">_</span> <span class="nv">delegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-venueservicedelegate">VenueServiceDelegate</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">addServiceDelegate</span><span class="p">(</span><span class="n">_</span> <span class="nv">delegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-venueservicedelegate">VenueServiceDelegate</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -320,7 +320,7 @@ is not removed if it is not present in the list of delegates.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">removeServiceDelegate</span><span class="p">(</span><span class="n">_</span> <span class="nv">delegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-venueservicedelegate">VenueServiceDelegate</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">removeServiceDelegate</span><span class="p">(</span><span class="n">_</span> <span class="nv">delegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-venueservicedelegate">VenueServiceDelegate</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -366,7 +366,7 @@ delegates.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">addVenueDelegate</span><span class="p">(</span><span class="n">_</span> <span class="nv">delegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-venuedelegate">VenueDelegate</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">addVenueDelegate</span><span class="p">(</span><span class="n">_</span> <span class="nv">delegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-venuedelegate">VenueDelegate</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -411,7 +411,7 @@ is not removed if it is not present in the list of delegates.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">removeVenueDelegate</span><span class="p">(</span><span class="n">_</span> <span class="nv">delegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-venuedelegate">VenueDelegate</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">removeVenueDelegate</span><span class="p">(</span><span class="n">_</span> <span class="nv">delegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-venuedelegate">VenueDelegate</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -457,7 +457,7 @@ delegates.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">addVenueMapDelegate</span><span class="p">(</span><span class="n">_</span> <span class="nv">delegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-venuemapdelegate">VenueMapDelegate</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">addVenueMapDelegate</span><span class="p">(</span><span class="n">_</span> <span class="nv">delegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-venuemapdelegate">VenueMapDelegate</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -502,7 +502,7 @@ is not removed if it is not present in the list of delegates.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">removeVenueMapDelegate</span><span class="p">(</span><span class="n">_</span> <span class="nv">delegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-venuemapdelegate">VenueMapDelegate</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">removeVenueMapDelegate</span><span class="p">(</span><span class="n">_</span> <span class="nv">delegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-venuemapdelegate">VenueMapDelegate</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -546,7 +546,7 @@ is not removed if it is not present in the list of delegates.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getInitStatus</span><span class="p">()</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-venueserviceinitstatus">VenueServiceInitStatus</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getInitStatus</span><span class="p">()</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-venueserviceinitstatus">VenueServiceInitStatus</a></span></code></pre>
 </div>
 </div>
 <div>

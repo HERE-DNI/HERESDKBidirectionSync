@@ -1,5 +1,5 @@
 ---
-title: "Venues / VenueDrawingSelectionDelegate"
+title: "sdk-for-ios-navigate-api-reference-protocols-venuedrawingselectiondelegate"
 slug: "sdk-for-ios-navigate-api-reference-protocols-venuedrawingselectiondelegate"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-venuedrawingselectiondelegat
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-venues">Venues</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-venues">Venues</a>
+<img alt="" id="carat" src="/carat.png"/>
         VenueDrawingSelectionDelegate Protocol Reference
       </p>
 </div>
@@ -34,7 +34,7 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-venuedrawingselectiondelegat
 </div>
 </div>
 <p>The protocol for delegates for
-the <code><a href="sdk-for-ios-navigate-api-reference-..-classes-venuedrawing">VenueDrawing</a></code> selection event. Use the <code><a href="sdk-for-ios-navigate-api-reference-..-classes-venuemap">VenueMap</a></code>
+the <code><a href="sdk-for-ios-navigate-api-reference-classes-venuedrawing">VenueDrawing</a></code> selection event. Use the <code><a href="sdk-for-ios-navigate-api-reference-classes-venuemap">VenueMap</a></code>
 to add and remove the <code>VenueDrawingSelectionDelegate</code>.</p>
 </section>
 <section class="section task-group-section">
@@ -53,13 +53,13 @@ to add and remove the <code>VenueDrawingSelectionDelegate</code>.</p>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Indicates that new <code><a href="sdk-for-ios-navigate-api-reference-..-classes-venuedrawing">VenueDrawing</a></code> has been selected.</p>
+<p>Indicates that new <code><a href="sdk-for-ios-navigate-api-reference-classes-venuedrawing">VenueDrawing</a></code> has been selected.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">onDrawingSelected</span><span class="p">(</span><span class="nv">venue</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-venue">Venue</a></span><span class="p">,</span> <span class="nv">deselectedDrawing</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-venuedrawing">VenueDrawing</a></span><span class="p">?,</span> <span class="nv">selectedDrawing</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-venuedrawing">VenueDrawing</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">onDrawingSelected</span><span class="p">(</span><span class="nv">venue</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-venue">Venue</a></span><span class="p">,</span> <span class="nv">deselectedDrawing</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-venuedrawing">VenueDrawing</a></span><span class="p">?,</span> <span class="nv">selectedDrawing</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-venuedrawing">VenueDrawing</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -74,7 +74,7 @@ to add and remove the <code>VenueDrawingSelectionDelegate</code>.</p>
 </td>
 <td>
 <div>
-<p>The <code><a href="sdk-for-ios-navigate-api-reference-..-classes-venue">Venue</a></code> where a selected drawing was changed.</p>
+<p>The <code><a href="sdk-for-ios-navigate-api-reference-classes-venue">Venue</a></code> where a selected drawing was changed.</p>
 </div>
 </td>
 </tr>
@@ -86,7 +86,7 @@ to add and remove the <code>VenueDrawingSelectionDelegate</code>.</p>
 </td>
 <td>
 <div>
-<p>The previously selected <code><a href="sdk-for-ios-navigate-api-reference-..-classes-venuedrawing">VenueDrawing</a></code> object or <code>nil</code>
+<p>The previously selected <code><a href="sdk-for-ios-navigate-api-reference-classes-venuedrawing">VenueDrawing</a></code> object or <code>nil</code>
 if there was no selected drawing before.</p>
 </div>
 </td>
@@ -99,7 +99,7 @@ if there was no selected drawing before.</p>
 </td>
 <td>
 <div>
-<p>The new selected <code><a href="sdk-for-ios-navigate-api-reference-..-classes-venuedrawing">VenueDrawing</a></code> object.</p>
+<p>The new selected <code><a href="sdk-for-ios-navigate-api-reference-classes-venuedrawing">VenueDrawing</a></code> object.</p>
 </div>
 </td>
 </tr>

@@ -1,5 +1,5 @@
 ---
-title: "MapLoader / Region"
+title: "sdk-for-ios-navigate-api-reference-structs-region"
 slug: "sdk-for-ios-navigate-api-reference-structs-region"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-structs-region"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-maploader">MapLoader</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-maploader">MapLoader</a>
+<img alt="" id="carat" src="/carat.png"/>
         Region Structure Reference
       </p>
 </div>
@@ -57,7 +57,7 @@ slug: "sdk-for-ios-navigate-api-reference-structs-region"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">regionId</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-regionid">RegionId</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">regionId</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-regionid">RegionId</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -76,7 +76,7 @@ slug: "sdk-for-ios-navigate-api-reference-structs-region"
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Name of region. Language is determined by the requested <code><a href="sdk-for-ios-navigate-api-reference-..-enums-languagecode">LanguageCode</a></code>. By default,
+<p>Name of region. Language is determined by the requested <code><a href="sdk-for-ios-navigate-api-reference-enums-languagecode">LanguageCode</a></code>. By default,
 it is in <code><a href="../Enums/LanguageCode.html#/s:7heresdk12LanguageCodeO4enUsyA2CmF">LanguageCode.enUs</a></code>.</p>
 </div>
 <div class="declaration">
@@ -192,7 +192,7 @@ A downloadable region will contain the content of all children.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">navigability</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-navigabilitytype">NavigabilityType</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">navigability</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-navigabilitytype">NavigabilityType</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -217,7 +217,7 @@ A downloadable region will contain the content of all children.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">regionId</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-regionid">RegionId</a></span><span class="p">,</span> <span class="nv">name</span><span class="p">:</span> <span class="kt">String</span> <span class="o">=</span> <span class="s">""</span><span class="p">,</span> <span class="nv">sizeOnDiskInBytes</span><span class="p">:</span> <span class="kt">Int64</span> <span class="o">=</span> <span class="mi">0</span><span class="p">,</span> <span class="nv">sizeOnNetworkInBytes</span><span class="p">:</span> <span class="kt">Int64</span> <span class="o">=</span> <span class="mi">0</span><span class="p">,</span> <span class="nv">childRegions</span><span class="p">:</span> <span class="p">[</span><span class="kt">Region</span><span class="p">]?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">navigability</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-navigabilitytype">NavigabilityType</a></span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-navigabilitytype">NavigabilityType</a></span><span class="o">.</span><span class="n">navigable</span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">regionId</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-regionid">RegionId</a></span><span class="p">,</span> <span class="nv">name</span><span class="p">:</span> <span class="kt">String</span> <span class="o">=</span> <span class="s">""</span><span class="p">,</span> <span class="nv">sizeOnDiskInBytes</span><span class="p">:</span> <span class="kt">Int64</span> <span class="o">=</span> <span class="mi">0</span><span class="p">,</span> <span class="nv">sizeOnNetworkInBytes</span><span class="p">:</span> <span class="kt">Int64</span> <span class="o">=</span> <span class="mi">0</span><span class="p">,</span> <span class="nv">childRegions</span><span class="p">:</span> <span class="p">[</span><span class="kt">Region</span><span class="p">]?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">navigability</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-navigabilitytype">NavigabilityType</a></span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-navigabilitytype">NavigabilityType</a></span><span class="o">.</span><span class="n">navigable</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>

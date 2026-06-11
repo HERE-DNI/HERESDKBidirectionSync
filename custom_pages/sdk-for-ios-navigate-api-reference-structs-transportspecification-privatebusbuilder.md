@@ -1,5 +1,5 @@
 ---
-title: "TransportSpecification / PrivateBusBuilder"
+title: "sdk-for-ios-navigate-api-reference-structs-transportspecification-privatebusbuilder"
 slug: "sdk-for-ios-navigate-api-reference-structs-transportspecification-privatebusbuilder"
 ---
 
@@ -15,12 +15,12 @@ slug: "sdk-for-ios-navigate-api-reference-structs-transportspecification-private
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-..-index">heresdk</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-..-transport">Transport</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-..-structs-transportspecification">TransportSpecification</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-transport">Transport</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-structs-transportspecification">TransportSpecification</a>
+<img alt="" id="carat" src="/carat.png"/>
         PrivateBusBuilder Class Reference
       </p>
 </div>
@@ -33,11 +33,11 @@ slug: "sdk-for-ios-navigate-api-reference-structs-transportspecification-private
 <div class="declaration">
 <div class="language">
 <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">PrivateBusBuilder</span></code></pre>
-<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-structs-transportspecification">TransportSpecification</a></span><span class="o">.</span><span class="kt">PrivateBusBuilder</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
-<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-structs-transportspecification">TransportSpecification</a></span><span class="o">.</span><span class="kt">PrivateBusBuilder</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-transportspecification">TransportSpecification</a></span><span class="o">.</span><span class="kt">PrivateBusBuilder</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-transportspecification">TransportSpecification</a></span><span class="o">.</span><span class="kt">PrivateBusBuilder</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
-<p>This class constructs a <code><a href="sdk-for-ios-navigate-api-reference-..-..-structs-transportspecification">TransportSpecification</a></code> for a private bus.</p>
+<p>This class constructs a <code><a href="sdk-for-ios-navigate-api-reference-structs-transportspecification">TransportSpecification</a></code> for a private bus.</p>
 </section>
 <section class="section task-group-section">
 <div class="task-group">
@@ -86,7 +86,7 @@ slug: "sdk-for-ios-navigate-api-reference-structs-transportspecification-private
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">withVehicleSpecification</span><span class="p">(</span><span class="n">_</span> <span class="nv">vehicleSpecification</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-structs-vehiclespecification">VehicleSpecification</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-structs-transportspecification">TransportSpecification</a></span><span class="o">.</span><span class="kt">PrivateBusBuilder</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">withVehicleSpecification</span><span class="p">(</span><span class="n">_</span> <span class="nv">vehicleSpecification</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-vehiclespecification">VehicleSpecification</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-transportspecification">TransportSpecification</a></span><span class="o">.</span><span class="kt">PrivateBusBuilder</span></code></pre>
 </div>
 </div>
 <div>
@@ -128,19 +128,19 @@ slug: "sdk-for-ios-navigate-api-reference-structs-transportspecification-private
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Builds the <code><a href="sdk-for-ios-navigate-api-reference-..-..-structs-transportspecification">TransportSpecification</a></code> object for a private bus with the specifications taken
+<p>Builds the <code><a href="sdk-for-ios-navigate-api-reference-structs-transportspecification">TransportSpecification</a></code> object for a private bus with the specifications taken
 from the <code>TransportSpecification.PrivateBusBuilder</code> object.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">build</span><span class="p">()</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-structs-transportspecification">TransportSpecification</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">build</span><span class="p">()</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-transportspecification">TransportSpecification</a></span></code></pre>
 </div>
 </div>
 <div>
 <h4>Return Value</h4>
-<p>The <code><a href="sdk-for-ios-navigate-api-reference-..-..-structs-transportspecification">TransportSpecification</a></code> object created from the <code>TransportSpecification.PrivateBusBuilder</code> object.</p>
+<p>The <code><a href="sdk-for-ios-navigate-api-reference-structs-transportspecification">TransportSpecification</a></code> object created from the <code>TransportSpecification.PrivateBusBuilder</code> object.</p>
 </div>
 </section>
 </div>

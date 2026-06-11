@@ -1,5 +1,5 @@
 ---
-title: "ElectronicHorizon / ElectronicHorizonDataLoaderStatusDelegate"
+title: "sdk-for-ios-navigate-api-reference-protocols-electronichorizondataloaderstatusdelegate"
 slug: "sdk-for-ios-navigate-api-reference-protocols-electronichorizondataloaderstatusdelegate"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-electronichorizondataloaders
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-electronichorizon">ElectronicHorizon</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-electronichorizon">ElectronicHorizon</a>
+<img alt="" id="carat" src="/carat.png"/>
         ElectronicHorizonDataLoaderStatusDelegate Protocol Reference
       </p>
 </div>
@@ -34,7 +34,7 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-electronichorizondataloaders
 </div>
 </div>
 <p>Provides a delegate for status updates from the <code><a href="../Classes/ElectronicHorizonDataLoader.html#/s:7heresdk27ElectronicHorizonDataLoaderC04loadD0010electronicC6UpdateyAA0bcH0V_tF">ElectronicHorizonDataLoader.loadData(...)</a></code> method.
-The listener receives the current state for different levels of the paths as <code><a href="sdk-for-ios-navigate-api-reference-..-enums-electronichorizondataloadedstatus">ElectronicHorizonDataLoadedStatus</a></code>.</p>
+The listener receives the current state for different levels of the paths as <code><a href="sdk-for-ios-navigate-api-reference-enums-electronichorizondataloadedstatus">ElectronicHorizonDataLoadedStatus</a></code>.</p>
 <p>Note: This is a <strong>beta</strong> release of this feature, so there could be a few bugs and unexpected behaviors.
 Related APIs may change for new releases without a deprecation process.</p>
 <p>Offline availability: This property is available online and offline.</p>
@@ -55,13 +55,13 @@ Related APIs may change for new releases without a deprecation process.</p>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Called whenever there is a change in the status of the loaded data from <code><a href="sdk-for-ios-navigate-api-reference-..-classes-electronichorizondataloader">ElectronicHorizonDataLoader</a></code>.</p>
+<p>Called whenever there is a change in the status of the loaded data from <code><a href="sdk-for-ios-navigate-api-reference-classes-electronichorizondataloader">ElectronicHorizonDataLoader</a></code>.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">onElectronicHorizonDataLoaderStatusUpdated</span><span class="p">(</span><span class="nv">electronicHorizonDataLoaderStatuses</span><span class="p">:</span> <span class="p">[</span><span class="kt">Int32</span> <span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-electronichorizondataloadedstatus">ElectronicHorizonDataLoadedStatus</a></span><span class="p">])</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">onElectronicHorizonDataLoaderStatusUpdated</span><span class="p">(</span><span class="nv">electronicHorizonDataLoaderStatuses</span><span class="p">:</span> <span class="p">[</span><span class="kt">Int32</span> <span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-electronichorizondataloadedstatus">ElectronicHorizonDataLoadedStatus</a></span><span class="p">])</span></code></pre>
 </div>
 </div>
 <div>
@@ -76,8 +76,8 @@ Related APIs may change for new releases without a deprecation process.</p>
 </td>
 <td>
 <div>
-<p>The updated statuses of the loaded data from <code><a href="sdk-for-ios-navigate-api-reference-..-classes-electronichorizondataloader">ElectronicHorizonDataLoader</a></code>.
-The key is the level of a <code><a href="sdk-for-ios-navigate-api-reference-..-structs-electronichorizonpath">ElectronicHorizonPath</a></code>, the value is the current status.</p>
+<p>The updated statuses of the loaded data from <code><a href="sdk-for-ios-navigate-api-reference-classes-electronichorizondataloader">ElectronicHorizonDataLoader</a></code>.
+The key is the level of a <code><a href="sdk-for-ios-navigate-api-reference-structs-electronichorizonpath">ElectronicHorizonPath</a></code>, the value is the current status.</p>
 </div>
 </td>
 </tr>

@@ -1,5 +1,5 @@
 ---
-title: "Positioning / LocationSimulatorOptions"
+title: "sdk-for-ios-navigate-api-reference-structs-locationsimulatoroptions"
 slug: "sdk-for-ios-navigate-api-reference-structs-locationsimulatoroptions"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-structs-locationsimulatoroptions"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-positioning">Positioning</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-positioning">Positioning</a>
+<img alt="" id="carat" src="/carat.png"/>
         LocationSimulatorOptions Structure Reference
       </p>
 </div>
@@ -87,7 +87,7 @@ For example, a value of 2.0 will double the speed.</p>
 Defaults to 1 second.
 Note that <code>TimeInterval</code> accepts seconds as double, so 500 ms can be set as 0.5 s.
 Values less than 1 ms are not acceptable and the interval is raised to this minimum in object constructors.</p>
-<p>Note: This value does not affect <code><a href="sdk-for-ios-navigate-api-reference-..-classes-locationsimulator">LocationSimulator</a></code> when created with a <code><a href="sdk-for-ios-navigate-api-reference-..-classes-gpxtrack">GPXTrack</a></code>.</p>
+<p>Note: This value does not affect <code><a href="sdk-for-ios-navigate-api-reference-classes-locationsimulator">LocationSimulator</a></code> when created with a <code><a href="sdk-for-ios-navigate-api-reference-classes-gpxtrack">GPXTrack</a></code>.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
@@ -129,7 +129,7 @@ Defaults to 1 second.
 Note that <code>TimeInterval</code> accepts seconds as double, so 500 ms can be set as 0.5 s.
 Values less than 1 ms are not acceptable and the interval is raised to this minimum in object constructors.</li>
 </ul>
-<p>Note: This value does not affect <code><a href="sdk-for-ios-navigate-api-reference-..-classes-locationsimulator">LocationSimulator</a></code> when created with a <code><a href="sdk-for-ios-navigate-api-reference-..-classes-gpxtrack">GPXTrack</a></code>.</p></li>
+<p>Note: This value does not affect <code><a href="sdk-for-ios-navigate-api-reference-classes-locationsimulator">LocationSimulator</a></code> when created with a <code><a href="sdk-for-ios-navigate-api-reference-classes-gpxtrack">GPXTrack</a></code>.</p></li>
 </ul>
 </div>
 <div class="declaration">

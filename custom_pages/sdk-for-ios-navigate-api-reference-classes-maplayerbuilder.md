@@ -1,5 +1,5 @@
 ---
-title: "Maps / MapLayerBuilder"
+title: "sdk-for-ios-navigate-api-reference-classes-maplayerbuilder"
 slug: "sdk-for-ios-navigate-api-reference-classes-maplayerbuilder"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-classes-maplayerbuilder"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-maps">Maps</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-maps">Maps</a>
+<img alt="" id="carat" src="/carat.png"/>
         MapLayerBuilder Class Reference
       </p>
 </div>
@@ -119,13 +119,13 @@ assignment can be done for all types of content: point, line, polygon.</li>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Thrown when failing to build a <code><a href="sdk-for-ios-navigate-api-reference-..-classes-maplayer">MapLayer</a></code>.</p>
+<p>Thrown when failing to build a <code><a href="sdk-for-ios-navigate-api-reference-classes-maplayer">MapLayer</a></code>.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">typealias</span> <span class="kt">InstantiationError</span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-maplayerbuilder-instantiationerrordetails">InstantiationErrorDetails</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">typealias</span> <span class="kt">InstantiationError</span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-maplayerbuilder-instantiationerrordetails">InstantiationErrorDetails</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -169,8 +169,8 @@ assignment can be done for all types of content: point, line, polygon.</li>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Describes a reason for failing to build a <code><a href="sdk-for-ios-navigate-api-reference-..-classes-maplayer">MapLayer</a></code>.</p>
-<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-..-classes-maplayerbuilder-instantiationerrorcode">See more</a>
+<p>Describes a reason for failing to build a <code><a href="sdk-for-ios-navigate-api-reference-classes-maplayer">MapLayer</a></code>.</p>
+<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-classes-maplayerbuilder-instantiationerrorcode">See more</a>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
@@ -195,15 +195,15 @@ assignment can be done for all types of content: point, line, polygon.</li>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Describes the reason for failing to build a <code><a href="sdk-for-ios-navigate-api-reference-..-classes-maplayer">MapLayer</a></code>.</p>
-<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-..-classes-maplayerbuilder-instantiationerrordetails">See more</a>
+<p>Describes the reason for failing to build a <code><a href="sdk-for-ios-navigate-api-reference-classes-maplayer">MapLayer</a></code>.</p>
+<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-classes-maplayerbuilder-instantiationerrordetails">See more</a>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
 <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">InstantiationErrorDetails</span></code></pre>
-<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-maplayerbuilder">MapLayerBuilder</a></span><span class="o">.</span><span class="kt">InstantiationErrorDetails</span> <span class="p">:</span> <span class="kt">Error</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-maplayerbuilder">MapLayerBuilder</a></span><span class="o">.</span><span class="kt">InstantiationErrorDetails</span> <span class="p">:</span> <span class="kt">Error</span></code></pre>
 </div>
 </div>
 </section>
@@ -279,7 +279,7 @@ The datasource name and content type are mandatory layer creation parameters.</p
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">withDataSource</span><span class="p">(</span><span class="n">named</span> <span class="nv">dataSourceName</span><span class="p">:</span> <span class="kt">String</span><span class="p">,</span> <span class="nv">contentType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-mapcontenttype">MapContentType</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">MapLayerBuilder</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">withDataSource</span><span class="p">(</span><span class="n">named</span> <span class="nv">dataSourceName</span><span class="p">:</span> <span class="kt">String</span><span class="p">,</span> <span class="nv">contentType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-mapcontenttype">MapContentType</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">MapLayerBuilder</span></code></pre>
 </div>
 </div>
 <div>
@@ -343,7 +343,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">withStyle</span><span class="p">(</span><span class="n">_</span> <span class="nv">style</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-style">Style</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">MapLayerBuilder</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">withStyle</span><span class="p">(</span><span class="n">_</span> <span class="nv">style</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-style">Style</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">MapLayerBuilder</span></code></pre>
 </div>
 </div>
 <div>
@@ -392,7 +392,7 @@ The map is a mandatory layer creation parameter.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">forMap</span><span class="p">(</span><span class="n">_</span> <span class="nv">targetMap</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-heremap">HereMap</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">MapLayerBuilder</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">forMap</span><span class="p">(</span><span class="n">_</span> <span class="nv">targetMap</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-heremap">HereMap</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">MapLayerBuilder</span></code></pre>
 </div>
 </div>
 <div>
@@ -491,7 +491,7 @@ on all zoom levels.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">withVisibilityRange</span><span class="p">(</span><span class="n">_</span> <span class="nv">visibilityRange</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-maplayervisibilityrange">MapLayerVisibilityRange</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">MapLayerBuilder</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">withVisibilityRange</span><span class="p">(</span><span class="n">_</span> <span class="nv">visibilityRange</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-maplayervisibilityrange">MapLayerVisibilityRange</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">MapLayerBuilder</span></code></pre>
 </div>
 </div>
 <div>
@@ -547,7 +547,7 @@ corresponding to an offset of -1 and -3.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">withMapMeasureDependentStorageLevels</span><span class="p">(</span><span class="n">_</span> <span class="nv">mapLayerMapMeasureDependentStorageLevels</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-maplayermapmeasuredependentstoragelevels">MapLayerMapMeasureDependentStorageLevels</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">MapLayerBuilder</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">withMapMeasureDependentStorageLevels</span><span class="p">(</span><span class="n">_</span> <span class="nv">mapLayerMapMeasureDependentStorageLevels</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-maplayermapmeasuredependentstoragelevels">MapLayerMapMeasureDependentStorageLevels</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">MapLayerBuilder</span></code></pre>
 </div>
 </div>
 <div>
@@ -652,7 +652,7 @@ map layer, but will not keep any previously configured properties.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">build</span><span class="p">()</span> <span class="k">throws</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-maplayer">MapLayer</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">build</span><span class="p">()</span> <span class="k">throws</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-maplayer">MapLayer</a></span></code></pre>
 </div>
 </div>
 <div>

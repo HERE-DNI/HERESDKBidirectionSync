@@ -1,5 +1,5 @@
 ---
-title: "Maps / IconProvider"
+title: "sdk-for-ios-navigate-api-reference-classes-iconprovider"
 slug: "sdk-for-ios-navigate-api-reference-classes-iconprovider"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-classes-iconprovider"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-maps">Maps</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-maps">Maps</a>
+<img alt="" id="carat" src="/carat.png"/>
         IconProvider Class Reference
       </p>
 </div>
@@ -65,7 +65,7 @@ Related APIs may change for new releases without a deprecation process.
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">_</span> <span class="nv">mapContext</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-mapcontext">MapContext</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">_</span> <span class="nv">mapContext</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-mapcontext">MapContext</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -116,9 +116,9 @@ Related APIs may change for new releases without a deprecation process.
 <div class="language">
 <p class="aside-title">Swift</p>
 <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">createRoadShieldIcon</span><span class="p">(</span>
-    <span class="nv">properties</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-roadshieldiconproperties">RoadShieldIconProperties</a></span><span class="p">,</span>
-    <span class="nv">mapScheme</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-mapscheme">MapScheme</a></span><span class="p">,</span>
-    <span class="nv">assetType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-iconproviderassettype">IconProviderAssetType</a></span><span class="p">,</span>
+    <span class="nv">properties</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-roadshieldiconproperties">RoadShieldIconProperties</a></span><span class="p">,</span>
+    <span class="nv">mapScheme</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-mapscheme">MapScheme</a></span><span class="p">,</span>
+    <span class="nv">assetType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-iconproviderassettype">IconProviderAssetType</a></span><span class="p">,</span>
     <span class="nv">widthConstraintInPixels</span><span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span>
     <span class="nv">heightConstraintInPixels</span><span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span>
     <span class="nv">callback</span><span class="p">:</span> <span class="kd">@escaping</span> <span class="kt"><a href="../Maps.html#/s:7heresdk20IconProviderCallbacka">IconProviderCallback</a></span><span class="p">)</span></code></pre>
@@ -234,10 +234,10 @@ type of road and/or place it is used, or an error code.</p>
 <div class="language">
 <p class="aside-title">Swift</p>
 <pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">createVehicleRestrictionIcon</span><span class="p">(</span>
-    <span class="nv">pickingResult</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-pickmapcontentresult">PickMapContentResult</a></span><span class="o">.</span><span class="kt">VehicleRestrictionResult</span><span class="p">,</span>
-    <span class="nv">mapScheme</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-mapscheme">MapScheme</a></span><span class="p">,</span>
-    <span class="nv">assetType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-iconproviderassettype">IconProviderAssetType</a></span><span class="p">,</span>
-    <span class="nv">sizeConstraintsInPixels</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-size2d">Size2D</a></span><span class="p">,</span>
+    <span class="nv">pickingResult</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-pickmapcontentresult">PickMapContentResult</a></span><span class="o">.</span><span class="kt">VehicleRestrictionResult</span><span class="p">,</span>
+    <span class="nv">mapScheme</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-mapscheme">MapScheme</a></span><span class="p">,</span>
+    <span class="nv">assetType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-iconproviderassettype">IconProviderAssetType</a></span><span class="p">,</span>
+    <span class="nv">sizeConstraintsInPixels</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-size2d">Size2D</a></span><span class="p">,</span>
     <span class="n">completion</span> <span class="nv">callback</span><span class="p">:</span> <span class="kd">@escaping</span> <span class="kt"><a href="../Maps.html#/s:7heresdk20IconProviderCallbacka">IconProviderCallback</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
@@ -330,7 +330,7 @@ type of road and/or place it is used, or an error code.</p>
 <div class="pointer"></div>
 <div class="abstract">
 <p>Creates an image representing a vehicle restriction as shown on the map.</p>
-<p>In case when <code><a href="sdk-for-ios-navigate-api-reference-..-structs-vehiclerestriction">VehicleRestriction</a></code> object specifies multiple types of restrictions, then the icon is generated
+<p>In case when <code><a href="sdk-for-ios-navigate-api-reference-structs-vehiclerestriction">VehicleRestriction</a></code> object specifies multiple types of restrictions, then the icon is generated
 for the first one according to the following priority: <code><a href="../Structs/VehicleRestriction.html#/s:7heresdk18VehicleRestrictionV11restrictionAA08SpecificC0VSgvp">VehicleRestriction.restriction</a></code>, <code><a href="../Structs/VehicleRestriction.html#/s:7heresdk18VehicleRestrictionV9axleCountAA12IntegerRangeVSgvp">VehicleRestriction.axleCount</a></code>,
 <code><a href="../Structs/VehicleRestriction.html#/s:7heresdk18VehicleRestrictionV16axleCountInGroupAA12IntegerRangeVSgvp">VehicleRestriction.axleCountInGroup</a></code>, <code><a href="../Structs/VehicleRestriction.html#/s:7heresdk18VehicleRestrictionV06hazmatC0AA017HazardousMaterialC0VSgvp">VehicleRestriction.hazmatRestriction</a></code>, <code><a href="../Structs/VehicleRestriction.html#/s:7heresdk18VehicleRestrictionV12trailerCountAA12IntegerRangeVSgvp">VehicleRestriction.trailerCount</a></code>.</p>
 </div>
@@ -339,10 +339,10 @@ for the first one according to the following priority: <code><a href="../Structs
 <div class="language">
 <p class="aside-title">Swift</p>
 <pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">createVehicleRestrictionIcon</span><span class="p">(</span>
-    <span class="nv">properties</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-vehiclerestrictioniconproperties">VehicleRestrictionIconProperties</a></span><span class="p">,</span>
-    <span class="nv">mapScheme</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-mapscheme">MapScheme</a></span><span class="p">,</span>
-    <span class="nv">assetType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-iconproviderassettype">IconProviderAssetType</a></span><span class="p">,</span>
-    <span class="nv">sizeConstraintsInPixels</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-size2d">Size2D</a></span><span class="p">,</span>
+    <span class="nv">properties</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-vehiclerestrictioniconproperties">VehicleRestrictionIconProperties</a></span><span class="p">,</span>
+    <span class="nv">mapScheme</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-mapscheme">MapScheme</a></span><span class="p">,</span>
+    <span class="nv">assetType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-iconproviderassettype">IconProviderAssetType</a></span><span class="p">,</span>
+    <span class="nv">sizeConstraintsInPixels</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-size2d">Size2D</a></span><span class="p">,</span>
     <span class="n">completion</span> <span class="nv">callback</span><span class="p">:</span> <span class="kd">@escaping</span> <span class="kt"><a href="../Maps.html#/s:7heresdk20IconProviderCallbacka">IconProviderCallback</a></span><span class="p">)</span></code></pre>
 </div>
 </div>

@@ -1,5 +1,5 @@
 ---
-title: "MapPolyline / Representation"
+title: "sdk-for-ios-navigate-api-reference-classes-mappolyline-representation"
 slug: "sdk-for-ios-navigate-api-reference-classes-mappolyline-representation"
 ---
 
@@ -15,12 +15,12 @@ slug: "sdk-for-ios-navigate-api-reference-classes-mappolyline-representation"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-..-index">heresdk</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-..-maps">Maps</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-..-classes-mappolyline">MapPolyline</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-maps">Maps</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-classes-mappolyline">MapPolyline</a>
+<img alt="" id="carat" src="/carat.png"/>
         Representation Class Reference
       </p>
 </div>
@@ -35,7 +35,7 @@ slug: "sdk-for-ios-navigate-api-reference-classes-mappolyline-representation"
 <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">Representation</span> <span class="p">:</span> <span class="kt"><a href="../../Maps.html#/s:7heresdk21MapItemRepresentationC">MapItemRepresentation</a></span></code></pre>
 </div>
 </div>
-<p>Base class to represent the visual appearance of a <code><a href="sdk-for-ios-navigate-api-reference-..-..-classes-mappolyline">MapPolyline</a></code>.</p>
+<p>Base class to represent the visual appearance of a <code><a href="sdk-for-ios-navigate-api-reference-classes-mappolyline">MapPolyline</a></code>.</p>
 </section>
 <section class="section task-group-section">
 <div class="task-group">
@@ -59,7 +59,7 @@ slug: "sdk-for-ios-navigate-api-reference-classes-mappolyline-representation"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">typealias</span> <span class="kt">InstantiationError</span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-classes-mappolyline-representation-instantiationerrorcode">InstantiationErrorCode</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">typealias</span> <span class="kt">InstantiationError</span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-mappolyline-representation-instantiationerrorcode">InstantiationErrorCode</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -78,15 +78,15 @@ slug: "sdk-for-ios-navigate-api-reference-classes-mappolyline-representation"
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Describes a reason for failing to create a <code><a href="sdk-for-ios-navigate-api-reference-..-..-classes-mappolyline-representation">MapPolyline.Representation</a></code>.</p>
-<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-..-..-classes-mappolyline-representation-instantiationerrorcode">See more</a>
+<p>Describes a reason for failing to create a <code><a href="sdk-for-ios-navigate-api-reference-classes-mappolyline-representation">MapPolyline.Representation</a></code>.</p>
+<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-classes-mappolyline-representation-instantiationerrorcode">See more</a>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
 <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">InstantiationErrorCode</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
-<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-classes-mappolyline">MapPolyline</a></span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-..-classes-mappolyline-representation">Representation</a></span><span class="o">.</span><span class="kt">InstantiationErrorCode</span> <span class="p">:</span> <span class="kt">Error</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-mappolyline">MapPolyline</a></span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-mappolyline-representation">Representation</a></span><span class="o">.</span><span class="kt">InstantiationErrorCode</span> <span class="p">:</span> <span class="kt">Error</span></code></pre>
 </div>
 </div>
 </section>

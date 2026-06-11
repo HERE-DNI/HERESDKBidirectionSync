@@ -1,5 +1,5 @@
 ---
-title: "Search / EVSearchInterface"
+title: "sdk-for-ios-navigate-api-reference-protocols-evsearchinterface"
 slug: "sdk-for-ios-navigate-api-reference-protocols-evsearchinterface"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-evsearchinterface"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-search">Search</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-search">Search</a>
+<img alt="" id="carat" src="/carat.png"/>
         EVSearchInterface Protocol Reference
       </p>
 </div>
@@ -33,7 +33,7 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-evsearchinterface"
 <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">protocol</span> <span class="kt">EVSearchInterface</span> <span class="p">:</span> <span class="kt">AnyObject</span></code></pre>
 </div>
 </div>
-<p>Provides the protocol for the <code><a href="sdk-for-ios-navigate-api-reference-..-classes-evsearchengine">EVSearchEngine</a></code>.
+<p>Provides the protocol for the <code><a href="sdk-for-ios-navigate-api-reference-classes-evsearchengine">EVSearchEngine</a></code>.
 <strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
 Related APIs may change for new releases without a deprecation process.</p>
 </section>
@@ -53,14 +53,14 @@ Related APIs may change for new releases without a deprecation process.</p>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Performs an asynchronous request for <code><a href="sdk-for-ios-navigate-api-reference-..-classes-evcharginglocation">EVChargingLocation</a></code> instances with given Place IDs.</p>
+<p>Performs an asynchronous request for <code><a href="sdk-for-ios-navigate-api-reference-classes-evcharginglocation">EVChargingLocation</a></code> instances with given Place IDs.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
 <pre class="highlight swift"><code><span class="kd">@discardableResult</span>
-<span class="kd">func</span> <span class="nf">search</span><span class="p">(</span><span class="nv">ids</span><span class="p">:</span> <span class="p">[</span><span class="kt">String</span><span class="p">],</span> <span class="nv">completion</span><span class="p">:</span> <span class="kd">@escaping</span> <span class="kt"><a href="../Search.html#/s:7heresdk28EVCP3SearchCompletionHandlera">EVCP3SearchCompletionHandler</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-taskhandle">TaskHandle</a></span></code></pre>
+<span class="kd">func</span> <span class="nf">search</span><span class="p">(</span><span class="nv">ids</span><span class="p">:</span> <span class="p">[</span><span class="kt">String</span><span class="p">],</span> <span class="nv">completion</span><span class="p">:</span> <span class="kd">@escaping</span> <span class="kt"><a href="../Search.html#/s:7heresdk28EVCP3SearchCompletionHandlera">EVCP3SearchCompletionHandler</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-taskhandle">TaskHandle</a></span></code></pre>
 </div>
 </div>
 <div>

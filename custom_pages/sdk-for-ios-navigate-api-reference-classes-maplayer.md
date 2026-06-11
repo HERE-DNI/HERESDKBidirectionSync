@@ -1,5 +1,5 @@
 ---
-title: "Maps / MapLayer"
+title: "sdk-for-ios-navigate-api-reference-classes-maplayer"
 slug: "sdk-for-ios-navigate-api-reference-classes-maplayer"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-classes-maplayer"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-maps">Maps</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-maps">Maps</a>
+<img alt="" id="carat" src="/carat.png"/>
         MapLayer Class Reference
       </p>
 </div>
@@ -36,7 +36,7 @@ slug: "sdk-for-ios-navigate-api-reference-classes-maplayer"
 </div>
 </div>
 <p>Interface for managing a map layer.
-A map layer can be created by using the <code><a href="sdk-for-ios-navigate-api-reference-..-classes-maplayerbuilder">MapLayerBuilder</a></code>. At creation, the layer
+A map layer can be created by using the <code><a href="sdk-for-ios-navigate-api-reference-classes-maplayerbuilder">MapLayerBuilder</a></code>. At creation, the layer
 gets added to a map. The layer gets removed from the map upon instance destruction.</p>
 </section>
 <section class="section task-group-section">
@@ -108,7 +108,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">setStyle</span><span class="p">(</span><span class="n">_</span> <span class="nv">style</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-style">Style</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">setStyle</span><span class="p">(</span><span class="n">_</span> <span class="nv">style</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-style">Style</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>

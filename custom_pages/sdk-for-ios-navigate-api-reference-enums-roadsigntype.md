@@ -1,5 +1,5 @@
 ---
-title: "Navigation / RoadSignType"
+title: "sdk-for-ios-navigate-api-reference-enums-roadsigntype"
 slug: "sdk-for-ios-navigate-api-reference-enums-roadsigntype"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-enums-roadsigntype"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-navigation">Navigation</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-navigation">Navigation</a>
+<img alt="" id="carat" src="/carat.png"/>
         RoadSignType Enumeration Reference
       </p>
 </div>
@@ -36,7 +36,7 @@ slug: "sdk-for-ios-navigate-api-reference-enums-roadsigntype"
 <p>A road sign type classifying road signs that can appear along a road.
 Some signs are standardized and look the same in all countries, e.g. <code><a href="../Enums/RoadSignType.html#/s:7heresdk12RoadSignTypeO04stopC0yA2CmF">RoadSignType.stopSign</a></code>.
 In general, the visual appearance of the road signs can differ across countries.
-Some road signs can be combined with other signs, like <code><a href="sdk-for-ios-navigate-api-reference-..-enums-weathertype">WeatherType</a></code> signs. The road sign will be always shown topmost.</p>
+Some road signs can be combined with other signs, like <code><a href="sdk-for-ios-navigate-api-reference-enums-weathertype">WeatherType</a></code> signs. The road sign will be always shown topmost.</p>
 </section>
 <section class="section task-group-section">
 <div class="task-group">

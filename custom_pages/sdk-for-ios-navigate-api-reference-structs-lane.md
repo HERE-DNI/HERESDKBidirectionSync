@@ -1,5 +1,5 @@
 ---
-title: "Navigation / Lane"
+title: "sdk-for-ios-navigate-api-reference-structs-lane"
 slug: "sdk-for-ios-navigate-api-reference-structs-lane"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-structs-lane"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-navigation">Navigation</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-navigation">Navigation</a>
+<img alt="" id="carat" src="/carat.png"/>
         Lane Structure Reference
       </p>
 </div>
@@ -59,7 +59,7 @@ an express lane, or other attributes.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">type</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-lanetype">LaneType</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">type</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-lanetype">LaneType</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -84,7 +84,7 @@ an express lane, or other attributes.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">recommendationState</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-lanerecommendationstate">LaneRecommendationState</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">recommendationState</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-lanerecommendationstate">LaneRecommendationState</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -109,7 +109,7 @@ an express lane, or other attributes.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">access</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-laneaccess">LaneAccess</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">access</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-laneaccess">LaneAccess</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -134,7 +134,7 @@ an express lane, or other attributes.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">laneMarkings</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-lanemarkings">LaneMarkings</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">laneMarkings</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-lanemarkings">LaneMarkings</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -159,7 +159,7 @@ an express lane, or other attributes.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">directions</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-lanedirection">LaneDirection</a></span><span class="p">]</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">directions</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-lanedirection">LaneDirection</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -186,7 +186,7 @@ This is a subset of <code><a href="../Structs/Lane.html#/s:7heresdk4LaneV10direc
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">directionsOnRoute</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-lanedirection">LaneDirection</a></span><span class="p">]</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">directionsOnRoute</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-lanedirection">LaneDirection</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -211,7 +211,7 @@ This is a subset of <code><a href="../Structs/Lane.html#/s:7heresdk4LaneV10direc
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">type</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-lanetype">LaneType</a></span><span class="p">,</span> <span class="nv">recommendationState</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-lanerecommendationstate">LaneRecommendationState</a></span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-lanerecommendationstate">LaneRecommendationState</a></span><span class="o">.</span><span class="n">notRecommended</span><span class="p">,</span> <span class="nv">access</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-laneaccess">LaneAccess</a></span><span class="p">,</span> <span class="nv">laneMarkings</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-lanemarkings">LaneMarkings</a></span><span class="p">,</span> <span class="nv">directions</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-lanedirection">LaneDirection</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">directionsOnRoute</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-lanedirection">LaneDirection</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[])</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">type</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-lanetype">LaneType</a></span><span class="p">,</span> <span class="nv">recommendationState</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-lanerecommendationstate">LaneRecommendationState</a></span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-lanerecommendationstate">LaneRecommendationState</a></span><span class="o">.</span><span class="n">notRecommended</span><span class="p">,</span> <span class="nv">access</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-laneaccess">LaneAccess</a></span><span class="p">,</span> <span class="nv">laneMarkings</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-lanemarkings">LaneMarkings</a></span><span class="p">,</span> <span class="nv">directions</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-lanedirection">LaneDirection</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">directionsOnRoute</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-lanedirection">LaneDirection</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[])</span></code></pre>
 </div>
 </div>
 </section>

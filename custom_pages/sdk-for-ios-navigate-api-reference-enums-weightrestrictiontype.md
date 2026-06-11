@@ -1,5 +1,5 @@
 ---
-title: "Navigation / WeightRestrictionType"
+title: "sdk-for-ios-navigate-api-reference-enums-weightrestrictiontype"
 slug: "sdk-for-ios-navigate-api-reference-enums-weightrestrictiontype"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-enums-weightrestrictiontype"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-navigation">Navigation</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-navigation">Navigation</a>
+<img alt="" id="carat" src="/carat.png"/>
         WeightRestrictionType Enumeration Reference
       </p>
 </div>

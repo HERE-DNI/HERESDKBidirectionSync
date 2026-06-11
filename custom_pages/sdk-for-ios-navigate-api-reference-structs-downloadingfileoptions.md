@@ -1,5 +1,5 @@
 ---
-title: "MapData / DownloadingFileOptions"
+title: "sdk-for-ios-navigate-api-reference-structs-downloadingfileoptions"
 slug: "sdk-for-ios-navigate-api-reference-structs-downloadingfileoptions"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-structs-downloadingfileoptions"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-mapdata">MapData</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-mapdata">MapData</a>
+<img alt="" id="carat" src="/carat.png"/>
         DownloadingFileOptions Structure Reference
       </p>
 </div>

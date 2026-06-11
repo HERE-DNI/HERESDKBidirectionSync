@@ -1,5 +1,5 @@
 ---
-title: "SDKNativeEngine / PurgeMemoryStrategy"
+title: "sdk-for-ios-navigate-api-reference-classes-sdknativeengine-purgememorystrategy"
 slug: "sdk-for-ios-navigate-api-reference-classes-sdknativeengine-purgememorystrategy"
 ---
 
@@ -15,12 +15,12 @@ slug: "sdk-for-ios-navigate-api-reference-classes-sdknativeengine-purgememorystr
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-..-index">heresdk</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-..-core">Core</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-..-classes-sdknativeengine">SDKNativeEngine</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-core">Core</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-classes-sdknativeengine">SDKNativeEngine</a>
+<img alt="" id="carat" src="/carat.png"/>
         PurgeMemoryStrategy Enumeration Reference
       </p>
 </div>

@@ -1,5 +1,5 @@
 ---
-title: "Positioning / LocationStatusDelegate"
+title: "sdk-for-ios-navigate-api-reference-protocols-locationstatusdelegate"
 slug: "sdk-for-ios-navigate-api-reference-protocols-locationstatusdelegate"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-locationstatusdelegate"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-positioning">Positioning</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-positioning">Positioning</a>
+<img alt="" id="carat" src="/carat.png"/>
         LocationStatusDelegate Protocol Reference
       </p>
 </div>
@@ -59,7 +59,7 @@ Invoked on the main thread.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">onStatusChanged</span><span class="p">(</span><span class="nv">locationEngineStatus</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-locationenginestatus">LocationEngineStatus</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">onStatusChanged</span><span class="p">(</span><span class="nv">locationEngineStatus</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-locationenginestatus">LocationEngineStatus</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -107,7 +107,7 @@ for more information.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">onFeaturesNotAvailable</span><span class="p">(</span><span class="nv">features</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-locationfeature">LocationFeature</a></span><span class="p">])</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">onFeaturesNotAvailable</span><span class="p">(</span><span class="nv">features</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-locationfeature">LocationFeature</a></span><span class="p">])</span></code></pre>
 </div>
 </div>
 <div>

@@ -1,5 +1,5 @@
 ---
-title: "Navigation / SpatialNotificationDetails"
+title: "sdk-for-ios-navigate-api-reference-structs-spatialnotificationdetails"
 slug: "sdk-for-ios-navigate-api-reference-structs-spatialnotificationdetails"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-structs-spatialnotificationdetails"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-navigation">Navigation</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-navigation">Navigation</a>
+<img alt="" id="carat" src="/carat.png"/>
         SpatialNotificationDetails Structure Reference
       </p>
 </div>
@@ -109,7 +109,7 @@ following angular values:</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">audioCuePanning</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-spatialaudiocuepanning">SpatialAudioCuePanning</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">audioCuePanning</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-spatialaudiocuepanning">SpatialAudioCuePanning</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -188,7 +188,7 @@ of sound to the cue (so that audio movement and audio duration match).</li>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">initialAzimuthInDegrees</span><span class="p">:</span> <span class="kt">Double</span><span class="p">,</span> <span class="nv">audioCuePanning</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-spatialaudiocuepanning">SpatialAudioCuePanning</a></span><span class="p">,</span> <span class="nv">estimatedAudioCueDuration</span><span class="p">:</span> <span class="kt">TimeInterval</span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">initialAzimuthInDegrees</span><span class="p">:</span> <span class="kt">Double</span><span class="p">,</span> <span class="nv">audioCuePanning</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-spatialaudiocuepanning">SpatialAudioCuePanning</a></span><span class="p">,</span> <span class="nv">estimatedAudioCueDuration</span><span class="p">:</span> <span class="kt">TimeInterval</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>

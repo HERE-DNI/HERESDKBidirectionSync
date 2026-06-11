@@ -1,5 +1,5 @@
 ---
-title: "Maps / AnimationDelegate"
+title: "sdk-for-ios-navigate-api-reference-protocols-animationdelegate"
 slug: "sdk-for-ios-navigate-api-reference-protocols-animationdelegate"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-animationdelegate"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-maps">Maps</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-maps">Maps</a>
+<img alt="" id="carat" src="/carat.png"/>
         AnimationDelegate Protocol Reference
       </p>
 </div>
@@ -57,7 +57,7 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-animationdelegate"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">onAnimationStateChanged</span><span class="p">(</span><span class="nv">state</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-animationstate">AnimationState</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">onAnimationStateChanged</span><span class="p">(</span><span class="nv">state</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-animationstate">AnimationState</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>

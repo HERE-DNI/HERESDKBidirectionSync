@@ -1,5 +1,5 @@
 ---
-title: "Maps / MapPolyline"
+title: "sdk-for-ios-navigate-api-reference-classes-mappolyline"
 slug: "sdk-for-ios-navigate-api-reference-classes-mappolyline"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-classes-mappolyline"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-maps">Maps</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-maps">Maps</a>
+<img alt="" id="carat" src="/carat.png"/>
         MapPolyline Class Reference
       </p>
 </div>
@@ -36,8 +36,8 @@ slug: "sdk-for-ios-navigate-api-reference-classes-mappolyline"
 </div>
 </div>
 <p>A visual representation of a line on the map.</p>
-<p>The geometry to be visualized is represented by an instance of <code><a href="sdk-for-ios-navigate-api-reference-..-structs-geopolyline">GeoPolyline</a></code>.</p>
-<p>Altitude component of <code><a href="sdk-for-ios-navigate-api-reference-..-structs-geopolyline">GeoPolyline</a></code>‘s vertices is ignored.</p>
+<p>The geometry to be visualized is represented by an instance of <code><a href="sdk-for-ios-navigate-api-reference-structs-geopolyline">GeoPolyline</a></code>.</p>
+<p>Altitude component of <code><a href="sdk-for-ios-navigate-api-reference-structs-geopolyline">GeoPolyline</a></code>‘s vertices is ignored.</p>
 </section>
 <section class="section task-group-section">
 <div class="task-group">
@@ -56,7 +56,7 @@ slug: "sdk-for-ios-navigate-api-reference-classes-mappolyline"
 <div class="pointer"></div>
 <div class="abstract">
 <p>Creates a new <code>MapPolyline</code> instance with a specified visual representation.</p>
-<p>Altitude component of <code><a href="sdk-for-ios-navigate-api-reference-..-structs-geopolyline">GeoPolyline</a></code>‘s vertices is ignored.</p>
+<p>Altitude component of <code><a href="sdk-for-ios-navigate-api-reference-structs-geopolyline">GeoPolyline</a></code>‘s vertices is ignored.</p>
 <p>After creating a <code>MapPolyline</code> with this representation, the deprecated <code>MapPolyline</code>
 properties do not work and any change to them will be ignored. Any modifications to polyline’s
 appearance must be done with <code><a href="../Classes/MapPolyline.html#/s:7heresdk11MapPolylineC17setRepresentationyyAC0E0CF">MapPolyline.setRepresentation(...)</a></code>.</p>
@@ -65,7 +65,7 @@ appearance must be done with <code><a href="../Classes/MapPolyline.html#/s:7here
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">geometry</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-geopolyline">GeoPolyline</a></span><span class="p">,</span> <span class="nv">representation</span><span class="p">:</span> <span class="kt">MapPolyline</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-mappolyline-representation">Representation</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">geometry</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-geopolyline">GeoPolyline</a></span><span class="p">,</span> <span class="nv">representation</span><span class="p">:</span> <span class="kt">MapPolyline</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-mappolyline-representation">Representation</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -116,13 +116,13 @@ appearance must be done with <code><a href="../Classes/MapPolyline.html#/s:7here
 <div class="pointer"></div>
 <div class="abstract">
 <p>The list of vertices that represent the geometry of the polyline.
-Altitude component of <code><a href="sdk-for-ios-navigate-api-reference-..-structs-geopolyline">GeoPolyline</a></code>‘s vertices is ignored.</p>
+Altitude component of <code><a href="sdk-for-ios-navigate-api-reference-structs-geopolyline">GeoPolyline</a></code>‘s vertices is ignored.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">geometry</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-geopolyline">GeoPolyline</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">geometry</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-geopolyline">GeoPolyline</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -141,14 +141,14 @@ Altitude component of <code><a href="sdk-for-ios-navigate-api-reference-..-struc
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>The <code><a href="sdk-for-ios-navigate-api-reference-..-classes-metadata">Metadata</a></code> instance attached to this polyline.
+<p>The <code><a href="sdk-for-ios-navigate-api-reference-classes-metadata">Metadata</a></code> instance attached to this polyline.
 This will be <code>nil</code> if nothing has been attached before.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">metadata</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-metadata">Metadata</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">metadata</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-metadata">Metadata</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -210,13 +210,13 @@ having the same draw order, all outlines are rendered first in an arbitrary orde
 mainlines are drawn on top of those polylines in an arbitrary order.</p>
 <p><code><a href="../Enums/DrawOrderType.html#/s:7heresdk13DrawOrderTypeO016mapSceneAdditionC11IndependentyA2CmF">DrawOrderType.mapSceneAdditionOrderIndependent</a></code> allows speeding up the rendering process
 and keeping high frame rates when many similar polylines (with same styling attributes and
-<code><a href="sdk-for-ios-navigate-api-reference-..-classes-mappolyline-representation">MapPolyline.Representation</a></code>) are present in a map scene.</p>
+<code><a href="sdk-for-ios-navigate-api-reference-classes-mappolyline-representation">MapPolyline.Representation</a></code>) are present in a map scene.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">drawOrderType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-drawordertype">DrawOrderType</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">drawOrderType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-drawordertype">DrawOrderType</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -239,14 +239,14 @@ and keeping high frame rates when many similar polylines (with same styling attr
 A range is half open - [minimumZoomLevel, maximumZoomLevel), the given maximum value
 is not contained in the range.</p>
 <p>When empty (the default), the map polyline is visible without map measure restrictions.
-Only <code><a href="sdk-for-ios-navigate-api-reference-..-structs-mapmeasurerange">MapMeasureRange</a></code>(s) of <code><a href="../Structs/MapMeasure/Kind.html#/s:7heresdk10MapMeasureV4KindO9zoomLevelyA2EmF">MapMeasure.Kind.zoomLevel</a></code> type are supported.
-<code><a href="sdk-for-ios-navigate-api-reference-..-structs-mapmeasurerange">MapMeasureRange</a></code>(s) of other unsupported types will be ignored.</p>
+Only <code><a href="sdk-for-ios-navigate-api-reference-structs-mapmeasurerange">MapMeasureRange</a></code>(s) of <code><a href="../Structs/MapMeasure/Kind.html#/s:7heresdk10MapMeasureV4KindO9zoomLevelyA2EmF">MapMeasure.Kind.zoomLevel</a></code> type are supported.
+<code><a href="sdk-for-ios-navigate-api-reference-structs-mapmeasurerange">MapMeasureRange</a></code>(s) of other unsupported types will be ignored.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">visibilityRanges</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-mapmeasurerange">MapMeasureRange</a></span><span class="p">]</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">visibilityRanges</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-mapmeasurerange">MapMeasureRange</a></span><span class="p">]</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -349,20 +349,20 @@ The default progress color is opaque white.</p>
 <div class="abstract">
 <p>The maximum gradient length between <code>MapPolyline.lineColor' and
 'MapPolyline.progressColor</code> in zoom level dependent pixels.
-To achieve a constant gradient length, use <code><a href="sdk-for-ios-navigate-api-reference-..-structs-mapmeasuredependentrendersize">MapMeasureDependentRenderSize</a></code>
+To achieve a constant gradient length, use <code><a href="sdk-for-ios-navigate-api-reference-structs-mapmeasuredependentrendersize">MapMeasureDependentRenderSize</a></code>
 with a single value. To achieve a gradient length dependent on map zoom,
-use <code><a href="sdk-for-ios-navigate-api-reference-..-structs-mapmeasuredependentrendersize">MapMeasureDependentRenderSize</a></code> with multiple values. The default value is a constant
+use <code><a href="sdk-for-ios-navigate-api-reference-structs-mapmeasuredependentrendersize">MapMeasureDependentRenderSize</a></code> with multiple values. The default value is a constant
 gradient length of zero pixels. The gradient is guaranteed to fit into polyline, i.e. the
 actual gradient can be shorter then <code>progressGradientLength</code>.</p>
-<p>For <code><a href="sdk-for-ios-navigate-api-reference-..-structs-mapmeasure-kind">MapMeasure.Kind</a></code> only <code><a href="../Structs/MapMeasure/Kind.html#/s:7heresdk10MapMeasureV4KindO9zoomLevelyA2EmF">MapMeasure.Kind.zoomLevel</a></code> is supported.
-For <code><a href="sdk-for-ios-navigate-api-reference-..-structs-rendersize-unit">RenderSize.Unit</a></code> only <code><a href="../Structs/RenderSize/Unit.html#/s:7heresdk10RenderSizeV4UnitO6pixelsyA2EmF">RenderSize.Unit.pixels</a></code> is supported.
+<p>For <code><a href="sdk-for-ios-navigate-api-reference-structs-mapmeasure-kind">MapMeasure.Kind</a></code> only <code><a href="../Structs/MapMeasure/Kind.html#/s:7heresdk10MapMeasureV4KindO9zoomLevelyA2EmF">MapMeasure.Kind.zoomLevel</a></code> is supported.
+For <code><a href="sdk-for-ios-navigate-api-reference-structs-rendersize-unit">RenderSize.Unit</a></code> only <code><a href="../Structs/RenderSize/Unit.html#/s:7heresdk10RenderSizeV4UnitO6pixelsyA2EmF">RenderSize.Unit.pixels</a></code> is supported.
 When setting the attribute with with unsupported values, the operation is ignored.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">progressGradientLength</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-mapmeasuredependentrendersize">MapMeasureDependentRenderSize</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">progressGradientLength</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-mapmeasuredependentrendersize">MapMeasureDependentRenderSize</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -391,7 +391,7 @@ Map content categories overlapping the polyline geometry
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">mapContentCategoriesToBlock</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-mapcontentcategory">MapContentCategory</a></span><span class="p">]</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">mapContentCategoriesToBlock</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-mapcontentcategory">MapContentCategory</a></span><span class="p">]</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -410,8 +410,8 @@ Map content categories overlapping the polyline geometry
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Base class to represent the visual appearance of a <code><a href="sdk-for-ios-navigate-api-reference-..-classes-mappolyline">MapPolyline</a></code>.</p>
-<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-..-classes-mappolyline-representation">See more</a>
+<p>Base class to represent the visual appearance of a <code><a href="sdk-for-ios-navigate-api-reference-classes-mappolyline">MapPolyline</a></code>.</p>
+<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-classes-mappolyline-representation">See more</a>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
@@ -449,13 +449,13 @@ left-hand side between vertices <code>n</code> and <code>n+1</code>.</p>
 <p>The spacing between images is specified by <code><a href="../Classes/MapPolyline/DashImageRepresentation.html#/s:7heresdk11MapPolylineC23DashImageRepresentationC9gapLengthAA0B26MeasureDependentRenderSizeVvp">MapPolyline.DashImageRepresentation.gapLength</a></code>.</p>
 <p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
 behaviors. Related APIs may change for new releases without a deprecation process.</p>
-<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-..-classes-mappolyline-dashimagerepresentation">See more</a>
+<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-classes-mappolyline-dashimagerepresentation">See more</a>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">DashImageRepresentation</span> <span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-mappolyline">MapPolyline</a></span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-mappolyline-representation">Representation</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">DashImageRepresentation</span> <span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-mappolyline">MapPolyline</a></span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-mappolyline-representation">Representation</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -476,18 +476,18 @@ behaviors. Related APIs may change for new releases without a deprecation proces
 <div class="abstract">
 <p>Representation for a solid line without outline.</p>
 <p>Can represent polylines that have constant width or width dependent on the map zoom.</p>
-<p>To achieve constant width lines, use <code><a href="sdk-for-ios-navigate-api-reference-..-structs-mapmeasuredependentrendersize">MapMeasureDependentRenderSize</a></code> with a single value.</p>
-<p>To achieve line width dependent on map zoom, use <code><a href="sdk-for-ios-navigate-api-reference-..-structs-mapmeasuredependentrendersize">MapMeasureDependentRenderSize</a></code> with
+<p>To achieve constant width lines, use <code><a href="sdk-for-ios-navigate-api-reference-structs-mapmeasuredependentrendersize">MapMeasureDependentRenderSize</a></code> with a single value.</p>
+<p>To achieve line width dependent on map zoom, use <code><a href="sdk-for-ios-navigate-api-reference-structs-mapmeasuredependentrendersize">MapMeasureDependentRenderSize</a></code> with
 multiple values.</p>
-<p>For <code><a href="sdk-for-ios-navigate-api-reference-..-structs-mapmeasure-kind">MapMeasure.Kind</a></code> only <code><a href="../Structs/MapMeasure/Kind.html#/s:7heresdk10MapMeasureV4KindO9zoomLevelyA2EmF">MapMeasure.Kind.zoomLevel</a></code> is supported.</p>
-<p>For <code><a href="sdk-for-ios-navigate-api-reference-..-structs-rendersize-unit">RenderSize.Unit</a></code> only <code><a href="../Structs/RenderSize/Unit.html#/s:7heresdk10RenderSizeV4UnitO6pixelsyA2EmF">RenderSize.Unit.pixels</a></code> is supported.</p>
-<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-..-classes-mappolyline-solidrepresentation">See more</a>
+<p>For <code><a href="sdk-for-ios-navigate-api-reference-structs-mapmeasure-kind">MapMeasure.Kind</a></code> only <code><a href="../Structs/MapMeasure/Kind.html#/s:7heresdk10MapMeasureV4KindO9zoomLevelyA2EmF">MapMeasure.Kind.zoomLevel</a></code> is supported.</p>
+<p>For <code><a href="sdk-for-ios-navigate-api-reference-structs-rendersize-unit">RenderSize.Unit</a></code> only <code><a href="../Structs/RenderSize/Unit.html#/s:7heresdk10RenderSizeV4UnitO6pixelsyA2EmF">RenderSize.Unit.pixels</a></code> is supported.</p>
+<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-classes-mappolyline-solidrepresentation">See more</a>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">SolidRepresentation</span> <span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-mappolyline">MapPolyline</a></span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-mappolyline-representation">Representation</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">SolidRepresentation</span> <span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-mappolyline">MapPolyline</a></span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-mappolyline-representation">Representation</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -510,13 +510,13 @@ multiple values.</p>
 line and the gap can be either empty or colored.</p>
 <p>The length of the dash and gap are set independently, allowing for patterns
 like <code>'  —  —  —  —'</code> (dash length = gap length) or <code>' ——— ——— ———'</code> (dash length != gap length).</p>
-<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-..-classes-mappolyline-dashrepresentation">See more</a>
+<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-classes-mappolyline-dashrepresentation">See more</a>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">DashRepresentation</span> <span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-mappolyline">MapPolyline</a></span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-mappolyline-representation">Representation</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">DashRepresentation</span> <span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-mappolyline">MapPolyline</a></span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-mappolyline-representation">Representation</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -551,13 +551,13 @@ The following configuration will color map polyline as follows:</p>
 </ul>
 <p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
 behavior. Related APIs may change for new releases without a deprecation process.</p>
-<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-..-classes-mappolyline-solidmulticolorrepresentation">See more</a>
+<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-classes-mappolyline-solidmulticolorrepresentation">See more</a>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">SolidMultiColorRepresentation</span> <span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-mappolyline">MapPolyline</a></span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-mappolyline-representation">Representation</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">SolidMultiColorRepresentation</span> <span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-mappolyline">MapPolyline</a></span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-mappolyline-representation">Representation</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -582,7 +582,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">setRepresentation</span><span class="p">(</span><span class="n">_</span> <span class="nv">representation</span><span class="p">:</span> <span class="kt">MapPolyline</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-mappolyline-representation">Representation</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">setRepresentation</span><span class="p">(</span><span class="n">_</span> <span class="nv">representation</span><span class="p">:</span> <span class="kt">MapPolyline</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-mappolyline-representation">Representation</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -621,7 +621,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <div class="pointer"></div>
 <div class="abstract">
 <p>Starts an animation of this map polyline.</p>
-<p>The <code><a href="sdk-for-ios-navigate-api-reference-..-classes-mappolylineanimation">MapPolylineAnimation</a></code> may be shared between multiple instances of <code>MapPolyline</code>.</p>
+<p>The <code><a href="sdk-for-ios-navigate-api-reference-classes-mappolylineanimation">MapPolylineAnimation</a></code> may be shared between multiple instances of <code>MapPolyline</code>.</p>
 <p>Starting animation on one polyline does not influence any ongoing animations on
 other polylines.
 Any ongoing animation of this map polyline will get cancelled.</p>
@@ -630,7 +630,7 @@ Any ongoing animation of this map polyline will get cancelled.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">startAnimation</span><span class="p">(</span><span class="n">_</span> <span class="nv">animation</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-mappolylineanimation">MapPolylineAnimation</a></span><span class="p">,</span> <span class="nv">animationDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-protocols-animationdelegate">AnimationDelegate</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">startAnimation</span><span class="p">(</span><span class="n">_</span> <span class="nv">animation</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-mappolylineanimation">MapPolylineAnimation</a></span><span class="p">,</span> <span class="nv">animationDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-protocols-animationdelegate">AnimationDelegate</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -689,7 +689,7 @@ Does not affect other polylines that might be running this animation.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">cancelAnimation</span><span class="p">(</span><span class="n">_</span> <span class="nv">animation</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-mappolylineanimation">MapPolylineAnimation</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">cancelAnimation</span><span class="p">(</span><span class="n">_</span> <span class="nv">animation</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-mappolylineanimation">MapPolylineAnimation</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>

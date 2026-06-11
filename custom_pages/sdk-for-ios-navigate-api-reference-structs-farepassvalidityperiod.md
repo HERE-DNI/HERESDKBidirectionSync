@@ -1,5 +1,5 @@
 ---
-title: "Routing / FarePassValidityPeriod"
+title: "sdk-for-ios-navigate-api-reference-structs-farepassvalidityperiod"
 slug: "sdk-for-ios-navigate-api-reference-structs-farepassvalidityperiod"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-structs-farepassvalidityperiod"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-routing">Routing</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-routing">Routing</a>
+<img alt="" id="carat" src="/carat.png"/>
         FarePassValidityPeriod Structure Reference
       </p>
 </div>
@@ -51,13 +51,13 @@ slug: "sdk-for-ios-navigate-api-reference-structs-farepassvalidityperiod"
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Specifies one of the <code><a href="sdk-for-ios-navigate-api-reference-..-enums-farepassvalidityperiodtype">FarePassValidityPeriodType</a></code> periods.</p>
+<p>Specifies one of the <code><a href="sdk-for-ios-navigate-api-reference-enums-farepassvalidityperiodtype">FarePassValidityPeriodType</a></code> periods.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">periodType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-farepassvalidityperiodtype">FarePassValidityPeriodType</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">periodType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-farepassvalidityperiodtype">FarePassValidityPeriodType</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -108,7 +108,7 @@ slug: "sdk-for-ios-navigate-api-reference-structs-farepassvalidityperiod"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">periodType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-farepassvalidityperiodtype">FarePassValidityPeriodType</a></span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-farepassvalidityperiodtype">FarePassValidityPeriodType</a></span><span class="o">.</span><span class="n">annual</span><span class="p">,</span> <span class="nv">count</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">periodType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-farepassvalidityperiodtype">FarePassValidityPeriodType</a></span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-farepassvalidityperiodtype">FarePassValidityPeriodType</a></span><span class="o">.</span><span class="n">annual</span><span class="p">,</span> <span class="nv">count</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>

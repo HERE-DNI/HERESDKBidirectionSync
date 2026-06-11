@@ -1,5 +1,5 @@
 ---
-title: "MapMatcher / MapMatcher"
+title: "sdk-for-ios-navigate-api-reference-classes-mapmatcher"
 slug: "sdk-for-ios-navigate-api-reference-classes-mapmatcher"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-classes-mapmatcher"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-mapmatcher">MapMatcher</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-mapmatcher">MapMatcher</a>
+<img alt="" id="carat" src="/carat.png"/>
         MapMatcher Class Reference
       </p>
 </div>
@@ -42,19 +42,19 @@ behaviors. Related APIs may change in future releases without a deprecation proc
 <p>A <code>MapMatcher</code> maintains an internal state across location updates.
 This helps to check if the match is consistent with previous matches or if an unrealistic jump occurred due to low accuracy
 of the provided location.</p>
-<p>A <code>MapMatcher</code> requires OCM tile data, either through caching, prefetching, or installed <code><a href="sdk-for-ios-navigate-api-reference-..-structs-region">Region</a></code> data.
+<p>A <code>MapMatcher</code> requires OCM tile data, either through caching, prefetching, or installed <code><a href="sdk-for-ios-navigate-api-reference-structs-region">Region</a></code> data.
 If the necessary tiles are not found, an online request is initiated. Note that in such cases,
 the download is triggered silently in the background, and <code>nil</code> is returned
 immediately.</p>
 <p>The <code>MapMatcher</code> supports two layer configurations for retrieving segment geometry data:</p>
 <ul>
 <li><p><strong>Rendering layer (<code>LayerConfiguration.Feature.RENDERING</code>)</strong>: Enabled by default.
-If your application uses map rendering or <code><a href="sdk-for-ios-navigate-api-reference-..-classes-mapview">MapView</a></code> components, using this layer is recommended.</p></li>
+If your application uses map rendering or <code><a href="sdk-for-ios-navigate-api-reference-classes-mapview">MapView</a></code> components, using this layer is recommended.</p></li>
 <li><p><strong>eHorizon layer (<code>LayerConfiguration.Feature.EHORIZON</code>)</strong>: Not enabled by default.
 It encodes segment geometries outside the rendering layer groups to reduce the amount of downloaded data.
 Use the eHorizon layer when:</p>
 <ul>
-<li>No <code><a href="sdk-for-ios-navigate-api-reference-..-classes-mapview">MapView</a></code> is used in your application.</li>
+<li>No <code><a href="sdk-for-ios-navigate-api-reference-classes-mapview">MapView</a></code> is used in your application.</li>
 <li>Only the eHorizon layer is used in your application.
 In these cases, using the eHorizon layer will reduce the required data to download. If the rendering layer is enabled, it will increase the required data to download.</li>
 </ul></li>
@@ -127,7 +127,7 @@ to improve map-matching, then enable the <code>LayerConfiguration.Feature.ADAS</
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">sdkEngine</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-sdknativeengine">SDKNativeEngine</a></span><span class="p">)</span> <span class="k">throws</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">sdkEngine</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-sdknativeengine">SDKNativeEngine</a></span><span class="p">)</span> <span class="k">throws</span></code></pre>
 </div>
 </div>
 <div>
@@ -176,7 +176,7 @@ to improve map-matching, then enable the <code>LayerConfiguration.Feature.ADAS</
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">sdkEngine</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-sdknativeengine">SDKNativeEngine</a></span><span class="p">,</span> <span class="nv">useRenderingLayers</span><span class="p">:</span> <span class="kt">Bool</span><span class="p">)</span> <span class="k">throws</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">sdkEngine</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-sdknativeengine">SDKNativeEngine</a></span><span class="p">,</span> <span class="nv">useRenderingLayers</span><span class="p">:</span> <span class="kt">Bool</span><span class="p">)</span> <span class="k">throws</span></code></pre>
 </div>
 </div>
 <div>
@@ -205,7 +205,7 @@ to improve map-matching, then enable the <code>LayerConfiguration.Feature.ADAS</
 <div>
 <p>When set to true, <code>LayerConfiguration.Feature.RENDERING</code> is used;
 otherwise, <code>LayerConfiguration.Feature.EHORIZON</code> is used to retrieve segment geometry data from the OCM map.
-Note: Ensure the corresponding layer is properly enabled in your <code><a href="sdk-for-ios-navigate-api-reference-..-structs-layerconfiguration">LayerConfiguration</a></code> to avoid incorrect results.</p>
+Note: Ensure the corresponding layer is properly enabled in your <code><a href="sdk-for-ios-navigate-api-reference-structs-layerconfiguration">LayerConfiguration</a></code> to avoid incorrect results.</p>
 </div>
 </td>
 </tr>
@@ -231,16 +231,16 @@ Note: Ensure the corresponding layer is properly enabled in your <code><a href="
 <p>This method computes the map-matched location for the provided input location.</p>
 <p>Currently, matching is performed within a 50-meter radius of the provided location. If no road network is found
 within that radius, <code>nil</code> is returned.</p>
-<p>It’s required to set <code>time</code> field for each <code><a href="sdk-for-ios-navigate-api-reference-..-structs-location">Location</a></code> object for the <code>MapMatcher</code> to work properly. In case no time is provided,
+<p>It’s required to set <code>time</code> field for each <code><a href="sdk-for-ios-navigate-api-reference-structs-location">Location</a></code> object for the <code>MapMatcher</code> to work properly. In case no time is provided,
 <code>nil</code> is returned and an error message is logged. It is used to calculate the distance in time between
 consecutive matches. Together with <code>speed</code>, this allows to calculate how likely a match is consistent with a previous match.
-To improve matching accuracy, it is recommended to provide <code>bearing</code> and <code>speed</code> parameters for each <code><a href="sdk-for-ios-navigate-api-reference-..-structs-location">Location</a></code> object.</p>
+To improve matching accuracy, it is recommended to provide <code>bearing</code> and <code>speed</code> parameters for each <code><a href="sdk-for-ios-navigate-api-reference-structs-location">Location</a></code> object.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">match</span><span class="p">(</span><span class="nv">location</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-location">Location</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-mapmatchedlocation">MapMatchedLocation</a></span><span class="p">?</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">match</span><span class="p">(</span><span class="nv">location</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-location">Location</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-mapmatchedlocation">MapMatchedLocation</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 <div>

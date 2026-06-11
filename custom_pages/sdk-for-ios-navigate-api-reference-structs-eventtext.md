@@ -1,5 +1,5 @@
 ---
-title: "Navigation / EventText"
+title: "sdk-for-ios-navigate-api-reference-structs-eventtext"
 slug: "sdk-for-ios-navigate-api-reference-structs-eventtext"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-structs-eventtext"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-navigation">Navigation</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-navigation">Navigation</a>
+<img alt="" id="carat" src="/carat.png"/>
         EventText Structure Reference
       </p>
 </div>
@@ -57,7 +57,7 @@ slug: "sdk-for-ios-navigate-api-reference-structs-eventtext"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">type</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-textnotificationtype">TextNotificationType</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">type</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-textnotificationtype">TextNotificationType</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -83,7 +83,7 @@ during navigation. Distance in miles is rounded to the nearest 0.5 step. For exa
 are rounded to 4 kilometers and the notification will begin with <code>After 4 kilometers...</code>. However,
 3.5 miles are not rounded up and the notification will begin with <code>After three and a half miles...</code>.
 Same for 3.7 miles, whereas 3.8 miles are rounded to 4 miles. Note that the measurement units itself
-are defined in the <code><a href="sdk-for-ios-navigate-api-reference-..-enums-unitsystem">UnitSystem</a></code> class.</p>
+are defined in the <code><a href="sdk-for-ios-navigate-api-reference-enums-unitsystem">UnitSystem</a></code> class.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
@@ -109,10 +109,10 @@ are defined in the <code><a href="sdk-for-ios-navigate-api-reference-..-enums-un
 <div class="pointer"></div>
 <div class="abstract">
 <p>The text notification instruction. The text is formatted and localized as specified via
-<code><a href="sdk-for-ios-navigate-api-reference-..-structs-routetextoptions">RouteTextOptions</a></code>.</p>
-<p><strong>Note:</strong> During navigation, the text will be always empty when the <code><a href="sdk-for-ios-navigate-api-reference-..-classes-maneuver">Maneuver</a></code> is
-taken from the <code><a href="sdk-for-ios-navigate-api-reference-..-classes-navigator">Navigator</a></code> or <code><a href="sdk-for-ios-navigate-api-reference-..-classes-visualnavigator">VisualNavigator</a></code> instance via the provided index.
-The text instruction that can be accessed from the <code><a href="sdk-for-ios-navigate-api-reference-..-classes-route">Route</a></code> instance is meant
+<code><a href="sdk-for-ios-navigate-api-reference-structs-routetextoptions">RouteTextOptions</a></code>.</p>
+<p><strong>Note:</strong> During navigation, the text will be always empty when the <code><a href="sdk-for-ios-navigate-api-reference-classes-maneuver">Maneuver</a></code> is
+taken from the <code><a href="sdk-for-ios-navigate-api-reference-classes-navigator">Navigator</a></code> or <code><a href="sdk-for-ios-navigate-api-reference-classes-visualnavigator">VisualNavigator</a></code> instance via the provided index.
+The text instruction that can be accessed from the <code><a href="sdk-for-ios-navigate-api-reference-classes-route">Route</a></code> instance is meant
 as preview and it is not necessarily matching the more comprehensive maneuver information you
 can access during navigation. This information can be enhanced with real-time <code>ManeuverNotifications</code>
 texts that can be used for spoken text notifications during a trip.</p>
@@ -147,7 +147,7 @@ Is non-<code>nil</code> only for <code><a href="../Structs/EventText.html#/s:7he
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">maneuverNotificationDetails</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-maneuvernotificationdetails">ManeuverNotificationDetails</a></span><span class="p">?</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">maneuverNotificationDetails</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-maneuvernotificationdetails">ManeuverNotificationDetails</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -174,7 +174,7 @@ then this attribute will be <code>nil</code>.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">spatialNotificationDetails</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-spatialnotificationdetails">SpatialNotificationDetails</a></span><span class="p">?</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">spatialNotificationDetails</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-spatialnotificationdetails">SpatialNotificationDetails</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -206,14 +206,14 @@ then this attribute will be <code>nil</code>.</p>
   are rounded to 4 kilometers and the notification will begin with <code>After 4 kilometers...</code>. However,
   3.5 miles are not rounded up and the notification will begin with <code>After three and a half miles...</code>.
   Same for 3.7 miles, whereas 3.8 miles are rounded to 4 miles. Note that the measurement units itself
-  are defined in the <code><a href="sdk-for-ios-navigate-api-reference-..-enums-unitsystem">UnitSystem</a></code> class.</p>
+  are defined in the <code><a href="sdk-for-ios-navigate-api-reference-enums-unitsystem">UnitSystem</a></code> class.</p>
 <ul>
 <li>text: The text notification instruction. The text is formatted and localized as specified via
-<code><a href="sdk-for-ios-navigate-api-reference-..-structs-routetextoptions">RouteTextOptions</a></code>.</li>
+<code><a href="sdk-for-ios-navigate-api-reference-structs-routetextoptions">RouteTextOptions</a></code>.</li>
 </ul>
-<p><strong>Note:</strong> During navigation, the text will be always empty when the <code><a href="sdk-for-ios-navigate-api-reference-..-classes-maneuver">Maneuver</a></code> is
-  taken from the <code><a href="sdk-for-ios-navigate-api-reference-..-classes-navigator">Navigator</a></code> or <code><a href="sdk-for-ios-navigate-api-reference-..-classes-visualnavigator">VisualNavigator</a></code> instance via the provided index.
-  The text instruction that can be accessed from the <code><a href="sdk-for-ios-navigate-api-reference-..-classes-route">Route</a></code> instance is meant
+<p><strong>Note:</strong> During navigation, the text will be always empty when the <code><a href="sdk-for-ios-navigate-api-reference-classes-maneuver">Maneuver</a></code> is
+  taken from the <code><a href="sdk-for-ios-navigate-api-reference-classes-navigator">Navigator</a></code> or <code><a href="sdk-for-ios-navigate-api-reference-classes-visualnavigator">VisualNavigator</a></code> instance via the provided index.
+  The text instruction that can be accessed from the <code><a href="sdk-for-ios-navigate-api-reference-classes-route">Route</a></code> instance is meant
   as preview and it is not necessarily matching the more comprehensive maneuver information you
   can access during navigation. This information can be enhanced with real-time <code>ManeuverNotifications</code>
   texts that can be used for spoken text notifications during a trip.</p>
@@ -230,7 +230,7 @@ then this attribute will be <code>nil</code>.</li>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">type</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-textnotificationtype">TextNotificationType</a></span><span class="p">,</span> <span class="nv">distanceInMeters</span><span class="p">:</span> <span class="kt">Double</span><span class="p">,</span> <span class="nv">text</span><span class="p">:</span> <span class="kt">String</span><span class="p">,</span> <span class="nv">maneuverNotificationDetails</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-maneuvernotificationdetails">ManeuverNotificationDetails</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">spatialNotificationDetails</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-spatialnotificationdetails">SpatialNotificationDetails</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">type</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-textnotificationtype">TextNotificationType</a></span><span class="p">,</span> <span class="nv">distanceInMeters</span><span class="p">:</span> <span class="kt">Double</span><span class="p">,</span> <span class="nv">text</span><span class="p">:</span> <span class="kt">String</span><span class="p">,</span> <span class="nv">maneuverNotificationDetails</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-maneuvernotificationdetails">ManeuverNotificationDetails</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">spatialNotificationDetails</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-spatialnotificationdetails">SpatialNotificationDetails</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>

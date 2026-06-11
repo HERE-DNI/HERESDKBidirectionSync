@@ -1,5 +1,5 @@
 ---
-title: "WarnerEngine / WarningDelegate"
+title: "sdk-for-ios-navigate-api-reference-protocols-warningdelegate"
 slug: "sdk-for-ios-navigate-api-reference-protocols-warningdelegate"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-warningdelegate"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-warnerengine">WarnerEngine</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-warnerengine">WarnerEngine</a>
+<img alt="" id="carat" src="/carat.png"/>
         WarningDelegate Protocol Reference
       </p>
 </div>
@@ -34,8 +34,8 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-warningdelegate"
 </div>
 </div>
 <p>A generic listener interface protocol for receiving warning notifications.</p>
-<p>Implementations of this interface are notified whenever the <code><a href="sdk-for-ios-navigate-api-reference-..-classes-warnerengine">WarnerEngine</a></code> detects new warnings.
-The listener receives a list of <code><a href="sdk-for-ios-navigate-api-reference-..-structs-warning">Warning</a></code> objects, each describing a specific event or condition that requires user attention.</p>
+<p>Implementations of this interface are notified whenever the <code><a href="sdk-for-ios-navigate-api-reference-classes-warnerengine">WarnerEngine</a></code> detects new warnings.
+The listener receives a list of <code><a href="sdk-for-ios-navigate-api-reference-structs-warning">Warning</a></code> objects, each describing a specific event or condition that requires user attention.</p>
 <p>Classes interested in warning updates should implement this listener
 and register themselves via <code>WarnerEngine.addWarningListener</code>.</p>
 <p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
@@ -64,7 +64,7 @@ This method is invoked whenever a new list of warnings becomes available.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">onWarnings</span><span class="p">(</span><span class="nv">warnings</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-warning">Warning</a></span><span class="p">])</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">onWarnings</span><span class="p">(</span><span class="nv">warnings</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-warning">Warning</a></span><span class="p">])</span></code></pre>
 </div>
 </div>
 <div>

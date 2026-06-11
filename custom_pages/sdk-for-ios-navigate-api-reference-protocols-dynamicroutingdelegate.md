@@ -1,5 +1,5 @@
 ---
-title: "Navigation / DynamicRoutingDelegate"
+title: "sdk-for-ios-navigate-api-reference-protocols-dynamicroutingdelegate"
 slug: "sdk-for-ios-navigate-api-reference-protocols-dynamicroutingdelegate"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-dynamicroutingdelegate"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-navigation">Navigation</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-navigation">Navigation</a>
+<img alt="" id="carat" src="/carat.png"/>
         DynamicRoutingDelegate Protocol Reference
       </p>
 </div>
@@ -34,7 +34,7 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-dynamicroutingdelegate"
 </div>
 </div>
 <p>This protocol should be implemented in order to
-receive notifications about the new route via the <code><a href="sdk-for-ios-navigate-api-reference-..-classes-dynamicroutingengine">DynamicRoutingEngine</a></code>.</p>
+receive notifications about the new route via the <code><a href="sdk-for-ios-navigate-api-reference-classes-dynamicroutingengine">DynamicRoutingEngine</a></code>.</p>
 </section>
 <section class="section task-group-section">
 <div class="task-group">
@@ -53,7 +53,7 @@ receive notifications about the new route via the <code><a href="sdk-for-ios-nav
 <div class="pointer"></div>
 <div class="abstract">
 <p>This event is issued when a better route could be found,
-as defined by <code><a href="sdk-for-ios-navigate-api-reference-..-structs-dynamicroutingengineoptions">DynamicRoutingEngineOptions</a></code>.
+as defined by <code><a href="sdk-for-ios-navigate-api-reference-structs-dynamicroutingengineoptions">DynamicRoutingEngineOptions</a></code>.
 To find a better route, two routes are calculated.
 The updated current route: A route that is calculated via the route specified.
 The dynamic route: A route that starts at the current position on the route specified
@@ -63,7 +63,7 @@ and passes through the remaining waypoints.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">onBetterRouteFound</span><span class="p">(</span><span class="nv">newRoute</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-route">Route</a></span><span class="p">,</span> <span class="nv">etaDifferenceInSeconds</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">,</span> <span class="nv">distanceDifferenceInMeters</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">onBetterRouteFound</span><span class="p">(</span><span class="nv">newRoute</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-route">Route</a></span><span class="p">,</span> <span class="nv">etaDifferenceInSeconds</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">,</span> <span class="nv">distanceDifferenceInMeters</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -136,7 +136,7 @@ a shorter distance, but its now assumed to be longer than the dynamic route.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">onRoutingError</span><span class="p">(</span><span class="nv">routingError</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-routingerror">RoutingError</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">onRoutingError</span><span class="p">(</span><span class="nv">routingError</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-routingerror">RoutingError</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>

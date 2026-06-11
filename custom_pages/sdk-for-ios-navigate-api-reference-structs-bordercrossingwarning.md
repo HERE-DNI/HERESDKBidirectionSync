@@ -1,5 +1,5 @@
 ---
-title: "Navigation / BorderCrossingWarning"
+title: "sdk-for-ios-navigate-api-reference-structs-bordercrossingwarning"
 slug: "sdk-for-ios-navigate-api-reference-structs-bordercrossingwarning"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-structs-bordercrossingwarning"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-navigation">Navigation</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-navigation">Navigation</a>
+<img alt="" id="carat" src="/carat.png"/>
         BorderCrossingWarning Structure Reference
       </p>
 </div>
@@ -36,7 +36,7 @@ slug: "sdk-for-ios-navigate-api-reference-structs-bordercrossingwarning"
 <p>A border crossing. The main field describing the border crossing is <code><a href="../Structs/BorderCrossingWarning.html#/s:7heresdk21BorderCrossingWarningV4typeAA0bC4TypeOvp">BorderCrossingWarning.type</a></code> specifying whether the border crossing
 is given for a country border or a state border. The <code><a href="../Structs/BorderCrossingWarning.html#/s:7heresdk21BorderCrossingWarningV4typeAA0bC4TypeOvp">BorderCrossingWarning.type</a></code> must be known.
 The country and state codes are contained in <code><a href="../Structs/BorderCrossingWarning.html#/s:7heresdk21BorderCrossingWarningV19administrativeRulesAA014AdministrativeF0Vvp">BorderCrossingWarning.administrativeRules</a></code> along with other information such as speed
-limits, u-turn regulations or pre-trip planning information contained by the <code><a href="sdk-for-ios-navigate-api-reference-..-structs-administrativerules">AdministrativeRules</a></code>.</p>
+limits, u-turn regulations or pre-trip planning information contained by the <code><a href="sdk-for-ios-navigate-api-reference-structs-administrativerules">AdministrativeRules</a></code>.</p>
 <p>Use <code>BorderCrossingWarningListener</code> to get notifications about upcoming country or state border crossings.</p>
 </section>
 <section class="section task-group-section">
@@ -113,7 +113,7 @@ Use this ID to track, update, or dismiss individual warning instances of this ty
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">type</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-bordercrossingtype">BorderCrossingType</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">type</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-bordercrossingtype">BorderCrossingType</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -139,7 +139,7 @@ rules such as driving side, speed limits, various sticker requirements, toll cos
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">administrativeRules</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-administrativerules">AdministrativeRules</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">administrativeRules</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-administrativerules">AdministrativeRules</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -166,7 +166,7 @@ the route, <code><a href="../Enums/DistanceType.html#/s:7heresdk12DistanceTypeO7
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">distanceType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-distancetype">DistanceType</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">distanceType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-distancetype">DistanceType</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -193,7 +193,7 @@ This field is only populated when crossing into a region with specific commercia
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">commercialVehicleRegulations</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-administrativecommercialvehiclerules">AdministrativeCommercialVehicleRules</a></span><span class="p">?</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">commercialVehicleRegulations</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-administrativecommercialvehiclerules">AdministrativeCommercialVehicleRules</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -218,7 +218,7 @@ This field is only populated when crossing into a region with specific commercia
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">id</span><span class="p">:</span> <span class="kt">Int32</span> <span class="o">=</span> <span class="mi">0</span><span class="p">,</span> <span class="nv">distanceToBorderCrossingInMeters</span><span class="p">:</span> <span class="kt">Double</span><span class="p">,</span> <span class="nv">type</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-bordercrossingtype">BorderCrossingType</a></span><span class="p">,</span> <span class="nv">administrativeRules</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-administrativerules">AdministrativeRules</a></span><span class="p">,</span> <span class="nv">distanceType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-distancetype">DistanceType</a></span><span class="p">,</span> <span class="nv">commercialVehicleRegulations</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-administrativecommercialvehiclerules">AdministrativeCommercialVehicleRules</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">id</span><span class="p">:</span> <span class="kt">Int32</span> <span class="o">=</span> <span class="mi">0</span><span class="p">,</span> <span class="nv">distanceToBorderCrossingInMeters</span><span class="p">:</span> <span class="kt">Double</span><span class="p">,</span> <span class="nv">type</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-bordercrossingtype">BorderCrossingType</a></span><span class="p">,</span> <span class="nv">administrativeRules</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-administrativerules">AdministrativeRules</a></span><span class="p">,</span> <span class="nv">distanceType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-distancetype">DistanceType</a></span><span class="p">,</span> <span class="nv">commercialVehicleRegulations</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-administrativecommercialvehiclerules">AdministrativeCommercialVehicleRules</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>

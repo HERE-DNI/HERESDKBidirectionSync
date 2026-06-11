@@ -1,5 +1,5 @@
 ---
-title: "Search / OfflineSearchIndex"
+title: "sdk-for-ios-navigate-api-reference-classes-offlinesearchindex"
 slug: "sdk-for-ios-navigate-api-reference-classes-offlinesearchindex"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-classes-offlinesearchindex"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-search">Search</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-search">Search</a>
+<img alt="" id="carat" src="/carat.png"/>
         OfflineSearchIndex Class Reference
       </p>
 </div>
@@ -55,7 +55,7 @@ behaviors. Related APIs may change for new releases without a deprecation proces
 <div class="pointer"></div>
 <div class="abstract">
 <p>Shows the operation that is performed over index.</p>
-<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-..-classes-offlinesearchindex-operation">See more</a>
+<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-classes-offlinesearchindex-operation">See more</a>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
@@ -81,7 +81,7 @@ behaviors. Related APIs may change for new releases without a deprecation proces
 <div class="pointer"></div>
 <div class="abstract">
 <p>Error corresponding to the offline search operation.</p>
-<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-..-classes-offlinesearchindex-error">See more</a>
+<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-classes-offlinesearchindex-error">See more</a>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
@@ -107,7 +107,7 @@ behaviors. Related APIs may change for new releases without a deprecation proces
 <div class="pointer"></div>
 <div class="abstract">
 <p>Options to set indexing for offline search.</p>
-<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-..-classes-offlinesearchindex-options">See more</a>
+<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-classes-offlinesearchindex-options">See more</a>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>

@@ -1,5 +1,5 @@
 ---
-title: "WarnerEngine / CustomWarning"
+title: "sdk-for-ios-navigate-api-reference-structs-customwarning"
 slug: "sdk-for-ios-navigate-api-reference-structs-customwarning"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-structs-customwarning"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-warnerengine">WarnerEngine</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-warnerengine">WarnerEngine</a>
+<img alt="" id="carat" src="/carat.png"/>
         CustomWarning Structure Reference
       </p>
 </div>
@@ -113,7 +113,7 @@ registry should be used to retrieve additional warning details.</p>
 <div class="abstract">
 <p>Start offset of the warning range along the segment.</p>
 <p>Specifies the distance, in meters, from the beginning of the
-corresponding <code><a href="sdk-for-ios-navigate-api-reference-..-structs-electronichorizonsegment">ElectronicHorizonSegment</a></code> at which the warning becomes
+corresponding <code><a href="sdk-for-ios-navigate-api-reference-structs-electronichorizonsegment">ElectronicHorizonSegment</a></code> at which the warning becomes
 applicable.</p>
 </div>
 <div class="declaration">
@@ -141,7 +141,7 @@ applicable.</p>
 <div class="abstract">
 <p>End offset of the warning range along the segment.</p>
 <p>Specifies the distance, in meters, from the beginning of the
-corresponding <code><a href="sdk-for-ios-navigate-api-reference-..-structs-electronichorizonsegment">ElectronicHorizonSegment</a></code> at which the warning is no
+corresponding <code><a href="sdk-for-ios-navigate-api-reference-structs-electronichorizonsegment">ElectronicHorizonSegment</a></code> at which the warning is no
 longer applicable.</p>
 <p>May be <code>nil</code>. In this case, the value is automatically considered
 to be equal to <code><a href="../Structs/CustomWarning.html#/s:7heresdk13CustomWarningV19startOffsetInMetersSdvp">startOffsetInMeters</a></code>.</p>
@@ -177,7 +177,7 @@ A value of <code>nil</code> indicates that no additional data is associated with
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">payload</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-metadata">Metadata</a></span><span class="p">?</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">payload</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-metadata">Metadata</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -211,13 +211,13 @@ to retrieve additional information from a corresponding registry.</li>
 <li>startOffsetInMeters: Start offset of the warning range along the segment.</li>
 </ul>
 <p>Specifies the distance, in meters, from the beginning of the
-  corresponding <code><a href="sdk-for-ios-navigate-api-reference-..-structs-electronichorizonsegment">ElectronicHorizonSegment</a></code> at which the warning becomes
+  corresponding <code><a href="sdk-for-ios-navigate-api-reference-structs-electronichorizonsegment">ElectronicHorizonSegment</a></code> at which the warning becomes
   applicable.</p>
 <ul>
 <li>endOffsetInMeters: End offset of the warning range along the segment.</li>
 </ul>
 <p>Specifies the distance, in meters, from the beginning of the
-  corresponding <code><a href="sdk-for-ios-navigate-api-reference-..-structs-electronichorizonsegment">ElectronicHorizonSegment</a></code> at which the warning is no
+  corresponding <code><a href="sdk-for-ios-navigate-api-reference-structs-electronichorizonsegment">ElectronicHorizonSegment</a></code> at which the warning is no
   longer applicable.</p>
 <p>May be <code>nil</code>. In this case, the value is automatically considered
   to be equal to <code><a href="../Structs/CustomWarning.html#/s:7heresdk13CustomWarningV19startOffsetInMetersSdvp">startOffsetInMeters</a></code>.</p>
@@ -232,7 +232,7 @@ to retrieve additional information from a corresponding registry.</li>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">id</span><span class="p">:</span> <span class="kt">Int32</span> <span class="o">=</span> <span class="mi">0</span><span class="p">,</span> <span class="nv">customWarningType</span><span class="p">:</span> <span class="kt">Int32</span> <span class="o">=</span> <span class="mi">0</span><span class="p">,</span> <span class="nv">startOffsetInMeters</span><span class="p">:</span> <span class="kt">Double</span> <span class="o">=</span> <span class="mf">0.0</span><span class="p">,</span> <span class="nv">endOffsetInMeters</span><span class="p">:</span> <span class="kt">Double</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">payload</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-classes-metadata">Metadata</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">id</span><span class="p">:</span> <span class="kt">Int32</span> <span class="o">=</span> <span class="mi">0</span><span class="p">,</span> <span class="nv">customWarningType</span><span class="p">:</span> <span class="kt">Int32</span> <span class="o">=</span> <span class="mi">0</span><span class="p">,</span> <span class="nv">startOffsetInMeters</span><span class="p">:</span> <span class="kt">Double</span> <span class="o">=</span> <span class="mf">0.0</span><span class="p">,</span> <span class="nv">endOffsetInMeters</span><span class="p">:</span> <span class="kt">Double</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">payload</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-classes-metadata">Metadata</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>

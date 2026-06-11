@@ -1,5 +1,5 @@
 ---
-title: "AutomotiveCameraBehavior / ActiveCameraType"
+title: "sdk-for-ios-navigate-api-reference-classes-automotivecamerabehavior-activecameratype"
 slug: "sdk-for-ios-navigate-api-reference-classes-automotivecamerabehavior-activecameratype"
 ---
 
@@ -15,12 +15,12 @@ slug: "sdk-for-ios-navigate-api-reference-classes-automotivecamerabehavior-activ
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-..-index">heresdk</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-..-navigation">Navigation</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-..-classes-automotivecamerabehavior">AutomotiveCameraBehavior</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-navigation">Navigation</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-classes-automotivecamerabehavior">AutomotiveCameraBehavior</a>
+<img alt="" id="carat" src="/carat.png"/>
         ActiveCameraType Enumeration Reference
       </p>
 </div>

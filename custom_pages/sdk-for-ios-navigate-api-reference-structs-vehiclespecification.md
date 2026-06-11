@@ -1,5 +1,5 @@
 ---
-title: "Routing / VehicleSpecification"
+title: "sdk-for-ios-navigate-api-reference-structs-vehiclespecification"
 slug: "sdk-for-ios-navigate-api-reference-structs-vehiclespecification"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-structs-vehiclespecification"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-routing">Routing</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-routing">Routing</a>
+<img alt="" id="carat" src="/carat.png"/>
         VehicleSpecification Structure Reference
       </p>
 </div>
@@ -203,8 +203,8 @@ Rendering <code>sdk.mapview.TruckProfile</code>: <code>VehicleSpecification.truc
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">@available(*, deprecated, message: "Will be removed in v4.27.0. Use <code>VehicleSpecification.truckCategory</code> instead.")</span>
-<span class="kd">public</span> <span class="k">var</span> <span class="nv">truckType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-trucktype">TruckType</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">@available(*, deprecated, message: "Will be removed in v4.27.0. Use VehicleSpecification.truckCategory instead.")</span>
+<span class="kd">public</span> <span class="k">var</span> <span class="nv">truckType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-trucktype">TruckType</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -231,7 +231,7 @@ Rendering: <code>VehicleSpecification.truckCategory</code> is ignored and has no
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">truckCategory</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-truckcategory">TruckCategory</a></span><span class="p">?</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">truckCategory</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-truckcategory">TruckCategory</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -260,7 +260,7 @@ not always overwrite these settings. Make sure to not exceed the specifications 
 <p>In Japan, for light trucks the same restrictions apply as for cars. Therefore, when the flag is set to <code>true</code>,
 you will get, for example, the same speed limits as for cars. Make sure to set the flag only to <code>true</code>, when
 a vehicle matches the classification for light trucks according to the vehicle regulations in Japan.</p>
-<p>When on <code><a href="sdk-for-ios-navigate-api-reference-..-classes-mapcontentsettings">MapContentSettings</a></code>, then this flag will be ignored and has no effect.</p>
+<p>When on <code><a href="sdk-for-ios-navigate-api-reference-classes-mapcontentsettings">MapContentSettings</a></code>, then this flag will be ignored and has no effect.</p>
 <p><strong>Notes:</strong></p>
 <ul>
 <li>This flag and the concept of light trucks are supported only in Japan as beta and are considered to be
@@ -491,8 +491,8 @@ By default, it is not set.</p>
 <p><strong>Notes:</strong></p>
 <ul>
 <li><code>VehicleSpecification.weightPerAxleInKilograms</code> and <code><a href="../Structs/VehicleSpecification.html#/s:7heresdk20VehicleSpecificationV18weightPerAxleGroupAA06WeightefG0VSgvp">VehicleSpecification.weightPerAxleGroup</a></code> are incompatible.
-When available for your edition, if both attributes are set, during online <code><a href="sdk-for-ios-navigate-api-reference-..-classes-routingengine">RoutingEngine</a></code> an <code>RoutingError.INVALID_PARAMETER</code>
-error is generated. Otherwise, when offline <code><a href="sdk-for-ios-navigate-api-reference-..-classes-routingengine">RoutingEngine</a></code> is in place, both parameters are evaluated and the
+When available for your edition, if both attributes are set, during online <code><a href="sdk-for-ios-navigate-api-reference-classes-routingengine">RoutingEngine</a></code> an <code>RoutingError.INVALID_PARAMETER</code>
+error is generated. Otherwise, when offline <code><a href="sdk-for-ios-navigate-api-reference-classes-routingengine">RoutingEngine</a></code> is in place, both parameters are evaluated and the
 maximum value between them will be used.</li>
 <li>Supported in <code><a href="../Enums/TransportMode.html#/s:7heresdk13TransportModeO5truckyA2CmF">TransportMode.truck</a></code>, <code><a href="../Enums/TransportMode.html#/s:7heresdk13TransportModeO3busyA2CmF">TransportMode.bus</a></code>, <code><a href="../Enums/TransportMode.html#/s:7heresdk13TransportModeO10privateBusyA2CmF">TransportMode.privateBus</a></code>,
 <code><a href="../Enums/TransportMode.html#/s:7heresdk13TransportModeO3caryA2CmF">TransportMode.car</a></code> (Beta), <code><a href="../Enums/TransportMode.html#/s:7heresdk13TransportModeO4taxiyA2CmF">TransportMode.taxi</a></code> (Beta) transport modes.</li>
@@ -528,8 +528,8 @@ By default is not set.</p>
 <p><strong>Notes:</strong></p>
 <ul>
 <li><code><a href="../Structs/VehicleSpecification.html#/s:7heresdk20VehicleSpecificationV24weightPerAxleInKilogramss5Int32VSgvp">VehicleSpecification.weightPerAxleInKilograms</a></code> and <code>VehicleSpecification.weightPerAxleGroup</code> are incompatible.
-When available for your edition, if both attributes are set, during online <code><a href="sdk-for-ios-navigate-api-reference-..-classes-routingengine">RoutingEngine</a></code> an <code>RoutingError.INVALID_PARAMETER</code>
-error is generated. Otherwise, when offline <code><a href="sdk-for-ios-navigate-api-reference-..-classes-routingengine">RoutingEngine</a></code> is in place, both parameters are evaluated and
+When available for your edition, if both attributes are set, during online <code><a href="sdk-for-ios-navigate-api-reference-classes-routingengine">RoutingEngine</a></code> an <code>RoutingError.INVALID_PARAMETER</code>
+error is generated. Otherwise, when offline <code><a href="sdk-for-ios-navigate-api-reference-classes-routingengine">RoutingEngine</a></code> is in place, both parameters are evaluated and
 the maximum value between them will be used.</li>
 <li>Supported in <code><a href="../Enums/TransportMode.html#/s:7heresdk13TransportModeO5truckyA2CmF">TransportMode.truck</a></code>, <code><a href="../Enums/TransportMode.html#/s:7heresdk13TransportModeO3busyA2CmF">TransportMode.bus</a></code>, <code><a href="../Enums/TransportMode.html#/s:7heresdk13TransportModeO10privateBusyA2CmF">TransportMode.privateBus</a></code>,
 <code><a href="../Enums/TransportMode.html#/s:7heresdk13TransportModeO3caryA2CmF">TransportMode.car</a></code> (Beta), <code><a href="../Enums/TransportMode.html#/s:7heresdk13TransportModeO4taxiyA2CmF">TransportMode.taxi</a></code> (Beta) transport modes.</li>
@@ -539,7 +539,7 @@ the maximum value between them will be used.</li>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">weightPerAxleGroup</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-weightperaxlegroup">WeightPerAxleGroup</a></span><span class="p">?</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">weightPerAxleGroup</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-weightperaxlegroup">WeightPerAxleGroup</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -682,7 +682,7 @@ Otherwise it is guaranteed to be in the range [1, 255].</p>
 <div class="abstract">
 <p>Specifies the tunnel categories to restrict certain route links.
 The route will pass only through tunnels of a less strict category.
-Refer to <code><a href="sdk-for-ios-navigate-api-reference-..-enums-tunnelcategory">TunnelCategory</a></code> for the available options.
+Refer to <code><a href="sdk-for-ios-navigate-api-reference-enums-tunnelcategory">TunnelCategory</a></code> for the available options.
 By default, it is not set.</p>
 <p><strong>Note:</strong> Supported in <code><a href="../Enums/TransportMode.html#/s:7heresdk13TransportModeO5truckyA2CmF">TransportMode.truck</a></code>, <code><a href="../Enums/TransportMode.html#/s:7heresdk13TransportModeO3busyA2CmF">TransportMode.bus</a></code>, <code><a href="../Enums/TransportMode.html#/s:7heresdk13TransportModeO10privateBusyA2CmF">TransportMode.privateBus</a></code>,
 <code><a href="../Enums/TransportMode.html#/s:7heresdk13TransportModeO3caryA2CmF">TransportMode.car</a></code> (Beta), <code><a href="../Enums/TransportMode.html#/s:7heresdk13TransportModeO4taxiyA2CmF">TransportMode.taxi</a></code> (Beta) transport modes.</p>
@@ -691,7 +691,7 @@ By default, it is not set.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">tunnelCategory</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-tunnelcategory">TunnelCategory</a></span><span class="p">?</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">tunnelCategory</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-tunnelcategory">TunnelCategory</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -711,7 +711,7 @@ By default, it is not set.</p>
 <div class="pointer"></div>
 <div class="abstract">
 <p>Specifies a list of hazardous materials shipped in the vehicle.
-Refer to <code><a href="sdk-for-ios-navigate-api-reference-..-enums-hazardousmaterial">HazardousMaterial</a></code> for the available options.
+Refer to <code><a href="sdk-for-ios-navigate-api-reference-enums-hazardousmaterial">HazardousMaterial</a></code> for the available options.
 By default, it is an empty list.</p>
 <p><strong>Note:</strong> Supported in <code><a href="../Enums/TransportMode.html#/s:7heresdk13TransportModeO5truckyA2CmF">TransportMode.truck</a></code>, <code><a href="../Enums/TransportMode.html#/s:7heresdk13TransportModeO3busyA2CmF">TransportMode.bus</a></code>, <code><a href="../Enums/TransportMode.html#/s:7heresdk13TransportModeO10privateBusyA2CmF">TransportMode.privateBus</a></code>,
 <code><a href="../Enums/TransportMode.html#/s:7heresdk13TransportModeO3caryA2CmF">TransportMode.car</a></code> (Beta), <code><a href="../Enums/TransportMode.html#/s:7heresdk13TransportModeO4taxiyA2CmF">TransportMode.taxi</a></code> (Beta) transport modes.</p>
@@ -720,7 +720,7 @@ By default, it is an empty list.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">hazardousMaterials</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-hazardousmaterial">HazardousMaterial</a></span><span class="p">]</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">hazardousMaterials</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-hazardousmaterial">HazardousMaterial</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -815,7 +815,7 @@ Defaults to <code>false</code>.</li>
 <p>In Japan, for light trucks the same restrictions apply as for cars. Therefore, when the flag is set to <code>true</code>,
   you will get, for example, the same speed limits as for cars. Make sure to set the flag only to <code>true</code>, when
   a vehicle matches the classification for light trucks according to the vehicle regulations in Japan.</p>
-<p>When on <code><a href="sdk-for-ios-navigate-api-reference-..-classes-mapcontentsettings">MapContentSettings</a></code>, then this flag will be ignored and has no effect.</p>
+<p>When on <code><a href="sdk-for-ios-navigate-api-reference-classes-mapcontentsettings">MapContentSettings</a></code>, then this flag will be ignored and has no effect.</p>
 <p><strong>Notes:</strong></p>
 <ul>
 <li>This flag and the concept of light trucks are supported only in Japan as beta and are considered to be
@@ -895,8 +895,8 @@ By default, it is not set.</li>
 <p><strong>Notes:</strong></p>
 <ul>
 <li><code><a href="../Structs/VehicleSpecification.html#/s:7heresdk20VehicleSpecificationV24weightPerAxleInKilogramss5Int32VSgvp">VehicleSpecification.weightPerAxleInKilograms</a></code> and <code><a href="../Structs/VehicleSpecification.html#/s:7heresdk20VehicleSpecificationV18weightPerAxleGroupAA06WeightefG0VSgvp">VehicleSpecification.weightPerAxleGroup</a></code> are incompatible.
-  When available for your edition, if both attributes are set, during online <code><a href="sdk-for-ios-navigate-api-reference-..-classes-routingengine">RoutingEngine</a></code> an <code>RoutingError.INVALID_PARAMETER</code>
-  error is generated. Otherwise, when offline <code><a href="sdk-for-ios-navigate-api-reference-..-classes-routingengine">RoutingEngine</a></code> is in place, both parameters are evaluated and the
+  When available for your edition, if both attributes are set, during online <code><a href="sdk-for-ios-navigate-api-reference-classes-routingengine">RoutingEngine</a></code> an <code>RoutingError.INVALID_PARAMETER</code>
+  error is generated. Otherwise, when offline <code><a href="sdk-for-ios-navigate-api-reference-classes-routingengine">RoutingEngine</a></code> is in place, both parameters are evaluated and the
   maximum value between them will be used.</li>
 <li>Supported in <code><a href="../Enums/TransportMode.html#/s:7heresdk13TransportModeO5truckyA2CmF">TransportMode.truck</a></code>, <code><a href="../Enums/TransportMode.html#/s:7heresdk13TransportModeO3busyA2CmF">TransportMode.bus</a></code>, <code><a href="../Enums/TransportMode.html#/s:7heresdk13TransportModeO10privateBusyA2CmF">TransportMode.privateBus</a></code>,
   <code><a href="../Enums/TransportMode.html#/s:7heresdk13TransportModeO3caryA2CmF">TransportMode.car</a></code> (Beta), <code><a href="../Enums/TransportMode.html#/s:7heresdk13TransportModeO4taxiyA2CmF">TransportMode.taxi</a></code> (Beta) transport modes.
@@ -911,8 +911,8 @@ By default is not set.</li>
 <p><strong>Notes:</strong></p>
 <ul>
 <li><code><a href="../Structs/VehicleSpecification.html#/s:7heresdk20VehicleSpecificationV24weightPerAxleInKilogramss5Int32VSgvp">VehicleSpecification.weightPerAxleInKilograms</a></code> and <code><a href="../Structs/VehicleSpecification.html#/s:7heresdk20VehicleSpecificationV18weightPerAxleGroupAA06WeightefG0VSgvp">VehicleSpecification.weightPerAxleGroup</a></code> are incompatible.
-  When available for your edition, if both attributes are set, during online <code><a href="sdk-for-ios-navigate-api-reference-..-classes-routingengine">RoutingEngine</a></code> an <code>RoutingError.INVALID_PARAMETER</code>
-  error is generated. Otherwise, when offline <code><a href="sdk-for-ios-navigate-api-reference-..-classes-routingengine">RoutingEngine</a></code> is in place, both parameters are evaluated and
+  When available for your edition, if both attributes are set, during online <code><a href="sdk-for-ios-navigate-api-reference-classes-routingengine">RoutingEngine</a></code> an <code>RoutingError.INVALID_PARAMETER</code>
+  error is generated. Otherwise, when offline <code><a href="sdk-for-ios-navigate-api-reference-classes-routingengine">RoutingEngine</a></code> is in place, both parameters are evaluated and
   the maximum value between them will be used.</li>
 <li>Supported in <code><a href="../Enums/TransportMode.html#/s:7heresdk13TransportModeO5truckyA2CmF">TransportMode.truck</a></code>, <code><a href="../Enums/TransportMode.html#/s:7heresdk13TransportModeO3busyA2CmF">TransportMode.bus</a></code>, <code><a href="../Enums/TransportMode.html#/s:7heresdk13TransportModeO10privateBusyA2CmF">TransportMode.privateBus</a></code>,
   <code><a href="../Enums/TransportMode.html#/s:7heresdk13TransportModeO3caryA2CmF">TransportMode.car</a></code> (Beta), <code><a href="../Enums/TransportMode.html#/s:7heresdk13TransportModeO4taxiyA2CmF">TransportMode.taxi</a></code> (Beta) transport modes.
@@ -955,14 +955,14 @@ Otherwise it is guaranteed to be in the range [1, 255].</li>
 <ul>
 <li>tunnelCategory: Specifies the tunnel categories to restrict certain route links.
 The route will pass only through tunnels of a less strict category.
-Refer to <code><a href="sdk-for-ios-navigate-api-reference-..-enums-tunnelcategory">TunnelCategory</a></code> for the available options.
+Refer to <code><a href="sdk-for-ios-navigate-api-reference-enums-tunnelcategory">TunnelCategory</a></code> for the available options.
 By default, it is not set.</li>
 </ul>
 <p><strong>Note:</strong> Supported in <code><a href="../Enums/TransportMode.html#/s:7heresdk13TransportModeO5truckyA2CmF">TransportMode.truck</a></code>, <code><a href="../Enums/TransportMode.html#/s:7heresdk13TransportModeO3busyA2CmF">TransportMode.bus</a></code>, <code><a href="../Enums/TransportMode.html#/s:7heresdk13TransportModeO10privateBusyA2CmF">TransportMode.privateBus</a></code>,
   <code><a href="../Enums/TransportMode.html#/s:7heresdk13TransportModeO3caryA2CmF">TransportMode.car</a></code> (Beta), <code><a href="../Enums/TransportMode.html#/s:7heresdk13TransportModeO4taxiyA2CmF">TransportMode.taxi</a></code> (Beta) transport modes.</p>
 <ul>
 <li>hazardousMaterials: Specifies a list of hazardous materials shipped in the vehicle.
-Refer to <code><a href="sdk-for-ios-navigate-api-reference-..-enums-hazardousmaterial">HazardousMaterial</a></code> for the available options.
+Refer to <code><a href="sdk-for-ios-navigate-api-reference-enums-hazardousmaterial">HazardousMaterial</a></code> for the available options.
 By default, it is an empty list.</li>
 </ul>
 <p><strong>Note:</strong> Supported in <code><a href="../Enums/TransportMode.html#/s:7heresdk13TransportModeO5truckyA2CmF">TransportMode.truck</a></code>, <code><a href="../Enums/TransportMode.html#/s:7heresdk13TransportModeO3busyA2CmF">TransportMode.bus</a></code>, <code><a href="../Enums/TransportMode.html#/s:7heresdk13TransportModeO10privateBusyA2CmF">TransportMode.privateBus</a></code>,
@@ -979,7 +979,7 @@ By default, it is not set.</li>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">heightInCentimeters</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">widthInCentimeters</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">lengthInCentimeters</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">axleCount</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">trailerCount</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">truckCategory</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-truckcategory">TruckCategory</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">isTruckLight</span><span class="p">:</span> <span class="kt">Bool</span> <span class="o">=</span> <span class="kc">false</span><span class="p">,</span> <span class="nv">payloadCapacityInKilograms</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">trailerAxleCount</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">kingpinToRearAxleDistanceInCentimeters</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">emptyWeightInKilograms</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">grossWeightInKilograms</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">currentWeightInKilograms</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">weightPerAxleInKilograms</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">weightPerAxleGroup</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-weightperaxlegroup">WeightPerAxleGroup</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">isCommercial</span><span class="p">:</span> <span class="kt">Bool</span> <span class="o">=</span> <span class="kc">false</span><span class="p">,</span> <span class="nv">lastCharacterOfLicensePlate</span><span class="p">:</span> <span class="kt">String</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">engineSizeInCubicCentimeters</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">tiresCount</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">tunnelCategory</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-tunnelcategory">TunnelCategory</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">hazardousMaterials</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-hazardousmaterial">HazardousMaterial</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">occupancy</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">heightInCentimeters</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">widthInCentimeters</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">lengthInCentimeters</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">axleCount</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">trailerCount</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">truckCategory</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-truckcategory">TruckCategory</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">isTruckLight</span><span class="p">:</span> <span class="kt">Bool</span> <span class="o">=</span> <span class="kc">false</span><span class="p">,</span> <span class="nv">payloadCapacityInKilograms</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">trailerAxleCount</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">kingpinToRearAxleDistanceInCentimeters</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">emptyWeightInKilograms</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">grossWeightInKilograms</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">currentWeightInKilograms</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">weightPerAxleInKilograms</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">weightPerAxleGroup</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-weightperaxlegroup">WeightPerAxleGroup</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">isCommercial</span><span class="p">:</span> <span class="kt">Bool</span> <span class="o">=</span> <span class="kc">false</span><span class="p">,</span> <span class="nv">lastCharacterOfLicensePlate</span><span class="p">:</span> <span class="kt">String</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">engineSizeInCubicCentimeters</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">tiresCount</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">tunnelCategory</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-tunnelcategory">TunnelCategory</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">hazardousMaterials</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-hazardousmaterial">HazardousMaterial</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">occupancy</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>
@@ -1050,7 +1050,7 @@ Defaults to <code>false</code>.</li>
 <p>In Japan, for light trucks the same restrictions apply as for cars. Therefore, when the flag is set to <code>true</code>,
   you will get, for example, the same speed limits as for cars. Make sure to set the flag only to <code>true</code>, when
   a vehicle matches the classification for light trucks according to the vehicle regulations in Japan.</p>
-<p>When on <code><a href="sdk-for-ios-navigate-api-reference-..-classes-mapcontentsettings">MapContentSettings</a></code>, then this flag will be ignored and has no effect.</p>
+<p>When on <code><a href="sdk-for-ios-navigate-api-reference-classes-mapcontentsettings">MapContentSettings</a></code>, then this flag will be ignored and has no effect.</p>
 <p><strong>Notes:</strong></p>
 <ul>
 <li>This flag and the concept of light trucks are supported only in Japan as beta and are considered to be
@@ -1130,8 +1130,8 @@ By default, it is not set.</li>
 <p><strong>Notes:</strong></p>
 <ul>
 <li><code><a href="../Structs/VehicleSpecification.html#/s:7heresdk20VehicleSpecificationV24weightPerAxleInKilogramss5Int32VSgvp">VehicleSpecification.weightPerAxleInKilograms</a></code> and <code><a href="../Structs/VehicleSpecification.html#/s:7heresdk20VehicleSpecificationV18weightPerAxleGroupAA06WeightefG0VSgvp">VehicleSpecification.weightPerAxleGroup</a></code> are incompatible.
-  When available for your edition, if both attributes are set, during online <code><a href="sdk-for-ios-navigate-api-reference-..-classes-routingengine">RoutingEngine</a></code> an <code>RoutingError.INVALID_PARAMETER</code>
-  error is generated. Otherwise, when offline <code><a href="sdk-for-ios-navigate-api-reference-..-classes-routingengine">RoutingEngine</a></code> is in place, both parameters are evaluated and the
+  When available for your edition, if both attributes are set, during online <code><a href="sdk-for-ios-navigate-api-reference-classes-routingengine">RoutingEngine</a></code> an <code>RoutingError.INVALID_PARAMETER</code>
+  error is generated. Otherwise, when offline <code><a href="sdk-for-ios-navigate-api-reference-classes-routingengine">RoutingEngine</a></code> is in place, both parameters are evaluated and the
   maximum value between them will be used.</li>
 <li>Supported in <code><a href="../Enums/TransportMode.html#/s:7heresdk13TransportModeO5truckyA2CmF">TransportMode.truck</a></code>, <code><a href="../Enums/TransportMode.html#/s:7heresdk13TransportModeO3busyA2CmF">TransportMode.bus</a></code>, <code><a href="../Enums/TransportMode.html#/s:7heresdk13TransportModeO10privateBusyA2CmF">TransportMode.privateBus</a></code>,
   <code><a href="../Enums/TransportMode.html#/s:7heresdk13TransportModeO3caryA2CmF">TransportMode.car</a></code> (Beta), <code><a href="../Enums/TransportMode.html#/s:7heresdk13TransportModeO4taxiyA2CmF">TransportMode.taxi</a></code> (Beta) transport modes.
@@ -1146,8 +1146,8 @@ By default is not set.</li>
 <p><strong>Notes:</strong></p>
 <ul>
 <li><code><a href="../Structs/VehicleSpecification.html#/s:7heresdk20VehicleSpecificationV24weightPerAxleInKilogramss5Int32VSgvp">VehicleSpecification.weightPerAxleInKilograms</a></code> and <code><a href="../Structs/VehicleSpecification.html#/s:7heresdk20VehicleSpecificationV18weightPerAxleGroupAA06WeightefG0VSgvp">VehicleSpecification.weightPerAxleGroup</a></code> are incompatible.
-  When available for your edition, if both attributes are set, during online <code><a href="sdk-for-ios-navigate-api-reference-..-classes-routingengine">RoutingEngine</a></code> an <code>RoutingError.INVALID_PARAMETER</code>
-  error is generated. Otherwise, when offline <code><a href="sdk-for-ios-navigate-api-reference-..-classes-routingengine">RoutingEngine</a></code> is in place, both parameters are evaluated and
+  When available for your edition, if both attributes are set, during online <code><a href="sdk-for-ios-navigate-api-reference-classes-routingengine">RoutingEngine</a></code> an <code>RoutingError.INVALID_PARAMETER</code>
+  error is generated. Otherwise, when offline <code><a href="sdk-for-ios-navigate-api-reference-classes-routingengine">RoutingEngine</a></code> is in place, both parameters are evaluated and
   the maximum value between them will be used.</li>
 <li>Supported in <code><a href="../Enums/TransportMode.html#/s:7heresdk13TransportModeO5truckyA2CmF">TransportMode.truck</a></code>, <code><a href="../Enums/TransportMode.html#/s:7heresdk13TransportModeO3busyA2CmF">TransportMode.bus</a></code>, <code><a href="../Enums/TransportMode.html#/s:7heresdk13TransportModeO10privateBusyA2CmF">TransportMode.privateBus</a></code>,
   <code><a href="../Enums/TransportMode.html#/s:7heresdk13TransportModeO3caryA2CmF">TransportMode.car</a></code> (Beta), <code><a href="../Enums/TransportMode.html#/s:7heresdk13TransportModeO4taxiyA2CmF">TransportMode.taxi</a></code> (Beta) transport modes.
@@ -1190,14 +1190,14 @@ Otherwise it is guaranteed to be in the range [1, 255].</li>
 <ul>
 <li>tunnelCategory: Specifies the tunnel categories to restrict certain route links.
 The route will pass only through tunnels of a less strict category.
-Refer to <code><a href="sdk-for-ios-navigate-api-reference-..-enums-tunnelcategory">TunnelCategory</a></code> for the available options.
+Refer to <code><a href="sdk-for-ios-navigate-api-reference-enums-tunnelcategory">TunnelCategory</a></code> for the available options.
 By default, it is not set.</li>
 </ul>
 <p><strong>Note:</strong> Supported in <code><a href="../Enums/TransportMode.html#/s:7heresdk13TransportModeO5truckyA2CmF">TransportMode.truck</a></code>, <code><a href="../Enums/TransportMode.html#/s:7heresdk13TransportModeO3busyA2CmF">TransportMode.bus</a></code>, <code><a href="../Enums/TransportMode.html#/s:7heresdk13TransportModeO10privateBusyA2CmF">TransportMode.privateBus</a></code>,
   <code><a href="../Enums/TransportMode.html#/s:7heresdk13TransportModeO3caryA2CmF">TransportMode.car</a></code> (Beta), <code><a href="../Enums/TransportMode.html#/s:7heresdk13TransportModeO4taxiyA2CmF">TransportMode.taxi</a></code> (Beta) transport modes.</p>
 <ul>
 <li>hazardousMaterials: Specifies a list of hazardous materials shipped in the vehicle.
-Refer to <code><a href="sdk-for-ios-navigate-api-reference-..-enums-hazardousmaterial">HazardousMaterial</a></code> for the available options.
+Refer to <code><a href="sdk-for-ios-navigate-api-reference-enums-hazardousmaterial">HazardousMaterial</a></code> for the available options.
 By default, it is an empty list.</li>
 </ul>
 <p><strong>Note:</strong> Supported in <code><a href="../Enums/TransportMode.html#/s:7heresdk13TransportModeO5truckyA2CmF">TransportMode.truck</a></code>, <code><a href="../Enums/TransportMode.html#/s:7heresdk13TransportModeO3busyA2CmF">TransportMode.bus</a></code>, <code><a href="../Enums/TransportMode.html#/s:7heresdk13TransportModeO10privateBusyA2CmF">TransportMode.privateBus</a></code>,
@@ -1215,7 +1215,7 @@ By default, it is not set.</li>
 <div class="language">
 <p class="aside-title">Swift</p>
 <pre class="highlight swift"><code><span class="kd">@available(*, deprecated)</span>
-<span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">heightInCentimeters</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">widthInCentimeters</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">lengthInCentimeters</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">axleCount</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">trailerCount</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">truckType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-trucktype">TruckType</a></span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-trucktype">TruckType</a></span><span class="o">.</span><span class="n">straight</span><span class="p">,</span> <span class="nv">truckCategory</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-truckcategory">TruckCategory</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">isTruckLight</span><span class="p">:</span> <span class="kt">Bool</span> <span class="o">=</span> <span class="kc">false</span><span class="p">,</span> <span class="nv">payloadCapacityInKilograms</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">trailerAxleCount</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">kingpinToRearAxleDistanceInCentimeters</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">emptyWeightInKilograms</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">grossWeightInKilograms</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">currentWeightInKilograms</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">weightPerAxleInKilograms</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">weightPerAxleGroup</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-weightperaxlegroup">WeightPerAxleGroup</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">isCommercial</span><span class="p">:</span> <span class="kt">Bool</span> <span class="o">=</span> <span class="kc">false</span><span class="p">,</span> <span class="nv">lastCharacterOfLicensePlate</span><span class="p">:</span> <span class="kt">String</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">engineSizeInCubicCentimeters</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">tiresCount</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">tunnelCategory</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-tunnelcategory">TunnelCategory</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">hazardousMaterials</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-hazardousmaterial">HazardousMaterial</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">occupancy</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">)</span></code></pre>
+<span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">heightInCentimeters</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">widthInCentimeters</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">lengthInCentimeters</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">axleCount</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">trailerCount</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">truckType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-trucktype">TruckType</a></span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-trucktype">TruckType</a></span><span class="o">.</span><span class="n">straight</span><span class="p">,</span> <span class="nv">truckCategory</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-truckcategory">TruckCategory</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">isTruckLight</span><span class="p">:</span> <span class="kt">Bool</span> <span class="o">=</span> <span class="kc">false</span><span class="p">,</span> <span class="nv">payloadCapacityInKilograms</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">trailerAxleCount</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">kingpinToRearAxleDistanceInCentimeters</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">emptyWeightInKilograms</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">grossWeightInKilograms</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">currentWeightInKilograms</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">weightPerAxleInKilograms</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">weightPerAxleGroup</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-weightperaxlegroup">WeightPerAxleGroup</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">isCommercial</span><span class="p">:</span> <span class="kt">Bool</span> <span class="o">=</span> <span class="kc">false</span><span class="p">,</span> <span class="nv">lastCharacterOfLicensePlate</span><span class="p">:</span> <span class="kt">String</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">engineSizeInCubicCentimeters</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">tiresCount</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">tunnelCategory</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-tunnelcategory">TunnelCategory</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">hazardousMaterials</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-navigate-api-reference-enums-hazardousmaterial">HazardousMaterial</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">occupancy</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>
@@ -1234,16 +1234,16 @@ By default, it is not set.</li>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>This class constructs a <code><a href="sdk-for-ios-navigate-api-reference-..-structs-vehiclespecification">VehicleSpecification</a></code> for a car.</p>
-<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-..-structs-vehiclespecification-carbuilder">See more</a>
+<p>This class constructs a <code><a href="sdk-for-ios-navigate-api-reference-structs-vehiclespecification">VehicleSpecification</a></code> for a car.</p>
+<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-structs-vehiclespecification-carbuilder">See more</a>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
 <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">CarBuilder</span></code></pre>
-<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-vehiclespecification">VehicleSpecification</a></span><span class="o">.</span><span class="kt">CarBuilder</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
-<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-vehiclespecification">VehicleSpecification</a></span><span class="o">.</span><span class="kt">CarBuilder</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-vehiclespecification">VehicleSpecification</a></span><span class="o">.</span><span class="kt">CarBuilder</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-vehiclespecification">VehicleSpecification</a></span><span class="o">.</span><span class="kt">CarBuilder</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -1262,16 +1262,16 @@ By default, it is not set.</li>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>This class constructs a <code><a href="sdk-for-ios-navigate-api-reference-..-structs-vehiclespecification">VehicleSpecification</a></code> for a truck.</p>
-<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-..-structs-vehiclespecification-truckbuilder">See more</a>
+<p>This class constructs a <code><a href="sdk-for-ios-navigate-api-reference-structs-vehiclespecification">VehicleSpecification</a></code> for a truck.</p>
+<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-structs-vehiclespecification-truckbuilder">See more</a>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
 <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">TruckBuilder</span></code></pre>
-<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-vehiclespecification">VehicleSpecification</a></span><span class="o">.</span><span class="kt">TruckBuilder</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
-<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-vehiclespecification">VehicleSpecification</a></span><span class="o">.</span><span class="kt">TruckBuilder</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-vehiclespecification">VehicleSpecification</a></span><span class="o">.</span><span class="kt">TruckBuilder</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-vehiclespecification">VehicleSpecification</a></span><span class="o">.</span><span class="kt">TruckBuilder</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -1290,16 +1290,16 @@ By default, it is not set.</li>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>This class constructs a <code><a href="sdk-for-ios-navigate-api-reference-..-structs-vehiclespecification">VehicleSpecification</a></code> for a scooter.</p>
-<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-..-structs-vehiclespecification-scooterbuilder">See more</a>
+<p>This class constructs a <code><a href="sdk-for-ios-navigate-api-reference-structs-vehiclespecification">VehicleSpecification</a></code> for a scooter.</p>
+<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-structs-vehiclespecification-scooterbuilder">See more</a>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
 <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">ScooterBuilder</span></code></pre>
-<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-vehiclespecification">VehicleSpecification</a></span><span class="o">.</span><span class="kt">ScooterBuilder</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
-<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-vehiclespecification">VehicleSpecification</a></span><span class="o">.</span><span class="kt">ScooterBuilder</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-vehiclespecification">VehicleSpecification</a></span><span class="o">.</span><span class="kt">ScooterBuilder</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-vehiclespecification">VehicleSpecification</a></span><span class="o">.</span><span class="kt">ScooterBuilder</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -1318,16 +1318,16 @@ By default, it is not set.</li>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>This class constructs a <code><a href="sdk-for-ios-navigate-api-reference-..-structs-vehiclespecification">VehicleSpecification</a></code> for a taxi.</p>
-<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-..-structs-vehiclespecification-taxibuilder">See more</a>
+<p>This class constructs a <code><a href="sdk-for-ios-navigate-api-reference-structs-vehiclespecification">VehicleSpecification</a></code> for a taxi.</p>
+<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-structs-vehiclespecification-taxibuilder">See more</a>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
 <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">TaxiBuilder</span></code></pre>
-<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-vehiclespecification">VehicleSpecification</a></span><span class="o">.</span><span class="kt">TaxiBuilder</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
-<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-vehiclespecification">VehicleSpecification</a></span><span class="o">.</span><span class="kt">TaxiBuilder</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-vehiclespecification">VehicleSpecification</a></span><span class="o">.</span><span class="kt">TaxiBuilder</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-vehiclespecification">VehicleSpecification</a></span><span class="o">.</span><span class="kt">TaxiBuilder</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -1346,16 +1346,16 @@ By default, it is not set.</li>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>This class constructs a <code><a href="sdk-for-ios-navigate-api-reference-..-structs-vehiclespecification">VehicleSpecification</a></code> for a bus.</p>
-<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-..-structs-vehiclespecification-busbuilder">See more</a>
+<p>This class constructs a <code><a href="sdk-for-ios-navigate-api-reference-structs-vehiclespecification">VehicleSpecification</a></code> for a bus.</p>
+<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-structs-vehiclespecification-busbuilder">See more</a>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
 <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">BusBuilder</span></code></pre>
-<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-vehiclespecification">VehicleSpecification</a></span><span class="o">.</span><span class="kt">BusBuilder</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
-<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-vehiclespecification">VehicleSpecification</a></span><span class="o">.</span><span class="kt">BusBuilder</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-vehiclespecification">VehicleSpecification</a></span><span class="o">.</span><span class="kt">BusBuilder</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-vehiclespecification">VehicleSpecification</a></span><span class="o">.</span><span class="kt">BusBuilder</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -1374,16 +1374,16 @@ By default, it is not set.</li>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>This class constructs a <code><a href="sdk-for-ios-navigate-api-reference-..-structs-vehiclespecification">VehicleSpecification</a></code> for a private bus.</p>
-<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-..-structs-vehiclespecification-privatebusbuilder">See more</a>
+<p>This class constructs a <code><a href="sdk-for-ios-navigate-api-reference-structs-vehiclespecification">VehicleSpecification</a></code> for a private bus.</p>
+<a class="slightly-smaller" href="sdk-for-ios-navigate-api-reference-structs-vehiclespecification-privatebusbuilder">See more</a>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
 <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">PrivateBusBuilder</span></code></pre>
-<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-vehiclespecification">VehicleSpecification</a></span><span class="o">.</span><span class="kt">PrivateBusBuilder</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
-<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-vehiclespecification">VehicleSpecification</a></span><span class="o">.</span><span class="kt">PrivateBusBuilder</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-vehiclespecification">VehicleSpecification</a></span><span class="o">.</span><span class="kt">PrivateBusBuilder</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-structs-vehiclespecification">VehicleSpecification</a></span><span class="o">.</span><span class="kt">PrivateBusBuilder</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>

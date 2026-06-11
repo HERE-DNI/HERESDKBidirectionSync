@@ -1,5 +1,5 @@
 ---
-title: "Routing / SectionTransportMode"
+title: "sdk-for-ios-navigate-api-reference-enums-sectiontransportmode"
 slug: "sdk-for-ios-navigate-api-reference-enums-sectiontransportmode"
 ---
 
@@ -15,10 +15,10 @@ slug: "sdk-for-ios-navigate-api-reference-enums-sectiontransportmode"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-navigate-api-reference-..-routing">Routing</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-routing">Routing</a>
+<img alt="" id="carat" src="/carat.png"/>
         SectionTransportMode Enumeration Reference
       </p>
 </div>
@@ -33,7 +33,7 @@ slug: "sdk-for-ios-navigate-api-reference-enums-sectiontransportmode"
 <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">SectionTransportMode</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
-<p>Specifies the <code><a href="sdk-for-ios-navigate-api-reference-..-classes-section">Section</a></code> mode of transport. A <code><a href="sdk-for-ios-navigate-api-reference-..-classes-section">Section</a></code> may have a different
+<p>Specifies the <code><a href="sdk-for-ios-navigate-api-reference-classes-section">Section</a></code> mode of transport. A <code><a href="sdk-for-ios-navigate-api-reference-classes-section">Section</a></code> may have a different
 transport mode than the one specified for route calculation. For example, a car route may have a
 section having ferry transport mode.</p>
 </section>
