@@ -15,10 +15,10 @@ slug: "sdk-for-ios-explore-api-reference-classes-suggestion"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-explore-api-reference-..-search">Search</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-search">Search</a>
+<img alt="" id="carat" src="/carat.png"/>
         Suggestion Class Reference
       </p>
 </div>
@@ -37,7 +37,7 @@ slug: "sdk-for-ios-explore-api-reference-classes-suggestion"
 </div>
 <p>Suggestion is meant to provide relevant suggestions to partial queries, like “restaur”, “starbu”, “eiffel”.
 Represents a relevant response to user queries.
-Suggestions (please check <code><a href="sdk-for-ios-explore-api-reference-..-enums-suggestiontype">SuggestionType</a></code>) are either:
+Suggestions (please check <code><a href="sdk-for-ios-explore-api-reference-enums-suggestiontype">SuggestionType</a></code>) are either:
 Place: <code><a href="../Enums/SuggestionType.html#/s:7heresdk14SuggestionTypeO5placeyA2CmF">SuggestionType.place</a></code>
 Query: <code><a href="../Enums/SuggestionType.html#/s:7heresdk14SuggestionTypeO5chainyA2CmF">SuggestionType.chain</a></code> or <code><a href="../Enums/SuggestionType.html#/s:7heresdk14SuggestionTypeO8categoryyA2CmF">SuggestionType.category</a></code></p>
 <p>With “Place” you get data for a concrete place in the world.
@@ -90,7 +90,7 @@ With “Query” something to follow-up, a way to perform more focused search.</
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">type</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-suggestiontype">SuggestionType</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">type</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-enums-suggestiontype">SuggestionType</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -116,7 +116,7 @@ Available only for <code><a href="../Enums/SuggestionType.html#/s:7heresdk14Sugg
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">place</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-place">Place</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">place</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-classes-place">Place</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -200,12 +200,12 @@ This is not supported in offline search.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getHighlights</span><span class="p">()</span> <span class="o">-&gt;</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-highlighttype">HighlightType</a></span> <span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-indexrange">IndexRange</a></span><span class="p">]]</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getHighlights</span><span class="p">()</span> <span class="o">-&gt;</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-enums-highlighttype">HighlightType</a></span> <span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-classes-indexrange">IndexRange</a></span><span class="p">]]</span></code></pre>
 </div>
 </div>
 <div>
 <h4>Return Value</h4>
-<p>Associated container where <code><a href="sdk-for-ios-explore-api-reference-..-enums-highlighttype">HighlightType</a></code> is a key and list of <code><a href="sdk-for-ios-explore-api-reference-..-classes-indexrange">IndexRange</a></code> value.</p>
+<p>Associated container where <code><a href="sdk-for-ios-explore-api-reference-enums-highlighttype">HighlightType</a></code> is a key and list of <code><a href="sdk-for-ios-explore-api-reference-classes-indexrange">IndexRange</a></code> value.</p>
 </div>
 </section>
 </div>

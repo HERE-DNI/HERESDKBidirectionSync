@@ -15,10 +15,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-poipaymentmethod"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-explore-api-reference-..-search">Search</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-search">Search</a>
+<img alt="" id="carat" src="/carat.png"/>
         POIPaymentMethod Structure Reference
       </p>
 </div>
@@ -34,7 +34,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-poipaymentmethod"
 </div>
 </div>
 <p>Holds constants that represent payment methods.</p>
-<p>See <code><a href="sdk-for-ios-explore-api-reference-..-structs-poipaymentdetails">POIPaymentDetails</a></code> for usage.</p>
+<p>See <code><a href="sdk-for-ios-explore-api-reference-structs-poipaymentdetails">POIPaymentDetails</a></code> for usage.</p>
 <p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and
 unexpected behaviors.
 Related APIs may change for new releases without a deprecation process.</p>

@@ -15,10 +15,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-webrating"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-explore-api-reference-..-search">Search</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-search">Search</a>
+<img alt="" id="carat" src="/carat.png"/>
         WebRating Structure Reference
       </p>
 </div>
@@ -107,7 +107,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-webrating"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">source</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-websource">WebSource</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">source</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-websource">WebSource</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -132,7 +132,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-webrating"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">count</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">,</span> <span class="nv">average</span><span class="p">:</span> <span class="kt">Double</span><span class="p">,</span> <span class="nv">source</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-websource">WebSource</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">count</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">,</span> <span class="nv">average</span><span class="p">:</span> <span class="kt">Double</span><span class="p">,</span> <span class="nv">source</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-websource">WebSource</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>

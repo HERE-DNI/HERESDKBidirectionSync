@@ -15,10 +15,10 @@ slug: "sdk-for-ios-explore-api-reference-classes-locationindicator"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-explore-api-reference-..-maps">Maps</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-maps">Maps</a>
+<img alt="" id="carat" src="/carat.png"/>
         LocationIndicator Class Reference
       </p>
 </div>
@@ -87,13 +87,13 @@ disappear from the viewport due to the new perspective.</p>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Creates an instance of LocationIndicator and adds it to provided <code><a href="sdk-for-ios-explore-api-reference-..-protocols-mapviewbase">MapViewBase</a></code>.</p>
+<p>Creates an instance of LocationIndicator and adds it to provided <code><a href="sdk-for-ios-explore-api-reference-protocols-mapviewbase">MapViewBase</a></code>.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="k">for</span> <span class="nv">mapView</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-protocols-mapviewbase">MapViewBase</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="k">for</span> <span class="nv">mapView</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-protocols-mapviewbase">MapViewBase</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -108,7 +108,7 @@ disappear from the viewport due to the new perspective.</p>
 </td>
 <td>
 <div>
-<p>The <code><a href="sdk-for-ios-explore-api-reference-..-protocols-mapviewbase">MapViewBase</a></code> instance.</p>
+<p>The <code><a href="sdk-for-ios-explore-api-reference-protocols-mapviewbase">MapViewBase</a></code> instance.</p>
 </div>
 </td>
 </tr>
@@ -191,7 +191,7 @@ By default, it is set to <code><a href="../Classes/LocationIndicator/IndicatorSt
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">locationIndicatorStyle</span><span class="p">:</span> <span class="kt">LocationIndicator</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-locationindicator-indicatorstyle">IndicatorStyle</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">locationIndicatorStyle</span><span class="p">:</span> <span class="kt">LocationIndicator</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-classes-locationindicator-indicatorstyle">IndicatorStyle</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -278,7 +278,7 @@ Default value is <code>nil</code>.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">materialReflectivity</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-materialreflectivity">MaterialReflectivity</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">materialReflectivity</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-materialreflectivity">MaterialReflectivity</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -298,7 +298,7 @@ Default value is <code>nil</code>.</p>
 <div class="pointer"></div>
 <div class="abstract">
 <p>The predefined styles for the location indicator which are pedestrian and navigation mode.</p>
-<a class="slightly-smaller" href="sdk-for-ios-explore-api-reference-..-classes-locationindicator-indicatorstyle">See more</a>
+<a class="slightly-smaller" href="sdk-for-ios-explore-api-reference-classes-locationindicator-indicatorstyle">See more</a>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
@@ -324,7 +324,7 @@ Default value is <code>nil</code>.</p>
 <div class="pointer"></div>
 <div class="abstract">
 <p>Enum to identify different types of markers of the location indicator.</p>
-<a class="slightly-smaller" href="sdk-for-ios-explore-api-reference-..-classes-locationindicator-markertype">See more</a>
+<a class="slightly-smaller" href="sdk-for-ios-explore-api-reference-classes-locationindicator-markertype">See more</a>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
@@ -349,16 +349,16 @@ Default value is <code>nil</code>.</p>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Enables <code>LocationIndicator</code> for provided <code><a href="sdk-for-ios-explore-api-reference-..-protocols-mapviewbase">MapViewBase</a></code>.
+<p>Enables <code>LocationIndicator</code> for provided <code><a href="sdk-for-ios-explore-api-reference-protocols-mapviewbase">MapViewBase</a></code>.
 If <code>LocationIndicator</code> is already enabled (added to map view) for passed map view, this function does nothing.
-If <code>LocationIndicator</code> is added to different <code><a href="sdk-for-ios-explore-api-reference-..-protocols-mapviewbase">MapViewBase</a></code>, this function removes first <code>LocationIndicator</code>
+If <code>LocationIndicator</code> is added to different <code><a href="sdk-for-ios-explore-api-reference-protocols-mapviewbase">MapViewBase</a></code>, this function removes first <code>LocationIndicator</code>
 from previous map view before adding to new one.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">enable</span><span class="p">(</span><span class="k">for</span> <span class="nv">mapView</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-protocols-mapviewbase">MapViewBase</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">enable</span><span class="p">(</span><span class="k">for</span> <span class="nv">mapView</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-protocols-mapviewbase">MapViewBase</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -373,7 +373,7 @@ from previous map view before adding to new one.</p>
 </td>
 <td>
 <div>
-<p>The <code><a href="sdk-for-ios-explore-api-reference-..-protocols-mapviewbase">MapViewBase</a></code> instance.</p>
+<p>The <code><a href="sdk-for-ios-explore-api-reference-protocols-mapviewbase">MapViewBase</a></code> instance.</p>
 </div>
 </td>
 </tr>
@@ -431,7 +431,7 @@ determines the size of the accuracy indicator halo.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">updateLocation</span><span class="p">(</span><span class="n">_</span> <span class="nv">location</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-location">Location</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">updateLocation</span><span class="p">(</span><span class="n">_</span> <span class="nv">location</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-location">Location</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -479,7 +479,7 @@ determines the size of the accuracy indicator halo.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">updateLocation</span><span class="p">(</span><span class="n">_</span> <span class="nv">location</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-location">Location</a></span><span class="p">,</span> <span class="nv">cameraUpdate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapcameraupdate">MapCameraUpdate</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">updateLocation</span><span class="p">(</span><span class="n">_</span> <span class="nv">location</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-location">Location</a></span><span class="p">,</span> <span class="nv">cameraUpdate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-classes-mapcameraupdate">MapCameraUpdate</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -540,7 +540,7 @@ supported. Models created from Mesh will be ignored.</p>
 <div class="language">
 <p class="aside-title">Swift</p>
 <pre class="highlight swift"><code><span class="kd">@available(*, deprecated, message: "Will be removed in v4.27.0. Please use the overloaded method with `RenderSize.Unit` instead.")</span>
-<span class="kd">public</span> <span class="kd">func</span> <span class="nf">setMarker3dModel</span><span class="p">(</span><span class="n">_</span> <span class="nv">model</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapmarker3dmodel">MapMarker3DModel</a></span><span class="p">,</span> <span class="nv">scale</span><span class="p">:</span> <span class="kt">Double</span><span class="p">,</span> <span class="nv">type</span><span class="p">:</span> <span class="kt">LocationIndicator</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-locationindicator-markertype">MarkerType</a></span><span class="p">)</span></code></pre>
+<span class="kd">public</span> <span class="kd">func</span> <span class="nf">setMarker3dModel</span><span class="p">(</span><span class="n">_</span> <span class="nv">model</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-classes-mapmarker3dmodel">MapMarker3DModel</a></span><span class="p">,</span> <span class="nv">scale</span><span class="p">:</span> <span class="kt">Double</span><span class="p">,</span> <span class="nv">type</span><span class="p">:</span> <span class="kt">LocationIndicator</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-classes-locationindicator-markertype">MarkerType</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -571,7 +571,7 @@ created from obj files are supported. Those created from mesh will be ignored.</
 <p>The scaling which will be applied to the marker model. As the size of the
 location marker should be aligned on devices with different resolutions the
 scale factor is applied relative to the ppi value and thus differs from the
-scale which is passed to <code><a href="sdk-for-ios-explore-api-reference-..-classes-mapmarker3d">MapMarker3D</a></code> objects.
+scale which is passed to <code><a href="sdk-for-ios-explore-api-reference-classes-mapmarker3d">MapMarker3D</a></code> objects.
 Meter is used for the unit of the map marker 3d model coordinate system.
 For historical reason, the scale factor is internally devided by 6.
 To display a unit qube of 1x1x1 meter as is, please use a scale value of 6.0.</p>
@@ -609,17 +609,17 @@ To display a unit qube of 1x1x1 meter as is, please use a scale value of 6.0.</p
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Sets the <code><a href="sdk-for-ios-explore-api-reference-..-classes-mapmarker3dmodel">MapMarker3DModel</a></code> asset to be displayed as location indicator for a specified type.
+<p>Sets the <code><a href="sdk-for-ios-explore-api-reference-classes-mapmarker3dmodel">MapMarker3DModel</a></code> asset to be displayed as location indicator for a specified type.
 The 3D model should be oriented with y axis up and thus standing on the x/z plane where the
 z axis is the depth. The direction in which the location indicator is pointing is the
-positive z axis. Please note that only <code><a href="sdk-for-ios-explore-api-reference-..-classes-mapmarker3dmodel">MapMarker3DModel</a></code> created from <code>obj</code> files are
+positive z axis. Please note that only <code><a href="sdk-for-ios-explore-api-reference-classes-mapmarker3dmodel">MapMarker3DModel</a></code> created from <code>obj</code> files are
 supported. Models created from Mesh will be ignored.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">setMarker3dModel</span><span class="p">(</span><span class="n">_</span> <span class="nv">model</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapmarker3dmodel">MapMarker3DModel</a></span><span class="p">,</span> <span class="nv">scale</span><span class="p">:</span> <span class="kt">Double</span><span class="p">,</span> <span class="nv">type</span><span class="p">:</span> <span class="kt">LocationIndicator</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-locationindicator-markertype">MarkerType</a></span><span class="p">,</span> <span class="nv">renderSizeUnit</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-rendersize">RenderSize</a></span><span class="o">.</span><span class="kt">Unit</span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">setMarker3dModel</span><span class="p">(</span><span class="n">_</span> <span class="nv">model</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-classes-mapmarker3dmodel">MapMarker3DModel</a></span><span class="p">,</span> <span class="nv">scale</span><span class="p">:</span> <span class="kt">Double</span><span class="p">,</span> <span class="nv">type</span><span class="p">:</span> <span class="kt">LocationIndicator</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-classes-locationindicator-markertype">MarkerType</a></span><span class="p">,</span> <span class="nv">renderSizeUnit</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-rendersize">RenderSize</a></span><span class="o">.</span><span class="kt">Unit</span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -634,7 +634,7 @@ supported. Models created from Mesh will be ignored.</p>
 </td>
 <td>
 <div>
-<p>The <code><a href="sdk-for-ios-explore-api-reference-..-classes-mapmarker3dmodel">MapMarker3DModel</a></code> object to be displayed for the specified type. Only models
+<p>The <code><a href="sdk-for-ios-explore-api-reference-classes-mapmarker3dmodel">MapMarker3DModel</a></code> object to be displayed for the specified type. Only models
 created from <code>obj</code> files are supported. Those created from mesh will be ignored.</p>
 </div>
 </td>
@@ -671,7 +671,7 @@ created from <code>obj</code> files are supported. Those created from mesh will 
 </td>
 <td>
 <div>
-<p>The <code><a href="sdk-for-ios-explore-api-reference-..-structs-rendersize-unit">RenderSize.Unit</a></code> specifying how the vertex coordinates of the
+<p>The <code><a href="sdk-for-ios-explore-api-reference-structs-rendersize-unit">RenderSize.Unit</a></code> specifying how the vertex coordinates of the
 3D model are being interpreted. It specifies whether the 3D model is placed in world or
 screen coordinate space.</p>
 </div>
@@ -702,7 +702,7 @@ screen coordinate space.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">setHaloColor</span><span class="p">(</span><span class="n">_</span> <span class="nv">style</span><span class="p">:</span> <span class="kt">LocationIndicator</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-locationindicator-indicatorstyle">IndicatorStyle</a></span><span class="p">,</span> <span class="nv">color</span><span class="p">:</span> <span class="kt">UIColor</span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">setHaloColor</span><span class="p">(</span><span class="n">_</span> <span class="nv">style</span><span class="p">:</span> <span class="kt">LocationIndicator</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-classes-locationindicator-indicatorstyle">IndicatorStyle</a></span><span class="p">,</span> <span class="nv">color</span><span class="p">:</span> <span class="kt">UIColor</span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -761,7 +761,7 @@ The default color is a translucent turquoise (rgba(0, 199, 194, 76)) for all Ind
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getHaloColor</span><span class="p">(</span><span class="n">_</span> <span class="nv">style</span><span class="p">:</span> <span class="kt">LocationIndicator</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-locationindicator-indicatorstyle">IndicatorStyle</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">UIColor</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getHaloColor</span><span class="p">(</span><span class="n">_</span> <span class="nv">style</span><span class="p">:</span> <span class="kt">LocationIndicator</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-classes-locationindicator-indicatorstyle">IndicatorStyle</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">UIColor</span></code></pre>
 </div>
 </div>
 <div>

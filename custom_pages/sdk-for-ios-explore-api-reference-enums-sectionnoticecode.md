@@ -15,10 +15,10 @@ slug: "sdk-for-ios-explore-api-reference-enums-sectionnoticecode"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-explore-api-reference-..-routing">Routing</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-routing">Routing</a>
+<img alt="" id="carat" src="/carat.png"/>
         SectionNoticeCode Enumeration Reference
       </p>
 </div>
@@ -33,7 +33,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-sectionnoticecode"
 <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">SectionNoticeCode</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
-<p>Notice codes which point the issues encountered during processing of a <code><a href="sdk-for-ios-explore-api-reference-..-classes-section">Section</a></code>.</p>
+<p>Notice codes which point the issues encountered during processing of a <code><a href="sdk-for-ios-explore-api-reference-classes-section">Section</a></code>.</p>
 <p><strong>Note:</strong> The section notice codes are going to be extended for new error situations.</p>
 </section>
 <section class="section task-group-section">
@@ -705,7 +705,7 @@ Severity: <code><a href="../Enums/NoticeSeverity.html#/s:7heresdk14NoticeSeverit
 <div class="pointer"></div>
 <div class="abstract">
 <p>A charging stop was planned at the destination of this section, but it is no longer
-needed. It may be issued only when refreshing a route via <code><a href="sdk-for-ios-explore-api-reference-..-structs-routehandle">RouteHandle</a></code>.
+needed. It may be issued only when refreshing a route via <code><a href="sdk-for-ios-explore-api-reference-structs-routehandle">RouteHandle</a></code>.
 Severity: <code><a href="../Enums/NoticeSeverity.html#/s:7heresdk14NoticeSeverityO4infoyA2CmF">NoticeSeverity.info</a></code>.</p>
 </div>
 <div class="declaration">

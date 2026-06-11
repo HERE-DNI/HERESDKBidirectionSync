@@ -15,10 +15,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-placefilter"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-explore-api-reference-..-search">Search</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-search">Search</a>
+<img alt="" id="carat" src="/carat.png"/>
         PlaceFilter Structure Reference
       </p>
 </div>
@@ -52,9 +52,9 @@ Consists of fuel, truck and EV options.</p>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>The list of <code><a href="sdk-for-ios-explore-api-reference-..-enums-fueltype">FuelType</a></code> elements that should be used to find only
-the <code><a href="sdk-for-ios-explore-api-reference-..-structs-fuelstation">FuelStation</a></code> search results that support all of them.
-This filter is available to use with the <code><a href="sdk-for-ios-explore-api-reference-..-classes-searchengine">SearchEngine</a></code> and
+<p>The list of <code><a href="sdk-for-ios-explore-api-reference-enums-fueltype">FuelType</a></code> elements that should be used to find only
+the <code><a href="sdk-for-ios-explore-api-reference-structs-fuelstation">FuelStation</a></code> search results that support all of them.
+This filter is available to use with the <code><a href="sdk-for-ios-explore-api-reference-classes-searchengine">SearchEngine</a></code> and
 <code>OfflineSearchEngine</code> (only available for the Navigate license), however <code>OfflineSearchEngine</code>
 supports it only for <code>searchByText</code> and <code>searchByCategory</code> with allowed fuel types <code>DIESEL</code>, <code>LPG</code>,
 <code>BIO_DIESEL</code>, <code>CNG</code>, <code>DIESEL_WITH_ADDITIVES</code>, <code>E10</code>, <code>E85</code>, <code>ETHANOL</code>, <code>ETHANOL_WITH_ADDITIVES</code>,
@@ -66,7 +66,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">fuelTypes</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-fueltype">FuelType</a></span><span class="p">]</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">fuelTypes</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-enums-fueltype">FuelType</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -85,8 +85,8 @@ Related APIs may change for new releases without a deprecation process.</p>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>The list of <code><a href="sdk-for-ios-explore-api-reference-..-enums-truckfueltype">TruckFuelType</a></code> elements that should be used to find only
-the <code><a href="sdk-for-ios-explore-api-reference-..-structs-fuelstation">FuelStation</a></code> search results that support all of them.
+<p>The list of <code><a href="sdk-for-ios-explore-api-reference-enums-truckfueltype">TruckFuelType</a></code> elements that should be used to find only
+the <code><a href="sdk-for-ios-explore-api-reference-structs-fuelstation">FuelStation</a></code> search results that support all of them.
 Not supported for <code>suggestByText</code> in <code>OfflineSearchEngine</code> (only available for the Navigate license).</p>
 <p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
 Related APIs may change for new releases without a deprecation process.</p>
@@ -95,7 +95,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">truckFuelTypes</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-truckfueltype">TruckFuelType</a></span><span class="p">]</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">truckFuelTypes</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-enums-truckfueltype">TruckFuelType</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -114,8 +114,8 @@ Related APIs may change for new releases without a deprecation process.</p>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Should be used to find only the <code><a href="sdk-for-ios-explore-api-reference-..-structs-fuelstation">FuelStation</a></code> search results with minimum supported <code><a href="sdk-for-ios-explore-api-reference-..-enums-truckclass">TruckClass</a></code>.
-This filter is only available to use with the <code><a href="sdk-for-ios-explore-api-reference-..-classes-searchengine">SearchEngine</a></code>.
+<p>Should be used to find only the <code><a href="sdk-for-ios-explore-api-reference-structs-fuelstation">FuelStation</a></code> search results with minimum supported <code><a href="sdk-for-ios-explore-api-reference-enums-truckclass">TruckClass</a></code>.
+This filter is only available to use with the <code><a href="sdk-for-ios-explore-api-reference-classes-searchengine">SearchEngine</a></code>.
 The <code>OfflineSearchEngine</code> (only available for the Navigate license) does not apply this filter.
 <code><a href="../Enums/TruckClass.html#/s:7heresdk10TruckClassO05lightC0yA2CmF">TruckClass.lightClass</a></code> is not accepted in the filter.
 Otherwise will result in <code><a href="../Enums/SearchError.html#/s:7heresdk11SearchErrorO17invalidTruckClassyA2CmF">SearchError.invalidTruckClass</a></code>.</p>
@@ -126,7 +126,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">truckClass</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-truckclass">TruckClass</a></span><span class="p">?</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">truckClass</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-enums-truckclass">TruckClass</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -151,7 +151,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">ev</span><span class="p">:</span> <span class="kt">PlaceFilter</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-placefilter-ev">Ev</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">ev</span><span class="p">:</span> <span class="kt">PlaceFilter</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-placefilter-ev">Ev</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -174,9 +174,9 @@ Related APIs may change for new releases without a deprecation process.</p>
 <ul>
 <li><p>Parameters</p>
 <ul>
-<li>fuelTypes: The list of <code><a href="sdk-for-ios-explore-api-reference-..-enums-fueltype">FuelType</a></code> elements that should be used to find only
-the <code><a href="sdk-for-ios-explore-api-reference-..-structs-fuelstation">FuelStation</a></code> search results that support all of them.
-This filter is available to use with the <code><a href="sdk-for-ios-explore-api-reference-..-classes-searchengine">SearchEngine</a></code> and
+<li>fuelTypes: The list of <code><a href="sdk-for-ios-explore-api-reference-enums-fueltype">FuelType</a></code> elements that should be used to find only
+the <code><a href="sdk-for-ios-explore-api-reference-structs-fuelstation">FuelStation</a></code> search results that support all of them.
+This filter is available to use with the <code><a href="sdk-for-ios-explore-api-reference-classes-searchengine">SearchEngine</a></code> and
 <code>OfflineSearchEngine</code> (only available for the Navigate license), however <code>OfflineSearchEngine</code>
 supports it only for <code>searchByText</code> and <code>searchByCategory</code> with allowed fuel types <code>DIESEL</code>, <code>LPG</code>,
 <code>BIO_DIESEL</code>, <code>CNG</code>, <code>DIESEL_WITH_ADDITIVES</code>, <code>E10</code>, <code>E85</code>, <code>ETHANOL</code>, <code>ETHANOL_WITH_ADDITIVES</code>,
@@ -185,15 +185,15 @@ supports it only for <code>searchByText</code> and <code>searchByCategory</code>
 <p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
   Related APIs may change for new releases without a deprecation process.</p>
 <ul>
-<li>truckFuelTypes: The list of <code><a href="sdk-for-ios-explore-api-reference-..-enums-truckfueltype">TruckFuelType</a></code> elements that should be used to find only
-the <code><a href="sdk-for-ios-explore-api-reference-..-structs-fuelstation">FuelStation</a></code> search results that support all of them.
+<li>truckFuelTypes: The list of <code><a href="sdk-for-ios-explore-api-reference-enums-truckfueltype">TruckFuelType</a></code> elements that should be used to find only
+the <code><a href="sdk-for-ios-explore-api-reference-structs-fuelstation">FuelStation</a></code> search results that support all of them.
 Not supported for <code>suggestByText</code> in <code>OfflineSearchEngine</code> (only available for the Navigate license).</li>
 </ul>
 <p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
   Related APIs may change for new releases without a deprecation process.</p>
 <ul>
-<li>truckClass: Should be used to find only the <code><a href="sdk-for-ios-explore-api-reference-..-structs-fuelstation">FuelStation</a></code> search results with minimum supported <code><a href="sdk-for-ios-explore-api-reference-..-enums-truckclass">TruckClass</a></code>.
-This filter is only available to use with the <code><a href="sdk-for-ios-explore-api-reference-..-classes-searchengine">SearchEngine</a></code>.
+<li>truckClass: Should be used to find only the <code><a href="sdk-for-ios-explore-api-reference-structs-fuelstation">FuelStation</a></code> search results with minimum supported <code><a href="sdk-for-ios-explore-api-reference-enums-truckclass">TruckClass</a></code>.
+This filter is only available to use with the <code><a href="sdk-for-ios-explore-api-reference-classes-searchengine">SearchEngine</a></code>.
 The <code>OfflineSearchEngine</code> (only available for the Navigate license) does not apply this filter.
 <code><a href="../Enums/TruckClass.html#/s:7heresdk10TruckClassO05lightC0yA2CmF">TruckClass.lightClass</a></code> is not accepted in the filter.
 Otherwise will result in <code><a href="../Enums/SearchError.html#/s:7heresdk11SearchErrorO17invalidTruckClassyA2CmF">SearchError.invalidTruckClass</a></code>.</li>
@@ -209,7 +209,7 @@ Otherwise will result in <code><a href="../Enums/SearchError.html#/s:7heresdk11S
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">fuelTypes</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-fueltype">FuelType</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">truckFuelTypes</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-truckfueltype">TruckFuelType</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">truckClass</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-truckclass">TruckClass</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">ev</span><span class="p">:</span> <span class="kt">PlaceFilter</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-placefilter-ev">Ev</a></span> <span class="o">=</span> <span class="kt">PlaceFilter</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-placefilter-ev">Ev</a></span><span class="p">())</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">fuelTypes</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-enums-fueltype">FuelType</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">truckFuelTypes</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-enums-truckfueltype">TruckFuelType</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">truckClass</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-enums-truckclass">TruckClass</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">ev</span><span class="p">:</span> <span class="kt">PlaceFilter</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-placefilter-ev">Ev</a></span> <span class="o">=</span> <span class="kt">PlaceFilter</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-placefilter-ev">Ev</a></span><span class="p">())</span></code></pre>
 </div>
 </div>
 </section>
@@ -229,7 +229,7 @@ Otherwise will result in <code><a href="../Enums/SearchError.html#/s:7heresdk11S
 <div class="pointer"></div>
 <div class="abstract">
 <p>Constraints that are applicable on the places of category EV station.</p>
-<a class="slightly-smaller" href="sdk-for-ios-explore-api-reference-..-structs-placefilter-ev">See more</a>
+<a class="slightly-smaller" href="sdk-for-ios-explore-api-reference-structs-placefilter-ev">See more</a>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>

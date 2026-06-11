@@ -15,12 +15,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-usagestats-feature"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-explore-api-reference-..-..-index">heresdk</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
-<a href="sdk-for-ios-explore-api-reference-..-..-core">Core</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
-<a href="sdk-for-ios-explore-api-reference-..-..-structs-usagestats">UsageStats</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-core">Core</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-structs-usagestats">UsageStats</a>
+<img alt="" id="carat" src="/carat.png"/>
         Feature Enumeration Reference
       </p>
 </div>
@@ -306,7 +306,7 @@ Note that you can enable or disable this feature by calling:
 <div class="pointer"></div>
 <div class="abstract">
 <p>Represents network traffic statistics for online usage corresponding to the
-<code><a href="sdk-for-ios-explore-api-reference-..-..-classes-routingengine">RoutingEngine</a></code>.
+<code><a href="sdk-for-ios-explore-api-reference-classes-routingengine">RoutingEngine</a></code>.
 Includes the following transaction counts and APIs:</p>
 <ul>
 <li><strong>Routing Car, Bicycle, Pedestrian</strong> with HRN <code>hrn:here:service::olp-here:routing-8:base</code> counted with the use of
@@ -446,7 +446,7 @@ As of now, these layers cannot be turned off.</li>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Represents network traffic statistics for online usage corresponding to the <code><a href="sdk-for-ios-explore-api-reference-..-..-classes-searchengine">SearchEngine</a></code>.
+<p>Represents network traffic statistics for online usage corresponding to the <code><a href="sdk-for-ios-explore-api-reference-classes-searchengine">SearchEngine</a></code>.
 Includes the following transaction counts and APIs:</p>
 <ul>
 <li><strong>Discover/Search</strong> with HRN <code>hrn:here:service::olp-here:search-opensearch-1</code> counted with the use of <code>SearchEngine textquery search</code></li>
@@ -513,7 +513,7 @@ As of now, this layer cannot be turned off.</li>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Represents network traffic statistics for online usage corresponding to the <code><a href="sdk-for-ios-explore-api-reference-..-..-classes-transitroutingengine">TransitRoutingEngine</a></code>.
+<p>Represents network traffic statistics for online usage corresponding to the <code><a href="sdk-for-ios-explore-api-reference-classes-transitroutingengine">TransitRoutingEngine</a></code>.
 This includes a <strong>Public Transit</strong> transaction count with HRN: <code>hrn:here:service::olp-here:transit-8</code>.</p>
 </div>
 <div class="declaration">
@@ -540,7 +540,7 @@ This includes a <strong>Public Transit</strong> transaction count with HRN: <cod
 <div class="pointer"></div>
 <div class="abstract">
 <p>Represents network traffic statistics for online usage corresponding to the
-calls of <code><a href="sdk-for-ios-explore-api-reference-..-..-classes-trafficengine">TrafficEngine</a></code>. All calls to <code><a href="sdk-for-ios-explore-api-reference-..-..-classes-trafficengine">TrafficEngine</a></code> result in transaction counts for
+calls of <code><a href="sdk-for-ios-explore-api-reference-classes-trafficengine">TrafficEngine</a></code>. All calls to <code><a href="sdk-for-ios-explore-api-reference-classes-trafficengine">TrafficEngine</a></code> result in transaction counts for
 HRN <code>hrn:here:service::olp-here:traffic-api-7:standard</code>.</p>
 </div>
 <div class="declaration">

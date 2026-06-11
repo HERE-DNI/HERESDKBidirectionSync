@@ -15,12 +15,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-mappolyline-solidrepresentation
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-explore-api-reference-..-..-index">heresdk</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
-<a href="sdk-for-ios-explore-api-reference-..-..-maps">Maps</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
-<a href="sdk-for-ios-explore-api-reference-..-..-classes-mappolyline">MapPolyline</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-maps">Maps</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-classes-mappolyline">MapPolyline</a>
+<img alt="" id="carat" src="/carat.png"/>
         SolidRepresentation Class Reference
       </p>
 </div>
@@ -32,16 +32,16 @@ slug: "sdk-for-ios-explore-api-reference-classes-mappolyline-solidrepresentation
 <h1>SolidRepresentation</h1>
 <div class="declaration">
 <div class="language">
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">SolidRepresentation</span> <span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-classes-mappolyline">MapPolyline</a></span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-classes-mappolyline-representation">Representation</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">SolidRepresentation</span> <span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-classes-mappolyline">MapPolyline</a></span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-classes-mappolyline-representation">Representation</a></span></code></pre>
 </div>
 </div>
 <p>Representation for a solid line without outline.</p>
 <p>Can represent polylines that have constant width or width dependent on the map zoom.</p>
-<p>To achieve constant width lines, use <code><a href="sdk-for-ios-explore-api-reference-..-..-structs-mapmeasuredependentrendersize">MapMeasureDependentRenderSize</a></code> with a single value.</p>
-<p>To achieve line width dependent on map zoom, use <code><a href="sdk-for-ios-explore-api-reference-..-..-structs-mapmeasuredependentrendersize">MapMeasureDependentRenderSize</a></code> with
+<p>To achieve constant width lines, use <code><a href="sdk-for-ios-explore-api-reference-structs-mapmeasuredependentrendersize">MapMeasureDependentRenderSize</a></code> with a single value.</p>
+<p>To achieve line width dependent on map zoom, use <code><a href="sdk-for-ios-explore-api-reference-structs-mapmeasuredependentrendersize">MapMeasureDependentRenderSize</a></code> with
 multiple values.</p>
-<p>For <code><a href="sdk-for-ios-explore-api-reference-..-..-structs-mapmeasure-kind">MapMeasure.Kind</a></code> only <code><a href="../../Structs/MapMeasure/Kind.html#/s:7heresdk10MapMeasureV4KindO9zoomLevelyA2EmF">MapMeasure.Kind.zoomLevel</a></code> is supported.</p>
-<p>For <code><a href="sdk-for-ios-explore-api-reference-..-..-structs-rendersize-unit">RenderSize.Unit</a></code> only <code><a href="../../Structs/RenderSize/Unit.html#/s:7heresdk10RenderSizeV4UnitO6pixelsyA2EmF">RenderSize.Unit.pixels</a></code> is supported.</p>
+<p>For <code><a href="sdk-for-ios-explore-api-reference-structs-mapmeasure-kind">MapMeasure.Kind</a></code> only <code><a href="../../Structs/MapMeasure/Kind.html#/s:7heresdk10MapMeasureV4KindO9zoomLevelyA2EmF">MapMeasure.Kind.zoomLevel</a></code> is supported.</p>
+<p>For <code><a href="sdk-for-ios-explore-api-reference-structs-rendersize-unit">RenderSize.Unit</a></code> only <code><a href="../../Structs/RenderSize/Unit.html#/s:7heresdk10RenderSizeV4UnitO6pixelsyA2EmF">RenderSize.Unit.pixels</a></code> is supported.</p>
 </section>
 <section class="section task-group-section">
 <div class="task-group">
@@ -68,8 +68,8 @@ line width is constant and equal to the width given for the biggest
 map measure in the <code><a href="../../Classes/MapPolyline/SolidRepresentation.html#/s:7heresdk11MapPolylineC19SolidRepresentationC9lineWidthAA0B26MeasureDependentRenderSizeVvp">lineWidth</a></code>.</p>
 <p>At map measures between two nearest given map measures line width is
 linearly interpolated between width values given for these map measures.</p>
-<p>For <code><a href="sdk-for-ios-explore-api-reference-..-..-structs-mapmeasure-kind">MapMeasure.Kind</a></code> only <code><a href="../../Structs/MapMeasure/Kind.html#/s:7heresdk10MapMeasureV4KindO9zoomLevelyA2EmF">MapMeasure.Kind.zoomLevel</a></code> is supported.</p>
-<p>For <code><a href="sdk-for-ios-explore-api-reference-..-..-structs-rendersize-unit">RenderSize.Unit</a></code> only <code><a href="../../Structs/RenderSize/Unit.html#/s:7heresdk10RenderSizeV4UnitO6pixelsyA2EmF">RenderSize.Unit.pixels</a></code> is supported.</p>
+<p>For <code><a href="sdk-for-ios-explore-api-reference-structs-mapmeasure-kind">MapMeasure.Kind</a></code> only <code><a href="../../Structs/MapMeasure/Kind.html#/s:7heresdk10MapMeasureV4KindO9zoomLevelyA2EmF">MapMeasure.Kind.zoomLevel</a></code> is supported.</p>
+<p>For <code><a href="sdk-for-ios-explore-api-reference-structs-rendersize-unit">RenderSize.Unit</a></code> only <code><a href="../../Structs/RenderSize/Unit.html#/s:7heresdk10RenderSizeV4UnitO6pixelsyA2EmF">RenderSize.Unit.pixels</a></code> is supported.</p>
 <p><code><a href="../../Classes/MapPolyline/SolidRepresentation.html#/s:7heresdk11MapPolylineC19SolidRepresentationC9lineWidthAA0B26MeasureDependentRenderSizeVvp">lineWidth</a></code> must not be 0 (<code>lineWidth.sizes</code> with all values set to 0.0).</p>
 <div class="aside aside-throws">
 <p class="aside-title">Throws</p>
@@ -81,7 +81,7 @@ linearly interpolated between width values given for these map measures.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">lineWidth</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-structs-mapmeasuredependentrendersize">MapMeasureDependentRenderSize</a></span><span class="p">,</span> <span class="nv">color</span><span class="p">:</span> <span class="kt">UIColor</span><span class="p">,</span> <span class="nv">capShape</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-enums-linecap">LineCap</a></span><span class="p">)</span> <span class="k">throws</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">lineWidth</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-mapmeasuredependentrendersize">MapMeasureDependentRenderSize</a></span><span class="p">,</span> <span class="nv">color</span><span class="p">:</span> <span class="kt">UIColor</span><span class="p">,</span> <span class="nv">capShape</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-enums-linecap">LineCap</a></span><span class="p">)</span> <span class="k">throws</span></code></pre>
 </div>
 </div>
 <div>
@@ -153,8 +153,8 @@ and <code><a href="../../Classes/MapPolyline/SolidRepresentation.html#/s:7heresd
 the biggest map measure in the <code><a href="../../Classes/MapPolyline/SolidRepresentation.html#/s:7heresdk11MapPolylineC19SolidRepresentationC9lineWidthAA0B26MeasureDependentRenderSizeVvp">lineWidth</a></code> and <code><a href="../../Classes/MapPolyline/SolidRepresentation.html#/s:7heresdk11MapPolylineC19SolidRepresentationC12outlineWidthAA0B26MeasureDependentRenderSizeVvp">outlineWidth</a></code>.</p>
 <p>At map measures between two nearest given map measure is
 linearly interpolated between width values given for these map measures.</p>
-<p>For <code><a href="sdk-for-ios-explore-api-reference-..-..-structs-mapmeasure-kind">MapMeasure.Kind</a></code> only <code><a href="../../Structs/MapMeasure/Kind.html#/s:7heresdk10MapMeasureV4KindO9zoomLevelyA2EmF">MapMeasure.Kind.zoomLevel</a></code> is supported.</p>
-<p>For <code><a href="sdk-for-ios-explore-api-reference-..-..-structs-rendersize-unit">RenderSize.Unit</a></code> only <code><a href="../../Structs/RenderSize/Unit.html#/s:7heresdk10RenderSizeV4UnitO6pixelsyA2EmF">RenderSize.Unit.pixels</a></code> is supported.</p>
+<p>For <code><a href="sdk-for-ios-explore-api-reference-structs-mapmeasure-kind">MapMeasure.Kind</a></code> only <code><a href="../../Structs/MapMeasure/Kind.html#/s:7heresdk10MapMeasureV4KindO9zoomLevelyA2EmF">MapMeasure.Kind.zoomLevel</a></code> is supported.</p>
+<p>For <code><a href="sdk-for-ios-explore-api-reference-structs-rendersize-unit">RenderSize.Unit</a></code> only <code><a href="../../Structs/RenderSize/Unit.html#/s:7heresdk10RenderSizeV4UnitO6pixelsyA2EmF">RenderSize.Unit.pixels</a></code> is supported.</p>
 <p><code><a href="../../Classes/MapPolyline/SolidRepresentation.html#/s:7heresdk11MapPolylineC19SolidRepresentationC9lineWidthAA0B26MeasureDependentRenderSizeVvp">lineWidth</a></code> must not be 0 (<code>lineWidth.sizes</code> with all values set to 0.0).</p>
 <div class="aside aside-throws">
 <p class="aside-title">Throws</p>
@@ -166,7 +166,7 @@ linearly interpolated between width values given for these map measures.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">lineWidth</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-structs-mapmeasuredependentrendersize">MapMeasureDependentRenderSize</a></span><span class="p">,</span> <span class="nv">color</span><span class="p">:</span> <span class="kt">UIColor</span><span class="p">,</span> <span class="nv">outlineWidth</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-structs-mapmeasuredependentrendersize">MapMeasureDependentRenderSize</a></span><span class="p">,</span> <span class="nv">outlineColor</span><span class="p">:</span> <span class="kt">UIColor</span><span class="p">,</span> <span class="nv">capShape</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-enums-linecap">LineCap</a></span><span class="p">)</span> <span class="k">throws</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">lineWidth</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-mapmeasuredependentrendersize">MapMeasureDependentRenderSize</a></span><span class="p">,</span> <span class="nv">color</span><span class="p">:</span> <span class="kt">UIColor</span><span class="p">,</span> <span class="nv">outlineWidth</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-mapmeasuredependentrendersize">MapMeasureDependentRenderSize</a></span><span class="p">,</span> <span class="nv">outlineColor</span><span class="p">:</span> <span class="kt">UIColor</span><span class="p">,</span> <span class="nv">capShape</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-enums-linecap">LineCap</a></span><span class="p">)</span> <span class="k">throws</span></code></pre>
 </div>
 </div>
 <div>
@@ -267,7 +267,7 @@ linearly interpolated between values given for these map measures.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">lineWidth</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-structs-mapmeasuredependentrendersize">MapMeasureDependentRenderSize</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">lineWidth</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-mapmeasuredependentrendersize">MapMeasureDependentRenderSize</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -326,7 +326,7 @@ linearly interpolated between values given for these map measures.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">outlineWidth</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-structs-mapmeasuredependentrendersize">MapMeasureDependentRenderSize</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">outlineWidth</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-mapmeasuredependentrendersize">MapMeasureDependentRenderSize</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -376,7 +376,7 @@ linearly interpolated between values given for these map measures.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">capShape</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-enums-linecap">LineCap</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">capShape</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-enums-linecap">LineCap</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>

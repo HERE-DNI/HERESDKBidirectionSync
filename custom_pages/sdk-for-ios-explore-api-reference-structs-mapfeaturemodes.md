@@ -15,10 +15,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-mapfeaturemodes"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-explore-api-reference-..-maps">Maps</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-maps">Maps</a>
+<img alt="" id="carat" src="/carat.png"/>
         MapFeatureModes Structure Reference
       </p>
 </div>
@@ -36,9 +36,9 @@ slug: "sdk-for-ios-explore-api-reference-structs-mapfeaturemodes"
 <p>Holds constants for map feature modes, to be used with <code><a href="../Classes/MapScene.html#/s:7heresdk8MapSceneC14enableFeaturesyySDyS2SGF">MapScene.enableFeatures(...)</a></code>.</p>
 <p>Use <code><a href="../Structs/MapFeatureModes.html#/s:7heresdk15MapFeatureModesV11defaultModeSSvpZ">MapFeatureModes.defaultMode</a></code> to enable a feature with its default mode.</p>
 <p>Note: The default mode is defined by the currently loaded map scene configuration and
-may vary per <code><a href="sdk-for-ios-explore-api-reference-..-enums-mapscheme">MapScheme</a></code>. The currently active features and modes can be inspected
+may vary per <code><a href="sdk-for-ios-explore-api-reference-enums-mapscheme">MapScheme</a></code>. The currently active features and modes can be inspected
 using <code><a href="../Classes/MapScene.html#/s:7heresdk8MapSceneC17getActiveFeaturesSDyS2SGyF">MapScene.getActiveFeatures(...)</a></code> after the scene is loaded.</p>
-<p>See <code><a href="sdk-for-ios-explore-api-reference-..-structs-mapfeatures">MapFeatures</a></code> for constants representing the feature names.</p>
+<p>See <code><a href="sdk-for-ios-explore-api-reference-structs-mapfeatures">MapFeatures</a></code> for constants representing the feature names.</p>
 </section>
 <section class="section task-group-section">
 <div class="task-group">

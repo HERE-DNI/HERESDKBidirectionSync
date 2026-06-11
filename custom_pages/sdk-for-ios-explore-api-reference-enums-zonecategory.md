@@ -15,10 +15,10 @@ slug: "sdk-for-ios-explore-api-reference-enums-zonecategory"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-explore-api-reference-..-routing">Routing</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-routing">Routing</a>
+<img alt="" id="carat" src="/carat.png"/>
         ZoneCategory Enumeration Reference
       </p>
 </div>
@@ -34,7 +34,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-zonecategory"
 </div>
 </div>
 <p>Identifies categories of zones which routes avoid going through when used in
-<code><a href="sdk-for-ios-explore-api-reference-..-structs-avoidanceoptions">AvoidanceOptions</a></code>.</p>
+<code><a href="sdk-for-ios-explore-api-reference-structs-avoidanceoptions">AvoidanceOptions</a></code>.</p>
 </section>
 <section class="section task-group-section">
 <div class="task-group">

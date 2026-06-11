@@ -15,10 +15,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-evchargingtariffelement"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-explore-api-reference-..-search">Search</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-search">Search</a>
+<img alt="" id="carat" src="/carat.png"/>
         EVChargingTariffElement Structure Reference
       </p>
 </div>
@@ -55,13 +55,13 @@ Related APIs may change for new releases without a deprecation process.</p>
 <div class="pointer"></div>
 <div class="abstract">
 <p>List of price components that describe the tariff.
-Each of the components should have a different <code><a href="sdk-for-ios-explore-api-reference-..-enums-evchargingtariffdimension">EVChargingTariffDimension</a></code>.</p>
+Each of the components should have a different <code><a href="sdk-for-ios-explore-api-reference-enums-evchargingtariffdimension">EVChargingTariffDimension</a></code>.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">components</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-evchargingtariffpricecomponent">EVChargingTariffPriceComponent</a></span><span class="p">]</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">components</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-evchargingtariffpricecomponent">EVChargingTariffPriceComponent</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -91,7 +91,7 @@ followed by <code><a href="../Structs/EVChargingTariffElementCondition.html#/s:7
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">condition</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-evchargingtariffelementcondition">EVChargingTariffElementCondition</a></span><span class="p">?</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">condition</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-evchargingtariffelementcondition">EVChargingTariffElementCondition</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -115,7 +115,7 @@ followed by <code><a href="../Structs/EVChargingTariffElementCondition.html#/s:7
 <li><p>Parameters</p>
 <ul>
 <li>components: List of price components that describe the tariff.
-Each of the components should have a different <code><a href="sdk-for-ios-explore-api-reference-..-enums-evchargingtariffdimension">EVChargingTariffDimension</a></code>.</li>
+Each of the components should have a different <code><a href="sdk-for-ios-explore-api-reference-enums-evchargingtariffdimension">EVChargingTariffDimension</a></code>.</li>
 <li>condition: Condition that the charging session needs to meet to apply the tariff element. An element without any
 condition is typically present for charging sessions that do not meet any of the conditions.</li>
 </ul>
@@ -129,7 +129,7 @@ condition is typically present for charging sessions that do not meet any of the
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">components</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-evchargingtariffpricecomponent">EVChargingTariffPriceComponent</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">condition</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-evchargingtariffelementcondition">EVChargingTariffElementCondition</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">components</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-evchargingtariffpricecomponent">EVChargingTariffPriceComponent</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">condition</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-evchargingtariffelementcondition">EVChargingTariffElementCondition</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>

@@ -15,10 +15,10 @@ slug: "sdk-for-ios-explore-api-reference-protocols-searchinterface"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-explore-api-reference-..-search">Search</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-search">Search</a>
+<img alt="" id="carat" src="/carat.png"/>
         SearchInterface Protocol Reference
       </p>
 </div>
@@ -52,7 +52,7 @@ search engines.</p>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Performs an asynchronous text query search for <code><a href="sdk-for-ios-explore-api-reference-..-classes-place">Place</a></code> instances within a given <code><a href="sdk-for-ios-explore-api-reference-..-structs-textquery-area">TextQuery.Area</a></code>.
+<p>Performs an asynchronous text query search for <code><a href="sdk-for-ios-explore-api-reference-classes-place">Place</a></code> instances within a given <code><a href="sdk-for-ios-explore-api-reference-structs-textquery-area">TextQuery.Area</a></code>.
 The returned places are sorted by relevance.</p>
 </div>
 <div class="declaration">
@@ -60,7 +60,7 @@ The returned places are sorted by relevance.</p>
 <div class="language">
 <p class="aside-title">Swift</p>
 <pre class="highlight swift"><code><span class="kd">@discardableResult</span>
-<span class="kd">func</span> <span class="nf">searchByText</span><span class="p">(</span><span class="n">_</span> <span class="nv">query</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-textquery">TextQuery</a></span><span class="p">,</span> <span class="nv">options</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-searchoptions">SearchOptions</a></span><span class="p">,</span> <span class="nv">completion</span><span class="p">:</span> <span class="kd">@escaping</span> <span class="kt"><a href="../Search.html#/s:7heresdk23SearchCompletionHandlera">SearchCompletionHandler</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-protocols-taskhandle">TaskHandle</a></span></code></pre>
+<span class="kd">func</span> <span class="nf">searchByText</span><span class="p">(</span><span class="n">_</span> <span class="nv">query</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-textquery">TextQuery</a></span><span class="p">,</span> <span class="nv">options</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-searchoptions">SearchOptions</a></span><span class="p">,</span> <span class="nv">completion</span><span class="p">:</span> <span class="kd">@escaping</span> <span class="kt"><a href="../Search.html#/s:7heresdk23SearchCompletionHandlera">SearchCompletionHandler</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-protocols-taskhandle">TaskHandle</a></span></code></pre>
 </div>
 </div>
 <div>
@@ -126,10 +126,10 @@ The returned places are sorted by relevance.</p>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Performs an asynchronous address query search for <code><a href="sdk-for-ios-explore-api-reference-..-classes-place">Place</a></code> instances.
+<p>Performs an asynchronous address query search for <code><a href="sdk-for-ios-explore-api-reference-classes-place">Place</a></code> instances.
 This is the same type of search as forward geocoding, except that more data is returned
 than just the geographic coordinates of a given address. Note that an address can
-belong to more than one <code><a href="sdk-for-ios-explore-api-reference-..-classes-place">Place</a></code> result, although all found places will
+belong to more than one <code><a href="sdk-for-ios-explore-api-reference-classes-place">Place</a></code> result, although all found places will
 share the same geographic coordinates.
 The returned places are sorted by relevance.</p>
 </div>
@@ -138,7 +138,7 @@ The returned places are sorted by relevance.</p>
 <div class="language">
 <p class="aside-title">Swift</p>
 <pre class="highlight swift"><code><span class="kd">@discardableResult</span>
-<span class="kd">func</span> <span class="nf">searchByAddress</span><span class="p">(</span><span class="n">_</span> <span class="nv">query</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-addressquery">AddressQuery</a></span><span class="p">,</span> <span class="nv">options</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-searchoptions">SearchOptions</a></span><span class="p">,</span> <span class="nv">completion</span><span class="p">:</span> <span class="kd">@escaping</span> <span class="kt"><a href="../Search.html#/s:7heresdk23SearchCompletionHandlera">SearchCompletionHandler</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-protocols-taskhandle">TaskHandle</a></span></code></pre>
+<span class="kd">func</span> <span class="nf">searchByAddress</span><span class="p">(</span><span class="n">_</span> <span class="nv">query</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-addressquery">AddressQuery</a></span><span class="p">,</span> <span class="nv">options</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-searchoptions">SearchOptions</a></span><span class="p">,</span> <span class="nv">completion</span><span class="p">:</span> <span class="kd">@escaping</span> <span class="kt"><a href="../Search.html#/s:7heresdk23SearchCompletionHandlera">SearchCompletionHandler</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-protocols-taskhandle">TaskHandle</a></span></code></pre>
 </div>
 </div>
 <div>
@@ -204,8 +204,8 @@ The returned places are sorted by relevance.</p>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Performs an asynchronous category search for <code><a href="sdk-for-ios-explore-api-reference-..-classes-place">Place</a></code> instances.
-A list containing at least one <code><a href="sdk-for-ios-explore-api-reference-..-classes-placecategory">PlaceCategory</a></code> must be provided
+<p>Performs an asynchronous category search for <code><a href="sdk-for-ios-explore-api-reference-classes-place">Place</a></code> instances.
+A list containing at least one <code><a href="sdk-for-ios-explore-api-reference-classes-placecategory">PlaceCategory</a></code> must be provided
 as part of the <code>searchByCategory(...).query</code>.</p>
 </div>
 <div class="declaration">
@@ -213,7 +213,7 @@ as part of the <code>searchByCategory(...).query</code>.</p>
 <div class="language">
 <p class="aside-title">Swift</p>
 <pre class="highlight swift"><code><span class="kd">@discardableResult</span>
-<span class="kd">func</span> <span class="nf">searchByCategory</span><span class="p">(</span><span class="n">_</span> <span class="nv">query</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-categoryquery">CategoryQuery</a></span><span class="p">,</span> <span class="nv">options</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-searchoptions">SearchOptions</a></span><span class="p">,</span> <span class="nv">completion</span><span class="p">:</span> <span class="kd">@escaping</span> <span class="kt"><a href="../Search.html#/s:7heresdk23SearchCompletionHandlera">SearchCompletionHandler</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-protocols-taskhandle">TaskHandle</a></span></code></pre>
+<span class="kd">func</span> <span class="nf">searchByCategory</span><span class="p">(</span><span class="n">_</span> <span class="nv">query</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-categoryquery">CategoryQuery</a></span><span class="p">,</span> <span class="nv">options</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-searchoptions">SearchOptions</a></span><span class="p">,</span> <span class="nv">completion</span><span class="p">:</span> <span class="kd">@escaping</span> <span class="kt"><a href="../Search.html#/s:7heresdk23SearchCompletionHandlera">SearchCompletionHandler</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-protocols-taskhandle">TaskHandle</a></span></code></pre>
 </div>
 </div>
 <div>
@@ -279,11 +279,11 @@ as part of the <code>searchByCategory(...).query</code>.</p>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Performs an asynchronous search for <code><a href="sdk-for-ios-explore-api-reference-..-classes-place">Place</a></code> instances based on the given
+<p>Performs an asynchronous search for <code><a href="sdk-for-ios-explore-api-reference-classes-place">Place</a></code> instances based on the given
 geographic coordinates.
 This is the same search type as reverse geocoding, except that more data is returned
-than just the <code><a href="sdk-for-ios-explore-api-reference-..-structs-address">Address</a></code> related to the given coordinates.
-Note that more than one <code><a href="sdk-for-ios-explore-api-reference-..-classes-place">Place</a></code> can be related to the given coordinates.
+than just the <code><a href="sdk-for-ios-explore-api-reference-structs-address">Address</a></code> related to the given coordinates.
+Note that more than one <code><a href="sdk-for-ios-explore-api-reference-classes-place">Place</a></code> can be related to the given coordinates.
 The returned places are sorted by relevance.</p>
 </div>
 <div class="declaration">
@@ -291,7 +291,7 @@ The returned places are sorted by relevance.</p>
 <div class="language">
 <p class="aside-title">Swift</p>
 <pre class="highlight swift"><code><span class="kd">@discardableResult</span>
-<span class="kd">func</span> <span class="nf">searchByCoordinates</span><span class="p">(</span><span class="n">_</span> <span class="nv">coordinates</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geocoordinates">GeoCoordinates</a></span><span class="p">,</span> <span class="nv">options</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-searchoptions">SearchOptions</a></span><span class="p">,</span> <span class="nv">completion</span><span class="p">:</span> <span class="kd">@escaping</span> <span class="kt"><a href="../Search.html#/s:7heresdk23SearchCompletionHandlera">SearchCompletionHandler</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-protocols-taskhandle">TaskHandle</a></span></code></pre>
+<span class="kd">func</span> <span class="nf">searchByCoordinates</span><span class="p">(</span><span class="n">_</span> <span class="nv">coordinates</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-geocoordinates">GeoCoordinates</a></span><span class="p">,</span> <span class="nv">options</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-searchoptions">SearchOptions</a></span><span class="p">,</span> <span class="nv">completion</span><span class="p">:</span> <span class="kd">@escaping</span> <span class="kt"><a href="../Search.html#/s:7heresdk23SearchCompletionHandlera">SearchCompletionHandler</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-protocols-taskhandle">TaskHandle</a></span></code></pre>
 </div>
 </div>
 <div>
@@ -357,15 +357,15 @@ The returned places are sorted by relevance.</p>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Performs an asynchronous search for a <code><a href="sdk-for-ios-explore-api-reference-..-classes-place">Place</a></code> based on its ID and
-<code><a href="sdk-for-ios-explore-api-reference-..-enums-languagecode">LanguageCode</a></code>.</p>
+<p>Performs an asynchronous search for a <code><a href="sdk-for-ios-explore-api-reference-classes-place">Place</a></code> based on its ID and
+<code><a href="sdk-for-ios-explore-api-reference-enums-languagecode">LanguageCode</a></code>.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
 <pre class="highlight swift"><code><span class="kd">@discardableResult</span>
-<span class="kd">func</span> <span class="nf">searchByPlaceId</span><span class="p">(</span><span class="n">_</span> <span class="nv">query</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-placeidquery">PlaceIdQuery</a></span><span class="p">,</span> <span class="nv">languageCode</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-languagecode">LanguageCode</a></span><span class="p">?,</span> <span class="nv">completion</span><span class="p">:</span> <span class="kd">@escaping</span> <span class="kt"><a href="../Search.html#/s:7heresdk30PlaceIdSearchCompletionHandlera">PlaceIdSearchCompletionHandler</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-protocols-taskhandle">TaskHandle</a></span></code></pre>
+<span class="kd">func</span> <span class="nf">searchByPlaceId</span><span class="p">(</span><span class="n">_</span> <span class="nv">query</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-placeidquery">PlaceIdQuery</a></span><span class="p">,</span> <span class="nv">languageCode</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-enums-languagecode">LanguageCode</a></span><span class="p">?,</span> <span class="nv">completion</span><span class="p">:</span> <span class="kd">@escaping</span> <span class="kt"><a href="../Search.html#/s:7heresdk30PlaceIdSearchCompletionHandlera">PlaceIdSearchCompletionHandler</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-protocols-taskhandle">TaskHandle</a></span></code></pre>
 </div>
 </div>
 <div>
@@ -432,9 +432,9 @@ results will be returned in their local language.</p>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Performs an asynchronous search for a <code><a href="sdk-for-ios-explore-api-reference-..-classes-place">Place</a></code> based on the content found in <code><a href="sdk-for-ios-explore-api-reference-..-structs-pickedplace">PickedPlace</a></code>.
-If <code><a href="sdk-for-ios-explore-api-reference-..-structs-pickedplace">PickedPlace</a></code> data is obtained from the offline map, it may happen that the newer version
-that is used by the online service represented by <code><a href="sdk-for-ios-explore-api-reference-..-classes-searchengine">SearchEngine</a></code> no longer contains the
+<p>Performs an asynchronous search for a <code><a href="sdk-for-ios-explore-api-reference-classes-place">Place</a></code> based on the content found in <code><a href="sdk-for-ios-explore-api-reference-structs-pickedplace">PickedPlace</a></code>.
+If <code><a href="sdk-for-ios-explore-api-reference-structs-pickedplace">PickedPlace</a></code> data is obtained from the offline map, it may happen that the newer version
+that is used by the online service represented by <code><a href="sdk-for-ios-explore-api-reference-classes-searchengine">SearchEngine</a></code> no longer contains the
 related POI. In that case, <code><a href="../Enums/SearchError.html#/s:7heresdk11SearchErrorO14noResultsFoundyA2CmF">SearchError.noResultsFound</a></code> error is reported.
 When that happens, you may try to obtain the POI from the offline map by calling
 <code>OfflineSearchEngine.searchByPickedPlace</code>, only available for the Navigate license.</p>
@@ -444,7 +444,7 @@ When that happens, you may try to obtain the POI from the offline map by calling
 <div class="language">
 <p class="aside-title">Swift</p>
 <pre class="highlight swift"><code><span class="kd">@discardableResult</span>
-<span class="kd">func</span> <span class="nf">searchByPickedPlace</span><span class="p">(</span><span class="n">_</span> <span class="nv">pickedPlace</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-pickedplace">PickedPlace</a></span><span class="p">,</span> <span class="nv">languageCode</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-languagecode">LanguageCode</a></span><span class="p">?,</span> <span class="nv">completion</span><span class="p">:</span> <span class="kd">@escaping</span> <span class="kt"><a href="../Search.html#/s:7heresdk30PlaceIdSearchCompletionHandlera">PlaceIdSearchCompletionHandler</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-protocols-taskhandle">TaskHandle</a></span></code></pre>
+<span class="kd">func</span> <span class="nf">searchByPickedPlace</span><span class="p">(</span><span class="n">_</span> <span class="nv">pickedPlace</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-pickedplace">PickedPlace</a></span><span class="p">,</span> <span class="nv">languageCode</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-enums-languagecode">LanguageCode</a></span><span class="p">?,</span> <span class="nv">completion</span><span class="p">:</span> <span class="kd">@escaping</span> <span class="kt"><a href="../Search.html#/s:7heresdk30PlaceIdSearchCompletionHandlera">PlaceIdSearchCompletionHandler</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-protocols-taskhandle">TaskHandle</a></span></code></pre>
 </div>
 </div>
 <div>
@@ -514,15 +514,15 @@ result will be returned in the local language.</p>
 <p>Performs an asynchronous request to suggest places for text queries and
 returns suggestions sorted by relevance.</p>
 <p>Note that while <code>OfflineSearchEngine</code> includes as many details as are available,
-<code><a href="sdk-for-ios-explore-api-reference-..-classes-searchengine">SearchEngine</a></code> includes only the information that is relevant for autosuggest use cases.
-Complete details can be obtained by searching with <code><a href="sdk-for-ios-explore-api-reference-..-structs-placeidquery">PlaceIdQuery</a></code>.</p>
+<code><a href="sdk-for-ios-explore-api-reference-classes-searchengine">SearchEngine</a></code> includes only the information that is relevant for autosuggest use cases.
+Complete details can be obtained by searching with <code><a href="sdk-for-ios-explore-api-reference-structs-placeidquery">PlaceIdQuery</a></code>.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
 <pre class="highlight swift"><code><span class="kd">@discardableResult</span>
-<span class="kd">func</span> <span class="nf">suggestByText</span><span class="p">(</span><span class="n">_</span> <span class="nv">query</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-textquery">TextQuery</a></span><span class="p">,</span> <span class="nv">options</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-searchoptions">SearchOptions</a></span><span class="p">,</span> <span class="nv">completion</span><span class="p">:</span> <span class="kd">@escaping</span> <span class="kt"><a href="../Search.html#/s:7heresdk24SuggestCompletionHandlera">SuggestCompletionHandler</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-protocols-taskhandle">TaskHandle</a></span></code></pre>
+<span class="kd">func</span> <span class="nf">suggestByText</span><span class="p">(</span><span class="n">_</span> <span class="nv">query</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-textquery">TextQuery</a></span><span class="p">,</span> <span class="nv">options</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-searchoptions">SearchOptions</a></span><span class="p">,</span> <span class="nv">completion</span><span class="p">:</span> <span class="kd">@escaping</span> <span class="kt"><a href="../Search.html#/s:7heresdk24SuggestCompletionHandlera">SuggestCompletionHandler</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-protocols-taskhandle">TaskHandle</a></span></code></pre>
 </div>
 </div>
 <div>

@@ -15,10 +15,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-businessdetails"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-explore-api-reference-..-search">Search</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-search">Search</a>
+<img alt="" id="carat" src="/carat.png"/>
         BusinessDetails Structure Reference
       </p>
 </div>
@@ -57,7 +57,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-businessdetails"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">contacts</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-contact">Contact</a></span><span class="p">]</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">contacts</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-contact">Contact</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -82,7 +82,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-businessdetails"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">openingHours</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-openinghours">OpeningHours</a></span><span class="p">]</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">openingHours</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-openinghours">OpeningHours</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -109,7 +109,7 @@ valid contracts with HERE.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">evChargingPool</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-evchargingpool">EVChargingPool</a></span><span class="p">?</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">evChargingPool</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-evchargingpool">EVChargingPool</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -134,7 +134,7 @@ valid contracts with HERE.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">contacts</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-contact">Contact</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">openingHours</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-openinghours">OpeningHours</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">evChargingPool</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-evchargingpool">EVChargingPool</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">contacts</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-contact">Contact</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">openingHours</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-openinghours">OpeningHours</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">evChargingPool</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-evchargingpool">EVChargingPool</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>

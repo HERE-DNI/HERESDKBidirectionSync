@@ -15,10 +15,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-evchargingtariffelementconditio
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-explore-api-reference-..-search">Search</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-search">Search</a>
+<img alt="" id="carat" src="/carat.png"/>
         EVChargingTariffElementCondition Structure Reference
       </p>
 </div>
@@ -73,7 +73,7 @@ spot prices, together with time period.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">date</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-daterange">DateRange</a></span><span class="p">?</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">date</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-daterange">DateRange</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -99,7 +99,7 @@ An example would be to specify lower prices for weekends</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">days</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-dayofweek">DayOfWeek</a></span><span class="p">]</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">days</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-enums-dayofweek">DayOfWeek</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -126,7 +126,7 @@ is smaller than the beginning <code><a href="../Structs/TimeOfDayRange.html#/s:7
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">time</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-timeofdayrange">TimeOfDayRange</a></span><span class="p">?</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">time</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-timeofdayrange">TimeOfDayRange</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -152,7 +152,7 @@ is smaller than the beginning <code><a href="../Structs/TimeOfDayRange.html#/s:7
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">duration</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-evchargingdurationrange">EVChargingDurationRange</a></span><span class="p">?</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">duration</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-evchargingdurationrange">EVChargingDurationRange</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -225,7 +225,7 @@ set additional fees for charging a full or nearly full battery.</li>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">date</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-daterange">DateRange</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">days</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-dayofweek">DayOfWeek</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">time</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-timeofdayrange">TimeOfDayRange</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">duration</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-evchargingdurationrange">EVChargingDurationRange</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">overstayBatteryLevel</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">date</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-daterange">DateRange</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">days</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-enums-dayofweek">DayOfWeek</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">time</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-timeofdayrange">TimeOfDayRange</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">duration</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-evchargingdurationrange">EVChargingDurationRange</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">overstayBatteryLevel</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>

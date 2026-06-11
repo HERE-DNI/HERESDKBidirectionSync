@@ -15,12 +15,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapscene-mappickfilter"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-explore-api-reference-..-..-index">heresdk</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
-<a href="sdk-for-ios-explore-api-reference-..-..-maps">Maps</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
-<a href="sdk-for-ios-explore-api-reference-..-..-classes-mapscene">MapScene</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-maps">Maps</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-classes-mapscene">MapScene</a>
+<img alt="" id="carat" src="/carat.png"/>
         MapPickFilter Class Reference
       </p>
 </div>
@@ -33,8 +33,8 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapscene-mappickfilter"
 <div class="declaration">
 <div class="language">
 <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">MapPickFilter</span></code></pre>
-<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-classes-mapscene">MapScene</a></span><span class="o">.</span><span class="kt">MapPickFilter</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
-<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-classes-mapscene">MapScene</a></span><span class="o">.</span><span class="kt">MapPickFilter</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-classes-mapscene">MapScene</a></span><span class="o">.</span><span class="kt">MapPickFilter</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-classes-mapscene">MapScene</a></span><span class="o">.</span><span class="kt">MapPickFilter</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Filter for the map content to be picked.</p>
@@ -61,7 +61,7 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapscene-mappickfilter"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">filter</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-classes-mapscene">MapScene</a></span><span class="o">.</span><span class="kt">MapPickFilter</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-classes-mapscene-mappickfilter-contenttype">ContentType</a></span><span class="p">])</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">filter</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-classes-mapscene">MapScene</a></span><span class="o">.</span><span class="kt">MapPickFilter</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-classes-mapscene-mappickfilter-contenttype">ContentType</a></span><span class="p">])</span></code></pre>
 </div>
 </div>
 <div>
@@ -100,7 +100,7 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapscene-mappickfilter"
 <div class="pointer"></div>
 <div class="abstract">
 <p>Type of the map content to be picked.</p>
-<a class="slightly-smaller" href="sdk-for-ios-explore-api-reference-..-..-classes-mapscene-mappickfilter-contenttype">See more</a>
+<a class="slightly-smaller" href="sdk-for-ios-explore-api-reference-classes-mapscene-mappickfilter-contenttype">See more</a>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>

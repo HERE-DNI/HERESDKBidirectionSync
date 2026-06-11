@@ -15,10 +15,10 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapcontentsettings"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-explore-api-reference-..-maps">Maps</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-maps">Maps</a>
+<img alt="" id="carat" src="/carat.png"/>
         MapContentSettings Class Reference
       </p>
 </div>
@@ -60,7 +60,7 @@ can already be changed before a map view instance is created.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">typealias</span> <span class="kt">TrafficRefreshPeriodError</span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapcontentsettings-trafficrefreshperioderrorcode">TrafficRefreshPeriodErrorCode</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">typealias</span> <span class="kt">TrafficRefreshPeriodError</span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-classes-mapcontentsettings-trafficrefreshperioderrorcode">TrafficRefreshPeriodErrorCode</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -80,14 +80,14 @@ can already be changed before a map view instance is created.</p>
 <div class="pointer"></div>
 <div class="abstract">
 <p>Traffic refresh period error code</p>
-<a class="slightly-smaller" href="sdk-for-ios-explore-api-reference-..-classes-mapcontentsettings-trafficrefreshperioderrorcode">See more</a>
+<a class="slightly-smaller" href="sdk-for-ios-explore-api-reference-classes-mapcontentsettings-trafficrefreshperioderrorcode">See more</a>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
 <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">TrafficRefreshPeriodErrorCode</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
-<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapcontentsettings">MapContentSettings</a></span><span class="o">.</span><span class="kt">TrafficRefreshPeriodErrorCode</span> <span class="p">:</span> <span class="kt">Error</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-classes-mapcontentsettings">MapContentSettings</a></span><span class="o">.</span><span class="kt">TrafficRefreshPeriodErrorCode</span> <span class="p">:</span> <span class="kt">Error</span></code></pre>
 </div>
 </div>
 </section>
@@ -115,7 +115,7 @@ The display of traffic incidents can be enabled using <code><a href="../Classes/
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="kd">func</span> <span class="nf">filterTrafficIncidents</span><span class="p">(</span><span class="nv">trafficIncidents</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-trafficincidenttype">TrafficIncidentType</a></span><span class="p">])</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="kd">func</span> <span class="nf">filterTrafficIncidents</span><span class="p">(</span><span class="nv">trafficIncidents</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-enums-trafficincidenttype">TrafficIncidentType</a></span><span class="p">])</span></code></pre>
 </div>
 </div>
 <div>

@@ -15,12 +15,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-rasterdatasourceconfiguration-c
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-explore-api-reference-..-..-index">heresdk</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
-<a href="sdk-for-ios-explore-api-reference-..-..-maps">Maps</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
-<a href="sdk-for-ios-explore-api-reference-..-..-structs-rasterdatasourceconfiguration">RasterDataSourceConfiguration</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-maps">Maps</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-structs-rasterdatasourceconfiguration">RasterDataSourceConfiguration</a>
+<img alt="" id="carat" src="/carat.png"/>
         Cache Structure Reference
       </p>
 </div>
@@ -87,7 +87,7 @@ but is valid, it will be created.</p>
 <div class="pointer"></div>
 <div class="abstract">
 <p>The maximum size to use on disk for the cache, in bytes. Default is 32 MiB.
-This cache is independent from the map cache as defined via <code><a href="sdk-for-ios-explore-api-reference-..-..-structs-sdkoptions">SDKOptions</a></code>.
+This cache is independent from the map cache as defined via <code><a href="sdk-for-ios-explore-api-reference-structs-sdkoptions">SDKOptions</a></code>.
 Its size is only limited by the total device storage capacity.</p>
 </div>
 <div class="declaration">

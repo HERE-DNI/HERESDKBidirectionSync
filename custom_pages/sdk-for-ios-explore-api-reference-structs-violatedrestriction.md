@@ -15,10 +15,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-violatedrestriction"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-explore-api-reference-..-routing">Routing</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-routing">Routing</a>
+<img alt="" id="carat" src="/carat.png"/>
         ViolatedRestriction Structure Reference
       </p>
 </div>
@@ -111,7 +111,7 @@ gross weight for this route.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">details</span><span class="p">:</span> <span class="kt">ViolatedRestriction</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-violatedrestriction-details">Details</a></span><span class="p">?</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">details</span><span class="p">:</span> <span class="kt">ViolatedRestriction</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-violatedrestriction-details">Details</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -136,7 +136,7 @@ gross weight for this route.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">cause</span><span class="p">:</span> <span class="kt">String</span><span class="p">,</span> <span class="nv">timeDependent</span><span class="p">:</span> <span class="kt">Bool</span><span class="p">,</span> <span class="nv">details</span><span class="p">:</span> <span class="kt">ViolatedRestriction</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-violatedrestriction-details">Details</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">cause</span><span class="p">:</span> <span class="kt">String</span><span class="p">,</span> <span class="nv">timeDependent</span><span class="p">:</span> <span class="kt">Bool</span><span class="p">,</span> <span class="nv">details</span><span class="p">:</span> <span class="kt">ViolatedRestriction</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-violatedrestriction-details">Details</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>
@@ -158,7 +158,7 @@ gross weight for this route.</p>
 <p>Optional restriction details, contains additional information depending on the specific violation, zero or more member might be set.
 For example, if the vehicle violates the maximum allowed height during the trip, then the member <code>max_height_in_centimeters</code> will
 be set with the maximum allowed height value.</p>
-<a class="slightly-smaller" href="sdk-for-ios-explore-api-reference-..-structs-violatedrestriction-details">See more</a>
+<a class="slightly-smaller" href="sdk-for-ios-explore-api-reference-structs-violatedrestriction-details">See more</a>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>

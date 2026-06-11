@@ -15,10 +15,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-vehiclerestrictionmaxweight"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-explore-api-reference-..-routing">Routing</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-routing">Routing</a>
+<img alt="" id="carat" src="/carat.png"/>
         VehicleRestrictionMaxWeight Structure Reference
       </p>
 </div>
@@ -83,7 +83,7 @@ along with the specific type of maximum permitted weight restriction.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">type</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-vehiclerestrictionmaxweighttype">VehicleRestrictionMaxWeightType</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">type</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-enums-vehiclerestrictionmaxweighttype">VehicleRestrictionMaxWeightType</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -108,7 +108,7 @@ along with the specific type of maximum permitted weight restriction.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">valueInKilograms</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">,</span> <span class="nv">type</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-vehiclerestrictionmaxweighttype">VehicleRestrictionMaxWeightType</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">valueInKilograms</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">,</span> <span class="nv">type</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-enums-vehiclerestrictionmaxweighttype">VehicleRestrictionMaxWeightType</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>

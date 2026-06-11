@@ -15,10 +15,10 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapmarker3d"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-explore-api-reference-..-maps">Maps</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-maps">Maps</a>
+<img alt="" id="carat" src="/carat.png"/>
         MapMarker3D Class Reference
       </p>
 </div>
@@ -37,7 +37,7 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapmarker3d"
 </div>
 <p>Represents a 3D shape drawn on the map at specified geodetic coordinates.</p>
 <p>It can have a solid color or be textured, depending on the data from
-<code><a href="sdk-for-ios-explore-api-reference-..-classes-mapmarker3dmodel">MapMarker3DModel</a></code>.</p>
+<code><a href="sdk-for-ios-explore-api-reference-classes-mapmarker3dmodel">MapMarker3DModel</a></code>.</p>
 <p>By default, a 3D marker is drawn on top of all map content, including
 3D map elements like extruded buildings or 3D landmarks. This can be
 changed by enabling depth check using <code><a href="../Classes/MapMarker3D.html#/s:7heresdk11MapMarker3DC19isDepthCheckEnabledSbvp">MapMarker3D.isDepthCheckEnabled</a></code>.</p>
@@ -47,7 +47,7 @@ a 3D marker that is visually large and covers a sizeable part of the viewport.</
 <h1 class="heading" id="sizing-and-scaling">Sizing and scaling</h1>
 <p>Two aspects determine how big the <code>MapMarker3D</code> will be on the screen
 and how will it behave when the map is zoomed in and out.</p>
-<p>The first, and most impactful is <code><a href="sdk-for-ios-explore-api-reference-..-structs-rendersize-unit">RenderSize.Unit</a></code>, which specifies
+<p>The first, and most impactful is <code><a href="sdk-for-ios-explore-api-reference-structs-rendersize-unit">RenderSize.Unit</a></code>, which specifies
 how the vertex coordinates of the 3D model are interpreted.
 Most importantly, it specifies whether the 3D model is placed
 in world or screen coordinate space.</p>
@@ -106,7 +106,7 @@ above ground. If not set, the 3D marker is placed at ground level.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">at</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geocoordinates">GeoCoordinates</a></span><span class="p">,</span> <span class="nv">model</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapmarker3dmodel">MapMarker3DModel</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">at</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-geocoordinates">GeoCoordinates</a></span><span class="p">,</span> <span class="nv">model</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-classes-mapmarker3dmodel">MapMarker3DModel</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -160,7 +160,7 @@ above ground. If not set, the 3D marker is placed at ground level.</p>
 <p>Creates a flat marker from provided map image.</p>
 <p>Such map marker is a flat 3D marker of rectangular shape textured with given image.
 Aspect ratio of the flat marker is determined by aspect ratio of the image.</p>
-<p>Only bitmap images are supported, using a <code><a href="sdk-for-ios-explore-api-reference-..-classes-mapimage">MapImage</a></code> created from SVG data
+<p>Only bitmap images are supported, using a <code><a href="sdk-for-ios-explore-api-reference-classes-mapimage">MapImage</a></code> created from SVG data
 will result in distorted rendering of the flat marker.</p>
 <p>Altitude component of the coordinates, if set, controls 3D marker’s elevation
 above ground. If not set, the 3D marker is placed at ground level.</p>
@@ -181,7 +181,7 @@ with regular map content like streets or buildings.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">at</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geocoordinates">GeoCoordinates</a></span><span class="p">,</span> <span class="nv">image</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapimage">MapImage</a></span><span class="p">,</span> <span class="nv">scale</span><span class="p">:</span> <span class="kt">Double</span><span class="p">,</span> <span class="nv">unit</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-rendersize">RenderSize</a></span><span class="o">.</span><span class="kt">Unit</span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">at</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-geocoordinates">GeoCoordinates</a></span><span class="p">,</span> <span class="nv">image</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-classes-mapimage">MapImage</a></span><span class="p">,</span> <span class="nv">scale</span><span class="p">:</span> <span class="kt">Double</span><span class="p">,</span> <span class="nv">unit</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-rendersize">RenderSize</a></span><span class="o">.</span><span class="kt">Unit</span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -268,7 +268,7 @@ above ground. If not set, the 3D marker is placed at ground level.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">at</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geocoordinates">GeoCoordinates</a></span><span class="p">,</span> <span class="nv">model</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapmarker3dmodel">MapMarker3DModel</a></span><span class="p">,</span> <span class="nv">scale</span><span class="p">:</span> <span class="kt">Double</span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">at</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-geocoordinates">GeoCoordinates</a></span><span class="p">,</span> <span class="nv">model</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-classes-mapmarker3dmodel">MapMarker3DModel</a></span><span class="p">,</span> <span class="nv">scale</span><span class="p">:</span> <span class="kt">Double</span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -351,7 +351,7 @@ above ground. If not set, the 3D marker is placed at ground level.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">at</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geocoordinates">GeoCoordinates</a></span><span class="p">,</span> <span class="nv">model</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapmarker3dmodel">MapMarker3DModel</a></span><span class="p">,</span> <span class="nv">scale</span><span class="p">:</span> <span class="kt">Double</span><span class="p">,</span> <span class="nv">unit</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-rendersize">RenderSize</a></span><span class="o">.</span><span class="kt">Unit</span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">at</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-geocoordinates">GeoCoordinates</a></span><span class="p">,</span> <span class="nv">model</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-classes-mapmarker3dmodel">MapMarker3DModel</a></span><span class="p">,</span> <span class="nv">scale</span><span class="p">:</span> <span class="kt">Double</span><span class="p">,</span> <span class="nv">unit</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-rendersize">RenderSize</a></span><span class="o">.</span><span class="kt">Unit</span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -435,7 +435,7 @@ above ground. If not set, the 3D marker is placed at ground level.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">coordinates</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geocoordinates">GeoCoordinates</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">coordinates</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-geocoordinates">GeoCoordinates</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -454,14 +454,14 @@ above ground. If not set, the 3D marker is placed at ground level.</p>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>The <code><a href="sdk-for-ios-explore-api-reference-..-classes-metadata">Metadata</a></code> instance attached to this 3D marker.
+<p>The <code><a href="sdk-for-ios-explore-api-reference-classes-metadata">Metadata</a></code> instance attached to this 3D marker.
 The default value is <code>nil</code></p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">metadata</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-metadata">Metadata</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">metadata</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-classes-metadata">Metadata</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -656,7 +656,7 @@ single pass with back-face culling disabled.</p>
 Provided value is clamped to the [0.0, 1.0] range. The factor is applied to the alpha channel of the resulting texture of the marker.
 Default value is 1.0 meaning marker is displayed with the default opacity of the texture image or the
 specified fill color specified
-in <code><a href="sdk-for-ios-explore-api-reference-..-classes-mapmarker3dmodel">MapMarker3DModel</a></code>.</p>
+in <code><a href="sdk-for-ios-explore-api-reference-classes-mapmarker3dmodel">MapMarker3DModel</a></code>.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
@@ -692,7 +692,7 @@ Only <a href="s">MapMeasureRange</a> of <code><a href="../Structs/MapMeasure/Kin
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">visibilityRanges</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-mapmeasurerange">MapMeasureRange</a></span><span class="p">]</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">visibilityRanges</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-mapmeasurerange">MapMeasureRange</a></span><span class="p">]</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>

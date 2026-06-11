@@ -15,10 +15,10 @@ slug: "sdk-for-ios-explore-api-reference-classes-span"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-explore-api-reference-..-routing">Routing</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-routing">Routing</a>
+<img alt="" id="carat" src="/carat.png"/>
         Span Class Reference
       </p>
 </div>
@@ -35,7 +35,7 @@ slug: "sdk-for-ios-explore-api-reference-classes-span"
 <pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">Span</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
-<p>A span is a part of the <code><a href="sdk-for-ios-explore-api-reference-..-classes-section">Section</a></code> which is traversable or navigable. Each span
+<p>A span is a part of the <code><a href="sdk-for-ios-explore-api-reference-classes-section">Section</a></code> which is traversable or navigable. Each span
 usually has some geometry associated with it.</p>
 </section>
 <section class="section task-group-section">
@@ -54,13 +54,13 @@ usually has some geometry associated with it.</p>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>The <code><a href="sdk-for-ios-explore-api-reference-..-structs-geopolyline">GeoPolyline</a></code> object representing the polyline of this span.</p>
+<p>The <code><a href="sdk-for-ios-explore-api-reference-structs-geopolyline">GeoPolyline</a></code> object representing the polyline of this span.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">geometry</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geopolyline">GeoPolyline</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">geometry</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-geopolyline">GeoPolyline</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -105,7 +105,7 @@ usually has some geometry associated with it.</p>
 <div class="pointer"></div>
 <div class="abstract">
 <p>The list of indexes to <code><a href="../Classes/Section.html#/s:7heresdk7SectionC14sectionNoticesSayAA0B6NoticeVGvp">Section.sectionNotices</a></code> the parent section owns.
-In case the list is not empty, the user must judge all the indexed <code><a href="sdk-for-ios-explore-api-reference-..-structs-sectionnotice">SectionNotice</a></code>s
+In case the list is not empty, the user must judge all the indexed <code><a href="sdk-for-ios-explore-api-reference-structs-sectionnotice">SectionNotice</a></code>s
 carefully before proceeding.</p>
 </div>
 <div class="declaration">
@@ -137,7 +137,7 @@ carefully before proceeding.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">segmentReference</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-segmentreference">SegmentReference</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">segmentReference</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-segmentreference">SegmentReference</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -156,7 +156,7 @@ carefully before proceeding.</p>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>The indexes of traffic incidents from the field <code><a href="../Classes/Section.html#/s:7heresdk7SectionC16trafficIncidentsSayAA22TrafficIncidentOnRouteCGvp">Section.trafficIncidents</a></code> of the parent <code><a href="sdk-for-ios-explore-api-reference-..-classes-section">Section</a></code>.
+<p>The indexes of traffic incidents from the field <code><a href="../Classes/Section.html#/s:7heresdk7SectionC16trafficIncidentsSayAA22TrafficIncidentOnRouteCGvp">Section.trafficIncidents</a></code> of the parent <code><a href="sdk-for-ios-explore-api-reference-classes-section">Section</a></code>.
 Each matching incident takes at least a whole <code><a href="../Classes/Span.html#/s:7heresdk4SpanC8geometryAA11GeoPolylineVvp">Span.geometry</a></code>.
 The same incident can take other spans and an area out of the built route as well.</p>
 </div>
@@ -216,7 +216,7 @@ included in the span, because the spans’ geometry share a point in the section
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">dynamicSpeedInfo</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-dynamicspeedinfo">DynamicSpeedInfo</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">dynamicSpeedInfo</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-dynamicspeedinfo">DynamicSpeedInfo</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -241,7 +241,7 @@ included in the span, because the spans’ geometry share a point in the section
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">streetAttributes</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-streetattributes">StreetAttributes</a></span><span class="p">]</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">streetAttributes</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-enums-streetattributes">StreetAttributes</a></span><span class="p">]</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -266,7 +266,7 @@ included in the span, because the spans’ geometry share a point in the section
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">carAttributes</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-accessattributes">AccessAttributes</a></span><span class="p">]</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">carAttributes</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-enums-accessattributes">AccessAttributes</a></span><span class="p">]</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -291,7 +291,7 @@ included in the span, because the spans’ geometry share a point in the section
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">truckAttributes</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-accessattributes">AccessAttributes</a></span><span class="p">]</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">truckAttributes</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-enums-accessattributes">AccessAttributes</a></span><span class="p">]</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -316,7 +316,7 @@ included in the span, because the spans’ geometry share a point in the section
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">scooterAttributes</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-accessattributes">AccessAttributes</a></span><span class="p">]</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">scooterAttributes</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-enums-accessattributes">AccessAttributes</a></span><span class="p">]</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -341,7 +341,7 @@ included in the span, because the spans’ geometry share a point in the section
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">walkAttributes</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-walkattributes">WalkAttributes</a></span><span class="p">]</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">walkAttributes</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-enums-walkattributes">WalkAttributes</a></span><span class="p">]</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -366,7 +366,7 @@ included in the span, because the spans’ geometry share a point in the section
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">streetNames</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-localizedtexts">LocalizedTexts</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">streetNames</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-localizedtexts">LocalizedTexts</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -386,13 +386,13 @@ included in the span, because the spans’ geometry share a point in the section
 <div class="pointer"></div>
 <div class="abstract">
 <p>The road numbers on the span enriched with information specific to <em>route numbers</em>
-of a road such as I-10, US-50, or A3, and cardinal direction, if available, and a road level classification (<code><a href="sdk-for-ios-explore-api-reference-..-enums-routetype">RouteType</a></code>).</p>
+of a road such as I-10, US-50, or A3, and cardinal direction, if available, and a road level classification (<code><a href="sdk-for-ios-explore-api-reference-enums-routetype">RouteType</a></code>).</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">roadNumbers</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-localizedroadnumbers">LocalizedRoadNumbers</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">roadNumbers</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-localizedroadnumbers">LocalizedRoadNumbers</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -467,7 +467,7 @@ of a road such as I-10, US-50, or A3, and cardinal direction, if available, and 
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">functionalRoadClass</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-functionalroadclass">FunctionalRoadClass</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">functionalRoadClass</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-enums-functionalroadclass">FunctionalRoadClass</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -628,7 +628,7 @@ The results are based on country code and state code of <code>Span</code> object
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getShieldText</span><span class="p">(</span><span class="nv">roadNumber</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-localizedroadnumber">LocalizedRoadNumber</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">String</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getShieldText</span><span class="p">(</span><span class="nv">roadNumber</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-localizedroadnumber">LocalizedRoadNumber</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">String</span></code></pre>
 </div>
 </div>
 <div>

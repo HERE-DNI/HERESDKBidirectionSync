@@ -15,12 +15,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapmarkeranimation-instantiatio
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-explore-api-reference-..-..-index">heresdk</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
-<a href="sdk-for-ios-explore-api-reference-..-..-maps">Maps</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
-<a href="sdk-for-ios-explore-api-reference-..-..-classes-mapmarkeranimation">MapMarkerAnimation</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-maps">Maps</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-classes-mapmarkeranimation">MapMarkerAnimation</a>
+<img alt="" id="carat" src="/carat.png"/>
         InstantiationErrorCode Enumeration Reference
       </p>
 </div>
@@ -33,10 +33,10 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapmarkeranimation-instantiatio
 <div class="declaration">
 <div class="language">
 <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">InstantiationErrorCode</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
-<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-classes-mapmarkeranimation">MapMarkerAnimation</a></span><span class="o">.</span><span class="kt">InstantiationErrorCode</span> <span class="p">:</span> <span class="kt">Error</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-classes-mapmarkeranimation">MapMarkerAnimation</a></span><span class="o">.</span><span class="kt">InstantiationErrorCode</span> <span class="p">:</span> <span class="kt">Error</span></code></pre>
 </div>
 </div>
-<p>Describes a reason for failing to create a <code><a href="sdk-for-ios-explore-api-reference-..-..-classes-mapmarkeranimation">MapMarkerAnimation</a></code>.</p>
+<p>Describes a reason for failing to create a <code><a href="sdk-for-ios-explore-api-reference-classes-mapmarkeranimation">MapMarkerAnimation</a></code>.</p>
 </section>
 <section class="section task-group-section">
 <div class="task-group">

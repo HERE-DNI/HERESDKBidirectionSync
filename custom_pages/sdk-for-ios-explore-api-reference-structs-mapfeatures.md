@@ -15,10 +15,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-mapfeatures"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-explore-api-reference-..-maps">Maps</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-maps">Maps</a>
+<img alt="" id="carat" src="/carat.png"/>
         MapFeatures Structure Reference
       </p>
 </div>
@@ -35,7 +35,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-mapfeatures"
 </div>
 <p>Holds constants for map features, to be used with
 <code><a href="../Classes/MapScene.html#/s:7heresdk8MapSceneC14enableFeaturesyySDyS2SGF">MapScene.enableFeatures(...)</a></code> and <code><a href="../Classes/MapScene.html#/s:7heresdk8MapSceneC15disableFeaturesyySaySSGF">MapScene.disableFeatures(...)</a></code>.</p>
-<p>See <code><a href="sdk-for-ios-explore-api-reference-..-structs-mapfeaturemodes">MapFeatureModes</a></code> for constants representing feature modes.</p>
+<p>See <code><a href="sdk-for-ios-explore-api-reference-structs-mapfeaturemodes">MapFeatureModes</a></code> for constants representing feature modes.</p>
 </section>
 <section class="section task-group-section">
 <div class="task-group">
@@ -345,7 +345,7 @@ and <code><a href="../Enums/MapScheme.html#/s:7heresdk9MapSchemeO16roadNetworkNi
 <div class="abstract">
 <p>Shadows for all building types (extruded buildings and landmarks).</p>
 <p>Supports only one mode: <code><a href="../Structs/MapFeatureModes.html#/s:7heresdk15MapFeatureModesV10shadowsAllSSvpZ">MapFeatureModes.shadowsAll</a></code>.</p>
-<p>A <code><a href="sdk-for-ios-explore-api-reference-..-enums-shadowquality">ShadowQuality</a></code> must be set on the MapContext through a MapView or the feature has no
+<p>A <code><a href="sdk-for-ios-explore-api-reference-enums-shadowquality">ShadowQuality</a></code> must be set on the MapContext through a MapView or the feature has no
 effect.</p>
 <p>Shadows have a performance impact and should be considered only for devices with
 sufficient performance.</p>

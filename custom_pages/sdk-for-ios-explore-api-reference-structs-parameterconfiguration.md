@@ -15,10 +15,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-parameterconfiguration"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-explore-api-reference-..-core">Core</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-core">Core</a>
+<img alt="" id="carat" src="/carat.png"/>
         ParameterConfiguration Structure Reference
       </p>
 </div>
@@ -58,7 +58,7 @@ This is a BETA feature and thus there can be bugs and unexpected behavior.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">transportSpecification</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-transportspecification">TransportSpecification</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">transportSpecification</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-transportspecification">TransportSpecification</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -79,7 +79,7 @@ This is a BETA feature and thus there can be bugs and unexpected behavior.</p>
 <div class="abstract">
 <p>Creates a new instance of <code>ParameterConfiguration</code> with the default values set.
 <strong>Note</strong> By default, the [ParameterConfiguration.transport_specification] will return a
-valid <code><a href="sdk-for-ios-explore-api-reference-..-structs-transportspecification">TransportSpecification</a></code> object with the [sdk.transport.TransportSpecification.transport_mode] set
+valid <code><a href="sdk-for-ios-explore-api-reference-structs-transportspecification">TransportSpecification</a></code> object with the [sdk.transport.TransportSpecification.transport_mode] set
 to <code><a href="../Enums/TransportMode.html#/s:7heresdk13TransportModeO3caryA2CmF">TransportMode.car</a></code>.</p>
 </div>
 <div class="declaration">

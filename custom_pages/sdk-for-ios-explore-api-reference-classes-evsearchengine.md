@@ -15,10 +15,10 @@ slug: "sdk-for-ios-explore-api-reference-classes-evsearchengine"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-explore-api-reference-..-search">Search</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-search">Search</a>
+<img alt="" id="carat" src="/carat.png"/>
         EVSearchEngine Class Reference
       </p>
 </div>
@@ -30,7 +30,7 @@ slug: "sdk-for-ios-explore-api-reference-classes-evsearchengine"
 <h1>EVSearchEngine</h1>
 <div class="declaration">
 <div class="language">
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">EVSearchEngine</span> <span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-protocols-evsearchinterface">EVSearchInterface</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">EVSearchEngine</span> <span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-protocols-evsearchinterface">EVSearchInterface</a></span></code></pre>
 <pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">EVSearchEngine</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
 <pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">EVSearchEngine</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
@@ -99,7 +99,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">_</span> <span class="nv">sdkEngine</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-sdknativeengine">SDKNativeEngine</a></span><span class="p">)</span> <span class="k">throws</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">_</span> <span class="nv">sdkEngine</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-classes-sdknativeengine">SDKNativeEngine</a></span><span class="p">)</span> <span class="k">throws</span></code></pre>
 </div>
 </div>
 <div>
@@ -137,14 +137,14 @@ Related APIs may change for new releases without a deprecation process.</p>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Performs an asynchronous request for <code><a href="sdk-for-ios-explore-api-reference-..-classes-evcharginglocation">EVChargingLocation</a></code> instances with given Place IDs.</p>
+<p>Performs an asynchronous request for <code><a href="sdk-for-ios-explore-api-reference-classes-evcharginglocation">EVChargingLocation</a></code> instances with given Place IDs.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
 <pre class="highlight swift"><code><span class="kd">@discardableResult</span>
-<span class="kd">public</span> <span class="kd">func</span> <span class="nf">search</span><span class="p">(</span><span class="nv">ids</span><span class="p">:</span> <span class="p">[</span><span class="kt">String</span><span class="p">],</span> <span class="nv">completion</span><span class="p">:</span> <span class="kd">@escaping</span> <span class="kt"><a href="../Search.html#/s:7heresdk28EVCP3SearchCompletionHandlera">EVCP3SearchCompletionHandler</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-protocols-taskhandle">TaskHandle</a></span></code></pre>
+<span class="kd">public</span> <span class="kd">func</span> <span class="nf">search</span><span class="p">(</span><span class="nv">ids</span><span class="p">:</span> <span class="p">[</span><span class="kt">String</span><span class="p">],</span> <span class="nv">completion</span><span class="p">:</span> <span class="kd">@escaping</span> <span class="kt"><a href="../Search.html#/s:7heresdk28EVCP3SearchCompletionHandlera">EVCP3SearchCompletionHandler</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-protocols-taskhandle">TaskHandle</a></span></code></pre>
 </div>
 </div>
 <div>
@@ -204,7 +204,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">setOptions</span><span class="p">(</span><span class="nv">options</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-evsearchoptions">EVSearchOptions</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">setOptions</span><span class="p">(</span><span class="nv">options</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-evsearchoptions">EVSearchOptions</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>

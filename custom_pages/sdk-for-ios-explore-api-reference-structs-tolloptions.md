@@ -15,10 +15,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-tolloptions"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-explore-api-reference-..-routing">Routing</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-routing">Routing</a>
+<img alt="" id="carat" src="/carat.png"/>
         TollOptions Structure Reference
       </p>
 </div>
@@ -86,7 +86,7 @@ are determined from transport mode.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">vehicleCategory</span><span class="p">:</span> <span class="kt">TollOptions</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-tolloptions-vehiclecategory">VehicleCategory</a></span><span class="p">?</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">vehicleCategory</span><span class="p">:</span> <span class="kt">TollOptions</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-tolloptions-vehiclecategory">VehicleCategory</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -112,7 +112,7 @@ The emission type is based on the European emission standards (Euro 1 to Euro 6,
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">emissionType</span><span class="p">:</span> <span class="kt">TollOptions</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-tolloptions-emissiontype">EmissionType</a></span><span class="p">?</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">emissionType</span><span class="p">:</span> <span class="kt">TollOptions</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-tolloptions-emissiontype">EmissionType</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -164,7 +164,7 @@ Allowed values for CO2 class are 1, 2, 3, 4, or 5, where a lower value generally
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">transponders</span><span class="p">:</span> <span class="p">[</span><span class="kt">String</span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">vehicleCategory</span><span class="p">:</span> <span class="kt">TollOptions</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-tolloptions-vehiclecategory">VehicleCategory</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">emissionType</span><span class="p">:</span> <span class="kt">TollOptions</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-tolloptions-emissiontype">EmissionType</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">co2Class</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">transponders</span><span class="p">:</span> <span class="p">[</span><span class="kt">String</span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">vehicleCategory</span><span class="p">:</span> <span class="kt">TollOptions</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-tolloptions-vehiclecategory">VehicleCategory</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">emissionType</span><span class="p">:</span> <span class="kt">TollOptions</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-tolloptions-emissiontype">EmissionType</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">co2Class</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>
@@ -184,7 +184,7 @@ Allowed values for CO2 class are 1, 2, 3, 4, or 5, where a lower value generally
 <div class="pointer"></div>
 <div class="abstract">
 <p>Supported options of vehicle category for toll calculation.</p>
-<a class="slightly-smaller" href="sdk-for-ios-explore-api-reference-..-structs-tolloptions-vehiclecategory">See more</a>
+<a class="slightly-smaller" href="sdk-for-ios-explore-api-reference-structs-tolloptions-vehiclecategory">See more</a>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
@@ -210,7 +210,7 @@ Allowed values for CO2 class are 1, 2, 3, 4, or 5, where a lower value generally
 <div class="pointer"></div>
 <div class="abstract">
 <p>Supported options of emission type</p>
-<a class="slightly-smaller" href="sdk-for-ios-explore-api-reference-..-structs-tolloptions-emissiontype">See more</a>
+<a class="slightly-smaller" href="sdk-for-ios-explore-api-reference-structs-tolloptions-emissiontype">See more</a>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>

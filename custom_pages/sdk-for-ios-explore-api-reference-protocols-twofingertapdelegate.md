@@ -15,10 +15,10 @@ slug: "sdk-for-ios-explore-api-reference-protocols-twofingertapdelegate"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-explore-api-reference-..-maps">Maps</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-maps">Maps</a>
+<img alt="" id="carat" src="/carat.png"/>
         TwoFingerTapDelegate Protocol Reference
       </p>
 </div>
@@ -58,7 +58,7 @@ Two finger tap gesture occurs after tapping on the screen with two fingers.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">onTwoFingerTap</span><span class="p">(</span><span class="nv">origin</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-point2d">Point2D</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">onTwoFingerTap</span><span class="p">(</span><span class="nv">origin</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-point2d">Point2D</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>

@@ -15,10 +15,10 @@ slug: "sdk-for-ios-explore-api-reference-enums-transportmode"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-explore-api-reference-..-transport">Transport</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-transport">Transport</a>
+<img alt="" id="carat" src="/carat.png"/>
         TransportMode Enumeration Reference
       </p>
 </div>
@@ -181,7 +181,7 @@ disregards any traffic information.</p>
 <div class="pointer"></div>
 <div class="abstract">
 <p>The calculated route is optimized for public transit. Note that this transport mode is available
-only for some versions of the HERE SDK. Check <code><a href="sdk-for-ios-explore-api-reference-..-classes-sdkbuildinformation">SDKBuildInformation</a></code> and consult your HERE
+only for some versions of the HERE SDK. Check <code><a href="sdk-for-ios-explore-api-reference-classes-sdkbuildinformation">SDKBuildInformation</a></code> and consult your HERE
 representative if necessary.</p>
 </div>
 <div class="declaration">

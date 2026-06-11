@@ -15,10 +15,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-avoidanceoptions"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-explore-api-reference-..-routing">Routing</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-routing">Routing</a>
+<img alt="" id="carat" src="/carat.png"/>
         AvoidanceOptions Structure Reference
       </p>
 </div>
@@ -57,7 +57,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-avoidanceoptions"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">roadFeatures</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-roadfeatures">RoadFeatures</a></span><span class="p">]</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">roadFeatures</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-enums-roadfeatures">RoadFeatures</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -78,13 +78,13 @@ slug: "sdk-for-ios-explore-api-reference-structs-avoidanceoptions"
 <div class="abstract">
 <p>Countries that the route must avoid. Strictly enforced.
 Violations are reported as <code><a href="../Enums/SectionNoticeCode.html#/s:7heresdk17SectionNoticeCodeO19violatedBlockedRoadyA2CmF">SectionNoticeCode.violatedBlockedRoad</a></code>.
-<strong>Note:</strong> This avoidance option is not supported in <code><a href="sdk-for-ios-explore-api-reference-..-structs-isolineoptions">IsolineOptions</a></code> for isoline calculation.</p>
+<strong>Note:</strong> This avoidance option is not supported in <code><a href="sdk-for-ios-explore-api-reference-structs-isolineoptions">IsolineOptions</a></code> for isoline calculation.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">countries</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-countrycode">CountryCode</a></span><span class="p">]</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">countries</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-enums-countrycode">CountryCode</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -109,7 +109,7 @@ Violations are reported as <code><a href="../Enums/SectionNoticeCode.html#/s:7he
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">avoidBoundingBoxAreasOptions</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-avoidboundingboxareaoptions">AvoidBoundingBoxAreaOptions</a></span><span class="p">]</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">avoidBoundingBoxAreasOptions</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-avoidboundingboxareaoptions">AvoidBoundingBoxAreaOptions</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -135,7 +135,7 @@ Violations are reported as <code><a href="../Enums/SectionNoticeCode.html#/s:7he
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">avoidPolygonAreasOptions</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-avoidpolygonareaoptions">AvoidPolygonAreaOptions</a></span><span class="p">]</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">avoidPolygonAreasOptions</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-avoidpolygonareaoptions">AvoidPolygonAreaOptions</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -161,7 +161,7 @@ Violations are reported as <code><a href="../Enums/SectionNoticeCode.html#/s:7he
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">avoidCorridorAreasOptions</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-avoidcorridorareaoptions">AvoidCorridorAreaOptions</a></span><span class="p">]</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">avoidCorridorAreasOptions</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-avoidcorridorareaoptions">AvoidCorridorAreaOptions</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -187,7 +187,7 @@ Violations are reported as <code><a href="../Enums/SectionNoticeCode.html#/s:7he
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">zoneCategories</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-zonecategory">ZoneCategory</a></span><span class="p">]</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">zoneCategories</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-enums-zonecategory">ZoneCategory</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -210,7 +210,7 @@ Violations are reported as <code><a href="../Enums/SectionNoticeCode.html#/s:7he
 Violations are reported as <code><a href="../Enums/SectionNoticeCode.html#/s:7heresdk17SectionNoticeCodeO19violatedBlockedRoadyA2CmF">SectionNoticeCode.violatedBlockedRoad</a></code>.</p>
 <p><strong>Notes:</strong></p>
 <ul>
-<li>This avoidance option is not supported in <code><a href="sdk-for-ios-explore-api-reference-..-structs-isolineoptions">IsolineOptions</a></code> for isoline calculation.</li>
+<li>This avoidance option is not supported in <code><a href="sdk-for-ios-explore-api-reference-structs-isolineoptions">IsolineOptions</a></code> for isoline calculation.</li>
 <li>The engine does not support an unlimited number of segments to avoid.
 The limit is defined by the HERE backend services and may change. For now,
 the maximum number of segments to avoid should be below 250. This value may change
@@ -221,7 +221,7 @@ on the backend and it is therefore not guaranteed to be stable.</li>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">segments</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-segmentreference">SegmentReference</a></span><span class="p">]</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">segments</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-segmentreference">SegmentReference</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -297,13 +297,13 @@ For example, more information on zone IDs for Environmental Zones is available u
 <div class="pointer"></div>
 <div class="abstract">
 <p>Specifies a list of avoided truck road types for vehicle.
-Refer to <code><a href="sdk-for-ios-explore-api-reference-..-enums-truckroadtype">TruckRoadType</a></code> for the available options.</p>
+Refer to <code><a href="sdk-for-ios-explore-api-reference-enums-truckroadtype">TruckRoadType</a></code> for the available options.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">avoidedTruckRoadTypes</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-truckroadtype">TruckRoadType</a></span><span class="p">]</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">avoidedTruckRoadTypes</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-enums-truckroadtype">TruckRoadType</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -329,7 +329,7 @@ Refer to <code><a href="sdk-for-ios-explore-api-reference-..-enums-truckroadtype
 <li>roadFeatures: Features which routes should avoid. Best effort only (not enforced).</li>
 <li>countries: Countries that the route must avoid. Strictly enforced.
 Violations are reported as <code><a href="../Enums/SectionNoticeCode.html#/s:7heresdk17SectionNoticeCodeO19violatedBlockedRoadyA2CmF">SectionNoticeCode.violatedBlockedRoad</a></code>.
-<strong>Note:</strong> This avoidance option is not supported in <code><a href="sdk-for-ios-explore-api-reference-..-structs-isolineoptions">IsolineOptions</a></code> for isoline calculation.</li>
+<strong>Note:</strong> This avoidance option is not supported in <code><a href="sdk-for-ios-explore-api-reference-structs-isolineoptions">IsolineOptions</a></code> for isoline calculation.</li>
 <li>avoidBoundingBoxAreasOptions: List of rectangular shapes which routes must not cross and additional options for this area.</li>
 <li>avoidPolygonAreasOptions: List of polygon shapes which routes must not cross and additional options for this area.
 <strong>Note:</strong> Currently, the maximum count of polygons is limited to 20.</li>
@@ -342,7 +342,7 @@ Violations are reported as <code><a href="../Enums/SectionNoticeCode.html#/s:7he
 </ul>
 <p><strong>Notes:</strong></p>
 <ul>
-<li>This avoidance option is not supported in <code><a href="sdk-for-ios-explore-api-reference-..-structs-isolineoptions">IsolineOptions</a></code> for isoline calculation.</li>
+<li>This avoidance option is not supported in <code><a href="sdk-for-ios-explore-api-reference-structs-isolineoptions">IsolineOptions</a></code> for isoline calculation.</li>
 <li>The engine does not support an unlimited number of segments to avoid.
   The limit is defined by the HERE backend services and may change. For now,
   the maximum number of segments to avoid should be below 250. This value may change
@@ -358,7 +358,7 @@ e.g. the format of ID is like <code>here:cm:envzone:2</code>.
 Information about the various routing zones originates from the respective catalogs of platform.here.com.
 For example, more information on zone IDs for Environmental Zones is available under “<a href="https://platform.here.com/data/hrn:here:data::olp-here:rib-2/environmental-zones/overview">https://platform.here.com/data/hrn:here:data::olp-here:rib-2/environmental-zones/overview</a>”.</li>
 <li>avoidedTruckRoadTypes: Specifies a list of avoided truck road types for vehicle.
-Refer to <code><a href="sdk-for-ios-explore-api-reference-..-enums-truckroadtype">TruckRoadType</a></code> for the available options.</li>
+Refer to <code><a href="sdk-for-ios-explore-api-reference-enums-truckroadtype">TruckRoadType</a></code> for the available options.</li>
 </ul></li>
 </ul></li>
 </ul>
@@ -367,7 +367,7 @@ Refer to <code><a href="sdk-for-ios-explore-api-reference-..-enums-truckroadtype
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">roadFeatures</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-roadfeatures">RoadFeatures</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">countries</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-countrycode">CountryCode</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">avoidBoundingBoxAreasOptions</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-avoidboundingboxareaoptions">AvoidBoundingBoxAreaOptions</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">avoidPolygonAreasOptions</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-avoidpolygonareaoptions">AvoidPolygonAreaOptions</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">avoidCorridorAreasOptions</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-avoidcorridorareaoptions">AvoidCorridorAreaOptions</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">zoneCategories</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-zonecategory">ZoneCategory</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">segments</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-segmentreference">SegmentReference</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">exceptZoneIds</span><span class="p">:</span> <span class="p">[</span><span class="kt">String</span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">zoneIds</span><span class="p">:</span> <span class="p">[</span><span class="kt">String</span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">avoidedTruckRoadTypes</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-truckroadtype">TruckRoadType</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[])</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">roadFeatures</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-enums-roadfeatures">RoadFeatures</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">countries</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-enums-countrycode">CountryCode</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">avoidBoundingBoxAreasOptions</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-avoidboundingboxareaoptions">AvoidBoundingBoxAreaOptions</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">avoidPolygonAreasOptions</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-avoidpolygonareaoptions">AvoidPolygonAreaOptions</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">avoidCorridorAreasOptions</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-avoidcorridorareaoptions">AvoidCorridorAreaOptions</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">zoneCategories</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-enums-zonecategory">ZoneCategory</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">segments</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-segmentreference">SegmentReference</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">exceptZoneIds</span><span class="p">:</span> <span class="p">[</span><span class="kt">String</span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">zoneIds</span><span class="p">:</span> <span class="p">[</span><span class="kt">String</span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">avoidedTruckRoadTypes</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-enums-truckroadtype">TruckRoadType</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[])</span></code></pre>
 </div>
 </div>
 </section>

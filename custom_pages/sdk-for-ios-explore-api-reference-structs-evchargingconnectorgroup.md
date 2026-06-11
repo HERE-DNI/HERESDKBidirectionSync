@@ -15,10 +15,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-evchargingconnectorgroup"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-explore-api-reference-..-search">Search</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-search">Search</a>
+<img alt="" id="carat" src="/carat.png"/>
         EVChargingConnectorGroup Structure Reference
       </p>
 </div>
@@ -54,7 +54,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <div class="pointer"></div>
 <div class="abstract">
 <p>The standard (type) of the connectors belonging to this group.
-Should be one of the constants defined in <code><a href="sdk-for-ios-explore-api-reference-..-structs-evchargingconnectortype">EVChargingConnectorType</a></code>.</p>
+Should be one of the constants defined in <code><a href="sdk-for-ios-explore-api-reference-structs-evchargingconnectortype">EVChargingConnectorType</a></code>.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
@@ -114,7 +114,7 @@ Available only if <code>EVChargingLocationFeature.EVSES</code> is included in
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">connectors</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-evchargingconnectorreference">EVChargingConnectorReference</a></span><span class="p">]</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">connectors</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-evchargingconnectorreference">EVChargingConnectorReference</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -218,7 +218,7 @@ Available only if <code>EVChargingLocationFeature.TARIFFS</code> is included in
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">connectorType</span><span class="p">:</span> <span class="kt">String</span> <span class="o">=</span> <span class="s">""</span><span class="p">,</span> <span class="nv">maxPowerInWatts</span><span class="p">:</span> <span class="kt">Int32</span> <span class="o">=</span> <span class="mi">1</span><span class="p">,</span> <span class="nv">connectors</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-evchargingconnectorreference">EVChargingConnectorReference</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">connectorCount</span><span class="p">:</span> <span class="kt">Int32</span> <span class="o">=</span> <span class="mi">1</span><span class="p">,</span> <span class="nv">availableConnectorCount</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">tariffIndexes</span><span class="p">:</span> <span class="p">[</span><span class="kt">Int32</span><span class="p">]</span> <span class="o">=</span> <span class="p">[])</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">connectorType</span><span class="p">:</span> <span class="kt">String</span> <span class="o">=</span> <span class="s">""</span><span class="p">,</span> <span class="nv">maxPowerInWatts</span><span class="p">:</span> <span class="kt">Int32</span> <span class="o">=</span> <span class="mi">1</span><span class="p">,</span> <span class="nv">connectors</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-evchargingconnectorreference">EVChargingConnectorReference</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">connectorCount</span><span class="p">:</span> <span class="kt">Int32</span> <span class="o">=</span> <span class="mi">1</span><span class="p">,</span> <span class="nv">availableConnectorCount</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">tariffIndexes</span><span class="p">:</span> <span class="p">[</span><span class="kt">Int32</span><span class="p">]</span> <span class="o">=</span> <span class="p">[])</span></code></pre>
 </div>
 </div>
 </section>

@@ -15,10 +15,10 @@ slug: "sdk-for-ios-explore-api-reference-classes-assetsmanager"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-explore-api-reference-..-maps">Maps</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-maps">Maps</a>
+<img alt="" id="carat" src="/carat.png"/>
         AssetsManager Class Reference
       </p>
 </div>
@@ -61,7 +61,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">_</span> <span class="nv">context</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapcontext">MapContext</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">_</span> <span class="nv">context</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-classes-mapcontext">MapContext</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -102,8 +102,8 @@ behavior. Related APIs may change for new releases without a deprecation process
 <p>Registers a font under a font name.
 After registration, the font name can be used in</p>
 <ul>
-<li>the SVG <code>text</code> tag as <code>font-family</code> attribute parameter when creating a <code><a href="sdk-for-ios-explore-api-reference-..-classes-mapimage">MapImage</a></code> with <code>ImageFormat.SVG</code>.</li>
-<li><code><a href="sdk-for-ios-explore-api-reference-..-classes-mapmarker-textstyle">MapMarker.TextStyle</a></code></li>
+<li>the SVG <code>text</code> tag as <code>font-family</code> attribute parameter when creating a <code><a href="sdk-for-ios-explore-api-reference-classes-mapimage">MapImage</a></code> with <code>ImageFormat.SVG</code>.</li>
+<li><code><a href="sdk-for-ios-explore-api-reference-classes-mapmarker-textstyle">MapMarker.TextStyle</a></code></li>
 </ul>
 <p>Repeated registration with the same font name is ignored.</p>
 </div>
@@ -165,8 +165,8 @@ Can be an absolute file path or a resolved bundle resource path.</p>
 <p>Registers a font set under a font name.
 After registration, the font name can be used in</p>
 <ul>
-<li>the SVG <code>text</code> tag as <code>font-family</code> attribute parameter when creating a <code><a href="sdk-for-ios-explore-api-reference-..-classes-mapimage">MapImage</a></code> with <code>ImageFormat.SVG</code>.</li>
-<li><code><a href="sdk-for-ios-explore-api-reference-..-classes-mapmarker-textstyle">MapMarker.TextStyle</a></code></li>
+<li>the SVG <code>text</code> tag as <code>font-family</code> attribute parameter when creating a <code><a href="sdk-for-ios-explore-api-reference-classes-mapimage">MapImage</a></code> with <code>ImageFormat.SVG</code>.</li>
+<li><code><a href="sdk-for-ios-explore-api-reference-classes-mapmarker-textstyle">MapMarker.TextStyle</a></code></li>
 </ul>
 <p>Repeated registration with the same font name is ignored.</p>
 </div>

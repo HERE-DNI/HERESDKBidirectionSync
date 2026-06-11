@@ -15,10 +15,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-sectionnotice"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-explore-api-reference-..-routing">Routing</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-routing">Routing</a>
+<img alt="" id="carat" src="/carat.png"/>
         SectionNotice Structure Reference
       </p>
 </div>
@@ -33,7 +33,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-sectionnotice"
 <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">SectionNotice</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
-<p>Explains an issue encountered in a <code><a href="sdk-for-ios-explore-api-reference-..-classes-section">Section</a></code>.</p>
+<p>Explains an issue encountered in a <code><a href="sdk-for-ios-explore-api-reference-classes-section">Section</a></code>.</p>
 </section>
 <section class="section task-group-section">
 <div class="task-group">
@@ -57,7 +57,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-sectionnotice"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">code</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-sectionnoticecode">SectionNoticeCode</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">code</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-enums-sectionnoticecode">SectionNoticeCode</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -82,7 +82,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-sectionnotice"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">severity</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-noticeseverity">NoticeSeverity</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">severity</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-enums-noticeseverity">NoticeSeverity</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -112,7 +112,7 @@ If the section notice is none of the above-mentioned three types, then this will
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">violatedRestrictions</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-violatedrestriction">ViolatedRestriction</a></span><span class="p">]</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">violatedRestrictions</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-violatedrestriction">ViolatedRestriction</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -137,7 +137,7 @@ If the section notice is none of the above-mentioned three types, then this will
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">code</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-sectionnoticecode">SectionNoticeCode</a></span><span class="p">,</span> <span class="nv">severity</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-noticeseverity">NoticeSeverity</a></span><span class="p">,</span> <span class="nv">violatedRestrictions</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-violatedrestriction">ViolatedRestriction</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[])</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">code</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-enums-sectionnoticecode">SectionNoticeCode</a></span><span class="p">,</span> <span class="nv">severity</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-enums-noticeseverity">NoticeSeverity</a></span><span class="p">,</span> <span class="nv">violatedRestrictions</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-violatedrestriction">ViolatedRestriction</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[])</span></code></pre>
 </div>
 </div>
 </section>

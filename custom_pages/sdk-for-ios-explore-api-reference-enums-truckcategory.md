@@ -15,10 +15,10 @@ slug: "sdk-for-ios-explore-api-reference-enums-truckcategory"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-explore-api-reference-..-transport">Transport</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-transport">Transport</a>
+<img alt="" id="carat" src="/carat.png"/>
         TruckCategory Enumeration Reference
       </p>
 </div>

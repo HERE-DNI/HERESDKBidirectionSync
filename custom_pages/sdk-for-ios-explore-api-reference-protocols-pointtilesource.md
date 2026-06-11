@@ -15,10 +15,10 @@ slug: "sdk-for-ios-explore-api-reference-protocols-pointtilesource"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-explore-api-reference-..-maps">Maps</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-maps">Maps</a>
+<img alt="" id="carat" src="/carat.png"/>
         PointTileSource Protocol Reference
       </p>
 </div>
@@ -30,7 +30,7 @@ slug: "sdk-for-ios-explore-api-reference-protocols-pointtilesource"
 <h1>PointTileSource</h1>
 <div class="declaration">
 <div class="language">
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">protocol</span> <span class="kt">PointTileSource</span> <span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-protocols-tilesource">TileSource</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">protocol</span> <span class="kt">PointTileSource</span> <span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-protocols-tilesource">TileSource</a></span></code></pre>
 </div>
 </div>
 <p>A source of geodetic point tiles.
@@ -60,7 +60,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">tilingScheme</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-tilingscheme">TilingScheme</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">tilingScheme</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-enums-tilingscheme">TilingScheme</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -110,7 +110,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">getDataVersion</span><span class="p">(</span><span class="nv">tileKey</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-tilekey">TileKey</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-tilesourcedataversion">TileSourceDataVersion</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">getDataVersion</span><span class="p">(</span><span class="nv">tileKey</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-tilekey">TileKey</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-tilesourcedataversion">TileSourceDataVersion</a></span></code></pre>
 </div>
 </div>
 <div>
@@ -158,7 +158,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">addDelegate</span><span class="p">(</span><span class="n">_</span> <span class="nv">delegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-protocols-tilesourcedelegate">TileSourceDelegate</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">addDelegate</span><span class="p">(</span><span class="n">_</span> <span class="nv">delegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-protocols-tilesourcedelegate">TileSourceDelegate</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -202,7 +202,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">removeDelegate</span><span class="p">(</span><span class="n">_</span> <span class="nv">delegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-protocols-tilesourcedelegate">TileSourceDelegate</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">removeDelegate</span><span class="p">(</span><span class="n">_</span> <span class="nv">delegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-protocols-tilesourcedelegate">TileSourceDelegate</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -247,7 +247,7 @@ Upon completion, the handler gets informed.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">loadTile</span><span class="p">(</span><span class="nv">tileKey</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-tilekey">TileKey</a></span><span class="p">,</span> <span class="nv">completionHandler</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-protocols-pointtilesourceloadresulthandler">PointTileSourceLoadResultHandler</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-protocols-tilesourceloadtilerequesthandle">TileSourceLoadTileRequestHandle</a></span><span class="p">?</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">loadTile</span><span class="p">(</span><span class="nv">tileKey</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-tilekey">TileKey</a></span><span class="p">,</span> <span class="nv">completionHandler</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-protocols-pointtilesourceloadresulthandler">PointTileSourceLoadResultHandler</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-protocols-tilesourceloadtilerequesthandle">TileSourceLoadTileRequestHandle</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 <div>

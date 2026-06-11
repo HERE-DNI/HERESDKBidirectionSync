@@ -15,10 +15,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-scooterspecification"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-explore-api-reference-..-transport">Transport</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-transport">Transport</a>
+<img alt="" id="carat" src="/carat.png"/>
         ScooterSpecification Structure Reference
       </p>
 </div>
@@ -54,12 +54,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-scooterspecification"
 <p>Specifies whether scooter is allowed on highway or not. <code>True</code> means scooter is
 allowed to use highways and <code>false</code> means otherwise.
 Defaults to <code>false</code>.
-Note that there is a similar parameter in <code><a href="sdk-for-ios-explore-api-reference-..-structs-avoidanceoptions">AvoidanceOptions</a></code>, to disallow highway usage,
+Note that there is a similar parameter in <code><a href="sdk-for-ios-explore-api-reference-structs-avoidanceoptions">AvoidanceOptions</a></code>, to disallow highway usage,
 see <code>RoadFeatures.CONTROLLED_ACCESS_HIGHWAY</code>.
 As the avoidance options takes precedence, if this parameter is also used, then
 scooters are not allowed to use highways even if <code>allowHighway</code> is set to <code>true</code>.
 However, if no alternative route is possible, the calculated route may use highways.
-In such a case, a <code><a href="sdk-for-ios-explore-api-reference-..-structs-sectionnotice">SectionNotice</a></code> will be provided in the related <code><a href="sdk-for-ios-explore-api-reference-..-classes-section">Section</a></code> to indicate that
+In such a case, a <code><a href="sdk-for-ios-explore-api-reference-structs-sectionnotice">SectionNotice</a></code> will be provided in the related <code><a href="sdk-for-ios-explore-api-reference-classes-section">Section</a></code> to indicate that
 the highway usage restriction is violated on this route.
 A few examples:</p>
 <p>1 - If no avoidance option is set, and <code>allowHighway = false</code>, when no route is found without
@@ -101,12 +101,12 @@ when no route is found without highway usage, a notice is received.</p>
 <li>allowScooterOnHighway: Specifies whether scooter is allowed on highway or not. <code>True</code> means scooter is
 allowed to use highways and <code>false</code> means otherwise.
 Defaults to <code>false</code>.
-Note that there is a similar parameter in <code><a href="sdk-for-ios-explore-api-reference-..-structs-avoidanceoptions">AvoidanceOptions</a></code>, to disallow highway usage,
+Note that there is a similar parameter in <code><a href="sdk-for-ios-explore-api-reference-structs-avoidanceoptions">AvoidanceOptions</a></code>, to disallow highway usage,
 see <code>RoadFeatures.CONTROLLED_ACCESS_HIGHWAY</code>.
 As the avoidance options takes precedence, if this parameter is also used, then
 scooters are not allowed to use highways even if <code>allowHighway</code> is set to <code>true</code>.
 However, if no alternative route is possible, the calculated route may use highways.
-In such a case, a <code><a href="sdk-for-ios-explore-api-reference-..-structs-sectionnotice">SectionNotice</a></code> will be provided in the related <code><a href="sdk-for-ios-explore-api-reference-..-classes-section">Section</a></code> to indicate that
+In such a case, a <code><a href="sdk-for-ios-explore-api-reference-structs-sectionnotice">SectionNotice</a></code> will be provided in the related <code><a href="sdk-for-ios-explore-api-reference-classes-section">Section</a></code> to indicate that
 the highway usage restriction is violated on this route.
 A few examples:</li>
 </ul>

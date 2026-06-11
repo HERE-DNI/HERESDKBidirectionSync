@@ -15,10 +15,10 @@ slug: "sdk-for-ios-explore-api-reference-classes-placecategory"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-explore-api-reference-..-search">Search</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-search">Search</a>
+<img alt="" id="carat" src="/carat.png"/>
         PlaceCategory Class Reference
       </p>
 </div>
@@ -1953,7 +1953,7 @@ such as cities, towns, villages, boroughs and shires.</p>
 <div class="pointer"></div>
 <div class="abstract">
 <p>Localised place category name.
-It is available only when when <code>PlaceCategory</code> is obtained from <code><a href="sdk-for-ios-explore-api-reference-..-classes-place">Place</a></code>.
+It is available only when when <code>PlaceCategory</code> is obtained from <code><a href="sdk-for-ios-explore-api-reference-classes-place">Place</a></code>.
 That means that when <code>PlaceCategory</code> is constructed directly by the client,
 <code>name</code> is always <code>nil</code>.</p>
 </div>

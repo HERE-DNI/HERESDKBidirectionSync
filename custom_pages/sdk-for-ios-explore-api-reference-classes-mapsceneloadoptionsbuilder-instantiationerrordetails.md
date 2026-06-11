@@ -15,12 +15,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapsceneloadoptionsbuilder-inst
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-explore-api-reference-..-..-index">heresdk</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
-<a href="sdk-for-ios-explore-api-reference-..-..-maps">Maps</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
-<a href="sdk-for-ios-explore-api-reference-..-..-classes-mapsceneloadoptionsbuilder">MapSceneLoadOptionsBuilder</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-maps">Maps</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-classes-mapsceneloadoptionsbuilder">MapSceneLoadOptionsBuilder</a>
+<img alt="" id="carat" src="/carat.png"/>
         InstantiationErrorDetails Structure Reference
       </p>
 </div>
@@ -33,7 +33,7 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapsceneloadoptionsbuilder-inst
 <div class="declaration">
 <div class="language">
 <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">InstantiationErrorDetails</span></code></pre>
-<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-classes-mapsceneloadoptionsbuilder">MapSceneLoadOptionsBuilder</a></span><span class="o">.</span><span class="kt">InstantiationErrorDetails</span> <span class="p">:</span> <span class="kt">Error</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-classes-mapsceneloadoptionsbuilder">MapSceneLoadOptionsBuilder</a></span><span class="o">.</span><span class="kt">InstantiationErrorDetails</span> <span class="p">:</span> <span class="kt">Error</span></code></pre>
 </div>
 </div>
 <p>Describes the reason for failing to build a <code><a href="../../Maps.html#/s:7heresdk19MapSceneLoadOptionsC">MapSceneLoadOptions</a></code>.</p>
@@ -60,7 +60,7 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapsceneloadoptionsbuilder-inst
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">errorCode</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-classes-mapsceneloadoptionsbuilder">MapSceneLoadOptionsBuilder</a></span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-classes-mapsceneloadoptionsbuilder-instantiationerrorcode">InstantiationErrorCode</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">errorCode</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-classes-mapsceneloadoptionsbuilder">MapSceneLoadOptionsBuilder</a></span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-classes-mapsceneloadoptionsbuilder-instantiationerrorcode">InstantiationErrorCode</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -110,7 +110,7 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapsceneloadoptionsbuilder-inst
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">errorCode</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-classes-mapsceneloadoptionsbuilder">MapSceneLoadOptionsBuilder</a></span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-classes-mapsceneloadoptionsbuilder-instantiationerrorcode">InstantiationErrorCode</a></span><span class="p">,</span> <span class="nv">errorDescription</span><span class="p">:</span> <span class="kt">String</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">errorCode</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-classes-mapsceneloadoptionsbuilder">MapSceneLoadOptionsBuilder</a></span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-classes-mapsceneloadoptionsbuilder-instantiationerrorcode">InstantiationErrorCode</a></span><span class="p">,</span> <span class="nv">errorDescription</span><span class="p">:</span> <span class="kt">String</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>

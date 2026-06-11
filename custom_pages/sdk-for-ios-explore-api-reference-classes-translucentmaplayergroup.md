@@ -15,10 +15,10 @@ slug: "sdk-for-ios-explore-api-reference-classes-translucentmaplayergroup"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-explore-api-reference-..-maps">Maps</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-maps">Maps</a>
+<img alt="" id="carat" src="/carat.png"/>
         TranslucentMapLayerGroup Class Reference
       </p>
 </div>
@@ -105,7 +105,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">typealias</span> <span class="kt">InstantiationError</span> <span class="o">=</span> <span class="kt">TranslucentMapLayerGroup</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-translucentmaplayergroup-errordetails">ErrorDetails</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">typealias</span> <span class="kt">InstantiationError</span> <span class="o">=</span> <span class="kt">TranslucentMapLayerGroup</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-classes-translucentmaplayergroup-errordetails">ErrorDetails</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -135,7 +135,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">name</span><span class="p">:</span> <span class="kt">String</span><span class="p">,</span> <span class="nv">aMap</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-heremap">HereMap</a></span><span class="p">)</span> <span class="k">throws</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">name</span><span class="p">:</span> <span class="kt">String</span><span class="p">,</span> <span class="nv">aMap</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-classes-heremap">HereMap</a></span><span class="p">)</span> <span class="k">throws</span></code></pre>
 </div>
 </div>
 <div>
@@ -150,7 +150,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 </td>
 <td>
 <div>
-<p>Name of the group. Must be unique across <code><a href="sdk-for-ios-explore-api-reference-..-classes-maplayer">MapLayer</a></code> and <code>TranslucentMapLayerGroup</code>.</p>
+<p>Name of the group. Must be unique across <code><a href="sdk-for-ios-explore-api-reference-classes-maplayer">MapLayer</a></code> and <code>TranslucentMapLayerGroup</code>.</p>
 </div>
 </td>
 </tr>
@@ -195,7 +195,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">name</span><span class="p">:</span> <span class="kt">String</span><span class="p">,</span> <span class="nv">aMap</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-heremap">HereMap</a></span><span class="p">,</span> <span class="n">_</span> <span class="nv">priority</span><span class="p">:</span> <span class="kt"><a href="../Maps.html#/s:7heresdk16MapLayerPriorityC">MapLayerPriority</a></span><span class="p">)</span> <span class="k">throws</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">name</span><span class="p">:</span> <span class="kt">String</span><span class="p">,</span> <span class="nv">aMap</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-classes-heremap">HereMap</a></span><span class="p">,</span> <span class="n">_</span> <span class="nv">priority</span><span class="p">:</span> <span class="kt"><a href="../Maps.html#/s:7heresdk16MapLayerPriorityC">MapLayerPriority</a></span><span class="p">)</span> <span class="k">throws</span></code></pre>
 </div>
 </div>
 <div>
@@ -210,7 +210,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 </td>
 <td>
 <div>
-<p>Name of the group. Must be unique across <code><a href="sdk-for-ios-explore-api-reference-..-classes-maplayer">MapLayer</a></code> and <code>TranslucentMapLayerGroup</code>.</p>
+<p>Name of the group. Must be unique across <code><a href="sdk-for-ios-explore-api-reference-classes-maplayer">MapLayer</a></code> and <code>TranslucentMapLayerGroup</code>.</p>
 </div>
 </td>
 </tr>
@@ -263,7 +263,7 @@ Example:</p>
 <div class="pointer"></div>
 <div class="abstract">
 <p>Error codes for creating the group.</p>
-<a class="slightly-smaller" href="sdk-for-ios-explore-api-reference-..-classes-translucentmaplayergroup-errorcode">See more</a>
+<a class="slightly-smaller" href="sdk-for-ios-explore-api-reference-classes-translucentmaplayergroup-errorcode">See more</a>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
@@ -289,14 +289,14 @@ Example:</p>
 <div class="pointer"></div>
 <div class="abstract">
 <p>Describes the reason for failing to create the group.</p>
-<a class="slightly-smaller" href="sdk-for-ios-explore-api-reference-..-classes-translucentmaplayergroup-errordetails">See more</a>
+<a class="slightly-smaller" href="sdk-for-ios-explore-api-reference-classes-translucentmaplayergroup-errordetails">See more</a>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
 <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">ErrorDetails</span></code></pre>
-<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-translucentmaplayergroup">TranslucentMapLayerGroup</a></span><span class="o">.</span><span class="kt">ErrorDetails</span> <span class="p">:</span> <span class="kt">Error</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-classes-translucentmaplayergroup">TranslucentMapLayerGroup</a></span><span class="o">.</span><span class="kt">ErrorDetails</span> <span class="p">:</span> <span class="kt">Error</span></code></pre>
 </div>
 </div>
 </section>

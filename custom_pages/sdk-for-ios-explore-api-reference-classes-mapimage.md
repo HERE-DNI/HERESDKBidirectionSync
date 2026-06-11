@@ -15,10 +15,10 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapimage"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-explore-api-reference-..-maps">Maps</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-maps">Maps</a>
+<img alt="" id="carat" src="/carat.png"/>
         MapImage Class Reference
       </p>
 </div>
@@ -35,8 +35,8 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapimage"
 <pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapImage</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
-<p>Represents a drawable resource that can be used by a <code><a href="sdk-for-ios-explore-api-reference-..-classes-mapmarker">MapMarker</a></code>, <code><a href="sdk-for-ios-explore-api-reference-..-classes-mapmarker3d">MapMarker3D</a></code> or <code><a href="sdk-for-ios-explore-api-reference-..-classes-mapimageoverlay">MapImageOverlay</a></code> to be shown on the map.
-Supported formats are listed in <code><a href="sdk-for-ios-explore-api-reference-..-enums-imageformat">ImageFormat</a></code>.
+<p>Represents a drawable resource that can be used by a <code><a href="sdk-for-ios-explore-api-reference-classes-mapmarker">MapMarker</a></code>, <code><a href="sdk-for-ios-explore-api-reference-classes-mapmarker3d">MapMarker3D</a></code> or <code><a href="sdk-for-ios-explore-api-reference-classes-mapimageoverlay">MapImageOverlay</a></code> to be shown on the map.
+Supported formats are listed in <code><a href="sdk-for-ios-explore-api-reference-enums-imageformat">ImageFormat</a></code>.
 SVG format allows custom fonts in text using font-family attribute by prior registration via <code>AssetsManager.registerFont</code>.</p>
 <p>It is recommended to associate a resource with a single <code>MapImage</code> instance in order to enable
 resource sharing and reduce the amount of needed memory.</p>
@@ -64,7 +64,7 @@ is accepted.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">pixelData</span><span class="p">:</span> <span class="kt">Data</span><span class="p">,</span> <span class="nv">imageFormat</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-imageformat">ImageFormat</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">pixelData</span><span class="p">:</span> <span class="kt">Data</span><span class="p">,</span> <span class="nv">imageFormat</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-enums-imageformat">ImageFormat</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -121,7 +121,7 @@ defined in <a href="https://www.w3.org/TR/PNG">https://www.w3.org/TR/PNG</a></p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">imageData</span><span class="p">:</span> <span class="kt">Data</span><span class="p">,</span> <span class="nv">imageFormat</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-imageformat">ImageFormat</a></span><span class="p">,</span> <span class="nv">width</span><span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="nv">height</span><span class="p">:</span> <span class="kt">UInt32</span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">imageData</span><span class="p">:</span> <span class="kt">Data</span><span class="p">,</span> <span class="nv">imageFormat</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-enums-imageformat">ImageFormat</a></span><span class="p">,</span> <span class="nv">width</span><span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="nv">height</span><span class="p">:</span> <span class="kt">UInt32</span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>

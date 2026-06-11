@@ -15,10 +15,10 @@ slug: "sdk-for-ios-explore-api-reference-protocols-tilesourcedelegate"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-explore-api-reference-..-maps">Maps</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-maps">Maps</a>
+<img alt="" id="carat" src="/carat.png"/>
         TileSourceDelegate Protocol Reference
       </p>
 </div>
@@ -33,7 +33,7 @@ slug: "sdk-for-ios-explore-api-reference-protocols-tilesourcedelegate"
 <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">protocol</span> <span class="kt">TileSourceDelegate</span> <span class="p">:</span> <span class="kt">AnyObject</span></code></pre>
 </div>
 </div>
-<p>Delegate for <code><a href="sdk-for-ios-explore-api-reference-..-protocols-tilesource">TileSource</a></code> events.</p>
+<p>Delegate for <code><a href="sdk-for-ios-explore-api-reference-protocols-tilesource">TileSource</a></code> events.</p>
 </section>
 <section class="section task-group-section">
 <div class="task-group">
@@ -57,7 +57,7 @@ slug: "sdk-for-ios-explore-api-reference-protocols-tilesourcedelegate"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">onDataVersionChanged</span><span class="p">(</span><span class="n">_</span> <span class="nv">dataVersion</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-tilesourcedataversion">TileSourceDataVersion</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">onDataVersionChanged</span><span class="p">(</span><span class="n">_</span> <span class="nv">dataVersion</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-tilesourcedataversion">TileSourceDataVersion</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>

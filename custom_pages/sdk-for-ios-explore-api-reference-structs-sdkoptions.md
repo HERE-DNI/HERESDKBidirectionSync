@@ -15,10 +15,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-sdkoptions"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-explore-api-reference-..-core">Core</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-core">Core</a>
+<img alt="" id="carat" src="/carat.png"/>
         SDKOptions Structure Reference
       </p>
 </div>
@@ -34,7 +34,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-sdkoptions"
 </div>
 </div>
 <p>SDKOptions provide an alternative way to set or update the HERE SDK credentials and other
-parameters at runtime to initialize the <code><a href="sdk-for-ios-explore-api-reference-..-classes-sdknativeengine">SDKNativeEngine</a></code>.</p>
+parameters at runtime to initialize the <code><a href="sdk-for-ios-explore-api-reference-classes-sdknativeengine">SDKNativeEngine</a></code>.</p>
 </section>
 <section class="section task-group-section">
 <div class="task-group">
@@ -281,22 +281,22 @@ a new HERE SDK is constructed, it will affect the map cache and offline maps.
 When disabling certain features, less data will be prefetched when the map is rendered. Map
 data that was already cached will not be removed until the least recently used strategy (LRU)
 applies. That means you cannot remove any content from the map cache by updating the
-<code><a href="sdk-for-ios-explore-api-reference-..-structs-layerconfiguration">LayerConfiguration</a></code>. However, for new map data, it will be applied.
-For offline maps, this <code><a href="sdk-for-ios-explore-api-reference-..-structs-layerconfiguration">LayerConfiguration</a></code> can reduce the download size of all regions.
-Note that the <code><a href="sdk-for-ios-explore-api-reference-..-structs-layerconfiguration">LayerConfiguration</a></code> is applied globally to all regions that will be downloaded
+<code><a href="sdk-for-ios-explore-api-reference-structs-layerconfiguration">LayerConfiguration</a></code>. However, for new map data, it will be applied.
+For offline maps, this <code><a href="sdk-for-ios-explore-api-reference-structs-layerconfiguration">LayerConfiguration</a></code> can reduce the download size of all regions.
+Note that the <code><a href="sdk-for-ios-explore-api-reference-structs-layerconfiguration">LayerConfiguration</a></code> is applied globally to all regions that will be downloaded
 in the future. It will not affect already downloaded regions. Updating a region will also
-not update the <code><a href="sdk-for-ios-explore-api-reference-..-structs-layerconfiguration">LayerConfiguration</a></code>. Only the <code><a href="sdk-for-ios-explore-api-reference-..-structs-layerconfiguration">LayerConfiguration</a></code> will be used that was set
+not update the <code><a href="sdk-for-ios-explore-api-reference-structs-layerconfiguration">LayerConfiguration</a></code>. Only the <code><a href="sdk-for-ios-explore-api-reference-structs-layerconfiguration">LayerConfiguration</a></code> will be used that was set
 globally when a region was downloaded for the first time. If you want to update the
-<code><a href="sdk-for-ios-explore-api-reference-..-structs-layerconfiguration">LayerConfiguration</a></code> for an already downloaded region, please delete the region and download it again.</p>
+<code><a href="sdk-for-ios-explore-api-reference-structs-layerconfiguration">LayerConfiguration</a></code> for an already downloaded region, please delete the region and download it again.</p>
 <p>Please also note</p>
 <ul>
-<li>The <code><a href="sdk-for-ios-explore-api-reference-..-structs-layerconfiguration">LayerConfiguration</a></code> is only applicable for the HERE SDK (Navigate) that contains the offline maps
+<li>The <code><a href="sdk-for-ios-explore-api-reference-structs-layerconfiguration">LayerConfiguration</a></code> is only applicable for the HERE SDK (Navigate) that contains the offline maps
 feature. It has no effect on other licenses.</li>
-<li>The <code><a href="sdk-for-ios-explore-api-reference-..-structs-layerconfiguration">LayerConfiguration</a></code> cannot be set separately for a region, it will be applied globally
+<li>The <code><a href="sdk-for-ios-explore-api-reference-structs-layerconfiguration">LayerConfiguration</a></code> cannot be set separately for a region, it will be applied globally
 for all regions that will be downloaded in the future.</li>
-<li>It is not possible to specify a separate <code><a href="sdk-for-ios-explore-api-reference-..-structs-layerconfiguration">LayerConfiguration</a></code> for the map cache and offline maps.
-The <code><a href="sdk-for-ios-explore-api-reference-..-structs-layerconfiguration">LayerConfiguration</a></code> will be always applied to both.</li>
-<li>The <code><a href="sdk-for-ios-explore-api-reference-..-structs-layerconfiguration">LayerConfiguration</a></code> does affect the map cache when a device has connectivity. Even
+<li>It is not possible to specify a separate <code><a href="sdk-for-ios-explore-api-reference-structs-layerconfiguration">LayerConfiguration</a></code> for the map cache and offline maps.
+The <code><a href="sdk-for-ios-explore-api-reference-structs-layerconfiguration">LayerConfiguration</a></code> will be always applied to both.</li>
+<li>The <code><a href="sdk-for-ios-explore-api-reference-structs-layerconfiguration">LayerConfiguration</a></code> does affect the map cache when a device has connectivity. Even
 when a device has connectivity it will only download the specified layers.</li>
 <li>This is a beta feature and thus there can be bugs and unexpected behavior.</li>
 </ul>
@@ -305,7 +305,7 @@ when a device has connectivity it will only download the specified layers.</li>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">layerConfiguration</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-layerconfiguration">LayerConfiguration</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">layerConfiguration</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-layerconfiguration">LayerConfiguration</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -324,11 +324,11 @@ when a device has connectivity it will only download the specified layers.</li>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>This field specifies how the <code><a href="sdk-for-ios-explore-api-reference-..-classes-sdknativeengine">SDKNativeEngine</a></code> should access, use and store
+<p>This field specifies how the <code><a href="sdk-for-ios-explore-api-reference-classes-sdknativeengine">SDKNativeEngine</a></code> should access, use and store
 data for different catalogs. You can access default catalogs on the HERE platform and
 also custom catalogs such as for self-hosted or BYOD (bring your own data) use cases.
 For further information about catalogs and related concepts see
-<code><a href="sdk-for-ios-explore-api-reference-..-structs-catalogconfiguration">CatalogConfiguration</a></code></p>
+<code><a href="sdk-for-ios-explore-api-reference-structs-catalogconfiguration">CatalogConfiguration</a></code></p>
 <p><strong>Note:</strong>
 This API is only available for the Navigate license. It has no affect on other license.</p>
 </div>
@@ -336,7 +336,7 @@ This API is only available for the Navigate license. It has no affect on other l
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">catalogConfigurations</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-catalogconfiguration">CatalogConfiguration</a></span><span class="p">]</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">catalogConfigurations</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-catalogconfiguration">CatalogConfiguration</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -416,7 +416,7 @@ Related APIs may change for new releases without a deprecation process.</li>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">customEngineOptions</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-enginebaseurl">EngineBaseURL</a></span> <span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-engineoptions">EngineOptions</a></span><span class="p">]</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">customEngineOptions</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-enums-enginebaseurl">EngineBaseURL</a></span> <span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-engineoptions">EngineOptions</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -441,7 +441,7 @@ Related APIs may change for new releases without a deprecation process.</li>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">authenticationMode</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-authenticationmode">AuthenticationMode</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">authenticationMode</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-classes-authenticationmode">AuthenticationMode</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -466,7 +466,7 @@ Related APIs may change for new releases without a deprecation process.</li>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">networkSettings</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-networksettings">NetworkSettings</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">networkSettings</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-networksettings">NetworkSettings</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -559,7 +559,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">customOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-metadata">Metadata</a></span><span class="p">?</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">customOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-classes-metadata">Metadata</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -584,7 +584,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">authenticationMode</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-authenticationmode">AuthenticationMode</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">authenticationMode</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-classes-authenticationmode">AuthenticationMode</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>

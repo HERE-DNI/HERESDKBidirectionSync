@@ -15,10 +15,10 @@ slug: "sdk-for-ios-explore-api-reference-enums-passthroughfeature"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-explore-api-reference-..-core">Core</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-core">Core</a>
+<img alt="" id="carat" src="/carat.png"/>
         PassThroughFeature Enumeration Reference
       </p>
 </div>
@@ -56,7 +56,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>When set, then the <code><a href="sdk-for-ios-explore-api-reference-..-classes-trafficengine">TrafficEngine</a></code> is not blocked from initiating online connections to search for
+<p>When set, then the <code><a href="sdk-for-ios-explore-api-reference-classes-trafficengine">TrafficEngine</a></code> is not blocked from initiating online connections to search for
 traffic data such as incidents.</p>
 </div>
 <div class="declaration">

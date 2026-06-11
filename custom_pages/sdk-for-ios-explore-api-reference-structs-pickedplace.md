@@ -15,10 +15,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-pickedplace"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-explore-api-reference-..-core">Core</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-core">Core</a>
+<img alt="" id="carat" src="/carat.png"/>
         PickedPlace Structure Reference
       </p>
 </div>
@@ -82,7 +82,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-pickedplace"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">coordinates</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geocoordinates">GeoCoordinates</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">coordinates</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-geocoordinates">GeoCoordinates</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -103,7 +103,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-pickedplace"
 <div class="abstract">
 <p>The place category ID of the POI.
 This is the same String value as <code><a href="../Classes/PlaceCategory.html#/s:7heresdk13PlaceCategoryC2idSSvp">PlaceCategory.id</a></code> that can be obtained from the
-<code><a href="sdk-for-ios-explore-api-reference-..-classes-searchengine">SearchEngine</a></code> and the <code>OfflineSearchEngine</code>. Note that not all editions include the
+<code><a href="sdk-for-ios-explore-api-reference-classes-searchengine">SearchEngine</a></code> and the <code>OfflineSearchEngine</code>. Note that not all editions include the
 <code>OfflineSearchEngine</code>.</p>
 </div>
 <div class="declaration">
@@ -135,7 +135,7 @@ This is the same String value as <code><a href="../Classes/PlaceCategory.html#/s
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">name</span><span class="p">:</span> <span class="kt">String</span><span class="p">,</span> <span class="nv">coordinates</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geocoordinates">GeoCoordinates</a></span><span class="p">,</span> <span class="nv">placeCategoryId</span><span class="p">:</span> <span class="kt">String</span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">name</span><span class="p">:</span> <span class="kt">String</span><span class="p">,</span> <span class="nv">coordinates</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-geocoordinates">GeoCoordinates</a></span><span class="p">,</span> <span class="nv">placeCategoryId</span><span class="p">:</span> <span class="kt">String</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>

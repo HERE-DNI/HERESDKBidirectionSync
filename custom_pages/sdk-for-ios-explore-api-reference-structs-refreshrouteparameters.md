@@ -15,10 +15,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-refreshrouteparameters"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-explore-api-reference-..-other%20structs">Other Structures</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-other%20structs">Other Structures</a>
+<img alt="" id="carat" src="/carat.png"/>
         RefreshRouteParameters Structure Reference
       </p>
 </div>
@@ -58,7 +58,7 @@ specific location on it.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">routeHandle</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-routehandle">RouteHandle</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">routeHandle</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-routehandle">RouteHandle</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -79,10 +79,10 @@ specific location on it.</p>
 <div class="abstract">
 <p>Identify the new starting point of the route. It should be of type <code><a href="../Enums/WaypointType.html#/s:7heresdk12WaypointTypeO8stopoveryA2CmF">WaypointType.stopover</a></code>.
 Otherwise, an <code><a href="../Enums/RoutingError.html#/s:7heresdk12RoutingErrorO16invalidParameteryA2CmF">RoutingError.invalidParameter</a></code> error is generated. Moreover, it should be very close to the
-original route specified with the <code><a href="sdk-for-ios-explore-api-reference-..-structs-routehandle">RouteHandle</a></code>. The location of this waypoint may by provided,
+original route specified with the <code><a href="sdk-for-ios-explore-api-reference-structs-routehandle">RouteHandle</a></code>. The location of this waypoint may by provided,
 for example, by a <code>RouteProgress</code> event. Since the new starting point is expected to be
 along the original route, the original route geometry is used to reach the remaining waypoints. The new route
-will not include the <code><a href="sdk-for-ios-explore-api-reference-..-structs-waypoint">Waypoint</a></code> items that lie behind the new starting point (i.e. the path that
+will not include the <code><a href="sdk-for-ios-explore-api-reference-structs-waypoint">Waypoint</a></code> items that lie behind the new starting point (i.e. the path that
 was already traveled). Plus, <code><a href="../Classes/Route.html#/s:7heresdk5RouteC14lengthInMeterss5Int32Vvp">Route.lengthInMeters</a></code>, <code><a href="../Classes/Route.html#/s:7heresdk5RouteC8durationSdvp">Route.duration</a></code>, and similar
 values are from the new starting point to the destination. If the new waypoint is too far off the original
 route, the route refresh may fail and an <code><a href="../Enums/RoutingError.html#/s:7heresdk12RoutingErrorO19couldNotMatchOriginyA2CmF">RoutingError.couldNotMatchOrigin</a></code> error is triggered.
@@ -92,7 +92,7 @@ In that case, an application may decide to calculate a new route from scratch.</
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">startingPoint</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-waypoint">Waypoint</a></span><span class="p">?</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">startingPoint</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-waypoint">Waypoint</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -171,7 +171,7 @@ would ignore the first part of the section. If it is provided with an invalid st
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">routeHandle</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-routehandle">RouteHandle</a></span><span class="p">,</span> <span class="nv">startingPoint</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-waypoint">Waypoint</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">routeHandle</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-routehandle">RouteHandle</a></span><span class="p">,</span> <span class="nv">startingPoint</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-waypoint">Waypoint</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -227,7 +227,7 @@ would ignore the first part of the section. If it is provided with an invalid st
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">routeHandle</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-routehandle">RouteHandle</a></span><span class="p">,</span> <span class="nv">startingSectionIndex</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">,</span> <span class="nv">traveledDistanceOnStartingSectionInMeters</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">routeHandle</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-routehandle">RouteHandle</a></span><span class="p">,</span> <span class="nv">startingSectionIndex</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">,</span> <span class="nv">traveledDistanceOnStartingSectionInMeters</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -295,7 +295,7 @@ would ignore the first part of the section. If it is provided with an invalid st
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">routeHandle</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-routehandle">RouteHandle</a></span><span class="p">,</span> <span class="nv">startingPoint</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-waypoint">Waypoint</a></span><span class="p">,</span> <span class="nv">startingSectionIndex</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">,</span> <span class="nv">traveledDistanceOnStartingSectionInMeters</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">routeHandle</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-routehandle">RouteHandle</a></span><span class="p">,</span> <span class="nv">startingPoint</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-waypoint">Waypoint</a></span><span class="p">,</span> <span class="nv">startingSectionIndex</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">,</span> <span class="nv">traveledDistanceOnStartingSectionInMeters</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>

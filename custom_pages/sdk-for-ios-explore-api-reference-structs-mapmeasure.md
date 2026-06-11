@@ -15,10 +15,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-mapmeasure"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-explore-api-reference-..-maps">Maps</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-maps">Maps</a>
+<img alt="" id="carat" src="/carat.png"/>
         MapMeasure Structure Reference
       </p>
 </div>
@@ -34,7 +34,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-mapmeasure"
 </div>
 </div>
 <p>A map measure.
-Check <code><a href="sdk-for-ios-explore-api-reference-..-classes-mapcamera">MapCamera</a></code> for more details on each supported measure.</p>
+Check <code><a href="sdk-for-ios-explore-api-reference-classes-mapcamera">MapCamera</a></code> for more details on each supported measure.</p>
 </section>
 <section class="section task-group-section">
 <div class="task-group">
@@ -58,7 +58,7 @@ Check <code><a href="sdk-for-ios-explore-api-reference-..-classes-mapcamera">Map
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">let</span> <span class="nv">kind</span><span class="p">:</span> <span class="kt">MapMeasure</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-mapmeasure-kind">Kind</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">let</span> <span class="nv">kind</span><span class="p">:</span> <span class="kt">MapMeasure</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-mapmeasure-kind">Kind</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -108,7 +108,7 @@ Check <code><a href="sdk-for-ios-explore-api-reference-..-classes-mapcamera">Map
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">kind</span><span class="p">:</span> <span class="kt">MapMeasure</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-mapmeasure-kind">Kind</a></span><span class="p">,</span> <span class="nv">value</span><span class="p">:</span> <span class="kt">Double</span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">kind</span><span class="p">:</span> <span class="kt">MapMeasure</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-mapmeasure-kind">Kind</a></span><span class="p">,</span> <span class="nv">value</span><span class="p">:</span> <span class="kt">Double</span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -159,7 +159,7 @@ Check <code><a href="sdk-for-ios-explore-api-reference-..-classes-mapcamera">Map
 <div class="pointer"></div>
 <div class="abstract">
 <p>Kinds of measures.</p>
-<a class="slightly-smaller" href="sdk-for-ios-explore-api-reference-..-structs-mapmeasure-kind">See more</a>
+<a class="slightly-smaller" href="sdk-for-ios-explore-api-reference-structs-mapmeasure-kind">See more</a>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>

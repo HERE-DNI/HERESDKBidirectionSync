@@ -15,10 +15,10 @@ slug: "sdk-for-ios-explore-api-reference-enums-evsearcherror"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-explore-api-reference-..-search">Search</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-search">Search</a>
+<img alt="" id="carat" src="/carat.png"/>
         EVSearchError Enumeration Reference
       </p>
 </div>
@@ -33,7 +33,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-evsearcherror"
 <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">EVSearchError</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
-<p>Specifies possible errors that <code><a href="sdk-for-ios-explore-api-reference-..-classes-evsearchengine">EVSearchEngine</a></code> may report.
+<p>Specifies possible errors that <code><a href="sdk-for-ios-explore-api-reference-classes-evsearchengine">EVSearchEngine</a></code> may report.
 <strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
 Related APIs may change for new releases without a deprecation process.</p>
 </section>

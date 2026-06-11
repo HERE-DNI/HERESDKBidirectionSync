@@ -15,10 +15,10 @@ slug: "sdk-for-ios-explore-api-reference-classes-mappolylineanimation"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-explore-api-reference-..-maps">Maps</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-maps">Maps</a>
+<img alt="" id="carat" src="/carat.png"/>
         MapPolylineAnimation Class Reference
       </p>
 </div>
@@ -35,7 +35,7 @@ slug: "sdk-for-ios-explore-api-reference-classes-mappolylineanimation"
 <pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapPolylineAnimation</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
-<p>An animation that can be applied to the <code><a href="sdk-for-ios-explore-api-reference-..-classes-mappolyline">MapPolyline</a></code> object.</p>
+<p>An animation that can be applied to the <code><a href="sdk-for-ios-explore-api-reference-classes-mappolyline">MapPolyline</a></code> object.</p>
 </section>
 <section class="section task-group-section">
 <div class="task-group">
@@ -59,7 +59,7 @@ slug: "sdk-for-ios-explore-api-reference-classes-mappolylineanimation"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">typealias</span> <span class="kt">InstantiationError</span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mappolylineanimation-instantiationerrorcode">InstantiationErrorCode</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">typealias</span> <span class="kt">InstantiationError</span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-classes-mappolylineanimation-instantiationerrorcode">InstantiationErrorCode</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -78,12 +78,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-mappolylineanimation"
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Creates an animation of <code><a href="sdk-for-ios-explore-api-reference-..-classes-mappolyline">MapPolyline</a></code> based on provided keyframe track.
-Supports tracks created with <code><a href="sdk-for-ios-explore-api-reference-..-classes-mapitemkeyframetrack">MapItemKeyFrameTrack</a></code> ‘polylineProgress*’ methods.
+<p>Creates an animation of <code><a href="sdk-for-ios-explore-api-reference-classes-mappolyline">MapPolyline</a></code> based on provided keyframe track.
+Supports tracks created with <code><a href="sdk-for-ios-explore-api-reference-classes-mapitemkeyframetrack">MapItemKeyFrameTrack</a></code> ‘polylineProgress*’ methods.
 For starting the animation, see <code><a href="../Classes/MapPolyline.html#/s:7heresdk11MapPolylineC14startAnimation_17animationDelegateyAA0bcE0C_AA0eG0_ptF">MapPolyline.startAnimation(...)</a></code>.</p>
 <div class="aside aside-throws">
 <p class="aside-title">Throws</p>
-<code><a href="../Classes/MapPolylineAnimation.html#/s:7heresdk20MapPolylineAnimationC18InstantiationErrora">MapPolylineAnimation.InstantiationError</a></code> If the specified keyframe track cannot be used to create animation of a <code><a href="sdk-for-ios-explore-api-reference-..-classes-mappolyline">MapPolyline</a></code>.
+<code><a href="../Classes/MapPolylineAnimation.html#/s:7heresdk20MapPolylineAnimationC18InstantiationErrora">MapPolylineAnimation.InstantiationError</a></code> If the specified keyframe track cannot be used to create animation of a <code><a href="sdk-for-ios-explore-api-reference-classes-mappolyline">MapPolyline</a></code>.
 
 </div>
 </div>
@@ -91,7 +91,7 @@ For starting the animation, see <code><a href="../Classes/MapPolyline.html#/s:7h
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">track</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapitemkeyframetrack">MapItemKeyFrameTrack</a></span><span class="p">)</span> <span class="k">throws</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">track</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-classes-mapitemkeyframetrack">MapItemKeyFrameTrack</a></span><span class="p">)</span> <span class="k">throws</span></code></pre>
 </div>
 </div>
 <div>
@@ -129,15 +129,15 @@ For starting the animation, see <code><a href="../Classes/MapPolyline.html#/s:7h
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Describes a reason for failing to create a <code><a href="sdk-for-ios-explore-api-reference-..-classes-mappolylineanimation">MapPolylineAnimation</a></code>.</p>
-<a class="slightly-smaller" href="sdk-for-ios-explore-api-reference-..-classes-mappolylineanimation-instantiationerrorcode">See more</a>
+<p>Describes a reason for failing to create a <code><a href="sdk-for-ios-explore-api-reference-classes-mappolylineanimation">MapPolylineAnimation</a></code>.</p>
+<a class="slightly-smaller" href="sdk-for-ios-explore-api-reference-classes-mappolylineanimation-instantiationerrorcode">See more</a>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
 <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">InstantiationErrorCode</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
-<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mappolylineanimation">MapPolylineAnimation</a></span><span class="o">.</span><span class="kt">InstantiationErrorCode</span> <span class="p">:</span> <span class="kt">Error</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-classes-mappolylineanimation">MapPolylineAnimation</a></span><span class="o">.</span><span class="kt">InstantiationErrorCode</span> <span class="p">:</span> <span class="kt">Error</span></code></pre>
 </div>
 </div>
 </section>

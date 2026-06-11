@@ -15,14 +15,14 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapmarker-textstyle-placement"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-explore-api-reference-..-..-..-index">heresdk</a>
-<img alt="" id="carat" src="../../../img/carat.png"/>
-<a href="sdk-for-ios-explore-api-reference-..-..-..-maps">Maps</a>
-<img alt="" id="carat" src="../../../img/carat.png"/>
-<a href="sdk-for-ios-explore-api-reference-..-..-..-classes-mapmarker">MapMarker</a>
-<img alt="" id="carat" src="../../../img/carat.png"/>
-<a href="sdk-for-ios-explore-api-reference-..-..-..-classes-mapmarker-textstyle">TextStyle</a>
-<img alt="" id="carat" src="../../../img/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-maps">Maps</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-classes-mapmarker">MapMarker</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-classes-mapmarker-textstyle">TextStyle</a>
+<img alt="" id="carat" src="/carat.png"/>
         Placement Enumeration Reference
       </p>
 </div>
@@ -37,7 +37,7 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapmarker-textstyle-placement"
 <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">Placement</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
-<p>Represents text placement with respect to the icon of a <code><a href="sdk-for-ios-explore-api-reference-..-..-..-classes-mapmarker">MapMarker</a></code>.</p>
+<p>Represents text placement with respect to the icon of a <code><a href="sdk-for-ios-explore-api-reference-classes-mapmarker">MapMarker</a></code>.</p>
 </section>
 <section class="section task-group-section">
 <div class="task-group">

@@ -15,10 +15,10 @@ slug: "sdk-for-ios-explore-api-reference-classes-trafficflow"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-explore-api-reference-..-traffic">Traffic</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-traffic">Traffic</a>
+<img alt="" id="carat" src="/carat.png"/>
         TrafficFlow Class Reference
       </p>
 </div>
@@ -30,12 +30,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-trafficflow"
 <h1>TrafficFlow</h1>
 <div class="declaration">
 <div class="language">
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">TrafficFlow</span> <span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-protocols-trafficflowbase">TrafficFlowBase</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">TrafficFlow</span> <span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-protocols-trafficflowbase">TrafficFlowBase</a></span></code></pre>
 <pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">TrafficFlow</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
 <pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">TrafficFlow</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
-<p>This class provides details about traffic flow along a <code><a href="sdk-for-ios-explore-api-reference-..-structs-geocorridor">GeoCorridor</a></code>, inside a <code><a href="sdk-for-ios-explore-api-reference-..-structs-geocircle">GeoCircle</a></code> or a <code><a href="sdk-for-ios-explore-api-reference-..-structs-geobox">GeoBox</a></code>, that represents particular path of the road network.<br/>
+<p>This class provides details about traffic flow along a <code><a href="sdk-for-ios-explore-api-reference-structs-geocorridor">GeoCorridor</a></code>, inside a <code><a href="sdk-for-ios-explore-api-reference-structs-geocircle">GeoCircle</a></code> or a <code><a href="sdk-for-ios-explore-api-reference-structs-geobox">GeoBox</a></code>, that represents particular path of the road network.<br/>
 Backends for TrafficEngine and traffic vector tiles are different however backends may share the same data.<br/>
 For additional information about fields, refer to <a href="https://www.here.com/docs/bundle/traffic-api-v7-api-reference/page/index.html#tag/Real-Time-Traffic">Traffic API v7 API Reference: Traffic API v7</a>.</p>
 <p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
@@ -117,7 +117,7 @@ A value of 10.0 is reserved to represent a blocked roadway (closure).</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">location</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-trafficlocation">TrafficLocation</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">location</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-trafficlocation">TrafficLocation</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -264,7 +264,7 @@ A confidence value equal to 0.70 or lower means that the data is derived from hi
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">traversability</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-traversability">Traversability</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">traversability</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-enums-traversability">Traversability</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -289,7 +289,7 @@ A confidence value equal to 0.70 or lower means that the data is derived from hi
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">junctionsTraversability</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-junctionstraversability">JunctionsTraversability</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">junctionsTraversability</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-enums-junctionstraversability">JunctionsTraversability</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>

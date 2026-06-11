@@ -15,10 +15,10 @@ slug: "sdk-for-ios-explore-api-reference-classes-sdklogger"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-explore-api-reference-..-core">Core</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-core">Core</a>
+<img alt="" id="carat" src="/carat.png"/>
         SDKLogger Class Reference
       </p>
 </div>
@@ -36,7 +36,7 @@ slug: "sdk-for-ios-explore-api-reference-classes-sdklogger"
 </div>
 </div>
 <p>Logging interface for Android/iOS platforms.
-These logs are under management of <code><a href="sdk-for-ios-explore-api-reference-..-classes-logcontrol">LogControl</a></code> and should be used instead of platform-specific logging functions.</p>
+These logs are under management of <code><a href="sdk-for-ios-explore-api-reference-classes-logcontrol">LogControl</a></code> and should be used instead of platform-specific logging functions.</p>
 </section>
 <section class="section task-group-section">
 <div class="task-group">
@@ -59,7 +59,7 @@ These logs are under management of <code><a href="sdk-for-ios-explore-api-refere
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="kd">func</span> <span class="nf">log</span><span class="p">(</span><span class="nv">level</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-loglevel">LogLevel</a></span><span class="p">,</span> <span class="nv">tag</span><span class="p">:</span> <span class="kt">String</span><span class="p">,</span> <span class="nv">message</span><span class="p">:</span> <span class="kt">String</span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="kd">func</span> <span class="nf">log</span><span class="p">(</span><span class="nv">level</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-enums-loglevel">LogLevel</a></span><span class="p">,</span> <span class="nv">tag</span><span class="p">:</span> <span class="kt">String</span><span class="p">,</span> <span class="nv">message</span><span class="p">:</span> <span class="kt">String</span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>

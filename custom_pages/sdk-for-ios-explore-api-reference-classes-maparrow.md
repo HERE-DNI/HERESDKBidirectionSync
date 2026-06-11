@@ -15,10 +15,10 @@ slug: "sdk-for-ios-explore-api-reference-classes-maparrow"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-explore-api-reference-..-maps">Maps</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-maps">Maps</a>
+<img alt="" id="carat" src="/carat.png"/>
         MapArrow Class Reference
       </p>
 </div>
@@ -38,7 +38,7 @@ slug: "sdk-for-ios-explore-api-reference-classes-maparrow"
 <p>A visual representation of an arrow on the map. It consists of a tail - a polyline with an arbitrary
 number of points - and a head at its end.</p>
 <p>The map arrows are only visible on zoom levels &gt;= 13.</p>
-<p>Altitude component of <code><a href="sdk-for-ios-explore-api-reference-..-structs-geopolyline">GeoPolyline</a></code>‘s vertices is ignored.</p>
+<p>Altitude component of <code><a href="sdk-for-ios-explore-api-reference-structs-geopolyline">GeoPolyline</a></code>‘s vertices is ignored.</p>
 </section>
 <section class="section task-group-section">
 <div class="task-group">
@@ -57,13 +57,13 @@ number of points - and a head at its end.</p>
 <div class="pointer"></div>
 <div class="abstract">
 <p>Creates a new <code>MapArrow</code> instance.</p>
-<p>Altitude component of <code><a href="sdk-for-ios-explore-api-reference-..-structs-geopolyline">GeoPolyline</a></code>‘s vertices is ignored.</p>
+<p>Altitude component of <code><a href="sdk-for-ios-explore-api-reference-structs-geopolyline">GeoPolyline</a></code>‘s vertices is ignored.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">geometry</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geopolyline">GeoPolyline</a></span><span class="p">,</span> <span class="nv">widthInPixels</span><span class="p">:</span> <span class="kt">Double</span><span class="p">,</span> <span class="nv">color</span><span class="p">:</span> <span class="kt">UIColor</span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">geometry</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-geopolyline">GeoPolyline</a></span><span class="p">,</span> <span class="nv">widthInPixels</span><span class="p">:</span> <span class="kt">Double</span><span class="p">,</span> <span class="nv">color</span><span class="p">:</span> <span class="kt">UIColor</span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -127,13 +127,13 @@ interpreted as fully opaque.</p>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>The width of the arrow tail in pixels, where the key is a <code><a href="sdk-for-ios-explore-api-reference-..-structs-mapmeasure">MapMeasure</a></code> and the value is
-a tail width in pixels at this <code><a href="sdk-for-ios-explore-api-reference-..-structs-mapmeasure">MapMeasure</a></code>.
+<p>The width of the arrow tail in pixels, where the key is a <code><a href="sdk-for-ios-explore-api-reference-structs-mapmeasure">MapMeasure</a></code> and the value is
+a tail width in pixels at this <code><a href="sdk-for-ios-explore-api-reference-structs-mapmeasure">MapMeasure</a></code>.
 The width values are linearly interpolated between nearest dictionary entries.
-Width values for <code><a href="sdk-for-ios-explore-api-reference-..-structs-mapmeasure">MapMeasure</a></code> outside the dictionary entries are kept constant, using the
+Width values for <code><a href="sdk-for-ios-explore-api-reference-structs-mapmeasure">MapMeasure</a></code> outside the dictionary entries are kept constant, using the
 value of the largest/smallest key.</p>
-<p>Only <code><a href="sdk-for-ios-explore-api-reference-..-structs-mapmeasure">MapMeasure</a></code> of <code><a href="../Structs/MapMeasure/Kind.html#/s:7heresdk10MapMeasureV4KindO9zoomLevelyA2EmF">MapMeasure.Kind.zoomLevel</a></code> type is supported.
-Other <code><a href="sdk-for-ios-explore-api-reference-..-structs-mapmeasure">MapMeasure</a></code> types are unsupported and hence, will be ignored.</p>
+<p>Only <code><a href="sdk-for-ios-explore-api-reference-structs-mapmeasure">MapMeasure</a></code> of <code><a href="../Structs/MapMeasure/Kind.html#/s:7heresdk10MapMeasureV4KindO9zoomLevelyA2EmF">MapMeasure.Kind.zoomLevel</a></code> type is supported.
+Other <code><a href="sdk-for-ios-explore-api-reference-structs-mapmeasure">MapMeasure</a></code> types are unsupported and hence, will be ignored.</p>
 <p><code>measureDependentTailWidth</code> with a single entry is equivalent to the use of the <code>widthInPixels</code> value
 in the constructor, so a constant width setting, independent of camera.</p>
 <p>Empty <code>measureDependentTailWidth</code> is ignored and existing width is maintained.</p>
@@ -145,7 +145,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">measureDependentTailWidth</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-mapmeasure">MapMeasure</a></span> <span class="p">:</span> <span class="kt">Double</span><span class="p">]</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">measureDependentTailWidth</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-mapmeasure">MapMeasure</a></span> <span class="p">:</span> <span class="kt">Double</span><span class="p">]</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -168,14 +168,14 @@ behavior. Related APIs may change for new releases without a deprecation process
 A range is half-open - [minimumZoomLevel, maximumZoomLevel), the given maximum value
 is not contained in the range.</p>
 <p>When empty (the default), the map arrows are visible without map measure restrictions.
-Only <code><a href="sdk-for-ios-explore-api-reference-..-structs-mapmeasurerange">MapMeasureRange</a></code>(s) of <code><a href="../Structs/MapMeasure/Kind.html#/s:7heresdk10MapMeasureV4KindO9zoomLevelyA2EmF">MapMeasure.Kind.zoomLevel</a></code> type are supported.
-<code><a href="sdk-for-ios-explore-api-reference-..-structs-mapmeasurerange">MapMeasureRange</a></code>(s) of other unsupported types will be ignored.}</p>
+Only <code><a href="sdk-for-ios-explore-api-reference-structs-mapmeasurerange">MapMeasureRange</a></code>(s) of <code><a href="../Structs/MapMeasure/Kind.html#/s:7heresdk10MapMeasureV4KindO9zoomLevelyA2EmF">MapMeasure.Kind.zoomLevel</a></code> type are supported.
+<code><a href="sdk-for-ios-explore-api-reference-structs-mapmeasurerange">MapMeasureRange</a></code>(s) of other unsupported types will be ignored.}</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">visibilityRanges</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-mapmeasurerange">MapMeasureRange</a></span><span class="p">]</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">visibilityRanges</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-mapmeasurerange">MapMeasureRange</a></span><span class="p">]</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>

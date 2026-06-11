@@ -15,12 +15,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-polylinesimplifier-options"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-explore-api-reference-..-..-index">heresdk</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
-<a href="sdk-for-ios-explore-api-reference-..-..-core">Core</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
-<a href="sdk-for-ios-explore-api-reference-..-..-classes-polylinesimplifier">PolylineSimplifier</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-core">Core</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-classes-polylinesimplifier">PolylineSimplifier</a>
+<img alt="" id="carat" src="/carat.png"/>
         Options Structure Reference
       </p>
 </div>
@@ -154,7 +154,7 @@ is ignored.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">maxPoints</span><span class="p">:</span> <span class="kt">UInt64</span> <span class="o">=</span> <span class="mi">0</span><span class="p">,</span> <span class="nv">simplificationToleranceInMeters</span><span class="p">:</span> <span class="kt">UInt64</span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-classes-polylinesimplifier">PolylineSimplifier</a></span><span class="o">.</span><span class="kt">Options</span><span class="o">.</span><span class="n"><a href="../../Classes/PolylineSimplifier/Options.html#/s:7heresdk18PolylineSimplifierC7OptionsV33simplificationInMeters14ZoomLevels6UInt64VvpZ">simplificationInMeters14ZoomLevel</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">maxPoints</span><span class="p">:</span> <span class="kt">UInt64</span> <span class="o">=</span> <span class="mi">0</span><span class="p">,</span> <span class="nv">simplificationToleranceInMeters</span><span class="p">:</span> <span class="kt">UInt64</span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-classes-polylinesimplifier">PolylineSimplifier</a></span><span class="o">.</span><span class="kt">Options</span><span class="o">.</span><span class="n"><a href="../../Classes/PolylineSimplifier/Options.html#/s:7heresdk18PolylineSimplifierC7OptionsV33simplificationInMeters14ZoomLevels6UInt64VvpZ">simplificationInMeters14ZoomLevel</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>

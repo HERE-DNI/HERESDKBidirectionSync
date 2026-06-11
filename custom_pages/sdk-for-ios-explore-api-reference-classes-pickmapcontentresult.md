@@ -15,10 +15,10 @@ slug: "sdk-for-ios-explore-api-reference-classes-pickmapcontentresult"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-explore-api-reference-..-maps">Maps</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-maps">Maps</a>
+<img alt="" id="carat" src="/carat.png"/>
         PickMapContentResult Class Reference
       </p>
 </div>
@@ -59,7 +59,7 @@ slug: "sdk-for-ios-explore-api-reference-classes-pickmapcontentresult"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">pickedPlaces</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-pickedplace">PickedPlace</a></span><span class="p">]</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">pickedPlaces</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-pickedplace">PickedPlace</a></span><span class="p">]</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -84,7 +84,7 @@ slug: "sdk-for-ios-explore-api-reference-classes-pickmapcontentresult"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">trafficIncidents</span><span class="p">:</span> <span class="p">[</span><span class="kt">PickMapContentResult</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-pickmapcontentresult-trafficincidentresult">TrafficIncidentResult</a></span><span class="p">]</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">trafficIncidents</span><span class="p">:</span> <span class="p">[</span><span class="kt">PickMapContentResult</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-classes-pickmapcontentresult-trafficincidentresult">TrafficIncidentResult</a></span><span class="p">]</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -106,15 +106,15 @@ slug: "sdk-for-ios-explore-api-reference-classes-pickmapcontentresult"
 <p>Carries the result of picking a Carto traffic incident object.
 Description of incident is currently not present in our map data, so
 <code>description</code> always returns an empty string.</p>
-<a class="slightly-smaller" href="sdk-for-ios-explore-api-reference-..-classes-pickmapcontentresult-trafficincidentresult">See more</a>
+<a class="slightly-smaller" href="sdk-for-ios-explore-api-reference-classes-pickmapcontentresult-trafficincidentresult">See more</a>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">TrafficIncidentResult</span> <span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-protocols-trafficincidentbase">TrafficIncidentBase</a></span></code></pre>
-<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-pickmapcontentresult">PickMapContentResult</a></span><span class="o">.</span><span class="kt">TrafficIncidentResult</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
-<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-pickmapcontentresult">PickMapContentResult</a></span><span class="o">.</span><span class="kt">TrafficIncidentResult</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">TrafficIncidentResult</span> <span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-protocols-trafficincidentbase">TrafficIncidentBase</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-classes-pickmapcontentresult">PickMapContentResult</a></span><span class="o">.</span><span class="kt">TrafficIncidentResult</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-classes-pickmapcontentresult">PickMapContentResult</a></span><span class="o">.</span><span class="kt">TrafficIncidentResult</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>

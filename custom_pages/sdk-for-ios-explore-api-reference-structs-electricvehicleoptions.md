@@ -15,10 +15,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-electricvehicleoptions"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-explore-api-reference-..-routing">Routing</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-routing">Routing</a>
+<img alt="" id="carat" src="/carat.png"/>
         ElectricVehicleOptions Structure Reference
       </p>
 </div>
@@ -58,7 +58,7 @@ Requires valid <code>battery_specifications</code>.
 It also requires that
 <code><a href="../Structs/RouteOptions.html#/s:7heresdk12RouteOptionsV16optimizationModeAA012OptimizationE0Ovp">RouteOptions.optimizationMode</a></code> = <code><a href="../Enums/OptimizationMode.html#/s:7heresdk16OptimizationModeO7fastestyA2CmF">OptimizationMode.fastest</a></code>,
 <code><a href="../Structs/RouteOptions.html#/s:7heresdk12RouteOptionsV25speedCapInMetersPerSecondSdSgvp">RouteOptions.speedCapInMetersPerSecond</a></code> is not set, and
-<code><a href="sdk-for-ios-explore-api-reference-..-structs-avoidanceoptions">AvoidanceOptions</a></code> is empty. Otherwise, this object is considered invalid.
+<code><a href="sdk-for-ios-explore-api-reference-structs-avoidanceoptions">AvoidanceOptions</a></code> is empty. Otherwise, this object is considered invalid.
 Setting this flag enables calculation of a route optimized for electric vehicles.
 Charging stations may be added along the route to ensure that the vehicle does
 not run out of energy along the way.
@@ -107,7 +107,7 @@ By default, all providers are used.
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">evMobilityServiceProviderPreferences</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-evmobilityserviceproviderpreferences">EVMobilityServiceProviderPreferences</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">evMobilityServiceProviderPreferences</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-evmobilityserviceproviderpreferences">EVMobilityServiceProviderPreferences</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -135,7 +135,7 @@ Only one consumption model is supported per route.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">empiricalConsumptionModel</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-empiricalconsumptionmodel">EmpiricalConsumptionModel</a></span><span class="p">?</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">empiricalConsumptionModel</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-empiricalconsumptionmodel">EmpiricalConsumptionModel</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -163,7 +163,7 @@ Only one consumption model is supported per route.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">physicalConsumptionModel</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-physicalconsumptionmodel">PhysicalConsumptionModel</a></span><span class="p">?</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">physicalConsumptionModel</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-physicalconsumptionmodel">PhysicalConsumptionModel</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -189,7 +189,7 @@ By default, it is set to <code>nil</code>.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">batterySpecifications</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-batteryspecifications">BatterySpecifications</a></span><span class="p">?</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">batterySpecifications</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-batteryspecifications">BatterySpecifications</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -217,7 +217,7 @@ Requires valid <code>battery_specifications</code>.
 It also requires that
 <code><a href="../Structs/RouteOptions.html#/s:7heresdk12RouteOptionsV16optimizationModeAA012OptimizationE0Ovp">RouteOptions.optimizationMode</a></code> = <code><a href="../Enums/OptimizationMode.html#/s:7heresdk16OptimizationModeO7fastestyA2CmF">OptimizationMode.fastest</a></code>,
 <code><a href="../Structs/RouteOptions.html#/s:7heresdk12RouteOptionsV25speedCapInMetersPerSecondSdSgvp">RouteOptions.speedCapInMetersPerSecond</a></code> is not set, and
-<code><a href="sdk-for-ios-explore-api-reference-..-structs-avoidanceoptions">AvoidanceOptions</a></code> is empty. Otherwise, this object is considered invalid.
+<code><a href="sdk-for-ios-explore-api-reference-structs-avoidanceoptions">AvoidanceOptions</a></code> is empty. Otherwise, this object is considered invalid.
 Setting this flag enables calculation of a route optimized for electric vehicles.
 Charging stations may be added along the route to ensure that the vehicle does
 not run out of energy along the way.
@@ -256,7 +256,7 @@ By default, it is set to <code>nil</code>.</li>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">ensureReachability</span><span class="p">:</span> <span class="kt">Bool</span> <span class="o">=</span> <span class="kc">false</span><span class="p">,</span> <span class="nv">evMobilityServiceProviderPreferences</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-evmobilityserviceproviderpreferences">EVMobilityServiceProviderPreferences</a></span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-evmobilityserviceproviderpreferences">EVMobilityServiceProviderPreferences</a></span><span class="p">(),</span> <span class="nv">empiricalConsumptionModel</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-empiricalconsumptionmodel">EmpiricalConsumptionModel</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">physicalConsumptionModel</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-physicalconsumptionmodel">PhysicalConsumptionModel</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">batterySpecifications</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-batteryspecifications">BatterySpecifications</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">ensureReachability</span><span class="p">:</span> <span class="kt">Bool</span> <span class="o">=</span> <span class="kc">false</span><span class="p">,</span> <span class="nv">evMobilityServiceProviderPreferences</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-evmobilityserviceproviderpreferences">EVMobilityServiceProviderPreferences</a></span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-evmobilityserviceproviderpreferences">EVMobilityServiceProviderPreferences</a></span><span class="p">(),</span> <span class="nv">empiricalConsumptionModel</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-empiricalconsumptionmodel">EmpiricalConsumptionModel</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">physicalConsumptionModel</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-physicalconsumptionmodel">PhysicalConsumptionModel</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">batterySpecifications</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-batteryspecifications">BatterySpecifications</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>

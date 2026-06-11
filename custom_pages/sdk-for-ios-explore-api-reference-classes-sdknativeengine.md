@@ -15,10 +15,10 @@ slug: "sdk-for-ios-explore-api-reference-classes-sdknativeengine"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-explore-api-reference-..-core">Core</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-core">Core</a>
+<img alt="" id="carat" src="/carat.png"/>
         SDKNativeEngine Class Reference
       </p>
 </div>
@@ -69,7 +69,7 @@ slug: "sdk-for-ios-explore-api-reference-classes-sdknativeengine"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">options</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-sdkoptions">SDKOptions</a></span><span class="p">)</span> <span class="k">throws</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">options</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-sdkoptions">SDKOptions</a></span><span class="p">)</span> <span class="k">throws</span></code></pre>
 </div>
 </div>
 <div>
@@ -113,7 +113,7 @@ slug: "sdk-for-ios-explore-api-reference-classes-sdknativeengine"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">options</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-sdkoptions">SDKOptions</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">options</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-sdkoptions">SDKOptions</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -200,7 +200,7 @@ Sets pass through features which are allowed to use online data when HERE SDK is
 Pass through features can be updated at any time.
 When offline mode is disabled, existing pass through features will be removed.
 These needs to be set again when you enable offline mode next time.
-By default, reporting of HERE SDK <code><a href="sdk-for-ios-explore-api-reference-..-structs-usagestats">UsageStats</a></code> will be enabled when at least one pass-through feature is set.</p>
+By default, reporting of HERE SDK <code><a href="sdk-for-ios-explore-api-reference-structs-usagestats">UsageStats</a></code> will be enabled when at least one pass-through feature is set.</p>
 <p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
 Related APIs may change for new releases without a deprecation process.</p>
 </div>
@@ -208,7 +208,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">passThroughFeatures</span><span class="p">:</span> <span class="kt">Set</span><span class="o">&lt;</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-passthroughfeature">PassThroughFeature</a></span><span class="o">&gt;</span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">passThroughFeatures</span><span class="p">:</span> <span class="kt">Set</span><span class="o">&lt;</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-enums-passthroughfeature">PassThroughFeature</a></span><span class="o">&gt;</span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -235,7 +235,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="k">var</span> <span class="nv">parameterConfig</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-parameterconfiguration">ParameterConfiguration</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="k">var</span> <span class="nv">parameterConfig</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-parameterconfiguration">ParameterConfiguration</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -266,7 +266,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">proxySettings</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-proxysettings">ProxySettings</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">proxySettings</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-proxysettings">ProxySettings</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -286,7 +286,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <div class="pointer"></div>
 <div class="abstract">
 <p>Gets a list of usage statistics for all available HERE SDK features.
-<code><a href="sdk-for-ios-explore-api-reference-..-structs-usagestats">UsageStats</a></code> has cache and persistent storage. Reads from the persistent storage happen on <code>SDKNativeEngine</code> creation step.
+<code><a href="sdk-for-ios-explore-api-reference-structs-usagestats">UsageStats</a></code> has cache and persistent storage. Reads from the persistent storage happen on <code>SDKNativeEngine</code> creation step.
 Writes to persistent storage happen by reaching internal limit (amount of upload bytes, by default is 50KB).</p>
 <p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
 Related APIs may change for new releases without a deprecation process.</p>
@@ -295,7 +295,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">sdkUsageStats</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-usagestats">UsageStats</a></span><span class="p">]</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">sdkUsageStats</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-usagestats">UsageStats</a></span><span class="p">]</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -315,7 +315,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <div class="pointer"></div>
 <div class="abstract">
 <p>Enum representing a strategy to flush memory caches.</p>
-<a class="slightly-smaller" href="sdk-for-ios-explore-api-reference-..-classes-sdknativeengine-purgememorystrategy">See more</a>
+<a class="slightly-smaller" href="sdk-for-ios-explore-api-reference-classes-sdknativeengine-purgememorystrategy">See more</a>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
@@ -436,9 +436,9 @@ Setting an empty string will fetch a token for the global scope.</p>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Enable or disable <code><a href="sdk-for-ios-explore-api-reference-..-structs-usagestats">UsageStats</a></code> for the HERE SDK. Defaults to disabled (false). When enabled, <code>SDKNativeEngine.getSdkUsageStats()</code>
+<p>Enable or disable <code><a href="sdk-for-ios-explore-api-reference-structs-usagestats">UsageStats</a></code> for the HERE SDK. Defaults to disabled (false). When enabled, <code>SDKNativeEngine.getSdkUsageStats()</code>
 returns actual online data consumption. Note that the flag does not cancel pending requests.
-<code><a href="sdk-for-ios-explore-api-reference-..-structs-usagestats">UsageStats</a></code> can be enabled or disabled at any time.</p>
+<code><a href="sdk-for-ios-explore-api-reference-structs-usagestats">UsageStats</a></code> can be enabled or disabled at any time.</p>
 <p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
 Related APIs may change for new releases without a deprecation process.</p>
 </div>
@@ -498,7 +498,7 @@ before new instance is created.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="kd">func</span> <span class="nf">makeSharedInstance</span><span class="p">(</span><span class="nv">options</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-sdkoptions">SDKOptions</a></span><span class="p">)</span> <span class="k">throws</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="kd">func</span> <span class="nf">makeSharedInstance</span><span class="p">(</span><span class="nv">options</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-sdkoptions">SDKOptions</a></span><span class="p">)</span> <span class="k">throws</span></code></pre>
 </div>
 </div>
 <div>
@@ -536,7 +536,7 @@ before new instance is created.</p>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Clear persistent storage for the HERE SDK <code><a href="sdk-for-ios-explore-api-reference-..-structs-usagestats">UsageStats</a></code>.
+<p>Clear persistent storage for the HERE SDK <code><a href="sdk-for-ios-explore-api-reference-structs-usagestats">UsageStats</a></code>.
 Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
 Related APIs may change for new releases without a deprecation process.</p>
 </div>
@@ -563,7 +563,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Clear cache for the HERE SDK <code><a href="sdk-for-ios-explore-api-reference-..-structs-usagestats">UsageStats</a></code>.
+<p>Clear cache for the HERE SDK <code><a href="sdk-for-ios-explore-api-reference-structs-usagestats">UsageStats</a></code>.
 Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
 Related APIs may change for new releases without a deprecation process.</p>
 </div>
@@ -597,7 +597,7 @@ Purging caches reduces memory footprint of application and may temporary reduce 
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">purgeMemoryCaches</span><span class="p">(</span><span class="nv">strategy</span><span class="p">:</span> <span class="kt">SDKNativeEngine</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-sdknativeengine-purgememorystrategy">PurgeMemoryStrategy</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">purgeMemoryCaches</span><span class="p">(</span><span class="nv">strategy</span><span class="p">:</span> <span class="kt">SDKNativeEngine</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-classes-sdknativeengine-purgememorystrategy">PurgeMemoryStrategy</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>

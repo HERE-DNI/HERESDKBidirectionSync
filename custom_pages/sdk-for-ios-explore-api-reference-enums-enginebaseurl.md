@@ -15,10 +15,10 @@ slug: "sdk-for-ios-explore-api-reference-enums-enginebaseurl"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-explore-api-reference-..-core">Core</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-core">Core</a>
+<img alt="" id="carat" src="/carat.png"/>
         EngineBaseURL Enumeration Reference
       </p>
 </div>
@@ -51,7 +51,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-enginebaseurl"
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Indicates a <code><a href="sdk-for-ios-explore-api-reference-..-classes-searchengine">SearchEngine</a></code> endpoint.
+<p>Indicates a <code><a href="sdk-for-ios-explore-api-reference-classes-searchengine">SearchEngine</a></code> endpoint.
 Note that the provided string value will replace the base URL.
 The endpoint names for this engine are “v1/discover”, “v1/geocode”, “v1/revgeocode”,
 “v1/autosuggest”, “v1/lookup” and “v1/browse”. A valid base string value
@@ -82,7 +82,7 @@ query data. You need to ensure that the provided base URL supports all required 
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Indicates a <code><a href="sdk-for-ios-explore-api-reference-..-classes-routingengine">RoutingEngine</a></code> endpoint.
+<p>Indicates a <code><a href="sdk-for-ios-explore-api-reference-classes-routingengine">RoutingEngine</a></code> endpoint.
 Note that the provided string value will replace the base URL.
 The endpoint names for this engine are “v8/routes”, “v8/import”. A valid base string value
 could look like “<a href="http://www.my-company.com">www.my-company.com</a>”. An example of the resulting URL for the first
@@ -112,7 +112,7 @@ query data. You need to ensure that the provided base URL supports all required 
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Indicates base url for <code><a href="sdk-for-ios-explore-api-reference-..-classes-authentication">Authentication</a></code>.
+<p>Indicates base url for <code><a href="sdk-for-ios-explore-api-reference-classes-authentication">Authentication</a></code>.
 Note that the provided string value will replace the base URL.
 The endpoint name for this base url is “oauth2/token”. A valid base string value
 could look like “<a href="http://www.my-company.com">www.my-company.com</a>”. An example of the resulting URL for the
@@ -266,7 +266,7 @@ could look like:
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Indicates a <code><a href="sdk-for-ios-explore-api-reference-..-classes-isolineroutingengine">IsolineRoutingEngine</a></code> endpoint.
+<p>Indicates a <code><a href="sdk-for-ios-explore-api-reference-classes-isolineroutingengine">IsolineRoutingEngine</a></code> endpoint.
 Note that the provided string value will replace the base URL.
 The endpoint names for this engine are “v8/isolines”. A valid base string value
 could look like “<a href="http://www.my-company.com">www.my-company.com</a>”. An example of the resulting URL for the first

@@ -15,10 +15,10 @@ slug: "sdk-for-ios-explore-api-reference-protocols-mapcameradelegate"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-explore-api-reference-..-maps">Maps</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-maps">Maps</a>
+<img alt="" id="carat" src="/carat.png"/>
         MapCameraDelegate Protocol Reference
       </p>
 </div>
@@ -58,7 +58,7 @@ camera parameters change.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">onMapCameraUpdated</span><span class="p">(</span><span class="n">_</span> <span class="nv">cameraState</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapcamera">MapCamera</a></span><span class="o">.</span><span class="kt">State</span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">onMapCameraUpdated</span><span class="p">(</span><span class="n">_</span> <span class="nv">cameraState</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-classes-mapcamera">MapCamera</a></span><span class="o">.</span><span class="kt">State</span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>

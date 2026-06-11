@@ -15,10 +15,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-evchargingstation"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-explore-api-reference-..-routing">Routing</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-routing">Routing</a>
+<img alt="" id="carat" src="/carat.png"/>
         EVChargingStation Structure Reference
       </p>
 </div>
@@ -36,7 +36,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-evchargingstation"
 <p>Group of connectors for electric vehicles (EVs), defined by a common charging connector type and
 maximum power level.</p>
 <p>Use <code><a href="../Classes/PlaceCategory.html#/s:7heresdk13PlaceCategoryC36businessAndServicesEvChargingStationSSvpZ">PlaceCategory.businessAndServicesEvChargingStation</a></code> to find stations.
-In the <code><a href="sdk-for-ios-explore-api-reference-..-structs-details">Details</a></code> of a <code><a href="sdk-for-ios-explore-api-reference-..-classes-place">Place</a></code> result you can find the list of found pools containing stations,
+In the <code><a href="sdk-for-ios-explore-api-reference-structs-details">Details</a></code> of a <code><a href="sdk-for-ios-explore-api-reference-classes-place">Place</a></code> result you can find the list of found pools containing stations,
 if any.</p>
 <p>For offline EV rich attributes, enable <code><a href="../Structs/LayerConfiguration/Feature.html#/s:7heresdk18LayerConfigurationV7FeatureO2evyA2EmF">LayerConfiguration.Feature.ev</a></code>
 in <code><a href="../Structs/SDKOptions.html#/s:7heresdk10SDKOptionsV18layerConfigurationAA05LayerD0Vvp">SDKOptions.layerConfiguration</a></code>.</p>
@@ -58,7 +58,7 @@ in <code><a href="../Structs/SDKOptions.html#/s:7heresdk10SDKOptionsV18layerConf
 <div class="pointer"></div>
 <div class="abstract">
 <p>The EV charging station operator.
-This field is always <code>nil</code> for offline search using the <code>OfflineSearchEngine</code>. For online search using the <code><a href="sdk-for-ios-explore-api-reference-..-classes-searchengine">SearchEngine</a></code>, it can be null if data is unavailable.</p>
+This field is always <code>nil</code> for offline search using the <code>OfflineSearchEngine</code>. For online search using the <code><a href="sdk-for-ios-explore-api-reference-classes-searchengine">SearchEngine</a></code>, it can be null if data is unavailable.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
@@ -115,7 +115,7 @@ This field can be <code>nil</code> if data is unavailable.</p>
 <p>ID of the connector type.
 For more information on the current connector types, see
 <a href="https://www.here.com/docs/bundle/ev-charge-points-api-developer-guide/page/topics/resource-type-connector.html">https://www.here.com/docs/bundle/ev-charge-points-api-developer-guide/page/topics/resource-type-connector.html</a>
-This field is always <code>nil</code> for offline search using the <code>OfflineSearchEngine</code>. For online searches using the <code><a href="sdk-for-ios-explore-api-reference-..-classes-searchengine">SearchEngine</a></code>, it may be <code>nil</code> if the data is unavailable.</p>
+This field is always <code>nil</code> for offline search using the <code>OfflineSearchEngine</code>. For online searches using the <code><a href="sdk-for-ios-explore-api-reference-classes-searchengine">SearchEngine</a></code>, it may be <code>nil</code> if the data is unavailable.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
@@ -173,7 +173,7 @@ This field can be <code>nil</code> if data is unavailable.</p>
 <p>ID of the power feed type, as defined by the
 <a href="https://en.wikipedia.org/wiki/SAE_J1772#Charging">https://en.wikipedia.org/wiki/SAE_J1772#Charging</a> standard.
 No data in case of offline search.
-This field is always <code>nil</code> for offline search using the <code>OfflineSearchEngine</code>. For online searches using the <code><a href="sdk-for-ios-explore-api-reference-..-classes-searchengine">SearchEngine</a></code>, it may be <code>nil</code> if the data is unavailable.</p>
+This field is always <code>nil</code> for offline search using the <code>OfflineSearchEngine</code>. For online searches using the <code><a href="sdk-for-ios-explore-api-reference-classes-searchengine">SearchEngine</a></code>, it may be <code>nil</code> if the data is unavailable.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
@@ -251,7 +251,7 @@ This field can be <code>nil</code> if data is unavailable.</p>
 <div class="pointer"></div>
 <div class="abstract">
 <p>Number of available physical connectors at the charging station.
-This field is always <code>nil</code> for offline search using the <code>OfflineSearchEngine</code>. For online searches using the <code><a href="sdk-for-ios-explore-api-reference-..-classes-searchengine">SearchEngine</a></code>, it may be <code>nil</code> if the data is unavailable.</p>
+This field is always <code>nil</code> for offline search using the <code>OfflineSearchEngine</code>. For online searches using the <code><a href="sdk-for-ios-explore-api-reference-classes-searchengine">SearchEngine</a></code>, it may be <code>nil</code> if the data is unavailable.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
@@ -277,7 +277,7 @@ This field is always <code>nil</code> for offline search using the <code>Offline
 <div class="pointer"></div>
 <div class="abstract">
 <p>Number of occupied physical connectors at the charging station.
-This field is always <code>nil</code> for offline search using the <code>OfflineSearchEngine</code>. For online searches using the <code><a href="sdk-for-ios-explore-api-reference-..-classes-searchengine">SearchEngine</a></code>, it may be <code>nil</code> if the data is unavailable.</p>
+This field is always <code>nil</code> for offline search using the <code>OfflineSearchEngine</code>. For online searches using the <code><a href="sdk-for-ios-explore-api-reference-classes-searchengine">SearchEngine</a></code>, it may be <code>nil</code> if the data is unavailable.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
@@ -303,7 +303,7 @@ This field is always <code>nil</code> for offline search using the <code>Offline
 <div class="pointer"></div>
 <div class="abstract">
 <p>Number of physical connectors that are out of service at the charging station.
-This field is always <code>nil</code> for offline search using the <code>OfflineSearchEngine</code>. For online searches using the <code><a href="sdk-for-ios-explore-api-reference-..-classes-searchengine">SearchEngine</a></code>, it may be <code>nil</code> if the data is unavailable.</p>
+This field is always <code>nil</code> for offline search using the <code>OfflineSearchEngine</code>. For online searches using the <code><a href="sdk-for-ios-explore-api-reference-classes-searchengine">SearchEngine</a></code>, it may be <code>nil</code> if the data is unavailable.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
@@ -329,7 +329,7 @@ This field is always <code>nil</code> for offline search using the <code>Offline
 <div class="pointer"></div>
 <div class="abstract">
 <p>Number of physical connectors that are reserved at the charging station.
-This field is always <code>nil</code> for offline search using the <code>OfflineSearchEngine</code>. For online searches using the <code><a href="sdk-for-ios-explore-api-reference-..-classes-searchengine">SearchEngine</a></code>, it may be <code>nil</code> if the data is unavailable.</p>
+This field is always <code>nil</code> for offline search using the <code>OfflineSearchEngine</code>. For online searches using the <code><a href="sdk-for-ios-explore-api-reference-classes-searchengine">SearchEngine</a></code>, it may be <code>nil</code> if the data is unavailable.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
@@ -355,7 +355,7 @@ This field is always <code>nil</code> for offline search using the <code>Offline
 <div class="pointer"></div>
 <div class="abstract">
 <p>Last update of the <code>available_connector_count</code> and <code>occupied_connector_count</code> fields.
-This field is always <code>nil</code> for offline search using the <code>OfflineSearchEngine</code>. For online searches using the <code><a href="sdk-for-ios-explore-api-reference-..-classes-searchengine">SearchEngine</a></code>, it may be <code>nil</code> if the data is unavailable.</p>
+This field is always <code>nil</code> for offline search using the <code>OfflineSearchEngine</code>. For online searches using the <code><a href="sdk-for-ios-explore-api-reference-classes-searchengine">SearchEngine</a></code>, it may be <code>nil</code> if the data is unavailable.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>

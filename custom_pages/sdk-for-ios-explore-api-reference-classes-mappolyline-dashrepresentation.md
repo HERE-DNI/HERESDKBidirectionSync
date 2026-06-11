@@ -15,12 +15,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-mappolyline-dashrepresentation"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-explore-api-reference-..-..-index">heresdk</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
-<a href="sdk-for-ios-explore-api-reference-..-..-maps">Maps</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
-<a href="sdk-for-ios-explore-api-reference-..-..-classes-mappolyline">MapPolyline</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-maps">Maps</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-classes-mappolyline">MapPolyline</a>
+<img alt="" id="carat" src="/carat.png"/>
         DashRepresentation Class Reference
       </p>
 </div>
@@ -32,7 +32,7 @@ slug: "sdk-for-ios-explore-api-reference-classes-mappolyline-dashrepresentation"
 <h1>DashRepresentation</h1>
 <div class="declaration">
 <div class="language">
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">DashRepresentation</span> <span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-classes-mappolyline">MapPolyline</a></span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-classes-mappolyline-representation">Representation</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">DashRepresentation</span> <span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-classes-mappolyline">MapPolyline</a></span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-classes-mappolyline-representation">Representation</a></span></code></pre>
 </div>
 </div>
 <p>Represents a dash pattern for map polyline where the dash can be rendered as a colored
@@ -60,15 +60,15 @@ like <code>'  —  —  —  —'</code> (dash length = gap length) or <code>' �
 <p>At map measures smaller than the smallest map measure in the <code><a href="../../Classes/MapPolyline/DashRepresentation.html#/s:7heresdk11MapPolylineC18DashRepresentationC9lineWidthAA0B26MeasureDependentRenderSizeVvp">lineWidth</a></code>,
 <code><a href="../../Classes/MapPolyline/DashRepresentation.html#/s:7heresdk11MapPolylineC18DashRepresentationC10dashLengthAA0B26MeasureDependentRenderSizeVvp">dashLength</a></code> and <code><a href="../../Classes/MapPolyline/DashRepresentation.html#/s:7heresdk11MapPolylineC18DashRepresentationC9gapLengthAA0B26MeasureDependentRenderSizeVvp">gapLength</a></code>, the value used for rendering is constant
 and equal to the value given for the smallest map measure in the
-respective <code><a href="sdk-for-ios-explore-api-reference-..-..-structs-mapmeasuredependentrendersize">MapMeasureDependentRenderSize</a></code> object.</p>
+respective <code><a href="sdk-for-ios-explore-api-reference-structs-mapmeasuredependentrendersize">MapMeasureDependentRenderSize</a></code> object.</p>
 <p>At map measures bigger than the biggest map measure in the <code><a href="../../Classes/MapPolyline/DashRepresentation.html#/s:7heresdk11MapPolylineC18DashRepresentationC9lineWidthAA0B26MeasureDependentRenderSizeVvp">lineWidth</a></code>,
 <code><a href="../../Classes/MapPolyline/DashRepresentation.html#/s:7heresdk11MapPolylineC18DashRepresentationC10dashLengthAA0B26MeasureDependentRenderSizeVvp">dashLength</a></code> and <code><a href="../../Classes/MapPolyline/DashRepresentation.html#/s:7heresdk11MapPolylineC18DashRepresentationC9gapLengthAA0B26MeasureDependentRenderSizeVvp">gapLength</a></code>, the value used for rendering is constant
 and equal to the value given for the biggest map measure in the
-respective <code><a href="sdk-for-ios-explore-api-reference-..-..-structs-mapmeasuredependentrendersize">MapMeasureDependentRenderSize</a></code> object.</p>
+respective <code><a href="sdk-for-ios-explore-api-reference-structs-mapmeasuredependentrendersize">MapMeasureDependentRenderSize</a></code> object.</p>
 <p>At map measures between two nearest given map measures, the values are
 linearly interpolated between values given for these map measures.</p>
-<p>For <code><a href="sdk-for-ios-explore-api-reference-..-..-structs-mapmeasure-kind">MapMeasure.Kind</a></code> only <code><a href="../../Structs/MapMeasure/Kind.html#/s:7heresdk10MapMeasureV4KindO9zoomLevelyA2EmF">MapMeasure.Kind.zoomLevel</a></code> is supported.</p>
-<p>For <code><a href="sdk-for-ios-explore-api-reference-..-..-structs-rendersize-unit">RenderSize.Unit</a></code> only <code><a href="../../Structs/RenderSize/Unit.html#/s:7heresdk10RenderSizeV4UnitO6pixelsyA2EmF">RenderSize.Unit.pixels</a></code> is supported.</p>
+<p>For <code><a href="sdk-for-ios-explore-api-reference-structs-mapmeasure-kind">MapMeasure.Kind</a></code> only <code><a href="../../Structs/MapMeasure/Kind.html#/s:7heresdk10MapMeasureV4KindO9zoomLevelyA2EmF">MapMeasure.Kind.zoomLevel</a></code> is supported.</p>
+<p>For <code><a href="sdk-for-ios-explore-api-reference-structs-rendersize-unit">RenderSize.Unit</a></code> only <code><a href="../../Structs/RenderSize/Unit.html#/s:7heresdk10RenderSizeV4UnitO6pixelsyA2EmF">RenderSize.Unit.pixels</a></code> is supported.</p>
 <p>All sizes must not be 0 (<code><a href="../../Structs/MapMeasureDependentRenderSize.html#/s:7heresdk29MapMeasureDependentRenderSizeV5sizesSDyS2dGvp">MapMeasureDependentRenderSize.sizes</a></code> with all values set to 0.0).</p>
 <div class="aside aside-throws">
 <p class="aside-title">Throws</p>
@@ -80,7 +80,7 @@ linearly interpolated between values given for these map measures.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">lineWidth</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-structs-mapmeasuredependentrendersize">MapMeasureDependentRenderSize</a></span><span class="p">,</span> <span class="nv">dashLength</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-structs-mapmeasuredependentrendersize">MapMeasureDependentRenderSize</a></span><span class="p">,</span> <span class="nv">gapLength</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-structs-mapmeasuredependentrendersize">MapMeasureDependentRenderSize</a></span><span class="p">,</span> <span class="nv">dashColor</span><span class="p">:</span> <span class="kt">UIColor</span><span class="p">)</span> <span class="k">throws</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">lineWidth</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-mapmeasuredependentrendersize">MapMeasureDependentRenderSize</a></span><span class="p">,</span> <span class="nv">dashLength</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-mapmeasuredependentrendersize">MapMeasureDependentRenderSize</a></span><span class="p">,</span> <span class="nv">gapLength</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-mapmeasuredependentrendersize">MapMeasureDependentRenderSize</a></span><span class="p">,</span> <span class="nv">dashColor</span><span class="p">:</span> <span class="kt">UIColor</span><span class="p">)</span> <span class="k">throws</span></code></pre>
 </div>
 </div>
 <div>
@@ -158,15 +158,15 @@ linearly interpolated between values given for these map measures.</p>
 <p>At map measures smaller than the smallest map measure in the <code><a href="../../Classes/MapPolyline/DashRepresentation.html#/s:7heresdk11MapPolylineC18DashRepresentationC9lineWidthAA0B26MeasureDependentRenderSizeVvp">lineWidth</a></code>,
 <code><a href="../../Classes/MapPolyline/DashRepresentation.html#/s:7heresdk11MapPolylineC18DashRepresentationC10dashLengthAA0B26MeasureDependentRenderSizeVvp">dashLength</a></code> and <code><a href="../../Classes/MapPolyline/DashRepresentation.html#/s:7heresdk11MapPolylineC18DashRepresentationC9gapLengthAA0B26MeasureDependentRenderSizeVvp">gapLength</a></code>, the value used for rendering is constant
 and equal to the value given for the smallest map measure in the
-respective <code><a href="sdk-for-ios-explore-api-reference-..-..-structs-mapmeasuredependentrendersize">MapMeasureDependentRenderSize</a></code> object.</p>
+respective <code><a href="sdk-for-ios-explore-api-reference-structs-mapmeasuredependentrendersize">MapMeasureDependentRenderSize</a></code> object.</p>
 <p>At map measures bigger than the biggest map measure in the <code><a href="../../Classes/MapPolyline/DashRepresentation.html#/s:7heresdk11MapPolylineC18DashRepresentationC9lineWidthAA0B26MeasureDependentRenderSizeVvp">lineWidth</a></code>,
 <code><a href="../../Classes/MapPolyline/DashRepresentation.html#/s:7heresdk11MapPolylineC18DashRepresentationC10dashLengthAA0B26MeasureDependentRenderSizeVvp">dashLength</a></code> and <code><a href="../../Classes/MapPolyline/DashRepresentation.html#/s:7heresdk11MapPolylineC18DashRepresentationC9gapLengthAA0B26MeasureDependentRenderSizeVvp">gapLength</a></code>, the value used for rendering is constant
 and equal to the value given for the biggest map measure in the
-respective <code><a href="sdk-for-ios-explore-api-reference-..-..-structs-mapmeasuredependentrendersize">MapMeasureDependentRenderSize</a></code> object.</p>
+respective <code><a href="sdk-for-ios-explore-api-reference-structs-mapmeasuredependentrendersize">MapMeasureDependentRenderSize</a></code> object.</p>
 <p>At map measures between two nearest given map measures, the values are
 linearly interpolated between values given for these map measures.</p>
-<p>For <code><a href="sdk-for-ios-explore-api-reference-..-..-structs-mapmeasure-kind">MapMeasure.Kind</a></code> only <code><a href="../../Structs/MapMeasure/Kind.html#/s:7heresdk10MapMeasureV4KindO9zoomLevelyA2EmF">MapMeasure.Kind.zoomLevel</a></code> is supported.</p>
-<p>For <code><a href="sdk-for-ios-explore-api-reference-..-..-structs-rendersize-unit">RenderSize.Unit</a></code> only <code><a href="../../Structs/RenderSize/Unit.html#/s:7heresdk10RenderSizeV4UnitO6pixelsyA2EmF">RenderSize.Unit.pixels</a></code> is supported.</p>
+<p>For <code><a href="sdk-for-ios-explore-api-reference-structs-mapmeasure-kind">MapMeasure.Kind</a></code> only <code><a href="../../Structs/MapMeasure/Kind.html#/s:7heresdk10MapMeasureV4KindO9zoomLevelyA2EmF">MapMeasure.Kind.zoomLevel</a></code> is supported.</p>
+<p>For <code><a href="sdk-for-ios-explore-api-reference-structs-rendersize-unit">RenderSize.Unit</a></code> only <code><a href="../../Structs/RenderSize/Unit.html#/s:7heresdk10RenderSizeV4UnitO6pixelsyA2EmF">RenderSize.Unit.pixels</a></code> is supported.</p>
 <p>All sizes must not be 0 (<code><a href="../../Structs/MapMeasureDependentRenderSize.html#/s:7heresdk29MapMeasureDependentRenderSizeV5sizesSDyS2dGvp">MapMeasureDependentRenderSize.sizes</a></code> with all values set to 0.0).</p>
 <div class="aside aside-throws">
 <p class="aside-title">Throws</p>
@@ -178,7 +178,7 @@ linearly interpolated between values given for these map measures.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">lineWidth</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-structs-mapmeasuredependentrendersize">MapMeasureDependentRenderSize</a></span><span class="p">,</span> <span class="nv">dashLength</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-structs-mapmeasuredependentrendersize">MapMeasureDependentRenderSize</a></span><span class="p">,</span> <span class="nv">gapLength</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-structs-mapmeasuredependentrendersize">MapMeasureDependentRenderSize</a></span><span class="p">,</span> <span class="nv">dashColor</span><span class="p">:</span> <span class="kt">UIColor</span><span class="p">,</span> <span class="nv">gapColor</span><span class="p">:</span> <span class="kt">UIColor</span><span class="p">)</span> <span class="k">throws</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">lineWidth</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-mapmeasuredependentrendersize">MapMeasureDependentRenderSize</a></span><span class="p">,</span> <span class="nv">dashLength</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-mapmeasuredependentrendersize">MapMeasureDependentRenderSize</a></span><span class="p">,</span> <span class="nv">gapLength</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-mapmeasuredependentrendersize">MapMeasureDependentRenderSize</a></span><span class="p">,</span> <span class="nv">dashColor</span><span class="p">:</span> <span class="kt">UIColor</span><span class="p">,</span> <span class="nv">gapColor</span><span class="p">:</span> <span class="kt">UIColor</span><span class="p">)</span> <span class="k">throws</span></code></pre>
 </div>
 </div>
 <div>
@@ -278,7 +278,7 @@ linearly interpolated between values given for these map measures.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">lineWidth</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-structs-mapmeasuredependentrendersize">MapMeasureDependentRenderSize</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">lineWidth</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-mapmeasuredependentrendersize">MapMeasureDependentRenderSize</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -311,7 +311,7 @@ linearly interpolated between values given for these map measures.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">dashLength</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-structs-mapmeasuredependentrendersize">MapMeasureDependentRenderSize</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">dashLength</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-mapmeasuredependentrendersize">MapMeasureDependentRenderSize</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -344,7 +344,7 @@ linearly interpolated between values given for these map measures.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">gapLength</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-structs-mapmeasuredependentrendersize">MapMeasureDependentRenderSize</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">gapLength</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-mapmeasuredependentrendersize">MapMeasureDependentRenderSize</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>

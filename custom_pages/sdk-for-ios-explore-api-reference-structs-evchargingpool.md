@@ -15,10 +15,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-evchargingpool"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-explore-api-reference-..-routing">Routing</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-routing">Routing</a>
+<img alt="" id="carat" src="/carat.png"/>
         EVChargingPool Structure Reference
       </p>
 </div>
@@ -35,7 +35,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-evchargingpool"
 </div>
 <p>A charging pool for electric vehicles is an area equipped with one or more charging stations.</p>
 <p>Use <code><a href="../Classes/PlaceCategory.html#/s:7heresdk13PlaceCategoryC36businessAndServicesEvChargingStationSSvpZ">PlaceCategory.businessAndServicesEvChargingStation</a></code> to find stations.
-In the <code><a href="sdk-for-ios-explore-api-reference-..-structs-details">Details</a></code> of a <code><a href="sdk-for-ios-explore-api-reference-..-classes-place">Place</a></code> result you can find the list of found pools containing stations,
+In the <code><a href="sdk-for-ios-explore-api-reference-structs-details">Details</a></code> of a <code><a href="sdk-for-ios-explore-api-reference-classes-place">Place</a></code> result you can find the list of found pools containing stations,
 if any.</p>
 <p>For offline EV rich attributes, also enable <code><a href="../Structs/LayerConfiguration/Feature.html#/s:7heresdk18LayerConfigurationV7FeatureO2evyA2EmF">LayerConfiguration.Feature.ev</a></code>
 in <code><a href="../Structs/SDKOptions.html#/s:7heresdk10SDKOptionsV18layerConfigurationAA05LayerD0Vvp">SDKOptions.layerConfiguration</a></code>.</p>
@@ -62,7 +62,7 @@ in <code><a href="../Structs/SDKOptions.html#/s:7heresdk10SDKOptionsV18layerConf
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">chargingStations</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-evchargingstation">EVChargingStation</a></span><span class="p">]</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">chargingStations</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-evchargingstation">EVChargingStation</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -88,7 +88,7 @@ Only online search fills this field.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">eMobilityServiceProviders</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-emobilityserviceprovider">EMobilityServiceProvider</a></span><span class="p">]</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">eMobilityServiceProviders</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-emobilityserviceprovider">EMobilityServiceProvider</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -113,7 +113,7 @@ Only online search fills this field.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">access</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-evaccesstype">EVAccessType</a></span><span class="p">?</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">access</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-enums-evaccesstype">EVAccessType</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -139,7 +139,7 @@ Populated only for offline search and when access is <code><a href="../Enums/EVA
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">accessRestrictionReasons</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-evaccessrestrictionreason">EVAccessRestrictionReason</a></span><span class="p">]</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">accessRestrictionReasons</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-enums-evaccessrestrictionreason">EVAccessRestrictionReason</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -160,13 +160,13 @@ Populated only for offline search and when access is <code><a href="../Enums/EVA
 <div class="abstract">
 <p>EV charging station attributes details. It is available only for a place that has charging station
 for electric vehicles. Only offline search fills this field.</p>
-<p><strong>Note:</strong> Not available as part of <code><a href="sdk-for-ios-explore-api-reference-..-classes-suggestion">Suggestion</a></code> results.</p>
+<p><strong>Note:</strong> Not available as part of <code><a href="sdk-for-ios-explore-api-reference-classes-suggestion">Suggestion</a></code> results.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">details</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-evchargingpooldetails">EVChargingPoolDetails</a></span><span class="p">?</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">details</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-evchargingpooldetails">EVChargingPoolDetails</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -244,7 +244,7 @@ Only online search fills this field.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">evseInfo</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-evse">Evse</a></span><span class="p">]</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">evseInfo</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-evse">Evse</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -276,7 +276,7 @@ Populated only for offline search and when access is <code><a href="../Enums/EVA
 <li>details: EV charging station attributes details. It is available only for a place that has charging station
 for electric vehicles. Only offline search fills this field.</li>
 </ul>
-<p><strong>Note:</strong> Not available as part of <code><a href="sdk-for-ios-explore-api-reference-..-classes-suggestion">Suggestion</a></code> results.</p>
+<p><strong>Note:</strong> Not available as part of <code><a href="sdk-for-ios-explore-api-reference-classes-suggestion">Suggestion</a></code> results.</p>
 <ul>
 <li>id: HERE ID of the charging pool.
 Only online search fills this field.</li>
@@ -291,7 +291,7 @@ Only online search fills this field.</li>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">chargingStations</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-evchargingstation">EVChargingStation</a></span><span class="p">],</span> <span class="nv">eMobilityServiceProviders</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-emobilityserviceprovider">EMobilityServiceProvider</a></span><span class="p">],</span> <span class="nv">access</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-evaccesstype">EVAccessType</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">accessRestrictionReasons</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-evaccessrestrictionreason">EVAccessRestrictionReason</a></span><span class="p">],</span> <span class="nv">details</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-evchargingpooldetails">EVChargingPoolDetails</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">id</span><span class="p">:</span> <span class="kt">String</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">cpoId</span><span class="p">:</span> <span class="kt">String</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">evseInfo</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-evse">Evse</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[])</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">chargingStations</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-evchargingstation">EVChargingStation</a></span><span class="p">],</span> <span class="nv">eMobilityServiceProviders</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-emobilityserviceprovider">EMobilityServiceProvider</a></span><span class="p">],</span> <span class="nv">access</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-enums-evaccesstype">EVAccessType</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">accessRestrictionReasons</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-enums-evaccessrestrictionreason">EVAccessRestrictionReason</a></span><span class="p">],</span> <span class="nv">details</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-evchargingpooldetails">EVChargingPoolDetails</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">id</span><span class="p">:</span> <span class="kt">String</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">cpoId</span><span class="p">:</span> <span class="kt">String</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">evseInfo</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-evse">Evse</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[])</span></code></pre>
 </div>
 </div>
 </section>

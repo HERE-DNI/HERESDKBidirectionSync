@@ -15,10 +15,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-transportprofile"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-explore-api-reference-..-core">Core</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-core">Core</a>
+<img alt="" id="carat" src="/carat.png"/>
         TransportProfile Structure Reference
       </p>
 </div>
@@ -59,7 +59,7 @@ This is a BETA feature and thus there can be bugs and unexpected behavior.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">pedestrianProfile</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-pedestrianprofile">PedestrianProfile</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">pedestrianProfile</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-pedestrianprofile">PedestrianProfile</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -84,7 +84,7 @@ This is a BETA feature and thus there can be bugs and unexpected behavior.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">vehicleProfile</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-vehicleprofile">VehicleProfile</a></span><span class="p">?</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">vehicleProfile</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-vehicleprofile">VehicleProfile</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -109,7 +109,7 @@ This is a BETA feature and thus there can be bugs and unexpected behavior.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">pedestrianProfile</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-pedestrianprofile">PedestrianProfile</a></span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-pedestrianprofile">PedestrianProfile</a></span><span class="p">(),</span> <span class="nv">vehicleProfile</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-vehicleprofile">VehicleProfile</a></span><span class="p">?</span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-vehicleprofile">VehicleProfile</a></span><span class="p">(</span><span class="nv">vehicleType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-vehicletype">VehicleType</a></span><span class="o">.</span><span class="n">car</span><span class="p">))</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">pedestrianProfile</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-pedestrianprofile">PedestrianProfile</a></span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-pedestrianprofile">PedestrianProfile</a></span><span class="p">(),</span> <span class="nv">vehicleProfile</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-vehicleprofile">VehicleProfile</a></span><span class="p">?</span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-vehicleprofile">VehicleProfile</a></span><span class="p">(</span><span class="nv">vehicleType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-enums-vehicletype">VehicleType</a></span><span class="o">.</span><span class="n">car</span><span class="p">))</span></code></pre>
 </div>
 </div>
 </section>

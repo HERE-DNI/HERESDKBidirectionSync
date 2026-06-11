@@ -15,10 +15,10 @@ slug: "sdk-for-ios-explore-api-reference-classes-tilegeoboundscalculator"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-explore-api-reference-..-maps">Maps</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-maps">Maps</a>
+<img alt="" id="carat" src="/carat.png"/>
         TileGeoBoundsCalculator Class Reference
       </p>
 </div>
@@ -36,7 +36,7 @@ slug: "sdk-for-ios-explore-api-reference-classes-tilegeoboundscalculator"
 </div>
 </div>
 <p>A calculator of geodetic bounds for tiles identified by keys generated
-in a particular tiling scheme (<code><a href="sdk-for-ios-explore-api-reference-..-enums-tilingscheme">TilingScheme</a></code>).</p>
+in a particular tiling scheme (<code><a href="sdk-for-ios-explore-api-reference-enums-tilingscheme">TilingScheme</a></code>).</p>
 <p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
 behavior. Related APIs may change for new releases without a deprecation process.</p>
 </section>
@@ -62,7 +62,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">_</span> <span class="nv">tilingScheme</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-tilingscheme">TilingScheme</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">_</span> <span class="nv">tilingScheme</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-enums-tilingscheme">TilingScheme</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -100,13 +100,13 @@ behavior. Related APIs may change for new releases without a deprecation process
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Computes the geodetic bounds (as <code><a href="sdk-for-ios-explore-api-reference-..-structs-geobox">GeoBox</a></code>) for a tile identified by <code><a href="sdk-for-ios-explore-api-reference-..-structs-tilekey">TileKey</a></code>.</p>
+<p>Computes the geodetic bounds (as <code><a href="sdk-for-ios-explore-api-reference-structs-geobox">GeoBox</a></code>) for a tile identified by <code><a href="sdk-for-ios-explore-api-reference-structs-tilekey">TileKey</a></code>.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">boundsOf</span><span class="p">(</span><span class="n">_</span> <span class="nv">tileKey</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-tilekey">TileKey</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geobox">GeoBox</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">boundsOf</span><span class="p">(</span><span class="n">_</span> <span class="nv">tileKey</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-tilekey">TileKey</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-geobox">GeoBox</a></span></code></pre>
 </div>
 </div>
 <div>
@@ -121,7 +121,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 </td>
 <td>
 <div>
-<p><code><a href="sdk-for-ios-explore-api-reference-..-structs-tilekey">TileKey</a></code> to compute geodetic bounds for.
+<p><code><a href="sdk-for-ios-explore-api-reference-structs-tilekey">TileKey</a></code> to compute geodetic bounds for.
 The geodetic bounds would be calculated relative to the tiling scheme
 provided at this <code>TileGeoBoundsCalculator</code> instance creation.</p>
 </div>
@@ -132,7 +132,7 @@ provided at this <code>TileGeoBoundsCalculator</code> instance creation.</p>
 </div>
 <div>
 <h4>Return Value</h4>
-<p>The geodetic bounds of tile identified by given <code><a href="sdk-for-ios-explore-api-reference-..-structs-tilekey">TileKey</a></code>.</p>
+<p>The geodetic bounds of tile identified by given <code><a href="sdk-for-ios-explore-api-reference-structs-tilekey">TileKey</a></code>.</p>
 </div>
 </section>
 </div>

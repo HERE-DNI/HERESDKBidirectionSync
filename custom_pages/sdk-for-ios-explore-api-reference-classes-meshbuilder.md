@@ -15,10 +15,10 @@ slug: "sdk-for-ios-explore-api-reference-classes-meshbuilder"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-explore-api-reference-..-maps">Maps</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-maps">Maps</a>
+<img alt="" id="carat" src="/carat.png"/>
         MeshBuilder Class Reference
       </p>
 </div>
@@ -37,9 +37,9 @@ slug: "sdk-for-ios-explore-api-reference-classes-meshbuilder"
 </div>
 <p>Builder for meshes. Such meshes can contain different kinds of primitives, like quads or
 triangles. Both primitives support adding texture coordinates that are mapped to the
-corners of the primitives. See <code><a href="sdk-for-ios-explore-api-reference-..-classes-trianglemeshbuilder">TriangleMeshBuilder</a></code> and <code><a href="sdk-for-ios-explore-api-reference-..-classes-quadmeshbuilder">QuadMeshBuilder</a></code> for more details.</p>
+corners of the primitives. See <code><a href="sdk-for-ios-explore-api-reference-classes-trianglemeshbuilder">TriangleMeshBuilder</a></code> and <code><a href="sdk-for-ios-explore-api-reference-classes-quadmeshbuilder">QuadMeshBuilder</a></code> for more details.</p>
 <p>Note: Normals cannot be set as they are not necessary when using the <code>MeshBuilder</code>.</p>
-<p><strong>Example how to build a cube using <code><a href="sdk-for-ios-explore-api-reference-..-classes-quadmeshbuilder">QuadMeshBuilder</a></code></strong></p>
+<p><strong>Example how to build a cube using <code><a href="sdk-for-ios-explore-api-reference-classes-quadmeshbuilder">QuadMeshBuilder</a></code></strong></p>
 <pre class="highlight swift"><code><span class="k">let</span> <span class="nv">cube</span> <span class="o">=</span> <span class="kt">MeshBuilder</span><span class="p">()</span>
     <span class="o">.</span><span class="nf">quad</span><span class="p">(</span><span class="nv">a</span><span class="p">:</span> <span class="kt">Point3D</span><span class="p">(</span><span class="nv">x</span><span class="p">:</span> <span class="mf">0.5</span><span class="p">,</span> <span class="nv">y</span><span class="p">:</span> <span class="mf">0.5</span><span class="p">,</span> <span class="nv">z</span><span class="p">:</span> <span class="mf">0.5</span><span class="p">),</span>
           <span class="nv">b</span><span class="p">:</span> <span class="kt">Point3D</span><span class="p">(</span><span class="nv">x</span><span class="p">:</span> <span class="o">-</span><span class="mf">0.5</span><span class="p">,</span> <span class="nv">y</span><span class="p">:</span> <span class="mf">0.5</span><span class="p">,</span> <span class="nv">z</span><span class="p">:</span> <span class="mf">0.5</span><span class="p">),</span>
@@ -117,7 +117,7 @@ triangles are expected to have counter-clockwise winding.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">triangle</span><span class="p">(</span><span class="nv">a</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-point3d">Point3D</a></span><span class="p">,</span> <span class="nv">b</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-point3d">Point3D</a></span><span class="p">,</span> <span class="nv">c</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-point3d">Point3D</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-trianglemeshbuilder">TriangleMeshBuilder</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">triangle</span><span class="p">(</span><span class="nv">a</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-point3d">Point3D</a></span><span class="p">,</span> <span class="nv">b</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-point3d">Point3D</a></span><span class="p">,</span> <span class="nv">c</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-point3d">Point3D</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-classes-trianglemeshbuilder">TriangleMeshBuilder</a></span></code></pre>
 </div>
 </div>
 <div>
@@ -165,7 +165,7 @@ triangles are expected to have counter-clockwise winding.</p>
 </div>
 <div>
 <h4>Return Value</h4>
-<p>A <code><a href="sdk-for-ios-explore-api-reference-..-classes-trianglemeshbuilder">TriangleMeshBuilder</a></code> instance.</p>
+<p>A <code><a href="sdk-for-ios-explore-api-reference-classes-trianglemeshbuilder">TriangleMeshBuilder</a></code> instance.</p>
 </div>
 </section>
 </div>
@@ -191,7 +191,7 @@ counter-clockwise winding.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">quad</span><span class="p">(</span><span class="nv">a</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-point3d">Point3D</a></span><span class="p">,</span> <span class="nv">b</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-point3d">Point3D</a></span><span class="p">,</span> <span class="nv">c</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-point3d">Point3D</a></span><span class="p">,</span> <span class="nv">d</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-point3d">Point3D</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-quadmeshbuilder">QuadMeshBuilder</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">quad</span><span class="p">(</span><span class="nv">a</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-point3d">Point3D</a></span><span class="p">,</span> <span class="nv">b</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-point3d">Point3D</a></span><span class="p">,</span> <span class="nv">c</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-point3d">Point3D</a></span><span class="p">,</span> <span class="nv">d</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-point3d">Point3D</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-classes-quadmeshbuilder">QuadMeshBuilder</a></span></code></pre>
 </div>
 </div>
 <div>
@@ -251,7 +251,7 @@ counter-clockwise winding.</p>
 </div>
 <div>
 <h4>Return Value</h4>
-<p>A <code><a href="sdk-for-ios-explore-api-reference-..-classes-quadmeshbuilder">QuadMeshBuilder</a></code> instance.</p>
+<p>A <code><a href="sdk-for-ios-explore-api-reference-classes-quadmeshbuilder">QuadMeshBuilder</a></code> instance.</p>
 </div>
 </section>
 </div>

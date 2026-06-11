@@ -15,10 +15,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-rendersize"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-explore-api-reference-..-maps">Maps</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-maps">Maps</a>
+<img alt="" id="carat" src="/carat.png"/>
         RenderSize Structure Reference
       </p>
 </div>
@@ -52,7 +52,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-rendersize"
 <div class="pointer"></div>
 <div class="abstract">
 <p>Defines different units in which the size is described.</p>
-<a class="slightly-smaller" href="sdk-for-ios-explore-api-reference-..-structs-rendersize-unit">See more</a>
+<a class="slightly-smaller" href="sdk-for-ios-explore-api-reference-structs-rendersize-unit">See more</a>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>

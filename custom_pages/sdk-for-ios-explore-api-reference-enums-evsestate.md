@@ -15,10 +15,10 @@ slug: "sdk-for-ios-explore-api-reference-enums-evsestate"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-explore-api-reference-..-ev">EV</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-ev">EV</a>
+<img alt="" id="carat" src="/carat.png"/>
         EVSEState Enumeration Reference
       </p>
 </div>

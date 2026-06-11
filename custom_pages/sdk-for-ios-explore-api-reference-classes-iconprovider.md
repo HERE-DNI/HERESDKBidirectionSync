@@ -15,10 +15,10 @@ slug: "sdk-for-ios-explore-api-reference-classes-iconprovider"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-explore-api-reference-..-maps">Maps</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-maps">Maps</a>
+<img alt="" id="carat" src="/carat.png"/>
         IconProvider Class Reference
       </p>
 </div>
@@ -65,7 +65,7 @@ Related APIs may change for new releases without a deprecation process.
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">_</span> <span class="nv">mapContext</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapcontext">MapContext</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">_</span> <span class="nv">mapContext</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-classes-mapcontext">MapContext</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -116,9 +116,9 @@ Related APIs may change for new releases without a deprecation process.
 <div class="language">
 <p class="aside-title">Swift</p>
 <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">createRoadShieldIcon</span><span class="p">(</span>
-    <span class="nv">properties</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-roadshieldiconproperties">RoadShieldIconProperties</a></span><span class="p">,</span>
-    <span class="nv">mapScheme</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-mapscheme">MapScheme</a></span><span class="p">,</span>
-    <span class="nv">assetType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-iconproviderassettype">IconProviderAssetType</a></span><span class="p">,</span>
+    <span class="nv">properties</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-roadshieldiconproperties">RoadShieldIconProperties</a></span><span class="p">,</span>
+    <span class="nv">mapScheme</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-enums-mapscheme">MapScheme</a></span><span class="p">,</span>
+    <span class="nv">assetType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-enums-iconproviderassettype">IconProviderAssetType</a></span><span class="p">,</span>
     <span class="nv">widthConstraintInPixels</span><span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span>
     <span class="nv">heightConstraintInPixels</span><span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span>
     <span class="nv">callback</span><span class="p">:</span> <span class="kd">@escaping</span> <span class="kt"><a href="../Maps.html#/s:7heresdk20IconProviderCallbacka">IconProviderCallback</a></span><span class="p">)</span></code></pre>

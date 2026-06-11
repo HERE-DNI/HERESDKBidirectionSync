@@ -15,10 +15,10 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapmarker"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-explore-api-reference-..-maps">Maps</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-maps">Maps</a>
+<img alt="" id="carat" src="/carat.png"/>
         MapMarker Class Reference
       </p>
 </div>
@@ -38,7 +38,7 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapmarker"
 <p><code>MapMarker</code> is used to draw images on the map, for example to mark a specific location.
 By default, the marker is centered on the given geographic coordinates.
 Markers keep their size regardless of the current zoom level of the map view.</p>
-<p>The image to be displayed is represented by <code><a href="sdk-for-ios-explore-api-reference-..-classes-mapimage">MapImage</a></code> object. For performance reasons,
+<p>The image to be displayed is represented by <code><a href="sdk-for-ios-explore-api-reference-classes-mapimage">MapImage</a></code> object. For performance reasons,
 it is highly recommended to reuse a single instance of the image when creating multiple
 identical markers.</p>
 <p>To display the map marker, it needs to be added to the scene using <code><a href="../Classes/MapScene.html#/s:7heresdk8MapSceneC03addB6MarkeryyAA0bE0CF">MapScene.addMapMarker(...)</a></code>.
@@ -80,7 +80,7 @@ to the user in the current camera viewport and thus need to be added to the map.
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">at</span> <span class="nv">coordinates</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geocoordinates">GeoCoordinates</a></span><span class="p">,</span> <span class="nv">image</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapimage">MapImage</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">at</span> <span class="nv">coordinates</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-geocoordinates">GeoCoordinates</a></span><span class="p">,</span> <span class="nv">image</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-classes-mapimage">MapImage</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -137,7 +137,7 @@ to the user in the current camera viewport and thus need to be added to the map.
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">at</span> <span class="nv">coordinates</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geocoordinates">GeoCoordinates</a></span><span class="p">,</span> <span class="nv">image</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapimage">MapImage</a></span><span class="p">,</span> <span class="nv">text</span><span class="p">:</span> <span class="kt">String</span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">at</span> <span class="nv">coordinates</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-geocoordinates">GeoCoordinates</a></span><span class="p">,</span> <span class="nv">image</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-classes-mapimage">MapImage</a></span><span class="p">,</span> <span class="nv">text</span><span class="p">:</span> <span class="kt">String</span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -213,7 +213,7 @@ in pixels that is equal to the height of the image.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">at</span> <span class="nv">coordinates</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geocoordinates">GeoCoordinates</a></span><span class="p">,</span> <span class="nv">image</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapimage">MapImage</a></span><span class="p">,</span> <span class="nv">anchor</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-anchor2d">Anchor2D</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">at</span> <span class="nv">coordinates</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-geocoordinates">GeoCoordinates</a></span><span class="p">,</span> <span class="nv">image</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-classes-mapimage">MapImage</a></span><span class="p">,</span> <span class="nv">anchor</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-anchor2d">Anchor2D</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -283,7 +283,7 @@ The altitude component of the coordinates is ignored.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">coordinates</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geocoordinates">GeoCoordinates</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">coordinates</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-geocoordinates">GeoCoordinates</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -302,14 +302,14 @@ The altitude component of the coordinates is ignored.</p>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>The Metadata instance attached to this marker, see <code><a href="sdk-for-ios-explore-api-reference-..-classes-metadata">Metadata</a></code>.
+<p>The Metadata instance attached to this marker, see <code><a href="sdk-for-ios-explore-api-reference-classes-metadata">Metadata</a></code>.
 This will be <code>nil</code> if nothing has been attached before.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">metadata</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-metadata">Metadata</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">metadata</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-classes-metadata">Metadata</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -423,7 +423,7 @@ then the order in which they were added to the scene matters. Last added marker 
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">image</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapimage">MapImage</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">image</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-classes-mapimage">MapImage</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -455,7 +455,7 @@ in pixels that is equal to the height of the image.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">anchor</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-anchor2d">Anchor2D</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">anchor</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-anchor2d">Anchor2D</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -558,13 +558,13 @@ the marker immediately after may result in the new value being ignored for this 
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>The <code><a href="sdk-for-ios-explore-api-reference-..-classes-mapmarker-textstyle">TextStyle</a></code> applied to the text of the <code>MapMarker</code>.</p>
+<p>The <code><a href="sdk-for-ios-explore-api-reference-classes-mapmarker-textstyle">TextStyle</a></code> applied to the text of the <code>MapMarker</code>.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">textStyle</span><span class="p">:</span> <span class="kt">MapMarker</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapmarker-textstyle">TextStyle</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">textStyle</span><span class="p">:</span> <span class="kt">MapMarker</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-classes-mapmarker-textstyle">TextStyle</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -587,14 +587,14 @@ the marker immediately after may result in the new value being ignored for this 
 A range is half open - [minimumZoomLevel, maximumZoomLevel), the given maximum value
 is not contained in the range.</p>
 <p>When empty (the default), the map marker is visible without map measure restrictions.
-Only <code><a href="sdk-for-ios-explore-api-reference-..-structs-mapmeasurerange">MapMeasureRange</a></code>(s) of <code><a href="../Structs/MapMeasure/Kind.html#/s:7heresdk10MapMeasureV4KindO9zoomLevelyA2EmF">MapMeasure.Kind.zoomLevel</a></code> type are supported.
-<code><a href="sdk-for-ios-explore-api-reference-..-structs-mapmeasurerange">MapMeasureRange</a></code>(s) of other unsupported types will be ignored.</p>
+Only <code><a href="sdk-for-ios-explore-api-reference-structs-mapmeasurerange">MapMeasureRange</a></code>(s) of <code><a href="../Structs/MapMeasure/Kind.html#/s:7heresdk10MapMeasureV4KindO9zoomLevelyA2EmF">MapMeasure.Kind.zoomLevel</a></code> type are supported.
+<code><a href="sdk-for-ios-explore-api-reference-structs-mapmeasurerange">MapMeasureRange</a></code>(s) of other unsupported types will be ignored.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">visibilityRanges</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-mapmeasurerange">MapMeasureRange</a></span><span class="p">]</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">visibilityRanges</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-mapmeasurerange">MapMeasureRange</a></span><span class="p">]</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -613,16 +613,16 @@ Only <code><a href="sdk-for-ios-explore-api-reference-..-structs-mapmeasurerange
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Styling options for the text of a <code><a href="sdk-for-ios-explore-api-reference-..-classes-mapmarker">MapMarker</a></code>.</p>
-<a class="slightly-smaller" href="sdk-for-ios-explore-api-reference-..-classes-mapmarker-textstyle">See more</a>
+<p>Styling options for the text of a <code><a href="sdk-for-ios-explore-api-reference-classes-mapmarker">MapMarker</a></code>.</p>
+<a class="slightly-smaller" href="sdk-for-ios-explore-api-reference-classes-mapmarker-textstyle">See more</a>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
 <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">TextStyle</span></code></pre>
-<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapmarker">MapMarker</a></span><span class="o">.</span><span class="kt">TextStyle</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
-<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapmarker">MapMarker</a></span><span class="o">.</span><span class="kt">TextStyle</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-classes-mapmarker">MapMarker</a></span><span class="o">.</span><span class="kt">TextStyle</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-classes-mapmarker">MapMarker</a></span><span class="o">.</span><span class="kt">TextStyle</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -641,8 +641,8 @@ Only <code><a href="sdk-for-ios-explore-api-reference-..-structs-mapmeasurerange
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Starts animation of this map marker according to provided <code><a href="sdk-for-ios-explore-api-reference-..-classes-mapmarkeranimation">MapMarkerAnimation</a></code>.</p>
-<p>The <code><a href="sdk-for-ios-explore-api-reference-..-classes-mapmarkeranimation">MapMarkerAnimation</a></code> may be shared between multiple instances of <code>MapMarker</code>.</p>
+<p>Starts animation of this map marker according to provided <code><a href="sdk-for-ios-explore-api-reference-classes-mapmarkeranimation">MapMarkerAnimation</a></code>.</p>
+<p>The <code><a href="sdk-for-ios-explore-api-reference-classes-mapmarkeranimation">MapMarkerAnimation</a></code> may be shared between multiple instances of <code>MapMarker</code>.</p>
 <p>Starting animation on one map marker does not influence any ongoing animations on other map markers.
 Any ongoing animation of this marker instance will get cancelled.</p>
 </div>
@@ -650,7 +650,7 @@ Any ongoing animation of this marker instance will get cancelled.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">startAnimation</span><span class="p">(</span><span class="n">_</span> <span class="nv">animation</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapmarkeranimation">MapMarkerAnimation</a></span><span class="p">,</span> <span class="nv">animationDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-protocols-animationdelegate">AnimationDelegate</a></span><span class="p">?)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">startAnimation</span><span class="p">(</span><span class="n">_</span> <span class="nv">animation</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-classes-mapmarkeranimation">MapMarkerAnimation</a></span><span class="p">,</span> <span class="nv">animationDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-protocols-animationdelegate">AnimationDelegate</a></span><span class="p">?)</span></code></pre>
 </div>
 </div>
 <div>
@@ -702,13 +702,13 @@ Any ongoing animation of this marker instance will get cancelled.</p>
 <div class="abstract">
 <p>Cancels single ongoing animation.</p>
 <p>Does nothing if animation was not started for this map marker.</p>
-<p>Does not cancel other animations if the same <code><a href="sdk-for-ios-explore-api-reference-..-classes-mapmarkeranimation">MapMarkerAnimation</a></code> object was applied to multiple <code>MapMarker</code>s.</p>
+<p>Does not cancel other animations if the same <code><a href="sdk-for-ios-explore-api-reference-classes-mapmarkeranimation">MapMarkerAnimation</a></code> object was applied to multiple <code>MapMarker</code>s.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">cancelAnimation</span><span class="p">(</span><span class="n">_</span> <span class="nv">animation</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapmarkeranimation">MapMarkerAnimation</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">cancelAnimation</span><span class="p">(</span><span class="n">_</span> <span class="nv">animation</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-classes-mapmarkeranimation">MapMarkerAnimation</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>

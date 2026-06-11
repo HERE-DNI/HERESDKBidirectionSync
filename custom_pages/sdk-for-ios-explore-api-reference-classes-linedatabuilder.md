@@ -15,10 +15,10 @@ slug: "sdk-for-ios-explore-api-reference-classes-linedatabuilder"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-explore-api-reference-..-maploader">MapLoader</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-maploader">MapLoader</a>
+<img alt="" id="carat" src="/carat.png"/>
         LineDataBuilder Class Reference
       </p>
 </div>
@@ -86,7 +86,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">withGeometry</span><span class="p">(</span><span class="n">_</span> <span class="nv">geometry</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geopolyline">GeoPolyline</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">LineDataBuilder</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">withGeometry</span><span class="p">(</span><span class="n">_</span> <span class="nv">geometry</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-geopolyline">GeoPolyline</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">LineDataBuilder</span></code></pre>
 </div>
 </div>
 <div>
@@ -138,7 +138,7 @@ Altitude of polyline vertices is ignored.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">withAttributes</span><span class="p">(</span><span class="n">_</span> <span class="nv">attributes</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-dataattributes">DataAttributes</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">LineDataBuilder</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">withAttributes</span><span class="p">(</span><span class="n">_</span> <span class="nv">attributes</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-classes-dataattributes">DataAttributes</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">LineDataBuilder</span></code></pre>
 </div>
 </div>
 <div>

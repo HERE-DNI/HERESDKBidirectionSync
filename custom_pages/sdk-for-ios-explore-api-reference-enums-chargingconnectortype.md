@@ -15,10 +15,10 @@ slug: "sdk-for-ios-explore-api-reference-enums-chargingconnectortype"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-explore-api-reference-..-routing">Routing</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-routing">Routing</a>
+<img alt="" id="carat" src="/carat.png"/>
         ChargingConnectorType Enumeration Reference
       </p>
 </div>
@@ -226,7 +226,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-chargingconnectortype"
 <div class="pointer"></div>
 <div class="abstract">
 <p>A type that can be used as a key for encoding and decoding.</p>
-<a class="slightly-smaller" href="sdk-for-ios-explore-api-reference-..-enums-chargingconnectortype-key">See more</a>
+<a class="slightly-smaller" href="sdk-for-ios-explore-api-reference-enums-chargingconnectortype-key">See more</a>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
@@ -252,7 +252,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-chargingconnectortype"
 <div class="pointer"></div>
 <div class="abstract">
 <p>The error which is thrown if initialisation with decoder has failed</p>
-<a class="slightly-smaller" href="sdk-for-ios-explore-api-reference-..-enums-chargingconnectortype-codingerror">See more</a>
+<a class="slightly-smaller" href="sdk-for-ios-explore-api-reference-enums-chargingconnectortype-codingerror">See more</a>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>

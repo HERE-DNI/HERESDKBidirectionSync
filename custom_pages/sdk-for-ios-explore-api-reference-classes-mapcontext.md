@@ -15,10 +15,10 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapcontext"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-explore-api-reference-..-maps">Maps</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-maps">Maps</a>
+<img alt="" id="carat" src="/carat.png"/>
         MapContext Class Reference
       </p>
 </div>
@@ -67,7 +67,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">typealias</span> <span class="kt">SetMemoryManagementOptionsCompletionHandler</span> <span class="o">=</span> <span class="p">(</span><span class="n">_</span> <span class="nv">result</span><span class="p">:</span> <span class="kt">MapContext</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapcontext-memorymanagementresult">MemoryManagementResult</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">Void</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">typealias</span> <span class="kt">SetMemoryManagementOptionsCompletionHandler</span> <span class="o">=</span> <span class="p">(</span><span class="n">_</span> <span class="nv">result</span><span class="p">:</span> <span class="kt">MapContext</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-classes-mapcontext-memorymanagementresult">MemoryManagementResult</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">Void</span></code></pre>
 </div>
 </div>
 <div>
@@ -108,7 +108,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <p>The memory management strategy.
 Note: This is a beta release of this feature, so there could be a few bugs and unexpected
 behavior. Related APIs may change for new releases without a deprecation process.</p>
-<a class="slightly-smaller" href="sdk-for-ios-explore-api-reference-..-classes-mapcontext-memorymanagementstrategy">See more</a>
+<a class="slightly-smaller" href="sdk-for-ios-explore-api-reference-classes-mapcontext-memorymanagementstrategy">See more</a>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
@@ -136,7 +136,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <p>The memory management result code.</p>
 <p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
 behavior. Related APIs may change for new releases without a deprecation process.</p>
-<a class="slightly-smaller" href="sdk-for-ios-explore-api-reference-..-classes-mapcontext-memorymanagementresultcode">See more</a>
+<a class="slightly-smaller" href="sdk-for-ios-explore-api-reference-classes-mapcontext-memorymanagementresultcode">See more</a>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
@@ -161,8 +161,8 @@ behavior. Related APIs may change for new releases without a deprecation process
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Types of system resources used by <code><a href="sdk-for-ios-explore-api-reference-..-classes-mapcontext">MapContext</a></code> or any of the entities attached to it, like <code><a href="sdk-for-ios-explore-api-reference-..-classes-heremap">HereMap</a></code>.</p>
-<a class="slightly-smaller" href="sdk-for-ios-explore-api-reference-..-classes-mapcontext-resourcetype">See more</a>
+<p>Types of system resources used by <code><a href="sdk-for-ios-explore-api-reference-classes-mapcontext">MapContext</a></code> or any of the entities attached to it, like <code><a href="sdk-for-ios-explore-api-reference-classes-heremap">HereMap</a></code>.</p>
+<a class="slightly-smaller" href="sdk-for-ios-explore-api-reference-classes-mapcontext-resourcetype">See more</a>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
@@ -188,7 +188,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <div class="pointer"></div>
 <div class="abstract">
 <p>The severity of a free resource request.</p>
-<a class="slightly-smaller" href="sdk-for-ios-explore-api-reference-..-classes-mapcontext-freeresourceseverity">See more</a>
+<a class="slightly-smaller" href="sdk-for-ios-explore-api-reference-classes-mapcontext-freeresourceseverity">See more</a>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
@@ -216,7 +216,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <p>Memory management result.</p>
 <p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
 behavior. Related APIs may change for new releases without a deprecation process.</p>
-<a class="slightly-smaller" href="sdk-for-ios-explore-api-reference-..-classes-mapcontext-memorymanagementresult">See more</a>
+<a class="slightly-smaller" href="sdk-for-ios-explore-api-reference-classes-mapcontext-memorymanagementresult">See more</a>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
@@ -244,7 +244,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <p>Memory management options.</p>
 <p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
 behavior. Related APIs may change for new releases without a deprecation process.</p>
-<a class="slightly-smaller" href="sdk-for-ios-explore-api-reference-..-classes-mapcontext-memorymanagementoptions">See more</a>
+<a class="slightly-smaller" href="sdk-for-ios-explore-api-reference-classes-mapcontext-memorymanagementoptions">See more</a>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
@@ -269,7 +269,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Frees a system resource held by the <code>MapContext</code> and all entities attached to it, like <code><a href="sdk-for-ios-explore-api-reference-..-classes-heremap">HereMap</a></code>.
+<p>Frees a system resource held by the <code>MapContext</code> and all entities attached to it, like <code><a href="sdk-for-ios-explore-api-reference-classes-heremap">HereMap</a></code>.
 This function is intended for use when a system resource availability becomes low.
 For example, some memory can be freed when the application transitions to the background state.</p>
 </div>
@@ -277,7 +277,7 @@ For example, some memory can be freed when the application transitions to the ba
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">freeResource</span><span class="p">(</span><span class="nv">type</span><span class="p">:</span> <span class="kt">MapContext</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapcontext-resourcetype">ResourceType</a></span><span class="p">,</span> <span class="nv">severity</span><span class="p">:</span> <span class="kt">MapContext</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapcontext-freeresourceseverity">FreeResourceSeverity</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">freeResource</span><span class="p">(</span><span class="nv">type</span><span class="p">:</span> <span class="kt">MapContext</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-classes-mapcontext-resourcetype">ResourceType</a></span><span class="p">,</span> <span class="nv">severity</span><span class="p">:</span> <span class="kt">MapContext</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-classes-mapcontext-freeresourceseverity">FreeResourceSeverity</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -332,7 +332,7 @@ For example, some memory can be freed when the application transitions to the ba
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getMemoryManagementOptions</span><span class="p">()</span> <span class="o">-&gt;</span> <span class="kt">MapContext</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapcontext-memorymanagementoptions">MemoryManagementOptions</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getMemoryManagementOptions</span><span class="p">()</span> <span class="o">-&gt;</span> <span class="kt">MapContext</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-classes-mapcontext-memorymanagementoptions">MemoryManagementOptions</a></span></code></pre>
 </div>
 </div>
 <div>
@@ -360,7 +360,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <div class="pointer"></div>
 <div class="abstract">
 <p>Sets memory management options for controlling tile cache and video memory usage.
-In <code><a href="sdk-for-ios-explore-api-reference-..-classes-mapcontext-memorymanagementoptions">MapContext.MemoryManagementOptions</a></code> optional parameters with <code>nil</code>
+In <code><a href="sdk-for-ios-explore-api-reference-classes-mapcontext-memorymanagementoptions">MapContext.MemoryManagementOptions</a></code> optional parameters with <code>nil</code>
 or non positive values will be ignored, preserving their existing settings.</p>
 <p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
 behavior. Related APIs may change for new releases without a deprecation process.</p>
@@ -369,7 +369,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">setMemoryManagementOptions</span><span class="p">(</span><span class="n">_</span> <span class="nv">memoryManagementOptions</span><span class="p">:</span> <span class="kt">MapContext</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapcontext-memorymanagementoptions">MemoryManagementOptions</a></span><span class="p">,</span> <span class="nv">completion</span><span class="p">:</span> <span class="kt">MapContext</span><span class="o">.</span><span class="kt"><a href="../Classes/MapContext.html#/s:7heresdk10MapContextC43SetMemoryManagementOptionsCompletionHandlera">SetMemoryManagementOptionsCompletionHandler</a></span><span class="p">?)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">setMemoryManagementOptions</span><span class="p">(</span><span class="n">_</span> <span class="nv">memoryManagementOptions</span><span class="p">:</span> <span class="kt">MapContext</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-classes-mapcontext-memorymanagementoptions">MemoryManagementOptions</a></span><span class="p">,</span> <span class="nv">completion</span><span class="p">:</span> <span class="kt">MapContext</span><span class="o">.</span><span class="kt"><a href="../Classes/MapContext.html#/s:7heresdk10MapContextC43SetMemoryManagementOptionsCompletionHandlera">SetMemoryManagementOptionsCompletionHandler</a></span><span class="p">?)</span></code></pre>
 </div>
 </div>
 <div>

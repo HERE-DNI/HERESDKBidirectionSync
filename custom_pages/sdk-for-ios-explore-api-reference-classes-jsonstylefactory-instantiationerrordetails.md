@@ -15,12 +15,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-jsonstylefactory-instantiatione
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-explore-api-reference-..-..-index">heresdk</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
-<a href="sdk-for-ios-explore-api-reference-..-..-maps">Maps</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
-<a href="sdk-for-ios-explore-api-reference-..-..-classes-jsonstylefactory">JsonStyleFactory</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-maps">Maps</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-classes-jsonstylefactory">JsonStyleFactory</a>
+<img alt="" id="carat" src="/carat.png"/>
         InstantiationErrorDetails Structure Reference
       </p>
 </div>
@@ -33,10 +33,10 @@ slug: "sdk-for-ios-explore-api-reference-classes-jsonstylefactory-instantiatione
 <div class="declaration">
 <div class="language">
 <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">InstantiationErrorDetails</span></code></pre>
-<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-classes-jsonstylefactory">JsonStyleFactory</a></span><span class="o">.</span><span class="kt">InstantiationErrorDetails</span> <span class="p">:</span> <span class="kt">Error</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-classes-jsonstylefactory">JsonStyleFactory</a></span><span class="o">.</span><span class="kt">InstantiationErrorDetails</span> <span class="p">:</span> <span class="kt">Error</span></code></pre>
 </div>
 </div>
-<p>Describes the reason for failing to create a <code><a href="sdk-for-ios-explore-api-reference-..-..-classes-style">Style</a></code> from a JSON source.</p>
+<p>Describes the reason for failing to create a <code><a href="sdk-for-ios-explore-api-reference-classes-style">Style</a></code> from a JSON source.</p>
 </section>
 <section class="section task-group-section">
 <div class="task-group">
@@ -60,7 +60,7 @@ slug: "sdk-for-ios-explore-api-reference-classes-jsonstylefactory-instantiatione
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">errorCode</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-classes-jsonstylefactory">JsonStyleFactory</a></span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-classes-jsonstylefactory-instantiationerrorcode">InstantiationErrorCode</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">errorCode</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-classes-jsonstylefactory">JsonStyleFactory</a></span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-classes-jsonstylefactory-instantiationerrorcode">InstantiationErrorCode</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -110,7 +110,7 @@ slug: "sdk-for-ios-explore-api-reference-classes-jsonstylefactory-instantiatione
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">errorCode</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-classes-jsonstylefactory">JsonStyleFactory</a></span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-classes-jsonstylefactory-instantiationerrorcode">InstantiationErrorCode</a></span><span class="p">,</span> <span class="nv">errorDescription</span><span class="p">:</span> <span class="kt">String</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">errorCode</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-classes-jsonstylefactory">JsonStyleFactory</a></span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-classes-jsonstylefactory-instantiationerrorcode">InstantiationErrorCode</a></span><span class="p">,</span> <span class="nv">errorDescription</span><span class="p">:</span> <span class="kt">String</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>

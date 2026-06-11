@@ -15,10 +15,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-textquery"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-explore-api-reference-..-search">Search</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-search">Search</a>
+<img alt="" id="carat" src="/carat.png"/>
         TextQuery Structure Reference
       </p>
 </div>
@@ -82,7 +82,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-textquery"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">area</span><span class="p">:</span> <span class="kt">TextQuery</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-textquery-area">Area</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">area</span><span class="p">:</span> <span class="kt">TextQuery</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-textquery-area">Area</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -108,7 +108,7 @@ Consists of fuel and truck options.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">placeFilter</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-placefilter">PlaceFilter</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">placeFilter</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-placefilter">PlaceFilter</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -128,14 +128,14 @@ Consists of fuel and truck options.</p>
 <div class="pointer"></div>
 <div class="abstract">
 <p>Constructs a TextQuery from the provided text query and geographic area.
-For Offline Search, search in a given <code><a href="sdk-for-ios-explore-api-reference-..-structs-geobox">GeoBox</a></code>, <code><a href="sdk-for-ios-explore-api-reference-..-structs-geocircle">GeoCircle</a></code> or <code><a href="sdk-for-ios-explore-api-reference-..-structs-geocorridor">GeoCorridor</a></code>
+For Offline Search, search in a given <code><a href="sdk-for-ios-explore-api-reference-structs-geobox">GeoBox</a></code>, <code><a href="sdk-for-ios-explore-api-reference-structs-geocircle">GeoCircle</a></code> or <code><a href="sdk-for-ios-explore-api-reference-structs-geocorridor">GeoCorridor</a></code>
 restricts the results to only POIs.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">_</span> <span class="nv">query</span><span class="p">:</span> <span class="kt">String</span><span class="p">,</span> <span class="nv">area</span><span class="p">:</span> <span class="kt">TextQuery</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-textquery-area">Area</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">_</span> <span class="nv">query</span><span class="p">:</span> <span class="kt">String</span><span class="p">,</span> <span class="nv">area</span><span class="p">:</span> <span class="kt">TextQuery</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-textquery-area">Area</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -186,7 +186,7 @@ restricts the results to only POIs.</p>
 <div class="pointer"></div>
 <div class="abstract">
 <p>Area to perform search on.</p>
-<a class="slightly-smaller" href="sdk-for-ios-explore-api-reference-..-structs-textquery-area">See more</a>
+<a class="slightly-smaller" href="sdk-for-ios-explore-api-reference-structs-textquery-area">See more</a>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>

@@ -15,12 +15,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-sdknativeengine-purgememorystra
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-explore-api-reference-..-..-index">heresdk</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
-<a href="sdk-for-ios-explore-api-reference-..-..-core">Core</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
-<a href="sdk-for-ios-explore-api-reference-..-..-classes-sdknativeengine">SDKNativeEngine</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-core">Core</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-classes-sdknativeengine">SDKNativeEngine</a>
+<img alt="" id="carat" src="/carat.png"/>
         PurgeMemoryStrategy Enumeration Reference
       </p>
 </div>

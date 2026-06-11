@@ -15,12 +15,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapmarkercluster-counterstyle"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-explore-api-reference-..-..-index">heresdk</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
-<a href="sdk-for-ios-explore-api-reference-..-..-maps">Maps</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
-<a href="sdk-for-ios-explore-api-reference-..-..-classes-mapmarkercluster">MapMarkerCluster</a>
-<img alt="" id="carat" src="../../img/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-maps">Maps</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-classes-mapmarkercluster">MapMarkerCluster</a>
+<img alt="" id="carat" src="/carat.png"/>
         CounterStyle Structure Reference
       </p>
 </div>
@@ -109,7 +109,7 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapmarkercluster-counterstyle"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">textAnchor</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-structs-anchor2d">Anchor2D</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">textAnchor</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-anchor2d">Anchor2D</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -185,7 +185,7 @@ Default value is 99. When this value is changed, it is recommended to adapt <cod
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">textColor</span><span class="p">:</span> <span class="kt">UIColor</span> <span class="o">=</span> <span class="kt">NamedColor</span><span class="o">.</span><span class="n">white</span><span class="p">,</span> <span class="nv">fontSize</span><span class="p">:</span> <span class="kt">Double</span> <span class="o">=</span> <span class="mf">20.0</span><span class="p">,</span> <span class="nv">textAnchor</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-structs-anchor2d">Anchor2D</a></span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-structs-anchor2d">Anchor2D</a></span><span class="p">(),</span> <span class="nv">maxCountNumber</span><span class="p">:</span> <span class="kt">Int32</span> <span class="o">=</span> <span class="mi">99</span><span class="p">,</span> <span class="nv">aboveMaxText</span><span class="p">:</span> <span class="kt">String</span> <span class="o">=</span> <span class="s">"+99"</span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">textColor</span><span class="p">:</span> <span class="kt">UIColor</span> <span class="o">=</span> <span class="kt">NamedColor</span><span class="o">.</span><span class="n">white</span><span class="p">,</span> <span class="nv">fontSize</span><span class="p">:</span> <span class="kt">Double</span> <span class="o">=</span> <span class="mf">20.0</span><span class="p">,</span> <span class="nv">textAnchor</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-anchor2d">Anchor2D</a></span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-anchor2d">Anchor2D</a></span><span class="p">(),</span> <span class="nv">maxCountNumber</span><span class="p">:</span> <span class="kt">Int32</span> <span class="o">=</span> <span class="mi">99</span><span class="p">,</span> <span class="nv">aboveMaxText</span><span class="p">:</span> <span class="kt">String</span> <span class="o">=</span> <span class="s">"+99"</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>

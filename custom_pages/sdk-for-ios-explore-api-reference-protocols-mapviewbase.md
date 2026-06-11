@@ -15,10 +15,10 @@ slug: "sdk-for-ios-explore-api-reference-protocols-mapviewbase"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-explore-api-reference-..-maps">Maps</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-maps">Maps</a>
+<img alt="" id="carat" src="/carat.png"/>
         MapViewBase Protocol Reference
       </p>
 </div>
@@ -33,7 +33,7 @@ slug: "sdk-for-ios-explore-api-reference-protocols-mapviewbase"
 <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">protocol</span> <span class="kt">MapViewBase</span> <span class="p">:</span> <span class="kt">AnyObject</span></code></pre>
 </div>
 </div>
-<p>Represents the available public API from  <code><a href="sdk-for-ios-explore-api-reference-..-classes-mapview">MapView</a></code>.</p>
+<p>Represents the available public API from  <code><a href="sdk-for-ios-explore-api-reference-classes-mapview">MapView</a></code>.</p>
 </section>
 <section class="section task-group-section">
 <div class="task-group">
@@ -57,7 +57,7 @@ slug: "sdk-for-ios-explore-api-reference-protocols-mapviewbase"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">typealias</span> <span class="kt">PickMapHandler</span> <span class="o">=</span> <span class="p">(</span><span class="n">_</span> <span class="nv">mapPickResult</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mappickresult">MapPickResult</a></span><span class="p">?)</span> <span class="o">-&gt;</span> <span class="kt">Void</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">typealias</span> <span class="kt">PickMapHandler</span> <span class="o">=</span> <span class="p">(</span><span class="n">_</span> <span class="nv">mapPickResult</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-classes-mappickresult">MapPickResult</a></span><span class="p">?)</span> <span class="o">-&gt;</span> <span class="kt">Void</span></code></pre>
 </div>
 </div>
 <div>
@@ -126,7 +126,7 @@ slug: "sdk-for-ios-explore-api-reference-protocols-mapviewbase"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">camera</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapcamera">MapCamera</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">camera</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-classes-mapcamera">MapCamera</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -151,7 +151,7 @@ slug: "sdk-for-ios-explore-api-reference-protocols-mapviewbase"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">gestures</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-gestures">Gestures</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">gestures</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-classes-gestures">Gestures</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -176,7 +176,7 @@ slug: "sdk-for-ios-explore-api-reference-protocols-mapviewbase"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">mapScene</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapscene">MapScene</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">mapScene</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-classes-mapscene">MapScene</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -201,7 +201,7 @@ slug: "sdk-for-ios-explore-api-reference-protocols-mapviewbase"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">mapContext</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapcontext">MapContext</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">mapContext</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-classes-mapcontext">MapContext</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -226,7 +226,7 @@ slug: "sdk-for-ios-explore-api-reference-protocols-mapviewbase"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">hereMap</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-heremap">HereMap</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">hereMap</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-classes-heremap">HereMap</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -251,7 +251,7 @@ slug: "sdk-for-ios-explore-api-reference-protocols-mapviewbase"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">viewportSize</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-size2d">Size2D</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">viewportSize</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-size2d">Size2D</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -295,11 +295,11 @@ slug: "sdk-for-ios-explore-api-reference-protocols-mapviewbase"
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>The pixel scale factor used by this <code><a href="sdk-for-ios-explore-api-reference-..-classes-mapview">MapView</a></code>.</p>
+<p>The pixel scale factor used by this <code><a href="sdk-for-ios-explore-api-reference-classes-mapview">MapView</a></code>.</p>
 <p>Pixel scale is 0.0 if the map view is not initialized.</p>
-<p>In cases where the <code><a href="sdk-for-ios-explore-api-reference-..-classes-mapview">MapView</a></code> moves in between screens (e.g. from main screen to a CarPlay screen),
+<p>In cases where the <code><a href="sdk-for-ios-explore-api-reference-classes-mapview">MapView</a></code> moves in between screens (e.g. from main screen to a CarPlay screen),
 / the most up-to-date pixel scale value can be obtained after a render target gets attached to the view.
-/ To get notified when a render target gets attached to the <code><a href="sdk-for-ios-explore-api-reference-..-classes-mapview">MapView</a></code>, see <code><a href="sdk-for-ios-explore-api-reference-..-protocols-mapviewlifecycledelegate">MapViewLifecycleDelegate</a></code>.</p>
+/ To get notified when a render target gets attached to the <code><a href="sdk-for-ios-explore-api-reference-classes-mapview">MapView</a></code>, see <code><a href="sdk-for-ios-explore-api-reference-protocols-mapviewlifecycledelegate">MapViewLifecycleDelegate</a></code>.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
@@ -330,7 +330,7 @@ slug: "sdk-for-ios-explore-api-reference-protocols-mapviewbase"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">watermarkSize</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-size2d">Size2D</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">watermarkSize</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-size2d">Size2D</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -364,7 +364,7 @@ not applied.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">viewToGeoCoordinates</span><span class="p">(</span><span class="nv">viewCoordinates</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-point2d">Point2D</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geocoordinates">GeoCoordinates</a></span><span class="p">?</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">viewToGeoCoordinates</span><span class="p">(</span><span class="nv">viewCoordinates</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-point2d">Point2D</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-geocoordinates">GeoCoordinates</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 <div>
@@ -418,7 +418,7 @@ less than zero or greater than view’s dimensions.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">geoToViewCoordinates</span><span class="p">(</span><span class="nv">geoCoordinates</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geocoordinates">GeoCoordinates</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-point2d">Point2D</a></span><span class="p">?</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">geoToViewCoordinates</span><span class="p">(</span><span class="nv">geoCoordinates</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-geocoordinates">GeoCoordinates</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-point2d">Point2D</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 <div>
@@ -474,7 +474,7 @@ For map views smaller than 250 dip in both width and height, the watermark will 
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">setWatermarkLocation</span><span class="p">(</span><span class="nv">anchor</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-anchor2d">Anchor2D</a></span><span class="p">,</span> <span class="nv">offset</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-point2d">Point2D</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">setWatermarkLocation</span><span class="p">(</span><span class="nv">anchor</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-anchor2d">Anchor2D</a></span><span class="p">,</span> <span class="nv">offset</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-point2d">Point2D</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -535,14 +535,14 @@ Offset is not being scaled when the map view size changes.</p>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Adds a <code><a href="sdk-for-ios-explore-api-reference-..-protocols-mapviewlifecycledelegate">MapViewLifecycleDelegate</a></code> to this map view.
+<p>Adds a <code><a href="sdk-for-ios-explore-api-reference-protocols-mapviewlifecycledelegate">MapViewLifecycleDelegate</a></code> to this map view.
 Adding the same object multiple times has no effect.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">addLifecycleDelegate</span><span class="p">(</span><span class="n">_</span> <span class="nv">lifecycleListener</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-protocols-mapviewlifecycledelegate">MapViewLifecycleDelegate</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">addLifecycleDelegate</span><span class="p">(</span><span class="n">_</span> <span class="nv">lifecycleListener</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-protocols-mapviewlifecycledelegate">MapViewLifecycleDelegate</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -580,7 +580,7 @@ Adding the same object multiple times has no effect.</p>
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Removes a <code><a href="sdk-for-ios-explore-api-reference-..-protocols-mapviewlifecycledelegate">MapViewLifecycleDelegate</a></code> from this map view.
+<p>Removes a <code><a href="sdk-for-ios-explore-api-reference-protocols-mapviewlifecycledelegate">MapViewLifecycleDelegate</a></code> from this map view.
 Trying to remove an object that was not added or was removed before
 has no effect.</p>
 </div>
@@ -588,7 +588,7 @@ has no effect.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">removeLifecycleDelegate</span><span class="p">(</span><span class="n">_</span> <span class="nv">lifecycleListener</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-protocols-mapviewlifecycledelegate">MapViewLifecycleDelegate</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">removeLifecycleDelegate</span><span class="p">(</span><span class="n">_</span> <span class="nv">lifecycleListener</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-protocols-mapviewlifecycledelegate">MapViewLifecycleDelegate</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -636,7 +636,7 @@ of the map view.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">pick</span><span class="p">(</span><span class="nv">filter</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapscene">MapScene</a></span><span class="o">.</span><span class="kt">MapPickFilter</span><span class="p">?,</span> <span class="n">inside</span> <span class="nv">viewArea</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-rectangle2d">Rectangle2D</a></span><span class="p">,</span> <span class="nv">completion</span><span class="p">:</span> <span class="kd">@escaping</span> <span class="kt">MapViewBase</span><span class="o">.</span><span class="kt"><a href="../Protocols/MapViewBase.html#/s:7heresdk11MapViewBaseP04PickB7Handlera">PickMapHandler</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">pick</span><span class="p">(</span><span class="nv">filter</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-classes-mapscene">MapScene</a></span><span class="o">.</span><span class="kt">MapPickFilter</span><span class="p">?,</span> <span class="n">inside</span> <span class="nv">viewArea</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-rectangle2d">Rectangle2D</a></span><span class="p">,</span> <span class="nv">completion</span><span class="p">:</span> <span class="kd">@escaping</span> <span class="kt">MapViewBase</span><span class="o">.</span><span class="kt"><a href="../Protocols/MapViewBase.html#/s:7heresdk11MapViewBaseP04PickB7Handlera">PickMapHandler</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>

@@ -15,10 +15,10 @@ slug: "sdk-for-ios-explore-api-reference-enums-maneuveraction"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-explore-api-reference-..-routing">Routing</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-routing">Routing</a>
+<img alt="" id="carat" src="/carat.png"/>
         ManeuverAction Enumeration Reference
       </p>
 </div>
@@ -503,7 +503,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-maneuveraction"
 <div class="abstract">
 <p>Merge onto a highway from the left side. Such a maneuver occurs only in countries that drive on the left side of the road (left-hand traffic).</p>
 <p><strong>Note:</strong> This action is only generated when using the Navigate license. On top, until release of HERE SDK 4.16.0,
-it needs to be enabled via <code><a href="sdk-for-ios-explore-api-reference-..-structs-routeoptions">RouteOptions</a></code>.</p>
+it needs to be enabled via <code><a href="sdk-for-ios-explore-api-reference-structs-routeoptions">RouteOptions</a></code>.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
@@ -530,7 +530,7 @@ it needs to be enabled via <code><a href="sdk-for-ios-explore-api-reference-..-s
 <div class="abstract">
 <p>Merge onto a highway from the right side. Such a maneuver occurs only in countries that drive on the right side of the road (right-hand traffic).</p>
 <p><strong>Note:</strong> This action is only generated when using the Navigate license. On top, until release of HERE SDK 4.16.0,
-it needs to be enabled via <code><a href="sdk-for-ios-explore-api-reference-..-structs-routeoptions">RouteOptions</a></code>.</p>
+it needs to be enabled via <code><a href="sdk-for-ios-explore-api-reference-structs-routeoptions">RouteOptions</a></code>.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>

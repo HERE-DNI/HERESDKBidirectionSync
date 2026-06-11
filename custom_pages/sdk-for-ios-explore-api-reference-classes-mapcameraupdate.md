@@ -15,10 +15,10 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapcameraupdate"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-explore-api-reference-..-maps">Maps</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-maps">Maps</a>
+<img alt="" id="carat" src="/carat.png"/>
         MapCameraUpdate Class Reference
       </p>
 </div>
@@ -36,7 +36,7 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapcameraupdate"
 </div>
 </div>
 <p>An update that can be applied to the map camera.
-Creation is done via <code><a href="sdk-for-ios-explore-api-reference-..-classes-mapcameraupdatefactory">MapCameraUpdateFactory</a></code>.</p>
+Creation is done via <code><a href="sdk-for-ios-explore-api-reference-classes-mapcameraupdatefactory">MapCameraUpdateFactory</a></code>.</p>
 </section>
 <section class="section task-group-section">
 <div class="task-group">
@@ -60,7 +60,7 @@ Creation is done via <code><a href="sdk-for-ios-explore-api-reference-..-classes
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">typealias</span> <span class="kt">InstantiationError</span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapcameraupdate-instantiationerrorcode">InstantiationErrorCode</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">typealias</span> <span class="kt">InstantiationError</span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-classes-mapcameraupdate-instantiationerrorcode">InstantiationErrorCode</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -79,15 +79,15 @@ Creation is done via <code><a href="sdk-for-ios-explore-api-reference-..-classes
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Describes a reason for failing to create a <code><a href="sdk-for-ios-explore-api-reference-..-classes-mapcameraupdate">MapCameraUpdate</a></code>.</p>
-<a class="slightly-smaller" href="sdk-for-ios-explore-api-reference-..-classes-mapcameraupdate-instantiationerrorcode">See more</a>
+<p>Describes a reason for failing to create a <code><a href="sdk-for-ios-explore-api-reference-classes-mapcameraupdate">MapCameraUpdate</a></code>.</p>
+<a class="slightly-smaller" href="sdk-for-ios-explore-api-reference-classes-mapcameraupdate-instantiationerrorcode">See more</a>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
 <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">InstantiationErrorCode</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
-<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapcameraupdate">MapCameraUpdate</a></span><span class="o">.</span><span class="kt">InstantiationErrorCode</span> <span class="p">:</span> <span class="kt">Error</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-classes-mapcameraupdate">MapCameraUpdate</a></span><span class="o">.</span><span class="kt">InstantiationErrorCode</span> <span class="p">:</span> <span class="kt">Error</span></code></pre>
 </div>
 </div>
 </section>

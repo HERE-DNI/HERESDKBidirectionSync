@@ -15,10 +15,10 @@ slug: "sdk-for-ios-explore-api-reference-classes-gestures"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-explore-api-reference-..-maps">Maps</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-maps">Maps</a>
+<img alt="" id="carat" src="/carat.png"/>
         Gestures Class Reference
       </p>
 </div>
@@ -54,14 +54,14 @@ Please note that this class holds strong references to the gesture delegates.</p
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p><code><a href="sdk-for-ios-explore-api-reference-..-protocols-tapdelegate">TapDelegate</a></code> that notifies when a tap gesture occurs.
+<p><code><a href="sdk-for-ios-explore-api-reference-protocols-tapdelegate">TapDelegate</a></code> that notifies when a tap gesture occurs.
 <code>Gestures</code> holds a strong reference to the delegate.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">weak</span> <span class="k">var</span> <span class="nv">tapDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-protocols-tapdelegate">TapDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">weak</span> <span class="k">var</span> <span class="nv">tapDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-protocols-tapdelegate">TapDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -80,14 +80,14 @@ Please note that this class holds strong references to the gesture delegates.</p
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p><code><a href="sdk-for-ios-explore-api-reference-..-protocols-doubletapdelegate">DoubleTapDelegate</a></code> that notifies when a double-tap gesture occurs.
+<p><code><a href="sdk-for-ios-explore-api-reference-protocols-doubletapdelegate">DoubleTapDelegate</a></code> that notifies when a double-tap gesture occurs.
 <code>Gestures</code> holds a strong reference to the delegate.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">weak</span> <span class="k">var</span> <span class="nv">doubleTapDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-protocols-doubletapdelegate">DoubleTapDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">weak</span> <span class="k">var</span> <span class="nv">doubleTapDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-protocols-doubletapdelegate">DoubleTapDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -106,14 +106,14 @@ Please note that this class holds strong references to the gesture delegates.</p
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p><code><a href="sdk-for-ios-explore-api-reference-..-protocols-pinchrotatedelegate">PinchRotateDelegate</a></code> that notifies when a pinch-rotate gesture occurs.
+<p><code><a href="sdk-for-ios-explore-api-reference-protocols-pinchrotatedelegate">PinchRotateDelegate</a></code> that notifies when a pinch-rotate gesture occurs.
 <code>Gestures</code> holds a strong reference to the delegate.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">weak</span> <span class="k">var</span> <span class="nv">pinchRotateDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-protocols-pinchrotatedelegate">PinchRotateDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">weak</span> <span class="k">var</span> <span class="nv">pinchRotateDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-protocols-pinchrotatedelegate">PinchRotateDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -132,14 +132,14 @@ Please note that this class holds strong references to the gesture delegates.</p
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p><code><a href="sdk-for-ios-explore-api-reference-..-protocols-longpressdelegate">LongPressDelegate</a></code> that notifies when a long-press gesture occurs.
+<p><code><a href="sdk-for-ios-explore-api-reference-protocols-longpressdelegate">LongPressDelegate</a></code> that notifies when a long-press gesture occurs.
 <code>Gestures</code> holds a strong reference to the delegate.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">weak</span> <span class="k">var</span> <span class="nv">longPressDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-protocols-longpressdelegate">LongPressDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">weak</span> <span class="k">var</span> <span class="nv">longPressDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-protocols-longpressdelegate">LongPressDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -158,14 +158,14 @@ Please note that this class holds strong references to the gesture delegates.</p
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p><code><a href="sdk-for-ios-explore-api-reference-..-protocols-pandelegate">PanDelegate</a></code> that notifies when a pan gesture occurs.
+<p><code><a href="sdk-for-ios-explore-api-reference-protocols-pandelegate">PanDelegate</a></code> that notifies when a pan gesture occurs.
 <code>Gestures</code> holds a strong reference to the delegate.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">weak</span> <span class="k">var</span> <span class="nv">panDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-protocols-pandelegate">PanDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">weak</span> <span class="k">var</span> <span class="nv">panDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-protocols-pandelegate">PanDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -184,14 +184,14 @@ Please note that this class holds strong references to the gesture delegates.</p
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p><code><a href="sdk-for-ios-explore-api-reference-..-protocols-twofingertapdelegate">TwoFingerTapDelegate</a></code> that notifies when a two-finger tap gesture occurs.
+<p><code><a href="sdk-for-ios-explore-api-reference-protocols-twofingertapdelegate">TwoFingerTapDelegate</a></code> that notifies when a two-finger tap gesture occurs.
 <code>Gestures</code> holds a strong reference to the delegate.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">weak</span> <span class="k">var</span> <span class="nv">twoFingerTapDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-protocols-twofingertapdelegate">TwoFingerTapDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">weak</span> <span class="k">var</span> <span class="nv">twoFingerTapDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-protocols-twofingertapdelegate">TwoFingerTapDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -210,14 +210,14 @@ Please note that this class holds strong references to the gesture delegates.</p
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p><code><a href="sdk-for-ios-explore-api-reference-..-protocols-twofingerpandelegate">TwoFingerPanDelegate</a></code> that notifies when a two-finger pan gesture occurs.
+<p><code><a href="sdk-for-ios-explore-api-reference-protocols-twofingerpandelegate">TwoFingerPanDelegate</a></code> that notifies when a two-finger pan gesture occurs.
 <code>Gestures</code> holds a strong reference to the delegate.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">weak</span> <span class="k">var</span> <span class="nv">twoFingerPanDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-protocols-twofingerpandelegate">TwoFingerPanDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">weak</span> <span class="k">var</span> <span class="nv">twoFingerPanDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-protocols-twofingerpandelegate">TwoFingerPanDelegate</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -243,7 +243,7 @@ gesture.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">enableDefaultAction</span><span class="p">(</span><span class="n">forGesture</span> <span class="nv">gestureType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-gesturetype">GestureType</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">enableDefaultAction</span><span class="p">(</span><span class="n">forGesture</span> <span class="nv">gestureType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-enums-gesturetype">GestureType</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -287,7 +287,7 @@ gesture.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">disableDefaultAction</span><span class="p">(</span><span class="n">forGesture</span> <span class="nv">gestureType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-gesturetype">GestureType</a></span><span class="p">)</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">disableDefaultAction</span><span class="p">(</span><span class="n">forGesture</span> <span class="nv">gestureType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-enums-gesturetype">GestureType</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>

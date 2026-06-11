@@ -15,14 +15,14 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapscene-mappickfilter-contentt
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-explore-api-reference-..-..-..-index">heresdk</a>
-<img alt="" id="carat" src="../../../img/carat.png"/>
-<a href="sdk-for-ios-explore-api-reference-..-..-..-maps">Maps</a>
-<img alt="" id="carat" src="../../../img/carat.png"/>
-<a href="sdk-for-ios-explore-api-reference-..-..-..-classes-mapscene">MapScene</a>
-<img alt="" id="carat" src="../../../img/carat.png"/>
-<a href="sdk-for-ios-explore-api-reference-..-..-..-classes-mapscene-mappickfilter">MapPickFilter</a>
-<img alt="" id="carat" src="../../../img/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-maps">Maps</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-classes-mapscene">MapScene</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-classes-mapscene-mappickfilter">MapPickFilter</a>
+<img alt="" id="carat" src="/carat.png"/>
         ContentType Enumeration Reference
       </p>
 </div>
@@ -55,7 +55,7 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapscene-mappickfilter-contentt
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Map items added through a <code><a href="sdk-for-ios-explore-api-reference-..-..-..-classes-mapscene">MapScene</a></code> like <code><a href="sdk-for-ios-explore-api-reference-..-..-..-classes-mapmarker">MapMarker</a></code>, <code><a href="sdk-for-ios-explore-api-reference-..-..-..-classes-mappolyline">MapPolyline</a></code>, <code><a href="sdk-for-ios-explore-api-reference-..-..-..-classes-mappolygon">MapPolygon</a></code>.</p>
+<p>Map items added through a <code><a href="sdk-for-ios-explore-api-reference-classes-mapscene">MapScene</a></code> like <code><a href="sdk-for-ios-explore-api-reference-classes-mapmarker">MapMarker</a></code>, <code><a href="sdk-for-ios-explore-api-reference-classes-mappolyline">MapPolyline</a></code>, <code><a href="sdk-for-ios-explore-api-reference-classes-mappolygon">MapPolygon</a></code>.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
@@ -116,8 +116,8 @@ those categories that are not hidden and those that are not covered by any custo
 <section class="section">
 <div class="pointer"></div>
 <div class="abstract">
-<p>Custom user map content added using custom datasources e.g. <code><a href="sdk-for-ios-explore-api-reference-..-..-..-classes-linedatasource">LineDataSource</a></code>,
-<code><a href="sdk-for-ios-explore-api-reference-..-..-..-classes-polygondatasource">PolygonDataSource</a></code> and layers.</p>
+<p>Custom user map content added using custom datasources e.g. <code><a href="sdk-for-ios-explore-api-reference-classes-linedatasource">LineDataSource</a></code>,
+<code><a href="sdk-for-ios-explore-api-reference-classes-polygondatasource">PolygonDataSource</a></code> and layers.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>

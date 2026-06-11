@@ -15,10 +15,10 @@ slug: "sdk-for-ios-explore-api-reference-protocols-dataattributesbase"
 
 <div class="content-wrapper">
 <p id="breadcrumbs">
-<a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
-<img alt="" id="carat" src="../img/carat.png"/>
-<a href="sdk-for-ios-explore-api-reference-..-maploader">MapLoader</a>
-<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
+<img alt="" id="carat" src="/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-maploader">MapLoader</a>
+<img alt="" id="carat" src="/carat.png"/>
         DataAttributesBase Protocol Reference
       </p>
 </div>
@@ -88,7 +88,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">getValueType</span><span class="p">(</span><span class="n">_</span> <span class="nv">name</span><span class="p">:</span> <span class="kt">String</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-dataattributevalue">DataAttributeValue</a></span><span class="o">.</span><span class="kt">ValueType</span><span class="p">?</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">getValueType</span><span class="p">(</span><span class="n">_</span> <span class="nv">name</span><span class="p">:</span> <span class="kt">String</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-classes-dataattributevalue">DataAttributeValue</a></span><span class="o">.</span><span class="kt">ValueType</span><span class="p">?</span></code></pre>
 </div>
 </div>
 <div>
@@ -424,7 +424,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">getValue</span><span class="p">(</span><span class="n">_</span> <span class="nv">name</span><span class="p">:</span> <span class="kt">String</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-dataattributevalue">DataAttributeValue</a></span><span class="p">?</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">getValue</span><span class="p">(</span><span class="n">_</span> <span class="nv">name</span><span class="p">:</span> <span class="kt">String</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-classes-dataattributevalue">DataAttributeValue</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 <div>
