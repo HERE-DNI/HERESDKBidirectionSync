@@ -3,7 +3,7 @@ title: "TransitIncidentEffect"
 slug: "sdk-for-ios-explore-api-reference-enums-transitincidenteffect"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -227,4 +227,4 @@ slug: "sdk-for-ios-explore-api-reference-enums-transitincidenteffect"
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

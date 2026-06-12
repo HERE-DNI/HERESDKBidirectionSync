@@ -3,7 +3,7 @@ title: "EVAccessRestrictionReason"
 slug: "sdk-for-ios-explore-api-reference-enums-evaccessrestrictionreason"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -177,4 +177,4 @@ slug: "sdk-for-ios-explore-api-reference-enums-evaccessrestrictionreason"
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

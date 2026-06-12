@@ -3,7 +3,7 @@ title: "TileSourceDataVersion"
 slug: "sdk-for-ios-explore-api-reference-structs-tilesourcedataversion"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -131,4 +131,4 @@ Describes changes in underlying data that would not require a complete reload
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

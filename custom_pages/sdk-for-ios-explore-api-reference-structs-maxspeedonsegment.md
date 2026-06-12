@@ -3,7 +3,7 @@ title: "MaxSpeedOnSegment"
 slug: "sdk-for-ios-explore-api-reference-structs-maxspeedonsegment"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -151,4 +151,4 @@ Cannot increase base speed on segment. If the value is greater than the default 
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

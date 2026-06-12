@@ -3,7 +3,7 @@ title: "TruckFuelType"
 slug: "sdk-for-ios-explore-api-reference-enums-truckfueltype"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -153,4 +153,4 @@ Note: This is a BETA feature and thus subject to change.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

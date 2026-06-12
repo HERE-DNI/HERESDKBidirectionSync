@@ -3,7 +3,7 @@ title: "GeoPlace"
 slug: "sdk-for-ios-explore-api-reference-structs-geoplace"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -407,4 +407,4 @@ and all properties containing lists will contain empty lists.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

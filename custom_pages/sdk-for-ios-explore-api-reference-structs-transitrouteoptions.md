@@ -3,7 +3,7 @@ title: "TransitRouteOptions"
 slug: "sdk-for-ios-explore-api-reference-structs-transitrouteoptions"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -348,4 +348,4 @@ as localization, format, and unit system.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

@@ -3,7 +3,7 @@ title: "ContentType"
 slug: "sdk-for-ios-explore-api-reference-classes-mapscene-mappickfilter-contenttype"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -143,4 +143,4 @@ those categories that are not hidden and those that are not covered by any custo
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

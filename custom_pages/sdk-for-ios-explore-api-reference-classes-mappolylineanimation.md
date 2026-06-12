@@ -3,7 +3,7 @@ title: "MapPolylineAnimation"
 slug: "sdk-for-ios-explore-api-reference-classes-mappolylineanimation"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -157,4 +157,4 @@ For starting the animation, see <code><a href="../Classes/MapPolyline.html#/s:7h
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

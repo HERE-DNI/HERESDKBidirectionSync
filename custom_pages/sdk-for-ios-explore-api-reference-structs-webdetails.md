@@ -3,7 +3,7 @@ title: "WebDetails"
 slug: "sdk-for-ios-explore-api-reference-structs-webdetails"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -158,4 +158,4 @@ valid contracts with said suppliers. If the user has no such contracts, the list
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

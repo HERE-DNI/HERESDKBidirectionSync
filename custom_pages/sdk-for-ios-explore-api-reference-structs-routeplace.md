@@ -3,7 +3,7 @@ title: "RoutePlace"
 slug: "sdk-for-ios-explore-api-reference-structs-routeplace"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -366,4 +366,4 @@ Available only if the route was calculated with <code><a href="../Structs/Electr
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

@@ -3,7 +3,7 @@ title: "Metadata"
 slug: "sdk-for-ios-explore-api-reference-classes-metadata"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -702,4 +702,4 @@ If the given key already exists, its value will be replaced by the new one.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

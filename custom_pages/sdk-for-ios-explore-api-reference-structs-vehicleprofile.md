@@ -3,7 +3,7 @@ title: "VehicleProfile"
 slug: "sdk-for-ios-explore-api-reference-structs-vehicleprofile"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -376,4 +376,4 @@ consideration for route calculation. By default, it is not set.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

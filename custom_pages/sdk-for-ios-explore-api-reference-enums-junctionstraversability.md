@@ -3,7 +3,7 @@ title: "JunctionsTraversability"
 slug: "sdk-for-ios-explore-api-reference-enums-junctionstraversability"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -177,4 +177,4 @@ slug: "sdk-for-ios-explore-api-reference-enums-junctionstraversability"
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

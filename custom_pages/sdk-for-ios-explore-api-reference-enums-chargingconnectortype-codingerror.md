@@ -3,7 +3,7 @@ title: "CodingError"
 slug: "sdk-for-ios-explore-api-reference-enums-chargingconnectortype-codingerror"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -79,4 +79,4 @@ slug: "sdk-for-ios-explore-api-reference-enums-chargingconnectortype-codingerror
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

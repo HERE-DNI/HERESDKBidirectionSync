@@ -3,7 +3,7 @@ title: "MapScheme"
 slug: "sdk-for-ios-explore-api-reference-enums-mapscheme"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -441,4 +441,4 @@ highlighted on top of this map scheme.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

@@ -3,7 +3,7 @@ title: "MapLayerMapMeasureDependentStorageLevels"
 slug: "sdk-for-ios-explore-api-reference-classes-maplayermapmeasuredependentstoragelevels"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -110,4 +110,4 @@ The value will be clamped to a range of -3 to 3.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

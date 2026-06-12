@@ -3,7 +3,7 @@ title: "LogLevel"
 slug: "sdk-for-ios-explore-api-reference-enums-loglevel"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -177,4 +177,4 @@ slug: "sdk-for-ios-explore-api-reference-enums-loglevel"
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

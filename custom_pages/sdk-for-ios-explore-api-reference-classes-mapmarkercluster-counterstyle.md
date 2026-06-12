@@ -3,7 +3,7 @@ title: "CounterStyle"
 slug: "sdk-for-ios-explore-api-reference-classes-mapmarkercluster-counterstyle"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -205,4 +205,4 @@ Default value is 99. When this value is changed, it is recommended to adapt <cod
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

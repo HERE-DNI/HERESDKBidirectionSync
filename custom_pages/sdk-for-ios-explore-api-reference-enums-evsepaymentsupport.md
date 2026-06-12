@@ -3,7 +3,7 @@ title: "EVSEPaymentSupport"
 slug: "sdk-for-ios-explore-api-reference-enums-evsepaymentsupport"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -489,4 +489,4 @@ Whenever one or more of those payment types is specified,
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

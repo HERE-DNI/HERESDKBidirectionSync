@@ -3,7 +3,7 @@ title: "DynamicSpeedInfo"
 slug: "sdk-for-ios-explore-api-reference-structs-dynamicspeedinfo"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -183,4 +183,4 @@ Specifically, 0.0 means free traffic and 10.0 means stationary traffic.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

@@ -3,7 +3,7 @@ title: "Details"
 slug: "sdk-for-ios-explore-api-reference-structs-details"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -600,4 +600,4 @@ Related APIs may change for new releases without a deprecation process.</li>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

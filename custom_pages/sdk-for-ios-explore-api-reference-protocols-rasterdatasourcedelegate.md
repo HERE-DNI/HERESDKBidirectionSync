@@ -3,7 +3,7 @@ title: "RasterDataSourceDelegate"
 slug: "sdk-for-ios-explore-api-reference-protocols-rasterdatasourcedelegate"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -121,4 +121,4 @@ slug: "sdk-for-ios-explore-api-reference-protocols-rasterdatasourcedelegate"
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

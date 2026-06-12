@@ -3,7 +3,7 @@ title: "AvoidBoundingBoxAreaOptions"
 slug: "sdk-for-ios-explore-api-reference-structs-avoidboundingboxareaoptions"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -183,4 +183,4 @@ Otherwise route calculation will fail with an [sdk.routing.RoutingError.INVALID_
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

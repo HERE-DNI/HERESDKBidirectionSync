@@ -3,7 +3,7 @@ title: "TilingScheme"
 slug: "sdk-for-ios-explore-api-reference-enums-tilingscheme"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -209,4 +209,4 @@ The coordinates of the tile’s corners are transformed through the equirectangu
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

@@ -3,7 +3,7 @@ title: "UIColor"
 slug: "sdk-for-ios-explore-api-reference-extensions-uicolor"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -76,4 +76,4 @@ slug: "sdk-for-ios-explore-api-reference-extensions-uicolor"
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

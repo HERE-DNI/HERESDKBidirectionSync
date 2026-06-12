@@ -3,7 +3,7 @@ title: "ImageFormat"
 slug: "sdk-for-ios-explore-api-reference-enums-imageformat"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -103,4 +103,4 @@ been performed on it.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

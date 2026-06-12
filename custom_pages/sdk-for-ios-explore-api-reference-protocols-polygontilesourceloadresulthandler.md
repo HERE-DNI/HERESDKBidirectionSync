@@ -3,7 +3,7 @@ title: "PolygonTileSourceLoadResultHandler"
 slug: "sdk-for-ios-explore-api-reference-protocols-polygontilesourceloadresulthandler"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -164,4 +164,4 @@ slug: "sdk-for-ios-explore-api-reference-protocols-polygontilesourceloadresultha
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

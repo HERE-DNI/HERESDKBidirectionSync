@@ -3,7 +3,7 @@ title: "Agency"
 slug: "sdk-for-ios-explore-api-reference-structs-agency"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -102,4 +102,4 @@ slug: "sdk-for-ios-explore-api-reference-structs-agency"
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

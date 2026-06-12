@@ -3,7 +3,7 @@ title: "LineDataSource"
 slug: "sdk-for-ios-explore-api-reference-classes-linedatasource"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -312,4 +312,4 @@ The inspector cannot update the line data.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

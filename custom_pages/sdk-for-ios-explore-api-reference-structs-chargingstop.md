@@ -3,7 +3,7 @@ title: "ChargingStop"
 slug: "sdk-for-ios-explore-api-reference-structs-chargingstop"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -240,4 +240,4 @@ For most use cases, providing at least <code>min_duration</code> is recommended.
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

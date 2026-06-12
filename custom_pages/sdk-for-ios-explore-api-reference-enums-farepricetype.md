@@ -3,7 +3,7 @@ title: "FarePriceType"
 slug: "sdk-for-ios-explore-api-reference-enums-farepricetype"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -102,4 +102,4 @@ slug: "sdk-for-ios-explore-api-reference-enums-farepricetype"
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

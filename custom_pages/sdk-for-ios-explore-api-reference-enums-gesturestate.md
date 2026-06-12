@@ -3,7 +3,7 @@ title: "GestureState"
 slug: "sdk-for-ios-explore-api-reference-enums-gesturestate"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -153,4 +153,4 @@ due to displaying a modal dialog or the app being sent to background.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

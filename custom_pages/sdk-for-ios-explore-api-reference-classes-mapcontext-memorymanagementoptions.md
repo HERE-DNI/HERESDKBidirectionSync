@@ -3,7 +3,7 @@ title: "MemoryManagementOptions"
 slug: "sdk-for-ios-explore-api-reference-classes-mapcontext-memorymanagementoptions"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -166,4 +166,4 @@ Default value is <code>nil</code>.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

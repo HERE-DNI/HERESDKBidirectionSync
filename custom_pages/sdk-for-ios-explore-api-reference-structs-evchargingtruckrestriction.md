@@ -3,7 +3,7 @@ title: "EVChargingTruckRestriction"
 slug: "sdk-for-ios-explore-api-reference-structs-evchargingtruckrestriction"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -175,4 +175,4 @@ EV charging location is designed to serve.</li>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

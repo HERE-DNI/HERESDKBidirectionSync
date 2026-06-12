@@ -3,7 +3,7 @@ title: "WebImage"
 slug: "sdk-for-ios-explore-api-reference-structs-webimage"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -122,4 +122,4 @@ Sets <code><a href="../Structs/WebImage.html#/s:7heresdk8WebImageV6sourceAA0B6So
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

@@ -3,7 +3,7 @@ title: "CollectionOf"
 slug: "sdk-for-ios-explore-api-reference-classes-collectionof"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -196,4 +196,4 @@ slug: "sdk-for-ios-explore-api-reference-classes-collectionof"
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

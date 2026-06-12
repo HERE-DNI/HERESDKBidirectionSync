@@ -3,7 +3,7 @@ title: "PhysicalConsumptionModel"
 slug: "sdk-for-ios-explore-api-reference-structs-physicalconsumptionmodel"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -280,4 +280,4 @@ More streamlined vehicles are more aerodynamic and therefore have smaller drag c
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

@@ -3,7 +3,7 @@ title: "ViolatedRestriction"
 slug: "sdk-for-ios-explore-api-reference-structs-violatedrestriction"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -184,4 +184,4 @@ be set with the maximum allowed height value.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

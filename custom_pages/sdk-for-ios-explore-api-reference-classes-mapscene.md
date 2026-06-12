@@ -3,7 +3,7 @@ title: "MapScene"
 slug: "sdk-for-ios-explore-api-reference-classes-mapscene"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -1897,4 +1897,4 @@ calling this method may take slightly longer than calling one of the <code>loadS
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

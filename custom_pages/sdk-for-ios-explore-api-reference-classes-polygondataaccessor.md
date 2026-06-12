@@ -3,7 +3,7 @@ title: "PolygonDataAccessor"
 slug: "sdk-for-ios-explore-api-reference-classes-polygondataaccessor"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -207,4 +207,4 @@ The visual behaviour for self-intersecting outer boundary is undefined.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

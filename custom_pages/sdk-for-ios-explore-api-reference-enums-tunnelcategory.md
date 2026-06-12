@@ -3,7 +3,7 @@ title: "TunnelCategory"
 slug: "sdk-for-ios-explore-api-reference-enums-tunnelcategory"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -160,4 +160,4 @@ waste and samples.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

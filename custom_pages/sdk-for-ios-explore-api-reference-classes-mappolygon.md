@@ -3,7 +3,7 @@ title: "MapPolygon"
 slug: "sdk-for-ios-explore-api-reference-classes-mappolygon"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -425,4 +425,4 @@ Negative values are clamped to zero.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

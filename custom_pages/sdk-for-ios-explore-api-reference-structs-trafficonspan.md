@@ -3,7 +3,7 @@ title: "TrafficOnSpan"
 slug: "sdk-for-ios-explore-api-reference-structs-trafficonspan"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -306,4 +306,4 @@ in general. Specifically, 0.0 means free traffic and 10.0 means stationary traff
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

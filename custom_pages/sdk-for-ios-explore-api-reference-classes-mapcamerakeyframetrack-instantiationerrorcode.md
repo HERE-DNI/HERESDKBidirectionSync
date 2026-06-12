@@ -3,7 +3,7 @@ title: "InstantiationErrorCode"
 slug: "sdk-for-ios-explore-api-reference-classes-mapcamerakeyframetrack-instantiationerrorcode"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -106,4 +106,4 @@ This exception is thrown when the first keyframe duration in a list of keyframes
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

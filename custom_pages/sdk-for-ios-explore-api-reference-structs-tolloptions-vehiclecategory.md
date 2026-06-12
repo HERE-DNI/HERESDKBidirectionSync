@@ -3,7 +3,7 @@ title: "VehicleCategory"
 slug: "sdk-for-ios-explore-api-reference-structs-tolloptions-vehiclecategory"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -80,4 +80,4 @@ or small bus that is used to transport a maximum of 15 passengers.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

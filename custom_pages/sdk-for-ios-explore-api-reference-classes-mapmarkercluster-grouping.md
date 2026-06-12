@@ -3,7 +3,7 @@ title: "Grouping"
 slug: "sdk-for-ios-explore-api-reference-classes-mapmarkercluster-grouping"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -131,4 +131,4 @@ single map marker entry for markers being part of cluster but spread enough not 
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

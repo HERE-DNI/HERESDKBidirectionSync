@@ -3,7 +3,7 @@ title: "TransitIncident"
 slug: "sdk-for-ios-explore-api-reference-structs-transitincident"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -253,4 +253,4 @@ Disruptions scale from delays to service cancellations.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

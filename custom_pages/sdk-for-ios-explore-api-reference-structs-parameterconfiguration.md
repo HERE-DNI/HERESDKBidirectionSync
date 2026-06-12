@@ -3,7 +3,7 @@ title: "ParameterConfiguration"
 slug: "sdk-for-ios-explore-api-reference-structs-parameterconfiguration"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -106,4 +106,4 @@ to <code><a href="../Enums/TransportMode.html#/s:7heresdk13TransportModeO3caryA2
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

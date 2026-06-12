@@ -3,7 +3,7 @@ title: "Signpost"
 slug: "sdk-for-ios-explore-api-reference-structs-signpost"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -102,4 +102,4 @@ slug: "sdk-for-ios-explore-api-reference-structs-signpost"
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

@@ -3,7 +3,7 @@ title: "TrafficIncidentOnRoute"
 slug: "sdk-for-ios-explore-api-reference-classes-trafficincidentonroute"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -215,4 +215,4 @@ The identifier can be changed by the backend due to some events, e.g. changing o
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

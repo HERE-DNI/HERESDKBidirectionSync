@@ -3,7 +3,7 @@ title: "MapIdleDelegate"
 slug: "sdk-for-ios-explore-api-reference-protocols-mapidledelegate"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -108,4 +108,4 @@ will happen aftrwards until <code><a href="../Protocols/MapIdleDelegate.html#/s:
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

@@ -3,7 +3,7 @@ title: "RouteHandle"
 slug: "sdk-for-ios-explore-api-reference-structs-routehandle"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -109,4 +109,4 @@ Using an incompatible <code>RouteHandle</code> results in a <code><a href="sdk-f
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

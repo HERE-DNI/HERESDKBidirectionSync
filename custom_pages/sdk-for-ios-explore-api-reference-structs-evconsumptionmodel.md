@@ -3,7 +3,7 @@ title: "EVConsumptionModel"
 slug: "sdk-for-ios-explore-api-reference-structs-evconsumptionmodel"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -231,4 +231,4 @@ energy consumption.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

@@ -3,7 +3,7 @@ title: "AvoidPolygonAreaOptions"
 slug: "sdk-for-ios-explore-api-reference-structs-avoidpolygonareaoptions"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -182,4 +182,4 @@ Otherwise route calculation will fail with an [sdk.routing.RoutingError.INVALID_
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

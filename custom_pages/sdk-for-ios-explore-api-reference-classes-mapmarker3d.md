@@ -3,7 +3,7 @@ title: "MapMarker3D"
 slug: "sdk-for-ios-explore-api-reference-classes-mapmarker3d"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -712,4 +712,4 @@ Only <a href="s">MapMeasureRange</a> of <code><a href="../Structs/MapMeasure/Kin
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

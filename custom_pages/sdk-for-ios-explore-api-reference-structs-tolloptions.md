@@ -3,7 +3,7 @@ title: "TollOptions"
 slug: "sdk-for-ios-explore-api-reference-structs-tolloptions"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -236,4 +236,4 @@ Allowed values for CO2 class are 1, 2, 3, 4, or 5, where a lower value generally
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

@@ -3,7 +3,7 @@ title: "PostAction"
 slug: "sdk-for-ios-explore-api-reference-structs-postaction"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -154,4 +154,4 @@ Defaults to 0 seconds.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

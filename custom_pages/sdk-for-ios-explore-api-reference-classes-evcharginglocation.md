@@ -3,7 +3,7 @@ title: "EVChargingLocation"
 slug: "sdk-for-ios-explore-api-reference-classes-evcharginglocation"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -555,4 +555,4 @@ Available only if <code>EVChargingLocationFeature.LOCATION_INFO</code> is includ
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

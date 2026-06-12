@@ -3,7 +3,7 @@ title: "Unit"
 slug: "sdk-for-ios-explore-api-reference-structs-rendersize-unit"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -132,4 +132,4 @@ and change on the screen as the map is zoomed in and out.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

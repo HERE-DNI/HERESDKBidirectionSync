@@ -3,7 +3,7 @@ title: "SDKInternalInitializer"
 slug: "sdk-for-ios-explore-api-reference-classes-sdkinternalinitializer"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -79,4 +79,4 @@ Usually shouldn’t be used directly.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

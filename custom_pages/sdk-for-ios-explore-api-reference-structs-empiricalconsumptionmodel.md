@@ -3,7 +3,7 @@ title: "EmpiricalConsumptionModel"
 slug: "sdk-for-ios-explore-api-reference-structs-empiricalconsumptionmodel"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -237,4 +237,4 @@ energy consumption.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

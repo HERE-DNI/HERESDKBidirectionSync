@@ -3,7 +3,7 @@ title: "MapLayerPriorityBuilder"
 slug: "sdk-for-ios-explore-api-reference-classes-maplayerprioritybuilder"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -655,4 +655,4 @@ MapLayerPriority.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

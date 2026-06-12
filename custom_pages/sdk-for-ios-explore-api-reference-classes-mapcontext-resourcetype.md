@@ -3,7 +3,7 @@ title: "ResourceType"
 slug: "sdk-for-ios-explore-api-reference-classes-mapcontext-resourcetype"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -79,4 +79,4 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapcontext-resourcetype"
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

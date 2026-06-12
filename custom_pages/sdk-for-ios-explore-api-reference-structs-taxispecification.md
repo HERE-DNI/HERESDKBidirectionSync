@@ -3,7 +3,7 @@ title: "TaxiSpecification"
 slug: "sdk-for-ios-explore-api-reference-structs-taxispecification"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -105,4 +105,4 @@ Defaults to <code>true</code>.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

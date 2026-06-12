@@ -3,7 +3,7 @@ title: "TransitDepartureStatus"
 slug: "sdk-for-ios-explore-api-reference-enums-transitdeparturestatus"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -154,4 +154,4 @@ additional trip, for example, to replace a broken vehicle or handle detour.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

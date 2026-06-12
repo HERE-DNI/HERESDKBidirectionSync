@@ -3,7 +3,7 @@ title: "MapObjectDescriptor"
 slug: "sdk-for-ios-explore-api-reference-classes-mapobjectdescriptor"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -142,4 +142,4 @@ For polygons and polylines <code>nil</code> is returned.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

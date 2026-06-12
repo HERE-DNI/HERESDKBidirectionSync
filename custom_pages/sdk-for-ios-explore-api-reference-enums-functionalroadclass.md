@@ -3,7 +3,7 @@ title: "FunctionalRoadClass"
 slug: "sdk-for-ios-explore-api-reference-enums-functionalroadclass"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -177,4 +177,4 @@ slug: "sdk-for-ios-explore-api-reference-enums-functionalroadclass"
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

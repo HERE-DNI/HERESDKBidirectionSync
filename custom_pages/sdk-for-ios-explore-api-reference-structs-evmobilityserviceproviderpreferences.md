@@ -3,7 +3,7 @@ title: "EVMobilityServiceProviderPreferences"
 slug: "sdk-for-ios-explore-api-reference-structs-evmobilityserviceproviderpreferences"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -157,4 +157,4 @@ Defaults to using all available providers with no prioritization.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

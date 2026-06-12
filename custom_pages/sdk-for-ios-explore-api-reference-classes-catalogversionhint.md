@@ -3,7 +3,7 @@ title: "CatalogVersionHint"
 slug: "sdk-for-ios-explore-api-reference-classes-catalogversionhint"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -183,4 +183,4 @@ clearing the cache) <em>and</em> no installed map data. Otherwise, this call wil
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

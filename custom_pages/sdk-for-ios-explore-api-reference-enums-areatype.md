@@ -3,7 +3,7 @@ title: "AreaType"
 slug: "sdk-for-ios-explore-api-reference-enums-areatype"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -227,4 +227,4 @@ slug: "sdk-for-ios-explore-api-reference-enums-areatype"
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

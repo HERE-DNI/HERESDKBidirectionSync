@@ -3,7 +3,7 @@ title: "RoutingProtocol"
 slug: "sdk-for-ios-explore-api-reference-protocols-routingprotocol"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -1057,4 +1057,4 @@ It is always invoked on the main thread.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

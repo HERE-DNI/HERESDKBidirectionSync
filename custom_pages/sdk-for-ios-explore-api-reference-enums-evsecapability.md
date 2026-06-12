@@ -3,7 +3,7 @@ title: "EVSECapability"
 slug: "sdk-for-ios-explore-api-reference-enums-evsecapability"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -205,4 +205,4 @@ This is handy when a card and key-fob are given to the EV-driver.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

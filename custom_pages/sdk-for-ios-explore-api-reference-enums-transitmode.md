@@ -3,7 +3,7 @@ title: "TransitMode"
 slug: "sdk-for-ios-explore-api-reference-enums-transitmode"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -427,4 +427,4 @@ slug: "sdk-for-ios-explore-api-reference-enums-transitmode"
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

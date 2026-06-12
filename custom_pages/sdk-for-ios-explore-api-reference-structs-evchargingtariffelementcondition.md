@@ -3,7 +3,7 @@ title: "EVChargingTariffElementCondition"
 slug: "sdk-for-ios-explore-api-reference-structs-evchargingtariffelementcondition"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -245,4 +245,4 @@ set additional fees for charging a full or nearly full battery.</li>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

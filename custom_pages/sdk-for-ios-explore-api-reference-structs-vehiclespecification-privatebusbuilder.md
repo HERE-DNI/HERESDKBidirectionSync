@@ -3,7 +3,7 @@ title: "PrivateBusBuilder"
 slug: "sdk-for-ios-explore-api-reference-structs-vehiclespecification-privatebusbuilder"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -927,4 +927,4 @@ from the <code>VehicleSpecification.PrivateBusBuilder</code> object.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

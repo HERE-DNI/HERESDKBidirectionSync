@@ -3,7 +3,7 @@ title: "SectionNoticeCode"
 slug: "sdk-for-ios-explore-api-reference-enums-sectionnoticecode"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -1068,4 +1068,4 @@ Severity: <code><a href="../Enums/NoticeSeverity.html#/s:7heresdk14NoticeSeverit
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

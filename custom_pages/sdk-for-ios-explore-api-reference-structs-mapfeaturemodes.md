@@ -3,7 +3,7 @@ title: "MapFeatureModes"
 slug: "sdk-for-ios-explore-api-reference-structs-mapfeaturemodes"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -441,4 +441,4 @@ behavior. Related APIs may change for new releases without a deprecation process
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

@@ -3,7 +3,7 @@ title: "AddressType"
 slug: "sdk-for-ios-explore-api-reference-enums-addresstype"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -127,4 +127,4 @@ slug: "sdk-for-ios-explore-api-reference-enums-addresstype"
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

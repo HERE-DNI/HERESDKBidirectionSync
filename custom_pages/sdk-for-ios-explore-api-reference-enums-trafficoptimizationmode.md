@@ -3,7 +3,7 @@ title: "TrafficOptimizationMode"
 slug: "sdk-for-ios-explore-api-reference-enums-trafficoptimizationmode"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -137,4 +137,4 @@ Note that this mode disables traffic-aware routing regardless of other settings.
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

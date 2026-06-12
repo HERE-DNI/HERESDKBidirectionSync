@@ -3,7 +3,7 @@ title: "MapItemKeyFrameTrack"
 slug: "sdk-for-ios-explore-api-reference-classes-mapitemkeyframetrack"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -267,4 +267,4 @@ over time.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

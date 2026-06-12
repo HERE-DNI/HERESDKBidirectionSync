@@ -3,7 +3,7 @@ title: "TaxiOptions"
 slug: "sdk-for-ios-explore-api-reference-structs-taxioptions"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -318,4 +318,4 @@ before the route destination.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

@@ -3,7 +3,7 @@ title: "SDKLogger"
 slug: "sdk-for-ios-explore-api-reference-classes-sdklogger"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -346,4 +346,4 @@ These logs are under management of <code><a href="sdk-for-ios-explore-api-refere
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

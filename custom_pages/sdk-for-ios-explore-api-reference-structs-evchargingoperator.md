@@ -3,7 +3,7 @@ title: "EVChargingOperator"
 slug: "sdk-for-ios-explore-api-reference-structs-evchargingoperator"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -205,4 +205,4 @@ This list may be empty where map coverage is limited or incomplete.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

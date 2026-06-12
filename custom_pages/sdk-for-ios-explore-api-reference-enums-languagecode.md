@@ -3,7 +3,7 @@ title: "LanguageCode"
 slug: "sdk-for-ios-explore-api-reference-enums-languagecode"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -2857,4 +2857,4 @@ its ISO 15924 code is used.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

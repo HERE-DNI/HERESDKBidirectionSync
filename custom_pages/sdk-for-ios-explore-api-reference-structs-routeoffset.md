@@ -3,7 +3,7 @@ title: "RouteOffset"
 slug: "sdk-for-ios-explore-api-reference-structs-routeoffset"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -131,4 +131,4 @@ The maximum possible offset is limited by the length of the section and cannot e
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

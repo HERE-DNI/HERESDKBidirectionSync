@@ -3,7 +3,7 @@ title: "ChargingConnectorAttributes"
 slug: "sdk-for-ios-explore-api-reference-structs-chargingconnectorattributes"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -203,4 +203,4 @@ slug: "sdk-for-ios-explore-api-reference-structs-chargingconnectorattributes"
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

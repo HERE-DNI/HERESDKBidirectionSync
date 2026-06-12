@@ -3,7 +3,7 @@ title: "EVChargingOpeningHoursException"
 slug: "sdk-for-ios-explore-api-reference-structs-evchargingopeninghoursexception"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -159,4 +159,4 @@ and <code><a href="../Structs/TimeOfDayRange.html#/s:7heresdk14TimeOfDayRangeV2t
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

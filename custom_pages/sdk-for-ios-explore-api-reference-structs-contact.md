@@ -3,7 +3,7 @@ title: "Contact"
 slug: "sdk-for-ios-explore-api-reference-structs-contact"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -206,4 +206,4 @@ This data is not available in offline search.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

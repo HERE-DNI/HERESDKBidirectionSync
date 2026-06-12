@@ -3,7 +3,7 @@ title: "CarOptions"
 slug: "sdk-for-ios-explore-api-reference-structs-caroptions"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -351,4 +351,4 @@ Example usage: “7”, when the license plate of a vehicle looks like “B-ET-1
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

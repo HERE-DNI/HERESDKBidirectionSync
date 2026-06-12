@@ -3,7 +3,7 @@ title: "EVChargingTariffPriceComponent"
 slug: "sdk-for-ios-explore-api-reference-structs-evchargingtariffpricecomponent"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -184,4 +184,4 @@ Similarly, if step is 100 for energy, then energy is billed in 100 Wh = 0.1 kWh 
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

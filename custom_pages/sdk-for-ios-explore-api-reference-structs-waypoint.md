@@ -3,7 +3,7 @@ title: "Waypoint"
 slug: "sdk-for-ios-explore-api-reference-structs-waypoint"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -554,4 +554,4 @@ Relative value in kilograms. Available range: from -40000 to 40000 (inclusive).
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

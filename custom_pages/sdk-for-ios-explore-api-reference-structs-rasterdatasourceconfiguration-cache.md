@@ -3,7 +3,7 @@ title: "Cache"
 slug: "sdk-for-ios-explore-api-reference-structs-rasterdatasourceconfiguration-cache"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -139,4 +139,4 @@ Its size is only limited by the total device storage capacity.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

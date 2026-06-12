@@ -3,7 +3,7 @@ title: "LongPressDelegate"
 slug: "sdk-for-ios-explore-api-reference-protocols-longpressdelegate"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -109,4 +109,4 @@ Long-press gesture occurs after tapping and holding the finger for a long time o
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

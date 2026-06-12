@@ -3,7 +3,7 @@ title: "LogAppender"
 slug: "sdk-for-ios-explore-api-reference-protocols-logappender"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -107,4 +107,4 @@ slug: "sdk-for-ios-explore-api-reference-protocols-logappender"
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

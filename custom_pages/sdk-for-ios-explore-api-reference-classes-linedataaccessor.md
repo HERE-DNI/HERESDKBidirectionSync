@@ -3,7 +3,7 @@ title: "LineDataAccessor"
 slug: "sdk-for-ios-explore-api-reference-classes-linedataaccessor"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -203,4 +203,4 @@ Altitude of the vertices is ignored.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

@@ -3,7 +3,7 @@ title: "EVTruckOptions"
 slug: "sdk-for-ios-explore-api-reference-structs-evtruckoptions"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -465,4 +465,4 @@ for the vehicle on a given route.</li>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

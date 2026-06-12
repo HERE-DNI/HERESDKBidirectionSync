@@ -3,7 +3,7 @@ title: "Options"
 slug: "sdk-for-ios-explore-api-reference-classes-polylinesimplifier-options"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -174,4 +174,4 @@ is ignored.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

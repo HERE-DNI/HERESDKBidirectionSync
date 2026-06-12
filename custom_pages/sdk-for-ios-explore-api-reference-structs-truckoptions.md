@@ -3,7 +3,7 @@ title: "TruckOptions"
 slug: "sdk-for-ios-explore-api-reference-structs-truckoptions"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -437,4 +437,4 @@ Refer to <code><a href="sdk-for-ios-explore-api-reference-enums-truckroadtype">T
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

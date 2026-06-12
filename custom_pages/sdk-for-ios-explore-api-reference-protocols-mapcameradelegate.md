@@ -3,7 +3,7 @@ title: "MapCameraDelegate"
 slug: "sdk-for-ios-explore-api-reference-protocols-mapcameradelegate"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -97,4 +97,4 @@ camera parameters change.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

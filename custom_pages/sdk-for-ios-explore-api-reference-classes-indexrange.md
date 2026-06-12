@@ -3,7 +3,7 @@ title: "IndexRange"
 slug: "sdk-for-ios-explore-api-reference-classes-indexrange"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -105,4 +105,4 @@ The first character is denoted by a value of 0.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

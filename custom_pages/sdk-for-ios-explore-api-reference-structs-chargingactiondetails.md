@@ -3,7 +3,7 @@ title: "ChargingActionDetails"
 slug: "sdk-for-ios-explore-api-reference-structs-chargingactiondetails"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -158,4 +158,4 @@ Defaults to 0.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

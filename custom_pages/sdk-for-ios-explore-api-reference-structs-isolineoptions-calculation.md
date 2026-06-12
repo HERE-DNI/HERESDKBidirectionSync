@@ -3,7 +3,7 @@ title: "Calculation"
 slug: "sdk-for-ios-explore-api-reference-structs-isolineoptions-calculation"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -472,4 +472,4 @@ The default isoline direction is <code><a href="../../Enums/RoutePlaceDirection.
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

@@ -3,7 +3,7 @@ title: "SuggestionType"
 slug: "sdk-for-ios-explore-api-reference-enums-suggestiontype"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -127,4 +127,4 @@ slug: "sdk-for-ios-explore-api-reference-enums-suggestiontype"
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

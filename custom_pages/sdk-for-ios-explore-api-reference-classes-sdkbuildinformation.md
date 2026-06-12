@@ -3,7 +3,7 @@ title: "SDKBuildInformation"
 slug: "sdk-for-ios-explore-api-reference-classes-sdkbuildinformation"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -82,4 +82,4 @@ slug: "sdk-for-ios-explore-api-reference-classes-sdkbuildinformation"
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

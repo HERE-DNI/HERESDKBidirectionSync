@@ -3,7 +3,7 @@ title: "AngleRange"
 slug: "sdk-for-ios-explore-api-reference-structs-anglerange"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -459,4 +459,4 @@ normalized to [0,360).</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

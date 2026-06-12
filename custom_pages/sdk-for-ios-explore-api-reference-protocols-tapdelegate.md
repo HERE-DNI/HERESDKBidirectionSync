@@ -3,7 +3,7 @@ title: "TapDelegate"
 slug: "sdk-for-ios-explore-api-reference-protocols-tapdelegate"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -97,4 +97,4 @@ Tap gesture occurs after tapping on the screen.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

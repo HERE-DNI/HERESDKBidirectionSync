@@ -3,7 +3,7 @@ title: "EVChargingTariffType"
 slug: "sdk-for-ios-explore-api-reference-enums-evchargingtarifftype"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -129,4 +129,4 @@ Related APIs may change for new releases without a deprecation process.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

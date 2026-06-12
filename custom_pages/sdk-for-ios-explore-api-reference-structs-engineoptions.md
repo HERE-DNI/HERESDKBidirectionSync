@@ -3,7 +3,7 @@ title: "EngineOptions"
 slug: "sdk-for-ios-explore-api-reference-structs-engineoptions"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -135,4 +135,4 @@ or retrieved via key/secret from a dedicated backend.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

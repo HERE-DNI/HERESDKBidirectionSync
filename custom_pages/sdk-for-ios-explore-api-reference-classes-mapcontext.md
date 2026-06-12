@@ -3,7 +3,7 @@ title: "MapContext"
 slug: "sdk-for-ios-explore-api-reference-classes-mapcontext"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -421,4 +421,4 @@ completion to pass the return value to the caller.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

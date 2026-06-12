@@ -3,7 +3,7 @@ title: "MatchSideOfStreet"
 slug: "sdk-for-ios-explore-api-reference-enums-matchsideofstreet"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -105,4 +105,4 @@ This is the default setting and it is recommended for most use cases.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

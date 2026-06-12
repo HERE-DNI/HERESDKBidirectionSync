@@ -3,7 +3,7 @@ title: "PlaceSerializationError"
 slug: "sdk-for-ios-explore-api-reference-enums-placeserializationerror"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -78,4 +78,4 @@ slug: "sdk-for-ios-explore-api-reference-enums-placeserializationerror"
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

@@ -3,7 +3,7 @@ title: "TileGeoBoundsCalculator"
 slug: "sdk-for-ios-explore-api-reference-classes-tilegeoboundscalculator"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -151,4 +151,4 @@ provided at this <code>TileGeoBoundsCalculator</code> instance creation.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

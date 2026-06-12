@@ -3,7 +3,7 @@ title: "OpeningHours"
 slug: "sdk-for-ios-explore-api-reference-structs-openinghours"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -180,4 +180,4 @@ This data is not available in offline search.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

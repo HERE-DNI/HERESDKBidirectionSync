@@ -3,7 +3,7 @@ title: "MapViewLifecycleDelegate"
 slug: "sdk-for-ios-explore-api-reference-protocols-mapviewlifecycledelegate"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -237,4 +237,4 @@ This should be used to make sure all resources are freed.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

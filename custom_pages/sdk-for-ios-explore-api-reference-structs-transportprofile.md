@@ -3,7 +3,7 @@ title: "TransportProfile"
 slug: "sdk-for-ios-explore-api-reference-structs-transportprofile"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -129,4 +129,4 @@ This is a BETA feature and thus there can be bugs and unexpected behavior.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

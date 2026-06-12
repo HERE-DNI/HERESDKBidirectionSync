@@ -3,7 +3,7 @@ title: "MapLayerBuilder"
 slug: "sdk-for-ios-explore-api-reference-classes-maplayerbuilder"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -676,4 +676,4 @@ map layer, but will not keep any previously configured properties.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

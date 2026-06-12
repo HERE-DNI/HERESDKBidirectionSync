@@ -3,7 +3,7 @@ title: "GeoPolylineDirection"
 slug: "sdk-for-ios-explore-api-reference-enums-geopolylinedirection"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -103,4 +103,4 @@ from the end of <code><a href="../Structs/GeoPolyline.html#/s:7heresdk11GeoPolyl
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

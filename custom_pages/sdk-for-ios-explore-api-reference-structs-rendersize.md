@@ -3,7 +3,7 @@ title: "RenderSize"
 slug: "sdk-for-ios-explore-api-reference-structs-rendersize"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -78,4 +78,4 @@ slug: "sdk-for-ios-explore-api-reference-structs-rendersize"
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

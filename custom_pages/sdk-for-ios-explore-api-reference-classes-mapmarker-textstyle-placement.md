@@ -3,7 +3,7 @@ title: "Placement"
 slug: "sdk-for-ios-explore-api-reference-classes-mapmarker-textstyle-placement"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -281,4 +281,4 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapmarker-textstyle-placement"
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

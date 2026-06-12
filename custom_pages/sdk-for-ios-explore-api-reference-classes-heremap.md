@@ -3,7 +3,7 @@ title: "HereMap"
 slug: "sdk-for-ios-explore-api-reference-classes-heremap"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -180,4 +180,4 @@ The caller is responsible for releasing the strong reference by calling
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

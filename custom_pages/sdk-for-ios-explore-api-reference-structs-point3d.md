@@ -3,7 +3,7 @@ title: "Point3D"
 slug: "sdk-for-ios-explore-api-reference-structs-point3d"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -152,4 +152,4 @@ slug: "sdk-for-ios-explore-api-reference-structs-point3d"
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

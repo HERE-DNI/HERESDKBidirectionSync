@@ -3,7 +3,7 @@ title: "Details"
 slug: "sdk-for-ios-explore-api-reference-structs-violatedrestriction-details"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -705,4 +705,4 @@ exceeds the specified value.</li>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

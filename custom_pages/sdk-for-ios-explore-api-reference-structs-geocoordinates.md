@@ -3,7 +3,7 @@ title: "GeoCoordinates"
 slug: "sdk-for-ios-explore-api-reference-structs-geocoordinates"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -465,4 +465,4 @@ Examples: <code>53.43762,-13.65468</code>.
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

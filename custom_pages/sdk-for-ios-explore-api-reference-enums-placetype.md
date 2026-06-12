@@ -3,7 +3,7 @@ title: "PlaceType"
 slug: "sdk-for-ios-explore-api-reference-enums-placetype"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -203,4 +203,4 @@ Note: This type is not supported in offline search.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

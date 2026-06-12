@@ -3,7 +3,7 @@ title: "AddressQuery"
 slug: "sdk-for-ios-explore-api-reference-structs-addressquery"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -304,4 +304,4 @@ Not supported in <code>OfflineSearchEngine</code> (only available for the Naviga
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

@@ -3,7 +3,7 @@ title: "MemoryManagementResultCode"
 slug: "sdk-for-ios-explore-api-reference-classes-mapcontext-memorymanagementresultcode"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -186,4 +186,4 @@ Previous values of video memory and CPU tile cache limits are preserved.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

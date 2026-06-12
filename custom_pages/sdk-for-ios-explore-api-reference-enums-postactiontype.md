@@ -3,7 +3,7 @@ title: "PostActionType"
 slug: "sdk-for-ios-explore-api-reference-enums-postactiontype"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -153,4 +153,4 @@ independent of the action of actually charging the vehicle battery.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

@@ -3,7 +3,7 @@ title: "MapLayerVisibilityRange"
 slug: "sdk-for-ios-explore-api-reference-structs-maplayervisibilityrange"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -129,4 +129,4 @@ Note that the map layer is not visible at the maximum zoom level.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

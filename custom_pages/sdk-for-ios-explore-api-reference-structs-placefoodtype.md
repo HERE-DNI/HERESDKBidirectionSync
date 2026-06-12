@@ -3,7 +3,7 @@ title: "PlaceFoodType"
 slug: "sdk-for-ios-explore-api-reference-structs-placefoodtype"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -156,4 +156,4 @@ Ignored when used in <code><a href="sdk-for-ios-explore-api-reference-structs-pl
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

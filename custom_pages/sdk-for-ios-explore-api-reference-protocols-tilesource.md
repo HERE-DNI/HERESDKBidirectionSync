@@ -3,7 +3,7 @@ title: "TileSource"
 slug: "sdk-for-ios-explore-api-reference-protocols-tilesource"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -241,4 +241,4 @@ behavior. Related APIs may change for new releases without a deprecation process
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

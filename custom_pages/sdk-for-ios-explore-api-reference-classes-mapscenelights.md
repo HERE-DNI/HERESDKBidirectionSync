@@ -3,7 +3,7 @@ title: "MapSceneLights"
 slug: "sdk-for-ios-explore-api-reference-classes-mapscenelights"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -566,4 +566,4 @@ or MapScene is not intitialized.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

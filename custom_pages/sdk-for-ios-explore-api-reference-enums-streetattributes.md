@@ -3,7 +3,7 @@ title: "StreetAttributes"
 slug: "sdk-for-ios-explore-api-reference-enums-streetattributes"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -352,4 +352,4 @@ slug: "sdk-for-ios-explore-api-reference-enums-streetattributes"
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

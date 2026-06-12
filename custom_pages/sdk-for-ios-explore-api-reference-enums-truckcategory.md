@@ -3,7 +3,7 @@ title: "TruckCategory"
 slug: "sdk-for-ios-explore-api-reference-enums-truckcategory"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -104,4 +104,4 @@ behaviors. Related APIs may change for new releases without a deprecation proces
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

@@ -3,7 +3,7 @@ title: "TextQuery"
 slug: "sdk-for-ios-explore-api-reference-structs-textquery"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -212,4 +212,4 @@ restricts the results to only POIs.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

@@ -3,7 +3,7 @@ title: "PedestrianProfile"
 slug: "sdk-for-ios-explore-api-reference-structs-pedestrianprofile"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -105,4 +105,4 @@ By default this value is 1 meter per second.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

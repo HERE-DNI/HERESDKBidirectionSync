@@ -3,7 +3,7 @@ title: "EMobilityServiceProvider"
 slug: "sdk-for-ios-explore-api-reference-structs-emobilityserviceprovider"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -130,4 +130,4 @@ It can be used for filtering when searching for EV charging stations.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

@@ -3,7 +3,7 @@ title: "CurrentType"
 slug: "sdk-for-ios-explore-api-reference-enums-currenttype"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -102,4 +102,4 @@ slug: "sdk-for-ios-explore-api-reference-enums-currenttype"
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

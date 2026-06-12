@@ -3,7 +3,7 @@ title: "MaterialReflectivity"
 slug: "sdk-for-ios-explore-api-reference-structs-materialreflectivity"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -145,4 +145,4 @@ the diffuse lighting component when lighting is enabled. Default value is 1.0.</
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

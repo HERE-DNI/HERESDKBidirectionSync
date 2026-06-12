@@ -3,7 +3,7 @@ title: "LineTileSourceLoadResultHandler"
 slug: "sdk-for-ios-explore-api-reference-protocols-linetilesourceloadresulthandler"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -164,4 +164,4 @@ slug: "sdk-for-ios-explore-api-reference-protocols-linetilesourceloadresulthandl
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

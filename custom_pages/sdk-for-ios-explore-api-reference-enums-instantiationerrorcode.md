@@ -3,7 +3,7 @@ title: "InstantiationErrorCode"
 slug: "sdk-for-ios-explore-api-reference-enums-instantiationerrorcode"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -387,4 +387,4 @@ Check the corectness of HRNs and versions.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

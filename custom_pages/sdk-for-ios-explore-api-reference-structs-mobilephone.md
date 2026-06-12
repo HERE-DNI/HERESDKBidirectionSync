@@ -3,7 +3,7 @@ title: "MobilePhone"
 slug: "sdk-for-ios-explore-api-reference-structs-mobilephone"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -154,4 +154,4 @@ Otherwise, <code><a href="../Structs/MobilePhone.html#/s:7heresdk11MobilePhoneV1
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

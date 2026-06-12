@@ -3,7 +3,7 @@ title: "BusSpecifications"
 slug: "sdk-for-ios-explore-api-reference-structs-busspecifications"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -183,4 +183,4 @@ By default, it is not set.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

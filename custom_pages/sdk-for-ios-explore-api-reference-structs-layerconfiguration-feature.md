@@ -3,7 +3,7 @@ title: "Feature"
 slug: "sdk-for-ios-explore-api-reference-structs-layerconfiguration-feature"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -874,4 +874,4 @@ Feature enables following OCM layer groups:</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

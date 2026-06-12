@@ -3,7 +3,7 @@ title: "MapMarker"
 slug: "sdk-for-ios-explore-api-reference-classes-mapmarker"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -747,4 +747,4 @@ Any ongoing animation of this marker instance will get cancelled.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

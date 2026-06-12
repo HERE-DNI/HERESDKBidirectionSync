@@ -3,7 +3,7 @@ title: "Other Enumerations"
 slug: "sdk-for-ios-explore-api-reference-other enums"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -97,4 +97,4 @@ slug: "sdk-for-ios-explore-api-reference-other enums"
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

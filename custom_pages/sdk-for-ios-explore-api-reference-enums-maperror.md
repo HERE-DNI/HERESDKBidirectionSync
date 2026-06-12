@@ -3,7 +3,7 @@ title: "MapError"
 slug: "sdk-for-ios-explore-api-reference-enums-maperror"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -152,4 +152,4 @@ slug: "sdk-for-ios-explore-api-reference-enums-maperror"
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

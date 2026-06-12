@@ -3,7 +3,7 @@ title: "GeoCorridor"
 slug: "sdk-for-ios-explore-api-reference-structs-geocorridor"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -204,4 +204,4 @@ any point of the polyline to the closest border of the corridor is always the sa
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

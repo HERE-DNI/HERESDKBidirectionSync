@@ -3,7 +3,7 @@ title: "MapCameraAnimationFactory"
 slug: "sdk-for-ios-explore-api-reference-classes-mapcameraanimationfactory"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -606,4 +606,4 @@ will consider the target point as being located on the ground.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

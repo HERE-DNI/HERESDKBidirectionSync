@@ -3,7 +3,7 @@ title: "OptimizationMode"
 slug: "sdk-for-ios-explore-api-reference-enums-optimizationmode"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -115,4 +115,4 @@ information, even if a faster route can be achieved by staying on the highway.</
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

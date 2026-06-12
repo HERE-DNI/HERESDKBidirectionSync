@@ -3,7 +3,7 @@ title: "TruckRoadType"
 slug: "sdk-for-ios-explore-api-reference-enums-truckroadtype"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -352,4 +352,4 @@ slug: "sdk-for-ios-explore-api-reference-enums-truckroadtype"
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

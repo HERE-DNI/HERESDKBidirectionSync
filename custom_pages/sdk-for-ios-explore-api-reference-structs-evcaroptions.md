@@ -3,7 +3,7 @@ title: "EVCarOptions"
 slug: "sdk-for-ios-explore-api-reference-structs-evcaroptions"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -500,4 +500,4 @@ By default, all providers are used.</li>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

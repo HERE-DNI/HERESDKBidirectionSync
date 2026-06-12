@@ -3,7 +3,7 @@ title: "MapMatchedCoordinates"
 slug: "sdk-for-ios-explore-api-reference-structs-mapmatchedcoordinates"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -127,4 +127,4 @@ slug: "sdk-for-ios-explore-api-reference-structs-mapmatchedcoordinates"
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

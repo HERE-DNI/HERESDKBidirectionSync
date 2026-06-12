@@ -3,7 +3,7 @@ title: "EasingFunction"
 slug: "sdk-for-ios-explore-api-reference-enums-easingfunction"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -1077,4 +1077,4 @@ slug: "sdk-for-ios-explore-api-reference-enums-easingfunction"
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

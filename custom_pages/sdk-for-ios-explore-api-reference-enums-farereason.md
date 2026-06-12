@@ -3,7 +3,7 @@ title: "FareReason"
 slug: "sdk-for-ios-explore-api-reference-enums-farereason"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -102,4 +102,4 @@ slug: "sdk-for-ios-explore-api-reference-enums-farereason"
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

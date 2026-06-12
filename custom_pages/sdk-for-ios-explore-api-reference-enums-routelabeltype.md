@@ -3,7 +3,7 @@ title: "RouteLabelType"
 slug: "sdk-for-ios-explore-api-reference-enums-routelabeltype"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -102,4 +102,4 @@ slug: "sdk-for-ios-explore-api-reference-enums-routelabeltype"
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

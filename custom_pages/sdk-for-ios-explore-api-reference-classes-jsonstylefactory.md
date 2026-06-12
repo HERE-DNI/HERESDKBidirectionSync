@@ -3,7 +3,7 @@ title: "JsonStyleFactory"
 slug: "sdk-for-ios-explore-api-reference-classes-jsonstylefactory"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -188,4 +188,4 @@ behavior. Related APIs may change for new releases without a deprecation process
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

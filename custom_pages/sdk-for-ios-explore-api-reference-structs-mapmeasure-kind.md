@@ -3,7 +3,7 @@ title: "Kind"
 slug: "sdk-for-ios-explore-api-reference-structs-mapmeasure-kind"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -129,4 +129,4 @@ slug: "sdk-for-ios-explore-api-reference-structs-mapmeasure-kind"
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

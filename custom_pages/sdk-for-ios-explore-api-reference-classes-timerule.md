@@ -3,7 +3,7 @@ title: "TimeRule"
 slug: "sdk-for-ios-explore-api-reference-classes-timerule"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -264,4 +264,4 @@ The brackets {} denotes duration, and the negative sign - represents a past dura
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

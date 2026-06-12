@@ -3,7 +3,7 @@ title: "AllowOptions"
 slug: "sdk-for-ios-explore-api-reference-structs-allowoptions"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -150,4 +150,4 @@ in the vehicle.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

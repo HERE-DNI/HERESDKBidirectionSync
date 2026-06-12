@@ -3,7 +3,7 @@ title: "FuelAdditive"
 slug: "sdk-for-ios-explore-api-reference-structs-fueladditive"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -154,4 +154,4 @@ unexpected behaviors. Related APIs may change for new releases without a depreca
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

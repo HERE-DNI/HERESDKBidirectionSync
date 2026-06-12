@@ -3,7 +3,7 @@ title: "GeoCoordinatesUpdate"
 slug: "sdk-for-ios-explore-api-reference-structs-geocoordinatesupdate"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -311,4 +311,4 @@ NaN value is converted to <code>nil</code>.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

@@ -3,7 +3,7 @@ title: "RoutingOptions"
 slug: "sdk-for-ios-explore-api-reference-structs-routingoptions"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -356,4 +356,4 @@ set to <code><a href="../Enums/TransportMode.html#/s:7heresdk13TransportModeO3ca
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

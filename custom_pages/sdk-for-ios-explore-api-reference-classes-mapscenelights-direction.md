@@ -3,7 +3,7 @@ title: "Direction"
 slug: "sdk-for-ios-explore-api-reference-classes-mapscenelights-direction"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -145,4 +145,4 @@ For instance, (0, -10) is changed to (0, 0) rather than (180, 10).</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

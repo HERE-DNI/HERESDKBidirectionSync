@@ -3,7 +3,7 @@ title: "GeoBox"
 slug: "sdk-for-ios-explore-api-reference-structs-geobox"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -626,4 +626,4 @@ Throws an InstantiationError if it is not possible to create a valid
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

@@ -3,7 +3,7 @@ title: "SideOfDestination"
 slug: "sdk-for-ios-explore-api-reference-enums-sideofdestination"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -127,4 +127,4 @@ slug: "sdk-for-ios-explore-api-reference-enums-sideofdestination"
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

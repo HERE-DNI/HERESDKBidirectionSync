@@ -3,7 +3,7 @@ title: "IconProviderError"
 slug: "sdk-for-ios-explore-api-reference-enums-iconprovidererror"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -127,4 +127,4 @@ slug: "sdk-for-ios-explore-api-reference-enums-iconprovidererror"
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

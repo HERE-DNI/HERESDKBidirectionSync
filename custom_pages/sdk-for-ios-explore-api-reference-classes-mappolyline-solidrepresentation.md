@@ -3,7 +3,7 @@ title: "SolidRepresentation"
 slug: "sdk-for-ios-explore-api-reference-classes-mappolyline-solidrepresentation"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -396,4 +396,4 @@ linearly interpolated between values given for these map measures.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

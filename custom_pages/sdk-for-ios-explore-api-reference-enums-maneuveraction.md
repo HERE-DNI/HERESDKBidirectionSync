@@ -3,7 +3,7 @@ title: "ManeuverAction"
 slug: "sdk-for-ios-explore-api-reference-enums-maneuveraction"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -1256,4 +1256,4 @@ it needs to be enabled via <code><a href="sdk-for-ios-explore-api-reference-stru
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

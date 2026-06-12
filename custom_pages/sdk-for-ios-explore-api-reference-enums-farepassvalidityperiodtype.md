@@ -3,7 +3,7 @@ title: "FarePassValidityPeriodType"
 slug: "sdk-for-ios-explore-api-reference-enums-farepassvalidityperiodtype"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -177,4 +177,4 @@ slug: "sdk-for-ios-explore-api-reference-enums-farepassvalidityperiodtype"
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

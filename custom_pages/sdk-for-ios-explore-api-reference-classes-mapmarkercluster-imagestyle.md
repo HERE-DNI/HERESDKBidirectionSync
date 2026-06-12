@@ -3,7 +3,7 @@ title: "ImageStyle"
 slug: "sdk-for-ios-explore-api-reference-classes-mapmarkercluster-imagestyle"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -210,4 +210,4 @@ to the cluster’s position.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

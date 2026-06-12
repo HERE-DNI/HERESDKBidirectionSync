@@ -3,7 +3,7 @@ title: "Key"
 slug: "sdk-for-ios-explore-api-reference-enums-chargingconnectortype-key"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -79,4 +79,4 @@ slug: "sdk-for-ios-explore-api-reference-enums-chargingconnectortype-key"
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

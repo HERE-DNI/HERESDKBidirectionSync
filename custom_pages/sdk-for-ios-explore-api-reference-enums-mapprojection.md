@@ -3,7 +3,7 @@ title: "MapProjection"
 slug: "sdk-for-ios-explore-api-reference-enums-mapprojection"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -102,4 +102,4 @@ slug: "sdk-for-ios-explore-api-reference-enums-mapprojection"
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

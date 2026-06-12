@@ -3,7 +3,7 @@ title: "FuelStation"
 slug: "sdk-for-ios-explore-api-reference-structs-fuelstation"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -184,4 +184,4 @@ The list can be empty when no truck fuels are offered or when the information is
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

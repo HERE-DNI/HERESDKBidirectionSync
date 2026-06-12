@@ -3,7 +3,7 @@ title: "LogControl"
 slug: "sdk-for-ios-explore-api-reference-classes-logcontrol"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -298,4 +298,4 @@ in order to do that use <code><a href="../Classes/LogControl.html#/s:7heresdk10L
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

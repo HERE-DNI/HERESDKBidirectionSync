@@ -3,7 +3,7 @@ title: "EVChargingLocationFeature"
 slug: "sdk-for-ios-explore-api-reference-enums-evcharginglocationfeature"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -239,4 +239,4 @@ Ignored if neither <code><a href="../Enums/EVChargingLocationFeature.html#/s:7he
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

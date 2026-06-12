@@ -3,7 +3,7 @@ title: "CatalogConfiguration"
 slug: "sdk-for-ios-explore-api-reference-structs-catalogconfiguration"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -244,4 +244,4 @@ It uses the catalog version that was the latest at the time when the HERE SDK wa
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

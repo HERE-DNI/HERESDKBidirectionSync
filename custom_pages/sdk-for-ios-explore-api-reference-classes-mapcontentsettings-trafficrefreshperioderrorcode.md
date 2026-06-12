@@ -3,7 +3,7 @@ title: "TrafficRefreshPeriodErrorCode"
 slug: "sdk-for-ios-explore-api-reference-classes-mapcontentsettings-trafficrefreshperioderrorcode"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -105,4 +105,4 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapcontentsettings-trafficrefre
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

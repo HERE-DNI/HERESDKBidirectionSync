@@ -3,7 +3,7 @@ title: "EVSEInfo"
 slug: "sdk-for-ios-explore-api-reference-structs-evseinfo"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -356,4 +356,4 @@ This is the ‘technical’ identification of the EVSE, not to be used as ‘hum
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

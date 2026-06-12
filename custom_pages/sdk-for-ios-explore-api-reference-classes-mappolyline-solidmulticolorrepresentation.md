@@ -3,7 +3,7 @@ title: "SolidMultiColorRepresentation"
 slug: "sdk-for-ios-explore-api-reference-classes-mappolyline-solidmulticolorrepresentation"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -514,4 +514,4 @@ Valid value range is [0.0, 1.0]. Out of range values are not supported.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

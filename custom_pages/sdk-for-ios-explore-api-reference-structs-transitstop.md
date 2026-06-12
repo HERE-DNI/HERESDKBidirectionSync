@@ -3,7 +3,7 @@ title: "TransitStop"
 slug: "sdk-for-ios-explore-api-reference-structs-transitstop"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -129,4 +129,4 @@ Defaults to <code>nil</code>.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

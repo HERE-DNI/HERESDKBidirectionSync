@@ -3,7 +3,7 @@ title: "MapSceneLoadOptionsBuilder"
 slug: "sdk-for-ios-explore-api-reference-classes-mapsceneloadoptionsbuilder"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -484,4 +484,4 @@ Any map scheme set through <code><a href="../Classes/MapSceneLoadOptionsBuilder.
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

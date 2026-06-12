@@ -3,7 +3,7 @@ title: "AuthenticationData"
 slug: "sdk-for-ios-explore-api-reference-structs-authenticationdata"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -130,4 +130,4 @@ Defaults to 0 seconds.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

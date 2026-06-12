@@ -3,7 +3,7 @@ title: "RasterTileSourceLoadResultHandler"
 slug: "sdk-for-ios-explore-api-reference-protocols-rastertilesourceloadresulthandler"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -165,4 +165,4 @@ Supported are images in PNG or JPEG format.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

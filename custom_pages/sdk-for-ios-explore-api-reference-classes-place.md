@@ -3,7 +3,7 @@ title: "Place"
 slug: "sdk-for-ios-explore-api-reference-classes-place"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -472,4 +472,4 @@ For more details refer to <code><a href="sdk-for-ios-explore-api-reference-struc
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

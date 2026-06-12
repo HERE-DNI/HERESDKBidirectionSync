@@ -3,7 +3,7 @@ title: "PedestrianOptions"
 slug: "sdk-for-ios-explore-api-reference-structs-pedestrianoptions"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -214,4 +214,4 @@ speed is 1 meter per second.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

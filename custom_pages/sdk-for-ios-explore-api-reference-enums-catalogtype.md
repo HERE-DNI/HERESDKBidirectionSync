@@ -3,7 +3,7 @@ title: "CatalogType"
 slug: "sdk-for-ios-explore-api-reference-enums-catalogtype"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -105,4 +105,4 @@ details. In order to load this map you need to enable your credentials with the 
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

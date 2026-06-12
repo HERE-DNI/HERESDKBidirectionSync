@@ -3,7 +3,7 @@ title: "CustomMetadataValue"
 slug: "sdk-for-ios-explore-api-reference-protocols-custommetadatavalue"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -86,4 +86,4 @@ The tag is specific to the concrete implementation of the protocol.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

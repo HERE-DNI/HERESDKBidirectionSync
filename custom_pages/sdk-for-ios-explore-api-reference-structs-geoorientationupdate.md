@@ -3,7 +3,7 @@ title: "GeoOrientationUpdate"
 slug: "sdk-for-ios-explore-api-reference-structs-geoorientationupdate"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -208,4 +208,4 @@ NaN value is converted to <code>nil</code>.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

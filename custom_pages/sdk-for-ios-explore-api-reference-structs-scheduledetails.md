@@ -3,7 +3,7 @@ title: "ScheduleDetails"
 slug: "sdk-for-ios-explore-api-reference-structs-scheduledetails"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -152,4 +152,4 @@ slug: "sdk-for-ios-explore-api-reference-structs-scheduledetails"
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

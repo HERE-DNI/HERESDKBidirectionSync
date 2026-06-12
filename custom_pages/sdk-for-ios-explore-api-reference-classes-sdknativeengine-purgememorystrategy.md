@@ -3,7 +3,7 @@ title: "PurgeMemoryStrategy"
 slug: "sdk-for-ios-explore-api-reference-classes-sdknativeengine-purgememorystrategy"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -79,4 +79,4 @@ slug: "sdk-for-ios-explore-api-reference-classes-sdknativeengine-purgememorystra
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

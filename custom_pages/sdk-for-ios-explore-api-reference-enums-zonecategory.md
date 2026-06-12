@@ -3,7 +3,7 @@ title: "ZoneCategory"
 slug: "sdk-for-ios-explore-api-reference-enums-zonecategory"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -133,4 +133,4 @@ a higher pricing in rush hours.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

@@ -3,7 +3,7 @@ title: "FreeResourceSeverity"
 slug: "sdk-for-ios-explore-api-reference-classes-mapcontext-freeresourceseverity"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -104,4 +104,4 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapcontext-freeresourceseverity
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

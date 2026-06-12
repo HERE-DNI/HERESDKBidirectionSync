@@ -3,7 +3,7 @@ title: "Style"
 slug: "sdk-for-ios-explore-api-reference-classes-style"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -102,4 +102,4 @@ Only style definitions update is curently supported.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

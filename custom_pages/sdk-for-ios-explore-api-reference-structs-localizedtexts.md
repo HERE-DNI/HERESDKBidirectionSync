@@ -3,7 +3,7 @@ title: "LocalizedTexts"
 slug: "sdk-for-ios-explore-api-reference-structs-localizedtexts"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -184,4 +184,4 @@ In case of empty list return <code>nil</code>.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

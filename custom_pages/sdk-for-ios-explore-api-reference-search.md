@@ -3,7 +3,7 @@ title: "Search"
 slug: "sdk-for-ios-explore-api-reference-search"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -3069,4 +3069,4 @@ and a direct link to the item.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

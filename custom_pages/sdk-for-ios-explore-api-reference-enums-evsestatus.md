@@ -3,7 +3,7 @@ title: "EVSEStatus"
 slug: "sdk-for-ios-explore-api-reference-enums-evsestatus"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -227,4 +227,4 @@ slug: "sdk-for-ios-explore-api-reference-enums-evsestatus"
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

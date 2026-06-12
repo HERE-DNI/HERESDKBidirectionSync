@@ -3,7 +3,7 @@ title: "HazardousMaterial"
 slug: "sdk-for-ios-explore-api-reference-enums-hazardousmaterial"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -328,4 +328,4 @@ can be shipped by the truck.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

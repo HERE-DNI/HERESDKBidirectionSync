@@ -3,7 +3,7 @@ title: "Maneuver"
 slug: "sdk-for-ios-explore-api-reference-classes-maneuver"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -487,4 +487,4 @@ compromised.
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

@@ -3,7 +3,7 @@ title: "AssetsManager"
 slug: "sdk-for-ios-explore-api-reference-classes-assetsmanager"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -239,4 +239,4 @@ does not contain required character symbol and shall be sorted starting from mos
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

@@ -3,7 +3,7 @@ title: "AuthenticationMode"
 slug: "sdk-for-ios-explore-api-reference-classes-authenticationmode"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -274,4 +274,4 @@ on the main thread of the application.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

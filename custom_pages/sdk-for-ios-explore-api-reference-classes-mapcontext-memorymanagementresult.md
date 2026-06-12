@@ -3,7 +3,7 @@ title: "MemoryManagementResult"
 slug: "sdk-for-ios-explore-api-reference-classes-mapcontext-memorymanagementresult"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -137,4 +137,4 @@ correct memory limit cannot be calculated, <code>nil</code> value is returned.</
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

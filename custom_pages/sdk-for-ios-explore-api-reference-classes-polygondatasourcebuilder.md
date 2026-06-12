@@ -3,7 +3,7 @@ title: "PolygonDataSourceBuilder"
 slug: "sdk-for-ios-explore-api-reference-classes-polygondatasourcebuilder"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -273,4 +273,4 @@ behavior. Related APIs may change for new releases without a deprecation process
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

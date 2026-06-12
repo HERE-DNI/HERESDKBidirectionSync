@@ -3,7 +3,7 @@ title: "BicycleBuilder"
 slug: "sdk-for-ios-explore-api-reference-structs-transportspecification-bicyclebuilder"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -111,4 +111,4 @@ from the <code>TransportSpecification.BicycleBuilder</code> object.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

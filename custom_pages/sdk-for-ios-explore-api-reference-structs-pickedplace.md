@@ -3,7 +3,7 @@ title: "PickedPlace"
 slug: "sdk-for-ios-explore-api-reference-structs-pickedplace"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -155,4 +155,4 @@ This is the same String value as <code><a href="../Classes/PlaceCategory.html#/s
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

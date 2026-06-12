@@ -3,7 +3,7 @@ title: "IntegerRange"
 slug: "sdk-for-ios-explore-api-reference-structs-integerrange"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -127,4 +127,4 @@ slug: "sdk-for-ios-explore-api-reference-structs-integerrange"
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

@@ -3,7 +3,7 @@ title: "TileSourceLoadTileRequestHandle"
 slug: "sdk-for-ios-explore-api-reference-protocols-tilesourceloadtilerequesthandle"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -78,4 +78,4 @@ Upon cancellation, the corresponding result handler must be informed.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

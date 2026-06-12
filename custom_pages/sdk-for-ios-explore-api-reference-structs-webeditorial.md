@@ -3,7 +3,7 @@ title: "WebEditorial"
 slug: "sdk-for-ios-explore-api-reference-structs-webeditorial"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -177,4 +177,4 @@ slug: "sdk-for-ios-explore-api-reference-structs-webeditorial"
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

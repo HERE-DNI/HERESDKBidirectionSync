@@ -3,7 +3,7 @@ title: "WebSource"
 slug: "sdk-for-ios-explore-api-reference-structs-websource"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -153,4 +153,4 @@ and a direct link to the item.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

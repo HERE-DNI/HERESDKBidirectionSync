@@ -3,7 +3,7 @@ title: "RoadShieldIconProperties"
 slug: "sdk-for-ios-explore-api-reference-structs-roadshieldiconproperties"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -252,4 +252,4 @@ in reality. It will be in the output road-shield icon.</li>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

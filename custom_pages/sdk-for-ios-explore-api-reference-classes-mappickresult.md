@@ -3,7 +3,7 @@ title: "MapPickResult"
 slug: "sdk-for-ios-explore-api-reference-classes-mappickresult"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -129,4 +129,4 @@ slug: "sdk-for-ios-explore-api-reference-classes-mappickresult"
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

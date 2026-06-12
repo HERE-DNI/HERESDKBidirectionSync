@@ -3,7 +3,7 @@ title: "MapImageOverlay"
 slug: "sdk-for-ios-explore-api-reference-classes-mapimageoverlay"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -304,4 +304,4 @@ in pixels that is equal to the height of the image.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

@@ -3,7 +3,7 @@ title: "IndoorManeuver"
 slug: "sdk-for-ios-explore-api-reference-classes-indoormaneuver"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -279,4 +279,4 @@ slug: "sdk-for-ios-explore-api-reference-classes-indoormaneuver"
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

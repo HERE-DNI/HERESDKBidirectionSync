@@ -3,7 +3,7 @@ title: "MapContentSettings"
 slug: "sdk-for-ios-explore-api-reference-classes-mapcontentsettings"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -273,4 +273,4 @@ validity time and the refresh period derived from the refresh period of the traf
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

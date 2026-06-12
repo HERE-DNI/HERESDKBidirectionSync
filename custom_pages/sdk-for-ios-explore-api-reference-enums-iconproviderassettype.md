@@ -3,7 +3,7 @@ title: "IconProviderAssetType"
 slug: "sdk-for-ios-explore-api-reference-enums-iconproviderassettype"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -102,4 +102,4 @@ slug: "sdk-for-ios-explore-api-reference-enums-iconproviderassettype"
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

@@ -3,7 +3,7 @@ title: "Fare"
 slug: "sdk-for-ios-explore-api-reference-structs-fare"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -152,4 +152,4 @@ slug: "sdk-for-ios-explore-api-reference-structs-fare"
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

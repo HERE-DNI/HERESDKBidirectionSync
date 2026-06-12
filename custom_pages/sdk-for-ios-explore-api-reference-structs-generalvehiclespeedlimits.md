@@ -3,7 +3,7 @@ title: "GeneralVehicleSpeedLimits"
 slug: "sdk-for-ios-explore-api-reference-structs-generalvehiclespeedlimits"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -259,4 +259,4 @@ It is <code>nil</code> if the minimum speed on highways for the country / state 
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

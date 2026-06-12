@@ -3,7 +3,7 @@ title: "IndoorSpaceData"
 slug: "sdk-for-ios-explore-api-reference-structs-indoorspacedata"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -152,4 +152,4 @@ slug: "sdk-for-ios-explore-api-reference-structs-indoorspacedata"
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

@@ -3,7 +3,7 @@ title: "MaxAxleGroupWeight"
 slug: "sdk-for-ios-explore-api-reference-structs-maxaxlegroupweight"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -127,4 +127,4 @@ slug: "sdk-for-ios-explore-api-reference-structs-maxaxlegroupweight"
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

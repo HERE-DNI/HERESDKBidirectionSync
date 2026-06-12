@@ -3,7 +3,7 @@ title: "TaskHandle"
 slug: "sdk-for-ios-explore-api-reference-protocols-taskhandle"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -134,4 +134,4 @@ platform dependent reason.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

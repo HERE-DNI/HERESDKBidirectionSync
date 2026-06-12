@@ -3,7 +3,7 @@ title: "AttributeSettingError"
 slug: "sdk-for-ios-explore-api-reference-classes-mapscenelights-attributesettingerror"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -79,4 +79,4 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapscenelights-attributesetting
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

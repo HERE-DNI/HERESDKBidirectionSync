@@ -3,7 +3,7 @@ title: "RouteStop"
 slug: "sdk-for-ios-explore-api-reference-structs-routestop"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -133,4 +133,4 @@ prevents user from using origin location as route stop.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

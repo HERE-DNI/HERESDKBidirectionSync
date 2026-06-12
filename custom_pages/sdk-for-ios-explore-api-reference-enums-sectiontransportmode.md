@@ -3,7 +3,7 @@ title: "SectionTransportMode"
 slug: "sdk-for-ios-explore-api-reference-enums-sectiontransportmode"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -334,4 +334,4 @@ This transport mode does not have the access to the bus-only lane/road.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

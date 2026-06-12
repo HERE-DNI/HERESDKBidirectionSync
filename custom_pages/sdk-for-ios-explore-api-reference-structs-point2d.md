@@ -3,7 +3,7 @@ title: "Point2D"
 slug: "sdk-for-ios-explore-api-reference-structs-point2d"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -128,4 +128,4 @@ then (0,0) will mark the top-left corner of the view.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

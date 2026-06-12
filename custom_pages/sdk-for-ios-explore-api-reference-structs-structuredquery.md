@@ -3,7 +3,7 @@ title: "StructuredQuery"
 slug: "sdk-for-ios-explore-api-reference-structs-structuredquery"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -236,4 +236,4 @@ consider providing city along with it.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

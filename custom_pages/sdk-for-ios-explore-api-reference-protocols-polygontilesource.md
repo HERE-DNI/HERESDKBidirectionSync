@@ -3,7 +3,7 @@ title: "PolygonTileSource"
 slug: "sdk-for-ios-explore-api-reference-protocols-polygontilesource"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -303,4 +303,4 @@ Upon completion, the handler gets informed.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

@@ -3,7 +3,7 @@ title: "ExternalID"
 slug: "sdk-for-ios-explore-api-reference-structs-externalid"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -127,4 +127,4 @@ slug: "sdk-for-ios-explore-api-reference-structs-externalid"
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

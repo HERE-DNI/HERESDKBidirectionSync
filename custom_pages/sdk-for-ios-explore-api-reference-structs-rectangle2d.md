@@ -3,7 +3,7 @@ title: "Rectangle2D"
 slug: "sdk-for-ios-explore-api-reference-structs-rectangle2d"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -131,4 +131,4 @@ The height expands towards the bottom of the view.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

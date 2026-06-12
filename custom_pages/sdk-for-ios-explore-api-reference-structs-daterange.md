@@ -3,7 +3,7 @@ title: "DateRange"
 slug: "sdk-for-ios-explore-api-reference-structs-daterange"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -133,4 +133,4 @@ If absent the element is valid until some other element takes over.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

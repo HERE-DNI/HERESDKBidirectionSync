@@ -3,7 +3,7 @@ title: "TransitWaypoint"
 slug: "sdk-for-ios-explore-api-reference-structs-transitwaypoint"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -128,4 +128,4 @@ affect the generated actions descriptions.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

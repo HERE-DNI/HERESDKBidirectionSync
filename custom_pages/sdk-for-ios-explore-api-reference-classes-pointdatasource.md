@@ -3,7 +3,7 @@ title: "PointDataSource"
 slug: "sdk-for-ios-explore-api-reference-classes-pointdatasource"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -313,4 +313,4 @@ The inspector cannot update the point data.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

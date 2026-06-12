@@ -3,7 +3,7 @@ title: "AttributionType"
 slug: "sdk-for-ios-explore-api-reference-enums-attributiontype"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -102,4 +102,4 @@ slug: "sdk-for-ios-explore-api-reference-enums-attributiontype"
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

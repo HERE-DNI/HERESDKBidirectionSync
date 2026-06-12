@@ -3,7 +3,7 @@ title: "TrafficOnSection"
 slug: "sdk-for-ios-explore-api-reference-structs-trafficonsection"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -202,4 +202,4 @@ slug: "sdk-for-ios-explore-api-reference-structs-trafficonsection"
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

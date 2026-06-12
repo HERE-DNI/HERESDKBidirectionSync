@@ -3,7 +3,7 @@ title: "MapLoader"
 slug: "sdk-for-ios-explore-api-reference-maploader"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -224,4 +224,4 @@ behavior. Related APIs may change for new releases without a deprecation process
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

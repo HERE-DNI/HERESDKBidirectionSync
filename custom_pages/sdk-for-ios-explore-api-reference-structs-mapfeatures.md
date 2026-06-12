@@ -3,7 +3,7 @@ title: "MapFeatures"
 slug: "sdk-for-ios-explore-api-reference-structs-mapfeatures"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -418,4 +418,4 @@ By default, this map feature is not enabled.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

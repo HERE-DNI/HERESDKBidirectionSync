@@ -3,7 +3,7 @@ title: "RoutePlaceType"
 slug: "sdk-for-ios-explore-api-reference-enums-routeplacetype"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -177,4 +177,4 @@ slug: "sdk-for-ios-explore-api-reference-enums-routeplacetype"
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

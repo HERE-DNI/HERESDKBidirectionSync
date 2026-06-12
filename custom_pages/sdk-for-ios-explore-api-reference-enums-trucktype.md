@@ -3,7 +3,7 @@ title: "TruckType"
 slug: "sdk-for-ios-explore-api-reference-enums-trucktype"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -103,4 +103,4 @@ slug: "sdk-for-ios-explore-api-reference-enums-trucktype"
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

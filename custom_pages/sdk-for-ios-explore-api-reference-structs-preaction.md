@@ -3,7 +3,7 @@ title: "PreAction"
 slug: "sdk-for-ios-explore-api-reference-structs-preaction"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -129,4 +129,4 @@ Defaults to 0 seconds.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

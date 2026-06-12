@@ -3,7 +3,7 @@ title: "RouteRailwayCrossing"
 slug: "sdk-for-ios-explore-api-reference-structs-routerailwaycrossing"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -152,4 +152,4 @@ slug: "sdk-for-ios-explore-api-reference-structs-routerailwaycrossing"
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

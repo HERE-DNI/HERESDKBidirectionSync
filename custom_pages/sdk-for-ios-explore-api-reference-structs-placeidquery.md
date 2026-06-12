@@ -3,7 +3,7 @@ title: "PlaceIdQuery"
 slug: "sdk-for-ios-explore-api-reference-structs-placeidquery"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -121,4 +121,4 @@ slug: "sdk-for-ios-explore-api-reference-structs-placeidquery"
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

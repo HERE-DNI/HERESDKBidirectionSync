@@ -3,7 +3,7 @@ title: "NoticeSeverity"
 slug: "sdk-for-ios-explore-api-reference-enums-noticeseverity"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -103,4 +103,4 @@ Any associated resource (e.g., route section) must not be used without further e
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

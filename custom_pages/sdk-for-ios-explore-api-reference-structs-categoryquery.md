@@ -3,7 +3,7 @@ title: "CategoryQuery"
 slug: "sdk-for-ios-explore-api-reference-structs-categoryquery"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -576,4 +576,4 @@ Results with a partial match are included in the response.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

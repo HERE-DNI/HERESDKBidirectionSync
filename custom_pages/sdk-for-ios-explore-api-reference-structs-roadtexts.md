@@ -3,7 +3,7 @@ title: "RoadTexts"
 slug: "sdk-for-ios-explore-api-reference-structs-roadtexts"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -129,4 +129,4 @@ Empty if the road has no numbers assigned.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

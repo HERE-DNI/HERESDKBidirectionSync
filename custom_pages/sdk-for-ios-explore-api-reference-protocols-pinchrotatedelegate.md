@@ -3,7 +3,7 @@ title: "PinchRotateDelegate"
 slug: "sdk-for-ios-explore-api-reference-protocols-pinchrotatedelegate"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -148,4 +148,4 @@ counter clockwise finger rotation gives negative deltas.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

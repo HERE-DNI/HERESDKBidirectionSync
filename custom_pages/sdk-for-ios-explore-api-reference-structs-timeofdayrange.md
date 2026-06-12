@@ -3,7 +3,7 @@ title: "TimeOfDayRange"
 slug: "sdk-for-ios-explore-api-reference-structs-timeofdayrange"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -132,4 +132,4 @@ The period is exclusive of the given value.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

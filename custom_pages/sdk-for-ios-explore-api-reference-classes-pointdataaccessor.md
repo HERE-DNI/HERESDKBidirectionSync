@@ -3,7 +3,7 @@ title: "PointDataAccessor"
 slug: "sdk-for-ios-explore-api-reference-classes-pointdataaccessor"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -202,4 +202,4 @@ behavior. Related APIs may change for new releases without a deprecation process
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

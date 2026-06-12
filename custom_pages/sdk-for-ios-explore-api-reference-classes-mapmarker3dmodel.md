@@ -3,7 +3,7 @@ title: "MapMarker3DModel"
 slug: "sdk-for-ios-explore-api-reference-classes-mapmarker3dmodel"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -489,4 +489,4 @@ This color is multiplied with color of texture.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

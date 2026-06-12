@@ -3,7 +3,7 @@ title: "VehicleType"
 slug: "sdk-for-ios-explore-api-reference-enums-vehicletype"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -231,4 +231,4 @@ deprecation process.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

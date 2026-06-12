@@ -3,7 +3,7 @@ title: "EVChargingTariff"
 slug: "sdk-for-ios-explore-api-reference-structs-evchargingtariff"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -256,4 +256,4 @@ charging session. If no condition matches, the element without any condition app
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

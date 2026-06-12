@@ -3,7 +3,7 @@ title: "RasterDataSource"
 slug: "sdk-for-ios-explore-api-reference-classes-rasterdatasource"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -512,4 +512,4 @@ the strong reference by calling <code><a href="../Classes/RasterDataSource.html#
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

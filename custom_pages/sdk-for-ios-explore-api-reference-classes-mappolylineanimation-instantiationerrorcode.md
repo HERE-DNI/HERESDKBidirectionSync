@@ -3,7 +3,7 @@ title: "InstantiationErrorCode"
 slug: "sdk-for-ios-explore-api-reference-classes-mappolylineanimation-instantiationerrorcode"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -80,4 +80,4 @@ slug: "sdk-for-ios-explore-api-reference-classes-mappolylineanimation-instantiat
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

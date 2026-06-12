@@ -3,7 +3,7 @@ title: "EnergySource"
 slug: "sdk-for-ios-explore-api-reference-structs-energysource"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -130,4 +130,4 @@ Related APIs may change for new releases without a deprecation process.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

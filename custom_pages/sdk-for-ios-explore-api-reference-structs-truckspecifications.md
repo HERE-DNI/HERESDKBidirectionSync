@@ -3,7 +3,7 @@ title: "TruckSpecifications"
 slug: "sdk-for-ios-explore-api-reference-structs-truckspecifications"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -518,4 +518,4 @@ Note: This parameter is currently used only for the calculation of tolls in regi
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

@@ -3,7 +3,7 @@ title: "GenericFuel"
 slug: "sdk-for-ios-explore-api-reference-structs-genericfuel"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -130,4 +130,4 @@ The list can be empty when no fuel additives are available or when the informati
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

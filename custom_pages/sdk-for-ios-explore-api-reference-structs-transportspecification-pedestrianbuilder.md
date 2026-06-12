@@ -3,7 +3,7 @@ title: "PedestrianBuilder"
 slug: "sdk-for-ios-explore-api-reference-structs-transportspecification-pedestrianbuilder"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -159,4 +159,4 @@ from the <code>TransportSpecification.PedestrianBuilder</code> object.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

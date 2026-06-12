@@ -3,7 +3,7 @@ title: "IsolineOptions"
 slug: "sdk-for-ios-explore-api-reference-structs-isolineoptions"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -540,4 +540,4 @@ Setting at least one limit to <code><a href="../Structs/IsolineOptions/Calculati
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

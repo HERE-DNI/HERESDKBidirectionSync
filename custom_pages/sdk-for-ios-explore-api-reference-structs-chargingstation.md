@@ -3,7 +3,7 @@ title: "ChargingStation"
 slug: "sdk-for-ios-explore-api-reference-structs-chargingstation"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -239,4 +239,4 @@ from the list specified in the request parameter <code><a href="../Structs/Elect
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

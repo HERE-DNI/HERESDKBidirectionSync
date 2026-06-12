@@ -3,7 +3,7 @@ title: "FarePassValidityPeriod"
 slug: "sdk-for-ios-explore-api-reference-structs-farepassvalidityperiod"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -128,4 +128,4 @@ slug: "sdk-for-ios-explore-api-reference-structs-farepassvalidityperiod"
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

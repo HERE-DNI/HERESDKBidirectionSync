@@ -3,7 +3,7 @@ title: "NetworkEndpoint"
 slug: "sdk-for-ios-explore-api-reference-structs-networkendpoint"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -255,4 +255,4 @@ slug: "sdk-for-ios-explore-api-reference-structs-networkendpoint"
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

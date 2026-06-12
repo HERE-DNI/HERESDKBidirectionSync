@@ -3,7 +3,7 @@ title: "EVChargingStation"
 slug: "sdk-for-ios-explore-api-reference-structs-evchargingstation"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -569,4 +569,4 @@ This field can be <code>nil</code> if data is unavailable.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

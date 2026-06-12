@@ -3,7 +3,7 @@ title: "TextUsageOptions"
 slug: "sdk-for-ios-explore-api-reference-structs-textusageoptions"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -155,4 +155,4 @@ Defaults to <code><a href="../Enums/LocalizedTextPreference.html#/s:7heresdk23Lo
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

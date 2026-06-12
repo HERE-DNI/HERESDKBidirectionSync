@@ -3,7 +3,7 @@ title: "Area"
 slug: "sdk-for-ios-explore-api-reference-structs-categoryquery-area"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -390,4 +390,4 @@ Milan (Italy) and Konstanz (Germany) will have the far away part removed due to 
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

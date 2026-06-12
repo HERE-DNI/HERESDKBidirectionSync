@@ -3,7 +3,7 @@ title: "Transport"
 slug: "sdk-for-ios-explore-api-reference-transport"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -462,4 +462,4 @@ The provided value must be greater or equal to 0.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

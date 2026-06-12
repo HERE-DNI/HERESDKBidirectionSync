@@ -3,7 +3,7 @@ title: "PointDataBuilder"
 slug: "sdk-for-ios-explore-api-reference-classes-pointdatabuilder"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -207,4 +207,4 @@ Altitude of coordinates is ignored.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

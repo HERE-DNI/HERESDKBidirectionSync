@@ -3,7 +3,7 @@ title: "Evse"
 slug: "sdk-for-ios-explore-api-reference-structs-evse"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -232,4 +232,4 @@ Example of ID format: <code>DE*ICT*E0001897</code>.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

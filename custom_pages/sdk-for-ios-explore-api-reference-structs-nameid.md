@@ -3,7 +3,7 @@ title: "NameID"
 slug: "sdk-for-ios-explore-api-reference-structs-nameid"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -127,4 +127,4 @@ slug: "sdk-for-ios-explore-api-reference-structs-nameid"
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

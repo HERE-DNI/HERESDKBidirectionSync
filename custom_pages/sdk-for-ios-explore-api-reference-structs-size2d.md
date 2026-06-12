@@ -3,7 +3,7 @@ title: "Size2D"
 slug: "sdk-for-ios-explore-api-reference-structs-size2d"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -127,4 +127,4 @@ slug: "sdk-for-ios-explore-api-reference-structs-size2d"
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

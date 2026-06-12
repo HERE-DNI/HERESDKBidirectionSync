@@ -3,7 +3,7 @@ title: "LayerConfiguration"
 slug: "sdk-for-ios-explore-api-reference-structs-layerconfiguration"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -238,4 +238,4 @@ the same data to enable discoverability by name or category. Hence, features mig
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

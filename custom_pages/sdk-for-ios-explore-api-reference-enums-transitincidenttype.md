@@ -3,7 +3,7 @@ title: "TransitIncidentType"
 slug: "sdk-for-ios-explore-api-reference-enums-transitincidenttype"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -302,4 +302,4 @@ slug: "sdk-for-ios-explore-api-reference-enums-transitincidenttype"
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

@@ -3,7 +3,7 @@ title: "CatalogIdentifier"
 slug: "sdk-for-ios-explore-api-reference-structs-catalogidentifier"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -159,4 +159,4 @@ Note: when <code>CatalogIdentifier</code> created with <code><a href="sdk-for-io
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

@@ -3,7 +3,7 @@ title: "MapImage"
 slug: "sdk-for-ios-explore-api-reference-classes-mapimage"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -419,4 +419,4 @@ bundle which can optionally be passed in. Currently only PNG or SVG Tiny image r
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

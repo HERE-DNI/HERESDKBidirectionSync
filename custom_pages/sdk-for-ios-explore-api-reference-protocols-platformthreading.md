@@ -3,7 +3,7 @@ title: "PlatformThreading"
 slug: "sdk-for-ios-explore-api-reference-protocols-platformthreading"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -223,4 +223,4 @@ to objects whose lifetimes are critical or references should be released at the 
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

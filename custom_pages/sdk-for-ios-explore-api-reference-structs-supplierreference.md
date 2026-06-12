@@ -3,7 +3,7 @@ title: "SupplierReference"
 slug: "sdk-for-ios-explore-api-reference-structs-supplierreference"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -152,4 +152,4 @@ slug: "sdk-for-ios-explore-api-reference-structs-supplierreference"
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

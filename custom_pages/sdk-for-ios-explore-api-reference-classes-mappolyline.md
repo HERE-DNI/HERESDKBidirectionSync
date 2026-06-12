@@ -3,7 +3,7 @@ title: "MapPolyline"
 slug: "sdk-for-ios-explore-api-reference-classes-mappolyline"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -728,4 +728,4 @@ Does not affect other polylines that might be running this animation.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

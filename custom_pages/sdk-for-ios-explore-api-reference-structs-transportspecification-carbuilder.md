@@ -3,7 +3,7 @@ title: "CarBuilder"
 slug: "sdk-for-ios-explore-api-reference-structs-transportspecification-carbuilder"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -159,4 +159,4 @@ from the <code>TransportSpecification.CarBuilder</code> object.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

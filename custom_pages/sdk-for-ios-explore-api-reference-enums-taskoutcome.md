@@ -3,7 +3,7 @@ title: "TaskOutcome"
 slug: "sdk-for-ios-explore-api-reference-enums-taskoutcome"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -102,4 +102,4 @@ slug: "sdk-for-ios-explore-api-reference-enums-taskoutcome"
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

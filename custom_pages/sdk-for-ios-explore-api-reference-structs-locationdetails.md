@@ -3,7 +3,7 @@ title: "LocationDetails"
 slug: "sdk-for-ios-explore-api-reference-structs-locationdetails"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -177,4 +177,4 @@ slug: "sdk-for-ios-explore-api-reference-structs-locationdetails"
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

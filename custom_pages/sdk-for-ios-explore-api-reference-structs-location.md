@@ -3,7 +3,7 @@ title: "Location"
 slug: "sdk-for-ios-explore-api-reference-structs-location"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -423,4 +423,4 @@ If it cannot be determined, the value is <code>nil</code>.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

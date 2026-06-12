@@ -3,7 +3,7 @@ title: "Isoline"
 slug: "sdk-for-ios-explore-api-reference-classes-isoline"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -244,4 +244,4 @@ only a single polygon is included.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

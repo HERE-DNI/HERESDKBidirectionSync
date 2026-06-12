@@ -3,7 +3,7 @@ title: "InstantiationErrorCode"
 slug: "sdk-for-ios-explore-api-reference-structs-mapmeasuredependentrendersize-instantiationerrorcode"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -130,4 +130,4 @@ slug: "sdk-for-ios-explore-api-reference-structs-mapmeasuredependentrendersize-i
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

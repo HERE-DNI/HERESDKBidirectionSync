@@ -3,7 +3,7 @@ title: "AnimationDelegate"
 slug: "sdk-for-ios-explore-api-reference-protocols-animationdelegate"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -96,4 +96,4 @@ slug: "sdk-for-ios-explore-api-reference-protocols-animationdelegate"
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

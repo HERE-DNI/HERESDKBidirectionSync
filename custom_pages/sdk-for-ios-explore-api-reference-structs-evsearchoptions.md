@@ -3,7 +3,7 @@ title: "EVSearchOptions"
 slug: "sdk-for-ios-explore-api-reference-structs-evsearchoptions"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -132,4 +132,4 @@ If empty, the response contains only ad-hoc tariffs, if available.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

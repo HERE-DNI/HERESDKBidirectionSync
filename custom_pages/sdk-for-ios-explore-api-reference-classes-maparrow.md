@@ -3,7 +3,7 @@ title: "MapArrow"
 slug: "sdk-for-ios-explore-api-reference-classes-maparrow"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -195,4 +195,4 @@ Only <code><a href="sdk-for-ios-explore-api-reference-structs-mapmeasurerange">M
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

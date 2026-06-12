@@ -3,7 +3,7 @@ title: "LineDataBuilder"
 slug: "sdk-for-ios-explore-api-reference-classes-linedatabuilder"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -210,4 +210,4 @@ Altitude of polyline vertices is ignored.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

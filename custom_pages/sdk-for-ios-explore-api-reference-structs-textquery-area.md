@@ -3,7 +3,7 @@ title: "Area"
 slug: "sdk-for-ios-explore-api-reference-structs-textquery-area"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -461,4 +461,4 @@ The given list of countries and center define the area that will be used in the 
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

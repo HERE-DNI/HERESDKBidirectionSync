@@ -3,7 +3,7 @@ title: "Routing"
 slug: "sdk-for-ios-explore-api-reference-routing"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -3764,4 +3764,4 @@ route.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

@@ -3,7 +3,7 @@ title: "MapViewOptions"
 slug: "sdk-for-ios-explore-api-reference-structs-mapviewoptions"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -130,4 +130,4 @@ Alpha value gets ignored and is assumed as 1.0.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

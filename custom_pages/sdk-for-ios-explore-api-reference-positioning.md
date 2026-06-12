@@ -3,7 +3,7 @@ title: "Positioning"
 slug: "sdk-for-ios-explore-api-reference-positioning"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -97,4 +97,4 @@ slug: "sdk-for-ios-explore-api-reference-positioning"
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

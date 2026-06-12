@@ -3,7 +3,7 @@ title: "LineTileSource"
 slug: "sdk-for-ios-explore-api-reference-protocols-linetilesource"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -303,4 +303,4 @@ Upon completion, the handler gets informed.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

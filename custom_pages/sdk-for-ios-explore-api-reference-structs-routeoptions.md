@@ -3,7 +3,7 @@ title: "RouteOptions"
 slug: "sdk-for-ios-explore-api-reference-structs-routeoptions"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -444,4 +444,4 @@ By default, this is set to <code>false</code>.</li>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

@@ -3,7 +3,7 @@ title: "PolylineSimplifier"
 slug: "sdk-for-ios-explore-api-reference-classes-polylinesimplifier"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -200,4 +200,4 @@ when operation is finished.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

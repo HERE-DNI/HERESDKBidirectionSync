@@ -3,7 +3,7 @@ title: "ResponseDetails"
 slug: "sdk-for-ios-explore-api-reference-structs-responsedetails"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -127,4 +127,4 @@ slug: "sdk-for-ios-explore-api-reference-structs-responsedetails"
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

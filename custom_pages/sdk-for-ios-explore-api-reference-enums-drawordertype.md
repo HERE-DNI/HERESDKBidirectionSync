@@ -3,7 +3,7 @@ title: "DrawOrderType"
 slug: "sdk-for-ios-explore-api-reference-enums-drawordertype"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -113,4 +113,4 @@ same draw order.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

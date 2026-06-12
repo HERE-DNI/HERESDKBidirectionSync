@@ -3,7 +3,7 @@ title: "Address"
 slug: "sdk-for-ios-explore-api-reference-structs-address"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -479,4 +479,4 @@ Note: This String can be empty when no data is available.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

@@ -3,7 +3,7 @@ title: "TileUrlProviderFactory"
 slug: "sdk-for-ios-explore-api-reference-classes-tileurlproviderfactory"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -105,4 +105,4 @@ The valid range for X and Y is from 0 to 2^level − 1.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

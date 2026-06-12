@@ -3,7 +3,7 @@ title: "LocationSource"
 slug: "sdk-for-ios-explore-api-reference-enums-locationsource"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -108,4 +108,4 @@ using integrated GNSS or sensor fusion components.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

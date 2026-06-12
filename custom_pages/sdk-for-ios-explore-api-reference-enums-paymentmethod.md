@@ -3,7 +3,7 @@ title: "PaymentMethod"
 slug: "sdk-for-ios-explore-api-reference-enums-paymentmethod"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -277,4 +277,4 @@ slug: "sdk-for-ios-explore-api-reference-enums-paymentmethod"
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

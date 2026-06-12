@@ -3,7 +3,7 @@ title: "TrafficIncidentResult"
 slug: "sdk-for-ios-explore-api-reference-classes-pickmapcontentresult-trafficincidentresult"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -242,4 +242,4 @@ for the specified event.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

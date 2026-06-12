@@ -3,7 +3,7 @@ title: "LocalizedTextPreference"
 slug: "sdk-for-ios-explore-api-reference-enums-localizedtextpreference"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -135,4 +135,4 @@ More examples:
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

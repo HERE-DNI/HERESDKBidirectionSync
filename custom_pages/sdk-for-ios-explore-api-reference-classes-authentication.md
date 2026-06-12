@@ -3,7 +3,7 @@ title: "Authentication"
 slug: "sdk-for-ios-explore-api-reference-classes-authentication"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -166,4 +166,4 @@ retrieve a secure token. This method operates synchronously.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

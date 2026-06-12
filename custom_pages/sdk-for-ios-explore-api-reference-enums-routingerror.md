@@ -3,7 +3,7 @@ title: "RoutingError"
 slug: "sdk-for-ios-explore-api-reference-enums-routingerror"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -681,4 +681,4 @@ When both, origin and destination, cannot be matched, then the origin waypoint e
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

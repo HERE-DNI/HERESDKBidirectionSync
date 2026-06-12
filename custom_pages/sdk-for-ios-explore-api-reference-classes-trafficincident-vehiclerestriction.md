@@ -3,7 +3,7 @@ title: "VehicleRestriction"
 slug: "sdk-for-ios-explore-api-reference-classes-trafficincident-vehiclerestriction"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -791,4 +791,4 @@ If the value is <code>nil</code> the lower occupants bound is not specified.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

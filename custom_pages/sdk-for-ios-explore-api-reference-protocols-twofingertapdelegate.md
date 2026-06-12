@@ -3,7 +3,7 @@ title: "TwoFingerTapDelegate"
 slug: "sdk-for-ios-explore-api-reference-protocols-twofingertapdelegate"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -97,4 +97,4 @@ Two finger tap gesture occurs after tapping on the screen with two fingers.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

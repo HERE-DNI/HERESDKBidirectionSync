@@ -3,7 +3,7 @@ title: "InstantiationErrorCode"
 slug: "sdk-for-ios-explore-api-reference-classes-mapmarkeranimation-instantiationerrorcode"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -80,4 +80,4 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapmarkeranimation-instantiatio
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

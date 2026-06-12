@@ -3,7 +3,7 @@ title: "MapPickFilter"
 slug: "sdk-for-ios-explore-api-reference-classes-mapscene-mappickfilter"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -126,4 +126,4 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapscene-mappickfilter"
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

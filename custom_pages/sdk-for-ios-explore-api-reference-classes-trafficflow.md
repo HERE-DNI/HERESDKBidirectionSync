@@ -3,7 +3,7 @@ title: "TrafficFlow"
 slug: "sdk-for-ios-explore-api-reference-classes-trafficflow"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -309,4 +309,4 @@ A confidence value equal to 0.70 or lower means that the data is derived from hi
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

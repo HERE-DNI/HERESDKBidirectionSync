@@ -3,7 +3,7 @@ title: "Representation"
 slug: "sdk-for-ios-explore-api-reference-classes-mappolyline-representation"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -106,4 +106,4 @@ slug: "sdk-for-ios-explore-api-reference-classes-mappolyline-representation"
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

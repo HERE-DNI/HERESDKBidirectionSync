@@ -3,7 +3,7 @@ title: "SDKVersion"
 slug: "sdk-for-ios-explore-api-reference-structs-sdkversion"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -305,4 +305,4 @@ Please note, <code>sdk.core.engine.SDKBuildInformation</code> can be used to get
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

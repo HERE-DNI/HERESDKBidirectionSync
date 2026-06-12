@@ -3,7 +3,7 @@ title: "IndoorRoutePlace"
 slug: "sdk-for-ios-explore-api-reference-structs-indoorrouteplace"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -202,4 +202,4 @@ slug: "sdk-for-ios-explore-api-reference-structs-indoorrouteplace"
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

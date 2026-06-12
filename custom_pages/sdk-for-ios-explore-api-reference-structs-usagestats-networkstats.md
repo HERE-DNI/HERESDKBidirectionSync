@@ -3,7 +3,7 @@ title: "NetworkStats"
 slug: "sdk-for-ios-explore-api-reference-structs-usagestats-networkstats"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -183,4 +183,4 @@ will be considered as 1 methodCall, and requestCounter is 2.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

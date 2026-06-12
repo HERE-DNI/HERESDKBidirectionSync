@@ -3,7 +3,7 @@ title: "TrafficIncidentLookupOptions"
 slug: "sdk-for-ios-explore-api-reference-structs-trafficincidentlookupoptions"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -103,4 +103,4 @@ If the language code is null or not supported then response fields are expected 
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

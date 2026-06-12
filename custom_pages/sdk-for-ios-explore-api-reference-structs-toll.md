@@ -3,7 +3,7 @@ title: "Toll"
 slug: "sdk-for-ios-explore-api-reference-structs-toll"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -163,4 +163,4 @@ is never empty.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

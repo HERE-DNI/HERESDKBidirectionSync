@@ -3,7 +3,7 @@ title: "POIPaymentDetails"
 slug: "sdk-for-ios-explore-api-reference-structs-poipaymentdetails"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -135,4 +135,4 @@ not available, it is set to <code>nil</code>.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

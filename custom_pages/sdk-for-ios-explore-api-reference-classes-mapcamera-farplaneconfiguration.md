@@ -3,7 +3,7 @@ title: "FarPlaneConfiguration"
 slug: "sdk-for-ios-explore-api-reference-classes-mapcamera-farplaneconfiguration"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -134,4 +134,4 @@ distanceToTargetInMeters * distanceFactor
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

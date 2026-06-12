@@ -3,7 +3,7 @@ title: "BusinessDetails"
 slug: "sdk-for-ios-explore-api-reference-structs-businessdetails"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -154,4 +154,4 @@ valid contracts with HERE.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

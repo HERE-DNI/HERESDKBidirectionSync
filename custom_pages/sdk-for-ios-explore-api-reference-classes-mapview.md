@@ -3,7 +3,7 @@ title: "MapView"
 slug: "sdk-for-ios-explore-api-reference-classes-mapview"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -1490,4 +1490,4 @@ a memory warning (<code>UIViewController.didReceiveMemoryWarning()</code>)</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

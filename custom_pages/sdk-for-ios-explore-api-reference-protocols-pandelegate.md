@@ -3,7 +3,7 @@ title: "PanDelegate"
 slug: "sdk-for-ios-explore-api-reference-protocols-pandelegate"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -133,4 +133,4 @@ Pan gesture occurs when a finger is moving on the screen.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

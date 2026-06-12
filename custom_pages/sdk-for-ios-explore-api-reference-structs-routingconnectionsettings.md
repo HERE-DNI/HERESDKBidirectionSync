@@ -3,7 +3,7 @@ title: "RoutingConnectionSettings"
 slug: "sdk-for-ios-explore-api-reference-structs-routingconnectionsettings"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -210,4 +210,4 @@ By default, the max amount of retries is 3.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

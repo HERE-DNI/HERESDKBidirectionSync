@@ -3,7 +3,7 @@ title: "PassThroughWaypoint"
 slug: "sdk-for-ios-explore-api-reference-structs-passthroughwaypoint"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -128,4 +128,4 @@ slug: "sdk-for-ios-explore-api-reference-structs-passthroughwaypoint"
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

@@ -3,7 +3,7 @@ title: "PlaceChain"
 slug: "sdk-for-ios-explore-api-reference-structs-placechain"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -103,4 +103,4 @@ The complete list of supported chain IDs can be found <a href="https://www.here.
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

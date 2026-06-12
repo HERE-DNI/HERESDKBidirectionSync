@@ -3,7 +3,7 @@ title: "Other Structures"
 slug: "sdk-for-ios-explore-api-reference-other structs"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -150,4 +150,4 @@ specific location on it.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

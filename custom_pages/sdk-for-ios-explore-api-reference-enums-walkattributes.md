@@ -3,7 +3,7 @@ title: "WalkAttributes"
 slug: "sdk-for-ios-explore-api-reference-enums-walkattributes"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -202,4 +202,4 @@ slug: "sdk-for-ios-explore-api-reference-enums-walkattributes"
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

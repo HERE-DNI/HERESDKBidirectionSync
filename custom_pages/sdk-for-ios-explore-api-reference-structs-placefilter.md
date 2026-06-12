@@ -3,7 +3,7 @@ title: "PlaceFilter"
 slug: "sdk-for-ios-explore-api-reference-structs-placefilter"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -255,4 +255,4 @@ Otherwise will result in <code><a href="../Enums/SearchError.html#/s:7heresdk11S
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

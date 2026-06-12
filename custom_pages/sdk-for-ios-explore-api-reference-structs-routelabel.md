@@ -3,7 +3,7 @@ title: "RouteLabel"
 slug: "sdk-for-ios-explore-api-reference-structs-routelabel"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -128,4 +128,4 @@ To include route labels in the route response, enable it using <code><a href="..
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

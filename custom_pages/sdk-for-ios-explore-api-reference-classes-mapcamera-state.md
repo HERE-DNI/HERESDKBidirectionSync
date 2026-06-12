@@ -3,7 +3,7 @@ title: "State"
 slug: "sdk-for-ios-explore-api-reference-classes-mapcamera-state"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -194,4 +194,4 @@ will consider the target point as being located on the ground.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

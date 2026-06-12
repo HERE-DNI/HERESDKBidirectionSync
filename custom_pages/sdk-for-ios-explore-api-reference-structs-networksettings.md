@@ -3,7 +3,7 @@ title: "NetworkSettings"
 slug: "sdk-for-ios-explore-api-reference-structs-networksettings"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -102,4 +102,4 @@ slug: "sdk-for-ios-explore-api-reference-structs-networksettings"
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

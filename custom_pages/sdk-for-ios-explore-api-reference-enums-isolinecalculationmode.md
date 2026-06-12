@@ -3,7 +3,7 @@ title: "IsolineCalculationMode"
 slug: "sdk-for-ios-explore-api-reference-enums-isolinecalculationmode"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -131,4 +131,4 @@ quality and performance.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

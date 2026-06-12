@@ -3,7 +3,7 @@ title: "ScooterSpecification"
 slug: "sdk-for-ios-explore-api-reference-structs-scooterspecification"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -144,4 +144,4 @@ A few examples:</li>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

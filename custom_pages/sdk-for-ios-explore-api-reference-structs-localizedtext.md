@@ -3,7 +3,7 @@ title: "LocalizedText"
 slug: "sdk-for-ios-explore-api-reference-structs-localizedtext"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -128,4 +128,4 @@ If locale is not supported by the platform, <code>nil</code> is returned.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

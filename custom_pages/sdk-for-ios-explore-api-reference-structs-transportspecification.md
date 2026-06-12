@@ -3,7 +3,7 @@ title: "TransportSpecification"
 slug: "sdk-for-ios-explore-api-reference-structs-transportspecification"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -437,4 +437,4 @@ By default, it is not set.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

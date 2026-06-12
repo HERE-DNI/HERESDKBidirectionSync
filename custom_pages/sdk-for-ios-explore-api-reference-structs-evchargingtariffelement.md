@@ -3,7 +3,7 @@ title: "EVChargingTariffElement"
 slug: "sdk-for-ios-explore-api-reference-structs-evchargingtariffelement"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -149,4 +149,4 @@ condition is typically present for charging sessions that do not meet any of the
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

@@ -3,7 +3,7 @@ title: "IconProvider"
 slug: "sdk-for-ios-explore-api-reference-classes-iconprovider"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -228,4 +228,4 @@ type of road and/or place it is used, or an error code.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

@@ -3,7 +3,7 @@ title: "TwoFingerPanDelegate"
 slug: "sdk-for-ios-explore-api-reference-protocols-twofingerpandelegate"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -134,4 +134,4 @@ and both of them are moving vertically.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

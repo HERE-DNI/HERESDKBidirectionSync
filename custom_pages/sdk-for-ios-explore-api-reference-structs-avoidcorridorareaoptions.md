@@ -3,7 +3,7 @@ title: "AvoidCorridorAreaOptions"
 slug: "sdk-for-ios-explore-api-reference-structs-avoidcorridorareaoptions"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -185,4 +185,4 @@ Otherwise route calculation will fail with an [sdk.routing.RoutingError.INVALID_
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

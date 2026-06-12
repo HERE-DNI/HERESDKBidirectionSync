@@ -3,7 +3,7 @@ title: "AuthenticationError"
 slug: "sdk-for-ios-explore-api-reference-enums-authenticationerror"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -153,4 +153,4 @@ slug: "sdk-for-ios-explore-api-reference-enums-authenticationerror"
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

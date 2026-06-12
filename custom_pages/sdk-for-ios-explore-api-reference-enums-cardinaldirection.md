@@ -3,7 +3,7 @@ title: "CardinalDirection"
 slug: "sdk-for-ios-explore-api-reference-enums-cardinaldirection"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -153,4 +153,4 @@ The direction indicates the same information as on the signpost shield text: For
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

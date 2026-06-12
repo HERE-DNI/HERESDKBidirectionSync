@@ -3,7 +3,7 @@ title: "EVChargingPool"
 slug: "sdk-for-ios-explore-api-reference-structs-evchargingpool"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -311,4 +311,4 @@ Only online search fills this field.</li>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

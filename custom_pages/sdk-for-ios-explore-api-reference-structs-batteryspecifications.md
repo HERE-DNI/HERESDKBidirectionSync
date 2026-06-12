@@ -3,7 +3,7 @@ title: "BatterySpecifications"
 slug: "sdk-for-ios-explore-api-reference-structs-batteryspecifications"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -439,4 +439,4 @@ The provided value must be greater than or equal to 0. By default, it is not set
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

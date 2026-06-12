@@ -3,7 +3,7 @@ title: "VehicleRestrictionMaxWeight"
 slug: "sdk-for-ios-explore-api-reference-structs-vehiclerestrictionmaxweight"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -128,4 +128,4 @@ along with the specific type of maximum permitted weight restriction.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

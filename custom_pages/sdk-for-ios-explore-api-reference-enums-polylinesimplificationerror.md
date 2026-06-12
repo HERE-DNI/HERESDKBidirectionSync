@@ -3,7 +3,7 @@ title: "PolylineSimplificationError"
 slug: "sdk-for-ios-explore-api-reference-enums-polylinesimplificationerror"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -80,4 +80,4 @@ invoking <code>cancel(...)</code>.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

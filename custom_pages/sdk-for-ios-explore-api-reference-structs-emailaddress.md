@@ -3,7 +3,7 @@ title: "EmailAddress"
 slug: "sdk-for-ios-explore-api-reference-structs-emailaddress"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -129,4 +129,4 @@ Otherwise, <code><a href="../Structs/EmailAddress.html#/s:7heresdk12EmailAddress
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

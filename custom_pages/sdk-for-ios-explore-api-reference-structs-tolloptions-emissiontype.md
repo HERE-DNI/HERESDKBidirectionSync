@@ -3,7 +3,7 @@ title: "EmissionType"
 slug: "sdk-for-ios-explore-api-reference-structs-tolloptions-emissiontype"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -229,4 +229,4 @@ slug: "sdk-for-ios-explore-api-reference-structs-tolloptions-emissiontype"
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

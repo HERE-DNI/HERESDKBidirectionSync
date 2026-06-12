@@ -3,7 +3,7 @@ title: "EnergyMix"
 slug: "sdk-for-ios-explore-api-reference-structs-energymix"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -205,4 +205,4 @@ The sum of the percentages over the energy sources should be 100%.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

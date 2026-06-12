@@ -3,7 +3,7 @@ title: "SDKMapViewInitializer"
 slug: "sdk-for-ios-explore-api-reference-classes-sdkmapviewinitializer"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -78,4 +78,4 @@ slug: "sdk-for-ios-explore-api-reference-classes-sdkmapviewinitializer"
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

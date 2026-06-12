@@ -3,7 +3,7 @@ title: "TriangleMeshBuilder"
 slug: "sdk-for-ios-explore-api-reference-classes-trianglemeshbuilder"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -125,4 +125,4 @@ representing the bottom-left and <code>&lt;1,1&gt;</code> upper-right corner.</p
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

@@ -3,7 +3,7 @@ title: "RasterDataSourceConfiguration"
 slug: "sdk-for-ios-explore-api-reference-structs-rasterdatasourceconfiguration"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -230,4 +230,4 @@ the configuration.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

@@ -3,7 +3,7 @@ title: "TransitTransport"
 slug: "sdk-for-ios-explore-api-reference-structs-transittransport"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -227,4 +227,4 @@ slug: "sdk-for-ios-explore-api-reference-structs-transittransport"
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

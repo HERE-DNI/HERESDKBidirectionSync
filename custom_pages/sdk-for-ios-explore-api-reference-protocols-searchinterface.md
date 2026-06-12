@@ -3,7 +3,7 @@ title: "SearchInterface"
 slug: "sdk-for-ios-explore-api-reference-protocols-searchinterface"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -589,4 +589,4 @@ Complete details can be obtained by searching with <code><a href="sdk-for-ios-ex
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

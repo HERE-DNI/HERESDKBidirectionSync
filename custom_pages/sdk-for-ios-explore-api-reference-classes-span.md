@@ -3,7 +3,7 @@ title: "Span"
 slug: "sdk-for-ios-explore-api-reference-classes-span"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -671,4 +671,4 @@ The results are based on country code and state code of <code>Span</code> object
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

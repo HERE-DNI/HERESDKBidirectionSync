@@ -3,7 +3,7 @@ title: "TrafficOnRoute"
 slug: "sdk-for-ios-explore-api-reference-structs-trafficonroute"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -155,4 +155,4 @@ traveled section index.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

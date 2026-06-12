@@ -3,7 +3,7 @@ title: "KeyframeInterpolationMode"
 slug: "sdk-for-ios-explore-api-reference-enums-keyframeinterpolationmode"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -127,4 +127,4 @@ slug: "sdk-for-ios-explore-api-reference-enums-keyframeinterpolationmode"
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

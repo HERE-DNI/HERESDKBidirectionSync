@@ -3,7 +3,7 @@ title: "LocationTechnology"
 slug: "sdk-for-ios-explore-api-reference-enums-locationtechnology"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -177,4 +177,4 @@ slug: "sdk-for-ios-explore-api-reference-enums-locationtechnology"
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

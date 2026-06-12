@@ -3,7 +3,7 @@ title: "PreActionType"
 slug: "sdk-for-ios-explore-api-reference-enums-preactiontype"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -102,4 +102,4 @@ slug: "sdk-for-ios-explore-api-reference-enums-preactiontype"
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

@@ -3,7 +3,7 @@ title: "MapCamera"
 slug: "sdk-for-ios-explore-api-reference-classes-mapcamera"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -1526,4 +1526,4 @@ Minimal distance value is clamped to 100 meters.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

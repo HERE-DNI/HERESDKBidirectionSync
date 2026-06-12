@@ -3,7 +3,7 @@ title: "PointTileSourceLoadResultHandler"
 slug: "sdk-for-ios-explore-api-reference-protocols-pointtilesourceloadresulthandler"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -164,4 +164,4 @@ slug: "sdk-for-ios-explore-api-reference-protocols-pointtilesourceloadresulthand
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

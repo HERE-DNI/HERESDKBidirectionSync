@@ -3,7 +3,7 @@ title: "IndicatorStyle"
 slug: "sdk-for-ios-explore-api-reference-classes-locationindicator-indicatorstyle"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -107,4 +107,4 @@ into which the user is moving. This should be preferred for vehicle navigation u
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

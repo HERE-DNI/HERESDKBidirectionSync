@@ -3,7 +3,7 @@ title: "ShadowQuality"
 slug: "sdk-for-ios-explore-api-reference-enums-shadowquality"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -178,4 +178,4 @@ maps and the cascade count), which is shared by all views.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

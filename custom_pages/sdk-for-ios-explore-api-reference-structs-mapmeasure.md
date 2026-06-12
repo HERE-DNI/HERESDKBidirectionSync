@@ -3,7 +3,7 @@ title: "MapMeasure"
 slug: "sdk-for-ios-explore-api-reference-structs-mapmeasure"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -185,4 +185,4 @@ Check <code><a href="sdk-for-ios-explore-api-reference-classes-mapcamera">MapCam
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

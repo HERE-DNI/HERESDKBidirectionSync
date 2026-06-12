@@ -3,7 +3,7 @@ title: "ViewPin"
 slug: "sdk-for-ios-explore-api-reference-classes-mapview-viewpin"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -136,4 +136,4 @@ When not set, the coordinates are interpreted as at ground level.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

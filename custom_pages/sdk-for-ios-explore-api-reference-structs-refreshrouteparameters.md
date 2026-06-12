@@ -3,7 +3,7 @@ title: "RefreshRouteParameters"
 slug: "sdk-for-ios-explore-api-reference-structs-refreshrouteparameters"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -370,4 +370,4 @@ would ignore the first part of the section. If it is provided with an invalid st
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

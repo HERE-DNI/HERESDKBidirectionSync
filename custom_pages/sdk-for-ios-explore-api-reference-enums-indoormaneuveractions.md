@@ -3,7 +3,7 @@ title: "IndoorManeuverActions"
 slug: "sdk-for-ios-explore-api-reference-enums-indoormaneuveractions"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -452,4 +452,4 @@ slug: "sdk-for-ios-explore-api-reference-enums-indoormaneuveractions"
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

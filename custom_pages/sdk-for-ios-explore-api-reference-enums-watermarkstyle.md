@@ -3,7 +3,7 @@ title: "WatermarkStyle"
 slug: "sdk-for-ios-explore-api-reference-enums-watermarkstyle"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -104,4 +104,4 @@ night or satellite based).</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

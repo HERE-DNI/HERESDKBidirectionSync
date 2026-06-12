@@ -3,7 +3,7 @@ title: "TextStyle"
 slug: "sdk-for-ios-explore-api-reference-classes-mapmarker-textstyle"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -548,4 +548,4 @@ If empty string is provided, a default font will be used.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

@@ -3,7 +3,7 @@ title: "ResultType"
 slug: "sdk-for-ios-explore-api-reference-structs-structuredquery-resulttype"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -179,4 +179,4 @@ slug: "sdk-for-ios-explore-api-reference-structs-structuredquery-resulttype"
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

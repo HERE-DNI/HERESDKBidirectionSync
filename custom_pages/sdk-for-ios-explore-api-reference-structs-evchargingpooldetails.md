@@ -3,7 +3,7 @@ title: "EVChargingPoolDetails"
 slug: "sdk-for-ios-explore-api-reference-structs-evchargingpooldetails"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -206,4 +206,4 @@ in <code><a href="../Structs/SDKOptions.html#/s:7heresdk10SDKOptionsV18layerConf
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

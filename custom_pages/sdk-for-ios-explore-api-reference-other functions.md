@@ -3,7 +3,7 @@ title: "Other Functions"
 slug: "sdk-for-ios-explore-api-reference-other functions"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -99,4 +99,4 @@ slug: "sdk-for-ios-explore-api-reference-other functions"
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

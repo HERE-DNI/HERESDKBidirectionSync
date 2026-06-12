@@ -3,7 +3,7 @@ title: "WebRating"
 slug: "sdk-for-ios-explore-api-reference-structs-webrating"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -177,4 +177,4 @@ slug: "sdk-for-ios-explore-api-reference-structs-webrating"
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

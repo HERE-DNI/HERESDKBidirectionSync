@@ -3,7 +3,7 @@ title: "DesiredCatalog"
 slug: "sdk-for-ios-explore-api-reference-structs-desiredcatalog"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -143,4 +143,4 @@ or result in error logs if the desired version is not available.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

@@ -3,7 +3,7 @@ title: "SearchOptions"
 slug: "sdk-for-ios-explore-api-reference-structs-searchoptions"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -194,4 +194,4 @@ Otherwise, this value is ignored.</li>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

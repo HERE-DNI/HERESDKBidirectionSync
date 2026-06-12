@@ -3,7 +3,7 @@ title: "Suggestion"
 slug: "sdk-for-ios-explore-api-reference-classes-suggestion"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -224,4 +224,4 @@ This is not supported in offline search.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

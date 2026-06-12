@@ -3,7 +3,7 @@ title: "LocationTime"
 slug: "sdk-for-ios-explore-api-reference-structs-locationtime"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -160,4 +160,4 @@ UTC-05:00, it is -18000.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

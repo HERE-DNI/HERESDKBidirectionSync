@@ -3,7 +3,7 @@ title: "ChargingSupplyType"
 slug: "sdk-for-ios-explore-api-reference-enums-chargingsupplytype"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -127,4 +127,4 @@ slug: "sdk-for-ios-explore-api-reference-enums-chargingsupplytype"
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

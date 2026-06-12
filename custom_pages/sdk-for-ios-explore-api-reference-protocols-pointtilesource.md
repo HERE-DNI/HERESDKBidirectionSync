@@ -3,7 +3,7 @@ title: "PointTileSource"
 slug: "sdk-for-ios-explore-api-reference-protocols-pointtilesource"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -302,4 +302,4 @@ Upon completion, the handler gets informed.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

@@ -3,7 +3,7 @@ title: "InstantiationErrorCode"
 slug: "sdk-for-ios-explore-api-reference-classes-mappolyline-representation-instantiationerrorcode"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -82,4 +82,4 @@ slug: "sdk-for-ios-explore-api-reference-classes-mappolyline-representation-inst
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

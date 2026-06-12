@@ -3,7 +3,7 @@ title: "TransitRoutingEngine"
 slug: "sdk-for-ios-explore-api-reference-classes-transitroutingengine"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -224,4 +224,4 @@ It is always invoked on the main thread.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

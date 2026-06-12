@@ -3,7 +3,7 @@ title: "TranslucentMapLayerGroup"
 slug: "sdk-for-ios-explore-api-reference-classes-translucentmaplayergroup"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -367,4 +367,4 @@ Example:</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

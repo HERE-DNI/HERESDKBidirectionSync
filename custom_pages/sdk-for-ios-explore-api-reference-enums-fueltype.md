@@ -3,7 +3,7 @@ title: "FuelType"
 slug: "sdk-for-ios-explore-api-reference-enums-fueltype"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -804,4 +804,4 @@ unexpected behaviors. Related APIs may change for new releases without a depreca
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

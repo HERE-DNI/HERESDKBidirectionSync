@@ -3,7 +3,7 @@ title: "TollFare"
 slug: "sdk-for-ios-explore-api-reference-structs-tollfare"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -236,4 +236,4 @@ the documentation available in the <a href="https://www.here.com/docs/bundle/rou
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

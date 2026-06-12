@@ -3,7 +3,7 @@ title: "GeoPolyline"
 slug: "sdk-for-ios-explore-api-reference-structs-geopolyline"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -296,4 +296,4 @@ they may adapt the result to the length of the underlying object described by th
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

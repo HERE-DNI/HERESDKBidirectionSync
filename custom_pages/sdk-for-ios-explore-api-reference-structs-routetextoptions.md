@@ -3,7 +3,7 @@ title: "RouteTextOptions"
 slug: "sdk-for-ios-explore-api-reference-structs-routetextoptions"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -155,4 +155,4 @@ Defaults to each attribute as <code><a href="../Enums/LocalizedTextPreference.ht
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

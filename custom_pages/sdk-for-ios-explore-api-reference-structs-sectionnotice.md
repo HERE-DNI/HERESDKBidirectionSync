@@ -3,7 +3,7 @@ title: "SectionNotice"
 slug: "sdk-for-ios-explore-api-reference-structs-sectionnotice"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -157,4 +157,4 @@ If the section notice is none of the above-mentioned three types, then this will
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

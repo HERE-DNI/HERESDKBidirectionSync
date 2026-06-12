@@ -3,7 +3,7 @@ title: "MapMeasureRange"
 slug: "sdk-for-ios-explore-api-reference-structs-mapmeasurerange"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -195,4 +195,4 @@ slug: "sdk-for-ios-explore-api-reference-structs-mapmeasurerange"
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

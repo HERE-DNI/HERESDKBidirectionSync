@@ -3,7 +3,7 @@ title: "MapCameraUpdateFactory"
 slug: "sdk-for-ios-explore-api-reference-classes-mapcameraupdatefactory"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -1440,4 +1440,4 @@ when trying to apply such animations.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

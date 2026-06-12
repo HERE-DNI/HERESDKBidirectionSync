@@ -3,7 +3,7 @@ title: "ErrorDetails"
 slug: "sdk-for-ios-explore-api-reference-classes-translucentmaplayergroup-errordetails"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -130,4 +130,4 @@ slug: "sdk-for-ios-explore-api-reference-classes-translucentmaplayergroup-errord
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

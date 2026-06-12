@@ -3,7 +3,7 @@ title: "MarkerType"
 slug: "sdk-for-ios-explore-api-reference-classes-locationindicator-markertype"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -158,4 +158,4 @@ in navigation mode.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

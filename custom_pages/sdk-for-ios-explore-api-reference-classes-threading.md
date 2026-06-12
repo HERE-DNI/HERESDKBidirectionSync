@@ -3,7 +3,7 @@ title: "Threading"
 slug: "sdk-for-ios-explore-api-reference-classes-threading"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -127,4 +127,4 @@ slug: "sdk-for-ios-explore-api-reference-classes-threading"
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

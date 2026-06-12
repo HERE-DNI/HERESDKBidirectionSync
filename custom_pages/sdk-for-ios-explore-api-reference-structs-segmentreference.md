@@ -3,7 +3,7 @@ title: "SegmentReference"
 slug: "sdk-for-ios-explore-api-reference-structs-segmentreference"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -278,4 +278,4 @@ As in HERE Map Content.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

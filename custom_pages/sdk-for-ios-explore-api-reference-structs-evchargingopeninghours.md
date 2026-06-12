@@ -3,7 +3,7 @@ title: "EVChargingOpeningHours"
 slug: "sdk-for-ios-explore-api-reference-structs-evchargingopeninghours"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -181,4 +181,4 @@ charging outside opening hours.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

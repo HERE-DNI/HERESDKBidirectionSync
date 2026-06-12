@@ -3,7 +3,7 @@ title: "AccessAttributes"
 slug: "sdk-for-ios-explore-api-reference-enums-accessattributes"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -127,4 +127,4 @@ slug: "sdk-for-ios-explore-api-reference-enums-accessattributes"
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

@@ -3,7 +3,7 @@ title: "BicycleOptions"
 slug: "sdk-for-ios-explore-api-reference-structs-bicycleoptions"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -155,4 +155,4 @@ no restrictions are applied.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

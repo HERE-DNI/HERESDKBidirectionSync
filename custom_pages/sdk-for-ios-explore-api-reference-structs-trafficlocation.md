@@ -3,7 +3,7 @@ title: "TrafficLocation"
 slug: "sdk-for-ios-explore-api-reference-structs-trafficlocation"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -186,4 +186,4 @@ The length can be 0 only if the incident supplier has provided incomplete data.<
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

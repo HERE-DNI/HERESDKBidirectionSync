@@ -3,7 +3,7 @@ title: "VisibilityState"
 slug: "sdk-for-ios-explore-api-reference-enums-visibilitystate"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -102,4 +102,4 @@ slug: "sdk-for-ios-explore-api-reference-enums-visibilitystate"
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

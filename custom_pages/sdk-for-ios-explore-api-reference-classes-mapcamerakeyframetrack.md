@@ -3,7 +3,7 @@ title: "MapCameraKeyframeTrack"
 slug: "sdk-for-ios-explore-api-reference-classes-mapcamerakeyframetrack"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -877,4 +877,4 @@ and creation of the keyframe track will fail.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

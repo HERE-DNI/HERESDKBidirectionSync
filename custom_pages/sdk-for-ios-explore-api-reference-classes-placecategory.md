@@ -3,7 +3,7 @@ title: "PlaceCategory"
 slug: "sdk-for-ios-explore-api-reference-classes-placecategory"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -1981,4 +1981,4 @@ That means that when <code>PlaceCategory</code> is constructed directly by the c
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

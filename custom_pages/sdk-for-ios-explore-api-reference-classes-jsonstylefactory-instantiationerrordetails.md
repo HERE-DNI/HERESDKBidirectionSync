@@ -3,7 +3,7 @@ title: "InstantiationErrorDetails"
 slug: "sdk-for-ios-explore-api-reference-classes-jsonstylefactory-instantiationerrordetails"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -130,4 +130,4 @@ slug: "sdk-for-ios-explore-api-reference-classes-jsonstylefactory-instantiatione
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

@@ -3,7 +3,7 @@ title: "RouteRailwayCrossingType"
 slug: "sdk-for-ios-explore-api-reference-enums-routerailwaycrossingtype"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -127,4 +127,4 @@ slug: "sdk-for-ios-explore-api-reference-enums-routerailwaycrossingtype"
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

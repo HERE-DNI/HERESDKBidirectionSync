@@ -3,7 +3,7 @@ title: "LocationDelegate"
 slug: "sdk-for-ios-explore-api-reference-protocols-locationdelegate"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -104,4 +104,4 @@ Invoked on the main thread.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

@@ -3,7 +3,7 @@ title: "MeshBuilder"
 slug: "sdk-for-ios-explore-api-reference-classes-meshbuilder"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -298,4 +298,4 @@ counter-clockwise winding.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

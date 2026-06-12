@@ -3,7 +3,7 @@ title: "PickMapItemsResult"
 slug: "sdk-for-ios-explore-api-reference-classes-pickmapitemsresult"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -180,4 +180,4 @@ or individual markers belonging to a cluster at the location of picking.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

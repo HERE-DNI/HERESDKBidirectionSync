@@ -3,7 +3,7 @@ title: "RestrictedVehicleCategory"
 slug: "sdk-for-ios-explore-api-reference-classes-trafficincident-restrictedvehiclecategory"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -385,4 +385,4 @@ that does not operate on rails and is used for the transportation of people or c
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

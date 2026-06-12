@@ -3,7 +3,7 @@ title: "DashPattern"
 slug: "sdk-for-ios-explore-api-reference-structs-dashpattern"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -206,4 +206,4 @@ This allows for patterns like <code>'  —  —  —  —'</code> or <code>' —
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

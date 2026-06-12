@@ -3,7 +3,7 @@ title: "InstantiationErrorDetails"
 slug: "sdk-for-ios-explore-api-reference-classes-maplayerbuilder-instantiationerrordetails"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -130,4 +130,4 @@ slug: "sdk-for-ios-explore-api-reference-classes-maplayerbuilder-instantiationer
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

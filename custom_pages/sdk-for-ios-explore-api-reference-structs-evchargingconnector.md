@@ -3,7 +3,7 @@ title: "EVChargingConnector"
 slug: "sdk-for-ios-explore-api-reference-structs-evchargingconnector"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -309,4 +309,4 @@ Available only if <code>EVChargingLocationFeature.TARIFFS</code> is included in
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

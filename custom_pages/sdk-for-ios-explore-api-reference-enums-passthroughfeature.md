@@ -3,7 +3,7 @@ title: "PassThroughFeature"
 slug: "sdk-for-ios-explore-api-reference-enums-passthroughfeature"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -187,4 +187,4 @@ search information from online services even when offline mode is enabled.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

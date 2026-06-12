@@ -3,7 +3,7 @@ title: "Ev"
 slug: "sdk-for-ios-explore-api-reference-structs-placefilter-ev"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -238,4 +238,4 @@ Not supported for <code>suggestByText</code> in <code>OfflineSearchEngine</code>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

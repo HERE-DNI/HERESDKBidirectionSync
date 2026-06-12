@@ -3,7 +3,7 @@ title: "LandlinePhone"
 slug: "sdk-for-ios-explore-api-reference-structs-landlinephone"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -154,4 +154,4 @@ Otherwise, <code><a href="../Structs/LandlinePhone.html#/s:7heresdk13LandlinePho
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

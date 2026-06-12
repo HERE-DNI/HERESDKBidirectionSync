@@ -3,7 +3,7 @@ title: "TrafficIncident"
 slug: "sdk-for-ios-explore-api-reference-classes-trafficincident"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -503,4 +503,4 @@ and at least one of the vehicle properties is under the matching <code><a href="
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

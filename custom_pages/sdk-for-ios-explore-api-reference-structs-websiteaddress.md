@@ -3,7 +3,7 @@ title: "WebsiteAddress"
 slug: "sdk-for-ios-explore-api-reference-structs-websiteaddress"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -129,4 +129,4 @@ Otherwise, <code><a href="../Structs/WebsiteAddress.html#/s:7heresdk14WebsiteAdd
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

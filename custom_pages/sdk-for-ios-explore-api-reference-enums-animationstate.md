@@ -3,7 +3,7 @@ title: "AnimationState"
 slug: "sdk-for-ios-explore-api-reference-enums-animationstate"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -127,4 +127,4 @@ slug: "sdk-for-ios-explore-api-reference-enums-animationstate"
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

@@ -3,7 +3,7 @@ title: "Maps"
 slug: "sdk-for-ios-explore-api-reference-maps"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -4622,4 +4622,4 @@ night or satellite based).</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

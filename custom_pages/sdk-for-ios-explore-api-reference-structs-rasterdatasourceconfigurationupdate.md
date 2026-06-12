@@ -3,7 +3,7 @@ title: "RasterDataSourceConfigurationUpdate"
 slug: "sdk-for-ios-explore-api-reference-structs-rasterdatasourceconfigurationupdate"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -155,4 +155,4 @@ When not set, no change is made to the current value.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

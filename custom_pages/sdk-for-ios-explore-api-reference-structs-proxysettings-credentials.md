@@ -3,7 +3,7 @@ title: "Credentials"
 slug: "sdk-for-ios-explore-api-reference-structs-proxysettings-credentials"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -129,4 +129,4 @@ slug: "sdk-for-ios-explore-api-reference-structs-proxysettings-credentials"
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

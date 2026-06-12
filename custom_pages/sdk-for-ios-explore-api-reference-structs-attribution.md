@@ -3,7 +3,7 @@ title: "Attribution"
 slug: "sdk-for-ios-explore-api-reference-structs-attribution"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -153,4 +153,4 @@ the entire content of the text attribute will be considered.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

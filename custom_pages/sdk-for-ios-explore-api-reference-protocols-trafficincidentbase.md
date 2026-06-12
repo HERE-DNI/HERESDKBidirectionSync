@@ -3,7 +3,7 @@ title: "TrafficIncidentBase"
 slug: "sdk-for-ios-explore-api-reference-protocols-trafficincidentbase"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -177,4 +177,4 @@ slug: "sdk-for-ios-explore-api-reference-protocols-trafficincidentbase"
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

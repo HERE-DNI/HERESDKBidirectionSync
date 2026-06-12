@@ -3,7 +3,7 @@ title: "ScooterOptions"
 slug: "sdk-for-ios-explore-api-reference-structs-scooteroptions"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -389,4 +389,4 @@ is <code>nil</code>, which means the scooter route calculation ignores all engin
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

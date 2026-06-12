@@ -3,7 +3,7 @@ title: "VehicleSpecification"
 slug: "sdk-for-ios-explore-api-reference-structs-vehiclespecification"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -1403,4 +1403,4 @@ By default, it is not set.</li>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

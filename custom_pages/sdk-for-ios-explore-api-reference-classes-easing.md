@@ -3,7 +3,7 @@ title: "Easing"
 slug: "sdk-for-ios-explore-api-reference-classes-easing"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -214,4 +214,4 @@ In order to achieve the same animation precision for animations with different d
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

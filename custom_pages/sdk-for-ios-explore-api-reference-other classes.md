@@ -3,7 +3,7 @@ title: "Other Classes"
 slug: "sdk-for-ios-explore-api-reference-other classes"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -73,4 +73,4 @@ slug: "sdk-for-ios-explore-api-reference-other classes"
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

@@ -3,7 +3,7 @@ title: "DashRepresentation"
 slug: "sdk-for-ios-explore-api-reference-classes-mappolyline-dashrepresentation"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -415,4 +415,4 @@ no color is used.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

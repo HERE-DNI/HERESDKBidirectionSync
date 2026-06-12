@@ -3,7 +3,7 @@ title: "Feature"
 slug: "sdk-for-ios-explore-api-reference-structs-usagestats-feature"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -713,4 +713,4 @@ This includes a <strong>Network Positioning</strong> transaction count with HRN 
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

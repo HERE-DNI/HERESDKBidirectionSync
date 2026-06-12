@@ -3,7 +3,7 @@ title: "GeoOrientation"
 slug: "sdk-for-ios-explore-api-reference-structs-geoorientation"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -158,4 +158,4 @@ Bearing axis is perpendicular to the ground and passes through the target coordi
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

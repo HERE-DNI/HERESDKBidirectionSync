@@ -3,7 +3,7 @@ title: "Section"
 slug: "sdk-for-ios-explore-api-reference-classes-section"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -628,4 +628,4 @@ This area will be set only if <code>origin</code>, <code>destination</code> or <
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

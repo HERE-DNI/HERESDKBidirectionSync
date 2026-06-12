@@ -3,7 +3,7 @@ title: "DoubleTapDelegate"
 slug: "sdk-for-ios-explore-api-reference-protocols-doubletapdelegate"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -97,4 +97,4 @@ Double-tap gesture occurs after double-tapping on the screen.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

@@ -3,7 +3,7 @@ title: "SignpostLabel"
 slug: "sdk-for-ios-explore-api-reference-structs-signpostlabel"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -129,4 +129,4 @@ Can be null if the road has no number assigned.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

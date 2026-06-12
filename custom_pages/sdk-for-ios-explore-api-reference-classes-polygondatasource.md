@@ -3,7 +3,7 @@ title: "PolygonDataSource"
 slug: "sdk-for-ios-explore-api-reference-classes-polygondatasource"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -312,4 +312,4 @@ The inspector cannot update the polygon data.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

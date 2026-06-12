@@ -3,7 +3,7 @@ title: "MapContentType"
 slug: "sdk-for-ios-explore-api-reference-enums-mapcontenttype"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -152,4 +152,4 @@ slug: "sdk-for-ios-explore-api-reference-enums-mapcontenttype"
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

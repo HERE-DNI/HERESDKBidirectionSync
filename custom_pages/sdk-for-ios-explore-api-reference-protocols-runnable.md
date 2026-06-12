@@ -3,7 +3,7 @@ title: "Runnable"
 slug: "sdk-for-ios-explore-api-reference-protocols-runnable"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -78,4 +78,4 @@ instances are intended to be executed by a thread.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

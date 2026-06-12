@@ -3,7 +3,7 @@ title: "IsolineRangeType"
 slug: "sdk-for-ios-explore-api-reference-enums-isolinerangetype"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -131,4 +131,4 @@ Otherwise, the request will fail.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

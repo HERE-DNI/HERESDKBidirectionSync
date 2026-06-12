@@ -3,7 +3,7 @@ title: "WaypointType"
 slug: "sdk-for-ios-explore-api-reference-enums-waypointtype"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -107,4 +107,4 @@ Imprecise inputs such as a map touch location should be represented as a pass th
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

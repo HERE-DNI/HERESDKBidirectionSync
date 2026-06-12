@@ -3,7 +3,7 @@ title: "Angle"
 slug: "sdk-for-ios-explore-api-reference-classes-angle"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -200,4 +200,4 @@ slug: "sdk-for-ios-explore-api-reference-classes-angle"
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

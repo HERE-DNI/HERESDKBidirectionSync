@@ -3,7 +3,7 @@ title: "MapViewBase"
 slug: "sdk-for-ios-explore-api-reference-protocols-mapviewbase"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -702,4 +702,4 @@ completes.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

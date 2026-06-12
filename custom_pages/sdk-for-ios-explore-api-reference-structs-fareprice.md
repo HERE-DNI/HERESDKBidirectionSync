@@ -3,7 +3,7 @@ title: "FarePrice"
 slug: "sdk-for-ios-explore-api-reference-structs-fareprice"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -264,4 +264,4 @@ Defaults to 0.</li>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

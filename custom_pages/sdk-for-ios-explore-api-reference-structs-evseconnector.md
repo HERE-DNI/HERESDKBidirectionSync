@@ -3,7 +3,7 @@ title: "EVSEConnector"
 slug: "sdk-for-ios-explore-api-reference-structs-evseconnector"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -178,4 +178,4 @@ see <a href="https://www.here.com/docs/bundle/ev-charge-points-api-developer-gui
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

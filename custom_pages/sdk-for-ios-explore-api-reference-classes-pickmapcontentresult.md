@@ -3,7 +3,7 @@ title: "PickMapContentResult"
 slug: "sdk-for-ios-explore-api-reference-classes-pickmapcontentresult"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -134,4 +134,4 @@ Description of incident is currently not present in our map data, so
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

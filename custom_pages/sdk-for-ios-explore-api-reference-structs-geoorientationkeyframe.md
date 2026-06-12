@@ -3,7 +3,7 @@ title: "GeoOrientationKeyframe"
 slug: "sdk-for-ios-explore-api-reference-structs-geoorientationkeyframe"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -160,4 +160,4 @@ Negative duration value gets clamped to 0.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

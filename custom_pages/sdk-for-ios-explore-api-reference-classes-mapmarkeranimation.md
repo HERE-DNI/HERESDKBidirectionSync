@@ -3,7 +3,7 @@ title: "MapMarkerAnimation"
 slug: "sdk-for-ios-explore-api-reference-classes-mapmarkeranimation"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -157,4 +157,4 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapmarkeranimation"
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

@@ -3,7 +3,7 @@ title: "ElectricVehicleOptions"
 slug: "sdk-for-ios-explore-api-reference-structs-electricvehicleoptions"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -276,4 +276,4 @@ By default, it is set to <code>nil</code>.</li>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

@@ -3,7 +3,7 @@ title: "MapMarkerCluster"
 slug: "sdk-for-ios-explore-api-reference-classes-mapmarkercluster"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -507,4 +507,4 @@ which were already added to the map scene will be ignored.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

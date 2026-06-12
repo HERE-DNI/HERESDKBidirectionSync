@@ -3,7 +3,7 @@ title: "Provider"
 slug: "sdk-for-ios-explore-api-reference-structs-rasterdatasourceconfiguration-provider"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -212,4 +212,4 @@ appropriate z value of the tile key will be determined.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

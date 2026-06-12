@@ -3,7 +3,7 @@ title: "WeightPerAxleGroup"
 slug: "sdk-for-ios-explore-api-reference-structs-weightperaxlegroup"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -208,4 +208,4 @@ By default, it is not set.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

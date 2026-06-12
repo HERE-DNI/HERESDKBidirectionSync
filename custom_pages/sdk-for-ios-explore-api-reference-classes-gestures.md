@@ -3,7 +3,7 @@ title: "Gestures"
 slug: "sdk-for-ios-explore-api-reference-classes-gestures"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -326,4 +326,4 @@ gesture.</p>
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

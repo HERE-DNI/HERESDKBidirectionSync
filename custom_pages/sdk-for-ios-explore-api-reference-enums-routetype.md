@@ -3,7 +3,7 @@ title: "RouteType"
 slug: "sdk-for-ios-explore-api-reference-enums-routetype"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -231,4 +231,4 @@ See <a href="https://developer.here.com/documentation/here-map-content-schema/de
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>

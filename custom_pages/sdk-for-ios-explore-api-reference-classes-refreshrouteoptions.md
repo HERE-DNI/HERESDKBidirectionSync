@@ -3,7 +3,7 @@ title: "RefreshRouteOptions"
 slug: "sdk-for-ios-explore-api-reference-classes-refreshrouteoptions"
 ---
 
-<HTMLBlock>{
+<HTMLBlock> {
 `
 <!DOCTYPE html>
 
@@ -569,4 +569,4 @@ an <code><a href="../Enums/RoutingError.html#/s:7heresdk12RoutingErrorO12noRoute
 </html>
 
 `
-}</HTMLBlock>
+} </HTMLBlock>
