@@ -7,43 +7,17 @@ slug: "sdk-for-flutter-explore-mapview-mapmarker3dmodel-mapmarker3dmodel-withtex
 `
 <div class="sdk-for-flutter">
 <!-- MapMarker3DModel.withTextureFilePathAndColor.html -->
-<div class="doc-with-sidebar"><div class="doc-content">
-<div id="overlay-under-drawer"></div>
-<header id="title">
-menu
-<ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapmarker3dmodel-class</li>
-<li class="self-crumb">MapMarker3DModel.withTextureFilePathAndColor factory constructor</li>
-</ol>
-<div class="self-name">MapMarker3DModel.withTextureFilePathAndColor</div>
-<form class="search navbar-right" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-box" placeholder="Loading search..." type="text"/>
-</form>
-<div class="toggle" id="theme-button" title="Toggle brightness">
-<label for="theme">
-<input id="theme" type="checkbox" value="light-theme"/>
 
-        dark_mode
-      
 
-        light_mode
-      
-</label>
-</div>
-</header>
-<main>
-<div class="main-content" data-above-sidebar="mapview/MapMarker3DModel-class-sidebar.html" data-below-sidebar="" id="dartdoc-main-content">
 <div>
 <h1>MapMarker3DModel.withTextureFilePathAndColor constructor</h1></div>
-<section class="multi-line-signature">
-MapMarker3DModel.withTextureFilePathAndColor(<wbr/><ol class="parameter-list single-line"> <li>String geometryFilePath, </li>
+
+MapMarker3DModel.withTextureFilePathAndColor(<ol class="parameter-list single-line"> <li>String geometryFilePath, </li>
 <li>String textureFilePath, </li>
 <li>Color color</li>
 </ol>)
-    </section>
-<section class="desc markdown">
+    
+
 <p>Creates a new 3D model from path to .obj file, texture and color.</p>
 <ul>
 <li>
@@ -57,37 +31,15 @@ MapMarker3DModel.withTextureFilePathAndColor(<wbr/><ol class="parameter-list sin
 This color is multiplied with color of texture.</p>
 </li>
 </ul>
-</section>
-<section class="summary source-code" id="source">
+
+
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">factory MapMarker3DModel.withTextureFilePathAndColor(String geometryFilePath, String textureFilePath, ui.Color color) =&gt; $prototype.withTextureFilePathAndColor(geometryFilePath, textureFilePath, color);</code></pre>
-</section>
-</div>
-<div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-<header class="hidden-l" id="header-search-sidebar">
-<form class="search-sidebar" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
-</form>
-</header>
-<ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapmarker3dmodel-class</li>
-<li class="self-crumb">MapMarker3DModel.withTextureFilePathAndColor factory constructor</li>
-</ol>
-<h5>MapMarker3DModel class</h5>
-<div id="dartdoc-sidebar-left-content"></div>
-</div>
-<div class="sidebar sidebar-offcanvas-right" id="dartdoc-sidebar-right">
-</div>
-</main>
-<footer>
 
-    here_sdk
-      4.26.0
-  
-</footer>
-</div></div>
+ 
+
+
+
 </div>
 `
 }</HTMLBlock>

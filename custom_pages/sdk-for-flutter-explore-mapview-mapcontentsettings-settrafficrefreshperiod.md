@@ -7,47 +7,21 @@ slug: "sdk-for-flutter-explore-mapview-mapcontentsettings-settrafficrefreshperio
 `
 <div class="sdk-for-flutter">
 <!-- setTrafficRefreshPeriod.html -->
-<div class="doc-with-sidebar"><div class="doc-content">
-<div id="overlay-under-drawer"></div>
-<header id="title">
-menu
-<ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapcontentsettings-class</li>
-<li class="self-crumb">setTrafficRefreshPeriod static method</li>
-</ol>
-<div class="self-name">setTrafficRefreshPeriod</div>
-<form class="search navbar-right" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-box" placeholder="Loading search..." type="text"/>
-</form>
-<div class="toggle" id="theme-button" title="Toggle brightness">
-<label for="theme">
-<input id="theme" type="checkbox" value="light-theme"/>
 
-        dark_mode
-      
 
-        light_mode
-      
-</label>
-</div>
-</header>
-<main>
-<div class="main-content" data-above-sidebar="mapview/MapContentSettings-class-sidebar.html" data-below-sidebar="" id="dartdoc-main-content">
 <div>
 <h1>setTrafficRefreshPeriod static method</h1></div>
-<section class="multi-line-signature">
+
 void
-setTrafficRefreshPeriod(<wbr/><ol class="parameter-list single-line"> <li>Duration value</li>
+setTrafficRefreshPeriod(<ol class="parameter-list single-line"> <li>Duration value</li>
 </ol>)
 
       
 
-    </section>
-<section class="desc markdown">
-<p>Sets the traffic data refresh period for both /sdk-for-flutter-explore-mapview-mapfeatures-trafficflow and
-/sdk-for-flutter-explore-mapview-mapfeatures-trafficincidents.</p>
+    
+
+<p>Sets the traffic data refresh period for both <a href="/sdk-for-flutter-explore-mapview-mapfeatures-trafficflow">MapFeatures.trafficFlow</a> and
+<a href="/sdk-for-flutter-explore-mapview-mapfeatures-trafficincidents">MapFeatures.trafficIncidents</a>.</p>
 <p>By default, the traffic information
 validity time and the refresh period is derived from the refresh period of HERE's traffic server.
 The period set by this function will override the server's default setting for
@@ -65,38 +39,16 @@ regardless of the set refresh period. For example, during turn-by-turn navigatio
 frequent viewport changes can result in missing traffic data, causing new requests
 to be made more often.</li>
 </ul>
-<p>Throws /sdk-for-flutter-explore-mapview-mapcontentsettingstrafficrefreshperiodexceptionexception-class. /sdk-for-flutter-explore-mapview-mapcontentsettingstrafficrefreshperiodexceptionexception-class indicates what went wrong.</p>
-</section>
-<section class="summary source-code" id="source">
+<p>Throws <a href="/sdk-for-flutter-explore-mapview-mapcontentsettingstrafficrefreshperiodexceptionexception-class">MapContentSettingsTrafficRefreshPeriodExceptionException</a>. <a href="/sdk-for-flutter-explore-mapview-mapcontentsettingstrafficrefreshperiodexceptionexception-class">MapContentSettingsTrafficRefreshPeriodExceptionException</a> indicates what went wrong.</p>
+
+
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">static void setTrafficRefreshPeriod(Duration value) =&gt; $prototype.setTrafficRefreshPeriod(value);</code></pre>
-</section>
-</div>
-<div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-<header class="hidden-l" id="header-search-sidebar">
-<form class="search-sidebar" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
-</form>
-</header>
-<ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapcontentsettings-class</li>
-<li class="self-crumb">setTrafficRefreshPeriod static method</li>
-</ol>
-<h5>MapContentSettings class</h5>
-<div id="dartdoc-sidebar-left-content"></div>
-</div>
-<div class="sidebar sidebar-offcanvas-right" id="dartdoc-sidebar-right">
-</div>
-</main>
-<footer>
 
-    here_sdk
-      4.26.0
-  
-</footer>
-</div></div>
+ 
+
+
+
 </div>
 `
 }</HTMLBlock>

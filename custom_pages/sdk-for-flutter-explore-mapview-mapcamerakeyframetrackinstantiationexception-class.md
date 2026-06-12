@@ -7,152 +7,33 @@ slug: "sdk-for-flutter-explore-mapview-mapcamerakeyframetrackinstantiationexcept
 `
 <div class="sdk-for-flutter">
 <!-- MapCameraKeyframeTrackInstantiationException-class.html -->
-<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
-<li class="section-title"><a href="mapview/MapCameraKeyframeTrackInstantiationException-class.html#constructors">Constructors</a></li>
-<li><a href="mapview/MapCameraKeyframeTrackInstantiationException/MapCameraKeyframeTrackInstantiationException.html">MapCameraKeyframeTrackInstantiationException</a></li>
-<li class="section-title">
-<a href="mapview/MapCameraKeyframeTrackInstantiationException-class.html#instance-properties">Properties</a>
-</li>
-<li><a href="mapview/MapCameraKeyframeTrackInstantiationException/error.html">error</a></li>
-<li class="inherited"><a href="mapview/MapCameraKeyframeTrackInstantiationException/hashCode.html">hashCode</a></li>
-<li class="inherited"><a href="mapview/MapCameraKeyframeTrackInstantiationException/runtimeType.html">runtimeType</a></li>
-<li class="section-title inherited"><a href="mapview/MapCameraKeyframeTrackInstantiationException-class.html#instance-methods">Methods</a></li>
-<li class="inherited"><a href="mapview/MapCameraKeyframeTrackInstantiationException/noSuchMethod.html">noSuchMethod</a></li>
-<li class="inherited"><a href="mapview/MapCameraKeyframeTrackInstantiationException/toString.html">toString</a></li>
-<li class="section-title inherited"><a href="mapview/MapCameraKeyframeTrackInstantiationException-class.html#operators">Operators</a></li>
-<li class="inherited"><a href="mapview/MapCameraKeyframeTrackInstantiationException/operator_equals.html">operator ==</a></li>
-</ol></div><div class="doc-content">
-<div id="overlay-under-drawer"></div>
-<header id="title">
-menu
-<ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li class="self-crumb">MapCameraKeyframeTrackInstantiationException class</li>
-</ol>
-<div class="self-name">MapCameraKeyframeTrackInstantiationException</div>
-<form class="search navbar-right" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-box" placeholder="Loading search..." type="text"/>
-</form>
-<div class="toggle" id="theme-button" title="Toggle brightness">
-<label for="theme">
-<input id="theme" type="checkbox" value="light-theme"/>
 
-        dark_mode
-      
 
-        light_mode
-      
-</label>
-</div>
-</header>
-<main>
-<div class="main-content" data-above-sidebar="mapview/mapview-library-sidebar.html" data-below-sidebar="mapview/MapCameraKeyframeTrackInstantiationException-class-sidebar.html" id="dartdoc-main-content">
 <div>
 <h1>MapCameraKeyframeTrackInstantiationException class</h1></div>
-<section class="desc markdown">
-<p>Thrown when a problem occurs while trying to create /sdk-for-flutter-explore-mapview-mapcamerakeyframetrack-class.</p>
-</section>
-<section class="summary offset-anchor" id="constructors">
+
+<p>Thrown when a problem occurs while trying to create <a href="/sdk-for-flutter-explore-mapview-mapcamerakeyframetrack-class">MapCameraKeyframeTrack</a>.</p>
+
+
 <h2>Constructors</h2>
-<dl class="constructor-summary-list">
-<dt class="callable" id="MapCameraKeyframeTrackInstantiationException">
-/sdk-for-flutter-explore-mapview-mapcamerakeyframetrackinstantiationexception-mapcamerakeyframetrackinstantiationexception(/sdk-for-flutter-explore-mapview-mapcamerakeyframetrackinstantiationerrorcode error)
-</dt>
-<dd>
-</dd>
-</dl>
-</section>
-<section class="summary offset-anchor" id="instance-properties">
+<ul><li><a href="/sdk-for-flutter-explore-mapview-mapcamerakeyframetrackinstantiationexception-mapcamerakeyframetrackinstantiationexception">MapCameraKeyframeTrackInstantiationException</a></li></ul>
+
+
 <h2>Properties</h2>
-<dl class="properties">
-<dt class="property" id="error">
-/sdk-for-flutter-explore-mapview-mapcamerakeyframetrackinstantiationexception-error
-→ /sdk-for-flutter-explore-mapview-mapcamerakeyframetrackinstantiationerrorcode
-</dt>
-<dd>
-<div class="features">final</div>
-</dd>
-<dt class="property inherited" id="hashCode">
-/sdk-for-flutter-explore-mapview-mapcamerakeyframetrackinstantiationexception-hashcode
-→ int
-</dt>
-<dd class="inherited">
-  The hash code for this object.
-  <div class="features">no setterinherited</div>
-</dd>
-<dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-mapview-mapcamerakeyframetrackinstantiationexception-runtimetype
-→ Type
-</dt>
-<dd class="inherited">
-  A representation of the runtime type of the object.
-  <div class="features">no setterinherited</div>
-</dd>
-</dl>
-</section>
-<section class="summary offset-anchor inherited" id="instance-methods">
+<ul><li><a href="/sdk-for-flutter-explore-mapview-mapcamerakeyframetrackinstantiationexception-error">error</a></li><li><a href="/sdk-for-flutter-explore-mapview-mapcamerakeyframetrackinstantiationexception-hashcode">hashCode</a></li><li><a href="/sdk-for-flutter-explore-mapview-mapcamerakeyframetrackinstantiationexception-runtimetype">runtimeType</a></li></ul>
+
+
 <h2>Methods</h2>
-<dl class="callables">
-<dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-mapview-mapcamerakeyframetrackinstantiationexception-nosuchmethod(<wbr/>Invocation invocation)
-    → dynamic
+<ul><li><a href="/sdk-for-flutter-explore-mapview-mapcamerakeyframetrackinstantiationexception-nosuchmethod">noSuchMethod</a></li><li><a href="/sdk-for-flutter-explore-mapview-mapcamerakeyframetrackinstantiationexception-tostring">toString</a></li></ul>
 
-</dt>
-<dd class="inherited">
-  Invoked when a nonexistent method or property is accessed.
-  <div class="features">inherited</div>
-</dd>
-<dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-mapview-mapcamerakeyframetrackinstantiationexception-tostring(<wbr/>)
-    → String
 
-</dt>
-<dd class="inherited">
-  A string representation of this object.
-  <div class="features">inherited</div>
-</dd>
-</dl>
-</section>
-<section class="summary offset-anchor inherited" id="operators">
 <h2>Operators</h2>
-<dl class="callables">
-<dt class="callable inherited" id="operator ==">
-/sdk-for-flutter-explore-mapview-mapcamerakeyframetrackinstantiationexception-operator-equals(<wbr/>Object other)
-    → bool
+<ul><li><a href="/sdk-for-flutter-explore-mapview-mapcamerakeyframetrackinstantiationexception-operator-equals">operator ==</a></li></ul>
 
-</dt>
-<dd class="inherited">
-  The equality operator.
-  <div class="features">inherited</div>
-</dd>
-</dl>
-</section>
-</div>
-<div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-<header class="hidden-l" id="header-search-sidebar">
-<form class="search-sidebar" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
-</form>
-</header>
-<ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li class="self-crumb">MapCameraKeyframeTrackInstantiationException class</li>
-</ol>
-<h5>mapview library</h5>
-<div id="dartdoc-sidebar-left-content"></div>
-</div>
-<div class="sidebar sidebar-offcanvas-right" id="dartdoc-sidebar-right">
-</div>
-</main>
-<footer>
+ 
 
-    here_sdk
-      4.26.0
-  
-</footer>
-</div></div>
+
+
 </div>
 `
 }</HTMLBlock>

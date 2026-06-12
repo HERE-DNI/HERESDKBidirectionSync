@@ -7,57 +7,31 @@ slug: "sdk-for-flutter-explore-routing-routinginterface-returntoroutewithtravele
 `
 <div class="sdk-for-flutter">
 <!-- returnToRouteWithTraveledDistance.html -->
-<div class="doc-with-sidebar"><div class="doc-content">
-<div id="overlay-under-drawer"></div>
-<header id="title">
-menu
-<ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-routinginterface-class</li>
-<li class="self-crumb">returnToRouteWithTraveledDistance abstract method</li>
-</ol>
-<div class="self-name">returnToRouteWithTraveledDistance</div>
-<form class="search navbar-right" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-box" placeholder="Loading search..." type="text"/>
-</form>
-<div class="toggle" id="theme-button" title="Toggle brightness">
-<label for="theme">
-<input id="theme" type="checkbox" value="light-theme"/>
 
-        dark_mode
-      
 
-        light_mode
-      
-</label>
-</div>
-</header>
-<main>
-<div class="main-content" data-above-sidebar="routing/RoutingInterface-class-sidebar.html" data-below-sidebar="" id="dartdoc-main-content">
 <div>
 <h1>returnToRouteWithTraveledDistance abstract method</h1></div>
-<section class="multi-line-signature">
-/sdk-for-flutter-explore-core-threading-taskhandle-class
-returnToRouteWithTraveledDistance(<wbr/><ol class="parameter-list"> <li>/sdk-for-flutter-explore-routing-route-class route, </li>
-<li>/sdk-for-flutter-explore-routing-waypoint-class startingPoint, </li>
+
+<a href="/sdk-for-flutter-explore-core-threading-taskhandle-class">TaskHandle</a>
+returnToRouteWithTraveledDistance(<ol class="parameter-list"> <li><a href="/sdk-for-flutter-explore-routing-route-class">Route</a> route, </li>
+<li><a href="/sdk-for-flutter-explore-routing-waypoint-class">Waypoint</a> startingPoint, </li>
 <li>int lastTraveledSectionIndex, </li>
 <li>int traveledDistanceOnLastSectionInMeters, </li>
-<li>/sdk-for-flutter-explore-routing-calculateroutecallback callback, </li>
+<li><a href="/sdk-for-flutter-explore-routing-calculateroutecallback">CalculateRouteCallback</a> callback, </li>
 </ol>)
 
       
 
-    </section>
-<section class="desc markdown">
+    
+
 <p>Asynchronously calculates a new route that leads back to the original route.</p>
 <p>The part of
 the original route which was already traveled by the user is ignored.</p>
 <p><strong>Note:</strong> Stopover waypoints are guaranteed to be visited. Pass-through waypoints will
 be ignored.
 Additionally, the following route options are ignored:
-/sdk-for-flutter-explore-routing-routeoptions-alternatives, /sdk-for-flutter-explore-routing-routeoptions-arrivaltime, and
-/sdk-for-flutter-explore-routing-routeoptions-optimizationmode.
+<a href="/sdk-for-flutter-explore-routing-routeoptions-alternatives">RouteOptions.alternatives</a>, <a href="/sdk-for-flutter-explore-routing-routeoptions-arrivaltime">RouteOptions.arrivalTime</a>, and
+<a href="/sdk-for-flutter-explore-routing-routeoptions-optimizationmode">RouteOptions.optimizationMode</a>.
 Most route options are only applied to the newly calculated part back to the route.</p>
 <p>An application may use this method to submit a new
 starting point for a previously calculated route. This method tries to avoid a costly
@@ -81,13 +55,13 @@ update, regardless if the location has changed or not.
 More information can be found in the Developer Guide in the "Handle route deviations" section.</p>
 <ul>
 <li>
-<p><code>route</code> A /sdk-for-flutter-explore-routing-route-class calculated using the online or offline route engine. For the offline case, It
-should not contain an indoor /sdk-for-flutter-explore-routing-section-class as such routes will fail. For the online case, it
-should have /sdk-for-flutter-explore-routing-routehandle-class.</p>
+<p><code>route</code> A <a href="/sdk-for-flutter-explore-routing-route-class">Route</a> calculated using the online or offline route engine. For the offline case, It
+should not contain an indoor <a href="/sdk-for-flutter-explore-routing-section-class">Section</a> as such routes will fail. For the online case, it
+should have <a href="/sdk-for-flutter-explore-routing-routehandle-class">RouteHandle</a>.</p>
 </li>
 <li>
 <p><code>startingPoint</code> The current location, for example, provided by a <code>RouteDeviation</code> event. The waypoint needs to be of
-type /sdk-for-flutter-explore-routing-waypointtype. Otherwise, an /sdk-for-flutter-explore-routing-routingerror
+type <a href="/sdk-for-flutter-explore-routing-waypointtype">WaypointType.stopover</a>. Otherwise, an <a href="/sdk-for-flutter-explore-routing-routingerror">RoutingError.invalidParameter</a>
 error is generated.</p>
 </li>
 <li>
@@ -101,38 +75,16 @@ error is generated.</p>
 It is always invoked on the main thread.</p>
 </li>
 </ul>
-<p>Returns /sdk-for-flutter-explore-core-threading-taskhandle-class. Handle that will be used to manipulate the execution of the task.</p>
-</section>
-<section class="summary source-code" id="source">
+<p>Returns <a href="/sdk-for-flutter-explore-core-threading-taskhandle-class">TaskHandle</a>. Handle that will be used to manipulate the execution of the task.</p>
+
+
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">TaskHandle returnToRouteWithTraveledDistance(Route route, Waypoint startingPoint, int lastTraveledSectionIndex, int traveledDistanceOnLastSectionInMeters, CalculateRouteCallback callback);</code></pre>
-</section>
-</div>
-<div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-<header class="hidden-l" id="header-search-sidebar">
-<form class="search-sidebar" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
-</form>
-</header>
-<ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-routinginterface-class</li>
-<li class="self-crumb">returnToRouteWithTraveledDistance abstract method</li>
-</ol>
-<h5>RoutingInterface class</h5>
-<div id="dartdoc-sidebar-left-content"></div>
-</div>
-<div class="sidebar sidebar-offcanvas-right" id="dartdoc-sidebar-right">
-</div>
-</main>
-<footer>
 
-    here_sdk
-      4.26.0
-  
-</footer>
-</div></div>
+ 
+
+
+
 </div>
 `
 }</HTMLBlock>

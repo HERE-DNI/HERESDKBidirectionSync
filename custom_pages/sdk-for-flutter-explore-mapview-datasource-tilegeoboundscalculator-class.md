@@ -7,160 +7,36 @@ slug: "sdk-for-flutter-explore-mapview-datasource-tilegeoboundscalculator-class"
 `
 <div class="sdk-for-flutter">
 <!-- TileGeoBoundsCalculator-class.html -->
-<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
-<li class="section-title"><a href="mapview.datasource/TileGeoBoundsCalculator-class.html#constructors">Constructors</a></li>
-<li><a href="mapview.datasource/TileGeoBoundsCalculator/TileGeoBoundsCalculator.html">TileGeoBoundsCalculator</a></li>
-<li class="section-title inherited">
-<a href="mapview.datasource/TileGeoBoundsCalculator-class.html#instance-properties">Properties</a>
-</li>
-<li class="inherited"><a href="mapview.datasource/TileGeoBoundsCalculator/hashCode.html">hashCode</a></li>
-<li class="inherited"><a href="mapview.datasource/TileGeoBoundsCalculator/runtimeType.html">runtimeType</a></li>
-<li class="section-title"><a href="mapview.datasource/TileGeoBoundsCalculator-class.html#instance-methods">Methods</a></li>
-<li><a href="mapview.datasource/TileGeoBoundsCalculator/boundsOf.html">boundsOf</a></li>
-<li class="inherited"><a href="mapview.datasource/TileGeoBoundsCalculator/noSuchMethod.html">noSuchMethod</a></li>
-<li class="inherited"><a href="mapview.datasource/TileGeoBoundsCalculator/toString.html">toString</a></li>
-<li class="section-title inherited"><a href="mapview.datasource/TileGeoBoundsCalculator-class.html#operators">Operators</a></li>
-<li class="inherited"><a href="mapview.datasource/TileGeoBoundsCalculator/operator_equals.html">operator ==</a></li>
-</ol></div><div class="doc-content">
-<div id="overlay-under-drawer"></div>
-<header id="title">
-menu
-<ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
-<li class="self-crumb">TileGeoBoundsCalculator class</li>
-</ol>
-<div class="self-name">TileGeoBoundsCalculator</div>
-<form class="search navbar-right" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-box" placeholder="Loading search..." type="text"/>
-</form>
-<div class="toggle" id="theme-button" title="Toggle brightness">
-<label for="theme">
-<input id="theme" type="checkbox" value="light-theme"/>
 
-        dark_mode
-      
 
-        light_mode
-      
-</label>
-</div>
-</header>
-<main>
-<div class="main-content" data-above-sidebar="mapview.datasource/mapview.datasource-library-sidebar.html" data-below-sidebar="mapview.datasource/TileGeoBoundsCalculator-class-sidebar.html" id="dartdoc-main-content">
 <div>
 <h1>TileGeoBoundsCalculator class abstract</h1></div>
-<section class="desc markdown">
+
 <p>A calculator of geodetic bounds for tiles identified by keys generated
-in a particular tiling scheme (/sdk-for-flutter-explore-mapview-datasource-tilingscheme).</p>
+in a particular tiling scheme (<a href="/sdk-for-flutter-explore-mapview-datasource-tilingscheme">TilingScheme</a>).</p>
 <p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
 behavior. Related APIs may change for new releases without a deprecation process.</p>
-</section>
-<section class="summary offset-anchor" id="constructors">
+
+
 <h2>Constructors</h2>
-<dl class="constructor-summary-list">
-<dt class="callable" id="TileGeoBoundsCalculator">
-/sdk-for-flutter-explore-mapview-datasource-tilegeoboundscalculator-tilegeoboundscalculator(/sdk-for-flutter-explore-mapview-datasource-tilingscheme tilingScheme)
-</dt>
-<dd>
-          Creates an instance of /sdk-for-flutter-explore-mapview-datasource-tilegeoboundscalculator-class.
-            <div class="constructor-modifier features">factory</div>
-</dd>
-</dl>
-</section>
-<section class="summary offset-anchor inherited" id="instance-properties">
+<ul><li><a href="/sdk-for-flutter-explore-mapview-datasource-tilegeoboundscalculator-tilegeoboundscalculator">TileGeoBoundsCalculator</a></li></ul>
+
+
 <h2>Properties</h2>
-<dl class="properties">
-<dt class="property inherited" id="hashCode">
-/sdk-for-flutter-explore-mapview-datasource-tilegeoboundscalculator-hashcode
-→ int
-</dt>
-<dd class="inherited">
-  The hash code for this object.
-  <div class="features">no setterinherited</div>
-</dd>
-<dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-mapview-datasource-tilegeoboundscalculator-runtimetype
-→ Type
-</dt>
-<dd class="inherited">
-  A representation of the runtime type of the object.
-  <div class="features">no setterinherited</div>
-</dd>
-</dl>
-</section>
-<section class="summary offset-anchor" id="instance-methods">
+<ul><li><a href="/sdk-for-flutter-explore-mapview-datasource-tilegeoboundscalculator-hashcode">hashCode</a></li><li><a href="/sdk-for-flutter-explore-mapview-datasource-tilegeoboundscalculator-runtimetype">runtimeType</a></li></ul>
+
+
 <h2>Methods</h2>
-<dl class="callables">
-<dt class="callable" id="boundsOf">
-/sdk-for-flutter-explore-mapview-datasource-tilegeoboundscalculator-boundsof(<wbr/>/sdk-for-flutter-explore-mapview-datasource-tilekey-class tileKey)
-    → /sdk-for-flutter-explore-core-geobox-class
+<ul><li><a href="/sdk-for-flutter-explore-mapview-datasource-tilegeoboundscalculator-boundsof">boundsOf</a></li><li><a href="/sdk-for-flutter-explore-mapview-datasource-tilegeoboundscalculator-nosuchmethod">noSuchMethod</a></li><li><a href="/sdk-for-flutter-explore-mapview-datasource-tilegeoboundscalculator-tostring">toString</a></li></ul>
 
-</dt>
-<dd>
-  Computes the geodetic bounds (as /sdk-for-flutter-explore-core-geobox-class) for a tile identified by /sdk-for-flutter-explore-mapview-datasource-tilekey-class.
-  
 
-</dd>
-<dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-mapview-datasource-tilegeoboundscalculator-nosuchmethod(<wbr/>Invocation invocation)
-    → dynamic
-
-</dt>
-<dd class="inherited">
-  Invoked when a nonexistent method or property is accessed.
-  <div class="features">inherited</div>
-</dd>
-<dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-mapview-datasource-tilegeoboundscalculator-tostring(<wbr/>)
-    → String
-
-</dt>
-<dd class="inherited">
-  A string representation of this object.
-  <div class="features">inherited</div>
-</dd>
-</dl>
-</section>
-<section class="summary offset-anchor inherited" id="operators">
 <h2>Operators</h2>
-<dl class="callables">
-<dt class="callable inherited" id="operator ==">
-/sdk-for-flutter-explore-mapview-datasource-tilegeoboundscalculator-operator-equals(<wbr/>Object other)
-    → bool
+<ul><li><a href="/sdk-for-flutter-explore-mapview-datasource-tilegeoboundscalculator-operator-equals">operator ==</a></li></ul>
 
-</dt>
-<dd class="inherited">
-  The equality operator.
-  <div class="features">inherited</div>
-</dd>
-</dl>
-</section>
-</div>
-<div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-<header class="hidden-l" id="header-search-sidebar">
-<form class="search-sidebar" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
-</form>
-</header>
-<ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
-<li class="self-crumb">TileGeoBoundsCalculator class</li>
-</ol>
-<h5>mapview.datasource library</h5>
-<div id="dartdoc-sidebar-left-content"></div>
-</div>
-<div class="sidebar sidebar-offcanvas-right" id="dartdoc-sidebar-right">
-</div>
-</main>
-<footer>
+ 
 
-    here_sdk
-      4.26.0
-  
-</footer>
-</div></div>
+
+
 </div>
 `
 }</HTMLBlock>

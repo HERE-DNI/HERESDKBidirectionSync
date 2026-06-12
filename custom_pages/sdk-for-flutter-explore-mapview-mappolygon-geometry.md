@@ -7,56 +7,30 @@ slug: "sdk-for-flutter-explore-mapview-mappolygon-geometry"
 `
 <div class="sdk-for-flutter">
 <!-- geometry.html -->
-<div class="doc-with-sidebar"><div class="doc-content">
-<div id="overlay-under-drawer"></div>
-<header id="title">
-menu
-<ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mappolygon-class</li>
-<li class="self-crumb">geometry property</li>
-</ol>
-<div class="self-name">geometry</div>
-<form class="search navbar-right" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-box" placeholder="Loading search..." type="text"/>
-</form>
-<div class="toggle" id="theme-button" title="Toggle brightness">
-<label for="theme">
-<input id="theme" type="checkbox" value="light-theme"/>
 
-        dark_mode
-      
 
-        light_mode
-      
-</label>
-</div>
-</header>
-<main>
-<div class="main-content" data-above-sidebar="mapview/MapPolygon-class-sidebar.html" data-below-sidebar="" id="dartdoc-main-content">
 <div>
 <h1>geometry property</h1></div>
 <section id="getter">
-<section class="multi-line-signature">
-/sdk-for-flutter-explore-core-geopolygon-class
+
+<a href="/sdk-for-flutter-explore-core-geopolygon-class">GeoPolygon</a>
 geometry
-</section>
-<section class="desc markdown">
+
+
 <p>The geometry of the polygon. Setting a new geometry will update the appearance.
 Gets the current geometry of the polygon.</p>
-</section>
-<section class="summary source-code" id="source">
+
+
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">GeoPolygon get geometry;</code></pre>
-</section>
+
 </section>
 <section id="setter">
-<section class="multi-line-signature">
+
 void
-geometry=(<wbr/>/sdk-for-flutter-explore-core-geopolygon-class value)
-</section>
-<section class="desc markdown">
+geometry=(<a href="/sdk-for-flutter-explore-core-geopolygon-class">GeoPolygon</a> value)
+
+
 <p>The geometry of the polygon. Setting a new geometry will update the appearance.
 Sets a new geometry to update the appearance.</p>
 <p>The winding order of the vertices can be in clockwise or counter-clockwise order.
@@ -69,38 +43,16 @@ otherwise unexpected results may occur.</li>
 artifacts.</li>
 <li>The inner boundaries (holes) specified in the GeoPolygon are ignored.</li>
 </ul>
-</section>
-<section class="summary source-code" id="source">
+
+
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">set geometry(GeoPolygon value);</code></pre>
-</section>
-</section>
-</div>
-<div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-<header class="hidden-l" id="header-search-sidebar">
-<form class="search-sidebar" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
-</form>
-</header>
-<ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mappolygon-class</li>
-<li class="self-crumb">geometry property</li>
-</ol>
-<h5>MapPolygon class</h5>
-<div id="dartdoc-sidebar-left-content"></div>
-</div>
-<div class="sidebar sidebar-offcanvas-right" id="dartdoc-sidebar-right">
-</div>
-</main>
-<footer>
 
-    here_sdk
-      4.26.0
-  
-</footer>
-</div></div>
+</section>
+ 
+
+
+
 </div>
 `
 }</HTMLBlock>

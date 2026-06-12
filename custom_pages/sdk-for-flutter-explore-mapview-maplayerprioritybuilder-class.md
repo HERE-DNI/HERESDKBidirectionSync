@@ -7,58 +7,11 @@ slug: "sdk-for-flutter-explore-mapview-maplayerprioritybuilder-class"
 `
 <div class="sdk-for-flutter">
 <!-- MapLayerPriorityBuilder-class.html -->
-<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
-<li class="section-title"><a href="mapview/MapLayerPriorityBuilder-class.html#constructors">Constructors</a></li>
-<li><a href="mapview/MapLayerPriorityBuilder/MapLayerPriorityBuilder.html">MapLayerPriorityBuilder</a></li>
-<li class="section-title inherited">
-<a href="mapview/MapLayerPriorityBuilder-class.html#instance-properties">Properties</a>
-</li>
-<li class="inherited"><a href="mapview/MapLayerPriorityBuilder/hashCode.html">hashCode</a></li>
-<li class="inherited"><a href="mapview/MapLayerPriorityBuilder/runtimeType.html">runtimeType</a></li>
-<li class="section-title"><a href="mapview/MapLayerPriorityBuilder-class.html#instance-methods">Methods</a></li>
-<li><a href="mapview/MapLayerPriorityBuilder/build.html">build</a></li>
-<li><a href="mapview/MapLayerPriorityBuilder/inGroup.html">inGroup</a></li>
-<li class="inherited"><a href="mapview/MapLayerPriorityBuilder/noSuchMethod.html">noSuchMethod</a></li>
-<li><a href="mapview/MapLayerPriorityBuilder/renderedAfterLayer.html">renderedAfterLayer</a></li>
-<li><a href="mapview/MapLayerPriorityBuilder/renderedAfterLayerWithCategory.html">renderedAfterLayerWithCategory</a></li>
-<li><a href="mapview/MapLayerPriorityBuilder/renderedBeforeLayer.html">renderedBeforeLayer</a></li>
-<li><a href="mapview/MapLayerPriorityBuilder/renderedBeforeLayerWithCategory.html">renderedBeforeLayerWithCategory</a></li>
-<li><a href="mapview/MapLayerPriorityBuilder/renderedFirst.html">renderedFirst</a></li>
-<li><a href="mapview/MapLayerPriorityBuilder/renderedLast.html">renderedLast</a></li>
-<li class="inherited"><a href="mapview/MapLayerPriorityBuilder/toString.html">toString</a></li>
-<li><a href="mapview/MapLayerPriorityBuilder/withCategory.html">withCategory</a></li>
-<li class="section-title inherited"><a href="mapview/MapLayerPriorityBuilder-class.html#operators">Operators</a></li>
-<li class="inherited"><a href="mapview/MapLayerPriorityBuilder/operator_equals.html">operator ==</a></li>
-</ol></div><div class="doc-content">
-<div id="overlay-under-drawer"></div>
-<header id="title">
-menu
-<ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li class="self-crumb">MapLayerPriorityBuilder class</li>
-</ol>
-<div class="self-name">MapLayerPriorityBuilder</div>
-<form class="search navbar-right" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-box" placeholder="Loading search..." type="text"/>
-</form>
-<div class="toggle" id="theme-button" title="Toggle brightness">
-<label for="theme">
-<input id="theme" type="checkbox" value="light-theme"/>
 
-        dark_mode
-      
 
-        light_mode
-      
-</label>
-</div>
-</header>
-<main>
-<div class="main-content" data-above-sidebar="mapview/mapview-library-sidebar.html" data-below-sidebar="mapview/MapLayerPriorityBuilder-class-sidebar.html" id="dartdoc-main-content">
 <div>
 <h1>MapLayerPriorityBuilder class abstract</h1></div>
-<section class="desc markdown">
+
 <p>MapLayerPriorityBuilder is an interface used to define the rendering priority of a layer
 and its categories, relative to other layers or layer-category pairs.</p>
 <p>Map layers are rendered in an order according to specified priorities. Rendering order of elements in
@@ -142,194 +95,27 @@ scene configurations.
 Category assignment to features can be done in the style based on data attributes. The category
 assignment can be done for all types of data: points, lines, polygons.</li>
 </ul>
-</section>
-<section class="summary offset-anchor" id="constructors">
+
+
 <h2>Constructors</h2>
-<dl class="constructor-summary-list">
-<dt class="callable" id="MapLayerPriorityBuilder">
-/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-maplayerprioritybuilder()
-</dt>
-<dd>
-          Creates an instance of the layer priority builder interface.
-            <div class="constructor-modifier features">factory</div>
-</dd>
-</dl>
-</section>
-<section class="summary offset-anchor inherited" id="instance-properties">
+<ul><li><a href="/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-maplayerprioritybuilder">MapLayerPriorityBuilder</a></li></ul>
+
+
 <h2>Properties</h2>
-<dl class="properties">
-<dt class="property inherited" id="hashCode">
-/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-hashcode
-→ int
-</dt>
-<dd class="inherited">
-  The hash code for this object.
-  <div class="features">no setterinherited</div>
-</dd>
-<dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-runtimetype
-→ Type
-</dt>
-<dd class="inherited">
-  A representation of the runtime type of the object.
-  <div class="features">no setterinherited</div>
-</dd>
-</dl>
-</section>
-<section class="summary offset-anchor" id="instance-methods">
+<ul><li><a href="/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-hashcode">hashCode</a></li><li><a href="/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-runtimetype">runtimeType</a></li></ul>
+
+
 <h2>Methods</h2>
-<dl class="callables">
-<dt class="callable" id="build">
-/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-build(<wbr/>)
-    → /sdk-for-flutter-explore-mapview-maplayerpriority-class
+<ul><li><a href="/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-build">build</a></li><li><a href="/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-ingroup">inGroup</a></li><li><a href="/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-nosuchmethod">noSuchMethod</a></li><li><a href="/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-renderedafterlayer">renderedAfterLayer</a></li><li><a href="/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-renderedafterlayerwithcategory">renderedAfterLayerWithCategory</a></li><li><a href="/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-renderedbeforelayer">renderedBeforeLayer</a></li><li><a href="/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-renderedbeforelayerwithcategory">renderedBeforeLayerWithCategory</a></li><li><a href="/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-renderedfirst">renderedFirst</a></li><li><a href="/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-renderedlast">renderedLast</a></li><li><a href="/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-tostring">toString</a></li><li><a href="/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-withcategory">withCategory</a></li></ul>
 
-</dt>
-<dd>
-  Constructs a MapLayerPriority.
-  
 
-</dd>
-<dt class="callable" id="inGroup">
-/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-ingroup(<wbr/>String group)
-    → /sdk-for-flutter-explore-mapview-maplayerprioritybuilder-class
-
-</dt>
-<dd>
-  Sets the group for which a priority could be defined with the next call to the functions
-<code>renderedFirst|Last|BeforeLayer|AfterLayer</code>.
-  
-
-</dd>
-<dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-nosuchmethod(<wbr/>Invocation invocation)
-    → dynamic
-
-</dt>
-<dd class="inherited">
-  Invoked when a nonexistent method or property is accessed.
-  <div class="features">inherited</div>
-</dd>
-<dt class="callable" id="renderedAfterLayer">
-/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-renderedafterlayer(<wbr/>String referenceLayer)
-    → /sdk-for-flutter-explore-mapview-maplayerprioritybuilder-class
-
-</dt>
-<dd>
-  Sets the priority as rendered after the last one from the referenceLayer and its categories.
-  
-
-</dd>
-<dt class="callable" id="renderedAfterLayerWithCategory">
-/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-renderedafterlayerwithcategory(<wbr/>String referenceLayer, String referenceCategory)
-    → /sdk-for-flutter-explore-mapview-maplayerprioritybuilder-class
-
-</dt>
-<dd>
-  Sets the priority as rendered after the referenceCategory of the referenceLayer.
-  
-
-</dd>
-<dt class="callable" id="renderedBeforeLayer">
-/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-renderedbeforelayer(<wbr/>String referenceLayer)
-    → /sdk-for-flutter-explore-mapview-maplayerprioritybuilder-class
-
-</dt>
-<dd>
-  Sets the priority as rendered before the first one from the referenceLayer and its categories.
-  
-
-</dd>
-<dt class="callable" id="renderedBeforeLayerWithCategory">
-/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-renderedbeforelayerwithcategory(<wbr/>String referenceLayer, String referenceCategory)
-    → /sdk-for-flutter-explore-mapview-maplayerprioritybuilder-class
-
-</dt>
-<dd>
-  Sets the priority as rendered before the referenceCategory of the referenceLayer.
-  
-
-</dd>
-<dt class="callable" id="renderedFirst">
-/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-renderedfirst(<wbr/>)
-    → /sdk-for-flutter-explore-mapview-maplayerprioritybuilder-class
-
-</dt>
-<dd>
-  Sets the priority as rendered before all layers and categories.
-  
-
-</dd>
-<dt class="callable" id="renderedLast">
-/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-renderedlast(<wbr/>)
-    → /sdk-for-flutter-explore-mapview-maplayerprioritybuilder-class
-
-</dt>
-<dd>
-  Sets the priority as rendered after all layers and categories.
-  
-
-</dd>
-<dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-tostring(<wbr/>)
-    → String
-
-</dt>
-<dd class="inherited">
-  A string representation of this object.
-  <div class="features">inherited</div>
-</dd>
-<dt class="callable" id="withCategory">
-/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-withcategory(<wbr/>String category)
-    → /sdk-for-flutter-explore-mapview-maplayerprioritybuilder-class
-
-</dt>
-<dd>
-  Sets the layer category for which a priority could be defined with the next call to the functions
-<code>renderedFirst|Last|BeforeLayer|AfterLayer</code>.
-  
-
-</dd>
-</dl>
-</section>
-<section class="summary offset-anchor inherited" id="operators">
 <h2>Operators</h2>
-<dl class="callables">
-<dt class="callable inherited" id="operator ==">
-/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-operator-equals(<wbr/>Object other)
-    → bool
+<ul><li><a href="/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-operator-equals">operator ==</a></li></ul>
 
-</dt>
-<dd class="inherited">
-  The equality operator.
-  <div class="features">inherited</div>
-</dd>
-</dl>
-</section>
-</div>
-<div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-<header class="hidden-l" id="header-search-sidebar">
-<form class="search-sidebar" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
-</form>
-</header>
-<ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li class="self-crumb">MapLayerPriorityBuilder class</li>
-</ol>
-<h5>mapview library</h5>
-<div id="dartdoc-sidebar-left-content"></div>
-</div>
-<div class="sidebar sidebar-offcanvas-right" id="dartdoc-sidebar-right">
-</div>
-</main>
-<footer>
+ 
 
-    here_sdk
-      4.26.0
-  
-</footer>
-</div></div>
+
+
 </div>
 `
 }</HTMLBlock>

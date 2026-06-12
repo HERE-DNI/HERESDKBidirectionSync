@@ -7,78 +7,30 @@ slug: "sdk-for-flutter-explore-routing-route-routehandle"
 `
 <div class="sdk-for-flutter">
 <!-- routeHandle.html -->
-<div class="doc-with-sidebar"><div class="doc-content">
-<div id="overlay-under-drawer"></div>
-<header id="title">
-menu
-<ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-route-class</li>
-<li class="self-crumb">routeHandle property</li>
-</ol>
-<div class="self-name">routeHandle</div>
-<form class="search navbar-right" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-box" placeholder="Loading search..." type="text"/>
-</form>
-<div class="toggle" id="theme-button" title="Toggle brightness">
-<label for="theme">
-<input id="theme" type="checkbox" value="light-theme"/>
 
-        dark_mode
-      
 
-        light_mode
-      
-</label>
-</div>
-</header>
-<main>
-<div class="main-content" data-above-sidebar="routing/Route-class-sidebar.html" data-below-sidebar="" id="dartdoc-main-content">
 <div>
 <h1>routeHandle property</h1></div>
 <section id="getter">
-<section class="multi-line-signature">
-/sdk-for-flutter-explore-routing-routehandle-class?
+
+<a href="/sdk-for-flutter-explore-routing-routehandle-class">RouteHandle</a>?
 routeHandle
-</section>
-<section class="desc markdown">
+
+
 <p>The route handle of this route. Note that it is provided only if
-/sdk-for-flutter-explore-routing-routeoptions-enableroutehandle is set before route calculation.
+<a href="/sdk-for-flutter-explore-routing-routeoptions-enableroutehandle">RouteOptions.enableRouteHandle</a> is set before route calculation.
 Gets the route handle of this route. Note that it is provided only if
-/sdk-for-flutter-explore-routing-routeoptions-enableroutehandle is set before route calculation.</p>
-</section>
-<section class="summary source-code" id="source">
+<a href="/sdk-for-flutter-explore-routing-routeoptions-enableroutehandle">RouteOptions.enableRouteHandle</a> is set before route calculation.</p>
+
+
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">RouteHandle? get routeHandle;</code></pre>
-</section>
-</section>
-</div>
-<div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-<header class="hidden-l" id="header-search-sidebar">
-<form class="search-sidebar" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
-</form>
-</header>
-<ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-route-class</li>
-<li class="self-crumb">routeHandle property</li>
-</ol>
-<h5>Route class</h5>
-<div id="dartdoc-sidebar-left-content"></div>
-</div>
-<div class="sidebar sidebar-offcanvas-right" id="dartdoc-sidebar-right">
-</div>
-</main>
-<footer>
 
-    here_sdk
-      4.26.0
-  
-</footer>
-</div></div>
+</section>
+ 
+
+
+
 </div>
 `
 }</HTMLBlock>

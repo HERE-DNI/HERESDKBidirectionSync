@@ -7,40 +7,15 @@ slug: "sdk-for-flutter-explore-routing-calculateisolinecallback"
 `
 <div class="sdk-for-flutter">
 <!-- CalculateIsolineCallback.html -->
-<div class="doc-with-sidebar"><div class="doc-content">
-<div id="overlay-under-drawer"></div>
-<header id="title">
-menu
-<ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li class="self-crumb">CalculateIsolineCallback typedef</li>
-</ol>
-<div class="self-name">CalculateIsolineCallback</div>
-<form class="search navbar-right" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-box" placeholder="Loading search..." type="text"/>
-</form>
-<div class="toggle" id="theme-button" title="Toggle brightness">
-<label for="theme">
-<input id="theme" type="checkbox" value="light-theme"/>
 
-        dark_mode
-      
 
-        light_mode
-      
-</label>
-</div>
-</header>
-<main>
-<div class="main-content" data-above-sidebar="routing/routing-library-sidebar.html" data-below-sidebar="" id="dartdoc-main-content">
 <div>
 <h1>CalculateIsolineCallback typedef</h1></div>
-<section class="multi-line-signature">
+
 CalculateIsolineCallback =
-     void Function(/sdk-for-flutter-explore-routing-routingerror? routingError, List&lt;<wbr/>/sdk-for-flutter-explore-routing-isoline-class&gt;? isolines)
-</section>
-<section class="desc markdown">
+     void Function(<a href="/sdk-for-flutter-explore-routing-routingerror">RoutingError</a>? routingError, List&lt;<a href="/sdk-for-flutter-explore-routing-isoline-class">Isoline</a>&gt;? isolines)
+
+
 <p>A function which is called by the RoutingEngine after isoline calculation has completed.</p>
 <p>It is always called on the main thread.
 The first argument is the error in case of a failure. It is <code>null</code> for an operation that succeeds.
@@ -55,36 +30,15 @@ For each range limit, one isoline is calculated.</p>
 <p><code>isolines</code> Holds a list of calculated isolines. The list is <code>null</code> in case of an error.</p>
 </li>
 </ul>
-</section>
-<section class="summary source-code" id="source">
+
+
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">typedef CalculateIsolineCallback = void Function(RoutingError? routingError, List&lt;Isoline&gt;? isolines);</code></pre>
-</section>
-</div>
-<div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-<header class="hidden-l" id="header-search-sidebar">
-<form class="search-sidebar" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
-</form>
-</header>
-<ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li class="self-crumb">CalculateIsolineCallback typedef</li>
-</ol>
-<h5>routing library</h5>
-<div id="dartdoc-sidebar-left-content"></div>
-</div>
-<div class="sidebar sidebar-offcanvas-right" id="dartdoc-sidebar-right">
-</div>
-</main>
-<footer>
 
-    here_sdk
-      4.26.0
-  
-</footer>
-</div></div>
+ 
+
+
+
 </div>
 `
 }</HTMLBlock>

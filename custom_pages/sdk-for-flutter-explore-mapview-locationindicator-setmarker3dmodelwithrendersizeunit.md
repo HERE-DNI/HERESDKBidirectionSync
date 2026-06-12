@@ -7,56 +7,30 @@ slug: "sdk-for-flutter-explore-mapview-locationindicator-setmarker3dmodelwithren
 `
 <div class="sdk-for-flutter">
 <!-- setMarker3dModelWithRenderSizeUnit.html -->
-<div class="doc-with-sidebar"><div class="doc-content">
-<div id="overlay-under-drawer"></div>
-<header id="title">
-menu
-<ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-locationindicator-class</li>
-<li class="self-crumb">setMarker3dModelWithRenderSizeUnit abstract method</li>
-</ol>
-<div class="self-name">setMarker3dModelWithRenderSizeUnit</div>
-<form class="search navbar-right" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-box" placeholder="Loading search..." type="text"/>
-</form>
-<div class="toggle" id="theme-button" title="Toggle brightness">
-<label for="theme">
-<input id="theme" type="checkbox" value="light-theme"/>
 
-        dark_mode
-      
 
-        light_mode
-      
-</label>
-</div>
-</header>
-<main>
-<div class="main-content" data-above-sidebar="mapview/LocationIndicator-class-sidebar.html" data-below-sidebar="" id="dartdoc-main-content">
 <div>
 <h1>setMarker3dModelWithRenderSizeUnit abstract method</h1></div>
-<section class="multi-line-signature">
+
 void
-setMarker3dModelWithRenderSizeUnit(<wbr/><ol class="parameter-list"> <li>/sdk-for-flutter-explore-mapview-mapmarker3dmodel-class model, </li>
+setMarker3dModelWithRenderSizeUnit(<ol class="parameter-list"> <li><a href="/sdk-for-flutter-explore-mapview-mapmarker3dmodel-class">MapMarker3DModel</a> model, </li>
 <li>double scale, </li>
-<li>/sdk-for-flutter-explore-mapview-locationindicatormarkertype type, </li>
-<li>/sdk-for-flutter-explore-mapview-rendersizeunit renderSizeUnit, </li>
+<li><a href="/sdk-for-flutter-explore-mapview-locationindicatormarkertype">LocationIndicatorMarkerType</a> type, </li>
+<li><a href="/sdk-for-flutter-explore-mapview-rendersizeunit">RenderSizeUnit</a> renderSizeUnit, </li>
 </ol>)
 
       
 
-    </section>
-<section class="desc markdown">
-<p>Sets the /sdk-for-flutter-explore-mapview-mapmarker3dmodel-class asset to be displayed as location indicator for a specified type.</p>
+    
+
+<p>Sets the <a href="/sdk-for-flutter-explore-mapview-mapmarker3dmodel-class">MapMarker3DModel</a> asset to be displayed as location indicator for a specified type.</p>
 <p>The 3D model should be oriented with y axis up and thus standing on the x/z plane where the
 z axis is the depth. The direction in which the location indicator is pointing is the
-positive z axis. Please note that only /sdk-for-flutter-explore-mapview-mapmarker3dmodel-class created from <code>obj</code> files are
+positive z axis. Please note that only <a href="/sdk-for-flutter-explore-mapview-mapmarker3dmodel-class">MapMarker3DModel</a> created from <code>obj</code> files are
 supported. Models created from Mesh will be ignored.</p>
 <ul>
 <li>
-<p><code>model</code> The /sdk-for-flutter-explore-mapview-mapmarker3dmodel-class object to be displayed for the specified type. Only models
+<p><code>model</code> The <a href="/sdk-for-flutter-explore-mapview-mapmarker3dmodel-class">MapMarker3DModel</a> object to be displayed for the specified type. Only models
 created from <code>obj</code> files are supported. Those created from mesh will be ignored.</p>
 </li>
 <li>
@@ -66,54 +40,32 @@ created from <code>obj</code> files are supported. Those created from mesh will 
 <p><code>type</code> The type of location marker for which the marker 3d model should be replaced.</p>
 </li>
 <li>
-<p><code>renderSizeUnit</code> The /sdk-for-flutter-explore-mapview-rendersizeunit specifying how the vertex coordinates of the
+<p><code>renderSizeUnit</code> The <a href="/sdk-for-flutter-explore-mapview-rendersizeunit">RenderSizeUnit</a> specifying how the vertex coordinates of the
 3D model are being interpreted. It specifies whether the 3D model is placed in world or
 screen coordinate space.</p>
 </li>
 </ul>
-<p>/sdk-for-flutter-explore-mapview-rendersizeunit will make the 3D model use world
+<p><a href="/sdk-for-flutter-explore-mapview-rendersizeunit">RenderSizeUnit.meters</a> will make the 3D model use world
 coordinate space, meaning that it will change size together with the map
 when it is zoomed in and out. A simple 10 by 10 by 10 (in model space) cube
 will have a size of 10 by 10 by 10 meters in world space.</p>
-<p>/sdk-for-flutter-explore-mapview-rendersizeunit makes the 3D model use screen coordinate space,
+<p><a href="/sdk-for-flutter-explore-mapview-rendersizeunit">RenderSizeUnit.pixels</a> makes the 3D model use screen coordinate space,
 meaning that it will have constant size on the screen regardless
 of how the map zoom changes. A simple 10 by 10 (in model space) rectangle
 will have a size of 10 by 10 pixels on the screen.</p>
-<p>/sdk-for-flutter-explore-mapview-rendersizeunit is similar to pixels,
+<p><a href="/sdk-for-flutter-explore-mapview-rendersizeunit">RenderSizeUnit.densityIndependentPixels</a> is similar to pixels,
 but the resulting size will take into account the pixel density of the
 display, meaning that physical size on the screen will be approximately
 the same regardless of the size or resolution of the display.</p>
-</section>
-<section class="summary source-code" id="source">
+
+
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">void setMarker3dModelWithRenderSizeUnit(MapMarker3DModel model, double scale, LocationIndicatorMarkerType type, RenderSizeUnit renderSizeUnit);</code></pre>
-</section>
-</div>
-<div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-<header class="hidden-l" id="header-search-sidebar">
-<form class="search-sidebar" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
-</form>
-</header>
-<ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-locationindicator-class</li>
-<li class="self-crumb">setMarker3dModelWithRenderSizeUnit abstract method</li>
-</ol>
-<h5>LocationIndicator class</h5>
-<div id="dartdoc-sidebar-left-content"></div>
-</div>
-<div class="sidebar sidebar-offcanvas-right" id="dartdoc-sidebar-right">
-</div>
-</main>
-<footer>
 
-    here_sdk
-      4.26.0
-  
-</footer>
-</div></div>
+ 
+
+
+
 </div>
 `
 }</HTMLBlock>

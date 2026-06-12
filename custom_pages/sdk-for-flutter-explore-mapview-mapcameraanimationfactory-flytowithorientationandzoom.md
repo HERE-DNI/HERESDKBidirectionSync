@@ -7,49 +7,23 @@ slug: "sdk-for-flutter-explore-mapview-mapcameraanimationfactory-flytowithorient
 `
 <div class="sdk-for-flutter">
 <!-- flyToWithOrientationAndZoom.html -->
-<div class="doc-with-sidebar"><div class="doc-content">
-<div id="overlay-under-drawer"></div>
-<header id="title">
-menu
-<ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapcameraanimationfactory-class</li>
-<li class="self-crumb">flyToWithOrientationAndZoom static method</li>
-</ol>
-<div class="self-name">flyToWithOrientationAndZoom</div>
-<form class="search navbar-right" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-box" placeholder="Loading search..." type="text"/>
-</form>
-<div class="toggle" id="theme-button" title="Toggle brightness">
-<label for="theme">
-<input id="theme" type="checkbox" value="light-theme"/>
 
-        dark_mode
-      
 
-        light_mode
-      
-</label>
-</div>
-</header>
-<main>
-<div class="main-content" data-above-sidebar="mapview/MapCameraAnimationFactory-class-sidebar.html" data-below-sidebar="" id="dartdoc-main-content">
 <div>
 <h1>flyToWithOrientationAndZoom static method</h1></div>
-<section class="multi-line-signature">
-/sdk-for-flutter-explore-mapview-mapcameraanimation-class
-flyToWithOrientationAndZoom(<wbr/><ol class="parameter-list"> <li>/sdk-for-flutter-explore-core-geocoordinatesupdate-class target, </li>
-<li>/sdk-for-flutter-explore-core-geoorientationupdate-class orientation, </li>
-<li>/sdk-for-flutter-explore-mapview-mapmeasure-class zoom, </li>
+
+<a href="/sdk-for-flutter-explore-mapview-mapcameraanimation-class">MapCameraAnimation</a>
+flyToWithOrientationAndZoom(<ol class="parameter-list"> <li><a href="/sdk-for-flutter-explore-core-geocoordinatesupdate-class">GeoCoordinatesUpdate</a> target, </li>
+<li><a href="/sdk-for-flutter-explore-core-geoorientationupdate-class">GeoOrientationUpdate</a> orientation, </li>
+<li><a href="/sdk-for-flutter-explore-mapview-mapmeasure-class">MapMeasure</a> zoom, </li>
 <li>double bowFactor, </li>
 <li>Duration duration, </li>
 </ol>)
 
       
 
-    </section>
-<section class="desc markdown">
+    
+
 <p>Creates a MapCameraAnimation to move the current map camera look-at coordinates to the new position and orientation along an adaptive ballistic curve.</p>
 <p>The beginning of the animation will use the current zoom and the end of the animation will use the provided zoom.</p>
 <p>Note: The altitude of the target point is ignored. Any subsequent camera updates and animations
@@ -83,38 +57,16 @@ of animation has a non zero tilt.</p>
 <ul>
 <li><code>duration</code> Duration of the flight. Negative duration results in no camera change when applied.</li>
 </ul>
-<p>Returns /sdk-for-flutter-explore-mapview-mapcameraanimation-class. MapCameraAnimation instance</p>
-</section>
-<section class="summary source-code" id="source">
+<p>Returns <a href="/sdk-for-flutter-explore-mapview-mapcameraanimation-class">MapCameraAnimation</a>. MapCameraAnimation instance</p>
+
+
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">static MapCameraAnimation flyToWithOrientationAndZoom(GeoCoordinatesUpdate target, GeoOrientationUpdate orientation, MapMeasure zoom, double bowFactor, Duration duration) =&gt; $prototype.flyToWithOrientationAndZoom(target, orientation, zoom, bowFactor, duration);</code></pre>
-</section>
-</div>
-<div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-<header class="hidden-l" id="header-search-sidebar">
-<form class="search-sidebar" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
-</form>
-</header>
-<ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapcameraanimationfactory-class</li>
-<li class="self-crumb">flyToWithOrientationAndZoom static method</li>
-</ol>
-<h5>MapCameraAnimationFactory class</h5>
-<div id="dartdoc-sidebar-left-content"></div>
-</div>
-<div class="sidebar sidebar-offcanvas-right" id="dartdoc-sidebar-right">
-</div>
-</main>
-<footer>
 
-    here_sdk
-      4.26.0
-  
-</footer>
-</div></div>
+ 
+
+
+
 </div>
 `
 }</HTMLBlock>

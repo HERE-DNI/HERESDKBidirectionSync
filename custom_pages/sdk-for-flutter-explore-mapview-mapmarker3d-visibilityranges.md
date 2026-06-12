@@ -7,100 +7,52 @@ slug: "sdk-for-flutter-explore-mapview-mapmarker3d-visibilityranges"
 `
 <div class="sdk-for-flutter">
 <!-- visibilityRanges.html -->
-<div class="doc-with-sidebar"><div class="doc-content">
-<div id="overlay-under-drawer"></div>
-<header id="title">
-menu
-<ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapmarker3d-class</li>
-<li class="self-crumb">visibilityRanges property</li>
-</ol>
-<div class="self-name">visibilityRanges</div>
-<form class="search navbar-right" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-box" placeholder="Loading search..." type="text"/>
-</form>
-<div class="toggle" id="theme-button" title="Toggle brightness">
-<label for="theme">
-<input id="theme" type="checkbox" value="light-theme"/>
 
-        dark_mode
-      
 
-        light_mode
-      
-</label>
-</div>
-</header>
-<main>
-<div class="main-content" data-above-sidebar="mapview/MapMarker3D-class-sidebar.html" data-below-sidebar="" id="dartdoc-main-content">
 <div>
 <h1>visibilityRanges property</h1></div>
 <section id="getter">
-<section class="multi-line-signature">
-List&lt;<wbr/>/sdk-for-flutter-explore-mapview-mapmeasurerange-class&gt;
+
+List&lt;<a href="/sdk-for-flutter-explore-mapview-mapmeasurerange-class">MapMeasureRange</a>&gt;
 visibilityRanges
-</section>
-<section class="desc markdown">
+
+
 <p>The list of visibility ranges. The 3D marker is visible only inside these map measure ranges.
 A range is half open - [minimumZoomLevel, maximumZoomLevel), the given maximum value
 is not contained in the range.</p>
 <p>When empty (the default), the 3D marker is visible without map measure restrictions.
-Only s of /sdk-for-flutter-explore-mapview-mapmeasurekind type are supported.
-s of other unsupported types will be ignored.
+Only <a href="s">MapMeasureRange</a> of <a href="/sdk-for-flutter-explore-mapview-mapmeasurekind">MapMeasureKind.zoomLevel</a> type are supported.
+<a href="s">MapMeasureRange</a> of other unsupported types will be ignored.
 Gets the list of visibility ranges.</p>
-</section>
-<section class="summary source-code" id="source">
+
+
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">List&lt;MapMeasureRange&gt; get visibilityRanges;</code></pre>
-</section>
+
 </section>
 <section id="setter">
-<section class="multi-line-signature">
+
 void
-visibilityRanges=(<wbr/>List&lt;<wbr/>/sdk-for-flutter-explore-mapview-mapmeasurerange-class&gt; value)
-</section>
-<section class="desc markdown">
+visibilityRanges=(List&lt;<a href="/sdk-for-flutter-explore-mapview-mapmeasurerange-class">MapMeasureRange</a>&gt; value)
+
+
 <p>The list of visibility ranges. The 3D marker is visible only inside these map measure ranges.
 A range is half open - [minimumZoomLevel, maximumZoomLevel), the given maximum value
 is not contained in the range.</p>
 <p>When empty (the default), the 3D marker is visible without map measure restrictions.
-Only s of /sdk-for-flutter-explore-mapview-mapmeasurekind type are supported.
-s of other unsupported types will be ignored.
+Only <a href="s">MapMeasureRange</a> of <a href="/sdk-for-flutter-explore-mapview-mapmeasurekind">MapMeasureKind.zoomLevel</a> type are supported.
+<a href="s">MapMeasureRange</a> of other unsupported types will be ignored.
 Sets visibility ranges for this 3D marker.</p>
-</section>
-<section class="summary source-code" id="source">
+
+
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">set visibilityRanges(List&lt;MapMeasureRange&gt; value);</code></pre>
-</section>
-</section>
-</div>
-<div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-<header class="hidden-l" id="header-search-sidebar">
-<form class="search-sidebar" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
-</form>
-</header>
-<ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapmarker3d-class</li>
-<li class="self-crumb">visibilityRanges property</li>
-</ol>
-<h5>MapMarker3D class</h5>
-<div id="dartdoc-sidebar-left-content"></div>
-</div>
-<div class="sidebar sidebar-offcanvas-right" id="dartdoc-sidebar-right">
-</div>
-</main>
-<footer>
 
-    here_sdk
-      4.26.0
-  
-</footer>
-</div></div>
+</section>
+ 
+
+
+
 </div>
 `
 }</HTMLBlock>

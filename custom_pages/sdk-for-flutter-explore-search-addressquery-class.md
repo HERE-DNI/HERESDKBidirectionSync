@@ -7,209 +7,42 @@ slug: "sdk-for-flutter-explore-search-addressquery-class"
 `
 <div class="sdk-for-flutter">
 <!-- AddressQuery-class.html -->
-<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
-<li class="section-title"><a href="search/AddressQuery-class.html#constructors">Constructors</a></li>
-<li><a href="search/AddressQuery/AddressQuery.html">AddressQuery</a></li>
-<li><a href="search/AddressQuery/AddressQuery.withAreaCenter.html">withAreaCenter</a></li>
-<li><a href="search/AddressQuery/AddressQuery.withAreaCenterInCountries.html">withAreaCenterInCountries</a></li>
-<li class="section-title">
-<a href="search/AddressQuery-class.html#instance-properties">Properties</a>
-</li>
-<li><a href="search/AddressQuery/areaCenter.html">areaCenter</a></li>
-<li><a href="search/AddressQuery/countries.html">countries</a></li>
-<li><a href="search/AddressQuery/hashCode.html">hashCode</a></li>
-<li><a href="search/AddressQuery/query.html">query</a></li>
-<li class="inherited"><a href="search/AddressQuery/runtimeType.html">runtimeType</a></li>
-<li class="section-title inherited"><a href="search/AddressQuery-class.html#instance-methods">Methods</a></li>
-<li class="inherited"><a href="search/AddressQuery/noSuchMethod.html">noSuchMethod</a></li>
-<li class="inherited"><a href="search/AddressQuery/toString.html">toString</a></li>
-<li class="section-title"><a href="search/AddressQuery-class.html#operators">Operators</a></li>
-<li><a href="search/AddressQuery/operator_equals.html">operator ==</a></li>
-</ol></div><div class="doc-content">
-<div id="overlay-under-drawer"></div>
-<header id="title">
-menu
-<ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li class="self-crumb">AddressQuery class</li>
-</ol>
-<div class="self-name">AddressQuery</div>
-<form class="search navbar-right" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-box" placeholder="Loading search..." type="text"/>
-</form>
-<div class="toggle" id="theme-button" title="Toggle brightness">
-<label for="theme">
-<input id="theme" type="checkbox" value="light-theme"/>
 
-        dark_mode
-      
 
-        light_mode
-      
-</label>
-</div>
-</header>
-<main>
-<div class="main-content" data-above-sidebar="search/search-library-sidebar.html" data-below-sidebar="search/AddressQuery-class-sidebar.html" id="dartdoc-main-content">
 <div>
 <h1>AddressQuery class</h1></div>
-<section class="desc markdown">
+
 <p>The options to specify an address query.</p>
-<p>A /sdk-for-flutter-explore-search-addressquery-query can consist of parts of an address or full addresses,
-optionally comma separated. /sdk-for-flutter-explore-search-addressquery-class should only be used to search for parts of the address,
+<p>A <a href="/sdk-for-flutter-explore-search-addressquery-query">AddressQuery.query</a> can consist of parts of an address or full addresses,
+optionally comma separated. <a href="/sdk-for-flutter-explore-search-addressquery-class">AddressQuery</a> should only be used to search for parts of the address,
 excluding the POI name. For example, "Invalidenstraße 116, Berlin, Germany" is appropriate, whereas
 "HERE, Invalidenstraße 116, Berlin, Germany" is not. To be able to include the POI name, use
-/sdk-for-flutter-explore-search-textquery-class instead. /sdk-for-flutter-explore-search-searchoptions-languagecode specifies the language of the
-/sdk-for-flutter-explore-search-addressquery-query and determines the preferred language of the results.</p>
-</section>
-<section>
-<dl class="dl-horizontal">
-<dt>Annotations</dt>
-<dd>
-<ul class="annotation-list clazz-relationships">
-<li>@<a href="https://pub.dev/documentation/meta/1.17.0/meta/immutable-constant.html">immutable</a></li>
-</ul>
-</dd>
-</dl>
-</section>
-<section class="summary offset-anchor" id="constructors">
+<a href="/sdk-for-flutter-explore-search-textquery-class">TextQuery</a> instead. <a href="/sdk-for-flutter-explore-search-searchoptions-languagecode">SearchOptions.languageCode</a> specifies the language of the
+<a href="/sdk-for-flutter-explore-search-addressquery-query">AddressQuery.query</a> and determines the preferred language of the results.</p>
+
+
+<ul><li>Annotations</li></ul>
+
+
 <h2>Constructors</h2>
-<dl class="constructor-summary-list">
-<dt class="callable" id="AddressQuery">
-/sdk-for-flutter-explore-search-addressquery-addressquery(String query)
-</dt>
-<dd>
-          Constructs an AddressQuery from the provided text query.
-            <div class="constructor-modifier features">factory</div>
-</dd>
-<dt class="callable" id="AddressQuery.withAreaCenter">
-/sdk-for-flutter-explore-search-addressquery-addressquery-withareacenter(String query, /sdk-for-flutter-explore-core-geocoordinates-class areaCenter)
-</dt>
-<dd>
-          Constructs an AddressQuery from the provided text query and geographical coordinates.
-            <div class="constructor-modifier features">factory</div>
-</dd>
-<dt class="callable" id="AddressQuery.withAreaCenterInCountries">
-/sdk-for-flutter-explore-search-addressquery-addressquery-withareacenterincountries(String query, /sdk-for-flutter-explore-core-geocoordinates-class areaCenter, List&lt;<wbr/>/sdk-for-flutter-explore-core-countrycode&gt; countries)
-</dt>
-<dd>
-          Constructs an AddressQuery from the provided text query, geographical coordinates and the
-list of countries the query is applied in.
-            <div class="constructor-modifier features">factory</div>
-</dd>
-</dl>
-</section>
-<section class="summary offset-anchor" id="instance-properties">
+<ul><li><a href="/sdk-for-flutter-explore-search-addressquery-addressquery">AddressQuery</a></li><li><a href="/sdk-for-flutter-explore-search-addressquery-addressquery-withareacenter">AddressQuery.withAreaCenter</a></li><li><a href="/sdk-for-flutter-explore-search-addressquery-addressquery-withareacenterincountries">AddressQuery.withAreaCenterInCountries</a></li></ul>
+
+
 <h2>Properties</h2>
-<dl class="properties">
-<dt class="property" id="areaCenter">
-/sdk-for-flutter-explore-search-addressquery-areacenter
-→ /sdk-for-flutter-explore-core-geocoordinates-class?
-</dt>
-<dd>
-  Geographical coordinates of the center around which to provide the most relevant places.
-For Offline Search null value will result in /sdk-for-flutter-explore-search-searcherror
-<div class="features">final</div>
-</dd>
-<dt class="property" id="countries">
-/sdk-for-flutter-explore-search-addressquery-countries
-→ List&lt;<wbr/>/sdk-for-flutter-explore-core-countrycode&gt;
-</dt>
-<dd>
-  A list of countries that the query is applied in.
-Not supported in <code>OfflineSearchEngine</code> (only available for the Navigate license).
-  <div class="features">final</div>
-</dd>
-<dt class="property" id="hashCode">
-/sdk-for-flutter-explore-search-addressquery-hashcode
-→ int
-</dt>
-<dd>
-  The hash code for this object.
-  <div class="features">no setter</div>
-</dd>
-<dt class="property" id="query">
-/sdk-for-flutter-explore-search-addressquery-query
-→ String
-</dt>
-<dd>
-  Desired address query to search.
-  <div class="features">final</div>
-</dd>
-<dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-search-addressquery-runtimetype
-→ Type
-</dt>
-<dd class="inherited">
-  A representation of the runtime type of the object.
-  <div class="features">no setterinherited</div>
-</dd>
-</dl>
-</section>
-<section class="summary offset-anchor inherited" id="instance-methods">
+<ul><li><a href="/sdk-for-flutter-explore-search-addressquery-areacenter">areaCenter</a></li><li><a href="/sdk-for-flutter-explore-search-addressquery-countries">countries</a></li><li><a href="/sdk-for-flutter-explore-search-addressquery-hashcode">hashCode</a></li><li><a href="/sdk-for-flutter-explore-search-addressquery-query">query</a></li><li><a href="/sdk-for-flutter-explore-search-addressquery-runtimetype">runtimeType</a></li></ul>
+
+
 <h2>Methods</h2>
-<dl class="callables">
-<dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-search-addressquery-nosuchmethod(<wbr/>Invocation invocation)
-    → dynamic
+<ul><li><a href="/sdk-for-flutter-explore-search-addressquery-nosuchmethod">noSuchMethod</a></li><li><a href="/sdk-for-flutter-explore-search-addressquery-tostring">toString</a></li></ul>
 
-</dt>
-<dd class="inherited">
-  Invoked when a nonexistent method or property is accessed.
-  <div class="features">inherited</div>
-</dd>
-<dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-search-addressquery-tostring(<wbr/>)
-    → String
 
-</dt>
-<dd class="inherited">
-  A string representation of this object.
-  <div class="features">inherited</div>
-</dd>
-</dl>
-</section>
-<section class="summary offset-anchor" id="operators">
 <h2>Operators</h2>
-<dl class="callables">
-<dt class="callable" id="operator ==">
-/sdk-for-flutter-explore-search-addressquery-operator-equals(<wbr/>Object other)
-    → bool
+<ul><li><a href="/sdk-for-flutter-explore-search-addressquery-operator-equals">operator ==</a></li></ul>
 
-</dt>
-<dd>
-  The equality operator.
-  
+ 
 
-</dd>
-</dl>
-</section>
-</div>
-<div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-<header class="hidden-l" id="header-search-sidebar">
-<form class="search-sidebar" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
-</form>
-</header>
-<ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li class="self-crumb">AddressQuery class</li>
-</ol>
-<h5>search library</h5>
-<div id="dartdoc-sidebar-left-content"></div>
-</div>
-<div class="sidebar sidebar-offcanvas-right" id="dartdoc-sidebar-right">
-</div>
-</main>
-<footer>
 
-    here_sdk
-      4.26.0
-  
-</footer>
-</div></div>
+
 </div>
 `
 }</HTMLBlock>

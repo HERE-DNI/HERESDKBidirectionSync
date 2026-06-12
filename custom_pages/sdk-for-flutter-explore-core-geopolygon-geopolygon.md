@@ -7,78 +7,30 @@ slug: "sdk-for-flutter-explore-core-geopolygon-geopolygon"
 `
 <div class="sdk-for-flutter">
 <!-- GeoPolygon.html -->
-<div class="doc-with-sidebar"><div class="doc-content">
-<div id="overlay-under-drawer"></div>
-<header id="title">
-menu
-<ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
-<li>/sdk-for-flutter-explore-core-geopolygon-class</li>
-<li class="self-crumb">GeoPolygon factory constructor</li>
-</ol>
-<div class="self-name">GeoPolygon</div>
-<form class="search navbar-right" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-box" placeholder="Loading search..." type="text"/>
-</form>
-<div class="toggle" id="theme-button" title="Toggle brightness">
-<label for="theme">
-<input id="theme" type="checkbox" value="light-theme"/>
 
-        dark_mode
-      
 
-        light_mode
-      
-</label>
-</div>
-</header>
-<main>
-<div class="main-content" data-above-sidebar="core/GeoPolygon-class-sidebar.html" data-below-sidebar="" id="dartdoc-main-content">
 <div>
 <h1>GeoPolygon constructor</h1></div>
-<section class="multi-line-signature">
-GeoPolygon(<wbr/><ol class="parameter-list single-line"> <li>List&lt;<wbr/>/sdk-for-flutter-explore-core-geocoordinates-class&gt; vertices</li>
+
+GeoPolygon(<ol class="parameter-list single-line"> <li>List&lt;<a href="/sdk-for-flutter-explore-core-geocoordinates-class">GeoCoordinates</a>&gt; vertices</li>
 </ol>)
-    </section>
-<section class="desc markdown">
+    
+
 <p>Constructs an instance of this class from the provided vertices.</p>
 <p>Throws InstantiationError if the number of vertices is less than three.</p>
 <ul>
 <li><code>vertices</code> List of vertices representing the polygon outer boundary in clockwise order.</li>
 </ul>
-<p>Throws /sdk-for-flutter-explore-core-errors-instantiationexception-class. Instantiation error.</p>
-</section>
-<section class="summary source-code" id="source">
+<p>Throws <a href="/sdk-for-flutter-explore-core-errors-instantiationexception-class">InstantiationException</a>. Instantiation error.</p>
+
+
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">factory GeoPolygon(List&lt;GeoCoordinates&gt; vertices) =&gt; $prototype.$init(vertices);</code></pre>
-</section>
-</div>
-<div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-<header class="hidden-l" id="header-search-sidebar">
-<form class="search-sidebar" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
-</form>
-</header>
-<ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
-<li>/sdk-for-flutter-explore-core-geopolygon-class</li>
-<li class="self-crumb">GeoPolygon factory constructor</li>
-</ol>
-<h5>GeoPolygon class</h5>
-<div id="dartdoc-sidebar-left-content"></div>
-</div>
-<div class="sidebar sidebar-offcanvas-right" id="dartdoc-sidebar-right">
-</div>
-</main>
-<footer>
 
-    here_sdk
-      4.26.0
-  
-</footer>
-</div></div>
+ 
+
+
+
 </div>
 `
 }</HTMLBlock>
