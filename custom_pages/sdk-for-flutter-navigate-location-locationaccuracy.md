@@ -1,87 +1,50 @@
 ---
-title: "index property"
+title: "LocationAccuracy enum"
 slug: "sdk-for-flutter-navigate-location-locationaccuracy"
 ---
 
 <HTMLBlock>{
 `
 <div class="sdk-for-flutter">
-<!-- index.html -->
-<div class="doc-with-sidebar"><div class="doc-content">
-<div id="overlay-under-drawer"></div>
-<header id="title">
-menu
-<ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-navigate</li>
-<li>/sdk-for-flutter-navigate-location-location-library</li>
-<li>/sdk-for-flutter-navigate-location-locationaccuracy</li>
-<li class="self-crumb">index property</li>
-</ol>
-<div class="self-name">index</div>
-<form class="search navbar-right" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-box" placeholder="Loading search..." type="text"/>
-</form>
-<div class="toggle" id="theme-button" title="Toggle brightness">
-<label for="theme">
-<input id="theme" type="checkbox" value="light-theme"/>
+<!-- LocationAccuracy.html -->
 
-        dark_mode
-      
 
-        light_mode
-      
-</label>
-</div>
-</header>
-<main>
-<div class="main-content" data-above-sidebar="location/LocationAccuracy-enum-sidebar.html" data-below-sidebar="" id="dartdoc-main-content">
 <div>
-<h1>index property</h1></div>
-<section id="getter">
-<section class="multi-line-signature">
-int
-index
-<div class="features">inherited</div>
-</section>
-<section class="desc markdown">
-<p>A numeric identifier for the enumerated value.</p>
-<p>The values of a single enumeration are numbered
-consecutively from zero to one less than the
-number of values.
-This is also the index of the value in the
-enumerated type's static <code>values</code> list.</p>
-</section>
-<section class="summary source-code" id="source">
-<h2>Implementation</h2>
-<pre class="language-dart"><code class="language-dart">int get index;</code></pre>
-</section>
-</section>
+<h1>LocationAccuracy enum</h1>
 </div>
-<div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-<header class="hidden-l" id="header-search-sidebar">
-<form class="search-sidebar" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
-</form>
-</header>
-<ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-navigate</li>
-<li>/sdk-for-flutter-navigate-location-location-library</li>
-<li>/sdk-for-flutter-navigate-location-locationaccuracy</li>
-<li class="self-crumb">index property</li>
-</ol>
-<h5>LocationAccuracy enum</h5>
-<div id="dartdoc-sidebar-left-content"></div>
-</div>
-<div class="sidebar sidebar-offcanvas-right" id="dartdoc-sidebar-right">
-</div>
-</main>
-<footer>
 
-    here_sdk
-      4.26.0
-  
-</footer>
-</div></div>
+<p>Indicates the desired location accuracy, however the actual accuracy is not
+guaranteed.</p>
+<p>When requesting high-accuracy locations, the initial update delivered
+by the LocationEngine may not have the requested accuracy. Requesting higher
+accuracy location updates usually means higher power consumption, therefore
+you should use the lowest accuracy suitable for your use case to preserve the
+device battery.</p>
+
+
+<h2>Values</h2>
+<ul><li><a href="/sdk-for-flutter-navigate-location-locationaccuracy">LocationAccuracy</a></li><li><a href="/sdk-for-flutter-navigate-location-locationaccuracy">LocationAccuracy</a></li><li><a href="/sdk-for-flutter-navigate-location-locationaccuracy">LocationAccuracy</a></li><li><a href="/sdk-for-flutter-navigate-location-locationaccuracy">LocationAccuracy</a></li><li><a href="/sdk-for-flutter-navigate-location-locationaccuracy">LocationAccuracy</a></li><li><a href="/sdk-for-flutter-navigate-location-locationaccuracy">LocationAccuracy</a></li></ul>
+
+
+<h2>Properties</h2>
+<ul><li><a href="/sdk-for-flutter-navigate-location-locationaccuracy-hashcode">hashCode</a></li><li><a href="/sdk-for-flutter-navigate-location-locationaccuracy-index">index</a></li><li><a href="/sdk-for-flutter-navigate-location-locationaccuracy-runtimetype">runtimeType</a></li></ul>
+
+
+<h2>Methods</h2>
+<ul><li><a href="/sdk-for-flutter-navigate-location-locationaccuracy-nosuchmethod">noSuchMethod</a></li><li><a href="/sdk-for-flutter-navigate-location-locationaccuracy-tostring">toString</a></li></ul>
+
+
+<h2>Operators</h2>
+<ul><li><a href="/sdk-for-flutter-navigate-location-locationaccuracy-operator-equals">operator ==</a></li></ul>
+
+
+<h2>Constants</h2>
+<ul><li><a href="/sdk-for-flutter-navigate-location-locationaccuracy-values-constant">values</a></li></ul>
+
+
+
+
+
 </div>
 `
 }</HTMLBlock>

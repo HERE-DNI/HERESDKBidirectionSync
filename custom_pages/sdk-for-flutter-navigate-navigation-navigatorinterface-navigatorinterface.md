@@ -7,182 +7,156 @@ slug: "sdk-for-flutter-navigate-navigation-navigatorinterface-navigatorinterface
 `
 <div class="sdk-for-flutter">
 <!-- NavigatorInterface.html -->
-<div class="doc-with-sidebar"><div class="doc-content">
-<div id="overlay-under-drawer"></div>
-<header id="title">
-menu
-<ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-navigate</li>
-<li>/sdk-for-flutter-navigate-navigation-navigation-library</li>
-<li>/sdk-for-flutter-navigate-navigation-navigatorinterface-class</li>
-<li class="self-crumb">NavigatorInterface factory constructor</li>
-</ol>
-<div class="self-name">NavigatorInterface</div>
-<form class="search navbar-right" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-box" placeholder="Loading search..." type="text"/>
-</form>
-<div class="toggle" id="theme-button" title="Toggle brightness">
-<label for="theme">
-<input id="theme" type="checkbox" value="light-theme"/>
 
-        dark_mode
-      
 
-        light_mode
-      
-</label>
-</div>
-</header>
-<main>
-<div class="main-content" data-above-sidebar="navigation/NavigatorInterface-class-sidebar.html" data-below-sidebar="" id="dartdoc-main-content">
 <div>
 <h1>NavigatorInterface constructor</h1></div>
-<section class="multi-line-signature">
-NavigatorInterface(<wbr/><ol class="parameter-list"> <li>void onLocationUpdatedLambda(<ol class="parameter-list single-line"> <li>/sdk-for-flutter-navigate-core-location-class</li>
+
+NavigatorInterface(<ol class="parameter-list"> <li>void onLocationUpdatedLambda(<ol class="parameter-list single-line"> <li><a href="/sdk-for-flutter-navigate-core-location-class">Location</a></li>
 </ol>), </li>
-<li>/sdk-for-flutter-navigate-routing-maneuver-class? getManeuverLambda(<ol class="parameter-list single-line"> <li>int</li>
+<li><a href="/sdk-for-flutter-navigate-routing-maneuver-class">Maneuver</a>? getManeuverLambda(<ol class="parameter-list single-line"> <li>int</li>
 </ol>), </li>
-<li>/sdk-for-flutter-navigate-navigation-maneuvernotificationtimingoptions-class getManeuverNotificationTimingOptionsWithTimingProfileLambda(<ol class="parameter-list single-line"> <li>/sdk-for-flutter-navigate-transport-transportmode, </li>
-<li>/sdk-for-flutter-navigate-navigation-timingprofile</li>
+<li><a href="/sdk-for-flutter-navigate-navigation-maneuvernotificationtimingoptions-class">ManeuverNotificationTimingOptions</a> getManeuverNotificationTimingOptionsWithTimingProfileLambda(<ol class="parameter-list single-line"> <li><a href="/sdk-for-flutter-navigate-transport-transportmode">TransportMode</a>, </li>
+<li><a href="/sdk-for-flutter-navigate-navigation-timingprofile">TimingProfile</a></li>
 </ol>), </li>
-<li>bool setManeuverNotificationTimingOptionsWithTimingProfileLambda(<ol class="parameter-list single-line"> <li>/sdk-for-flutter-navigate-transport-transportmode, </li>
-<li>/sdk-for-flutter-navigate-navigation-timingprofile, </li>
-<li>/sdk-for-flutter-navigate-navigation-maneuvernotificationtimingoptions-class</li>
+<li>bool setManeuverNotificationTimingOptionsWithTimingProfileLambda(<ol class="parameter-list single-line"> <li><a href="/sdk-for-flutter-navigate-transport-transportmode">TransportMode</a>, </li>
+<li><a href="/sdk-for-flutter-navigate-navigation-timingprofile">TimingProfile</a>, </li>
+<li><a href="/sdk-for-flutter-navigate-navigation-maneuvernotificationtimingoptions-class">ManeuverNotificationTimingOptions</a></li>
 </ol>), </li>
-<li>/sdk-for-flutter-navigate-navigation-warningnotificationdistances-class getWarningNotificationDistancesLambda(<ol class="parameter-list single-line"> <li>/sdk-for-flutter-navigate-navigation-warningtype</li>
+<li><a href="/sdk-for-flutter-navigate-navigation-warningnotificationdistances-class">WarningNotificationDistances</a> getWarningNotificationDistancesLambda(<ol class="parameter-list single-line"> <li><a href="/sdk-for-flutter-navigate-navigation-warningtype">WarningType</a></li>
 </ol>), </li>
-<li>bool setWarningNotificationDistancesLambda(<ol class="parameter-list single-line"> <li>/sdk-for-flutter-navigate-navigation-warningtype, </li>
-<li>/sdk-for-flutter-navigate-navigation-warningnotificationdistances-class</li>
+<li>bool setWarningNotificationDistancesLambda(<ol class="parameter-list single-line"> <li><a href="/sdk-for-flutter-navigate-navigation-warningtype">WarningType</a>, </li>
+<li><a href="/sdk-for-flutter-navigate-navigation-warningnotificationdistances-class">WarningNotificationDistances</a></li>
 </ol>), </li>
 <li>void repeatLastManeuverNotificationLambda(), </li>
-<li>int? calculateRemainingDistanceInMetersLambda(<ol class="parameter-list single-line"> <li>/sdk-for-flutter-navigate-core-geocoordinates-class</li>
+<li>int? calculateRemainingDistanceInMetersLambda(<ol class="parameter-list single-line"> <li><a href="/sdk-for-flutter-navigate-core-geocoordinates-class">GeoCoordinates</a></li>
 </ol>), </li>
 <li>void setCustomOptionLambda(<ol class="parameter-list single-line"> <li>String, </li>
 <li>String</li>
 </ol>), </li>
-<li>/sdk-for-flutter-navigate-routing-route-class? routeGetLambda(), </li>
-<li>void routeSetLambda(<ol class="parameter-list single-line"> <li>/sdk-for-flutter-navigate-routing-route-class?</li>
+<li><a href="/sdk-for-flutter-navigate-routing-route-class">Route</a>? routeGetLambda(), </li>
+<li>void routeSetLambda(<ol class="parameter-list single-line"> <li><a href="/sdk-for-flutter-navigate-routing-route-class">Route</a>?</li>
 </ol>), </li>
-<li>/sdk-for-flutter-navigate-core-transportprofile-class? trackingTransportProfileGetLambda(), </li>
-<li>void trackingTransportProfileSetLambda(<ol class="parameter-list single-line"> <li>/sdk-for-flutter-navigate-core-transportprofile-class?</li>
+<li><a class="deprecated" href="/sdk-for-flutter-navigate-core-transportprofile-class">TransportProfile</a>? trackingTransportProfileGetLambda(), </li>
+<li>void trackingTransportProfileSetLambda(<ol class="parameter-list single-line"> <li><a class="deprecated" href="/sdk-for-flutter-navigate-core-transportprofile-class">TransportProfile</a>?</li>
 </ol>), </li>
-<li>/sdk-for-flutter-navigate-transport-transportspecification-class? trackingTransportSpecificationGetLambda(), </li>
-<li>void trackingTransportSpecificationSetLambda(<ol class="parameter-list single-line"> <li>/sdk-for-flutter-navigate-transport-transportspecification-class?</li>
+<li><a href="/sdk-for-flutter-navigate-transport-transportspecification-class">TransportSpecification</a>? trackingTransportSpecificationGetLambda(), </li>
+<li>void trackingTransportSpecificationSetLambda(<ol class="parameter-list single-line"> <li><a href="/sdk-for-flutter-navigate-transport-transportspecification-class">TransportSpecification</a>?</li>
 </ol>), </li>
-<li>/sdk-for-flutter-navigate-navigation-navigablelocationlistener-class? navigableLocationListenerGetLambda(), </li>
-<li>void navigableLocationListenerSetLambda(<ol class="parameter-list single-line"> <li>/sdk-for-flutter-navigate-navigation-navigablelocationlistener-class?</li>
+<li><a href="/sdk-for-flutter-navigate-navigation-navigablelocationlistener-class">NavigableLocationListener</a>? navigableLocationListenerGetLambda(), </li>
+<li>void navigableLocationListenerSetLambda(<ol class="parameter-list single-line"> <li><a href="/sdk-for-flutter-navigate-navigation-navigablelocationlistener-class">NavigableLocationListener</a>?</li>
 </ol>), </li>
-<li>/sdk-for-flutter-navigate-navigation-routeprogresslistener-class? routeProgressListenerGetLambda(), </li>
-<li>void routeProgressListenerSetLambda(<ol class="parameter-list single-line"> <li>/sdk-for-flutter-navigate-navigation-routeprogresslistener-class?</li>
+<li><a href="/sdk-for-flutter-navigate-navigation-routeprogresslistener-class">RouteProgressListener</a>? routeProgressListenerGetLambda(), </li>
+<li>void routeProgressListenerSetLambda(<ol class="parameter-list single-line"> <li><a href="/sdk-for-flutter-navigate-navigation-routeprogresslistener-class">RouteProgressListener</a>?</li>
 </ol>), </li>
-<li>/sdk-for-flutter-navigate-navigation-routedeviationlistener-class? routeDeviationListenerGetLambda(), </li>
-<li>void routeDeviationListenerSetLambda(<ol class="parameter-list single-line"> <li>/sdk-for-flutter-navigate-navigation-routedeviationlistener-class?</li>
+<li><a href="/sdk-for-flutter-navigate-navigation-routedeviationlistener-class">RouteDeviationListener</a>? routeDeviationListenerGetLambda(), </li>
+<li>void routeDeviationListenerSetLambda(<ol class="parameter-list single-line"> <li><a href="/sdk-for-flutter-navigate-navigation-routedeviationlistener-class">RouteDeviationListener</a>?</li>
 </ol>), </li>
-<li>/sdk-for-flutter-navigate-navigation-eventtextlistener-class? eventTextListenerGetLambda(), </li>
-<li>void eventTextListenerSetLambda(<ol class="parameter-list single-line"> <li>/sdk-for-flutter-navigate-navigation-eventtextlistener-class?</li>
+<li><a href="/sdk-for-flutter-navigate-navigation-eventtextlistener-class">EventTextListener</a>? eventTextListenerGetLambda(), </li>
+<li>void eventTextListenerSetLambda(<ol class="parameter-list single-line"> <li><a href="/sdk-for-flutter-navigate-navigation-eventtextlistener-class">EventTextListener</a>?</li>
 </ol>), </li>
-<li>/sdk-for-flutter-navigate-navigation-milestonestatuslistener-class? milestoneStatusListenerGetLambda(), </li>
-<li>void milestoneStatusListenerSetLambda(<ol class="parameter-list single-line"> <li>/sdk-for-flutter-navigate-navigation-milestonestatuslistener-class?</li>
+<li><a href="/sdk-for-flutter-navigate-navigation-milestonestatuslistener-class">MilestoneStatusListener</a>? milestoneStatusListenerGetLambda(), </li>
+<li>void milestoneStatusListenerSetLambda(<ol class="parameter-list single-line"> <li><a href="/sdk-for-flutter-navigate-navigation-milestonestatuslistener-class">MilestoneStatusListener</a>?</li>
 </ol>), </li>
-<li>/sdk-for-flutter-navigate-navigation-destinationreachedlistener-class? destinationReachedListenerGetLambda(), </li>
-<li>void destinationReachedListenerSetLambda(<ol class="parameter-list single-line"> <li>/sdk-for-flutter-navigate-navigation-destinationreachedlistener-class?</li>
+<li><a href="/sdk-for-flutter-navigate-navigation-destinationreachedlistener-class">DestinationReachedListener</a>? destinationReachedListenerGetLambda(), </li>
+<li>void destinationReachedListenerSetLambda(<ol class="parameter-list single-line"> <li><a href="/sdk-for-flutter-navigate-navigation-destinationreachedlistener-class">DestinationReachedListener</a>?</li>
 </ol>), </li>
-<li>/sdk-for-flutter-navigate-navigation-speedwarninglistener-class? speedWarningListenerGetLambda(), </li>
-<li>void speedWarningListenerSetLambda(<ol class="parameter-list single-line"> <li>/sdk-for-flutter-navigate-navigation-speedwarninglistener-class?</li>
+<li><a href="/sdk-for-flutter-navigate-navigation-speedwarninglistener-class">SpeedWarningListener</a>? speedWarningListenerGetLambda(), </li>
+<li>void speedWarningListenerSetLambda(<ol class="parameter-list single-line"> <li><a href="/sdk-for-flutter-navigate-navigation-speedwarninglistener-class">SpeedWarningListener</a>?</li>
 </ol>), </li>
-<li>/sdk-for-flutter-navigate-navigation-maneuverviewlaneassistancelistener-class? maneuverViewLaneAssistanceListenerGetLambda(), </li>
-<li>void maneuverViewLaneAssistanceListenerSetLambda(<ol class="parameter-list single-line"> <li>/sdk-for-flutter-navigate-navigation-maneuverviewlaneassistancelistener-class?</li>
+<li><a href="/sdk-for-flutter-navigate-navigation-maneuverviewlaneassistancelistener-class">ManeuverViewLaneAssistanceListener</a>? maneuverViewLaneAssistanceListenerGetLambda(), </li>
+<li>void maneuverViewLaneAssistanceListenerSetLambda(<ol class="parameter-list single-line"> <li><a href="/sdk-for-flutter-navigate-navigation-maneuverviewlaneassistancelistener-class">ManeuverViewLaneAssistanceListener</a>?</li>
 </ol>), </li>
-<li>/sdk-for-flutter-navigate-navigation-currentsituationlaneassistanceviewlistener-class? currentSituationLaneAssistanceViewListenerGetLambda(), </li>
-<li>void currentSituationLaneAssistanceViewListenerSetLambda(<ol class="parameter-list single-line"> <li>/sdk-for-flutter-navigate-navigation-currentsituationlaneassistanceviewlistener-class?</li>
+<li><a href="/sdk-for-flutter-navigate-navigation-currentsituationlaneassistanceviewlistener-class">CurrentSituationLaneAssistanceViewListener</a>? currentSituationLaneAssistanceViewListenerGetLambda(), </li>
+<li>void currentSituationLaneAssistanceViewListenerSetLambda(<ol class="parameter-list single-line"> <li><a href="/sdk-for-flutter-navigate-navigation-currentsituationlaneassistanceviewlistener-class">CurrentSituationLaneAssistanceViewListener</a>?</li>
 </ol>), </li>
-<li>/sdk-for-flutter-navigate-navigation-environmentalzonewarninglistener-class? environmentalZoneWarningListenerGetLambda(), </li>
-<li>void environmentalZoneWarningListenerSetLambda(<ol class="parameter-list single-line"> <li>/sdk-for-flutter-navigate-navigation-environmentalzonewarninglistener-class?</li>
+<li><a href="/sdk-for-flutter-navigate-navigation-environmentalzonewarninglistener-class">EnvironmentalZoneWarningListener</a>? environmentalZoneWarningListenerGetLambda(), </li>
+<li>void environmentalZoneWarningListenerSetLambda(<ol class="parameter-list single-line"> <li><a href="/sdk-for-flutter-navigate-navigation-environmentalzonewarninglistener-class">EnvironmentalZoneWarningListener</a>?</li>
 </ol>), </li>
-<li>/sdk-for-flutter-navigate-navigation-junctionviewlaneassistancelistener-class? junctionViewLaneAssistanceListenerGetLambda(), </li>
-<li>void junctionViewLaneAssistanceListenerSetLambda(<ol class="parameter-list single-line"> <li>/sdk-for-flutter-navigate-navigation-junctionviewlaneassistancelistener-class?</li>
+<li><a href="/sdk-for-flutter-navigate-navigation-junctionviewlaneassistancelistener-class">JunctionViewLaneAssistanceListener</a>? junctionViewLaneAssistanceListenerGetLambda(), </li>
+<li>void junctionViewLaneAssistanceListenerSetLambda(<ol class="parameter-list single-line"> <li><a href="/sdk-for-flutter-navigate-navigation-junctionviewlaneassistancelistener-class">JunctionViewLaneAssistanceListener</a>?</li>
 </ol>), </li>
-<li>/sdk-for-flutter-navigate-navigation-safetycamerawarninglistener-class? safetyCameraWarningListenerGetLambda(), </li>
-<li>void safetyCameraWarningListenerSetLambda(<ol class="parameter-list single-line"> <li>/sdk-for-flutter-navigate-navigation-safetycamerawarninglistener-class?</li>
+<li><a href="/sdk-for-flutter-navigate-navigation-safetycamerawarninglistener-class">SafetyCameraWarningListener</a>? safetyCameraWarningListenerGetLambda(), </li>
+<li>void safetyCameraWarningListenerSetLambda(<ol class="parameter-list single-line"> <li><a href="/sdk-for-flutter-navigate-navigation-safetycamerawarninglistener-class">SafetyCameraWarningListener</a>?</li>
 </ol>), </li>
-<li>/sdk-for-flutter-navigate-navigation-safetycamerawarningoptions-class safetyCameraWarningOptionsGetLambda(), </li>
-<li>void safetyCameraWarningOptionsSetLambda(<ol class="parameter-list single-line"> <li>/sdk-for-flutter-navigate-navigation-safetycamerawarningoptions-class</li>
+<li><a href="/sdk-for-flutter-navigate-navigation-safetycamerawarningoptions-class">SafetyCameraWarningOptions</a> safetyCameraWarningOptionsGetLambda(), </li>
+<li>void safetyCameraWarningOptionsSetLambda(<ol class="parameter-list single-line"> <li><a href="/sdk-for-flutter-navigate-navigation-safetycamerawarningoptions-class">SafetyCameraWarningOptions</a></li>
 </ol>), </li>
-<li>/sdk-for-flutter-navigate-navigation-dangerzonewarninglistener-class? dangerZoneWarningListenerGetLambda(), </li>
-<li>void dangerZoneWarningListenerSetLambda(<ol class="parameter-list single-line"> <li>/sdk-for-flutter-navigate-navigation-dangerzonewarninglistener-class?</li>
+<li><a href="/sdk-for-flutter-navigate-navigation-dangerzonewarninglistener-class">DangerZoneWarningListener</a>? dangerZoneWarningListenerGetLambda(), </li>
+<li>void dangerZoneWarningListenerSetLambda(<ol class="parameter-list single-line"> <li><a href="/sdk-for-flutter-navigate-navigation-dangerzonewarninglistener-class">DangerZoneWarningListener</a>?</li>
 </ol>), </li>
-<li>/sdk-for-flutter-navigate-navigation-truckrestrictionswarninglistener-class? truckRestrictionsWarningListenerGetLambda(), </li>
-<li>void truckRestrictionsWarningListenerSetLambda(<ol class="parameter-list single-line"> <li>/sdk-for-flutter-navigate-navigation-truckrestrictionswarninglistener-class?</li>
+<li><a href="/sdk-for-flutter-navigate-navigation-truckrestrictionswarninglistener-class">TruckRestrictionsWarningListener</a>? truckRestrictionsWarningListenerGetLambda(), </li>
+<li>void truckRestrictionsWarningListenerSetLambda(<ol class="parameter-list single-line"> <li><a href="/sdk-for-flutter-navigate-navigation-truckrestrictionswarninglistener-class">TruckRestrictionsWarningListener</a>?</li>
 </ol>), </li>
-<li>/sdk-for-flutter-navigate-warner-warnerengine-class warnerEngineGetLambda(), </li>
-<li>/sdk-for-flutter-navigate-navigation-truckrestrictionswarningoptions-class truckRestrictionsWarningOptionsGetLambda(), </li>
-<li>void truckRestrictionsWarningOptionsSetLambda(<ol class="parameter-list single-line"> <li>/sdk-for-flutter-navigate-navigation-truckrestrictionswarningoptions-class</li>
+<li><a href="/sdk-for-flutter-navigate-warner-warnerengine-class">WarnerEngine</a> warnerEngineGetLambda(), </li>
+<li><a href="/sdk-for-flutter-navigate-navigation-truckrestrictionswarningoptions-class">TruckRestrictionsWarningOptions</a> truckRestrictionsWarningOptionsGetLambda(), </li>
+<li>void truckRestrictionsWarningOptionsSetLambda(<ol class="parameter-list single-line"> <li><a href="/sdk-for-flutter-navigate-navigation-truckrestrictionswarningoptions-class">TruckRestrictionsWarningOptions</a></li>
 </ol>), </li>
-<li>/sdk-for-flutter-navigate-navigation-postactionlistener-class? postActionListenerGetLambda(), </li>
-<li>void postActionListenerSetLambda(<ol class="parameter-list single-line"> <li>/sdk-for-flutter-navigate-navigation-postactionlistener-class?</li>
+<li><a href="/sdk-for-flutter-navigate-navigation-postactionlistener-class">PostActionListener</a>? postActionListenerGetLambda(), </li>
+<li>void postActionListenerSetLambda(<ol class="parameter-list single-line"> <li><a href="/sdk-for-flutter-navigate-navigation-postactionlistener-class">PostActionListener</a>?</li>
 </ol>), </li>
-<li>/sdk-for-flutter-navigate-navigation-speedlimitlistener-class? speedLimitListenerGetLambda(), </li>
-<li>void speedLimitListenerSetLambda(<ol class="parameter-list single-line"> <li>/sdk-for-flutter-navigate-navigation-speedlimitlistener-class?</li>
+<li><a href="/sdk-for-flutter-navigate-navigation-speedlimitlistener-class">SpeedLimitListener</a>? speedLimitListenerGetLambda(), </li>
+<li>void speedLimitListenerSetLambda(<ol class="parameter-list single-line"> <li><a href="/sdk-for-flutter-navigate-navigation-speedlimitlistener-class">SpeedLimitListener</a>?</li>
 </ol>), </li>
-<li>/sdk-for-flutter-navigate-navigation-roadtextslistener-class? roadTextsListenerGetLambda(), </li>
-<li>void roadTextsListenerSetLambda(<ol class="parameter-list single-line"> <li>/sdk-for-flutter-navigate-navigation-roadtextslistener-class?</li>
+<li><a href="/sdk-for-flutter-navigate-navigation-roadtextslistener-class">RoadTextsListener</a>? roadTextsListenerGetLambda(), </li>
+<li>void roadTextsListenerSetLambda(<ol class="parameter-list single-line"> <li><a href="/sdk-for-flutter-navigate-navigation-roadtextslistener-class">RoadTextsListener</a>?</li>
 </ol>), </li>
-<li>/sdk-for-flutter-navigate-navigation-roadattributeslistener-class? roadAttributesListenerGetLambda(), </li>
-<li>void roadAttributesListenerSetLambda(<ol class="parameter-list single-line"> <li>/sdk-for-flutter-navigate-navigation-roadattributeslistener-class?</li>
+<li><a href="/sdk-for-flutter-navigate-navigation-roadattributeslistener-class">RoadAttributesListener</a>? roadAttributesListenerGetLambda(), </li>
+<li>void roadAttributesListenerSetLambda(<ol class="parameter-list single-line"> <li><a href="/sdk-for-flutter-navigate-navigation-roadattributeslistener-class">RoadAttributesListener</a>?</li>
 </ol>), </li>
-<li>/sdk-for-flutter-navigate-navigation-roadsignwarninglistener-class? roadSignWarningListenerGetLambda(), </li>
-<li>void roadSignWarningListenerSetLambda(<ol class="parameter-list single-line"> <li>/sdk-for-flutter-navigate-navigation-roadsignwarninglistener-class?</li>
+<li><a href="/sdk-for-flutter-navigate-navigation-roadsignwarninglistener-class">RoadSignWarningListener</a>? roadSignWarningListenerGetLambda(), </li>
+<li>void roadSignWarningListenerSetLambda(<ol class="parameter-list single-line"> <li><a href="/sdk-for-flutter-navigate-navigation-roadsignwarninglistener-class">RoadSignWarningListener</a>?</li>
 </ol>), </li>
-<li>/sdk-for-flutter-navigate-navigation-roadsignwarningoptions-class roadSignWarningOptionsGetLambda(), </li>
-<li>void roadSignWarningOptionsSetLambda(<ol class="parameter-list single-line"> <li>/sdk-for-flutter-navigate-navigation-roadsignwarningoptions-class</li>
+<li><a href="/sdk-for-flutter-navigate-navigation-roadsignwarningoptions-class">RoadSignWarningOptions</a> roadSignWarningOptionsGetLambda(), </li>
+<li>void roadSignWarningOptionsSetLambda(<ol class="parameter-list single-line"> <li><a href="/sdk-for-flutter-navigate-navigation-roadsignwarningoptions-class">RoadSignWarningOptions</a></li>
 </ol>), </li>
-<li>/sdk-for-flutter-navigate-navigation-schoolzonewarninglistener-class? schoolZoneWarningListenerGetLambda(), </li>
-<li>void schoolZoneWarningListenerSetLambda(<ol class="parameter-list single-line"> <li>/sdk-for-flutter-navigate-navigation-schoolzonewarninglistener-class?</li>
+<li><a href="/sdk-for-flutter-navigate-navigation-schoolzonewarninglistener-class">SchoolZoneWarningListener</a>? schoolZoneWarningListenerGetLambda(), </li>
+<li>void schoolZoneWarningListenerSetLambda(<ol class="parameter-list single-line"> <li><a href="/sdk-for-flutter-navigate-navigation-schoolzonewarninglistener-class">SchoolZoneWarningListener</a>?</li>
 </ol>), </li>
-<li>/sdk-for-flutter-navigate-navigation-schoolzonewarningoptions-class schoolZoneWarningOptionsGetLambda(), </li>
-<li>void schoolZoneWarningOptionsSetLambda(<ol class="parameter-list single-line"> <li>/sdk-for-flutter-navigate-navigation-schoolzonewarningoptions-class</li>
+<li><a href="/sdk-for-flutter-navigate-navigation-schoolzonewarningoptions-class">SchoolZoneWarningOptions</a> schoolZoneWarningOptionsGetLambda(), </li>
+<li>void schoolZoneWarningOptionsSetLambda(<ol class="parameter-list single-line"> <li><a href="/sdk-for-flutter-navigate-navigation-schoolzonewarningoptions-class">SchoolZoneWarningOptions</a></li>
 </ol>), </li>
-<li>/sdk-for-flutter-navigate-navigation-realisticviewwarninglistener-class? realisticViewWarningListenerGetLambda(), </li>
-<li>void realisticViewWarningListenerSetLambda(<ol class="parameter-list single-line"> <li>/sdk-for-flutter-navigate-navigation-realisticviewwarninglistener-class?</li>
+<li><a href="/sdk-for-flutter-navigate-navigation-realisticviewwarninglistener-class">RealisticViewWarningListener</a>? realisticViewWarningListenerGetLambda(), </li>
+<li>void realisticViewWarningListenerSetLambda(<ol class="parameter-list single-line"> <li><a href="/sdk-for-flutter-navigate-navigation-realisticviewwarninglistener-class">RealisticViewWarningListener</a>?</li>
 </ol>), </li>
-<li>/sdk-for-flutter-navigate-navigation-realisticviewwarningoptions-class realisticViewWarningOptionsGetLambda(), </li>
-<li>void realisticViewWarningOptionsSetLambda(<ol class="parameter-list single-line"> <li>/sdk-for-flutter-navigate-navigation-realisticviewwarningoptions-class</li>
+<li><a href="/sdk-for-flutter-navigate-navigation-realisticviewwarningoptions-class">RealisticViewWarningOptions</a> realisticViewWarningOptionsGetLambda(), </li>
+<li>void realisticViewWarningOptionsSetLambda(<ol class="parameter-list single-line"> <li><a href="/sdk-for-flutter-navigate-navigation-realisticviewwarningoptions-class">RealisticViewWarningOptions</a></li>
 </ol>), </li>
-<li>/sdk-for-flutter-navigate-navigation-bordercrossingwarninglistener-class? borderCrossingWarningListenerGetLambda(), </li>
-<li>void borderCrossingWarningListenerSetLambda(<ol class="parameter-list single-line"> <li>/sdk-for-flutter-navigate-navigation-bordercrossingwarninglistener-class?</li>
+<li><a href="/sdk-for-flutter-navigate-navigation-bordercrossingwarninglistener-class">BorderCrossingWarningListener</a>? borderCrossingWarningListenerGetLambda(), </li>
+<li>void borderCrossingWarningListenerSetLambda(<ol class="parameter-list single-line"> <li><a href="/sdk-for-flutter-navigate-navigation-bordercrossingwarninglistener-class">BorderCrossingWarningListener</a>?</li>
 </ol>), </li>
-<li>/sdk-for-flutter-navigate-navigation-bordercrossingwarningoptions-class borderCrossingWarningOptionsGetLambda(), </li>
-<li>void borderCrossingWarningOptionsSetLambda(<ol class="parameter-list single-line"> <li>/sdk-for-flutter-navigate-navigation-bordercrossingwarningoptions-class</li>
+<li><a href="/sdk-for-flutter-navigate-navigation-bordercrossingwarningoptions-class">BorderCrossingWarningOptions</a> borderCrossingWarningOptionsGetLambda(), </li>
+<li>void borderCrossingWarningOptionsSetLambda(<ol class="parameter-list single-line"> <li><a href="/sdk-for-flutter-navigate-navigation-bordercrossingwarningoptions-class">BorderCrossingWarningOptions</a></li>
 </ol>), </li>
-<li>/sdk-for-flutter-navigate-navigation-tollstopwarninglistener-class? tollStopWarningListenerGetLambda(), </li>
-<li>void tollStopWarningListenerSetLambda(<ol class="parameter-list single-line"> <li>/sdk-for-flutter-navigate-navigation-tollstopwarninglistener-class?</li>
+<li><a href="/sdk-for-flutter-navigate-navigation-tollstopwarninglistener-class">TollStopWarningListener</a>? tollStopWarningListenerGetLambda(), </li>
+<li>void tollStopWarningListenerSetLambda(<ol class="parameter-list single-line"> <li><a href="/sdk-for-flutter-navigate-navigation-tollstopwarninglistener-class">TollStopWarningListener</a>?</li>
 </ol>), </li>
-<li>/sdk-for-flutter-navigate-navigation-railwaycrossingwarninglistener-class? railwayCrossingWarningListenerGetLambda(), </li>
-<li>void railwayCrossingWarningListenerSetLambda(<ol class="parameter-list single-line"> <li>/sdk-for-flutter-navigate-navigation-railwaycrossingwarninglistener-class?</li>
+<li><a href="/sdk-for-flutter-navigate-navigation-railwaycrossingwarninglistener-class">RailwayCrossingWarningListener</a>? railwayCrossingWarningListenerGetLambda(), </li>
+<li>void railwayCrossingWarningListenerSetLambda(<ol class="parameter-list single-line"> <li><a href="/sdk-for-flutter-navigate-navigation-railwaycrossingwarninglistener-class">RailwayCrossingWarningListener</a>?</li>
 </ol>), </li>
-<li>/sdk-for-flutter-navigate-navigation-lowspeedzonewarninglistener-class? lowSpeedZoneWarningListenerGetLambda(), </li>
-<li>void lowSpeedZoneWarningListenerSetLambda(<ol class="parameter-list single-line"> <li>/sdk-for-flutter-navigate-navigation-lowspeedzonewarninglistener-class?</li>
+<li><a href="/sdk-for-flutter-navigate-navigation-lowspeedzonewarninglistener-class">LowSpeedZoneWarningListener</a>? lowSpeedZoneWarningListenerGetLambda(), </li>
+<li>void lowSpeedZoneWarningListenerSetLambda(<ol class="parameter-list single-line"> <li><a href="/sdk-for-flutter-navigate-navigation-lowspeedzonewarninglistener-class">LowSpeedZoneWarningListener</a>?</li>
 </ol>), </li>
-<li>/sdk-for-flutter-navigate-navigation-trafficmergewarninglistener-class? trafficMergeWarningListenerGetLambda(), </li>
-<li>void trafficMergeWarningListenerSetLambda(<ol class="parameter-list single-line"> <li>/sdk-for-flutter-navigate-navigation-trafficmergewarninglistener-class?</li>
+<li><a href="/sdk-for-flutter-navigate-navigation-trafficmergewarninglistener-class">TrafficMergeWarningListener</a>? trafficMergeWarningListenerGetLambda(), </li>
+<li>void trafficMergeWarningListenerSetLambda(<ol class="parameter-list single-line"> <li><a href="/sdk-for-flutter-navigate-navigation-trafficmergewarninglistener-class">TrafficMergeWarningListener</a>?</li>
 </ol>), </li>
-<li>/sdk-for-flutter-navigate-navigation-trafficmergewarningoptions-class trafficMergeWarningOptionsGetLambda(), </li>
-<li>void trafficMergeWarningOptionsSetLambda(<ol class="parameter-list single-line"> <li>/sdk-for-flutter-navigate-navigation-trafficmergewarningoptions-class</li>
+<li><a href="/sdk-for-flutter-navigate-navigation-trafficmergewarningoptions-class">TrafficMergeWarningOptions</a> trafficMergeWarningOptionsGetLambda(), </li>
+<li>void trafficMergeWarningOptionsSetLambda(<ol class="parameter-list single-line"> <li><a href="/sdk-for-flutter-navigate-navigation-trafficmergewarningoptions-class">TrafficMergeWarningOptions</a></li>
 </ol>), </li>
-<li>/sdk-for-flutter-navigate-navigation-offroaddestinationreachedlistener-class? offRoadDestinationReachedListenerGetLambda(), </li>
-<li>void offRoadDestinationReachedListenerSetLambda(<ol class="parameter-list single-line"> <li>/sdk-for-flutter-navigate-navigation-offroaddestinationreachedlistener-class?</li>
+<li><a href="/sdk-for-flutter-navigate-navigation-offroaddestinationreachedlistener-class">OffRoadDestinationReachedListener</a>? offRoadDestinationReachedListenerGetLambda(), </li>
+<li>void offRoadDestinationReachedListenerSetLambda(<ol class="parameter-list single-line"> <li><a href="/sdk-for-flutter-navigate-navigation-offroaddestinationreachedlistener-class">OffRoadDestinationReachedListener</a>?</li>
 </ol>), </li>
-<li>/sdk-for-flutter-navigate-navigation-offroadprogresslistener-class? offRoadProgressListenerGetLambda(), </li>
-<li>void offRoadProgressListenerSetLambda(<ol class="parameter-list single-line"> <li>/sdk-for-flutter-navigate-navigation-offroadprogresslistener-class?</li>
+<li><a href="/sdk-for-flutter-navigate-navigation-offroadprogresslistener-class">OffRoadProgressListener</a>? offRoadProgressListenerGetLambda(), </li>
+<li>void offRoadProgressListenerSetLambda(<ol class="parameter-list single-line"> <li><a href="/sdk-for-flutter-navigate-navigation-offroadprogresslistener-class">OffRoadProgressListener</a>?</li>
 </ol>), </li>
-<li>/sdk-for-flutter-navigate-navigation-maneuvernotificationoptions-class maneuverNotificationOptionsGetLambda(), </li>
-<li>void maneuverNotificationOptionsSetLambda(<ol class="parameter-list single-line"> <li>/sdk-for-flutter-navigate-navigation-maneuvernotificationoptions-class</li>
+<li><a href="/sdk-for-flutter-navigate-navigation-maneuvernotificationoptions-class">ManeuverNotificationOptions</a> maneuverNotificationOptionsGetLambda(), </li>
+<li>void maneuverNotificationOptionsSetLambda(<ol class="parameter-list single-line"> <li><a href="/sdk-for-flutter-navigate-navigation-maneuvernotificationoptions-class">ManeuverNotificationOptions</a></li>
 </ol>), </li>
-<li>/sdk-for-flutter-navigate-navigation-eventtextoptions-class eventTextOptionsGetLambda(), </li>
-<li>void eventTextOptionsSetLambda(<ol class="parameter-list single-line"> <li>/sdk-for-flutter-navigate-navigation-eventtextoptions-class</li>
+<li><a href="/sdk-for-flutter-navigate-navigation-eventtextoptions-class">EventTextOptions</a> eventTextOptionsGetLambda(), </li>
+<li>void eventTextOptionsSetLambda(<ol class="parameter-list single-line"> <li><a href="/sdk-for-flutter-navigate-navigation-eventtextoptions-class">EventTextOptions</a></li>
 </ol>), </li>
-<li>/sdk-for-flutter-navigate-navigation-speedwarningoptions-class speedWarningOptionsGetLambda(), </li>
-<li>void speedWarningOptionsSetLambda(<ol class="parameter-list single-line"> <li>/sdk-for-flutter-navigate-navigation-speedwarningoptions-class</li>
+<li><a href="/sdk-for-flutter-navigate-navigation-speedwarningoptions-class">SpeedWarningOptions</a> speedWarningOptionsGetLambda(), </li>
+<li>void speedWarningOptionsSetLambda(<ol class="parameter-list single-line"> <li><a href="/sdk-for-flutter-navigate-navigation-speedwarningoptions-class">SpeedWarningOptions</a></li>
 </ol>), </li>
 <li>bool isEnableTunnelExtrapolationGetLambda(), </li>
 <li>void isEnableTunnelExtrapolationSetLambda(<ol class="parameter-list single-line"> <li>bool</li>
@@ -190,16 +164,16 @@ NavigatorInterface(<wbr/><ol class="parameter-list"> <li>void onLocationUpdatedL
 <li>bool isPassthroughWaypointsHandlingEnabledGetLambda(), </li>
 <li>void isPassthroughWaypointsHandlingEnabledSetLambda(<ol class="parameter-list single-line"> <li>bool</li>
 </ol>), </li>
-<li>/sdk-for-flutter-navigate-routing-trafficonroute-class? trafficOnRouteGetLambda(), </li>
-<li>void trafficOnRouteSetLambda(<ol class="parameter-list single-line"> <li>/sdk-for-flutter-navigate-routing-trafficonroute-class?</li>
+<li><a href="/sdk-for-flutter-navigate-routing-trafficonroute-class">TrafficOnRoute</a>? trafficOnRouteGetLambda(), </li>
+<li>void trafficOnRouteSetLambda(<ol class="parameter-list single-line"> <li><a href="/sdk-for-flutter-navigate-routing-trafficonroute-class">TrafficOnRoute</a>?</li>
 </ol>), </li>
-<li>/sdk-for-flutter-navigate-mapmatcher-locationmanager-class locationManagerGetLambda(), </li>
+<li><a href="/sdk-for-flutter-navigate-mapmatcher-locationmanager-class">LocationManager</a> locationManagerGetLambda(), </li>
 </ol>)
-    </section>
-<section class="desc markdown">
+    
+
 <p>This abstract class provides the basic functionality needed to run a navigation session.</p>
-</section>
-<section class="summary source-code" id="source">
+
+
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">factory NavigatorInterface(
   void Function(Location) onLocationUpdatedLambda,
@@ -402,33 +376,11 @@ NavigatorInterface(<wbr/><ol class="parameter-list"> <li>void onLocationUpdatedL
   trafficOnRouteSetLambda,
   locationManagerGetLambda
 );</code></pre>
-</section>
-</div>
-<div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-<header class="hidden-l" id="header-search-sidebar">
-<form class="search-sidebar" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
-</form>
-</header>
-<ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-navigate</li>
-<li>/sdk-for-flutter-navigate-navigation-navigation-library</li>
-<li>/sdk-for-flutter-navigate-navigation-navigatorinterface-class</li>
-<li class="self-crumb">NavigatorInterface factory constructor</li>
-</ol>
-<h5>NavigatorInterface class</h5>
-<div id="dartdoc-sidebar-left-content"></div>
-</div>
-<div class="sidebar sidebar-offcanvas-right" id="dartdoc-sidebar-right">
-</div>
-</main>
-<footer>
 
-    here_sdk
-      4.26.0
-  
-</footer>
-</div></div>
+ 
+
+
+
 </div>
 `
 }</HTMLBlock>

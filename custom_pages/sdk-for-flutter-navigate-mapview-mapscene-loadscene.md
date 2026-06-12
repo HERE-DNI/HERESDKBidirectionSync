@@ -7,46 +7,20 @@ slug: "sdk-for-flutter-navigate-mapview-mapscene-loadscene"
 `
 <div class="sdk-for-flutter">
 <!-- loadScene.html -->
-<div class="doc-with-sidebar"><div class="doc-content">
-<div id="overlay-under-drawer"></div>
-<header id="title">
-menu
-<ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-navigate</li>
-<li>/sdk-for-flutter-navigate-mapview-mapview-library</li>
-<li>/sdk-for-flutter-navigate-mapview-mapscene-class</li>
-<li class="self-crumb">loadScene abstract method</li>
-</ol>
-<div class="self-name">loadScene</div>
-<form class="search navbar-right" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-box" placeholder="Loading search..." type="text"/>
-</form>
-<div class="toggle" id="theme-button" title="Toggle brightness">
-<label for="theme">
-<input id="theme" type="checkbox" value="light-theme"/>
 
-        dark_mode
-      
 
-        light_mode
-      
-</label>
-</div>
-</header>
-<main>
-<div class="main-content" data-above-sidebar="mapview/MapScene-class-sidebar.html" data-below-sidebar="" id="dartdoc-main-content">
 <div>
 <h1>loadScene abstract method</h1></div>
-<section class="multi-line-signature">
+
 void
-loadScene(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-navigate-mapview-mapsceneloadoptions-class options, </li>
-<li>/sdk-for-flutter-navigate-mapview-mapsceneloadscenecallback? callback</li>
+loadScene(<ol class="parameter-list single-line"> <li><a href="/sdk-for-flutter-navigate-mapview-mapsceneloadoptions-class">MapSceneLoadOptions</a> options, </li>
+<li><a href="/sdk-for-flutter-navigate-mapview-mapsceneloadscenecallback">MapSceneLoadSceneCallback</a>? callback</li>
 </ol>)
 
       
 
-    </section>
-<section class="desc markdown">
+    
+
 <p>Asynchronously loads a map scene using MapSceneLoadOptions.</p>
 <p>This is an unified API that supports loading from either a map scheme or configuration file,
 with optional feature and watermark configuration. It's more efficient to load the scene with
@@ -69,37 +43,15 @@ Related APIs may change for new releases without a deprecation process.</p>
 <p><code>callback</code> Optional callback that will receive the result of this operation.</p>
 </li>
 </ul>
-</section>
-<section class="summary source-code" id="source">
+
+
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">void loadScene(MapSceneLoadOptions options, MapSceneLoadSceneCallback? callback);</code></pre>
-</section>
-</div>
-<div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-<header class="hidden-l" id="header-search-sidebar">
-<form class="search-sidebar" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
-</form>
-</header>
-<ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-navigate</li>
-<li>/sdk-for-flutter-navigate-mapview-mapview-library</li>
-<li>/sdk-for-flutter-navigate-mapview-mapscene-class</li>
-<li class="self-crumb">loadScene abstract method</li>
-</ol>
-<h5>MapScene class</h5>
-<div id="dartdoc-sidebar-left-content"></div>
-</div>
-<div class="sidebar sidebar-offcanvas-right" id="dartdoc-sidebar-right">
-</div>
-</main>
-<footer>
 
-    here_sdk
-      4.26.0
-  
-</footer>
-</div></div>
+ 
+
+
+
 </div>
 `
 }</HTMLBlock>

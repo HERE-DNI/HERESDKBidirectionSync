@@ -7,45 +7,19 @@ slug: "sdk-for-flutter-navigate-mapview-mappolylinesolidmulticolorrepresentation
 `
 <div class="sdk-for-flutter">
 <!-- setMultiColorGradientLength.html -->
-<div class="doc-with-sidebar"><div class="doc-content">
-<div id="overlay-under-drawer"></div>
-<header id="title">
-menu
-<ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-navigate</li>
-<li>/sdk-for-flutter-navigate-mapview-mapview-library</li>
-<li>/sdk-for-flutter-navigate-mapview-mappolylinesolidmulticolorrepresentation-class</li>
-<li class="self-crumb">setMultiColorGradientLength abstract method</li>
-</ol>
-<div class="self-name">setMultiColorGradientLength</div>
-<form class="search navbar-right" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-box" placeholder="Loading search..." type="text"/>
-</form>
-<div class="toggle" id="theme-button" title="Toggle brightness">
-<label for="theme">
-<input id="theme" type="checkbox" value="light-theme"/>
 
-        dark_mode
-      
 
-        light_mode
-      
-</label>
-</div>
-</header>
-<main>
-<div class="main-content" data-above-sidebar="mapview/MapPolylineSolidMultiColorRepresentation-class-sidebar.html" data-below-sidebar="" id="dartdoc-main-content">
 <div>
 <h1>setMultiColorGradientLength abstract method</h1></div>
-<section class="multi-line-signature">
+
 bool
-setMultiColorGradientLength(<wbr/><ol class="parameter-list single-line"> <li>double length</li>
+setMultiColorGradientLength(<ol class="parameter-list single-line"> <li>double length</li>
 </ol>)
 
       
 
-    </section>
-<section class="desc markdown">
+    
+
 <p>Sets the multiple color segment gradient length.</p>
 <p>Colors of two adjacent color segments can be blended to have a nicer visual appeal. Blending produces color
 gradient of specific length which is part of the color segment being blended.</p>
@@ -65,37 +39,15 @@ behavior. Related APIs may change for new releases without a deprecation process
 Valid value range is [0.0, 1.0]. Out of range values are not supported.</li>
 </ul>
 <p>Returns <code>bool</code>. Value indicating whether specified value is valid and can be applied.</p>
-</section>
-<section class="summary source-code" id="source">
+
+
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">bool setMultiColorGradientLength(double length);</code></pre>
-</section>
-</div>
-<div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-<header class="hidden-l" id="header-search-sidebar">
-<form class="search-sidebar" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
-</form>
-</header>
-<ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-navigate</li>
-<li>/sdk-for-flutter-navigate-mapview-mapview-library</li>
-<li>/sdk-for-flutter-navigate-mapview-mappolylinesolidmulticolorrepresentation-class</li>
-<li class="self-crumb">setMultiColorGradientLength abstract method</li>
-</ol>
-<h5>MapPolylineSolidMultiColorRepresentation class</h5>
-<div id="dartdoc-sidebar-left-content"></div>
-</div>
-<div class="sidebar sidebar-offcanvas-right" id="dartdoc-sidebar-right">
-</div>
-</main>
-<footer>
 
-    here_sdk
-      4.26.0
-  
-</footer>
-</div></div>
+ 
+
+
+
 </div>
 `
 }</HTMLBlock>

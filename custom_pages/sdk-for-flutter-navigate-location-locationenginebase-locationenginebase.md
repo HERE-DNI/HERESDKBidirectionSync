@@ -7,82 +7,56 @@ slug: "sdk-for-flutter-navigate-location-locationenginebase-locationenginebase"
 `
 <div class="sdk-for-flutter">
 <!-- LocationEngineBase.html -->
-<div class="doc-with-sidebar"><div class="doc-content">
-<div id="overlay-under-drawer"></div>
-<header id="title">
-menu
-<ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-navigate</li>
-<li>/sdk-for-flutter-navigate-location-location-library</li>
-<li>/sdk-for-flutter-navigate-location-locationenginebase-class</li>
-<li class="self-crumb">LocationEngineBase factory constructor</li>
-</ol>
-<div class="self-name">LocationEngineBase</div>
-<form class="search navbar-right" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-box" placeholder="Loading search..." type="text"/>
-</form>
-<div class="toggle" id="theme-button" title="Toggle brightness">
-<label for="theme">
-<input id="theme" type="checkbox" value="light-theme"/>
 
-        dark_mode
-      
 
-        light_mode
-      
-</label>
-</div>
-</header>
-<main>
-<div class="main-content" data-above-sidebar="location/LocationEngineBase-class-sidebar.html" data-below-sidebar="" id="dartdoc-main-content">
 <div>
 <h1>LocationEngineBase constructor</h1></div>
-<section class="multi-line-signature">
-LocationEngineBase(<wbr/><ol class="parameter-list"> <li>/sdk-for-flutter-navigate-location-locationenginestatus startWithLocationAccuracyLambda(<ol class="parameter-list single-line"> <li>/sdk-for-flutter-navigate-location-locationaccuracy</li>
+
+LocationEngineBase(<ol class="parameter-list"> <li><a href="/sdk-for-flutter-navigate-location-locationenginestatus">LocationEngineStatus</a> startWithLocationAccuracyLambda(<ol class="parameter-list single-line"> <li><a href="/sdk-for-flutter-navigate-location-locationaccuracy">LocationAccuracy</a></li>
 </ol>), </li>
-<li>/sdk-for-flutter-navigate-location-locationenginestatus startWithLocationOptionsLambda(<ol class="parameter-list single-line"> <li>/sdk-for-flutter-navigate-location-locationoptions-class</li>
+<li><a href="/sdk-for-flutter-navigate-location-locationenginestatus">LocationEngineStatus</a> startWithLocationOptionsLambda(<ol class="parameter-list single-line"> <li><a href="/sdk-for-flutter-navigate-location-locationoptions-class">LocationOptions</a></li>
 </ol>), </li>
-<li>/sdk-for-flutter-navigate-location-locationenginestatus updateLocationAccuracyLambda(<ol class="parameter-list single-line"> <li>/sdk-for-flutter-navigate-location-locationaccuracy</li>
+<li><a href="/sdk-for-flutter-navigate-location-locationenginestatus">LocationEngineStatus</a> updateLocationAccuracyLambda(<ol class="parameter-list single-line"> <li><a href="/sdk-for-flutter-navigate-location-locationaccuracy">LocationAccuracy</a></li>
 </ol>), </li>
-<li>/sdk-for-flutter-navigate-location-locationenginestatus updateLocationOptionsLambda(<ol class="parameter-list single-line"> <li>/sdk-for-flutter-navigate-location-locationoptions-class</li>
+<li><a href="/sdk-for-flutter-navigate-location-locationenginestatus">LocationEngineStatus</a> updateLocationOptionsLambda(<ol class="parameter-list single-line"> <li><a href="/sdk-for-flutter-navigate-location-locationoptions-class">LocationOptions</a></li>
 </ol>), </li>
 <li>void stopLambda(), </li>
-<li>/sdk-for-flutter-navigate-location-confirmationstatus confirmHEREPrivacyNoticeInclusionLambda(), </li>
-<li>/sdk-for-flutter-navigate-location-confirmationstatus confirmHEREPrivacyNoticeExceptionLambda(), </li>
-<li>void addLocationListenerLambda(<ol class="parameter-list single-line"> <li>/sdk-for-flutter-navigate-core-locationlistener-class</li>
+<li><a href="/sdk-for-flutter-navigate-location-confirmationstatus">ConfirmationStatus</a> confirmHEREPrivacyNoticeInclusionLambda(), </li>
+<li><a href="/sdk-for-flutter-navigate-location-confirmationstatus">ConfirmationStatus</a> confirmHEREPrivacyNoticeExceptionLambda(), </li>
+<li>void addLocationListenerLambda(<ol class="parameter-list single-line"> <li><a href="/sdk-for-flutter-navigate-core-locationlistener-class">LocationListener</a></li>
 </ol>), </li>
-<li>void removeLocationListenerLambda(<ol class="parameter-list single-line"> <li>/sdk-for-flutter-navigate-core-locationlistener-class</li>
+<li>void removeLocationListenerLambda(<ol class="parameter-list single-line"> <li><a href="/sdk-for-flutter-navigate-core-locationlistener-class">LocationListener</a></li>
 </ol>), </li>
-<li>void addLocationStatusListenerLambda(<ol class="parameter-list single-line"> <li>/sdk-for-flutter-navigate-location-locationstatuslistener-class</li>
+<li>void addLocationStatusListenerLambda(<ol class="parameter-list single-line"> <li><a href="/sdk-for-flutter-navigate-location-locationstatuslistener-class">LocationStatusListener</a></li>
 </ol>), </li>
-<li>void removeLocationStatusListenerLambda(<ol class="parameter-list single-line"> <li>/sdk-for-flutter-navigate-location-locationstatuslistener-class</li>
+<li>void removeLocationStatusListenerLambda(<ol class="parameter-list single-line"> <li><a href="/sdk-for-flutter-navigate-location-locationstatuslistener-class">LocationStatusListener</a></li>
 </ol>), </li>
-<li>void addLocationIssueListenerLambda(<ol class="parameter-list single-line"> <li>/sdk-for-flutter-navigate-location-locationissuelistener-class</li>
+<li>void addLocationIssueListenerLambda(<ol class="parameter-list single-line"> <li><a href="/sdk-for-flutter-navigate-location-locationissuelistener-class">LocationIssueListener</a></li>
 </ol>), </li>
-<li>void removeLocationIssueListenerLambda(<ol class="parameter-list single-line"> <li>/sdk-for-flutter-navigate-location-locationissuelistener-class</li>
+<li>void removeLocationIssueListenerLambda(<ol class="parameter-list single-line"> <li><a href="/sdk-for-flutter-navigate-location-locationissuelistener-class">LocationIssueListener</a></li>
 </ol>), </li>
-<li>/sdk-for-flutter-navigate-location-locationenginestatus setBackgroundLocationAllowedLambda(<ol class="parameter-list single-line"> <li>bool</li>
+<li><a href="/sdk-for-flutter-navigate-location-locationenginestatus">LocationEngineStatus</a> setBackgroundLocationAllowedLambda(<ol class="parameter-list single-line"> <li>bool</li>
 </ol>), </li>
 <li>bool getBackgroundLocationAllowedLambda(), </li>
-<li>/sdk-for-flutter-navigate-location-locationenginestatus setBackgroundLocationIndicatorVisibleLambda(<ol class="parameter-list single-line"> <li>bool</li>
+<li><a href="/sdk-for-flutter-navigate-location-locationenginestatus">LocationEngineStatus</a> setBackgroundLocationIndicatorVisibleLambda(<ol class="parameter-list single-line"> <li>bool</li>
 </ol>), </li>
 <li>bool getBackgroundLocationIndicatorVisibleLambda(), </li>
-<li>/sdk-for-flutter-navigate-location-locationenginestatus setPauseLocationUpdatesAutomaticallyLambda(<ol class="parameter-list single-line"> <li>bool</li>
+<li><a href="/sdk-for-flutter-navigate-location-locationenginestatus">LocationEngineStatus</a> setPauseLocationUpdatesAutomaticallyLambda(<ol class="parameter-list single-line"> <li>bool</li>
 </ol>), </li>
 <li>bool getPauseLocationUpdatesAutomaticallyLambda(), </li>
-<li>/sdk-for-flutter-navigate-location-locationenginestatus setLastKnownLocationPersistentLambda(<ol class="parameter-list single-line"> <li>bool</li>
+<li><a href="/sdk-for-flutter-navigate-location-locationenginestatus">LocationEngineStatus</a> setLastKnownLocationPersistentLambda(<ol class="parameter-list single-line"> <li>bool</li>
 </ol>), </li>
 <li>void internalsetCallListenerFromMainThreadEnabledLambda(<ol class="parameter-list single-line"> <li>bool</li>
 </ol>), </li>
-<li>/sdk-for-flutter-navigate-core-location-class? lastKnownLocationGetLambda(), </li>
+<li><a href="/sdk-for-flutter-navigate-core-location-class">Location</a>? lastKnownLocationGetLambda(), </li>
 <li>bool isStartedGetLambda(), </li>
 </ol>)
-    </section>
-<section class="desc markdown">
+    
+
 <p>Public abstract class that describes the behaviour of <code>LocationEngine</code>.</p>
 <p>Implementation is platform-specific.</p>
-</section>
-<section class="summary source-code" id="source">
+
+
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">factory LocationEngineBase(
   LocationEngineStatus Function(LocationAccuracy) startWithLocationAccuracyLambda,
@@ -133,33 +107,11 @@ LocationEngineBase(<wbr/><ol class="parameter-list"> <li>/sdk-for-flutter-naviga
   lastKnownLocationGetLambda,
   isStartedGetLambda
 );</code></pre>
-</section>
-</div>
-<div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-<header class="hidden-l" id="header-search-sidebar">
-<form class="search-sidebar" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
-</form>
-</header>
-<ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-navigate</li>
-<li>/sdk-for-flutter-navigate-location-location-library</li>
-<li>/sdk-for-flutter-navigate-location-locationenginebase-class</li>
-<li class="self-crumb">LocationEngineBase factory constructor</li>
-</ol>
-<h5>LocationEngineBase class</h5>
-<div id="dartdoc-sidebar-left-content"></div>
-</div>
-<div class="sidebar sidebar-offcanvas-right" id="dartdoc-sidebar-right">
-</div>
-</main>
-<footer>
 
-    here_sdk
-      4.26.0
-  
-</footer>
-</div></div>
+ 
+
+
+
 </div>
 `
 }</HTMLBlock>

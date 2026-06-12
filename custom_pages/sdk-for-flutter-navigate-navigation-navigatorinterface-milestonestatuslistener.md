@@ -7,106 +7,58 @@ slug: "sdk-for-flutter-navigate-navigation-navigatorinterface-milestonestatuslis
 `
 <div class="sdk-for-flutter">
 <!-- milestoneStatusListener.html -->
-<div class="doc-with-sidebar"><div class="doc-content">
-<div id="overlay-under-drawer"></div>
-<header id="title">
-menu
-<ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-navigate</li>
-<li>/sdk-for-flutter-navigate-navigation-navigation-library</li>
-<li>/sdk-for-flutter-navigate-navigation-navigatorinterface-class</li>
-<li class="self-crumb">milestoneStatusListener property</li>
-</ol>
-<div class="self-name">milestoneStatusListener</div>
-<form class="search navbar-right" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-box" placeholder="Loading search..." type="text"/>
-</form>
-<div class="toggle" id="theme-button" title="Toggle brightness">
-<label for="theme">
-<input id="theme" type="checkbox" value="light-theme"/>
 
-        dark_mode
-      
 
-        light_mode
-      
-</label>
-</div>
-</header>
-<main>
-<div class="main-content" data-above-sidebar="navigation/NavigatorInterface-class-sidebar.html" data-below-sidebar="" id="dartdoc-main-content">
 <div>
 <h1>milestoneStatusListener property</h1></div>
 <section id="getter">
-<section class="multi-line-signature">
-/sdk-for-flutter-navigate-navigation-milestonestatuslistener-class?
+
+<a href="/sdk-for-flutter-navigate-navigation-milestonestatuslistener-class">MilestoneStatusListener</a>?
 milestoneStatusListener
-</section>
-<section class="desc markdown">
-<p>Object to receive notifications about the arrival at each /sdk-for-flutter-navigate-navigation-milestone-class or missing it.
+
+
+<p>Object to receive notifications about the arrival at each <a href="/sdk-for-flutter-navigate-navigation-milestone-class">Milestone</a> or missing it.
 It informs on all waypoints (passed or missed) that
-are of type /sdk-for-flutter-navigate-navigation-milestonetype but excludes the
+are of type <a href="/sdk-for-flutter-navigate-navigation-milestonetype">MilestoneType.stopover</a> but excludes the
 starting waypoint.
-Waypoints of type /sdk-for-flutter-navigate-navigation-milestonetype are excluded, by default,
-but can be included via /sdk-for-flutter-navigate-navigation-navigatorinterface-ispassthroughwaypointshandlingenabled.
+Waypoints of type <a href="/sdk-for-flutter-navigate-navigation-milestonetype">MilestoneType.passthrough</a> are excluded, by default,
+but can be included via <a href="/sdk-for-flutter-navigate-navigation-navigatorinterface-ispassthroughwaypointshandlingenabled">NavigatorInterface.isPassthroughWaypointsHandlingEnabled</a>.
 Milestone status notifications only occurs if a route has been set.
 Setting <code>null</code> value to the listener will unset the listener.
 It returns <code>null</code> when no listener is set by an user.
-Gets the listener that notifies when a /sdk-for-flutter-navigate-navigation-milestone-class has been reached or missed.</p>
-</section>
-<section class="summary source-code" id="source">
+Gets the listener that notifies when a <a href="/sdk-for-flutter-navigate-navigation-milestone-class">Milestone</a> has been reached or missed.</p>
+
+
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">MilestoneStatusListener? get milestoneStatusListener;</code></pre>
-</section>
+
 </section>
 <section id="setter">
-<section class="multi-line-signature">
+
 void
-milestoneStatusListener=(<wbr/>/sdk-for-flutter-navigate-navigation-milestonestatuslistener-class? value)
-</section>
-<section class="desc markdown">
-<p>Object to receive notifications about the arrival at each /sdk-for-flutter-navigate-navigation-milestone-class or missing it.
+milestoneStatusListener=(<a href="/sdk-for-flutter-navigate-navigation-milestonestatuslistener-class">MilestoneStatusListener</a>? value)
+
+
+<p>Object to receive notifications about the arrival at each <a href="/sdk-for-flutter-navigate-navigation-milestone-class">Milestone</a> or missing it.
 It informs on all waypoints (passed or missed) that
-are of type /sdk-for-flutter-navigate-navigation-milestonetype but excludes the
+are of type <a href="/sdk-for-flutter-navigate-navigation-milestonetype">MilestoneType.stopover</a> but excludes the
 starting waypoint.
-Waypoints of type /sdk-for-flutter-navigate-navigation-milestonetype are excluded, by default,
-but can be included via /sdk-for-flutter-navigate-navigation-navigatorinterface-ispassthroughwaypointshandlingenabled.
+Waypoints of type <a href="/sdk-for-flutter-navigate-navigation-milestonetype">MilestoneType.passthrough</a> are excluded, by default,
+but can be included via <a href="/sdk-for-flutter-navigate-navigation-navigatorinterface-ispassthroughwaypointshandlingenabled">NavigatorInterface.isPassthroughWaypointsHandlingEnabled</a>.
 Milestone status notifications only occurs if a route has been set.
 Setting <code>null</code> value to the listener will unset the listener.
 It returns <code>null</code> when no listener is set by an user.
-Sets the listener that notifies when a /sdk-for-flutter-navigate-navigation-milestone-class has been reached or missed.</p>
-</section>
-<section class="summary source-code" id="source">
+Sets the listener that notifies when a <a href="/sdk-for-flutter-navigate-navigation-milestone-class">Milestone</a> has been reached or missed.</p>
+
+
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">set milestoneStatusListener(MilestoneStatusListener? value);</code></pre>
-</section>
-</section>
-</div>
-<div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-<header class="hidden-l" id="header-search-sidebar">
-<form class="search-sidebar" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
-</form>
-</header>
-<ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-navigate</li>
-<li>/sdk-for-flutter-navigate-navigation-navigation-library</li>
-<li>/sdk-for-flutter-navigate-navigation-navigatorinterface-class</li>
-<li class="self-crumb">milestoneStatusListener property</li>
-</ol>
-<h5>NavigatorInterface class</h5>
-<div id="dartdoc-sidebar-left-content"></div>
-</div>
-<div class="sidebar sidebar-offcanvas-right" id="dartdoc-sidebar-right">
-</div>
-</main>
-<footer>
 
-    here_sdk
-      4.26.0
-  
-</footer>
-</div></div>
+</section>
+ 
+
+
+
 </div>
 `
 }</HTMLBlock>

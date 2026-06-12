@@ -7,42 +7,16 @@ slug: "sdk-for-flutter-navigate-navigation-junctionviewlaneassistance-junctionvi
 `
 <div class="sdk-for-flutter">
 <!-- JunctionViewLaneAssistance.html -->
-<div class="doc-with-sidebar"><div class="doc-content">
-<div id="overlay-under-drawer"></div>
-<header id="title">
-menu
-<ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-navigate</li>
-<li>/sdk-for-flutter-navigate-navigation-navigation-library</li>
-<li>/sdk-for-flutter-navigate-navigation-junctionviewlaneassistance-class</li>
-<li class="self-crumb">JunctionViewLaneAssistance constructor</li>
-</ol>
-<div class="self-name">JunctionViewLaneAssistance</div>
-<form class="search navbar-right" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-box" placeholder="Loading search..." type="text"/>
-</form>
-<div class="toggle" id="theme-button" title="Toggle brightness">
-<label for="theme">
-<input id="theme" type="checkbox" value="light-theme"/>
 
-        dark_mode
-      
 
-        light_mode
-      
-</label>
-</div>
-</header>
-<main>
-<div class="main-content" data-above-sidebar="navigation/JunctionViewLaneAssistance-class-sidebar.html" data-below-sidebar="" id="dartdoc-main-content">
 <div>
 <h1>JunctionViewLaneAssistance constructor</h1></div>
-<section class="multi-line-signature">
-JunctionViewLaneAssistance(<wbr/><ol class="parameter-list single-line"> <li>List&lt;<wbr/>/sdk-for-flutter-navigate-navigation-lane-class&gt; lanesForNextJunction, </li>
+
+JunctionViewLaneAssistance(<ol class="parameter-list single-line"> <li>List&lt;<a href="/sdk-for-flutter-navigate-navigation-lane-class">Lane</a>&gt; lanesForNextJunction, </li>
 <li>double distanceToJunctionInMeters</li>
 </ol>)
-    </section>
-<section class="desc markdown">
+    
+
 <p>Creates a new instance.</p>
 <ul>
 <li><code>lanesForNextJunction</code> A list of lanes on the next complex junction.
@@ -56,37 +30,15 @@ one event with an empty list afterwards.</li>
 <ul>
 <li><code>distanceToJunctionInMeters</code> Distance to the next complex junction in meters.</li>
 </ul>
-</section>
-<section class="summary source-code" id="source">
+
+
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">JunctionViewLaneAssistance(this.lanesForNextJunction, this.distanceToJunctionInMeters);</code></pre>
-</section>
-</div>
-<div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-<header class="hidden-l" id="header-search-sidebar">
-<form class="search-sidebar" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
-</form>
-</header>
-<ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-navigate</li>
-<li>/sdk-for-flutter-navigate-navigation-navigation-library</li>
-<li>/sdk-for-flutter-navigate-navigation-junctionviewlaneassistance-class</li>
-<li class="self-crumb">JunctionViewLaneAssistance constructor</li>
-</ol>
-<h5>JunctionViewLaneAssistance class</h5>
-<div id="dartdoc-sidebar-left-content"></div>
-</div>
-<div class="sidebar sidebar-offcanvas-right" id="dartdoc-sidebar-right">
-</div>
-</main>
-<footer>
 
-    here_sdk
-      4.26.0
-  
-</footer>
-</div></div>
+ 
+
+
+
 </div>
 `
 }</HTMLBlock>

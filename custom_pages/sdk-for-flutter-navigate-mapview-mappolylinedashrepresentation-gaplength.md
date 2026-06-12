@@ -7,42 +7,16 @@ slug: "sdk-for-flutter-navigate-mapview-mappolylinedashrepresentation-gaplength"
 `
 <div class="sdk-for-flutter">
 <!-- gapLength.html -->
-<div class="doc-with-sidebar"><div class="doc-content">
-<div id="overlay-under-drawer"></div>
-<header id="title">
-menu
-<ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-navigate</li>
-<li>/sdk-for-flutter-navigate-mapview-mapview-library</li>
-<li>/sdk-for-flutter-navigate-mapview-mappolylinedashrepresentation-class</li>
-<li class="self-crumb">gapLength property</li>
-</ol>
-<div class="self-name">gapLength</div>
-<form class="search navbar-right" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-box" placeholder="Loading search..." type="text"/>
-</form>
-<div class="toggle" id="theme-button" title="Toggle brightness">
-<label for="theme">
-<input id="theme" type="checkbox" value="light-theme"/>
 
-        dark_mode
-      
 
-        light_mode
-      
-</label>
-</div>
-</header>
-<main>
-<div class="main-content" data-above-sidebar="mapview/MapPolylineDashRepresentation-class-sidebar.html" data-below-sidebar="" id="dartdoc-main-content">
 <div>
 <h1>gapLength property</h1></div>
 <section id="getter">
-<section class="multi-line-signature">
-/sdk-for-flutter-navigate-mapview-mapmeasuredependentrendersize-class
+
+<a href="/sdk-for-flutter-navigate-mapview-mapmeasuredependentrendersize-class">MapMeasureDependentRenderSize</a>
 gapLength
-</section>
-<section class="desc markdown">
+
+
 <p>The gap length of the polyline depending on the map measure.
 At map measures smaller than smallest map measure in the <code>gapLength</code>
 line width is constant and equal to the width given for the smallest
@@ -53,38 +27,16 @@ map measure in the <code>gapLength</code>.</p>
 <p>At map measures between two nearest given map measures, the values are
 linearly interpolated between values given for these map measures.
 Gets the map measure dependent polyline gap length.</p>
-</section>
-<section class="summary source-code" id="source">
+
+
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">MapMeasureDependentRenderSize get gapLength;</code></pre>
-</section>
-</section>
-</div>
-<div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-<header class="hidden-l" id="header-search-sidebar">
-<form class="search-sidebar" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
-</form>
-</header>
-<ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-navigate</li>
-<li>/sdk-for-flutter-navigate-mapview-mapview-library</li>
-<li>/sdk-for-flutter-navigate-mapview-mappolylinedashrepresentation-class</li>
-<li class="self-crumb">gapLength property</li>
-</ol>
-<h5>MapPolylineDashRepresentation class</h5>
-<div id="dartdoc-sidebar-left-content"></div>
-</div>
-<div class="sidebar sidebar-offcanvas-right" id="dartdoc-sidebar-right">
-</div>
-</main>
-<footer>
 
-    here_sdk
-      4.26.0
-  
-</footer>
-</div></div>
+</section>
+ 
+
+
+
 </div>
 `
 }</HTMLBlock>

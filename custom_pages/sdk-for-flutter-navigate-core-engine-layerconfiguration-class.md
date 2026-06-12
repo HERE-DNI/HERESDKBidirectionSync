@@ -7,58 +7,16 @@ slug: "sdk-for-flutter-navigate-core-engine-layerconfiguration-class"
 `
 <div class="sdk-for-flutter">
 <!-- LayerConfiguration-class.html -->
-<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
-<li class="section-title"><a href="core.engine/LayerConfiguration-class.html#constructors">Constructors</a></li>
-<li><a href="core.engine/LayerConfiguration/LayerConfiguration.html">LayerConfiguration</a></li>
-<li><a href="core.engine/LayerConfiguration/LayerConfiguration.withDefaults.html">withDefaults</a></li>
-<li><a href="core.engine/LayerConfiguration/LayerConfiguration.withDownloadAndPrefetchFeatures.html">withDownloadAndPrefetchFeatures</a></li>
-<li class="section-title">
-<a href="core.engine/LayerConfiguration-class.html#instance-properties">Properties</a>
-</li>
-<li><a href="core.engine/LayerConfiguration/enabledFeatures.html">enabledFeatures</a></li>
-<li><a href="core.engine/LayerConfiguration/hashCode.html">hashCode</a></li>
-<li><a href="core.engine/LayerConfiguration/implicitlyPrefetchedFeatures.html">implicitlyPrefetchedFeatures</a></li>
-<li class="inherited"><a href="core.engine/LayerConfiguration/runtimeType.html">runtimeType</a></li>
-<li class="section-title inherited"><a href="core.engine/LayerConfiguration-class.html#instance-methods">Methods</a></li>
-<li class="inherited"><a href="core.engine/LayerConfiguration/noSuchMethod.html">noSuchMethod</a></li>
-<li class="inherited"><a href="core.engine/LayerConfiguration/toString.html">toString</a></li>
-<li class="section-title"><a href="core.engine/LayerConfiguration-class.html#operators">Operators</a></li>
-<li><a href="core.engine/LayerConfiguration/operator_equals.html">operator ==</a></li>
-</ol></div><div class="doc-content">
-<div id="overlay-under-drawer"></div>
-<header id="title">
-menu
-<ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-navigate</li>
-<li>/sdk-for-flutter-navigate-core-engine-core-engine-library</li>
-<li class="self-crumb">LayerConfiguration class</li>
-</ol>
-<div class="self-name">LayerConfiguration</div>
-<form class="search navbar-right" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-box" placeholder="Loading search..." type="text"/>
-</form>
-<div class="toggle" id="theme-button" title="Toggle brightness">
-<label for="theme">
-<input id="theme" type="checkbox" value="light-theme"/>
 
-        dark_mode
-      
 
-        light_mode
-      
-</label>
-</div>
-</header>
-<main>
-<div class="main-content" data-above-sidebar="core.engine/core.engine-library-sidebar.html" data-below-sidebar="core.engine/LayerConfiguration-class-sidebar.html" id="dartdoc-main-content">
 <div>
 <h1>LayerConfiguration class</h1></div>
-<section class="desc markdown">
+
 <p>A class to configure which layers should be enabled or disabled in the OCM map data.</p>
 <p>Disabling a layer allows to reduce the amount of data that will be
 downloaded or prefetched from the internet, for example, when panning the map view online or when downloading maps for offline use.</p>
-<p><code>LayerConfiguration</code> changes made via /sdk-for-flutter-navigate-core-engine-sdkoptions-class require <code>sdk.maploader.MapUpdater</code> to align previously downloaded content.
-To ensure that the changes in /sdk-for-flutter-navigate-core-engine-sdkoptions-class affect the map data,
+<p><code>LayerConfiguration</code> changes made via <a href="/sdk-for-flutter-navigate-core-engine-sdkoptions-class">SDKOptions</a> require <code>sdk.maploader.MapUpdater</code> to align previously downloaded content.
+To ensure that the changes in <a href="/sdk-for-flutter-navigate-core-engine-sdkoptions-class">SDKOptions</a> affect the map data,
 it is recommended to trigger a map update. Without calling <code>mapUpdater.updateCatalog(...)</code>,
 the adjustments will apply only to future map downloads and will not impact the currently installed map data, either in the cache or in the persisted storage.
 Note that calling <code>updateCatalog(...)</code> will
@@ -89,133 +47,27 @@ disable only one feature, then all other features need to be present, or they wi
 <li>explicit prefetching using <code>sdk.prefetcher.RoutePrefetcher</code>, <code>sdk.prefetcher.PolygonPrefetcher</code> and
 implicit prefetching, such as when displaying a map view, for features in <code>implicitlyPrefetchedFeatures()</code>.</li>
 </ul>
-</section>
-<section class="summary offset-anchor" id="constructors">
+
+
 <h2>Constructors</h2>
-<dl class="constructor-summary-list">
-<dt class="callable" id="LayerConfiguration">
-/sdk-for-flutter-navigate-core-engine-layerconfiguration-layerconfiguration(List&lt;<wbr/>/sdk-for-flutter-navigate-core-engine-layerconfigurationfeature&gt; enabledFeatures)
-</dt>
-<dd>
-          Initializes both, <code>enabled_features</code> and <code>implicitly_prefetched_features</code> with value passed to constructor.
-            <div class="constructor-modifier features">factory</div>
-</dd>
-<dt class="callable" id="LayerConfiguration.withDefaults">
-/sdk-for-flutter-navigate-core-engine-layerconfiguration-layerconfiguration-withdefaults()
-</dt>
-<dd>
-          Initializes <code>enabled_features</code>, <code>implicitly_prefetched_features</code> and <code>on_demand_implicitly_prefetched_features</code> with it's default values.
-        </dd>
-<dt class="callable" id="LayerConfiguration.withDownloadAndPrefetchFeatures">
-/sdk-for-flutter-navigate-core-engine-layerconfiguration-layerconfiguration-withdownloadandprefetchfeatures(List&lt;<wbr/>/sdk-for-flutter-navigate-core-engine-layerconfigurationfeature&gt; enabledFeatures, List&lt;<wbr/>/sdk-for-flutter-navigate-core-engine-layerconfigurationfeature&gt; implicitlyPrefetchedFeatures)
-</dt>
-<dd>
-          Creates a new instance.
-        </dd>
-</dl>
-</section>
-<section class="summary offset-anchor" id="instance-properties">
+<ul><li><a href="/sdk-for-flutter-navigate-core-engine-layerconfiguration-layerconfiguration">LayerConfiguration</a></li><li><a href="/sdk-for-flutter-navigate-core-engine-layerconfiguration-layerconfiguration-withdefaults">LayerConfiguration.withDefaults</a></li><li><a href="/sdk-for-flutter-navigate-core-engine-layerconfiguration-layerconfiguration-withdownloadandprefetchfeatures">LayerConfiguration.withDownloadAndPrefetchFeatures</a></li></ul>
+
+
 <h2>Properties</h2>
-<dl class="properties">
-<dt class="property" id="enabledFeatures">
-/sdk-for-flutter-navigate-core-engine-layerconfiguration-enabledfeatures
-↔ List&lt;<wbr/>/sdk-for-flutter-navigate-core-engine-layerconfigurationfeature&gt;
-</dt>
-<dd>
-  Specifies feature configuration for enabling list of features enabled for map download.
-Empty list disables map download, as no map content specified for download in this case.
-  <div class="features">getter/setter pair</div>
-</dd>
-<dt class="property" id="hashCode">
-/sdk-for-flutter-navigate-core-engine-layerconfiguration-hashcode
-→ int
-</dt>
-<dd>
-  The hash code for this object.
-  <div class="features">no setter</div>
-</dd>
-<dt class="property" id="implicitlyPrefetchedFeatures">
-/sdk-for-flutter-navigate-core-engine-layerconfiguration-implicitlyprefetchedfeatures
-↔ List&lt;<wbr/>/sdk-for-flutter-navigate-core-engine-layerconfigurationfeature&gt;
-</dt>
-<dd>
-  Specifies the list of features enabled for implicit and explicit map prefetch.
-Implicit map prefetch will download map content for implicit prefetch features when showing a map in the MapView.
-  <div class="features">getter/setter pair</div>
-</dd>
-<dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-navigate-core-engine-layerconfiguration-runtimetype
-→ Type
-</dt>
-<dd class="inherited">
-  A representation of the runtime type of the object.
-  <div class="features">no setterinherited</div>
-</dd>
-</dl>
-</section>
-<section class="summary offset-anchor inherited" id="instance-methods">
+<ul><li><a href="/sdk-for-flutter-navigate-core-engine-layerconfiguration-enabledfeatures">enabledFeatures</a></li><li><a href="/sdk-for-flutter-navigate-core-engine-layerconfiguration-hashcode">hashCode</a></li><li><a href="/sdk-for-flutter-navigate-core-engine-layerconfiguration-implicitlyprefetchedfeatures">implicitlyPrefetchedFeatures</a></li><li><a href="/sdk-for-flutter-navigate-core-engine-layerconfiguration-runtimetype">runtimeType</a></li></ul>
+
+
 <h2>Methods</h2>
-<dl class="callables">
-<dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-navigate-core-engine-layerconfiguration-nosuchmethod(<wbr/>Invocation invocation)
-    → dynamic
+<ul><li><a href="/sdk-for-flutter-navigate-core-engine-layerconfiguration-nosuchmethod">noSuchMethod</a></li><li><a href="/sdk-for-flutter-navigate-core-engine-layerconfiguration-tostring">toString</a></li></ul>
 
-</dt>
-<dd class="inherited">
-  Invoked when a nonexistent method or property is accessed.
-  <div class="features">inherited</div>
-</dd>
-<dt class="callable inherited" id="toString">
-/sdk-for-flutter-navigate-core-engine-layerconfiguration-tostring(<wbr/>)
-    → String
 
-</dt>
-<dd class="inherited">
-  A string representation of this object.
-  <div class="features">inherited</div>
-</dd>
-</dl>
-</section>
-<section class="summary offset-anchor" id="operators">
 <h2>Operators</h2>
-<dl class="callables">
-<dt class="callable" id="operator ==">
-/sdk-for-flutter-navigate-core-engine-layerconfiguration-operator-equals(<wbr/>Object other)
-    → bool
+<ul><li><a href="/sdk-for-flutter-navigate-core-engine-layerconfiguration-operator-equals">operator ==</a></li></ul>
 
-</dt>
-<dd>
-  The equality operator.
-  
+ 
 
-</dd>
-</dl>
-</section>
-</div>
-<div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-<header class="hidden-l" id="header-search-sidebar">
-<form class="search-sidebar" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
-</form>
-</header>
-<ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-navigate</li>
-<li>/sdk-for-flutter-navigate-core-engine-core-engine-library</li>
-<li class="self-crumb">LayerConfiguration class</li>
-</ol>
-<h5>core.engine library</h5>
-<div id="dartdoc-sidebar-left-content"></div>
-</div>
-<div class="sidebar sidebar-offcanvas-right" id="dartdoc-sidebar-right">
-</div>
-</main>
-<footer>
 
-    here_sdk
-      4.26.0
-  
-</footer>
-</div></div>
+
 </div>
 `
 }</HTMLBlock>

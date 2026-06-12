@@ -7,81 +7,33 @@ slug: "sdk-for-flutter-navigate-mapdata-segmentreferenceconverter-getocmsegmenti
 `
 <div class="sdk-for-flutter">
 <!-- getOCMSegmentId.html -->
-<div class="doc-with-sidebar"><div class="doc-content">
-<div id="overlay-under-drawer"></div>
-<header id="title">
-menu
-<ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-navigate</li>
-<li>/sdk-for-flutter-navigate-mapdata-mapdata-library</li>
-<li>/sdk-for-flutter-navigate-mapdata-segmentreferenceconverter-class</li>
-<li class="self-crumb">getOCMSegmentId abstract method</li>
-</ol>
-<div class="self-name">getOCMSegmentId</div>
-<form class="search navbar-right" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-box" placeholder="Loading search..." type="text"/>
-</form>
-<div class="toggle" id="theme-button" title="Toggle brightness">
-<label for="theme">
-<input id="theme" type="checkbox" value="light-theme"/>
 
-        dark_mode
-      
 
-        light_mode
-      
-</label>
-</div>
-</header>
-<main>
-<div class="main-content" data-above-sidebar="mapdata/SegmentReferenceConverter-class-sidebar.html" data-below-sidebar="" id="dartdoc-main-content">
 <div>
 <h1>getOCMSegmentId abstract method</h1></div>
-<section class="multi-line-signature">
-/sdk-for-flutter-navigate-mapdata-directedocmsegmentid-class?
-getOCMSegmentId(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-navigate-routing-segmentreference-class segmentReference</li>
+
+<a href="/sdk-for-flutter-navigate-mapdata-directedocmsegmentid-class">DirectedOCMSegmentId</a>?
+getOCMSegmentId(<ol class="parameter-list single-line"> <li><a href="/sdk-for-flutter-navigate-routing-segmentreference-class">SegmentReference</a> segmentReference</li>
 </ol>)
 
       
 
-    </section>
-<section class="desc markdown">
-<p>The /sdk-for-flutter-navigate-mapdata-directedocmsegmentid-class for provided /sdk-for-flutter-navigate-routing-segmentreference-class.</p>
+    
+
+<p>The <a href="/sdk-for-flutter-navigate-mapdata-directedocmsegmentid-class">DirectedOCMSegmentId</a> for provided <a href="/sdk-for-flutter-navigate-routing-segmentreference-class">SegmentReference</a>.</p>
 <ul>
-<li><code>segmentReference</code> /sdk-for-flutter-navigate-routing-segmentreference-class to convert.</li>
+<li><code>segmentReference</code> <a href="/sdk-for-flutter-navigate-routing-segmentreference-class">SegmentReference</a> to convert.</li>
 </ul>
-<p>Returns /sdk-for-flutter-navigate-mapdata-directedocmsegmentid-class. /sdk-for-flutter-navigate-mapdata-directedocmsegmentid-class corresponding to provided /sdk-for-flutter-navigate-routing-segmentreference-class.</p>
-</section>
-<section class="summary source-code" id="source">
+<p>Returns <a href="/sdk-for-flutter-navigate-mapdata-directedocmsegmentid-class">DirectedOCMSegmentId?</a>. <a href="/sdk-for-flutter-navigate-mapdata-directedocmsegmentid-class">DirectedOCMSegmentId</a> corresponding to provided <a href="/sdk-for-flutter-navigate-routing-segmentreference-class">SegmentReference</a>.</p>
+
+
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">DirectedOCMSegmentId? getOCMSegmentId(SegmentReference segmentReference);</code></pre>
-</section>
-</div>
-<div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-<header class="hidden-l" id="header-search-sidebar">
-<form class="search-sidebar" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
-</form>
-</header>
-<ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-navigate</li>
-<li>/sdk-for-flutter-navigate-mapdata-mapdata-library</li>
-<li>/sdk-for-flutter-navigate-mapdata-segmentreferenceconverter-class</li>
-<li class="self-crumb">getOCMSegmentId abstract method</li>
-</ol>
-<h5>SegmentReferenceConverter class</h5>
-<div id="dartdoc-sidebar-left-content"></div>
-</div>
-<div class="sidebar sidebar-offcanvas-right" id="dartdoc-sidebar-right">
-</div>
-</main>
-<footer>
 
-    here_sdk
-      4.26.0
-  
-</footer>
-</div></div>
+ 
+
+
+
 </div>
 `
 }</HTMLBlock>

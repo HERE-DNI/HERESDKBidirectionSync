@@ -7,78 +7,30 @@ slug: "sdk-for-flutter-navigate-navigation-gpxtrack-getlocations"
 `
 <div class="sdk-for-flutter">
 <!-- getLocations.html -->
-<div class="doc-with-sidebar"><div class="doc-content">
-<div id="overlay-under-drawer"></div>
-<header id="title">
-menu
-<ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-navigate</li>
-<li>/sdk-for-flutter-navigate-navigation-navigation-library</li>
-<li>/sdk-for-flutter-navigate-navigation-gpxtrack-class</li>
-<li class="self-crumb">getLocations abstract method</li>
-</ol>
-<div class="self-name">getLocations</div>
-<form class="search navbar-right" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-box" placeholder="Loading search..." type="text"/>
-</form>
-<div class="toggle" id="theme-button" title="Toggle brightness">
-<label for="theme">
-<input id="theme" type="checkbox" value="light-theme"/>
 
-        dark_mode
-      
 
-        light_mode
-      
-</label>
-</div>
-</header>
-<main>
-<div class="main-content" data-above-sidebar="navigation/GPXTrack-class-sidebar.html" data-below-sidebar="" id="dartdoc-main-content">
 <div>
 <h1>getLocations abstract method</h1></div>
-<section class="multi-line-signature">
-List&lt;<wbr/>/sdk-for-flutter-navigate-core-location-class&gt;
-getLocations(<wbr/>)
+
+List&lt;<a href="/sdk-for-flutter-navigate-core-location-class">Location</a>&gt;
+getLocations()
 
       
 
-    </section>
-<section class="desc markdown">
-<p>Provides a list of all stored track points converted to a /sdk-for-flutter-navigate-core-location-class object.</p>
+    
+
+<p>Provides a list of all stored track points converted to a <a href="/sdk-for-flutter-navigate-core-location-class">Location</a> object.</p>
 <p>See <a href="https://www.topografix.com/GPX/1/1/#type_wptType">type_wptType</a> for more details on the <code>wptType</code> format that is used for a track point.</p>
-<p>Returns <code>List&lt;Location&gt;</code>. List of /sdk-for-flutter-navigate-core-location-class objects.</p>
-</section>
-<section class="summary source-code" id="source">
+<p>Returns <code>List&lt;Location&gt;</code>. List of <a href="/sdk-for-flutter-navigate-core-location-class">Location</a> objects.</p>
+
+
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">List&lt;Location&gt; getLocations();</code></pre>
-</section>
-</div>
-<div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-<header class="hidden-l" id="header-search-sidebar">
-<form class="search-sidebar" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
-</form>
-</header>
-<ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-navigate</li>
-<li>/sdk-for-flutter-navigate-navigation-navigation-library</li>
-<li>/sdk-for-flutter-navigate-navigation-gpxtrack-class</li>
-<li class="self-crumb">getLocations abstract method</li>
-</ol>
-<h5>GPXTrack class</h5>
-<div id="dartdoc-sidebar-left-content"></div>
-</div>
-<div class="sidebar sidebar-offcanvas-right" id="dartdoc-sidebar-right">
-</div>
-</main>
-<footer>
 
-    here_sdk
-      4.26.0
-  
-</footer>
-</div></div>
+ 
+
+
+
 </div>
 `
 }</HTMLBlock>

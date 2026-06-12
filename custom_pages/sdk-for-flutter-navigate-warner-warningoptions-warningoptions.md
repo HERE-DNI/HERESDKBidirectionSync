@@ -7,48 +7,22 @@ slug: "sdk-for-flutter-navigate-warner-warningoptions-warningoptions"
 `
 <div class="sdk-for-flutter">
 <!-- WarningOptions.html -->
-<div class="doc-with-sidebar"><div class="doc-content">
-<div id="overlay-under-drawer"></div>
-<header id="title">
-menu
-<ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-navigate</li>
-<li>/sdk-for-flutter-navigate-warner-warner-library</li>
-<li>/sdk-for-flutter-navigate-warner-warningoptions-class</li>
-<li class="self-crumb">WarningOptions constructor</li>
-</ol>
-<div class="self-name">WarningOptions</div>
-<form class="search navbar-right" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-box" placeholder="Loading search..." type="text"/>
-</form>
-<div class="toggle" id="theme-button" title="Toggle brightness">
-<label for="theme">
-<input id="theme" type="checkbox" value="light-theme"/>
 
-        dark_mode
-      
 
-        light_mode
-      
-</label>
-</div>
-</header>
-<main>
-<div class="main-content" data-above-sidebar="warner/WarningOptions-class-sidebar.html" data-below-sidebar="" id="dartdoc-main-content">
 <div>
 <h1>WarningOptions constructor</h1></div>
-<section class="multi-line-signature">
-WarningOptions(<wbr/><ol class="parameter-list"> <li>/sdk-for-flutter-navigate-navigation-safetycamerawarningoptions-class safetyCameraWarningOptions, </li>
-<li>/sdk-for-flutter-navigate-navigation-truckrestrictionswarningoptions-class truckRestrictionsWarningOptions, </li>
-<li>/sdk-for-flutter-navigate-navigation-roadsignwarningoptions-class roadSignWarningOptions, </li>
-<li>/sdk-for-flutter-navigate-navigation-realisticviewwarningoptions-class realisticViewWarningOptions, </li>
-<li>/sdk-for-flutter-navigate-navigation-schoolzonewarningoptions-class schoolZoneWarningOptions, </li>
-<li>/sdk-for-flutter-navigate-navigation-bordercrossingwarningoptions-class borderCrossingWarningOptions, </li>
-<li>/sdk-for-flutter-navigate-navigation-trafficmergewarningoptions-class trafficMergeWarningOptions, </li>
-<li>/sdk-for-flutter-navigate-warner-lanedecreasewarningoptions-class laneDecreaseWarningOptions, </li>
+
+WarningOptions(<ol class="parameter-list"> <li><a href="/sdk-for-flutter-navigate-navigation-safetycamerawarningoptions-class">SafetyCameraWarningOptions</a> safetyCameraWarningOptions, </li>
+<li><a href="/sdk-for-flutter-navigate-navigation-truckrestrictionswarningoptions-class">TruckRestrictionsWarningOptions</a> truckRestrictionsWarningOptions, </li>
+<li><a href="/sdk-for-flutter-navigate-navigation-roadsignwarningoptions-class">RoadSignWarningOptions</a> roadSignWarningOptions, </li>
+<li><a href="/sdk-for-flutter-navigate-navigation-realisticviewwarningoptions-class">RealisticViewWarningOptions</a> realisticViewWarningOptions, </li>
+<li><a href="/sdk-for-flutter-navigate-navigation-schoolzonewarningoptions-class">SchoolZoneWarningOptions</a> schoolZoneWarningOptions, </li>
+<li><a href="/sdk-for-flutter-navigate-navigation-bordercrossingwarningoptions-class">BorderCrossingWarningOptions</a> borderCrossingWarningOptions, </li>
+<li><a href="/sdk-for-flutter-navigate-navigation-trafficmergewarningoptions-class">TrafficMergeWarningOptions</a> trafficMergeWarningOptions, </li>
+<li><a href="/sdk-for-flutter-navigate-warner-lanedecreasewarningoptions-class">LaneDecreaseWarningOptions</a> laneDecreaseWarningOptions, </li>
 </ol>)
-    </section>
-<section class="desc markdown">
+    
+
 <p>Creates a new instance.</p>
 <ul>
 <li><code>safetyCameraWarningOptions</code> Safety camera warning options. Set the options in order to enable them.</li>
@@ -68,37 +42,15 @@ Set the options for filtering the lane decrease notifications.</li>
 </ul>
 <p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
 behaviors. Related APIs may change for new releases without a deprecation process.</p>
-</section>
-<section class="summary source-code" id="source">
+
+
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">WarningOptions(this.safetyCameraWarningOptions, this.truckRestrictionsWarningOptions, this.roadSignWarningOptions, this.realisticViewWarningOptions, this.schoolZoneWarningOptions, this.borderCrossingWarningOptions, this.trafficMergeWarningOptions, this.laneDecreaseWarningOptions);</code></pre>
-</section>
-</div>
-<div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-<header class="hidden-l" id="header-search-sidebar">
-<form class="search-sidebar" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
-</form>
-</header>
-<ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-navigate</li>
-<li>/sdk-for-flutter-navigate-warner-warner-library</li>
-<li>/sdk-for-flutter-navigate-warner-warningoptions-class</li>
-<li class="self-crumb">WarningOptions constructor</li>
-</ol>
-<h5>WarningOptions class</h5>
-<div id="dartdoc-sidebar-left-content"></div>
-</div>
-<div class="sidebar sidebar-offcanvas-right" id="dartdoc-sidebar-right">
-</div>
-</main>
-<footer>
 
-    here_sdk
-      4.26.0
-  
-</footer>
-</div></div>
+ 
+
+
+
 </div>
 `
 }</HTMLBlock>

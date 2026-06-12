@@ -7,74 +7,26 @@ slug: "sdk-for-flutter-navigate-mapview-datasource-rasterdatasourceproviderconfi
 `
 <div class="sdk-for-flutter">
 <!-- tilingScheme.html -->
-<div class="doc-with-sidebar"><div class="doc-content">
-<div id="overlay-under-drawer"></div>
-<header id="title">
-menu
-<ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-navigate</li>
-<li>/sdk-for-flutter-navigate-mapview-datasource-mapview-datasource-library</li>
-<li>/sdk-for-flutter-navigate-mapview-datasource-rasterdatasourceproviderconfiguration-class</li>
-<li class="self-crumb">tilingScheme property</li>
-</ol>
-<div class="self-name">tilingScheme</div>
-<form class="search navbar-right" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-box" placeholder="Loading search..." type="text"/>
-</form>
-<div class="toggle" id="theme-button" title="Toggle brightness">
-<label for="theme">
-<input id="theme" type="checkbox" value="light-theme"/>
 
-        dark_mode
-      
 
-        light_mode
-      
-</label>
-</div>
-</header>
-<main>
-<div class="main-content" data-above-sidebar="mapview.datasource/RasterDataSourceProviderConfiguration-class-sidebar.html" data-below-sidebar="" id="dartdoc-main-content">
 <div>
 <h1>tilingScheme property</h1></div>
-<section class="multi-line-signature">
-/sdk-for-flutter-navigate-mapview-datasource-tilingscheme
+
+<a href="/sdk-for-flutter-navigate-mapview-datasource-tilingscheme">TilingScheme</a>
 tilingScheme
 <div class="features">getter/setter pair</div>
-</section>
-<section class="desc markdown">
+
+
 <p>The tiling scheme used by this source.</p>
-</section>
-<section class="summary source-code" id="source">
+
+
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">TilingScheme tilingScheme;</code></pre>
-</section>
-</div>
-<div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-<header class="hidden-l" id="header-search-sidebar">
-<form class="search-sidebar" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
-</form>
-</header>
-<ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-navigate</li>
-<li>/sdk-for-flutter-navigate-mapview-datasource-mapview-datasource-library</li>
-<li>/sdk-for-flutter-navigate-mapview-datasource-rasterdatasourceproviderconfiguration-class</li>
-<li class="self-crumb">tilingScheme property</li>
-</ol>
-<h5>RasterDataSourceProviderConfiguration class</h5>
-<div id="dartdoc-sidebar-left-content"></div>
-</div>
-<div class="sidebar sidebar-offcanvas-right" id="dartdoc-sidebar-right">
-</div>
-</main>
-<footer>
 
-    here_sdk
-      4.26.0
-  
-</footer>
-</div></div>
+ 
+
+
+
 </div>
 `
 }</HTMLBlock>

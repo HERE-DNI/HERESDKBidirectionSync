@@ -1,87 +1,55 @@
 ---
-title: "index property"
+title: "MapUpdaterMapUpdateVersionCommitPolicy enum"
 slug: "sdk-for-flutter-navigate-maploader-mapupdatermapupdateversioncommitpolicy"
 ---
 
 <HTMLBlock>{
 `
 <div class="sdk-for-flutter">
-<!-- index.html -->
-<div class="doc-with-sidebar"><div class="doc-content">
-<div id="overlay-under-drawer"></div>
-<header id="title">
-menu
-<ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-navigate</li>
-<li>/sdk-for-flutter-navigate-maploader-maploader-library</li>
-<li>/sdk-for-flutter-navigate-maploader-mapupdatermapupdateversioncommitpolicy</li>
-<li class="self-crumb">index property</li>
-</ol>
-<div class="self-name">index</div>
-<form class="search navbar-right" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-box" placeholder="Loading search..." type="text"/>
-</form>
-<div class="toggle" id="theme-button" title="Toggle brightness">
-<label for="theme">
-<input id="theme" type="checkbox" value="light-theme"/>
+<!-- MapUpdaterMapUpdateVersionCommitPolicy.html -->
 
-        dark_mode
-      
 
-        light_mode
-      
-</label>
-</div>
-</header>
-<main>
-<div class="main-content" data-above-sidebar="maploader/MapUpdaterMapUpdateVersionCommitPolicy-enum-sidebar.html" data-below-sidebar="" id="dartdoc-main-content">
 <div>
-<h1>index property</h1></div>
-<section id="getter">
-<section class="multi-line-signature">
-int
-index
-<div class="features">inherited</div>
-</section>
-<section class="desc markdown">
-<p>A numeric identifier for the enumerated value.</p>
-<p>The values of a single enumeration are numbered
-consecutively from zero to one less than the
-number of values.
-This is also the index of the value in the
-enumerated type's static <code>values</code> list.</p>
-</section>
-<section class="summary source-code" id="source">
-<h2>Implementation</h2>
-<pre class="language-dart"><code class="language-dart">int get index;</code></pre>
-</section>
-</section>
+<h1>MapUpdaterMapUpdateVersionCommitPolicy enum</h1>
 </div>
-<div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-<header class="hidden-l" id="header-search-sidebar">
-<form class="search-sidebar" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
-</form>
-</header>
-<ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-navigate</li>
-<li>/sdk-for-flutter-navigate-maploader-maploader-library</li>
-<li>/sdk-for-flutter-navigate-maploader-mapupdatermapupdateversioncommitpolicy</li>
-<li class="self-crumb">index property</li>
-</ol>
-<h5>MapUpdaterMapUpdateVersionCommitPolicy enum</h5>
-<div id="dartdoc-sidebar-left-content"></div>
-</div>
-<div class="sidebar sidebar-offcanvas-right" id="dartdoc-sidebar-right">
-</div>
-</main>
-<footer>
 
-    here_sdk
-      4.26.0
-  
-</footer>
-</div></div>
+<p>Defines if installed regions and subregions are updated one-by-one or if all regions are
+updated only once the updates for all installed regions have been downloaded entirely.</p>
+<p>This influences the required size of the storage during an update.
+Regardless of the set policy, during an update, the previous region data is kept
+until the new region data is committed successfully to the persisted storage.
+This allows to revert to the previous version in case the update fails.
+With <a href="/sdk-for-flutter-navigate-maploader-mapupdatermapupdateversioncommitpolicy">MapUpdaterMapUpdateVersionCommitPolicy.onComplete</a>, more data has to be kept until
+the update process finishes, while <a href="/sdk-for-flutter-navigate-maploader-mapupdatermapupdateversioncommitpolicy">MapUpdaterMapUpdateVersionCommitPolicy.onFirstRegion</a>
+allows to make faster use of the downloaded region and requires less disk space as only the
+currently updated region is kept until the process completes.
+However, with an <a href="/sdk-for-flutter-navigate-maploader-mapupdatermapupdateversioncommitpolicy">MapUpdaterMapUpdateVersionCommitPolicy.onFirstRegion</a> policy the overall
+process can be less reliable and bears a higher risk of errors.</p>
+
+
+<h2>Values</h2>
+<ul><li><a href="/sdk-for-flutter-navigate-maploader-mapupdatermapupdateversioncommitpolicy">MapUpdaterMapUpdateVersionCommitPolicy</a></li><li><a href="/sdk-for-flutter-navigate-maploader-mapupdatermapupdateversioncommitpolicy">MapUpdaterMapUpdateVersionCommitPolicy</a></li></ul>
+
+
+<h2>Properties</h2>
+<ul><li><a href="/sdk-for-flutter-navigate-maploader-mapupdatermapupdateversioncommitpolicy-hashcode">hashCode</a></li><li><a href="/sdk-for-flutter-navigate-maploader-mapupdatermapupdateversioncommitpolicy-index">index</a></li><li><a href="/sdk-for-flutter-navigate-maploader-mapupdatermapupdateversioncommitpolicy-runtimetype">runtimeType</a></li></ul>
+
+
+<h2>Methods</h2>
+<ul><li><a href="/sdk-for-flutter-navigate-maploader-mapupdatermapupdateversioncommitpolicy-nosuchmethod">noSuchMethod</a></li><li><a href="/sdk-for-flutter-navigate-maploader-mapupdatermapupdateversioncommitpolicy-tostring">toString</a></li></ul>
+
+
+<h2>Operators</h2>
+<ul><li><a href="/sdk-for-flutter-navigate-maploader-mapupdatermapupdateversioncommitpolicy-operator-equals">operator ==</a></li></ul>
+
+
+<h2>Constants</h2>
+<ul><li><a href="/sdk-for-flutter-navigate-maploader-mapupdatermapupdateversioncommitpolicy-values-constant">values</a></li></ul>
+
+
+
+
+
 </div>
 `
 }</HTMLBlock>

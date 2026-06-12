@@ -7,76 +7,28 @@ slug: "sdk-for-flutter-navigate-routing-farepassvalidityperiod-count"
 `
 <div class="sdk-for-flutter">
 <!-- count.html -->
-<div class="doc-with-sidebar"><div class="doc-content">
-<div id="overlay-under-drawer"></div>
-<header id="title">
-menu
-<ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-navigate</li>
-<li>/sdk-for-flutter-navigate-routing-routing-library</li>
-<li>/sdk-for-flutter-navigate-routing-farepassvalidityperiod-class</li>
-<li class="self-crumb">count property</li>
-</ol>
-<div class="self-name">count</div>
-<form class="search navbar-right" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-box" placeholder="Loading search..." type="text"/>
-</form>
-<div class="toggle" id="theme-button" title="Toggle brightness">
-<label for="theme">
-<input id="theme" type="checkbox" value="light-theme"/>
 
-        dark_mode
-      
 
-        light_mode
-      
-</label>
-</div>
-</header>
-<main>
-<div class="main-content" data-above-sidebar="routing/FarePassValidityPeriod-class-sidebar.html" data-below-sidebar="" id="dartdoc-main-content">
 <div>
 <h1>count property</h1></div>
-<section class="multi-line-signature">
+
         
         int?
         count
 <div class="features">getter/setter pair</div>
-</section>
-<section class="desc markdown">
-<p>Specifies how many /sdk-for-flutter-navigate-routing-farepassvalidityperiod-periodtypes are covered by the pass. Present if /sdk-for-flutter-navigate-routing-farepassvalidityperiod-periodtype is
-/sdk-for-flutter-navigate-routing-farepassvalidityperiodtype, /sdk-for-flutter-navigate-routing-farepassvalidityperiodtype or /sdk-for-flutter-navigate-routing-farepassvalidityperiodtype.</p>
-</section>
-<section class="summary source-code" id="source">
+
+
+<p>Specifies how many <a href="/sdk-for-flutter-navigate-routing-farepassvalidityperiod-periodtype">FarePassValidityPeriod.periodType</a>s are covered by the pass. Present if <a href="/sdk-for-flutter-navigate-routing-farepassvalidityperiod-periodtype">FarePassValidityPeriod.periodType</a> is
+<a href="/sdk-for-flutter-navigate-routing-farepassvalidityperiodtype">FarePassValidityPeriodType.minutes</a>, <a href="/sdk-for-flutter-navigate-routing-farepassvalidityperiodtype">FarePassValidityPeriodType.days</a> or <a href="/sdk-for-flutter-navigate-routing-farepassvalidityperiodtype">FarePassValidityPeriodType.months</a>.</p>
+
+
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">int? count;</code></pre>
-</section>
-</div>
-<div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-<header class="hidden-l" id="header-search-sidebar">
-<form class="search-sidebar" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
-</form>
-</header>
-<ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-navigate</li>
-<li>/sdk-for-flutter-navigate-routing-routing-library</li>
-<li>/sdk-for-flutter-navigate-routing-farepassvalidityperiod-class</li>
-<li class="self-crumb">count property</li>
-</ol>
-<h5>FarePassValidityPeriod class</h5>
-<div id="dartdoc-sidebar-left-content"></div>
-</div>
-<div class="sidebar sidebar-offcanvas-right" id="dartdoc-sidebar-right">
-</div>
-</main>
-<footer>
 
-    here_sdk
-      4.26.0
-  
-</footer>
-</div></div>
+ 
+
+
+
 </div>
 `
 }</HTMLBlock>

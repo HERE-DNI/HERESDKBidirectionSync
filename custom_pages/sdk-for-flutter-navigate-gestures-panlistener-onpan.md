@@ -7,48 +7,22 @@ slug: "sdk-for-flutter-navigate-gestures-panlistener-onpan"
 `
 <div class="sdk-for-flutter">
 <!-- onPan.html -->
-<div class="doc-with-sidebar"><div class="doc-content">
-<div id="overlay-under-drawer"></div>
-<header id="title">
-menu
-<ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-navigate</li>
-<li>/sdk-for-flutter-navigate-gestures-gestures-library</li>
-<li>/sdk-for-flutter-navigate-gestures-panlistener-class</li>
-<li class="self-crumb">onPan abstract method</li>
-</ol>
-<div class="self-name">onPan</div>
-<form class="search navbar-right" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-box" placeholder="Loading search..." type="text"/>
-</form>
-<div class="toggle" id="theme-button" title="Toggle brightness">
-<label for="theme">
-<input id="theme" type="checkbox" value="light-theme"/>
 
-        dark_mode
-      
 
-        light_mode
-      
-</label>
-</div>
-</header>
-<main>
-<div class="main-content" data-above-sidebar="gestures/PanListener-class-sidebar.html" data-below-sidebar="" id="dartdoc-main-content">
 <div>
 <h1>onPan abstract method</h1></div>
-<section class="multi-line-signature">
+
 void
-onPan(<wbr/><ol class="parameter-list"> <li>/sdk-for-flutter-navigate-gestures-gesturestate state, </li>
-<li>/sdk-for-flutter-navigate-core-point2d-class origin, </li>
-<li>/sdk-for-flutter-navigate-core-point2d-class translation, </li>
+onPan(<ol class="parameter-list"> <li><a href="/sdk-for-flutter-navigate-gestures-gesturestate">GestureState</a> state, </li>
+<li><a href="/sdk-for-flutter-navigate-core-point2d-class">Point2D</a> origin, </li>
+<li><a href="/sdk-for-flutter-navigate-core-point2d-class">Point2D</a> translation, </li>
 <li>double velocity, </li>
 </ol>)
 
       
 
-    </section>
-<section class="desc markdown">
+    
+
 <p>Called when the pan gesture occurs.</p>
 <ul>
 <li>
@@ -64,37 +38,15 @@ onPan(<wbr/><ol class="parameter-list"> <li>/sdk-for-flutter-navigate-gestures-g
 <p><code>velocity</code> Velocity of panning in pixels per millisecond.</p>
 </li>
 </ul>
-</section>
-<section class="summary source-code" id="source">
+
+
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">void onPan(GestureState state, Point2D origin, Point2D translation, double velocity);</code></pre>
-</section>
-</div>
-<div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-<header class="hidden-l" id="header-search-sidebar">
-<form class="search-sidebar" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
-</form>
-</header>
-<ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-navigate</li>
-<li>/sdk-for-flutter-navigate-gestures-gestures-library</li>
-<li>/sdk-for-flutter-navigate-gestures-panlistener-class</li>
-<li class="self-crumb">onPan abstract method</li>
-</ol>
-<h5>PanListener class</h5>
-<div id="dartdoc-sidebar-left-content"></div>
-</div>
-<div class="sidebar sidebar-offcanvas-right" id="dartdoc-sidebar-right">
-</div>
-</main>
-<footer>
 
-    here_sdk
-      4.26.0
-  
-</footer>
-</div></div>
+ 
+
+
+
 </div>
 `
 }</HTMLBlock>

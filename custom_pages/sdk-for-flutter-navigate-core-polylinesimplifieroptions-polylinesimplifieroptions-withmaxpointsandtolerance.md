@@ -7,54 +7,28 @@ slug: "sdk-for-flutter-navigate-core-polylinesimplifieroptions-polylinesimplifie
 `
 <div class="sdk-for-flutter">
 <!-- PolylineSimplifierOptions.withMaxPointsAndTolerance.html -->
-<div class="doc-with-sidebar"><div class="doc-content">
-<div id="overlay-under-drawer"></div>
-<header id="title">
-menu
-<ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-navigate</li>
-<li>/sdk-for-flutter-navigate-core-core-library</li>
-<li>/sdk-for-flutter-navigate-core-polylinesimplifieroptions-class</li>
-<li class="self-crumb">PolylineSimplifierOptions.withMaxPointsAndTolerance constructor</li>
-</ol>
-<div class="self-name">PolylineSimplifierOptions.withMaxPointsAndTolerance</div>
-<form class="search navbar-right" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-box" placeholder="Loading search..." type="text"/>
-</form>
-<div class="toggle" id="theme-button" title="Toggle brightness">
-<label for="theme">
-<input id="theme" type="checkbox" value="light-theme"/>
 
-        dark_mode
-      
 
-        light_mode
-      
-</label>
-</div>
-</header>
-<main>
-<div class="main-content" data-above-sidebar="core/PolylineSimplifierOptions-class-sidebar.html" data-below-sidebar="" id="dartdoc-main-content">
 <div>
 <h1>PolylineSimplifierOptions.withMaxPointsAndTolerance constructor</h1></div>
-<section class="multi-line-signature">
-PolylineSimplifierOptions.withMaxPointsAndTolerance(<wbr/><ol class="parameter-list single-line"> <li>int maxPoints, </li>
+
+PolylineSimplifierOptions.withMaxPointsAndTolerance(<ol class="parameter-list single-line"> <li>int maxPoints, </li>
 <li>int simplificationToleranceInMeters</li>
 </ol>)
-    </section>
-<section class="desc markdown">
-<p>Creates options with explicitly specified /sdk-for-flutter-navigate-core-polylinesimplifieroptions-maxpoints and /sdk-for-flutter-navigate-core-polylinesimplifieroptions-simplificationtoleranceinmeters.</p>
+    
+
+<p>Creates options with explicitly specified <a href="/sdk-for-flutter-navigate-core-polylinesimplifieroptions-maxpoints">PolylineSimplifierOptions.maxPoints</a> and <a href="/sdk-for-flutter-navigate-core-polylinesimplifieroptions-simplificationtoleranceinmeters">PolylineSimplifierOptions.simplificationToleranceInMeters</a>.</p>
 <ul>
 <li><code>maxPoints</code> Sets the upper limit on the resulting collection for
-the /sdk-for-flutter-navigate-core-polylinesimplifier-simplify. Lower
+the <a href="/sdk-for-flutter-navigate-core-polylinesimplifier-simplify">PolylineSimplifier.simplify</a>. Lower
 value results in the lower accuracy of the resulting
 polyline. If <code>maxPoints</code> is less than <code>2</code>
 then resulting polyline will not have an upper limit
-on the size and only /sdk-for-flutter-navigate-core-polylinesimplifieroptions-simplificationtoleranceinmeters
+on the size and only <a href="/sdk-for-flutter-navigate-core-polylinesimplifieroptions-simplificationtoleranceinmeters">PolylineSimplifierOptions.simplificationToleranceInMeters</a>
 will be considered. When <code>maxPoints</code> is greater than
 size of the passed polyline then simplification algorithm
-will take into account only /sdk-for-flutter-navigate-core-polylinesimplifieroptions-simplificationtoleranceinmeters.</li>
-<li><code>simplificationToleranceInMeters</code> Sets the accuracy limit for the /sdk-for-flutter-navigate-core-polylinesimplifier-simplify:</li>
+will take into account only <a href="/sdk-for-flutter-navigate-core-polylinesimplifieroptions-simplificationtoleranceinmeters">PolylineSimplifierOptions.simplificationToleranceInMeters</a>.</li>
+<li><code>simplificationToleranceInMeters</code> Sets the accuracy limit for the <a href="/sdk-for-flutter-navigate-core-polylinesimplifier-simplify">PolylineSimplifier.simplify</a>:</li>
 <li>higher tolerance results in more simplification (fewer points);</li>
 <li>lower tolerance keeps the line closer to its original shape.</li>
 </ul>
@@ -62,40 +36,18 @@ will take into account only /sdk-for-flutter-navigate-core-polylinesimplifieropt
 original one more than <code>simplificationToleranceInMeters</code>, then
 this point is left in the collection.</p>
 <p>If specified tolerance will not allow to create a polyline
-conforming to /sdk-for-flutter-navigate-core-polylinesimplifieroptions-maxpoints, then <code>simplificationToleranceInMeters</code>
+conforming to <a href="/sdk-for-flutter-navigate-core-polylinesimplifieroptions-maxpoints">PolylineSimplifierOptions.maxPoints</a>, then <code>simplificationToleranceInMeters</code>
 is ignored.</p>
-<p>Default value is equal to /sdk-for-flutter-navigate-core-polylinesimplifieroptions-simplificationinmeters14zoomlevel.</p>
-</section>
-<section class="summary source-code" id="source">
+<p>Default value is equal to <a href="/sdk-for-flutter-navigate-core-polylinesimplifieroptions-simplificationinmeters14zoomlevel">PolylineSimplifierOptions.simplificationInMeters14ZoomLevel</a>.</p>
+
+
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">PolylineSimplifierOptions.withMaxPointsAndTolerance(this.maxPoints, this.simplificationToleranceInMeters);</code></pre>
-</section>
-</div>
-<div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-<header class="hidden-l" id="header-search-sidebar">
-<form class="search-sidebar" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
-</form>
-</header>
-<ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-navigate</li>
-<li>/sdk-for-flutter-navigate-core-core-library</li>
-<li>/sdk-for-flutter-navigate-core-polylinesimplifieroptions-class</li>
-<li class="self-crumb">PolylineSimplifierOptions.withMaxPointsAndTolerance constructor</li>
-</ol>
-<h5>PolylineSimplifierOptions class</h5>
-<div id="dartdoc-sidebar-left-content"></div>
-</div>
-<div class="sidebar sidebar-offcanvas-right" id="dartdoc-sidebar-right">
-</div>
-</main>
-<footer>
 
-    here_sdk
-      4.26.0
-  
-</footer>
-</div></div>
+ 
+
+
+
 </div>
 `
 }</HTMLBlock>

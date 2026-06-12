@@ -7,73 +7,11 @@ slug: "sdk-for-flutter-navigate-mapview-mapcamera-class"
 `
 <div class="sdk-for-flutter">
 <!-- MapCamera-class.html -->
-<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
-<li class="section-title"><a href="mapview/MapCamera-class.html#constructors">Constructors</a></li>
-<li><a href="mapview/MapCamera/MapCamera.html">MapCamera</a></li>
-<li class="section-title">
-<a href="mapview/MapCamera-class.html#instance-properties">Properties</a>
-</li>
-<li><a href="mapview/MapCamera/boundingBox.html">boundingBox</a></li>
-<li class="inherited"><a href="mapview/MapCamera/hashCode.html">hashCode</a></li>
-<li><a href="mapview/MapCamera/limits.html">limits</a></li>
-<li><a href="mapview/MapCamera/principalPoint.html">principalPoint</a></li>
-<li class="inherited"><a href="mapview/MapCamera/runtimeType.html">runtimeType</a></li>
-<li><a href="mapview/MapCamera/state.html">state</a></li>
-<li class="section-title"><a href="mapview/MapCamera-class.html#instance-methods">Methods</a></li>
-<li><a href="mapview/MapCamera/addListener.html">addListener</a></li>
-<li><a href="mapview/MapCamera/applyUpdate.html">applyUpdate</a></li>
-<li><a href="mapview/MapCamera/cancelAnimation.html">cancelAnimation</a></li>
-<li><a href="mapview/MapCamera/cancelAnimations.html">cancelAnimations</a></li>
-<li><a href="mapview/MapCamera/dryApplyUpdate.html">dryApplyUpdate</a></li>
-<li><a href="mapview/MapCamera/lookAtAreaWithGeoOrientation.html">lookAtAreaWithGeoOrientation</a></li>
-<li><a href="mapview/MapCamera/lookAtAreaWithGeoOrientationAndViewRectangle.html">lookAtAreaWithGeoOrientationAndViewRectangle</a></li>
-<li><a href="mapview/MapCamera/lookAtPoint.html">lookAtPoint</a></li>
-<li><a href="mapview/MapCamera/lookAtPointWithGeoOrientationAndMeasure.html">lookAtPointWithGeoOrientationAndMeasure</a></li>
-<li><a href="mapview/MapCamera/lookAtPointWithMeasure.html">lookAtPointWithMeasure</a></li>
-<li class="inherited"><a href="mapview/MapCamera/noSuchMethod.html">noSuchMethod</a></li>
-<li><a href="mapview/MapCamera/orbitByWithGeoOrientation.html">orbitByWithGeoOrientation</a></li>
-<li><a href="mapview/MapCamera/removeListener.html">removeListener</a></li>
-<li><a href="mapview/MapCamera/removeListeners.html">removeListeners</a></li>
-<li><a href="mapview/MapCamera/setDistanceToTarget.html">setDistanceToTarget</a></li>
-<li><a href="mapview/MapCamera/setFarPlaneConfiguration.html">setFarPlaneConfiguration</a></li>
-<li><a href="mapview/MapCamera/setOrientationAtTarget.html">setOrientationAtTarget</a></li>
-<li><a href="mapview/MapCamera/startAnimation.html">startAnimation</a></li>
-<li><a href="mapview/MapCamera/startAnimationWithListener.html">startAnimationWithListener</a></li>
-<li class="inherited"><a href="mapview/MapCamera/toString.html">toString</a></li>
-<li><a href="mapview/MapCamera/zoomBy.html">zoomBy</a></li>
-<li><a href="mapview/MapCamera/zoomTo.html">zoomTo</a></li>
-<li class="section-title inherited"><a href="mapview/MapCamera-class.html#operators">Operators</a></li>
-<li class="inherited"><a href="mapview/MapCamera/operator_equals.html">operator ==</a></li>
-</ol></div><div class="doc-content">
-<div id="overlay-under-drawer"></div>
-<header id="title">
-menu
-<ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-navigate</li>
-<li>/sdk-for-flutter-navigate-mapview-mapview-library</li>
-<li class="self-crumb">MapCamera class</li>
-</ol>
-<div class="self-name">MapCamera</div>
-<form class="search navbar-right" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-box" placeholder="Loading search..." type="text"/>
-</form>
-<div class="toggle" id="theme-button" title="Toggle brightness">
-<label for="theme">
-<input id="theme" type="checkbox" value="light-theme"/>
 
-        dark_mode
-      
 
-        light_mode
-      
-</label>
-</div>
-</header>
-<main>
-<div class="main-content" data-above-sidebar="mapview/mapview-library-sidebar.html" data-below-sidebar="mapview/MapCamera-class-sidebar.html" id="dartdoc-main-content">
 <div>
 <h1>MapCamera class abstract</h1></div>
-<section class="desc markdown">
+
 <p>Represents the camera looking onto the map view.</p>
 <p>Each map instance has exactly one camera that is used to manipulate
 the way the map is displayed.</p>
@@ -95,9 +33,9 @@ so that it looks at a specific geo-coordinates (placed at the <code>principal po
 <li>the distance of the camera from the look-at target, given as <code>distance</code> in meters or as <code>zoom-level</code></li>
 </ul>
 <p><i>Getting the current camera state</i></p>
-<p>The current camera state can be obtained by the /sdk-for-flutter-navigate-mapview-mapcamera-state call. It contains information about the camera look-at target (geo-coordinates and orientation) in geodetic space.
+<p>The current camera state can be obtained by the <a href="/sdk-for-flutter-navigate-mapview-mapcamera-state">MapCamera.state</a> call. It contains information about the camera look-at target (geo-coordinates and orientation) in geodetic space.
 The values are returned for the current <code>principal point</code>. This can lead to surprising or unexpected values in cases where the camera position/orientation was specified for another screen point,
-e.g. when using /sdk-for-flutter-navigate-mapview-mapcameraupdatefactory-lookatarea with a view rectangle, whose center does not coincide with the <code>principal point</code>.  In this case, the geo-coordinates of the
+e.g. when using <a href="/sdk-for-flutter-navigate-mapview-mapcameraupdatefactory-lookatarea">MapCameraUpdateFactory.lookAtArea</a> with a view rectangle, whose center does not coincide with the <code>principal point</code>.  In this case, the geo-coordinates of the
 look-at target will differ from the center of the geo-box used in the <code>lookAt</code> call.</p>
 <p><i>Geo coordinates</i></p>
 <p>Geo-coordinates are given in degrees and follow the common nomenclature of positive northern latitudes and positive eastern longitudes.</p>
@@ -134,19 +72,19 @@ directly connected and changing one will automatically change the others as well
 <td>1</td>
 <td align="center">1:400 million</td>
 <td align="center">512</td>
-<td align="center"></td>
+
 </tr>
 <tr>
 <td>2</td>
 <td align="center">1:200 million</td>
 <td align="center">1024</td>
-<td align="center"></td>
+
 </tr>
 <tr>
 <td>3</td>
 <td align="center">1:100 million</td>
 <td align="center">2048</td>
-<td align="center"></td>
+
 </tr>
 <tr>
 <td>4</td>
@@ -176,37 +114,37 @@ directly connected and changing one will automatically change the others as well
 <td>8</td>
 <td align="center">1:3 million</td>
 <td align="center">65536</td>
-<td align="center"></td>
+
 </tr>
 <tr>
 <td>9</td>
 <td align="center">1:1 million</td>
 <td align="center">131072</td>
-<td align="center"></td>
+
 </tr>
 <tr>
 <td>10</td>
 <td align="center">1:780 thousand</td>
 <td align="center">262144</td>
-<td align="center"></td>
+
 </tr>
 <tr>
 <td>11</td>
 <td align="center">1:390 thousand</td>
 <td align="center">524288</td>
-<td align="center"></td>
+
 </tr>
 <tr>
 <td>12</td>
 <td align="center">1:195 thousand</td>
 <td align="center">1048576</td>
-<td align="center"></td>
+
 </tr>
 <tr>
 <td>13</td>
 <td align="center">1:100 thousand</td>
 <td align="center">2097152</td>
-<td align="center"></td>
+
 </tr>
 <tr>
 <td>14</td>
@@ -218,7 +156,7 @@ directly connected and changing one will automatically change the others as well
 <td>15</td>
 <td align="center">1:25 thousand</td>
 <td align="center">8388608</td>
-<td align="center"></td>
+
 </tr>
 <tr>
 <td>16</td>
@@ -236,13 +174,13 @@ directly connected and changing one will automatically change the others as well
 <td>18</td>
 <td align="center">1:3 thousand</td>
 <td align="center">67108864</td>
-<td align="center"></td>
+
 </tr>
 <tr>
 <td>19</td>
 <td align="center">1:1 thousand</td>
 <td align="center">134217728</td>
-<td align="center"></td>
+
 </tr>
 <tr>
 <td>20</td>
@@ -254,19 +192,19 @@ directly connected and changing one will automatically change the others as well
 <td>21</td>
 <td align="center">1:3 hundred</td>
 <td align="center">536870912</td>
-<td align="center"></td>
+
 </tr>
 <tr>
 <td>22</td>
 <td align="center">1:1 hundred</td>
 <td align="center">1073741824</td>
-<td align="center"></td>
+
 </tr>
 <tr>
 <td>23</td>
 <td align="center">1:95</td>
 <td align="center">2147483648</td>
-<td align="center"></td>
+
 </tr>
 </tbody>
 </table>
@@ -277,361 +215,37 @@ directly connected and changing one will automatically change the others as well
 <li><code>tilt</code>: the angle in degrees from the vertical that the camera is looking down at the Earth; 0° = straight down.</li>
 </ul>
 <p><i>Changing the Camera</i></p>
-<p>All changes to the camera are encapsulated in camera updates that are created using the methods in the /sdk-for-flutter-navigate-mapview-mapcameraupdatefactory-class class.</p>
-<p>These updates can then be applied to the /sdk-for-flutter-navigate-mapview-heremapcontrollercore-class using /sdk-for-flutter-navigate-mapview-mapcamera-applyupdate.</p>
+<p>All changes to the camera are encapsulated in camera updates that are created using the methods in the <a href="/sdk-for-flutter-navigate-mapview-mapcameraupdatefactory-class">MapCameraUpdateFactory</a> class.</p>
+<p>These updates can then be applied to the <a href="/sdk-for-flutter-navigate-mapview-heremapcontrollercore-class">HereMapControllerCore</a> using <a href="/sdk-for-flutter-navigate-mapview-mapcamera-applyupdate">MapCamera.applyUpdate</a>.</p>
 <p>Camera updates are queued and executed when the next frame is rendered. They are executed in the order in which they were applied.</p>
 <p><i>Animating the Camera</i></p>
-<p>Camera updates can be animated by first creating a camera animation using the methods in the /sdk-for-flutter-navigate-mapview-mapcameraanimationfactory-class class and then applying this
-animation to the /sdk-for-flutter-navigate-mapview-heremapcontrollercore-class using /sdk-for-flutter-navigate-mapview-mapcamera-startanimationwithlistener.</p>
+<p>Camera updates can be animated by first creating a camera animation using the methods in the <a href="/sdk-for-flutter-navigate-mapview-mapcameraanimationfactory-class">MapCameraAnimationFactory</a> class and then applying this
+animation to the <a href="/sdk-for-flutter-navigate-mapview-heremapcontrollercore-class">HereMapControllerCore</a> using <a href="/sdk-for-flutter-navigate-mapview-mapcamera-startanimationwithlistener">MapCamera.startAnimationWithListener</a>.</p>
 <p>Only one camera animation for one camera component at a time is supported. Applying a new animation will cancel the active animation before the new one is started.
 The start position in this case is where ever the active animation happened to be at the time. Different components are camera state (<code>target pose</code> and <code>distance/zoom level/scale</code>)
 and camera projection (<code>field of view</code>, <code>focal length</code> and <code>principal point</code>).</p>
-<p>The running animations can also be canceled using /sdk-for-flutter-navigate-mapview-mapcamera-cancelanimations or individual ones using /sdk-for-flutter-navigate-mapview-mapcamera-cancelanimation.</p>
-</section>
-<section class="summary offset-anchor" id="constructors">
+<p>The running animations can also be canceled using <a href="/sdk-for-flutter-navigate-mapview-mapcamera-cancelanimations">MapCamera.cancelAnimations</a> or individual ones using <a href="/sdk-for-flutter-navigate-mapview-mapcamera-cancelanimation">MapCamera.cancelAnimation</a>.</p>
+
+
 <h2>Constructors</h2>
-<dl class="constructor-summary-list">
-<dt class="callable" id="MapCamera">
-/sdk-for-flutter-navigate-mapview-mapcamera-mapcamera()
-</dt>
-<dd>
-</dd>
-</dl>
-</section>
-<section class="summary offset-anchor" id="instance-properties">
+<ul><li><a href="/sdk-for-flutter-navigate-mapview-mapcamera-mapcamera">MapCamera</a></li></ul>
+
+
 <h2>Properties</h2>
-<dl class="properties">
-<dt class="property" id="boundingBox">
-/sdk-for-flutter-navigate-mapview-mapcamera-boundingbox
-→ /sdk-for-flutter-navigate-core-geobox-class?
-</dt>
-<dd>
-  Currently visible map area encompassed in a GeoBox.
-Note that this bounding box is always rectangular, and its sides are always
-parallel to the latitude and longitude. If the camera is rotated, the returned
-bounding box will be a circumscribed rectangle that is larger than the
-visible map area. Similarly, when the map is tilted (for example, if
-the map is tilted by 45 degrees), the visible map area represents
-a trapezoidal area in the world. Resulting value will then be a larger
-circumscribed rectangle that contains this trapezoid area.
-Because on this, corners of the resulting bounding box may be located
-outside of the currently visible area.
-  <div class="features">no setter</div>
-</dd>
-<dt class="property inherited" id="hashCode">
-/sdk-for-flutter-navigate-mapview-mapcamera-hashcode
-→ int
-</dt>
-<dd class="inherited">
-  The hash code for this object.
-  <div class="features">no setterinherited</div>
-</dd>
-<dt class="property" id="limits">
-/sdk-for-flutter-navigate-mapview-mapcamera-limits
-→ /sdk-for-flutter-navigate-mapview-mapcameralimits-class
-</dt>
-<dd>
-  Controls limits for the camera settings.
-Gets a MapCameraLimits instance that controls limits for the camera settings.
-  <div class="features">no setter</div>
-</dd>
-<dt class="property" id="principalPoint">
-/sdk-for-flutter-navigate-mapview-mapcamera-principalpoint
-↔ /sdk-for-flutter-navigate-core-point2d-class
-</dt>
-<dd>
-  Determines the pixel point where the target is placed within the map view. Setting a new
-principal point instantly moves the map to render the current target coordinates
-at the new principal point.
-Gets the pixel point that determines where the target is placed within the map view.
-By default, the principal point is located at the center of the map view.
-  <div class="features">getter/setter pair</div>
-</dd>
-<dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-navigate-mapview-mapcamera-runtimetype
-→ Type
-</dt>
-<dd class="inherited">
-  A representation of the runtime type of the object.
-  <div class="features">no setterinherited</div>
-</dd>
-<dt class="property" id="state">
-/sdk-for-flutter-navigate-mapview-mapcamera-state
-→ /sdk-for-flutter-navigate-mapview-mapcamerastate-class
-</dt>
-<dd>
-  Current state of the camera that reflects what is currently drawn by the map view.
-Gets state of the camera that reflects what is currently drawn inside the map view.
-  <div class="features">no setter</div>
-</dd>
-</dl>
-</section>
-<section class="summary offset-anchor" id="instance-methods">
+<ul><li><a href="/sdk-for-flutter-navigate-mapview-mapcamera-boundingbox">boundingBox</a></li><li><a href="/sdk-for-flutter-navigate-mapview-mapcamera-hashcode">hashCode</a></li><li><a href="/sdk-for-flutter-navigate-mapview-mapcamera-limits">limits</a></li><li><a href="/sdk-for-flutter-navigate-mapview-mapcamera-principalpoint">principalPoint</a></li><li><a href="/sdk-for-flutter-navigate-mapview-mapcamera-runtimetype">runtimeType</a></li><li><a href="/sdk-for-flutter-navigate-mapview-mapcamera-state">state</a></li></ul>
+
+
 <h2>Methods</h2>
-<dl class="callables">
-<dt class="callable" id="addListener">
-/sdk-for-flutter-navigate-mapview-mapcamera-addlistener(<wbr/>/sdk-for-flutter-navigate-mapview-mapcameralistener-class listener)
-    → void
+<ul><li><a href="/sdk-for-flutter-navigate-mapview-mapcamera-addlistener">addListener</a></li><li><a href="/sdk-for-flutter-navigate-mapview-mapcamera-applyupdate">applyUpdate</a></li><li><a href="/sdk-for-flutter-navigate-mapview-mapcamera-cancelanimation">cancelAnimation</a></li><li><a href="/sdk-for-flutter-navigate-mapview-mapcamera-cancelanimations">cancelAnimations</a></li><li><a href="/sdk-for-flutter-navigate-mapview-mapcamera-dryapplyupdate">dryApplyUpdate</a></li><li><a href="/sdk-for-flutter-navigate-mapview-mapcamera-lookatareawithgeoorientation">lookAtAreaWithGeoOrientation</a></li><li><a href="/sdk-for-flutter-navigate-mapview-mapcamera-lookatareawithgeoorientationandviewrectangle">lookAtAreaWithGeoOrientationAndViewRectangle</a></li><li><a href="/sdk-for-flutter-navigate-mapview-mapcamera-lookatpoint">lookAtPoint</a></li><li><a href="/sdk-for-flutter-navigate-mapview-mapcamera-lookatpointwithgeoorientationandmeasure">lookAtPointWithGeoOrientationAndMeasure</a></li><li><a href="/sdk-for-flutter-navigate-mapview-mapcamera-lookatpointwithmeasure">lookAtPointWithMeasure</a></li><li><a href="/sdk-for-flutter-navigate-mapview-mapcamera-nosuchmethod">noSuchMethod</a></li><li><a href="/sdk-for-flutter-navigate-mapview-mapcamera-orbitbywithgeoorientation">orbitByWithGeoOrientation</a></li><li><a href="/sdk-for-flutter-navigate-mapview-mapcamera-removelistener">removeListener</a></li><li><a href="/sdk-for-flutter-navigate-mapview-mapcamera-removelisteners">removeListeners</a></li><li><a href="/sdk-for-flutter-navigate-mapview-mapcamera-setdistancetotarget">setDistanceToTarget</a></li><li><a href="/sdk-for-flutter-navigate-mapview-mapcamera-setfarplaneconfiguration">setFarPlaneConfiguration</a></li><li><a href="/sdk-for-flutter-navigate-mapview-mapcamera-setorientationattarget">setOrientationAtTarget</a></li><li><a href="/sdk-for-flutter-navigate-mapview-mapcamera-startanimation">startAnimation</a></li><li><a href="/sdk-for-flutter-navigate-mapview-mapcamera-startanimationwithlistener">startAnimationWithListener</a></li><li><a href="/sdk-for-flutter-navigate-mapview-mapcamera-tostring">toString</a></li><li><a href="/sdk-for-flutter-navigate-mapview-mapcamera-zoomby">zoomBy</a></li><li><a href="/sdk-for-flutter-navigate-mapview-mapcamera-zoomto">zoomTo</a></li></ul>
 
-</dt>
-<dd>
-  Adds a listener to this camera that will be notified
-every time the map is redrawn with new camera parameters.
-  
 
-</dd>
-<dt class="callable" id="applyUpdate">
-/sdk-for-flutter-navigate-mapview-mapcamera-applyupdate(<wbr/>/sdk-for-flutter-navigate-mapview-mapcameraupdate-class cameraUpdate)
-    → void
-
-</dt>
-<dd>
-  Applies camera update to the map camera.
-  
-
-</dd>
-<dt class="callable" id="cancelAnimation">
-/sdk-for-flutter-navigate-mapview-mapcamera-cancelanimation(<wbr/>/sdk-for-flutter-navigate-mapview-mapcameraanimation-class cameraAnimation)
-    → void
-
-</dt>
-<dd>
-  Cancels an ongoing camera animation.
-  
-
-</dd>
-<dt class="callable" id="cancelAnimations">
-/sdk-for-flutter-navigate-mapview-mapcamera-cancelanimations(<wbr/>)
-    → void
-
-</dt>
-<dd>
-  Cancels any ongoing camera animation.
-  
-
-</dd>
-<dt class="callable" id="dryApplyUpdate">
-/sdk-for-flutter-navigate-mapview-mapcamera-dryapplyupdate(<wbr/>/sdk-for-flutter-navigate-mapview-mapcameraupdate-class cameraUpdate, /sdk-for-flutter-navigate-mapview-mapcameradrycameraupdatecallback callback)
-    → void
-
-</dt>
-<dd>
-  Computes result of applying camera update without changing state of the map camera.
-  
-
-</dd>
-<dt class="callable" id="lookAtAreaWithGeoOrientation">
-/sdk-for-flutter-navigate-mapview-mapcamera-lookatareawithgeoorientation(<wbr/>/sdk-for-flutter-navigate-core-geobox-class target, /sdk-for-flutter-navigate-core-geoorientationupdate-class orientation)
-    → void
-
-</dt>
-<dd>
-  Makes the camera look at the specified geodetic area.
-  
-
-</dd>
-<dt class="callable" id="lookAtAreaWithGeoOrientationAndViewRectangle">
-/sdk-for-flutter-navigate-mapview-mapcamera-lookatareawithgeoorientationandviewrectangle(<wbr/>/sdk-for-flutter-navigate-core-geobox-class target, /sdk-for-flutter-navigate-core-geoorientationupdate-class orientation, /sdk-for-flutter-navigate-core-rectangle2d-class viewRectangle)
-    → void
-
-</dt>
-<dd>
-  Makes the camera look at the specified geodetic area and pass a rectangle which specifies
-where the area should appear inside of the map view.
-  
-
-</dd>
-<dt class="callable" id="lookAtPoint">
-/sdk-for-flutter-navigate-mapview-mapcamera-lookatpoint(<wbr/>/sdk-for-flutter-navigate-core-geocoordinates-class target)
-    → void
-
-</dt>
-<dd>
-  Makes the camera look at a new geodetic target, while
-preserving the current orientation and distance to the target.
-  
-
-</dd>
-<dt class="callable" id="lookAtPointWithGeoOrientationAndMeasure">
-/sdk-for-flutter-navigate-mapview-mapcamera-lookatpointwithgeoorientationandmeasure(<wbr/>/sdk-for-flutter-navigate-core-geocoordinates-class target, /sdk-for-flutter-navigate-core-geoorientationupdate-class orientation, /sdk-for-flutter-navigate-mapview-mapmeasure-class zoom)
-    → void
-
-</dt>
-<dd>
-  Makes the camera look at the geodetic target with the given zoom and orientation.
-  
-
-</dd>
-<dt class="callable" id="lookAtPointWithMeasure">
-/sdk-for-flutter-navigate-mapview-mapcamera-lookatpointwithmeasure(<wbr/>/sdk-for-flutter-navigate-core-geocoordinates-class target, /sdk-for-flutter-navigate-mapview-mapmeasure-class zoom)
-    → void
-
-</dt>
-<dd>
-  Makes the camera look at the geodetic target with the given zoom.
-  
-
-</dd>
-<dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-navigate-mapview-mapcamera-nosuchmethod(<wbr/>Invocation invocation)
-    → dynamic
-
-</dt>
-<dd class="inherited">
-  Invoked when a nonexistent method or property is accessed.
-  <div class="features">inherited</div>
-</dd>
-<dt class="callable" id="orbitByWithGeoOrientation">
-/sdk-for-flutter-navigate-mapview-mapcamera-orbitbywithgeoorientation(<wbr/>/sdk-for-flutter-navigate-core-geoorientationupdate-class delta, /sdk-for-flutter-navigate-core-point2d-class origin)
-    → void
-
-</dt>
-<dd>
-  Orbits the camera around a specified view point by increasing tilt and bearing by specified
-delta values.
-  
-
-</dd>
-<dt class="callable" id="removeListener">
-/sdk-for-flutter-navigate-mapview-mapcamera-removelistener(<wbr/>/sdk-for-flutter-navigate-mapview-mapcameralistener-class observer)
-    → void
-
-</dt>
-<dd>
-  Removes the listener from the camera.
-  
-
-</dd>
-<dt class="callable" id="removeListeners">
-/sdk-for-flutter-navigate-mapview-mapcamera-removelisteners(<wbr/>)
-    → void
-
-</dt>
-<dd>
-  Removes all registered listeners.
-  
-
-</dd>
-<dt class="callable" id="setDistanceToTarget">
-/sdk-for-flutter-navigate-mapview-mapcamera-setdistancetotarget(<wbr/>double distanceInMeters)
-    → void
-
-</dt>
-<dd>
-  Makes the camera look at current target from certain distance
-  
-
-</dd>
-<dt class="callable" id="setFarPlaneConfiguration">
-/sdk-for-flutter-navigate-mapview-mapcamera-setfarplaneconfiguration(<wbr/>Map&lt;<wbr/>double, /sdk-for-flutter-navigate-mapview-mapcamerafarplaneconfiguration-class&gt; configs)
-    → void
-
-</dt>
-<dd>
-  Sets far plane distance configs per zoom level.
-  
-
-</dd>
-<dt class="callable" id="setOrientationAtTarget">
-/sdk-for-flutter-navigate-mapview-mapcamera-setorientationattarget(<wbr/>/sdk-for-flutter-navigate-core-geoorientationupdate-class orientation)
-    → void
-
-</dt>
-<dd>
-  Changes camera orientation in relation to target location.
-  
-
-</dd>
-<dt class="callable" id="startAnimation">
-/sdk-for-flutter-navigate-mapview-mapcamera-startanimation(<wbr/>/sdk-for-flutter-navigate-mapview-mapcameraanimation-class cameraAnimation)
-    → void
-
-</dt>
-<dd>
-  Starts a given camera animation.
-  
-
-</dd>
-<dt class="callable" id="startAnimationWithListener">
-/sdk-for-flutter-navigate-mapview-mapcamera-startanimationwithlistener(<wbr/>/sdk-for-flutter-navigate-mapview-mapcameraanimation-class cameraAnimation, /sdk-for-flutter-navigate-animation-animationlistener-class animationListener)
-    → void
-
-</dt>
-<dd>
-  Starts a given camera animation.
-  
-
-</dd>
-<dt class="callable inherited" id="toString">
-/sdk-for-flutter-navigate-mapview-mapcamera-tostring(<wbr/>)
-    → String
-
-</dt>
-<dd class="inherited">
-  A string representation of this object.
-  <div class="features">inherited</div>
-</dd>
-<dt class="callable" id="zoomBy">
-/sdk-for-flutter-navigate-mapview-mapcamera-zoomby(<wbr/>double factor, /sdk-for-flutter-navigate-core-point2d-class origin)
-    → void
-
-</dt>
-<dd>
-  Zooms in or out by a specified factor.
-  
-
-</dd>
-<dt class="callable" id="zoomTo">
-/sdk-for-flutter-navigate-mapview-mapcamera-zoomto(<wbr/>double zoomLevel)
-    → void
-
-</dt>
-<dd>
-  Zooms to the specified zoom level.
-  
-
-</dd>
-</dl>
-</section>
-<section class="summary offset-anchor inherited" id="operators">
 <h2>Operators</h2>
-<dl class="callables">
-<dt class="callable inherited" id="operator ==">
-/sdk-for-flutter-navigate-mapview-mapcamera-operator-equals(<wbr/>Object other)
-    → bool
+<ul><li><a href="/sdk-for-flutter-navigate-mapview-mapcamera-operator-equals">operator ==</a></li></ul>
 
-</dt>
-<dd class="inherited">
-  The equality operator.
-  <div class="features">inherited</div>
-</dd>
-</dl>
-</section>
-</div>
-<div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-<header class="hidden-l" id="header-search-sidebar">
-<form class="search-sidebar" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
-</form>
-</header>
-<ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-navigate</li>
-<li>/sdk-for-flutter-navigate-mapview-mapview-library</li>
-<li class="self-crumb">MapCamera class</li>
-</ol>
-<h5>mapview library</h5>
-<div id="dartdoc-sidebar-left-content"></div>
-</div>
-<div class="sidebar sidebar-offcanvas-right" id="dartdoc-sidebar-right">
-</div>
-</main>
-<footer>
+ 
 
-    here_sdk
-      4.26.0
-  
-</footer>
-</div></div>
+
+
 </div>
 `
 }</HTMLBlock>

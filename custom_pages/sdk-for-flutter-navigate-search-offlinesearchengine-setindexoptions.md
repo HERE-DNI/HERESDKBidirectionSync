@@ -7,47 +7,21 @@ slug: "sdk-for-flutter-navigate-search-offlinesearchengine-setindexoptions"
 `
 <div class="sdk-for-flutter">
 <!-- setIndexOptions.html -->
-<div class="doc-with-sidebar"><div class="doc-content">
-<div id="overlay-under-drawer"></div>
-<header id="title">
-menu
-<ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-navigate</li>
-<li>/sdk-for-flutter-navigate-search-search-library</li>
-<li>/sdk-for-flutter-navigate-search-offlinesearchengine-class</li>
-<li class="self-crumb">setIndexOptions static method</li>
-</ol>
-<div class="self-name">setIndexOptions</div>
-<form class="search navbar-right" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-box" placeholder="Loading search..." type="text"/>
-</form>
-<div class="toggle" id="theme-button" title="Toggle brightness">
-<label for="theme">
-<input id="theme" type="checkbox" value="light-theme"/>
 
-        dark_mode
-      
 
-        light_mode
-      
-</label>
-</div>
-</header>
-<main>
-<div class="main-content" data-above-sidebar="search/OfflineSearchEngine-class-sidebar.html" data-below-sidebar="" id="dartdoc-main-content">
 <div>
 <h1>setIndexOptions static method</h1></div>
-<section class="multi-line-signature">
-/sdk-for-flutter-navigate-search-offlinesearchindexerror?
-setIndexOptions(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-navigate-core-engine-sdknativeengine-class sdkEngine, </li>
-<li>/sdk-for-flutter-navigate-search-offlinesearchindexoptions-class options, </li>
-<li>/sdk-for-flutter-navigate-search-offlinesearchindexlistener-class listener</li>
+
+<a href="/sdk-for-flutter-navigate-search-offlinesearchindexerror">OfflineSearchIndexError</a>?
+setIndexOptions(<ol class="parameter-list single-line"> <li><a href="/sdk-for-flutter-navigate-core-engine-sdknativeengine-class">SDKNativeEngine</a> sdkEngine, </li>
+<li><a href="/sdk-for-flutter-navigate-search-offlinesearchindexoptions-class">OfflineSearchIndexOptions</a> options, </li>
+<li><a href="/sdk-for-flutter-navigate-search-offlinesearchindexlistener-class">OfflineSearchIndexListener</a> listener</li>
 </ol>)
 
       
 
-    </section>
-<section class="desc markdown">
+    
+
 <p>Enables or disables indexing.</p>
 <p>When indexing is enabled, HERE SDK will create a detailed index over persistent
 map data and update it as needed.
@@ -74,7 +48,7 @@ behaviors. Related APIs may change for new releases without a deprecation proces
 <ul>
 <li>
 <p><code>sdkEngine</code> Indexing is enabled and disabled per SDKNativeEngine instance.
-The index is created inside the related /sdk-for-flutter-navigate-core-engine-sdkoptions-persistentmapstoragepath.</p>
+The index is created inside the related <a href="/sdk-for-flutter-navigate-core-engine-sdkoptions-persistentmapstoragepath">SDKOptions.persistentMapStoragePath</a>.</p>
 </li>
 <li>
 <p><code>options</code> Sets indexing options.</p>
@@ -87,40 +61,18 @@ When <code>OfflineSearchIndex.Options.enabled</code> is false, SDK would report 
 one last time and remove storage of listener.</p>
 </li>
 </ul>
-<p>Returns /sdk-for-flutter-navigate-search-offlinesearchindexerror. An error in case there was one.</p>
+<p>Returns <a href="/sdk-for-flutter-navigate-search-offlinesearchindexerror">OfflineSearchIndexError?</a>. An error in case there was one.</p>
 <p>It's <code>null</code> if the indexing listener could be
 configured successfully.</p>
-</section>
-<section class="summary source-code" id="source">
+
+
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">static OfflineSearchIndexError? setIndexOptions(SDKNativeEngine sdkEngine, OfflineSearchIndexOptions options, OfflineSearchIndexListener listener) =&gt; $prototype.setIndexOptions(sdkEngine, options, listener);</code></pre>
-</section>
-</div>
-<div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-<header class="hidden-l" id="header-search-sidebar">
-<form class="search-sidebar" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
-</form>
-</header>
-<ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-navigate</li>
-<li>/sdk-for-flutter-navigate-search-search-library</li>
-<li>/sdk-for-flutter-navigate-search-offlinesearchengine-class</li>
-<li class="self-crumb">setIndexOptions static method</li>
-</ol>
-<h5>OfflineSearchEngine class</h5>
-<div id="dartdoc-sidebar-left-content"></div>
-</div>
-<div class="sidebar sidebar-offcanvas-right" id="dartdoc-sidebar-right">
-</div>
-</main>
-<footer>
 
-    here_sdk
-      4.26.0
-  
-</footer>
-</div></div>
+ 
+
+
+
 </div>
 `
 }</HTMLBlock>

@@ -7,171 +7,34 @@ slug: "sdk-for-flutter-navigate-trafficawarenavigation-dynamicroutinglistener-cl
 `
 <div class="sdk-for-flutter">
 <!-- DynamicRoutingListener-class.html -->
-<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
-<li class="section-title"><a href="trafficawarenavigation/DynamicRoutingListener-class.html#constructors">Constructors</a></li>
-<li><a href="trafficawarenavigation/DynamicRoutingListener/DynamicRoutingListener.html">DynamicRoutingListener</a></li>
-<li class="section-title inherited">
-<a href="trafficawarenavigation/DynamicRoutingListener-class.html#instance-properties">Properties</a>
-</li>
-<li class="inherited"><a href="trafficawarenavigation/DynamicRoutingListener/hashCode.html">hashCode</a></li>
-<li class="inherited"><a href="trafficawarenavigation/DynamicRoutingListener/runtimeType.html">runtimeType</a></li>
-<li class="section-title"><a href="trafficawarenavigation/DynamicRoutingListener-class.html#instance-methods">Methods</a></li>
-<li class="inherited"><a href="trafficawarenavigation/DynamicRoutingListener/noSuchMethod.html">noSuchMethod</a></li>
-<li><a href="trafficawarenavigation/DynamicRoutingListener/onBetterRouteFound.html">onBetterRouteFound</a></li>
-<li><a href="trafficawarenavigation/DynamicRoutingListener/onRoutingError.html">onRoutingError</a></li>
-<li class="inherited"><a href="trafficawarenavigation/DynamicRoutingListener/toString.html">toString</a></li>
-<li class="section-title inherited"><a href="trafficawarenavigation/DynamicRoutingListener-class.html#operators">Operators</a></li>
-<li class="inherited"><a href="trafficawarenavigation/DynamicRoutingListener/operator_equals.html">operator ==</a></li>
-</ol></div><div class="doc-content">
-<div id="overlay-under-drawer"></div>
-<header id="title">
-menu
-<ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-navigate</li>
-<li>/sdk-for-flutter-navigate-trafficawarenavigation-trafficawarenavigation-library</li>
-<li class="self-crumb">DynamicRoutingListener class</li>
-</ol>
-<div class="self-name">DynamicRoutingListener</div>
-<form class="search navbar-right" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-box" placeholder="Loading search..." type="text"/>
-</form>
-<div class="toggle" id="theme-button" title="Toggle brightness">
-<label for="theme">
-<input id="theme" type="checkbox" value="light-theme"/>
 
-        dark_mode
-      
 
-        light_mode
-      
-</label>
-</div>
-</header>
-<main>
-<div class="main-content" data-above-sidebar="trafficawarenavigation/trafficawarenavigation-library-sidebar.html" data-below-sidebar="trafficawarenavigation/DynamicRoutingListener-class-sidebar.html" id="dartdoc-main-content">
 <div>
 <h1>DynamicRoutingListener class abstract</h1></div>
-<section class="desc markdown">
+
 <p>This abstract class should be implemented in order to
-receive notifications about the new route via the /sdk-for-flutter-navigate-trafficawarenavigation-dynamicroutingengine-class.</p>
-</section>
-<section class="summary offset-anchor" id="constructors">
+receive notifications about the new route via the <a href="/sdk-for-flutter-navigate-trafficawarenavigation-dynamicroutingengine-class">DynamicRoutingEngine</a>.</p>
+
+
 <h2>Constructors</h2>
-<dl class="constructor-summary-list">
-<dt class="callable" id="DynamicRoutingListener">
-/sdk-for-flutter-navigate-trafficawarenavigation-dynamicroutinglistener-dynamicroutinglistener(void onBetterRouteFoundLambda(/sdk-for-flutter-navigate-routing-route-class, int, int), void onRoutingErrorLambda(/sdk-for-flutter-navigate-routing-routingerror))
-</dt>
-<dd>
-          This abstract class should be implemented in order to
-receive notifications about the new route via the /sdk-for-flutter-navigate-trafficawarenavigation-dynamicroutingengine-class.
-            <div class="constructor-modifier features">factory</div>
-</dd>
-</dl>
-</section>
-<section class="summary offset-anchor inherited" id="instance-properties">
+<ul><li><a href="/sdk-for-flutter-navigate-trafficawarenavigation-dynamicroutinglistener-dynamicroutinglistener">DynamicRoutingListener</a></li></ul>
+
+
 <h2>Properties</h2>
-<dl class="properties">
-<dt class="property inherited" id="hashCode">
-/sdk-for-flutter-navigate-trafficawarenavigation-dynamicroutinglistener-hashcode
-→ int
-</dt>
-<dd class="inherited">
-  The hash code for this object.
-  <div class="features">no setterinherited</div>
-</dd>
-<dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-navigate-trafficawarenavigation-dynamicroutinglistener-runtimetype
-→ Type
-</dt>
-<dd class="inherited">
-  A representation of the runtime type of the object.
-  <div class="features">no setterinherited</div>
-</dd>
-</dl>
-</section>
-<section class="summary offset-anchor" id="instance-methods">
+<ul><li><a href="/sdk-for-flutter-navigate-trafficawarenavigation-dynamicroutinglistener-hashcode">hashCode</a></li><li><a href="/sdk-for-flutter-navigate-trafficawarenavigation-dynamicroutinglistener-runtimetype">runtimeType</a></li></ul>
+
+
 <h2>Methods</h2>
-<dl class="callables">
-<dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-navigate-trafficawarenavigation-dynamicroutinglistener-nosuchmethod(<wbr/>Invocation invocation)
-    → dynamic
+<ul><li><a href="/sdk-for-flutter-navigate-trafficawarenavigation-dynamicroutinglistener-nosuchmethod">noSuchMethod</a></li><li><a href="/sdk-for-flutter-navigate-trafficawarenavigation-dynamicroutinglistener-onbetterroutefound">onBetterRouteFound</a></li><li><a href="/sdk-for-flutter-navigate-trafficawarenavigation-dynamicroutinglistener-onroutingerror">onRoutingError</a></li><li><a href="/sdk-for-flutter-navigate-trafficawarenavigation-dynamicroutinglistener-tostring">toString</a></li></ul>
 
-</dt>
-<dd class="inherited">
-  Invoked when a nonexistent method or property is accessed.
-  <div class="features">inherited</div>
-</dd>
-<dt class="callable" id="onBetterRouteFound">
-/sdk-for-flutter-navigate-trafficawarenavigation-dynamicroutinglistener-onbetterroutefound(<wbr/>/sdk-for-flutter-navigate-routing-route-class newRoute, int etaDifferenceInSeconds, int distanceDifferenceInMeters)
-    → void
 
-</dt>
-<dd>
-  This event is issued when a better route could be found,
-as defined by /sdk-for-flutter-navigate-trafficawarenavigation-dynamicroutingengineoptions-class.
-  
-
-</dd>
-<dt class="callable" id="onRoutingError">
-/sdk-for-flutter-navigate-trafficawarenavigation-dynamicroutinglistener-onroutingerror(<wbr/>/sdk-for-flutter-navigate-routing-routingerror routingError)
-    → void
-
-</dt>
-<dd>
-  This event is issued when an error occurred.
-  
-
-</dd>
-<dt class="callable inherited" id="toString">
-/sdk-for-flutter-navigate-trafficawarenavigation-dynamicroutinglistener-tostring(<wbr/>)
-    → String
-
-</dt>
-<dd class="inherited">
-  A string representation of this object.
-  <div class="features">inherited</div>
-</dd>
-</dl>
-</section>
-<section class="summary offset-anchor inherited" id="operators">
 <h2>Operators</h2>
-<dl class="callables">
-<dt class="callable inherited" id="operator ==">
-/sdk-for-flutter-navigate-trafficawarenavigation-dynamicroutinglistener-operator-equals(<wbr/>Object other)
-    → bool
+<ul><li><a href="/sdk-for-flutter-navigate-trafficawarenavigation-dynamicroutinglistener-operator-equals">operator ==</a></li></ul>
 
-</dt>
-<dd class="inherited">
-  The equality operator.
-  <div class="features">inherited</div>
-</dd>
-</dl>
-</section>
-</div>
-<div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-<header class="hidden-l" id="header-search-sidebar">
-<form class="search-sidebar" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
-</form>
-</header>
-<ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-navigate</li>
-<li>/sdk-for-flutter-navigate-trafficawarenavigation-trafficawarenavigation-library</li>
-<li class="self-crumb">DynamicRoutingListener class</li>
-</ol>
-<h5>trafficawarenavigation library</h5>
-<div id="dartdoc-sidebar-left-content"></div>
-</div>
-<div class="sidebar sidebar-offcanvas-right" id="dartdoc-sidebar-right">
-</div>
-</main>
-<footer>
+ 
 
-    here_sdk
-      4.26.0
-  
-</footer>
-</div></div>
+
+
 </div>
 `
 }</HTMLBlock>

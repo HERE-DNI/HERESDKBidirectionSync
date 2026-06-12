@@ -7,50 +7,24 @@ slug: "sdk-for-flutter-navigate-trafficawarenavigation-dynamicroutingengineoptio
 `
 <div class="sdk-for-flutter">
 <!-- operator_equals.html -->
-<div class="doc-with-sidebar"><div class="doc-content">
-<div id="overlay-under-drawer"></div>
-<header id="title">
-menu
-<ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-navigate</li>
-<li>/sdk-for-flutter-navigate-trafficawarenavigation-trafficawarenavigation-library</li>
-<li>/sdk-for-flutter-navigate-trafficawarenavigation-dynamicroutingengineoptions-class</li>
-<li class="self-crumb">operator == method</li>
-</ol>
-<div class="self-name">operator ==</div>
-<form class="search navbar-right" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-box" placeholder="Loading search..." type="text"/>
-</form>
-<div class="toggle" id="theme-button" title="Toggle brightness">
-<label for="theme">
-<input id="theme" type="checkbox" value="light-theme"/>
 
-        dark_mode
-      
 
-        light_mode
-      
-</label>
-</div>
-</header>
-<main>
-<div class="main-content" data-above-sidebar="trafficawarenavigation/DynamicRoutingEngineOptions-class-sidebar.html" data-below-sidebar="" id="dartdoc-main-content">
 <div>
 <h1>operator == method</h1></div>
-<section class="multi-line-signature">
+
 <div>
 <ol class="annotation-list">
 <li>@override</li>
 </ol>
 </div>
 bool
-operator ==(<wbr/><ol class="parameter-list single-line"> <li>Object other</li>
+operator ==(<ol class="parameter-list single-line"> <li>Object other</li>
 </ol>)
 
       
 
-    </section>
-<section class="desc markdown">
+    
+
 <p>The equality operator.</p>
 <p>The default behavior for all <code>Object</code>s is to return true if and
 only if this object and <code>other</code> are the same object.</p>
@@ -77,9 +51,9 @@ either both be true, or both be false.</p>
 so whether two objects are equal should only change
 if at least one of the objects was modified.</p>
 <p>If a subclass overrides the equality operator, it should override
-the /sdk-for-flutter-navigate-trafficawarenavigation-dynamicroutingengineoptions-hashcode method as well to maintain consistency.</p>
-</section>
-<section class="summary source-code" id="source">
+the <a href="/sdk-for-flutter-navigate-trafficawarenavigation-dynamicroutingengineoptions-hashcode">hashCode</a> method as well to maintain consistency.</p>
+
+
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">@override
 bool operator ==(Object other) {
@@ -90,33 +64,11 @@ bool operator ==(Object other) {
       minTimeDifference == _other.minTimeDifference &amp;&amp;
       pollInterval == _other.pollInterval;
 }</code></pre>
-</section>
-</div>
-<div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-<header class="hidden-l" id="header-search-sidebar">
-<form class="search-sidebar" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
-</form>
-</header>
-<ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-navigate</li>
-<li>/sdk-for-flutter-navigate-trafficawarenavigation-trafficawarenavigation-library</li>
-<li>/sdk-for-flutter-navigate-trafficawarenavigation-dynamicroutingengineoptions-class</li>
-<li class="self-crumb">operator == method</li>
-</ol>
-<h5>DynamicRoutingEngineOptions class</h5>
-<div id="dartdoc-sidebar-left-content"></div>
-</div>
-<div class="sidebar sidebar-offcanvas-right" id="dartdoc-sidebar-right">
-</div>
-</main>
-<footer>
 
-    here_sdk
-      4.26.0
-  
-</footer>
-</div></div>
+ 
+
+
+
 </div>
 `
 }</HTMLBlock>

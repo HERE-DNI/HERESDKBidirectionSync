@@ -7,54 +7,28 @@ slug: "sdk-for-flutter-navigate-mapview-mapcontentsettings-configurevehiclerestr
 `
 <div class="sdk-for-flutter">
 <!-- configureVehicleRestrictionFilter.html -->
-<div class="doc-with-sidebar"><div class="doc-content">
-<div id="overlay-under-drawer"></div>
-<header id="title">
-menu
-<ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-navigate</li>
-<li>/sdk-for-flutter-navigate-mapview-mapview-library</li>
-<li>/sdk-for-flutter-navigate-mapview-mapcontentsettings-class</li>
-<li class="self-crumb">configureVehicleRestrictionFilter static method</li>
-</ol>
-<div class="self-name">configureVehicleRestrictionFilter</div>
-<form class="search navbar-right" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-box" placeholder="Loading search..." type="text"/>
-</form>
-<div class="toggle" id="theme-button" title="Toggle brightness">
-<label for="theme">
-<input id="theme" type="checkbox" value="light-theme"/>
 
-        dark_mode
-      
 
-        light_mode
-      
-</label>
-</div>
-</header>
-<main>
-<div class="main-content" data-above-sidebar="mapview/MapContentSettings-class-sidebar.html" data-below-sidebar="" id="dartdoc-main-content">
 <div>
 <h1>configureVehicleRestrictionFilter static method</h1></div>
-<section class="multi-line-signature">
+
 <div>
 <ol class="annotation-list">
 <li>@Deprecated("Will be removed in v4.28.0, use [MapContentSettings.configureVehicleRestrictionFilterWithTransportSpecification] instead.")</li>
 </ol>
 </div>
 void
-configureVehicleRestrictionFilter(<wbr/><ol class="parameter-list"> <li>/sdk-for-flutter-navigate-transport-transportmode transportMode, </li>
-<li>/sdk-for-flutter-navigate-transport-truckspecifications-class truckSpecifications, </li>
-<li>List&lt;<wbr/>/sdk-for-flutter-navigate-transport-hazardousmaterial&gt;? hazardousMaterials, </li>
-<li>/sdk-for-flutter-navigate-transport-tunnelcategory? tunnelCategory, </li>
+configureVehicleRestrictionFilter(<ol class="parameter-list"> <li><a href="/sdk-for-flutter-navigate-transport-transportmode">TransportMode</a> transportMode, </li>
+<li><a class="deprecated" href="/sdk-for-flutter-navigate-transport-truckspecifications-class">TruckSpecifications</a> truckSpecifications, </li>
+<li>List&lt;<a href="/sdk-for-flutter-navigate-transport-hazardousmaterial">HazardousMaterial</a>&gt;? hazardousMaterials, </li>
+<li><a href="/sdk-for-flutter-navigate-transport-tunnelcategory">TunnelCategory</a>? tunnelCategory, </li>
 </ol>)
 
       
 
-    </section>
-<section class="desc markdown">
-<p>Configure a filter for /sdk-for-flutter-navigate-mapview-mapfeatures-vehiclerestrictions to show only the restrictions
+    
+
+<p>Configure a filter for <a href="/sdk-for-flutter-navigate-mapview-mapfeatures-vehiclerestrictions">MapFeatures.vehicleRestrictions</a> to show only the restrictions
 matching the specified criteria when the feature is enabled.</p>
 <h1 id="filtering-rules-for-truck-specifications">Filtering rules for truck specifications</h1>
 <p>Only restrictions applicable to the supplied truck specifications will be shown.</p>
@@ -73,8 +47,8 @@ tunnel categories, a tunnel category, that applies to the vehicle, can be specif
 additionally.</p>
 <p>Examples:</p>
 <ul>
-<li>If the <code>MapContentSettings.configureVehicleRestrictionFilter.hazardousMaterials</code> contains /sdk-for-flutter-navigate-transport-hazardousmaterial
-and /sdk-for-flutter-navigate-transport-hazardousmaterial, then only material restrictions
+<li>If the <code>MapContentSettings.configureVehicleRestrictionFilter.hazardousMaterials</code> contains <a href="/sdk-for-flutter-navigate-transport-hazardousmaterial">HazardousMaterial.poison</a>
+and <a href="/sdk-for-flutter-navigate-transport-hazardousmaterial">HazardousMaterial.gas</a>, then only material restrictions
 for poison and gas will be displayed.</li>
 <li>If the <code>MapContentSettings.configureVehicleRestrictionFilter.hazardousMaterials</code> list is empty, then no material restrictions
 will be shown.</li>
@@ -86,8 +60,8 @@ restrictions will be displayed together with all available tunnel categories.</l
 </ul>
 <h1 id="filtering-rules-for-tunnel-category">Filtering rules for tunnel category</h1>
 <p>Tunnel categories are labeled and rated based on the level of restriction they provide.
-The lowest level of restriction is /sdk-for-flutter-navigate-transport-tunnelcategory, the highest and most
-restrictive one is /sdk-for-flutter-navigate-transport-tunnelcategory.</p>
+The lowest level of restriction is <a href="/sdk-for-flutter-navigate-transport-tunnelcategory">TunnelCategory.b</a>, the highest and most
+restrictive one is <a href="/sdk-for-flutter-navigate-transport-tunnelcategory">TunnelCategory.e</a>.</p>
 <p>Specifying tunnel category means that:</p>
 <ul>
 <li>The truck carries goods which could cause only the additional dangerous effects
@@ -108,10 +82,10 @@ restrictions are omitted.</li>
 applicable restrictions.</li>
 </ul>
 <p>Example:
-If <code>MapContentSettings.configureVehicleRestrictionFilter.tunnelCategory</code> is set to /sdk-for-flutter-navigate-transport-tunnelcategory, then restrictions for
-tunnel category /sdk-for-flutter-navigate-transport-tunnelcategory and /sdk-for-flutter-navigate-transport-tunnelcategory
-will be displayed, but not the categories /sdk-for-flutter-navigate-transport-tunnelcategory and
-/sdk-for-flutter-navigate-transport-tunnelcategory.</p>
+If <code>MapContentSettings.configureVehicleRestrictionFilter.tunnelCategory</code> is set to <a href="/sdk-for-flutter-navigate-transport-tunnelcategory">TunnelCategory.d</a>, then restrictions for
+tunnel category <a href="/sdk-for-flutter-navigate-transport-tunnelcategory">TunnelCategory.e</a> and <a href="/sdk-for-flutter-navigate-transport-tunnelcategory">TunnelCategory.d</a>
+will be displayed, but not the categories <a href="/sdk-for-flutter-navigate-transport-tunnelcategory">TunnelCategory.b</a> and
+<a href="/sdk-for-flutter-navigate-transport-tunnelcategory">TunnelCategory.c</a>.</p>
 <ul>
 <li>
 <p><code>transportMode</code> Specifies the current transport type. Currently, it's used to distinguish
@@ -134,39 +108,17 @@ displayed. If <code>null</code>, then no tunnel category restrictions will be
 displayed.</p>
 </li>
 </ul>
-</section>
-<section class="summary source-code" id="source">
+
+
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">@Deprecated("Will be removed in v4.28.0, use [MapContentSettings.configureVehicleRestrictionFilterWithTransportSpecification] instead.")
 
 static void configureVehicleRestrictionFilter(TransportMode transportMode, TruckSpecifications truckSpecifications, List&lt;HazardousMaterial&gt;? hazardousMaterials, TunnelCategory? tunnelCategory) =&gt; $prototype.configureVehicleRestrictionFilter(transportMode, truckSpecifications, hazardousMaterials, tunnelCategory);</code></pre>
-</section>
-</div>
-<div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-<header class="hidden-l" id="header-search-sidebar">
-<form class="search-sidebar" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
-</form>
-</header>
-<ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-navigate</li>
-<li>/sdk-for-flutter-navigate-mapview-mapview-library</li>
-<li>/sdk-for-flutter-navigate-mapview-mapcontentsettings-class</li>
-<li class="self-crumb">configureVehicleRestrictionFilter static method</li>
-</ol>
-<h5>MapContentSettings class</h5>
-<div id="dartdoc-sidebar-left-content"></div>
-</div>
-<div class="sidebar sidebar-offcanvas-right" id="dartdoc-sidebar-right">
-</div>
-</main>
-<footer>
 
-    here_sdk
-      4.26.0
-  
-</footer>
-</div></div>
+ 
+
+
+
 </div>
 `
 }</HTMLBlock>

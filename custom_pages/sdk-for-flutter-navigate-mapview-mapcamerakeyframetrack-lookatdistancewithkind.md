@@ -7,48 +7,22 @@ slug: "sdk-for-flutter-navigate-mapview-mapcamerakeyframetrack-lookatdistancewit
 `
 <div class="sdk-for-flutter">
 <!-- lookAtDistanceWithKind.html -->
-<div class="doc-with-sidebar"><div class="doc-content">
-<div id="overlay-under-drawer"></div>
-<header id="title">
-menu
-<ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-navigate</li>
-<li>/sdk-for-flutter-navigate-mapview-mapview-library</li>
-<li>/sdk-for-flutter-navigate-mapview-mapcamerakeyframetrack-class</li>
-<li class="self-crumb">lookAtDistanceWithKind static method</li>
-</ol>
-<div class="self-name">lookAtDistanceWithKind</div>
-<form class="search navbar-right" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-box" placeholder="Loading search..." type="text"/>
-</form>
-<div class="toggle" id="theme-button" title="Toggle brightness">
-<label for="theme">
-<input id="theme" type="checkbox" value="light-theme"/>
 
-        dark_mode
-      
 
-        light_mode
-      
-</label>
-</div>
-</header>
-<main>
-<div class="main-content" data-above-sidebar="mapview/MapCameraKeyframeTrack-class-sidebar.html" data-below-sidebar="" id="dartdoc-main-content">
 <div>
 <h1>lookAtDistanceWithKind static method</h1></div>
-<section class="multi-line-signature">
-/sdk-for-flutter-navigate-mapview-mapcamerakeyframetrack-class
-lookAtDistanceWithKind(<wbr/><ol class="parameter-list"> <li>/sdk-for-flutter-navigate-mapview-mapmeasurekind distanceKind, </li>
-<li>List&lt;<wbr/>/sdk-for-flutter-navigate-animation-scalarkeyframe-class&gt; keyframes, </li>
-<li>/sdk-for-flutter-navigate-animation-easing-class easing, </li>
-<li>/sdk-for-flutter-navigate-animation-keyframeinterpolationmode interpolationMode, </li>
+
+<a href="/sdk-for-flutter-navigate-mapview-mapcamerakeyframetrack-class">MapCameraKeyframeTrack</a>
+lookAtDistanceWithKind(<ol class="parameter-list"> <li><a href="/sdk-for-flutter-navigate-mapview-mapmeasurekind">MapMeasureKind</a> distanceKind, </li>
+<li>List&lt;<a href="/sdk-for-flutter-navigate-animation-scalarkeyframe-class">ScalarKeyframe</a>&gt; keyframes, </li>
+<li><a href="/sdk-for-flutter-navigate-animation-easing-class">Easing</a> easing, </li>
+<li><a href="/sdk-for-flutter-navigate-animation-keyframeinterpolationmode">KeyframeInterpolationMode</a> interpolationMode, </li>
 </ol>)
 
       
 
-    </section>
-<section class="desc markdown">
+    
+
 <p>Creates a map camera look-at distance keyframe track.</p>
 <p>It enables animations of the distance
 from the map camera to the target point that the camera looks at. The measure kind of that distance can be
@@ -73,39 +47,17 @@ and creation of the keyframe track will fail.</p>
 <p><code>interpolationMode</code> The type of interpolation done between keyframe values.</p>
 </li>
 </ul>
-<p>Returns /sdk-for-flutter-navigate-mapview-mapcamerakeyframetrack-class. A keyframe track over the distance from the map camera to its target.</p>
-<p>Throws /sdk-for-flutter-navigate-mapview-mapcamerakeyframetrackinstantiationexception-class. Indicates an instantiation issue.</p>
-</section>
-<section class="summary source-code" id="source">
+<p>Returns <a href="/sdk-for-flutter-navigate-mapview-mapcamerakeyframetrack-class">MapCameraKeyframeTrack</a>. A keyframe track over the distance from the map camera to its target.</p>
+<p>Throws <a href="/sdk-for-flutter-navigate-mapview-mapcamerakeyframetrackinstantiationexception-class">MapCameraKeyframeTrackInstantiationException</a>. Indicates an instantiation issue.</p>
+
+
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">static MapCameraKeyframeTrack lookAtDistanceWithKind(MapMeasureKind distanceKind, List&lt;ScalarKeyframe&gt; keyframes, Easing easing, KeyframeInterpolationMode interpolationMode) =&gt; $prototype.lookAtDistanceWithKind(distanceKind, keyframes, easing, interpolationMode);</code></pre>
-</section>
-</div>
-<div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-<header class="hidden-l" id="header-search-sidebar">
-<form class="search-sidebar" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
-</form>
-</header>
-<ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-navigate</li>
-<li>/sdk-for-flutter-navigate-mapview-mapview-library</li>
-<li>/sdk-for-flutter-navigate-mapview-mapcamerakeyframetrack-class</li>
-<li class="self-crumb">lookAtDistanceWithKind static method</li>
-</ol>
-<h5>MapCameraKeyframeTrack class</h5>
-<div id="dartdoc-sidebar-left-content"></div>
-</div>
-<div class="sidebar sidebar-offcanvas-right" id="dartdoc-sidebar-right">
-</div>
-</main>
-<footer>
 
-    here_sdk
-      4.26.0
-  
-</footer>
-</div></div>
+ 
+
+
+
 </div>
 `
 }</HTMLBlock>

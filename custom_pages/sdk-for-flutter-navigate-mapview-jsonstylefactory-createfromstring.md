@@ -7,82 +7,34 @@ slug: "sdk-for-flutter-navigate-mapview-jsonstylefactory-createfromstring"
 `
 <div class="sdk-for-flutter">
 <!-- createFromString.html -->
-<div class="doc-with-sidebar"><div class="doc-content">
-<div id="overlay-under-drawer"></div>
-<header id="title">
-menu
-<ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-navigate</li>
-<li>/sdk-for-flutter-navigate-mapview-mapview-library</li>
-<li>/sdk-for-flutter-navigate-mapview-jsonstylefactory-class</li>
-<li class="self-crumb">createFromString static method</li>
-</ol>
-<div class="self-name">createFromString</div>
-<form class="search navbar-right" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-box" placeholder="Loading search..." type="text"/>
-</form>
-<div class="toggle" id="theme-button" title="Toggle brightness">
-<label for="theme">
-<input id="theme" type="checkbox" value="light-theme"/>
 
-        dark_mode
-      
 
-        light_mode
-      
-</label>
-</div>
-</header>
-<main>
-<div class="main-content" data-above-sidebar="mapview/JsonStyleFactory-class-sidebar.html" data-below-sidebar="" id="dartdoc-main-content">
 <div>
 <h1>createFromString static method</h1></div>
-<section class="multi-line-signature">
-/sdk-for-flutter-navigate-mapview-style-class
-createFromString(<wbr/><ol class="parameter-list single-line"> <li>String styleString</li>
+
+<a href="/sdk-for-flutter-navigate-mapview-style-class">Style</a>
+createFromString(<ol class="parameter-list single-line"> <li>String styleString</li>
 </ol>)
 
       
 
-    </section>
-<section class="desc markdown">
+    
+
 <p>Creates an instance of Style from a JSON string.</p>
 <ul>
 <li><code>styleString</code> JSON style string.</li>
 </ul>
-<p>Returns /sdk-for-flutter-navigate-mapview-style-class. Style instance.</p>
-<p>Throws /sdk-for-flutter-navigate-mapview-jsonstylefactoryinstantiationexception-class. Indicates failure to create /sdk-for-flutter-navigate-mapview-style-class from JSON string.</p>
-</section>
-<section class="summary source-code" id="source">
+<p>Returns <a href="/sdk-for-flutter-navigate-mapview-style-class">Style</a>. Style instance.</p>
+<p>Throws <a href="/sdk-for-flutter-navigate-mapview-jsonstylefactoryinstantiationexception-class">JsonStyleFactoryInstantiationException</a>. Indicates failure to create <a href="/sdk-for-flutter-navigate-mapview-style-class">Style</a> from JSON string.</p>
+
+
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">static Style createFromString(String styleString) =&gt; $prototype.createFromString(styleString);</code></pre>
-</section>
-</div>
-<div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-<header class="hidden-l" id="header-search-sidebar">
-<form class="search-sidebar" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
-</form>
-</header>
-<ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-navigate</li>
-<li>/sdk-for-flutter-navigate-mapview-mapview-library</li>
-<li>/sdk-for-flutter-navigate-mapview-jsonstylefactory-class</li>
-<li class="self-crumb">createFromString static method</li>
-</ol>
-<h5>JsonStyleFactory class</h5>
-<div id="dartdoc-sidebar-left-content"></div>
-</div>
-<div class="sidebar sidebar-offcanvas-right" id="dartdoc-sidebar-right">
-</div>
-</main>
-<footer>
 
-    here_sdk
-      4.26.0
-  
-</footer>
-</div></div>
+ 
+
+
+
 </div>
 `
 }</HTMLBlock>

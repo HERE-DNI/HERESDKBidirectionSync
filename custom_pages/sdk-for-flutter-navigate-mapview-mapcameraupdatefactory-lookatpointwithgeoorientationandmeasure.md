@@ -7,47 +7,21 @@ slug: "sdk-for-flutter-navigate-mapview-mapcameraupdatefactory-lookatpointwithge
 `
 <div class="sdk-for-flutter">
 <!-- lookAtPointWithGeoOrientationAndMeasure.html -->
-<div class="doc-with-sidebar"><div class="doc-content">
-<div id="overlay-under-drawer"></div>
-<header id="title">
-menu
-<ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-navigate</li>
-<li>/sdk-for-flutter-navigate-mapview-mapview-library</li>
-<li>/sdk-for-flutter-navigate-mapview-mapcameraupdatefactory-class</li>
-<li class="self-crumb">lookAtPointWithGeoOrientationAndMeasure static method</li>
-</ol>
-<div class="self-name">lookAtPointWithGeoOrientationAndMeasure</div>
-<form class="search navbar-right" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-box" placeholder="Loading search..." type="text"/>
-</form>
-<div class="toggle" id="theme-button" title="Toggle brightness">
-<label for="theme">
-<input id="theme" type="checkbox" value="light-theme"/>
 
-        dark_mode
-      
 
-        light_mode
-      
-</label>
-</div>
-</header>
-<main>
-<div class="main-content" data-above-sidebar="mapview/MapCameraUpdateFactory-class-sidebar.html" data-below-sidebar="" id="dartdoc-main-content">
 <div>
 <h1>lookAtPointWithGeoOrientationAndMeasure static method</h1></div>
-<section class="multi-line-signature">
-/sdk-for-flutter-navigate-mapview-mapcameraupdate-class
-lookAtPointWithGeoOrientationAndMeasure(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-navigate-core-geocoordinatesupdate-class target, </li>
-<li>/sdk-for-flutter-navigate-core-geoorientationupdate-class orientation, </li>
-<li>/sdk-for-flutter-navigate-mapview-mapmeasure-class measure</li>
+
+<a href="/sdk-for-flutter-navigate-mapview-mapcameraupdate-class">MapCameraUpdate</a>
+lookAtPointWithGeoOrientationAndMeasure(<ol class="parameter-list single-line"> <li><a href="/sdk-for-flutter-navigate-core-geocoordinatesupdate-class">GeoCoordinatesUpdate</a> target, </li>
+<li><a href="/sdk-for-flutter-navigate-core-geoorientationupdate-class">GeoOrientationUpdate</a> orientation, </li>
+<li><a href="/sdk-for-flutter-navigate-mapview-mapmeasure-class">MapMeasure</a> measure</li>
 </ol>)
 
       
 
-    </section>
-<section class="desc markdown">
+    
+
 <p>Creates an update to position the map camera to look at the given target with the given
 orientation and map measure.</p>
 <p>Any target or orientation sub-element value that is not finite will be excluded from the update.
@@ -65,38 +39,16 @@ will consider the target point as being located on the ground.</p>
 <p><code>measure</code> The desired map measure.</p>
 </li>
 </ul>
-<p>Returns /sdk-for-flutter-navigate-mapview-mapcameraupdate-class. MapCameraUpdate instance.</p>
-</section>
-<section class="summary source-code" id="source">
+<p>Returns <a href="/sdk-for-flutter-navigate-mapview-mapcameraupdate-class">MapCameraUpdate</a>. MapCameraUpdate instance.</p>
+
+
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">static MapCameraUpdate lookAtPointWithGeoOrientationAndMeasure(GeoCoordinatesUpdate target, GeoOrientationUpdate orientation, MapMeasure measure) =&gt; $prototype.lookAtPointWithGeoOrientationAndMeasure(target, orientation, measure);</code></pre>
-</section>
-</div>
-<div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-<header class="hidden-l" id="header-search-sidebar">
-<form class="search-sidebar" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
-</form>
-</header>
-<ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-navigate</li>
-<li>/sdk-for-flutter-navigate-mapview-mapview-library</li>
-<li>/sdk-for-flutter-navigate-mapview-mapcameraupdatefactory-class</li>
-<li class="self-crumb">lookAtPointWithGeoOrientationAndMeasure static method</li>
-</ol>
-<h5>MapCameraUpdateFactory class</h5>
-<div id="dartdoc-sidebar-left-content"></div>
-</div>
-<div class="sidebar sidebar-offcanvas-right" id="dartdoc-sidebar-right">
-</div>
-</main>
-<footer>
 
-    here_sdk
-      4.26.0
-  
-</footer>
-</div></div>
+ 
+
+
+
 </div>
 `
 }</HTMLBlock>

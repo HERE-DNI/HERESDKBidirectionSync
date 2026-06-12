@@ -7,53 +7,27 @@ slug: "sdk-for-flutter-navigate-search-offlinesearchengine-suggestbyaddresseleme
 `
 <div class="sdk-for-flutter">
 <!-- suggestByAddressElements.html -->
-<div class="doc-with-sidebar"><div class="doc-content">
-<div id="overlay-under-drawer"></div>
-<header id="title">
-menu
-<ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-navigate</li>
-<li>/sdk-for-flutter-navigate-search-search-library</li>
-<li>/sdk-for-flutter-navigate-search-offlinesearchengine-class</li>
-<li class="self-crumb">suggestByAddressElements abstract method</li>
-</ol>
-<div class="self-name">suggestByAddressElements</div>
-<form class="search navbar-right" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-box" placeholder="Loading search..." type="text"/>
-</form>
-<div class="toggle" id="theme-button" title="Toggle brightness">
-<label for="theme">
-<input id="theme" type="checkbox" value="light-theme"/>
 
-        dark_mode
-      
 
-        light_mode
-      
-</label>
-</div>
-</header>
-<main>
-<div class="main-content" data-above-sidebar="search/OfflineSearchEngine-class-sidebar.html" data-below-sidebar="" id="dartdoc-main-content">
 <div>
 <h1>suggestByAddressElements abstract method</h1></div>
-<section class="multi-line-signature">
-/sdk-for-flutter-navigate-core-threading-taskhandle-class
-suggestByAddressElements(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-navigate-search-structuredquery-class query, </li>
-<li>/sdk-for-flutter-navigate-search-searchoptions-class options, </li>
-<li>/sdk-for-flutter-navigate-search-suggestcallback callback</li>
+
+<a href="/sdk-for-flutter-navigate-core-threading-taskhandle-class">TaskHandle</a>
+suggestByAddressElements(<ol class="parameter-list single-line"> <li><a href="/sdk-for-flutter-navigate-search-structuredquery-class">StructuredQuery</a> query, </li>
+<li><a href="/sdk-for-flutter-navigate-search-searchoptions-class">SearchOptions</a> options, </li>
+<li><a href="/sdk-for-flutter-navigate-search-suggestcallback">SuggestCallback</a> callback</li>
 </ol>)
 
       
 
-    </section>
-<section class="desc markdown">
-<p>Performs an asynchronous request to suggest places for a /sdk-for-flutter-navigate-search-structuredquery-class built with address elements and
+    
+
+<p>Performs an asynchronous request to suggest places for a <a href="/sdk-for-flutter-navigate-search-structuredquery-class">StructuredQuery</a> built with address elements and
 returns candidate suggestions sorted by relevance.</p>
 <p>For example, when user wants suggestions of type street for a text query <code>Invalidenstraße</code> in <code>Berlin</code>, it can be searched
-by preparing /sdk-for-flutter-navigate-search-structuredquery-class providing /sdk-for-flutter-navigate-search-structuredquery-query as <code>Invalidenstraße</code>,
-/sdk-for-flutter-navigate-search-structuredquery-areacenter, /sdk-for-flutter-navigate-search-structuredqueryaddresselements-country as <code>Germany</code>,
-/sdk-for-flutter-navigate-search-structuredqueryaddresselements-city as <code>Berlin</code> and /sdk-for-flutter-navigate-search-structuredqueryresulttype as <code>STREET</code>.
+by preparing <a href="/sdk-for-flutter-navigate-search-structuredquery-class">StructuredQuery</a> providing <a href="/sdk-for-flutter-navigate-search-structuredquery-query">StructuredQuery.query</a> as <code>Invalidenstraße</code>,
+<a href="/sdk-for-flutter-navigate-search-structuredquery-areacenter">StructuredQuery.areaCenter</a>, <a href="/sdk-for-flutter-navigate-search-structuredqueryaddresselements-country">StructuredQueryAddressElements.country</a> as <code>Germany</code>,
+<a href="/sdk-for-flutter-navigate-search-structuredqueryaddresselements-city">StructuredQueryAddressElements.city</a> as <code>Berlin</code> and <a href="/sdk-for-flutter-navigate-search-structuredqueryresulttype">StructuredQueryResultType</a> as <code>STREET</code>.
 The suggestions will be presented only from the given geographical area.</p>
 <p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
 Related APIs may change for new releases without a deprecation process.</p>
@@ -68,38 +42,16 @@ Related APIs may change for new releases without a deprecation process.</p>
 <p><code>callback</code> Callback which receives the result on the main thread.</p>
 </li>
 </ul>
-<p>Returns /sdk-for-flutter-navigate-core-threading-taskhandle-class. Handle that will be used to manipulate the execution of the task.</p>
-</section>
-<section class="summary source-code" id="source">
+<p>Returns <a href="/sdk-for-flutter-navigate-core-threading-taskhandle-class">TaskHandle</a>. Handle that will be used to manipulate the execution of the task.</p>
+
+
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">TaskHandle suggestByAddressElements(StructuredQuery query, SearchOptions options, SuggestCallback callback);</code></pre>
-</section>
-</div>
-<div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-<header class="hidden-l" id="header-search-sidebar">
-<form class="search-sidebar" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
-</form>
-</header>
-<ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-navigate</li>
-<li>/sdk-for-flutter-navigate-search-search-library</li>
-<li>/sdk-for-flutter-navigate-search-offlinesearchengine-class</li>
-<li class="self-crumb">suggestByAddressElements abstract method</li>
-</ol>
-<h5>OfflineSearchEngine class</h5>
-<div id="dartdoc-sidebar-left-content"></div>
-</div>
-<div class="sidebar sidebar-offcanvas-right" id="dartdoc-sidebar-right">
-</div>
-</main>
-<footer>
 
-    here_sdk
-      4.26.0
-  
-</footer>
-</div></div>
+ 
+
+
+
 </div>
 `
 }</HTMLBlock>

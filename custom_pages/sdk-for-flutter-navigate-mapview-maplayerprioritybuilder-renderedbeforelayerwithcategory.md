@@ -7,50 +7,24 @@ slug: "sdk-for-flutter-navigate-mapview-maplayerprioritybuilder-renderedbeforela
 `
 <div class="sdk-for-flutter">
 <!-- renderedBeforeLayerWithCategory.html -->
-<div class="doc-with-sidebar"><div class="doc-content">
-<div id="overlay-under-drawer"></div>
-<header id="title">
-menu
-<ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-navigate</li>
-<li>/sdk-for-flutter-navigate-mapview-mapview-library</li>
-<li>/sdk-for-flutter-navigate-mapview-maplayerprioritybuilder-class</li>
-<li class="self-crumb">renderedBeforeLayerWithCategory abstract method</li>
-</ol>
-<div class="self-name">renderedBeforeLayerWithCategory</div>
-<form class="search navbar-right" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-box" placeholder="Loading search..." type="text"/>
-</form>
-<div class="toggle" id="theme-button" title="Toggle brightness">
-<label for="theme">
-<input id="theme" type="checkbox" value="light-theme"/>
 
-        dark_mode
-      
 
-        light_mode
-      
-</label>
-</div>
-</header>
-<main>
-<div class="main-content" data-above-sidebar="mapview/MapLayerPriorityBuilder-class-sidebar.html" data-below-sidebar="" id="dartdoc-main-content">
 <div>
 <h1>renderedBeforeLayerWithCategory abstract method</h1></div>
-<section class="multi-line-signature">
-/sdk-for-flutter-navigate-mapview-maplayerprioritybuilder-class
-renderedBeforeLayerWithCategory(<wbr/><ol class="parameter-list single-line"> <li>String referenceLayer, </li>
+
+<a href="/sdk-for-flutter-navigate-mapview-maplayerprioritybuilder-class">MapLayerPriorityBuilder</a>
+renderedBeforeLayerWithCategory(<ol class="parameter-list single-line"> <li>String referenceLayer, </li>
 <li>String referenceCategory</li>
 </ol>)
 
       
 
-    </section>
-<section class="desc markdown">
+    
+
 <p>Sets the priority as rendered before the referenceCategory of the referenceLayer.</p>
 <p>Applies to the
 layer itself or the category pointed to by the preceding call to
-/sdk-for-flutter-navigate-mapview-maplayerprioritybuilder-withcategory.
+<a href="/sdk-for-flutter-navigate-mapview-maplayerprioritybuilder-withcategory">MapLayerPriorityBuilder.withCategory</a>.
 Notice that the order of calls to the functions
 <code>renderedFirst|Last|Before|After</code>
 matters, and that after such a call the builder clears the current category and refers again to
@@ -70,38 +44,16 @@ the priority as rendered before all layers and categories.</p>
 <p><code>referenceCategory</code> The beforehand defined category name which renders directly after the current layer.</p>
 </li>
 </ul>
-<p>Returns /sdk-for-flutter-navigate-mapview-maplayerprioritybuilder-class. This class instance.</p>
-</section>
-<section class="summary source-code" id="source">
+<p>Returns <a href="/sdk-for-flutter-navigate-mapview-maplayerprioritybuilder-class">MapLayerPriorityBuilder</a>. This class instance.</p>
+
+
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">MapLayerPriorityBuilder renderedBeforeLayerWithCategory(String referenceLayer, String referenceCategory);</code></pre>
-</section>
-</div>
-<div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-<header class="hidden-l" id="header-search-sidebar">
-<form class="search-sidebar" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
-</form>
-</header>
-<ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-navigate</li>
-<li>/sdk-for-flutter-navigate-mapview-mapview-library</li>
-<li>/sdk-for-flutter-navigate-mapview-maplayerprioritybuilder-class</li>
-<li class="self-crumb">renderedBeforeLayerWithCategory abstract method</li>
-</ol>
-<h5>MapLayerPriorityBuilder class</h5>
-<div id="dartdoc-sidebar-left-content"></div>
-</div>
-<div class="sidebar sidebar-offcanvas-right" id="dartdoc-sidebar-right">
-</div>
-</main>
-<footer>
 
-    here_sdk
-      4.26.0
-  
-</footer>
-</div></div>
+ 
+
+
+
 </div>
 `
 }</HTMLBlock>

@@ -7,46 +7,20 @@ slug: "sdk-for-flutter-navigate-navigation-maneuvernotificationtimingoptions-ran
 `
 <div class="sdk-for-flutter">
 <!-- rangeNotificationTimeInSeconds.html -->
-<div class="doc-with-sidebar"><div class="doc-content">
-<div id="overlay-under-drawer"></div>
-<header id="title">
-menu
-<ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-navigate</li>
-<li>/sdk-for-flutter-navigate-navigation-navigation-library</li>
-<li>/sdk-for-flutter-navigate-navigation-maneuvernotificationtimingoptions-class</li>
-<li class="self-crumb">rangeNotificationTimeInSeconds property</li>
-</ol>
-<div class="self-name">rangeNotificationTimeInSeconds</div>
-<form class="search navbar-right" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-box" placeholder="Loading search..." type="text"/>
-</form>
-<div class="toggle" id="theme-button" title="Toggle brightness">
-<label for="theme">
-<input id="theme" type="checkbox" value="light-theme"/>
 
-        dark_mode
-      
 
-        light_mode
-      
-</label>
-</div>
-</header>
-<main>
-<div class="main-content" data-above-sidebar="navigation/ManeuverNotificationTimingOptions-class-sidebar.html" data-below-sidebar="" id="dartdoc-main-content">
 <div>
 <h1>rangeNotificationTimeInSeconds property</h1></div>
-<section class="multi-line-signature">
+
         
         int
         rangeNotificationTimeInSeconds
 <div class="features">getter/setter pair</div>
-</section>
-<section class="desc markdown">
-<p>The default time setting for /sdk-for-flutter-navigate-navigation-maneuvernotificationtype notification. A configuration value of 0 is only allowed for
-/sdk-for-flutter-navigate-navigation-maneuvernotificationtimingoptions-rangenotificationdistanceinmeters and /sdk-for-flutter-navigate-navigation-maneuvernotificationtimingoptions-rangenotificationtimeinseconds. It means that the maneuver notifications of type
-/sdk-for-flutter-navigate-navigation-maneuvernotificationtype should be generated as soon as the maneuver location is known - no matter how far away it may be.</p>
+
+
+<p>The default time setting for <a href="/sdk-for-flutter-navigate-navigation-maneuvernotificationtype">ManeuverNotificationType.range</a> notification. A configuration value of 0 is only allowed for
+<a href="/sdk-for-flutter-navigate-navigation-maneuvernotificationtimingoptions-rangenotificationdistanceinmeters">ManeuverNotificationTimingOptions.rangeNotificationDistanceInMeters</a> and <a href="/sdk-for-flutter-navigate-navigation-maneuvernotificationtimingoptions-rangenotificationtimeinseconds">ManeuverNotificationTimingOptions.rangeNotificationTimeInSeconds</a>. It means that the maneuver notifications of type
+<a href="/sdk-for-flutter-navigate-navigation-maneuvernotificationtype">ManeuverNotificationType.range</a> should be generated as soon as the maneuver location is known - no matter how far away it may be.</p>
 <table>
 <thead>
 <tr>
@@ -57,68 +31,46 @@ menu
 </thead>
 <tbody>
 <tr>
-<td>/sdk-for-flutter-navigate-transport-transportmode</td>
-<td>/sdk-for-flutter-navigate-navigation-timingprofile</td>
+<td><a href="/sdk-for-flutter-navigate-transport-transportmode">TransportMode.pedestrian</a></td>
+<td><a href="/sdk-for-flutter-navigate-navigation-timingprofile">TimingProfile.fastSpeed</a></td>
 <td>0</td>
 </tr>
 <tr>
-<td>/sdk-for-flutter-navigate-transport-transportmode</td>
-<td>/sdk-for-flutter-navigate-navigation-timingprofile</td>
+<td><a href="/sdk-for-flutter-navigate-transport-transportmode">TransportMode.pedestrian</a></td>
+<td><a href="/sdk-for-flutter-navigate-navigation-timingprofile">TimingProfile.regularSpeed</a></td>
 <td>0</td>
 </tr>
 <tr>
-<td>/sdk-for-flutter-navigate-transport-transportmode</td>
-<td>/sdk-for-flutter-navigate-navigation-timingprofile</td>
-<td>0</td>
-</tr>
-<tr>
-<td>Others</td>
-<td>/sdk-for-flutter-navigate-navigation-timingprofile</td>
+<td><a href="/sdk-for-flutter-navigate-transport-transportmode">TransportMode.pedestrian</a></td>
+<td><a href="/sdk-for-flutter-navigate-navigation-timingprofile">TimingProfile.slowSpeed</a></td>
 <td>0</td>
 </tr>
 <tr>
 <td>Others</td>
-<td>/sdk-for-flutter-navigate-navigation-timingprofile</td>
+<td><a href="/sdk-for-flutter-navigate-navigation-timingprofile">TimingProfile.fastSpeed</a></td>
 <td>0</td>
 </tr>
 <tr>
 <td>Others</td>
-<td>/sdk-for-flutter-navigate-navigation-timingprofile</td>
+<td><a href="/sdk-for-flutter-navigate-navigation-timingprofile">TimingProfile.regularSpeed</a></td>
+<td>0</td>
+</tr>
+<tr>
+<td>Others</td>
+<td><a href="/sdk-for-flutter-navigate-navigation-timingprofile">TimingProfile.slowSpeed</a></td>
 <td>0</td>
 </tr>
 </tbody>
 </table>
-</section>
-<section class="summary source-code" id="source">
+
+
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">int rangeNotificationTimeInSeconds;</code></pre>
-</section>
-</div>
-<div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-<header class="hidden-l" id="header-search-sidebar">
-<form class="search-sidebar" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
-</form>
-</header>
-<ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-navigate</li>
-<li>/sdk-for-flutter-navigate-navigation-navigation-library</li>
-<li>/sdk-for-flutter-navigate-navigation-maneuvernotificationtimingoptions-class</li>
-<li class="self-crumb">rangeNotificationTimeInSeconds property</li>
-</ol>
-<h5>ManeuverNotificationTimingOptions class</h5>
-<div id="dartdoc-sidebar-left-content"></div>
-</div>
-<div class="sidebar sidebar-offcanvas-right" id="dartdoc-sidebar-right">
-</div>
-</main>
-<footer>
 
-    here_sdk
-      4.26.0
-  
-</footer>
-</div></div>
+ 
+
+
+
 </div>
 `
 }</HTMLBlock>

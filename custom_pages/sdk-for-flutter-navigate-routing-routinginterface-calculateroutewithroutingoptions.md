@@ -7,47 +7,21 @@ slug: "sdk-for-flutter-navigate-routing-routinginterface-calculateroutewithrouti
 `
 <div class="sdk-for-flutter">
 <!-- calculateRouteWithRoutingOptions.html -->
-<div class="doc-with-sidebar"><div class="doc-content">
-<div id="overlay-under-drawer"></div>
-<header id="title">
-menu
-<ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-navigate</li>
-<li>/sdk-for-flutter-navigate-routing-routing-library</li>
-<li>/sdk-for-flutter-navigate-routing-routinginterface-class</li>
-<li class="self-crumb">calculateRouteWithRoutingOptions abstract method</li>
-</ol>
-<div class="self-name">calculateRouteWithRoutingOptions</div>
-<form class="search navbar-right" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-box" placeholder="Loading search..." type="text"/>
-</form>
-<div class="toggle" id="theme-button" title="Toggle brightness">
-<label for="theme">
-<input id="theme" type="checkbox" value="light-theme"/>
 
-        dark_mode
-      
 
-        light_mode
-      
-</label>
-</div>
-</header>
-<main>
-<div class="main-content" data-above-sidebar="routing/RoutingInterface-class-sidebar.html" data-below-sidebar="" id="dartdoc-main-content">
 <div>
 <h1>calculateRouteWithRoutingOptions abstract method</h1></div>
-<section class="multi-line-signature">
-/sdk-for-flutter-navigate-core-threading-taskhandle-class
-calculateRouteWithRoutingOptions(<wbr/><ol class="parameter-list single-line"> <li>List&lt;<wbr/>/sdk-for-flutter-navigate-routing-waypoint-class&gt; waypoints, </li>
-<li>/sdk-for-flutter-navigate-routing-routingoptions-class options, </li>
-<li>/sdk-for-flutter-navigate-routing-calculateroutecallback callback</li>
+
+<a href="/sdk-for-flutter-navigate-core-threading-taskhandle-class">TaskHandle</a>
+calculateRouteWithRoutingOptions(<ol class="parameter-list single-line"> <li>List&lt;<a href="/sdk-for-flutter-navigate-routing-waypoint-class">Waypoint</a>&gt; waypoints, </li>
+<li><a href="/sdk-for-flutter-navigate-routing-routingoptions-class">RoutingOptions</a> options, </li>
+<li><a href="/sdk-for-flutter-navigate-routing-calculateroutecallback">CalculateRouteCallback</a> callback</li>
 </ol>)
 
       
 
-    </section>
-<section class="desc markdown">
+    
+
 <p>Asynchronously calculates a route from one point to another,
 passing through the given waypoints in the given order.</p>
 <ul>
@@ -55,9 +29,9 @@ passing through the given waypoints in the given order.</p>
 The first element marks the starting position, the last marks the destination.
 Waypoints in between are interpreted as intermediate.</li>
 </ul>
-<p>An /sdk-for-flutter-navigate-routing-routingerror error is generated when the waypoint list
+<p>An <a href="/sdk-for-flutter-navigate-routing-routingerror">RoutingError.invalidParameter</a> error is generated when the waypoint list
 contains less than two elements or when the first and the last waypoints are not of type
-/sdk-for-flutter-navigate-routing-waypointtype.</p>
+<a href="/sdk-for-flutter-navigate-routing-waypointtype">WaypointType.stopover</a>.</p>
 <ul>
 <li>
 <p><code>options</code> Options describing routing options.</p>
@@ -67,38 +41,16 @@ contains less than two elements or when the first and the last waypoints are not
 It is always invoked on the main thread.</p>
 </li>
 </ul>
-<p>Returns /sdk-for-flutter-navigate-core-threading-taskhandle-class. Handle that will be used to manipulate the execution of the task.</p>
-</section>
-<section class="summary source-code" id="source">
+<p>Returns <a href="/sdk-for-flutter-navigate-core-threading-taskhandle-class">TaskHandle</a>. Handle that will be used to manipulate the execution of the task.</p>
+
+
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">TaskHandle calculateRouteWithRoutingOptions(List&lt;Waypoint&gt; waypoints, RoutingOptions options, CalculateRouteCallback callback);</code></pre>
-</section>
-</div>
-<div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-<header class="hidden-l" id="header-search-sidebar">
-<form class="search-sidebar" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
-</form>
-</header>
-<ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-navigate</li>
-<li>/sdk-for-flutter-navigate-routing-routing-library</li>
-<li>/sdk-for-flutter-navigate-routing-routinginterface-class</li>
-<li class="self-crumb">calculateRouteWithRoutingOptions abstract method</li>
-</ol>
-<h5>RoutingInterface class</h5>
-<div id="dartdoc-sidebar-left-content"></div>
-</div>
-<div class="sidebar sidebar-offcanvas-right" id="dartdoc-sidebar-right">
-</div>
-</main>
-<footer>
 
-    here_sdk
-      4.26.0
-  
-</footer>
-</div></div>
+ 
+
+
+
 </div>
 `
 }</HTMLBlock>

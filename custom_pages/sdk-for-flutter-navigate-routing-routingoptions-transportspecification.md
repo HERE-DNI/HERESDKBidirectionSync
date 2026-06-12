@@ -7,92 +7,44 @@ slug: "sdk-for-flutter-navigate-routing-routingoptions-transportspecification"
 `
 <div class="sdk-for-flutter">
 <!-- transportSpecification.html -->
-<div class="doc-with-sidebar"><div class="doc-content">
-<div id="overlay-under-drawer"></div>
-<header id="title">
-menu
-<ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-navigate</li>
-<li>/sdk-for-flutter-navigate-routing-routing-library</li>
-<li>/sdk-for-flutter-navigate-routing-routingoptions-class</li>
-<li class="self-crumb">transportSpecification property</li>
-</ol>
-<div class="self-name">transportSpecification</div>
-<form class="search navbar-right" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-box" placeholder="Loading search..." type="text"/>
-</form>
-<div class="toggle" id="theme-button" title="Toggle brightness">
-<label for="theme">
-<input id="theme" type="checkbox" value="light-theme"/>
 
-        dark_mode
-      
 
-        light_mode
-      
-</label>
-</div>
-</header>
-<main>
-<div class="main-content" data-above-sidebar="routing/RoutingOptions-class-sidebar.html" data-below-sidebar="" id="dartdoc-main-content">
 <div>
 <h1>transportSpecification property</h1></div>
-<section class="multi-line-signature">
-/sdk-for-flutter-navigate-transport-transportspecification-class
+
+<a href="/sdk-for-flutter-navigate-transport-transportspecification-class">TransportSpecification</a>
 transportSpecification
 <div class="features">getter/setter pair</div>
-</section>
-<section class="desc markdown">
+
+
 <p>Defines the transport specification which contains the transport mode and the vehicle specifications
 for the transport mode chosen.
 <strong>Notes:</strong></p>
 <ul>
-<li>The transport mode /sdk-for-flutter-navigate-transport-transportmode is not supported.</li>
-<li>By default all vehicle specifications from /sdk-for-flutter-navigate-routing-routingoptions-transportspecification are set to <code>null</code> and the
-/sdk-for-flutter-navigate-transport-transportspecification-transportmode from /sdk-for-flutter-navigate-routing-routingoptions-transportspecification is set to /sdk-for-flutter-navigate-transport-transportmode.</li>
-<li>A route can be calculated with only the /sdk-for-flutter-navigate-transport-transportspecification-transportmode from /sdk-for-flutter-navigate-routing-routingoptions-transportspecification set.</li>
-<li>It is highly recommended to define the /sdk-for-flutter-navigate-transport-truckcategory that is being used in /sdk-for-flutter-navigate-transport-vehiclespecification-truckcategory from
-/sdk-for-flutter-navigate-transport-transportspecification-vehiclespecification from /sdk-for-flutter-navigate-routing-routingoptions-transportspecification, if the
-/sdk-for-flutter-navigate-transport-transportspecification-transportmode from /sdk-for-flutter-navigate-routing-routingoptions-transportspecification is set to /sdk-for-flutter-navigate-transport-transportmode.</li>
-<li>The /sdk-for-flutter-navigate-transport-vehiclespecification-occupancy from /sdk-for-flutter-navigate-transport-transportspecification-vehiclespecification won't have effect
-if HOV and/or HOT lane usage is not allowed using /sdk-for-flutter-navigate-routing-evtruckoptions-allowoptions.</li>
-<li>The /sdk-for-flutter-navigate-transport-pedestrianspecification-walkingspeedinmeterspersecond from /sdk-for-flutter-navigate-transport-transportspecification-pedestrianspecification
+<li>The transport mode <a href="/sdk-for-flutter-navigate-transport-transportmode">TransportMode.publicTransit</a> is not supported.</li>
+<li>By default all vehicle specifications from <a href="/sdk-for-flutter-navigate-routing-routingoptions-transportspecification">RoutingOptions.transportSpecification</a> are set to <code>null</code> and the
+<a href="/sdk-for-flutter-navigate-transport-transportspecification-transportmode">TransportSpecification.transportMode</a> from <a href="/sdk-for-flutter-navigate-routing-routingoptions-transportspecification">RoutingOptions.transportSpecification</a> is set to <a href="/sdk-for-flutter-navigate-transport-transportmode">TransportMode.car</a>.</li>
+<li>A route can be calculated with only the <a href="/sdk-for-flutter-navigate-transport-transportspecification-transportmode">TransportSpecification.transportMode</a> from <a href="/sdk-for-flutter-navigate-routing-routingoptions-transportspecification">RoutingOptions.transportSpecification</a> set.</li>
+<li>It is highly recommended to define the <a href="/sdk-for-flutter-navigate-transport-truckcategory">TruckCategory</a> that is being used in <a href="/sdk-for-flutter-navigate-transport-vehiclespecification-truckcategory">VehicleSpecification.truckCategory</a> from
+<a href="/sdk-for-flutter-navigate-transport-transportspecification-vehiclespecification">TransportSpecification.vehicleSpecification</a> from <a href="/sdk-for-flutter-navigate-routing-routingoptions-transportspecification">RoutingOptions.transportSpecification</a>, if the
+<a href="/sdk-for-flutter-navigate-transport-transportspecification-transportmode">TransportSpecification.transportMode</a> from <a href="/sdk-for-flutter-navigate-routing-routingoptions-transportspecification">RoutingOptions.transportSpecification</a> is set to <a href="/sdk-for-flutter-navigate-transport-transportmode">TransportMode.truck</a>.</li>
+<li>The <a href="/sdk-for-flutter-navigate-transport-vehiclespecification-occupancy">VehicleSpecification.occupancy</a> from <a href="/sdk-for-flutter-navigate-transport-transportspecification-vehiclespecification">TransportSpecification.vehicleSpecification</a> won't have effect
+if HOV and/or HOT lane usage is not allowed using <a href="/sdk-for-flutter-navigate-routing-evtruckoptions-allowoptions">EVTruckOptions.allowOptions</a>.</li>
+<li>The <a href="/sdk-for-flutter-navigate-transport-pedestrianspecification-walkingspeedinmeterspersecond">PedestrianSpecification.walkingSpeedInMetersPerSecond</a> from <a href="/sdk-for-flutter-navigate-transport-transportspecification-pedestrianspecification">TransportSpecification.pedestrianSpecification</a>
 if present, will be used by the service as the walking speed for pedestrian routing. It influences the duration of walking
 along the route. The provided value must be in the range [0.5, 2.0]. When the value is outside this
-range, an invalid parameter error is raised. Refer to /sdk-for-flutter-navigate-routing-routingerror for details. The
+range, an invalid parameter error is raised. Refer to <a href="/sdk-for-flutter-navigate-routing-routingerror">RoutingError</a> for details. The
 default speed is 1 meter per second.</li>
 </ul>
-</section>
-<section class="summary source-code" id="source">
+
+
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">TransportSpecification transportSpecification;</code></pre>
-</section>
-</div>
-<div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-<header class="hidden-l" id="header-search-sidebar">
-<form class="search-sidebar" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
-</form>
-</header>
-<ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-navigate</li>
-<li>/sdk-for-flutter-navigate-routing-routing-library</li>
-<li>/sdk-for-flutter-navigate-routing-routingoptions-class</li>
-<li class="self-crumb">transportSpecification property</li>
-</ol>
-<h5>RoutingOptions class</h5>
-<div id="dartdoc-sidebar-left-content"></div>
-</div>
-<div class="sidebar sidebar-offcanvas-right" id="dartdoc-sidebar-right">
-</div>
-</main>
-<footer>
 
-    here_sdk
-      4.26.0
-  
-</footer>
-</div></div>
+ 
+
+
+
 </div>
 `
 }</HTMLBlock>

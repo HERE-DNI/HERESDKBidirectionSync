@@ -7,93 +7,45 @@ slug: "sdk-for-flutter-navigate-mapview-trianglemeshbuilder-withtexturecoordinat
 `
 <div class="sdk-for-flutter">
 <!-- withTextureCoordinates.html -->
-<div class="doc-with-sidebar"><div class="doc-content">
-<div id="overlay-under-drawer"></div>
-<header id="title">
-menu
-<ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-navigate</li>
-<li>/sdk-for-flutter-navigate-mapview-mapview-library</li>
-<li>/sdk-for-flutter-navigate-mapview-trianglemeshbuilder-class</li>
-<li class="self-crumb">withTextureCoordinates abstract method</li>
-</ol>
-<div class="self-name">withTextureCoordinates</div>
-<form class="search navbar-right" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-box" placeholder="Loading search..." type="text"/>
-</form>
-<div class="toggle" id="theme-button" title="Toggle brightness">
-<label for="theme">
-<input id="theme" type="checkbox" value="light-theme"/>
 
-        dark_mode
-      
 
-        light_mode
-      
-</label>
-</div>
-</header>
-<main>
-<div class="main-content" data-above-sidebar="mapview/TriangleMeshBuilder-class-sidebar.html" data-below-sidebar="" id="dartdoc-main-content">
 <div>
 <h1>withTextureCoordinates abstract method</h1></div>
-<section class="multi-line-signature">
-/sdk-for-flutter-navigate-mapview-meshbuilder-class
-withTextureCoordinates(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-navigate-core-anchor2d-class a, </li>
-<li>/sdk-for-flutter-navigate-core-anchor2d-class b, </li>
-<li>/sdk-for-flutter-navigate-core-anchor2d-class c</li>
+
+<a href="/sdk-for-flutter-navigate-mapview-meshbuilder-class">MeshBuilder</a>
+withTextureCoordinates(<ol class="parameter-list single-line"> <li><a href="/sdk-for-flutter-navigate-core-anchor2d-class">Anchor2D</a> a, </li>
+<li><a href="/sdk-for-flutter-navigate-core-anchor2d-class">Anchor2D</a> b, </li>
+<li><a href="/sdk-for-flutter-navigate-core-anchor2d-class">Anchor2D</a> c</li>
 </ol>)
 
       
 
-    </section>
-<section class="desc markdown">
+    
+
 <p>Adds texture coordinates to a triangle.</p>
 <p>Coordinates are specified as <code>&lt;u,v&gt;</code> with <code>&lt;0,0&gt;</code>
 representing the bottom-left and <code>&lt;1,1&gt;</code> upper-right corner.</p>
 <ul>
 <li>
-<p><code>a</code> Texture coordinate for vertex a. See /sdk-for-flutter-navigate-mapview-meshbuilder-triangle</p>
+<p><code>a</code> Texture coordinate for vertex a. See <a href="/sdk-for-flutter-navigate-mapview-meshbuilder-triangle">MeshBuilder.triangle</a></p>
 </li>
 <li>
-<p><code>b</code> Texture coordinate for vertex b. See /sdk-for-flutter-navigate-mapview-meshbuilder-triangle</p>
+<p><code>b</code> Texture coordinate for vertex b. See <a href="/sdk-for-flutter-navigate-mapview-meshbuilder-triangle">MeshBuilder.triangle</a></p>
 </li>
 <li>
-<p><code>c</code> Texture coordinate for vertex c. See /sdk-for-flutter-navigate-mapview-meshbuilder-triangle</p>
+<p><code>c</code> Texture coordinate for vertex c. See <a href="/sdk-for-flutter-navigate-mapview-meshbuilder-triangle">MeshBuilder.triangle</a></p>
 </li>
 </ul>
-<p>Returns /sdk-for-flutter-navigate-mapview-meshbuilder-class. A /sdk-for-flutter-navigate-mapview-meshbuilder-class instance.</p>
-</section>
-<section class="summary source-code" id="source">
+<p>Returns <a href="/sdk-for-flutter-navigate-mapview-meshbuilder-class">MeshBuilder</a>. A <a href="/sdk-for-flutter-navigate-mapview-meshbuilder-class">MeshBuilder</a> instance.</p>
+
+
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">MeshBuilder withTextureCoordinates(Anchor2D a, Anchor2D b, Anchor2D c);</code></pre>
-</section>
-</div>
-<div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-<header class="hidden-l" id="header-search-sidebar">
-<form class="search-sidebar" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
-</form>
-</header>
-<ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-navigate</li>
-<li>/sdk-for-flutter-navigate-mapview-mapview-library</li>
-<li>/sdk-for-flutter-navigate-mapview-trianglemeshbuilder-class</li>
-<li class="self-crumb">withTextureCoordinates abstract method</li>
-</ol>
-<h5>TriangleMeshBuilder class</h5>
-<div id="dartdoc-sidebar-left-content"></div>
-</div>
-<div class="sidebar sidebar-offcanvas-right" id="dartdoc-sidebar-right">
-</div>
-</main>
-<footer>
 
-    here_sdk
-      4.26.0
-  
-</footer>
-</div></div>
+ 
+
+
+
 </div>
 `
 }</HTMLBlock>

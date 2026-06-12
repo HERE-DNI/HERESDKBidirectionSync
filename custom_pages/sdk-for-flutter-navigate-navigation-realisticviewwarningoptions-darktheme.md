@@ -7,77 +7,29 @@ slug: "sdk-for-flutter-navigate-navigation-realisticviewwarningoptions-darktheme
 `
 <div class="sdk-for-flutter">
 <!-- darkTheme.html -->
-<div class="doc-with-sidebar"><div class="doc-content">
-<div id="overlay-under-drawer"></div>
-<header id="title">
-menu
-<ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-navigate</li>
-<li>/sdk-for-flutter-navigate-navigation-navigation-library</li>
-<li>/sdk-for-flutter-navigate-navigation-realisticviewwarningoptions-class</li>
-<li class="self-crumb">darkTheme property</li>
-</ol>
-<div class="self-name">darkTheme</div>
-<form class="search navbar-right" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-box" placeholder="Loading search..." type="text"/>
-</form>
-<div class="toggle" id="theme-button" title="Toggle brightness">
-<label for="theme">
-<input id="theme" type="checkbox" value="light-theme"/>
 
-        dark_mode
-      
 
-        light_mode
-      
-</label>
-</div>
-</header>
-<main>
-<div class="main-content" data-above-sidebar="navigation/RealisticViewWarningOptions-class-sidebar.html" data-below-sidebar="" id="dartdoc-main-content">
 <div>
 <h1>darkTheme property</h1></div>
-<section class="multi-line-signature">
+
         
         bool
         darkTheme
 <div class="features">getter/setter pair</div>
-</section>
-<section class="desc markdown">
+
+
 <p>Specifies whether the images included in the realistic view warning will be optimized for the light or dark color
-scheme. This option is applicable only to the /sdk-for-flutter-navigate-navigation-realisticviewwarning-realisticviewvectorimage. For
-/sdk-for-flutter-navigate-navigation-realisticviewwarning-realisticviewrasterimage the dark theme is always <code>false</code>.</p>
-</section>
-<section class="summary source-code" id="source">
+scheme. This option is applicable only to the <a href="/sdk-for-flutter-navigate-navigation-realisticviewwarning-realisticviewvectorimage">RealisticViewWarning.realisticViewVectorImage</a>. For
+<a href="/sdk-for-flutter-navigate-navigation-realisticviewwarning-realisticviewrasterimage">RealisticViewWarning.realisticViewRasterImage</a> the dark theme is always <code>false</code>.</p>
+
+
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">bool darkTheme;</code></pre>
-</section>
-</div>
-<div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-<header class="hidden-l" id="header-search-sidebar">
-<form class="search-sidebar" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
-</form>
-</header>
-<ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-navigate</li>
-<li>/sdk-for-flutter-navigate-navigation-navigation-library</li>
-<li>/sdk-for-flutter-navigate-navigation-realisticviewwarningoptions-class</li>
-<li class="self-crumb">darkTheme property</li>
-</ol>
-<h5>RealisticViewWarningOptions class</h5>
-<div id="dartdoc-sidebar-left-content"></div>
-</div>
-<div class="sidebar sidebar-offcanvas-right" id="dartdoc-sidebar-right">
-</div>
-</main>
-<footer>
 
-    here_sdk
-      4.26.0
-  
-</footer>
-</div></div>
+ 
+
+
+
 </div>
 `
 }</HTMLBlock>

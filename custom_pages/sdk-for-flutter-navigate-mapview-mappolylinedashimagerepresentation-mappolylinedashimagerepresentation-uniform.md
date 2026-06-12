@@ -7,52 +7,26 @@ slug: "sdk-for-flutter-navigate-mapview-mappolylinedashimagerepresentation-mappo
 `
 <div class="sdk-for-flutter">
 <!-- MapPolylineDashImageRepresentation.uniform.html -->
-<div class="doc-with-sidebar"><div class="doc-content">
-<div id="overlay-under-drawer"></div>
-<header id="title">
-menu
-<ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-navigate</li>
-<li>/sdk-for-flutter-navigate-mapview-mapview-library</li>
-<li>/sdk-for-flutter-navigate-mapview-mappolylinedashimagerepresentation-class</li>
-<li class="self-crumb">MapPolylineDashImageRepresentation.uniform factory constructor</li>
-</ol>
-<div class="self-name">MapPolylineDashImageRepresentation.uniform</div>
-<form class="search navbar-right" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-box" placeholder="Loading search..." type="text"/>
-</form>
-<div class="toggle" id="theme-button" title="Toggle brightness">
-<label for="theme">
-<input id="theme" type="checkbox" value="light-theme"/>
 
-        dark_mode
-      
 
-        light_mode
-      
-</label>
-</div>
-</header>
-<main>
-<div class="main-content" data-above-sidebar="mapview/MapPolylineDashImageRepresentation-class-sidebar.html" data-below-sidebar="" id="dartdoc-main-content">
 <div>
 <h1>MapPolylineDashImageRepresentation.uniform constructor</h1></div>
-<section class="multi-line-signature">
-MapPolylineDashImageRepresentation.uniform(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-navigate-mapview-mapmeasuredependentrendersize-class dashLength, </li>
-<li>/sdk-for-flutter-navigate-mapview-mapmeasuredependentrendersize-class dashWidth, </li>
-<li>/sdk-for-flutter-navigate-mapview-mapimage-class image</li>
+
+MapPolylineDashImageRepresentation.uniform(<ol class="parameter-list single-line"> <li><a href="/sdk-for-flutter-navigate-mapview-mapmeasuredependentrendersize-class">MapMeasureDependentRenderSize</a> dashLength, </li>
+<li><a href="/sdk-for-flutter-navigate-mapview-mapmeasuredependentrendersize-class">MapMeasureDependentRenderSize</a> dashWidth, </li>
+<li><a href="/sdk-for-flutter-navigate-mapview-mapimage-class">MapImage</a> image</li>
 </ol>)
-    </section>
-<section class="desc markdown">
+    
+
 <p>Creates a uniform dash pattern in which the length of a gap is the same as the length of
 a dash.</p>
 <p>Dashes are rendered as image.</p>
 <p>This allows for patterns like <code>' — — — —'</code> or <code>'  ——  ——  ——'</code>.</p>
-<p>For /sdk-for-flutter-navigate-mapview-mapmeasuredependentrendersize-class supplied for <code>dashLength</code> and <code>dashWidth</code>,
-only /sdk-for-flutter-navigate-mapview-mapmeasurekind is supported for /sdk-for-flutter-navigate-mapview-mapmeasuredependentrendersize-measurekind
-and only /sdk-for-flutter-navigate-mapview-rendersizeunit is supported for /sdk-for-flutter-navigate-mapview-mapmeasuredependentrendersize-sizeunit.</p>
+<p>For <a href="/sdk-for-flutter-navigate-mapview-mapmeasuredependentrendersize-class">MapMeasureDependentRenderSize</a> supplied for <code>dashLength</code> and <code>dashWidth</code>,
+only <a href="/sdk-for-flutter-navigate-mapview-mapmeasurekind">MapMeasureKind.zoomLevel</a> is supported for <a href="/sdk-for-flutter-navigate-mapview-mapmeasuredependentrendersize-measurekind">MapMeasureDependentRenderSize.measureKind</a>
+and only <a href="/sdk-for-flutter-navigate-mapview-rendersizeunit">RenderSizeUnit.meters</a> is supported for <a href="/sdk-for-flutter-navigate-mapview-mapmeasuredependentrendersize-sizeunit">MapMeasureDependentRenderSize.sizeUnit</a>.</p>
 <p>Only map measure values in range [3-19] are supported.</p>
-<p>The value of the keys in /sdk-for-flutter-navigate-mapview-mapmeasuredependentrendersize-sizes is truncated to integer values,
+<p>The value of the keys in <a href="/sdk-for-flutter-navigate-mapview-mapmeasuredependentrendersize-sizes">MapMeasureDependentRenderSize.sizes</a> is truncated to integer values,
 hence only a single value can be provided per zoom level.</p>
 <p>The values are interpolated linearly between zoom levels.</p>
 <ul>
@@ -66,38 +40,16 @@ hence only a single value can be provided per zoom level.</p>
 <p><code>image</code> Image to be rendered in place of dash space. It is stretched to match <code>dashWidth</code> and <code>dashLength</code>.</p>
 </li>
 </ul>
-<p>Throws /sdk-for-flutter-navigate-mapview-mappolylinerepresentationinstantiationexception-class. In case of invalid input parameters.</p>
-</section>
-<section class="summary source-code" id="source">
+<p>Throws <a href="/sdk-for-flutter-navigate-mapview-mappolylinerepresentationinstantiationexception-class">MapPolylineRepresentationInstantiationException</a>. In case of invalid input parameters.</p>
+
+
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">factory MapPolylineDashImageRepresentation.uniform(MapMeasureDependentRenderSize dashLength, MapMeasureDependentRenderSize dashWidth, MapImage image) =&gt; $prototype.uniform(dashLength, dashWidth, image);</code></pre>
-</section>
-</div>
-<div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-<header class="hidden-l" id="header-search-sidebar">
-<form class="search-sidebar" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
-</form>
-</header>
-<ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-navigate</li>
-<li>/sdk-for-flutter-navigate-mapview-mapview-library</li>
-<li>/sdk-for-flutter-navigate-mapview-mappolylinedashimagerepresentation-class</li>
-<li class="self-crumb">MapPolylineDashImageRepresentation.uniform factory constructor</li>
-</ol>
-<h5>MapPolylineDashImageRepresentation class</h5>
-<div id="dartdoc-sidebar-left-content"></div>
-</div>
-<div class="sidebar sidebar-offcanvas-right" id="dartdoc-sidebar-right">
-</div>
-</main>
-<footer>
 
-    here_sdk
-      4.26.0
-  
-</footer>
-</div></div>
+ 
+
+
+
 </div>
 `
 }</HTMLBlock>

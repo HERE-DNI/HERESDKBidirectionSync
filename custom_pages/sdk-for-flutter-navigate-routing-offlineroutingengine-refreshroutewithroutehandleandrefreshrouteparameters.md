@@ -7,49 +7,23 @@ slug: "sdk-for-flutter-navigate-routing-offlineroutingengine-refreshroutewithrou
 `
 <div class="sdk-for-flutter">
 <!-- refreshRouteWithRouteHandleAndRefreshRouteParameters.html -->
-<div class="doc-with-sidebar"><div class="doc-content">
-<div id="overlay-under-drawer"></div>
-<header id="title">
-menu
-<ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-navigate</li>
-<li>/sdk-for-flutter-navigate-routing-routing-library</li>
-<li>/sdk-for-flutter-navigate-routing-offlineroutingengine-class</li>
-<li class="self-crumb">refreshRouteWithRouteHandleAndRefreshRouteParameters abstract method</li>
-</ol>
-<div class="self-name">refreshRouteWithRouteHandleAndRefreshRouteParameters</div>
-<form class="search navbar-right" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-box" placeholder="Loading search..." type="text"/>
-</form>
-<div class="toggle" id="theme-button" title="Toggle brightness">
-<label for="theme">
-<input id="theme" type="checkbox" value="light-theme"/>
 
-        dark_mode
-      
 
-        light_mode
-      
-</label>
-</div>
-</header>
-<main>
-<div class="main-content" data-above-sidebar="routing/OfflineRoutingEngine-class-sidebar.html" data-below-sidebar="" id="dartdoc-main-content">
 <div>
 <h1>refreshRouteWithRouteHandleAndRefreshRouteParameters abstract method</h1></div>
-<section class="multi-line-signature">
-/sdk-for-flutter-navigate-core-threading-taskhandle-class
-refreshRouteWithRouteHandleAndRefreshRouteParameters(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-navigate-routing-refreshrouteparameters-class refreshRouteParameters, </li>
-<li>/sdk-for-flutter-navigate-routing-routingoptions-class routingOptions, </li>
-<li>/sdk-for-flutter-navigate-routing-calculateroutecallback callback</li>
+
+<a href="/sdk-for-flutter-navigate-core-threading-taskhandle-class">TaskHandle</a>
+refreshRouteWithRouteHandleAndRefreshRouteParameters(<ol class="parameter-list single-line"> <li><a href="/sdk-for-flutter-navigate-routing-refreshrouteparameters-class">RefreshRouteParameters</a> refreshRouteParameters, </li>
+<li><a href="/sdk-for-flutter-navigate-routing-routingoptions-class">RoutingOptions</a> routingOptions, </li>
+<li><a href="/sdk-for-flutter-navigate-routing-calculateroutecallback">CalculateRouteCallback</a> callback</li>
 </ol>)
 
       
 
-    </section>
-<section class="desc markdown">
-<p>Asynchronously refreshes a previously calculated route from the provided /sdk-for-flutter-navigate-routing-routehandle-class, updating
-the starting point and route metadata based on /sdk-for-flutter-navigate-routing-routingoptions-class.</p>
+    
+
+<p>Asynchronously refreshes a previously calculated route from the provided <a href="/sdk-for-flutter-navigate-routing-routehandle-class">RouteHandle</a>, updating
+the starting point and route metadata based on <a href="/sdk-for-flutter-navigate-routing-routingoptions-class">RoutingOptions</a>.</p>
 <p>The route shape from the new
 starting point to the destination remains unchanged, and only metadata such as arrival time and traffic
 delays are updated.</p>
@@ -65,38 +39,16 @@ delays are updated.</p>
 It is always invoked on the main thread.</p>
 </li>
 </ul>
-<p>Returns /sdk-for-flutter-navigate-core-threading-taskhandle-class. Handle that will be used to manipulate the execution of the task.</p>
-</section>
-<section class="summary source-code" id="source">
+<p>Returns <a href="/sdk-for-flutter-navigate-core-threading-taskhandle-class">TaskHandle</a>. Handle that will be used to manipulate the execution of the task.</p>
+
+
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">TaskHandle refreshRouteWithRouteHandleAndRefreshRouteParameters(RefreshRouteParameters refreshRouteParameters, RoutingOptions routingOptions, CalculateRouteCallback callback);</code></pre>
-</section>
-</div>
-<div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-<header class="hidden-l" id="header-search-sidebar">
-<form class="search-sidebar" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
-</form>
-</header>
-<ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-navigate</li>
-<li>/sdk-for-flutter-navigate-routing-routing-library</li>
-<li>/sdk-for-flutter-navigate-routing-offlineroutingengine-class</li>
-<li class="self-crumb">refreshRouteWithRouteHandleAndRefreshRouteParameters abstract method</li>
-</ol>
-<h5>OfflineRoutingEngine class</h5>
-<div id="dartdoc-sidebar-left-content"></div>
-</div>
-<div class="sidebar sidebar-offcanvas-right" id="dartdoc-sidebar-right">
-</div>
-</main>
-<footer>
 
-    here_sdk
-      4.26.0
-  
-</footer>
-</div></div>
+ 
+
+
+
 </div>
 `
 }</HTMLBlock>

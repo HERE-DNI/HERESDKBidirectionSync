@@ -7,43 +7,17 @@ slug: "sdk-for-flutter-navigate-location-locationengine-confirmhereprivacynotice
 `
 <div class="sdk-for-flutter">
 <!-- confirmHEREPrivacyNoticeInclusion.html -->
-<div class="doc-with-sidebar"><div class="doc-content">
-<div id="overlay-under-drawer"></div>
-<header id="title">
-menu
-<ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-navigate</li>
-<li>/sdk-for-flutter-navigate-location-location-library</li>
-<li>/sdk-for-flutter-navigate-location-locationengine-class</li>
-<li class="self-crumb">confirmHEREPrivacyNoticeInclusion method</li>
-</ol>
-<div class="self-name">confirmHEREPrivacyNoticeInclusion</div>
-<form class="search navbar-right" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-box" placeholder="Loading search..." type="text"/>
-</form>
-<div class="toggle" id="theme-button" title="Toggle brightness">
-<label for="theme">
-<input id="theme" type="checkbox" value="light-theme"/>
 
-        dark_mode
-      
 
-        light_mode
-      
-</label>
-</div>
-</header>
-<main>
-<div class="main-content" data-above-sidebar="location/LocationEngine-class-sidebar.html" data-below-sidebar="" id="dartdoc-main-content">
 <div>
 <h1>confirmHEREPrivacyNoticeInclusion method</h1></div>
-<section class="multi-line-signature">
-/sdk-for-flutter-navigate-location-confirmationstatus
-confirmHEREPrivacyNoticeInclusion(<wbr/>)
+
+<a href="/sdk-for-flutter-navigate-location-confirmationstatus">ConfirmationStatus</a>
+confirmHEREPrivacyNoticeInclusion()
 
       <div class="features">override</div>
-</section>
-<section class="desc markdown">
+
+
 <p>On Android devices it is the responsibility of the application developer to ensure that
 the application user is informed about the collection of characteristic information
 regarding nearby mobile and Wi-Fi network signals. Additionally, a link to the related
@@ -74,39 +48,17 @@ will result in the engine being non-functional.</p>
 <ul>
 <li>Immediately returns with <code>ConfirmationStatus.OK</code>.</li>
 </ul>
-<p>On iOS devices this method does nothing and /sdk-for-flutter-navigate-location-confirmationstatus is returned.</p>
-</section>
-<section class="summary source-code" id="source">
+<p>On iOS devices this method does nothing and <a href="/sdk-for-flutter-navigate-location-confirmationstatus">ConfirmationStatus.ok</a> is returned.</p>
+
+
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">ConfirmationStatus confirmHEREPrivacyNoticeInclusion() =&gt;
     _location.confirmHEREPrivacyNoticeInclusion();</code></pre>
-</section>
-</div>
-<div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-<header class="hidden-l" id="header-search-sidebar">
-<form class="search-sidebar" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
-</form>
-</header>
-<ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-navigate</li>
-<li>/sdk-for-flutter-navigate-location-location-library</li>
-<li>/sdk-for-flutter-navigate-location-locationengine-class</li>
-<li class="self-crumb">confirmHEREPrivacyNoticeInclusion method</li>
-</ol>
-<h5>LocationEngine class</h5>
-<div id="dartdoc-sidebar-left-content"></div>
-</div>
-<div class="sidebar sidebar-offcanvas-right" id="dartdoc-sidebar-right">
-</div>
-</main>
-<footer>
 
-    here_sdk
-      4.26.0
-  
-</footer>
-</div></div>
+ 
+
+
+
 </div>
 `
 }</HTMLBlock>

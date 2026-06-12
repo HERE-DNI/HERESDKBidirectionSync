@@ -7,191 +7,36 @@ slug: "sdk-for-flutter-navigate-venue-data-property-class"
 `
 <div class="sdk-for-flutter">
 <!-- Property-class.html -->
-<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
-<li class="section-title"><a href="venue.data/Property-class.html#constructors">Constructors</a></li>
-<li><a href="venue.data/Property/Property.html">Property</a></li>
-<li class="section-title">
-<a href="venue.data/Property-class.html#instance-properties">Properties</a>
-</li>
-<li><a href="venue.data/Property/asBool.html">asBool</a></li>
-<li><a href="venue.data/Property/asInt.html">asInt</a></li>
-<li><a href="venue.data/Property/asString.html">asString</a></li>
-<li class="inherited"><a href="venue.data/Property/hashCode.html">hashCode</a></li>
-<li class="inherited"><a href="venue.data/Property/runtimeType.html">runtimeType</a></li>
-<li><a href="venue.data/Property/type.html">type</a></li>
-<li class="section-title inherited"><a href="venue.data/Property-class.html#instance-methods">Methods</a></li>
-<li class="inherited"><a href="venue.data/Property/noSuchMethod.html">noSuchMethod</a></li>
-<li class="inherited"><a href="venue.data/Property/toString.html">toString</a></li>
-<li class="section-title inherited"><a href="venue.data/Property-class.html#operators">Operators</a></li>
-<li class="inherited"><a href="venue.data/Property/operator_equals.html">operator ==</a></li>
-</ol></div><div class="doc-content">
-<div id="overlay-under-drawer"></div>
-<header id="title">
-menu
-<ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-navigate</li>
-<li>/sdk-for-flutter-navigate-venue-data-venue-data-library</li>
-<li class="self-crumb">Property class</li>
-</ol>
-<div class="self-name">Property</div>
-<form class="search navbar-right" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-box" placeholder="Loading search..." type="text"/>
-</form>
-<div class="toggle" id="theme-button" title="Toggle brightness">
-<label for="theme">
-<input id="theme" type="checkbox" value="light-theme"/>
 
-        dark_mode
-      
 
-        light_mode
-      
-</label>
-</div>
-</header>
-<main>
-<div class="main-content" data-above-sidebar="venue.data/venue.data-library-sidebar.html" data-below-sidebar="venue.data/Property-class-sidebar.html" id="dartdoc-main-content">
 <div>
 <h1>Property class abstract</h1></div>
-<section class="desc markdown">
+
 <p>Holds information of varying types, such as Boolean, Integer, String.</p>
 <p>Properties are used
-in /sdk-for-flutter-navigate-venue-data-venuemodel-class /sdk-for-flutter-navigate-venue-data-venuedrawing-class, /sdk-for-flutter-navigate-venue-data-venuelevel-class
-and /sdk-for-flutter-navigate-venue-data-venuegeometry-class to describe this objects.</p>
-</section>
-<section class="summary offset-anchor" id="constructors">
+in <a href="/sdk-for-flutter-navigate-venue-data-venuemodel-class">VenueModel</a> <a href="/sdk-for-flutter-navigate-venue-data-venuedrawing-class">VenueDrawing</a>, <a href="/sdk-for-flutter-navigate-venue-data-venuelevel-class">VenueLevel</a>
+and <a href="/sdk-for-flutter-navigate-venue-data-venuegeometry-class">VenueGeometry</a> to describe this objects.</p>
+
+
 <h2>Constructors</h2>
-<dl class="constructor-summary-list">
-<dt class="callable" id="Property">
-/sdk-for-flutter-navigate-venue-data-property-property()
-</dt>
-<dd>
-</dd>
-</dl>
-</section>
-<section class="summary offset-anchor" id="instance-properties">
+<ul><li><a href="/sdk-for-flutter-navigate-venue-data-property-property">Property</a></li></ul>
+
+
 <h2>Properties</h2>
-<dl class="properties">
-<dt class="property" id="asBool">
-/sdk-for-flutter-navigate-venue-data-property-asbool
-→ bool
-</dt>
-<dd>
-  The Boolean value.
-Converts the value of the property to a boolean.
-Gets the property as a Boolean value.
-  <div class="features">no setter</div>
-</dd>
-<dt class="property" id="asInt">
-/sdk-for-flutter-navigate-venue-data-property-asint
-→ int
-</dt>
-<dd>
-  The Integer value.
-Converts the value of the property to a Integer.
-Gets the property as an Integer value.
-  <div class="features">no setter</div>
-</dd>
-<dt class="property" id="asString">
-/sdk-for-flutter-navigate-venue-data-property-asstring
-→ String
-</dt>
-<dd>
-  The String value.
-Converts the value of the property to a boolean.
-Gets the property as a String value.
-  <div class="features">no setter</div>
-</dd>
-<dt class="property inherited" id="hashCode">
-/sdk-for-flutter-navigate-venue-data-property-hashcode
-→ int
-</dt>
-<dd class="inherited">
-  The hash code for this object.
-  <div class="features">no setterinherited</div>
-</dd>
-<dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-navigate-venue-data-property-runtimetype
-→ Type
-</dt>
-<dd class="inherited">
-  A representation of the runtime type of the object.
-  <div class="features">no setterinherited</div>
-</dd>
-<dt class="property" id="type">
-/sdk-for-flutter-navigate-venue-data-property-type
-→ /sdk-for-flutter-navigate-venue-data-propertypropertytype
-</dt>
-<dd>
-  The type of the property.
-It can be used to get type of property.
-Gets a type of the property.
-  <div class="features">no setter</div>
-</dd>
-</dl>
-</section>
-<section class="summary offset-anchor inherited" id="instance-methods">
+<ul><li><a href="/sdk-for-flutter-navigate-venue-data-property-asbool">asBool</a></li><li><a href="/sdk-for-flutter-navigate-venue-data-property-asint">asInt</a></li><li><a href="/sdk-for-flutter-navigate-venue-data-property-asstring">asString</a></li><li><a href="/sdk-for-flutter-navigate-venue-data-property-hashcode">hashCode</a></li><li><a href="/sdk-for-flutter-navigate-venue-data-property-runtimetype">runtimeType</a></li><li><a href="/sdk-for-flutter-navigate-venue-data-property-type">type</a></li></ul>
+
+
 <h2>Methods</h2>
-<dl class="callables">
-<dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-navigate-venue-data-property-nosuchmethod(<wbr/>Invocation invocation)
-    → dynamic
+<ul><li><a href="/sdk-for-flutter-navigate-venue-data-property-nosuchmethod">noSuchMethod</a></li><li><a href="/sdk-for-flutter-navigate-venue-data-property-tostring">toString</a></li></ul>
 
-</dt>
-<dd class="inherited">
-  Invoked when a nonexistent method or property is accessed.
-  <div class="features">inherited</div>
-</dd>
-<dt class="callable inherited" id="toString">
-/sdk-for-flutter-navigate-venue-data-property-tostring(<wbr/>)
-    → String
 
-</dt>
-<dd class="inherited">
-  A string representation of this object.
-  <div class="features">inherited</div>
-</dd>
-</dl>
-</section>
-<section class="summary offset-anchor inherited" id="operators">
 <h2>Operators</h2>
-<dl class="callables">
-<dt class="callable inherited" id="operator ==">
-/sdk-for-flutter-navigate-venue-data-property-operator-equals(<wbr/>Object other)
-    → bool
+<ul><li><a href="/sdk-for-flutter-navigate-venue-data-property-operator-equals">operator ==</a></li></ul>
 
-</dt>
-<dd class="inherited">
-  The equality operator.
-  <div class="features">inherited</div>
-</dd>
-</dl>
-</section>
-</div>
-<div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-<header class="hidden-l" id="header-search-sidebar">
-<form class="search-sidebar" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
-</form>
-</header>
-<ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-navigate</li>
-<li>/sdk-for-flutter-navigate-venue-data-venue-data-library</li>
-<li class="self-crumb">Property class</li>
-</ol>
-<h5>venue.data library</h5>
-<div id="dartdoc-sidebar-left-content"></div>
-</div>
-<div class="sidebar sidebar-offcanvas-right" id="dartdoc-sidebar-right">
-</div>
-</main>
-<footer>
+ 
 
-    here_sdk
-      4.26.0
-  
-</footer>
-</div></div>
+
+
 </div>
 `
 }</HTMLBlock>

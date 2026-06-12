@@ -7,168 +7,33 @@ slug: "sdk-for-flutter-navigate-core-rectangle2d-class"
 `
 <div class="sdk-for-flutter">
 <!-- Rectangle2D-class.html -->
-<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
-<li class="section-title"><a href="core/Rectangle2D-class.html#constructors">Constructors</a></li>
-<li><a href="core/Rectangle2D/Rectangle2D.html">Rectangle2D</a></li>
-<li class="section-title">
-<a href="core/Rectangle2D-class.html#instance-properties">Properties</a>
-</li>
-<li><a href="core/Rectangle2D/hashCode.html">hashCode</a></li>
-<li><a href="core/Rectangle2D/origin.html">origin</a></li>
-<li class="inherited"><a href="core/Rectangle2D/runtimeType.html">runtimeType</a></li>
-<li><a href="core/Rectangle2D/size.html">size</a></li>
-<li class="section-title inherited"><a href="core/Rectangle2D-class.html#instance-methods">Methods</a></li>
-<li class="inherited"><a href="core/Rectangle2D/noSuchMethod.html">noSuchMethod</a></li>
-<li class="inherited"><a href="core/Rectangle2D/toString.html">toString</a></li>
-<li class="section-title"><a href="core/Rectangle2D-class.html#operators">Operators</a></li>
-<li><a href="core/Rectangle2D/operator_equals.html">operator ==</a></li>
-</ol></div><div class="doc-content">
-<div id="overlay-under-drawer"></div>
-<header id="title">
-menu
-<ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-navigate</li>
-<li>/sdk-for-flutter-navigate-core-core-library</li>
-<li class="self-crumb">Rectangle2D class</li>
-</ol>
-<div class="self-name">Rectangle2D</div>
-<form class="search navbar-right" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-box" placeholder="Loading search..." type="text"/>
-</form>
-<div class="toggle" id="theme-button" title="Toggle brightness">
-<label for="theme">
-<input id="theme" type="checkbox" value="light-theme"/>
 
-        dark_mode
-      
 
-        light_mode
-      
-</label>
-</div>
-</header>
-<main>
-<div class="main-content" data-above-sidebar="core/core-library-sidebar.html" data-below-sidebar="core/Rectangle2D-class-sidebar.html" id="dartdoc-main-content">
 <div>
 <h1>Rectangle2D class</h1></div>
-<section class="desc markdown">
+
 <p>Represents a 2D rectangle defined by the origin and size.</p>
-</section>
-<section class="summary offset-anchor" id="constructors">
+
+
 <h2>Constructors</h2>
-<dl class="constructor-summary-list">
-<dt class="callable" id="Rectangle2D">
-/sdk-for-flutter-navigate-core-rectangle2d-rectangle2d(/sdk-for-flutter-navigate-core-point2d-class origin, /sdk-for-flutter-navigate-core-size2d-class size)
-</dt>
-<dd>
-          Creates a new instance.
-        </dd>
-</dl>
-</section>
-<section class="summary offset-anchor" id="instance-properties">
+<ul><li><a href="/sdk-for-flutter-navigate-core-rectangle2d-rectangle2d">Rectangle2D</a></li></ul>
+
+
 <h2>Properties</h2>
-<dl class="properties">
-<dt class="property" id="hashCode">
-/sdk-for-flutter-navigate-core-rectangle2d-hashcode
-→ int
-</dt>
-<dd>
-  The hash code for this object.
-  <div class="features">no setter</div>
-</dd>
-<dt class="property" id="origin">
-/sdk-for-flutter-navigate-core-rectangle2d-origin
-↔ /sdk-for-flutter-navigate-core-point2d-class
-</dt>
-<dd>
-  The origin specifies the top-left corner of the rectangle.
-When this point is used to indicate the coordinates on a view,
-then (0,0) will mark the top-left corner of the view. The size determines
-the width and height of the rectangle. The width expands towards the right of the view.
-The height expands towards the bottom of the view.
-  <div class="features">getter/setter pair</div>
-</dd>
-<dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-navigate-core-rectangle2d-runtimetype
-→ Type
-</dt>
-<dd class="inherited">
-  A representation of the runtime type of the object.
-  <div class="features">no setterinherited</div>
-</dd>
-<dt class="property" id="size">
-/sdk-for-flutter-navigate-core-rectangle2d-size
-↔ /sdk-for-flutter-navigate-core-size2d-class
-</dt>
-<dd>
-  The size specifies the width and height of the rectangle.
-  <div class="features">getter/setter pair</div>
-</dd>
-</dl>
-</section>
-<section class="summary offset-anchor inherited" id="instance-methods">
+<ul><li><a href="/sdk-for-flutter-navigate-core-rectangle2d-hashcode">hashCode</a></li><li><a href="/sdk-for-flutter-navigate-core-rectangle2d-origin">origin</a></li><li><a href="/sdk-for-flutter-navigate-core-rectangle2d-runtimetype">runtimeType</a></li><li><a href="/sdk-for-flutter-navigate-core-rectangle2d-size">size</a></li></ul>
+
+
 <h2>Methods</h2>
-<dl class="callables">
-<dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-navigate-core-rectangle2d-nosuchmethod(<wbr/>Invocation invocation)
-    → dynamic
+<ul><li><a href="/sdk-for-flutter-navigate-core-rectangle2d-nosuchmethod">noSuchMethod</a></li><li><a href="/sdk-for-flutter-navigate-core-rectangle2d-tostring">toString</a></li></ul>
 
-</dt>
-<dd class="inherited">
-  Invoked when a nonexistent method or property is accessed.
-  <div class="features">inherited</div>
-</dd>
-<dt class="callable inherited" id="toString">
-/sdk-for-flutter-navigate-core-rectangle2d-tostring(<wbr/>)
-    → String
 
-</dt>
-<dd class="inherited">
-  A string representation of this object.
-  <div class="features">inherited</div>
-</dd>
-</dl>
-</section>
-<section class="summary offset-anchor" id="operators">
 <h2>Operators</h2>
-<dl class="callables">
-<dt class="callable" id="operator ==">
-/sdk-for-flutter-navigate-core-rectangle2d-operator-equals(<wbr/>Object other)
-    → bool
+<ul><li><a href="/sdk-for-flutter-navigate-core-rectangle2d-operator-equals">operator ==</a></li></ul>
 
-</dt>
-<dd>
-  The equality operator.
-  
+ 
 
-</dd>
-</dl>
-</section>
-</div>
-<div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-<header class="hidden-l" id="header-search-sidebar">
-<form class="search-sidebar" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
-</form>
-</header>
-<ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-navigate</li>
-<li>/sdk-for-flutter-navigate-core-core-library</li>
-<li class="self-crumb">Rectangle2D class</li>
-</ol>
-<h5>core library</h5>
-<div id="dartdoc-sidebar-left-content"></div>
-</div>
-<div class="sidebar sidebar-offcanvas-right" id="dartdoc-sidebar-right">
-</div>
-</main>
-<footer>
 
-    here_sdk
-      4.26.0
-  
-</footer>
-</div></div>
+
 </div>
 `
 }</HTMLBlock>

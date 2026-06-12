@@ -1,87 +1,48 @@
 ---
-title: "index property"
+title: "TrafficIncidentRestrictedVehicleCategory enum"
 slug: "sdk-for-flutter-navigate-traffic-trafficincidentrestrictedvehiclecategory"
 ---
 
 <HTMLBlock>{
 `
 <div class="sdk-for-flutter">
-<!-- index.html -->
-<div class="doc-with-sidebar"><div class="doc-content">
-<div id="overlay-under-drawer"></div>
-<header id="title">
-menu
-<ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-navigate</li>
-<li>/sdk-for-flutter-navigate-traffic-traffic-library</li>
-<li>/sdk-for-flutter-navigate-traffic-trafficincidentrestrictedvehiclecategory</li>
-<li class="self-crumb">index property</li>
-</ol>
-<div class="self-name">index</div>
-<form class="search navbar-right" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-box" placeholder="Loading search..." type="text"/>
-</form>
-<div class="toggle" id="theme-button" title="Toggle brightness">
-<label for="theme">
-<input id="theme" type="checkbox" value="light-theme"/>
+<!-- TrafficIncidentRestrictedVehicleCategory.html -->
 
-        dark_mode
-      
 
-        light_mode
-      
-</label>
-</div>
-</header>
-<main>
-<div class="main-content" data-above-sidebar="traffic/TrafficIncidentRestrictedVehicleCategory-enum-sidebar.html" data-below-sidebar="" id="dartdoc-main-content">
 <div>
-<h1>index property</h1></div>
-<section id="getter">
-<section class="multi-line-signature">
-int
-index
-<div class="features">inherited</div>
-</section>
-<section class="desc markdown">
-<p>A numeric identifier for the enumerated value.</p>
-<p>The values of a single enumeration are numbered
-consecutively from zero to one less than the
-number of values.
-This is also the index of the value in the
-enumerated type's static <code>values</code> list.</p>
-</section>
-<section class="summary source-code" id="source">
-<h2>Implementation</h2>
-<pre class="language-dart"><code class="language-dart">int get index;</code></pre>
-</section>
-</section>
+<h1>TrafficIncidentRestrictedVehicleCategory enum</h1>
 </div>
-<div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-<header class="hidden-l" id="header-search-sidebar">
-<form class="search-sidebar" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
-</form>
-</header>
-<ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-navigate</li>
-<li>/sdk-for-flutter-navigate-traffic-traffic-library</li>
-<li>/sdk-for-flutter-navigate-traffic-trafficincidentrestrictedvehiclecategory</li>
-<li class="self-crumb">index property</li>
-</ol>
-<h5>TrafficIncidentRestrictedVehicleCategory enum</h5>
-<div id="dartdoc-sidebar-left-content"></div>
-</div>
-<div class="sidebar sidebar-offcanvas-right" id="dartdoc-sidebar-right">
-</div>
-</main>
-<footer>
 
-    here_sdk
-      4.26.0
-  
-</footer>
-</div></div>
+<p>The vehicle categories that can be restricted.</p>
+<p>Note, a vehicle can belong to several categories (e.g. a passenger motor car
+belongs to <a href="/sdk-for-flutter-navigate-traffic-trafficincidentrestrictedvehiclecategory">TrafficIncidentRestrictedVehicleCategory.car</a>, <a href="/sdk-for-flutter-navigate-traffic-trafficincidentrestrictedvehiclecategory">TrafficIncidentRestrictedVehicleCategory.motorVehicle</a>, and <a href="/sdk-for-flutter-navigate-traffic-trafficincidentrestrictedvehiclecategory">TrafficIncidentRestrictedVehicleCategory.all</a>).
+A vehicle is restricted if it belongs to the category presented in the map <a href="/sdk-for-flutter-navigate-traffic-trafficincident-vehiclerestrictions">TrafficIncident.vehicleRestrictions</a>
+and at least one of the vehicle properties is under the matching <a href="/sdk-for-flutter-navigate-traffic-trafficincidentvehiclerestriction-class">TrafficIncidentVehicleRestriction</a>.</p>
+
+
+<h2>Values</h2>
+<ul><li><a href="/sdk-for-flutter-navigate-traffic-trafficincidentrestrictedvehiclecategory">TrafficIncidentRestrictedVehicleCategory</a></li><li><a href="/sdk-for-flutter-navigate-traffic-trafficincidentrestrictedvehiclecategory">TrafficIncidentRestrictedVehicleCategory</a></li><li><a href="/sdk-for-flutter-navigate-traffic-trafficincidentrestrictedvehiclecategory">TrafficIncidentRestrictedVehicleCategory</a></li><li><a href="/sdk-for-flutter-navigate-traffic-trafficincidentrestrictedvehiclecategory">TrafficIncidentRestrictedVehicleCategory</a></li><li><a href="/sdk-for-flutter-navigate-traffic-trafficincidentrestrictedvehiclecategory">TrafficIncidentRestrictedVehicleCategory</a></li><li><a href="/sdk-for-flutter-navigate-traffic-trafficincidentrestrictedvehiclecategory">TrafficIncidentRestrictedVehicleCategory</a></li><li><a href="/sdk-for-flutter-navigate-traffic-trafficincidentrestrictedvehiclecategory">TrafficIncidentRestrictedVehicleCategory</a></li><li><a href="/sdk-for-flutter-navigate-traffic-trafficincidentrestrictedvehiclecategory">TrafficIncidentRestrictedVehicleCategory</a></li><li><a href="/sdk-for-flutter-navigate-traffic-trafficincidentrestrictedvehiclecategory">TrafficIncidentRestrictedVehicleCategory</a></li><li><a href="/sdk-for-flutter-navigate-traffic-trafficincidentrestrictedvehiclecategory">TrafficIncidentRestrictedVehicleCategory</a></li><li><a href="/sdk-for-flutter-navigate-traffic-trafficincidentrestrictedvehiclecategory">TrafficIncidentRestrictedVehicleCategory</a></li><li><a href="/sdk-for-flutter-navigate-traffic-trafficincidentrestrictedvehiclecategory">TrafficIncidentRestrictedVehicleCategory</a></li><li><a href="/sdk-for-flutter-navigate-traffic-trafficincidentrestrictedvehiclecategory">TrafficIncidentRestrictedVehicleCategory</a></li></ul>
+
+
+<h2>Properties</h2>
+<ul><li><a href="/sdk-for-flutter-navigate-traffic-trafficincidentrestrictedvehiclecategory-hashcode">hashCode</a></li><li><a href="/sdk-for-flutter-navigate-traffic-trafficincidentrestrictedvehiclecategory-index">index</a></li><li><a href="/sdk-for-flutter-navigate-traffic-trafficincidentrestrictedvehiclecategory-runtimetype">runtimeType</a></li></ul>
+
+
+<h2>Methods</h2>
+<ul><li><a href="/sdk-for-flutter-navigate-traffic-trafficincidentrestrictedvehiclecategory-nosuchmethod">noSuchMethod</a></li><li><a href="/sdk-for-flutter-navigate-traffic-trafficincidentrestrictedvehiclecategory-tostring">toString</a></li></ul>
+
+
+<h2>Operators</h2>
+<ul><li><a href="/sdk-for-flutter-navigate-traffic-trafficincidentrestrictedvehiclecategory-operator-equals">operator ==</a></li></ul>
+
+
+<h2>Constants</h2>
+<ul><li><a href="/sdk-for-flutter-navigate-traffic-trafficincidentrestrictedvehiclecategory-values-constant">values</a></li></ul>
+
+
+
+
+
 </div>
 `
 }</HTMLBlock>

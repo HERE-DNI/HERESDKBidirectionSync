@@ -7,61 +7,25 @@ slug: "sdk-for-flutter-navigate-mapview-heremap-debugfillproperties"
 `
 <div class="sdk-for-flutter">
 <!-- debugFillProperties.html -->
-<div class="doc-with-sidebar"><div class="doc-content">
-<div id="overlay-under-drawer"></div>
-<header id="title">
-menu
-<ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-navigate</li>
-<li>/sdk-for-flutter-navigate-mapview-mapview-library</li>
-<li>/sdk-for-flutter-navigate-mapview-heremap-class</li>
-<li class="self-crumb">debugFillProperties method</li>
-</ol>
-<div class="self-name">debugFillProperties</div>
-<form class="search navbar-right" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-box" placeholder="Loading search..." type="text"/>
-</form>
-<div class="toggle" id="theme-button" title="Toggle brightness">
-<label for="theme">
-<input id="theme" type="checkbox" value="light-theme"/>
 
-        dark_mode
-      
 
-        light_mode
-      
-</label>
-</div>
-</header>
-<main>
-<div class="main-content" data-above-sidebar="mapview/HereMap-class-sidebar.html" data-below-sidebar="" id="dartdoc-main-content">
 <div>
 <h1>debugFillProperties method</h1></div>
-<section class="multi-line-signature">
+
 <div>
 <ol class="annotation-list">
 <li>@override</li>
 </ol>
 </div>
 void
-debugFillProperties(<wbr/><ol class="parameter-list single-line"> <li>DiagnosticPropertiesBuilder properties</li>
+debugFillProperties(<ol class="parameter-list single-line"> <li>DiagnosticPropertiesBuilder properties</li>
 </ol>)
 
       <div class="features">inherited</div>
-</section>
-<section class="desc markdown">
+
+
 <p>Add additional properties associated with the node.</p>
-<iframe allow="accelerometer; 
-autoplay; 
-clipboard-write; 
-encrypted-media; 
-gyroscope; 
-picture-in-picture" allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/DnC7eT-vh1k?rel=0" style="max-width: 560px;
-max-height: 315px;
-width: 100%;
-height: 100%;
-aspect-ratio: 560 / 315;" title="YouTube video player">
-</iframe>
+
 <p>Use the most specific <code>DiagnosticsProperty</code> existing subclass to describe
 each property instead of the <code>DiagnosticsProperty</code> base class. There are
 only a small number of <code>DiagnosticsProperty</code> subclasses each covering a
@@ -131,7 +95,7 @@ that represent transforms. Generally any property value with a good
 <code>toString</code> method implementation works fine using <code>DiagnosticsProperty</code>
 directly.</p>
 <p>{@tool snippet}</p>
-<p>This example shows best practices for implementing /sdk-for-flutter-navigate-mapview-heremap-debugfillproperties
+<p>This example shows best practices for implementing <a href="/sdk-for-flutter-navigate-mapview-heremap-debugfillproperties">debugFillProperties</a>
 illustrating use of all common <code>DiagnosticsProperty</code> subclasses and all
 common <code>DiagnosticsProperty</code> parameters.</p>
 <pre class="language-dart"><code class="language-dart">class ExampleObject extends ExampleSuperclass {
@@ -256,43 +220,21 @@ common <code>DiagnosticsProperty</code> parameters.</p>
 }
 </code></pre>
 <p>{@end-tool}</p>
-<p>Used by /sdk-for-flutter-navigate-mapview-heremap-todiagnosticsnode and /sdk-for-flutter-navigate-mapview-heremap-tostring.</p>
+<p>Used by <a href="/sdk-for-flutter-navigate-mapview-heremap-todiagnosticsnode">toDiagnosticsNode</a> and <a href="/sdk-for-flutter-navigate-mapview-heremap-tostring">toString</a>.</p>
 <p>Do not add values that have lifetime shorter than the object.</p>
-</section>
-<section class="summary source-code" id="source">
+
+
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">@override
 void debugFillProperties(DiagnosticPropertiesBuilder properties) {
   super.debugFillProperties(properties);
   properties.defaultDiagnosticsTreeStyle = DiagnosticsTreeStyle.dense;
 }</code></pre>
-</section>
-</div>
-<div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-<header class="hidden-l" id="header-search-sidebar">
-<form class="search-sidebar" role="search">
-<input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
-</form>
-</header>
-<ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-navigate</li>
-<li>/sdk-for-flutter-navigate-mapview-mapview-library</li>
-<li>/sdk-for-flutter-navigate-mapview-heremap-class</li>
-<li class="self-crumb">debugFillProperties method</li>
-</ol>
-<h5>HereMap class</h5>
-<div id="dartdoc-sidebar-left-content"></div>
-</div>
-<div class="sidebar sidebar-offcanvas-right" id="dartdoc-sidebar-right">
-</div>
-</main>
-<footer>
 
-    here_sdk
-      4.26.0
-  
-</footer>
-</div></div>
+ 
+
+
+
 </div>
 `
 }</HTMLBlock>
