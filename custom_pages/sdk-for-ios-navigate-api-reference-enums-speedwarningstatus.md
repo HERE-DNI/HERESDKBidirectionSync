@@ -85,7 +85,7 @@ speed limit. See <code>SpeedLimitListener</code>.</p>
 This status is only possible after previously exceeding a speed limit.</p>
 <p><strong>Note:</strong>
 The speed limit used to check this condition does not take into account any temporary special
-speed limit. See `SpeedLimitListener.</p>
+speed limit. See SpeedLimitListener.</p>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
