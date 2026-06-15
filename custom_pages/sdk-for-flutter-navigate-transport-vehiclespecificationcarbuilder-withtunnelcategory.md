@@ -1,0 +1,39 @@
+---
+title: "withTunnelCategory abstract method"
+slug: "sdk-for-flutter-navigate-transport-vehiclespecificationcarbuilder-withtunnelcategory"
+---
+
+<HTMLBlock>{
+`
+<div class="sdk-for-flutter">
+<!-- withTunnelCategory.html -->
+
+
+<div>
+<h1>withTunnelCategory abstract method</h1></div>
+
+<a href="sdk-for-flutter-navigate-transport-vehiclespecificationcarbuilder-class">VehicleSpecificationCarBuilder</a>
+withTunnelCategory(<ol class="parameter-list single-line"> <li><a href="sdk-for-flutter-navigate-transport-tunnelcategory">TunnelCategory</a> tunnelCategory</li>
+</ol>)
+
+      
+
+    
+
+<p>Sets the vehicle tunnel category.</p>
+<ul>
+<li><code>tunnelCategory</code> The vehicle tunnel category.</li>
+</ul>
+<p>Returns <a href="sdk-for-flutter-navigate-transport-vehiclespecificationcarbuilder-class">VehicleSpecificationCarBuilder</a>. The <a href="sdk-for-flutter-navigate-transport-vehiclespecificationcarbuilder-class">VehicleSpecificationCarBuilder</a> object with the vehicle tunnel category set to the new value.</p>
+
+
+<h2>Implementation</h2>
+<pre class="language-dart"><code class="language-dart">VehicleSpecificationCarBuilder withTunnelCategory(TunnelCategory tunnelCategory);</code></pre>
+
+ 
+
+
+
+</div>
+`
+}</HTMLBlock>

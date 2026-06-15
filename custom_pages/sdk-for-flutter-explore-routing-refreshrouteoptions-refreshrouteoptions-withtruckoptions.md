@@ -1,0 +1,36 @@
+---
+title: "RefreshRouteOptions.withTruckOptions constructor"
+slug: "sdk-for-flutter-explore-routing-refreshrouteoptions-refreshrouteoptions-withtruckoptions"
+---
+
+<HTMLBlock>{
+`
+<div class="sdk-for-flutter">
+<!-- RefreshRouteOptions.withTruckOptions.html -->
+
+
+<div>
+<h1>RefreshRouteOptions.withTruckOptions constructor</h1></div>
+
+RefreshRouteOptions.withTruckOptions(<ol class="parameter-list single-line"> <li><a class="deprecated" href="sdk-for-flutter-explore-routing-truckoptions-class">TruckOptions</a> truckOptions</li>
+</ol>)
+    
+
+<p>Constructs a RefreshRouteOptions object with <a class="deprecated" href="sdk-for-flutter-explore-routing-truckoptions-class">TruckOptions</a>.</p>
+<ul>
+<li><code>truckOptions</code> Converts the route to a truck route, if a different transport mode was used for the
+<a href="sdk-for-flutter-explore-routing-routehandle-class">RouteHandle</a>. Note that in case this is not possible,
+an <a href="sdk-for-flutter-explore-routing-routingerror">RoutingError.noRouteFound</a> error will be triggered.</li>
+</ul>
+
+
+<h2>Implementation</h2>
+<pre class="language-dart"><code class="language-dart">factory RefreshRouteOptions.withTruckOptions(TruckOptions truckOptions) =&gt; $prototype.withTruckOptions(truckOptions);</code></pre>
+
+ 
+
+
+
+</div>
+`
+}</HTMLBlock>

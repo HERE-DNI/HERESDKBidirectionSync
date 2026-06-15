@@ -1,0 +1,36 @@
+---
+title: "build abstract method"
+slug: "sdk-for-flutter-navigate-transport-vehiclespecificationtaxibuilder-build"
+---
+
+<HTMLBlock>{
+`
+<div class="sdk-for-flutter">
+<!-- build.html -->
+
+
+<div>
+<h1>build abstract method</h1></div>
+
+<a href="sdk-for-flutter-navigate-transport-vehiclespecification-class">VehicleSpecification</a>
+build()
+
+      
+
+    
+
+<p>Builds the <a href="sdk-for-flutter-navigate-transport-vehiclespecification-class">VehicleSpecification</a> object for <a href="sdk-for-flutter-navigate-transport-transportmode">TransportMode.taxi</a> with the specifications taken
+from the <a href="sdk-for-flutter-navigate-transport-vehiclespecificationtaxibuilder-class">VehicleSpecificationTaxiBuilder</a> object.</p>
+<p>Returns <a href="sdk-for-flutter-navigate-transport-vehiclespecification-class">VehicleSpecification</a>. The <a href="sdk-for-flutter-navigate-transport-vehiclespecification-class">VehicleSpecification</a> object created from the <a href="sdk-for-flutter-navigate-transport-vehiclespecificationtaxibuilder-class">VehicleSpecificationTaxiBuilder</a> object.</p>
+
+
+<h2>Implementation</h2>
+<pre class="language-dart"><code class="language-dart">VehicleSpecification build();</code></pre>
+
+ 
+
+
+
+</div>
+`
+}</HTMLBlock>

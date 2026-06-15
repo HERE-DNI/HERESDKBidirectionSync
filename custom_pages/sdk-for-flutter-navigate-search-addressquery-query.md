@@ -1,0 +1,33 @@
+---
+title: "query property"
+slug: "sdk-for-flutter-navigate-search-addressquery-query"
+---
+
+<HTMLBlock>{
+`
+<div class="sdk-for-flutter">
+<!-- query.html -->
+
+
+<div>
+<h1>query property</h1></div>
+
+        
+        String
+        query
+<div class="features">final</div>
+
+
+<p>Desired address query to search.</p>
+
+
+<h2>Implementation</h2>
+<pre class="language-dart"><code class="language-dart">final String query;</code></pre>
+
+ 
+
+
+
+</div>
+`
+}</HTMLBlock>

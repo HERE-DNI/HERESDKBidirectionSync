@@ -1,0 +1,33 @@
+---
+title: "levelZIndex property"
+slug: "sdk-for-flutter-navigate-routing-indoorrouteplace-levelzindex"
+---
+
+<HTMLBlock>{
+`
+<div class="sdk-for-flutter">
+<!-- levelZIndex.html -->
+
+
+<div>
+<h1>levelZIndex property</h1></div>
+
+        
+        int
+        levelZIndex
+<div class="features">getter/setter pair</div>
+
+
+<p>The vertical level index of this indoor location.</p>
+
+
+<h2>Implementation</h2>
+<pre class="language-dart"><code class="language-dart">int levelZIndex;</code></pre>
+
+ 
+
+
+
+</div>
+`
+}</HTMLBlock>
