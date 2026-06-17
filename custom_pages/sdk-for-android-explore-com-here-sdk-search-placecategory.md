@@ -14,59 +14,24 @@ slug: "sdk-for-android-explore-com-here-sdk-search-placecategory"
 
 
 
-<div class="flex-box">
-<header class="flex-header" role="banner">
-<nav role="navigation">
-<!-- ========= START OF TOP NAVBAR ======= -->
-<div class="top-nav" id="navbar-top">
-<div class="skip-nav"><a href="#skip-navbar-top" title="Skip navigation links">Skip navigation links</a></div>
-<ul class="nav-list" id="navbar-top-firstrow" title="Navigation">
-<li><a href="sdk-for-android-explore-..-..-..-..-index">Overview</a></li>
-<li><a href="sdk-for-android-explore-package-summary">Package</a></li>
-<li class="nav-bar-cell1-rev">Class</li>
-<li><a href="sdk-for-android-explore-package-tree">Tree</a></li>
-<li><a href="sdk-for-android-explore-..-..-..-..-deprecated-list">Deprecated</a></li>
-<li><a href="sdk-for-android-explore-..-..-..-..-index-all">Index</a></li>
-<li><a href="sdk-for-android-explore-..-..-..-..-help-doc#class">Help</a></li>
-</ul>
-</div>
-<div class="sub-nav">
-<div>
-<ul class="sub-nav-list">
-<li>Summary: </li>
-<li>Nested | </li>
-<li><a href="#field-summary">Field</a> | </li>
-<li><a href="#constructor-summary">Constr</a> | </li>
-<li><a href="#method-summary">Method</a></li>
-</ul>
-<ul class="sub-nav-list">
-<li>Detail: </li>
-<li><a href="#field-detail">Field</a> | </li>
-<li><a href="#constructor-detail">Constr</a> | </li>
-<li><a href="#method-detail">Method</a></li>
-</ul>
-</div>
 
-</div>
-<!-- ========= END OF TOP NAVBAR ========= -->
-<span class="skip-nav" id="skip-navbar-top"></span></nav>
-</header>
-<div class="flex-content">
+
+
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.search</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-package-summary">com.here.sdk.search</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a href="sdk-for-android-explore-..-..-nativebase" title="class in com.here">com.here.NativeBase</a>
+<div class="inheritance"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.search.PlaceCategory</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 <hr/>
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">PlaceCategory</span>
-<span class="extends-implements">extends <a href="sdk-for-android-explore-..-..-nativebase" title="class in com.here">NativeBase</a></span></div>
+<span class="extends-implements">extends <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>Represents a category of place with different levels of granularity.
  This class also defines a set of most commonly used categories.</p></div>
 </section>
@@ -82,373 +47,373 @@ slug: "sdk-for-android-explore-com-here-sdk-search-placecategory"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="#ACCOMMODATION">ACCOMMODATION</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#ACCOMMODATION">ACCOMMODATION</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Top level category for places offering lodging accommodations, dwellings or similar living quarters to travellers,
  such as hotels, motels, resorts, cruise ships and campgrounds.</div>
 </div>
 <div class="col-first odd-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="#ACCOMMODATION_HOTEL_MOTEL">ACCOMMODATION_HOTEL_MOTEL</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#ACCOMMODATION_HOTEL_MOTEL">ACCOMMODATION_HOTEL_MOTEL</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">A business that provides lodging or temporary living quarters.</div>
 </div>
 <div class="col-first even-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="#ACCOMMODATION_LODGING">ACCOMMODATION_LODGING</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#ACCOMMODATION_LODGING">ACCOMMODATION_LODGING</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A business that provides lodging to the public generally without room service.</div>
 </div>
 <div class="col-first odd-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="#AREAS_AND_BUILDINGS">AREAS_AND_BUILDINGS</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#AREAS_AND_BUILDINGS">AREAS_AND_BUILDINGS</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Top level category for places that are owned, operated or managed by municipalities,
  such as cities, towns, villages, boroughs and shires.</div>
 </div>
 <div class="col-first even-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="#AREAS_AND_BUILDINGS_OUTDOOR_COMPLEX">AREAS_AND_BUILDINGS_OUTDOOR_COMPLEX</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#AREAS_AND_BUILDINGS_OUTDOOR_COMPLEX">AREAS_AND_BUILDINGS_OUTDOOR_COMPLEX</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Outdoor areas or complexes with designations for specific businesses or interests.</div>
 </div>
 <div class="col-first odd-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="#AREAS_AND_BUILDINGS_RESIDENTAL_OFFICE">AREAS_AND_BUILDINGS_RESIDENTAL_OFFICE</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#AREAS_AND_BUILDINGS_RESIDENTAL_OFFICE">AREAS_AND_BUILDINGS_RESIDENTAL_OFFICE</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Areas and buildings designated for residential or office use.</div>
 </div>
 <div class="col-first even-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="#BUSINESS_AND_COMMERCIAL_SERVICES">BUSINESS_AND_COMMERCIAL_SERVICES</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#BUSINESS_AND_COMMERCIAL_SERVICES">BUSINESS_AND_COMMERCIAL_SERVICES</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Businesses that provide a service or product for use by other businesses.</div>
 </div>
 <div class="col-first odd-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="#BUSINESS_AND_CONSUMER_SERVICES">BUSINESS_AND_CONSUMER_SERVICES</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#BUSINESS_AND_CONSUMER_SERVICES">BUSINESS_AND_CONSUMER_SERVICES</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">An organization that provides consumer services for a variety of products for used by the public.</div>
 </div>
 <div class="col-first even-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="#BUSINESS_AND_SERVICES">BUSINESS_AND_SERVICES</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#BUSINESS_AND_SERVICES">BUSINESS_AND_SERVICES</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Top level category for places that provide professional services to other businesses,
  such as printing, photocopying, graphic design, marketing, advertising and other general business services.</div>
 </div>
 <div class="col-first odd-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="#BUSINESS_AND_SERVICES_ATM">BUSINESS_AND_SERVICES_ATM</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#BUSINESS_AND_SERVICES_ATM">BUSINESS_AND_SERVICES_ATM</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">A computer terminal that allows bank customers to deposit, withdraw, or transfer funds without the assistance of a bank teller.</div>
 </div>
 <div class="col-first even-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="#BUSINESS_AND_SERVICES_BANKING">BUSINESS_AND_SERVICES_BANKING</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#BUSINESS_AND_SERVICES_BANKING">BUSINESS_AND_SERVICES_BANKING</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Businesses that specialize in the maintenance, lending, exchange, or issuance of money.</div>
 </div>
 <div class="col-first odd-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="#BUSINESS_AND_SERVICES_CAR_DEALER_SALES">BUSINESS_AND_SERVICES_CAR_DEALER_SALES</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#BUSINESS_AND_SERVICES_CAR_DEALER_SALES">BUSINESS_AND_SERVICES_CAR_DEALER_SALES</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Businesses that sell new automobiles and motorcycles.</div>
 </div>
 <div class="col-first even-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="#BUSINESS_AND_SERVICES_CAR_RENTAL">BUSINESS_AND_SERVICES_CAR_RENTAL</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#BUSINESS_AND_SERVICES_CAR_RENTAL">BUSINESS_AND_SERVICES_CAR_RENTAL</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Businesses that rent or lease automobiles.</div>
 </div>
 <div class="col-first odd-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="#BUSINESS_AND_SERVICES_CAR_REPAIR_SERVICES">BUSINESS_AND_SERVICES_CAR_REPAIR_SERVICES</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#BUSINESS_AND_SERVICES_CAR_REPAIR_SERVICES">BUSINESS_AND_SERVICES_CAR_REPAIR_SERVICES</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Businesses that provide automotive repair services.</div>
 </div>
 <div class="col-first even-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="#BUSINESS_AND_SERVICES_COMMUNICATION_MEDIA">BUSINESS_AND_SERVICES_COMMUNICATION_MEDIA</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#BUSINESS_AND_SERVICES_COMMUNICATION_MEDIA">BUSINESS_AND_SERVICES_COMMUNICATION_MEDIA</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Businesses that provide communication services.</div>
 </div>
 <div class="col-first odd-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="#BUSINESS_AND_SERVICES_EV_CHARGING_STATION">BUSINESS_AND_SERVICES_EV_CHARGING_STATION</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#BUSINESS_AND_SERVICES_EV_CHARGING_STATION">BUSINESS_AND_SERVICES_EV_CHARGING_STATION</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Businesses that provide recharging services for electric vehicles.</div>
 </div>
 <div class="col-first even-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="#BUSINESS_AND_SERVICES_FUELING_STATION">BUSINESS_AND_SERVICES_FUELING_STATION</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#BUSINESS_AND_SERVICES_FUELING_STATION">BUSINESS_AND_SERVICES_FUELING_STATION</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Businesses that sell fuel for vehicles, such as petrol, electricity etc.</div>
 </div>
 <div class="col-first odd-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="#BUSINESS_AND_SERVICES_INDUSTRY">BUSINESS_AND_SERVICES_INDUSTRY</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#BUSINESS_AND_SERVICES_INDUSTRY">BUSINESS_AND_SERVICES_INDUSTRY</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Businesses that employ people in and around the city in which it is located.</div>
 </div>
 <div class="col-first even-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="#BUSINESS_AND_SERVICES_MONEY_CASH">BUSINESS_AND_SERVICES_MONEY_CASH</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#BUSINESS_AND_SERVICES_MONEY_CASH">BUSINESS_AND_SERVICES_MONEY_CASH</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Businesses that provide money related services.</div>
 </div>
 <div class="col-first odd-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="#BUSINESS_AND_SERVICES_PETROL_GASOLINE_STATION">BUSINESS_AND_SERVICES_PETROL_GASOLINE_STATION</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#BUSINESS_AND_SERVICES_PETROL_GASOLINE_STATION">BUSINESS_AND_SERVICES_PETROL_GASOLINE_STATION</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Businesses that sell fuel, oil, and other motoring supplies.</div>
 </div>
 <div class="col-first even-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="#BUSINESS_AND_SERVICES_POLICE_FIRE_EMERGENCY">BUSINESS_AND_SERVICES_POLICE_FIRE_EMERGENCY</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#BUSINESS_AND_SERVICES_POLICE_FIRE_EMERGENCY">BUSINESS_AND_SERVICES_POLICE_FIRE_EMERGENCY</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Municipal emergency services.</div>
 </div>
 <div class="col-first odd-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="#BUSINESS_AND_SERVICES_POST_OFFICE">BUSINESS_AND_SERVICES_POST_OFFICE</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#BUSINESS_AND_SERVICES_POST_OFFICE">BUSINESS_AND_SERVICES_POST_OFFICE</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">An office or station that receives, sorts, dispatches and delivers mail to a specific area or region.</div>
 </div>
 <div class="col-first even-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="#BUSINESS_AND_SERVICES_TOURIST_INFORMATION">BUSINESS_AND_SERVICES_TOURIST_INFORMATION</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#BUSINESS_AND_SERVICES_TOURIST_INFORMATION">BUSINESS_AND_SERVICES_TOURIST_INFORMATION</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Businesses that provide a variety of information for visiting tourists,
  such as event schedules, lodging/accommodations, restaurants, attractions and more.</div>
 </div>
 <div class="col-first odd-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="#BUSINESS_AND_SERVICES_TRUCK_SEMI_DEALER">BUSINESS_AND_SERVICES_TRUCK_SEMI_DEALER</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#BUSINESS_AND_SERVICES_TRUCK_SEMI_DEALER">BUSINESS_AND_SERVICES_TRUCK_SEMI_DEALER</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Business that sell or service trucks and tractor trailers.</div>
 </div>
 <div class="col-first even-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="#EAT_AND_DRINK">EAT_AND_DRINK</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#EAT_AND_DRINK">EAT_AND_DRINK</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Top level category for places where food or beverages are prepared or served.</div>
 </div>
 <div class="col-first odd-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="#EAT_AND_DRINK_COFFEE_TEA">EAT_AND_DRINK_COFFEE_TEA</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#EAT_AND_DRINK_COFFEE_TEA">EAT_AND_DRINK_COFFEE_TEA</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">An establishment that sells drinks, such as coffee and tea, as well as refreshments.</div>
 </div>
 <div class="col-first even-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="#EAT_AND_DRINK_RESTAURANT">EAT_AND_DRINK_RESTAURANT</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#EAT_AND_DRINK_RESTAURANT">EAT_AND_DRINK_RESTAURANT</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">An establishment that prepares and serves refreshments and prepared meals.</div>
 </div>
 <div class="col-first odd-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="#FACILITIES">FACILITIES</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#FACILITIES">FACILITIES</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Top level category for places associated with specialized facilities,
  such as sports venues, government buildings, health care centers and other types of facilities.</div>
 </div>
 <div class="col-first even-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="#FACILITIES_EDUCATION">FACILITIES_EDUCATION</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#FACILITIES_EDUCATION">FACILITIES_EDUCATION</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Facilities that are used for educational purposes including training, coaching, universities and more.</div>
 </div>
 <div class="col-first odd-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="#FACILITIES_EVENT_SPACES">FACILITIES_EVENT_SPACES</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#FACILITIES_EVENT_SPACES">FACILITIES_EVENT_SPACES</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">An area or facility used for the hosting of fairs and conventions.</div>
 </div>
 <div class="col-first even-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="#FACILITIES_GOVERNMENT_COMMUNITTY">FACILITIES_GOVERNMENT_COMMUNITTY</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#FACILITIES_GOVERNMENT_COMMUNITTY">FACILITIES_GOVERNMENT_COMMUNITTY</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A Place where government services are provided.</div>
 </div>
 <div class="col-first odd-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="#FACILITIES_HOSPITAL_HEALTHCARE">FACILITIES_HOSPITAL_HEALTHCARE</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#FACILITIES_HOSPITAL_HEALTHCARE">FACILITIES_HOSPITAL_HEALTHCARE</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Facilities that include dental offices, hospitals, nursing homes and other health care-related services.</div>
 </div>
 <div class="col-first even-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="#FACILITIES_LIBRARY">FACILITIES_LIBRARY</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#FACILITIES_LIBRARY">FACILITIES_LIBRARY</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Facilities that offer books, periodicals, audio, video and other material for public use.</div>
 </div>
 <div class="col-first odd-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="#FACILITIES_OTHER">FACILITIES_OTHER</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#FACILITIES_OTHER">FACILITIES_OTHER</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Facilities with miscellaneous uses such as Clubhouses, Offices, and Registration Offices.</div>
 </div>
 <div class="col-first even-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="#FACILITIES_PARKING">FACILITIES_PARKING</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#FACILITIES_PARKING">FACILITIES_PARKING</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Area or building used for parking cars.</div>
 </div>
 <div class="col-first odd-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="#FACILITIES_SCHOOL">FACILITIES_SCHOOL</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#FACILITIES_SCHOOL">FACILITIES_SCHOOL</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Educational facilities that include primary schools, secondary schools and more.</div>
 </div>
 <div class="col-first even-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="#FACILITIES_VENUE_SPORTS">FACILITIES_VENUE_SPORTS</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#FACILITIES_VENUE_SPORTS">FACILITIES_VENUE_SPORTS</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A facility used for individual and team sports including recreational sports.</div>
 </div>
 <div class="col-first odd-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="#GOING_OUT_CINEMA">GOING_OUT_CINEMA</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#GOING_OUT_CINEMA">GOING_OUT_CINEMA</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">An establishment that shows movies through screen projection.</div>
 </div>
 <div class="col-first even-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="#GOING_OUT_ENTERTAINMENT">GOING_OUT_ENTERTAINMENT</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#GOING_OUT_ENTERTAINMENT">GOING_OUT_ENTERTAINMENT</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Top level category for places commonly associated with entertainment,
  such as bars, cinemas, theatres, casinos and night clubs.</div>
 </div>
 <div class="col-first odd-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="#GOING_OUT_GAMBLING_LOTTERY_BETTING">GOING_OUT_GAMBLING_LOTTERY_BETTING</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#GOING_OUT_GAMBLING_LOTTERY_BETTING">GOING_OUT_GAMBLING_LOTTERY_BETTING</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">An establishment that provides gambling entertainment.</div>
 </div>
 <div class="col-first even-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="#GOING_OUT_NIGHTLIFE">GOING_OUT_NIGHTLIFE</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#GOING_OUT_NIGHTLIFE">GOING_OUT_NIGHTLIFE</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">An establishment that provides evening entertainment and usually serves alcoholic beverages.</div>
 </div>
 <div class="col-first odd-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="#GOING_OUT_THEATRE_MUSIC_CULTURE">GOING_OUT_THEATRE_MUSIC_CULTURE</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#GOING_OUT_THEATRE_MUSIC_CULTURE">GOING_OUT_THEATRE_MUSIC_CULTURE</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">An establishment where various types of performing arts are presented.</div>
 </div>
 <div class="col-first even-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="#LEISURE_AND_OUTDOOR">LEISURE_AND_OUTDOOR</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#LEISURE_AND_OUTDOOR">LEISURE_AND_OUTDOOR</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Top level category for places that are designated for sports, recreation, parking, beaches
  and other leisure and outdoor activities.</div>
 </div>
 <div class="col-first odd-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="#LEISURE_OTHER">LEISURE_OTHER</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#LEISURE_OTHER">LEISURE_OTHER</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">A park that contains rides and/or other entertainment which may be based on a central theme.</div>
 </div>
 <div class="col-first even-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="#LEISURE_OUTDOOR_RECREATION">LEISURE_OUTDOOR_RECREATION</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#LEISURE_OUTDOOR_RECREATION">LEISURE_OUTDOOR_RECREATION</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Public land preserved and maintained for recreational use.</div>
 </div>
 <div class="col-first odd-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="#NATURAL_AND_GEOGRAPHICAL">NATURAL_AND_GEOGRAPHICAL</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#NATURAL_AND_GEOGRAPHICAL">NATURAL_AND_GEOGRAPHICAL</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Top level category for natural or man-made areas of regional importance,
  such as bodies of water, mountains, forested areas and other geographic areas.</div>
 </div>
 <div class="col-first even-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="#NATURAL_AND_GEOGRAPHICAL_BODY_OF_WATER">NATURAL_AND_GEOGRAPHICAL_BODY_OF_WATER</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#NATURAL_AND_GEOGRAPHICAL_BODY_OF_WATER">NATURAL_AND_GEOGRAPHICAL_BODY_OF_WATER</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A natural and geographical feature of the earth's surface that is covered with water, such as a lake, river, stream or ocean.</div>
 </div>
 <div class="col-first odd-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="#NATURAL_AND_GEOGRAPHICAL_FOREST_HEALTH_OTHER_VEGETATION">NATURAL_AND_GEOGRAPHICAL_FOREST_HEALTH_OTHER_VEGETATION</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#NATURAL_AND_GEOGRAPHICAL_FOREST_HEALTH_OTHER_VEGETATION">NATURAL_AND_GEOGRAPHICAL_FOREST_HEALTH_OTHER_VEGETATION</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">A dense growth of trees, open uncultivated land or other large masses of vegetation.</div>
 </div>
 <div class="col-first even-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="#NATURAL_AND_GEOGRAPHICAL_MOUNTAIN_OR_HILL">NATURAL_AND_GEOGRAPHICAL_MOUNTAIN_OR_HILL</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#NATURAL_AND_GEOGRAPHICAL_MOUNTAIN_OR_HILL">NATURAL_AND_GEOGRAPHICAL_MOUNTAIN_OR_HILL</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A natural and geographical feature that is higher than the surrounding land.</div>
 </div>
 <div class="col-first odd-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="#NATURAL_AND_GEOGRAPHICAL_OTHER">NATURAL_AND_GEOGRAPHICAL_OTHER</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#NATURAL_AND_GEOGRAPHICAL_OTHER">NATURAL_AND_GEOGRAPHICAL_OTHER</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">A feature not classified as a Body of Water, Mountain or Hill, Undersea Feature, or Forest, Heath or Other Vegetation.</div>
 </div>
 <div class="col-first even-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="#NATURAL_AND_GEOGRAPHICAL_UNDERSEA_FEATURE">NATURAL_AND_GEOGRAPHICAL_UNDERSEA_FEATURE</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#NATURAL_AND_GEOGRAPHICAL_UNDERSEA_FEATURE">NATURAL_AND_GEOGRAPHICAL_UNDERSEA_FEATURE</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A natural or artificial feature that is below sea level.</div>
 </div>
 <div class="col-first odd-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="#SHOPPING">SHOPPING</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#SHOPPING">SHOPPING</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Top level category for places where consumer goods are commonly sold,
  such as clothing stores, grocery stores, hardware stores and other types of shopping centers.</div>
 </div>
 <div class="col-first even-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="#SHOPPING_BOOKSTORE">SHOPPING_BOOKSTORE</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#SHOPPING_BOOKSTORE">SHOPPING_BOOKSTORE</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A business that sells books, magazines and other reading material.</div>
 </div>
 <div class="col-first odd-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="#SHOPPING_CLOTHING_AND_ACCESORIES">SHOPPING_CLOTHING_AND_ACCESORIES</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#SHOPPING_CLOTHING_AND_ACCESORIES">SHOPPING_CLOTHING_AND_ACCESORIES</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">A business that sells apparel items, garments or fashion accessories for men, women, and children.</div>
 </div>
 <div class="col-first even-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="#SHOPPING_CONSUMER_GOODS">SHOPPING_CONSUMER_GOODS</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#SHOPPING_CONSUMER_GOODS">SHOPPING_CONSUMER_GOODS</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A business that sells a variety of products targeted to consumers.</div>
 </div>
 <div class="col-first odd-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="#SHOPPING_CONVENIENCE_STORE">SHOPPING_CONVENIENCE_STORE</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#SHOPPING_CONVENIENCE_STORE">SHOPPING_CONVENIENCE_STORE</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">An establishment that sells groceries, candy, toiletries, soft drinks, tobacco products, newspapers and other products.</div>
 </div>
 <div class="col-first even-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="#SHOPPING_DEPARTMENT_STORE">SHOPPING_DEPARTMENT_STORE</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#SHOPPING_DEPARTMENT_STORE">SHOPPING_DEPARTMENT_STORE</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A business that sells a wide variety of merchandise that is organized by product or service departments.</div>
 </div>
 <div class="col-first odd-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="#SHOPPING_DRUGSTORE_PHARMACY">SHOPPING_DRUGSTORE_PHARMACY</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#SHOPPING_DRUGSTORE_PHARMACY">SHOPPING_DRUGSTORE_PHARMACY</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">A business that sells medications, toiletry items and other retail cosmetics.</div>
 </div>
 <div class="col-first even-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="#SHOPPING_ELECTRONICS">SHOPPING_ELECTRONICS</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#SHOPPING_ELECTRONICS">SHOPPING_ELECTRONICS</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A business that sells consumer electronics and electronic entertainment equipment.</div>
 </div>
 <div class="col-first odd-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="#SHOPPING_FOOD_AND_DRINK">SHOPPING_FOOD_AND_DRINK</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#SHOPPING_FOOD_AND_DRINK">SHOPPING_FOOD_AND_DRINK</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">A business that sells specialty products of a particular type of food or beverage.</div>
 </div>
 <div class="col-first even-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="#SHOPPING_HAIR_AND_BEAUTY">SHOPPING_HAIR_AND_BEAUTY</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#SHOPPING_HAIR_AND_BEAUTY">SHOPPING_HAIR_AND_BEAUTY</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A business that provides hair styling and personal appearance services.</div>
 </div>
 <div class="col-first odd-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="#SHOPPING_HARDWARE_HOUSE_GARDEN">SHOPPING_HARDWARE_HOUSE_GARDEN</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#SHOPPING_HARDWARE_HOUSE_GARDEN">SHOPPING_HARDWARE_HOUSE_GARDEN</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">A business that sells crafts, gardening, remodeling, or decorating items for the home.</div>
 </div>
 <div class="col-first even-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="#SHOPPING_MALL_COMPLEX">SHOPPING_MALL_COMPLEX</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#SHOPPING_MALL_COMPLEX">SHOPPING_MALL_COMPLEX</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A complex of businesses that are co-located and share common services.</div>
 </div>
 <div class="col-first odd-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="#SIGHTS_AND_MUSEUMS">SIGHTS_AND_MUSEUMS</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#SIGHTS_AND_MUSEUMS">SIGHTS_AND_MUSEUMS</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Top level category for places of special interest,
  such as common tourist attractions, museums and places of worship.</div>
 </div>
 <div class="col-first even-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="#SIGHTS_LANDMARK_ATTRACTION">SIGHTS_LANDMARK_ATTRACTION</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#SIGHTS_LANDMARK_ATTRACTION">SIGHTS_LANDMARK_ATTRACTION</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A designated area of special interest to tourists.</div>
 </div>
 <div class="col-first odd-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="#SIGHTS_MUSEUM">SIGHTS_MUSEUM</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#SIGHTS_MUSEUM">SIGHTS_MUSEUM</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">An establishment dedicated to the preservation and exhibition of artistic, historical, or scientific artifacts.</div>
 </div>
 <div class="col-first even-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="#SIGHTS_RELIGIOUS_PLACE">SIGHTS_RELIGIOUS_PLACE</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#SIGHTS_RELIGIOUS_PLACE">SIGHTS_RELIGIOUS_PLACE</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">An establishment special religious significance or where religious services are held.</div>
 </div>
 <div class="col-first odd-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="#TRANSPORT">TRANSPORT</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#TRANSPORT">TRANSPORT</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Top level category for places commonly associated with pedestrian and cargo transport facilities,
  including airports, rail yards and seaports.</div>
 </div>
 <div class="col-first even-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="#TRANSPORT_AIRPORT">TRANSPORT_AIRPORT</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#TRANSPORT_AIRPORT">TRANSPORT_AIRPORT</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A designated area that serves various aspects of aviation related sports, including gliders, recreational aircraft and model airplanes.</div>
 </div>
 <div class="col-first odd-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="#TRANSPORT_CARGO">TRANSPORT_CARGO</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#TRANSPORT_CARGO">TRANSPORT_CARGO</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">A facility that handles some aspect of the transportation of cargo freight.</div>
 </div>
 <div class="col-first even-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="#TRANSPORT_PUBLIC">TRANSPORT_PUBLIC</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#TRANSPORT_PUBLIC">TRANSPORT_PUBLIC</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A facility for travelers who are travelling between stops on public transport.</div>
 </div>
 <div class="col-first odd-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="#TRANSPORT_REST_AREA">TRANSPORT_REST_AREA</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#TRANSPORT_REST_AREA">TRANSPORT_REST_AREA</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">An establishment along a motorway (controlled access road) that provides restrooms and parking.</div>
 </div>
@@ -463,7 +428,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-placecategory"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="#%3Cinit%3E(java.lang.String)">PlaceCategory</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> id)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#%3Cinit%3E(java.lang.String)">PlaceCategory</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> id)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance of this class.</div>
 </div>
@@ -482,12 +447,12 @@ slug: "sdk-for-android-explore-com-here-sdk-search-placecategory"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#getId()">getId</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#getId()">getId</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the place category ID.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#getName()">getName</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#getName()">getName</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the localised place category name.</div>
 </div>
@@ -517,7 +482,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-..-..-..-..-constant-values#com.here.sdk.search.PlaceCategory.EAT_AND_DRINK">Constant Field Values</a></li>
+<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.EAT_AND_DRINK">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -532,7 +497,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-..-..-..-..-constant-values#com.here.sdk.search.PlaceCategory.EAT_AND_DRINK_RESTAURANT">Constant Field Values</a></li>
+<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.EAT_AND_DRINK_RESTAURANT">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -547,7 +512,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-..-..-..-..-constant-values#com.here.sdk.search.PlaceCategory.EAT_AND_DRINK_COFFEE_TEA">Constant Field Values</a></li>
+<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.EAT_AND_DRINK_COFFEE_TEA">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -563,7 +528,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-..-..-..-..-constant-values#com.here.sdk.search.PlaceCategory.GOING_OUT_ENTERTAINMENT">Constant Field Values</a></li>
+<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.GOING_OUT_ENTERTAINMENT">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -578,7 +543,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-..-..-..-..-constant-values#com.here.sdk.search.PlaceCategory.GOING_OUT_NIGHTLIFE">Constant Field Values</a></li>
+<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.GOING_OUT_NIGHTLIFE">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -593,7 +558,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-..-..-..-..-constant-values#com.here.sdk.search.PlaceCategory.GOING_OUT_CINEMA">Constant Field Values</a></li>
+<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.GOING_OUT_CINEMA">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -608,7 +573,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-..-..-..-..-constant-values#com.here.sdk.search.PlaceCategory.GOING_OUT_THEATRE_MUSIC_CULTURE">Constant Field Values</a></li>
+<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.GOING_OUT_THEATRE_MUSIC_CULTURE">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -623,7 +588,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-..-..-..-..-constant-values#com.here.sdk.search.PlaceCategory.GOING_OUT_GAMBLING_LOTTERY_BETTING">Constant Field Values</a></li>
+<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.GOING_OUT_GAMBLING_LOTTERY_BETTING">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -639,7 +604,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-..-..-..-..-constant-values#com.here.sdk.search.PlaceCategory.SIGHTS_AND_MUSEUMS">Constant Field Values</a></li>
+<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.SIGHTS_AND_MUSEUMS">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -654,7 +619,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-..-..-..-..-constant-values#com.here.sdk.search.PlaceCategory.SIGHTS_LANDMARK_ATTRACTION">Constant Field Values</a></li>
+<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.SIGHTS_LANDMARK_ATTRACTION">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -669,7 +634,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-..-..-..-..-constant-values#com.here.sdk.search.PlaceCategory.SIGHTS_MUSEUM">Constant Field Values</a></li>
+<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.SIGHTS_MUSEUM">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -684,7 +649,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-..-..-..-..-constant-values#com.here.sdk.search.PlaceCategory.SIGHTS_RELIGIOUS_PLACE">Constant Field Values</a></li>
+<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.SIGHTS_RELIGIOUS_PLACE">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -700,7 +665,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-..-..-..-..-constant-values#com.here.sdk.search.PlaceCategory.NATURAL_AND_GEOGRAPHICAL">Constant Field Values</a></li>
+<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.NATURAL_AND_GEOGRAPHICAL">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -715,7 +680,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-..-..-..-..-constant-values#com.here.sdk.search.PlaceCategory.NATURAL_AND_GEOGRAPHICAL_BODY_OF_WATER">Constant Field Values</a></li>
+<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.NATURAL_AND_GEOGRAPHICAL_BODY_OF_WATER">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -730,7 +695,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-..-..-..-..-constant-values#com.here.sdk.search.PlaceCategory.NATURAL_AND_GEOGRAPHICAL_MOUNTAIN_OR_HILL">Constant Field Values</a></li>
+<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.NATURAL_AND_GEOGRAPHICAL_MOUNTAIN_OR_HILL">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -745,7 +710,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-..-..-..-..-constant-values#com.here.sdk.search.PlaceCategory.NATURAL_AND_GEOGRAPHICAL_UNDERSEA_FEATURE">Constant Field Values</a></li>
+<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.NATURAL_AND_GEOGRAPHICAL_UNDERSEA_FEATURE">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -760,7 +725,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-..-..-..-..-constant-values#com.here.sdk.search.PlaceCategory.NATURAL_AND_GEOGRAPHICAL_FOREST_HEALTH_OTHER_VEGETATION">Constant Field Values</a></li>
+<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.NATURAL_AND_GEOGRAPHICAL_FOREST_HEALTH_OTHER_VEGETATION">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -775,7 +740,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-..-..-..-..-constant-values#com.here.sdk.search.PlaceCategory.NATURAL_AND_GEOGRAPHICAL_OTHER">Constant Field Values</a></li>
+<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.NATURAL_AND_GEOGRAPHICAL_OTHER">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -791,7 +756,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-..-..-..-..-constant-values#com.here.sdk.search.PlaceCategory.TRANSPORT">Constant Field Values</a></li>
+<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.TRANSPORT">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -806,7 +771,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-..-..-..-..-constant-values#com.here.sdk.search.PlaceCategory.TRANSPORT_AIRPORT">Constant Field Values</a></li>
+<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.TRANSPORT_AIRPORT">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -821,7 +786,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-..-..-..-..-constant-values#com.here.sdk.search.PlaceCategory.TRANSPORT_PUBLIC">Constant Field Values</a></li>
+<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.TRANSPORT_PUBLIC">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -836,7 +801,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-..-..-..-..-constant-values#com.here.sdk.search.PlaceCategory.TRANSPORT_CARGO">Constant Field Values</a></li>
+<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.TRANSPORT_CARGO">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -851,7 +816,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-..-..-..-..-constant-values#com.here.sdk.search.PlaceCategory.TRANSPORT_REST_AREA">Constant Field Values</a></li>
+<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.TRANSPORT_REST_AREA">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -867,7 +832,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-..-..-..-..-constant-values#com.here.sdk.search.PlaceCategory.ACCOMMODATION">Constant Field Values</a></li>
+<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.ACCOMMODATION">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -882,7 +847,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-..-..-..-..-constant-values#com.here.sdk.search.PlaceCategory.ACCOMMODATION_HOTEL_MOTEL">Constant Field Values</a></li>
+<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.ACCOMMODATION_HOTEL_MOTEL">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -897,7 +862,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-..-..-..-..-constant-values#com.here.sdk.search.PlaceCategory.ACCOMMODATION_LODGING">Constant Field Values</a></li>
+<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.ACCOMMODATION_LODGING">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -913,7 +878,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-..-..-..-..-constant-values#com.here.sdk.search.PlaceCategory.LEISURE_AND_OUTDOOR">Constant Field Values</a></li>
+<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.LEISURE_AND_OUTDOOR">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -928,7 +893,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-..-..-..-..-constant-values#com.here.sdk.search.PlaceCategory.LEISURE_OUTDOOR_RECREATION">Constant Field Values</a></li>
+<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.LEISURE_OUTDOOR_RECREATION">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -943,7 +908,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-..-..-..-..-constant-values#com.here.sdk.search.PlaceCategory.LEISURE_OTHER">Constant Field Values</a></li>
+<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.LEISURE_OTHER">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -959,7 +924,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-..-..-..-..-constant-values#com.here.sdk.search.PlaceCategory.SHOPPING">Constant Field Values</a></li>
+<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.SHOPPING">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -974,7 +939,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-..-..-..-..-constant-values#com.here.sdk.search.PlaceCategory.SHOPPING_CONVENIENCE_STORE">Constant Field Values</a></li>
+<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.SHOPPING_CONVENIENCE_STORE">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -989,7 +954,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-..-..-..-..-constant-values#com.here.sdk.search.PlaceCategory.SHOPPING_MALL_COMPLEX">Constant Field Values</a></li>
+<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.SHOPPING_MALL_COMPLEX">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -1004,7 +969,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-..-..-..-..-constant-values#com.here.sdk.search.PlaceCategory.SHOPPING_DEPARTMENT_STORE">Constant Field Values</a></li>
+<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.SHOPPING_DEPARTMENT_STORE">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -1019,7 +984,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-..-..-..-..-constant-values#com.here.sdk.search.PlaceCategory.SHOPPING_FOOD_AND_DRINK">Constant Field Values</a></li>
+<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.SHOPPING_FOOD_AND_DRINK">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -1034,7 +999,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-..-..-..-..-constant-values#com.here.sdk.search.PlaceCategory.SHOPPING_DRUGSTORE_PHARMACY">Constant Field Values</a></li>
+<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.SHOPPING_DRUGSTORE_PHARMACY">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -1049,7 +1014,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-..-..-..-..-constant-values#com.here.sdk.search.PlaceCategory.SHOPPING_ELECTRONICS">Constant Field Values</a></li>
+<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.SHOPPING_ELECTRONICS">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -1064,7 +1029,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-..-..-..-..-constant-values#com.here.sdk.search.PlaceCategory.SHOPPING_HARDWARE_HOUSE_GARDEN">Constant Field Values</a></li>
+<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.SHOPPING_HARDWARE_HOUSE_GARDEN">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -1079,7 +1044,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-..-..-..-..-constant-values#com.here.sdk.search.PlaceCategory.SHOPPING_BOOKSTORE">Constant Field Values</a></li>
+<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.SHOPPING_BOOKSTORE">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -1094,7 +1059,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-..-..-..-..-constant-values#com.here.sdk.search.PlaceCategory.SHOPPING_CLOTHING_AND_ACCESORIES">Constant Field Values</a></li>
+<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.SHOPPING_CLOTHING_AND_ACCESORIES">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -1109,7 +1074,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-..-..-..-..-constant-values#com.here.sdk.search.PlaceCategory.SHOPPING_CONSUMER_GOODS">Constant Field Values</a></li>
+<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.SHOPPING_CONSUMER_GOODS">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -1125,7 +1090,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-..-..-..-..-constant-values#com.here.sdk.search.PlaceCategory.SHOPPING_HAIR_AND_BEAUTY">Constant Field Values</a></li>
+<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.SHOPPING_HAIR_AND_BEAUTY">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -1141,7 +1106,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-..-..-..-..-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES">Constant Field Values</a></li>
+<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -1156,7 +1121,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-..-..-..-..-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_BANKING">Constant Field Values</a></li>
+<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_BANKING">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -1171,7 +1136,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-..-..-..-..-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_ATM">Constant Field Values</a></li>
+<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_ATM">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -1186,7 +1151,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-..-..-..-..-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_MONEY_CASH">Constant Field Values</a></li>
+<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_MONEY_CASH">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -1201,7 +1166,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-..-..-..-..-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_COMMUNICATION_MEDIA">Constant Field Values</a></li>
+<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_COMMUNICATION_MEDIA">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -1216,7 +1181,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-..-..-..-..-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_COMMERCIAL_SERVICES">Constant Field Values</a></li>
+<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_COMMERCIAL_SERVICES">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -1231,7 +1196,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-..-..-..-..-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_INDUSTRY">Constant Field Values</a></li>
+<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_INDUSTRY">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -1246,7 +1211,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-..-..-..-..-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_POLICE_FIRE_EMERGENCY">Constant Field Values</a></li>
+<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_POLICE_FIRE_EMERGENCY">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -1261,7 +1226,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-..-..-..-..-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_CONSUMER_SERVICES">Constant Field Values</a></li>
+<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_CONSUMER_SERVICES">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -1276,7 +1241,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-..-..-..-..-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_POST_OFFICE">Constant Field Values</a></li>
+<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_POST_OFFICE">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -1292,7 +1257,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-..-..-..-..-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_TOURIST_INFORMATION">Constant Field Values</a></li>
+<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_TOURIST_INFORMATION">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -1307,7 +1272,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-..-..-..-..-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_FUELING_STATION">Constant Field Values</a></li>
+<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_FUELING_STATION">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -1322,7 +1287,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-..-..-..-..-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_PETROL_GASOLINE_STATION">Constant Field Values</a></li>
+<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_PETROL_GASOLINE_STATION">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -1337,7 +1302,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-..-..-..-..-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_EV_CHARGING_STATION">Constant Field Values</a></li>
+<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_EV_CHARGING_STATION">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -1352,7 +1317,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-..-..-..-..-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_CAR_DEALER_SALES">Constant Field Values</a></li>
+<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_CAR_DEALER_SALES">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -1367,7 +1332,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-..-..-..-..-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_CAR_REPAIR_SERVICES">Constant Field Values</a></li>
+<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_CAR_REPAIR_SERVICES">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -1382,7 +1347,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-..-..-..-..-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_CAR_RENTAL">Constant Field Values</a></li>
+<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_CAR_RENTAL">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -1397,7 +1362,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-..-..-..-..-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_TRUCK_SEMI_DEALER">Constant Field Values</a></li>
+<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_TRUCK_SEMI_DEALER">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -1413,7 +1378,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-..-..-..-..-constant-values#com.here.sdk.search.PlaceCategory.FACILITIES">Constant Field Values</a></li>
+<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.FACILITIES">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -1428,7 +1393,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-..-..-..-..-constant-values#com.here.sdk.search.PlaceCategory.FACILITIES_HOSPITAL_HEALTHCARE">Constant Field Values</a></li>
+<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.FACILITIES_HOSPITAL_HEALTHCARE">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -1443,7 +1408,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-..-..-..-..-constant-values#com.here.sdk.search.PlaceCategory.FACILITIES_GOVERNMENT_COMMUNITTY">Constant Field Values</a></li>
+<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.FACILITIES_GOVERNMENT_COMMUNITTY">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -1458,7 +1423,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-..-..-..-..-constant-values#com.here.sdk.search.PlaceCategory.FACILITIES_EDUCATION">Constant Field Values</a></li>
+<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.FACILITIES_EDUCATION">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -1473,7 +1438,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-..-..-..-..-constant-values#com.here.sdk.search.PlaceCategory.FACILITIES_SCHOOL">Constant Field Values</a></li>
+<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.FACILITIES_SCHOOL">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -1488,7 +1453,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-..-..-..-..-constant-values#com.here.sdk.search.PlaceCategory.FACILITIES_LIBRARY">Constant Field Values</a></li>
+<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.FACILITIES_LIBRARY">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -1503,7 +1468,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-..-..-..-..-constant-values#com.here.sdk.search.PlaceCategory.FACILITIES_EVENT_SPACES">Constant Field Values</a></li>
+<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.FACILITIES_EVENT_SPACES">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -1518,7 +1483,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-..-..-..-..-constant-values#com.here.sdk.search.PlaceCategory.FACILITIES_PARKING">Constant Field Values</a></li>
+<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.FACILITIES_PARKING">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -1533,7 +1498,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-..-..-..-..-constant-values#com.here.sdk.search.PlaceCategory.FACILITIES_VENUE_SPORTS">Constant Field Values</a></li>
+<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.FACILITIES_VENUE_SPORTS">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -1548,7 +1513,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-..-..-..-..-constant-values#com.here.sdk.search.PlaceCategory.FACILITIES_OTHER">Constant Field Values</a></li>
+<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.FACILITIES_OTHER">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -1564,7 +1529,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-..-..-..-..-constant-values#com.here.sdk.search.PlaceCategory.AREAS_AND_BUILDINGS">Constant Field Values</a></li>
+<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.AREAS_AND_BUILDINGS">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -1579,7 +1544,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-..-..-..-..-constant-values#com.here.sdk.search.PlaceCategory.AREAS_AND_BUILDINGS_OUTDOOR_COMPLEX">Constant Field Values</a></li>
+<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.AREAS_AND_BUILDINGS_OUTDOOR_COMPLEX">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -1594,7 +1559,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-..-..-..-..-constant-values#com.here.sdk.search.PlaceCategory.AREAS_AND_BUILDINGS_RESIDENTAL_OFFICE">Constant Field Values</a></li>
+<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.AREAS_AND_BUILDINGS_RESIDENTAL_OFFICE">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -1627,7 +1592,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-placecategory"
      such as "Eat and Drink / Restaurant / Casual Dining".
      Their IDs take the form "xxx-xxxx-xxxx", for example "100-1000-0001".
      The category ID can be provided as one of the predefined values, such as
-     <a href="#EAT_AND_DRINK_RESTAURANT"><code>EAT_AND_DRINK_RESTAURANT</code></a> or as a literal string that matches
+     <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#EAT_AND_DRINK_RESTAURANT"><code>EAT_AND_DRINK_RESTAURANT</code></a> or as a literal string that matches
      one of the category IDs defined by the HERE Search service.
      Only level 1 and 2 category IDs are predefined.
      The complete list of supported category IDs, including level 3, can be found online:
@@ -1678,8 +1643,8 @@ slug: "sdk-for-android-explore-com-here-sdk-search-placecategory"
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
 </main>
-</div>
-</div>
+
+
 
 
 

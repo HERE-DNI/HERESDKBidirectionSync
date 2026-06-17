@@ -14,48 +14,13 @@ slug: "sdk-for-android-explore-com-here-sdk-core-geopolyline"
 
 
 
-<div class="flex-box">
-<header class="flex-header" role="banner">
-<nav role="navigation">
-<!-- ========= START OF TOP NAVBAR ======= -->
-<div class="top-nav" id="navbar-top">
-<div class="skip-nav"><a href="#skip-navbar-top" title="Skip navigation links">Skip navigation links</a></div>
-<ul class="nav-list" id="navbar-top-firstrow" title="Navigation">
-<li><a href="sdk-for-android-explore-..-..-..-..-index">Overview</a></li>
-<li><a href="sdk-for-android-explore-package-summary">Package</a></li>
-<li class="nav-bar-cell1-rev">Class</li>
-<li><a href="sdk-for-android-explore-package-tree">Tree</a></li>
-<li><a href="sdk-for-android-explore-..-..-..-..-deprecated-list">Deprecated</a></li>
-<li><a href="sdk-for-android-explore-..-..-..-..-index-all">Index</a></li>
-<li><a href="sdk-for-android-explore-..-..-..-..-help-doc#class">Help</a></li>
-</ul>
-</div>
-<div class="sub-nav">
-<div>
-<ul class="sub-nav-list">
-<li>Summary: </li>
-<li>Nested | </li>
-<li><a href="#field-summary">Field</a> | </li>
-<li><a href="#constructor-summary">Constr</a> | </li>
-<li><a href="#method-summary">Method</a></li>
-</ul>
-<ul class="sub-nav-list">
-<li>Detail: </li>
-<li><a href="#field-detail">Field</a> | </li>
-<li><a href="#constructor-detail">Constr</a> | </li>
-<li><a href="#method-detail">Method</a></li>
-</ul>
-</div>
 
-</div>
-<!-- ========= END OF TOP NAVBAR ========= -->
-<span class="skip-nav" id="skip-navbar-top"></span></nav>
-</header>
-<div class="flex-content">
+
+
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.core</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-package-summary">com.here.sdk.core</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -80,8 +45,8 @@ slug: "sdk-for-android-explore-com-here-sdk-core-geopolyline"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code>final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a>&gt;</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="#vertices">vertices</a></code></div>
+<div class="col-first even-row-color"><code>final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a>&gt;</code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#vertices">vertices</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The list of vertices representing the polyline.</div>
 </div>
@@ -96,11 +61,11 @@ slug: "sdk-for-android-explore-com-here-sdk-core-geopolyline"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="#%3Cinit%3E(com.here.sdk.core.GeoBox)">GeoPolyline</a><wbr/>(<a href="sdk-for-android-explore-geobox" title="class in com.here.sdk.core">GeoBox</a> geoBox)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#%3Cinit%3E(com.here.sdk.core.GeoBox)">GeoPolyline</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-geobox" title="class in com.here.sdk.core">GeoBox</a> geoBox)</code></div>
 <div class="col-last even-row-color">
-<div class="block">Constructs an instance of this class from <a href="sdk-for-android-explore-geobox" title="class in com.here.sdk.core"><code>GeoBox</code></a>.</div>
+<div class="block">Constructs an instance of this class from <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-geobox" title="class in com.here.sdk.core"><code>GeoBox</code></a>.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="#%3Cinit%3E(java.util.List)">GeoPolyline</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a>&gt; vertices)</code></div>
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#%3Cinit%3E(java.util.List)">GeoPolyline</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a>&gt; vertices)</code></div>
 <div class="col-last odd-row-color">
 <div class="block">Constructs a GeoPolyline from the provided vertices.</div>
 </div>
@@ -118,22 +83,22 @@ slug: "sdk-for-android-explore-com-here-sdk-core-geopolyline"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#coordinatesAtOffsetInMeters(double,com.here.sdk.core.GeoPolylineDirection)">coordinatesAtOffsetInMeters</a><wbr/>(double offsetInMeters,
- <a href="sdk-for-android-explore-geopolylinedirection" title="enum class in com.here.sdk.core">GeoPolylineDirection</a> direction)</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#coordinatesAtOffsetInMeters(double,com.here.sdk.core.GeoPolylineDirection)">coordinatesAtOffsetInMeters</a><wbr/>(double offsetInMeters,
+ <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-geopolylinedirection" title="enum class in com.here.sdk.core">GeoPolylineDirection</a> direction)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Returns the coordinates at the given distance along the polyline.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>long</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#getNearestIndexTo(com.here.sdk.core.GeoCoordinates)">getNearestIndexTo</a><wbr/>(<a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> point)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#getNearestIndexTo(com.here.sdk.core.GeoCoordinates)">getNearestIndexTo</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> point)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Returns the index of the nearest vertex to the given point.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#hashCode()">hashCode</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 </div>
 </div>
@@ -156,7 +121,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-geopolyline"
 <section class="detail" id="vertices">
 <h3>vertices</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public final</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a>&gt;</span> <span class="element-name">vertices</span></div>
+</span><span class="modifiers">public final</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a>&gt;</span> <span class="element-name">vertices</span></div>
 <div class="block"><p>The list of vertices representing the polyline.</p></div>
 </section>
 </li>
@@ -172,15 +137,15 @@ slug: "sdk-for-android-explore-com-here-sdk-core-geopolyline"
 <section class="detail" id="&lt;init&gt;(java.util.List)">
 <h3>GeoPolyline</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">GeoPolyline</span><wbr/><span class="parameters">(@NonNull
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a>&gt; vertices)</span>
-            throws <span class="exceptions"><a href="sdk-for-android-explore-errors-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></span></div>
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a>&gt; vertices)</span>
+            throws <span class="exceptions"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></span></div>
 <div class="block"><p>Constructs a GeoPolyline from the provided vertices.
  Throws an InstantiationError if the number of vertices is less than two.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>vertices</code> - <p>List of vertices representing the polyline.</p></dd>
 <dt>Throws:</dt>
-<dd><code><a href="sdk-for-android-explore-errors-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></code> - <p>Instantiation error.</p></dd>
+<dd><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></code> - <p>Instantiation error.</p></dd>
 </dl>
 </section>
 </li>
@@ -188,12 +153,12 @@ slug: "sdk-for-android-explore-com-here-sdk-core-geopolyline"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.core.GeoBox)">
 <h3>GeoPolyline</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">GeoPolyline</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-geobox" title="class in com.here.sdk.core">GeoBox</a> geoBox)</span></div>
-<div class="block"><p>Constructs an instance of this class from <a href="sdk-for-android-explore-geobox" title="class in com.here.sdk.core"><code>GeoBox</code></a>.</p></div>
+ <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-geobox" title="class in com.here.sdk.core">GeoBox</a> geoBox)</span></div>
+<div class="block"><p>Constructs an instance of this class from <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-geobox" title="class in com.here.sdk.core"><code>GeoBox</code></a>.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
-<dd><code>geoBox</code> - <p>A rectangle defined by the <a href="sdk-for-android-explore-geobox" title="class in com.here.sdk.core"><code>GeoBox</code></a> to be converted into <a href="sdk-for-android-explore-geopolyline" title="class in com.here.sdk.core"><code>GeoPolyline</code></a>.
-     The corner coordinates of the <a href="sdk-for-android-explore-geobox" title="class in com.here.sdk.core"><code>GeoBox</code></a> will define the points of the resulting <a href="sdk-for-android-explore-geopolyline" title="class in com.here.sdk.core"><code>GeoPolyline</code></a>.</p></dd>
+<dd><code>geoBox</code> - <p>A rectangle defined by the <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-geobox" title="class in com.here.sdk.core"><code>GeoBox</code></a> to be converted into <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-geopolyline" title="class in com.here.sdk.core"><code>GeoPolyline</code></a>.
+     The corner coordinates of the <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-geobox" title="class in com.here.sdk.core"><code>GeoBox</code></a> will define the points of the resulting <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-geopolyline" title="class in com.here.sdk.core"><code>GeoPolyline</code></a>.</p></dd>
 </dl>
 </section>
 </li>
@@ -229,7 +194,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-geopolyline"
 <section class="detail" id="getNearestIndexTo(com.here.sdk.core.GeoCoordinates)">
 <h3>getNearestIndexTo</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">long</span> <span class="element-name">getNearestIndexTo</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> point)</span></div>
+ <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> point)</span></div>
 <div class="block"><p>Returns the index of the nearest vertex to the given point.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -243,9 +208,9 @@ slug: "sdk-for-android-explore-com-here-sdk-core-geopolyline"
 <section class="detail" id="coordinatesAtOffsetInMeters(double,com.here.sdk.core.GeoPolylineDirection)">
 <h3>coordinatesAtOffsetInMeters</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">coordinatesAtOffsetInMeters</span><wbr/><span class="parameters">(double offsetInMeters,
+</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">coordinatesAtOffsetInMeters</span><wbr/><span class="parameters">(double offsetInMeters,
  @NonNull
- <a href="sdk-for-android-explore-geopolylinedirection" title="enum class in com.here.sdk.core">GeoPolylineDirection</a> direction)</span></div>
+ <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-geopolylinedirection" title="enum class in com.here.sdk.core">GeoPolylineDirection</a> direction)</span></div>
 <div class="block"><p>Returns the coordinates at the given distance along the polyline. When the polyline is
  traversed from the beginning, the distance is calculated from the start of the
  polyline; while a direction from the end indicates a distance from the last vertex.
@@ -255,10 +220,10 @@ slug: "sdk-for-android-explore-com-here-sdk-core-geopolyline"
  Similarly, when the offset is larger than the length of the polyline, then the function
  returns the opposite end point of the polyline.
  </p><p>The distance between two consecutive vertices is calculated using the
- <a href="sdk-for-android-explore-geocoordinates#distanceTo(com.here.sdk.core.GeoCoordinates)"><code>GeoCoordinates.distanceTo(com.here.sdk.core.GeoCoordinates)</code></a> function. Therefore, it computes the distance (in meters) along
+ <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-geocoordinates#distanceTo(com.here.sdk.core.GeoCoordinates)"><code>GeoCoordinates.distanceTo(com.here.sdk.core.GeoCoordinates)</code></a> function. Therefore, it computes the distance (in meters) along
  the great circle between the two vertices. Similarly, the full length of the polyline is the
  sum of the distances between its vertices. The interpolation coordinates between two vertices
- is calculated using the <a href="sdk-for-android-explore-geocoordinates#interpolate(com.here.sdk.core.GeoCoordinates,double)"><code>GeoCoordinates.interpolate(com.here.sdk.core.GeoCoordinates, double)</code></a> function.
+ is calculated using the <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-geocoordinates#interpolate(com.here.sdk.core.GeoCoordinates,double)"><code>GeoCoordinates.interpolate(com.here.sdk.core.GeoCoordinates, double)</code></a> function.
  </p><p>Note: the result may different from the analogue result from other matching components since
  they may adapt the result to the length of the underlying object described by the polyline.</p></div>
 <dl class="notes">
@@ -277,8 +242,8 @@ slug: "sdk-for-android-explore-com-here-sdk-core-geopolyline"
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
 </main>
-</div>
-</div>
+
+
 
 
 

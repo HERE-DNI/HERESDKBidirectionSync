@@ -14,48 +14,13 @@ slug: "sdk-for-android-explore-com-here-sdk-search-evchargingopeninghours"
 
 
 
-<div class="flex-box">
-<header class="flex-header" role="banner">
-<nav role="navigation">
-<!-- ========= START OF TOP NAVBAR ======= -->
-<div class="top-nav" id="navbar-top">
-<div class="skip-nav"><a href="#skip-navbar-top" title="Skip navigation links">Skip navigation links</a></div>
-<ul class="nav-list" id="navbar-top-firstrow" title="Navigation">
-<li><a href="sdk-for-android-explore-..-..-..-..-index">Overview</a></li>
-<li><a href="sdk-for-android-explore-package-summary">Package</a></li>
-<li class="nav-bar-cell1-rev">Class</li>
-<li><a href="sdk-for-android-explore-package-tree">Tree</a></li>
-<li><a href="sdk-for-android-explore-..-..-..-..-deprecated-list">Deprecated</a></li>
-<li><a href="sdk-for-android-explore-..-..-..-..-index-all">Index</a></li>
-<li><a href="sdk-for-android-explore-..-..-..-..-help-doc#class">Help</a></li>
-</ul>
-</div>
-<div class="sub-nav">
-<div>
-<ul class="sub-nav-list">
-<li>Summary: </li>
-<li>Nested | </li>
-<li><a href="#field-summary">Field</a> | </li>
-<li><a href="#constructor-summary">Constr</a> | </li>
-<li><a href="#method-summary">Method</a></li>
-</ul>
-<ul class="sub-nav-list">
-<li>Detail: </li>
-<li><a href="#field-detail">Field</a> | </li>
-<li><a href="#constructor-detail">Constr</a> | </li>
-<li><a href="#method-detail">Method</a></li>
-</ul>
-</div>
 
-</div>
-<!-- ========= END OF TOP NAVBAR ========= -->
-<span class="skip-nav" id="skip-navbar-top"></span></nav>
-</header>
-<div class="flex-content">
+
+
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.search</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-package-summary">com.here.sdk.search</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -81,23 +46,23 @@ slug: "sdk-for-android-explore-com-here-sdk-search-evchargingopeninghours"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>boolean</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="#chargingWhenClosed">chargingWhenClosed</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#chargingWhenClosed">chargingWhenClosed</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Indicates if it is allowed to leave vehicles in the charging location to continue
  charging outside opening hours.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-evchargingopeninghoursexception" title="class in com.here.sdk.search">EVChargingOpeningHoursException</a>&gt;</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="#exceptions">exceptions</a></code></div>
+<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-evchargingopeninghoursexception" title="class in com.here.sdk.search">EVChargingOpeningHoursException</a>&gt;</code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#exceptions">exceptions</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">List of opening hours exceptions for EV charging locations.</div>
 </div>
 <div class="col-first even-row-color"><code>boolean</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="#open24x7">open24x7</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#open24x7">open24x7</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Indicates if the charging location is open 24 hours a day, 7 days per week.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-evchargingopeninghoursschedule" title="class in com.here.sdk.search">EVChargingOpeningHoursSchedule</a>&gt;</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="#regularSchedule">regularSchedule</a></code></div>
+<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-evchargingopeninghoursschedule" title="class in com.here.sdk.search">EVChargingOpeningHoursSchedule</a>&gt;</code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#regularSchedule">regularSchedule</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">List of regular opening hours schedule for EV charging locations.</div>
 </div>
@@ -112,7 +77,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-evchargingopeninghours"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="#%3Cinit%3E()">EVChargingOpeningHours</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#%3Cinit%3E()">EVChargingOpeningHours</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -131,10 +96,10 @@ slug: "sdk-for-android-explore-com-here-sdk-search-evchargingopeninghours"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#hashCode()">hashCode</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 </div>
 </div>
@@ -158,7 +123,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-evchargingopeninghours"
 <h3>open24x7</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">open24x7</span></div>
 <div class="block"><p>Indicates if the charging location is open 24 hours a day, 7 days per week.
- If true, <a href="#regularSchedule"><code>regularSchedule</code></a> and <a href="#exceptions"><code>exceptions</code></a> will be empty.</p></div>
+ If true, <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#regularSchedule"><code>regularSchedule</code></a> and <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#exceptions"><code>exceptions</code></a> will be empty.</p></div>
 </section>
 </li>
 <li>
@@ -173,7 +138,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-evchargingopeninghours"
 <section class="detail" id="regularSchedule">
 <h3>regularSchedule</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-evchargingopeninghoursschedule" title="class in com.here.sdk.search">EVChargingOpeningHoursSchedule</a>&gt;</span> <span class="element-name">regularSchedule</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-evchargingopeninghoursschedule" title="class in com.here.sdk.search">EVChargingOpeningHoursSchedule</a>&gt;</span> <span class="element-name">regularSchedule</span></div>
 <div class="block"><p>List of regular opening hours schedule for EV charging locations.</p></div>
 </section>
 </li>
@@ -181,7 +146,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-evchargingopeninghours"
 <section class="detail" id="exceptions">
 <h3>exceptions</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-evchargingopeninghoursexception" title="class in com.here.sdk.search">EVChargingOpeningHoursException</a>&gt;</span> <span class="element-name">exceptions</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-evchargingopeninghoursexception" title="class in com.here.sdk.search">EVChargingOpeningHoursException</a>&gt;</span> <span class="element-name">exceptions</span></div>
 <div class="block"><p>List of opening hours exceptions for EV charging locations.</p></div>
 </section>
 </li>
@@ -235,8 +200,8 @@ slug: "sdk-for-android-explore-com-here-sdk-search-evchargingopeninghours"
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
 </main>
-</div>
-</div>
+
+
 
 
 

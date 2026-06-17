@@ -14,65 +14,30 @@ slug: "sdk-for-android-explore-com-here-sdk-traffic-trafficflow"
 
 
 
-<div class="flex-box">
-<header class="flex-header" role="banner">
-<nav role="navigation">
-<!-- ========= START OF TOP NAVBAR ======= -->
-<div class="top-nav" id="navbar-top">
-<div class="skip-nav"><a href="#skip-navbar-top" title="Skip navigation links">Skip navigation links</a></div>
-<ul class="nav-list" id="navbar-top-firstrow" title="Navigation">
-<li><a href="sdk-for-android-explore-..-..-..-..-index">Overview</a></li>
-<li><a href="sdk-for-android-explore-package-summary">Package</a></li>
-<li class="nav-bar-cell1-rev">Class</li>
-<li><a href="sdk-for-android-explore-package-tree">Tree</a></li>
-<li><a href="sdk-for-android-explore-..-..-..-..-deprecated-list">Deprecated</a></li>
-<li><a href="sdk-for-android-explore-..-..-..-..-index-all">Index</a></li>
-<li><a href="sdk-for-android-explore-..-..-..-..-help-doc#class">Help</a></li>
-</ul>
-</div>
-<div class="sub-nav">
-<div>
-<ul class="sub-nav-list">
-<li>Summary: </li>
-<li>Nested | </li>
-<li>Field | </li>
-<li>Constr | </li>
-<li><a href="#method-summary">Method</a></li>
-</ul>
-<ul class="sub-nav-list">
-<li>Detail: </li>
-<li>Field | </li>
-<li>Constr | </li>
-<li><a href="#method-detail">Method</a></li>
-</ul>
-</div>
 
-</div>
-<!-- ========= END OF TOP NAVBAR ========= -->
-<span class="skip-nav" id="skip-navbar-top"></span></nav>
-</header>
-<div class="flex-content">
+
+
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.traffic</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-package-summary">com.here.sdk.traffic</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a href="sdk-for-android-explore-..-..-nativebase" title="class in com.here">com.here.NativeBase</a>
+<div class="inheritance"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.traffic.TrafficFlow</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>All Implemented Interfaces:</dt>
-<dd><code><a href="sdk-for-android-explore-trafficflowbase" title="interface in com.here.sdk.traffic">TrafficFlowBase</a></code></dd>
+<dd><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-trafficflowbase" title="interface in com.here.sdk.traffic">TrafficFlowBase</a></code></dd>
 </dl>
 <hr/>
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">TrafficFlow</span>
-<span class="extends-implements">extends <a href="sdk-for-android-explore-..-..-nativebase" title="class in com.here">NativeBase</a>
-implements <a href="sdk-for-android-explore-trafficflowbase" title="interface in com.here.sdk.traffic">TrafficFlowBase</a></span></div>
-<div class="block"><p>This class provides details about traffic flow along a <a href="sdk-for-android-explore-..-core-geocorridor" title="class in com.here.sdk.core"><code>GeoCorridor</code></a>, inside a <a href="sdk-for-android-explore-..-core-geocircle" title="class in com.here.sdk.core"><code>GeoCircle</code></a> or a <a href="sdk-for-android-explore-..-core-geobox" title="class in com.here.sdk.core"><code>GeoBox</code></a>, that represents particular path of the road network.<br/>
+<span class="extends-implements">extends <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-nativebase" title="class in com.here">NativeBase</a>
+implements <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-trafficflowbase" title="interface in com.here.sdk.traffic">TrafficFlowBase</a></span></div>
+<div class="block"><p>This class provides details about traffic flow along a <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-geocorridor" title="class in com.here.sdk.core"><code>GeoCorridor</code></a>, inside a <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-geocircle" title="class in com.here.sdk.core"><code>GeoCircle</code></a> or a <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-geobox" title="class in com.here.sdk.core"><code>GeoBox</code></a>, that represents particular path of the road network.<br/>
  Backends for TrafficEngine and traffic vector tiles are different however backends may share the same data.<br/>
  For additional information about fields, refer to <a href="https://www.here.com/docs/bundle/traffic-api-v7-api-reference/page/index.html#tag/Real-Time-Traffic">Traffic API v7 API Reference: Traffic API v7</a>.
  </p><p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
@@ -92,47 +57,47 @@ implements <a href="sdk-for-android-explore-trafficflowbase" title="interface in
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#getConfidence()">getConfidence</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#getConfidence()">getConfidence</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the confidence field value which is normalized value between 0.0 and 1.0.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>double</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#getFreeFlowSpeedInMetersPerSecond()">getFreeFlowSpeedInMetersPerSecond</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#getFreeFlowSpeedInMetersPerSecond()">getFreeFlowSpeedInMetersPerSecond</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the reference speed in meters per second along the roadway when no traffic is present.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>double</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#getJamFactor()">getJamFactor</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#getJamFactor()">getJamFactor</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets a value for the amount of traffic on the roadway.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Short.html" title="class or interface in java.lang">Short</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#getJamTendency()">getJamTendency</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#getJamTendency()">getJamTendency</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the jam tendency field value which denotes whether the congestion is increasing, decreasing, or constant.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-junctionstraversability" title="enum class in com.here.sdk.traffic">JunctionsTraversability</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#getJunctionsTraversability()">getJunctionsTraversability</a>()</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-junctionstraversability" title="enum class in com.here.sdk.traffic">JunctionsTraversability</a></code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#getJunctionsTraversability()">getJunctionsTraversability</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the traversability of junctions along the affected road.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-trafficlocation" title="class in com.here.sdk.traffic">TrafficLocation</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#getLocation()">getLocation</a>()</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-trafficlocation" title="class in com.here.sdk.traffic">TrafficLocation</a></code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#getLocation()">getLocation</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the location of the incident.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#getSpeedInMetersPerSecond()">getSpeedInMetersPerSecond</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#getSpeedInMetersPerSecond()">getSpeedInMetersPerSecond</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the expected speed in meters per second along the roadway; will not exceed the legal speed limit.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#getSpeedUncappedInMetersPerSecond()">getSpeedUncappedInMetersPerSecond</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#getSpeedUncappedInMetersPerSecond()">getSpeedUncappedInMetersPerSecond</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the expected speed in meters per second along the roadway.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-traversability" title="enum class in com.here.sdk.traffic">Traversability</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#getTraversability()">getTraversability</a>()</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-traversability" title="enum class in com.here.sdk.traffic">Traversability</a></code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#getTraversability()">getTraversability</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the traversability of roadway.</div>
 </div>
@@ -157,7 +122,7 @@ implements <a href="sdk-for-android-explore-trafficflowbase" title="interface in
 <section class="detail" id="getLocation()">
 <h3>getLocation</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-trafficlocation" title="class in com.here.sdk.traffic">TrafficLocation</a></span> <span class="element-name">getLocation</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-trafficlocation" title="class in com.here.sdk.traffic">TrafficLocation</a></span> <span class="element-name">getLocation</span>()</div>
 <div class="block"><p>Gets the location of the incident.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -239,7 +204,7 @@ implements <a href="sdk-for-android-explore-trafficflowbase" title="interface in
 <section class="detail" id="getTraversability()">
 <h3>getTraversability</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-traversability" title="enum class in com.here.sdk.traffic">Traversability</a></span> <span class="element-name">getTraversability</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-traversability" title="enum class in com.here.sdk.traffic">Traversability</a></span> <span class="element-name">getTraversability</span>()</div>
 <div class="block"><p>Gets the traversability of roadway.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -251,7 +216,7 @@ implements <a href="sdk-for-android-explore-trafficflowbase" title="interface in
 <section class="detail" id="getJunctionsTraversability()">
 <h3>getJunctionsTraversability</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-junctionstraversability" title="enum class in com.here.sdk.traffic">JunctionsTraversability</a></span> <span class="element-name">getJunctionsTraversability</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-junctionstraversability" title="enum class in com.here.sdk.traffic">JunctionsTraversability</a></span> <span class="element-name">getJunctionsTraversability</span>()</div>
 <div class="block"><p>Gets the traversability of junctions along the affected road.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -266,7 +231,7 @@ implements <a href="sdk-for-android-explore-trafficflowbase" title="interface in
 <div class="block"><p>Gets the reference speed in meters per second along the roadway when no traffic is present.</p></div>
 <dl class="notes">
 <dt>Specified by:</dt>
-<dd><code><a href="sdk-for-android-explore-trafficflowbase#getFreeFlowSpeedInMetersPerSecond()">getFreeFlowSpeedInMetersPerSecond</a></code> in interface <code><a href="sdk-for-android-explore-trafficflowbase" title="interface in com.here.sdk.traffic">TrafficFlowBase</a></code></dd>
+<dd><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-trafficflowbase#getFreeFlowSpeedInMetersPerSecond()">getFreeFlowSpeedInMetersPerSecond</a></code> in interface <code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-trafficflowbase" title="interface in com.here.sdk.traffic">TrafficFlowBase</a></code></dd>
 <dt>Returns:</dt>
 <dd><p>The reference speed in meters per second along the roadway when no traffic is present.</p></dd>
 </dl>
@@ -283,7 +248,7 @@ implements <a href="sdk-for-android-explore-trafficflowbase" title="interface in
  A value of 10.0 is reserved to represent a blocked roadway (closure).</p></div>
 <dl class="notes">
 <dt>Specified by:</dt>
-<dd><code><a href="sdk-for-android-explore-trafficflowbase#getJamFactor()">getJamFactor</a></code> in interface <code><a href="sdk-for-android-explore-trafficflowbase" title="interface in com.here.sdk.traffic">TrafficFlowBase</a></code></dd>
+<dd><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-trafficflowbase#getJamFactor()">getJamFactor</a></code> in interface <code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-trafficflowbase" title="interface in com.here.sdk.traffic">TrafficFlowBase</a></code></dd>
 <dt>Returns:</dt>
 <dd><p>A value for the amount of traffic on the roadway.</p></dd>
 </dl>
@@ -296,8 +261,8 @@ implements <a href="sdk-for-android-explore-trafficflowbase" title="interface in
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
 </main>
-</div>
-</div>
+
+
 
 
 

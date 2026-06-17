@@ -14,7 +14,7 @@ slug: "sdk-for-android-explore-overview-summary"
 
 <main role="main">
 
-<p><a href="sdk-for-android-explore-index">index.html</a></p>
+<p><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index">index.html</a></p>
 </main>
 
 

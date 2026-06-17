@@ -14,61 +14,26 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-sdklogger"
 
 
 
-<div class="flex-box">
-<header class="flex-header" role="banner">
-<nav role="navigation">
-<!-- ========= START OF TOP NAVBAR ======= -->
-<div class="top-nav" id="navbar-top">
-<div class="skip-nav"><a href="#skip-navbar-top" title="Skip navigation links">Skip navigation links</a></div>
-<ul class="nav-list" id="navbar-top-firstrow" title="Navigation">
-<li><a href="sdk-for-android-explore-..-..-..-..-..-index">Overview</a></li>
-<li><a href="sdk-for-android-explore-package-summary">Package</a></li>
-<li class="nav-bar-cell1-rev">Class</li>
-<li><a href="sdk-for-android-explore-package-tree">Tree</a></li>
-<li><a href="sdk-for-android-explore-..-..-..-..-..-deprecated-list">Deprecated</a></li>
-<li><a href="sdk-for-android-explore-..-..-..-..-..-index-all">Index</a></li>
-<li><a href="sdk-for-android-explore-..-..-..-..-..-help-doc#class">Help</a></li>
-</ul>
-</div>
-<div class="sub-nav">
-<div>
-<ul class="sub-nav-list">
-<li>Summary: </li>
-<li>Nested | </li>
-<li>Field | </li>
-<li>Constr | </li>
-<li><a href="#method-summary">Method</a></li>
-</ul>
-<ul class="sub-nav-list">
-<li>Detail: </li>
-<li>Field | </li>
-<li>Constr | </li>
-<li><a href="#method-detail">Method</a></li>
-</ul>
-</div>
 
-</div>
-<!-- ========= END OF TOP NAVBAR ========= -->
-<span class="skip-nav" id="skip-navbar-top"></span></nav>
-</header>
-<div class="flex-content">
+
+
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.core.engine</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-package-summary">com.here.sdk.core.engine</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a href="sdk-for-android-explore-..-..-..-nativebase" title="class in com.here">com.here.NativeBase</a>
+<div class="inheritance"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.core.engine.SDKLogger</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 <hr/>
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">SDKLogger</span>
-<span class="extends-implements">extends <a href="sdk-for-android-explore-..-..-..-nativebase" title="class in com.here">NativeBase</a></span></div>
+<span class="extends-implements">extends <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>Logging interface for Android/iOS platforms.
- These logs are under management of <a href="sdk-for-android-explore-logcontrol" title="class in com.here.sdk.core.engine"><code>LogControl</code></a> and should be used instead of platform-specific logging functions.</p></div>
+ These logs are under management of <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-logcontrol" title="class in com.here.sdk.core.engine"><code>LogControl</code></a> and should be used instead of platform-specific logging functions.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -84,30 +49,30 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-sdklogger"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="#error(java.lang.String,java.lang.String)">error</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> tag,
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#error(java.lang.String,java.lang.String)">error</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> tag,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> message)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">convenient function to print a message with log level ERROR and tag.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="#fatal(java.lang.String,java.lang.String)">fatal</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> tag,
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#fatal(java.lang.String,java.lang.String)">fatal</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> tag,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> message)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">convenient function to print a message with log level FATAL and tag.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="#info(java.lang.String,java.lang.String)">info</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> tag,
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#info(java.lang.String,java.lang.String)">info</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> tag,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> message)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">convenient function to print a message with log level INFO and tag.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="#log(com.here.sdk.core.engine.LogLevel,java.lang.String,java.lang.String)">log</a><wbr/>(<a href="sdk-for-android-explore-loglevel" title="enum class in com.here.sdk.core.engine">LogLevel</a> level,
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#log(com.here.sdk.core.engine.LogLevel,java.lang.String,java.lang.String)">log</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-loglevel" title="enum class in com.here.sdk.core.engine">LogLevel</a> level,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> tag,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> message)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"> </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="#warn(java.lang.String,java.lang.String)">warn</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> tag,
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#warn(java.lang.String,java.lang.String)">warn</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> tag,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> message)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">convenient function to print a message with log level WARNING and tag.</div>
@@ -133,7 +98,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-sdklogger"
 <section class="detail" id="log(com.here.sdk.core.engine.LogLevel,java.lang.String,java.lang.String)">
 <h3>log</h3>
 <div class="member-signature"><span class="modifiers">public static</span> <span class="return-type">void</span> <span class="element-name">log</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-loglevel" title="enum class in com.here.sdk.core.engine">LogLevel</a> level,
+ <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-loglevel" title="enum class in com.here.sdk.core.engine">LogLevel</a> level,
  @NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> tag,
  @NonNull
@@ -213,8 +178,8 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-sdklogger"
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
 </main>
-</div>
-</div>
+
+
 
 
 

@@ -14,48 +14,13 @@ slug: "sdk-for-android-explore-com-here-sdk-search-address"
 
 
 
-<div class="flex-box">
-<header class="flex-header" role="banner">
-<nav role="navigation">
-<!-- ========= START OF TOP NAVBAR ======= -->
-<div class="top-nav" id="navbar-top">
-<div class="skip-nav"><a href="#skip-navbar-top" title="Skip navigation links">Skip navigation links</a></div>
-<ul class="nav-list" id="navbar-top-firstrow" title="Navigation">
-<li><a href="sdk-for-android-explore-..-..-..-..-index">Overview</a></li>
-<li><a href="sdk-for-android-explore-package-summary">Package</a></li>
-<li class="nav-bar-cell1-rev">Class</li>
-<li><a href="sdk-for-android-explore-package-tree">Tree</a></li>
-<li><a href="sdk-for-android-explore-..-..-..-..-deprecated-list">Deprecated</a></li>
-<li><a href="sdk-for-android-explore-..-..-..-..-index-all">Index</a></li>
-<li><a href="sdk-for-android-explore-..-..-..-..-help-doc#class">Help</a></li>
-</ul>
-</div>
-<div class="sub-nav">
-<div>
-<ul class="sub-nav-list">
-<li>Summary: </li>
-<li>Nested | </li>
-<li><a href="#field-summary">Field</a> | </li>
-<li><a href="#constructor-summary">Constr</a> | </li>
-<li><a href="#method-summary">Method</a></li>
-</ul>
-<ul class="sub-nav-list">
-<li>Detail: </li>
-<li><a href="#field-detail">Field</a> | </li>
-<li><a href="#constructor-detail">Constr</a> | </li>
-<li><a href="#method-detail">Method</a></li>
-</ul>
-</div>
 
-</div>
-<!-- ========= END OF TOP NAVBAR ========= -->
-<span class="skip-nav" id="skip-navbar-top"></span></nav>
-</header>
-<div class="flex-content">
+
+
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.search</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-package-summary">com.here.sdk.search</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -66,10 +31,10 @@ slug: "sdk-for-android-explore-com-here-sdk-search-address"
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">Address</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
 <div class="block"><p>Information about the address of a location.
- </p><p>Used in <a href="sdk-for-android-explore-place#getAddress()"><code>Place.getAddress()</code></a>.
+ </p><p>Used in <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-place#getAddress()"><code>Place.getAddress()</code></a>.
  </p><p>Note that while <code>OfflineSearchEngine.suggest</code> and <code>OfflineSearchEngine.suggestByText</code> set all available details,
- <code>SearchEngine.suggest</code> and <code>SearchEngine.suggestByText</code> set only <a href="#addressText"><code>addressText</code></a>.
- Complete address details can be obtained by searching with <a href="sdk-for-android-explore-placeidquery" title="class in com.here.sdk.search"><code>PlaceIdQuery</code></a>.</p></div>
+ <code>SearchEngine.suggest</code> and <code>SearchEngine.suggestByText</code> set only <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#addressText"><code>addressText</code></a>.
+ Complete address details can be obtained by searching with <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-placeidquery" title="class in com.here.sdk.search"><code>PlaceIdQuery</code></a>.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -83,77 +48,77 @@ slug: "sdk-for-android-explore-com-here-sdk-search-address"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="#addressText">addressText</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#addressText">addressText</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The text for the address, for example, "Secret Garden, 347 Lewis Ave, Brooklyn, NY 11233, United States".</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="#block">block</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#block">block</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The block number for the address.</div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="#city">city</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#city">city</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The city name for the address, for example, "Brooklyn".</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="#country">country</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#country">country</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The country name for the address, for example, "United States".</div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="#countryCode">countryCode</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#countryCode">countryCode</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">An ISO-3166-1 (3-letter) country code for the address, for example, "USA".</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="#county">county</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#county">county</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The county name for the address.</div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="#district">district</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#district">district</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The district name for the address.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="#houseNumOrName">houseNumOrName</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#houseNumOrName">houseNumOrName</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The house name or number for the address, for example, "347".</div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="#postalCode">postalCode</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#postalCode">postalCode</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The postal code for the address.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="#state">state</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#state">state</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The state name for the address.</div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="#stateCode">stateCode</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#stateCode">stateCode</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The state code for the address.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="#street">street</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#street">street</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The street name for the address, for example, "Lewis Ave".</div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="#subBlock">subBlock</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#subBlock">subBlock</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The sub-block number for the address.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="#subdistrict">subdistrict</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#subdistrict">subdistrict</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The subdistrict name for the address.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-addresstype" title="enum class in com.here.sdk.search">AddressType</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="#type">type</a></code></div>
+<div class="col-first even-row-color"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-addresstype" title="enum class in com.here.sdk.search">AddressType</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#type">type</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Specifies the address type.</div>
 </div>
@@ -168,7 +133,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-address"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="#%3Cinit%3E()">Address</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#%3Cinit%3E()">Address</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Default constructor.</div>
 </div>
@@ -187,10 +152,10 @@ slug: "sdk-for-android-explore-com-here-sdk-search-address"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#hashCode()">hashCode</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 </div>
 </div>
@@ -338,7 +303,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-address"
 <section class="detail" id="type">
 <h3>type</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-addresstype" title="enum class in com.here.sdk.search">AddressType</a></span> <span class="element-name">type</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-addresstype" title="enum class in com.here.sdk.search">AddressType</a></span> <span class="element-name">type</span></div>
 <div class="block"><p>Specifies the address type.</p></div>
 </section>
 </li>
@@ -403,8 +368,8 @@ slug: "sdk-for-android-explore-com-here-sdk-search-address"
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
 </main>
-</div>
-</div>
+
+
 
 
 

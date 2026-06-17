@@ -14,48 +14,13 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-counterstyl
 
 
 
-<div class="flex-box">
-<header class="flex-header" role="banner">
-<nav role="navigation">
-<!-- ========= START OF TOP NAVBAR ======= -->
-<div class="top-nav" id="navbar-top">
-<div class="skip-nav"><a href="#skip-navbar-top" title="Skip navigation links">Skip navigation links</a></div>
-<ul class="nav-list" id="navbar-top-firstrow" title="Navigation">
-<li><a href="sdk-for-android-explore-..-..-..-..-index">Overview</a></li>
-<li><a href="sdk-for-android-explore-package-summary">Package</a></li>
-<li class="nav-bar-cell1-rev">Class</li>
-<li><a href="sdk-for-android-explore-package-tree">Tree</a></li>
-<li><a href="sdk-for-android-explore-..-..-..-..-deprecated-list">Deprecated</a></li>
-<li><a href="sdk-for-android-explore-..-..-..-..-index-all">Index</a></li>
-<li><a href="sdk-for-android-explore-..-..-..-..-help-doc#class">Help</a></li>
-</ul>
-</div>
-<div class="sub-nav">
-<div>
-<ul class="sub-nav-list">
-<li>Summary: </li>
-<li>Nested | </li>
-<li><a href="#field-summary">Field</a> | </li>
-<li><a href="#constructor-summary">Constr</a> | </li>
-<li><a href="#method-summary">Method</a></li>
-</ul>
-<ul class="sub-nav-list">
-<li>Detail: </li>
-<li><a href="#field-detail">Field</a> | </li>
-<li><a href="#constructor-detail">Constr</a> | </li>
-<li>Method</li>
-</ul>
-</div>
 
-</div>
-<!-- ========= END OF TOP NAVBAR ========= -->
-<span class="skip-nav" id="skip-navbar-top"></span></nav>
-</header>
-<div class="flex-content">
+
+
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.mapview</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-package-summary">com.here.sdk.mapview</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -64,7 +29,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-counterstyl
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>Enclosing class:</dt>
-<dd><a href="sdk-for-android-explore-mapmarkercluster" title="class in com.here.sdk.mapview">MapMarkerCluster</a></dd>
+<dd><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-mapmarkercluster" title="class in com.here.sdk.mapview">MapMarkerCluster</a></dd>
 </dl>
 <hr/>
 <div class="type-signature"><span class="modifiers">public static final class </span><span class="element-name type-name-label">MapMarkerCluster.CounterStyle</span>
@@ -83,27 +48,27 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-counterstyl
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="#aboveMaxText">aboveMaxText</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#aboveMaxText">aboveMaxText</a></code></div>
 <div class="col-last even-row-color">
-<div class="block">String to display if there are more markers clustered than <a href="#maxCountNumber"><code>maxCountNumber</code></a>.</div>
+<div class="block">String to display if there are more markers clustered than <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#maxCountNumber"><code>maxCountNumber</code></a>.</div>
 </div>
 <div class="col-first odd-row-color"><code>double</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="#fontSize">fontSize</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#fontSize">fontSize</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Font size of counter.</div>
 </div>
 <div class="col-first even-row-color"><code>int</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="#maxCountNumber">maxCountNumber</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#maxCountNumber">maxCountNumber</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Maximal number of markers represented as exact number.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-..-core-anchor2d" title="class in com.here.sdk.core">Anchor2D</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="#textAnchor">textAnchor</a></code></div>
+<div class="col-first odd-row-color"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-anchor2d" title="class in com.here.sdk.core">Anchor2D</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#textAnchor">textAnchor</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Anchor of counter in regards to marker cluster image.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-..-core-color" title="class in com.here.sdk.core">Color</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="#textColor">textColor</a></code></div>
+<div class="col-first even-row-color"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#textColor">textColor</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Font color of counter.</div>
 </div>
@@ -118,7 +83,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-counterstyl
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="#%3Cinit%3E()">CounterStyle</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#%3Cinit%3E()">CounterStyle</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -147,7 +112,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-counterstyl
 <section class="detail" id="textColor">
 <h3>textColor</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-..-core-color" title="class in com.here.sdk.core">Color</a></span> <span class="element-name">textColor</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a></span> <span class="element-name">textColor</span></div>
 <div class="block"><p>Font color of counter. Default value is white.</p></div>
 </section>
 </li>
@@ -162,7 +127,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-counterstyl
 <section class="detail" id="textAnchor">
 <h3>textAnchor</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-..-core-anchor2d" title="class in com.here.sdk.core">Anchor2D</a></span> <span class="element-name">textAnchor</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-anchor2d" title="class in com.here.sdk.core">Anchor2D</a></span> <span class="element-name">textAnchor</span></div>
 <div class="block"><p>Anchor of counter in regards to marker cluster image. Default is at the center.</p></div>
 </section>
 </li>
@@ -171,7 +136,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-counterstyl
 <h3>maxCountNumber</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">int</span> <span class="element-name">maxCountNumber</span></div>
 <div class="block"><p>Maximal number of markers represented as exact number. Values smaller than 2 will be clamped to 2.
- Default value is 99. When this value is changed, it is recommended to adapt <a href="#aboveMaxText"><code>aboveMaxText</code></a> accordingly.</p></div>
+ Default value is 99. When this value is changed, it is recommended to adapt <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#aboveMaxText"><code>aboveMaxText</code></a> accordingly.</p></div>
 </section>
 </li>
 <li>
@@ -179,7 +144,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-counterstyl
 <h3>aboveMaxText</h3>
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span class="element-name">aboveMaxText</span></div>
-<div class="block"><p>String to display if there are more markers clustered than <a href="#maxCountNumber"><code>maxCountNumber</code></a>. Default value is "+99".</p></div>
+<div class="block"><p>String to display if there are more markers clustered than <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#maxCountNumber"><code>maxCountNumber</code></a>. Default value is "+99".</p></div>
 </section>
 </li>
 </ul>
@@ -204,8 +169,8 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-counterstyl
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
 </main>
-</div>
-</div>
+
+
 
 
 

@@ -14,48 +14,13 @@ slug: "sdk-for-android-explore-com-here-sdk-core-geobox"
 
 
 
-<div class="flex-box">
-<header class="flex-header" role="banner">
-<nav role="navigation">
-<!-- ========= START OF TOP NAVBAR ======= -->
-<div class="top-nav" id="navbar-top">
-<div class="skip-nav"><a href="#skip-navbar-top" title="Skip navigation links">Skip navigation links</a></div>
-<ul class="nav-list" id="navbar-top-firstrow" title="Navigation">
-<li><a href="sdk-for-android-explore-..-..-..-..-index">Overview</a></li>
-<li><a href="sdk-for-android-explore-package-summary">Package</a></li>
-<li class="nav-bar-cell1-rev">Class</li>
-<li><a href="sdk-for-android-explore-package-tree">Tree</a></li>
-<li><a href="sdk-for-android-explore-..-..-..-..-deprecated-list">Deprecated</a></li>
-<li><a href="sdk-for-android-explore-..-..-..-..-index-all">Index</a></li>
-<li><a href="sdk-for-android-explore-..-..-..-..-help-doc#class">Help</a></li>
-</ul>
-</div>
-<div class="sub-nav">
-<div>
-<ul class="sub-nav-list">
-<li>Summary: </li>
-<li>Nested | </li>
-<li><a href="#field-summary">Field</a> | </li>
-<li><a href="#constructor-summary">Constr</a> | </li>
-<li><a href="#method-summary">Method</a></li>
-</ul>
-<ul class="sub-nav-list">
-<li>Detail: </li>
-<li><a href="#field-detail">Field</a> | </li>
-<li><a href="#constructor-detail">Constr</a> | </li>
-<li><a href="#method-detail">Method</a></li>
-</ul>
-</div>
 
-</div>
-<!-- ========= END OF TOP NAVBAR ========= -->
-<span class="skip-nav" id="skip-navbar-top"></span></nav>
-</header>
-<div class="flex-content">
+
+
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.core</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-package-summary">com.here.sdk.core</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -70,8 +35,8 @@ slug: "sdk-for-android-explore-com-here-sdk-core-geobox"
  when using a normal cylindrical projection (such as Mercator).
  The box has a maximum span of 360 degrees in longitude and 180 degrees in latitude direction.
  The box with equal values in longitude for the corners is considered as a span of 360 degrees.
- The box is considered empty if the latitude of the <a href="#southWestCorner"><code>southWestCorner</code></a> is larger than the the
- latitude of the <a href="#northEastCorner"><code>northEastCorner</code></a>.</p></div>
+ The box is considered empty if the latitude of the <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#southWestCorner"><code>southWestCorner</code></a> is larger than the the
+ latitude of the <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#northEastCorner"><code>northEastCorner</code></a>.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -84,13 +49,13 @@ slug: "sdk-for-android-explore-com-here-sdk-core-geobox"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code>final <a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="#northEastCorner">northEastCorner</a></code></div>
+<div class="col-first even-row-color"><code>final <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#northEastCorner">northEastCorner</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">North east corner coordinates.</div>
 </div>
-<div class="col-first odd-row-color"><code>final <a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="#southWestCorner">southWestCorner</a></code></div>
+<div class="col-first odd-row-color"><code>final <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#southWestCorner">southWestCorner</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">South west corner coordinates.</div>
 </div>
@@ -105,8 +70,8 @@ slug: "sdk-for-android-explore-com-here-sdk-core-geobox"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="#%3Cinit%3E(com.here.sdk.core.GeoCoordinates,com.here.sdk.core.GeoCoordinates)">GeoBox</a><wbr/>(<a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> southWestCorner,
- <a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> northEastCorner)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#%3Cinit%3E(com.here.sdk.core.GeoCoordinates,com.here.sdk.core.GeoCoordinates)">GeoBox</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> southWestCorner,
+ <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> northEastCorner)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -124,38 +89,38 @@ slug: "sdk-for-android-explore-com-here-sdk-core-geobox"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-geobox" title="class in com.here.sdk.core">GeoBox</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="#containing(java.util.List)">containing</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a>&gt; geoCoordinates)</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-geobox" title="class in com.here.sdk.core">GeoBox</a></code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#containing(java.util.List)">containing</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a>&gt; geoCoordinates)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Creates a <code>GeoBox</code> which encompases all coordinates from the list.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#contains(com.here.sdk.core.GeoBox)">contains</a><wbr/>(<a href="sdk-for-android-explore-geobox" title="class in com.here.sdk.core">GeoBox</a> geoBox)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#contains(com.here.sdk.core.GeoBox)">contains</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-geobox" title="class in com.here.sdk.core">GeoBox</a> geoBox)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Determines whether the specified <code>GeoBox</code> is covered entirely by this <code>GeoBox</code>.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#contains(com.here.sdk.core.GeoCoordinates)">contains</a><wbr/>(<a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> geoCoordinates)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#contains(com.here.sdk.core.GeoCoordinates)">contains</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> geoCoordinates)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Determines whether the specified GeoCoordinates is contained within this <code>GeoBox</code>.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-geobox" title="class in com.here.sdk.core">GeoBox</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#envelope(com.here.sdk.core.GeoBox)">envelope</a><wbr/>(<a href="sdk-for-android-explore-geobox" title="class in com.here.sdk.core">GeoBox</a> geoBox)</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-geobox" title="class in com.here.sdk.core">GeoBox</a></code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#envelope(com.here.sdk.core.GeoBox)">envelope</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-geobox" title="class in com.here.sdk.core">GeoBox</a> geoBox)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Envelopes two <code>GeoBox</code> areas by returning the smallest <code>GeoBox</code> covering both this
  GeoBox and the specified <code>GeoBox</code>.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-geobox" title="class in com.here.sdk.core">GeoBox</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="#envelopeGeoBoxes(java.util.List)">envelopeGeoBoxes</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-geobox" title="class in com.here.sdk.core">GeoBox</a>&gt; geoBoxes)</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-geobox" title="class in com.here.sdk.core">GeoBox</a></code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#envelopeGeoBoxes(java.util.List)">envelopeGeoBoxes</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-geobox" title="class in com.here.sdk.core">GeoBox</a>&gt; geoBoxes)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Envelopes the list of <code>GeoBox</code> areas by returning the smallest
  <code>GeoBox</code> covering all specified <code>GeoBox</code> objects.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-geobox" title="class in com.here.sdk.core">GeoBox</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#expandedBy(double,double,double,double)">expandedBy</a><wbr/>(double southMeters,
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-geobox" title="class in com.here.sdk.core">GeoBox</a></code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#expandedBy(double,double,double,double)">expandedBy</a><wbr/>(double southMeters,
  double westMeters,
  double northMeters,
  double eastMeters)</code></div>
@@ -163,20 +128,20 @@ slug: "sdk-for-android-explore-com-here-sdk-core-geobox"
 <div class="block">Creates a <code>GeoBox</code> which is expanded by a fixed distance.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#hashCode()">hashCode</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-geobox" title="class in com.here.sdk.core">GeoBox</a>&gt;</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#intersection(com.here.sdk.core.GeoBox)">intersection</a><wbr/>(<a href="sdk-for-android-explore-geobox" title="class in com.here.sdk.core">GeoBox</a> geoBox)</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-geobox" title="class in com.here.sdk.core">GeoBox</a>&gt;</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#intersection(com.here.sdk.core.GeoBox)">intersection</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-geobox" title="class in com.here.sdk.core">GeoBox</a> geoBox)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
-<div class="block">Computes the intersection with the passed <a href="sdk-for-android-explore-geobox" title="class in com.here.sdk.core"><code>GeoBox</code></a>.</div>
+<div class="block">Computes the intersection with the passed <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-geobox" title="class in com.here.sdk.core"><code>GeoBox</code></a>.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-geobox" title="class in com.here.sdk.core">GeoBox</a>&gt;</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="#intersection(java.util.List)">intersection</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-geobox" title="class in com.here.sdk.core">GeoBox</a>&gt; geoBoxes)</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-geobox" title="class in com.here.sdk.core">GeoBox</a>&gt;</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#intersection(java.util.List)">intersection</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-geobox" title="class in com.here.sdk.core">GeoBox</a>&gt; geoBoxes)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
-<div class="block">Computes intersection of list of <a href="sdk-for-android-explore-geobox" title="class in com.here.sdk.core"><code>GeoBox</code></a> instances.</div>
+<div class="block">Computes intersection of list of <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-geobox" title="class in com.here.sdk.core"><code>GeoBox</code></a> instances.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#intersects(com.here.sdk.core.GeoBox)">intersects</a><wbr/>(<a href="sdk-for-android-explore-geobox" title="class in com.here.sdk.core">GeoBox</a> geoBox)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#intersects(com.here.sdk.core.GeoBox)">intersects</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-geobox" title="class in com.here.sdk.core">GeoBox</a> geoBox)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Determines whether this <code>GeoBox</code> intersects with the passed <code>GeoBox</code>.</div>
 </div>
@@ -201,7 +166,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-geobox"
 <section class="detail" id="southWestCorner">
 <h3>southWestCorner</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public final</span> <span class="return-type"><a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">southWestCorner</span></div>
+</span><span class="modifiers">public final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">southWestCorner</span></div>
 <div class="block"><p>South west corner coordinates.</p></div>
 </section>
 </li>
@@ -209,7 +174,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-geobox"
 <section class="detail" id="northEastCorner">
 <h3>northEastCorner</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public final</span> <span class="return-type"><a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">northEastCorner</span></div>
+</span><span class="modifiers">public final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">northEastCorner</span></div>
 <div class="block"><p>North east corner coordinates.</p></div>
 </section>
 </li>
@@ -225,9 +190,9 @@ slug: "sdk-for-android-explore-com-here-sdk-core-geobox"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.core.GeoCoordinates,com.here.sdk.core.GeoCoordinates)">
 <h3>GeoBox</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">GeoBox</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> southWestCorner,
+ <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> southWestCorner,
  @NonNull
- <a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> northEastCorner)</span></div>
+ <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> northEastCorner)</span></div>
 <div class="block"><p>Creates a new instance.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -268,8 +233,8 @@ slug: "sdk-for-android-explore-com-here-sdk-core-geobox"
 <section class="detail" id="containing(java.util.List)">
 <h3>containing</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-geobox" title="class in com.here.sdk.core">GeoBox</a></span> <span class="element-name">containing</span><wbr/><span class="parameters">(@NonNull
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a>&gt; geoCoordinates)</span></div>
+</span><span class="modifiers">public static</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-geobox" title="class in com.here.sdk.core">GeoBox</a></span> <span class="element-name">containing</span><wbr/><span class="parameters">(@NonNull
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a>&gt; geoCoordinates)</span></div>
 <div class="block"><p>Creates a <code>GeoBox</code> which encompases all coordinates from the list.
  The provided list must contain at least two points.
  The altitude values of the input coordinates are not considered for the result.</p></div>
@@ -285,8 +250,8 @@ slug: "sdk-for-android-explore-com-here-sdk-core-geobox"
 <section class="detail" id="envelope(com.here.sdk.core.GeoBox)">
 <h3>envelope</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-geobox" title="class in com.here.sdk.core">GeoBox</a></span> <span class="element-name">envelope</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-geobox" title="class in com.here.sdk.core">GeoBox</a> geoBox)</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-geobox" title="class in com.here.sdk.core">GeoBox</a></span> <span class="element-name">envelope</span><wbr/><span class="parameters">(@NonNull
+ <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-geobox" title="class in com.here.sdk.core">GeoBox</a> geoBox)</span></div>
 <div class="block"><p>Envelopes two <code>GeoBox</code> areas by returning the smallest <code>GeoBox</code> covering both this
  GeoBox and the specified <code>GeoBox</code>.</p></div>
 <dl class="notes">
@@ -301,8 +266,8 @@ slug: "sdk-for-android-explore-com-here-sdk-core-geobox"
 <section class="detail" id="envelopeGeoBoxes(java.util.List)">
 <h3>envelopeGeoBoxes</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-geobox" title="class in com.here.sdk.core">GeoBox</a></span> <span class="element-name">envelopeGeoBoxes</span><wbr/><span class="parameters">(@NonNull
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-geobox" title="class in com.here.sdk.core">GeoBox</a>&gt; geoBoxes)</span></div>
+</span><span class="modifiers">public static</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-geobox" title="class in com.here.sdk.core">GeoBox</a></span> <span class="element-name">envelopeGeoBoxes</span><wbr/><span class="parameters">(@NonNull
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-geobox" title="class in com.here.sdk.core">GeoBox</a>&gt; geoBoxes)</span></div>
 <div class="block"><p>Envelopes the list of <code>GeoBox</code> areas by returning the smallest
  <code>GeoBox</code> covering all specified <code>GeoBox</code> objects.</p></div>
 <dl class="notes">
@@ -318,7 +283,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-geobox"
 <section class="detail" id="intersects(com.here.sdk.core.GeoBox)">
 <h3>intersects</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">intersects</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-geobox" title="class in com.here.sdk.core">GeoBox</a> geoBox)</span></div>
+ <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-geobox" title="class in com.here.sdk.core">GeoBox</a> geoBox)</span></div>
 <div class="block"><p>Determines whether this <code>GeoBox</code> intersects with the passed <code>GeoBox</code>.
  The altitude values are ignored.</p></div>
 <dl class="notes">
@@ -333,9 +298,9 @@ slug: "sdk-for-android-explore-com-here-sdk-core-geobox"
 <section class="detail" id="intersection(com.here.sdk.core.GeoBox)">
 <h3>intersection</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-geobox" title="class in com.here.sdk.core">GeoBox</a>&gt;</span> <span class="element-name">intersection</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-geobox" title="class in com.here.sdk.core">GeoBox</a> geoBox)</span></div>
-<div class="block"><p>Computes the intersection with the passed <a href="sdk-for-android-explore-geobox" title="class in com.here.sdk.core"><code>GeoBox</code></a>.
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-geobox" title="class in com.here.sdk.core">GeoBox</a>&gt;</span> <span class="element-name">intersection</span><wbr/><span class="parameters">(@NonNull
+ <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-geobox" title="class in com.here.sdk.core">GeoBox</a> geoBox)</span></div>
+<div class="block"><p>Computes the intersection with the passed <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-geobox" title="class in com.here.sdk.core"><code>GeoBox</code></a>.
  The altitude values are ignored.
  Limitation: Geo boxes are considered as non-intersecting if they overlap only on a single point, horizontal line or vertical line.
  </p><p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
@@ -345,7 +310,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-geobox"
 <dd><code>geoBox</code> - <p>Another geo box to check intersection with.</p></dd>
 <dt>Returns:</dt>
 <dd><p>It will be empty if there is no overlap.
-     Otherwise, 1 or more geo boxes covering common area by this and passed <a href="sdk-for-android-explore-geobox" title="class in com.here.sdk.core"><code>GeoBox</code></a>.</p></dd>
+     Otherwise, 1 or more geo boxes covering common area by this and passed <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-geobox" title="class in com.here.sdk.core"><code>GeoBox</code></a>.</p></dd>
 </dl>
 </section>
 </li>
@@ -353,19 +318,19 @@ slug: "sdk-for-android-explore-com-here-sdk-core-geobox"
 <section class="detail" id="intersection(java.util.List)">
 <h3>intersection</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public static</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-geobox" title="class in com.here.sdk.core">GeoBox</a>&gt;</span> <span class="element-name">intersection</span><wbr/><span class="parameters">(@NonNull
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-geobox" title="class in com.here.sdk.core">GeoBox</a>&gt; geoBoxes)</span></div>
-<div class="block"><p>Computes intersection of list of <a href="sdk-for-android-explore-geobox" title="class in com.here.sdk.core"><code>GeoBox</code></a> instances.
+</span><span class="modifiers">public static</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-geobox" title="class in com.here.sdk.core">GeoBox</a>&gt;</span> <span class="element-name">intersection</span><wbr/><span class="parameters">(@NonNull
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-geobox" title="class in com.here.sdk.core">GeoBox</a>&gt; geoBoxes)</span></div>
+<div class="block"><p>Computes intersection of list of <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-geobox" title="class in com.here.sdk.core"><code>GeoBox</code></a> instances.
  The altitude values are ignored.
  Limitation: Geo boxes are considered as non-intersecting if they overlap only on a single point, horizontal line or vertical line.
  </p><p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
  Related APIs may change for new releases without a deprecation process.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
-<dd><code>geoBoxes</code> - <p>List of <a href="sdk-for-android-explore-geobox" title="class in com.here.sdk.core"><code>GeoBox</code></a> instances.</p></dd>
+<dd><code>geoBoxes</code> - <p>List of <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-geobox" title="class in com.here.sdk.core"><code>GeoBox</code></a> instances.</p></dd>
 <dt>Returns:</dt>
-<dd><p>It will be empty if there is no overlap between all the passed <a href="sdk-for-android-explore-geobox" title="class in com.here.sdk.core"><code>GeoBox</code></a> instances.
-     Otherwise, 1 or more geo boxes covering common area by all the passed <a href="sdk-for-android-explore-geobox" title="class in com.here.sdk.core"><code>GeoBox</code></a> instances.</p></dd>
+<dd><p>It will be empty if there is no overlap between all the passed <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-geobox" title="class in com.here.sdk.core"><code>GeoBox</code></a> instances.
+     Otherwise, 1 or more geo boxes covering common area by all the passed <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-geobox" title="class in com.here.sdk.core"><code>GeoBox</code></a> instances.</p></dd>
 </dl>
 </section>
 </li>
@@ -373,7 +338,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-geobox"
 <section class="detail" id="contains(com.here.sdk.core.GeoBox)">
 <h3>contains</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">contains</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-geobox" title="class in com.here.sdk.core">GeoBox</a> geoBox)</span></div>
+ <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-geobox" title="class in com.here.sdk.core">GeoBox</a> geoBox)</span></div>
 <div class="block"><p>Determines whether the specified <code>GeoBox</code> is covered entirely by this <code>GeoBox</code>.
  The altitude values are ignored.</p></div>
 <dl class="notes">
@@ -388,7 +353,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-geobox"
 <section class="detail" id="contains(com.here.sdk.core.GeoCoordinates)">
 <h3>contains</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">contains</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> geoCoordinates)</span></div>
+ <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> geoCoordinates)</span></div>
 <div class="block"><p>Determines whether the specified GeoCoordinates is contained within this <code>GeoBox</code>.
  The altitude values are ignored.</p></div>
 <dl class="notes">
@@ -403,11 +368,11 @@ slug: "sdk-for-android-explore-com-here-sdk-core-geobox"
 <section class="detail" id="expandedBy(double,double,double,double)">
 <h3>expandedBy</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-geobox" title="class in com.here.sdk.core">GeoBox</a></span> <span class="element-name">expandedBy</span><wbr/><span class="parameters">(double southMeters,
+</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-geobox" title="class in com.here.sdk.core">GeoBox</a></span> <span class="element-name">expandedBy</span><wbr/><span class="parameters">(double southMeters,
  double westMeters,
  double northMeters,
  double eastMeters)</span>
-                  throws <span class="exceptions"><a href="sdk-for-android-explore-errors-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></span></div>
+                  throws <span class="exceptions"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></span></div>
 <div class="block"><p>Creates a <code>GeoBox</code> which is expanded by a fixed distance.
  Throws an InstantiationError if it is not possible to create a valid
  <code>GeoBox</code> with the given arguments.</p></div>
@@ -420,7 +385,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-geobox"
 <dt>Returns:</dt>
 <dd><p>The expanded <code>GeoBox</code>.</p></dd>
 <dt>Throws:</dt>
-<dd><code><a href="sdk-for-android-explore-errors-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></code> - <p>Instantiation error.</p></dd>
+<dd><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></code> - <p>Instantiation error.</p></dd>
 </dl>
 </section>
 </li>
@@ -431,8 +396,8 @@ slug: "sdk-for-android-explore-com-here-sdk-core-geobox"
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
 </main>
-</div>
-</div>
+
+
 
 
 

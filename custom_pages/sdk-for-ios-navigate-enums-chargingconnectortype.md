@@ -1,0 +1,331 @@
+---
+title: "ChargingConnectorType"
+slug: "sdk-for-ios-navigate-enums-chargingconnectortype"
+---
+
+<HTMLBlock> {
+`
+<!DOCTYPE html>
+
+<html lang="en">
+
+<body>
+<a class="dashAnchor" name="//apple_ref/swift/Enum/ChargingConnectorType"></a>
+<a title="ChargingConnectorType Enumeration Reference"></a>
+
+<div class="content-wrapper">
+<p id="breadcrumbs">
+<a href="sdk-for-ios-navigate-index">heresdk</a>
+
+<a href="sdk-for-ios-navigate-routing">Routing</a>
+
+        ChargingConnectorType Enumeration Reference
+      </p>
+</div>
+<div class="content-wrapper">
+
+<article class="main-content">
+<section>
+<section class="section">
+<h1>ChargingConnectorType</h1>
+<div class="declaration">
+<div class="language">
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">ChargingConnectorType</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
+</div>
+</div>
+<p>Available charging connector types.</p>
+</section>
+<section class="section task-group-section">
+<div class="task-group">
+<ul>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk21ChargingConnectorTypeO18iec62196Type1ComboyA2CmF"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Element/iec62196Type1Combo"></a>
+<a class="token" href="#/s:7heresdk21ChargingConnectorTypeO18iec62196Type1ComboyA2CmF">iec62196Type1Combo</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Type 1 Combo connector, commonly called “CCS1”.</p>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">iec62196Type1Combo</span></code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk21ChargingConnectorTypeO18iec62196Type2ComboyA2CmF"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Element/iec62196Type2Combo"></a>
+<a class="token" href="#/s:7heresdk21ChargingConnectorTypeO18iec62196Type2ComboyA2CmF">iec62196Type2Combo</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Type 2 Combo connector, commonly called “CCS2”.</p>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">iec62196Type2Combo</span></code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk21ChargingConnectorTypeO7chademoyA2CmF"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Element/chademo"></a>
+<a class="token" href="#/s:7heresdk21ChargingConnectorTypeO7chademoyA2CmF">chademo</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>CHAdeMO connector.</p>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">chademo</span></code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk21ChargingConnectorTypeO5teslayA2CmF"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Element/tesla"></a>
+<a class="token" href="#/s:7heresdk21ChargingConnectorTypeO5teslayA2CmF">tesla</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Tesla connector.</p>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">tesla</span></code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk21ChargingConnectorTypeO5gbtDcyA2CmF"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Element/gbtDc"></a>
+<a class="token" href="#/s:7heresdk21ChargingConnectorTypeO5gbtDcyA2CmF">gbtDc</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Guobiao GB/T 20234.3 DC connector, commonly called “GB/T DC”.</p>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">gbtDc</span></code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk21ChargingConnectorTypeO8saeJ3400yA2CmF"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Element/saeJ3400"></a>
+<a class="token" href="#/s:7heresdk21ChargingConnectorTypeO8saeJ3400yA2CmF">saeJ3400</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>SAE J3400 - North American Charging Standard (NACS) for Electric Vehicles</p>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">saeJ3400</span></code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:s12CaseIterableP8allCases03AllD0QzvpZ"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Variable/allCases"></a>
+<a class="token" href="#/s:s12CaseIterableP8allCases03AllD0QzvpZ">allCases</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="k">var</span> <span class="nv">allCases</span><span class="p">:</span> <span class="p">[</span><span class="kt">ChargingConnectorType</span><span class="p">]</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk21ChargingConnectorTypeO3KeyO"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Enum/Key"></a>
+<a class="token" href="#/s:7heresdk21ChargingConnectorTypeO3KeyO">Key</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>A type that can be used as a key for encoding and decoding.</p>
+<a class="slightly-smaller" href="sdk-for-ios-navigate-enums-chargingconnectortype-key">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">Key</span> <span class="p">:</span> <span class="kt">CodingKey</span></code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk21ChargingConnectorTypeO11CodingErrorO"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Enum/CodingError"></a>
+<a class="token" href="#/s:7heresdk21ChargingConnectorTypeO11CodingErrorO">CodingError</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>The error which is thrown if initialisation with decoder has failed</p>
+<a class="slightly-smaller" href="sdk-for-ios-navigate-enums-chargingconnectortype-codingerror">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">CodingError</span> <span class="p">:</span> <span class="kt">Error</span></code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk21ChargingConnectorTypeO4fromACs7Decoder_p_tKcfc"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Method/init(from:)"></a>
+<a class="token" href="#/s:7heresdk21ChargingConnectorTypeO4fromACs7Decoder_p_tKcfc">init(from:<wbr/>)</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Creates a new instance by decoding from the given decoder</p>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">from</span> <span class="nv">decoder</span><span class="p">:</span> <span class="kt">Decoder</span><span class="p">)</span> <span class="k">throws</span></code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk21ChargingConnectorTypeO6encode2toys7Encoder_p_tKF"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Method/encode(to:)"></a>
+<a class="token" href="#/s:7heresdk21ChargingConnectorTypeO6encode2toys7Encoder_p_tKF">encode(to:<wbr/>)</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Encodes this value into the given encoder</p>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">encode</span><span class="p">(</span><span class="n">to</span> <span class="nv">encoder</span><span class="p">:</span> <span class="kt">Encoder</span><span class="p">)</span> <span class="k">throws</span></code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+</ul>
+</div>
+</section>
+</section>
+<section id="footer">
+<p>© 2026 <a class="link" href="" rel="external noopener" target="_blank"></a>. All rights reserved. (Last updated: 2026-04-14)</p>
+<p>Generated by <a class="link" href="https://github.com/realm/jazzy" rel="external noopener" target="_blank">jazzy ♪♫ v0.15.2</a>, a <a class="link" href="https://realm.io" rel="external noopener" target="_blank">Realm</a> project.</p>
+</section>
+</article>
+</div>
+</body>
+</html>
+
+`
+} </HTMLBlock>

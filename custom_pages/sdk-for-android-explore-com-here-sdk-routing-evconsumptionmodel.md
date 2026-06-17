@@ -14,48 +14,13 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-evconsumptionmodel"
 
 
 
-<div class="flex-box">
-<header class="flex-header" role="banner">
-<nav role="navigation">
-<!-- ========= START OF TOP NAVBAR ======= -->
-<div class="top-nav" id="navbar-top">
-<div class="skip-nav"><a href="#skip-navbar-top" title="Skip navigation links">Skip navigation links</a></div>
-<ul class="nav-list" id="navbar-top-firstrow" title="Navigation">
-<li><a href="sdk-for-android-explore-..-..-..-..-index">Overview</a></li>
-<li><a href="sdk-for-android-explore-package-summary">Package</a></li>
-<li class="nav-bar-cell1-rev">Class</li>
-<li><a href="sdk-for-android-explore-package-tree">Tree</a></li>
-<li><a href="sdk-for-android-explore-..-..-..-..-deprecated-list">Deprecated</a></li>
-<li><a href="sdk-for-android-explore-..-..-..-..-index-all">Index</a></li>
-<li><a href="sdk-for-android-explore-..-..-..-..-help-doc#class">Help</a></li>
-</ul>
-</div>
-<div class="sub-nav">
-<div>
-<ul class="sub-nav-list">
-<li>Summary: </li>
-<li>Nested | </li>
-<li><a href="#field-summary">Field</a> | </li>
-<li><a href="#constructor-summary">Constr</a> | </li>
-<li><a href="#method-summary">Method</a></li>
-</ul>
-<ul class="sub-nav-list">
-<li>Detail: </li>
-<li><a href="#field-detail">Field</a> | </li>
-<li><a href="#constructor-detail">Constr</a> | </li>
-<li><a href="#method-detail">Method</a></li>
-</ul>
-</div>
 
-</div>
-<!-- ========= END OF TOP NAVBAR ========= -->
-<span class="skip-nav" id="skip-navbar-top"></span></nav>
-</header>
-<div class="flex-content">
+
+
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.routing</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-package-summary">com.here.sdk.routing</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -67,9 +32,9 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-evconsumptionmodel"
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
 <div class="block"><p>Parameters specific for the electric vehicle, which are then used to calculate
  energy consumption on a given route.
- At minimum, you must provide <a href="#ascentConsumptionInWattHoursPerMeter"><code>ascentConsumptionInWattHoursPerMeter</code></a>,
- <a href="#descentRecoveryInWattHoursPerMeter"><code>descentRecoveryInWattHoursPerMeter</code></a> and a
- <a href="#freeFlowSpeedTable"><code>freeFlowSpeedTable</code></a>.</p></div>
+ At minimum, you must provide <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#ascentConsumptionInWattHoursPerMeter"><code>ascentConsumptionInWattHoursPerMeter</code></a>,
+ <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#descentRecoveryInWattHoursPerMeter"><code>descentRecoveryInWattHoursPerMeter</code></a> and a
+ <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#freeFlowSpeedTable"><code>freeFlowSpeedTable</code></a>.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -83,28 +48,28 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-evconsumptionmodel"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>double</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="#ascentConsumptionInWattHoursPerMeter">ascentConsumptionInWattHoursPerMeter</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#ascentConsumptionInWattHoursPerMeter">ascentConsumptionInWattHoursPerMeter</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Rate of energy consumed per meter rise in elevation (in Wh/m, i.e., Watt-hours per meter).</div>
 </div>
 <div class="col-first odd-row-color"><code>double</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="#auxiliaryConsumptionInWattHoursPerSecond">auxiliaryConsumptionInWattHoursPerSecond</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#auxiliaryConsumptionInWattHoursPerSecond">auxiliaryConsumptionInWattHoursPerSecond</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Rate of energy (in Wh/s) consumed by the vehicle's auxiliary systems
  (e.g., air conditioning, lights) per second of travel.</div>
 </div>
 <div class="col-first even-row-color"><code>double</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="#descentRecoveryInWattHoursPerMeter">descentRecoveryInWattHoursPerMeter</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#descentRecoveryInWattHoursPerMeter">descentRecoveryInWattHoursPerMeter</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Rate of energy recovered per meter fall in elevation (in Wh/m, i.e., Watt-hours per meter).</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html" title="class or interface in java.util">Map</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a>,<wbr/><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a>&gt;</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="#freeFlowSpeedTable">freeFlowSpeedTable</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#freeFlowSpeedTable">freeFlowSpeedTable</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Free flow speed table describes energy consumption when traveling at constant speed.</div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html" title="class or interface in java.util">Map</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a>,<wbr/><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a>&gt;</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="#trafficSpeedTable">trafficSpeedTable</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#trafficSpeedTable">trafficSpeedTable</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Traffic speed table describes energy consumption when traveling under heavy traffic
  conditions, i.e.</div>
@@ -120,7 +85,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-evconsumptionmodel"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="#%3Cinit%3E()">EVConsumptionModel</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#%3Cinit%3E()">EVConsumptionModel</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -139,10 +104,10 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-evconsumptionmodel"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#hashCode()">hashCode</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 </div>
 </div>
@@ -210,8 +175,8 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-evconsumptionmodel"
  For values after the last list value, the last list value is used.
  If only one key/value pair is set, the consumption value is
  used for all possible traffic speed keys.
- If <a href="#trafficSpeedTable"><code>trafficSpeedTable</code></a> is empty then only
- <a href="#freeFlowSpeedTable"><code>freeFlowSpeedTable</code></a> is used for calculating speed-related
+ If <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#trafficSpeedTable"><code>trafficSpeedTable</code></a> is empty then only
+ <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#freeFlowSpeedTable"><code>freeFlowSpeedTable</code></a> is used for calculating speed-related
  energy consumption.</p></div>
 </section>
 </li>
@@ -273,8 +238,8 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-evconsumptionmodel"
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
 </main>
-</div>
-</div>
+
+
 
 
 

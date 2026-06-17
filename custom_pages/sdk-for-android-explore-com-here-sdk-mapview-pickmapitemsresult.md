@@ -14,59 +14,24 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-pickmapitemsresult"
 
 
 
-<div class="flex-box">
-<header class="flex-header" role="banner">
-<nav role="navigation">
-<!-- ========= START OF TOP NAVBAR ======= -->
-<div class="top-nav" id="navbar-top">
-<div class="skip-nav"><a href="#skip-navbar-top" title="Skip navigation links">Skip navigation links</a></div>
-<ul class="nav-list" id="navbar-top-firstrow" title="Navigation">
-<li><a href="sdk-for-android-explore-..-..-..-..-index">Overview</a></li>
-<li><a href="sdk-for-android-explore-package-summary">Package</a></li>
-<li class="nav-bar-cell1-rev">Class</li>
-<li><a href="sdk-for-android-explore-package-tree">Tree</a></li>
-<li><a href="sdk-for-android-explore-..-..-..-..-deprecated-list">Deprecated</a></li>
-<li><a href="sdk-for-android-explore-..-..-..-..-index-all">Index</a></li>
-<li><a href="sdk-for-android-explore-..-..-..-..-help-doc#class">Help</a></li>
-</ul>
-</div>
-<div class="sub-nav">
-<div>
-<ul class="sub-nav-list">
-<li>Summary: </li>
-<li>Nested | </li>
-<li>Field | </li>
-<li>Constr | </li>
-<li><a href="#method-summary">Method</a></li>
-</ul>
-<ul class="sub-nav-list">
-<li>Detail: </li>
-<li>Field | </li>
-<li>Constr | </li>
-<li><a href="#method-detail">Method</a></li>
-</ul>
-</div>
 
-</div>
-<!-- ========= END OF TOP NAVBAR ========= -->
-<span class="skip-nav" id="skip-navbar-top"></span></nav>
-</header>
-<div class="flex-content">
+
+
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.mapview</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-package-summary">com.here.sdk.mapview</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a href="sdk-for-android-explore-..-..-nativebase" title="class in com.here">com.here.NativeBase</a>
+<div class="inheritance"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.mapview.PickMapItemsResult</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 <hr/>
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">PickMapItemsResult</span>
-<span class="extends-implements">extends <a href="sdk-for-android-explore-..-..-nativebase" title="class in com.here">NativeBase</a></span></div>
+<span class="extends-implements">extends <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>Carries results from the picking of map items on the map scene.</p></div>
 </section>
 <section class="summary">
@@ -82,28 +47,28 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-pickmapitemsresult"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-mapmarkercluster.grouping" title="class in com.here.sdk.mapview">MapMarkerCluster.Grouping</a>&gt;</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#getClusteredMarkers()">getClusteredMarkers</a>()</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-mapmarkercluster.grouping" title="class in com.here.sdk.mapview">MapMarkerCluster.Grouping</a>&gt;</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#getClusteredMarkers()">getClusteredMarkers</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets list of clustered marker groups at the location of picking.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-mapmarker" title="class in com.here.sdk.mapview">MapMarker</a>&gt;</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#getMarkers()">getMarkers</a>()</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-mapmarker" title="class in com.here.sdk.mapview">MapMarker</a>&gt;</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#getMarkers()">getMarkers</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets list of markers at the location of picking.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-mapmarker3d" title="class in com.here.sdk.mapview">MapMarker3D</a>&gt;</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#getMarkers3d()">getMarkers3d</a>()</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-mapmarker3d" title="class in com.here.sdk.mapview">MapMarker3D</a>&gt;</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#getMarkers3d()">getMarkers3d</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets list of 3d markers at the location of picking.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-mappolygon" title="class in com.here.sdk.mapview">MapPolygon</a>&gt;</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#getPolygons()">getPolygons</a>()</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-mappolygon" title="class in com.here.sdk.mapview">MapPolygon</a>&gt;</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#getPolygons()">getPolygons</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets list of polygons at the location of picking.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-mappolyline" title="class in com.here.sdk.mapview">MapPolyline</a>&gt;</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#getPolylines()">getPolylines</a>()</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-mappolyline" title="class in com.here.sdk.mapview">MapPolyline</a>&gt;</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#getPolylines()">getPolylines</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets list of polylines at the location of picking.</div>
 </div>
@@ -128,7 +93,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-pickmapitemsresult"
 <section class="detail" id="getClusteredMarkers()">
 <h3>getClusteredMarkers</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-mapmarkercluster.grouping" title="class in com.here.sdk.mapview">MapMarkerCluster.Grouping</a>&gt;</span> <span class="element-name">getClusteredMarkers</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-mapmarkercluster.grouping" title="class in com.here.sdk.mapview">MapMarkerCluster.Grouping</a>&gt;</span> <span class="element-name">getClusteredMarkers</span>()</div>
 <div class="block"><p>Gets list of clustered marker groups at the location of picking.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -141,7 +106,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-pickmapitemsresult"
 <section class="detail" id="getMarkers()">
 <h3>getMarkers</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-mapmarker" title="class in com.here.sdk.mapview">MapMarker</a>&gt;</span> <span class="element-name">getMarkers</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-mapmarker" title="class in com.here.sdk.mapview">MapMarker</a>&gt;</span> <span class="element-name">getMarkers</span>()</div>
 <div class="block"><p>Gets list of markers at the location of picking.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -153,7 +118,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-pickmapitemsresult"
 <section class="detail" id="getMarkers3d()">
 <h3>getMarkers3d</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-mapmarker3d" title="class in com.here.sdk.mapview">MapMarker3D</a>&gt;</span> <span class="element-name">getMarkers3d</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-mapmarker3d" title="class in com.here.sdk.mapview">MapMarker3D</a>&gt;</span> <span class="element-name">getMarkers3d</span>()</div>
 <div class="block"><p>Gets list of 3d markers at the location of picking.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -165,7 +130,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-pickmapitemsresult"
 <section class="detail" id="getPolylines()">
 <h3>getPolylines</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-mappolyline" title="class in com.here.sdk.mapview">MapPolyline</a>&gt;</span> <span class="element-name">getPolylines</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-mappolyline" title="class in com.here.sdk.mapview">MapPolyline</a>&gt;</span> <span class="element-name">getPolylines</span>()</div>
 <div class="block"><p>Gets list of polylines at the location of picking.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -177,7 +142,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-pickmapitemsresult"
 <section class="detail" id="getPolygons()">
 <h3>getPolygons</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-mappolygon" title="class in com.here.sdk.mapview">MapPolygon</a>&gt;</span> <span class="element-name">getPolygons</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-mappolygon" title="class in com.here.sdk.mapview">MapPolygon</a>&gt;</span> <span class="element-name">getPolygons</span>()</div>
 <div class="block"><p>Gets list of polygons at the location of picking.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -192,8 +157,8 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-pickmapitemsresult"
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
 </main>
-</div>
-</div>
+
+
 
 
 

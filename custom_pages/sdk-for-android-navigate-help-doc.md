@@ -14,64 +14,37 @@ slug: "sdk-for-android-navigate-help-doc"
 
 
 
-<div class="flex-box">
-<header class="flex-header" role="banner">
-<nav role="navigation">
-<!-- ========= START OF TOP NAVBAR ======= -->
-<div class="top-nav" id="navbar-top">
-<div class="skip-nav"><a href="#skip-navbar-top" title="Skip navigation links">Skip navigation links</a></div>
-<ul class="nav-list" id="navbar-top-firstrow" title="Navigation">
-<li><a href="sdk-for-android-navigate-index">Overview</a></li>
-<li>Package</li>
-<li>Class</li>
-<li><a href="sdk-for-android-navigate-overview-tree">Tree</a></li>
-<li><a href="sdk-for-android-navigate-deprecated-list">Deprecated</a></li>
-<li><a href="sdk-for-android-navigate-index-all">Index</a></li>
-<li class="nav-bar-cell1-rev">Help</li>
-</ul>
-</div>
-<div class="sub-nav">
-<div>
-<ul class="sub-nav-list">
-<li>Help: </li>
-<li><a href="#help-navigation">Navigation</a> | </li>
-<li><a href="#help-pages">Pages</a></li>
-</ul>
-</div>
 
-</div>
-<!-- ========= END OF TOP NAVBAR ========= -->
-<span class="skip-nav" id="skip-navbar-top"></span></nav>
-</header>
-<div class="flex-content">
+
+
 <main role="main">
 
 <ul class="help-toc">
-<li><a href="#help-navigation">Navigation</a>: 
+<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#help-navigation">Navigation</a>: 
 <ul class="help-subtoc">
-<li><a href="#help-search">Search</a></li>
+<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#help-search">Search</a></li>
 </ul>
 </li>
-<li><a href="#help-pages">Kinds of Pages</a>: 
+<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#help-pages">Kinds of Pages</a>: 
 <ul class="help-subtoc">
-<li><a href="#overview">Overview</a></li>
-<li><a href="#package">Package</a></li>
-<li><a href="#class">Class or Interface</a></li>
-<li><a href="#doc-file">Other Files</a></li>
-<li><a href="#tree">Tree (Class Hierarchy)</a></li>
-<li><a href="#deprecated">Deprecated API</a></li>
-<li><a href="#constant-values">Constant Field Values</a></li>
-<li><a href="#serialized-form">Serialized Form</a></li>
-<li><a href="#all-packages">All Packages</a></li>
-<li><a href="#all-classes">All Classes and Interfaces</a></li>
-<li><a href="#index">Index</a></li>
+<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#overview">Overview</a></li>
+<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#package">Package</a></li>
+<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#class">Class or Interface</a></li>
+<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#doc-file">Other Files</a></li>
+<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#tree">Tree (Class Hierarchy)</a></li>
+<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#deprecated">Deprecated API</a></li>
+<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#constant-values">Constant Field Values</a></li>
+<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#serialized-form">Serialized Form</a></li>
+<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#all-packages">All Packages</a></li>
+<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#all-classes">All Classes and Interfaces</a></li>
+<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#index">Index</a></li>
 </ul>
 </li>
 </ul>
 <hr/>
 <div class="sub-title">
 
-Starting from the <a href="sdk-for-android-navigate-index">Overview</a> page, you can browse the documentation using the links in each page, and in the navigation bar at the top of each page. The <a href="sdk-for-android-navigate-index-all">Index</a> and Search box allow you to navigate to specific declarations and summary pages, including: <a href="sdk-for-android-navigate-allpackages-index">All Packages</a>, <a href="sdk-for-android-navigate-allclasses-index">All Classes and Interfaces</a>
+Starting from the <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index">Overview</a> page, you can browse the documentation using the links in each page, and in the navigation bar at the top of each page. The <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index-all">Index</a> and Search box allow you to navigate to specific declarations and summary pages, including: <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-allpackages-index">All Packages</a>, <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-allclasses-index">All Classes and Interfaces</a>
 <section class="help-section" id="help-search">
 <h3>Search</h3>
 <p>You can search for definitions of modules, packages, types, fields, methods, system properties and other terms defined in the API, using some or all of the name, optionally using "camelCase" abbreviations. For example:</p>
@@ -89,7 +62,7 @@ Starting from the <a href="sdk-for-android-navigate-index">Overview</a> page, yo
 The following sections describe the different kinds of pages in this collection.
 <section class="help-section" id="overview">
 <h3>Overview</h3>
-<p>The <a href="sdk-for-android-navigate-index">Overview</a> page is the front page of this API document and provides a list of all packages with a summary for each.  This page can also contain an overall description of the set of packages.</p>
+<p>The <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index">Overview</a> page is the front page of this API document and provides a list of all packages with a summary for each.  This page can also contain an overall description of the set of packages.</p>
 </section>
 <section class="help-section" id="package">
 <h3>Package</h3>
@@ -143,7 +116,7 @@ The following sections describe the different kinds of pages in this collection.
 </section>
 <section class="help-section" id="tree">
 <h3>Tree (Class Hierarchy)</h3>
-<p>There is a <a href="sdk-for-android-navigate-overview-tree">Class Hierarchy</a> page for all packages, plus a hierarchy for each package. Each hierarchy page contains a list of classes and a list of interfaces. Classes are organized by inheritance structure starting with <code>java.lang.Object</code>. Interfaces do not inherit from <code>java.lang.Object</code>.</p>
+<p>There is a <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-overview-tree">Class Hierarchy</a> page for all packages, plus a hierarchy for each package. Each hierarchy page contains a list of classes and a list of interfaces. Classes are organized by inheritance structure starting with <code>java.lang.Object</code>. Interfaces do not inherit from <code>java.lang.Object</code>.</p>
 <ul class="help-section-list">
 <li>When viewing the Overview page, clicking on TREE displays the hierarchy for all packages.</li>
 <li>When viewing a particular package, class or interface page, clicking on TREE displays the hierarchy for only that package.</li>
@@ -151,11 +124,11 @@ The following sections describe the different kinds of pages in this collection.
 </section>
 <section class="help-section" id="deprecated">
 <h3>Deprecated API</h3>
-<p>The <a href="sdk-for-android-navigate-deprecated-list">Deprecated API</a> page lists all of the API that have been deprecated. A deprecated API is not recommended for use, generally due to shortcomings, and a replacement API is usually given. Deprecated APIs may be removed in future implementations.</p>
+<p>The <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-deprecated-list">Deprecated API</a> page lists all of the API that have been deprecated. A deprecated API is not recommended for use, generally due to shortcomings, and a replacement API is usually given. Deprecated APIs may be removed in future implementations.</p>
 </section>
 <section class="help-section" id="constant-values">
 <h3>Constant Field Values</h3>
-<p>The <a href="sdk-for-android-navigate-constant-values">Constant Field Values</a> page lists the static final fields and their values.</p>
+<p>The <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-constant-values">Constant Field Values</a> page lists the static final fields and their values.</p>
 </section>
 <section class="help-section" id="serialized-form">
 <h3>Serialized Form</h3>
@@ -163,21 +136,21 @@ The following sections describe the different kinds of pages in this collection.
 </section>
 <section class="help-section" id="all-packages">
 <h3>All Packages</h3>
-<p>The <a href="sdk-for-android-navigate-allpackages-index">All Packages</a> page contains an alphabetic index of all packages contained in the documentation.</p>
+<p>The <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-allpackages-index">All Packages</a> page contains an alphabetic index of all packages contained in the documentation.</p>
 </section>
 <section class="help-section" id="all-classes">
 <h3>All Classes and Interfaces</h3>
-<p>The <a href="sdk-for-android-navigate-allclasses-index">All Classes and Interfaces</a> page contains an alphabetic index of all classes and interfaces contained in the documentation, including annotation interfaces, enum classes, and record classes.</p>
+<p>The <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-allclasses-index">All Classes and Interfaces</a> page contains an alphabetic index of all classes and interfaces contained in the documentation, including annotation interfaces, enum classes, and record classes.</p>
 </section>
 <section class="help-section" id="index">
 <h3>Index</h3>
-<p>The <a href="sdk-for-android-navigate-index-all">Index</a> contains an alphabetic index of all classes, interfaces, constructors, methods, and fields in the documentation, as well as summary pages such as <a href="sdk-for-android-navigate-allpackages-index">All Packages</a>, <a href="sdk-for-android-navigate-allclasses-index">All Classes and Interfaces</a>.</p>
+<p>The <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index-all">Index</a> contains an alphabetic index of all classes, interfaces, constructors, methods, and fields in the documentation, as well as summary pages such as <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-allpackages-index">All Packages</a>, <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-allclasses-index">All Classes and Interfaces</a>.</p>
 </section>
 </div>
 <hr/>
 <span class="help-footnote">This help file applies to API documentation generated by the standard doclet.</span></main>
-</div>
-</div>
+
+
 
 
 

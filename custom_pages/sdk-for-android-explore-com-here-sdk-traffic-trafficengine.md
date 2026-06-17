@@ -14,62 +14,27 @@ slug: "sdk-for-android-explore-com-here-sdk-traffic-trafficengine"
 
 
 
-<div class="flex-box">
-<header class="flex-header" role="banner">
-<nav role="navigation">
-<!-- ========= START OF TOP NAVBAR ======= -->
-<div class="top-nav" id="navbar-top">
-<div class="skip-nav"><a href="#skip-navbar-top" title="Skip navigation links">Skip navigation links</a></div>
-<ul class="nav-list" id="navbar-top-firstrow" title="Navigation">
-<li><a href="sdk-for-android-explore-..-..-..-..-index">Overview</a></li>
-<li><a href="sdk-for-android-explore-package-summary">Package</a></li>
-<li class="nav-bar-cell1-rev">Class</li>
-<li><a href="sdk-for-android-explore-package-tree">Tree</a></li>
-<li><a href="sdk-for-android-explore-..-..-..-..-deprecated-list">Deprecated</a></li>
-<li><a href="sdk-for-android-explore-..-..-..-..-index-all">Index</a></li>
-<li><a href="sdk-for-android-explore-..-..-..-..-help-doc#class">Help</a></li>
-</ul>
-</div>
-<div class="sub-nav">
-<div>
-<ul class="sub-nav-list">
-<li>Summary: </li>
-<li>Nested | </li>
-<li>Field | </li>
-<li><a href="#constructor-summary">Constr</a> | </li>
-<li><a href="#method-summary">Method</a></li>
-</ul>
-<ul class="sub-nav-list">
-<li>Detail: </li>
-<li>Field | </li>
-<li><a href="#constructor-detail">Constr</a> | </li>
-<li><a href="#method-detail">Method</a></li>
-</ul>
-</div>
 
-</div>
-<!-- ========= END OF TOP NAVBAR ========= -->
-<span class="skip-nav" id="skip-navbar-top"></span></nav>
-</header>
-<div class="flex-content">
+
+
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.traffic</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-package-summary">com.here.sdk.traffic</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a href="sdk-for-android-explore-..-..-nativebase" title="class in com.here">com.here.NativeBase</a>
+<div class="inheritance"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.traffic.TrafficEngine</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 <hr/>
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">TrafficEngine</span>
-<span class="extends-implements">extends <a href="sdk-for-android-explore-..-..-nativebase" title="class in com.here">NativeBase</a></span></div>
+<span class="extends-implements">extends <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>Use the TrafficEngine to get information about current traffic flow and incidents in an area
- specified by <a href="sdk-for-android-explore-..-core-geobox" title="class in com.here.sdk.core"><code>GeoBox</code></a>, <a href="sdk-for-android-explore-..-core-geocircle" title="class in com.here.sdk.core"><code>GeoCircle</code></a>, or <a href="sdk-for-android-explore-..-core-geocorridor" title="class in com.here.sdk.core"><code>GeoCorridor</code></a>.
- Provides optional parameters given in <a href="sdk-for-android-explore-trafficincidentsqueryoptions" title="class in com.here.sdk.traffic"><code>TrafficIncidentsQueryOptions</code></a> and <a href="sdk-for-android-explore-trafficflowqueryoptions" title="class in com.here.sdk.traffic"><code>TrafficFlowQueryOptions</code></a> to filter the result.
+ specified by <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-geobox" title="class in com.here.sdk.core"><code>GeoBox</code></a>, <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-geocircle" title="class in com.here.sdk.core"><code>GeoCircle</code></a>, or <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-geocorridor" title="class in com.here.sdk.core"><code>GeoCorridor</code></a>.
+ Provides optional parameters given in <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-trafficincidentsqueryoptions" title="class in com.here.sdk.traffic"><code>TrafficIncidentsQueryOptions</code></a> and <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-trafficflowqueryoptions" title="class in com.here.sdk.traffic"><code>TrafficFlowQueryOptions</code></a> to filter the result.
  </p><p>By default, incidents are localized based on their geographical
  location. You can override that behavior by specifying the
  desired language that should be used for the incidents description and summary.
@@ -79,7 +44,7 @@ slug: "sdk-for-android-explore-com-here-sdk-traffic-trafficengine"
  and others.
  </p><p>Traffic data is fetched online to get the most precise and freshest data available.
  In offline mode, live traffic data can be fetched using the traffic pass-through features.
- See <a href="sdk-for-android-explore-..-core-engine-sdknativeengine#getPassThroughFeatures()"><code>SDKNativeEngine.getPassThroughFeatures()</code></a></p></div>
+ See <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-sdknativeengine#getPassThroughFeatures()"><code>SDKNativeEngine.getPassThroughFeatures()</code></a></p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -91,11 +56,11 @@ slug: "sdk-for-android-explore-com-here-sdk-traffic-trafficengine"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="#%3Cinit%3E()">TrafficEngine</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#%3Cinit%3E()">TrafficEngine</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance of this class.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="#%3Cinit%3E(com.here.sdk.core.engine.SDKNativeEngine)">TrafficEngine</a><wbr/>(<a href="sdk-for-android-explore-..-core-engine-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> sdkEngine)</code></div>
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#%3Cinit%3E(com.here.sdk.core.engine.SDKNativeEngine)">TrafficEngine</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> sdkEngine)</code></div>
 <div class="col-last odd-row-color">
 <div class="block">Creates a new instance of this class.</div>
 </div>
@@ -113,52 +78,52 @@ slug: "sdk-for-android-explore-com-here-sdk-traffic-trafficengine"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-..-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#lookupIncident(java.lang.String,com.here.sdk.traffic.TrafficIncidentLookupOptions,com.here.sdk.traffic.TrafficIncidentLookupCallback)">lookupIncident</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> originalId,
- <a href="sdk-for-android-explore-trafficincidentlookupoptions" title="class in com.here.sdk.traffic">TrafficIncidentLookupOptions</a> lookupOptions,
- <a href="sdk-for-android-explore-trafficincidentlookupcallback" title="interface in com.here.sdk.traffic">TrafficIncidentLookupCallback</a> callback)</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#lookupIncident(java.lang.String,com.here.sdk.traffic.TrafficIncidentLookupOptions,com.here.sdk.traffic.TrafficIncidentLookupCallback)">lookupIncident</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> originalId,
+ <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-trafficincidentlookupoptions" title="class in com.here.sdk.traffic">TrafficIncidentLookupOptions</a> lookupOptions,
+ <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-trafficincidentlookupcallback" title="interface in com.here.sdk.traffic">TrafficIncidentLookupCallback</a> callback)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Asynchronously queries for traffic incident by the original id.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-..-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#queryForFlow(com.here.sdk.core.GeoBox,com.here.sdk.traffic.TrafficFlowQueryOptions,com.here.sdk.traffic.TrafficFlowQueryCallback)">queryForFlow</a><wbr/>(<a href="sdk-for-android-explore-..-core-geobox" title="class in com.here.sdk.core">GeoBox</a> boxArea,
- <a href="sdk-for-android-explore-trafficflowqueryoptions" title="class in com.here.sdk.traffic">TrafficFlowQueryOptions</a> queryOptions,
- <a href="sdk-for-android-explore-trafficflowquerycallback" title="interface in com.here.sdk.traffic">TrafficFlowQueryCallback</a> callback)</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#queryForFlow(com.here.sdk.core.GeoBox,com.here.sdk.traffic.TrafficFlowQueryOptions,com.here.sdk.traffic.TrafficFlowQueryCallback)">queryForFlow</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-geobox" title="class in com.here.sdk.core">GeoBox</a> boxArea,
+ <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-trafficflowqueryoptions" title="class in com.here.sdk.traffic">TrafficFlowQueryOptions</a> queryOptions,
+ <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-trafficflowquerycallback" title="interface in com.here.sdk.traffic">TrafficFlowQueryCallback</a> callback)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Asynchronously queries for traffic flow using a bounding box as a filter.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-..-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#queryForFlow(com.here.sdk.core.GeoCircle,com.here.sdk.traffic.TrafficFlowQueryOptions,com.here.sdk.traffic.TrafficFlowQueryCallback)">queryForFlow</a><wbr/>(<a href="sdk-for-android-explore-..-core-geocircle" title="class in com.here.sdk.core">GeoCircle</a> circleArea,
- <a href="sdk-for-android-explore-trafficflowqueryoptions" title="class in com.here.sdk.traffic">TrafficFlowQueryOptions</a> queryOptions,
- <a href="sdk-for-android-explore-trafficflowquerycallback" title="interface in com.here.sdk.traffic">TrafficFlowQueryCallback</a> callback)</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#queryForFlow(com.here.sdk.core.GeoCircle,com.here.sdk.traffic.TrafficFlowQueryOptions,com.here.sdk.traffic.TrafficFlowQueryCallback)">queryForFlow</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-geocircle" title="class in com.here.sdk.core">GeoCircle</a> circleArea,
+ <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-trafficflowqueryoptions" title="class in com.here.sdk.traffic">TrafficFlowQueryOptions</a> queryOptions,
+ <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-trafficflowquerycallback" title="interface in com.here.sdk.traffic">TrafficFlowQueryCallback</a> callback)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Asynchronously queries for traffic flow using a circle as a filter.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-..-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#queryForFlow(com.here.sdk.core.GeoCorridor,com.here.sdk.traffic.TrafficFlowQueryOptions,com.here.sdk.traffic.TrafficFlowQueryCallback)">queryForFlow</a><wbr/>(<a href="sdk-for-android-explore-..-core-geocorridor" title="class in com.here.sdk.core">GeoCorridor</a> corridorArea,
- <a href="sdk-for-android-explore-trafficflowqueryoptions" title="class in com.here.sdk.traffic">TrafficFlowQueryOptions</a> queryOptions,
- <a href="sdk-for-android-explore-trafficflowquerycallback" title="interface in com.here.sdk.traffic">TrafficFlowQueryCallback</a> callback)</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#queryForFlow(com.here.sdk.core.GeoCorridor,com.here.sdk.traffic.TrafficFlowQueryOptions,com.here.sdk.traffic.TrafficFlowQueryCallback)">queryForFlow</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-geocorridor" title="class in com.here.sdk.core">GeoCorridor</a> corridorArea,
+ <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-trafficflowqueryoptions" title="class in com.here.sdk.traffic">TrafficFlowQueryOptions</a> queryOptions,
+ <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-trafficflowquerycallback" title="interface in com.here.sdk.traffic">TrafficFlowQueryCallback</a> callback)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Asynchronously queries for traffic flow by a corridor as a filter.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-..-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#queryForIncidents(com.here.sdk.core.GeoBox,com.here.sdk.traffic.TrafficIncidentsQueryOptions,com.here.sdk.traffic.TrafficIncidentsQueryCallback)">queryForIncidents</a><wbr/>(<a href="sdk-for-android-explore-..-core-geobox" title="class in com.here.sdk.core">GeoBox</a> boxArea,
- <a href="sdk-for-android-explore-trafficincidentsqueryoptions" title="class in com.here.sdk.traffic">TrafficIncidentsQueryOptions</a> queryOptions,
- <a href="sdk-for-android-explore-trafficincidentsquerycallback" title="interface in com.here.sdk.traffic">TrafficIncidentsQueryCallback</a> callback)</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#queryForIncidents(com.here.sdk.core.GeoBox,com.here.sdk.traffic.TrafficIncidentsQueryOptions,com.here.sdk.traffic.TrafficIncidentsQueryCallback)">queryForIncidents</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-geobox" title="class in com.here.sdk.core">GeoBox</a> boxArea,
+ <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-trafficincidentsqueryoptions" title="class in com.here.sdk.traffic">TrafficIncidentsQueryOptions</a> queryOptions,
+ <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-trafficincidentsquerycallback" title="interface in com.here.sdk.traffic">TrafficIncidentsQueryCallback</a> callback)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Asynchronously queries for traffic incidents using a bounding box as a filter.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-..-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#queryForIncidents(com.here.sdk.core.GeoCircle,com.here.sdk.traffic.TrafficIncidentsQueryOptions,com.here.sdk.traffic.TrafficIncidentsQueryCallback)">queryForIncidents</a><wbr/>(<a href="sdk-for-android-explore-..-core-geocircle" title="class in com.here.sdk.core">GeoCircle</a> circleArea,
- <a href="sdk-for-android-explore-trafficincidentsqueryoptions" title="class in com.here.sdk.traffic">TrafficIncidentsQueryOptions</a> queryOptions,
- <a href="sdk-for-android-explore-trafficincidentsquerycallback" title="interface in com.here.sdk.traffic">TrafficIncidentsQueryCallback</a> callback)</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#queryForIncidents(com.here.sdk.core.GeoCircle,com.here.sdk.traffic.TrafficIncidentsQueryOptions,com.here.sdk.traffic.TrafficIncidentsQueryCallback)">queryForIncidents</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-geocircle" title="class in com.here.sdk.core">GeoCircle</a> circleArea,
+ <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-trafficincidentsqueryoptions" title="class in com.here.sdk.traffic">TrafficIncidentsQueryOptions</a> queryOptions,
+ <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-trafficincidentsquerycallback" title="interface in com.here.sdk.traffic">TrafficIncidentsQueryCallback</a> callback)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Asynchronously queries for traffic incidents using a circle as a filter.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-..-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#queryForIncidents(com.here.sdk.core.GeoCorridor,com.here.sdk.traffic.TrafficIncidentsQueryOptions,com.here.sdk.traffic.TrafficIncidentsQueryCallback)">queryForIncidents</a><wbr/>(<a href="sdk-for-android-explore-..-core-geocorridor" title="class in com.here.sdk.core">GeoCorridor</a> corridorArea,
- <a href="sdk-for-android-explore-trafficincidentsqueryoptions" title="class in com.here.sdk.traffic">TrafficIncidentsQueryOptions</a> queryOptions,
- <a href="sdk-for-android-explore-trafficincidentsquerycallback" title="interface in com.here.sdk.traffic">TrafficIncidentsQueryCallback</a> callback)</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#queryForIncidents(com.here.sdk.core.GeoCorridor,com.here.sdk.traffic.TrafficIncidentsQueryOptions,com.here.sdk.traffic.TrafficIncidentsQueryCallback)">queryForIncidents</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-geocorridor" title="class in com.here.sdk.core">GeoCorridor</a> corridorArea,
+ <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-trafficincidentsqueryoptions" title="class in com.here.sdk.traffic">TrafficIncidentsQueryOptions</a> queryOptions,
+ <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-trafficincidentsquerycallback" title="interface in com.here.sdk.traffic">TrafficIncidentsQueryCallback</a> callback)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Asynchronously queries for traffic incidents by a corridor as a filter.</div>
 </div>
@@ -183,11 +148,11 @@ slug: "sdk-for-android-explore-com-here-sdk-traffic-trafficengine"
 <section class="detail" id="&lt;init&gt;()">
 <h3>TrafficEngine</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">TrafficEngine</span>()
-              throws <span class="exceptions"><a href="sdk-for-android-explore-..-core-errors-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></span></div>
+              throws <span class="exceptions"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></span></div>
 <div class="block"><p>Creates a new instance of this class.</p></div>
 <dl class="notes">
 <dt>Throws:</dt>
-<dd><code><a href="sdk-for-android-explore-..-core-errors-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></code> - <p>Indicates what went wrong when the instantiation was attempted.</p></dd>
+<dd><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></code> - <p>Indicates what went wrong when the instantiation was attempted.</p></dd>
 </dl>
 </section>
 </li>
@@ -195,14 +160,14 @@ slug: "sdk-for-android-explore-com-here-sdk-traffic-trafficengine"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.core.engine.SDKNativeEngine)">
 <h3>TrafficEngine</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">TrafficEngine</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-..-core-engine-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> sdkEngine)</span>
-              throws <span class="exceptions"><a href="sdk-for-android-explore-..-core-errors-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></span></div>
+ <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> sdkEngine)</span>
+              throws <span class="exceptions"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></span></div>
 <div class="block"><p>Creates a new instance of this class.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>sdkEngine</code> - <p>An SDKEngine instance.</p></dd>
 <dt>Throws:</dt>
-<dd><code><a href="sdk-for-android-explore-..-core-errors-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></code> - <p>Indicates what went wrong when the instantiation was attempted.</p></dd>
+<dd><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></code> - <p>Indicates what went wrong when the instantiation was attempted.</p></dd>
 </dl>
 </section>
 </li>
@@ -218,12 +183,12 @@ slug: "sdk-for-android-explore-com-here-sdk-traffic-trafficengine"
 <section class="detail" id="queryForIncidents(com.here.sdk.core.GeoBox,com.here.sdk.traffic.TrafficIncidentsQueryOptions,com.here.sdk.traffic.TrafficIncidentsQueryCallback)">
 <h3>queryForIncidents</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-..-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">queryForIncidents</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-..-core-geobox" title="class in com.here.sdk.core">GeoBox</a> boxArea,
+</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">queryForIncidents</span><wbr/><span class="parameters">(@NonNull
+ <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-geobox" title="class in com.here.sdk.core">GeoBox</a> boxArea,
  @NonNull
- <a href="sdk-for-android-explore-trafficincidentsqueryoptions" title="class in com.here.sdk.traffic">TrafficIncidentsQueryOptions</a> queryOptions,
+ <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-trafficincidentsqueryoptions" title="class in com.here.sdk.traffic">TrafficIncidentsQueryOptions</a> queryOptions,
  @NonNull
- <a href="sdk-for-android-explore-trafficincidentsquerycallback" title="interface in com.here.sdk.traffic">TrafficIncidentsQueryCallback</a> callback)</span></div>
+ <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-trafficincidentsquerycallback" title="interface in com.here.sdk.traffic">TrafficIncidentsQueryCallback</a> callback)</span></div>
 <div class="block"><p>Asynchronously queries for traffic incidents using a bounding box as a filter.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -240,12 +205,12 @@ slug: "sdk-for-android-explore-com-here-sdk-traffic-trafficengine"
 <section class="detail" id="queryForIncidents(com.here.sdk.core.GeoCircle,com.here.sdk.traffic.TrafficIncidentsQueryOptions,com.here.sdk.traffic.TrafficIncidentsQueryCallback)">
 <h3>queryForIncidents</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-..-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">queryForIncidents</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-..-core-geocircle" title="class in com.here.sdk.core">GeoCircle</a> circleArea,
+</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">queryForIncidents</span><wbr/><span class="parameters">(@NonNull
+ <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-geocircle" title="class in com.here.sdk.core">GeoCircle</a> circleArea,
  @NonNull
- <a href="sdk-for-android-explore-trafficincidentsqueryoptions" title="class in com.here.sdk.traffic">TrafficIncidentsQueryOptions</a> queryOptions,
+ <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-trafficincidentsqueryoptions" title="class in com.here.sdk.traffic">TrafficIncidentsQueryOptions</a> queryOptions,
  @NonNull
- <a href="sdk-for-android-explore-trafficincidentsquerycallback" title="interface in com.here.sdk.traffic">TrafficIncidentsQueryCallback</a> callback)</span></div>
+ <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-trafficincidentsquerycallback" title="interface in com.here.sdk.traffic">TrafficIncidentsQueryCallback</a> callback)</span></div>
 <div class="block"><p>Asynchronously queries for traffic incidents using a circle as a filter.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -262,12 +227,12 @@ slug: "sdk-for-android-explore-com-here-sdk-traffic-trafficengine"
 <section class="detail" id="queryForIncidents(com.here.sdk.core.GeoCorridor,com.here.sdk.traffic.TrafficIncidentsQueryOptions,com.here.sdk.traffic.TrafficIncidentsQueryCallback)">
 <h3>queryForIncidents</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-..-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">queryForIncidents</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-..-core-geocorridor" title="class in com.here.sdk.core">GeoCorridor</a> corridorArea,
+</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">queryForIncidents</span><wbr/><span class="parameters">(@NonNull
+ <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-geocorridor" title="class in com.here.sdk.core">GeoCorridor</a> corridorArea,
  @NonNull
- <a href="sdk-for-android-explore-trafficincidentsqueryoptions" title="class in com.here.sdk.traffic">TrafficIncidentsQueryOptions</a> queryOptions,
+ <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-trafficincidentsqueryoptions" title="class in com.here.sdk.traffic">TrafficIncidentsQueryOptions</a> queryOptions,
  @NonNull
- <a href="sdk-for-android-explore-trafficincidentsquerycallback" title="interface in com.here.sdk.traffic">TrafficIncidentsQueryCallback</a> callback)</span></div>
+ <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-trafficincidentsquerycallback" title="interface in com.here.sdk.traffic">TrafficIncidentsQueryCallback</a> callback)</span></div>
 <div class="block"><p>Asynchronously queries for traffic incidents by a corridor as a filter.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -275,7 +240,7 @@ slug: "sdk-for-android-explore-com-here-sdk-traffic-trafficengine"
      The maximum length for the corridor is 500000 meters and the maximum <code>GeoCorridor.half_width_in_meters</code> is 5000 meters.
      If the number of points in corridor is greater than 300 then request is split into smaller ones and results are
      aggregated into single response, this will result in multiple requests to the backend. This process does not change a shape of the corridor.
-     </p><p>To reduce number of points in the corridor use <a href="sdk-for-android-explore-..-core-polylinesimplifier" title="class in com.here.sdk.core"><code>PolylineSimplifier</code></a>.
+     </p><p>To reduce number of points in the corridor use <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-polylinesimplifier" title="class in com.here.sdk.core"><code>PolylineSimplifier</code></a>.
      </p><p>If no <code>GeoCorridor.half_width_in_meters</code> is specified, the default value is used. The default value is 30 meters.</p></dd>
 <dd><code>queryOptions</code> - <p>The options which are specific for incidents query.</p></dd>
 <dd><code>callback</code> - <p>It is always invoked on the main thread.</p></dd>
@@ -288,14 +253,14 @@ slug: "sdk-for-android-explore-com-here-sdk-traffic-trafficengine"
 <section class="detail" id="lookupIncident(java.lang.String,com.here.sdk.traffic.TrafficIncidentLookupOptions,com.here.sdk.traffic.TrafficIncidentLookupCallback)">
 <h3>lookupIncident</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-..-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">lookupIncident</span><wbr/><span class="parameters">(@NonNull
+</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">lookupIncident</span><wbr/><span class="parameters">(@NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> originalId,
  @NonNull
- <a href="sdk-for-android-explore-trafficincidentlookupoptions" title="class in com.here.sdk.traffic">TrafficIncidentLookupOptions</a> lookupOptions,
+ <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-trafficincidentlookupoptions" title="class in com.here.sdk.traffic">TrafficIncidentLookupOptions</a> lookupOptions,
  @NonNull
- <a href="sdk-for-android-explore-trafficincidentlookupcallback" title="interface in com.here.sdk.traffic">TrafficIncidentLookupCallback</a> callback)</span></div>
+ <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-trafficincidentlookupcallback" title="interface in com.here.sdk.traffic">TrafficIncidentLookupCallback</a> callback)</span></div>
 <div class="block"><p>Asynchronously queries for traffic incident by the original id.
- See <a href="sdk-for-android-explore-trafficincident#getOriginalId()"><code>TrafficIncident.getOriginalId()</code></a> for more information.</p></div>
+ See <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-trafficincident#getOriginalId()"><code>TrafficIncident.getOriginalId()</code></a> for more information.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>originalId</code> - <p>The requested incident original id.</p></dd>
@@ -311,12 +276,12 @@ slug: "sdk-for-android-explore-com-here-sdk-traffic-trafficengine"
 <section class="detail" id="queryForFlow(com.here.sdk.core.GeoBox,com.here.sdk.traffic.TrafficFlowQueryOptions,com.here.sdk.traffic.TrafficFlowQueryCallback)">
 <h3>queryForFlow</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-..-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">queryForFlow</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-..-core-geobox" title="class in com.here.sdk.core">GeoBox</a> boxArea,
+</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">queryForFlow</span><wbr/><span class="parameters">(@NonNull
+ <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-geobox" title="class in com.here.sdk.core">GeoBox</a> boxArea,
  @NonNull
- <a href="sdk-for-android-explore-trafficflowqueryoptions" title="class in com.here.sdk.traffic">TrafficFlowQueryOptions</a> queryOptions,
+ <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-trafficflowqueryoptions" title="class in com.here.sdk.traffic">TrafficFlowQueryOptions</a> queryOptions,
  @NonNull
- <a href="sdk-for-android-explore-trafficflowquerycallback" title="interface in com.here.sdk.traffic">TrafficFlowQueryCallback</a> callback)</span></div>
+ <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-trafficflowquerycallback" title="interface in com.here.sdk.traffic">TrafficFlowQueryCallback</a> callback)</span></div>
 <div class="block"><p>Asynchronously queries for traffic flow using a bounding box as a filter.
  </p><p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
  Related APIs may change for new releases without a deprecation process.</p></div>
@@ -334,12 +299,12 @@ slug: "sdk-for-android-explore-com-here-sdk-traffic-trafficengine"
 <section class="detail" id="queryForFlow(com.here.sdk.core.GeoCircle,com.here.sdk.traffic.TrafficFlowQueryOptions,com.here.sdk.traffic.TrafficFlowQueryCallback)">
 <h3>queryForFlow</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-..-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">queryForFlow</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-..-core-geocircle" title="class in com.here.sdk.core">GeoCircle</a> circleArea,
+</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">queryForFlow</span><wbr/><span class="parameters">(@NonNull
+ <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-geocircle" title="class in com.here.sdk.core">GeoCircle</a> circleArea,
  @NonNull
- <a href="sdk-for-android-explore-trafficflowqueryoptions" title="class in com.here.sdk.traffic">TrafficFlowQueryOptions</a> queryOptions,
+ <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-trafficflowqueryoptions" title="class in com.here.sdk.traffic">TrafficFlowQueryOptions</a> queryOptions,
  @NonNull
- <a href="sdk-for-android-explore-trafficflowquerycallback" title="interface in com.here.sdk.traffic">TrafficFlowQueryCallback</a> callback)</span></div>
+ <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-trafficflowquerycallback" title="interface in com.here.sdk.traffic">TrafficFlowQueryCallback</a> callback)</span></div>
 <div class="block"><p>Asynchronously queries for traffic flow using a circle as a filter.
  </p><p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
  Related APIs may change for new releases without a deprecation process.</p></div>
@@ -358,12 +323,12 @@ slug: "sdk-for-android-explore-com-here-sdk-traffic-trafficengine"
 <section class="detail" id="queryForFlow(com.here.sdk.core.GeoCorridor,com.here.sdk.traffic.TrafficFlowQueryOptions,com.here.sdk.traffic.TrafficFlowQueryCallback)">
 <h3>queryForFlow</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-..-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">queryForFlow</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-..-core-geocorridor" title="class in com.here.sdk.core">GeoCorridor</a> corridorArea,
+</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">queryForFlow</span><wbr/><span class="parameters">(@NonNull
+ <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-geocorridor" title="class in com.here.sdk.core">GeoCorridor</a> corridorArea,
  @NonNull
- <a href="sdk-for-android-explore-trafficflowqueryoptions" title="class in com.here.sdk.traffic">TrafficFlowQueryOptions</a> queryOptions,
+ <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-trafficflowqueryoptions" title="class in com.here.sdk.traffic">TrafficFlowQueryOptions</a> queryOptions,
  @NonNull
- <a href="sdk-for-android-explore-trafficflowquerycallback" title="interface in com.here.sdk.traffic">TrafficFlowQueryCallback</a> callback)</span></div>
+ <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-trafficflowquerycallback" title="interface in com.here.sdk.traffic">TrafficFlowQueryCallback</a> callback)</span></div>
 <div class="block"><p>Asynchronously queries for traffic flow by a corridor as a filter.
  </p><p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
  Related APIs may change for new releases without a deprecation process.</p></div>
@@ -372,7 +337,7 @@ slug: "sdk-for-android-explore-com-here-sdk-traffic-trafficengine"
 <dd><code>corridorArea</code> - <p>The corridor box to search for traffic flow.
      The maximum length for the corridor is 500000 meters and the maximum <code>GeoCorridor.half_width_in_meters</code> is 5000 meters.
      </p><p>Maximum number of points in the corridor is 300.
-     </p><p>To reduce number of points in the corridor use <a href="sdk-for-android-explore-..-core-polylinesimplifier" title="class in com.here.sdk.core"><code>PolylineSimplifier</code></a>.
+     </p><p>To reduce number of points in the corridor use <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-polylinesimplifier" title="class in com.here.sdk.core"><code>PolylineSimplifier</code></a>.
      </p><p>If no <code>GeoCorridor.half_width_in_meters</code> is specified, the default value is used. The default value is 30 meters.</p></dd>
 <dd><code>queryOptions</code> - <p>The options which are specific for flow query.</p></dd>
 <dd><code>callback</code> - <p>It is always invoked on the main thread.</p></dd>
@@ -388,8 +353,8 @@ slug: "sdk-for-android-explore-com-here-sdk-traffic-trafficengine"
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
 </main>
-</div>
-</div>
+
+
 
 
 

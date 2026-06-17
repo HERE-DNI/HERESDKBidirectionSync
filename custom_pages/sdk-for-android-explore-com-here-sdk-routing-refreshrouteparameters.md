@@ -14,48 +14,13 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-refreshrouteparameters"
 
 
 
-<div class="flex-box">
-<header class="flex-header" role="banner">
-<nav role="navigation">
-<!-- ========= START OF TOP NAVBAR ======= -->
-<div class="top-nav" id="navbar-top">
-<div class="skip-nav"><a href="#skip-navbar-top" title="Skip navigation links">Skip navigation links</a></div>
-<ul class="nav-list" id="navbar-top-firstrow" title="Navigation">
-<li><a href="sdk-for-android-explore-..-..-..-..-index">Overview</a></li>
-<li><a href="sdk-for-android-explore-package-summary">Package</a></li>
-<li class="nav-bar-cell1-rev">Class</li>
-<li><a href="sdk-for-android-explore-package-tree">Tree</a></li>
-<li><a href="sdk-for-android-explore-..-..-..-..-deprecated-list">Deprecated</a></li>
-<li><a href="sdk-for-android-explore-..-..-..-..-index-all">Index</a></li>
-<li><a href="sdk-for-android-explore-..-..-..-..-help-doc#class">Help</a></li>
-</ul>
-</div>
-<div class="sub-nav">
-<div>
-<ul class="sub-nav-list">
-<li>Summary: </li>
-<li>Nested | </li>
-<li><a href="#field-summary">Field</a> | </li>
-<li><a href="#constructor-summary">Constr</a> | </li>
-<li><a href="#method-summary">Method</a></li>
-</ul>
-<ul class="sub-nav-list">
-<li>Detail: </li>
-<li><a href="#field-detail">Field</a> | </li>
-<li><a href="#constructor-detail">Constr</a> | </li>
-<li><a href="#method-detail">Method</a></li>
-</ul>
-</div>
 
-</div>
-<!-- ========= END OF TOP NAVBAR ========= -->
-<span class="skip-nav" id="skip-navbar-top"></span></nav>
-</header>
-<div class="flex-content">
+
+
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.routing</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-package-summary">com.here.sdk.routing</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -79,23 +44,23 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-refreshrouteparameters"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-routehandle" title="class in com.here.sdk.routing">RouteHandle</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="#routeHandle">routeHandle</a></code></div>
+<div class="col-first even-row-color"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-routehandle" title="class in com.here.sdk.routing">RouteHandle</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#routeHandle">routeHandle</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The route handle holding the route to be refreshed.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-waypoint" title="class in com.here.sdk.routing">Waypoint</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="#startingPoint">startingPoint</a></code></div>
+<div class="col-first odd-row-color"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-waypoint" title="class in com.here.sdk.routing">Waypoint</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#startingPoint">startingPoint</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Identify the new starting point of the route.</div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="#startingSectionIndex">startingSectionIndex</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#startingSectionIndex">startingSectionIndex</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Indicates the index of the last traveled route section.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="#traveledDistanceOnStartingSectionInMeters">traveledDistanceOnStartingSectionInMeters</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#traveledDistanceOnStartingSectionInMeters">traveledDistanceOnStartingSectionInMeters</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Provides an indication on how much of the starting section is already traveled.</div>
 </div>
@@ -110,23 +75,23 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-refreshrouteparameters"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="#%3Cinit%3E(com.here.sdk.routing.RouteHandle,int,int)">RefreshRouteParameters</a><wbr/>(<a href="sdk-for-android-explore-routehandle" title="class in com.here.sdk.routing">RouteHandle</a> routeHandle,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#%3Cinit%3E(com.here.sdk.routing.RouteHandle,int,int)">RefreshRouteParameters</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-routehandle" title="class in com.here.sdk.routing">RouteHandle</a> routeHandle,
  int startingSectionIndex,
  int traveledDistanceOnStartingSectionInMeters)</code></div>
 <div class="col-last even-row-color">
-<div class="block">Create a new instance of <a href="sdk-for-android-explore-refreshrouteparameters" title="class in com.here.sdk.routing"><code>RefreshRouteParameters</code></a> with the point on the section of the route as a new starting point.</div>
+<div class="block">Create a new instance of <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-refreshrouteparameters" title="class in com.here.sdk.routing"><code>RefreshRouteParameters</code></a> with the point on the section of the route as a new starting point.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="#%3Cinit%3E(com.here.sdk.routing.RouteHandle,com.here.sdk.routing.Waypoint)">RefreshRouteParameters</a><wbr/>(<a href="sdk-for-android-explore-routehandle" title="class in com.here.sdk.routing">RouteHandle</a> routeHandle,
- <a href="sdk-for-android-explore-waypoint" title="class in com.here.sdk.routing">Waypoint</a> startingPoint)</code></div>
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#%3Cinit%3E(com.here.sdk.routing.RouteHandle,com.here.sdk.routing.Waypoint)">RefreshRouteParameters</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-routehandle" title="class in com.here.sdk.routing">RouteHandle</a> routeHandle,
+ <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-waypoint" title="class in com.here.sdk.routing">Waypoint</a> startingPoint)</code></div>
 <div class="col-last odd-row-color">
-<div class="block">Create a new instance of <a href="sdk-for-android-explore-refreshrouteparameters" title="class in com.here.sdk.routing"><code>RefreshRouteParameters</code></a> with the new starting point on the route.</div>
+<div class="block">Create a new instance of <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-refreshrouteparameters" title="class in com.here.sdk.routing"><code>RefreshRouteParameters</code></a> with the new starting point on the route.</div>
 </div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="#%3Cinit%3E(com.here.sdk.routing.RouteHandle,com.here.sdk.routing.Waypoint,int,int)">RefreshRouteParameters</a><wbr/>(<a href="sdk-for-android-explore-routehandle" title="class in com.here.sdk.routing">RouteHandle</a> routeHandle,
- <a href="sdk-for-android-explore-waypoint" title="class in com.here.sdk.routing">Waypoint</a> startingPoint,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#%3Cinit%3E(com.here.sdk.routing.RouteHandle,com.here.sdk.routing.Waypoint,int,int)">RefreshRouteParameters</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-routehandle" title="class in com.here.sdk.routing">RouteHandle</a> routeHandle,
+ <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-waypoint" title="class in com.here.sdk.routing">Waypoint</a> startingPoint,
  int startingSectionIndex,
  int traveledDistanceOnStartingSectionInMeters)</code></div>
 <div class="col-last even-row-color">
-<div class="block">Create a new instance of <a href="sdk-for-android-explore-refreshrouteparameters" title="class in com.here.sdk.routing"><code>RefreshRouteParameters</code></a> with the new starting point and the section position on the route.</div>
+<div class="block">Create a new instance of <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-refreshrouteparameters" title="class in com.here.sdk.routing"><code>RefreshRouteParameters</code></a> with the new starting point and the section position on the route.</div>
 </div>
 </div>
 </section>
@@ -143,10 +108,10 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-refreshrouteparameters"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#hashCode()">hashCode</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 </div>
 </div>
@@ -169,7 +134,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-refreshrouteparameters"
 <section class="detail" id="routeHandle">
 <h3>routeHandle</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-routehandle" title="class in com.here.sdk.routing">RouteHandle</a></span> <span class="element-name">routeHandle</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-routehandle" title="class in com.here.sdk.routing">RouteHandle</a></span> <span class="element-name">routeHandle</span></div>
 <div class="block"><p>The route handle holding the route to be refreshed.</p></div>
 </section>
 </li>
@@ -177,16 +142,16 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-refreshrouteparameters"
 <section class="detail" id="startingPoint">
 <h3>startingPoint</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-waypoint" title="class in com.here.sdk.routing">Waypoint</a></span> <span class="element-name">startingPoint</span></div>
-<div class="block"><p>Identify the new starting point of the route. It should be of type <a href="sdk-for-android-explore-waypointtype#STOPOVER"><code>WaypointType.STOPOVER</code></a>.
- Otherwise, an <a href="sdk-for-android-explore-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated. Moreover, it should be very close to the
- original route specified with the <a href="sdk-for-android-explore-routehandle" title="class in com.here.sdk.routing"><code>RouteHandle</code></a>. The location of this waypoint may by provided,
+</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-waypoint" title="class in com.here.sdk.routing">Waypoint</a></span> <span class="element-name">startingPoint</span></div>
+<div class="block"><p>Identify the new starting point of the route. It should be of type <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-waypointtype#STOPOVER"><code>WaypointType.STOPOVER</code></a>.
+ Otherwise, an <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated. Moreover, it should be very close to the
+ original route specified with the <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-routehandle" title="class in com.here.sdk.routing"><code>RouteHandle</code></a>. The location of this waypoint may by provided,
  for example, by a <code>RouteProgress</code> event. Since the new starting point is expected to be
  along the original route, the original route geometry is used to reach the remaining waypoints. The new route
- will not include the <a href="sdk-for-android-explore-waypoint" title="class in com.here.sdk.routing"><code>Waypoint</code></a> items that lie behind the new starting point (i.e. the path that
- was already traveled). Plus, <a href="sdk-for-android-explore-route#getLengthInMeters()"><code>Route.getLengthInMeters()</code></a>, <a href="sdk-for-android-explore-route#getDuration()"><code>Route.getDuration()</code></a>, and similar
+ will not include the <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-waypoint" title="class in com.here.sdk.routing"><code>Waypoint</code></a> items that lie behind the new starting point (i.e. the path that
+ was already traveled). Plus, <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-route#getLengthInMeters()"><code>Route.getLengthInMeters()</code></a>, <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-route#getDuration()"><code>Route.getDuration()</code></a>, and similar
  values are from the new starting point to the destination. If the new waypoint is too far off the original
- route, the route refresh may fail and an <a href="sdk-for-android-explore-routingerror#COULD_NOT_MATCH_ORIGIN"><code>RoutingError.COULD_NOT_MATCH_ORIGIN</code></a> error is triggered.
+ route, the route refresh may fail and an <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-routingerror#COULD_NOT_MATCH_ORIGIN"><code>RoutingError.COULD_NOT_MATCH_ORIGIN</code></a> error is triggered.
  In that case, an application may decide to calculate a new route from scratch.</p></div>
 </section>
 </li>
@@ -197,7 +162,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-refreshrouteparameters"
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a></span> <span class="element-name">startingSectionIndex</span></div>
 <div class="block"><p>Indicates the index of the last traveled route section. When it is provided, the previous sections are discarded
  from the refreshed route and the starting point is searched in the provided section. If the starting point
- is not found in that section an <a href="sdk-for-android-explore-routingerror#COULD_NOT_MATCH_ORIGIN"><code>RoutingError.COULD_NOT_MATCH_ORIGIN</code></a> error is triggered.</p></div>
+ is not found in that section an <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-routingerror#COULD_NOT_MATCH_ORIGIN"><code>RoutingError.COULD_NOT_MATCH_ORIGIN</code></a> error is triggered.</p></div>
 </section>
 </li>
 <li>
@@ -207,7 +172,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-refreshrouteparameters"
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a></span> <span class="element-name">traveledDistanceOnStartingSectionInMeters</span></div>
 <div class="block"><p>Provides an indication on how much of the starting section is already traveled. The refresh route function
  would ignore the first part of the section. If it is provided with an invalid starting section index, an
- <a href="sdk-for-android-explore-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated.</p></div>
+ <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated.</p></div>
 </section>
 </li>
 </ul>
@@ -222,10 +187,10 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-refreshrouteparameters"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.routing.RouteHandle,com.here.sdk.routing.Waypoint)">
 <h3>RefreshRouteParameters</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">RefreshRouteParameters</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-routehandle" title="class in com.here.sdk.routing">RouteHandle</a> routeHandle,
+ <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-routehandle" title="class in com.here.sdk.routing">RouteHandle</a> routeHandle,
  @NonNull
- <a href="sdk-for-android-explore-waypoint" title="class in com.here.sdk.routing">Waypoint</a> startingPoint)</span></div>
-<div class="block"><p>Create a new instance of <a href="sdk-for-android-explore-refreshrouteparameters" title="class in com.here.sdk.routing"><code>RefreshRouteParameters</code></a> with the new starting point on the route.</p></div>
+ <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-waypoint" title="class in com.here.sdk.routing">Waypoint</a> startingPoint)</span></div>
+<div class="block"><p>Create a new instance of <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-refreshrouteparameters" title="class in com.here.sdk.routing"><code>RefreshRouteParameters</code></a> with the new starting point on the route.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>routeHandle</code> - <p>The route handle holding the route to be refreshed.</p></dd>
@@ -237,10 +202,10 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-refreshrouteparameters"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.routing.RouteHandle,int,int)">
 <h3>RefreshRouteParameters</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">RefreshRouteParameters</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-routehandle" title="class in com.here.sdk.routing">RouteHandle</a> routeHandle,
+ <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-routehandle" title="class in com.here.sdk.routing">RouteHandle</a> routeHandle,
  int startingSectionIndex,
  int traveledDistanceOnStartingSectionInMeters)</span></div>
-<div class="block"><p>Create a new instance of <a href="sdk-for-android-explore-refreshrouteparameters" title="class in com.here.sdk.routing"><code>RefreshRouteParameters</code></a> with the point on the section of the route as a new starting point.</p></div>
+<div class="block"><p>Create a new instance of <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-refreshrouteparameters" title="class in com.here.sdk.routing"><code>RefreshRouteParameters</code></a> with the point on the section of the route as a new starting point.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>routeHandle</code> - <p>The route handle holding the route to be refreshed.</p></dd>
@@ -253,12 +218,12 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-refreshrouteparameters"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.routing.RouteHandle,com.here.sdk.routing.Waypoint,int,int)">
 <h3>RefreshRouteParameters</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">RefreshRouteParameters</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-routehandle" title="class in com.here.sdk.routing">RouteHandle</a> routeHandle,
+ <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-routehandle" title="class in com.here.sdk.routing">RouteHandle</a> routeHandle,
  @NonNull
- <a href="sdk-for-android-explore-waypoint" title="class in com.here.sdk.routing">Waypoint</a> startingPoint,
+ <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-waypoint" title="class in com.here.sdk.routing">Waypoint</a> startingPoint,
  int startingSectionIndex,
  int traveledDistanceOnStartingSectionInMeters)</span></div>
-<div class="block"><p>Create a new instance of <a href="sdk-for-android-explore-refreshrouteparameters" title="class in com.here.sdk.routing"><code>RefreshRouteParameters</code></a> with the new starting point and the section position on the route.</p></div>
+<div class="block"><p>Create a new instance of <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-refreshrouteparameters" title="class in com.here.sdk.routing"><code>RefreshRouteParameters</code></a> with the new starting point and the section position on the route.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>routeHandle</code> - <p>The route handle holding the route to be refreshed.</p></dd>
@@ -303,8 +268,8 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-refreshrouteparameters"
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
 </main>
-</div>
-</div>
+
+
 
 
 

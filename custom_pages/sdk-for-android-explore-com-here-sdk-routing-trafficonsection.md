@@ -14,48 +14,13 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-trafficonsection"
 
 
 
-<div class="flex-box">
-<header class="flex-header" role="banner">
-<nav role="navigation">
-<!-- ========= START OF TOP NAVBAR ======= -->
-<div class="top-nav" id="navbar-top">
-<div class="skip-nav"><a href="#skip-navbar-top" title="Skip navigation links">Skip navigation links</a></div>
-<ul class="nav-list" id="navbar-top-firstrow" title="Navigation">
-<li><a href="sdk-for-android-explore-..-..-..-..-index">Overview</a></li>
-<li><a href="sdk-for-android-explore-package-summary">Package</a></li>
-<li class="nav-bar-cell1-rev">Class</li>
-<li><a href="sdk-for-android-explore-package-tree">Tree</a></li>
-<li><a href="sdk-for-android-explore-..-..-..-..-deprecated-list">Deprecated</a></li>
-<li><a href="sdk-for-android-explore-..-..-..-..-index-all">Index</a></li>
-<li><a href="sdk-for-android-explore-..-..-..-..-help-doc#class">Help</a></li>
-</ul>
-</div>
-<div class="sub-nav">
-<div>
-<ul class="sub-nav-list">
-<li>Summary: </li>
-<li>Nested | </li>
-<li><a href="#field-summary">Field</a> | </li>
-<li><a href="#constructor-summary">Constr</a> | </li>
-<li><a href="#method-summary">Method</a></li>
-</ul>
-<ul class="sub-nav-list">
-<li>Detail: </li>
-<li><a href="#field-detail">Field</a> | </li>
-<li><a href="#constructor-detail">Constr</a> | </li>
-<li><a href="#method-detail">Method</a></li>
-</ul>
-</div>
 
-</div>
-<!-- ========= END OF TOP NAVBAR ========= -->
-<span class="skip-nav" id="skip-navbar-top"></span></nav>
-</header>
-<div class="flex-content">
+
+
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.routing</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-package-summary">com.here.sdk.routing</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -78,28 +43,28 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-trafficonsection"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-routeplace" title="class in com.here.sdk.routing">RoutePlace</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="#arrivalPlace">arrivalPlace</a></code></div>
+<div class="col-first even-row-color"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-routeplace" title="class in com.here.sdk.routing">RoutePlace</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#arrivalPlace">arrivalPlace</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Describes the arrival place.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-routeplace" title="class in com.here.sdk.routing">RoutePlace</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="#departurePlace">departurePlace</a></code></div>
+<div class="col-first odd-row-color"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-routeplace" title="class in com.here.sdk.routing">RoutePlace</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#departurePlace">departurePlace</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Describes the departure place.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-..-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a>&gt;</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="#geometry">geometry</a></code></div>
+<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a>&gt;</code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#geometry">geometry</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">List of coordinates representing the polyline of this section.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-trafficincidentonroute" title="class in com.here.sdk.routing">TrafficIncidentOnRoute</a>&gt;</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="#trafficIncidents">trafficIncidents</a></code></div>
+<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-trafficincidentonroute" title="class in com.here.sdk.routing">TrafficIncidentOnRoute</a>&gt;</code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#trafficIncidents">trafficIncidents</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">List of traffic incidents.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-trafficonspan" title="class in com.here.sdk.routing">TrafficOnSpan</a>&gt;</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="#trafficSpans">trafficSpans</a></code></div>
+<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-trafficonspan" title="class in com.here.sdk.routing">TrafficOnSpan</a>&gt;</code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#trafficSpans">trafficSpans</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">List of traffic spans.</div>
 </div>
@@ -114,8 +79,8 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-trafficonsection"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="#%3Cinit%3E(com.here.sdk.routing.RoutePlace,com.here.sdk.routing.RoutePlace)">TrafficOnSection</a><wbr/>(<a href="sdk-for-android-explore-routeplace" title="class in com.here.sdk.routing">RoutePlace</a> departurePlace,
- <a href="sdk-for-android-explore-routeplace" title="class in com.here.sdk.routing">RoutePlace</a> arrivalPlace)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#%3Cinit%3E(com.here.sdk.routing.RoutePlace,com.here.sdk.routing.RoutePlace)">TrafficOnSection</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-routeplace" title="class in com.here.sdk.routing">RoutePlace</a> departurePlace,
+ <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-routeplace" title="class in com.here.sdk.routing">RoutePlace</a> arrivalPlace)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -134,10 +99,10 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-trafficonsection"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#hashCode()">hashCode</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 </div>
 </div>
@@ -160,7 +125,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-trafficonsection"
 <section class="detail" id="geometry">
 <h3>geometry</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-..-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a>&gt;</span> <span class="element-name">geometry</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a>&gt;</span> <span class="element-name">geometry</span></div>
 <div class="block"><p>List of coordinates representing the polyline of this section.</p></div>
 </section>
 </li>
@@ -168,7 +133,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-trafficonsection"
 <section class="detail" id="trafficSpans">
 <h3>trafficSpans</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-trafficonspan" title="class in com.here.sdk.routing">TrafficOnSpan</a>&gt;</span> <span class="element-name">trafficSpans</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-trafficonspan" title="class in com.here.sdk.routing">TrafficOnSpan</a>&gt;</span> <span class="element-name">trafficSpans</span></div>
 <div class="block"><p>List of traffic spans.</p></div>
 </section>
 </li>
@@ -176,7 +141,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-trafficonsection"
 <section class="detail" id="trafficIncidents">
 <h3>trafficIncidents</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-trafficincidentonroute" title="class in com.here.sdk.routing">TrafficIncidentOnRoute</a>&gt;</span> <span class="element-name">trafficIncidents</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-trafficincidentonroute" title="class in com.here.sdk.routing">TrafficIncidentOnRoute</a>&gt;</span> <span class="element-name">trafficIncidents</span></div>
 <div class="block"><p>List of traffic incidents.</p></div>
 </section>
 </li>
@@ -184,7 +149,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-trafficonsection"
 <section class="detail" id="departurePlace">
 <h3>departurePlace</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-routeplace" title="class in com.here.sdk.routing">RoutePlace</a></span> <span class="element-name">departurePlace</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-routeplace" title="class in com.here.sdk.routing">RoutePlace</a></span> <span class="element-name">departurePlace</span></div>
 <div class="block"><p>Describes the departure place.</p></div>
 </section>
 </li>
@@ -192,7 +157,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-trafficonsection"
 <section class="detail" id="arrivalPlace">
 <h3>arrivalPlace</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-routeplace" title="class in com.here.sdk.routing">RoutePlace</a></span> <span class="element-name">arrivalPlace</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-routeplace" title="class in com.here.sdk.routing">RoutePlace</a></span> <span class="element-name">arrivalPlace</span></div>
 <div class="block"><p>Describes the arrival place.</p></div>
 </section>
 </li>
@@ -208,9 +173,9 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-trafficonsection"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.routing.RoutePlace,com.here.sdk.routing.RoutePlace)">
 <h3>TrafficOnSection</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">TrafficOnSection</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-routeplace" title="class in com.here.sdk.routing">RoutePlace</a> departurePlace,
+ <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-routeplace" title="class in com.here.sdk.routing">RoutePlace</a> departurePlace,
  @NonNull
- <a href="sdk-for-android-explore-routeplace" title="class in com.here.sdk.routing">RoutePlace</a> arrivalPlace)</span></div>
+ <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-routeplace" title="class in com.here.sdk.routing">RoutePlace</a> arrivalPlace)</span></div>
 <div class="block"><p>Creates a new instance.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -254,8 +219,8 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-trafficonsection"
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
 </main>
-</div>
-</div>
+
+
 
 
 

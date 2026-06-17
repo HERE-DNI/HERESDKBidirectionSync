@@ -14,59 +14,24 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondatasource
 
 
 
-<div class="flex-box">
-<header class="flex-header" role="banner">
-<nav role="navigation">
-<!-- ========= START OF TOP NAVBAR ======= -->
-<div class="top-nav" id="navbar-top">
-<div class="skip-nav"><a href="#skip-navbar-top" title="Skip navigation links">Skip navigation links</a></div>
-<ul class="nav-list" id="navbar-top-firstrow" title="Navigation">
-<li><a href="sdk-for-android-explore-..-..-..-..-..-index">Overview</a></li>
-<li><a href="sdk-for-android-explore-package-summary">Package</a></li>
-<li class="nav-bar-cell1-rev">Class</li>
-<li><a href="sdk-for-android-explore-package-tree">Tree</a></li>
-<li><a href="sdk-for-android-explore-..-..-..-..-..-deprecated-list">Deprecated</a></li>
-<li><a href="sdk-for-android-explore-..-..-..-..-..-index-all">Index</a></li>
-<li><a href="sdk-for-android-explore-..-..-..-..-..-help-doc#class">Help</a></li>
-</ul>
-</div>
-<div class="sub-nav">
-<div>
-<ul class="sub-nav-list">
-<li>Summary: </li>
-<li><a href="#nested-class-summary">Nested</a> | </li>
-<li>Field | </li>
-<li>Constr | </li>
-<li><a href="#method-summary">Method</a></li>
-</ul>
-<ul class="sub-nav-list">
-<li>Detail: </li>
-<li>Field | </li>
-<li>Constr | </li>
-<li><a href="#method-detail">Method</a></li>
-</ul>
-</div>
 
-</div>
-<!-- ========= END OF TOP NAVBAR ========= -->
-<span class="skip-nav" id="skip-navbar-top"></span></nav>
-</header>
-<div class="flex-content">
+
+
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.mapview.datasource</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-package-summary">com.here.sdk.mapview.datasource</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a href="sdk-for-android-explore-..-..-..-nativebase" title="class in com.here">com.here.NativeBase</a>
+<div class="inheritance"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.mapview.datasource.PolygonDataSource</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 <hr/>
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">PolygonDataSource</span>
-<span class="extends-implements">extends <a href="sdk-for-android-explore-..-..-..-nativebase" title="class in com.here">NativeBase</a></span></div>
+<span class="extends-implements">extends <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>Polygon data source allows the rendering engine access to the user provided
  polygons geometry and their attributes.
  </p><p>Polygon segments are rendered following the shortest path between their end points.
@@ -85,7 +50,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondatasource
 <div class="table-header col-second">Class</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>static interface </code></div>
-<div class="col-second even-row-color"><code><a class="type-name-link" href="sdk-for-android-explore-polygondatasource.polygondataprocessor" title="interface in com.here.sdk.mapview.datasource">PolygonDataSource.PolygonDataProcessor</a></code></div>
+<div class="col-second even-row-color"><code><a class="type-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-polygondatasource.polygondataprocessor" title="interface in com.here.sdk.mapview.datasource">PolygonDataSource.PolygonDataProcessor</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Called for each polygon, allowing inspection, removal or update of coordinates and attributes.</div>
 </div>
@@ -104,33 +69,33 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondatasource
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#add(com.here.sdk.mapview.datasource.PolygonData)">add</a><wbr/>(<a href="sdk-for-android-explore-polygondata" title="class in com.here.sdk.mapview.datasource">PolygonData</a> polygon)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#add(com.here.sdk.mapview.datasource.PolygonData)">add</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-polygondata" title="class in com.here.sdk.mapview.datasource">PolygonData</a> polygon)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Adds a new polygon to the data source.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#add(java.util.List)">add</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-polygondata" title="class in com.here.sdk.mapview.datasource">PolygonData</a>&gt; polygons)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#add(java.util.List)">add</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-polygondata" title="class in com.here.sdk.mapview.datasource">PolygonData</a>&gt; polygons)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Adds new polygons to the data source.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#destroy()">destroy</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#destroy()">destroy</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Frees all internally used resources.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#forEach(com.here.sdk.mapview.datasource.PolygonDataSource.PolygonDataProcessor)">forEach</a><wbr/>(<a href="sdk-for-android-explore-polygondatasource.polygondataprocessor" title="interface in com.here.sdk.mapview.datasource">PolygonDataSource.PolygonDataProcessor</a> processor)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#forEach(com.here.sdk.mapview.datasource.PolygonDataSource.PolygonDataProcessor)">forEach</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-polygondatasource.polygondataprocessor" title="interface in com.here.sdk.mapview.datasource">PolygonDataSource.PolygonDataProcessor</a> processor)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Iterates through all the polygons from the data source and passes them to the
  given processor, one by one.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#removeAll()">removeAll</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#removeAll()">removeAll</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Removes all polygons from the data source.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#removeIf(com.here.sdk.mapview.datasource.PolygonDataSource.PolygonDataProcessor)">removeIf</a><wbr/>(<a href="sdk-for-android-explore-polygondatasource.polygondataprocessor" title="interface in com.here.sdk.mapview.datasource">PolygonDataSource.PolygonDataProcessor</a> inspector)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#removeIf(com.here.sdk.mapview.datasource.PolygonDataSource.PolygonDataProcessor)">removeIf</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-polygondatasource.polygondataprocessor" title="interface in com.here.sdk.mapview.datasource">PolygonDataSource.PolygonDataProcessor</a> inspector)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Iterates through all the polygons from the data source and passes them to the
  given inspector, one by one.</div>
@@ -156,7 +121,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondatasource
 <section class="detail" id="add(com.here.sdk.mapview.datasource.PolygonData)">
 <h3>add</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">add</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-polygondata" title="class in com.here.sdk.mapview.datasource">PolygonData</a> polygon)</span></div>
+ <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-polygondata" title="class in com.here.sdk.mapview.datasource">PolygonData</a> polygon)</span></div>
 <div class="block"><p>Adds a new polygon to the data source.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -168,7 +133,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondatasource
 <section class="detail" id="add(java.util.List)">
 <h3>add</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">add</span><wbr/><span class="parameters">(@NonNull
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-polygondata" title="class in com.here.sdk.mapview.datasource">PolygonData</a>&gt; polygons)</span></div>
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-polygondata" title="class in com.here.sdk.mapview.datasource">PolygonData</a>&gt; polygons)</span></div>
 <div class="block"><p>Adds new polygons to the data source.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -187,7 +152,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondatasource
 <section class="detail" id="forEach(com.here.sdk.mapview.datasource.PolygonDataSource.PolygonDataProcessor)">
 <h3>forEach</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">forEach</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-polygondatasource.polygondataprocessor" title="interface in com.here.sdk.mapview.datasource">PolygonDataSource.PolygonDataProcessor</a> processor)</span></div>
+ <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-polygondatasource.polygondataprocessor" title="interface in com.here.sdk.mapview.datasource">PolygonDataSource.PolygonDataProcessor</a> processor)</span></div>
 <div class="block"><p>Iterates through all the polygons from the data source and passes them to the
  given processor, one by one. The processor can update the polygon data.
  </p><p>The iteration stops after all polygons have been processed or the processor returns false
@@ -202,7 +167,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondatasource
 <section class="detail" id="removeIf(com.here.sdk.mapview.datasource.PolygonDataSource.PolygonDataProcessor)">
 <h3>removeIf</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">removeIf</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-polygondatasource.polygondataprocessor" title="interface in com.here.sdk.mapview.datasource">PolygonDataSource.PolygonDataProcessor</a> inspector)</span></div>
+ <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-polygondatasource.polygondataprocessor" title="interface in com.here.sdk.mapview.datasource">PolygonDataSource.PolygonDataProcessor</a> inspector)</span></div>
 <div class="block"><p>Iterates through all the polygons from the data source and passes them to the
  given inspector, one by one. All polygons for which the inspector returns <code>true</code> get removed from the data source.
  The inspector cannot update the polygon data.</p></div>
@@ -227,8 +192,8 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondatasource
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
 </main>
-</div>
-</div>
+
+
 
 
 

@@ -1,0 +1,180 @@
+---
+title: "RoutePlaceType"
+slug: "sdk-for-ios-explore-enums-routeplacetype"
+---
+
+<HTMLBlock> {
+`
+<!DOCTYPE html>
+
+<html lang="en">
+
+<body>
+<a class="dashAnchor" name="//apple_ref/swift/Enum/RoutePlaceType"></a>
+<a title="RoutePlaceType Enumeration Reference"></a>
+
+<div class="content-wrapper">
+<p id="breadcrumbs">
+<a href="sdk-for-ios-explore-index">heresdk</a>
+
+<a href="sdk-for-ios-explore-routing">Routing</a>
+
+        RoutePlaceType Enumeration Reference
+      </p>
+</div>
+<div class="content-wrapper">
+
+<article class="main-content">
+<section>
+<section class="section">
+<h1>RoutePlaceType</h1>
+<div class="declaration">
+<div class="language">
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">RoutePlaceType</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
+</div>
+</div>
+<p>Identifies the route place type.</p>
+</section>
+<section class="section task-group-section">
+<div class="task-group">
+<ul>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk14RoutePlaceTypeO5placeyA2CmF"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Element/place"></a>
+<a class="token" href="#/s:7heresdk14RoutePlaceTypeO5placeyA2CmF">place</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>A regular place.</p>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">place</span></code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk14RoutePlaceTypeO15chargingStationyA2CmF"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Element/chargingStation"></a>
+<a class="token" href="#/s:7heresdk14RoutePlaceTypeO15chargingStationyA2CmF">chargingStation</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>A charging station for electric vehicles.</p>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">chargingStation</span></code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk14RoutePlaceTypeO6indooryA2CmF"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Element/indoor"></a>
+<a class="token" href="#/s:7heresdk14RoutePlaceTypeO6indooryA2CmF">indoor</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>A place inside a building.</p>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">indoor</span></code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk14RoutePlaceTypeO7stationyA2CmF"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Element/station"></a>
+<a class="token" href="#/s:7heresdk14RoutePlaceTypeO7stationyA2CmF">station</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>A public transit station.</p>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">station</span></code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk14RoutePlaceTypeO11accessPointyA2CmF"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Element/accessPoint"></a>
+<a class="token" href="#/s:7heresdk14RoutePlaceTypeO11accessPointyA2CmF">accessPoint</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>An access point to a venue/station.</p>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">accessPoint</span></code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+</ul>
+</div>
+</section>
+</section>
+<section id="footer">
+<p>© 2026 <a class="link" href="" rel="external noopener" target="_blank"></a>. All rights reserved. (Last updated: 2026-04-14)</p>
+<p>Generated by <a class="link" href="https://github.com/realm/jazzy" rel="external noopener" target="_blank">jazzy ♪♫ v0.15.2</a>, a <a class="link" href="https://realm.io" rel="external noopener" target="_blank">Realm</a> project.</p>
+</section>
+</article>
+</div>
+</body>
+</html>
+
+`
+} </HTMLBlock>

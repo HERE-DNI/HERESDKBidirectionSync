@@ -14,48 +14,13 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourcec
 
 
 
-<div class="flex-box">
-<header class="flex-header" role="banner">
-<nav role="navigation">
-<!-- ========= START OF TOP NAVBAR ======= -->
-<div class="top-nav" id="navbar-top">
-<div class="skip-nav"><a href="#skip-navbar-top" title="Skip navigation links">Skip navigation links</a></div>
-<ul class="nav-list" id="navbar-top-firstrow" title="Navigation">
-<li><a href="sdk-for-android-explore-..-..-..-..-..-index">Overview</a></li>
-<li><a href="sdk-for-android-explore-package-summary">Package</a></li>
-<li class="nav-bar-cell1-rev">Class</li>
-<li><a href="sdk-for-android-explore-package-tree">Tree</a></li>
-<li><a href="sdk-for-android-explore-..-..-..-..-..-deprecated-list">Deprecated</a></li>
-<li><a href="sdk-for-android-explore-..-..-..-..-..-index-all">Index</a></li>
-<li><a href="sdk-for-android-explore-..-..-..-..-..-help-doc#class">Help</a></li>
-</ul>
-</div>
-<div class="sub-nav">
-<div>
-<ul class="sub-nav-list">
-<li>Summary: </li>
-<li>Nested | </li>
-<li><a href="#field-summary">Field</a> | </li>
-<li><a href="#constructor-summary">Constr</a> | </li>
-<li><a href="#method-summary">Method</a></li>
-</ul>
-<ul class="sub-nav-list">
-<li>Detail: </li>
-<li><a href="#field-detail">Field</a> | </li>
-<li><a href="#constructor-detail">Constr</a> | </li>
-<li>Method</li>
-</ul>
-</div>
 
-</div>
-<!-- ========= END OF TOP NAVBAR ========= -->
-<span class="skip-nav" id="skip-navbar-top"></span></nav>
-</header>
-<div class="flex-content">
+
+
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.mapview.datasource</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-package-summary">com.here.sdk.mapview.datasource</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -64,7 +29,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourcec
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>Enclosing class:</dt>
-<dd><a href="sdk-for-android-explore-rasterdatasourceconfiguration" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfiguration</a></dd>
+<dd><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-rasterdatasourceconfiguration" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfiguration</a></dd>
 </dl>
 <hr/>
 <div class="type-signature"><span class="modifiers">public static final class </span><span class="element-name type-name-label">RasterDataSourceConfiguration.Provider</span>
@@ -83,27 +48,27 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourcec
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>boolean</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="#hasAlphaChannel">hasAlphaChannel</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#hasAlphaChannel">hasAlphaChannel</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A flag indicating whether the image content contains an alpha channel for transparency.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html" title="class or interface in java.util">Map</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a>,<wbr/><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a>&gt;</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="#headers">headers</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#headers">headers</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The optional name-value pairs specifying HTTP headers that are passed with each tile request.</div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a>&gt;</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="#storageLevels">storageLevels</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#storageLevels">storageLevels</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The storage levels available for this data source.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-tilingscheme" title="enum class in com.here.sdk.mapview.datasource">TilingScheme</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="#tilingScheme">tilingScheme</a></code></div>
+<div class="col-first odd-row-color"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-tilingscheme" title="enum class in com.here.sdk.mapview.datasource">TilingScheme</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#tilingScheme">tilingScheme</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The tiling scheme used by this source.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-tileurlprovidercallback" title="interface in com.here.sdk.mapview.datasource">TileUrlProviderCallback</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="#urlProvider">urlProvider</a></code></div>
+<div class="col-first even-row-color"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-tileurlprovidercallback" title="interface in com.here.sdk.mapview.datasource">TileUrlProviderCallback</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#urlProvider">urlProvider</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Provides a function that generates URLs based on tile coordinates and storage level.</div>
 </div>
@@ -118,14 +83,14 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourcec
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="#%3Cinit%3E(com.here.sdk.mapview.datasource.TileUrlProviderCallback,com.here.sdk.mapview.datasource.TilingScheme,java.util.List)">Provider</a><wbr/>(<a href="sdk-for-android-explore-tileurlprovidercallback" title="interface in com.here.sdk.mapview.datasource">TileUrlProviderCallback</a> urlProvider,
- <a href="sdk-for-android-explore-tilingscheme" title="enum class in com.here.sdk.mapview.datasource">TilingScheme</a> tilingScheme,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#%3Cinit%3E(com.here.sdk.mapview.datasource.TileUrlProviderCallback,com.here.sdk.mapview.datasource.TilingScheme,java.util.List)">Provider</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-tileurlprovidercallback" title="interface in com.here.sdk.mapview.datasource">TileUrlProviderCallback</a> urlProvider,
+ <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-tilingscheme" title="enum class in com.here.sdk.mapview.datasource">TilingScheme</a> tilingScheme,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a>&gt; storageLevels)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="#%3Cinit%3E(com.here.sdk.mapview.datasource.TileUrlProviderCallback,com.here.sdk.mapview.datasource.TilingScheme,java.util.List,boolean,java.util.Map)">Provider</a><wbr/>(<a href="sdk-for-android-explore-tileurlprovidercallback" title="interface in com.here.sdk.mapview.datasource">TileUrlProviderCallback</a> urlProvider,
- <a href="sdk-for-android-explore-tilingscheme" title="enum class in com.here.sdk.mapview.datasource">TilingScheme</a> tilingScheme,
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#%3Cinit%3E(com.here.sdk.mapview.datasource.TileUrlProviderCallback,com.here.sdk.mapview.datasource.TilingScheme,java.util.List,boolean,java.util.Map)">Provider</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-tileurlprovidercallback" title="interface in com.here.sdk.mapview.datasource">TileUrlProviderCallback</a> urlProvider,
+ <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-tilingscheme" title="enum class in com.here.sdk.mapview.datasource">TilingScheme</a> tilingScheme,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a>&gt; storageLevels,
  boolean hasAlphaChannel,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html" title="class or interface in java.util">Map</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a>,<wbr/><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a>&gt; headers)</code></div>
@@ -157,7 +122,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourcec
 <section class="detail" id="urlProvider">
 <h3>urlProvider</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-tileurlprovidercallback" title="interface in com.here.sdk.mapview.datasource">TileUrlProviderCallback</a></span> <span class="element-name">urlProvider</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-tileurlprovidercallback" title="interface in com.here.sdk.mapview.datasource">TileUrlProviderCallback</a></span> <span class="element-name">urlProvider</span></div>
 <div class="block"><p>Provides a function that generates URLs based on tile coordinates and storage level.</p></div>
 </section>
 </li>
@@ -165,7 +130,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourcec
 <section class="detail" id="tilingScheme">
 <h3>tilingScheme</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-tilingscheme" title="enum class in com.here.sdk.mapview.datasource">TilingScheme</a></span> <span class="element-name">tilingScheme</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-tilingscheme" title="enum class in com.here.sdk.mapview.datasource">TilingScheme</a></span> <span class="element-name">tilingScheme</span></div>
 <div class="block"><p>The tiling scheme used by this source.</p></div>
 </section>
 </li>
@@ -212,9 +177,9 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourcec
 <section class="detail" id="&lt;init&gt;(com.here.sdk.mapview.datasource.TileUrlProviderCallback,com.here.sdk.mapview.datasource.TilingScheme,java.util.List,boolean,java.util.Map)">
 <h3>Provider</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">Provider</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-tileurlprovidercallback" title="interface in com.here.sdk.mapview.datasource">TileUrlProviderCallback</a> urlProvider,
+ <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-tileurlprovidercallback" title="interface in com.here.sdk.mapview.datasource">TileUrlProviderCallback</a> urlProvider,
  @NonNull
- <a href="sdk-for-android-explore-tilingscheme" title="enum class in com.here.sdk.mapview.datasource">TilingScheme</a> tilingScheme,
+ <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-tilingscheme" title="enum class in com.here.sdk.mapview.datasource">TilingScheme</a> tilingScheme,
  @NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a>&gt; storageLevels,
  boolean hasAlphaChannel,
@@ -243,9 +208,9 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourcec
 <section class="detail" id="&lt;init&gt;(com.here.sdk.mapview.datasource.TileUrlProviderCallback,com.here.sdk.mapview.datasource.TilingScheme,java.util.List)">
 <h3>Provider</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">Provider</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-tileurlprovidercallback" title="interface in com.here.sdk.mapview.datasource">TileUrlProviderCallback</a> urlProvider,
+ <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-tileurlprovidercallback" title="interface in com.here.sdk.mapview.datasource">TileUrlProviderCallback</a> urlProvider,
  @NonNull
- <a href="sdk-for-android-explore-tilingscheme" title="enum class in com.here.sdk.mapview.datasource">TilingScheme</a> tilingScheme,
+ <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-tilingscheme" title="enum class in com.here.sdk.mapview.datasource">TilingScheme</a> tilingScheme,
  @NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a>&gt; storageLevels)</span></div>
 <div class="block"><p>Creates a new instance.</p></div>
@@ -272,8 +237,8 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourcec
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
 </main>
-</div>
-</div>
+
+
 
 
 

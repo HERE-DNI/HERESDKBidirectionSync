@@ -14,63 +14,28 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routeplacetype"
 
 
 
-<div class="flex-box">
-<header class="flex-header" role="banner">
-<nav role="navigation">
-<!-- ========= START OF TOP NAVBAR ======= -->
-<div class="top-nav" id="navbar-top">
-<div class="skip-nav"><a href="#skip-navbar-top" title="Skip navigation links">Skip navigation links</a></div>
-<ul class="nav-list" id="navbar-top-firstrow" title="Navigation">
-<li><a href="sdk-for-android-explore-..-..-..-..-index">Overview</a></li>
-<li><a href="sdk-for-android-explore-package-summary">Package</a></li>
-<li class="nav-bar-cell1-rev">Class</li>
-<li><a href="sdk-for-android-explore-package-tree">Tree</a></li>
-<li><a href="sdk-for-android-explore-..-..-..-..-deprecated-list">Deprecated</a></li>
-<li><a href="sdk-for-android-explore-..-..-..-..-index-all">Index</a></li>
-<li><a href="sdk-for-android-explore-..-..-..-..-help-doc#class">Help</a></li>
-</ul>
-</div>
-<div class="sub-nav">
-<div>
-<ul class="sub-nav-list">
-<li>Summary: </li>
-<li><a href="#nested-class-summary">Nested</a> | </li>
-<li><a href="#enum-constant-summary">Enum Constants</a> | </li>
-<li>Field | </li>
-<li><a href="#method-summary">Method</a></li>
-</ul>
-<ul class="sub-nav-list">
-<li>Detail: </li>
-<li><a href="#enum-constant-detail">Enum Constants</a> | </li>
-<li>Field | </li>
-<li><a href="#method-detail">Method</a></li>
-</ul>
-</div>
 
-</div>
-<!-- ========= END OF TOP NAVBAR ========= -->
-<span class="skip-nav" id="skip-navbar-top"></span></nav>
-</header>
-<div class="flex-content">
+
+
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.routing</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-package-summary">com.here.sdk.routing</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">java.lang.Enum</a>&lt;<a href="sdk-for-android-explore-routeplacetype" title="enum class in com.here.sdk.routing">RoutePlaceType</a>&gt;
+<div class="inheritance"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">java.lang.Enum</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-routeplacetype" title="enum class in com.here.sdk.routing">RoutePlaceType</a>&gt;
 <div class="inheritance">com.here.sdk.routing.RoutePlaceType</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>All Implemented Interfaces:</dt>
-<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" title="class or interface in java.io">Serializable</a></code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" title="class or interface in java.lang">Comparable</a>&lt;<a href="sdk-for-android-explore-routeplacetype" title="enum class in com.here.sdk.routing">RoutePlaceType</a>&gt;</code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" title="class or interface in java.lang.constant">Constable</a></code></dd>
+<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" title="class or interface in java.io">Serializable</a></code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" title="class or interface in java.lang">Comparable</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-routeplacetype" title="enum class in com.here.sdk.routing">RoutePlaceType</a>&gt;</code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" title="class or interface in java.lang.constant">Constable</a></code></dd>
 </dl>
 <hr/>
 <div class="type-signature"><span class="modifiers">public enum </span><span class="element-name type-name-label">RoutePlaceType</span>
-<span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a href="sdk-for-android-explore-routeplacetype" title="enum class in com.here.sdk.routing">RoutePlaceType</a>&gt;</span></div>
+<span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-routeplacetype" title="enum class in com.here.sdk.routing">RoutePlaceType</a>&gt;</span></div>
 <div class="block"><p>Identifies the route place type.</p></div>
 </section>
 <section class="summary">
@@ -92,23 +57,23 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routeplacetype"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Enum Constant</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="#ACCESS_POINT">ACCESS_POINT</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#ACCESS_POINT">ACCESS_POINT</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">An access point to a venue/station.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="#CHARGING_STATION">CHARGING_STATION</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#CHARGING_STATION">CHARGING_STATION</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">A charging station for electric vehicles.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="#INDOOR">INDOOR</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#INDOOR">INDOOR</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A place inside a building.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="#PLACE">PLACE</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#PLACE">PLACE</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">A regular place.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="#STATION">STATION</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#STATION">STATION</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A public transit station.</div>
 </div>
@@ -126,13 +91,13 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routeplacetype"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-routeplacetype" title="enum class in com.here.sdk.routing">RoutePlaceType</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-routeplacetype" title="enum class in com.here.sdk.routing">RoutePlaceType</a></code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-routeplacetype" title="enum class in com.here.sdk.routing">RoutePlaceType</a>[]</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="#values()">values</a>()</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-routeplacetype" title="enum class in com.here.sdk.routing">RoutePlaceType</a>[]</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
@@ -160,35 +125,35 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="PLACE">
 <h3>PLACE</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-routeplacetype" title="enum class in com.here.sdk.routing">RoutePlaceType</a></span> <span class="element-name">PLACE</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-routeplacetype" title="enum class in com.here.sdk.routing">RoutePlaceType</a></span> <span class="element-name">PLACE</span></div>
 <div class="block"><p>A regular place.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="CHARGING_STATION">
 <h3>CHARGING_STATION</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-routeplacetype" title="enum class in com.here.sdk.routing">RoutePlaceType</a></span> <span class="element-name">CHARGING_STATION</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-routeplacetype" title="enum class in com.here.sdk.routing">RoutePlaceType</a></span> <span class="element-name">CHARGING_STATION</span></div>
 <div class="block"><p>A charging station for electric vehicles.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="INDOOR">
 <h3>INDOOR</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-routeplacetype" title="enum class in com.here.sdk.routing">RoutePlaceType</a></span> <span class="element-name">INDOOR</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-routeplacetype" title="enum class in com.here.sdk.routing">RoutePlaceType</a></span> <span class="element-name">INDOOR</span></div>
 <div class="block"><p>A place inside a building.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="STATION">
 <h3>STATION</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-routeplacetype" title="enum class in com.here.sdk.routing">RoutePlaceType</a></span> <span class="element-name">STATION</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-routeplacetype" title="enum class in com.here.sdk.routing">RoutePlaceType</a></span> <span class="element-name">STATION</span></div>
 <div class="block"><p>A public transit station.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="ACCESS_POINT">
 <h3>ACCESS_POINT</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-routeplacetype" title="enum class in com.here.sdk.routing">RoutePlaceType</a></span> <span class="element-name">ACCESS_POINT</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-routeplacetype" title="enum class in com.here.sdk.routing">RoutePlaceType</a></span> <span class="element-name">ACCESS_POINT</span></div>
 <div class="block"><p>An access point to a venue/station.</p></div>
 </section>
 </li>
@@ -203,7 +168,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="values()">
 <h3>values</h3>
-<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-routeplacetype" title="enum class in com.here.sdk.routing">RoutePlaceType</a>[]</span> <span class="element-name">values</span>()</div>
+<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-routeplacetype" title="enum class in com.here.sdk.routing">RoutePlaceType</a>[]</span> <span class="element-name">values</span>()</div>
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
 <dl class="notes">
@@ -215,7 +180,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="valueOf(java.lang.String)">
 <h3>valueOf</h3>
-<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-routeplacetype" title="enum class in com.here.sdk.routing">RoutePlaceType</a></span> <span class="element-name">valueOf</span><wbr/><span class="parameters">(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</span></div>
+<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-routeplacetype" title="enum class in com.here.sdk.routing">RoutePlaceType</a></span> <span class="element-name">valueOf</span><wbr/><span class="parameters">(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</span></div>
 <div class="block">Returns the enum constant of this class with the specified name.
 The string must match <i>exactly</i> an identifier used to declare an
 enum constant in this class.  (Extraneous whitespace characters are 
@@ -238,8 +203,8 @@ not permitted.)</div>
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
 </main>
-</div>
-</div>
+
+
 
 
 

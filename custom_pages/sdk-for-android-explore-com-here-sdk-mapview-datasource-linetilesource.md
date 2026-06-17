@@ -14,58 +14,23 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-linetilesource"
 
 
 
-<div class="flex-box">
-<header class="flex-header" role="banner">
-<nav role="navigation">
-<!-- ========= START OF TOP NAVBAR ======= -->
-<div class="top-nav" id="navbar-top">
-<div class="skip-nav"><a href="#skip-navbar-top" title="Skip navigation links">Skip navigation links</a></div>
-<ul class="nav-list" id="navbar-top-firstrow" title="Navigation">
-<li><a href="sdk-for-android-explore-..-..-..-..-..-index">Overview</a></li>
-<li><a href="sdk-for-android-explore-package-summary">Package</a></li>
-<li class="nav-bar-cell1-rev">Class</li>
-<li><a href="sdk-for-android-explore-package-tree">Tree</a></li>
-<li><a href="sdk-for-android-explore-..-..-..-..-..-deprecated-list">Deprecated</a></li>
-<li><a href="sdk-for-android-explore-..-..-..-..-..-index-all">Index</a></li>
-<li><a href="sdk-for-android-explore-..-..-..-..-..-help-doc#class">Help</a></li>
-</ul>
-</div>
-<div class="sub-nav">
-<div>
-<ul class="sub-nav-list">
-<li>Summary: </li>
-<li><a href="#nested-class-summary">Nested</a> | </li>
-<li>Field | </li>
-<li>Constr | </li>
-<li><a href="#method-summary">Method</a></li>
-</ul>
-<ul class="sub-nav-list">
-<li>Detail: </li>
-<li>Field | </li>
-<li>Constr | </li>
-<li><a href="#method-detail">Method</a></li>
-</ul>
-</div>
 
-</div>
-<!-- ========= END OF TOP NAVBAR ========= -->
-<span class="skip-nav" id="skip-navbar-top"></span></nav>
-</header>
-<div class="flex-content">
+
+
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.mapview.datasource</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-package-summary">com.here.sdk.mapview.datasource</a></div>
 
 </div>
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>All Superinterfaces:</dt>
-<dd><code><a href="sdk-for-android-explore-tilesource" title="interface in com.here.sdk.mapview.datasource">TileSource</a></code></dd>
+<dd><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-tilesource" title="interface in com.here.sdk.mapview.datasource">TileSource</a></code></dd>
 </dl>
 <hr/>
 <div class="type-signature"><span class="modifiers">public interface </span><span class="element-name type-name-label">LineTileSource</span><span class="extends-implements">
-extends <a href="sdk-for-android-explore-tilesource" title="interface in com.here.sdk.mapview.datasource">TileSource</a></span></div>
+extends <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-tilesource" title="interface in com.here.sdk.mapview.datasource">TileSource</a></span></div>
 <div class="block"><p>A source of geodetic line tiles.
  Lines provided by an implementation must be clipped to the boundaries of the requested tile.
  The implementations must be thread-safe.
@@ -84,14 +49,14 @@ extends <a href="sdk-for-android-explore-tilesource" title="interface in com.her
 <div class="table-header col-second">Interface</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>static interface </code></div>
-<div class="col-second even-row-color"><code><a class="type-name-link" href="sdk-for-android-explore-linetilesource.loadresulthandler" title="interface in com.here.sdk.mapview.datasource">LineTileSource.LoadResultHandler</a></code></div>
+<div class="col-second even-row-color"><code><a class="type-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-linetilesource.loadresulthandler" title="interface in com.here.sdk.mapview.datasource">LineTileSource.LoadResultHandler</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Result handler of a load tile request.</div>
 </div>
 </div>
 <div class="inherited-list">
 
-<code><a href="sdk-for-android-explore-tilesource.dataversion" title="class in com.here.sdk.mapview.datasource">TileSource.DataVersion</a>, <a href="sdk-for-android-explore-tilesource.listener" title="interface in com.here.sdk.mapview.datasource">TileSource.Listener</a>, <a href="sdk-for-android-explore-tilesource.loadtilerequesthandle" title="interface in com.here.sdk.mapview.datasource">TileSource.LoadTileRequestHandle</a>, <a href="sdk-for-android-explore-tilesource.tilemetadata" title="class in com.here.sdk.mapview.datasource">TileSource.TileMetadata</a></code></div>
+<code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-tilesource.dataversion" title="class in com.here.sdk.mapview.datasource">TileSource.DataVersion</a>, <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-tilesource.listener" title="interface in com.here.sdk.mapview.datasource">TileSource.Listener</a>, <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-tilesource.loadtilerequesthandle" title="interface in com.here.sdk.mapview.datasource">TileSource.LoadTileRequestHandle</a>, <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-tilesource.tilemetadata" title="class in com.here.sdk.mapview.datasource">TileSource.TileMetadata</a></code></div>
 </section>
 </li>
 <!-- ========== METHOD SUMMARY =========== -->
@@ -105,9 +70,9 @@ extends <a href="sdk-for-android-explore-tilesource" title="interface in com.her
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-explore-tilesource.loadtilerequesthandle" title="interface in com.here.sdk.mapview.datasource">TileSource.LoadTileRequestHandle</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="#loadTile(com.here.sdk.mapview.datasource.TileKey,com.here.sdk.mapview.datasource.LineTileSource.LoadResultHandler)">loadTile</a><wbr/>(<a href="sdk-for-android-explore-tilekey" title="class in com.here.sdk.mapview.datasource">TileKey</a> tileKey,
- <a href="sdk-for-android-explore-linetilesource.loadresulthandler" title="interface in com.here.sdk.mapview.datasource">LineTileSource.LoadResultHandler</a> completionHandler)</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-tilesource.loadtilerequesthandle" title="interface in com.here.sdk.mapview.datasource">TileSource.LoadTileRequestHandle</a></code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#loadTile(com.here.sdk.mapview.datasource.TileKey,com.here.sdk.mapview.datasource.LineTileSource.LoadResultHandler)">loadTile</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-tilekey" title="class in com.here.sdk.mapview.datasource">TileKey</a> tileKey,
+ <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-linetilesource.loadresulthandler" title="interface in com.here.sdk.mapview.datasource">LineTileSource.LoadResultHandler</a> completionHandler)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Load data of a tile.</div>
 </div>
@@ -115,8 +80,8 @@ extends <a href="sdk-for-android-explore-tilesource" title="interface in com.her
 </div>
 </div>
 <div class="inherited-list">
-<h3 id="methods-inherited-from-class-com.here.sdk.mapview.datasource.TileSource">Methods inherited from interface com.here.sdk.mapview.datasource.<a href="sdk-for-android-explore-tilesource" title="interface in com.here.sdk.mapview.datasource">TileSource</a></h3>
-<code><a href="sdk-for-android-explore-tilesource#addListener(com.here.sdk.mapview.datasource.TileSource.Listener)">addListener</a>, <a href="sdk-for-android-explore-tilesource#getDataVersion(com.here.sdk.mapview.datasource.TileKey)">getDataVersion</a>, <a href="sdk-for-android-explore-tilesource#getStorageLevels()">getStorageLevels</a>, <a href="sdk-for-android-explore-tilesource#getTilingScheme()">getTilingScheme</a>, <a href="sdk-for-android-explore-tilesource#removeListener(com.here.sdk.mapview.datasource.TileSource.Listener)">removeListener</a></code></div>
+<h3 id="methods-inherited-from-class-com.here.sdk.mapview.datasource.TileSource">Methods inherited from interface com.here.sdk.mapview.datasource.<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource" title="interface in com.here.sdk.mapview.datasource">TileSource</a></h3>
+<code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-tilesource#addListener(com.here.sdk.mapview.datasource.TileSource.Listener)">addListener</a>, <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-tilesource#getDataVersion(com.here.sdk.mapview.datasource.TileKey)">getDataVersion</a>, <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-tilesource#getStorageLevels()">getStorageLevels</a>, <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-tilesource#getTilingScheme()">getTilingScheme</a>, <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-tilesource#removeListener(com.here.sdk.mapview.datasource.TileSource.Listener)">removeListener</a></code></div>
 </section>
 </li>
 </ul>
@@ -132,10 +97,10 @@ extends <a href="sdk-for-android-explore-tilesource" title="interface in com.her
 <section class="detail" id="loadTile(com.here.sdk.mapview.datasource.TileKey,com.here.sdk.mapview.datasource.LineTileSource.LoadResultHandler)">
 <h3>loadTile</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="return-type"><a href="sdk-for-android-explore-tilesource.loadtilerequesthandle" title="interface in com.here.sdk.mapview.datasource">TileSource.LoadTileRequestHandle</a></span> <span class="element-name">loadTile</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-tilekey" title="class in com.here.sdk.mapview.datasource">TileKey</a> tileKey,
+</span><span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-tilesource.loadtilerequesthandle" title="interface in com.here.sdk.mapview.datasource">TileSource.LoadTileRequestHandle</a></span> <span class="element-name">loadTile</span><wbr/><span class="parameters">(@NonNull
+ <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-tilekey" title="class in com.here.sdk.mapview.datasource">TileKey</a> tileKey,
  @NonNull
- <a href="sdk-for-android-explore-linetilesource.loadresulthandler" title="interface in com.here.sdk.mapview.datasource">LineTileSource.LoadResultHandler</a> completionHandler)</span></div>
+ <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-linetilesource.loadresulthandler" title="interface in com.here.sdk.mapview.datasource">LineTileSource.LoadResultHandler</a> completionHandler)</span></div>
 <div class="block"><p>Load data of a tile.
  Upon completion, the handler gets informed.</p></div>
 <dl class="notes">
@@ -154,8 +119,8 @@ extends <a href="sdk-for-android-explore-tilesource" title="interface in com.her
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
 </main>
-</div>
-</div>
+
+
 
 
 

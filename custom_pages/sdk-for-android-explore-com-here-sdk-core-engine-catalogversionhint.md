@@ -14,67 +14,32 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-catalogversionhint"
 
 
 
-<div class="flex-box">
-<header class="flex-header" role="banner">
-<nav role="navigation">
-<!-- ========= START OF TOP NAVBAR ======= -->
-<div class="top-nav" id="navbar-top">
-<div class="skip-nav"><a href="#skip-navbar-top" title="Skip navigation links">Skip navigation links</a></div>
-<ul class="nav-list" id="navbar-top-firstrow" title="Navigation">
-<li><a href="sdk-for-android-explore-..-..-..-..-..-index">Overview</a></li>
-<li><a href="sdk-for-android-explore-package-summary">Package</a></li>
-<li class="nav-bar-cell1-rev">Class</li>
-<li><a href="sdk-for-android-explore-package-tree">Tree</a></li>
-<li><a href="sdk-for-android-explore-..-..-..-..-..-deprecated-list">Deprecated</a></li>
-<li><a href="sdk-for-android-explore-..-..-..-..-..-index-all">Index</a></li>
-<li><a href="sdk-for-android-explore-..-..-..-..-..-help-doc#class">Help</a></li>
-</ul>
-</div>
-<div class="sub-nav">
-<div>
-<ul class="sub-nav-list">
-<li>Summary: </li>
-<li>Nested | </li>
-<li>Field | </li>
-<li>Constr | </li>
-<li><a href="#method-summary">Method</a></li>
-</ul>
-<ul class="sub-nav-list">
-<li>Detail: </li>
-<li>Field | </li>
-<li>Constr | </li>
-<li><a href="#method-detail">Method</a></li>
-</ul>
-</div>
 
-</div>
-<!-- ========= END OF TOP NAVBAR ========= -->
-<span class="skip-nav" id="skip-navbar-top"></span></nav>
-</header>
-<div class="flex-content">
+
+
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.core.engine</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-package-summary">com.here.sdk.core.engine</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a href="sdk-for-android-explore-..-..-..-nativebase" title="class in com.here">com.here.NativeBase</a>
+<div class="inheritance"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.core.engine.CatalogVersionHint</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 <hr/>
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">CatalogVersionHint</span>
-<span class="extends-implements">extends <a href="sdk-for-android-explore-..-..-..-nativebase" title="class in com.here">NativeBase</a></span></div>
+<span class="extends-implements">extends <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>This is a class for capturing user's intent for the
- desired catalog version to use in <a href="sdk-for-android-explore-desiredcatalog" title="class in com.here.sdk.core.engine"><code>DesiredCatalog</code></a> class.
+ desired catalog version to use in <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-desiredcatalog" title="class in com.here.sdk.core.engine"><code>DesiredCatalog</code></a> class.
  </p><p>You can request a specific or latest version of a catalog by calling the
- static functions <a href="#specific(long)"><code>specific(long)</code></a> and
- <a href="#latest(boolean)"><code>latest(boolean)</code></a> respectively. The HERE platform will make the
+ static functions <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#specific(long)"><code>specific(long)</code></a> and
+ <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#latest(boolean)"><code>latest(boolean)</code></a> respectively. The HERE platform will make the
  best effort to provide an appropriate version for the catalog based on this
  version hint.
- Please take note that for the API <a href="#specific(long)"><code>specific(long)</code></a> to function properly,
+ Please take note that for the API <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#specific(long)"><code>specific(long)</code></a> to function properly,
  it is essential that the mutable and persistent storage should be cleaned.</p></div>
 </section>
 <section class="summary">
@@ -90,15 +55,15 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-catalogversionhint"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-catalogversionhint" title="class in com.here.sdk.core.engine">CatalogVersionHint</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="#latest(boolean)">latest</a><wbr/>(boolean ignoreCachedData)</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-catalogversionhint" title="class in com.here.sdk.core.engine">CatalogVersionHint</a></code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#latest(boolean)">latest</a><wbr/>(boolean ignoreCachedData)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">This static method can be called when you are interested in getting the most latest version of
  a catalog when initializing the HERE SDK with <code>SDKOptions</code> where you can specify the
  catalog(s) you want to use.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-catalogversionhint" title="class in com.here.sdk.core.engine">CatalogVersionHint</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="#specific(long)">specific</a><wbr/>(long version)</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-catalogversionhint" title="class in com.here.sdk.core.engine">CatalogVersionHint</a></code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#specific(long)">specific</a><wbr/>(long version)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">This static method is used when you are interested in a
  specific version of a catalog, that you want to specify manually.</div>
@@ -124,7 +89,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-catalogversionhint"
 <section class="detail" id="specific(long)">
 <h3>specific</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-catalogversionhint" title="class in com.here.sdk.core.engine">CatalogVersionHint</a></span> <span class="element-name">specific</span><wbr/><span class="parameters">(long version)</span></div>
+</span><span class="modifiers">public static</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-catalogversionhint" title="class in com.here.sdk.core.engine">CatalogVersionHint</a></span> <span class="element-name">specific</span><wbr/><span class="parameters">(long version)</span></div>
 <div class="block"><p>This static method is used when you are interested in a
  specific version of a catalog, that you want to specify manually.
  To ensure proper functioning of this API, it is essential to clean the mutable and persistent storage.</p></div>
@@ -135,7 +100,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-catalogversionhint"
      best effort to provide an appropriate version or result in error logs
      about invalid version.</p></dd>
 <dt>Returns:</dt>
-<dd><p>Instance of <a href="sdk-for-android-explore-catalogversionhint" title="class in com.here.sdk.core.engine"><code>CatalogVersionHint</code></a> with specified version.</p></dd>
+<dd><p>Instance of <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-catalogversionhint" title="class in com.here.sdk.core.engine"><code>CatalogVersionHint</code></a> with specified version.</p></dd>
 </dl>
 </section>
 </li>
@@ -143,7 +108,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-catalogversionhint"
 <section class="detail" id="latest(boolean)">
 <h3>latest</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-catalogversionhint" title="class in com.here.sdk.core.engine">CatalogVersionHint</a></span> <span class="element-name">latest</span><wbr/><span class="parameters">(boolean ignoreCachedData)</span></div>
+</span><span class="modifiers">public static</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-catalogversionhint" title="class in com.here.sdk.core.engine">CatalogVersionHint</a></span> <span class="element-name">latest</span><wbr/><span class="parameters">(boolean ignoreCachedData)</span></div>
 <div class="block"><p>This static method can be called when you are interested in getting the most latest version of
  a catalog when initializing the HERE SDK with <code>SDKOptions</code> where you can specify the
  catalog(s) you want to use. In effect, this will auto-update the cached map data on each
@@ -169,7 +134,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-catalogversionhint"
      when there is no cached map data at all (for example, at first install or after
      clearing the cache) <em>and</em> no installed map data. Otherwise, this call will have no effect.</p></dd>
 <dt>Returns:</dt>
-<dd><p>Instance of <a href="sdk-for-android-explore-catalogversionhint" title="class in com.here.sdk.core.engine"><code>CatalogVersionHint</code></a>.</p></dd>
+<dd><p>Instance of <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-catalogversionhint" title="class in com.here.sdk.core.engine"><code>CatalogVersionHint</code></a>.</p></dd>
 </dl>
 </section>
 </li>
@@ -180,8 +145,8 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-catalogversionhint"
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
 </main>
-</div>
-</div>
+
+
 
 
 

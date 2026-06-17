@@ -1,0 +1,167 @@
+---
+title: "PickMapItemsResult (API Reference)"
+slug: "sdk-for-android-navigate-com-here-sdk-mapview-pickmapitemsresult"
+---
+
+<HTMLBlock>{
+`
+<div class="sdk-for-android">
+<!-- PickMapItemsResult.html -->
+<!DOCTYPE HTML>
+
+
+
+
+
+
+
+
+
+<main role="main">
+<!-- ======== START OF CLASS DATA ======== -->
+<div class="header">
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.mapview</a></div>
+
+</div>
+<div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
+<div class="inheritance"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-nativebase" title="class in com.here">com.here.NativeBase</a>
+<div class="inheritance">com.here.sdk.mapview.PickMapItemsResult</div>
+</div>
+</div>
+<section class="class-description" id="class-description">
+<hr/>
+<div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">PickMapItemsResult</span>
+<span class="extends-implements">extends <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-nativebase" title="class in com.here">NativeBase</a></span></div>
+<div class="block"><p>Carries results from the picking of map items on the map scene.</p></div>
+</section>
+<section class="summary">
+<ul class="summary-list">
+<!-- ========== METHOD SUMMARY =========== -->
+<li>
+<section class="method-summary" id="method-summary">
+
+<div id="method-summary-table">
+<div aria-orientation="horizontal" class="table-tabs" role="tablist"><button aria-controls="method-summary-table.tabpanel" aria-selected="true" class="active-table-tab" id="method-summary-table-tab0" onclick="show('method-summary-table', 'method-summary-table', 3)" onkeydown="switchTab(event)" role="tab" tabindex="0">All Methods</button><button aria-controls="method-summary-table.tabpanel" aria-selected="false" class="table-tab" id="method-summary-table-tab2" onclick="show('method-summary-table', 'method-summary-table-tab2', 3)" onkeydown="switchTab(event)" role="tab" tabindex="-1">Instance Methods</button><button aria-controls="method-summary-table.tabpanel" aria-selected="false" class="table-tab" id="method-summary-table-tab4" onclick="show('method-summary-table', 'method-summary-table-tab4', 3)" onkeydown="switchTab(event)" role="tab" tabindex="-1">Concrete Methods</button></div>
+<div aria-labelledby="method-summary-table-tab0" id="method-summary-table.tabpanel" role="tabpanel">
+<div class="summary-table three-column-summary">
+<div class="table-header col-first">Modifier and Type</div>
+<div class="table-header col-second">Method</div>
+<div class="table-header col-last">Description</div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapmarkercluster.grouping" title="class in com.here.sdk.mapview">MapMarkerCluster.Grouping</a>&gt;</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#getClusteredMarkers()">getClusteredMarkers</a>()</code></div>
+<div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+<div class="block">Gets list of clustered marker groups at the location of picking.</div>
+</div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapmarker" title="class in com.here.sdk.mapview">MapMarker</a>&gt;</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#getMarkers()">getMarkers</a>()</code></div>
+<div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+<div class="block">Gets list of markers at the location of picking.</div>
+</div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapmarker3d" title="class in com.here.sdk.mapview">MapMarker3D</a>&gt;</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#getMarkers3d()">getMarkers3d</a>()</code></div>
+<div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+<div class="block">Gets list of 3d markers at the location of picking.</div>
+</div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mappolygon" title="class in com.here.sdk.mapview">MapPolygon</a>&gt;</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#getPolygons()">getPolygons</a>()</code></div>
+<div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+<div class="block">Gets list of polygons at the location of picking.</div>
+</div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mappolyline" title="class in com.here.sdk.mapview">MapPolyline</a>&gt;</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#getPolylines()">getPolylines</a>()</code></div>
+<div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+<div class="block">Gets list of polylines at the location of picking.</div>
+</div>
+</div>
+</div>
+</div>
+<div class="inherited-list">
+<h3 id="methods-inherited-from-class-java.lang.Object">Methods inherited from class java.lang.<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></h3>
+<code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" title="class or interface in java.lang">clone</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" title="class or interface in java.lang">equals</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" title="class or interface in java.lang">finalize</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" title="class or interface in java.lang">getClass</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" title="class or interface in java.lang">hashCode</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" title="class or interface in java.lang">notify</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" title="class or interface in java.lang">notifyAll</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" title="class or interface in java.lang">toString</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" title="class or interface in java.lang">wait</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" title="class or interface in java.lang">wait</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" title="class or interface in java.lang">wait</a></code></div>
+</section>
+</li>
+</ul>
+</section>
+<section class="details">
+<ul class="details-list">
+<!-- ============ METHOD DETAIL ========== -->
+<li>
+<section class="method-details" id="method-detail">
+
+<ul class="member-list">
+<li>
+<section class="detail" id="getClusteredMarkers()">
+<h3>getClusteredMarkers</h3>
+<div class="member-signature"><span class="annotations">@NonNull
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapmarkercluster.grouping" title="class in com.here.sdk.mapview">MapMarkerCluster.Grouping</a>&gt;</span> <span class="element-name">getClusteredMarkers</span>()</div>
+<div class="block"><p>Gets list of clustered marker groups at the location of picking.</p></div>
+<dl class="notes">
+<dt>Returns:</dt>
+<dd><p>List of marker groups (represented by a single cluster marker)
+     or individual markers belonging to a cluster at the location of picking.</p></dd>
+</dl>
+</section>
+</li>
+<li>
+<section class="detail" id="getMarkers()">
+<h3>getMarkers</h3>
+<div class="member-signature"><span class="annotations">@NonNull
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapmarker" title="class in com.here.sdk.mapview">MapMarker</a>&gt;</span> <span class="element-name">getMarkers</span>()</div>
+<div class="block"><p>Gets list of markers at the location of picking.</p></div>
+<dl class="notes">
+<dt>Returns:</dt>
+<dd><p>List of markers at the location of picking.</p></dd>
+</dl>
+</section>
+</li>
+<li>
+<section class="detail" id="getMarkers3d()">
+<h3>getMarkers3d</h3>
+<div class="member-signature"><span class="annotations">@NonNull
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapmarker3d" title="class in com.here.sdk.mapview">MapMarker3D</a>&gt;</span> <span class="element-name">getMarkers3d</span>()</div>
+<div class="block"><p>Gets list of 3d markers at the location of picking.</p></div>
+<dl class="notes">
+<dt>Returns:</dt>
+<dd><p>List of 3d markers at the location of picking.</p></dd>
+</dl>
+</section>
+</li>
+<li>
+<section class="detail" id="getPolylines()">
+<h3>getPolylines</h3>
+<div class="member-signature"><span class="annotations">@NonNull
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mappolyline" title="class in com.here.sdk.mapview">MapPolyline</a>&gt;</span> <span class="element-name">getPolylines</span>()</div>
+<div class="block"><p>Gets list of polylines at the location of picking.</p></div>
+<dl class="notes">
+<dt>Returns:</dt>
+<dd><p>List of polylines at the location of picking.</p></dd>
+</dl>
+</section>
+</li>
+<li>
+<section class="detail" id="getPolygons()">
+<h3>getPolygons</h3>
+<div class="member-signature"><span class="annotations">@NonNull
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mappolygon" title="class in com.here.sdk.mapview">MapPolygon</a>&gt;</span> <span class="element-name">getPolygons</span>()</div>
+<div class="block"><p>Gets list of polygons at the location of picking.</p></div>
+<dl class="notes">
+<dt>Returns:</dt>
+<dd><p>List of polygons at the location of picking.</p></dd>
+</dl>
+</section>
+</li>
+</ul>
+</section>
+</li>
+</ul>
+</section>
+<!-- ========= END OF CLASS DATA ========= -->
+</main>
+
+
+
+
+
+</div>
+`
+}</HTMLBlock>

@@ -14,71 +14,36 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-pickmapcontentresult-traffic
 
 
 
-<div class="flex-box">
-<header class="flex-header" role="banner">
-<nav role="navigation">
-<!-- ========= START OF TOP NAVBAR ======= -->
-<div class="top-nav" id="navbar-top">
-<div class="skip-nav"><a href="#skip-navbar-top" title="Skip navigation links">Skip navigation links</a></div>
-<ul class="nav-list" id="navbar-top-firstrow" title="Navigation">
-<li><a href="sdk-for-android-explore-..-..-..-..-index">Overview</a></li>
-<li><a href="sdk-for-android-explore-package-summary">Package</a></li>
-<li class="nav-bar-cell1-rev">Class</li>
-<li><a href="sdk-for-android-explore-package-tree">Tree</a></li>
-<li><a href="sdk-for-android-explore-..-..-..-..-deprecated-list">Deprecated</a></li>
-<li><a href="sdk-for-android-explore-..-..-..-..-index-all">Index</a></li>
-<li><a href="sdk-for-android-explore-..-..-..-..-help-doc#class">Help</a></li>
-</ul>
-</div>
-<div class="sub-nav">
-<div>
-<ul class="sub-nav-list">
-<li>Summary: </li>
-<li>Nested | </li>
-<li>Field | </li>
-<li>Constr | </li>
-<li><a href="#method-summary">Method</a></li>
-</ul>
-<ul class="sub-nav-list">
-<li>Detail: </li>
-<li>Field | </li>
-<li>Constr | </li>
-<li><a href="#method-detail">Method</a></li>
-</ul>
-</div>
 
-</div>
-<!-- ========= END OF TOP NAVBAR ========= -->
-<span class="skip-nav" id="skip-navbar-top"></span></nav>
-</header>
-<div class="flex-content">
+
+
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.mapview</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-package-summary">com.here.sdk.mapview</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a href="sdk-for-android-explore-..-..-nativebase" title="class in com.here">com.here.NativeBase</a>
+<div class="inheritance"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.mapview.PickMapContentResult.TrafficIncidentResult</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>All Implemented Interfaces:</dt>
-<dd><code><a href="sdk-for-android-explore-..-traffic-trafficincidentbase" title="interface in com.here.sdk.traffic">TrafficIncidentBase</a></code></dd>
+<dd><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-trafficincidentbase" title="interface in com.here.sdk.traffic">TrafficIncidentBase</a></code></dd>
 </dl>
 <dl class="notes">
 <dt>Enclosing class:</dt>
-<dd><a href="sdk-for-android-explore-pickmapcontentresult" title="class in com.here.sdk.mapview">PickMapContentResult</a></dd>
+<dd><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-pickmapcontentresult" title="class in com.here.sdk.mapview">PickMapContentResult</a></dd>
 </dl>
 <hr/>
 <div class="type-signature"><span class="modifiers">public static final class </span><span class="element-name type-name-label">PickMapContentResult.TrafficIncidentResult</span>
-<span class="extends-implements">extends <a href="sdk-for-android-explore-..-..-nativebase" title="class in com.here">NativeBase</a>
-implements <a href="sdk-for-android-explore-..-traffic-trafficincidentbase" title="interface in com.here.sdk.traffic">TrafficIncidentBase</a></span></div>
+<span class="extends-implements">extends <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-nativebase" title="class in com.here">NativeBase</a>
+implements <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-trafficincidentbase" title="interface in com.here.sdk.traffic">TrafficIncidentBase</a></span></div>
 <div class="block"><p>Carries the result of picking a Carto traffic incident object.
  Description of incident is currently not present in our map data, so
- <a href="sdk-for-android-explore-..-traffic-trafficincidentbase#getDescription()"><code>TrafficIncidentBase.getDescription()</code></a> always returns an empty string.</p></div>
+ <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-trafficincidentbase#getDescription()"><code>TrafficIncidentBase.getDescription()</code></a> always returns an empty string.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -93,38 +58,38 @@ implements <a href="sdk-for-android-explore-..-traffic-trafficincidentbase" titl
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-..-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#getCoordinates()">getCoordinates</a>()</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#getCoordinates()">getCoordinates</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the geographic coordinates of the traffic incident.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-..-core-localizedtext" title="class in com.here.sdk.core">LocalizedText</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#getDescription()">getDescription</a>()</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-localizedtext" title="class in com.here.sdk.core">LocalizedText</a></code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#getDescription()">getDescription</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the human readable description of the incident, possibly with location information.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" title="class or interface in java.util">Date</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#getEndTime()">getEndTime</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#getEndTime()">getEndTime</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Get the time until which the incident is valid, after this time the incident should not be considered.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-..-traffic-trafficincidentimpact" title="enum class in com.here.sdk.traffic">TrafficIncidentImpact</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#getImpact()">getImpact</a>()</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-trafficincidentimpact" title="enum class in com.here.sdk.traffic">TrafficIncidentImpact</a></code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#getImpact()">getImpact</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the impact of the incident.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#getOriginalId()">getOriginalId</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#getOriginalId()">getOriginalId</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the unique traffic event ID.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" title="class or interface in java.util">Date</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#getStartTime()">getStartTime</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#getStartTime()">getStartTime</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the time from which the incident is valid, before this time the incident should not be considered.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-..-traffic-trafficincidenttype" title="enum class in com.here.sdk.traffic">TrafficIncidentType</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#getType()">getType</a>()</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-trafficincidenttype" title="enum class in com.here.sdk.traffic">TrafficIncidentType</a></code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#getType()">getType</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the category of the incident.</div>
 </div>
@@ -163,7 +128,7 @@ implements <a href="sdk-for-android-explore-..-traffic-trafficincidentbase" titl
 <section class="detail" id="getCoordinates()">
 <h3>getCoordinates</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-..-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">getCoordinates</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">getCoordinates</span>()</div>
 <div class="block"><p>Gets the geographic coordinates of the traffic incident.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -175,12 +140,12 @@ implements <a href="sdk-for-android-explore-..-traffic-trafficincidentbase" titl
 <section class="detail" id="getImpact()">
 <h3>getImpact</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-..-traffic-trafficincidentimpact" title="enum class in com.here.sdk.traffic">TrafficIncidentImpact</a></span> <span class="element-name">getImpact</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-trafficincidentimpact" title="enum class in com.here.sdk.traffic">TrafficIncidentImpact</a></span> <span class="element-name">getImpact</span>()</div>
 <div class="block"><p>Gets the impact of the incident.
- </p><p>The value is <a href="sdk-for-android-explore-..-traffic-trafficincidentimpact#UNKNOWN"><code>TrafficIncidentImpact.UNKNOWN</code></a> if it hasn't been provided by the traffic incidents supplier.</p></div>
+ </p><p>The value is <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-trafficincidentimpact#UNKNOWN"><code>TrafficIncidentImpact.UNKNOWN</code></a> if it hasn't been provided by the traffic incidents supplier.</p></div>
 <dl class="notes">
 <dt>Specified by:</dt>
-<dd><code><a href="sdk-for-android-explore-..-traffic-trafficincidentbase#getImpact()">getImpact</a></code> in interface <code><a href="sdk-for-android-explore-..-traffic-trafficincidentbase" title="interface in com.here.sdk.traffic">TrafficIncidentBase</a></code></dd>
+<dd><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-trafficincidentbase#getImpact()">getImpact</a></code> in interface <code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-trafficincidentbase" title="interface in com.here.sdk.traffic">TrafficIncidentBase</a></code></dd>
 <dt>Returns:</dt>
 <dd><p>The impact of the incident.</p></dd>
 </dl>
@@ -190,12 +155,12 @@ implements <a href="sdk-for-android-explore-..-traffic-trafficincidentbase" titl
 <section class="detail" id="getType()">
 <h3>getType</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-..-traffic-trafficincidenttype" title="enum class in com.here.sdk.traffic">TrafficIncidentType</a></span> <span class="element-name">getType</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-trafficincidenttype" title="enum class in com.here.sdk.traffic">TrafficIncidentType</a></span> <span class="element-name">getType</span>()</div>
 <div class="block"><p>Gets the category of the incident.
- </p><p>The value is <a href="sdk-for-android-explore-..-traffic-trafficincidenttype#UNKNOWN"><code>TrafficIncidentType.UNKNOWN</code></a> if it hasn't been provided by the traffic incidents supplier.</p></div>
+ </p><p>The value is <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-trafficincidenttype#UNKNOWN"><code>TrafficIncidentType.UNKNOWN</code></a> if it hasn't been provided by the traffic incidents supplier.</p></div>
 <dl class="notes">
 <dt>Specified by:</dt>
-<dd><code><a href="sdk-for-android-explore-..-traffic-trafficincidentbase#getType()">getType</a></code> in interface <code><a href="sdk-for-android-explore-..-traffic-trafficincidentbase" title="interface in com.here.sdk.traffic">TrafficIncidentBase</a></code></dd>
+<dd><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-trafficincidentbase#getType()">getType</a></code> in interface <code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-trafficincidentbase" title="interface in com.here.sdk.traffic">TrafficIncidentBase</a></code></dd>
 <dt>Returns:</dt>
 <dd><p>The category of the incident.</p></dd>
 </dl>
@@ -205,14 +170,14 @@ implements <a href="sdk-for-android-explore-..-traffic-trafficincidentbase" titl
 <section class="detail" id="getDescription()">
 <h3>getDescription</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-..-core-localizedtext" title="class in com.here.sdk.core">LocalizedText</a></span> <span class="element-name">getDescription</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-localizedtext" title="class in com.here.sdk.core">LocalizedText</a></span> <span class="element-name">getDescription</span>()</div>
 <div class="block"><p>Gets the human readable description of the incident, possibly with location information.
  </p><p>The description is currently not present in our map data. Therefore, when
  accessing the data from a picked carto POI via <code>TrafficIncidentResult</code>, then
  always an empty string is returned. This does not apply when using the <code>TrafficEngine</code>.</p></div>
 <dl class="notes">
 <dt>Specified by:</dt>
-<dd><code><a href="sdk-for-android-explore-..-traffic-trafficincidentbase#getDescription()">getDescription</a></code> in interface <code><a href="sdk-for-android-explore-..-traffic-trafficincidentbase" title="interface in com.here.sdk.traffic">TrafficIncidentBase</a></code></dd>
+<dd><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-trafficincidentbase#getDescription()">getDescription</a></code> in interface <code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-trafficincidentbase" title="interface in com.here.sdk.traffic">TrafficIncidentBase</a></code></dd>
 <dt>Returns:</dt>
 <dd><p>The human readable description of the incident, possibly with location information.</p></dd>
 </dl>
@@ -227,7 +192,7 @@ implements <a href="sdk-for-android-explore-..-traffic-trafficincidentbase" titl
  </p><p>The value is <code>null</code> if it hasn't been provided by the traffic incidents supplier.</p></div>
 <dl class="notes">
 <dt>Specified by:</dt>
-<dd><code><a href="sdk-for-android-explore-..-traffic-trafficincidentbase#getStartTime()">getStartTime</a></code> in interface <code><a href="sdk-for-android-explore-..-traffic-trafficincidentbase" title="interface in com.here.sdk.traffic">TrafficIncidentBase</a></code></dd>
+<dd><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-trafficincidentbase#getStartTime()">getStartTime</a></code> in interface <code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-trafficincidentbase" title="interface in com.here.sdk.traffic">TrafficIncidentBase</a></code></dd>
 <dt>Returns:</dt>
 <dd><p>The time from which the incident is valid, before this time the incident should not be considered.</p></dd>
 </dl>
@@ -242,7 +207,7 @@ implements <a href="sdk-for-android-explore-..-traffic-trafficincidentbase" titl
  </p><p>The value is <code>null</code> if it hasn't been provided by the traffic incidents supplier.</p></div>
 <dl class="notes">
 <dt>Specified by:</dt>
-<dd><code><a href="sdk-for-android-explore-..-traffic-trafficincidentbase#getEndTime()">getEndTime</a></code> in interface <code><a href="sdk-for-android-explore-..-traffic-trafficincidentbase" title="interface in com.here.sdk.traffic">TrafficIncidentBase</a></code></dd>
+<dd><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-trafficincidentbase#getEndTime()">getEndTime</a></code> in interface <code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-trafficincidentbase" title="interface in com.here.sdk.traffic">TrafficIncidentBase</a></code></dd>
 <dt>Returns:</dt>
 <dd><p>The time until which the incident is valid, after this time the incident should not be considered.</p></dd>
 </dl>
@@ -255,8 +220,8 @@ implements <a href="sdk-for-android-explore-..-traffic-trafficincidentbase" titl
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
 </main>
-</div>
-</div>
+
+
 
 
 

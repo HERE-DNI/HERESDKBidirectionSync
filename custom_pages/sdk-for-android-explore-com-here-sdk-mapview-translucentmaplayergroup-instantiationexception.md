@@ -14,48 +14,13 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-translucentmaplayergroup-ins
 
 
 
-<div class="flex-box">
-<header class="flex-header" role="banner">
-<nav role="navigation">
-<!-- ========= START OF TOP NAVBAR ======= -->
-<div class="top-nav" id="navbar-top">
-<div class="skip-nav"><a href="#skip-navbar-top" title="Skip navigation links">Skip navigation links</a></div>
-<ul class="nav-list" id="navbar-top-firstrow" title="Navigation">
-<li><a href="sdk-for-android-explore-..-..-..-..-index">Overview</a></li>
-<li><a href="sdk-for-android-explore-package-summary">Package</a></li>
-<li class="nav-bar-cell1-rev">Class</li>
-<li><a href="sdk-for-android-explore-package-tree">Tree</a></li>
-<li><a href="sdk-for-android-explore-..-..-..-..-deprecated-list">Deprecated</a></li>
-<li><a href="sdk-for-android-explore-..-..-..-..-index-all">Index</a></li>
-<li><a href="sdk-for-android-explore-..-..-..-..-help-doc#class">Help</a></li>
-</ul>
-</div>
-<div class="sub-nav">
-<div>
-<ul class="sub-nav-list">
-<li>Summary: </li>
-<li>Nested | </li>
-<li>Field | </li>
-<li>Constr | </li>
-<li><a href="#method-summary">Method</a></li>
-</ul>
-<ul class="sub-nav-list">
-<li>Detail: </li>
-<li>Field | </li>
-<li>Constr | </li>
-<li>Method</li>
-</ul>
-</div>
 
-</div>
-<!-- ========= END OF TOP NAVBAR ========= -->
-<span class="skip-nav" id="skip-navbar-top"></span></nav>
-</header>
-<div class="flex-content">
+
+
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.mapview</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-package-summary">com.here.sdk.mapview</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -72,7 +37,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-translucentmaplayergroup-ins
 </dl>
 <dl class="notes">
 <dt>Enclosing class:</dt>
-<dd><a href="sdk-for-android-explore-translucentmaplayergroup" title="class in com.here.sdk.mapview">TranslucentMapLayerGroup</a></dd>
+<dd><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-translucentmaplayergroup" title="class in com.here.sdk.mapview">TranslucentMapLayerGroup</a></dd>
 </dl>
 <hr/>
 <div class="type-signature"><span class="modifiers">public static final class </span><span class="element-name type-name-label">TranslucentMapLayerGroup.InstantiationException</span>
@@ -82,7 +47,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-translucentmaplayergroup-ins
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-..-..-..-..-serialized-form#com.here.sdk.mapview.TranslucentMapLayerGroup.InstantiationException">Serialized Form</a></li>
+<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-serialized-form#com.here.sdk.mapview.TranslucentMapLayerGroup.InstantiationException">Serialized Form</a></li>
 </ul>
 </dd>
 </dl>
@@ -105,8 +70,8 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-translucentmaplayergroup-ins
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
 </main>
-</div>
-</div>
+
+
 
 
 

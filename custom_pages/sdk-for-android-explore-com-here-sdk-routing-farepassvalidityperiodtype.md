@@ -14,63 +14,28 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-farepassvalidityperiodtype"
 
 
 
-<div class="flex-box">
-<header class="flex-header" role="banner">
-<nav role="navigation">
-<!-- ========= START OF TOP NAVBAR ======= -->
-<div class="top-nav" id="navbar-top">
-<div class="skip-nav"><a href="#skip-navbar-top" title="Skip navigation links">Skip navigation links</a></div>
-<ul class="nav-list" id="navbar-top-firstrow" title="Navigation">
-<li><a href="sdk-for-android-explore-..-..-..-..-index">Overview</a></li>
-<li><a href="sdk-for-android-explore-package-summary">Package</a></li>
-<li class="nav-bar-cell1-rev">Class</li>
-<li><a href="sdk-for-android-explore-package-tree">Tree</a></li>
-<li><a href="sdk-for-android-explore-..-..-..-..-deprecated-list">Deprecated</a></li>
-<li><a href="sdk-for-android-explore-..-..-..-..-index-all">Index</a></li>
-<li><a href="sdk-for-android-explore-..-..-..-..-help-doc#class">Help</a></li>
-</ul>
-</div>
-<div class="sub-nav">
-<div>
-<ul class="sub-nav-list">
-<li>Summary: </li>
-<li><a href="#nested-class-summary">Nested</a> | </li>
-<li><a href="#enum-constant-summary">Enum Constants</a> | </li>
-<li>Field | </li>
-<li><a href="#method-summary">Method</a></li>
-</ul>
-<ul class="sub-nav-list">
-<li>Detail: </li>
-<li><a href="#enum-constant-detail">Enum Constants</a> | </li>
-<li>Field | </li>
-<li><a href="#method-detail">Method</a></li>
-</ul>
-</div>
 
-</div>
-<!-- ========= END OF TOP NAVBAR ========= -->
-<span class="skip-nav" id="skip-navbar-top"></span></nav>
-</header>
-<div class="flex-content">
+
+
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.routing</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-package-summary">com.here.sdk.routing</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">java.lang.Enum</a>&lt;<a href="sdk-for-android-explore-farepassvalidityperiodtype" title="enum class in com.here.sdk.routing">FarePassValidityPeriodType</a>&gt;
+<div class="inheritance"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">java.lang.Enum</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-farepassvalidityperiodtype" title="enum class in com.here.sdk.routing">FarePassValidityPeriodType</a>&gt;
 <div class="inheritance">com.here.sdk.routing.FarePassValidityPeriodType</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>All Implemented Interfaces:</dt>
-<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" title="class or interface in java.io">Serializable</a></code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" title="class or interface in java.lang">Comparable</a>&lt;<a href="sdk-for-android-explore-farepassvalidityperiodtype" title="enum class in com.here.sdk.routing">FarePassValidityPeriodType</a>&gt;</code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" title="class or interface in java.lang.constant">Constable</a></code></dd>
+<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" title="class or interface in java.io">Serializable</a></code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" title="class or interface in java.lang">Comparable</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-farepassvalidityperiodtype" title="enum class in com.here.sdk.routing">FarePassValidityPeriodType</a>&gt;</code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" title="class or interface in java.lang.constant">Constable</a></code></dd>
 </dl>
 <hr/>
 <div class="type-signature"><span class="modifiers">public enum </span><span class="element-name type-name-label">FarePassValidityPeriodType</span>
-<span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a href="sdk-for-android-explore-farepassvalidityperiodtype" title="enum class in com.here.sdk.routing">FarePassValidityPeriodType</a>&gt;</span></div>
+<span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-farepassvalidityperiodtype" title="enum class in com.here.sdk.routing">FarePassValidityPeriodType</a>&gt;</span></div>
 <div class="block"><p>Specifies validity periods.</p></div>
 </section>
 <section class="summary">
@@ -92,23 +57,23 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-farepassvalidityperiodtype"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Enum Constant</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="#ANNUAL">ANNUAL</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#ANNUAL">ANNUAL</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Pass is valid from Jan 1 to Dec 31</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="#DAYS">DAYS</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#DAYS">DAYS</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Pass is valid for a specified number of days.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="#EXTENDED_ANNUAL">EXTENDED_ANNUAL</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#EXTENDED_ANNUAL">EXTENDED_ANNUAL</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Pass is valid from Jan 1 to Jan 31 of the following year.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="#MINUTES">MINUTES</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#MINUTES">MINUTES</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Pass is valid for a specified number of minutes.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="#MONTHS">MONTHS</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#MONTHS">MONTHS</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Pass is valid for a specified number of months.</div>
 </div>
@@ -126,13 +91,13 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-farepassvalidityperiodtype"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-farepassvalidityperiodtype" title="enum class in com.here.sdk.routing">FarePassValidityPeriodType</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-farepassvalidityperiodtype" title="enum class in com.here.sdk.routing">FarePassValidityPeriodType</a></code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-farepassvalidityperiodtype" title="enum class in com.here.sdk.routing">FarePassValidityPeriodType</a>[]</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="#values()">values</a>()</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-farepassvalidityperiodtype" title="enum class in com.here.sdk.routing">FarePassValidityPeriodType</a>[]</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
@@ -160,35 +125,35 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="ANNUAL">
 <h3>ANNUAL</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-farepassvalidityperiodtype" title="enum class in com.here.sdk.routing">FarePassValidityPeriodType</a></span> <span class="element-name">ANNUAL</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-farepassvalidityperiodtype" title="enum class in com.here.sdk.routing">FarePassValidityPeriodType</a></span> <span class="element-name">ANNUAL</span></div>
 <div class="block"><p>Pass is valid from Jan 1 to Dec 31</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="EXTENDED_ANNUAL">
 <h3>EXTENDED_ANNUAL</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-farepassvalidityperiodtype" title="enum class in com.here.sdk.routing">FarePassValidityPeriodType</a></span> <span class="element-name">EXTENDED_ANNUAL</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-farepassvalidityperiodtype" title="enum class in com.here.sdk.routing">FarePassValidityPeriodType</a></span> <span class="element-name">EXTENDED_ANNUAL</span></div>
 <div class="block"><p>Pass is valid from Jan 1 to Jan 31 of the following year.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="MINUTES">
 <h3>MINUTES</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-farepassvalidityperiodtype" title="enum class in com.here.sdk.routing">FarePassValidityPeriodType</a></span> <span class="element-name">MINUTES</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-farepassvalidityperiodtype" title="enum class in com.here.sdk.routing">FarePassValidityPeriodType</a></span> <span class="element-name">MINUTES</span></div>
 <div class="block"><p>Pass is valid for a specified number of minutes.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="DAYS">
 <h3>DAYS</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-farepassvalidityperiodtype" title="enum class in com.here.sdk.routing">FarePassValidityPeriodType</a></span> <span class="element-name">DAYS</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-farepassvalidityperiodtype" title="enum class in com.here.sdk.routing">FarePassValidityPeriodType</a></span> <span class="element-name">DAYS</span></div>
 <div class="block"><p>Pass is valid for a specified number of days.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="MONTHS">
 <h3>MONTHS</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-farepassvalidityperiodtype" title="enum class in com.here.sdk.routing">FarePassValidityPeriodType</a></span> <span class="element-name">MONTHS</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-farepassvalidityperiodtype" title="enum class in com.here.sdk.routing">FarePassValidityPeriodType</a></span> <span class="element-name">MONTHS</span></div>
 <div class="block"><p>Pass is valid for a specified number of months.</p></div>
 </section>
 </li>
@@ -203,7 +168,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="values()">
 <h3>values</h3>
-<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-farepassvalidityperiodtype" title="enum class in com.here.sdk.routing">FarePassValidityPeriodType</a>[]</span> <span class="element-name">values</span>()</div>
+<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-farepassvalidityperiodtype" title="enum class in com.here.sdk.routing">FarePassValidityPeriodType</a>[]</span> <span class="element-name">values</span>()</div>
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
 <dl class="notes">
@@ -215,7 +180,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="valueOf(java.lang.String)">
 <h3>valueOf</h3>
-<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-farepassvalidityperiodtype" title="enum class in com.here.sdk.routing">FarePassValidityPeriodType</a></span> <span class="element-name">valueOf</span><wbr/><span class="parameters">(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</span></div>
+<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-farepassvalidityperiodtype" title="enum class in com.here.sdk.routing">FarePassValidityPeriodType</a></span> <span class="element-name">valueOf</span><wbr/><span class="parameters">(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</span></div>
 <div class="block">Returns the enum constant of this class with the specified name.
 The string must match <i>exactly</i> an identifier used to declare an
 enum constant in this class.  (Extraneous whitespace characters are 
@@ -238,8 +203,8 @@ not permitted.)</div>
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
 </main>
-</div>
-</div>
+
+
 
 
 

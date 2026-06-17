@@ -1,0 +1,62 @@
+---
+title: "com.here.time (API Reference)"
+slug: "sdk-for-android-navigate-com-here-time-package-summary"
+---
+
+<HTMLBlock>{
+`
+<div class="sdk-for-android">
+<!-- package-summary.html -->
+<!DOCTYPE HTML>
+
+
+
+
+
+
+
+
+
+<main role="main">
+<div class="header">
+
+</div>
+<hr/>
+<div class="package-signature">package <span class="element-name">com.here.time</span></div>
+<section class="summary">
+<ul class="summary-list">
+<li>
+<div id="related-package-summary">
+<div class="caption"><span>Related Packages</span></div>
+<div class="summary-table two-column-summary">
+<div class="table-header col-first">Package</div>
+<div class="table-header col-last">Description</div>
+<div class="col-first even-row-color"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here</a></div>
+<div class="col-last even-row-color"> </div>
+</div>
+</div>
+</li>
+<li>
+<div id="class-summary">
+<div class="caption"><span>Classes</span></div>
+<div class="summary-table two-column-summary">
+<div class="table-header col-first">Class</div>
+<div class="table-header col-last">Description</div>
+<div class="col-first even-row-color class-summary class-summary-tab2"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a></div>
+<div class="col-last even-row-color class-summary class-summary-tab2">
+<div class="block">Represents duration in time (both positive and negative).</div>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</section>
+</main>
+
+
+
+
+
+</div>
+`
+}</HTMLBlock>

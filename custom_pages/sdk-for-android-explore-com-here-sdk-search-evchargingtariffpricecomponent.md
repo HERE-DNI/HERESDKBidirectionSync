@@ -14,48 +14,13 @@ slug: "sdk-for-android-explore-com-here-sdk-search-evchargingtariffpricecomponen
 
 
 
-<div class="flex-box">
-<header class="flex-header" role="banner">
-<nav role="navigation">
-<!-- ========= START OF TOP NAVBAR ======= -->
-<div class="top-nav" id="navbar-top">
-<div class="skip-nav"><a href="#skip-navbar-top" title="Skip navigation links">Skip navigation links</a></div>
-<ul class="nav-list" id="navbar-top-firstrow" title="Navigation">
-<li><a href="sdk-for-android-explore-..-..-..-..-index">Overview</a></li>
-<li><a href="sdk-for-android-explore-package-summary">Package</a></li>
-<li class="nav-bar-cell1-rev">Class</li>
-<li><a href="sdk-for-android-explore-package-tree">Tree</a></li>
-<li><a href="sdk-for-android-explore-..-..-..-..-deprecated-list">Deprecated</a></li>
-<li><a href="sdk-for-android-explore-..-..-..-..-index-all">Index</a></li>
-<li><a href="sdk-for-android-explore-..-..-..-..-help-doc#class">Help</a></li>
-</ul>
-</div>
-<div class="sub-nav">
-<div>
-<ul class="sub-nav-list">
-<li>Summary: </li>
-<li>Nested | </li>
-<li><a href="#field-summary">Field</a> | </li>
-<li><a href="#constructor-summary">Constr</a> | </li>
-<li><a href="#method-summary">Method</a></li>
-</ul>
-<ul class="sub-nav-list">
-<li>Detail: </li>
-<li><a href="#field-detail">Field</a> | </li>
-<li><a href="#constructor-detail">Constr</a> | </li>
-<li><a href="#method-detail">Method</a></li>
-</ul>
-</div>
 
-</div>
-<!-- ========= END OF TOP NAVBAR ========= -->
-<span class="skip-nav" id="skip-navbar-top"></span></nav>
-</header>
-<div class="flex-content">
+
+
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.search</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-package-summary">com.here.sdk.search</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -80,23 +45,23 @@ slug: "sdk-for-android-explore-com-here-sdk-search-evchargingtariffpricecomponen
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-evchargingtariffdimension" title="enum class in com.here.sdk.search">EVChargingTariffDimension</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="#dimension">dimension</a></code></div>
+<div class="col-first even-row-color"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-evchargingtariffdimension" title="enum class in com.here.sdk.search">EVChargingTariffDimension</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#dimension">dimension</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The dimension or type of the price component.</div>
 </div>
 <div class="col-first odd-row-color"><code>double</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="#price">price</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#price">price</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The price per unit, excluding VAT.</div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="#step">step</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#step">step</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Dimension quantity used as a unit of billing.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="#vat">vat</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#vat">vat</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The VAT percentage of the price component.</div>
 </div>
@@ -111,7 +76,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-evchargingtariffpricecomponen
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="#%3Cinit%3E()">EVChargingTariffPriceComponent</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#%3Cinit%3E()">EVChargingTariffPriceComponent</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -130,10 +95,10 @@ slug: "sdk-for-android-explore-com-here-sdk-search-evchargingtariffpricecomponen
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#hashCode()">hashCode</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 </div>
 </div>
@@ -156,7 +121,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-evchargingtariffpricecomponen
 <section class="detail" id="dimension">
 <h3>dimension</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-evchargingtariffdimension" title="enum class in com.here.sdk.search">EVChargingTariffDimension</a></span> <span class="element-name">dimension</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-evchargingtariffdimension" title="enum class in com.here.sdk.search">EVChargingTariffDimension</a></span> <span class="element-name">dimension</span></div>
 <div class="block"><p>The dimension or type of the price component.</p></div>
 </section>
 </li>
@@ -164,7 +129,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-evchargingtariffpricecomponen
 <section class="detail" id="price">
 <h3>price</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">double</span> <span class="element-name">price</span></div>
-<div class="block"><p>The price per unit, excluding VAT. The units are defined by the <a href="#dimension"><code>dimension</code></a></p></div>
+<div class="block"><p>The price per unit, excluding VAT. The units are defined by the <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#dimension"><code>dimension</code></a></p></div>
 </section>
 </li>
 <li>
@@ -181,9 +146,9 @@ slug: "sdk-for-android-explore-com-here-sdk-search-evchargingtariffpricecomponen
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a></span> <span class="element-name">step</span></div>
 <div class="block"><p>Dimension quantity used as a unit of billing. Present for all other dimensions except
- <a href="sdk-for-android-explore-evchargingtariffdimension#FLAT"><code>EVChargingTariffDimension.FLAT</code></a>. The customer is charged price for each full or partial
- step of the dimension consumed. For <a href="sdk-for-android-explore-evchargingtariffdimension#ENERGY"><code>EVChargingTariffDimension.ENERGY</code></a>, the step size unit
- is 1 Wh, for <a href="sdk-for-android-explore-evchargingtariffdimension#TIME"><code>EVChargingTariffDimension.TIME</code></a> and <a href="sdk-for-android-explore-evchargingtariffdimension#PARKING_TIME"><code>EVChargingTariffDimension.PARKING_TIME</code></a>
+ <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-evchargingtariffdimension#FLAT"><code>EVChargingTariffDimension.FLAT</code></a>. The customer is charged price for each full or partial
+ step of the dimension consumed. For <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-evchargingtariffdimension#ENERGY"><code>EVChargingTariffDimension.ENERGY</code></a>, the step size unit
+ is 1 Wh, for <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-evchargingtariffdimension#TIME"><code>EVChargingTariffDimension.TIME</code></a> and <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-evchargingtariffdimension#PARKING_TIME"><code>EVChargingTariffDimension.PARKING_TIME</code></a>
  it is 1 second. For example, if step is 300 for time, then time is billed in 5 minute steps, rounded upwards.
  Similarly, if step is 100 for energy, then energy is billed in 100 Wh = 0.1 kWh steps.</p></div>
 </section>
@@ -238,8 +203,8 @@ slug: "sdk-for-android-explore-com-here-sdk-search-evchargingtariffpricecomponen
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
 </main>
-</div>
-</div>
+
+
 
 
 

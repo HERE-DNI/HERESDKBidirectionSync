@@ -14,37 +14,9 @@ slug: "sdk-for-android-explore-com-here-sdk-core-threading-package-summary"
 
 
 
-<div class="flex-box">
-<header class="flex-header" role="banner">
-<nav role="navigation">
-<!-- ========= START OF TOP NAVBAR ======= -->
-<div class="top-nav" id="navbar-top">
-<div class="skip-nav"><a href="#skip-navbar-top" title="Skip navigation links">Skip navigation links</a></div>
-<ul class="nav-list" id="navbar-top-firstrow" title="Navigation">
-<li><a href="sdk-for-android-explore-..-..-..-..-..-index">Overview</a></li>
-<li class="nav-bar-cell1-rev">Package</li>
-<li>Class</li>
-<li><a href="sdk-for-android-explore-package-tree">Tree</a></li>
-<li><a href="sdk-for-android-explore-..-..-..-..-..-deprecated-list">Deprecated</a></li>
-<li><a href="sdk-for-android-explore-..-..-..-..-..-index-all">Index</a></li>
-<li><a href="sdk-for-android-explore-..-..-..-..-..-help-doc#package">Help</a></li>
-</ul>
-</div>
-<div class="sub-nav">
-<div>
-<ul class="sub-nav-list">
-<li>Package: </li>
-<li>Description | </li>
-<li><a href="#related-package-summary">Related Packages</a> | </li>
-<li><a href="#class-summary">Classes and Interfaces</a></li>
-</ul>
-</div>
 
-</div>
-<!-- ========= END OF TOP NAVBAR ========= -->
-<span class="skip-nav" id="skip-navbar-top"></span></nav>
-</header>
-<div class="flex-content">
+
+
 <main role="main">
 <div class="header">
 
@@ -59,13 +31,13 @@ slug: "sdk-for-android-explore-com-here-sdk-core-threading-package-summary"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Package</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><a href="sdk-for-android-explore-..-package-summary">com.here.sdk.core</a></div>
+<div class="col-first even-row-color"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-package-summary">com.here.sdk.core</a></div>
 <div class="col-last even-row-color"> </div>
-<div class="col-first odd-row-color"><a href="sdk-for-android-explore-..-engine-package-summary">com.here.sdk.core.engine</a></div>
+<div class="col-first odd-row-color"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-package-summary">com.here.sdk.core.engine</a></div>
 <div class="col-last odd-row-color"> </div>
-<div class="col-first even-row-color"><a href="sdk-for-android-explore-..-errors-package-summary">com.here.sdk.core.errors</a></div>
+<div class="col-first even-row-color"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-package-summary">com.here.sdk.core.errors</a></div>
 <div class="col-last even-row-color"> </div>
-<div class="col-first odd-row-color"><a href="sdk-for-android-explore-..-utilities-package-summary">com.here.sdk.core.utilities</a></div>
+<div class="col-first odd-row-color"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-package-summary">com.here.sdk.core.utilities</a></div>
 <div class="col-last odd-row-color"> </div>
 </div>
 </div>
@@ -77,28 +49,28 @@ slug: "sdk-for-android-explore-com-here-sdk-core-threading-package-summary"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Class</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color class-summary class-summary-tab1"><a href="sdk-for-android-explore-ontaskcompleted" title="interface in com.here.sdk.core.threading">OnTaskCompleted</a></div>
+<div class="col-first even-row-color class-summary class-summary-tab1"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-ontaskcompleted" title="interface in com.here.sdk.core.threading">OnTaskCompleted</a></div>
 <div class="col-last even-row-color class-summary class-summary-tab1">
 <div class="block">The method will be called on the main thread when a task call has been completed.</div>
 </div>
-<div class="col-first odd-row-color class-summary class-summary-tab1"><a href="sdk-for-android-explore-platformthreading" title="interface in com.here.sdk.core.threading">PlatformThreading</a></div>
+<div class="col-first odd-row-color class-summary class-summary-tab1"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-platformthreading" title="interface in com.here.sdk.core.threading">PlatformThreading</a></div>
 <div class="col-last odd-row-color class-summary class-summary-tab1">
 <div class="block">Interface for task activities on the main thread.</div>
 </div>
-<div class="col-first even-row-color class-summary class-summary-tab1"><a href="sdk-for-android-explore-runnable" title="interface in com.here.sdk.core.threading">Runnable</a></div>
+<div class="col-first even-row-color class-summary class-summary-tab1"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-runnable" title="interface in com.here.sdk.core.threading">Runnable</a></div>
 <div class="col-last even-row-color class-summary class-summary-tab1">
 <div class="block">Interface that should be implemented by any class whose
  instances are intended to be executed by a thread.</div>
 </div>
-<div class="col-first odd-row-color class-summary class-summary-tab1"><a href="sdk-for-android-explore-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></div>
+<div class="col-first odd-row-color class-summary class-summary-tab1"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></div>
 <div class="col-last odd-row-color class-summary class-summary-tab1">
 <div class="block">Handle used for the manipulation of the task.</div>
 </div>
-<div class="col-first even-row-color class-summary class-summary-tab3"><a href="sdk-for-android-explore-taskoutcome" title="enum class in com.here.sdk.core.threading">TaskOutcome</a></div>
+<div class="col-first even-row-color class-summary class-summary-tab3"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-taskoutcome" title="enum class in com.here.sdk.core.threading">TaskOutcome</a></div>
 <div class="col-last even-row-color class-summary class-summary-tab3">
 <div class="block">This enum represents that a task has been completed.</div>
 </div>
-<div class="col-first odd-row-color class-summary class-summary-tab2"><a href="sdk-for-android-explore-threading" title="class in com.here.sdk.core.threading">Threading</a></div>
+<div class="col-first odd-row-color class-summary class-summary-tab2"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-threading" title="class in com.here.sdk.core.threading">Threading</a></div>
 <div class="col-last odd-row-color class-summary class-summary-tab2">
 <div class="block">Initializes threading support on native side.</div>
 </div>
@@ -109,8 +81,8 @@ slug: "sdk-for-android-explore-com-here-sdk-core-threading-package-summary"
 </ul>
 </section>
 </main>
-</div>
-</div>
+
+
 
 
 
