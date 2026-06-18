@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcontext-setmemorymanagem
 `
 <div class="sdk-for-android">
 <!-- MapContext.SetMemoryManagementOptionsCallback.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,13 +19,13 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcontext-setmemorymanagem
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.mapview</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></div>
 
 </div>
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>Enclosing class:</dt>
-<dd><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapcontext" title="class in com.here.sdk.mapview">MapContext</a></dd>
+<dd><a href="sdk-for-android-navigate-mapcontext" title="class in com.here.sdk.mapview">MapContext</a></dd>
 </dl>
 <dl class="notes">
 <dt>Functional Interface:</dt>
@@ -53,7 +52,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcontext-setmemorymanagem
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#onSetMemoryManagementOptions(com.here.sdk.mapview.MapContext.MemoryManagementResult)">onSetMemoryManagementOptions</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapcontext.memorymanagementresult" title="class in com.here.sdk.mapview">MapContext.MemoryManagementResult</a> result)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onSetMemoryManagementOptions(com.here.sdk.mapview.MapContext.MemoryManagementResult)">onSetMemoryManagementOptions</a><wbr/>(<a href="sdk-for-android-navigate-mapcontext.memorymanagementresult" title="class in com.here.sdk.mapview">MapContext.MemoryManagementResult</a> result)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Callback to handle the memory management result.</div>
 </div>
@@ -75,7 +74,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcontext-setmemorymanagem
 <section class="detail" id="onSetMemoryManagementOptions(com.here.sdk.mapview.MapContext.MemoryManagementResult)">
 <h3>onSetMemoryManagementOptions</h3>
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">onSetMemoryManagementOptions</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapcontext.memorymanagementresult" title="class in com.here.sdk.mapview">MapContext.MemoryManagementResult</a> result)</span></div>
+ <a href="sdk-for-android-navigate-mapcontext.memorymanagementresult" title="class in com.here.sdk.mapview">MapContext.MemoryManagementResult</a> result)</span></div>
 <div class="block"><p>Callback to handle the memory management result.
  </p><p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
  behavior. Related APIs may change for new releases without a deprecation process.</p></div>

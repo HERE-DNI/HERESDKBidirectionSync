@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-trafficbroadcast-tmcserviceprovider
 `
 <div class="sdk-for-android">
 <!-- TMCServiceProviderInfo.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,7 +19,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-trafficbroadcast-tmcserviceprovider
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.trafficbroadcast</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-trafficbroadcast-package-summary">com.here.sdk.trafficbroadcast</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -44,37 +43,37 @@ slug: "sdk-for-android-navigate-com-here-sdk-trafficbroadcast-tmcserviceprovider
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>short</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#countryCode">countryCode</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#countryCode">countryCode</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Service provider country code.</div>
 </div>
 <div class="col-first odd-row-color"><code>short</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#encryptionId">encryptionId</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#encryptionId">encryptionId</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Encryption key index.</div>
 </div>
 <div class="col-first even-row-color"><code>short</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#encryptionTestMode">encryptionTestMode</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#encryptionTestMode">encryptionTestMode</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Encryption mode test flag.</div>
 </div>
 <div class="col-first odd-row-color"><code>short</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#ltnBeforeEncryption">ltnBeforeEncryption</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#ltnBeforeEncryption">ltnBeforeEncryption</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Location table number before encryption.</div>
 </div>
 <div class="col-first even-row-color"><code>short</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#ltnNumber">ltnNumber</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#ltnNumber">ltnNumber</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Location table number.</div>
 </div>
 <div class="col-first odd-row-color"><code>short</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#sid">sid</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#sid">sid</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Service id.</div>
 </div>
 <div class="col-first even-row-color"><code>short</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#status">status</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#status">status</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Service provider status.</div>
 </div>
@@ -89,7 +88,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-trafficbroadcast-tmcserviceprovider
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#%3Cinit%3E(short,short,short,short,short,short,short)">TMCServiceProviderInfo</a><wbr/>(short status,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(short,short,short,short,short,short,short)">TMCServiceProviderInfo</a><wbr/>(short status,
  short countryCode,
  short sid,
  short ltnNumber,

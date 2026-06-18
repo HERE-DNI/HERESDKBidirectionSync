@@ -7,7 +7,6 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-rastertilesource-
 `
 <div class="sdk-for-android">
 <!-- RasterTileSource.LoadResultHandler.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,13 +19,13 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-rastertilesource-
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-package-summary">com.here.sdk.mapview.datasource</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-package-summary">com.here.sdk.mapview.datasource</a></div>
 
 </div>
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>Enclosing interface:</dt>
-<dd><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-rastertilesource" title="interface in com.here.sdk.mapview.datasource">RasterTileSource</a></dd>
+<dd><a href="sdk-for-android-explore-rastertilesource" title="interface in com.here.sdk.mapview.datasource">RasterTileSource</a></dd>
 </dl>
 <hr/>
 <div class="type-signature"><span class="modifiers">public static interface </span><span class="element-name type-name-label">RasterTileSource.LoadResultHandler</span></div>
@@ -46,14 +45,14 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-rastertilesource-
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#failed(com.here.sdk.mapview.datasource.TileKey)">failed</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-tilekey" title="class in com.here.sdk.mapview.datasource">TileKey</a> tileKey)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-index#failed(com.here.sdk.mapview.datasource.TileKey)">failed</a><wbr/>(<a href="sdk-for-android-explore-tilekey" title="class in com.here.sdk.mapview.datasource">TileKey</a> tileKey)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Called upon failed load tile request.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#loaded(com.here.sdk.mapview.datasource.TileKey,byte%5B%5D,com.here.sdk.mapview.datasource.TileSource.TileMetadata)">loaded</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-tilekey" title="class in com.here.sdk.mapview.datasource">TileKey</a> tileKey,
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-index#loaded(com.here.sdk.mapview.datasource.TileKey,byte%5B%5D,com.here.sdk.mapview.datasource.TileSource.TileMetadata)">loaded</a><wbr/>(<a href="sdk-for-android-explore-tilekey" title="class in com.here.sdk.mapview.datasource">TileKey</a> tileKey,
  byte[] data,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-tilesource.tilemetadata" title="class in com.here.sdk.mapview.datasource">TileSource.TileMetadata</a> metadata)</code></div>
+ <a href="sdk-for-android-explore-tilesource.tilemetadata" title="class in com.here.sdk.mapview.datasource">TileSource.TileMetadata</a> metadata)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Called upon successful load tile request.</div>
 </div>
@@ -75,11 +74,11 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-rastertilesource-
 <section class="detail" id="loaded(com.here.sdk.mapview.datasource.TileKey,byte[],com.here.sdk.mapview.datasource.TileSource.TileMetadata)">
 <h3>loaded</h3>
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">loaded</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-tilekey" title="class in com.here.sdk.mapview.datasource">TileKey</a> tileKey,
+ <a href="sdk-for-android-explore-tilekey" title="class in com.here.sdk.mapview.datasource">TileKey</a> tileKey,
  @NonNull
  byte[] data,
  @NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-tilesource.tilemetadata" title="class in com.here.sdk.mapview.datasource">TileSource.TileMetadata</a> metadata)</span></div>
+ <a href="sdk-for-android-explore-tilesource.tilemetadata" title="class in com.here.sdk.mapview.datasource">TileSource.TileMetadata</a> metadata)</span></div>
 <div class="block"><p>Called upon successful load tile request.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -94,7 +93,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-rastertilesource-
 <section class="detail" id="failed(com.here.sdk.mapview.datasource.TileKey)">
 <h3>failed</h3>
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">failed</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-tilekey" title="class in com.here.sdk.mapview.datasource">TileKey</a> tileKey)</span></div>
+ <a href="sdk-for-android-explore-tilekey" title="class in com.here.sdk.mapview.datasource">TileKey</a> tileKey)</span></div>
 <div class="block"><p>Called upon failed load tile request.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

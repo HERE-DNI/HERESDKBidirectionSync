@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-routeprogresslistener"
 `
 <div class="sdk-for-android">
 <!-- RouteProgressListener.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,14 +19,14 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-routeprogresslistener"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.navigation</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-navigation-package-summary">com.here.sdk.navigation</a></div>
 
 </div>
 <section class="class-description" id="class-description">
 <hr/>
 <div class="type-signature"><span class="modifiers">public interface </span><span class="element-name type-name-label">RouteProgressListener</span></div>
 <div class="block"><p>This interface should be implemented in order to receive notifications
- about the route progress from <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-navigator" title="class in com.here.sdk.navigation"><code>Navigator</code></a>.</p></div>
+ about the route progress from <a href="sdk-for-android-navigate-navigator" title="class in com.here.sdk.navigation"><code>Navigator</code></a>.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -43,7 +42,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-routeprogresslistener"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#onRouteProgressUpdated(com.here.sdk.navigation.RouteProgress)">onRouteProgressUpdated</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-routeprogress" title="class in com.here.sdk.navigation">RouteProgress</a> routeProgress)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onRouteProgressUpdated(com.here.sdk.navigation.RouteProgress)">onRouteProgressUpdated</a><wbr/>(<a href="sdk-for-android-navigate-routeprogress" title="class in com.here.sdk.navigation">RouteProgress</a> routeProgress)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Called whenever route progress has been updated.</div>
 </div>
@@ -65,7 +64,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-routeprogresslistener"
 <section class="detail" id="onRouteProgressUpdated(com.here.sdk.navigation.RouteProgress)">
 <h3>onRouteProgressUpdated</h3>
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">onRouteProgressUpdated</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-routeprogress" title="class in com.here.sdk.navigation">RouteProgress</a> routeProgress)</span></div>
+ <a href="sdk-for-android-navigate-routeprogress" title="class in com.here.sdk.navigation">RouteProgress</a> routeProgress)</span></div>
 <div class="block"><p>Called whenever route progress has been updated.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

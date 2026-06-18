@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-speedwarningoptions"
 `
 <div class="sdk-for-android">
 <!-- SpeedWarningOptions.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,7 +19,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-speedwarningoptions"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.navigation</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-navigation-package-summary">com.here.sdk.navigation</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -43,8 +42,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-speedwarningoptions"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-speedlimitoffset" title="class in com.here.sdk.navigation">SpeedLimitOffset</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#speedLimitOffset">speedLimitOffset</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-speedlimitoffset" title="class in com.here.sdk.navigation">SpeedLimitOffset</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#speedLimitOffset">speedLimitOffset</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The speed limit offsets to be used when notifying about exceeding the speed limit.</div>
 </div>
@@ -59,7 +58,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-speedwarningoptions"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.navigation.SpeedLimitOffset)">SpeedWarningOptions</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-speedlimitoffset" title="class in com.here.sdk.navigation">SpeedLimitOffset</a> speedLimitOffset)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.navigation.SpeedLimitOffset)">SpeedWarningOptions</a><wbr/>(<a href="sdk-for-android-navigate-speedlimitoffset" title="class in com.here.sdk.navigation">SpeedLimitOffset</a> speedLimitOffset)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -78,10 +77,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-speedwarningoptions"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 </div>
 </div>
@@ -104,7 +103,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-speedwarningoptions"
 <section class="detail" id="speedLimitOffset">
 <h3>speedLimitOffset</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-speedlimitoffset" title="class in com.here.sdk.navigation">SpeedLimitOffset</a></span> <span class="element-name">speedLimitOffset</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-speedlimitoffset" title="class in com.here.sdk.navigation">SpeedLimitOffset</a></span> <span class="element-name">speedLimitOffset</span></div>
 <div class="block"><p>The speed limit offsets to be used when notifying about exceeding the speed limit.</p></div>
 </section>
 </li>
@@ -120,7 +119,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-speedwarningoptions"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.navigation.SpeedLimitOffset)">
 <h3>SpeedWarningOptions</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">SpeedWarningOptions</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-speedlimitoffset" title="class in com.here.sdk.navigation">SpeedLimitOffset</a> speedLimitOffset)</span></div>
+ <a href="sdk-for-android-navigate-speedlimitoffset" title="class in com.here.sdk.navigation">SpeedLimitOffset</a> speedLimitOffset)</span></div>
 <div class="block"><p>Creates a new instance.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

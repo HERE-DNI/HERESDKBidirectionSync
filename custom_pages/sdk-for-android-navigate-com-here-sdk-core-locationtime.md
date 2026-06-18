@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-locationtime"
 `
 <div class="sdk-for-android">
 <!-- LocationTime.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,7 +19,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-locationtime"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.core</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-core-package-summary">com.here.sdk.core</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -48,18 +47,18 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-locationtime"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" title="class or interface in java.util">Date</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#localTime">localTime</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#localTime">localTime</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The time as observed in the tied location.</div>
 </div>
-<div class="col-first odd-row-color"><code>final <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#utcOffset">utcOffset</a></code></div>
+<div class="col-first odd-row-color"><code>final <a href="sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#utcOffset">utcOffset</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The UTC offset is the difference between the local time and the Coordinated Universal Time (UTC)
  in seconds.</div>
 </div>
 <div class="col-first even-row-color"><code>final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" title="class or interface in java.util">Date</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#utcTime">utcTime</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#utcTime">utcTime</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The time as Coordinated Universal Time (UTC).</div>
 </div>
@@ -74,9 +73,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-locationtime"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#%3Cinit%3E(java.util.Date,java.util.Date,com.here.time.Duration)">LocationTime</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" title="class or interface in java.util">Date</a> localTime,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(java.util.Date,java.util.Date,com.here.time.Duration)">LocationTime</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" title="class or interface in java.util">Date</a> localTime,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" title="class or interface in java.util">Date</a> utcTime,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a> utcOffset)</code></div>
+ <a href="sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a> utcOffset)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -95,10 +94,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-locationtime"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 </div>
 </div>
@@ -139,7 +138,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-locationtime"
 <section class="detail" id="utcOffset">
 <h3>utcOffset</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">utcOffset</span></div>
+</span><span class="modifiers">public final</span> <span class="return-type"><a href="sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">utcOffset</span></div>
 <div class="block"><p>The UTC offset is the difference between the local time and the Coordinated Universal Time (UTC)
  in seconds. For example, if the local time is UTC+01:00, it is +3600 and if the local time is
  UTC-05:00, it is -18000.</p></div>
@@ -161,7 +160,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-locationtime"
  @NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" title="class or interface in java.util">Date</a> utcTime,
  @NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a> utcOffset)</span></div>
+ <a href="sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a> utcOffset)</span></div>
 <div class="block"><p>Creates a new instance.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

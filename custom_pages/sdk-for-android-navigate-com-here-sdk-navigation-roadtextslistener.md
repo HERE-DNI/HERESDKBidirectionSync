@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-roadtextslistener"
 `
 <div class="sdk-for-android">
 <!-- RoadTextsListener.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,7 +19,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-roadtextslistener"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.navigation</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-navigation-package-summary">com.here.sdk.navigation</a></div>
 
 </div>
 <section class="class-description" id="class-description">
@@ -43,7 +42,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-roadtextslistener"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#onRoadTextsUpdated(com.here.sdk.routing.RoadTexts)">onRoadTextsUpdated</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-roadtexts" title="class in com.here.sdk.routing">RoadTexts</a> roadTexts)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onRoadTextsUpdated(com.here.sdk.routing.RoadTexts)">onRoadTextsUpdated</a><wbr/>(<a href="sdk-for-android-navigate-roadtexts" title="class in com.here.sdk.routing">RoadTexts</a> roadTexts)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Called whenever any textual attribute of the current road changes, i.e., the current road
  texts differs from the previous one already issued.</div>
@@ -66,7 +65,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-roadtextslistener"
 <section class="detail" id="onRoadTextsUpdated(com.here.sdk.routing.RoadTexts)">
 <h3>onRoadTextsUpdated</h3>
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">onRoadTextsUpdated</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-roadtexts" title="class in com.here.sdk.routing">RoadTexts</a> roadTexts)</span></div>
+ <a href="sdk-for-android-navigate-roadtexts" title="class in com.here.sdk.routing">RoadTexts</a> roadTexts)</span></div>
 <div class="block"><p>Called whenever any textual attribute of the current road changes, i.e., the current road
  texts differs from the previous one already issued.</p></div>
 <dl class="notes">

@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-mapdownloadertask"
 `
 <div class="sdk-for-android">
 <!-- MapDownloaderTask.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,18 +19,18 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-mapdownloadertask"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.maploader</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-maploader-package-summary">com.here.sdk.maploader</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-nativebase" title="class in com.here">com.here.NativeBase</a>
+<div class="inheritance"><a href="sdk-for-android-navigate-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.maploader.MapDownloaderTask</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 <hr/>
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">MapDownloaderTask</span>
-<span class="extends-implements">extends <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-nativebase" title="class in com.here">NativeBase</a></span></div>
+<span class="extends-implements">extends <a href="sdk-for-android-navigate-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>A class to control map download process.</p></div>
 </section>
 <section class="summary">
@@ -48,17 +47,17 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-mapdownloadertask"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#cancel()">cancel</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#cancel()">cancel</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Cancels the ongoing map download operation.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#pause()">pause</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#pause()">pause</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Pauses the ongoing map download operation.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#resume()">resume</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#resume()">resume</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Resumes paused map download operation.</div>
 </div>
@@ -85,8 +84,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-mapdownloadertask"
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">cancel</span>()</div>
 <div class="block"><p>Cancels the ongoing map download operation. Operation cannot be resumed afterwards.
  It will do nothing if the task was already cancelled or has been completed.
- Status of the call will be reported via <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-downloadregionsstatuslistener#onDownloadRegionsComplete(com.here.sdk.maploader.MapLoaderError,java.util.List)"><code>DownloadRegionsStatusListener.onDownloadRegionsComplete(com.here.sdk.maploader.MapLoaderError, java.util.List&lt;com.here.sdk.maploader.RegionId&gt;)</code></a>.
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-maploadererror#OPERATION_CANCELLED"><code>MapLoaderError.OPERATION_CANCELLED</code></a> will be reported for successful cancel.</p></div>
+ Status of the call will be reported via <a href="sdk-for-android-navigate-downloadregionsstatuslistener#onDownloadRegionsComplete(com.here.sdk.maploader.MapLoaderError,java.util.List)"><code>DownloadRegionsStatusListener.onDownloadRegionsComplete(com.here.sdk.maploader.MapLoaderError, java.util.List&lt;com.here.sdk.maploader.RegionId&gt;)</code></a>.
+ <a href="sdk-for-android-navigate-maploadererror#OPERATION_CANCELLED"><code>MapLoaderError.OPERATION_CANCELLED</code></a> will be reported for successful cancel.</p></div>
 </section>
 </li>
 <li>
@@ -95,7 +94,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-mapdownloadertask"
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">pause</span>()</div>
 <div class="block"><p>Pauses the ongoing map download operation. Operation can be resumed afterwards.
  It will do nothing if operation is not in running state.
- Status of the call will be reported via <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-downloadregionsstatuslistener#onPause(com.here.sdk.maploader.MapLoaderError)"><code>DownloadRegionsStatusListener.onPause(com.here.sdk.maploader.MapLoaderError)</code></a>.</p></div>
+ Status of the call will be reported via <a href="sdk-for-android-navigate-downloadregionsstatuslistener#onPause(com.here.sdk.maploader.MapLoaderError)"><code>DownloadRegionsStatusListener.onPause(com.here.sdk.maploader.MapLoaderError)</code></a>.</p></div>
 </section>
 </li>
 <li>
@@ -104,7 +103,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-mapdownloadertask"
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">resume</span>()</div>
 <div class="block"><p>Resumes paused map download operation. It will do nothing if operation is not in
  paused state.
- Status of the call will be reported via <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-downloadregionsstatuslistener#onResume()"><code>DownloadRegionsStatusListener.onResume()</code></a>.</p></div>
+ Status of the call will be reported via <a href="sdk-for-android-navigate-downloadregionsstatuslistener#onResume()"><code>DownloadRegionsStatusListener.onResume()</code></a>.</p></div>
 </section>
 </li>
 </ul>

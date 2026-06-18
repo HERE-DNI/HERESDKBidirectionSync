@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapscene-loadscenecallback"
 `
 <div class="sdk-for-android">
 <!-- MapScene.LoadSceneCallback.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,13 +19,13 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapscene-loadscenecallback"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.mapview</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></div>
 
 </div>
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>Enclosing class:</dt>
-<dd><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapscene" title="class in com.here.sdk.mapview">MapScene</a></dd>
+<dd><a href="sdk-for-android-navigate-mapscene" title="class in com.here.sdk.mapview">MapScene</a></dd>
 </dl>
 <dl class="notes">
 <dt>Functional Interface:</dt>
@@ -52,7 +51,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapscene-loadscenecallback"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#onLoadScene(com.here.sdk.mapview.MapError)">onLoadScene</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-maperror" title="enum class in com.here.sdk.mapview">MapError</a> loadSceneError)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onLoadScene(com.here.sdk.mapview.MapError)">onLoadScene</a><wbr/>(<a href="sdk-for-android-navigate-maperror" title="enum class in com.here.sdk.mapview">MapError</a> loadSceneError)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Called on the main thread after <code>loadScene()</code> method finishes loading
  the scene.</div>
@@ -75,7 +74,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapscene-loadscenecallback"
 <section class="detail" id="onLoadScene(com.here.sdk.mapview.MapError)">
 <h3>onLoadScene</h3>
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">onLoadScene</span><wbr/><span class="parameters">(@Nullable
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-maperror" title="enum class in com.here.sdk.mapview">MapError</a> loadSceneError)</span></div>
+ <a href="sdk-for-android-navigate-maperror" title="enum class in com.here.sdk.mapview">MapError</a> loadSceneError)</span></div>
 <div class="block"><p>Called on the main thread after <code>loadScene()</code> method finishes loading
  the scene.</p></div>
 <dl class="notes">

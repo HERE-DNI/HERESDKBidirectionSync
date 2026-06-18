@@ -7,7 +7,6 @@ slug: "sdk-for-android-explore-com-here-sdk-animation-scalarkeyframe"
 `
 <div class="sdk-for-android">
 <!-- ScalarKeyframe.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,7 +19,7 @@ slug: "sdk-for-android-explore-com-here-sdk-animation-scalarkeyframe"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-package-summary">com.here.sdk.animation</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-animation-package-summary">com.here.sdk.animation</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -43,13 +42,13 @@ slug: "sdk-for-android-explore-com-here-sdk-animation-scalarkeyframe"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code>final <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-duration" title="class in com.here.time">Duration</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#duration">duration</a></code></div>
+<div class="col-first even-row-color"><code>final <a href="sdk-for-android-explore-duration" title="class in com.here.time">Duration</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#duration">duration</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Relative animation duration for reaching the keyframe value from previous keyframe value.</div>
 </div>
 <div class="col-first odd-row-color"><code>final double</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#value">value</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#value">value</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Scalar keyframe value.</div>
 </div>
@@ -64,8 +63,8 @@ slug: "sdk-for-android-explore-com-here-sdk-animation-scalarkeyframe"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#%3Cinit%3E(double,com.here.time.Duration)">ScalarKeyframe</a><wbr/>(double value,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-duration" title="class in com.here.time">Duration</a> duration)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#%3Cinit%3E(double,com.here.time.Duration)">ScalarKeyframe</a><wbr/>(double value,
+ <a href="sdk-for-android-explore-duration" title="class in com.here.time">Duration</a> duration)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Constructs a ScalarKeyframe from the value and offset.</div>
 </div>
@@ -84,10 +83,10 @@ slug: "sdk-for-android-explore-com-here-sdk-animation-scalarkeyframe"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#hashCode()">hashCode</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 </div>
 </div>
@@ -117,7 +116,7 @@ slug: "sdk-for-android-explore-com-here-sdk-animation-scalarkeyframe"
 <section class="detail" id="duration">
 <h3>duration</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">duration</span></div>
+</span><span class="modifiers">public final</span> <span class="return-type"><a href="sdk-for-android-explore-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">duration</span></div>
 <div class="block"><p>Relative animation duration for reaching the keyframe value from previous keyframe value.
  Negative duration value gets clamped to 0.</p></div>
 </section>
@@ -135,7 +134,7 @@ slug: "sdk-for-android-explore-com-here-sdk-animation-scalarkeyframe"
 <h3>ScalarKeyframe</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">ScalarKeyframe</span><wbr/><span class="parameters">(double value,
  @NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-duration" title="class in com.here.time">Duration</a> duration)</span></div>
+ <a href="sdk-for-android-explore-duration" title="class in com.here.time">Duration</a> duration)</span></div>
 <div class="block"><p>Constructs a ScalarKeyframe from the value and offset.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

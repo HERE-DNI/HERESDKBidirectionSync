@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-suggestion"
 `
 <div class="sdk-for-android">
 <!-- Suggestion.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,23 +19,23 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-suggestion"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.search</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-search-package-summary">com.here.sdk.search</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-nativebase" title="class in com.here">com.here.NativeBase</a>
+<div class="inheritance"><a href="sdk-for-android-navigate-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.search.Suggestion</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 <hr/>
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">Suggestion</span>
-<span class="extends-implements">extends <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-nativebase" title="class in com.here">NativeBase</a></span></div>
+<span class="extends-implements">extends <a href="sdk-for-android-navigate-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>Suggestion is meant to provide relevant suggestions to partial queries, like "restaur", "starbu", "eiffel".
  Represents a relevant response to user queries.
- Suggestions (please check <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-suggestiontype" title="enum class in com.here.sdk.search"><code>SuggestionType</code></a>) are either:
- Place: <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-suggestiontype#PLACE"><code>SuggestionType.PLACE</code></a>
- Query: <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-suggestiontype#CHAIN"><code>SuggestionType.CHAIN</code></a> or <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-suggestiontype#CATEGORY"><code>SuggestionType.CATEGORY</code></a>
+ Suggestions (please check <a href="sdk-for-android-navigate-suggestiontype" title="enum class in com.here.sdk.search"><code>SuggestionType</code></a>) are either:
+ Place: <a href="sdk-for-android-navigate-suggestiontype#PLACE"><code>SuggestionType.PLACE</code></a>
+ Query: <a href="sdk-for-android-navigate-suggestiontype#CHAIN"><code>SuggestionType.CHAIN</code></a> or <a href="sdk-for-android-navigate-suggestiontype#CATEGORY"><code>SuggestionType.CATEGORY</code></a>
 </p><p>With "Place" you get data for a concrete place in the world.
  With "Query" something to follow-up, a way to perform more focused search.</p></div>
 </section>
@@ -53,33 +52,33 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-suggestion"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html" title="class or interface in java.util">Map</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-highlighttype" title="enum class in com.here.sdk.search">HighlightType</a>,<wbr/><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-indexrange" title="class in com.here.sdk.search">IndexRange</a>&gt;&gt;</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#getHighlights()">getHighlights</a>()</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html" title="class or interface in java.util">Map</a>&lt;<a href="sdk-for-android-navigate-highlighttype" title="enum class in com.here.sdk.search">HighlightType</a>,<wbr/><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-indexrange" title="class in com.here.sdk.search">IndexRange</a>&gt;&gt;</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getHighlights()">getHighlights</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">The text slices matching the input query.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#getHref()">getHref</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getHref()">getHref</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the direct link for Discover query.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#getId()">getId</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getId()">getId</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the suggested item id.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-place" title="class in com.here.sdk.search">Place</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#getPlace()">getPlace</a>()</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-place" title="class in com.here.sdk.search">Place</a></code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getPlace()">getPlace</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the suggested place item.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#getTitle()">getTitle</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getTitle()">getTitle</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the localized title for the suggestion.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-suggestiontype" title="enum class in com.here.sdk.search">SuggestionType</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#getType()">getType</a>()</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-suggestiontype" title="enum class in com.here.sdk.search">SuggestionType</a></code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getType()">getType</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the type of suggestion.</div>
 </div>
@@ -104,11 +103,11 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-suggestion"
 <section class="detail" id="getHighlights()">
 <h3>getHighlights</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html" title="class or interface in java.util">Map</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-highlighttype" title="enum class in com.here.sdk.search">HighlightType</a>,<wbr/><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-indexrange" title="class in com.here.sdk.search">IndexRange</a>&gt;&gt;</span> <span class="element-name">getHighlights</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html" title="class or interface in java.util">Map</a>&lt;<a href="sdk-for-android-navigate-highlighttype" title="enum class in com.here.sdk.search">HighlightType</a>,<wbr/><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-indexrange" title="class in com.here.sdk.search">IndexRange</a>&gt;&gt;</span> <span class="element-name">getHighlights</span>()</div>
 <div class="block"><p>The text slices matching the input query.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
-<dd><p>Associated container where <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-highlighttype" title="enum class in com.here.sdk.search"><code>HighlightType</code></a> is a key and list of <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-indexrange" title="class in com.here.sdk.search"><code>IndexRange</code></a> value.</p></dd>
+<dd><p>Associated container where <a href="sdk-for-android-navigate-highlighttype" title="enum class in com.here.sdk.search"><code>HighlightType</code></a> is a key and list of <a href="sdk-for-android-navigate-indexrange" title="class in com.here.sdk.search"><code>IndexRange</code></a> value.</p></dd>
 </dl>
 </section>
 </li>
@@ -128,7 +127,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-suggestion"
 <section class="detail" id="getType()">
 <h3>getType</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-suggestiontype" title="enum class in com.here.sdk.search">SuggestionType</a></span> <span class="element-name">getType</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-suggestiontype" title="enum class in com.here.sdk.search">SuggestionType</a></span> <span class="element-name">getType</span>()</div>
 <div class="block"><p>Gets the type of suggestion.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -140,9 +139,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-suggestion"
 <section class="detail" id="getPlace()">
 <h3>getPlace</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-place" title="class in com.here.sdk.search">Place</a></span> <span class="element-name">getPlace</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-place" title="class in com.here.sdk.search">Place</a></span> <span class="element-name">getPlace</span>()</div>
 <div class="block"><p>Gets the suggested place item.
- </p><p>Available only for <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-suggestiontype#PLACE"><code>SuggestionType.PLACE</code></a>.</p></div>
+ </p><p>Available only for <a href="sdk-for-android-navigate-suggestiontype#PLACE"><code>SuggestionType.PLACE</code></a>.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>The suggested place.</p></dd>
@@ -155,12 +154,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-suggestion"
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span class="element-name">getId</span>()</div>
 <div class="block"><p>Gets the suggested item id.
- </p><p>For online search, suggestion of type <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-suggestiontype#PLACE"><code>SuggestionType.PLACE</code></a>
+ </p><p>For online search, suggestion of type <a href="sdk-for-android-navigate-suggestiontype#PLACE"><code>SuggestionType.PLACE</code></a>
  will have Suggestion.id same as Place.id.
- For offline search, only suggestion of type <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-suggestiontype#CHAIN"><code>SuggestionType.CHAIN</code></a>,
+ For offline search, only suggestion of type <a href="sdk-for-android-navigate-suggestiontype#CHAIN"><code>SuggestionType.CHAIN</code></a>,
  will have this property filled with identifier number of an associated chain.
  For example, the chain ID "8778" corresponds to the chain name "ABC Shop".
- For other types, <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-suggestiontype#PLACE"><code>SuggestionType.PLACE</code></a> and <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-suggestiontype#CATEGORY"><code>SuggestionType.CATEGORY</code></a>
+ For other types, <a href="sdk-for-android-navigate-suggestiontype#PLACE"><code>SuggestionType.PLACE</code></a> and <a href="sdk-for-android-navigate-suggestiontype#CATEGORY"><code>SuggestionType.CATEGORY</code></a>
  this property will be null.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -174,7 +173,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-suggestion"
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span class="element-name">getHref</span>()</div>
 <div class="block"><p>Gets the direct link for Discover query.
- </p><p>Available only for <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-suggestiontype#CHAIN"><code>SuggestionType.CHAIN</code></a> and <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-suggestiontype#CATEGORY"><code>SuggestionType.CATEGORY</code></a>.
+ </p><p>Available only for <a href="sdk-for-android-navigate-suggestiontype#CHAIN"><code>SuggestionType.CHAIN</code></a> and <a href="sdk-for-android-navigate-suggestiontype#CATEGORY"><code>SuggestionType.CATEGORY</code></a>.
  This is not supported in offline search.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>

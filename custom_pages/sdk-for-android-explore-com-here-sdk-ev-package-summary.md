@@ -7,7 +7,6 @@ slug: "sdk-for-android-explore-com-here-sdk-ev-package-summary"
 `
 <div class="sdk-for-android">
 <!-- package-summary.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -32,23 +31,23 @@ slug: "sdk-for-android-explore-com-here-sdk-ev-package-summary"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Class</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color class-summary class-summary-tab3"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-evchargingconnectorformat" title="enum class in com.here.sdk.ev">EVChargingConnectorFormat</a></div>
+<div class="col-first even-row-color class-summary class-summary-tab3"><a href="sdk-for-android-explore-evchargingconnectorformat" title="enum class in com.here.sdk.ev">EVChargingConnectorFormat</a></div>
 <div class="col-last even-row-color class-summary class-summary-tab3">
 <div class="block">Represents the format of the connector, whether it is a socket or a cable.</div>
 </div>
-<div class="col-first odd-row-color class-summary class-summary-tab2"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-evchargingconnectortype" title="class in com.here.sdk.ev">EVChargingConnectorType</a></div>
+<div class="col-first odd-row-color class-summary class-summary-tab2"><a href="sdk-for-android-explore-evchargingconnectortype" title="class in com.here.sdk.ev">EVChargingConnectorType</a></div>
 <div class="col-last odd-row-color class-summary class-summary-tab2">
 <div class="block">Represents the standardized type of the installed connector.</div>
 </div>
-<div class="col-first even-row-color class-summary class-summary-tab3"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-evsecapability" title="enum class in com.here.sdk.ev">EVSECapability</a></div>
+<div class="col-first even-row-color class-summary class-summary-tab3"><a href="sdk-for-android-explore-evsecapability" title="enum class in com.here.sdk.ev">EVSECapability</a></div>
 <div class="col-last even-row-color class-summary class-summary-tab3">
 <div class="block">Represents the administrative functionality that an EVSE is capable of.</div>
 </div>
-<div class="col-first odd-row-color class-summary class-summary-tab3"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-evsepaymentsupport" title="enum class in com.here.sdk.ev">EVSEPaymentSupport</a></div>
+<div class="col-first odd-row-color class-summary class-summary-tab3"><a href="sdk-for-android-explore-evsepaymentsupport" title="enum class in com.here.sdk.ev">EVSEPaymentSupport</a></div>
 <div class="col-last odd-row-color class-summary class-summary-tab3">
 <div class="block">Represents the payment support functionality on EVSE for ad-hoc customers (without pre-registration).</div>
 </div>
-<div class="col-first even-row-color class-summary class-summary-tab3"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-evsestate" title="enum class in com.here.sdk.ev">EVSEState</a></div>
+<div class="col-first even-row-color class-summary class-summary-tab3"><a href="sdk-for-android-explore-evsestate" title="enum class in com.here.sdk.ev">EVSEState</a></div>
 <div class="col-last even-row-color class-summary class-summary-tab3">
 <div class="block">Indicates the current short-term status of the EVSE at the time given in the modified property.</div>
 </div>

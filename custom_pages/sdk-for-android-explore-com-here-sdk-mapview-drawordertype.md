@@ -7,7 +7,6 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-drawordertype"
 `
 <div class="sdk-for-android">
 <!-- DrawOrderType.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,27 +19,27 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-drawordertype"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-package-summary">com.here.sdk.mapview</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">java.lang.Enum</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-drawordertype" title="enum class in com.here.sdk.mapview">DrawOrderType</a>&gt;
+<div class="inheritance"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">java.lang.Enum</a>&lt;<a href="sdk-for-android-explore-drawordertype" title="enum class in com.here.sdk.mapview">DrawOrderType</a>&gt;
 <div class="inheritance">com.here.sdk.mapview.DrawOrderType</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>All Implemented Interfaces:</dt>
-<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" title="class or interface in java.io">Serializable</a></code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" title="class or interface in java.lang">Comparable</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-drawordertype" title="enum class in com.here.sdk.mapview">DrawOrderType</a>&gt;</code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" title="class or interface in java.lang.constant">Constable</a></code></dd>
+<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" title="class or interface in java.io">Serializable</a></code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" title="class or interface in java.lang">Comparable</a>&lt;<a href="sdk-for-android-explore-drawordertype" title="enum class in com.here.sdk.mapview">DrawOrderType</a>&gt;</code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" title="class or interface in java.lang.constant">Constable</a></code></dd>
 </dl>
 <hr/>
 <div class="type-signature"><span class="modifiers">public enum </span><span class="element-name type-name-label">DrawOrderType</span>
-<span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-drawordertype" title="enum class in com.here.sdk.mapview">DrawOrderType</a>&gt;</span></div>
+<span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a href="sdk-for-android-explore-drawordertype" title="enum class in com.here.sdk.mapview">DrawOrderType</a>&gt;</span></div>
 <div class="block"><p>Specifies the type of map item draw order. Map item rendering behavior is chosen based on the draw order type.
  </p><p>Regardless of a draw order type map items with a higher draw order are drawn on top of map items with a lower draw order.
  </p><p>When having map items in a scene with the same draw order, but with different draw order types
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#MAP_SCENE_ADDITION_ORDER_DEPENDENT"><code>MAP_SCENE_ADDITION_ORDER_DEPENDENT</code></a> and <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#MAP_SCENE_ADDITION_ORDER_INDEPENDENT"><code>MAP_SCENE_ADDITION_ORDER_INDEPENDENT</code></a>,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#MAP_SCENE_ADDITION_ORDER_DEPENDENT"><code>MAP_SCENE_ADDITION_ORDER_DEPENDENT</code></a> items will be rendered on top of <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#MAP_SCENE_ADDITION_ORDER_INDEPENDENT"><code>MAP_SCENE_ADDITION_ORDER_INDEPENDENT</code></a>
+ <a href="sdk-for-android-explore-index#MAP_SCENE_ADDITION_ORDER_DEPENDENT"><code>MAP_SCENE_ADDITION_ORDER_DEPENDENT</code></a> and <a href="sdk-for-android-explore-index#MAP_SCENE_ADDITION_ORDER_INDEPENDENT"><code>MAP_SCENE_ADDITION_ORDER_INDEPENDENT</code></a>,
+ <a href="sdk-for-android-explore-index#MAP_SCENE_ADDITION_ORDER_DEPENDENT"><code>MAP_SCENE_ADDITION_ORDER_DEPENDENT</code></a> items will be rendered on top of <a href="sdk-for-android-explore-index#MAP_SCENE_ADDITION_ORDER_INDEPENDENT"><code>MAP_SCENE_ADDITION_ORDER_INDEPENDENT</code></a>
  ones.</p></div>
 </section>
 <section class="summary">
@@ -62,11 +61,11 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-drawordertype"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Enum Constant</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#MAP_SCENE_ADDITION_ORDER_DEPENDENT">MAP_SCENE_ADDITION_ORDER_DEPENDENT</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#MAP_SCENE_ADDITION_ORDER_DEPENDENT">MAP_SCENE_ADDITION_ORDER_DEPENDENT</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Draw order depends on the order of map item addition to a map scene.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#MAP_SCENE_ADDITION_ORDER_INDEPENDENT">MAP_SCENE_ADDITION_ORDER_INDEPENDENT</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#MAP_SCENE_ADDITION_ORDER_INDEPENDENT">MAP_SCENE_ADDITION_ORDER_INDEPENDENT</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Draw order does not depend on the order of map item addition to a map scene.</div>
 </div>
@@ -84,13 +83,13 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-drawordertype"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-drawordertype" title="enum class in com.here.sdk.mapview">DrawOrderType</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-drawordertype" title="enum class in com.here.sdk.mapview">DrawOrderType</a></code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-drawordertype" title="enum class in com.here.sdk.mapview">DrawOrderType</a>[]</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#values()">values</a>()</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-drawordertype" title="enum class in com.here.sdk.mapview">DrawOrderType</a>[]</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
@@ -118,7 +117,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="MAP_SCENE_ADDITION_ORDER_DEPENDENT">
 <h3>MAP_SCENE_ADDITION_ORDER_DEPENDENT</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-drawordertype" title="enum class in com.here.sdk.mapview">DrawOrderType</a></span> <span class="element-name">MAP_SCENE_ADDITION_ORDER_DEPENDENT</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-drawordertype" title="enum class in com.here.sdk.mapview">DrawOrderType</a></span> <span class="element-name">MAP_SCENE_ADDITION_ORDER_DEPENDENT</span></div>
 <div class="block"><p>Draw order depends on the order of map item addition to a map scene.
  </p><p>Multiple map items of the same type with the same draw order are drawn in the order of addition to a map scene.
  With this behavior map items are rendered one by one.</p></div>
@@ -127,7 +126,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="MAP_SCENE_ADDITION_ORDER_INDEPENDENT">
 <h3>MAP_SCENE_ADDITION_ORDER_INDEPENDENT</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-drawordertype" title="enum class in com.here.sdk.mapview">DrawOrderType</a></span> <span class="element-name">MAP_SCENE_ADDITION_ORDER_INDEPENDENT</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-drawordertype" title="enum class in com.here.sdk.mapview">DrawOrderType</a></span> <span class="element-name">MAP_SCENE_ADDITION_ORDER_INDEPENDENT</span></div>
 <div class="block"><p>Draw order does not depend on the order of map item addition to a map scene.
  </p><p>Multiple map items of the same type with the same draw order are drawn in an arbitrary order and map items with similar
  attributes (e.g. color) are grouped and drawn together all at once for performance reasons. This way
@@ -146,7 +145,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="values()">
 <h3>values</h3>
-<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-drawordertype" title="enum class in com.here.sdk.mapview">DrawOrderType</a>[]</span> <span class="element-name">values</span>()</div>
+<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-drawordertype" title="enum class in com.here.sdk.mapview">DrawOrderType</a>[]</span> <span class="element-name">values</span>()</div>
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
 <dl class="notes">
@@ -158,7 +157,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="valueOf(java.lang.String)">
 <h3>valueOf</h3>
-<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-drawordertype" title="enum class in com.here.sdk.mapview">DrawOrderType</a></span> <span class="element-name">valueOf</span><wbr/><span class="parameters">(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</span></div>
+<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-drawordertype" title="enum class in com.here.sdk.mapview">DrawOrderType</a></span> <span class="element-name">valueOf</span><wbr/><span class="parameters">(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</span></div>
 <div class="block">Returns the enum constant of this class with the specified name.
 The string must match <i>exactly</i> an identifier used to declare an
 enum constant in this class.  (Extraneous whitespace characters are 

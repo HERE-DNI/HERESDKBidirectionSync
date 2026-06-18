@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-animation-easing"
 `
 <div class="sdk-for-android">
 <!-- Easing.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,18 +19,18 @@ slug: "sdk-for-android-navigate-com-here-sdk-animation-easing"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.animation</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-animation-package-summary">com.here.sdk.animation</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-nativebase" title="class in com.here">com.here.NativeBase</a>
+<div class="inheritance"><a href="sdk-for-android-navigate-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.animation.Easing</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 <hr/>
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">Easing</span>
-<span class="extends-implements">extends <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-nativebase" title="class in com.here">NativeBase</a></span></div>
+<span class="extends-implements">extends <a href="sdk-for-android-navigate-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>Animation easing representing an easing function to be used during animations.</p></div>
 </section>
 <section class="summary">
@@ -46,14 +45,14 @@ slug: "sdk-for-android-navigate-com-here-sdk-animation-easing"
 <div class="table-header col-second">Class</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>static enum </code></div>
-<div class="col-second even-row-color"><code><a class="type-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-easing.instantiationerrorcode" title="enum class in com.here.sdk.animation">Easing.InstantiationErrorCode</a></code></div>
+<div class="col-second even-row-color"><code><a class="type-name-link" href="sdk-for-android-navigate-easing.instantiationerrorcode" title="enum class in com.here.sdk.animation">Easing.InstantiationErrorCode</a></code></div>
 <div class="col-last even-row-color">
-<div class="block">Describes a reason for failing to create an <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-easing" title="class in com.here.sdk.animation"><code>Easing</code></a>.</div>
+<div class="block">Describes a reason for failing to create an <a href="sdk-for-android-navigate-easing" title="class in com.here.sdk.animation"><code>Easing</code></a>.</div>
 </div>
 <div class="col-first odd-row-color"><code>static final class </code></div>
-<div class="col-second odd-row-color"><code><a class="type-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-easing.instantiationexception" title="class in com.here.sdk.animation">Easing.InstantiationException</a></code></div>
+<div class="col-second odd-row-color"><code><a class="type-name-link" href="sdk-for-android-navigate-easing.instantiationexception" title="class in com.here.sdk.animation">Easing.InstantiationException</a></code></div>
 <div class="col-last odd-row-color">
-<div class="block">Thrown when a problem occurs while trying to create an <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-easing" title="class in com.here.sdk.animation"><code>Easing</code></a>.</div>
+<div class="block">Thrown when a problem occurs while trying to create an <a href="sdk-for-android-navigate-easing" title="class in com.here.sdk.animation"><code>Easing</code></a>.</div>
 </div>
 </div>
 </section>
@@ -66,13 +65,13 @@ slug: "sdk-for-android-navigate-com-here-sdk-animation-easing"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.animation.EasingFunction)">Easing</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-easingfunction" title="enum class in com.here.sdk.animation">EasingFunction</a> easingFunction)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.animation.EasingFunction)">Easing</a><wbr/>(<a href="sdk-for-android-navigate-easingfunction" title="enum class in com.here.sdk.animation">EasingFunction</a> easingFunction)</code></div>
 <div class="col-last even-row-color">
-<div class="block">Creates an instance of <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-easing" title="class in com.here.sdk.animation"><code>Easing</code></a> using a predefined easing function.</div>
+<div class="block">Creates an instance of <a href="sdk-for-android-navigate-easing" title="class in com.here.sdk.animation"><code>Easing</code></a> using a predefined easing function.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#%3Cinit%3E(java.util.List)">Easing</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-point2d" title="class in com.here.sdk.core">Point2D</a>&gt; points)</code></div>
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(java.util.List)">Easing</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-point2d" title="class in com.here.sdk.core">Point2D</a>&gt; points)</code></div>
 <div class="col-last odd-row-color">
-<div class="block">Creates an instance of customized <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-easing" title="class in com.here.sdk.animation"><code>Easing</code></a> using a specified number of points describing an
+<div class="block">Creates an instance of customized <a href="sdk-for-android-navigate-easing" title="class in com.here.sdk.animation"><code>Easing</code></a> using a specified number of points describing an
  easing function.</div>
 </div>
 </div>
@@ -100,8 +99,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-animation-easing"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.animation.EasingFunction)">
 <h3>Easing</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">Easing</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-easingfunction" title="enum class in com.here.sdk.animation">EasingFunction</a> easingFunction)</span></div>
-<div class="block"><p>Creates an instance of <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-easing" title="class in com.here.sdk.animation"><code>Easing</code></a> using a predefined easing function.</p></div>
+ <a href="sdk-for-android-navigate-easingfunction" title="enum class in com.here.sdk.animation">EasingFunction</a> easingFunction)</span></div>
+<div class="block"><p>Creates an instance of <a href="sdk-for-android-navigate-easing" title="class in com.here.sdk.animation"><code>Easing</code></a> using a predefined easing function.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>easingFunction</code> - <p>Easing function.</p></dd>
@@ -112,9 +111,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-animation-easing"
 <section class="detail" id="&lt;init&gt;(java.util.List)">
 <h3>Easing</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">Easing</span><wbr/><span class="parameters">(@NonNull
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-point2d" title="class in com.here.sdk.core">Point2D</a>&gt; points)</span>
-       throws <span class="exceptions"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-easing.instantiationexception" title="class in com.here.sdk.animation">Easing.InstantiationException</a></span></div>
-<div class="block"><p>Creates an instance of customized <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-easing" title="class in com.here.sdk.animation"><code>Easing</code></a> using a specified number of points describing an
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-point2d" title="class in com.here.sdk.core">Point2D</a>&gt; points)</span>
+       throws <span class="exceptions"><a href="sdk-for-android-navigate-easing.instantiationexception" title="class in com.here.sdk.animation">Easing.InstantiationException</a></span></div>
+<div class="block"><p>Creates an instance of customized <a href="sdk-for-android-navigate-easing" title="class in com.here.sdk.animation"><code>Easing</code></a> using a specified number of points describing an
  easing function.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -134,7 +133,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-animation-easing"
      In order to achieve the same animation precision for animations with different durations
      (shorter vs longer) it is recommended to use a higher sampling rate for longer animation duration.</p></dd>
 <dt>Throws:</dt>
-<dd><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-easing.instantiationexception" title="class in com.here.sdk.animation">Easing.InstantiationException</a></code> - <p>Instantiation error in case of invalid input parameters.</p></dd>
+<dd><code><a href="sdk-for-android-navigate-easing.instantiationexception" title="class in com.here.sdk.animation">Easing.InstantiationException</a></code> - <p>Instantiation error in case of invalid input parameters.</p></dd>
 </dl>
 </section>
 </li>

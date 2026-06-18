@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-control-venue"
 `
 <div class="sdk-for-android">
 <!-- Venue.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,23 +19,23 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-control-venue"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.venue.control</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-venue-control-package-summary">com.here.sdk.venue.control</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-nativebase" title="class in com.here">com.here.NativeBase</a>
+<div class="inheritance"><a href="sdk-for-android-navigate-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.venue.control.Venue</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 <hr/>
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">Venue</span>
-<span class="extends-implements">extends <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-nativebase" title="class in com.here">NativeBase</a></span></div>
-<div class="block"><p>Controls the <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuemodel" title="class in com.here.sdk.venue.data"><code>VenueModel</code></a> inside the <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuemap" title="class in com.here.sdk.venue.control"><code>VenueMap</code></a> object.
- The venue controls the selection of the <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuedrawing" title="class in com.here.sdk.venue.data"><code>VenueDrawing</code></a> and the <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuelevel" title="class in com.here.sdk.venue.data"><code>VenueLevel</code></a>
- of the <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuemodel" title="class in com.here.sdk.venue.data"><code>VenueModel</code></a>. It provides the possibility to customize styles for the <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuegeometry" title="class in com.here.sdk.venue.data"><code>VenueGeometry</code></a>.
+<span class="extends-implements">extends <a href="sdk-for-android-navigate-nativebase" title="class in com.here">NativeBase</a></span></div>
+<div class="block"><p>Controls the <a href="sdk-for-android-navigate-venuemodel" title="class in com.here.sdk.venue.data"><code>VenueModel</code></a> inside the <a href="sdk-for-android-navigate-venuemap" title="class in com.here.sdk.venue.control"><code>VenueMap</code></a> object.
+ The venue controls the selection of the <a href="sdk-for-android-navigate-venuedrawing" title="class in com.here.sdk.venue.data"><code>VenueDrawing</code></a> and the <a href="sdk-for-android-navigate-venuelevel" title="class in com.here.sdk.venue.data"><code>VenueLevel</code></a>
+ of the <a href="sdk-for-android-navigate-venuemodel" title="class in com.here.sdk.venue.data"><code>VenueModel</code></a>. It provides the possibility to customize styles for the <a href="sdk-for-android-navigate-venuegeometry" title="class in com.here.sdk.venue.data"><code>VenueGeometry</code></a>.
  Objects of this class can only be created using methods
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuemap#addVenueAsync(java.lang.String,com.here.sdk.venue.control.VenueLoadErrorCallback)"><code>VenueMap.addVenueAsync(String, VenueLoadErrorCallback)</code></a> and <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuemap#selectVenueAsync(java.lang.String,com.here.sdk.venue.control.VenueLoadErrorCallback)"><code>VenueMap.selectVenueAsync(String, VenueLoadErrorCallback)</code></a>.</p></div>
+ <a href="sdk-for-android-navigate-venuemap#addVenueAsync(java.lang.String,com.here.sdk.venue.control.VenueLoadErrorCallback)"><code>VenueMap.addVenueAsync(String, VenueLoadErrorCallback)</code></a> and <a href="sdk-for-android-navigate-venuemap#selectVenueAsync(java.lang.String,com.here.sdk.venue.control.VenueLoadErrorCallback)"><code>VenueMap.selectVenueAsync(String, VenueLoadErrorCallback)</code></a>.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -51,85 +50,85 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-control-venue"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuedrawing" title="class in com.here.sdk.venue.data">VenueDrawing</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#getSelectedDrawing()">getSelectedDrawing</a>()</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-venuedrawing" title="class in com.here.sdk.venue.data">VenueDrawing</a></code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getSelectedDrawing()">getSelectedDrawing</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
-<div class="block">Gets the currently selected <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuedrawing" title="class in com.here.sdk.venue.data"><code>VenueDrawing</code></a> of the <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuemodel" title="class in com.here.sdk.venue.data"><code>VenueModel</code></a>.</div>
+<div class="block">Gets the currently selected <a href="sdk-for-android-navigate-venuedrawing" title="class in com.here.sdk.venue.data"><code>VenueDrawing</code></a> of the <a href="sdk-for-android-navigate-venuemodel" title="class in com.here.sdk.venue.data"><code>VenueModel</code></a>.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuelevel" title="class in com.here.sdk.venue.data">VenueLevel</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#getSelectedLevel()">getSelectedLevel</a>()</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-venuelevel" title="class in com.here.sdk.venue.data">VenueLevel</a></code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getSelectedLevel()">getSelectedLevel</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
-<div class="block">Gets the currently selected <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuelevel" title="class in com.here.sdk.venue.data"><code>VenueLevel</code></a> from the selected <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuedrawing" title="class in com.here.sdk.venue.data"><code>VenueDrawing</code></a>.</div>
+<div class="block">Gets the currently selected <a href="sdk-for-android-navigate-venuelevel" title="class in com.here.sdk.venue.data"><code>VenueLevel</code></a> from the selected <a href="sdk-for-android-navigate-venuedrawing" title="class in com.here.sdk.venue.data"><code>VenueDrawing</code></a>.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#getSelectedLevelIndex()">getSelectedLevelIndex</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getSelectedLevelIndex()">getSelectedLevelIndex</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
-<div class="block">Gets the index of the currently selected <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuelevel" title="class in com.here.sdk.venue.data"><code>VenueLevel</code></a> in the level array
- of the related <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuedrawing" title="class in com.here.sdk.venue.data"><code>VenueDrawing</code></a>.</div>
+<div class="block">Gets the index of the currently selected <a href="sdk-for-android-navigate-venuelevel" title="class in com.here.sdk.venue.data"><code>VenueLevel</code></a> in the level array
+ of the related <a href="sdk-for-android-navigate-venuedrawing" title="class in com.here.sdk.venue.data"><code>VenueDrawing</code></a>.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#getSelectedLevelZIndex()">getSelectedLevelZIndex</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getSelectedLevelZIndex()">getSelectedLevelZIndex</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
-<div class="block">Gets the Z index of the currently selected <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuelevel" title="class in com.here.sdk.venue.data"><code>VenueLevel</code></a>.</div>
+<div class="block">Gets the Z index of the currently selected <a href="sdk-for-android-navigate-venuelevel" title="class in com.here.sdk.venue.data"><code>VenueLevel</code></a>.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuemodel" title="class in com.here.sdk.venue.data">VenueModel</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#getVenueModel()">getVenueModel</a>()</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-venuemodel" title="class in com.here.sdk.venue.data">VenueModel</a></code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getVenueModel()">getVenueModel</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
-<div class="block">Gets the <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuemodel" title="class in com.here.sdk.venue.data"><code>VenueModel</code></a> controlled by this object.</div>
+<div class="block">Gets the <a href="sdk-for-android-navigate-venuemodel" title="class in com.here.sdk.venue.data"><code>VenueModel</code></a> controlled by this object.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuestyle" title="class in com.here.sdk.venue.style">VenueStyle</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#getVenueStyle()">getVenueStyle</a>()</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-venuestyle" title="class in com.here.sdk.venue.style">VenueStyle</a></code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getVenueStyle()">getVenueStyle</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
-<div class="block">Gets the <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuestyle" title="class in com.here.sdk.venue.style"><code>VenueStyle</code></a> associated with the <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuemodel" title="class in com.here.sdk.venue.data"><code>VenueModel</code></a>
+<div class="block">Gets the <a href="sdk-for-android-navigate-venuestyle" title="class in com.here.sdk.venue.style"><code>VenueStyle</code></a> associated with the <a href="sdk-for-android-navigate-venuemodel" title="class in com.here.sdk.venue.data"><code>VenueModel</code></a>
  controlled by this object.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#isTopologyVisible()">isTopologyVisible</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#isTopologyVisible()">isTopologyVisible</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the current status of topology visibility.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#setCustomStyle(java.util.List,com.here.sdk.venue.style.VenueGeometryStyle,com.here.sdk.venue.style.VenueLabelStyle)">setCustomStyle</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuegeometry" title="class in com.here.sdk.venue.data">VenueGeometry</a>&gt; geometries,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuegeometrystyle" title="class in com.here.sdk.venue.style">VenueGeometryStyle</a> style,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuelabelstyle" title="class in com.here.sdk.venue.style">VenueLabelStyle</a> labelStyle)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setCustomStyle(java.util.List,com.here.sdk.venue.style.VenueGeometryStyle,com.here.sdk.venue.style.VenueLabelStyle)">setCustomStyle</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-venuegeometry" title="class in com.here.sdk.venue.data">VenueGeometry</a>&gt; geometries,
+ <a href="sdk-for-android-navigate-venuegeometrystyle" title="class in com.here.sdk.venue.style">VenueGeometryStyle</a> style,
+ <a href="sdk-for-android-navigate-venuelabelstyle" title="class in com.here.sdk.venue.style">VenueLabelStyle</a> labelStyle)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets a custom style for geometries and related labels.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#setCustomStyle(java.util.List,com.here.sdk.venue.style.VenueGeometryStyle)">setCustomStyle</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuetopology" title="class in com.here.sdk.venue.data">VenueTopology</a>&gt; topologies,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuegeometrystyle" title="class in com.here.sdk.venue.style">VenueGeometryStyle</a> style)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setCustomStyle(java.util.List,com.here.sdk.venue.style.VenueGeometryStyle)">setCustomStyle</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-venuetopology" title="class in com.here.sdk.venue.data">VenueTopology</a>&gt; topologies,
+ <a href="sdk-for-android-navigate-venuegeometrystyle" title="class in com.here.sdk.venue.style">VenueGeometryStyle</a> style)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets a custom style for topologies.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#setCustomStyleToCrosswalk(java.util.List,com.here.sdk.venue.style.VenueGeometryStyle)">setCustomStyleToCrosswalk</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-crosswalk" title="class in com.here.sdk.venue.data">Crosswalk</a>&gt; crosswalks,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuegeometrystyle" title="class in com.here.sdk.venue.style">VenueGeometryStyle</a> style)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setCustomStyleToCrosswalk(java.util.List,com.here.sdk.venue.style.VenueGeometryStyle)">setCustomStyleToCrosswalk</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-crosswalk" title="class in com.here.sdk.venue.data">Crosswalk</a>&gt; crosswalks,
+ <a href="sdk-for-android-navigate-venuegeometrystyle" title="class in com.here.sdk.venue.style">VenueGeometryStyle</a> style)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets a custom style for crosswalk.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#setSelectedDrawing(com.here.sdk.venue.data.VenueDrawing)">setSelectedDrawing</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuedrawing" title="class in com.here.sdk.venue.data">VenueDrawing</a> value)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setSelectedDrawing(com.here.sdk.venue.data.VenueDrawing)">setSelectedDrawing</a><wbr/>(<a href="sdk-for-android-navigate-venuedrawing" title="class in com.here.sdk.venue.data">VenueDrawing</a> value)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
-<div class="block">Sets the selected <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuedrawing" title="class in com.here.sdk.venue.data"><code>VenueDrawing</code></a>.</div>
+<div class="block">Sets the selected <a href="sdk-for-android-navigate-venuedrawing" title="class in com.here.sdk.venue.data"><code>VenueDrawing</code></a>.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#setSelectedLevel(com.here.sdk.venue.data.VenueLevel)">setSelectedLevel</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuelevel" title="class in com.here.sdk.venue.data">VenueLevel</a> value)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setSelectedLevel(com.here.sdk.venue.data.VenueLevel)">setSelectedLevel</a><wbr/>(<a href="sdk-for-android-navigate-venuelevel" title="class in com.here.sdk.venue.data">VenueLevel</a> value)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
-<div class="block">Sets the selected <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuelevel" title="class in com.here.sdk.venue.data"><code>VenueLevel</code></a> from the currently selected <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuedrawing" title="class in com.here.sdk.venue.data"><code>VenueDrawing</code></a>.</div>
+<div class="block">Sets the selected <a href="sdk-for-android-navigate-venuelevel" title="class in com.here.sdk.venue.data"><code>VenueLevel</code></a> from the currently selected <a href="sdk-for-android-navigate-venuedrawing" title="class in com.here.sdk.venue.data"><code>VenueDrawing</code></a>.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#setSelectedLevelIndex(int)">setSelectedLevelIndex</a><wbr/>(int value)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setSelectedLevelIndex(int)">setSelectedLevelIndex</a><wbr/>(int value)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
-<div class="block">Sets the <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuelevel" title="class in com.here.sdk.venue.data"><code>VenueLevel</code></a> with the specified index from the level array
- of the <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuedrawing" title="class in com.here.sdk.venue.data"><code>VenueDrawing</code></a> as selected.</div>
+<div class="block">Sets the <a href="sdk-for-android-navigate-venuelevel" title="class in com.here.sdk.venue.data"><code>VenueLevel</code></a> with the specified index from the level array
+ of the <a href="sdk-for-android-navigate-venuedrawing" title="class in com.here.sdk.venue.data"><code>VenueDrawing</code></a> as selected.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#setSelectedLevelZIndex(int)">setSelectedLevelZIndex</a><wbr/>(int value)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setSelectedLevelZIndex(int)">setSelectedLevelZIndex</a><wbr/>(int value)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
-<div class="block">Sets the <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuelevel" title="class in com.here.sdk.venue.data"><code>VenueLevel</code></a> with the specified Z index as selected.</div>
+<div class="block">Sets the <a href="sdk-for-android-navigate-venuelevel" title="class in com.here.sdk.venue.data"><code>VenueLevel</code></a> with the specified Z index as selected.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#setTopologyVisible(boolean)">setTopologyVisible</a><wbr/>(boolean value)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setTopologyVisible(boolean)">setTopologyVisible</a><wbr/>(boolean value)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the topology visibility.</div>
 </div>
@@ -154,11 +153,11 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-control-venue"
 <section class="detail" id="setCustomStyle(java.util.List,com.here.sdk.venue.style.VenueGeometryStyle,com.here.sdk.venue.style.VenueLabelStyle)">
 <h3>setCustomStyle</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setCustomStyle</span><wbr/><span class="parameters">(@NonNull
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuegeometry" title="class in com.here.sdk.venue.data">VenueGeometry</a>&gt; geometries,
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-venuegeometry" title="class in com.here.sdk.venue.data">VenueGeometry</a>&gt; geometries,
  @Nullable
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuegeometrystyle" title="class in com.here.sdk.venue.style">VenueGeometryStyle</a> style,
+ <a href="sdk-for-android-navigate-venuegeometrystyle" title="class in com.here.sdk.venue.style">VenueGeometryStyle</a> style,
  @Nullable
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuelabelstyle" title="class in com.here.sdk.venue.style">VenueLabelStyle</a> labelStyle)</span></div>
+ <a href="sdk-for-android-navigate-venuelabelstyle" title="class in com.here.sdk.venue.style">VenueLabelStyle</a> labelStyle)</span></div>
 <div class="block"><p>Sets a custom style for geometries and related labels.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -172,9 +171,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-control-venue"
 <section class="detail" id="setCustomStyle(java.util.List,com.here.sdk.venue.style.VenueGeometryStyle)">
 <h3>setCustomStyle</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setCustomStyle</span><wbr/><span class="parameters">(@NonNull
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuetopology" title="class in com.here.sdk.venue.data">VenueTopology</a>&gt; topologies,
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-venuetopology" title="class in com.here.sdk.venue.data">VenueTopology</a>&gt; topologies,
  @Nullable
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuegeometrystyle" title="class in com.here.sdk.venue.style">VenueGeometryStyle</a> style)</span></div>
+ <a href="sdk-for-android-navigate-venuegeometrystyle" title="class in com.here.sdk.venue.style">VenueGeometryStyle</a> style)</span></div>
 <div class="block"><p>Sets a custom style for topologies.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -187,9 +186,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-control-venue"
 <section class="detail" id="setCustomStyleToCrosswalk(java.util.List,com.here.sdk.venue.style.VenueGeometryStyle)">
 <h3>setCustomStyleToCrosswalk</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setCustomStyleToCrosswalk</span><wbr/><span class="parameters">(@NonNull
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-crosswalk" title="class in com.here.sdk.venue.data">Crosswalk</a>&gt; crosswalks,
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-crosswalk" title="class in com.here.sdk.venue.data">Crosswalk</a>&gt; crosswalks,
  @Nullable
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuegeometrystyle" title="class in com.here.sdk.venue.style">VenueGeometryStyle</a> style)</span></div>
+ <a href="sdk-for-android-navigate-venuegeometrystyle" title="class in com.here.sdk.venue.style">VenueGeometryStyle</a> style)</span></div>
 <div class="block"><p>Sets a custom style for crosswalk.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -202,13 +201,13 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-control-venue"
 <section class="detail" id="getVenueModel()">
 <h3>getVenueModel</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuemodel" title="class in com.here.sdk.venue.data">VenueModel</a></span> <span class="element-name">getVenueModel</span>()</div>
-<div class="block"><p>Gets the <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuemodel" title="class in com.here.sdk.venue.data"><code>VenueModel</code></a> controlled by this object.
- </p><p>It can be used to get the <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuemodel" title="class in com.here.sdk.venue.data"><code>VenueModel</code></a>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-venuemodel" title="class in com.here.sdk.venue.data">VenueModel</a></span> <span class="element-name">getVenueModel</span>()</div>
+<div class="block"><p>Gets the <a href="sdk-for-android-navigate-venuemodel" title="class in com.here.sdk.venue.data"><code>VenueModel</code></a> controlled by this object.
+ </p><p>It can be used to get the <a href="sdk-for-android-navigate-venuemodel" title="class in com.here.sdk.venue.data"><code>VenueModel</code></a>
  belonging to this object, like a building or a complex of buildings.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
-<dd><p>The <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuemodel" title="class in com.here.sdk.venue.data"><code>VenueModel</code></a> controlled by this object.</p></dd>
+<dd><p>The <a href="sdk-for-android-navigate-venuemodel" title="class in com.here.sdk.venue.data"><code>VenueModel</code></a> controlled by this object.</p></dd>
 </dl>
 </section>
 </li>
@@ -216,14 +215,14 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-control-venue"
 <section class="detail" id="getVenueStyle()">
 <h3>getVenueStyle</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuestyle" title="class in com.here.sdk.venue.style">VenueStyle</a></span> <span class="element-name">getVenueStyle</span>()</div>
-<div class="block"><p>Gets the <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuestyle" title="class in com.here.sdk.venue.style"><code>VenueStyle</code></a> associated with the <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuemodel" title="class in com.here.sdk.venue.data"><code>VenueModel</code></a>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-venuestyle" title="class in com.here.sdk.venue.style">VenueStyle</a></span> <span class="element-name">getVenueStyle</span>()</div>
+<div class="block"><p>Gets the <a href="sdk-for-android-navigate-venuestyle" title="class in com.here.sdk.venue.style"><code>VenueStyle</code></a> associated with the <a href="sdk-for-android-navigate-venuemodel" title="class in com.here.sdk.venue.data"><code>VenueModel</code></a>
  controlled by this object.
  </p><p>It can be used to get the style of the venue. Contains the information about
  the geometry and label styles available for the venue.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
-<dd><p>The <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuestyle" title="class in com.here.sdk.venue.style"><code>VenueStyle</code></a> associated with the <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuemodel" title="class in com.here.sdk.venue.data"><code>VenueModel</code></a>
+<dd><p>The <a href="sdk-for-android-navigate-venuestyle" title="class in com.here.sdk.venue.style"><code>VenueStyle</code></a> associated with the <a href="sdk-for-android-navigate-venuemodel" title="class in com.here.sdk.venue.data"><code>VenueModel</code></a>
      controlled by this object.</p></dd>
 </dl>
 </section>
@@ -232,8 +231,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-control-venue"
 <section class="detail" id="getSelectedDrawing()">
 <h3>getSelectedDrawing</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuedrawing" title="class in com.here.sdk.venue.data">VenueDrawing</a></span> <span class="element-name">getSelectedDrawing</span>()</div>
-<div class="block"><p>Gets the currently selected <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuedrawing" title="class in com.here.sdk.venue.data"><code>VenueDrawing</code></a> of the <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuemodel" title="class in com.here.sdk.venue.data"><code>VenueModel</code></a>.
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-venuedrawing" title="class in com.here.sdk.venue.data">VenueDrawing</a></span> <span class="element-name">getSelectedDrawing</span>()</div>
+<div class="block"><p>Gets the currently selected <a href="sdk-for-android-navigate-venuedrawing" title="class in com.here.sdk.venue.data"><code>VenueDrawing</code></a> of the <a href="sdk-for-android-navigate-venuemodel" title="class in com.here.sdk.venue.data"><code>VenueModel</code></a>.
  </p><p>Only the selected drawing will be visible as active on the map. All others will be
  hidden or displayed without details, depending on the implementation of the renderer.</p></div>
 <dl class="notes">
@@ -246,8 +245,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-control-venue"
 <section class="detail" id="setSelectedDrawing(com.here.sdk.venue.data.VenueDrawing)">
 <h3>setSelectedDrawing</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setSelectedDrawing</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuedrawing" title="class in com.here.sdk.venue.data">VenueDrawing</a> value)</span></div>
-<div class="block"><p>Sets the selected <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuedrawing" title="class in com.here.sdk.venue.data"><code>VenueDrawing</code></a>.
+ <a href="sdk-for-android-navigate-venuedrawing" title="class in com.here.sdk.venue.data">VenueDrawing</a> value)</span></div>
+<div class="block"><p>Sets the selected <a href="sdk-for-android-navigate-venuedrawing" title="class in com.here.sdk.venue.data"><code>VenueDrawing</code></a>.
  </p><p>Only the selected drawing will be visible as active on the map. All others will be
  hidden or displayed without details, depending on the implementation of the renderer.</p></div>
 <dl class="notes">
@@ -260,8 +259,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-control-venue"
 <section class="detail" id="getSelectedLevel()">
 <h3>getSelectedLevel</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuelevel" title="class in com.here.sdk.venue.data">VenueLevel</a></span> <span class="element-name">getSelectedLevel</span>()</div>
-<div class="block"><p>Gets the currently selected <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuelevel" title="class in com.here.sdk.venue.data"><code>VenueLevel</code></a> from the selected <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuedrawing" title="class in com.here.sdk.venue.data"><code>VenueDrawing</code></a>.
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-venuelevel" title="class in com.here.sdk.venue.data">VenueLevel</a></span> <span class="element-name">getSelectedLevel</span>()</div>
+<div class="block"><p>Gets the currently selected <a href="sdk-for-android-navigate-venuelevel" title="class in com.here.sdk.venue.data"><code>VenueLevel</code></a> from the selected <a href="sdk-for-android-navigate-venuedrawing" title="class in com.here.sdk.venue.data"><code>VenueDrawing</code></a>.
  </p><p>Only the selected level will be visible as active on the map. All others will be
  hidden or displayed without details, depending on a renderer implementation.
  If the level doesn't belong to the currently selected drawing, it can not be selected.</p></div>
@@ -275,8 +274,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-control-venue"
 <section class="detail" id="setSelectedLevel(com.here.sdk.venue.data.VenueLevel)">
 <h3>setSelectedLevel</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setSelectedLevel</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuelevel" title="class in com.here.sdk.venue.data">VenueLevel</a> value)</span></div>
-<div class="block"><p>Sets the selected <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuelevel" title="class in com.here.sdk.venue.data"><code>VenueLevel</code></a> from the currently selected <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuedrawing" title="class in com.here.sdk.venue.data"><code>VenueDrawing</code></a>.
+ <a href="sdk-for-android-navigate-venuelevel" title="class in com.here.sdk.venue.data">VenueLevel</a> value)</span></div>
+<div class="block"><p>Sets the selected <a href="sdk-for-android-navigate-venuelevel" title="class in com.here.sdk.venue.data"><code>VenueLevel</code></a> from the currently selected <a href="sdk-for-android-navigate-venuedrawing" title="class in com.here.sdk.venue.data"><code>VenueDrawing</code></a>.
  </p><p>Only the selected level will be visible as active on the map. All others will be
  hidden or displayed without details, depending on a renderer implementation.
  If the level doesn't belong to the currently selected drawing, it can not be selected.</p></div>
@@ -290,13 +289,13 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-control-venue"
 <section class="detail" id="getSelectedLevelZIndex()">
 <h3>getSelectedLevelZIndex</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">int</span> <span class="element-name">getSelectedLevelZIndex</span>()</div>
-<div class="block"><p>Gets the Z index of the currently selected <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuelevel" title="class in com.here.sdk.venue.data"><code>VenueLevel</code></a>.
+<div class="block"><p>Gets the Z index of the currently selected <a href="sdk-for-android-navigate-venuelevel" title="class in com.here.sdk.venue.data"><code>VenueLevel</code></a>.
  </p><p>Z index 0 represents the ground level, negative values represent
  underground levels, positive values - levels above the ground.
- Z index can also be taken from <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuelevel#getZIndex()"><code>VenueLevel.getZIndex()</code></a>.</p></div>
+ Z index can also be taken from <a href="sdk-for-android-navigate-venuelevel#getZIndex()"><code>VenueLevel.getZIndex()</code></a>.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
-<dd><p>The Z index value of the <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuelevel" title="class in com.here.sdk.venue.data"><code>VenueLevel</code></a> selected.</p></dd>
+<dd><p>The Z index value of the <a href="sdk-for-android-navigate-venuelevel" title="class in com.here.sdk.venue.data"><code>VenueLevel</code></a> selected.</p></dd>
 </dl>
 </section>
 </li>
@@ -304,13 +303,13 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-control-venue"
 <section class="detail" id="setSelectedLevelZIndex(int)">
 <h3>setSelectedLevelZIndex</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setSelectedLevelZIndex</span><wbr/><span class="parameters">(int value)</span></div>
-<div class="block"><p>Sets the <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuelevel" title="class in com.here.sdk.venue.data"><code>VenueLevel</code></a> with the specified Z index as selected.
+<div class="block"><p>Sets the <a href="sdk-for-android-navigate-venuelevel" title="class in com.here.sdk.venue.data"><code>VenueLevel</code></a> with the specified Z index as selected.
  </p><p>Z index 0 represents the ground level, negative values represent
  underground levels, positive values - levels above the ground.
- Z index can also be taken from <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuelevel#getZIndex()"><code>VenueLevel.getZIndex()</code></a>.</p></div>
+ Z index can also be taken from <a href="sdk-for-android-navigate-venuelevel#getZIndex()"><code>VenueLevel.getZIndex()</code></a>.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
-<dd><code>value</code> - <p>The Z index value of the <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuelevel" title="class in com.here.sdk.venue.data"><code>VenueLevel</code></a> selected.</p></dd>
+<dd><code>value</code> - <p>The Z index value of the <a href="sdk-for-android-navigate-venuelevel" title="class in com.here.sdk.venue.data"><code>VenueLevel</code></a> selected.</p></dd>
 </dl>
 </section>
 </li>
@@ -318,14 +317,14 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-control-venue"
 <section class="detail" id="getSelectedLevelIndex()">
 <h3>getSelectedLevelIndex</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">int</span> <span class="element-name">getSelectedLevelIndex</span>()</div>
-<div class="block"><p>Gets the index of the currently selected <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuelevel" title="class in com.here.sdk.venue.data"><code>VenueLevel</code></a> in the level array
- of the related <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuedrawing" title="class in com.here.sdk.venue.data"><code>VenueDrawing</code></a>. The level array can be taken from
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuedrawing#getLevels()"><code>VenueDrawing.getLevels()</code></a>.
+<div class="block"><p>Gets the index of the currently selected <a href="sdk-for-android-navigate-venuelevel" title="class in com.here.sdk.venue.data"><code>VenueLevel</code></a> in the level array
+ of the related <a href="sdk-for-android-navigate-venuedrawing" title="class in com.here.sdk.venue.data"><code>VenueDrawing</code></a>. The level array can be taken from
+ <a href="sdk-for-android-navigate-venuedrawing#getLevels()"><code>VenueDrawing.getLevels()</code></a>.
  </p><p>Unlike the Z index, it can't have a negative value.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
-<dd><p>The index of the <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuelevel" title="class in com.here.sdk.venue.data"><code>VenueLevel</code></a> selected from the level array
-     of the <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuedrawing" title="class in com.here.sdk.venue.data"><code>VenueDrawing</code></a>.</p></dd>
+<dd><p>The index of the <a href="sdk-for-android-navigate-venuelevel" title="class in com.here.sdk.venue.data"><code>VenueLevel</code></a> selected from the level array
+     of the <a href="sdk-for-android-navigate-venuedrawing" title="class in com.here.sdk.venue.data"><code>VenueDrawing</code></a>.</p></dd>
 </dl>
 </section>
 </li>
@@ -333,13 +332,13 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-control-venue"
 <section class="detail" id="setSelectedLevelIndex(int)">
 <h3>setSelectedLevelIndex</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setSelectedLevelIndex</span><wbr/><span class="parameters">(int value)</span></div>
-<div class="block"><p>Sets the <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuelevel" title="class in com.here.sdk.venue.data"><code>VenueLevel</code></a> with the specified index from the level array
- of the <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuedrawing" title="class in com.here.sdk.venue.data"><code>VenueDrawing</code></a> as selected.
+<div class="block"><p>Sets the <a href="sdk-for-android-navigate-venuelevel" title="class in com.here.sdk.venue.data"><code>VenueLevel</code></a> with the specified index from the level array
+ of the <a href="sdk-for-android-navigate-venuedrawing" title="class in com.here.sdk.venue.data"><code>VenueDrawing</code></a> as selected.
  </p><p>Unlike the Z index, it can't have a negative value.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
-<dd><code>value</code> - <p>The index of the <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuelevel" title="class in com.here.sdk.venue.data"><code>VenueLevel</code></a> selected from the level array
-     of the <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuedrawing" title="class in com.here.sdk.venue.data"><code>VenueDrawing</code></a>.</p></dd>
+<dd><code>value</code> - <p>The index of the <a href="sdk-for-android-navigate-venuelevel" title="class in com.here.sdk.venue.data"><code>VenueLevel</code></a> selected from the level array
+     of the <a href="sdk-for-android-navigate-venuedrawing" title="class in com.here.sdk.venue.data"><code>VenueDrawing</code></a>.</p></dd>
 </dl>
 </section>
 </li>

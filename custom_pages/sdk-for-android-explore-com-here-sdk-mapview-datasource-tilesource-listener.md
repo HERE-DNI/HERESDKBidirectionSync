@@ -7,7 +7,6 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-listen
 `
 <div class="sdk-for-android">
 <!-- TileSource.Listener.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,17 +19,17 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-listen
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-package-summary">com.here.sdk.mapview.datasource</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-package-summary">com.here.sdk.mapview.datasource</a></div>
 
 </div>
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>Enclosing interface:</dt>
-<dd><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-tilesource" title="interface in com.here.sdk.mapview.datasource">TileSource</a></dd>
+<dd><a href="sdk-for-android-explore-tilesource" title="interface in com.here.sdk.mapview.datasource">TileSource</a></dd>
 </dl>
 <hr/>
 <div class="type-signature"><span class="modifiers">public static interface </span><span class="element-name type-name-label">TileSource.Listener</span></div>
-<div class="block"><p>Listener of <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-tilesource" title="interface in com.here.sdk.mapview.datasource"><code>TileSource</code></a> events.</p></div>
+<div class="block"><p>Listener of <a href="sdk-for-android-explore-tilesource" title="interface in com.here.sdk.mapview.datasource"><code>TileSource</code></a> events.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -46,7 +45,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-listen
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#onDataVersionChanged(com.here.sdk.mapview.datasource.TileSource.DataVersion)">onDataVersionChanged</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-tilesource.dataversion" title="class in com.here.sdk.mapview.datasource">TileSource.DataVersion</a> dataVersion)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-index#onDataVersionChanged(com.here.sdk.mapview.datasource.TileSource.DataVersion)">onDataVersionChanged</a><wbr/>(<a href="sdk-for-android-explore-tilesource.dataversion" title="class in com.here.sdk.mapview.datasource">TileSource.DataVersion</a> dataVersion)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Called when tile source data version changes.</div>
 </div>
@@ -68,7 +67,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-listen
 <section class="detail" id="onDataVersionChanged(com.here.sdk.mapview.datasource.TileSource.DataVersion)">
 <h3>onDataVersionChanged</h3>
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">onDataVersionChanged</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-tilesource.dataversion" title="class in com.here.sdk.mapview.datasource">TileSource.DataVersion</a> dataVersion)</span></div>
+ <a href="sdk-for-android-explore-tilesource.dataversion" title="class in com.here.sdk.mapview.datasource">TileSource.DataVersion</a> dataVersion)</span></div>
 <div class="block"><p>Called when tile source data version changes.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-roadsigncategory"
 `
 <div class="sdk-for-android">
 <!-- RoadSignCategory.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,22 +19,22 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-roadsigncategory"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.navigation</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-navigation-package-summary">com.here.sdk.navigation</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">java.lang.Enum</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-roadsigncategory" title="enum class in com.here.sdk.navigation">RoadSignCategory</a>&gt;
+<div class="inheritance"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">java.lang.Enum</a>&lt;<a href="sdk-for-android-navigate-roadsigncategory" title="enum class in com.here.sdk.navigation">RoadSignCategory</a>&gt;
 <div class="inheritance">com.here.sdk.navigation.RoadSignCategory</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>All Implemented Interfaces:</dt>
-<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" title="class or interface in java.io">Serializable</a></code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" title="class or interface in java.lang">Comparable</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-roadsigncategory" title="enum class in com.here.sdk.navigation">RoadSignCategory</a>&gt;</code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" title="class or interface in java.lang.constant">Constable</a></code></dd>
+<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" title="class or interface in java.io">Serializable</a></code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" title="class or interface in java.lang">Comparable</a>&lt;<a href="sdk-for-android-navigate-roadsigncategory" title="enum class in com.here.sdk.navigation">RoadSignCategory</a>&gt;</code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" title="class or interface in java.lang.constant">Constable</a></code></dd>
 </dl>
 <hr/>
 <div class="type-signature"><span class="modifiers">public enum </span><span class="element-name type-name-label">RoadSignCategory</span>
-<span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-roadsigncategory" title="enum class in com.here.sdk.navigation">RoadSignCategory</a>&gt;</span></div>
+<span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a href="sdk-for-android-navigate-roadsigncategory" title="enum class in com.here.sdk.navigation">RoadSignCategory</a>&gt;</span></div>
 <div class="block"><p>Road sign category defining a general purpose of the sign.</p></div>
 </section>
 <section class="summary">
@@ -57,19 +56,19 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-roadsigncategory"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Enum Constant</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#INFORMATIVE_SIGN">INFORMATIVE_SIGN</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#INFORMATIVE_SIGN">INFORMATIVE_SIGN</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Informative sign category.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#REGULATORY_SIGN">REGULATORY_SIGN</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#REGULATORY_SIGN">REGULATORY_SIGN</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Regulatory sign category.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#UNKNOWN">UNKNOWN</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#UNKNOWN">UNKNOWN</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Unknown road sign category.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#WARNING_SIGN">WARNING_SIGN</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#WARNING_SIGN">WARNING_SIGN</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Warning sign category.</div>
 </div>
@@ -87,13 +86,13 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-roadsigncategory"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-roadsigncategory" title="enum class in com.here.sdk.navigation">RoadSignCategory</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-roadsigncategory" title="enum class in com.here.sdk.navigation">RoadSignCategory</a></code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-roadsigncategory" title="enum class in com.here.sdk.navigation">RoadSignCategory</a>[]</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#values()">values</a>()</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-roadsigncategory" title="enum class in com.here.sdk.navigation">RoadSignCategory</a>[]</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
@@ -121,28 +120,28 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="UNKNOWN">
 <h3>UNKNOWN</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-roadsigncategory" title="enum class in com.here.sdk.navigation">RoadSignCategory</a></span> <span class="element-name">UNKNOWN</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-roadsigncategory" title="enum class in com.here.sdk.navigation">RoadSignCategory</a></span> <span class="element-name">UNKNOWN</span></div>
 <div class="block"><p>Unknown road sign category.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="REGULATORY_SIGN">
 <h3>REGULATORY_SIGN</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-roadsigncategory" title="enum class in com.here.sdk.navigation">RoadSignCategory</a></span> <span class="element-name">REGULATORY_SIGN</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-roadsigncategory" title="enum class in com.here.sdk.navigation">RoadSignCategory</a></span> <span class="element-name">REGULATORY_SIGN</span></div>
 <div class="block"><p>Regulatory sign category.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="INFORMATIVE_SIGN">
 <h3>INFORMATIVE_SIGN</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-roadsigncategory" title="enum class in com.here.sdk.navigation">RoadSignCategory</a></span> <span class="element-name">INFORMATIVE_SIGN</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-roadsigncategory" title="enum class in com.here.sdk.navigation">RoadSignCategory</a></span> <span class="element-name">INFORMATIVE_SIGN</span></div>
 <div class="block"><p>Informative sign category.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="WARNING_SIGN">
 <h3>WARNING_SIGN</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-roadsigncategory" title="enum class in com.here.sdk.navigation">RoadSignCategory</a></span> <span class="element-name">WARNING_SIGN</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-roadsigncategory" title="enum class in com.here.sdk.navigation">RoadSignCategory</a></span> <span class="element-name">WARNING_SIGN</span></div>
 <div class="block"><p>Warning sign category.</p></div>
 </section>
 </li>
@@ -157,7 +156,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="values()">
 <h3>values</h3>
-<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-roadsigncategory" title="enum class in com.here.sdk.navigation">RoadSignCategory</a>[]</span> <span class="element-name">values</span>()</div>
+<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-navigate-roadsigncategory" title="enum class in com.here.sdk.navigation">RoadSignCategory</a>[]</span> <span class="element-name">values</span>()</div>
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
 <dl class="notes">
@@ -169,7 +168,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="valueOf(java.lang.String)">
 <h3>valueOf</h3>
-<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-roadsigncategory" title="enum class in com.here.sdk.navigation">RoadSignCategory</a></span> <span class="element-name">valueOf</span><wbr/><span class="parameters">(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</span></div>
+<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-navigate-roadsigncategory" title="enum class in com.here.sdk.navigation">RoadSignCategory</a></span> <span class="element-name">valueOf</span><wbr/><span class="parameters">(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</span></div>
 <div class="block">Returns the enum constant of this class with the specified name.
 The string must match <i>exactly</i> an identifier used to declare an
 enum constant in this class.  (Extraneous whitespace characters are 

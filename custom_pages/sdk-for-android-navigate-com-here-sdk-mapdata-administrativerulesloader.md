@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-administrativerulesloader"
 `
 <div class="sdk-for-android">
 <!-- AdministrativeRulesLoader.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,18 +19,18 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-administrativerulesloader"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.mapdata</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-mapdata-package-summary">com.here.sdk.mapdata</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-nativebase" title="class in com.here">com.here.NativeBase</a>
+<div class="inheritance"><a href="sdk-for-android-navigate-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.mapdata.AdministrativeRulesLoader</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 <hr/>
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">AdministrativeRulesLoader</span>
-<span class="extends-implements">extends <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-nativebase" title="class in com.here">NativeBase</a></span></div>
+<span class="extends-implements">extends <a href="sdk-for-android-navigate-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>Provides the interface for the access to the administrative rules available
  for a country or a state in the local OCM map. Please be aware that the methods within this
  classload map data synchronously. In the event of absent data in the disk cache, the data
@@ -50,11 +49,11 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-administrativerulesloader"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#%3Cinit%3E()">AdministrativeRulesLoader</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E()">AdministrativeRulesLoader</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance of this class.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.core.engine.SDKNativeEngine)">AdministrativeRulesLoader</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> sdkEngine)</code></div>
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.core.engine.SDKNativeEngine)">AdministrativeRulesLoader</a><wbr/>(<a href="sdk-for-android-navigate-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> sdkEngine)</code></div>
 <div class="col-last odd-row-color">
 <div class="block">Creates a new instance of this class.</div>
 </div>
@@ -72,14 +71,14 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-administrativerulesloader"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-administrativerules" title="class in com.here.sdk.mapdata">AdministrativeRules</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#getAdministrativeRules(com.here.sdk.core.CountryCode,java.lang.String)">getAdministrativeRules</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-countrycode" title="enum class in com.here.sdk.core">CountryCode</a> countryCode,
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-administrativerules" title="class in com.here.sdk.mapdata">AdministrativeRules</a></code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getAdministrativeRules(com.here.sdk.core.CountryCode,java.lang.String)">getAdministrativeRules</a><wbr/>(<a href="sdk-for-android-navigate-countrycode" title="enum class in com.here.sdk.core">CountryCode</a> countryCode,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> stateCode)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Synchronously load the administrative rules for the specified country and state.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a>&gt;</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#getStateCodes(com.here.sdk.core.CountryCode)">getStateCodes</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-countrycode" title="enum class in com.here.sdk.core">CountryCode</a> countryCode)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getStateCodes(com.here.sdk.core.CountryCode)">getStateCodes</a><wbr/>(<a href="sdk-for-android-navigate-countrycode" title="enum class in com.here.sdk.core">CountryCode</a> countryCode)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Synchronously loads the list of state codes from a specified country for which
  administrative rules are availabe.</div>
@@ -105,11 +104,11 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-administrativerulesloader"
 <section class="detail" id="&lt;init&gt;()">
 <h3>AdministrativeRulesLoader</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">AdministrativeRulesLoader</span>()
-                          throws <span class="exceptions"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></span></div>
+                          throws <span class="exceptions"><a href="sdk-for-android-navigate-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></span></div>
 <div class="block"><p>Creates a new instance of this class.</p></div>
 <dl class="notes">
 <dt>Throws:</dt>
-<dd><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></code> - <p>Indicates what went wrong when the instantiation was attempted.</p></dd>
+<dd><code><a href="sdk-for-android-navigate-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></code> - <p>Indicates what went wrong when the instantiation was attempted.</p></dd>
 </dl>
 </section>
 </li>
@@ -117,14 +116,14 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-administrativerulesloader"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.core.engine.SDKNativeEngine)">
 <h3>AdministrativeRulesLoader</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">AdministrativeRulesLoader</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> sdkEngine)</span>
-                          throws <span class="exceptions"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></span></div>
+ <a href="sdk-for-android-navigate-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> sdkEngine)</span>
+                          throws <span class="exceptions"><a href="sdk-for-android-navigate-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></span></div>
 <div class="block"><p>Creates a new instance of this class.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>sdkEngine</code> - <p>A SDKEngine instance.</p></dd>
 <dt>Throws:</dt>
-<dd><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></code> - <p>Indicates what went wrong when the instantiation was attempted.</p></dd>
+<dd><code><a href="sdk-for-android-navigate-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></code> - <p>Indicates what went wrong when the instantiation was attempted.</p></dd>
 </dl>
 </section>
 </li>
@@ -141,8 +140,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-administrativerulesloader"
 <h3>getStateCodes</h3>
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a>&gt;</span> <span class="element-name">getStateCodes</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-countrycode" title="enum class in com.here.sdk.core">CountryCode</a> countryCode)</span>
-                           throws <span class="exceptions"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapdataloaderexception" title="class in com.here.sdk.mapdata">MapDataLoaderException</a></span></div>
+ <a href="sdk-for-android-navigate-countrycode" title="enum class in com.here.sdk.core">CountryCode</a> countryCode)</span>
+                           throws <span class="exceptions"><a href="sdk-for-android-navigate-mapdataloaderexception" title="class in com.here.sdk.mapdata">MapDataLoaderException</a></span></div>
 <div class="block"><p>Synchronously loads the list of state codes from a specified country for which
  administrative rules are availabe. These state codes can then be used to get specific
  administrative rules for a specified state using the <code>get_administrative_rules()</code> method.
@@ -156,7 +155,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-administrativerulesloader"
      are available.
      Throws if it's not possible to return the list of state codes.</p></dd>
 <dt>Throws:</dt>
-<dd><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapdataloaderexception" title="class in com.here.sdk.mapdata">MapDataLoaderException</a></code> - <p>Specifies reason, why the list of state codes was not returned.</p></dd>
+<dd><code><a href="sdk-for-android-navigate-mapdataloaderexception" title="class in com.here.sdk.mapdata">MapDataLoaderException</a></code> - <p>Specifies reason, why the list of state codes was not returned.</p></dd>
 </dl>
 </section>
 </li>
@@ -164,17 +163,17 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-administrativerulesloader"
 <section class="detail" id="getAdministrativeRules(com.here.sdk.core.CountryCode,java.lang.String)">
 <h3>getAdministrativeRules</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-administrativerules" title="class in com.here.sdk.mapdata">AdministrativeRules</a></span> <span class="element-name">getAdministrativeRules</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-countrycode" title="enum class in com.here.sdk.core">CountryCode</a> countryCode,
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-administrativerules" title="class in com.here.sdk.mapdata">AdministrativeRules</a></span> <span class="element-name">getAdministrativeRules</span><wbr/><span class="parameters">(@NonNull
+ <a href="sdk-for-android-navigate-countrycode" title="enum class in com.here.sdk.core">CountryCode</a> countryCode,
  @Nullable
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> stateCode)</span>
-                                           throws <span class="exceptions"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapdataloaderexception" title="class in com.here.sdk.mapdata">MapDataLoaderException</a></span></div>
+                                           throws <span class="exceptions"><a href="sdk-for-android-navigate-mapdataloaderexception" title="class in com.here.sdk.mapdata">MapDataLoaderException</a></span></div>
 <div class="block"><p>Synchronously load the administrative rules for the specified country and state.
  <strong>Note:</strong> The <code>state_code</code> parameter can be set to <code>null</code>. In this case, even if the country has multiple states, each with
- their own administrative rules, an <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-administrativerules" title="class in com.here.sdk.mapdata"><code>AdministrativeRules</code></a> object will be returned, containing the administrative
+ their own administrative rules, an <a href="sdk-for-android-navigate-administrativerules" title="class in com.here.sdk.mapdata"><code>AdministrativeRules</code></a> object will be returned, containing the administrative
  rules valid for the entire country. These rules can however be overwritten by the state rules when the driver is in that
  specific state, so it is recommended to always retrieve the rules for a specific state for higher accuracy.
- Returns an <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-administrativerules" title="class in com.here.sdk.mapdata"><code>AdministrativeRules</code></a> object which contains the administrative rules for the specified country and
+ Returns an <a href="sdk-for-android-navigate-administrativerules" title="class in com.here.sdk.mapdata"><code>AdministrativeRules</code></a> object which contains the administrative rules for the specified country and
  state.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -183,7 +182,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-administrativerulesloader"
 <dt>Returns:</dt>
 <dd><p>Requested administrative rules for the country and the state specified.</p></dd>
 <dt>Throws:</dt>
-<dd><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapdataloaderexception" title="class in com.here.sdk.mapdata">MapDataLoaderException</a></code> - <p>Specifies reason, why the administrative rules were not retrieved.</p></dd>
+<dd><code><a href="sdk-for-android-navigate-mapdataloaderexception" title="class in com.here.sdk.mapdata">MapDataLoaderException</a></code> - <p>Specifies reason, why the administrative rules were not retrieved.</p></dd>
 </dl>
 </section>
 </li>

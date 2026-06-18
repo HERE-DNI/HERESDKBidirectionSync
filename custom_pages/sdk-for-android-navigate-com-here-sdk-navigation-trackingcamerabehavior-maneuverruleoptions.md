@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior-m
 `
 <div class="sdk-for-android">
 <!-- TrackingCameraBehavior.ManeuverRuleOptions.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,7 +19,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior-m
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.navigation</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-navigation-package-summary">com.here.sdk.navigation</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -29,12 +28,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior-m
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>Enclosing class:</dt>
-<dd><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-trackingcamerabehavior" title="class in com.here.sdk.navigation">TrackingCameraBehavior</a></dd>
+<dd><a href="sdk-for-android-navigate-trackingcamerabehavior" title="class in com.here.sdk.navigation">TrackingCameraBehavior</a></dd>
 </dl>
 <hr/>
 <div class="type-signature"><span class="modifiers">public static final class </span><span class="element-name type-name-label">TrackingCameraBehavior.ManeuverRuleOptions</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
-<div class="block"><p>Defines a set of configurations specific to a <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-trackingcamerabehavior.maneuverrule" title="class in com.here.sdk.navigation"><code>TrackingCameraBehavior.ManeuverRule</code></a>.</p></div>
+<div class="block"><p>Defines a set of configurations specific to a <a href="sdk-for-android-navigate-trackingcamerabehavior.maneuverrule" title="class in com.here.sdk.navigation"><code>TrackingCameraBehavior.ManeuverRule</code></a>.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -48,23 +47,23 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior-m
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>double</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#earlyPreManeuverActivationThresholdInMeters">earlyPreManeuverActivationThresholdInMeters</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#earlyPreManeuverActivationThresholdInMeters">earlyPreManeuverActivationThresholdInMeters</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Distance in meters for early activation.</div>
 </div>
 <div class="col-first odd-row-color"><code>double</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#postManeuverActivationThresholdInMeters">postManeuverActivationThresholdInMeters</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#postManeuverActivationThresholdInMeters">postManeuverActivationThresholdInMeters</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Distance in meters after the previous maneuver point within which this rule remains
  active.</div>
 </div>
 <div class="col-first even-row-color"><code>double</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#preManeuverActivationThresholdInMeters">preManeuverActivationThresholdInMeters</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#preManeuverActivationThresholdInMeters">preManeuverActivationThresholdInMeters</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Distance in meters before the next maneuver point within which this rule becomes active.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-trackingcamerabehavior.maneuverzoomrange" title="class in com.here.sdk.navigation">TrackingCameraBehavior.ManeuverZoomRange</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#zoomRange">zoomRange</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-trackingcamerabehavior.maneuverzoomrange" title="class in com.here.sdk.navigation">TrackingCameraBehavior.ManeuverZoomRange</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#zoomRange">zoomRange</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The zoom range for this rule.</div>
 </div>
@@ -79,7 +78,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior-m
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#%3Cinit%3E()">ManeuverRuleOptions</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E()">ManeuverRuleOptions</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -108,9 +107,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior-m
 <section class="detail" id="zoomRange">
 <h3>zoomRange</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-trackingcamerabehavior.maneuverzoomrange" title="class in com.here.sdk.navigation">TrackingCameraBehavior.ManeuverZoomRange</a></span> <span class="element-name">zoomRange</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-trackingcamerabehavior.maneuverzoomrange" title="class in com.here.sdk.navigation">TrackingCameraBehavior.ManeuverZoomRange</a></span> <span class="element-name">zoomRange</span></div>
 <div class="block"><p>The zoom range for this rule. Defines the minimum and maximum zoom levels.
- Defaults to a default-constructed <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-trackingcamerabehavior.maneuverzoomrange" title="class in com.here.sdk.navigation"><code>TrackingCameraBehavior.ManeuverZoomRange</code></a>.</p></div>
+ Defaults to a default-constructed <a href="sdk-for-android-navigate-trackingcamerabehavior.maneuverzoomrange" title="class in com.here.sdk.navigation"><code>TrackingCameraBehavior.ManeuverZoomRange</code></a>.</p></div>
 </section>
 </li>
 <li>
@@ -118,7 +117,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior-m
 <h3>earlyPreManeuverActivationThresholdInMeters</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">double</span> <span class="element-name">earlyPreManeuverActivationThresholdInMeters</span></div>
 <div class="block"><p>Distance in meters for early activation. If the current position enters this threshold
- of the upcoming maneuver while still within <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#postManeuverActivationThresholdInMeters"><code>postManeuverActivationThresholdInMeters</code></a>
+ of the upcoming maneuver while still within <a href="sdk-for-android-navigate-index#postManeuverActivationThresholdInMeters"><code>postManeuverActivationThresholdInMeters</code></a>
  of the previous maneuver, the camera behaves as though it were already in the upcoming
  maneuver's pre-activation zone. Must be non-negative. Defaults to 0.0.</p></div>
 </section>

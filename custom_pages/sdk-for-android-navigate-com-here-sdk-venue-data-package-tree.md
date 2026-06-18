@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-data-package-tree"
 `
 <div class="sdk-for-android">
 <!-- package-tree.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -22,7 +21,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-data-package-tree"
 
 <span class="package-hierarchy-label">Package Hierarchies:</span>
 <ul class="horizontal">
-<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-overview-tree">All Packages</a></li>
+<li><a href="sdk-for-android-navigate-overview-tree">All Packages</a></li>
 </ul>
 </div>
 <section class="hierarchy">
@@ -30,18 +29,18 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-data-package-tree"
 <ul>
 <li class="circle">java.lang.<a class="type-name-link external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a>
 <ul>
-<li class="circle">com.here.<a class="type-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-com-here-nativebase" title="class in com.here">NativeBase</a>
+<li class="circle">com.here.<a class="type-name-link" href="sdk-for-android-navigate-nativebase" title="class in com.here">NativeBase</a>
 <ul>
-<li class="circle">com.here.sdk.venue.data.<a class="type-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-com-here-sdk-venue-data-crosswalk" title="class in com.here.sdk.venue.data">Crosswalk</a></li>
-<li class="circle">com.here.sdk.venue.data.<a class="type-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-com-here-sdk-venue-data-property" title="class in com.here.sdk.venue.data">Property</a></li>
-<li class="circle">com.here.sdk.venue.data.<a class="type-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-com-here-sdk-venue-data-venuedrawing" title="class in com.here.sdk.venue.data">VenueDrawing</a></li>
-<li class="circle">com.here.sdk.venue.data.<a class="type-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-com-here-sdk-venue-data-venuegeometry" title="class in com.here.sdk.venue.data">VenueGeometry</a></li>
-<li class="circle">com.here.sdk.venue.data.<a class="type-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-com-here-sdk-venue-data-venuegeometry.internaladdress" title="class in com.here.sdk.venue.data">VenueGeometry.InternalAddress</a></li>
-<li class="circle">com.here.sdk.venue.data.<a class="type-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-com-here-sdk-venue-data-venueinfo" title="class in com.here.sdk.venue.data">VenueInfo</a></li>
-<li class="circle">com.here.sdk.venue.data.<a class="type-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-com-here-sdk-venue-data-venuelevel" title="class in com.here.sdk.venue.data">VenueLevel</a></li>
-<li class="circle">com.here.sdk.venue.data.<a class="type-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-com-here-sdk-venue-data-venuemodel" title="class in com.here.sdk.venue.data">VenueModel</a></li>
-<li class="circle">com.here.sdk.venue.data.<a class="type-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-com-here-sdk-venue-data-venuetopology" title="class in com.here.sdk.venue.data">VenueTopology</a></li>
-<li class="circle">com.here.sdk.venue.data.<a class="type-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-com-here-sdk-venue-data-venuetopology.accesscharacteristics" title="class in com.here.sdk.venue.data">VenueTopology.AccessCharacteristics</a></li>
+<li class="circle">com.here.sdk.venue.data.<a class="type-name-link" href="sdk-for-android-navigate-crosswalk" title="class in com.here.sdk.venue.data">Crosswalk</a></li>
+<li class="circle">com.here.sdk.venue.data.<a class="type-name-link" href="sdk-for-android-navigate-property" title="class in com.here.sdk.venue.data">Property</a></li>
+<li class="circle">com.here.sdk.venue.data.<a class="type-name-link" href="sdk-for-android-navigate-venuedrawing" title="class in com.here.sdk.venue.data">VenueDrawing</a></li>
+<li class="circle">com.here.sdk.venue.data.<a class="type-name-link" href="sdk-for-android-navigate-venuegeometry" title="class in com.here.sdk.venue.data">VenueGeometry</a></li>
+<li class="circle">com.here.sdk.venue.data.<a class="type-name-link" href="sdk-for-android-navigate-venuegeometry.internaladdress" title="class in com.here.sdk.venue.data">VenueGeometry.InternalAddress</a></li>
+<li class="circle">com.here.sdk.venue.data.<a class="type-name-link" href="sdk-for-android-navigate-venueinfo" title="class in com.here.sdk.venue.data">VenueInfo</a></li>
+<li class="circle">com.here.sdk.venue.data.<a class="type-name-link" href="sdk-for-android-navigate-venuelevel" title="class in com.here.sdk.venue.data">VenueLevel</a></li>
+<li class="circle">com.here.sdk.venue.data.<a class="type-name-link" href="sdk-for-android-navigate-venuemodel" title="class in com.here.sdk.venue.data">VenueModel</a></li>
+<li class="circle">com.here.sdk.venue.data.<a class="type-name-link" href="sdk-for-android-navigate-venuetopology" title="class in com.here.sdk.venue.data">VenueTopology</a></li>
+<li class="circle">com.here.sdk.venue.data.<a class="type-name-link" href="sdk-for-android-navigate-venuetopology.accesscharacteristics" title="class in com.here.sdk.venue.data">VenueTopology.AccessCharacteristics</a></li>
 </ul>
 </li>
 </ul>
@@ -55,12 +54,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-data-package-tree"
 <ul>
 <li class="circle">java.lang.<a class="type-name-link external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;E&gt; (implements java.lang.<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" title="class or interface in java.lang">Comparable</a>&lt;T&gt;, java.lang.constant.<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" title="class or interface in java.lang.constant">Constable</a>, java.io.<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" title="class or interface in java.io">Serializable</a>)
 <ul>
-<li class="circle">com.here.sdk.venue.data.<a class="type-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-com-here-sdk-venue-data-crosswalk.classificationstyle" title="enum class in com.here.sdk.venue.data">Crosswalk.ClassificationStyle</a></li>
-<li class="circle">com.here.sdk.venue.data.<a class="type-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-com-here-sdk-venue-data-property.propertytype" title="enum class in com.here.sdk.venue.data">Property.PropertyType</a></li>
-<li class="circle">com.here.sdk.venue.data.<a class="type-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-com-here-sdk-venue-data-venuegeometry.geometrytype" title="enum class in com.here.sdk.venue.data">VenueGeometry.GeometryType</a></li>
-<li class="circle">com.here.sdk.venue.data.<a class="type-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-com-here-sdk-venue-data-venuegeometry.lookuptype" title="enum class in com.here.sdk.venue.data">VenueGeometry.LookupType</a></li>
-<li class="circle">com.here.sdk.venue.data.<a class="type-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-com-here-sdk-venue-data-venuegeometryfiltertype" title="enum class in com.here.sdk.venue.data">VenueGeometryFilterType</a></li>
-<li class="circle">com.here.sdk.venue.data.<a class="type-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-com-here-sdk-venue-data-venuetopology.topologydirectionality" title="enum class in com.here.sdk.venue.data">VenueTopology.TopologyDirectionality</a></li>
+<li class="circle">com.here.sdk.venue.data.<a class="type-name-link" href="sdk-for-android-navigate-crosswalk.classificationstyle" title="enum class in com.here.sdk.venue.data">Crosswalk.ClassificationStyle</a></li>
+<li class="circle">com.here.sdk.venue.data.<a class="type-name-link" href="sdk-for-android-navigate-property.propertytype" title="enum class in com.here.sdk.venue.data">Property.PropertyType</a></li>
+<li class="circle">com.here.sdk.venue.data.<a class="type-name-link" href="sdk-for-android-navigate-venuegeometry.geometrytype" title="enum class in com.here.sdk.venue.data">VenueGeometry.GeometryType</a></li>
+<li class="circle">com.here.sdk.venue.data.<a class="type-name-link" href="sdk-for-android-navigate-venuegeometry.lookuptype" title="enum class in com.here.sdk.venue.data">VenueGeometry.LookupType</a></li>
+<li class="circle">com.here.sdk.venue.data.<a class="type-name-link" href="sdk-for-android-navigate-venuegeometryfiltertype" title="enum class in com.here.sdk.venue.data">VenueGeometryFilterType</a></li>
+<li class="circle">com.here.sdk.venue.data.<a class="type-name-link" href="sdk-for-android-navigate-venuetopology.topologydirectionality" title="enum class in com.here.sdk.venue.data">VenueTopology.TopologyDirectionality</a></li>
 </ul>
 </li>
 </ul>

@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-transport-transportspecification-pe
 `
 <div class="sdk-for-android">
 <!-- TransportSpecification.PedestrianBuilder.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,23 +19,23 @@ slug: "sdk-for-android-navigate-com-here-sdk-transport-transportspecification-pe
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.transport</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-transport-package-summary">com.here.sdk.transport</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-nativebase" title="class in com.here">com.here.NativeBase</a>
+<div class="inheritance"><a href="sdk-for-android-navigate-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.transport.TransportSpecification.PedestrianBuilder</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>Enclosing class:</dt>
-<dd><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-transportspecification" title="class in com.here.sdk.transport">TransportSpecification</a></dd>
+<dd><a href="sdk-for-android-navigate-transportspecification" title="class in com.here.sdk.transport">TransportSpecification</a></dd>
 </dl>
 <hr/>
 <div class="type-signature"><span class="modifiers">public static final class </span><span class="element-name type-name-label">TransportSpecification.PedestrianBuilder</span>
-<span class="extends-implements">extends <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-nativebase" title="class in com.here">NativeBase</a></span></div>
-<div class="block"><p>This class constructs a <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a> for pedestrian.</p></div>
+<span class="extends-implements">extends <a href="sdk-for-android-navigate-nativebase" title="class in com.here">NativeBase</a></span></div>
+<div class="block"><p>This class constructs a <a href="sdk-for-android-navigate-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a> for pedestrian.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -48,7 +47,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-transport-transportspecification-pe
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#%3Cinit%3E()">PedestrianBuilder</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E()">PedestrianBuilder</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance of this class.</div>
 </div>
@@ -66,14 +65,14 @@ slug: "sdk-for-android-navigate-com-here-sdk-transport-transportspecification-pe
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-transportspecification" title="class in com.here.sdk.transport">TransportSpecification</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#build()">build</a>()</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-transportspecification" title="class in com.here.sdk.transport">TransportSpecification</a></code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#build()">build</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
-<div class="block">Builds the <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a> object for a pedestrian profile with the specifications taken
- from the <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-transportspecification.pedestrianbuilder" title="class in com.here.sdk.transport"><code>TransportSpecification.PedestrianBuilder</code></a> object.</div>
+<div class="block">Builds the <a href="sdk-for-android-navigate-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a> object for a pedestrian profile with the specifications taken
+ from the <a href="sdk-for-android-navigate-transportspecification.pedestrianbuilder" title="class in com.here.sdk.transport"><code>TransportSpecification.PedestrianBuilder</code></a> object.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-transportspecification.pedestrianbuilder" title="class in com.here.sdk.transport">TransportSpecification.PedestrianBuilder</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#withPedestrianSpecification(com.here.sdk.transport.PedestrianSpecification)">withPedestrianSpecification</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-pedestrianspecification" title="class in com.here.sdk.transport">PedestrianSpecification</a> pedestrianSpecification)</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-transportspecification.pedestrianbuilder" title="class in com.here.sdk.transport">TransportSpecification.PedestrianBuilder</a></code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#withPedestrianSpecification(com.here.sdk.transport.PedestrianSpecification)">withPedestrianSpecification</a><wbr/>(<a href="sdk-for-android-navigate-pedestrianspecification" title="class in com.here.sdk.transport">PedestrianSpecification</a> pedestrianSpecification)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the pedestrian specification.</div>
 </div>
@@ -113,14 +112,14 @@ slug: "sdk-for-android-navigate-com-here-sdk-transport-transportspecification-pe
 <section class="detail" id="withPedestrianSpecification(com.here.sdk.transport.PedestrianSpecification)">
 <h3>withPedestrianSpecification</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-transportspecification.pedestrianbuilder" title="class in com.here.sdk.transport">TransportSpecification.PedestrianBuilder</a></span> <span class="element-name">withPedestrianSpecification</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-pedestrianspecification" title="class in com.here.sdk.transport">PedestrianSpecification</a> pedestrianSpecification)</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-transportspecification.pedestrianbuilder" title="class in com.here.sdk.transport">TransportSpecification.PedestrianBuilder</a></span> <span class="element-name">withPedestrianSpecification</span><wbr/><span class="parameters">(@NonNull
+ <a href="sdk-for-android-navigate-pedestrianspecification" title="class in com.here.sdk.transport">PedestrianSpecification</a> pedestrianSpecification)</span></div>
 <div class="block"><p>Sets the pedestrian specification.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>pedestrianSpecification</code> - <p>The pedestrian specification.</p></dd>
 <dt>Returns:</dt>
-<dd><p>The <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-transportspecification.pedestrianbuilder" title="class in com.here.sdk.transport"><code>TransportSpecification.PedestrianBuilder</code></a> object with the pedestrian specification set to the new value.</p></dd>
+<dd><p>The <a href="sdk-for-android-navigate-transportspecification.pedestrianbuilder" title="class in com.here.sdk.transport"><code>TransportSpecification.PedestrianBuilder</code></a> object with the pedestrian specification set to the new value.</p></dd>
 </dl>
 </section>
 </li>
@@ -128,12 +127,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-transport-transportspecification-pe
 <section class="detail" id="build()">
 <h3>build</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-transportspecification" title="class in com.here.sdk.transport">TransportSpecification</a></span> <span class="element-name">build</span>()</div>
-<div class="block"><p>Builds the <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a> object for a pedestrian profile with the specifications taken
- from the <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-transportspecification.pedestrianbuilder" title="class in com.here.sdk.transport"><code>TransportSpecification.PedestrianBuilder</code></a> object.</p></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-transportspecification" title="class in com.here.sdk.transport">TransportSpecification</a></span> <span class="element-name">build</span>()</div>
+<div class="block"><p>Builds the <a href="sdk-for-android-navigate-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a> object for a pedestrian profile with the specifications taken
+ from the <a href="sdk-for-android-navigate-transportspecification.pedestrianbuilder" title="class in com.here.sdk.transport"><code>TransportSpecification.PedestrianBuilder</code></a> object.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
-<dd><p>The <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a> object created from the <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-transportspecification.pedestrianbuilder" title="class in com.here.sdk.transport"><code>TransportSpecification.PedestrianBuilder</code></a> object.</p></dd>
+<dd><p>The <a href="sdk-for-android-navigate-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a> object created from the <a href="sdk-for-android-navigate-transportspecification.pedestrianbuilder" title="class in com.here.sdk.transport"><code>TransportSpecification.PedestrianBuilder</code></a> object.</p></dd>
 </dl>
 </section>
 </li>

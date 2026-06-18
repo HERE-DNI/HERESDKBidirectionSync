@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-mapupdater-mapupdateversi
 `
 <div class="sdk-for-android">
 <!-- MapUpdater.MapUpdateVersionCommitPolicy.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,37 +19,37 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-mapupdater-mapupdateversi
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.maploader</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-maploader-package-summary">com.here.sdk.maploader</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">java.lang.Enum</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapupdater.mapupdateversioncommitpolicy" title="enum class in com.here.sdk.maploader">MapUpdater.MapUpdateVersionCommitPolicy</a>&gt;
+<div class="inheritance"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">java.lang.Enum</a>&lt;<a href="sdk-for-android-navigate-mapupdater.mapupdateversioncommitpolicy" title="enum class in com.here.sdk.maploader">MapUpdater.MapUpdateVersionCommitPolicy</a>&gt;
 <div class="inheritance">com.here.sdk.maploader.MapUpdater.MapUpdateVersionCommitPolicy</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>All Implemented Interfaces:</dt>
-<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" title="class or interface in java.io">Serializable</a></code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" title="class or interface in java.lang">Comparable</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapupdater.mapupdateversioncommitpolicy" title="enum class in com.here.sdk.maploader">MapUpdater.MapUpdateVersionCommitPolicy</a>&gt;</code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" title="class or interface in java.lang.constant">Constable</a></code></dd>
+<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" title="class or interface in java.io">Serializable</a></code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" title="class or interface in java.lang">Comparable</a>&lt;<a href="sdk-for-android-navigate-mapupdater.mapupdateversioncommitpolicy" title="enum class in com.here.sdk.maploader">MapUpdater.MapUpdateVersionCommitPolicy</a>&gt;</code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" title="class or interface in java.lang.constant">Constable</a></code></dd>
 </dl>
 <dl class="notes">
 <dt>Enclosing class:</dt>
-<dd><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapupdater" title="class in com.here.sdk.maploader">MapUpdater</a></dd>
+<dd><a href="sdk-for-android-navigate-mapupdater" title="class in com.here.sdk.maploader">MapUpdater</a></dd>
 </dl>
 <hr/>
 <div class="type-signature"><span class="modifiers">public static enum </span><span class="element-name type-name-label">MapUpdater.MapUpdateVersionCommitPolicy</span>
-<span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapupdater.mapupdateversioncommitpolicy" title="enum class in com.here.sdk.maploader">MapUpdater.MapUpdateVersionCommitPolicy</a>&gt;</span></div>
+<span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a href="sdk-for-android-navigate-mapupdater.mapupdateversioncommitpolicy" title="enum class in com.here.sdk.maploader">MapUpdater.MapUpdateVersionCommitPolicy</a>&gt;</span></div>
 <div class="block"><p>Defines if installed regions and subregions are updated one-by-one or if all regions are
  updated only once the updates for all installed regions have been downloaded entirely.
  This influences the required size of the storage during an update.
  Regardless of the set policy, during an update, the previous region data is kept
  until the new region data is committed successfully to the persisted storage.
  This allows to revert to the previous version in case the update fails.
- With <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#ON_COMPLETE"><code>ON_COMPLETE</code></a>, more data has to be kept until
- the update process finishes, while <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#ON_FIRST_REGION"><code>ON_FIRST_REGION</code></a>
+ With <a href="sdk-for-android-navigate-index#ON_COMPLETE"><code>ON_COMPLETE</code></a>, more data has to be kept until
+ the update process finishes, while <a href="sdk-for-android-navigate-index#ON_FIRST_REGION"><code>ON_FIRST_REGION</code></a>
  allows to make faster use of the downloaded region and requires less disk space as only the
  currently updated region is kept until the process completes.
- However, with an <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#ON_FIRST_REGION"><code>ON_FIRST_REGION</code></a> policy the overall
+ However, with an <a href="sdk-for-android-navigate-index#ON_FIRST_REGION"><code>ON_FIRST_REGION</code></a> policy the overall
  process can be less reliable and bears a higher risk of errors.</p></div>
 </section>
 <section class="summary">
@@ -72,12 +71,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-mapupdater-mapupdateversi
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Enum Constant</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#ON_COMPLETE">ON_COMPLETE</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#ON_COMPLETE">ON_COMPLETE</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Commits the new map version to the cache and the persisted storage once all previously
  installed regions have been updated.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#ON_FIRST_REGION">ON_FIRST_REGION</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#ON_FIRST_REGION">ON_FIRST_REGION</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Updates the cache and the persisted storage once the first region was fully downloaded.</div>
 </div>
@@ -95,13 +94,13 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-mapupdater-mapupdateversi
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapupdater.mapupdateversioncommitpolicy" title="enum class in com.here.sdk.maploader">MapUpdater.MapUpdateVersionCommitPolicy</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-mapupdater.mapupdateversioncommitpolicy" title="enum class in com.here.sdk.maploader">MapUpdater.MapUpdateVersionCommitPolicy</a></code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapupdater.mapupdateversioncommitpolicy" title="enum class in com.here.sdk.maploader">MapUpdater.MapUpdateVersionCommitPolicy</a>[]</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#values()">values</a>()</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-mapupdater.mapupdateversioncommitpolicy" title="enum class in com.here.sdk.maploader">MapUpdater.MapUpdateVersionCommitPolicy</a>[]</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
@@ -129,28 +128,28 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="ON_FIRST_REGION">
 <h3>ON_FIRST_REGION</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapupdater.mapupdateversioncommitpolicy" title="enum class in com.here.sdk.maploader">MapUpdater.MapUpdateVersionCommitPolicy</a></span> <span class="element-name">ON_FIRST_REGION</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-mapupdater.mapupdateversioncommitpolicy" title="enum class in com.here.sdk.maploader">MapUpdater.MapUpdateVersionCommitPolicy</a></span> <span class="element-name">ON_FIRST_REGION</span></div>
 <div class="block"><p>Updates the cache and the persisted storage once the first region was fully downloaded.
- If only one region was requested, this setting is equivalent to <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#ON_COMPLETE"><code>ON_COMPLETE</code></a>.
+ If only one region was requested, this setting is equivalent to <a href="sdk-for-android-navigate-index#ON_COMPLETE"><code>ON_COMPLETE</code></a>.
  If more regions or subregions are requested, then the policy will apply.
  For example, if Germany is requested to be updated, then the cache and the persisted
  storage will be updated as soon as any contained subregion such as Berlin or Brandenburg
  has been fully downloaded. The previous data for a region will be removed once
  that specific region has been updated successfully.
- However, the <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapversionhandle" title="class in com.here.sdk.maploader"><code>MapVersionHandle</code></a> will be updated once the first region has
+ However, the <a href="sdk-for-android-navigate-mapversionhandle" title="class in com.here.sdk.maploader"><code>MapVersionHandle</code></a> will be updated once the first region has
  been installed. This inconsistency will be gone, once the update process completes.
- In case of errors, or an aborted update process, <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-catalogsupdateinfocallback" title="interface in com.here.sdk.maploader"><code>CatalogsUpdateInfoCallback</code></a>
+ In case of errors, or an aborted update process, <a href="sdk-for-android-navigate-catalogsupdateinfocallback" title="interface in com.here.sdk.maploader"><code>CatalogsUpdateInfoCallback</code></a>
  indicates that still an update is available until the process was successfully repeated.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="ON_COMPLETE">
 <h3>ON_COMPLETE</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapupdater.mapupdateversioncommitpolicy" title="enum class in com.here.sdk.maploader">MapUpdater.MapUpdateVersionCommitPolicy</a></span> <span class="element-name">ON_COMPLETE</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-mapupdater.mapupdateversioncommitpolicy" title="enum class in com.here.sdk.maploader">MapUpdater.MapUpdateVersionCommitPolicy</a></span> <span class="element-name">ON_COMPLETE</span></div>
 <div class="block"><p>Commits the new map version to the cache and the persisted storage once all previously
  installed regions have been updated. For example, if Germany needs an update, then
  all previous data is kept until Germany including all subregions has been downloaded.
- This update process is more reliable than <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#ON_FIRST_REGION"><code>ON_FIRST_REGION</code></a>,
+ This update process is more reliable than <a href="sdk-for-android-navigate-index#ON_FIRST_REGION"><code>ON_FIRST_REGION</code></a>,
  but requires more free storage space until the process completes. Besides, users need to wait longer until
  they can use all updated regions.</p></div>
 </section>
@@ -166,7 +165,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="values()">
 <h3>values</h3>
-<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapupdater.mapupdateversioncommitpolicy" title="enum class in com.here.sdk.maploader">MapUpdater.MapUpdateVersionCommitPolicy</a>[]</span> <span class="element-name">values</span>()</div>
+<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-navigate-mapupdater.mapupdateversioncommitpolicy" title="enum class in com.here.sdk.maploader">MapUpdater.MapUpdateVersionCommitPolicy</a>[]</span> <span class="element-name">values</span>()</div>
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
 <dl class="notes">
@@ -178,7 +177,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="valueOf(java.lang.String)">
 <h3>valueOf</h3>
-<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapupdater.mapupdateversioncommitpolicy" title="enum class in com.here.sdk.maploader">MapUpdater.MapUpdateVersionCommitPolicy</a></span> <span class="element-name">valueOf</span><wbr/><span class="parameters">(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</span></div>
+<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-navigate-mapupdater.mapupdateversioncommitpolicy" title="enum class in com.here.sdk.maploader">MapUpdater.MapUpdateVersionCommitPolicy</a></span> <span class="element-name">valueOf</span><wbr/><span class="parameters">(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</span></div>
 <div class="block">Returns the enum constant of this class with the specified name.
 The string must match <i>exactly</i> an identifier used to declare an
 enum constant in this class.  (Extraneous whitespace characters are 

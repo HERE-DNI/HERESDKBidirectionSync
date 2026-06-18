@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-realisticviewwarningopti
 `
 <div class="sdk-for-android">
 <!-- RealisticViewWarningOptions.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,7 +19,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-realisticviewwarningopti
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.navigation</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-navigation-package-summary">com.here.sdk.navigation</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -44,13 +43,13 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-realisticviewwarningopti
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-aspectratio" title="enum class in com.here.sdk.navigation">AspectRatio</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#aspectRatio">aspectRatio</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-aspectratio" title="enum class in com.here.sdk.navigation">AspectRatio</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#aspectRatio">aspectRatio</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The aspect ratio of the images which will be given in the realistic view warning.</div>
 </div>
 <div class="col-first odd-row-color"><code>boolean</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#darkTheme">darkTheme</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#darkTheme">darkTheme</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Specifies whether the images included in the realistic view warning will be optimized for the light or dark color
  scheme.</div>
@@ -66,7 +65,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-realisticviewwarningopti
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#%3Cinit%3E()">RealisticViewWarningOptions</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E()">RealisticViewWarningOptions</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -85,10 +84,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-realisticviewwarningopti
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 </div>
 </div>
@@ -111,9 +110,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-realisticviewwarningopti
 <section class="detail" id="aspectRatio">
 <h3>aspectRatio</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-aspectratio" title="enum class in com.here.sdk.navigation">AspectRatio</a></span> <span class="element-name">aspectRatio</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-aspectratio" title="enum class in com.here.sdk.navigation">AspectRatio</a></span> <span class="element-name">aspectRatio</span></div>
 <div class="block"><p>The aspect ratio of the images which will be given in the realistic view warning. This option is applicable only
- to the <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-realisticviewwarning#realisticViewVectorImage"><code>RealisticViewWarning.realisticViewVectorImage</code></a>. For <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-realisticviewwarning#realisticViewRasterImage"><code>RealisticViewWarning.realisticViewRasterImage</code></a>
+ to the <a href="sdk-for-android-navigate-realisticviewwarning#realisticViewVectorImage"><code>RealisticViewWarning.realisticViewVectorImage</code></a>. For <a href="sdk-for-android-navigate-realisticviewwarning#realisticViewRasterImage"><code>RealisticViewWarning.realisticViewRasterImage</code></a>
  the aspect ratio is always portrait.</p></div>
 </section>
 </li>
@@ -122,8 +121,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-realisticviewwarningopti
 <h3>darkTheme</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">darkTheme</span></div>
 <div class="block"><p>Specifies whether the images included in the realistic view warning will be optimized for the light or dark color
- scheme. This option is applicable only to the <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-realisticviewwarning#realisticViewVectorImage"><code>RealisticViewWarning.realisticViewVectorImage</code></a>. For
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-realisticviewwarning#realisticViewRasterImage"><code>RealisticViewWarning.realisticViewRasterImage</code></a> the dark theme is always <code>false</code>.</p></div>
+ scheme. This option is applicable only to the <a href="sdk-for-android-navigate-realisticviewwarning#realisticViewVectorImage"><code>RealisticViewWarning.realisticViewVectorImage</code></a>. For
+ <a href="sdk-for-android-navigate-realisticviewwarning#realisticViewRasterImage"><code>RealisticViewWarning.realisticViewRasterImage</code></a> the dark theme is always <code>false</code>.</p></div>
 </section>
 </li>
 </ul>

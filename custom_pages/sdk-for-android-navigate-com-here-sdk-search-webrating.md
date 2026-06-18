@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-webrating"
 `
 <div class="sdk-for-android">
 <!-- WebRating.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,7 +19,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-webrating"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.search</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-search-package-summary">com.here.sdk.search</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -44,17 +43,17 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-webrating"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>double</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#average">average</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#average">average</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Avarage value of all ratings.</div>
 </div>
 <div class="col-first odd-row-color"><code>int</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#count">count</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#count">count</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Total number of ratings.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-websource" title="class in com.here.sdk.search">WebSource</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#source">source</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-websource" title="class in com.here.sdk.search">WebSource</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#source">source</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Detailed information about rating.</div>
 </div>
@@ -69,13 +68,13 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-webrating"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#%3Cinit%3E()">WebRating</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E()">WebRating</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#%3Cinit%3E(int,double,com.here.sdk.search.WebSource)">WebRating</a><wbr/>(int count,
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(int,double,com.here.sdk.search.WebSource)">WebRating</a><wbr/>(int count,
  double average,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-websource" title="class in com.here.sdk.search">WebSource</a> source)</code></div>
+ <a href="sdk-for-android-navigate-websource" title="class in com.here.sdk.search">WebSource</a> source)</code></div>
 <div class="col-last odd-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -94,10 +93,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-webrating"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 </div>
 </div>
@@ -134,7 +133,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-webrating"
 <section class="detail" id="source">
 <h3>source</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-websource" title="class in com.here.sdk.search">WebSource</a></span> <span class="element-name">source</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-websource" title="class in com.here.sdk.search">WebSource</a></span> <span class="element-name">source</span></div>
 <div class="block"><p>Detailed information about rating.</p></div>
 </section>
 </li>
@@ -152,7 +151,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-webrating"
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">WebRating</span><wbr/><span class="parameters">(int count,
  double average,
  @NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-websource" title="class in com.here.sdk.search">WebSource</a> source)</span></div>
+ <a href="sdk-for-android-navigate-websource" title="class in com.here.sdk.search">WebSource</a> source)</span></div>
 <div class="block"><p>Creates a new instance.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

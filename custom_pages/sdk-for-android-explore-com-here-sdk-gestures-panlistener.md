@@ -7,7 +7,6 @@ slug: "sdk-for-android-explore-com-here-sdk-gestures-panlistener"
 `
 <div class="sdk-for-android">
 <!-- PanListener.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,7 +19,7 @@ slug: "sdk-for-android-explore-com-here-sdk-gestures-panlistener"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-package-summary">com.here.sdk.gestures</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-gestures-package-summary">com.here.sdk.gestures</a></div>
 
 </div>
 <section class="class-description" id="class-description">
@@ -43,9 +42,9 @@ slug: "sdk-for-android-explore-com-here-sdk-gestures-panlistener"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#onPan(com.here.sdk.gestures.GestureState,com.here.sdk.core.Point2D,com.here.sdk.core.Point2D,double)">onPan</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-gesturestate" title="enum class in com.here.sdk.gestures">GestureState</a> state,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-point2d" title="class in com.here.sdk.core">Point2D</a> origin,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-point2d" title="class in com.here.sdk.core">Point2D</a> translation,
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-index#onPan(com.here.sdk.gestures.GestureState,com.here.sdk.core.Point2D,com.here.sdk.core.Point2D,double)">onPan</a><wbr/>(<a href="sdk-for-android-explore-gesturestate" title="enum class in com.here.sdk.gestures">GestureState</a> state,
+ <a href="sdk-for-android-explore-point2d" title="class in com.here.sdk.core">Point2D</a> origin,
+ <a href="sdk-for-android-explore-point2d" title="class in com.here.sdk.core">Point2D</a> translation,
  double velocity)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Called when the pan gesture occurs.</div>
@@ -68,11 +67,11 @@ slug: "sdk-for-android-explore-com-here-sdk-gestures-panlistener"
 <section class="detail" id="onPan(com.here.sdk.gestures.GestureState,com.here.sdk.core.Point2D,com.here.sdk.core.Point2D,double)">
 <h3>onPan</h3>
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">onPan</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-gesturestate" title="enum class in com.here.sdk.gestures">GestureState</a> state,
+ <a href="sdk-for-android-explore-gesturestate" title="enum class in com.here.sdk.gestures">GestureState</a> state,
  @NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-point2d" title="class in com.here.sdk.core">Point2D</a> origin,
+ <a href="sdk-for-android-explore-point2d" title="class in com.here.sdk.core">Point2D</a> origin,
  @NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-point2d" title="class in com.here.sdk.core">Point2D</a> translation,
+ <a href="sdk-for-android-explore-point2d" title="class in com.here.sdk.core">Point2D</a> translation,
  double velocity)</span></div>
 <div class="block"><p>Called when the pan gesture occurs.</p></div>
 <dl class="notes">

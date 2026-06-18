@@ -7,7 +7,6 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions"
 `
 <div class="sdk-for-android">
 <!-- IndoorManeuverActions.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,22 +19,22 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-package-summary">com.here.sdk.routing</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-routing-package-summary">com.here.sdk.routing</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">java.lang.Enum</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-indoormaneuveractions" title="enum class in com.here.sdk.routing">IndoorManeuverActions</a>&gt;
+<div class="inheritance"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">java.lang.Enum</a>&lt;<a href="sdk-for-android-explore-indoormaneuveractions" title="enum class in com.here.sdk.routing">IndoorManeuverActions</a>&gt;
 <div class="inheritance">com.here.sdk.routing.IndoorManeuverActions</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>All Implemented Interfaces:</dt>
-<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" title="class or interface in java.io">Serializable</a></code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" title="class or interface in java.lang">Comparable</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-indoormaneuveractions" title="enum class in com.here.sdk.routing">IndoorManeuverActions</a>&gt;</code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" title="class or interface in java.lang.constant">Constable</a></code></dd>
+<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" title="class or interface in java.io">Serializable</a></code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" title="class or interface in java.lang">Comparable</a>&lt;<a href="sdk-for-android-explore-indoormaneuveractions" title="enum class in com.here.sdk.routing">IndoorManeuverActions</a>&gt;</code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" title="class or interface in java.lang.constant">Constable</a></code></dd>
 </dl>
 <hr/>
 <div class="type-signature"><span class="modifiers">public enum </span><span class="element-name type-name-label">IndoorManeuverActions</span>
-<span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-indoormaneuveractions" title="enum class in com.here.sdk.routing">IndoorManeuverActions</a>&gt;</span></div>
+<span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a href="sdk-for-android-explore-indoormaneuveractions" title="enum class in com.here.sdk.routing">IndoorManeuverActions</a>&gt;</span></div>
 <div class="block"><p>Defines the types of actions for indoor maneuvers.</p></div>
 </section>
 <section class="summary">
@@ -57,67 +56,67 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Enum Constant</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#ARRIVE">ARRIVE</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#ARRIVE">ARRIVE</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">End of the route.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#CONTINUE_ON">CONTINUE_ON</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#CONTINUE_ON">CONTINUE_ON</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Continue on the current path.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#DEPART">DEPART</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#DEPART">DEPART</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Start the route.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#ENTER_ACTION">ENTER_ACTION</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#ENTER_ACTION">ENTER_ACTION</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Enter a space or area.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#LEAVE_ACTION">LEAVE_ACTION</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#LEAVE_ACTION">LEAVE_ACTION</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Leave a space or area.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#LEFT_EXIT">LEFT_EXIT</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#LEFT_EXIT">LEFT_EXIT</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Exit to the left.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#LEFT_TURN">LEFT_TURN</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#LEFT_TURN">LEFT_TURN</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Make a left turn.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#LEFT_U_TURN">LEFT_U_TURN</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#LEFT_U_TURN">LEFT_U_TURN</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Make a left U-turn.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#LEVEL_CHANGE_ACTION">LEVEL_CHANGE_ACTION</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#LEVEL_CHANGE_ACTION">LEVEL_CHANGE_ACTION</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Change level action (e.g., use stairs, elevator).</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#RIGHT_EXIT">RIGHT_EXIT</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#RIGHT_EXIT">RIGHT_EXIT</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Exit to the right.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#RIGHT_TURN">RIGHT_TURN</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#RIGHT_TURN">RIGHT_TURN</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Make a right turn.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#RIGHT_U_TURN">RIGHT_U_TURN</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#RIGHT_U_TURN">RIGHT_U_TURN</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Make a right U-turn.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#SHARP_LEFT_TURN">SHARP_LEFT_TURN</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#SHARP_LEFT_TURN">SHARP_LEFT_TURN</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Make a sharp left turn.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#SHARP_RIGHT_TURN">SHARP_RIGHT_TURN</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#SHARP_RIGHT_TURN">SHARP_RIGHT_TURN</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Make a sharp right turn.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#SLIGHT_LEFT_TURN">SLIGHT_LEFT_TURN</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#SLIGHT_LEFT_TURN">SLIGHT_LEFT_TURN</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Make a slight left turn.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#SLIGHT_RIGHT_TURN">SLIGHT_RIGHT_TURN</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#SLIGHT_RIGHT_TURN">SLIGHT_RIGHT_TURN</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Make a slight right turn.</div>
 </div>
@@ -135,13 +134,13 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-indoormaneuveractions" title="enum class in com.here.sdk.routing">IndoorManeuverActions</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-indoormaneuveractions" title="enum class in com.here.sdk.routing">IndoorManeuverActions</a></code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-indoormaneuveractions" title="enum class in com.here.sdk.routing">IndoorManeuverActions</a>[]</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#values()">values</a>()</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-indoormaneuveractions" title="enum class in com.here.sdk.routing">IndoorManeuverActions</a>[]</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
@@ -169,112 +168,112 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="DEPART">
 <h3>DEPART</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-indoormaneuveractions" title="enum class in com.here.sdk.routing">IndoorManeuverActions</a></span> <span class="element-name">DEPART</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-indoormaneuveractions" title="enum class in com.here.sdk.routing">IndoorManeuverActions</a></span> <span class="element-name">DEPART</span></div>
 <div class="block"><p>Start the route.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="ARRIVE">
 <h3>ARRIVE</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-indoormaneuveractions" title="enum class in com.here.sdk.routing">IndoorManeuverActions</a></span> <span class="element-name">ARRIVE</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-indoormaneuveractions" title="enum class in com.here.sdk.routing">IndoorManeuverActions</a></span> <span class="element-name">ARRIVE</span></div>
 <div class="block"><p>End of the route.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="LEFT_U_TURN">
 <h3>LEFT_U_TURN</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-indoormaneuveractions" title="enum class in com.here.sdk.routing">IndoorManeuverActions</a></span> <span class="element-name">LEFT_U_TURN</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-indoormaneuveractions" title="enum class in com.here.sdk.routing">IndoorManeuverActions</a></span> <span class="element-name">LEFT_U_TURN</span></div>
 <div class="block"><p>Make a left U-turn.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="SHARP_LEFT_TURN">
 <h3>SHARP_LEFT_TURN</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-indoormaneuveractions" title="enum class in com.here.sdk.routing">IndoorManeuverActions</a></span> <span class="element-name">SHARP_LEFT_TURN</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-indoormaneuveractions" title="enum class in com.here.sdk.routing">IndoorManeuverActions</a></span> <span class="element-name">SHARP_LEFT_TURN</span></div>
 <div class="block"><p>Make a sharp left turn.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="LEFT_TURN">
 <h3>LEFT_TURN</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-indoormaneuveractions" title="enum class in com.here.sdk.routing">IndoorManeuverActions</a></span> <span class="element-name">LEFT_TURN</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-indoormaneuveractions" title="enum class in com.here.sdk.routing">IndoorManeuverActions</a></span> <span class="element-name">LEFT_TURN</span></div>
 <div class="block"><p>Make a left turn.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="SLIGHT_LEFT_TURN">
 <h3>SLIGHT_LEFT_TURN</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-indoormaneuveractions" title="enum class in com.here.sdk.routing">IndoorManeuverActions</a></span> <span class="element-name">SLIGHT_LEFT_TURN</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-indoormaneuveractions" title="enum class in com.here.sdk.routing">IndoorManeuverActions</a></span> <span class="element-name">SLIGHT_LEFT_TURN</span></div>
 <div class="block"><p>Make a slight left turn.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="SLIGHT_RIGHT_TURN">
 <h3>SLIGHT_RIGHT_TURN</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-indoormaneuveractions" title="enum class in com.here.sdk.routing">IndoorManeuverActions</a></span> <span class="element-name">SLIGHT_RIGHT_TURN</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-indoormaneuveractions" title="enum class in com.here.sdk.routing">IndoorManeuverActions</a></span> <span class="element-name">SLIGHT_RIGHT_TURN</span></div>
 <div class="block"><p>Make a slight right turn.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="CONTINUE_ON">
 <h3>CONTINUE_ON</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-indoormaneuveractions" title="enum class in com.here.sdk.routing">IndoorManeuverActions</a></span> <span class="element-name">CONTINUE_ON</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-indoormaneuveractions" title="enum class in com.here.sdk.routing">IndoorManeuverActions</a></span> <span class="element-name">CONTINUE_ON</span></div>
 <div class="block"><p>Continue on the current path.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="RIGHT_TURN">
 <h3>RIGHT_TURN</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-indoormaneuveractions" title="enum class in com.here.sdk.routing">IndoorManeuverActions</a></span> <span class="element-name">RIGHT_TURN</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-indoormaneuveractions" title="enum class in com.here.sdk.routing">IndoorManeuverActions</a></span> <span class="element-name">RIGHT_TURN</span></div>
 <div class="block"><p>Make a right turn.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="SHARP_RIGHT_TURN">
 <h3>SHARP_RIGHT_TURN</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-indoormaneuveractions" title="enum class in com.here.sdk.routing">IndoorManeuverActions</a></span> <span class="element-name">SHARP_RIGHT_TURN</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-indoormaneuveractions" title="enum class in com.here.sdk.routing">IndoorManeuverActions</a></span> <span class="element-name">SHARP_RIGHT_TURN</span></div>
 <div class="block"><p>Make a sharp right turn.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="RIGHT_U_TURN">
 <h3>RIGHT_U_TURN</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-indoormaneuveractions" title="enum class in com.here.sdk.routing">IndoorManeuverActions</a></span> <span class="element-name">RIGHT_U_TURN</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-indoormaneuveractions" title="enum class in com.here.sdk.routing">IndoorManeuverActions</a></span> <span class="element-name">RIGHT_U_TURN</span></div>
 <div class="block"><p>Make a right U-turn.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="LEFT_EXIT">
 <h3>LEFT_EXIT</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-indoormaneuveractions" title="enum class in com.here.sdk.routing">IndoorManeuverActions</a></span> <span class="element-name">LEFT_EXIT</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-indoormaneuveractions" title="enum class in com.here.sdk.routing">IndoorManeuverActions</a></span> <span class="element-name">LEFT_EXIT</span></div>
 <div class="block"><p>Exit to the left.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="RIGHT_EXIT">
 <h3>RIGHT_EXIT</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-indoormaneuveractions" title="enum class in com.here.sdk.routing">IndoorManeuverActions</a></span> <span class="element-name">RIGHT_EXIT</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-indoormaneuveractions" title="enum class in com.here.sdk.routing">IndoorManeuverActions</a></span> <span class="element-name">RIGHT_EXIT</span></div>
 <div class="block"><p>Exit to the right.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="LEVEL_CHANGE_ACTION">
 <h3>LEVEL_CHANGE_ACTION</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-indoormaneuveractions" title="enum class in com.here.sdk.routing">IndoorManeuverActions</a></span> <span class="element-name">LEVEL_CHANGE_ACTION</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-indoormaneuveractions" title="enum class in com.here.sdk.routing">IndoorManeuverActions</a></span> <span class="element-name">LEVEL_CHANGE_ACTION</span></div>
 <div class="block"><p>Change level action (e.g., use stairs, elevator).</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="ENTER_ACTION">
 <h3>ENTER_ACTION</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-indoormaneuveractions" title="enum class in com.here.sdk.routing">IndoorManeuverActions</a></span> <span class="element-name">ENTER_ACTION</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-indoormaneuveractions" title="enum class in com.here.sdk.routing">IndoorManeuverActions</a></span> <span class="element-name">ENTER_ACTION</span></div>
 <div class="block"><p>Enter a space or area.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="LEAVE_ACTION">
 <h3>LEAVE_ACTION</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-indoormaneuveractions" title="enum class in com.here.sdk.routing">IndoorManeuverActions</a></span> <span class="element-name">LEAVE_ACTION</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-indoormaneuveractions" title="enum class in com.here.sdk.routing">IndoorManeuverActions</a></span> <span class="element-name">LEAVE_ACTION</span></div>
 <div class="block"><p>Leave a space or area.</p></div>
 </section>
 </li>
@@ -289,7 +288,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="values()">
 <h3>values</h3>
-<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-indoormaneuveractions" title="enum class in com.here.sdk.routing">IndoorManeuverActions</a>[]</span> <span class="element-name">values</span>()</div>
+<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-indoormaneuveractions" title="enum class in com.here.sdk.routing">IndoorManeuverActions</a>[]</span> <span class="element-name">values</span>()</div>
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
 <dl class="notes">
@@ -301,7 +300,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="valueOf(java.lang.String)">
 <h3>valueOf</h3>
-<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-indoormaneuveractions" title="enum class in com.here.sdk.routing">IndoorManeuverActions</a></span> <span class="element-name">valueOf</span><wbr/><span class="parameters">(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</span></div>
+<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-indoormaneuveractions" title="enum class in com.here.sdk.routing">IndoorManeuverActions</a></span> <span class="element-name">valueOf</span><wbr/><span class="parameters">(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</span></div>
 <div class="block">Returns the enum constant of this class with the specified name.
 The string must match <i>exactly</i> an identifier used to declare an
 enum constant in this class.  (Extraneous whitespace characters are 

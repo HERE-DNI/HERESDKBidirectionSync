@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-data-property"
 `
 <div class="sdk-for-android">
 <!-- Property.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,21 +19,21 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-data-property"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.venue.data</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-venue-data-package-summary">com.here.sdk.venue.data</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-nativebase" title="class in com.here">com.here.NativeBase</a>
+<div class="inheritance"><a href="sdk-for-android-navigate-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.venue.data.Property</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 <hr/>
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">Property</span>
-<span class="extends-implements">extends <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-nativebase" title="class in com.here">NativeBase</a></span></div>
+<span class="extends-implements">extends <a href="sdk-for-android-navigate-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>Holds information of varying types, such as Boolean, Integer, String. Properties are used
- in <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuemodel" title="class in com.here.sdk.venue.data"><code>VenueModel</code></a> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuedrawing" title="class in com.here.sdk.venue.data"><code>VenueDrawing</code></a>, <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuelevel" title="class in com.here.sdk.venue.data"><code>VenueLevel</code></a>
- and <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuegeometry" title="class in com.here.sdk.venue.data"><code>VenueGeometry</code></a> to describe this objects.</p></div>
+ in <a href="sdk-for-android-navigate-venuemodel" title="class in com.here.sdk.venue.data"><code>VenueModel</code></a> <a href="sdk-for-android-navigate-venuedrawing" title="class in com.here.sdk.venue.data"><code>VenueDrawing</code></a>, <a href="sdk-for-android-navigate-venuelevel" title="class in com.here.sdk.venue.data"><code>VenueLevel</code></a>
+ and <a href="sdk-for-android-navigate-venuegeometry" title="class in com.here.sdk.venue.data"><code>VenueGeometry</code></a> to describe this objects.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -48,7 +47,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-data-property"
 <div class="table-header col-second">Class</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>static enum </code></div>
-<div class="col-second even-row-color"><code><a class="type-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-property.propertytype" title="enum class in com.here.sdk.venue.data">Property.PropertyType</a></code></div>
+<div class="col-second even-row-color"><code><a class="type-name-link" href="sdk-for-android-navigate-property.propertytype" title="enum class in com.here.sdk.venue.data">Property.PropertyType</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Types of properties.</div>
 </div>
@@ -67,22 +66,22 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-data-property"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#getInt()">getInt</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getInt()">getInt</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the property as an Integer value.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#getString()">getString</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getString()">getString</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the property as a String value.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-property.propertytype" title="enum class in com.here.sdk.venue.data">Property.PropertyType</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#getType()">getType</a>()</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-property.propertytype" title="enum class in com.here.sdk.venue.data">Property.PropertyType</a></code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getType()">getType</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets a type of the property.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#isBool()">isBool</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#isBool()">isBool</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the property as a Boolean value.</div>
 </div>
@@ -107,7 +106,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-data-property"
 <section class="detail" id="getType()">
 <h3>getType</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-property.propertytype" title="enum class in com.here.sdk.venue.data">Property.PropertyType</a></span> <span class="element-name">getType</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-property.propertytype" title="enum class in com.here.sdk.venue.data">Property.PropertyType</a></span> <span class="element-name">getType</span>()</div>
 <div class="block"><p>Gets a type of the property.
  </p><p>It can be used to get type of property.</p></div>
 <dl class="notes">

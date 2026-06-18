@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-postactionlistener"
 `
 <div class="sdk-for-android">
 <!-- PostActionListener.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,7 +19,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-postactionlistener"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.navigation</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-navigation-package-summary">com.here.sdk.navigation</a></div>
 
 </div>
 <section class="class-description" id="class-description">
@@ -43,9 +42,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-postactionlistener"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#onPostActions(java.util.List)">onPostActions</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-postaction" title="class in com.here.sdk.routing">PostAction</a>&gt; postActions)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onPostActions(java.util.List)">onPostActions</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-postaction" title="class in com.here.sdk.routing">PostAction</a>&gt; postActions)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
-<div class="block">Called whenever <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-postaction" title="class in com.here.sdk.routing"><code>PostAction</code></a>'s are available.</div>
+<div class="block">Called whenever <a href="sdk-for-android-navigate-postaction" title="class in com.here.sdk.routing"><code>PostAction</code></a>'s are available.</div>
 </div>
 </div>
 </div>
@@ -65,9 +64,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-postactionlistener"
 <section class="detail" id="onPostActions(java.util.List)">
 <h3>onPostActions</h3>
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">onPostActions</span><wbr/><span class="parameters">(@NonNull
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-postaction" title="class in com.here.sdk.routing">PostAction</a>&gt; postActions)</span></div>
-<div class="block"><p>Called whenever <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-postaction" title="class in com.here.sdk.routing"><code>PostAction</code></a>'s are available. Note that
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-postaction" title="class in com.here.sdk.routing"><code>PostAction</code></a>'s are performed after the arrival at the end of a section.</p></div>
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-postaction" title="class in com.here.sdk.routing">PostAction</a>&gt; postActions)</span></div>
+<div class="block"><p>Called whenever <a href="sdk-for-android-navigate-postaction" title="class in com.here.sdk.routing"><code>PostAction</code></a>'s are available. Note that
+ <a href="sdk-for-android-navigate-postaction" title="class in com.here.sdk.routing"><code>PostAction</code></a>'s are performed after the arrival at the end of a section.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>postActions</code> - <p>The post actions that should be performed.</p></dd>

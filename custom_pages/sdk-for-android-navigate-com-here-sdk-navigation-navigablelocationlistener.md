@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-navigablelocationlistene
 `
 <div class="sdk-for-android">
 <!-- NavigableLocationListener.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,14 +19,14 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-navigablelocationlistene
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.navigation</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-navigation-package-summary">com.here.sdk.navigation</a></div>
 
 </div>
 <section class="class-description" id="class-description">
 <hr/>
 <div class="type-signature"><span class="modifiers">public interface </span><span class="element-name type-name-label">NavigableLocationListener</span></div>
 <div class="block"><p>This interface should be implemented in order to receive notifications
- about the current location from <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-navigator" title="class in com.here.sdk.navigation"><code>Navigator</code></a>.</p></div>
+ about the current location from <a href="sdk-for-android-navigate-navigator" title="class in com.here.sdk.navigation"><code>Navigator</code></a>.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -43,7 +42,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-navigablelocationlistene
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#onNavigableLocationUpdated(com.here.sdk.navigation.NavigableLocation)">onNavigableLocationUpdated</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-navigablelocation" title="class in com.here.sdk.navigation">NavigableLocation</a> navigableLocation)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onNavigableLocationUpdated(com.here.sdk.navigation.NavigableLocation)">onNavigableLocationUpdated</a><wbr/>(<a href="sdk-for-android-navigate-navigablelocation" title="class in com.here.sdk.navigation">NavigableLocation</a> navigableLocation)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Called whenever the current location has been updated.</div>
 </div>
@@ -65,7 +64,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-navigablelocationlistene
 <section class="detail" id="onNavigableLocationUpdated(com.here.sdk.navigation.NavigableLocation)">
 <h3>onNavigableLocationUpdated</h3>
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">onNavigableLocationUpdated</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-navigablelocation" title="class in com.here.sdk.navigation">NavigableLocation</a> navigableLocation)</span></div>
+ <a href="sdk-for-android-navigate-navigablelocation" title="class in com.here.sdk.navigation">NavigableLocation</a> navigableLocation)</span></div>
 <div class="block"><p>Called whenever the current location has been updated.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

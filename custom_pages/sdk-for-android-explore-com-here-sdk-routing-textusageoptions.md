@@ -7,7 +7,6 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-textusageoptions"
 `
 <div class="sdk-for-android">
 <!-- TextUsageOptions.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,7 +19,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-textusageoptions"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-package-summary">com.here.sdk.routing</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-routing-package-summary">com.here.sdk.routing</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -43,18 +42,18 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-textusageoptions"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-localizedtextpreference" title="enum class in com.here.sdk.routing">LocalizedTextPreference</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#roadNumber">roadNumber</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-localizedtextpreference" title="enum class in com.here.sdk.routing">LocalizedTextPreference</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#roadNumber">roadNumber</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">An option whether road number should be used when generating notification.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-localizedtextpreference" title="enum class in com.here.sdk.routing">LocalizedTextPreference</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#signpostDirection">signpostDirection</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-localizedtextpreference" title="enum class in com.here.sdk.routing">LocalizedTextPreference</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#signpostDirection">signpostDirection</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">An option whether signpost direction should be used when generating notification.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-localizedtextpreference" title="enum class in com.here.sdk.routing">LocalizedTextPreference</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#streetName">streetName</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-localizedtextpreference" title="enum class in com.here.sdk.routing">LocalizedTextPreference</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#streetName">streetName</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">An option whether street name should be used when generating notification.</div>
 </div>
@@ -69,7 +68,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-textusageoptions"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#%3Cinit%3E()">TextUsageOptions</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#%3Cinit%3E()">TextUsageOptions</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -88,10 +87,10 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-textusageoptions"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#hashCode()">hashCode</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 </div>
 </div>
@@ -114,27 +113,27 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-textusageoptions"
 <section class="detail" id="streetName">
 <h3>streetName</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-localizedtextpreference" title="enum class in com.here.sdk.routing">LocalizedTextPreference</a></span> <span class="element-name">streetName</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-localizedtextpreference" title="enum class in com.here.sdk.routing">LocalizedTextPreference</a></span> <span class="element-name">streetName</span></div>
 <div class="block"><p>An option whether street name should be used when generating notification.
- Defaults to <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-localizedtextpreference#USE_ALWAYS"><code>LocalizedTextPreference.USE_ALWAYS</code></a>.</p></div>
+ Defaults to <a href="sdk-for-android-explore-localizedtextpreference#USE_ALWAYS"><code>LocalizedTextPreference.USE_ALWAYS</code></a>.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="roadNumber">
 <h3>roadNumber</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-localizedtextpreference" title="enum class in com.here.sdk.routing">LocalizedTextPreference</a></span> <span class="element-name">roadNumber</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-localizedtextpreference" title="enum class in com.here.sdk.routing">LocalizedTextPreference</a></span> <span class="element-name">roadNumber</span></div>
 <div class="block"><p>An option whether road number should be used when generating notification.
- Defaults to <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-localizedtextpreference#USE_ALWAYS"><code>LocalizedTextPreference.USE_ALWAYS</code></a>.</p></div>
+ Defaults to <a href="sdk-for-android-explore-localizedtextpreference#USE_ALWAYS"><code>LocalizedTextPreference.USE_ALWAYS</code></a>.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="signpostDirection">
 <h3>signpostDirection</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-localizedtextpreference" title="enum class in com.here.sdk.routing">LocalizedTextPreference</a></span> <span class="element-name">signpostDirection</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-localizedtextpreference" title="enum class in com.here.sdk.routing">LocalizedTextPreference</a></span> <span class="element-name">signpostDirection</span></div>
 <div class="block"><p>An option whether signpost direction should be used when generating notification.
- Defaults to <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-localizedtextpreference#USE_ALWAYS"><code>LocalizedTextPreference.USE_ALWAYS</code></a>.</p></div>
+ Defaults to <a href="sdk-for-android-explore-localizedtextpreference#USE_ALWAYS"><code>LocalizedTextPreference.USE_ALWAYS</code></a>.</p></div>
 </section>
 </li>
 </ul>

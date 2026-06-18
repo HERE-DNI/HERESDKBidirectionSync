@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-mapdownloaderconstruction
 `
 <div class="sdk-for-android">
 <!-- MapDownloaderConstructionCallback.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,7 +19,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-mapdownloaderconstruction
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.maploader</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-maploader-package-summary">com.here.sdk.maploader</a></div>
 
 </div>
 <section class="class-description" id="class-description">
@@ -31,7 +30,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-mapdownloaderconstruction
 <hr/>
 <div class="type-signature"><span class="annotations"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/FunctionalInterface.html" title="class or interface in java.lang">@FunctionalInterface</a>
 </span><span class="modifiers">public interface </span><span class="element-name type-name-label">MapDownloaderConstructionCallback</span></div>
-<div class="block"><p>A method which is called on the main thread when <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapdownloader#fromEngineAsync(com.here.sdk.core.engine.SDKNativeEngine,com.here.sdk.maploader.MapDownloaderConstructionCallback)"><code>MapDownloader.fromEngineAsync(com.here.sdk.core.engine.SDKNativeEngine, com.here.sdk.maploader.MapDownloaderConstructionCallback)</code></a> has been completed.
+<div class="block"><p>A method which is called on the main thread when <a href="sdk-for-android-navigate-mapdownloader#fromEngineAsync(com.here.sdk.core.engine.SDKNativeEngine,com.here.sdk.maploader.MapDownloaderConstructionCallback)"><code>MapDownloader.fromEngineAsync(com.here.sdk.core.engine.SDKNativeEngine, com.here.sdk.maploader.MapDownloaderConstructionCallback)</code></a> has been completed.
  The <code>MapDownloader</code> instance is created on a background thread to not block the calling
  thread.
  </p><p>During construction an online connection is established to fetch configuration data for
@@ -54,9 +53,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-mapdownloaderconstruction
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#onMapDownloaderConstructedCompleted(com.here.sdk.maploader.MapDownloader)">onMapDownloaderConstructedCompleted</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapdownloader" title="class in com.here.sdk.maploader">MapDownloader</a> mapDownloader)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onMapDownloaderConstructedCompleted(com.here.sdk.maploader.MapDownloader)">onMapDownloaderConstructedCompleted</a><wbr/>(<a href="sdk-for-android-navigate-mapdownloader" title="class in com.here.sdk.maploader">MapDownloader</a> mapDownloader)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
-<div class="block">A method which is called on the main thread when <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapdownloader#fromEngineAsync(com.here.sdk.core.engine.SDKNativeEngine,com.here.sdk.maploader.MapDownloaderConstructionCallback)"><code>MapDownloader.fromEngineAsync(com.here.sdk.core.engine.SDKNativeEngine, com.here.sdk.maploader.MapDownloaderConstructionCallback)</code></a> has been completed.</div>
+<div class="block">A method which is called on the main thread when <a href="sdk-for-android-navigate-mapdownloader#fromEngineAsync(com.here.sdk.core.engine.SDKNativeEngine,com.here.sdk.maploader.MapDownloaderConstructionCallback)"><code>MapDownloader.fromEngineAsync(com.here.sdk.core.engine.SDKNativeEngine, com.here.sdk.maploader.MapDownloaderConstructionCallback)</code></a> has been completed.</div>
 </div>
 </div>
 </div>
@@ -76,8 +75,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-mapdownloaderconstruction
 <section class="detail" id="onMapDownloaderConstructedCompleted(com.here.sdk.maploader.MapDownloader)">
 <h3>onMapDownloaderConstructedCompleted</h3>
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">onMapDownloaderConstructedCompleted</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapdownloader" title="class in com.here.sdk.maploader">MapDownloader</a> mapDownloader)</span></div>
-<div class="block"><p>A method which is called on the main thread when <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapdownloader#fromEngineAsync(com.here.sdk.core.engine.SDKNativeEngine,com.here.sdk.maploader.MapDownloaderConstructionCallback)"><code>MapDownloader.fromEngineAsync(com.here.sdk.core.engine.SDKNativeEngine, com.here.sdk.maploader.MapDownloaderConstructionCallback)</code></a> has been completed.
+ <a href="sdk-for-android-navigate-mapdownloader" title="class in com.here.sdk.maploader">MapDownloader</a> mapDownloader)</span></div>
+<div class="block"><p>A method which is called on the main thread when <a href="sdk-for-android-navigate-mapdownloader#fromEngineAsync(com.here.sdk.core.engine.SDKNativeEngine,com.here.sdk.maploader.MapDownloaderConstructionCallback)"><code>MapDownloader.fromEngineAsync(com.here.sdk.core.engine.SDKNativeEngine, com.here.sdk.maploader.MapDownloaderConstructionCallback)</code></a> has been completed.
  The <code>MapDownloader</code> instance is created on a background thread to not block the calling
  thread.
  </p><p>During construction an online connection is established to fetch configuration data for

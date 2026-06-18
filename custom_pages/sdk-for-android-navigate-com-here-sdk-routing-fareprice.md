@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-fareprice"
 `
 <div class="sdk-for-android">
 <!-- FarePrice.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,7 +19,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-fareprice"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.routing</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-routing-package-summary">com.here.sdk.routing</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -44,32 +43,32 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-fareprice"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#currency">currency</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#currency">currency</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Local currency of the price compliant to ISO 4217.</div>
 </div>
 <div class="col-first odd-row-color"><code>boolean</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#estimated">estimated</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#estimated">estimated</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block"><code>True</code> when the fare price is estimated based on best guess and the actual price may differ.</div>
 </div>
 <div class="col-first even-row-color"><code>double</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#maximum">maximum</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#maximum">maximum</a></code></div>
 <div class="col-last even-row-color">
-<div class="block">Maximum price when the price is of <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-farepricetype#RANGE"><code>FarePriceType.RANGE</code></a> type.</div>
+<div class="block">Maximum price when the price is of <a href="sdk-for-android-navigate-farepricetype#RANGE"><code>FarePriceType.RANGE</code></a> type.</div>
 </div>
 <div class="col-first odd-row-color"><code>double</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#minimum">minimum</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#minimum">minimum</a></code></div>
 <div class="col-last odd-row-color">
-<div class="block">Minimum price when the price is of <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-farepricetype#RANGE"><code>FarePriceType.RANGE</code></a> type.</div>
+<div class="block">Minimum price when the price is of <a href="sdk-for-android-navigate-farepricetype#RANGE"><code>FarePriceType.RANGE</code></a> type.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-farepricetype" title="enum class in com.here.sdk.routing">FarePriceType</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#type">type</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-farepricetype" title="enum class in com.here.sdk.routing">FarePriceType</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#type">type</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Type of price represented by this object.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#validityPeriod">validityPeriod</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#validityPeriod">validityPeriod</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">When set, the price is paid for a specific duration.</div>
 </div>
@@ -84,7 +83,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-fareprice"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#%3Cinit%3E()">FarePrice</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E()">FarePrice</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -103,10 +102,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-fareprice"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 </div>
 </div>
@@ -129,9 +128,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-fareprice"
 <section class="detail" id="type">
 <h3>type</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-farepricetype" title="enum class in com.here.sdk.routing">FarePriceType</a></span> <span class="element-name">type</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-farepricetype" title="enum class in com.here.sdk.routing">FarePriceType</a></span> <span class="element-name">type</span></div>
 <div class="block"><p>Type of price represented by this object.
- Defaults to <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-farepricetype#VALUE"><code>FarePriceType.VALUE</code></a>.</p></div>
+ Defaults to <a href="sdk-for-android-navigate-farepricetype#VALUE"><code>FarePriceType.VALUE</code></a>.</p></div>
 </section>
 </li>
 <li>
@@ -155,8 +154,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-fareprice"
 <section class="detail" id="minimum">
 <h3>minimum</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">double</span> <span class="element-name">minimum</span></div>
-<div class="block"><p>Minimum price when the price is of <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-farepricetype#RANGE"><code>FarePriceType.RANGE</code></a> type. Otherwise, it is
- equal to <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#maximum"><code>maximum</code></a>.
+<div class="block"><p>Minimum price when the price is of <a href="sdk-for-android-navigate-farepricetype#RANGE"><code>FarePriceType.RANGE</code></a> type. Otherwise, it is
+ equal to <a href="sdk-for-android-navigate-index#maximum"><code>maximum</code></a>.
  Defaults to 0.</p></div>
 </section>
 </li>
@@ -164,8 +163,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-fareprice"
 <section class="detail" id="maximum">
 <h3>maximum</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">double</span> <span class="element-name">maximum</span></div>
-<div class="block"><p>Maximum price when the price is of <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-farepricetype#RANGE"><code>FarePriceType.RANGE</code></a> type. Otherwise, it is
- equal to <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#minimum"><code>minimum</code></a>.
+<div class="block"><p>Maximum price when the price is of <a href="sdk-for-android-navigate-farepricetype#RANGE"><code>FarePriceType.RANGE</code></a> type. Otherwise, it is
+ equal to <a href="sdk-for-android-navigate-index#minimum"><code>minimum</code></a>.
  Defaults to 0.</p></div>
 </section>
 </li>
@@ -173,13 +172,13 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-fareprice"
 <section class="detail" id="validityPeriod">
 <h3>validityPeriod</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">validityPeriod</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">validityPeriod</span></div>
 <div class="block"><p>When set, the price is paid for a specific duration.
  </p><p><strong>Examples</strong>:
  </p><p>3600 seconds - price for one hour
  </p><p>28800 seconds - price for eight hours
  </p><p>86400 seconds - price for one day
- </p><p><strong>Note:</strong> When the ticket validity period starts depends on the <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-agency" title="class in com.here.sdk.routing"><code>Agency</code></a> providing the service.
+ </p><p><strong>Note:</strong> When the ticket validity period starts depends on the <a href="sdk-for-android-navigate-agency" title="class in com.here.sdk.routing"><code>Agency</code></a> providing the service.
  Defaults to <code>null</code>.</p></div>
 </section>
 </li>

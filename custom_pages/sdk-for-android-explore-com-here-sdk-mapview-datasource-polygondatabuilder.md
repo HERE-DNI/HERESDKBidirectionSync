@@ -7,7 +7,6 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondatabuilde
 `
 <div class="sdk-for-android">
 <!-- PolygonDataBuilder.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,20 +19,20 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondatabuilde
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-package-summary">com.here.sdk.mapview.datasource</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-package-summary">com.here.sdk.mapview.datasource</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-nativebase" title="class in com.here">com.here.NativeBase</a>
+<div class="inheritance"><a href="sdk-for-android-explore-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.mapview.datasource.PolygonDataBuilder</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 <hr/>
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">PolygonDataBuilder</span>
-<span class="extends-implements">extends <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-nativebase" title="class in com.here">NativeBase</a></span></div>
-<div class="block"><p>Builder of <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-polygondata" title="class in com.here.sdk.mapview.datasource"><code>PolygonData</code></a> instances.
- </p><p>The builder can create <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-polygondata" title="class in com.here.sdk.mapview.datasource"><code>PolygonData</code></a> instances for polygons with an outer boundary and
+<span class="extends-implements">extends <a href="sdk-for-android-explore-nativebase" title="class in com.here">NativeBase</a></span></div>
+<div class="block"><p>Builder of <a href="sdk-for-android-explore-polygondata" title="class in com.here.sdk.mapview.datasource"><code>PolygonData</code></a> instances.
+ </p><p>The builder can create <a href="sdk-for-android-explore-polygondata" title="class in com.here.sdk.mapview.datasource"><code>PolygonData</code></a> instances for polygons with an outer boundary and
  optionally one or more inner boundaries (holes).
  </p><p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
  behavior. Related APIs may change for new releases without a deprecation process.</p></div>
@@ -48,7 +47,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondatabuilde
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#%3Cinit%3E()">PolygonDataBuilder</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#%3Cinit%3E()">PolygonDataBuilder</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a builder instance.</div>
 </div>
@@ -66,18 +65,18 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondatabuilde
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-polygondata" title="class in com.here.sdk.mapview.datasource">PolygonData</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#build()">build</a>()</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-polygondata" title="class in com.here.sdk.mapview.datasource">PolygonData</a></code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#build()">build</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
-<div class="block">Builds an instance of <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-polygondata" title="class in com.here.sdk.mapview.datasource"><code>PolygonData</code></a> and resets the builder instance.</div>
+<div class="block">Builds an instance of <a href="sdk-for-android-explore-polygondata" title="class in com.here.sdk.mapview.datasource"><code>PolygonData</code></a> and resets the builder instance.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-polygondatabuilder" title="class in com.here.sdk.mapview.datasource">PolygonDataBuilder</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#withAttributes(com.here.sdk.mapview.datasource.DataAttributes)">withAttributes</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-dataattributes" title="class in com.here.sdk.mapview.datasource">DataAttributes</a> attributes)</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-polygondatabuilder" title="class in com.here.sdk.mapview.datasource">PolygonDataBuilder</a></code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#withAttributes(com.here.sdk.mapview.datasource.DataAttributes)">withAttributes</a><wbr/>(<a href="sdk-for-android-explore-dataattributes" title="class in com.here.sdk.mapview.datasource">DataAttributes</a> attributes)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Configures the builder with custom attributes for polygon to be created.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-polygondatabuilder" title="class in com.here.sdk.mapview.datasource">PolygonDataBuilder</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#withGeometry(com.here.sdk.core.GeoPolygon)">withGeometry</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-geopolygon" title="class in com.here.sdk.core">GeoPolygon</a> geometry)</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-polygondatabuilder" title="class in com.here.sdk.mapview.datasource">PolygonDataBuilder</a></code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#withGeometry(com.here.sdk.core.GeoPolygon)">withGeometry</a><wbr/>(<a href="sdk-for-android-explore-geopolygon" title="class in com.here.sdk.core">GeoPolygon</a> geometry)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Configures the builder with geometry for the polygon to be created.</div>
 </div>
@@ -117,8 +116,8 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondatabuilde
 <section class="detail" id="withGeometry(com.here.sdk.core.GeoPolygon)">
 <h3>withGeometry</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-polygondatabuilder" title="class in com.here.sdk.mapview.datasource">PolygonDataBuilder</a></span> <span class="element-name">withGeometry</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-geopolygon" title="class in com.here.sdk.core">GeoPolygon</a> geometry)</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-polygondatabuilder" title="class in com.here.sdk.mapview.datasource">PolygonDataBuilder</a></span> <span class="element-name">withGeometry</span><wbr/><span class="parameters">(@NonNull
+ <a href="sdk-for-android-explore-geopolygon" title="class in com.here.sdk.core">GeoPolygon</a> geometry)</span></div>
 <div class="block"><p>Configures the builder with geometry for the polygon to be created.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -136,8 +135,8 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondatabuilde
 <section class="detail" id="withAttributes(com.here.sdk.mapview.datasource.DataAttributes)">
 <h3>withAttributes</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-polygondatabuilder" title="class in com.here.sdk.mapview.datasource">PolygonDataBuilder</a></span> <span class="element-name">withAttributes</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-dataattributes" title="class in com.here.sdk.mapview.datasource">DataAttributes</a> attributes)</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-polygondatabuilder" title="class in com.here.sdk.mapview.datasource">PolygonDataBuilder</a></span> <span class="element-name">withAttributes</span><wbr/><span class="parameters">(@NonNull
+ <a href="sdk-for-android-explore-dataattributes" title="class in com.here.sdk.mapview.datasource">DataAttributes</a> attributes)</span></div>
 <div class="block"><p>Configures the builder with custom attributes for polygon to be created.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -151,11 +150,11 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondatabuilde
 <section class="detail" id="build()">
 <h3>build</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-polygondata" title="class in com.here.sdk.mapview.datasource">PolygonData</a></span> <span class="element-name">build</span>()</div>
-<div class="block"><p>Builds an instance of <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-polygondata" title="class in com.here.sdk.mapview.datasource"><code>PolygonData</code></a> and resets the builder instance.</p></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-polygondata" title="class in com.here.sdk.mapview.datasource">PolygonData</a></span> <span class="element-name">build</span>()</div>
+<div class="block"><p>Builds an instance of <a href="sdk-for-android-explore-polygondata" title="class in com.here.sdk.mapview.datasource"><code>PolygonData</code></a> and resets the builder instance.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
-<dd><p>Instance of <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-polygondata" title="class in com.here.sdk.mapview.datasource"><code>PolygonData</code></a> created with the configured parameters.</p></dd>
+<dd><p>Instance of <a href="sdk-for-android-explore-polygondata" title="class in com.here.sdk.mapview.datasource"><code>PolygonData</code></a> created with the configured parameters.</p></dd>
 </dl>
 </section>
 </li>

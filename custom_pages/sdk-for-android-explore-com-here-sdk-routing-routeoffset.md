@@ -7,7 +7,6 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routeoffset"
 `
 <div class="sdk-for-android">
 <!-- RouteOffset.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,7 +19,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routeoffset"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-package-summary">com.here.sdk.routing</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-routing-package-summary">com.here.sdk.routing</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -47,14 +46,14 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routeoffset"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>double</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#offsetInMeters">offsetInMeters</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#offsetInMeters">offsetInMeters</a></code></div>
 <div class="col-last even-row-color">
-<div class="block">Offset from the start of the indexed <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-section" title="class in com.here.sdk.routing"><code>Section</code></a> to the specified location along the route.</div>
+<div class="block">Offset from the start of the indexed <a href="sdk-for-android-explore-section" title="class in com.here.sdk.routing"><code>Section</code></a> to the specified location along the route.</div>
 </div>
 <div class="col-first odd-row-color"><code>int</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#sectionIndex">sectionIndex</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#sectionIndex">sectionIndex</a></code></div>
 <div class="col-last odd-row-color">
-<div class="block">Index of the corresponding route <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-section" title="class in com.here.sdk.routing"><code>Section</code></a>.</div>
+<div class="block">Index of the corresponding route <a href="sdk-for-android-explore-section" title="class in com.here.sdk.routing"><code>Section</code></a>.</div>
 </div>
 </div>
 </section>
@@ -67,7 +66,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routeoffset"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#%3Cinit%3E(int,double)">RouteOffset</a><wbr/>(int sectionIndex,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#%3Cinit%3E(int,double)">RouteOffset</a><wbr/>(int sectionIndex,
  double offsetInMeters)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
@@ -97,14 +96,14 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routeoffset"
 <section class="detail" id="sectionIndex">
 <h3>sectionIndex</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">int</span> <span class="element-name">sectionIndex</span></div>
-<div class="block"><p>Index of the corresponding route <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-section" title="class in com.here.sdk.routing"><code>Section</code></a>. The start of the section indicates the start of the offset.</p></div>
+<div class="block"><p>Index of the corresponding route <a href="sdk-for-android-explore-section" title="class in com.here.sdk.routing"><code>Section</code></a>. The start of the section indicates the start of the offset.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="offsetInMeters">
 <h3>offsetInMeters</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">double</span> <span class="element-name">offsetInMeters</span></div>
-<div class="block"><p>Offset from the start of the indexed <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-section" title="class in com.here.sdk.routing"><code>Section</code></a> to the specified location along the route.
+<div class="block"><p>Offset from the start of the indexed <a href="sdk-for-android-explore-section" title="class in com.here.sdk.routing"><code>Section</code></a> to the specified location along the route.
  The maximum possible offset is limited by the length of the section and cannot exceed it.</p></div>
 </section>
 </li>
@@ -124,8 +123,8 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routeoffset"
 <div class="block"><p>Creates a new instance.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
-<dd><code>sectionIndex</code> - <p>Index of the corresponding route <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-section" title="class in com.here.sdk.routing"><code>Section</code></a>. The start of the section indicates the start of the offset.</p></dd>
-<dd><code>offsetInMeters</code> - <p>Offset from the start of the indexed <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-section" title="class in com.here.sdk.routing"><code>Section</code></a> to the specified location along the route.
+<dd><code>sectionIndex</code> - <p>Index of the corresponding route <a href="sdk-for-android-explore-section" title="class in com.here.sdk.routing"><code>Section</code></a>. The start of the section indicates the start of the offset.</p></dd>
+<dd><code>offsetInMeters</code> - <p>Offset from the start of the indexed <a href="sdk-for-android-explore-section" title="class in com.here.sdk.routing"><code>Section</code></a> to the specified location along the route.
  The maximum possible offset is limited by the length of the section and cannot exceed it.</p></dd>
 </dl>
 </section>

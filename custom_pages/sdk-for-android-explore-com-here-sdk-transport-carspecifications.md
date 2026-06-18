@@ -7,7 +7,6 @@ slug: "sdk-for-android-explore-com-here-sdk-transport-carspecifications"
 `
 <div class="sdk-for-android">
 <!-- CarSpecifications.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,7 +19,7 @@ slug: "sdk-for-android-explore-com-here-sdk-transport-carspecifications"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-package-summary">com.here.sdk.transport</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-transport-package-summary">com.here.sdk.transport</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -49,43 +48,43 @@ slug: "sdk-for-android-explore-com-here-sdk-transport-carspecifications"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#axleCount">axleCount</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#axleCount">axleCount</a></code></div>
 <div class="col-last even-row-color">
 <div class="block"><span class="deprecated-label">Deprecated.</span></div>
 <div class="block">Defines total number of axles in the vehicle.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#grossWeightInKilograms">grossWeightInKilograms</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#grossWeightInKilograms">grossWeightInKilograms</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block"><span class="deprecated-label">Deprecated.</span></div>
 <div class="block">Car weight including trailers and shipped goods in kilograms.</div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#heightInCentimeters">heightInCentimeters</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#heightInCentimeters">heightInCentimeters</a></code></div>
 <div class="col-last even-row-color">
 <div class="block"><span class="deprecated-label">Deprecated.</span></div>
 <div class="block">Car height in centimeters.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#lengthInCentimeters">lengthInCentimeters</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#lengthInCentimeters">lengthInCentimeters</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block"><span class="deprecated-label">Deprecated.</span></div>
 <div class="block">Car length in centimeters.</div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#trailerAxleCount">trailerAxleCount</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#trailerAxleCount">trailerAxleCount</a></code></div>
 <div class="col-last even-row-color">
 <div class="block"><span class="deprecated-label">Deprecated.</span></div>
 <div class="block">Defines total number of axles across all the trailers attached to the vehicle.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#trailerCount">trailerCount</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#trailerCount">trailerCount</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block"><span class="deprecated-label">Deprecated.</span></div>
 <div class="block">Defines number of trailers attached to the vehicle.</div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#widthInCentimeters">widthInCentimeters</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#widthInCentimeters">widthInCentimeters</a></code></div>
 <div class="col-last even-row-color">
 <div class="block"><span class="deprecated-label">Deprecated.</span></div>
 <div class="block">Car width in centimeters.</div>
@@ -101,7 +100,7 @@ slug: "sdk-for-android-explore-com-here-sdk-transport-carspecifications"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#%3Cinit%3E()">CarSpecifications</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#%3Cinit%3E()">CarSpecifications</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block"><span class="deprecated-label">Deprecated.</span></div>
 <div class="block">Creates a new instance.</div>
@@ -121,12 +120,12 @@ slug: "sdk-for-android-explore-com-here-sdk-transport-carspecifications"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6"><code><a class="member-name-link" href="sdk-for-android-explore-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
 <div class="block"><span class="deprecated-label">Deprecated.</span></div>
  </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6"><code><a class="member-name-link" href="sdk-for-android-explore-index#hashCode()">hashCode</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
 <div class="block"><span class="deprecated-label">Deprecated.</span></div>
  </div>
@@ -199,7 +198,7 @@ slug: "sdk-for-android-explore-com-here-sdk-transport-carspecifications"
  equal to 2. By default, it is not set.
  Route calculation: When not set, possible axle count restrictions will not be
  taken into consideration.
- When specifying <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#trailerAxleCount"><code>trailerAxleCount</code></a>, then <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#axleCount"><code>axleCount</code></a> is required and must be greater than <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#trailerAxleCount"><code>trailerAxleCount</code></a>.</p></div>
+ When specifying <a href="sdk-for-android-explore-index#trailerAxleCount"><code>trailerAxleCount</code></a>, then <a href="sdk-for-android-explore-index#axleCount"><code>axleCount</code></a> is required and must be greater than <a href="sdk-for-android-explore-index#trailerAxleCount"><code>trailerAxleCount</code></a>.</p></div>
 </section>
 </li>
 <li>
@@ -210,7 +209,7 @@ slug: "sdk-for-android-explore-com-here-sdk-transport-carspecifications"
 <div class="deprecation-block"><span class="deprecated-label">Deprecated.</span></div>
 <div class="block"><p>Defines number of trailers attached to the vehicle. The provided value must be in the range
  [0, 1]. By default, it is not set.
- When specifying <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#trailerAxleCount"><code>trailerAxleCount</code></a>, then <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#trailerCount"><code>trailerCount</code></a> is required and must be greater than 0.</p></div>
+ When specifying <a href="sdk-for-android-explore-index#trailerAxleCount"><code>trailerAxleCount</code></a>, then <a href="sdk-for-android-explore-index#trailerCount"><code>trailerCount</code></a> is required and must be greater than 0.</p></div>
 </section>
 </li>
 <li>
@@ -220,8 +219,8 @@ slug: "sdk-for-android-explore-com-here-sdk-transport-carspecifications"
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a></span> <span class="element-name">trailerAxleCount</span></div>
 <div class="deprecation-block"><span class="deprecated-label">Deprecated.</span></div>
 <div class="block"><p>Defines total number of axles across all the trailers attached to the vehicle.
- This number is included in <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#axleCount"><code>axleCount</code></a>, hence <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#trailerAxleCount"><code>trailerAxleCount</code></a> must be less than <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#axleCount"><code>axleCount</code></a>
- and greater than or equal to 1. <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-1-index#axleCount"><code>axleCount</code></a> and <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#trailerCount"><code>trailerCount</code></a> are required to specify <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#trailerAxleCount"><code>trailerAxleCount</code></a>.
+ This number is included in <a href="sdk-for-android-explore-index#axleCount"><code>axleCount</code></a>, hence <a href="sdk-for-android-explore-index#trailerAxleCount"><code>trailerAxleCount</code></a> must be less than <a href="sdk-for-android-explore-index#axleCount"><code>axleCount</code></a>
+ and greater than or equal to 1. <a href="sdk-for-android-explore-index#axleCount"><code>axleCount</code></a> and <a href="sdk-for-android-explore-index#trailerCount"><code>trailerCount</code></a> are required to specify <a href="sdk-for-android-explore-index#trailerAxleCount"><code>trailerAxleCount</code></a>.
  By default, it is not set.</p></div>
 </section>
 </li>

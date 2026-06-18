@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-warner-warning"
 `
 <div class="sdk-for-android">
 <!-- Warning.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,7 +19,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-warner-warning"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.warner</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-warner-package-summary">com.here.sdk.warner</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -46,22 +45,22 @@ slug: "sdk-for-android-navigate-com-here-sdk-warner-warning"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#customWarningType">customWarningType</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#customWarningType">customWarningType</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Identifier of the custom warning type.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#distanceType">distanceType</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#distanceType">distanceType</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The type of distance measurement used for this warning.</div>
 </div>
 <div class="col-first even-row-color"><code>int</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#id">id</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#id">id</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Identifier of the warning.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-warningtype" title="enum class in com.here.sdk.navigation">WarningType</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#warningType">warningType</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-warningtype" title="enum class in com.here.sdk.navigation">WarningType</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#warningType">warningType</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The specific type of the warning.</div>
 </div>
@@ -76,9 +75,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-warner-warning"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#%3Cinit%3E(int,com.here.sdk.navigation.DistanceType,com.here.sdk.navigation.WarningType)">Warning</a><wbr/>(int id,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a> distanceType,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-warningtype" title="enum class in com.here.sdk.navigation">WarningType</a> warningType)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(int,com.here.sdk.navigation.DistanceType,com.here.sdk.navigation.WarningType)">Warning</a><wbr/>(int id,
+ <a href="sdk-for-android-navigate-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a> distanceType,
+ <a href="sdk-for-android-navigate-warningtype" title="enum class in com.here.sdk.navigation">WarningType</a> warningType)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -97,10 +96,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-warner-warning"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 </div>
 </div>
@@ -132,7 +131,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-warner-warning"
 <section class="detail" id="distanceType">
 <h3>distanceType</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a></span> <span class="element-name">distanceType</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a></span> <span class="element-name">distanceType</span></div>
 <div class="block"><p>The type of distance measurement used for this warning.</p></div>
 </section>
 </li>
@@ -140,7 +139,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-warner-warning"
 <section class="detail" id="warningType">
 <h3>warningType</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-warningtype" title="enum class in com.here.sdk.navigation">WarningType</a></span> <span class="element-name">warningType</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-warningtype" title="enum class in com.here.sdk.navigation">WarningType</a></span> <span class="element-name">warningType</span></div>
 <div class="block"><p>The specific type of the warning.</p></div>
 </section>
 </li>
@@ -169,9 +168,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-warner-warning"
 <h3>Warning</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">Warning</span><wbr/><span class="parameters">(int id,
  @NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a> distanceType,
+ <a href="sdk-for-android-navigate-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a> distanceType,
  @NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-warningtype" title="enum class in com.here.sdk.navigation">WarningType</a> warningType)</span></div>
+ <a href="sdk-for-android-navigate-warningtype" title="enum class in com.here.sdk.navigation">WarningType</a> warningType)</span></div>
 <div class="block"><p>Creates a new instance.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

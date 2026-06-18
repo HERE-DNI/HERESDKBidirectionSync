@@ -7,7 +7,6 @@ slug: "sdk-for-android-explore-com-here-sdk-traffic-trafficflowquerycallback"
 `
 <div class="sdk-for-android">
 <!-- TrafficFlowQueryCallback.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,7 +19,7 @@ slug: "sdk-for-android-explore-com-here-sdk-traffic-trafficflowquerycallback"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-package-summary">com.here.sdk.traffic</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-traffic-package-summary">com.here.sdk.traffic</a></div>
 
 </div>
 <section class="class-description" id="class-description">
@@ -32,9 +31,9 @@ slug: "sdk-for-android-explore-com-here-sdk-traffic-trafficflowquerycallback"
 <div class="type-signature"><span class="annotations"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/FunctionalInterface.html" title="class or interface in java.lang">@FunctionalInterface</a>
 </span><span class="modifiers">public interface </span><span class="element-name type-name-label">TrafficFlowQueryCallback</span></div>
 <div class="block"><p>Callback passed to following functions:
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-trafficengine#queryForFlow(com.here.sdk.core.GeoCorridor,com.here.sdk.traffic.TrafficFlowQueryOptions,com.here.sdk.traffic.TrafficFlowQueryCallback)"><code>TrafficEngine.queryForFlow(GeoBox, TrafficFlowQueryOptions, TrafficFlowQueryCallback)</code></a>
-<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-trafficengine#queryForFlow(com.here.sdk.core.GeoCorridor,com.here.sdk.traffic.TrafficFlowQueryOptions,com.here.sdk.traffic.TrafficFlowQueryCallback)"><code>TrafficEngine.queryForFlow(GeoCircle, TrafficFlowQueryOptions, TrafficFlowQueryCallback)</code></a>
-<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-trafficengine#queryForFlow(com.here.sdk.core.GeoCorridor,com.here.sdk.traffic.TrafficFlowQueryOptions,com.here.sdk.traffic.TrafficFlowQueryCallback)"><code>TrafficEngine.queryForFlow(GeoCorridor, TrafficFlowQueryOptions, TrafficFlowQueryCallback)</code></a>
+ <a href="sdk-for-android-explore-trafficengine#queryForFlow(com.here.sdk.core.GeoCorridor,com.here.sdk.traffic.TrafficFlowQueryOptions,com.here.sdk.traffic.TrafficFlowQueryCallback)"><code>TrafficEngine.queryForFlow(GeoBox, TrafficFlowQueryOptions, TrafficFlowQueryCallback)</code></a>
+<a href="sdk-for-android-explore-trafficengine#queryForFlow(com.here.sdk.core.GeoCorridor,com.here.sdk.traffic.TrafficFlowQueryOptions,com.here.sdk.traffic.TrafficFlowQueryCallback)"><code>TrafficEngine.queryForFlow(GeoCircle, TrafficFlowQueryOptions, TrafficFlowQueryCallback)</code></a>
+<a href="sdk-for-android-explore-trafficengine#queryForFlow(com.here.sdk.core.GeoCorridor,com.here.sdk.traffic.TrafficFlowQueryOptions,com.here.sdk.traffic.TrafficFlowQueryCallback)"><code>TrafficEngine.queryForFlow(GeoCorridor, TrafficFlowQueryOptions, TrafficFlowQueryCallback)</code></a>
  The method will be called on the main thread when a search call has been completed.
  The first argument is the error in the case of the failure. It is <code>null</code> for an operation that succeeds.
  The second argument is the list of flow items in the case of the success. It is <code>null</code> in case of an error.</p></div>
@@ -53,13 +52,13 @@ slug: "sdk-for-android-explore-com-here-sdk-traffic-trafficflowquerycallback"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#onTrafficFlowFetched(com.here.sdk.traffic.TrafficQueryError,java.util.List)">onTrafficFlowFetched</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-trafficqueryerror" title="enum class in com.here.sdk.traffic">TrafficQueryError</a> queryError,
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-trafficflow" title="class in com.here.sdk.traffic">TrafficFlow</a>&gt; result)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-index#onTrafficFlowFetched(com.here.sdk.traffic.TrafficQueryError,java.util.List)">onTrafficFlowFetched</a><wbr/>(<a href="sdk-for-android-explore-trafficqueryerror" title="enum class in com.here.sdk.traffic">TrafficQueryError</a> queryError,
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-trafficflow" title="class in com.here.sdk.traffic">TrafficFlow</a>&gt; result)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Callback passed to following functions:
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-trafficengine#queryForFlow(com.here.sdk.core.GeoCorridor,com.here.sdk.traffic.TrafficFlowQueryOptions,com.here.sdk.traffic.TrafficFlowQueryCallback)"><code>TrafficEngine.queryForFlow(GeoBox, TrafficFlowQueryOptions, TrafficFlowQueryCallback)</code></a>
-<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-trafficengine#queryForFlow(com.here.sdk.core.GeoCorridor,com.here.sdk.traffic.TrafficFlowQueryOptions,com.here.sdk.traffic.TrafficFlowQueryCallback)"><code>TrafficEngine.queryForFlow(GeoCircle, TrafficFlowQueryOptions, TrafficFlowQueryCallback)</code></a>
-<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-trafficengine#queryForFlow(com.here.sdk.core.GeoCorridor,com.here.sdk.traffic.TrafficFlowQueryOptions,com.here.sdk.traffic.TrafficFlowQueryCallback)"><code>TrafficEngine.queryForFlow(GeoCorridor, TrafficFlowQueryOptions, TrafficFlowQueryCallback)</code></a>
+ <a href="sdk-for-android-explore-trafficengine#queryForFlow(com.here.sdk.core.GeoCorridor,com.here.sdk.traffic.TrafficFlowQueryOptions,com.here.sdk.traffic.TrafficFlowQueryCallback)"><code>TrafficEngine.queryForFlow(GeoBox, TrafficFlowQueryOptions, TrafficFlowQueryCallback)</code></a>
+<a href="sdk-for-android-explore-trafficengine#queryForFlow(com.here.sdk.core.GeoCorridor,com.here.sdk.traffic.TrafficFlowQueryOptions,com.here.sdk.traffic.TrafficFlowQueryCallback)"><code>TrafficEngine.queryForFlow(GeoCircle, TrafficFlowQueryOptions, TrafficFlowQueryCallback)</code></a>
+<a href="sdk-for-android-explore-trafficengine#queryForFlow(com.here.sdk.core.GeoCorridor,com.here.sdk.traffic.TrafficFlowQueryOptions,com.here.sdk.traffic.TrafficFlowQueryCallback)"><code>TrafficEngine.queryForFlow(GeoCorridor, TrafficFlowQueryOptions, TrafficFlowQueryCallback)</code></a>
  The method will be called on the main thread when a search call has been completed.</div>
 </div>
 </div>
@@ -80,13 +79,13 @@ slug: "sdk-for-android-explore-com-here-sdk-traffic-trafficflowquerycallback"
 <section class="detail" id="onTrafficFlowFetched(com.here.sdk.traffic.TrafficQueryError,java.util.List)">
 <h3>onTrafficFlowFetched</h3>
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">onTrafficFlowFetched</span><wbr/><span class="parameters">(@Nullable
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-trafficqueryerror" title="enum class in com.here.sdk.traffic">TrafficQueryError</a> queryError,
+ <a href="sdk-for-android-explore-trafficqueryerror" title="enum class in com.here.sdk.traffic">TrafficQueryError</a> queryError,
  @Nullable
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-trafficflow" title="class in com.here.sdk.traffic">TrafficFlow</a>&gt; result)</span></div>
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-trafficflow" title="class in com.here.sdk.traffic">TrafficFlow</a>&gt; result)</span></div>
 <div class="block"><p>Callback passed to following functions:
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-trafficengine#queryForFlow(com.here.sdk.core.GeoCorridor,com.here.sdk.traffic.TrafficFlowQueryOptions,com.here.sdk.traffic.TrafficFlowQueryCallback)"><code>TrafficEngine.queryForFlow(GeoBox, TrafficFlowQueryOptions, TrafficFlowQueryCallback)</code></a>
-<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-trafficengine#queryForFlow(com.here.sdk.core.GeoCorridor,com.here.sdk.traffic.TrafficFlowQueryOptions,com.here.sdk.traffic.TrafficFlowQueryCallback)"><code>TrafficEngine.queryForFlow(GeoCircle, TrafficFlowQueryOptions, TrafficFlowQueryCallback)</code></a>
-<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-trafficengine#queryForFlow(com.here.sdk.core.GeoCorridor,com.here.sdk.traffic.TrafficFlowQueryOptions,com.here.sdk.traffic.TrafficFlowQueryCallback)"><code>TrafficEngine.queryForFlow(GeoCorridor, TrafficFlowQueryOptions, TrafficFlowQueryCallback)</code></a>
+ <a href="sdk-for-android-explore-trafficengine#queryForFlow(com.here.sdk.core.GeoCorridor,com.here.sdk.traffic.TrafficFlowQueryOptions,com.here.sdk.traffic.TrafficFlowQueryCallback)"><code>TrafficEngine.queryForFlow(GeoBox, TrafficFlowQueryOptions, TrafficFlowQueryCallback)</code></a>
+<a href="sdk-for-android-explore-trafficengine#queryForFlow(com.here.sdk.core.GeoCorridor,com.here.sdk.traffic.TrafficFlowQueryOptions,com.here.sdk.traffic.TrafficFlowQueryCallback)"><code>TrafficEngine.queryForFlow(GeoCircle, TrafficFlowQueryOptions, TrafficFlowQueryCallback)</code></a>
+<a href="sdk-for-android-explore-trafficengine#queryForFlow(com.here.sdk.core.GeoCorridor,com.here.sdk.traffic.TrafficFlowQueryOptions,com.here.sdk.traffic.TrafficFlowQueryCallback)"><code>TrafficEngine.queryForFlow(GeoCorridor, TrafficFlowQueryOptions, TrafficFlowQueryCallback)</code></a>
  The method will be called on the main thread when a search call has been completed.
  The first argument is the error in the case of the failure. It is <code>null</code> for an operation that succeeds.
  The second argument is the list of flow items in the case of the success. It is <code>null</code> in case of an error.</p></div>

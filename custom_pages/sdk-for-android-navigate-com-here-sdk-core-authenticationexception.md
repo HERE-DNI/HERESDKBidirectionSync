@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-authenticationexception"
 `
 <div class="sdk-for-android">
 <!-- AuthenticationException.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,7 +19,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-authenticationexception"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.core</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-core-package-summary">com.here.sdk.core</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -43,7 +42,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-authenticationexception"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-serialized-form#com.here.sdk.core.AuthenticationException">Serialized Form</a></li>
+<li><a href="sdk-for-android-navigate-serialized-form#com.here.sdk.core.AuthenticationException">Serialized Form</a></li>
 </ul>
 </dd>
 </dl>

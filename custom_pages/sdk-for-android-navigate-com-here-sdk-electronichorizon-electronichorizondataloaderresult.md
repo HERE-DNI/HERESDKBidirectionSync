@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizon
 `
 <div class="sdk-for-android">
 <!-- ElectronicHorizonDataLoaderResult.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,7 +19,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizon
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.electronichorizon</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-electronichorizon-package-summary">com.here.sdk.electronichorizon</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -30,7 +29,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizon
 <hr/>
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">ElectronicHorizonDataLoaderResult</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
-<div class="block"><p>Represents the result of a data loading operation performed by <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-electronichorizondataloader" title="class in com.here.sdk.electronichorizon"><code>ElectronicHorizonDataLoader</code></a>.
+<div class="block"><p>Represents the result of a data loading operation performed by <a href="sdk-for-android-navigate-electronichorizondataloader" title="class in com.here.sdk.electronichorizon"><code>ElectronicHorizonDataLoader</code></a>.
  The result contains either the loaded segment data or an error code.
  </p><p>Note: This is a <strong>beta</strong> release of this feature, so there could be a few bugs and unexpected behaviors.
  Related APIs may change for new releases without a deprecation process.</p></div>
@@ -46,13 +45,13 @@ slug: "sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizon
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-electronichorizondataloadererrorcode" title="enum class in com.here.sdk.electronichorizon">ElectronicHorizonDataLoaderErrorCode</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#errorCode">errorCode</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-electronichorizondataloadererrorcode" title="enum class in com.here.sdk.electronichorizon">ElectronicHorizonDataLoaderErrorCode</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#errorCode">errorCode</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The error code if the data could not be loaded, otherwise <code>null</code>.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-segmentdata" title="class in com.here.sdk.mapdata">SegmentData</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#segmentData">segmentData</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-segmentdata" title="class in com.here.sdk.mapdata">SegmentData</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#segmentData">segmentData</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The loaded segment data if it is available, otherwise <code>null</code>.</div>
 </div>
@@ -67,7 +66,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizon
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#%3Cinit%3E()">ElectronicHorizonDataLoaderResult</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E()">ElectronicHorizonDataLoaderResult</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -96,7 +95,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizon
 <section class="detail" id="errorCode">
 <h3>errorCode</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-electronichorizondataloadererrorcode" title="enum class in com.here.sdk.electronichorizon">ElectronicHorizonDataLoaderErrorCode</a></span> <span class="element-name">errorCode</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-electronichorizondataloadererrorcode" title="enum class in com.here.sdk.electronichorizon">ElectronicHorizonDataLoaderErrorCode</a></span> <span class="element-name">errorCode</span></div>
 <div class="block"><p>The error code if the data could not be loaded, otherwise <code>null</code>.</p></div>
 </section>
 </li>
@@ -104,7 +103,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizon
 <section class="detail" id="segmentData">
 <h3>segmentData</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-segmentdata" title="class in com.here.sdk.mapdata">SegmentData</a></span> <span class="element-name">segmentData</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-segmentdata" title="class in com.here.sdk.mapdata">SegmentData</a></span> <span class="element-name">segmentData</span></div>
 <div class="block"><p>The loaded segment data if it is available, otherwise <code>null</code>.</p></div>
 </section>
 </li>

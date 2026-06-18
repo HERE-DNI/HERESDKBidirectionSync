@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapmatcher-package-tree"
 `
 <div class="sdk-for-android">
 <!-- package-tree.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -22,7 +21,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapmatcher-package-tree"
 
 <span class="package-hierarchy-label">Package Hierarchies:</span>
 <ul class="horizontal">
-<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-overview-tree">All Packages</a></li>
+<li><a href="sdk-for-android-navigate-overview-tree">All Packages</a></li>
 </ul>
 </div>
 <section class="hierarchy">
@@ -30,11 +29,11 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapmatcher-package-tree"
 <ul>
 <li class="circle">java.lang.<a class="type-name-link external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a>
 <ul>
-<li class="circle">com.here.sdk.mapmatcher.<a class="type-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-com-here-sdk-mapmatcher-matchedlocation" title="class in com.here.sdk.mapmatcher">MatchedLocation</a></li>
-<li class="circle">com.here.<a class="type-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-com-here-nativebase" title="class in com.here">NativeBase</a>
+<li class="circle">com.here.sdk.mapmatcher.<a class="type-name-link" href="sdk-for-android-navigate-matchedlocation" title="class in com.here.sdk.mapmatcher">MatchedLocation</a></li>
+<li class="circle">com.here.<a class="type-name-link" href="sdk-for-android-navigate-nativebase" title="class in com.here">NativeBase</a>
 <ul>
-<li class="circle">com.here.sdk.mapmatcher.<a class="type-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-com-here-sdk-mapmatcher-locationmanager" title="class in com.here.sdk.mapmatcher">LocationManager</a> (implements com.here.sdk.core.<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-com-here-sdk-core-locationlistener" title="interface in com.here.sdk.core">LocationListener</a>)</li>
-<li class="circle">com.here.sdk.mapmatcher.<a class="type-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-com-here-sdk-mapmatcher-mapmatcher" title="class in com.here.sdk.mapmatcher">MapMatcher</a></li>
+<li class="circle">com.here.sdk.mapmatcher.<a class="type-name-link" href="sdk-for-android-navigate-locationmanager" title="class in com.here.sdk.mapmatcher">LocationManager</a> (implements com.here.sdk.core.<a href="sdk-for-android-navigate-locationlistener" title="interface in com.here.sdk.core">LocationListener</a>)</li>
+<li class="circle">com.here.sdk.mapmatcher.<a class="type-name-link" href="sdk-for-android-navigate-mapmatcher" title="class in com.here.sdk.mapmatcher">MapMatcher</a></li>
 </ul>
 </li>
 </ul>
@@ -44,7 +43,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapmatcher-package-tree"
 <section class="hierarchy">
 
 <ul>
-<li class="circle">com.here.sdk.mapmatcher.<a class="type-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-com-here-sdk-mapmatcher-matchedlocationlistener" title="interface in com.here.sdk.mapmatcher">MatchedLocationListener</a></li>
+<li class="circle">com.here.sdk.mapmatcher.<a class="type-name-link" href="sdk-for-android-navigate-matchedlocationlistener" title="interface in com.here.sdk.mapmatcher">MatchedLocationListener</a></li>
 </ul>
 </section>
 </main>

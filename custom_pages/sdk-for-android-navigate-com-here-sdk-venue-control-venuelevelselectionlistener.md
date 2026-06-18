@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-control-venuelevelselectionli
 `
 <div class="sdk-for-android">
 <!-- VenueLevelSelectionListener.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,15 +19,15 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-control-venuelevelselectionli
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.venue.control</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-venue-control-package-summary">com.here.sdk.venue.control</a></div>
 
 </div>
 <section class="class-description" id="class-description">
 <hr/>
 <div class="type-signature"><span class="modifiers">public interface </span><span class="element-name type-name-label">VenueLevelSelectionListener</span></div>
 <div class="block"><p>The interface for listeners for
- the <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuelevel" title="class in com.here.sdk.venue.data"><code>VenueLevel</code></a> selection event. Use the <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuemap" title="class in com.here.sdk.venue.control"><code>VenueMap</code></a>
- to add and remove the <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuelevelselectionlistener" title="interface in com.here.sdk.venue.control"><code>VenueLevelSelectionListener</code></a>.</p></div>
+ the <a href="sdk-for-android-navigate-venuelevel" title="class in com.here.sdk.venue.data"><code>VenueLevel</code></a> selection event. Use the <a href="sdk-for-android-navigate-venuemap" title="class in com.here.sdk.venue.control"><code>VenueMap</code></a>
+ to add and remove the <a href="sdk-for-android-navigate-venuelevelselectionlistener" title="interface in com.here.sdk.venue.control"><code>VenueLevelSelectionListener</code></a>.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -44,12 +43,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-control-venuelevelselectionli
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#onLevelSelected(com.here.sdk.venue.control.Venue,com.here.sdk.venue.data.VenueDrawing,com.here.sdk.venue.data.VenueLevel,com.here.sdk.venue.data.VenueLevel)">onLevelSelected</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venue" title="class in com.here.sdk.venue.control">Venue</a> venue,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuedrawing" title="class in com.here.sdk.venue.data">VenueDrawing</a> drawing,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuelevel" title="class in com.here.sdk.venue.data">VenueLevel</a> deselectedLevel,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuelevel" title="class in com.here.sdk.venue.data">VenueLevel</a> selectedLevel)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onLevelSelected(com.here.sdk.venue.control.Venue,com.here.sdk.venue.data.VenueDrawing,com.here.sdk.venue.data.VenueLevel,com.here.sdk.venue.data.VenueLevel)">onLevelSelected</a><wbr/>(<a href="sdk-for-android-navigate-venue" title="class in com.here.sdk.venue.control">Venue</a> venue,
+ <a href="sdk-for-android-navigate-venuedrawing" title="class in com.here.sdk.venue.data">VenueDrawing</a> drawing,
+ <a href="sdk-for-android-navigate-venuelevel" title="class in com.here.sdk.venue.data">VenueLevel</a> deselectedLevel,
+ <a href="sdk-for-android-navigate-venuelevel" title="class in com.here.sdk.venue.data">VenueLevel</a> selectedLevel)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
-<div class="block">Indicates that the selected <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuelevel" title="class in com.here.sdk.venue.data"><code>VenueLevel</code></a> of a venue changed.</div>
+<div class="block">Indicates that the selected <a href="sdk-for-android-navigate-venuelevel" title="class in com.here.sdk.venue.data"><code>VenueLevel</code></a> of a venue changed.</div>
 </div>
 </div>
 </div>
@@ -69,21 +68,21 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-control-venuelevelselectionli
 <section class="detail" id="onLevelSelected(com.here.sdk.venue.control.Venue,com.here.sdk.venue.data.VenueDrawing,com.here.sdk.venue.data.VenueLevel,com.here.sdk.venue.data.VenueLevel)">
 <h3>onLevelSelected</h3>
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">onLevelSelected</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venue" title="class in com.here.sdk.venue.control">Venue</a> venue,
+ <a href="sdk-for-android-navigate-venue" title="class in com.here.sdk.venue.control">Venue</a> venue,
  @NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuedrawing" title="class in com.here.sdk.venue.data">VenueDrawing</a> drawing,
+ <a href="sdk-for-android-navigate-venuedrawing" title="class in com.here.sdk.venue.data">VenueDrawing</a> drawing,
  @Nullable
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuelevel" title="class in com.here.sdk.venue.data">VenueLevel</a> deselectedLevel,
+ <a href="sdk-for-android-navigate-venuelevel" title="class in com.here.sdk.venue.data">VenueLevel</a> deselectedLevel,
  @NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuelevel" title="class in com.here.sdk.venue.data">VenueLevel</a> selectedLevel)</span></div>
-<div class="block"><p>Indicates that the selected <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuelevel" title="class in com.here.sdk.venue.data"><code>VenueLevel</code></a> of a venue changed.</p></div>
+ <a href="sdk-for-android-navigate-venuelevel" title="class in com.here.sdk.venue.data">VenueLevel</a> selectedLevel)</span></div>
+<div class="block"><p>Indicates that the selected <a href="sdk-for-android-navigate-venuelevel" title="class in com.here.sdk.venue.data"><code>VenueLevel</code></a> of a venue changed.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
-<dd><code>venue</code> - <p>The <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venue" title="class in com.here.sdk.venue.control"><code>Venue</code></a> where the selected <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuelevel" title="class in com.here.sdk.venue.data"><code>VenueLevel</code></a> changed.</p></dd>
-<dd><code>drawing</code> - <p>The <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuedrawing" title="class in com.here.sdk.venue.data"><code>VenueDrawing</code></a> where the selected <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuelevel" title="class in com.here.sdk.venue.data"><code>VenueLevel</code></a> changed.</p></dd>
-<dd><code>deselectedLevel</code> - <p>The previously selected <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuelevel" title="class in com.here.sdk.venue.data"><code>VenueLevel</code></a> or <code>null</code>
+<dd><code>venue</code> - <p>The <a href="sdk-for-android-navigate-venue" title="class in com.here.sdk.venue.control"><code>Venue</code></a> where the selected <a href="sdk-for-android-navigate-venuelevel" title="class in com.here.sdk.venue.data"><code>VenueLevel</code></a> changed.</p></dd>
+<dd><code>drawing</code> - <p>The <a href="sdk-for-android-navigate-venuedrawing" title="class in com.here.sdk.venue.data"><code>VenueDrawing</code></a> where the selected <a href="sdk-for-android-navigate-venuelevel" title="class in com.here.sdk.venue.data"><code>VenueLevel</code></a> changed.</p></dd>
+<dd><code>deselectedLevel</code> - <p>The previously selected <a href="sdk-for-android-navigate-venuelevel" title="class in com.here.sdk.venue.data"><code>VenueLevel</code></a> or <code>null</code>
      if there was no selected level before.</p></dd>
-<dd><code>selectedLevel</code> - <p>The new selected <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuelevel" title="class in com.here.sdk.venue.data"><code>VenueLevel</code></a>.</p></dd>
+<dd><code>selectedLevel</code> - <p>The new selected <a href="sdk-for-android-navigate-venuelevel" title="class in com.here.sdk.venue.data"><code>VenueLevel</code></a>.</p></dd>
 </dl>
 </section>
 </li>

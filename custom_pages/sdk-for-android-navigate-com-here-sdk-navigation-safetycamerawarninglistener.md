@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-safetycamerawarningliste
 `
 <div class="sdk-for-android">
 <!-- SafetyCameraWarningListener.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,7 +19,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-safetycamerawarningliste
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.navigation</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-navigation-package-summary">com.here.sdk.navigation</a></div>
 
 </div>
 <section class="class-description" id="class-description">
@@ -51,7 +50,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-safetycamerawarningliste
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#onSafetyCameraWarningUpdated(com.here.sdk.navigation.SafetyCameraWarning)">onSafetyCameraWarningUpdated</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-safetycamerawarning" title="class in com.here.sdk.navigation">SafetyCameraWarning</a> safetyCameraWarning)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onSafetyCameraWarningUpdated(com.here.sdk.navigation.SafetyCameraWarning)">onSafetyCameraWarningUpdated</a><wbr/>(<a href="sdk-for-android-navigate-safetycamerawarning" title="class in com.here.sdk.navigation">SafetyCameraWarning</a> safetyCameraWarning)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Called whenever a new <code>SafetyCameraWarning</code> is available.</div>
 </div>
@@ -73,7 +72,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-safetycamerawarningliste
 <section class="detail" id="onSafetyCameraWarningUpdated(com.here.sdk.navigation.SafetyCameraWarning)">
 <h3>onSafetyCameraWarningUpdated</h3>
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">onSafetyCameraWarningUpdated</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-safetycamerawarning" title="class in com.here.sdk.navigation">SafetyCameraWarning</a> safetyCameraWarning)</span></div>
+ <a href="sdk-for-android-navigate-safetycamerawarning" title="class in com.here.sdk.navigation">SafetyCameraWarning</a> safetyCameraWarning)</span></div>
 <div class="block"><p>Called whenever a new <code>SafetyCameraWarning</code> is available.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

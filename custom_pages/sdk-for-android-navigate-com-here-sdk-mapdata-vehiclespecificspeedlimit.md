@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-vehiclespecificspeedlimit"
 `
 <div class="sdk-for-android">
 <!-- VehicleSpecificSpeedLimit.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,7 +19,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-vehiclespecificspeedlimit"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.mapdata</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-mapdata-package-summary">com.here.sdk.mapdata</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -46,22 +45,22 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-vehiclespecificspeedlimit"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#builtUpAreaMaxOverrideSpeedInMetersPerSecond">builtUpAreaMaxOverrideSpeedInMetersPerSecond</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#builtUpAreaMaxOverrideSpeedInMetersPerSecond">builtUpAreaMaxOverrideSpeedInMetersPerSecond</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Max Override Speed indicates the maximum speed a commercial vehicle may travel within a BUA.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-vehiclerestrictioncondition" title="class in com.here.sdk.mapdata">VehicleRestrictionCondition</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#condition">condition</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-vehiclerestrictioncondition" title="class in com.here.sdk.mapdata">VehicleRestrictionCondition</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#condition">condition</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Conditions under which this speed limit is active.</div>
 </div>
 <div class="col-first even-row-color"><code>boolean</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#isAdvisory">isAdvisory</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#isAdvisory">isAdvisory</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">If true, this speed limit is advisory rather than legally enforced.</div>
 </div>
 <div class="col-first odd-row-color"><code>double</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#speedLimitInMetersPerSecond">speedLimitInMetersPerSecond</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#speedLimitInMetersPerSecond">speedLimitInMetersPerSecond</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Maximum permitted speed in meters per second.</div>
 </div>
@@ -76,9 +75,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-vehiclespecificspeedlimit"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#%3Cinit%3E(double,boolean,com.here.sdk.mapdata.VehicleRestrictionCondition)">VehicleSpecificSpeedLimit</a><wbr/>(double speedLimitInMetersPerSecond,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(double,boolean,com.here.sdk.mapdata.VehicleRestrictionCondition)">VehicleSpecificSpeedLimit</a><wbr/>(double speedLimitInMetersPerSecond,
  boolean isAdvisory,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-vehiclerestrictioncondition" title="class in com.here.sdk.mapdata">VehicleRestrictionCondition</a> condition)</code></div>
+ <a href="sdk-for-android-navigate-vehiclerestrictioncondition" title="class in com.here.sdk.mapdata">VehicleRestrictionCondition</a> condition)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance with specified parameters.</div>
 </div>
@@ -97,10 +96,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-vehiclespecificspeedlimit"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 </div>
 </div>
@@ -147,7 +146,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-vehiclespecificspeedlimit"
 <section class="detail" id="condition">
 <h3>condition</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-vehiclerestrictioncondition" title="class in com.here.sdk.mapdata">VehicleRestrictionCondition</a></span> <span class="element-name">condition</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-vehiclerestrictioncondition" title="class in com.here.sdk.mapdata">VehicleRestrictionCondition</a></span> <span class="element-name">condition</span></div>
 <div class="block"><p>Conditions under which this speed limit is active.</p></div>
 </section>
 </li>
@@ -165,7 +164,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-vehiclespecificspeedlimit"
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">VehicleSpecificSpeedLimit</span><wbr/><span class="parameters">(double speedLimitInMetersPerSecond,
  boolean isAdvisory,
  @NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-vehiclerestrictioncondition" title="class in com.here.sdk.mapdata">VehicleRestrictionCondition</a> condition)</span></div>
+ <a href="sdk-for-android-navigate-vehiclerestrictioncondition" title="class in com.here.sdk.mapdata">VehicleRestrictionCondition</a> condition)</span></div>
 <div class="block"><p>Creates a new instance with specified parameters.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

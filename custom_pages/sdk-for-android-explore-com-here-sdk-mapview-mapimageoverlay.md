@@ -7,7 +7,6 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapimageoverlay"
 `
 <div class="sdk-for-android">
 <!-- MapImageOverlay.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,25 +19,25 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapimageoverlay"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-package-summary">com.here.sdk.mapview</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-nativebase" title="class in com.here">com.here.NativeBase</a>
+<div class="inheritance"><a href="sdk-for-android-explore-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.mapview.MapImageOverlay</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 <hr/>
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">MapImageOverlay</span>
-<span class="extends-implements">extends <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-nativebase" title="class in com.here">NativeBase</a></span></div>
+<span class="extends-implements">extends <a href="sdk-for-android-explore-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p><code>MapImageOverlay</code> is used to draw images over the map, at a view coordinate inside the map viewport.
- </p><p>The image to be displayed is represented by a <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-mapimage" title="class in com.here.sdk.mapview"><code>MapImage</code></a> object.
+ </p><p>The image to be displayed is represented by a <a href="sdk-for-android-explore-mapimage" title="class in com.here.sdk.mapview"><code>MapImage</code></a> object.
  By default, the overlay is centered on the given view coordinate.
  </p><p>The resulting viewport area covered by the overlay is computed out of the overlay's view coordinate,
  the anchor point and the image size. The overlay subareas that fall outside of the map viewport get clipped.
- </p><p>To display the map overlay, it needs to be added to the scene using <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-mapscene#addMapImageOverlay(com.here.sdk.mapview.MapImageOverlay)"><code>MapScene.addMapImageOverlay(com.here.sdk.mapview.MapImageOverlay)</code></a>.
- To stop displaying it, remove it from the scene using <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-mapscene#removeMapImageOverlay(com.here.sdk.mapview.MapImageOverlay)"><code>MapScene.removeMapImageOverlay(com.here.sdk.mapview.MapImageOverlay)</code></a>.</p></div>
+ </p><p>To display the map overlay, it needs to be added to the scene using <a href="sdk-for-android-explore-mapscene#addMapImageOverlay(com.here.sdk.mapview.MapImageOverlay)"><code>MapScene.addMapImageOverlay(com.here.sdk.mapview.MapImageOverlay)</code></a>.
+ To stop displaying it, remove it from the scene using <a href="sdk-for-android-explore-mapscene#removeMapImageOverlay(com.here.sdk.mapview.MapImageOverlay)"><code>MapScene.removeMapImageOverlay(com.here.sdk.mapview.MapImageOverlay)</code></a>.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -50,14 +49,14 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapimageoverlay"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#%3Cinit%3E(com.here.sdk.core.Point2D,com.here.sdk.mapview.MapImage)">MapImageOverlay</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-point2d" title="class in com.here.sdk.core">Point2D</a> viewCoordinates,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-mapimage" title="class in com.here.sdk.mapview">MapImage</a> image)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#%3Cinit%3E(com.here.sdk.core.Point2D,com.here.sdk.mapview.MapImage)">MapImageOverlay</a><wbr/>(<a href="sdk-for-android-explore-point2d" title="class in com.here.sdk.core">Point2D</a> viewCoordinates,
+ <a href="sdk-for-android-explore-mapimage" title="class in com.here.sdk.mapview">MapImage</a> image)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates an instance of an overlay at given view coordinates, represented by specified image.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#%3Cinit%3E(com.here.sdk.core.Point2D,com.here.sdk.mapview.MapImage,com.here.sdk.core.Anchor2D)">MapImageOverlay</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-point2d" title="class in com.here.sdk.core">Point2D</a> viewCoordinates,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-mapimage" title="class in com.here.sdk.mapview">MapImage</a> image,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-anchor2d" title="class in com.here.sdk.core">Anchor2D</a> anchor)</code></div>
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#%3Cinit%3E(com.here.sdk.core.Point2D,com.here.sdk.mapview.MapImage,com.here.sdk.core.Anchor2D)">MapImageOverlay</a><wbr/>(<a href="sdk-for-android-explore-point2d" title="class in com.here.sdk.core">Point2D</a> viewCoordinates,
+ <a href="sdk-for-android-explore-mapimage" title="class in com.here.sdk.mapview">MapImage</a> image,
+ <a href="sdk-for-android-explore-anchor2d" title="class in com.here.sdk.core">Anchor2D</a> anchor)</code></div>
 <div class="col-last odd-row-color">
 <div class="block">Creates an instance of an overlay at given view coordinates, represented by specified image,
  with anchor point specifying how the image is positioned relative to the overlay's view coordinates.</div>
@@ -76,44 +75,44 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapimageoverlay"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-anchor2d" title="class in com.here.sdk.core">Anchor2D</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#getAnchor()">getAnchor</a>()</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-anchor2d" title="class in com.here.sdk.core">Anchor2D</a></code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#getAnchor()">getAnchor</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets current anchor point for the overlay image.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#getDrawOrder()">getDrawOrder</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#getDrawOrder()">getDrawOrder</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets draw order of this <code>MapImageOverlay</code>.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-mapimage" title="class in com.here.sdk.mapview">MapImage</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#getImage()">getImage</a>()</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-mapimage" title="class in com.here.sdk.mapview">MapImage</a></code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#getImage()">getImage</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets currently used map image.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-point2d" title="class in com.here.sdk.core">Point2D</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#getViewCoordinates()">getViewCoordinates</a>()</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-point2d" title="class in com.here.sdk.core">Point2D</a></code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#getViewCoordinates()">getViewCoordinates</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the view point in pixels on the map viewport where the overlay is drawn.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#setAnchor(com.here.sdk.core.Anchor2D)">setAnchor</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-anchor2d" title="class in com.here.sdk.core">Anchor2D</a> value)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#setAnchor(com.here.sdk.core.Anchor2D)">setAnchor</a><wbr/>(<a href="sdk-for-android-explore-anchor2d" title="class in com.here.sdk.core">Anchor2D</a> value)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets anchor point of the overlay image which specifies the position offset relative
  to the overlay's view coordinates.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#setDrawOrder(int)">setDrawOrder</a><wbr/>(int value)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#setDrawOrder(int)">setDrawOrder</a><wbr/>(int value)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets draw order of this <code>MapImageOverlay</code>.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#setImage(com.here.sdk.mapview.MapImage)">setImage</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-mapimage" title="class in com.here.sdk.mapview">MapImage</a> value)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#setImage(com.here.sdk.mapview.MapImage)">setImage</a><wbr/>(<a href="sdk-for-android-explore-mapimage" title="class in com.here.sdk.mapview">MapImage</a> value)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the image overlayed on map.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#setViewCoordinates(com.here.sdk.core.Point2D)">setViewCoordinates</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-point2d" title="class in com.here.sdk.core">Point2D</a> value)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#setViewCoordinates(com.here.sdk.core.Point2D)">setViewCoordinates</a><wbr/>(<a href="sdk-for-android-explore-point2d" title="class in com.here.sdk.core">Point2D</a> value)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the view point in pixels on the map viewport where the overlay is drawn.</div>
 </div>
@@ -138,9 +137,9 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapimageoverlay"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.core.Point2D,com.here.sdk.mapview.MapImage)">
 <h3>MapImageOverlay</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">MapImageOverlay</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-point2d" title="class in com.here.sdk.core">Point2D</a> viewCoordinates,
+ <a href="sdk-for-android-explore-point2d" title="class in com.here.sdk.core">Point2D</a> viewCoordinates,
  @NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-mapimage" title="class in com.here.sdk.mapview">MapImage</a> image)</span></div>
+ <a href="sdk-for-android-explore-mapimage" title="class in com.here.sdk.mapview">MapImage</a> image)</span></div>
 <div class="block"><p>Creates an instance of an overlay at given view coordinates, represented by specified image.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -153,11 +152,11 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapimageoverlay"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.core.Point2D,com.here.sdk.mapview.MapImage,com.here.sdk.core.Anchor2D)">
 <h3>MapImageOverlay</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">MapImageOverlay</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-point2d" title="class in com.here.sdk.core">Point2D</a> viewCoordinates,
+ <a href="sdk-for-android-explore-point2d" title="class in com.here.sdk.core">Point2D</a> viewCoordinates,
  @NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-mapimage" title="class in com.here.sdk.mapview">MapImage</a> image,
+ <a href="sdk-for-android-explore-mapimage" title="class in com.here.sdk.mapview">MapImage</a> image,
  @NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-anchor2d" title="class in com.here.sdk.core">Anchor2D</a> anchor)</span></div>
+ <a href="sdk-for-android-explore-anchor2d" title="class in com.here.sdk.core">Anchor2D</a> anchor)</span></div>
 <div class="block"><p>Creates an instance of an overlay at given view coordinates, represented by specified image,
  with anchor point specifying how the image is positioned relative to the overlay's view coordinates.
  </p><p>The anchor is a way of specifying position offset relative to image's dimensions on the view.
@@ -188,7 +187,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapimageoverlay"
 <section class="detail" id="getViewCoordinates()">
 <h3>getViewCoordinates</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-point2d" title="class in com.here.sdk.core">Point2D</a></span> <span class="element-name">getViewCoordinates</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-point2d" title="class in com.here.sdk.core">Point2D</a></span> <span class="element-name">getViewCoordinates</span>()</div>
 <div class="block"><p>Gets the view point in pixels on the map viewport where the overlay is drawn.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -200,7 +199,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapimageoverlay"
 <section class="detail" id="setViewCoordinates(com.here.sdk.core.Point2D)">
 <h3>setViewCoordinates</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setViewCoordinates</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-point2d" title="class in com.here.sdk.core">Point2D</a> value)</span></div>
+ <a href="sdk-for-android-explore-point2d" title="class in com.here.sdk.core">Point2D</a> value)</span></div>
 <div class="block"><p>Sets the view point in pixels on the map viewport where the overlay is drawn.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -238,7 +237,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapimageoverlay"
 <section class="detail" id="getImage()">
 <h3>getImage</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-mapimage" title="class in com.here.sdk.mapview">MapImage</a></span> <span class="element-name">getImage</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-mapimage" title="class in com.here.sdk.mapview">MapImage</a></span> <span class="element-name">getImage</span>()</div>
 <div class="block"><p>Gets currently used map image.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -250,7 +249,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapimageoverlay"
 <section class="detail" id="setImage(com.here.sdk.mapview.MapImage)">
 <h3>setImage</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setImage</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-mapimage" title="class in com.here.sdk.mapview">MapImage</a> value)</span></div>
+ <a href="sdk-for-android-explore-mapimage" title="class in com.here.sdk.mapview">MapImage</a> value)</span></div>
 <div class="block"><p>Sets the image overlayed on map.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -262,7 +261,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapimageoverlay"
 <section class="detail" id="getAnchor()">
 <h3>getAnchor</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-anchor2d" title="class in com.here.sdk.core">Anchor2D</a></span> <span class="element-name">getAnchor</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-anchor2d" title="class in com.here.sdk.core">Anchor2D</a></span> <span class="element-name">getAnchor</span>()</div>
 <div class="block"><p>Gets current anchor point for the overlay image.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -275,7 +274,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapimageoverlay"
 <section class="detail" id="setAnchor(com.here.sdk.core.Anchor2D)">
 <h3>setAnchor</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setAnchor</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-anchor2d" title="class in com.here.sdk.core">Anchor2D</a> value)</span></div>
+ <a href="sdk-for-android-explore-anchor2d" title="class in com.here.sdk.core">Anchor2D</a> value)</span></div>
 <div class="block"><p>Sets anchor point of the overlay image which specifies the position offset relative
  to the overlay's view coordinates.
  </p><p>For example, (0, 0) places the top-left corner of the image at the overlay's view coordinates.

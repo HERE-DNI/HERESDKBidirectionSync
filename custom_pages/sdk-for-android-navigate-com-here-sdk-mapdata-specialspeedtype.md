@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-specialspeedtype"
 `
 <div class="sdk-for-android">
 <!-- SpecialSpeedType.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,22 +19,22 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-specialspeedtype"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.mapdata</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-mapdata-package-summary">com.here.sdk.mapdata</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">java.lang.Enum</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-specialspeedtype" title="enum class in com.here.sdk.mapdata">SpecialSpeedType</a>&gt;
+<div class="inheritance"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">java.lang.Enum</a>&lt;<a href="sdk-for-android-navigate-specialspeedtype" title="enum class in com.here.sdk.mapdata">SpecialSpeedType</a>&gt;
 <div class="inheritance">com.here.sdk.mapdata.SpecialSpeedType</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>All Implemented Interfaces:</dt>
-<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" title="class or interface in java.io">Serializable</a></code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" title="class or interface in java.lang">Comparable</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-specialspeedtype" title="enum class in com.here.sdk.mapdata">SpecialSpeedType</a>&gt;</code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" title="class or interface in java.lang.constant">Constable</a></code></dd>
+<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" title="class or interface in java.io">Serializable</a></code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" title="class or interface in java.lang">Comparable</a>&lt;<a href="sdk-for-android-navigate-specialspeedtype" title="enum class in com.here.sdk.mapdata">SpecialSpeedType</a>&gt;</code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" title="class or interface in java.lang.constant">Constable</a></code></dd>
 </dl>
 <hr/>
 <div class="type-signature"><span class="modifiers">public enum </span><span class="element-name type-name-label">SpecialSpeedType</span>
-<span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-specialspeedtype" title="enum class in com.here.sdk.mapdata">SpecialSpeedType</a>&gt;</span></div>
+<span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a href="sdk-for-android-navigate-specialspeedtype" title="enum class in com.here.sdk.mapdata">SpecialSpeedType</a>&gt;</span></div>
 <div class="block"><p>Represents the speed situation type.
  </p><p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
  Related APIs may change for new releases without a deprecation process.</p></div>
@@ -59,46 +58,46 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-specialspeedtype"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Enum Constant</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#ADVISORY_SPEED">ADVISORY_SPEED</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#ADVISORY_SPEED">ADVISORY_SPEED</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">These posted speeds are not the legal limit, but rather serve to warn a driver that road conditions
  indicate a lower speed is practical.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#APPROXIMATE_SEASONAL_TIME">APPROXIMATE_SEASONAL_TIME</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#APPROXIMATE_SEASONAL_TIME">APPROXIMATE_SEASONAL_TIME</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Speed limit that is in effect considering the season</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#FOG">FOG</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#FOG">FOG</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A conditional speed limit as indicated on the local road signs.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#LANE_DEPENDENT">LANE_DEPENDENT</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#LANE_DEPENDENT">LANE_DEPENDENT</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">These are situations where a road has different speed limits per lane.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#RAIN">RAIN</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#RAIN">RAIN</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A conditional speed limit as indicated on the local road signs.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#SCHOOL">SCHOOL</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#SCHOOL">SCHOOL</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">School zone signs are often placed to slow drivers before reaching an intersection where children are
  crossing.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#SNOW">SNOW</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#SNOW">SNOW</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A conditional speed limit as indicated on the local road signs.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#SPEED_BUMPS_PRESENT">SPEED_BUMPS_PRESENT</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#SPEED_BUMPS_PRESENT">SPEED_BUMPS_PRESENT</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">This indicates that for a stretch of road, speed bumps are
  present or chicanes are present that effectively reduce the posted speed.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#TIME_DEPENDENT">TIME_DEPENDENT</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#TIME_DEPENDENT">TIME_DEPENDENT</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A conditional speed limit as indicated on the local road signs.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#UNKNOWN">UNKNOWN</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#UNKNOWN">UNKNOWN</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Unknown special speed type</div>
 </div>
@@ -116,13 +115,13 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-specialspeedtype"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-specialspeedtype" title="enum class in com.here.sdk.mapdata">SpecialSpeedType</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-specialspeedtype" title="enum class in com.here.sdk.mapdata">SpecialSpeedType</a></code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-specialspeedtype" title="enum class in com.here.sdk.mapdata">SpecialSpeedType</a>[]</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#values()">values</a>()</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-specialspeedtype" title="enum class in com.here.sdk.mapdata">SpecialSpeedType</a>[]</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
@@ -150,14 +149,14 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="UNKNOWN">
 <h3>UNKNOWN</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-specialspeedtype" title="enum class in com.here.sdk.mapdata">SpecialSpeedType</a></span> <span class="element-name">UNKNOWN</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-specialspeedtype" title="enum class in com.here.sdk.mapdata">SpecialSpeedType</a></span> <span class="element-name">UNKNOWN</span></div>
 <div class="block"><p>Unknown special speed type</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="ADVISORY_SPEED">
 <h3>ADVISORY_SPEED</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-specialspeedtype" title="enum class in com.here.sdk.mapdata">SpecialSpeedType</a></span> <span class="element-name">ADVISORY_SPEED</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-specialspeedtype" title="enum class in com.here.sdk.mapdata">SpecialSpeedType</a></span> <span class="element-name">ADVISORY_SPEED</span></div>
 <div class="block"><p>These posted speeds are not the legal limit, but rather serve to warn a driver that road conditions
  indicate a lower speed is practical. Typically, the road condition is a curved road or a ramp but it may be
  due to a narrow road, narrow bridge, intersecting road, drainage dip, etc. In some cases, the advisory sign
@@ -173,7 +172,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="SPEED_BUMPS_PRESENT">
 <h3>SPEED_BUMPS_PRESENT</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-specialspeedtype" title="enum class in com.here.sdk.mapdata">SpecialSpeedType</a></span> <span class="element-name">SPEED_BUMPS_PRESENT</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-specialspeedtype" title="enum class in com.here.sdk.mapdata">SpecialSpeedType</a></span> <span class="element-name">SPEED_BUMPS_PRESENT</span></div>
 <div class="block"><p>This indicates that for a stretch of road, speed bumps are
  present or chicanes are present that effectively reduce the posted speed.</p></div>
 </section>
@@ -181,7 +180,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="SCHOOL">
 <h3>SCHOOL</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-specialspeedtype" title="enum class in com.here.sdk.mapdata">SpecialSpeedType</a></span> <span class="element-name">SCHOOL</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-specialspeedtype" title="enum class in com.here.sdk.mapdata">SpecialSpeedType</a></span> <span class="element-name">SCHOOL</span></div>
 <div class="block"><p>School zone signs are often placed to slow drivers before reaching an intersection where children are
  crossing.</p></div>
 </section>
@@ -189,7 +188,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="TIME_DEPENDENT">
 <h3>TIME_DEPENDENT</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-specialspeedtype" title="enum class in com.here.sdk.mapdata">SpecialSpeedType</a></span> <span class="element-name">TIME_DEPENDENT</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-specialspeedtype" title="enum class in com.here.sdk.mapdata">SpecialSpeedType</a></span> <span class="element-name">TIME_DEPENDENT</span></div>
 <div class="block"><p>A conditional speed limit as indicated on the local road signs.
  Speed limit that is in effect considering the current local time provided by the device's
  clock.</p></div>
@@ -198,21 +197,21 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="APPROXIMATE_SEASONAL_TIME">
 <h3>APPROXIMATE_SEASONAL_TIME</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-specialspeedtype" title="enum class in com.here.sdk.mapdata">SpecialSpeedType</a></span> <span class="element-name">APPROXIMATE_SEASONAL_TIME</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-specialspeedtype" title="enum class in com.here.sdk.mapdata">SpecialSpeedType</a></span> <span class="element-name">APPROXIMATE_SEASONAL_TIME</span></div>
 <div class="block"><p>Speed limit that is in effect considering the season</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="LANE_DEPENDENT">
 <h3>LANE_DEPENDENT</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-specialspeedtype" title="enum class in com.here.sdk.mapdata">SpecialSpeedType</a></span> <span class="element-name">LANE_DEPENDENT</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-specialspeedtype" title="enum class in com.here.sdk.mapdata">SpecialSpeedType</a></span> <span class="element-name">LANE_DEPENDENT</span></div>
 <div class="block"><p>These are situations where a road has different speed limits per lane.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="RAIN">
 <h3>RAIN</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-specialspeedtype" title="enum class in com.here.sdk.mapdata">SpecialSpeedType</a></span> <span class="element-name">RAIN</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-specialspeedtype" title="enum class in com.here.sdk.mapdata">SpecialSpeedType</a></span> <span class="element-name">RAIN</span></div>
 <div class="block"><p>A conditional speed limit as indicated on the local road signs.
  The road speed limit that is in effect only when it is raining or there is water on the road.
  </p><p>A possible usage example can be to show an icon on the device's screen containing both
@@ -223,7 +222,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="SNOW">
 <h3>SNOW</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-specialspeedtype" title="enum class in com.here.sdk.mapdata">SpecialSpeedType</a></span> <span class="element-name">SNOW</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-specialspeedtype" title="enum class in com.here.sdk.mapdata">SpecialSpeedType</a></span> <span class="element-name">SNOW</span></div>
 <div class="block"><p>A conditional speed limit as indicated on the local road signs.
  The road speed limit that is in effect only when there is snow on the road.
  </p><p>A possible usage example can be to show an icon on the device's screen containing both
@@ -234,7 +233,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="FOG">
 <h3>FOG</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-specialspeedtype" title="enum class in com.here.sdk.mapdata">SpecialSpeedType</a></span> <span class="element-name">FOG</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-specialspeedtype" title="enum class in com.here.sdk.mapdata">SpecialSpeedType</a></span> <span class="element-name">FOG</span></div>
 <div class="block"><p>A conditional speed limit as indicated on the local road signs.
  The road speed limit that is in effect only when the visibility decreases due to fog.
  </p><p>A possible usage example can be to show an icon on the device's screen containing both
@@ -253,7 +252,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="values()">
 <h3>values</h3>
-<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-specialspeedtype" title="enum class in com.here.sdk.mapdata">SpecialSpeedType</a>[]</span> <span class="element-name">values</span>()</div>
+<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-navigate-specialspeedtype" title="enum class in com.here.sdk.mapdata">SpecialSpeedType</a>[]</span> <span class="element-name">values</span>()</div>
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
 <dl class="notes">
@@ -265,7 +264,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="valueOf(java.lang.String)">
 <h3>valueOf</h3>
-<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-specialspeedtype" title="enum class in com.here.sdk.mapdata">SpecialSpeedType</a></span> <span class="element-name">valueOf</span><wbr/><span class="parameters">(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</span></div>
+<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-navigate-specialspeedtype" title="enum class in com.here.sdk.mapdata">SpecialSpeedType</a></span> <span class="element-name">valueOf</span><wbr/><span class="parameters">(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</span></div>
 <div class="block">Returns the enum constant of this class with the specified name.
 The string must match <i>exactly</i> an identifier used to declare an
 enum constant in this class.  (Extraneous whitespace characters are 

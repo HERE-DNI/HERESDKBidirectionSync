@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-installedregion"
 `
 <div class="sdk-for-android">
 <!-- InstalledRegion.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,7 +19,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-installedregion"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.maploader</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-maploader-package-summary">com.here.sdk.maploader</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -44,27 +43,27 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-installedregion"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" title="class or interface in java.util">Date</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#lastUpdateTime">lastUpdateTime</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#lastUpdateTime">lastUpdateTime</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The last update time of the region in the persistent map storage.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-regionid" title="class in com.here.sdk.maploader">RegionId</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#parentId">parentId</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-regionid" title="class in com.here.sdk.maploader">RegionId</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#parentId">parentId</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Parent region identifier.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-regionid" title="class in com.here.sdk.maploader">RegionId</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#regionId">regionId</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-regionid" title="class in com.here.sdk.maploader">RegionId</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#regionId">regionId</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Unique identifier specifying a region.</div>
 </div>
 <div class="col-first odd-row-color"><code>long</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#sizeOnDiskInBytes">sizeOnDiskInBytes</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#sizeOnDiskInBytes">sizeOnDiskInBytes</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Region size on disk in bytes.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-installedregionstatus" title="enum class in com.here.sdk.maploader">InstalledRegionStatus</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#status">status</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-installedregionstatus" title="enum class in com.here.sdk.maploader">InstalledRegionStatus</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#status">status</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Status of the region in the persistent map storage.</div>
 </div>
@@ -79,10 +78,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-installedregion"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.maploader.RegionId,com.here.sdk.maploader.RegionId,long,com.here.sdk.maploader.InstalledRegionStatus)">InstalledRegion</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-regionid" title="class in com.here.sdk.maploader">RegionId</a> regionId,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-regionid" title="class in com.here.sdk.maploader">RegionId</a> parentId,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.maploader.RegionId,com.here.sdk.maploader.RegionId,long,com.here.sdk.maploader.InstalledRegionStatus)">InstalledRegion</a><wbr/>(<a href="sdk-for-android-navigate-regionid" title="class in com.here.sdk.maploader">RegionId</a> regionId,
+ <a href="sdk-for-android-navigate-regionid" title="class in com.here.sdk.maploader">RegionId</a> parentId,
  long sizeOnDiskInBytes,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-installedregionstatus" title="enum class in com.here.sdk.maploader">InstalledRegionStatus</a> status)</code></div>
+ <a href="sdk-for-android-navigate-installedregionstatus" title="enum class in com.here.sdk.maploader">InstalledRegionStatus</a> status)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -101,10 +100,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-installedregion"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 </div>
 </div>
@@ -127,7 +126,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-installedregion"
 <section class="detail" id="regionId">
 <h3>regionId</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-regionid" title="class in com.here.sdk.maploader">RegionId</a></span> <span class="element-name">regionId</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-regionid" title="class in com.here.sdk.maploader">RegionId</a></span> <span class="element-name">regionId</span></div>
 <div class="block"><p>Unique identifier specifying a region.</p></div>
 </section>
 </li>
@@ -135,7 +134,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-installedregion"
 <section class="detail" id="parentId">
 <h3>parentId</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-regionid" title="class in com.here.sdk.maploader">RegionId</a></span> <span class="element-name">parentId</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-regionid" title="class in com.here.sdk.maploader">RegionId</a></span> <span class="element-name">parentId</span></div>
 <div class="block"><p>Parent region identifier. Continents have a parent_id of 0.</p></div>
 </section>
 </li>
@@ -150,7 +149,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-installedregion"
 <section class="detail" id="status">
 <h3>status</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-installedregionstatus" title="enum class in com.here.sdk.maploader">InstalledRegionStatus</a></span> <span class="element-name">status</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-installedregionstatus" title="enum class in com.here.sdk.maploader">InstalledRegionStatus</a></span> <span class="element-name">status</span></div>
 <div class="block"><p>Status of the region in the persistent map storage.</p></div>
 </section>
 </li>
@@ -174,12 +173,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-installedregion"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.maploader.RegionId,com.here.sdk.maploader.RegionId,long,com.here.sdk.maploader.InstalledRegionStatus)">
 <h3>InstalledRegion</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">InstalledRegion</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-regionid" title="class in com.here.sdk.maploader">RegionId</a> regionId,
+ <a href="sdk-for-android-navigate-regionid" title="class in com.here.sdk.maploader">RegionId</a> regionId,
  @NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-regionid" title="class in com.here.sdk.maploader">RegionId</a> parentId,
+ <a href="sdk-for-android-navigate-regionid" title="class in com.here.sdk.maploader">RegionId</a> parentId,
  long sizeOnDiskInBytes,
  @NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-installedregionstatus" title="enum class in com.here.sdk.maploader">InstalledRegionStatus</a> status)</span></div>
+ <a href="sdk-for-android-navigate-installedregionstatus" title="enum class in com.here.sdk.maploader">InstalledRegionStatus</a> status)</span></div>
 <div class="block"><p>Creates a new instance.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

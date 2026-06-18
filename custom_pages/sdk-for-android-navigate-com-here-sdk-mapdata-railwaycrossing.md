@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-railwaycrossing"
 `
 <div class="sdk-for-android">
 <!-- RailwayCrossing.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,7 +19,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-railwaycrossing"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.mapdata</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-mapdata-package-summary">com.here.sdk.mapdata</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -31,7 +30,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-railwaycrossing"
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">RailwayCrossing</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
 <div class="block"><p>Identifies the presence and the location of railway corssings.
- Included in <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-segmentdata" title="class in com.here.sdk.mapdata"><code>SegmentData</code></a> only if <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-segmentdataloaderoptions#loadRailwayCrossings"><code>SegmentDataLoaderOptions.loadRailwayCrossings</code></a> is set to <code>true</code>.</p></div>
+ Included in <a href="sdk-for-android-navigate-segmentdata" title="class in com.here.sdk.mapdata"><code>SegmentData</code></a> only if <a href="sdk-for-android-navigate-segmentdataloaderoptions#loadRailwayCrossings"><code>SegmentDataLoaderOptions.loadRailwayCrossings</code></a> is set to <code>true</code>.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -45,17 +44,17 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-railwaycrossing"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>int</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#endOffsetInMeters">endOffsetInMeters</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#endOffsetInMeters">endOffsetInMeters</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The end offset, in meters, from the beginning of the segment.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-railwaycrossingtype" title="enum class in com.here.sdk.mapdata">RailwayCrossingType</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#railwayCrossingType">railwayCrossingType</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-railwaycrossingtype" title="enum class in com.here.sdk.mapdata">RailwayCrossingType</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#railwayCrossingType">railwayCrossingType</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The type of barrier presented by the railway crossing.</div>
 </div>
 <div class="col-first even-row-color"><code>int</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#startOffsetInMeters">startOffsetInMeters</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#startOffsetInMeters">startOffsetInMeters</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The start offset, in meters, from the beginning of the segment.</div>
 </div>
@@ -70,7 +69,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-railwaycrossing"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.mapdata.RailwayCrossingType)">RailwayCrossing</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-railwaycrossingtype" title="enum class in com.here.sdk.mapdata">RailwayCrossingType</a> railwayCrossingType)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.mapdata.RailwayCrossingType)">RailwayCrossing</a><wbr/>(<a href="sdk-for-android-navigate-railwaycrossingtype" title="enum class in com.here.sdk.mapdata">RailwayCrossingType</a> railwayCrossingType)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -100,9 +99,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-railwaycrossing"
 <h3>startOffsetInMeters</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">int</span> <span class="element-name">startOffsetInMeters</span></div>
 <div class="block"><p>The start offset, in meters, from the beginning of the segment.
- </p><p>If <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#endOffsetInMeters"><code>endOffsetInMeters</code></a> = 0, then <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#startOffsetInMeters"><code>startOffsetInMeters</code></a> approximately indicates a middle of a railway crossing.
- If <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#endOffsetInMeters"><code>endOffsetInMeters</code></a> &gt; 0, it means crossing consists of several rails, and
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#startOffsetInMeters"><code>startOffsetInMeters</code></a> and <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#endOffsetInMeters"><code>endOffsetInMeters</code></a> indicates starting and ending points of the crossing respectively.
+ </p><p>If <a href="sdk-for-android-navigate-index#endOffsetInMeters"><code>endOffsetInMeters</code></a> = 0, then <a href="sdk-for-android-navigate-index#startOffsetInMeters"><code>startOffsetInMeters</code></a> approximately indicates a middle of a railway crossing.
+ If <a href="sdk-for-android-navigate-index#endOffsetInMeters"><code>endOffsetInMeters</code></a> &gt; 0, it means crossing consists of several rails, and
+ <a href="sdk-for-android-navigate-index#startOffsetInMeters"><code>startOffsetInMeters</code></a> and <a href="sdk-for-android-navigate-index#endOffsetInMeters"><code>endOffsetInMeters</code></a> indicates starting and ending points of the crossing respectively.
  Default value is 0.</p></div>
 </section>
 </li>
@@ -111,7 +110,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-railwaycrossing"
 <h3>endOffsetInMeters</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">int</span> <span class="element-name">endOffsetInMeters</span></div>
 <div class="block"><p>The end offset, in meters, from the beginning of the segment.
- Could be 0. See <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#startOffsetInMeters"><code>startOffsetInMeters</code></a> description.
+ Could be 0. See <a href="sdk-for-android-navigate-index#startOffsetInMeters"><code>startOffsetInMeters</code></a> description.
  Default value is 0.</p></div>
 </section>
 </li>
@@ -119,7 +118,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-railwaycrossing"
 <section class="detail" id="railwayCrossingType">
 <h3>railwayCrossingType</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-railwaycrossingtype" title="enum class in com.here.sdk.mapdata">RailwayCrossingType</a></span> <span class="element-name">railwayCrossingType</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-railwaycrossingtype" title="enum class in com.here.sdk.mapdata">RailwayCrossingType</a></span> <span class="element-name">railwayCrossingType</span></div>
 <div class="block"><p>The type of barrier presented by the railway crossing.</p></div>
 </section>
 </li>
@@ -135,7 +134,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-railwaycrossing"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.mapdata.RailwayCrossingType)">
 <h3>RailwayCrossing</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">RailwayCrossing</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-railwaycrossingtype" title="enum class in com.here.sdk.mapdata">RailwayCrossingType</a> railwayCrossingType)</span></div>
+ <a href="sdk-for-android-navigate-railwaycrossingtype" title="enum class in com.here.sdk.mapdata">RailwayCrossingType</a> railwayCrossingType)</span></div>
 <div class="block"><p>Creates a new instance.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

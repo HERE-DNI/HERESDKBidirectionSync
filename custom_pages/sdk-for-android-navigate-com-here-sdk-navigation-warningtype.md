@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-warningtype"
 `
 <div class="sdk-for-android">
 <!-- WarningType.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,22 +19,22 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-warningtype"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.navigation</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-navigation-package-summary">com.here.sdk.navigation</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">java.lang.Enum</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-warningtype" title="enum class in com.here.sdk.navigation">WarningType</a>&gt;
+<div class="inheritance"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">java.lang.Enum</a>&lt;<a href="sdk-for-android-navigate-warningtype" title="enum class in com.here.sdk.navigation">WarningType</a>&gt;
 <div class="inheritance">com.here.sdk.navigation.WarningType</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>All Implemented Interfaces:</dt>
-<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" title="class or interface in java.io">Serializable</a></code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" title="class or interface in java.lang">Comparable</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-warningtype" title="enum class in com.here.sdk.navigation">WarningType</a>&gt;</code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" title="class or interface in java.lang.constant">Constable</a></code></dd>
+<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" title="class or interface in java.io">Serializable</a></code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" title="class or interface in java.lang">Comparable</a>&lt;<a href="sdk-for-android-navigate-warningtype" title="enum class in com.here.sdk.navigation">WarningType</a>&gt;</code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" title="class or interface in java.lang.constant">Constable</a></code></dd>
 </dl>
 <hr/>
 <div class="type-signature"><span class="modifiers">public enum </span><span class="element-name type-name-label">WarningType</span>
-<span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-warningtype" title="enum class in com.here.sdk.navigation">WarningType</a>&gt;</span></div>
+<span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a href="sdk-for-android-navigate-warningtype" title="enum class in com.here.sdk.navigation">WarningType</a>&gt;</span></div>
 <div class="block"><p>Identifies the warning type.</p></div>
 </section>
 <section class="summary">
@@ -57,59 +56,59 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-warningtype"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Enum Constant</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#BORDER_CROSSING">BORDER_CROSSING</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#BORDER_CROSSING">BORDER_CROSSING</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Type of warning given for border crossings.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#CUSTOM">CUSTOM</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#CUSTOM">CUSTOM</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Base type for all custom warnings.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#DANGER_ZONE">DANGER_ZONE</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#DANGER_ZONE">DANGER_ZONE</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Type of warning given for danger zones.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#ENVIRONMENTAL_ZONE">ENVIRONMENTAL_ZONE</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#ENVIRONMENTAL_ZONE">ENVIRONMENTAL_ZONE</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Type of warning given for environmental zones.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#LANE_DECREASE">LANE_DECREASE</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#LANE_DECREASE">LANE_DECREASE</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Type of warning given for lane decrease.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#LOW_SPEED_ZONE">LOW_SPEED_ZONE</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#LOW_SPEED_ZONE">LOW_SPEED_ZONE</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Type of warning given for low speed zones.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#RAILWAY_CROSSING">RAILWAY_CROSSING</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#RAILWAY_CROSSING">RAILWAY_CROSSING</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Type of warning given for railway crossings.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#REALISTIC_VIEW">REALISTIC_VIEW</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#REALISTIC_VIEW">REALISTIC_VIEW</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Type of warning given for realistic views.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#ROAD_SIGN">ROAD_SIGN</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#ROAD_SIGN">ROAD_SIGN</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Type of warning given for road signs.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#SAFETY_CAMERA">SAFETY_CAMERA</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#SAFETY_CAMERA">SAFETY_CAMERA</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Type of warning given for safety cameras.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#SCHOOL_ZONE">SCHOOL_ZONE</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#SCHOOL_ZONE">SCHOOL_ZONE</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Type of warning given for school zones.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#TOLL_STOP">TOLL_STOP</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#TOLL_STOP">TOLL_STOP</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Type of warning given for toll stops.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#TRAFFIC_MERGE">TRAFFIC_MERGE</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#TRAFFIC_MERGE">TRAFFIC_MERGE</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Type of warning given for merging traffic.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#TRUCK_RESTRICTION">TRUCK_RESTRICTION</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#TRUCK_RESTRICTION">TRUCK_RESTRICTION</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Type of warning given for truck restriction.</div>
 </div>
@@ -127,13 +126,13 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-warningtype"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-warningtype" title="enum class in com.here.sdk.navigation">WarningType</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-warningtype" title="enum class in com.here.sdk.navigation">WarningType</a></code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-warningtype" title="enum class in com.here.sdk.navigation">WarningType</a>[]</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#values()">values</a>()</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-warningtype" title="enum class in com.here.sdk.navigation">WarningType</a>[]</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
@@ -161,98 +160,98 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="CUSTOM">
 <h3>CUSTOM</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-warningtype" title="enum class in com.here.sdk.navigation">WarningType</a></span> <span class="element-name">CUSTOM</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-warningtype" title="enum class in com.here.sdk.navigation">WarningType</a></span> <span class="element-name">CUSTOM</span></div>
 <div class="block"><p>Base type for all custom warnings.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="SAFETY_CAMERA">
 <h3>SAFETY_CAMERA</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-warningtype" title="enum class in com.here.sdk.navigation">WarningType</a></span> <span class="element-name">SAFETY_CAMERA</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-warningtype" title="enum class in com.here.sdk.navigation">WarningType</a></span> <span class="element-name">SAFETY_CAMERA</span></div>
 <div class="block"><p>Type of warning given for safety cameras.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="TRUCK_RESTRICTION">
 <h3>TRUCK_RESTRICTION</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-warningtype" title="enum class in com.here.sdk.navigation">WarningType</a></span> <span class="element-name">TRUCK_RESTRICTION</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-warningtype" title="enum class in com.here.sdk.navigation">WarningType</a></span> <span class="element-name">TRUCK_RESTRICTION</span></div>
 <div class="block"><p>Type of warning given for truck restriction.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="ROAD_SIGN">
 <h3>ROAD_SIGN</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-warningtype" title="enum class in com.here.sdk.navigation">WarningType</a></span> <span class="element-name">ROAD_SIGN</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-warningtype" title="enum class in com.here.sdk.navigation">WarningType</a></span> <span class="element-name">ROAD_SIGN</span></div>
 <div class="block"><p>Type of warning given for road signs.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="REALISTIC_VIEW">
 <h3>REALISTIC_VIEW</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-warningtype" title="enum class in com.here.sdk.navigation">WarningType</a></span> <span class="element-name">REALISTIC_VIEW</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-warningtype" title="enum class in com.here.sdk.navigation">WarningType</a></span> <span class="element-name">REALISTIC_VIEW</span></div>
 <div class="block"><p>Type of warning given for realistic views.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="ENVIRONMENTAL_ZONE">
 <h3>ENVIRONMENTAL_ZONE</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-warningtype" title="enum class in com.here.sdk.navigation">WarningType</a></span> <span class="element-name">ENVIRONMENTAL_ZONE</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-warningtype" title="enum class in com.here.sdk.navigation">WarningType</a></span> <span class="element-name">ENVIRONMENTAL_ZONE</span></div>
 <div class="block"><p>Type of warning given for environmental zones.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="SCHOOL_ZONE">
 <h3>SCHOOL_ZONE</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-warningtype" title="enum class in com.here.sdk.navigation">WarningType</a></span> <span class="element-name">SCHOOL_ZONE</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-warningtype" title="enum class in com.here.sdk.navigation">WarningType</a></span> <span class="element-name">SCHOOL_ZONE</span></div>
 <div class="block"><p>Type of warning given for school zones.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="TOLL_STOP">
 <h3>TOLL_STOP</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-warningtype" title="enum class in com.here.sdk.navigation">WarningType</a></span> <span class="element-name">TOLL_STOP</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-warningtype" title="enum class in com.here.sdk.navigation">WarningType</a></span> <span class="element-name">TOLL_STOP</span></div>
 <div class="block"><p>Type of warning given for toll stops.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="DANGER_ZONE">
 <h3>DANGER_ZONE</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-warningtype" title="enum class in com.here.sdk.navigation">WarningType</a></span> <span class="element-name">DANGER_ZONE</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-warningtype" title="enum class in com.here.sdk.navigation">WarningType</a></span> <span class="element-name">DANGER_ZONE</span></div>
 <div class="block"><p>Type of warning given for danger zones.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="BORDER_CROSSING">
 <h3>BORDER_CROSSING</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-warningtype" title="enum class in com.here.sdk.navigation">WarningType</a></span> <span class="element-name">BORDER_CROSSING</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-warningtype" title="enum class in com.here.sdk.navigation">WarningType</a></span> <span class="element-name">BORDER_CROSSING</span></div>
 <div class="block"><p>Type of warning given for border crossings.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="RAILWAY_CROSSING">
 <h3>RAILWAY_CROSSING</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-warningtype" title="enum class in com.here.sdk.navigation">WarningType</a></span> <span class="element-name">RAILWAY_CROSSING</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-warningtype" title="enum class in com.here.sdk.navigation">WarningType</a></span> <span class="element-name">RAILWAY_CROSSING</span></div>
 <div class="block"><p>Type of warning given for railway crossings.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="LOW_SPEED_ZONE">
 <h3>LOW_SPEED_ZONE</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-warningtype" title="enum class in com.here.sdk.navigation">WarningType</a></span> <span class="element-name">LOW_SPEED_ZONE</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-warningtype" title="enum class in com.here.sdk.navigation">WarningType</a></span> <span class="element-name">LOW_SPEED_ZONE</span></div>
 <div class="block"><p>Type of warning given for low speed zones.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="TRAFFIC_MERGE">
 <h3>TRAFFIC_MERGE</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-warningtype" title="enum class in com.here.sdk.navigation">WarningType</a></span> <span class="element-name">TRAFFIC_MERGE</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-warningtype" title="enum class in com.here.sdk.navigation">WarningType</a></span> <span class="element-name">TRAFFIC_MERGE</span></div>
 <div class="block"><p>Type of warning given for merging traffic.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="LANE_DECREASE">
 <h3>LANE_DECREASE</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-warningtype" title="enum class in com.here.sdk.navigation">WarningType</a></span> <span class="element-name">LANE_DECREASE</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-warningtype" title="enum class in com.here.sdk.navigation">WarningType</a></span> <span class="element-name">LANE_DECREASE</span></div>
 <div class="block"><p>Type of warning given for lane decrease.</p></div>
 </section>
 </li>
@@ -267,7 +266,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="values()">
 <h3>values</h3>
-<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-warningtype" title="enum class in com.here.sdk.navigation">WarningType</a>[]</span> <span class="element-name">values</span>()</div>
+<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-navigate-warningtype" title="enum class in com.here.sdk.navigation">WarningType</a>[]</span> <span class="element-name">values</span>()</div>
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
 <dl class="notes">
@@ -279,7 +278,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="valueOf(java.lang.String)">
 <h3>valueOf</h3>
-<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-warningtype" title="enum class in com.here.sdk.navigation">WarningType</a></span> <span class="element-name">valueOf</span><wbr/><span class="parameters">(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</span></div>
+<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-navigate-warningtype" title="enum class in com.here.sdk.navigation">WarningType</a></span> <span class="element-name">valueOf</span><wbr/><span class="parameters">(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</span></div>
 <div class="block">Returns the enum constant of this class with the specified name.
 The string must match <i>exactly</i> an identifier used to declare an
 enum constant in this class.  (Extraneous whitespace characters are 

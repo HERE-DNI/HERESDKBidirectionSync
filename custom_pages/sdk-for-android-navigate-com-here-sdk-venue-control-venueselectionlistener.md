@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-control-venueselectionlistene
 `
 <div class="sdk-for-android">
 <!-- VenueSelectionListener.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,15 +19,15 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-control-venueselectionlistene
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.venue.control</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-venue-control-package-summary">com.here.sdk.venue.control</a></div>
 
 </div>
 <section class="class-description" id="class-description">
 <hr/>
 <div class="type-signature"><span class="modifiers">public interface </span><span class="element-name type-name-label">VenueSelectionListener</span></div>
 <div class="block"><p>The interface for listeners for
- the <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venue" title="class in com.here.sdk.venue.control"><code>Venue</code></a> selection event. Use the <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuemap" title="class in com.here.sdk.venue.control"><code>VenueMap</code></a>
- to add and remove the <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venueselectionlistener" title="interface in com.here.sdk.venue.control"><code>VenueSelectionListener</code></a>.</p></div>
+ the <a href="sdk-for-android-navigate-venue" title="class in com.here.sdk.venue.control"><code>Venue</code></a> selection event. Use the <a href="sdk-for-android-navigate-venuemap" title="class in com.here.sdk.venue.control"><code>VenueMap</code></a>
+ to add and remove the <a href="sdk-for-android-navigate-venueselectionlistener" title="interface in com.here.sdk.venue.control"><code>VenueSelectionListener</code></a>.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -44,10 +43,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-control-venueselectionlistene
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#onSelectedVenueChanged(com.here.sdk.venue.control.Venue,com.here.sdk.venue.control.Venue)">onSelectedVenueChanged</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venue" title="class in com.here.sdk.venue.control">Venue</a> deselectedVenue,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venue" title="class in com.here.sdk.venue.control">Venue</a> selectedVenue)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onSelectedVenueChanged(com.here.sdk.venue.control.Venue,com.here.sdk.venue.control.Venue)">onSelectedVenueChanged</a><wbr/>(<a href="sdk-for-android-navigate-venue" title="class in com.here.sdk.venue.control">Venue</a> deselectedVenue,
+ <a href="sdk-for-android-navigate-venue" title="class in com.here.sdk.venue.control">Venue</a> selectedVenue)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
-<div class="block">Indicates that the current selected <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venue" title="class in com.here.sdk.venue.control"><code>Venue</code></a> changed.</div>
+<div class="block">Indicates that the current selected <a href="sdk-for-android-navigate-venue" title="class in com.here.sdk.venue.control"><code>Venue</code></a> changed.</div>
 </div>
 </div>
 </div>
@@ -67,15 +66,15 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-control-venueselectionlistene
 <section class="detail" id="onSelectedVenueChanged(com.here.sdk.venue.control.Venue,com.here.sdk.venue.control.Venue)">
 <h3>onSelectedVenueChanged</h3>
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">onSelectedVenueChanged</span><wbr/><span class="parameters">(@Nullable
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venue" title="class in com.here.sdk.venue.control">Venue</a> deselectedVenue,
+ <a href="sdk-for-android-navigate-venue" title="class in com.here.sdk.venue.control">Venue</a> deselectedVenue,
  @Nullable
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venue" title="class in com.here.sdk.venue.control">Venue</a> selectedVenue)</span></div>
-<div class="block"><p>Indicates that the current selected <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venue" title="class in com.here.sdk.venue.control"><code>Venue</code></a> changed.</p></div>
+ <a href="sdk-for-android-navigate-venue" title="class in com.here.sdk.venue.control">Venue</a> selectedVenue)</span></div>
+<div class="block"><p>Indicates that the current selected <a href="sdk-for-android-navigate-venue" title="class in com.here.sdk.venue.control"><code>Venue</code></a> changed.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
-<dd><code>deselectedVenue</code> - <p>The <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venue" title="class in com.here.sdk.venue.control"><code>Venue</code></a> that was deselected or <code>null</code>
+<dd><code>deselectedVenue</code> - <p>The <a href="sdk-for-android-navigate-venue" title="class in com.here.sdk.venue.control"><code>Venue</code></a> that was deselected or <code>null</code>
      if there was no selected venue before.</p></dd>
-<dd><code>selectedVenue</code> - <p>The <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venue" title="class in com.here.sdk.venue.control"><code>Venue</code></a> that was selected or <code>null</code>
+<dd><code>selectedVenue</code> - <p>The <a href="sdk-for-android-navigate-venue" title="class in com.here.sdk.venue.control"><code>Venue</code></a> that was selected or <code>null</code>
      if there was no new selected venue.</p></dd>
 </dl>
 </section>

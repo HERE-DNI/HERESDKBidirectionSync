@@ -7,7 +7,6 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-fare"
 `
 <div class="sdk-for-android">
 <!-- Fare.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,7 +19,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-fare"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-package-summary">com.here.sdk.routing</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-routing-package-summary">com.here.sdk.routing</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -44,17 +43,17 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-fare"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#name">name</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#name">name</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Name of a fare</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-fareprice" title="class in com.here.sdk.routing">FarePrice</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#price">price</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-fareprice" title="class in com.here.sdk.routing">FarePrice</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#price">price</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Price of a fare.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-farereason" title="enum class in com.here.sdk.routing">FareReason</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#reason">reason</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-farereason" title="enum class in com.here.sdk.routing">FareReason</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#reason">reason</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Reason of this cost.</div>
 </div>
@@ -69,9 +68,9 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-fare"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#%3Cinit%3E(java.lang.String,com.here.sdk.routing.FarePrice,com.here.sdk.routing.FareReason)">Fare</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-fareprice" title="class in com.here.sdk.routing">FarePrice</a> price,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-farereason" title="enum class in com.here.sdk.routing">FareReason</a> reason)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#%3Cinit%3E(java.lang.String,com.here.sdk.routing.FarePrice,com.here.sdk.routing.FareReason)">Fare</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name,
+ <a href="sdk-for-android-explore-fareprice" title="class in com.here.sdk.routing">FarePrice</a> price,
+ <a href="sdk-for-android-explore-farereason" title="enum class in com.here.sdk.routing">FareReason</a> reason)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -90,10 +89,10 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-fare"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#hashCode()">hashCode</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 </div>
 </div>
@@ -124,7 +123,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-fare"
 <section class="detail" id="price">
 <h3>price</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-fareprice" title="class in com.here.sdk.routing">FarePrice</a></span> <span class="element-name">price</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-fareprice" title="class in com.here.sdk.routing">FarePrice</a></span> <span class="element-name">price</span></div>
 <div class="block"><p>Price of a fare. It is <code>null</code> when no price data is available.</p></div>
 </section>
 </li>
@@ -132,7 +131,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-fare"
 <section class="detail" id="reason">
 <h3>reason</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-farereason" title="enum class in com.here.sdk.routing">FareReason</a></span> <span class="element-name">reason</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-farereason" title="enum class in com.here.sdk.routing">FareReason</a></span> <span class="element-name">reason</span></div>
 <div class="block"><p>Reason of this cost.</p></div>
 </section>
 </li>
@@ -150,9 +149,9 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-fare"
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">Fare</span><wbr/><span class="parameters">(@NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name,
  @Nullable
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-fareprice" title="class in com.here.sdk.routing">FarePrice</a> price,
+ <a href="sdk-for-android-explore-fareprice" title="class in com.here.sdk.routing">FarePrice</a> price,
  @NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-farereason" title="enum class in com.here.sdk.routing">FareReason</a> reason)</span></div>
+ <a href="sdk-for-android-explore-farereason" title="enum class in com.here.sdk.routing">FareReason</a> reason)</span></div>
 <div class="block"><p>Creates a new instance.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

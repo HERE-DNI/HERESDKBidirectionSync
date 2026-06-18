@@ -7,7 +7,6 @@ slug: "sdk-for-android-explore-com-here-sdk-search-searchcallback"
 `
 <div class="sdk-for-android">
 <!-- SearchCallback.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,7 +19,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-searchcallback"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-package-summary">com.here.sdk.search</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-search-package-summary">com.here.sdk.search</a></div>
 
 </div>
 <section class="class-description" id="class-description">
@@ -49,8 +48,8 @@ slug: "sdk-for-android-explore-com-here-sdk-search-searchcallback"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#onSearchCompleted(com.here.sdk.search.SearchError,java.util.List)">onSearchCompleted</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-searcherror" title="enum class in com.here.sdk.search">SearchError</a> searchError,
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-place" title="class in com.here.sdk.search">Place</a>&gt; places)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-index#onSearchCompleted(com.here.sdk.search.SearchError,java.util.List)">onSearchCompleted</a><wbr/>(<a href="sdk-for-android-explore-searcherror" title="enum class in com.here.sdk.search">SearchError</a> searchError,
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-place" title="class in com.here.sdk.search">Place</a>&gt; places)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">The method will be called on the main thread when a search call has been completed.</div>
 </div>
@@ -72,9 +71,9 @@ slug: "sdk-for-android-explore-com-here-sdk-search-searchcallback"
 <section class="detail" id="onSearchCompleted(com.here.sdk.search.SearchError,java.util.List)">
 <h3>onSearchCompleted</h3>
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">onSearchCompleted</span><wbr/><span class="parameters">(@Nullable
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-searcherror" title="enum class in com.here.sdk.search">SearchError</a> searchError,
+ <a href="sdk-for-android-explore-searcherror" title="enum class in com.here.sdk.search">SearchError</a> searchError,
  @Nullable
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-place" title="class in com.here.sdk.search">Place</a>&gt; places)</span></div>
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-place" title="class in com.here.sdk.search">Place</a>&gt; places)</span></div>
 <div class="block"><p>The method will be called on the main thread when a search call has been completed.
  The first argument indicates an error in case of a failure. The second argument contains the results.
  Both arguments cannot be <code>null</code> at the same time - or not <code>null</code> at the same time.</p></div>

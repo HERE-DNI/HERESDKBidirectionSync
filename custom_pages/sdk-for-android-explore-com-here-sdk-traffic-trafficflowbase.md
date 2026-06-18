@@ -7,7 +7,6 @@ slug: "sdk-for-android-explore-com-here-sdk-traffic-trafficflowbase"
 `
 <div class="sdk-for-android">
 <!-- TrafficFlowBase.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,13 +19,13 @@ slug: "sdk-for-android-explore-com-here-sdk-traffic-trafficflowbase"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-package-summary">com.here.sdk.traffic</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-traffic-package-summary">com.here.sdk.traffic</a></div>
 
 </div>
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>All Known Implementing Classes:</dt>
-<dd><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-trafficflow" title="class in com.here.sdk.traffic">TrafficFlow</a></code></dd>
+<dd><code><a href="sdk-for-android-explore-trafficflow" title="class in com.here.sdk.traffic">TrafficFlow</a></code></dd>
 </dl>
 <hr/>
 <div class="type-signature"><span class="modifiers">public interface </span><span class="element-name type-name-label">TrafficFlowBase</span></div>
@@ -49,12 +48,12 @@ slug: "sdk-for-android-explore-com-here-sdk-traffic-trafficflowbase"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>double</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#getFreeFlowSpeedInMetersPerSecond()">getFreeFlowSpeedInMetersPerSecond</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-index#getFreeFlowSpeedInMetersPerSecond()">getFreeFlowSpeedInMetersPerSecond</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Gets the reference speed in meters per second along the roadway when no traffic is present.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>double</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#getJamFactor()">getJamFactor</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-index#getJamFactor()">getJamFactor</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Gets a value for the amount of traffic on the roadway.</div>
 </div>

@@ -7,7 +7,6 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder"
 `
 <div class="sdk-for-android">
 <!-- MapLayerBuilder.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,18 +19,18 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-package-summary">com.here.sdk.mapview</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-nativebase" title="class in com.here">com.here.NativeBase</a>
+<div class="inheritance"><a href="sdk-for-android-explore-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.mapview.MapLayerBuilder</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 <hr/>
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">MapLayerBuilder</span>
-<span class="extends-implements">extends <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-nativebase" title="class in com.here">NativeBase</a></span></div>
+<span class="extends-implements">extends <a href="sdk-for-android-explore-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>MapLayerBuilder is used to add layers to a map to visualise a dataset in a
  programmatic way without defining it upfront in the configuration files.
  </p><p>For example, after loading a scene configuration file, the renderer is setup to draw layers in the
@@ -111,19 +110,19 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder"
 <div class="table-header col-second">Class</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>static enum </code></div>
-<div class="col-second even-row-color"><code><a class="type-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-maplayerbuilder.instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapLayerBuilder.InstantiationErrorCode</a></code></div>
+<div class="col-second even-row-color"><code><a class="type-name-link" href="sdk-for-android-explore-maplayerbuilder.instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapLayerBuilder.InstantiationErrorCode</a></code></div>
 <div class="col-last even-row-color">
-<div class="block">Describes a reason for failing to build a <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-maplayer" title="class in com.here.sdk.mapview"><code>MapLayer</code></a>.</div>
+<div class="block">Describes a reason for failing to build a <a href="sdk-for-android-explore-maplayer" title="class in com.here.sdk.mapview"><code>MapLayer</code></a>.</div>
 </div>
 <div class="col-first odd-row-color"><code>static final class </code></div>
-<div class="col-second odd-row-color"><code><a class="type-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-maplayerbuilder.instantiationerrordetails" title="class in com.here.sdk.mapview">MapLayerBuilder.InstantiationErrorDetails</a></code></div>
+<div class="col-second odd-row-color"><code><a class="type-name-link" href="sdk-for-android-explore-maplayerbuilder.instantiationerrordetails" title="class in com.here.sdk.mapview">MapLayerBuilder.InstantiationErrorDetails</a></code></div>
 <div class="col-last odd-row-color">
-<div class="block">Describes the reason for failing to build a <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-maplayer" title="class in com.here.sdk.mapview"><code>MapLayer</code></a>.</div>
+<div class="block">Describes the reason for failing to build a <a href="sdk-for-android-explore-maplayer" title="class in com.here.sdk.mapview"><code>MapLayer</code></a>.</div>
 </div>
 <div class="col-first even-row-color"><code>static final class </code></div>
-<div class="col-second even-row-color"><code><a class="type-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-maplayerbuilder.instantiationexception" title="class in com.here.sdk.mapview">MapLayerBuilder.InstantiationException</a></code></div>
+<div class="col-second even-row-color"><code><a class="type-name-link" href="sdk-for-android-explore-maplayerbuilder.instantiationexception" title="class in com.here.sdk.mapview">MapLayerBuilder.InstantiationException</a></code></div>
 <div class="col-last even-row-color">
-<div class="block">Thrown when failing to build a <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-maplayer" title="class in com.here.sdk.mapview"><code>MapLayer</code></a>.</div>
+<div class="block">Thrown when failing to build a <a href="sdk-for-android-explore-maplayer" title="class in com.here.sdk.mapview"><code>MapLayer</code></a>.</div>
 </div>
 </div>
 </section>
@@ -136,7 +135,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#%3Cinit%3E()">MapLayerBuilder</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#%3Cinit%3E()">MapLayerBuilder</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates an instance of the layer builder interface.</div>
 </div>
@@ -154,51 +153,51 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-maplayer" title="class in com.here.sdk.mapview">MapLayer</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#build()">build</a>()</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-maplayer" title="class in com.here.sdk.mapview">MapLayer</a></code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#build()">build</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Constructs, registers and configures a new map layer showing specified content type
  according to the configured parameters.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-maplayerbuilder" title="class in com.here.sdk.mapview">MapLayerBuilder</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#forMap(com.here.sdk.mapview.HereMap)">forMap</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-heremap" title="class in com.here.sdk.mapview">HereMap</a> targetMap)</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-maplayerbuilder" title="class in com.here.sdk.mapview">MapLayerBuilder</a></code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#forMap(com.here.sdk.mapview.HereMap)">forMap</a><wbr/>(<a href="sdk-for-android-explore-heremap" title="class in com.here.sdk.mapview">HereMap</a> targetMap)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Configures the builder to display a layer in the given map.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-maplayerbuilder" title="class in com.here.sdk.mapview">MapLayerBuilder</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#withDataSource(java.lang.String,com.here.sdk.mapview.MapContentType)">withDataSource</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> dataSourceName,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-mapcontenttype" title="enum class in com.here.sdk.mapview">MapContentType</a> contentType)</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-maplayerbuilder" title="class in com.here.sdk.mapview">MapLayerBuilder</a></code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#withDataSource(java.lang.String,com.here.sdk.mapview.MapContentType)">withDataSource</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> dataSourceName,
+ <a href="sdk-for-android-explore-mapcontenttype" title="enum class in com.here.sdk.mapview">MapContentType</a> contentType)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Configures the builder to use a data source with the given name as the source
  of data for the layer.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-maplayerbuilder" title="class in com.here.sdk.mapview">MapLayerBuilder</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#withLoadPriority(double)">withLoadPriority</a><wbr/>(double loadPriority)</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-maplayerbuilder" title="class in com.here.sdk.mapview">MapLayerBuilder</a></code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#withLoadPriority(double)">withLoadPriority</a><wbr/>(double loadPriority)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Configures the builder to set the layer load priority.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-maplayerbuilder" title="class in com.here.sdk.mapview">MapLayerBuilder</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#withMapMeasureDependentStorageLevels(com.here.sdk.mapview.MapLayerMapMeasureDependentStorageLevels)">withMapMeasureDependentStorageLevels</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-maplayermapmeasuredependentstoragelevels" title="class in com.here.sdk.mapview">MapLayerMapMeasureDependentStorageLevels</a> mapLayerMapMeasureDependentStorageLevels)</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-maplayerbuilder" title="class in com.here.sdk.mapview">MapLayerBuilder</a></code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#withMapMeasureDependentStorageLevels(com.here.sdk.mapview.MapLayerMapMeasureDependentStorageLevels)">withMapMeasureDependentStorageLevels</a><wbr/>(<a href="sdk-for-android-explore-maplayermapmeasuredependentstoragelevels" title="class in com.here.sdk.mapview">MapLayerMapMeasureDependentStorageLevels</a> mapLayerMapMeasureDependentStorageLevels)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Applies a mapping from the map measure to the storage level.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-maplayerbuilder" title="class in com.here.sdk.mapview">MapLayerBuilder</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#withName(java.lang.String)">withName</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-maplayerbuilder" title="class in com.here.sdk.mapview">MapLayerBuilder</a></code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#withName(java.lang.String)">withName</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Configures builder to use the given name as a layer name.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-maplayerbuilder" title="class in com.here.sdk.mapview">MapLayerBuilder</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#withPriority(com.here.sdk.mapview.MapLayerPriority)">withPriority</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-maplayerpriority" title="class in com.here.sdk.mapview">MapLayerPriority</a> priority)</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-maplayerbuilder" title="class in com.here.sdk.mapview">MapLayerBuilder</a></code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#withPriority(com.here.sdk.mapview.MapLayerPriority)">withPriority</a><wbr/>(<a href="sdk-for-android-explore-maplayerpriority" title="class in com.here.sdk.mapview">MapLayerPriority</a> priority)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Configures the builder to set the MapLayerPriority to be used by the layer.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-maplayerbuilder" title="class in com.here.sdk.mapview">MapLayerBuilder</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#withStyle(com.here.sdk.mapview.Style)">withStyle</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-style" title="class in com.here.sdk.mapview">Style</a> style)</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-maplayerbuilder" title="class in com.here.sdk.mapview">MapLayerBuilder</a></code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#withStyle(com.here.sdk.mapview.Style)">withStyle</a><wbr/>(<a href="sdk-for-android-explore-style" title="class in com.here.sdk.mapview">Style</a> style)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Configures the builder to use a style.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-maplayerbuilder" title="class in com.here.sdk.mapview">MapLayerBuilder</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#withVisibilityRange(com.here.sdk.mapview.MapLayerVisibilityRange)">withVisibilityRange</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-maplayervisibilityrange" title="class in com.here.sdk.mapview">MapLayerVisibilityRange</a> visibilityRange)</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-maplayerbuilder" title="class in com.here.sdk.mapview">MapLayerBuilder</a></code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#withVisibilityRange(com.here.sdk.mapview.MapLayerVisibilityRange)">withVisibilityRange</a><wbr/>(<a href="sdk-for-android-explore-maplayervisibilityrange" title="class in com.here.sdk.mapview">MapLayerVisibilityRange</a> visibilityRange)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Configures the builder to set the layer visible in the given zoom levels range.</div>
 </div>
@@ -238,7 +237,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder"
 <section class="detail" id="withName(java.lang.String)">
 <h3>withName</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-maplayerbuilder" title="class in com.here.sdk.mapview">MapLayerBuilder</a></span> <span class="element-name">withName</span><wbr/><span class="parameters">(@NonNull
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-maplayerbuilder" title="class in com.here.sdk.mapview">MapLayerBuilder</a></span> <span class="element-name">withName</span><wbr/><span class="parameters">(@NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</span></div>
 <div class="block"><p>Configures builder to use the given name as a layer name.
  The name is a mandatory layer creation parameter.</p></div>
@@ -254,10 +253,10 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder"
 <section class="detail" id="withDataSource(java.lang.String,com.here.sdk.mapview.MapContentType)">
 <h3>withDataSource</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-maplayerbuilder" title="class in com.here.sdk.mapview">MapLayerBuilder</a></span> <span class="element-name">withDataSource</span><wbr/><span class="parameters">(@NonNull
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-maplayerbuilder" title="class in com.here.sdk.mapview">MapLayerBuilder</a></span> <span class="element-name">withDataSource</span><wbr/><span class="parameters">(@NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> dataSourceName,
  @NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-mapcontenttype" title="enum class in com.here.sdk.mapview">MapContentType</a> contentType)</span></div>
+ <a href="sdk-for-android-explore-mapcontenttype" title="enum class in com.here.sdk.mapview">MapContentType</a> contentType)</span></div>
 <div class="block"><p>Configures the builder to use a data source with the given name as the source
  of data for the layer.
  The datasource name and content type are mandatory layer creation parameters.</p></div>
@@ -274,8 +273,8 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder"
 <section class="detail" id="withStyle(com.here.sdk.mapview.Style)">
 <h3>withStyle</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-maplayerbuilder" title="class in com.here.sdk.mapview">MapLayerBuilder</a></span> <span class="element-name">withStyle</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-style" title="class in com.here.sdk.mapview">Style</a> style)</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-maplayerbuilder" title="class in com.here.sdk.mapview">MapLayerBuilder</a></span> <span class="element-name">withStyle</span><wbr/><span class="parameters">(@NonNull
+ <a href="sdk-for-android-explore-style" title="class in com.here.sdk.mapview">Style</a> style)</span></div>
 <div class="block"><p>Configures the builder to use a style.
  Providing a style during layer creation is not mandatory. The style can also be set/updated after the layer creation.
  For more details see Custom Layer Style Reference in the documentation.
@@ -293,8 +292,8 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder"
 <section class="detail" id="forMap(com.here.sdk.mapview.HereMap)">
 <h3>forMap</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-maplayerbuilder" title="class in com.here.sdk.mapview">MapLayerBuilder</a></span> <span class="element-name">forMap</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-heremap" title="class in com.here.sdk.mapview">HereMap</a> targetMap)</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-maplayerbuilder" title="class in com.here.sdk.mapview">MapLayerBuilder</a></span> <span class="element-name">forMap</span><wbr/><span class="parameters">(@NonNull
+ <a href="sdk-for-android-explore-heremap" title="class in com.here.sdk.mapview">HereMap</a> targetMap)</span></div>
 <div class="block"><p>Configures the builder to display a layer in the given map.
  The map is a mandatory layer creation parameter.</p></div>
 <dl class="notes">
@@ -309,8 +308,8 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder"
 <section class="detail" id="withPriority(com.here.sdk.mapview.MapLayerPriority)">
 <h3>withPriority</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-maplayerbuilder" title="class in com.here.sdk.mapview">MapLayerBuilder</a></span> <span class="element-name">withPriority</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-maplayerpriority" title="class in com.here.sdk.mapview">MapLayerPriority</a> priority)</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-maplayerbuilder" title="class in com.here.sdk.mapview">MapLayerBuilder</a></span> <span class="element-name">withPriority</span><wbr/><span class="parameters">(@NonNull
+ <a href="sdk-for-android-explore-maplayerpriority" title="class in com.here.sdk.mapview">MapLayerPriority</a> priority)</span></div>
 <div class="block"><p>Configures the builder to set the MapLayerPriority to be used by the layer.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -324,8 +323,8 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder"
 <section class="detail" id="withVisibilityRange(com.here.sdk.mapview.MapLayerVisibilityRange)">
 <h3>withVisibilityRange</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-maplayerbuilder" title="class in com.here.sdk.mapview">MapLayerBuilder</a></span> <span class="element-name">withVisibilityRange</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-maplayervisibilityrange" title="class in com.here.sdk.mapview">MapLayerVisibilityRange</a> visibilityRange)</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-maplayerbuilder" title="class in com.here.sdk.mapview">MapLayerBuilder</a></span> <span class="element-name">withVisibilityRange</span><wbr/><span class="parameters">(@NonNull
+ <a href="sdk-for-android-explore-maplayervisibilityrange" title="class in com.here.sdk.mapview">MapLayerVisibilityRange</a> visibilityRange)</span></div>
 <div class="block"><p>Configures the builder to set the layer visible in the given zoom levels range.
  Values outside the map zoom level range (0, 24) will be ignored.
  Providing the visibility range is optional. If not provided, the layer will be visible
@@ -342,8 +341,8 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder"
 <section class="detail" id="withMapMeasureDependentStorageLevels(com.here.sdk.mapview.MapLayerMapMeasureDependentStorageLevels)">
 <h3>withMapMeasureDependentStorageLevels</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-maplayerbuilder" title="class in com.here.sdk.mapview">MapLayerBuilder</a></span> <span class="element-name">withMapMeasureDependentStorageLevels</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-maplayermapmeasuredependentstoragelevels" title="class in com.here.sdk.mapview">MapLayerMapMeasureDependentStorageLevels</a> mapLayerMapMeasureDependentStorageLevels)</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-maplayerbuilder" title="class in com.here.sdk.mapview">MapLayerBuilder</a></span> <span class="element-name">withMapMeasureDependentStorageLevels</span><wbr/><span class="parameters">(@NonNull
+ <a href="sdk-for-android-explore-maplayermapmeasuredependentstoragelevels" title="class in com.here.sdk.mapview">MapLayerMapMeasureDependentStorageLevels</a> mapLayerMapMeasureDependentStorageLevels)</span></div>
 <div class="block"><p>Applies a mapping from the map measure to the storage level. This mapping is used by the layer to request data
  for the specified storage level corresponding to the map measure from the datasource.
  This can be used for example to fine-tune the resolution of raster layers.
@@ -365,7 +364,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder"
 <section class="detail" id="withLoadPriority(double)">
 <h3>withLoadPriority</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-maplayerbuilder" title="class in com.here.sdk.mapview">MapLayerBuilder</a></span> <span class="element-name">withLoadPriority</span><wbr/><span class="parameters">(double loadPriority)</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-maplayerbuilder" title="class in com.here.sdk.mapview">MapLayerBuilder</a></span> <span class="element-name">withLoadPriority</span><wbr/><span class="parameters">(double loadPriority)</span></div>
 <div class="block"><p>Configures the builder to set the layer load priority.
  Higher load priority values lead to layer being scheduled for loading before layers with lesser values.</p></div>
 <dl class="notes">
@@ -380,8 +379,8 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder"
 <section class="detail" id="build()">
 <h3>build</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-maplayer" title="class in com.here.sdk.mapview">MapLayer</a></span> <span class="element-name">build</span>()
-               throws <span class="exceptions"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-maplayerbuilder.instantiationexception" title="class in com.here.sdk.mapview">MapLayerBuilder.InstantiationException</a></span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-maplayer" title="class in com.here.sdk.mapview">MapLayer</a></span> <span class="element-name">build</span>()
+               throws <span class="exceptions"><a href="sdk-for-android-explore-maplayerbuilder.instantiationexception" title="class in com.here.sdk.mapview">MapLayerBuilder.InstantiationException</a></span></div>
 <div class="block"><p>Constructs, registers and configures a new map layer showing specified content type
  according to the configured parameters.
  After this call this instance is reset to the initial state. It could be used to build another
@@ -390,7 +389,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder"
 <dt>Returns:</dt>
 <dd><p>A new MapLayer instance.</p></dd>
 <dt>Throws:</dt>
-<dd><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-maplayerbuilder.instantiationexception" title="class in com.here.sdk.mapview">MapLayerBuilder.InstantiationException</a></code> - <p>Indicates an instantiation issue.</p></dd>
+<dd><code><a href="sdk-for-android-explore-maplayerbuilder.instantiationexception" title="class in com.here.sdk.mapview">MapLayerBuilder.InstantiationException</a></code> - <p>Indicates an instantiation issue.</p></dd>
 </dl>
 </section>
 </li>

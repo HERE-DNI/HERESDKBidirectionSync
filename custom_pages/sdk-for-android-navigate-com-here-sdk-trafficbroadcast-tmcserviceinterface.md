@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-trafficbroadcast-tmcserviceinterfac
 `
 <div class="sdk-for-android">
 <!-- TMCServiceInterface.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,7 +19,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-trafficbroadcast-tmcserviceinterfac
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.trafficbroadcast</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-trafficbroadcast-package-summary">com.here.sdk.trafficbroadcast</a></div>
 
 </div>
 <section class="class-description" id="class-description">
@@ -41,18 +40,18 @@ slug: "sdk-for-android-navigate-com-here-sdk-trafficbroadcast-tmcserviceinterfac
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-rdsencryptionkey" title="class in com.here.sdk.trafficbroadcast">RDSEncryptionKey</a>&gt;</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#getRDSEncryptionKeys(com.here.sdk.trafficbroadcast.RDSEncryptionKeysRequest)">getRDSEncryptionKeys</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-rdsencryptionkeysrequest" title="class in com.here.sdk.trafficbroadcast">RDSEncryptionKeysRequest</a> rdsEncryptionKeysRequest)</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-rdsencryptionkey" title="class in com.here.sdk.trafficbroadcast">RDSEncryptionKey</a>&gt;</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getRDSEncryptionKeys(com.here.sdk.trafficbroadcast.RDSEncryptionKeysRequest)">getRDSEncryptionKeys</a><wbr/>(<a href="sdk-for-android-navigate-rdsencryptionkeysrequest" title="class in com.here.sdk.trafficbroadcast">RDSEncryptionKeysRequest</a> rdsEncryptionKeysRequest)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Called whenever there is a need to get RDS encryption keys.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Short.html" title="class or interface in java.lang">Short</a>&gt;</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#getTMCPreferredSids(com.here.sdk.trafficbroadcast.TMCPreferredSidsRequest)">getTMCPreferredSids</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-tmcpreferredsidsrequest" title="class in com.here.sdk.trafficbroadcast">TMCPreferredSidsRequest</a> tmcPreferredSidsRequest)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getTMCPreferredSids(com.here.sdk.trafficbroadcast.TMCPreferredSidsRequest)">getTMCPreferredSids</a><wbr/>(<a href="sdk-for-android-navigate-tmcpreferredsidsrequest" title="class in com.here.sdk.trafficbroadcast">TMCPreferredSidsRequest</a> tmcPreferredSidsRequest)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Called whenever there is a need to get a list of preferred SIDs for a specific area.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#requestTMCService(com.here.sdk.trafficbroadcast.TMCServiceRequest)">requestTMCService</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-tmcservicerequest" title="class in com.here.sdk.trafficbroadcast">TMCServiceRequest</a> tmcServiceRequest)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#requestTMCService(com.here.sdk.trafficbroadcast.TMCServiceRequest)">requestTMCService</a><wbr/>(<a href="sdk-for-android-navigate-tmcservicerequest" title="class in com.here.sdk.trafficbroadcast">TMCServiceRequest</a> tmcServiceRequest)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Called whenever the traffic broadcast needs to be activated.</div>
 </div>
@@ -74,7 +73,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-trafficbroadcast-tmcserviceinterfac
 <section class="detail" id="requestTMCService(com.here.sdk.trafficbroadcast.TMCServiceRequest)">
 <h3>requestTMCService</h3>
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">requestTMCService</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-tmcservicerequest" title="class in com.here.sdk.trafficbroadcast">TMCServiceRequest</a> tmcServiceRequest)</span></div>
+ <a href="sdk-for-android-navigate-tmcservicerequest" title="class in com.here.sdk.trafficbroadcast">TMCServiceRequest</a> tmcServiceRequest)</span></div>
 <div class="block"><p>Called whenever the traffic broadcast needs to be activated.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -87,7 +86,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-trafficbroadcast-tmcserviceinterfac
 <h3>getTMCPreferredSids</h3>
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Short.html" title="class or interface in java.lang">Short</a>&gt;</span> <span class="element-name">getTMCPreferredSids</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-tmcpreferredsidsrequest" title="class in com.here.sdk.trafficbroadcast">TMCPreferredSidsRequest</a> tmcPreferredSidsRequest)</span></div>
+ <a href="sdk-for-android-navigate-tmcpreferredsidsrequest" title="class in com.here.sdk.trafficbroadcast">TMCPreferredSidsRequest</a> tmcPreferredSidsRequest)</span></div>
 <div class="block"><p>Called whenever there is a need to get a list of preferred SIDs for a specific area.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -101,8 +100,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-trafficbroadcast-tmcserviceinterfac
 <section class="detail" id="getRDSEncryptionKeys(com.here.sdk.trafficbroadcast.RDSEncryptionKeysRequest)">
 <h3>getRDSEncryptionKeys</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-rdsencryptionkey" title="class in com.here.sdk.trafficbroadcast">RDSEncryptionKey</a>&gt;</span> <span class="element-name">getRDSEncryptionKeys</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-rdsencryptionkeysrequest" title="class in com.here.sdk.trafficbroadcast">RDSEncryptionKeysRequest</a> rdsEncryptionKeysRequest)</span></div>
+</span><span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-rdsencryptionkey" title="class in com.here.sdk.trafficbroadcast">RDSEncryptionKey</a>&gt;</span> <span class="element-name">getRDSEncryptionKeys</span><wbr/><span class="parameters">(@NonNull
+ <a href="sdk-for-android-navigate-rdsencryptionkeysrequest" title="class in com.here.sdk.trafficbroadcast">RDSEncryptionKeysRequest</a> rdsEncryptionKeysRequest)</span></div>
 <div class="block"><p>Called whenever there is a need to get RDS encryption keys.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

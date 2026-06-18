@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-prefetcher-prefetchstatuslistener"
 `
 <div class="sdk-for-android">
 <!-- PrefetchStatusListener.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,7 +19,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-prefetcher-prefetchstatuslistener"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.prefetcher</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-prefetcher-package-summary">com.here.sdk.prefetcher</a></div>
 
 </div>
 <section class="class-description" id="class-description">
@@ -43,12 +42,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-prefetcher-prefetchstatuslistener"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#onComplete(com.here.sdk.maploader.MapLoaderError)">onComplete</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a> error)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onComplete(com.here.sdk.maploader.MapLoaderError)">onComplete</a><wbr/>(<a href="sdk-for-android-navigate-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a> error)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Called after the geo-corridor data downloads has been completed either with success or with error.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#onProgress(int)">onProgress</a><wbr/>(int percentage)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onProgress(int)">onProgress</a><wbr/>(int percentage)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Called multiple times to indicate the update progress.</div>
 </div>
@@ -82,7 +81,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-prefetcher-prefetchstatuslistener"
 <section class="detail" id="onComplete(com.here.sdk.maploader.MapLoaderError)">
 <h3>onComplete</h3>
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">onComplete</span><wbr/><span class="parameters">(@Nullable
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a> error)</span></div>
+ <a href="sdk-for-android-navigate-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a> error)</span></div>
 <div class="block"><p>Called after the geo-corridor data downloads has been completed either with success or with error.
  Invoked on the main thread.</p></div>
 <dl class="notes">

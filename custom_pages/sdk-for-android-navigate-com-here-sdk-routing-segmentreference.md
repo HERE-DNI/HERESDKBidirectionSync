@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-segmentreference"
 `
 <div class="sdk-for-android">
 <!-- SegmentReference.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,7 +19,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-segmentreference"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.routing</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-routing-package-summary">com.here.sdk.routing</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -46,32 +45,32 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-segmentreference"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Long.html" title="class or interface in java.lang">Long</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#localId">localId</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#localId">localId</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Local ID of the segment inside the OCM tile.</div>
 </div>
 <div class="col-first odd-row-color"><code>double</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#offsetEnd">offsetEnd</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#offsetEnd">offsetEnd</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The end offset is a non-negative number between 0 and 1, representing the end of the referenced range using a proportion of the length of the segment.</div>
 </div>
 <div class="col-first even-row-color"><code>double</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#offsetStart">offsetStart</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#offsetStart">offsetStart</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The start offset is a non-negative number between 0 and 1, representing the start of the referenced range using a proportion of the length of the segment.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#segmentId">segmentId</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#segmentId">segmentId</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Topology segment id representing a unique identifier within the HERE platform catalogs.</div>
 </div>
 <div class="col-first even-row-color"><code>long</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#tilePartitionId">tilePartitionId</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#tilePartitionId">tilePartitionId</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">HERE tile partition id (Morton-encoding + level indicator) of the segment.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-traveldirection" title="enum class in com.here.sdk.routing">TravelDirection</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#travelDirection">travelDirection</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-traveldirection" title="enum class in com.here.sdk.routing">TravelDirection</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#travelDirection">travelDirection</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Travel direction of the segment.</div>
 </div>
@@ -86,42 +85,42 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-segmentreference"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#%3Cinit%3E()">SegmentReference</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E()">SegmentReference</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#%3Cinit%3E(java.lang.String)">SegmentReference</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> segmentId)</code></div>
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(java.lang.String)">SegmentReference</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> segmentId)</code></div>
 <div class="col-last odd-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#%3Cinit%3E(java.lang.String,com.here.sdk.routing.TravelDirection)">SegmentReference</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> segmentId,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-traveldirection" title="enum class in com.here.sdk.routing">TravelDirection</a> travelDirection)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(java.lang.String,com.here.sdk.routing.TravelDirection)">SegmentReference</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> segmentId,
+ <a href="sdk-for-android-navigate-traveldirection" title="enum class in com.here.sdk.routing">TravelDirection</a> travelDirection)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#%3Cinit%3E(java.lang.String,com.here.sdk.routing.TravelDirection,double)">SegmentReference</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> segmentId,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-traveldirection" title="enum class in com.here.sdk.routing">TravelDirection</a> travelDirection,
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(java.lang.String,com.here.sdk.routing.TravelDirection,double)">SegmentReference</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> segmentId,
+ <a href="sdk-for-android-navigate-traveldirection" title="enum class in com.here.sdk.routing">TravelDirection</a> travelDirection,
  double offsetStart)</code></div>
 <div class="col-last odd-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#%3Cinit%3E(java.lang.String,com.here.sdk.routing.TravelDirection,double,double)">SegmentReference</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> segmentId,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-traveldirection" title="enum class in com.here.sdk.routing">TravelDirection</a> travelDirection,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(java.lang.String,com.here.sdk.routing.TravelDirection,double,double)">SegmentReference</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> segmentId,
+ <a href="sdk-for-android-navigate-traveldirection" title="enum class in com.here.sdk.routing">TravelDirection</a> travelDirection,
  double offsetStart,
  double offsetEnd)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#%3Cinit%3E(java.lang.String,com.here.sdk.routing.TravelDirection,double,double,long)">SegmentReference</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> segmentId,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-traveldirection" title="enum class in com.here.sdk.routing">TravelDirection</a> travelDirection,
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(java.lang.String,com.here.sdk.routing.TravelDirection,double,double,long)">SegmentReference</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> segmentId,
+ <a href="sdk-for-android-navigate-traveldirection" title="enum class in com.here.sdk.routing">TravelDirection</a> travelDirection,
  double offsetStart,
  double offsetEnd,
  long tilePartitionId)</code></div>
 <div class="col-last odd-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#%3Cinit%3E(java.lang.String,com.here.sdk.routing.TravelDirection,double,double,long,java.lang.Long)">SegmentReference</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> segmentId,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-traveldirection" title="enum class in com.here.sdk.routing">TravelDirection</a> travelDirection,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(java.lang.String,com.here.sdk.routing.TravelDirection,double,double,long,java.lang.Long)">SegmentReference</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> segmentId,
+ <a href="sdk-for-android-navigate-traveldirection" title="enum class in com.here.sdk.routing">TravelDirection</a> travelDirection,
  double offsetStart,
  double offsetEnd,
  long tilePartitionId,
@@ -144,15 +143,15 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-segmentreference"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-segmentreference" title="class in com.here.sdk.routing">SegmentReference</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#fromString(java.lang.String)">fromString</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> segmentRef)</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-segmentreference" title="class in com.here.sdk.routing">SegmentReference</a></code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#fromString(java.lang.String)">fromString</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> segmentRef)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an instance of this struct from a string if it's well-formatted, <code>null</code> otherwise.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 </div>
 </div>
@@ -183,7 +182,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-segmentreference"
 <section class="detail" id="travelDirection">
 <h3>travelDirection</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-traveldirection" title="enum class in com.here.sdk.routing">TravelDirection</a></span> <span class="element-name">travelDirection</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-traveldirection" title="enum class in com.here.sdk.routing">TravelDirection</a></span> <span class="element-name">travelDirection</span></div>
 <div class="block"><p>Travel direction of the segment.</p></div>
 </section>
 </li>
@@ -250,7 +249,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-segmentreference"
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">SegmentReference</span><wbr/><span class="parameters">(@NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> segmentId,
  @NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-traveldirection" title="enum class in com.here.sdk.routing">TravelDirection</a> travelDirection)</span></div>
+ <a href="sdk-for-android-navigate-traveldirection" title="enum class in com.here.sdk.routing">TravelDirection</a> travelDirection)</span></div>
 <div class="block"><p>Creates a new instance.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -265,7 +264,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-segmentreference"
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">SegmentReference</span><wbr/><span class="parameters">(@NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> segmentId,
  @NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-traveldirection" title="enum class in com.here.sdk.routing">TravelDirection</a> travelDirection,
+ <a href="sdk-for-android-navigate-traveldirection" title="enum class in com.here.sdk.routing">TravelDirection</a> travelDirection,
  double offsetStart)</span></div>
 <div class="block"><p>Creates a new instance.</p></div>
 <dl class="notes">
@@ -282,7 +281,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-segmentreference"
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">SegmentReference</span><wbr/><span class="parameters">(@NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> segmentId,
  @NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-traveldirection" title="enum class in com.here.sdk.routing">TravelDirection</a> travelDirection,
+ <a href="sdk-for-android-navigate-traveldirection" title="enum class in com.here.sdk.routing">TravelDirection</a> travelDirection,
  double offsetStart,
  double offsetEnd)</span></div>
 <div class="block"><p>Creates a new instance.</p></div>
@@ -301,7 +300,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-segmentreference"
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">SegmentReference</span><wbr/><span class="parameters">(@NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> segmentId,
  @NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-traveldirection" title="enum class in com.here.sdk.routing">TravelDirection</a> travelDirection,
+ <a href="sdk-for-android-navigate-traveldirection" title="enum class in com.here.sdk.routing">TravelDirection</a> travelDirection,
  double offsetStart,
  double offsetEnd,
  long tilePartitionId)</span></div>
@@ -323,7 +322,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-segmentreference"
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">SegmentReference</span><wbr/><span class="parameters">(@NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> segmentId,
  @NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-traveldirection" title="enum class in com.here.sdk.routing">TravelDirection</a> travelDirection,
+ <a href="sdk-for-android-navigate-traveldirection" title="enum class in com.here.sdk.routing">TravelDirection</a> travelDirection,
  double offsetStart,
  double offsetEnd,
  long tilePartitionId,
@@ -374,14 +373,14 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-segmentreference"
 <section class="detail" id="fromString(java.lang.String)">
 <h3>fromString</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public static</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-segmentreference" title="class in com.here.sdk.routing">SegmentReference</a></span> <span class="element-name">fromString</span><wbr/><span class="parameters">(@NonNull
+</span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-navigate-segmentreference" title="class in com.here.sdk.routing">SegmentReference</a></span> <span class="element-name">fromString</span><wbr/><span class="parameters">(@NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> segmentRef)</span></div>
 <div class="block"><p>Returns an instance of this struct from a string if it's well-formatted, <code>null</code> otherwise.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>segmentRef</code> - <p>The string to parse</p></dd>
 <dt>Returns:</dt>
-<dd><p>An instance of <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-segmentreference" title="class in com.here.sdk.routing"><code>SegmentReference</code></a> from a string if it's well-formatted, <code>null</code> otherwise.</p></dd>
+<dd><p>An instance of <a href="sdk-for-android-navigate-segmentreference" title="class in com.here.sdk.routing"><code>SegmentReference</code></a> from a string if it's well-formatted, <code>null</code> otherwise.</p></dd>
 </dl>
 </section>
 </li>

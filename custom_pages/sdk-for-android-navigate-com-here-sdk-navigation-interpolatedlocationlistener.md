@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-interpolatedlocationlist
 `
 <div class="sdk-for-android">
 <!-- InterpolatedLocationListener.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,7 +19,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-interpolatedlocationlist
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.navigation</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-navigation-package-summary">com.here.sdk.navigation</a></div>
 
 </div>
 <section class="class-description" id="class-description">
@@ -28,7 +27,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-interpolatedlocationlist
 <div class="type-signature"><span class="modifiers">public interface </span><span class="element-name type-name-label">InterpolatedLocationListener</span></div>
 <div class="block"><p>This interface should be implemented
  in order to receive interpolated locations. The interpolated locations are only provided between
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-visualnavigator#startRendering(com.here.sdk.mapview.MapViewBase)"><code>VisualNavigator.startRendering(com.here.sdk.mapview.MapViewBase)</code></a> and <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-visualnavigator#stopRendering()"><code>VisualNavigator.stopRendering()</code></a> calls and the application
+ <a href="sdk-for-android-navigate-visualnavigator#startRendering(com.here.sdk.mapview.MapViewBase)"><code>VisualNavigator.startRendering(com.here.sdk.mapview.MapViewBase)</code></a> and <a href="sdk-for-android-navigate-visualnavigator#stopRendering()"><code>VisualNavigator.stopRendering()</code></a> calls and the application
  is not running in the background.</p></div>
 </section>
 <section class="summary">
@@ -45,7 +44,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-interpolatedlocationlist
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#onInterpolatedLocationUpdated(com.here.sdk.core.Location)">onInterpolatedLocationUpdated</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-location" title="class in com.here.sdk.core">Location</a> location)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onInterpolatedLocationUpdated(com.here.sdk.core.Location)">onInterpolatedLocationUpdated</a><wbr/>(<a href="sdk-for-android-navigate-location" title="class in com.here.sdk.core">Location</a> location)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Called whenever a new interpolated location is calculated, usually several times per second.</div>
 </div>
@@ -67,10 +66,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-interpolatedlocationlist
 <section class="detail" id="onInterpolatedLocationUpdated(com.here.sdk.core.Location)">
 <h3>onInterpolatedLocationUpdated</h3>
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">onInterpolatedLocationUpdated</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-location" title="class in com.here.sdk.core">Location</a> location)</span></div>
+ <a href="sdk-for-android-navigate-location" title="class in com.here.sdk.core">Location</a> location)</span></div>
 <div class="block"><p>Called whenever a new interpolated location is calculated, usually several times per second.
- The interpolated locations are only provided between <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-visualnavigator#startRendering(com.here.sdk.mapview.MapViewBase)"><code>VisualNavigator.startRendering(com.here.sdk.mapview.MapViewBase)</code></a> and
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-visualnavigator#stopRendering()"><code>VisualNavigator.stopRendering()</code></a> calls and the application is not running in the background.</p></div>
+ The interpolated locations are only provided between <a href="sdk-for-android-navigate-visualnavigator#startRendering(com.here.sdk.mapview.MapViewBase)"><code>VisualNavigator.startRendering(com.here.sdk.mapview.MapViewBase)</code></a> and
+ <a href="sdk-for-android-navigate-visualnavigator#stopRendering()"><code>VisualNavigator.stopRendering()</code></a> calls and the application is not running in the background.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>location</code> - <p>The interpolated location.</p></dd>

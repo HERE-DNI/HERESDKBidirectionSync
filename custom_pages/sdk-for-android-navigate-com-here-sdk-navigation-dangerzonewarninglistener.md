@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-dangerzonewarninglistene
 `
 <div class="sdk-for-android">
 <!-- DangerZoneWarningListener.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,7 +19,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-dangerzonewarninglistene
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.navigation</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-navigation-package-summary">com.here.sdk.navigation</a></div>
 
 </div>
 <section class="class-description" id="class-description">
@@ -42,7 +41,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-dangerzonewarninglistene
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#onDangerZoneWarningsUpdated(com.here.sdk.navigation.DangerZoneWarning)">onDangerZoneWarningsUpdated</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-dangerzonewarning" title="class in com.here.sdk.navigation">DangerZoneWarning</a> dangerZonesWarning)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onDangerZoneWarningsUpdated(com.here.sdk.navigation.DangerZoneWarning)">onDangerZoneWarningsUpdated</a><wbr/>(<a href="sdk-for-android-navigate-dangerzonewarning" title="class in com.here.sdk.navigation">DangerZoneWarning</a> dangerZonesWarning)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Called whenever the current location has been updated.</div>
 </div>
@@ -64,7 +63,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-dangerzonewarninglistene
 <section class="detail" id="onDangerZoneWarningsUpdated(com.here.sdk.navigation.DangerZoneWarning)">
 <h3>onDangerZoneWarningsUpdated</h3>
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">onDangerZoneWarningsUpdated</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-dangerzonewarning" title="class in com.here.sdk.navigation">DangerZoneWarning</a> dangerZonesWarning)</span></div>
+ <a href="sdk-for-android-navigate-dangerzonewarning" title="class in com.here.sdk.navigation">DangerZoneWarning</a> dangerZonesWarning)</span></div>
 <div class="block"><p>Called whenever the current location has been updated.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

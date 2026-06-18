@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapview-takescreenshotcallb
 `
 <div class="sdk-for-android">
 <!-- MapView.TakeScreenshotCallback.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,13 +19,13 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapview-takescreenshotcallb
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.mapview</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></div>
 
 </div>
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>Enclosing class:</dt>
-<dd><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapview" title="class in com.here.sdk.mapview">MapView</a></dd>
+<dd><a href="sdk-for-android-navigate-mapview" title="class in com.here.sdk.mapview">MapView</a></dd>
 </dl>
 <dl class="notes">
 <dt>Functional Interface:</dt>
@@ -52,7 +51,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapview-takescreenshotcallb
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#onScreenshotTaken(android.graphics.Bitmap)">onScreenshotTaken</a><wbr/>(android.graphics.Bitmap bitmap)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onScreenshotTaken(android.graphics.Bitmap)">onScreenshotTaken</a><wbr/>(android.graphics.Bitmap bitmap)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Callback to be called when screenshot is ready.</div>
 </div>

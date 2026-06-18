@@ -7,7 +7,6 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions"
 `
 <div class="sdk-for-android">
 <!-- SDKOptions.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,7 +19,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-package-summary">com.here.sdk.core.engine</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-core-engine-package-summary">com.here.sdk.core.engine</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -31,7 +30,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions"
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">SDKOptions</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
 <div class="block"><p>SDKOptions provide an alternative way to set or update the HERE SDK credentials and other
- parameters at runtime to initialize the <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-sdknativeengine" title="class in com.here.sdk.core.engine"><code>SDKNativeEngine</code></a>.</p></div>
+ parameters at runtime to initialize the <a href="sdk-for-android-explore-sdknativeengine" title="class in com.here.sdk.core.engine"><code>SDKNativeEngine</code></a>.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -45,7 +44,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions"
 <div class="table-header col-second">Class</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>static enum </code></div>
-<div class="col-second even-row-color"><code><a class="type-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-sdkoptions.actiononcachelock" title="enum class in com.here.sdk.core.engine">SDKOptions.ActionOnCacheLock</a></code></div>
+<div class="col-second even-row-color"><code><a class="type-name-link" href="sdk-for-android-explore-sdkoptions.actiononcachelock" title="enum class in com.here.sdk.core.engine">SDKOptions.ActionOnCacheLock</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Action on cache lock</div>
 </div>
@@ -61,89 +60,89 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-sdkoptions.actiononcachelock" title="enum class in com.here.sdk.core.engine">SDKOptions.ActionOnCacheLock</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#actionOnCacheLock">actionOnCacheLock</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-sdkoptions.actiononcachelock" title="enum class in com.here.sdk.core.engine">SDKOptions.ActionOnCacheLock</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#actionOnCacheLock">actionOnCacheLock</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Specifies action to perform when cache folder is locked by another process.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-authenticationmode" title="class in com.here.sdk.core.engine">AuthenticationMode</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#authenticationMode">authenticationMode</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-authenticationmode" title="class in com.here.sdk.core.engine">AuthenticationMode</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#authenticationMode">authenticationMode</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Encapsulates Authentication method and parameters.</div>
 </div>
 <div class="col-first even-row-color"><code>boolean</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#autoUpdateOfOnlineCache">autoUpdateOfOnlineCache</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#autoUpdateOfOnlineCache">autoUpdateOfOnlineCache</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Parameter to enable automatic cache updates.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#billingTag">billingTag</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#billingTag">billingTag</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Internal to HERE SDK.</div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#cachePath">cachePath</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#cachePath">cachePath</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Path to be used for caching purposes.</div>
 </div>
 <div class="col-first odd-row-color"><code>long</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#cacheSizeInBytes">cacheSizeInBytes</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#cacheSizeInBytes">cacheSizeInBytes</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Desired upper bound of application size in bytes.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-catalogconfiguration" title="class in com.here.sdk.core.engine">CatalogConfiguration</a>&gt;</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#catalogConfigurations">catalogConfigurations</a></code></div>
+<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-catalogconfiguration" title="class in com.here.sdk.core.engine">CatalogConfiguration</a>&gt;</code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#catalogConfigurations">catalogConfigurations</a></code></div>
 <div class="col-last even-row-color">
-<div class="block">This field specifies how the <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-sdknativeengine" title="class in com.here.sdk.core.engine"><code>SDKNativeEngine</code></a> should access, use and store
+<div class="block">This field specifies how the <a href="sdk-for-android-explore-sdknativeengine" title="class in com.here.sdk.core.engine"><code>SDKNativeEngine</code></a> should access, use and store
  data for different catalogs.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html" title="class or interface in java.util">Map</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-enginebaseurl" title="enum class in com.here.sdk.core.engine">EngineBaseURL</a>,<wbr/><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-engineoptions" title="class in com.here.sdk.core.engine">EngineOptions</a>&gt;</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#customEngineOptions">customEngineOptions</a></code></div>
+<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html" title="class or interface in java.util">Map</a>&lt;<a href="sdk-for-android-explore-enginebaseurl" title="enum class in com.here.sdk.core.engine">EngineBaseURL</a>,<wbr/><a href="sdk-for-android-explore-engineoptions" title="class in com.here.sdk.core.engine">EngineOptions</a>&gt;</code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#customEngineOptions">customEngineOptions</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Set custom options for SDK Engines.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-metadata" title="class in com.here.sdk.core">Metadata</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#customOptions">customOptions</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-metadata" title="class in com.here.sdk.core">Metadata</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#customOptions">customOptions</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Options that define custom behavior for the HERE SDK.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#dataPath">dataPath</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#dataPath">dataPath</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Path used for storing application internal data, such as the offline search index and other essential data required for proper functionality.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-layerconfiguration" title="class in com.here.sdk.core.engine">LayerConfiguration</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#layerConfiguration">layerConfiguration</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-layerconfiguration" title="class in com.here.sdk.core.engine">LayerConfiguration</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#layerConfiguration">layerConfiguration</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Defines a list of data features that can be enabled / disabled.</div>
 </div>
 <div class="col-first odd-row-color"><code>boolean</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#lowMemoryMode">lowMemoryMode</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#lowMemoryMode">lowMemoryMode</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">If an application runs in a memory-constrained environment, enable this option to reduce the HERE SDK's memory footprint.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-networksettings" title="class in com.here.sdk.core.engine">NetworkSettings</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#networkSettings">networkSettings</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-networksettings" title="class in com.here.sdk.core.engine">NetworkSettings</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#networkSettings">networkSettings</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Network settings to use at the start.</div>
 </div>
 <div class="col-first odd-row-color"><code>boolean</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#offlineMode">offlineMode</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#offlineMode">offlineMode</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Sets offline mode for the HERE SDK.</div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#persistentMapStoragePath">persistentMapStoragePath</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#persistentMapStoragePath">persistentMapStoragePath</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Path to store persistent map data.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#politicalView">politicalView</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#politicalView">politicalView</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Geopolitical view of a country, defined as a three letter country code by ISO 3166-1 alpha-3.</div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#scope">scope</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#scope">scope</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Optional project ID to set the project scope of the login session.</div>
 </div>
@@ -158,7 +157,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#%3Cinit%3E(com.here.sdk.core.engine.AuthenticationMode)">SDKOptions</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-authenticationmode" title="class in com.here.sdk.core.engine">AuthenticationMode</a> authenticationMode)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#%3Cinit%3E(com.here.sdk.core.engine.AuthenticationMode)">SDKOptions</a><wbr/>(<a href="sdk-for-android-explore-authenticationmode" title="class in com.here.sdk.core.engine">AuthenticationMode</a> authenticationMode)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Constructs a SDKOptions from authentication mode.</div>
 </div>
@@ -177,10 +176,10 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#hashCode()">hashCode</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 </div>
 </div>
@@ -244,8 +243,8 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions"
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span class="element-name">dataPath</span></div>
 <div class="block"><p>Path used for storing application internal data, such as the offline search index and other essential data required for proper functionality.
- </p><p><strong>Note:</strong> For common use cases, prefer <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#persistentMapStoragePath"><code>persistentMapStoragePath</code></a>, or keep the default paths. Use <code>dataPath</code> only as a fallback if <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#persistentMapStoragePath"><code>persistentMapStoragePath</code></a> is not writable, for example, when you have an agreement with HERE to flash data at factory time.
- </p><p>By default, this returns an empty string. In this case, the same path as <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#persistentMapStoragePath"><code>persistentMapStoragePath</code></a> will be used.
+ </p><p><strong>Note:</strong> For common use cases, prefer <a href="sdk-for-android-explore-index#persistentMapStoragePath"><code>persistentMapStoragePath</code></a>, or keep the default paths. Use <code>dataPath</code> only as a fallback if <a href="sdk-for-android-explore-index#persistentMapStoragePath"><code>persistentMapStoragePath</code></a> is not writable, for example, when you have an agreement with HERE to flash data at factory time.
+ </p><p>By default, this returns an empty string. In this case, the same path as <a href="sdk-for-android-explore-index#persistentMapStoragePath"><code>persistentMapStoragePath</code></a> will be used.
  If an absolute path is set, it will be used instead.
  If a relative path is set then directory <code>Context.getFilesDir().getPath()</code>
  is used as parent path.
@@ -259,12 +258,12 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions"
  and data can be deleted if the device is low on storage space, which will result in application malfunction.
  The path can be on internal or external storage. The internal storage is recommended due to the file I/O speed.
  Note:
- If the <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#persistentMapStoragePath"><code>persistentMapStoragePath</code></a> is writable, <code>dataPath</code> can be left empty.
- If the <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#persistentMapStoragePath"><code>persistentMapStoragePath</code></a> is not writable, <code>dataPath</code> must be set and also be writable. Note that <code>dataPath</code> is used to store essential HERE SDK data.
+ If the <a href="sdk-for-android-explore-index#persistentMapStoragePath"><code>persistentMapStoragePath</code></a> is writable, <code>dataPath</code> can be left empty.
+ If the <a href="sdk-for-android-explore-index#persistentMapStoragePath"><code>persistentMapStoragePath</code></a> is not writable, <code>dataPath</code> must be set and also be writable. Note that <code>dataPath</code> is used to store essential HERE SDK data.
  </p><p><strong>Important:</strong>
- There is no automatic migration of stored data between the <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#persistentMapStoragePath"><code>persistentMapStoragePath</code></a> and the <code>dataPath</code>. For ease of management,
+ There is no automatic migration of stored data between the <a href="sdk-for-android-explore-index#persistentMapStoragePath"><code>persistentMapStoragePath</code></a> and the <code>dataPath</code>. For ease of management,
  it's recommended to set the persistence path as writable and ignore <code>dataPath</code>.
- If <code>dataPath</code> is set differently from the <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#persistentMapStoragePath"><code>persistentMapStoragePath</code></a>, some data that would typically be saved in the <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#persistentMapStoragePath"><code>persistentMapStoragePath</code></a> will now be saved to <code>dataPath</code>.
+ If <code>dataPath</code> is set differently from the <a href="sdk-for-android-explore-index#persistentMapStoragePath"><code>persistentMapStoragePath</code></a>, some data that would typically be saved in the <a href="sdk-for-android-explore-index#persistentMapStoragePath"><code>persistentMapStoragePath</code></a> will now be saved to <code>dataPath</code>.
  If <code>dataPath</code> is set and later unset, any data stored there will remain inaccessible and will not be migrated back.</p></div>
 </section>
 </li>
@@ -292,7 +291,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions"
  which may cause some functionality to not behave as expected.
  The recommended location in terms of file I/O speed is the app's internal storage directory, whereas an external SD card is expected to be slower.
  This also depends on the quality of the used SD card.
- </p><p>Note: If the persistent map storage location has the read only permission, then the <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#dataPath"><code>dataPath</code></a> must be configured.</p></div>
+ </p><p>Note: If the persistent map storage location has the read only permission, then the <a href="sdk-for-android-explore-index#dataPath"><code>dataPath</code></a> must be configured.</p></div>
 </section>
 </li>
 <li>
@@ -313,35 +312,35 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions"
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">offlineMode</span></div>
 <div class="block"><p>Sets offline mode for the HERE SDK. Defaults to <code>false</code>. When enabled, this prevents the
  HERE SDK from initiating any online connection from starting.
- The mode can be disabled or enabled again at any time via <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-sdknativeengine#isOfflineMode()"><code>SDKNativeEngine.isOfflineMode()</code></a>.</p></div>
+ The mode can be disabled or enabled again at any time via <a href="sdk-for-android-explore-sdknativeengine#isOfflineMode()"><code>SDKNativeEngine.isOfflineMode()</code></a>.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="layerConfiguration">
 <h3>layerConfiguration</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-layerconfiguration" title="class in com.here.sdk.core.engine">LayerConfiguration</a></span> <span class="element-name">layerConfiguration</span></div>
-<div class="block"><p>Defines a list of data features that can be enabled / disabled. Once set to <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-sdkoptions" title="class in com.here.sdk.core.engine"><code>SDKOptions</code></a> when
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-layerconfiguration" title="class in com.here.sdk.core.engine">LayerConfiguration</a></span> <span class="element-name">layerConfiguration</span></div>
+<div class="block"><p>Defines a list of data features that can be enabled / disabled. Once set to <a href="sdk-for-android-explore-sdkoptions" title="class in com.here.sdk.core.engine"><code>SDKOptions</code></a> when
  a new HERE SDK is constructed, it will affect the map cache and offline maps.
  When disabling certain features, less data will be prefetched when the map is rendered. Map
  data that was already cached will not be removed until the least recently used strategy (LRU)
  applies. That means you cannot remove any content from the map cache by updating the
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-layerconfiguration" title="class in com.here.sdk.core.engine"><code>LayerConfiguration</code></a>. However, for new map data, it will be applied.
- For offline maps, this <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-layerconfiguration" title="class in com.here.sdk.core.engine"><code>LayerConfiguration</code></a> can reduce the download size of all regions.
- Note that the <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-layerconfiguration" title="class in com.here.sdk.core.engine"><code>LayerConfiguration</code></a> is applied globally to all regions that will be downloaded
+ <a href="sdk-for-android-explore-layerconfiguration" title="class in com.here.sdk.core.engine"><code>LayerConfiguration</code></a>. However, for new map data, it will be applied.
+ For offline maps, this <a href="sdk-for-android-explore-layerconfiguration" title="class in com.here.sdk.core.engine"><code>LayerConfiguration</code></a> can reduce the download size of all regions.
+ Note that the <a href="sdk-for-android-explore-layerconfiguration" title="class in com.here.sdk.core.engine"><code>LayerConfiguration</code></a> is applied globally to all regions that will be downloaded
  in the future. It will not affect already downloaded regions. Updating a region will also
- not update the <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-layerconfiguration" title="class in com.here.sdk.core.engine"><code>LayerConfiguration</code></a>. Only the <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-layerconfiguration" title="class in com.here.sdk.core.engine"><code>LayerConfiguration</code></a> will be used that was set
+ not update the <a href="sdk-for-android-explore-layerconfiguration" title="class in com.here.sdk.core.engine"><code>LayerConfiguration</code></a>. Only the <a href="sdk-for-android-explore-layerconfiguration" title="class in com.here.sdk.core.engine"><code>LayerConfiguration</code></a> will be used that was set
  globally when a region was downloaded for the first time. If you want to update the
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-layerconfiguration" title="class in com.here.sdk.core.engine"><code>LayerConfiguration</code></a> for an already downloaded region, please delete the region and download it again.
+ <a href="sdk-for-android-explore-layerconfiguration" title="class in com.here.sdk.core.engine"><code>LayerConfiguration</code></a> for an already downloaded region, please delete the region and download it again.
  </p><p>Please also note
  <ul>
-<li>The <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-layerconfiguration" title="class in com.here.sdk.core.engine"><code>LayerConfiguration</code></a> is only applicable for the HERE SDK (Navigate) that contains the offline maps
+<li>The <a href="sdk-for-android-explore-layerconfiguration" title="class in com.here.sdk.core.engine"><code>LayerConfiguration</code></a> is only applicable for the HERE SDK (Navigate) that contains the offline maps
  feature. It has no effect on other licenses.</li>
-<li>The <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-layerconfiguration" title="class in com.here.sdk.core.engine"><code>LayerConfiguration</code></a> cannot be set separately for a region, it will be applied globally
+<li>The <a href="sdk-for-android-explore-layerconfiguration" title="class in com.here.sdk.core.engine"><code>LayerConfiguration</code></a> cannot be set separately for a region, it will be applied globally
  for all regions that will be downloaded in the future.</li>
-<li>It is not possible to specify a separate <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-layerconfiguration" title="class in com.here.sdk.core.engine"><code>LayerConfiguration</code></a> for the map cache and offline maps.
- The <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-layerconfiguration" title="class in com.here.sdk.core.engine"><code>LayerConfiguration</code></a> will be always applied to both.</li>
-<li>The <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-layerconfiguration" title="class in com.here.sdk.core.engine"><code>LayerConfiguration</code></a> does affect the map cache when a device has connectivity. Even
+<li>It is not possible to specify a separate <a href="sdk-for-android-explore-layerconfiguration" title="class in com.here.sdk.core.engine"><code>LayerConfiguration</code></a> for the map cache and offline maps.
+ The <a href="sdk-for-android-explore-layerconfiguration" title="class in com.here.sdk.core.engine"><code>LayerConfiguration</code></a> will be always applied to both.</li>
+<li>The <a href="sdk-for-android-explore-layerconfiguration" title="class in com.here.sdk.core.engine"><code>LayerConfiguration</code></a> does affect the map cache when a device has connectivity. Even
  when a device has connectivity it will only download the specified layers.</li>
 <li>This is a beta feature and thus there can be bugs and unexpected behavior.</li>
 </ul></p></div>
@@ -351,12 +350,12 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions"
 <section class="detail" id="catalogConfigurations">
 <h3>catalogConfigurations</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-catalogconfiguration" title="class in com.here.sdk.core.engine">CatalogConfiguration</a>&gt;</span> <span class="element-name">catalogConfigurations</span></div>
-<div class="block"><p>This field specifies how the <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-sdknativeengine" title="class in com.here.sdk.core.engine"><code>SDKNativeEngine</code></a> should access, use and store
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-catalogconfiguration" title="class in com.here.sdk.core.engine">CatalogConfiguration</a>&gt;</span> <span class="element-name">catalogConfigurations</span></div>
+<div class="block"><p>This field specifies how the <a href="sdk-for-android-explore-sdknativeengine" title="class in com.here.sdk.core.engine"><code>SDKNativeEngine</code></a> should access, use and store
  data for different catalogs. You can access default catalogs on the HERE platform and
  also custom catalogs such as for self-hosted or BYOD (bring your own data) use cases.
  For further information about catalogs and related concepts see
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-catalogconfiguration" title="class in com.here.sdk.core.engine"><code>CatalogConfiguration</code></a>
+ <a href="sdk-for-android-explore-catalogconfiguration" title="class in com.here.sdk.core.engine"><code>CatalogConfiguration</code></a>
 </p><p><strong>Note:</strong>
  This API is only available for the Navigate license. It has no affect on other license.</p></div>
 </section>
@@ -389,7 +388,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions"
 <section class="detail" id="customEngineOptions">
 <h3>customEngineOptions</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html" title="class or interface in java.util">Map</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-enginebaseurl" title="enum class in com.here.sdk.core.engine">EngineBaseURL</a>,<wbr/><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-engineoptions" title="class in com.here.sdk.core.engine">EngineOptions</a>&gt;</span> <span class="element-name">customEngineOptions</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html" title="class or interface in java.util">Map</a>&lt;<a href="sdk-for-android-explore-enginebaseurl" title="enum class in com.here.sdk.core.engine">EngineBaseURL</a>,<wbr/><a href="sdk-for-android-explore-engineoptions" title="class in com.here.sdk.core.engine">EngineOptions</a>&gt;</span> <span class="element-name">customEngineOptions</span></div>
 <div class="block"><p>Set custom options for SDK Engines. This includes:
  <ul>
 <li><code>custom_base_url</code>: Allows engines to use custom base URLs for alternative services.
@@ -410,15 +409,15 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions"
 <section class="detail" id="actionOnCacheLock">
 <h3>actionOnCacheLock</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-sdkoptions.actiononcachelock" title="enum class in com.here.sdk.core.engine">SDKOptions.ActionOnCacheLock</a></span> <span class="element-name">actionOnCacheLock</span></div>
-<div class="block"><p>Specifies action to perform when cache folder is locked by another process. Default value is <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-sdkoptions.actiononcachelock#WAIT_LOCKING_APP_FINISH"><code>SDKOptions.ActionOnCacheLock.WAIT_LOCKING_APP_FINISH</code></a>.</p></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-sdkoptions.actiononcachelock" title="enum class in com.here.sdk.core.engine">SDKOptions.ActionOnCacheLock</a></span> <span class="element-name">actionOnCacheLock</span></div>
+<div class="block"><p>Specifies action to perform when cache folder is locked by another process. Default value is <a href="sdk-for-android-explore-sdkoptions.actiononcachelock#WAIT_LOCKING_APP_FINISH"><code>SDKOptions.ActionOnCacheLock.WAIT_LOCKING_APP_FINISH</code></a>.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="authenticationMode">
 <h3>authenticationMode</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-authenticationmode" title="class in com.here.sdk.core.engine">AuthenticationMode</a></span> <span class="element-name">authenticationMode</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-authenticationmode" title="class in com.here.sdk.core.engine">AuthenticationMode</a></span> <span class="element-name">authenticationMode</span></div>
 <div class="block"><p>Encapsulates Authentication method and parameters.</p></div>
 </section>
 </li>
@@ -426,7 +425,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions"
 <section class="detail" id="networkSettings">
 <h3>networkSettings</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-networksettings" title="class in com.here.sdk.core.engine">NetworkSettings</a></span> <span class="element-name">networkSettings</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-networksettings" title="class in com.here.sdk.core.engine">NetworkSettings</a></span> <span class="element-name">networkSettings</span></div>
 <div class="block"><p>Network settings to use at the start. Some of those settings can be changed later.</p></div>
 </section>
 </li>
@@ -437,7 +436,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions"
 <div class="block"><p>If an application runs in a memory-constrained environment, enable this option to reduce the HERE SDK's memory footprint.
  When set to <code>true</code> configures internal memory caches to consume less memory.
  Reduction in cache sizes also reduces performance of the HERE SDK.
- In order to release memory occupied by internal caches see <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-sdknativeengine#purgeMemoryCaches(com.here.sdk.core.engine.SDKNativeEngine.PurgeMemoryStrategy)"><code>SDKNativeEngine.purgeMemoryCaches(com.here.sdk.core.engine.SDKNativeEngine.PurgeMemoryStrategy)</code></a>.</p></div>
+ In order to release memory occupied by internal caches see <a href="sdk-for-android-explore-sdknativeengine#purgeMemoryCaches(com.here.sdk.core.engine.SDKNativeEngine.PurgeMemoryStrategy)"><code>SDKNativeEngine.purgeMemoryCaches(com.here.sdk.core.engine.SDKNativeEngine.PurgeMemoryStrategy)</code></a>.</p></div>
 </section>
 </li>
 <li>
@@ -462,7 +461,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions"
 <section class="detail" id="customOptions">
 <h3>customOptions</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-metadata" title="class in com.here.sdk.core">Metadata</a></span> <span class="element-name">customOptions</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-metadata" title="class in com.here.sdk.core">Metadata</a></span> <span class="element-name">customOptions</span></div>
 <div class="block"><p>Options that define custom behavior for the HERE SDK. These settings allow fine-tuning
  of internal thread pools and resource management for advanced use cases.
  These options are intended for <em>internal</em> usage only and should not be modified unless
@@ -483,7 +482,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.core.engine.AuthenticationMode)">
 <h3>SDKOptions</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">SDKOptions</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-authenticationmode" title="class in com.here.sdk.core.engine">AuthenticationMode</a> authenticationMode)</span></div>
+ <a href="sdk-for-android-explore-authenticationmode" title="class in com.here.sdk.core.engine">AuthenticationMode</a> authenticationMode)</span></div>
 <div class="block"><p>Constructs a SDKOptions from authentication mode. Other fields are filled with default values.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

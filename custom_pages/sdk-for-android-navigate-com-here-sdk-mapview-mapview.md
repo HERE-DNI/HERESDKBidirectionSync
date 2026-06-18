@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapview"
 `
 <div class="sdk-for-android">
 <!-- MapView.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,7 +19,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapview"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.mapview</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -35,23 +34,23 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapview"
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>All Implemented Interfaces:</dt>
-<dd><code>android.graphics.drawable.Drawable.Callback</code>, <code>android.view.accessibility.AccessibilityEventSource</code>, <code>android.view.KeyEvent.Callback</code>, <code>android.view.ViewManager</code>, <code>android.view.ViewParent</code>, <code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapviewbase" title="interface in com.here.sdk.mapview">MapViewBase</a></code></dd>
+<dd><code>android.graphics.drawable.Drawable.Callback</code>, <code>android.view.accessibility.AccessibilityEventSource</code>, <code>android.view.KeyEvent.Callback</code>, <code>android.view.ViewManager</code>, <code>android.view.ViewParent</code>, <code><a href="sdk-for-android-navigate-mapviewbase" title="interface in com.here.sdk.mapview">MapViewBase</a></code></dd>
 </dl>
 <hr/>
 <div class="type-signature"><span class="modifiers">public class </span><span class="element-name type-name-label">MapView</span>
 <span class="extends-implements">extends android.widget.FrameLayout
-implements <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapviewbase" title="interface in com.here.sdk.mapview">MapViewBase</a></span></div>
+implements <a href="sdk-for-android-navigate-mapviewbase" title="interface in com.here.sdk.mapview">MapViewBase</a></span></div>
 <div class="block">A view that can display a map.
 
- <p>The content of the map is controlled by <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapscene" title="class in com.here.sdk.mapview"><code>MapScene</code></a>,
- which is accessible by calling <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#getMapScene()"><code>getMapScene()</code></a>. To display a map, map scene needs
- to be loaded with <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapscene#loadScene(com.here.sdk.mapview.MapScheme,com.here.sdk.mapview.MapScene.LoadSceneCallback)"><code>MapScene.loadScene(MapScheme, MapScene.LoadSceneCallback)</code></a>.
+ <p>The content of the map is controlled by <a href="sdk-for-android-navigate-mapscene" title="class in com.here.sdk.mapview"><code>MapScene</code></a>,
+ which is accessible by calling <a href="sdk-for-android-navigate-index#getMapScene()"><code>getMapScene()</code></a>. To display a map, map scene needs
+ to be loaded with <a href="sdk-for-android-navigate-mapscene#loadScene(com.here.sdk.mapview.MapScheme,com.here.sdk.mapview.MapScene.LoadSceneCallback)"><code>MapScene.loadScene(MapScheme, MapScene.LoadSceneCallback)</code></a>.
 
- </p><p>Manipulating the way the map is displayed is possible using <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapcamera" title="class in com.here.sdk.mapview"><code>MapCamera</code></a>, which is
- accessible by calling <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#getCamera()"><code>getCamera()</code></a>.
+ </p><p>Manipulating the way the map is displayed is possible using <a href="sdk-for-android-navigate-mapcamera" title="class in com.here.sdk.mapview"><code>MapCamera</code></a>, which is
+ accessible by calling <a href="sdk-for-android-navigate-index#getCamera()"><code>getCamera()</code></a>.
 
- </p><p>Gesture handling can be modified through the <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-gestures" title="class in com.here.sdk.gestures"><code>Gestures</code></a> object, which is
- accessible by calling <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#getGestures()"><code>getGestures()</code></a>.
+ </p><p>Gesture handling can be modified through the <a href="sdk-for-android-navigate-gestures" title="class in com.here.sdk.gestures"><code>Gestures</code></a> object, which is
+ accessible by calling <a href="sdk-for-android-navigate-index#getGestures()"><code>getGestures()</code></a>.
 
  
  To use the MapView the following application permissions need to be present:
@@ -71,16 +70,16 @@ implements <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-n
  multiple <code>MapView</code>s as part of a complex view hierarchy.
 
  </p><p>Rendering mode can only be set when creating a <code>MapView</code>, by setting
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapviewoptions#renderMode"><code>MapViewOptions.renderMode</code></a> and passing the options to the constructor.
+ <a href="sdk-for-android-navigate-mapviewoptions#renderMode"><code>MapViewOptions.renderMode</code></a> and passing the options to the constructor.
 
  
 
  When dealing with view coordinates, physical pixels are used. MapView provides ways
  to translate between view and geographic coordinates using
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#viewToGeoCoordinates(com.here.sdk.core.Point2D)"><code>viewToGeoCoordinates(Point2D)</code></a> and <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#geoToViewCoordinates(com.here.sdk.core.GeoCoordinates)"><code>geoToViewCoordinates(GeoCoordinates)</code></a> methods.
+ <a href="sdk-for-android-navigate-index#viewToGeoCoordinates(com.here.sdk.core.Point2D)"><code>viewToGeoCoordinates(Point2D)</code></a> and <a href="sdk-for-android-navigate-index#geoToViewCoordinates(com.here.sdk.core.GeoCoordinates)"><code>geoToViewCoordinates(GeoCoordinates)</code></a> methods.
  Note that those two methods only work when the MapView is fully ready, so if there is a need
  to call them during lifecycle changes, they should be called from within
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapview.onreadylistener#onMapViewReady()"><code>MapView.OnReadyListener.onMapViewReady()</code></a>. See Lifecycle section below for more details.
+ <a href="sdk-for-android-navigate-mapview.onreadylistener#onMapViewReady()"><code>MapView.OnReadyListener.onMapViewReady()</code></a>. See Lifecycle section below for more details.
 
  
 </p><p>Two caching mechanisms are supported. First is in-memory cache, which keeps some number
@@ -90,28 +89,28 @@ implements <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-n
 
  
 </p><p>For <code>MapView</code> to work correctly, it is required to call its lifecycle
- methods from the owner Activity: <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#onCreate(android.os.Bundle)"><code>onCreate(Bundle)</code></a>, <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#onResume()"><code>onResume()</code></a>,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#onPause()"><code>onPause()</code></a>, <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#onDestroy()"><code>onDestroy()</code></a> and <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#onSaveInstanceState(android.os.Bundle)"><code>onSaveInstanceState(Bundle)</code></a>.
+ methods from the owner Activity: <a href="sdk-for-android-navigate-index#onCreate(android.os.Bundle)"><code>onCreate(Bundle)</code></a>, <a href="sdk-for-android-navigate-index#onResume()"><code>onResume()</code></a>,
+ <a href="sdk-for-android-navigate-index#onPause()"><code>onPause()</code></a>, <a href="sdk-for-android-navigate-index#onDestroy()"><code>onDestroy()</code></a> and <a href="sdk-for-android-navigate-index#onSaveInstanceState(android.os.Bundle)"><code>onSaveInstanceState(Bundle)</code></a>.
 
  </p><p>When dealing with multiple <code>MapView</code>s in a single Activity,
- an extra identifier needs to be passed to <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#onCreate(android.os.Bundle,java.lang.String)"><code>onCreate(Bundle, String)</code></a> and
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#onSaveInstanceState(android.os.Bundle,java.lang.String)"><code>onSaveInstanceState(Bundle, String)</code></a>. This identifier needs to be unique
+ an extra identifier needs to be passed to <a href="sdk-for-android-navigate-index#onCreate(android.os.Bundle,java.lang.String)"><code>onCreate(Bundle, String)</code></a> and
+ <a href="sdk-for-android-navigate-index#onSaveInstanceState(android.os.Bundle,java.lang.String)"><code>onSaveInstanceState(Bundle, String)</code></a>. This identifier needs to be unique
  to all the <code>MapView</code>s owned by the <code>Activity</code> and needs to be the same
  when recreating the <code>Activity</code>.
 
  </p><p>A <code>MapView</code> is considered valid only after
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#onCreate(android.os.Bundle)"><code>onCreate(Bundle)</code></a> or <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#onCreate(android.os.Bundle,java.lang.String)"><code>onCreate(Bundle, String)</code></a> and before
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#onDestroy()"><code>onDestroy()</code></a> is called. <code>MapView</code> is also invalidated when the
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-sdknativeengine" title="class in com.here.sdk.core.engine"><code>SDKNativeEngine</code></a> it is using is destroyed.
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-destroyed-index#isValid()"><code>isValid()</code></a> can be used to check the state of <code>MapView</code>.
+ <a href="sdk-for-android-navigate-index#onCreate(android.os.Bundle)"><code>onCreate(Bundle)</code></a> or <a href="sdk-for-android-navigate-index#onCreate(android.os.Bundle,java.lang.String)"><code>onCreate(Bundle, String)</code></a> and before
+ <a href="sdk-for-android-navigate-index#onDestroy()"><code>onDestroy()</code></a> is called. <code>MapView</code> is also invalidated when the
+ <a href="sdk-for-android-navigate-sdknativeengine" title="class in com.here.sdk.core.engine"><code>SDKNativeEngine</code></a> it is using is destroyed.
+ <a href="sdk-for-android-navigate-index#isValid()"><code>isValid()</code></a> can be used to check the state of <code>MapView</code>.
 
- </p><p><code>MapView</code> offers additional lifecycle event exposed through <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapview.onreadylistener" title="interface in com.here.sdk.mapview"><code>MapView.OnReadyListener</code></a>.
+ </p><p><code>MapView</code> offers additional lifecycle event exposed through <a href="sdk-for-android-navigate-mapview.onreadylistener" title="interface in com.here.sdk.mapview"><code>MapView.OnReadyListener</code></a>.
  This can be used to determine when <code>MapView</code> is fully ready for action, which means that
  map scene is loaded and drawing surface is ready to render a map. This is important
- for coordinate conversion methods and <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#getViewportSize()"><code>getViewportSize()</code></a>, which work only when those
+ for coordinate conversion methods and <a href="sdk-for-android-navigate-index#getViewportSize()"><code>getViewportSize()</code></a>, which work only when those
  conditions are met. When <code>OnReadyListener</code> is set in <code>Activity</code>'s <code>onCreate()</code>
  before any other operation is performed on the <code>MapView</code>, then
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapview.onreadylistener#onMapViewReady()"><code>MapView.OnReadyListener.onMapViewReady()</code></a> is called:
+ <a href="sdk-for-android-navigate-mapview.onreadylistener#onMapViewReady()"><code>MapView.OnReadyListener.onMapViewReady()</code></a> is called:
  <ul>
 <li>after map scene is successfully loaded for the first time</li>
 <li>some time after <code>Activity</code>'s <code>onResume()</code>, assuming map scene had been
@@ -131,19 +130,19 @@ implements <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-n
 <div class="table-header col-second">Class</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>static interface </code></div>
-<div class="col-second even-row-color"><code><a class="type-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapview.onreadylistener" title="interface in com.here.sdk.mapview">MapView.OnReadyListener</a></code></div>
+<div class="col-second even-row-color"><code><a class="type-name-link" href="sdk-for-android-navigate-mapview.onreadylistener" title="interface in com.here.sdk.mapview">MapView.OnReadyListener</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Listener that gets notified when MapView is fully initialized and ready to handle all
  operations, which means that map scene is loaded and drawing surface is ready to render
  a map.</div>
 </div>
 <div class="col-first odd-row-color"><code>static interface </code></div>
-<div class="col-second odd-row-color"><code><a class="type-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapview.takescreenshotcallback" title="interface in com.here.sdk.mapview">MapView.TakeScreenshotCallback</a></code></div>
+<div class="col-second odd-row-color"><code><a class="type-name-link" href="sdk-for-android-navigate-mapview.takescreenshotcallback" title="interface in com.here.sdk.mapview">MapView.TakeScreenshotCallback</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Callback to be called on retrieval of screenshot.</div>
 </div>
 <div class="col-first even-row-color"><code>static interface </code></div>
-<div class="col-second even-row-color"><code><a class="type-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapview.viewpin" title="interface in com.here.sdk.mapview">MapView.ViewPin</a></code></div>
+<div class="col-second even-row-color"><code><a class="type-name-link" href="sdk-for-android-navigate-mapview.viewpin" title="interface in com.here.sdk.mapview">MapView.ViewPin</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A ViewPin is used to display Android views at a fixed location on the map.</div>
 </div>
@@ -159,7 +158,7 @@ implements <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-n
 <code>android.view.View.AccessibilityDelegate, android.view.View.BaseSavedState, android.view.View.DragShadowBuilder, android.view.View.MeasureSpec, android.view.View.OnApplyWindowInsetsListener, android.view.View.OnAttachStateChangeListener, android.view.View.OnCapturedPointerListener, android.view.View.OnClickListener, android.view.View.OnContextClickListener, android.view.View.OnCreateContextMenuListener, android.view.View.OnDragListener, android.view.View.OnFocusChangeListener, android.view.View.OnGenericMotionListener, android.view.View.OnHoverListener, android.view.View.OnKeyListener, android.view.View.OnLayoutChangeListener, android.view.View.OnLongClickListener, android.view.View.OnScrollChangeListener, android.view.View.OnSystemUiVisibilityChangeListener, android.view.View.OnTouchListener, android.view.View.OnUnhandledKeyEventListener</code></div>
 <div class="inherited-list">
 
-<code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapviewbase.mappickcallback" title="interface in com.here.sdk.mapview">MapViewBase.MapPickCallback</a></code></div>
+<code><a href="sdk-for-android-navigate-mapviewbase.mappickcallback" title="interface in com.here.sdk.mapview">MapViewBase.MapPickCallback</a></code></div>
 </section>
 </li>
 <!-- =========== FIELD SUMMARY =========== -->
@@ -182,35 +181,35 @@ implements <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-n
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#%3Cinit%3E(android.content.Context)">MapView</a><wbr/>(android.content.Context context)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(android.content.Context)">MapView</a><wbr/>(android.content.Context context)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Simple constructor to use when creating a map view from code.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#%3Cinit%3E(android.content.Context,android.util.AttributeSet)">MapView</a><wbr/>(android.content.Context context,
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(android.content.Context,android.util.AttributeSet)">MapView</a><wbr/>(android.content.Context context,
  android.util.AttributeSet attrs)</code></div>
 <div class="col-last odd-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#%3Cinit%3E(android.content.Context,android.util.AttributeSet,int)">MapView</a><wbr/>(android.content.Context context,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(android.content.Context,android.util.AttributeSet,int)">MapView</a><wbr/>(android.content.Context context,
  android.util.AttributeSet attrs,
  int defStyleAttr)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#%3Cinit%3E(android.content.Context,com.here.sdk.mapview.MapViewOptions)">MapView</a><wbr/>(android.content.Context context,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapviewoptions" title="class in com.here.sdk.mapview">MapViewOptions</a> options)</code></div>
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(android.content.Context,com.here.sdk.mapview.MapViewOptions)">MapView</a><wbr/>(android.content.Context context,
+ <a href="sdk-for-android-navigate-mapviewoptions" title="class in com.here.sdk.mapview">MapViewOptions</a> options)</code></div>
 <div class="col-last odd-row-color">
 <div class="block">Simple constructor to use when creating a map view from code.</div>
 </div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.core.engine.SDKNativeEngine,android.content.Context,android.util.AttributeSet,int)">MapView</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> engine,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.core.engine.SDKNativeEngine,android.content.Context,android.util.AttributeSet,int)">MapView</a><wbr/>(<a href="sdk-for-android-navigate-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> engine,
  android.content.Context context,
  android.util.AttributeSet attrs,
  int defStyleAttr)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.core.engine.SDKNativeEngine,com.here.sdk.mapview.MapViewOptions,android.content.Context,android.util.AttributeSet,int)">MapView</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> engine,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapviewoptions" title="class in com.here.sdk.mapview">MapViewOptions</a> options,
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.core.engine.SDKNativeEngine,com.here.sdk.mapview.MapViewOptions,android.content.Context,android.util.AttributeSet,int)">MapView</a><wbr/>(<a href="sdk-for-android-navigate-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> engine,
+ <a href="sdk-for-android-navigate-mapviewoptions" title="class in com.here.sdk.mapview">MapViewOptions</a> options,
  android.content.Context context,
  android.util.AttributeSet attrs,
  int defStyleAttr)</code></div>
@@ -232,200 +231,200 @@ implements <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-n
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#addLifecycleListener(com.here.sdk.mapview.MapViewLifecycleListener)">addLifecycleListener</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapviewlifecyclelistener" title="interface in com.here.sdk.mapview">MapViewLifecycleListener</a> lifecycleListener)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#addLifecycleListener(com.here.sdk.mapview.MapViewLifecycleListener)">addLifecycleListener</a><wbr/>(<a href="sdk-for-android-navigate-mapviewlifecyclelistener" title="interface in com.here.sdk.mapview">MapViewLifecycleListener</a> lifecycleListener)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
-<div class="block">Adds a <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapviewlifecyclelistener" title="interface in com.here.sdk.mapview"><code>MapViewLifecycleListener</code></a> to this map view.</div>
+<div class="block">Adds a <a href="sdk-for-android-navigate-mapviewlifecyclelistener" title="interface in com.here.sdk.mapview"><code>MapViewLifecycleListener</code></a> to this map view.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-point2d" title="class in com.here.sdk.core">Point2D</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#geoToViewCoordinates(com.here.sdk.core.GeoCoordinates)">geoToViewCoordinates</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> geoCoordinates)</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-point2d" title="class in com.here.sdk.core">Point2D</a></code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#geoToViewCoordinates(com.here.sdk.core.GeoCoordinates)">geoToViewCoordinates</a><wbr/>(<a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> geoCoordinates)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Converts geographical coordinates to view coordinates (in pixels).</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapcamera" title="class in com.here.sdk.mapview">MapCamera</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#getCamera()">getCamera</a>()</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-mapcamera" title="class in com.here.sdk.mapview">MapCamera</a></code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getCamera()">getCamera</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the camera control object for the map.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#getFrameRate()">getFrameRate</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getFrameRate()">getFrameRate</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets maximum render frame rate in frames per second.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-gestures" title="class in com.here.sdk.gestures">Gestures</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#getGestures()">getGestures</a>()</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-gestures" title="class in com.here.sdk.gestures">Gestures</a></code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getGestures()">getGestures</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Returns the gestures control object</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-heremap" title="class in com.here.sdk.mapview">HereMap</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#getHereMap()">getHereMap</a>()</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-heremap" title="class in com.here.sdk.mapview">HereMap</a></code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getHereMap()">getHereMap</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the HereMap associated with this map view.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapcontext" title="class in com.here.sdk.mapview">MapContext</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#getMapContext()">getMapContext</a>()</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-mapcontext" title="class in com.here.sdk.mapview">MapContext</a></code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getMapContext()">getMapContext</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the map context associated with this map view.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapscene" title="class in com.here.sdk.mapview">MapScene</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#getMapScene()">getMapScene</a>()</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-mapscene" title="class in com.here.sdk.mapview">MapScene</a></code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getMapScene()">getMapScene</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the map scene associated with this map view.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>double</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#getPixelScale()">getPixelScale</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getPixelScale()">getPixelScale</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the pixel scale factor used by this MapView.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#getPrimaryLanguage()">getPrimaryLanguage</a>()</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getPrimaryLanguage()">getPrimaryLanguage</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Gets code of currently set primary map display language.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#getSecondaryLanguage()">getSecondaryLanguage</a>()</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getSecondaryLanguage()">getSecondaryLanguage</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Gets code of currently set secondary map display language.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-shadowquality" title="enum class in com.here.sdk.mapview">ShadowQuality</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#getShadowQuality()">getShadowQuality</a>()</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-shadowquality" title="enum class in com.here.sdk.mapview">ShadowQuality</a></code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getShadowQuality()">getShadowQuality</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Gets the currently set shadow quality.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapview.viewpin" title="interface in com.here.sdk.mapview">MapView.ViewPin</a>&gt;</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#getViewPins()">getViewPins</a>()</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-mapview.viewpin" title="interface in com.here.sdk.mapview">MapView.ViewPin</a>&gt;</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getViewPins()">getViewPins</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Returns a copy of the list of views currently pinned to the map view.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-size2d" title="class in com.here.sdk.core">Size2D</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#getViewportSize()">getViewportSize</a>()</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-size2d" title="class in com.here.sdk.core">Size2D</a></code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getViewportSize()">getViewportSize</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the size of this map view in physical pixels.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-size2d" title="class in com.here.sdk.core">Size2D</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#getWatermarkSize()">getWatermarkSize</a>()</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-size2d" title="class in com.here.sdk.core">Size2D</a></code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getWatermarkSize()">getWatermarkSize</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Returns the watermark size in physical pixels.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#isValid()">isValid</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#isValid()">isValid</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Returns whether this <code>MapView</code> is valid.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#onCreate(android.os.Bundle)">onCreate</a><wbr/>(android.os.Bundle bundle)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onCreate(android.os.Bundle)">onCreate</a><wbr/>(android.os.Bundle bundle)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Call this method in the onCreate() method of the lifecycle owner before calling any other
  MapView methods.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#onCreate(android.os.Bundle,java.lang.String)">onCreate</a><wbr/>(android.os.Bundle bundle,
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onCreate(android.os.Bundle,java.lang.String)">onCreate</a><wbr/>(android.os.Bundle bundle,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> identifier)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Call this method in the onCreate() method of the lifecycle owner before calling any other
  MapView methods if there are multiple MapViews instances to (re)create.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#onDestroy()">onDestroy</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onDestroy()">onDestroy</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Call this method in the onDestroy() method of the lifecycle owner</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#onPause()">onPause</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onPause()">onPause</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Call this method in the onPause() method of the lifecycle owner.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#onResume()">onResume</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onResume()">onResume</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Call this method in the onResume() method of the lifecycle owner.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#onSaveInstanceState(android.os.Bundle)">onSaveInstanceState</a><wbr/>(android.os.Bundle bundle)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onSaveInstanceState(android.os.Bundle)">onSaveInstanceState</a><wbr/>(android.os.Bundle bundle)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Call this method in the onSaveInstance() method of the lifecycle owner.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#onSaveInstanceState(android.os.Bundle,java.lang.String)">onSaveInstanceState</a><wbr/>(android.os.Bundle bundle,
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onSaveInstanceState(android.os.Bundle,java.lang.String)">onSaveInstanceState</a><wbr/>(android.os.Bundle bundle,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> identifier)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Call this method in the onSaveInstance() method of the lifecycle owner if multiple
  MapView instances are present.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#pick(com.here.sdk.mapview.MapScene.MapPickFilter,com.here.sdk.core.Rectangle2D,com.here.sdk.mapview.MapViewBase.MapPickCallback)">pick</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapscene.mappickfilter" title="class in com.here.sdk.mapview">MapScene.MapPickFilter</a> filter,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-rectangle2d" title="class in com.here.sdk.core">Rectangle2D</a> viewArea,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapviewbase.mappickcallback" title="interface in com.here.sdk.mapview">MapViewBase.MapPickCallback</a> callback)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#pick(com.here.sdk.mapview.MapScene.MapPickFilter,com.here.sdk.core.Rectangle2D,com.here.sdk.mapview.MapViewBase.MapPickCallback)">pick</a><wbr/>(<a href="sdk-for-android-navigate-mapscene.mappickfilter" title="class in com.here.sdk.mapview">MapScene.MapPickFilter</a> filter,
+ <a href="sdk-for-android-navigate-rectangle2d" title="class in com.here.sdk.core">Rectangle2D</a> viewArea,
+ <a href="sdk-for-android-navigate-mapviewbase.mappickcallback" title="interface in com.here.sdk.mapview">MapViewBase.MapPickCallback</a> callback)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Returns all map content located inside the specified pick area.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapview.viewpin" title="interface in com.here.sdk.mapview">MapView.ViewPin</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#pinView(android.view.View,com.here.sdk.core.GeoCoordinates)">pinView</a><wbr/>(android.view.View view,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates)</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-mapview.viewpin" title="interface in com.here.sdk.mapview">MapView.ViewPin</a></code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#pinView(android.view.View,com.here.sdk.core.GeoCoordinates)">pinView</a><wbr/>(android.view.View view,
+ <a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Pins a <code>View</code> to the <code>MapView</code> and returns a proxy object that can be used to
  control the pinning.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#removeLifecycleListener(com.here.sdk.mapview.MapViewLifecycleListener)">removeLifecycleListener</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapviewlifecyclelistener" title="interface in com.here.sdk.mapview">MapViewLifecycleListener</a> lifecycleListener)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#removeLifecycleListener(com.here.sdk.mapview.MapViewLifecycleListener)">removeLifecycleListener</a><wbr/>(<a href="sdk-for-android-navigate-mapviewlifecyclelistener" title="interface in com.here.sdk.mapview">MapViewLifecycleListener</a> lifecycleListener)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
-<div class="block">Removes a <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapviewlifecyclelistener" title="interface in com.here.sdk.mapview"><code>MapViewLifecycleListener</code></a> from this map view.</div>
+<div class="block">Removes a <a href="sdk-for-android-navigate-mapviewlifecyclelistener" title="interface in com.here.sdk.mapview"><code>MapViewLifecycleListener</code></a> from this map view.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#setFixedSize(int,int,double)">setFixedSize</a><wbr/>(int width,
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setFixedSize(int,int,double)">setFixedSize</a><wbr/>(int width,
  int height,
  double factor)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Requests a fixed size to be used for rendering this MapView.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#setFrameRate(int)">setFrameRate</a><wbr/>(int value)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setFrameRate(int)">setFrameRate</a><wbr/>(int value)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets maximum render frame rate in frames per second.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#setOnReadyListener(com.here.sdk.mapview.MapView.OnReadyListener)">setOnReadyListener</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapview.onreadylistener" title="interface in com.here.sdk.mapview">MapView.OnReadyListener</a> readyListener)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setOnReadyListener(com.here.sdk.mapview.MapView.OnReadyListener)">setOnReadyListener</a><wbr/>(<a href="sdk-for-android-navigate-mapview.onreadylistener" title="interface in com.here.sdk.mapview">MapView.OnReadyListener</a> readyListener)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the OnReadyListener, which will be notified once MapView initialization has
  been finished.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#setPrimaryLanguage(com.here.sdk.core.LanguageCode)">setPrimaryLanguage</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a> languageCode)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setPrimaryLanguage(com.here.sdk.core.LanguageCode)">setPrimaryLanguage</a><wbr/>(<a href="sdk-for-android-navigate-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a> languageCode)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Set desired primary map display language for all instances of MapView.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#setSecondaryLanguage(com.here.sdk.core.LanguageCode)">setSecondaryLanguage</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a> languageCode)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setSecondaryLanguage(com.here.sdk.core.LanguageCode)">setSecondaryLanguage</a><wbr/>(<a href="sdk-for-android-navigate-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a> languageCode)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Set desired secondary map display language for all instances of MapView.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#setShadowQuality(com.here.sdk.mapview.ShadowQuality)">setShadowQuality</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-shadowquality" title="enum class in com.here.sdk.mapview">ShadowQuality</a> shadowQuality)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setShadowQuality(com.here.sdk.mapview.ShadowQuality)">setShadowQuality</a><wbr/>(<a href="sdk-for-android-navigate-shadowquality" title="enum class in com.here.sdk.mapview">ShadowQuality</a> shadowQuality)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Set desired shadow quality for all instances of MapView/MapSurface.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#setVisibility(int)">setVisibility</a><wbr/>(int visibility)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setVisibility(int)">setVisibility</a><wbr/>(int visibility)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the visibility of MapView.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#setWatermarkLocation(com.here.sdk.core.Anchor2D,com.here.sdk.core.Point2D)">setWatermarkLocation</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-anchor2d" title="class in com.here.sdk.core">Anchor2D</a> anchor,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-point2d" title="class in com.here.sdk.core">Point2D</a> offset)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setWatermarkLocation(com.here.sdk.core.Anchor2D,com.here.sdk.core.Point2D)">setWatermarkLocation</a><wbr/>(<a href="sdk-for-android-navigate-anchor2d" title="class in com.here.sdk.core">Anchor2D</a> anchor,
+ <a href="sdk-for-android-navigate-point2d" title="class in com.here.sdk.core">Point2D</a> offset)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the position of the HERE logo watermark within the map view.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#takeScreenshot(com.here.sdk.mapview.MapView.TakeScreenshotCallback)">takeScreenshot</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapview.takescreenshotcallback" title="interface in com.here.sdk.mapview">MapView.TakeScreenshotCallback</a> callback)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#takeScreenshot(com.here.sdk.mapview.MapView.TakeScreenshotCallback)">takeScreenshot</a><wbr/>(<a href="sdk-for-android-navigate-mapview.takescreenshotcallback" title="interface in com.here.sdk.mapview">MapView.TakeScreenshotCallback</a> callback)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Asynchronously retrieves a screenshot of current map view.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#unpinView(android.view.View)">unpinView</a><wbr/>(android.view.View view)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#unpinView(android.view.View)">unpinView</a><wbr/>(android.view.View view)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
-<div class="block">Removes a <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapview.viewpin" title="interface in com.here.sdk.mapview"><code>MapView.ViewPin</code></a> from the <code>MapView</code> by specifying the corresponding view.</div>
+<div class="block">Removes a <a href="sdk-for-android-navigate-mapview.viewpin" title="interface in com.here.sdk.mapview"><code>MapView.ViewPin</code></a> from the <code>MapView</code> by specifying the corresponding view.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#viewToGeoCoordinates(com.here.sdk.core.Point2D)">viewToGeoCoordinates</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-point2d" title="class in com.here.sdk.core">Point2D</a> viewCoordinates)</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#viewToGeoCoordinates(com.here.sdk.core.Point2D)">viewToGeoCoordinates</a><wbr/>(<a href="sdk-for-android-navigate-point2d" title="class in com.here.sdk.core">Point2D</a> viewCoordinates)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Converts view coordinates to geographical coordinates.</div>
 </div>
@@ -462,7 +461,7 @@ implements <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-n
 <section class="detail" id="&lt;init&gt;(android.content.Context,com.here.sdk.mapview.MapViewOptions)">
 <h3>MapView</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">MapView</span><wbr/><span class="parameters">(android.content.Context context,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapviewoptions" title="class in com.here.sdk.mapview">MapViewOptions</a> options)</span></div>
+ <a href="sdk-for-android-navigate-mapviewoptions" title="class in com.here.sdk.mapview">MapViewOptions</a> options)</span></div>
 <div class="block">Simple constructor to use when creating a map view from code.</div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -519,7 +518,7 @@ implements <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-n
 <li>
 <section class="detail" id="&lt;init&gt;(com.here.sdk.core.engine.SDKNativeEngine,android.content.Context,android.util.AttributeSet,int)">
 <h3>MapView</h3>
-<div class="member-signature"><span class="modifiers">public</span> <span class="element-name">MapView</span><wbr/><span class="parameters">(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> engine,
+<div class="member-signature"><span class="modifiers">public</span> <span class="element-name">MapView</span><wbr/><span class="parameters">(<a href="sdk-for-android-navigate-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> engine,
  android.content.Context context,
  android.util.AttributeSet attrs,
  int defStyleAttr)</span></div>
@@ -539,8 +538,8 @@ implements <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-n
 <li>
 <section class="detail" id="&lt;init&gt;(com.here.sdk.core.engine.SDKNativeEngine,com.here.sdk.mapview.MapViewOptions,android.content.Context,android.util.AttributeSet,int)">
 <h3>MapView</h3>
-<div class="member-signature"><span class="modifiers">public</span> <span class="element-name">MapView</span><wbr/><span class="parameters">(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> engine,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapviewoptions" title="class in com.here.sdk.mapview">MapViewOptions</a> options,
+<div class="member-signature"><span class="modifiers">public</span> <span class="element-name">MapView</span><wbr/><span class="parameters">(<a href="sdk-for-android-navigate-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> engine,
+ <a href="sdk-for-android-navigate-mapviewoptions" title="class in com.here.sdk.mapview">MapViewOptions</a> options,
  android.content.Context context,
  android.util.AttributeSet attrs,
  int defStyleAttr)</span></div>
@@ -571,7 +570,7 @@ implements <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-n
 <h3>setVisibility</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setVisibility</span><wbr/><span class="parameters">(int visibility)</span></div>
 <div class="block">Sets the visibility of MapView. Visibilities of views pinned to
- MapView (see <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#pinView(android.view.View,com.here.sdk.core.GeoCoordinates)"><code>pinView(View, GeoCoordinates)</code></a>) will not be affected by this method.</div>
+ MapView (see <a href="sdk-for-android-navigate-index#pinView(android.view.View,com.here.sdk.core.GeoCoordinates)"><code>pinView(View, GeoCoordinates)</code></a>) will not be affected by this method.</div>
 <dl class="notes">
 <dt>Overrides:</dt>
 <dd><code>setVisibility</code> in class <code>android.view.View</code></dd>
@@ -585,7 +584,7 @@ implements <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-n
 <section class="detail" id="setPrimaryLanguage(com.here.sdk.core.LanguageCode)">
 <h3>setPrimaryLanguage</h3>
 <div class="member-signature"><span class="modifiers">public static</span> <span class="return-type">void</span> <span class="element-name">setPrimaryLanguage</span><wbr/><span class="parameters">(@Nullable
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a> languageCode)</span></div>
+ <a href="sdk-for-android-navigate-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a> languageCode)</span></div>
 <div class="block">Set desired primary map display language for all instances of MapView.
  Applying a language change causes map to be redrawn.
  <p>
@@ -601,7 +600,7 @@ implements <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-n
 <section class="detail" id="setSecondaryLanguage(com.here.sdk.core.LanguageCode)">
 <h3>setSecondaryLanguage</h3>
 <div class="member-signature"><span class="modifiers">public static</span> <span class="return-type">void</span> <span class="element-name">setSecondaryLanguage</span><wbr/><span class="parameters">(@Nullable
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a> languageCode)</span></div>
+ <a href="sdk-for-android-navigate-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a> languageCode)</span></div>
 <div class="block">Set desired secondary map display language for all instances of MapView.
  Applying a language change causes map to be redrawn.
  <p>
@@ -618,7 +617,7 @@ implements <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-n
 <section class="detail" id="getPrimaryLanguage()">
 <h3>getPrimaryLanguage</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public static</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">getPrimaryLanguage</span>()</div>
+</span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-navigate-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">getPrimaryLanguage</span>()</div>
 <div class="block">Gets code of currently set primary map display language.</div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -630,7 +629,7 @@ implements <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-n
 <section class="detail" id="getSecondaryLanguage()">
 <h3>getSecondaryLanguage</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public static</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">getSecondaryLanguage</span>()</div>
+</span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-navigate-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">getSecondaryLanguage</span>()</div>
 <div class="block">Gets code of currently set secondary map display language.
  Note: This feature is in beta state and thus there can be bugs and unexpected behavior.</div>
 <dl class="notes">
@@ -642,7 +641,7 @@ implements <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-n
 <li>
 <section class="detail" id="setShadowQuality(com.here.sdk.mapview.ShadowQuality)">
 <h3>setShadowQuality</h3>
-<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type">void</span> <span class="element-name">setShadowQuality</span><wbr/><span class="parameters">(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-shadowquality" title="enum class in com.here.sdk.mapview">ShadowQuality</a> shadowQuality)</span></div>
+<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type">void</span> <span class="element-name">setShadowQuality</span><wbr/><span class="parameters">(<a href="sdk-for-android-navigate-shadowquality" title="enum class in com.here.sdk.mapview">ShadowQuality</a> shadowQuality)</span></div>
 <div class="block">Set desired shadow quality for all instances of MapView/MapSurface.
  The quality controls the size of the shadow maps and the cascade count.
  The default shadow quality is <code>ShadowQuality.MEDIUM</code>.
@@ -659,7 +658,7 @@ implements <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-n
 <li>
 <section class="detail" id="getShadowQuality()">
 <h3>getShadowQuality</h3>
-<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-shadowquality" title="enum class in com.here.sdk.mapview">ShadowQuality</a></span> <span class="element-name">getShadowQuality</span>()</div>
+<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-navigate-shadowquality" title="enum class in com.here.sdk.mapview">ShadowQuality</a></span> <span class="element-name">getShadowQuality</span>()</div>
 <div class="block">Gets the currently set shadow quality.
  The default shadow quality is <code>ShadowQuality.MEDIUM</code>.
  Note: This feature is in beta state and thus there can be bugs and unexpected behavior.</div>
@@ -703,17 +702,17 @@ implements <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-n
 <li>
 <section class="detail" id="setOnReadyListener(com.here.sdk.mapview.MapView.OnReadyListener)">
 <h3>setOnReadyListener</h3>
-<div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setOnReadyListener</span><wbr/><span class="parameters">(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapview.onreadylistener" title="interface in com.here.sdk.mapview">MapView.OnReadyListener</a> readyListener)</span></div>
+<div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setOnReadyListener</span><wbr/><span class="parameters">(<a href="sdk-for-android-navigate-mapview.onreadylistener" title="interface in com.here.sdk.mapview">MapView.OnReadyListener</a> readyListener)</span></div>
 <div class="block">Sets the OnReadyListener, which will be notified once MapView initialization has
  been finished. It is highly recommended to put code that accesses map view related
- functionality inside <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapview.onreadylistener#onMapViewReady()"><code>MapView.OnReadyListener.onMapViewReady()</code></a> instead of directly in
+ functionality inside <a href="sdk-for-android-navigate-mapview.onreadylistener#onMapViewReady()"><code>MapView.OnReadyListener.onMapViewReady()</code></a> instead of directly in
  <code>Activity</code>'s <code>onResume()</code>.</div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>readyListener</code> - The listener to be registered, or <code>null</code> to unregister any
                       previously register listener.</dd>
 <dt>Throws:</dt>
-<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html" title="class or interface in java.lang">IllegalStateException</a></code> - if <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#onCreate(android.os.Bundle)"><code>onCreate(Bundle)</code></a> method was not called beforehand.</dd>
+<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html" title="class or interface in java.lang">IllegalStateException</a></code> - if <a href="sdk-for-android-navigate-index#onCreate(android.os.Bundle)"><code>onCreate(Bundle)</code></a> method was not called beforehand.</dd>
 </dl>
 </section>
 </li>
@@ -737,12 +736,12 @@ implements <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-n
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">isValid</span>()</div>
 <div class="block">Returns whether this <code>MapView</code> is valid. An invalid <code>MapView</code> is non-functional.
  A <code>MapView</code> is considered valid only after
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#onCreate(android.os.Bundle)"><code>onCreate(Bundle)</code></a> or <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#onCreate(android.os.Bundle,java.lang.String)"><code>onCreate(Bundle, String)</code></a> and before
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#onDestroy()"><code>onDestroy()</code></a> is called. <code>MapView</code> is also invalidated when the
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-sdknativeengine" title="class in com.here.sdk.core.engine"><code>SDKNativeEngine</code></a> it is using is destroyed.</div>
+ <a href="sdk-for-android-navigate-index#onCreate(android.os.Bundle)"><code>onCreate(Bundle)</code></a> or <a href="sdk-for-android-navigate-index#onCreate(android.os.Bundle,java.lang.String)"><code>onCreate(Bundle, String)</code></a> and before
+ <a href="sdk-for-android-navigate-index#onDestroy()"><code>onDestroy()</code></a> is called. <code>MapView</code> is also invalidated when the
+ <a href="sdk-for-android-navigate-sdknativeengine" title="class in com.here.sdk.core.engine"><code>SDKNativeEngine</code></a> it is using is destroyed.</div>
 <dl class="notes">
 <dt>Specified by:</dt>
-<dd><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapviewbase#isValid()">isValid</a></code> in interface <code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapviewbase" title="interface in com.here.sdk.mapview">MapViewBase</a></code></dd>
+<dd><code><a href="sdk-for-android-navigate-mapviewbase#isValid()">isValid</a></code> in interface <code><a href="sdk-for-android-navigate-mapviewbase" title="interface in com.here.sdk.mapview">MapViewBase</a></code></dd>
 <dt>Returns:</dt>
 <dd><code>true</code> if this <code>MapView</code> is valid, <code>false</code> otherwise.</dd>
 </dl>
@@ -786,11 +785,11 @@ implements <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-n
 <section class="detail" id="pick(com.here.sdk.mapview.MapScene.MapPickFilter,com.here.sdk.core.Rectangle2D,com.here.sdk.mapview.MapViewBase.MapPickCallback)">
 <h3>pick</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">pick</span><wbr/><span class="parameters">(@Nullable
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapscene.mappickfilter" title="class in com.here.sdk.mapview">MapScene.MapPickFilter</a> filter,
+ <a href="sdk-for-android-navigate-mapscene.mappickfilter" title="class in com.here.sdk.mapview">MapScene.MapPickFilter</a> filter,
  @NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-rectangle2d" title="class in com.here.sdk.core">Rectangle2D</a> viewArea,
+ <a href="sdk-for-android-navigate-rectangle2d" title="class in com.here.sdk.core">Rectangle2D</a> viewArea,
  @NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapviewbase.mappickcallback" title="interface in com.here.sdk.mapview">MapViewBase.MapPickCallback</a> callback)</span></div>
+ <a href="sdk-for-android-navigate-mapviewbase.mappickcallback" title="interface in com.here.sdk.mapview">MapViewBase.MapPickCallback</a> callback)</span></div>
 <div class="block"><p>Returns all map content located inside the specified pick area. Content to be picked is
  specified by a pick content filter.
  The pick area is defined by a rectangle in map view coordinates
@@ -798,7 +797,7 @@ implements <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-n
  of the map view.</p></div>
 <dl class="notes">
 <dt>Specified by:</dt>
-<dd><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapviewbase#pick(com.here.sdk.mapview.MapScene.MapPickFilter,com.here.sdk.core.Rectangle2D,com.here.sdk.mapview.MapViewBase.MapPickCallback)">pick</a></code> in interface <code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapviewbase" title="interface in com.here.sdk.mapview">MapViewBase</a></code></dd>
+<dd><code><a href="sdk-for-android-navigate-mapviewbase#pick(com.here.sdk.mapview.MapScene.MapPickFilter,com.here.sdk.core.Rectangle2D,com.here.sdk.mapview.MapViewBase.MapPickCallback)">pick</a></code> in interface <code><a href="sdk-for-android-navigate-mapviewbase" title="interface in com.here.sdk.mapview">MapViewBase</a></code></dd>
 <dt>Parameters:</dt>
 <dd><code>filter</code> - <p>Filter for the map content to be picked. When a filter is not set all of the
                pickable content will be picked.</p></dd>
@@ -816,8 +815,8 @@ implements <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-n
 <section class="detail" id="geoToViewCoordinates(com.here.sdk.core.GeoCoordinates)">
 <h3>geoToViewCoordinates</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-point2d" title="class in com.here.sdk.core">Point2D</a></span> <span class="element-name">geoToViewCoordinates</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> geoCoordinates)</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-point2d" title="class in com.here.sdk.core">Point2D</a></span> <span class="element-name">geoToViewCoordinates</span><wbr/><span class="parameters">(@NonNull
+ <a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> geoCoordinates)</span></div>
 <div class="block">Converts geographical coordinates to view coordinates (in pixels).
  <p>
  If specified, altitude of the input coordinates is interpreted as altitude above sea level.
@@ -829,18 +828,18 @@ implements <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-n
  not attached, it will return <code>null</code>.</p></div>
 <dl class="notes">
 <dt>Specified by:</dt>
-<dd><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapviewbase#geoToViewCoordinates(com.here.sdk.core.GeoCoordinates)">geoToViewCoordinates</a></code> in interface <code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapviewbase" title="interface in com.here.sdk.mapview">MapViewBase</a></code></dd>
+<dd><code><a href="sdk-for-android-navigate-mapviewbase#geoToViewCoordinates(com.here.sdk.core.GeoCoordinates)">geoToViewCoordinates</a></code> in interface <code><a href="sdk-for-android-navigate-mapviewbase" title="interface in com.here.sdk.mapview">MapViewBase</a></code></dd>
 <dt>Parameters:</dt>
 <dd><code>geoCoordinates</code> - <p>Geographical coordinates to convert.</p></dd>
 <dt>Returns:</dt>
 <dd><p>The view coordinates of the specified geographical point or <code>null</code>
      if there is no render surface attached.</p></dd>
 <dt>Throws:</dt>
-<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html" title="class or interface in java.lang">IllegalStateException</a></code> - if <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#onCreate(android.os.Bundle)"><code>onCreate(Bundle)</code></a> method was not called beforehand.</dd>
+<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html" title="class or interface in java.lang">IllegalStateException</a></code> - if <a href="sdk-for-android-navigate-index#onCreate(android.os.Bundle)"><code>onCreate(Bundle)</code></a> method was not called beforehand.</dd>
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapview.onreadylistener" title="interface in com.here.sdk.mapview"><code>MapView.OnReadyListener</code></a></li>
+<li><a href="sdk-for-android-navigate-mapview.onreadylistener" title="interface in com.here.sdk.mapview"><code>MapView.OnReadyListener</code></a></li>
 </ul>
 </dd>
 </dl>
@@ -850,16 +849,16 @@ implements <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-n
 <section class="detail" id="addLifecycleListener(com.here.sdk.mapview.MapViewLifecycleListener)">
 <h3>addLifecycleListener</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">addLifecycleListener</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapviewlifecyclelistener" title="interface in com.here.sdk.mapview">MapViewLifecycleListener</a> lifecycleListener)</span></div>
-<div class="block">Adds a <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapviewlifecyclelistener" title="interface in com.here.sdk.mapview"><code>MapViewLifecycleListener</code></a> to this map view.
+ <a href="sdk-for-android-navigate-mapviewlifecyclelistener" title="interface in com.here.sdk.mapview">MapViewLifecycleListener</a> lifecycleListener)</span></div>
+<div class="block">Adds a <a href="sdk-for-android-navigate-mapviewlifecyclelistener" title="interface in com.here.sdk.mapview"><code>MapViewLifecycleListener</code></a> to this map view.
  Adding the same object multiple times has no effect.</div>
 <dl class="notes">
 <dt>Specified by:</dt>
-<dd><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapviewbase#addLifecycleListener(com.here.sdk.mapview.MapViewLifecycleListener)">addLifecycleListener</a></code> in interface <code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapviewbase" title="interface in com.here.sdk.mapview">MapViewBase</a></code></dd>
+<dd><code><a href="sdk-for-android-navigate-mapviewbase#addLifecycleListener(com.here.sdk.mapview.MapViewLifecycleListener)">addLifecycleListener</a></code> in interface <code><a href="sdk-for-android-navigate-mapviewbase" title="interface in com.here.sdk.mapview">MapViewBase</a></code></dd>
 <dt>Parameters:</dt>
 <dd><code>lifecycleListener</code> - An object to be notified of lifecycle events.</dd>
 <dt>Throws:</dt>
-<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html" title="class or interface in java.lang">IllegalStateException</a></code> - if <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#onCreate(android.os.Bundle)"><code>onCreate(Bundle)</code></a> method was not called beforehand.</dd>
+<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html" title="class or interface in java.lang">IllegalStateException</a></code> - if <a href="sdk-for-android-navigate-index#onCreate(android.os.Bundle)"><code>onCreate(Bundle)</code></a> method was not called beforehand.</dd>
 </dl>
 </section>
 </li>
@@ -867,17 +866,17 @@ implements <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-n
 <section class="detail" id="removeLifecycleListener(com.here.sdk.mapview.MapViewLifecycleListener)">
 <h3>removeLifecycleListener</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">removeLifecycleListener</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapviewlifecyclelistener" title="interface in com.here.sdk.mapview">MapViewLifecycleListener</a> lifecycleListener)</span></div>
-<div class="block">Removes a <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapviewlifecyclelistener" title="interface in com.here.sdk.mapview"><code>MapViewLifecycleListener</code></a> from this map view.
+ <a href="sdk-for-android-navigate-mapviewlifecyclelistener" title="interface in com.here.sdk.mapview">MapViewLifecycleListener</a> lifecycleListener)</span></div>
+<div class="block">Removes a <a href="sdk-for-android-navigate-mapviewlifecyclelistener" title="interface in com.here.sdk.mapview"><code>MapViewLifecycleListener</code></a> from this map view.
  Trying to remove an object that was not added or was removed before
  has no effect.</div>
 <dl class="notes">
 <dt>Specified by:</dt>
-<dd><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapviewbase#removeLifecycleListener(com.here.sdk.mapview.MapViewLifecycleListener)">removeLifecycleListener</a></code> in interface <code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapviewbase" title="interface in com.here.sdk.mapview">MapViewBase</a></code></dd>
+<dd><code><a href="sdk-for-android-navigate-mapviewbase#removeLifecycleListener(com.here.sdk.mapview.MapViewLifecycleListener)">removeLifecycleListener</a></code> in interface <code><a href="sdk-for-android-navigate-mapviewbase" title="interface in com.here.sdk.mapview">MapViewBase</a></code></dd>
 <dt>Parameters:</dt>
 <dd><code>lifecycleListener</code> - An object to stop being notified of lifecycle events.</dd>
 <dt>Throws:</dt>
-<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html" title="class or interface in java.lang">IllegalStateException</a></code> - if <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#onCreate(android.os.Bundle)"><code>onCreate(Bundle)</code></a> method was not called beforehand.</dd>
+<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html" title="class or interface in java.lang">IllegalStateException</a></code> - if <a href="sdk-for-android-navigate-index#onCreate(android.os.Bundle)"><code>onCreate(Bundle)</code></a> method was not called beforehand.</dd>
 </dl>
 </section>
 </li>
@@ -885,9 +884,9 @@ implements <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-n
 <section class="detail" id="pinView(android.view.View,com.here.sdk.core.GeoCoordinates)">
 <h3>pinView</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapview.viewpin" title="interface in com.here.sdk.mapview">MapView.ViewPin</a></span> <span class="element-name">pinView</span><wbr/><span class="parameters">(@NonNull
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-mapview.viewpin" title="interface in com.here.sdk.mapview">MapView.ViewPin</a></span> <span class="element-name">pinView</span><wbr/><span class="parameters">(@NonNull
  android.view.View view,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates)</span></div>
+ <a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates)</span></div>
 <div class="block">Pins a <code>View</code> to the <code>MapView</code> and returns a proxy object that can be used to
  control the pinning.
  <p>
@@ -911,7 +910,7 @@ implements <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-n
 <h3>unpinView</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">unpinView</span><wbr/><span class="parameters">(@NonNull
  android.view.View view)</span></div>
-<div class="block">Removes a <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapview.viewpin" title="interface in com.here.sdk.mapview"><code>MapView.ViewPin</code></a> from the <code>MapView</code> by specifying the corresponding view.
+<div class="block">Removes a <a href="sdk-for-android-navigate-mapview.viewpin" title="interface in com.here.sdk.mapview"><code>MapView.ViewPin</code></a> from the <code>MapView</code> by specifying the corresponding view.
  Trying to unpin a view that was not pinned or was unpinned before has no effect.</div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -922,7 +921,7 @@ implements <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-n
 <li>
 <section class="detail" id="getViewPins()">
 <h3>getViewPins</h3>
-<div class="member-signature"><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapview.viewpin" title="interface in com.here.sdk.mapview">MapView.ViewPin</a>&gt;</span> <span class="element-name">getViewPins</span>()</div>
+<div class="member-signature"><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-mapview.viewpin" title="interface in com.here.sdk.mapview">MapView.ViewPin</a>&gt;</span> <span class="element-name">getViewPins</span>()</div>
 <div class="block">Returns a copy of the list of views currently pinned to the map view.</div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -934,8 +933,8 @@ implements <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-n
 <section class="detail" id="viewToGeoCoordinates(com.here.sdk.core.Point2D)">
 <h3>viewToGeoCoordinates</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">viewToGeoCoordinates</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-point2d" title="class in com.here.sdk.core">Point2D</a> viewCoordinates)</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">viewToGeoCoordinates</span><wbr/><span class="parameters">(@NonNull
+ <a href="sdk-for-android-navigate-point2d" title="class in com.here.sdk.core">Point2D</a> viewCoordinates)</span></div>
 <div class="block">Converts view coordinates to geographical coordinates.
  <p>
  An optional altitude component of the resulting geographical coordinate is not set.
@@ -952,18 +951,18 @@ implements <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-n
  If the render surface is not attached, it will return <code>null</code>.</p></div>
 <dl class="notes">
 <dt>Specified by:</dt>
-<dd><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapviewbase#viewToGeoCoordinates(com.here.sdk.core.Point2D)">viewToGeoCoordinates</a></code> in interface <code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapviewbase" title="interface in com.here.sdk.mapview">MapViewBase</a></code></dd>
+<dd><code><a href="sdk-for-android-navigate-mapviewbase#viewToGeoCoordinates(com.here.sdk.core.Point2D)">viewToGeoCoordinates</a></code> in interface <code><a href="sdk-for-android-navigate-mapviewbase" title="interface in com.here.sdk.mapview">MapViewBase</a></code></dd>
 <dt>Parameters:</dt>
 <dd><code>viewCoordinates</code> - <p>Point inside the view to convert.</p></dd>
 <dt>Returns:</dt>
 <dd><p>The geographical coordinates under specified view point or <code>null</code>
          if there is no render surface attached.</p></dd>
 <dt>Throws:</dt>
-<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html" title="class or interface in java.lang">IllegalStateException</a></code> - if <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#onCreate(android.os.Bundle)"><code>onCreate(Bundle)</code></a> method was not called beforehand.</dd>
+<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html" title="class or interface in java.lang">IllegalStateException</a></code> - if <a href="sdk-for-android-navigate-index#onCreate(android.os.Bundle)"><code>onCreate(Bundle)</code></a> method was not called beforehand.</dd>
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapview.onreadylistener" title="interface in com.here.sdk.mapview"><code>MapView.OnReadyListener</code></a></li>
+<li><a href="sdk-for-android-navigate-mapview.onreadylistener" title="interface in com.here.sdk.mapview"><code>MapView.OnReadyListener</code></a></li>
 </ul>
 </dd>
 </dl>
@@ -973,15 +972,15 @@ implements <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-n
 <section class="detail" id="getGestures()">
 <h3>getGestures</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-gestures" title="class in com.here.sdk.gestures">Gestures</a></span> <span class="element-name">getGestures</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-gestures" title="class in com.here.sdk.gestures">Gestures</a></span> <span class="element-name">getGestures</span>()</div>
 <div class="block">Returns the gestures control object</div>
 <dl class="notes">
 <dt>Specified by:</dt>
-<dd><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapviewbase#getGestures()">getGestures</a></code> in interface <code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapviewbase" title="interface in com.here.sdk.mapview">MapViewBase</a></code></dd>
+<dd><code><a href="sdk-for-android-navigate-mapviewbase#getGestures()">getGestures</a></code> in interface <code><a href="sdk-for-android-navigate-mapviewbase" title="interface in com.here.sdk.mapview">MapViewBase</a></code></dd>
 <dt>Returns:</dt>
-<dd>the <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-gestures" title="class in com.here.sdk.gestures"><code>Gestures</code></a> control object</dd>
+<dd>the <a href="sdk-for-android-navigate-gestures" title="class in com.here.sdk.gestures"><code>Gestures</code></a> control object</dd>
 <dt>Throws:</dt>
-<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html" title="class or interface in java.lang">IllegalStateException</a></code> - if <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#onCreate(android.os.Bundle)"><code>onCreate(Bundle)</code></a> method was not called beforehand.</dd>
+<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html" title="class or interface in java.lang">IllegalStateException</a></code> - if <a href="sdk-for-android-navigate-index#onCreate(android.os.Bundle)"><code>onCreate(Bundle)</code></a> method was not called beforehand.</dd>
 </dl>
 </section>
 </li>
@@ -999,31 +998,31 @@ implements <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-n
  </p><p>dp = px / pixel_scale</p></div>
 <dl class="notes">
 <dt>Specified by:</dt>
-<dd><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapviewbase#getPixelScale()">getPixelScale</a></code> in interface <code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapviewbase" title="interface in com.here.sdk.mapview">MapViewBase</a></code></dd>
+<dd><code><a href="sdk-for-android-navigate-mapviewbase#getPixelScale()">getPixelScale</a></code> in interface <code><a href="sdk-for-android-navigate-mapviewbase" title="interface in com.here.sdk.mapview">MapViewBase</a></code></dd>
 <dt>Returns:</dt>
 <dd>current pixel scale factor, or 0.0 if MapView is not initialized</dd>
 <dt>Throws:</dt>
-<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html" title="class or interface in java.lang">IllegalStateException</a></code> - if <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#onCreate(android.os.Bundle)"><code>onCreate(Bundle)</code></a> method was not called beforehand.</dd>
+<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html" title="class or interface in java.lang">IllegalStateException</a></code> - if <a href="sdk-for-android-navigate-index#onCreate(android.os.Bundle)"><code>onCreate(Bundle)</code></a> method was not called beforehand.</dd>
 </dl>
 </section>
 </li>
 <li>
 <section class="detail" id="getViewportSize()">
 <h3>getViewportSize</h3>
-<div class="member-signature"><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-size2d" title="class in com.here.sdk.core">Size2D</a></span> <span class="element-name">getViewportSize</span>()</div>
+<div class="member-signature"><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-size2d" title="class in com.here.sdk.core">Size2D</a></span> <span class="element-name">getViewportSize</span>()</div>
 <div class="block">Gets the size of this map view in physical pixels.
 
  <p>If internally the map view's render surface is not attached yet
- (see: <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapviewlifecyclelistener" title="interface in com.here.sdk.mapview"><code>MapViewLifecycleListener</code></a>), or after the map view has been
+ (see: <a href="sdk-for-android-navigate-mapviewlifecyclelistener" title="interface in com.here.sdk.mapview"><code>MapViewLifecycleListener</code></a>), or after the map view has been
  destroyed then a <code>Size2D</code> with zero width and height is returned.</p></div>
 <dl class="notes">
 <dt>Specified by:</dt>
-<dd><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapviewbase#getViewportSize()">getViewportSize</a></code> in interface <code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapviewbase" title="interface in com.here.sdk.mapview">MapViewBase</a></code></dd>
+<dd><code><a href="sdk-for-android-navigate-mapviewbase#getViewportSize()">getViewportSize</a></code> in interface <code><a href="sdk-for-android-navigate-mapviewbase" title="interface in com.here.sdk.mapview">MapViewBase</a></code></dd>
 <dt>Returns:</dt>
 <dd>The viewport size in physical pixels, or Size2D(0.0,0.0) if MapView is not
  initialized</dd>
 <dt>Throws:</dt>
-<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html" title="class or interface in java.lang">IllegalStateException</a></code> - if <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#onCreate(android.os.Bundle)"><code>onCreate(Bundle)</code></a> method was not called beforehand.</dd>
+<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html" title="class or interface in java.lang">IllegalStateException</a></code> - if <a href="sdk-for-android-navigate-index#onCreate(android.os.Bundle)"><code>onCreate(Bundle)</code></a> method was not called beforehand.</dd>
 </dl>
 </section>
 </li>
@@ -1035,7 +1034,7 @@ implements <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-n
  second.</div>
 <dl class="notes">
 <dt>Specified by:</dt>
-<dd><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapviewbase#getFrameRate()">getFrameRate</a></code> in interface <code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapviewbase" title="interface in com.here.sdk.mapview">MapViewBase</a></code></dd>
+<dd><code><a href="sdk-for-android-navigate-mapviewbase#getFrameRate()">getFrameRate</a></code> in interface <code><a href="sdk-for-android-navigate-mapviewbase" title="interface in com.here.sdk.mapview">MapViewBase</a></code></dd>
 <dt>Returns:</dt>
 <dd>Actual maximal render frame rate</dd>
 </dl>
@@ -1048,7 +1047,7 @@ implements <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-n
 <div class="block">Sets maximum render frame rate in frames per second.</div>
 <dl class="notes">
 <dt>Specified by:</dt>
-<dd><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapviewbase#setFrameRate(int)">setFrameRate</a></code> in interface <code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapviewbase" title="interface in com.here.sdk.mapview">MapViewBase</a></code></dd>
+<dd><code><a href="sdk-for-android-navigate-mapviewbase#setFrameRate(int)">setFrameRate</a></code> in interface <code><a href="sdk-for-android-navigate-mapviewbase" title="interface in com.here.sdk.mapview">MapViewBase</a></code></dd>
 <dt>Parameters:</dt>
 <dd><code>value</code> - Maximum render frame rate in frames per second. Setting to 0 disables automatic
  rendering for this view. Setting negative values has no effect.</dd>
@@ -1058,7 +1057,7 @@ implements <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-n
 <li>
 <section class="detail" id="takeScreenshot(com.here.sdk.mapview.MapView.TakeScreenshotCallback)">
 <h3>takeScreenshot</h3>
-<div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">takeScreenshot</span><wbr/><span class="parameters">(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapview.takescreenshotcallback" title="interface in com.here.sdk.mapview">MapView.TakeScreenshotCallback</a> callback)</span></div>
+<div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">takeScreenshot</span><wbr/><span class="parameters">(<a href="sdk-for-android-navigate-mapview.takescreenshotcallback" title="interface in com.here.sdk.mapview">MapView.TakeScreenshotCallback</a> callback)</span></div>
 <div class="block">Asynchronously retrieves a screenshot of current map view.
  Note that this may not work when the map view is currently not visible, for example,
  when an application is running in background and onPause() was called.</div>
@@ -1066,7 +1065,7 @@ implements <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-n
 <dt>Parameters:</dt>
 <dd><code>callback</code> - Completion handler called when the screenshot is completed</dd>
 <dt>Throws:</dt>
-<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html" title="class or interface in java.lang">IllegalStateException</a></code> - if <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#onCreate(android.os.Bundle)"><code>onCreate(Bundle)</code></a> method was not called beforehand.</dd>
+<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html" title="class or interface in java.lang">IllegalStateException</a></code> - if <a href="sdk-for-android-navigate-index#onCreate(android.os.Bundle)"><code>onCreate(Bundle)</code></a> method was not called beforehand.</dd>
 </dl>
 </section>
 </li>
@@ -1074,9 +1073,9 @@ implements <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-n
 <section class="detail" id="setWatermarkLocation(com.here.sdk.core.Anchor2D,com.here.sdk.core.Point2D)">
 <h3>setWatermarkLocation</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setWatermarkLocation</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-anchor2d" title="class in com.here.sdk.core">Anchor2D</a> anchor,
+ <a href="sdk-for-android-navigate-anchor2d" title="class in com.here.sdk.core">Anchor2D</a> anchor,
  @NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-point2d" title="class in com.here.sdk.core">Point2D</a> offset)</span></div>
+ <a href="sdk-for-android-navigate-point2d" title="class in com.here.sdk.core">Point2D</a> offset)</span></div>
 <div class="block"><p>Sets the position of the HERE logo watermark within the map view.
 
  By default, the watermark is aligned to the bottom-right corner of the view:
@@ -1088,7 +1087,7 @@ implements <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-n
  shown.</p></div>
 <dl class="notes">
 <dt>Specified by:</dt>
-<dd><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapviewbase#setWatermarkLocation(com.here.sdk.core.Anchor2D,com.here.sdk.core.Point2D)">setWatermarkLocation</a></code> in interface <code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapviewbase" title="interface in com.here.sdk.mapview">MapViewBase</a></code></dd>
+<dd><code><a href="sdk-for-android-navigate-mapviewbase#setWatermarkLocation(com.here.sdk.core.Anchor2D,com.here.sdk.core.Point2D)">setWatermarkLocation</a></code> in interface <code><a href="sdk-for-android-navigate-mapviewbase" title="interface in com.here.sdk.mapview">MapViewBase</a></code></dd>
 <dt>Parameters:</dt>
 <dd><code>anchor</code> - <p>Anchor point in normalized view coordinates [0, 1]. Map view's origin at
      (0, 0) indicates a top-left corner of the map view.
@@ -1110,11 +1109,11 @@ implements <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-n
 <section class="detail" id="getWatermarkSize()">
 <h3>getWatermarkSize</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-size2d" title="class in com.here.sdk.core">Size2D</a></span> <span class="element-name">getWatermarkSize</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-size2d" title="class in com.here.sdk.core">Size2D</a></span> <span class="element-name">getWatermarkSize</span>()</div>
 <div class="block"><p>Returns the watermark size in physical pixels.</p></div>
 <dl class="notes">
 <dt>Specified by:</dt>
-<dd><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapviewbase#getWatermarkSize()">getWatermarkSize</a></code> in interface <code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapviewbase" title="interface in com.here.sdk.mapview">MapViewBase</a></code></dd>
+<dd><code><a href="sdk-for-android-navigate-mapviewbase#getWatermarkSize()">getWatermarkSize</a></code> in interface <code><a href="sdk-for-android-navigate-mapviewbase" title="interface in com.here.sdk.mapview">MapViewBase</a></code></dd>
 <dt>Returns:</dt>
 <dd><p>Provides the size of the watermark in physical pixels.</p></dd>
 </dl>
@@ -1124,15 +1123,15 @@ implements <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-n
 <section class="detail" id="getCamera()">
 <h3>getCamera</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapcamera" title="class in com.here.sdk.mapview">MapCamera</a></span> <span class="element-name">getCamera</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-mapcamera" title="class in com.here.sdk.mapview">MapCamera</a></span> <span class="element-name">getCamera</span>()</div>
 <div class="block">Gets the camera control object for the map.</div>
 <dl class="notes">
 <dt>Specified by:</dt>
-<dd><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapviewbase#getCamera()">getCamera</a></code> in interface <code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapviewbase" title="interface in com.here.sdk.mapview">MapViewBase</a></code></dd>
+<dd><code><a href="sdk-for-android-navigate-mapviewbase#getCamera()">getCamera</a></code> in interface <code><a href="sdk-for-android-navigate-mapviewbase" title="interface in com.here.sdk.mapview">MapViewBase</a></code></dd>
 <dt>Returns:</dt>
-<dd>the <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapcamera" title="class in com.here.sdk.mapview"><code>MapCamera</code></a> object for the map.</dd>
+<dd>the <a href="sdk-for-android-navigate-mapcamera" title="class in com.here.sdk.mapview"><code>MapCamera</code></a> object for the map.</dd>
 <dt>Throws:</dt>
-<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html" title="class or interface in java.lang">IllegalStateException</a></code> - if <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#onCreate(android.os.Bundle)"><code>onCreate(Bundle)</code></a> method was not called beforehand.</dd>
+<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html" title="class or interface in java.lang">IllegalStateException</a></code> - if <a href="sdk-for-android-navigate-index#onCreate(android.os.Bundle)"><code>onCreate(Bundle)</code></a> method was not called beforehand.</dd>
 </dl>
 </section>
 </li>
@@ -1140,18 +1139,18 @@ implements <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-n
 <section class="detail" id="getMapScene()">
 <h3>getMapScene</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapscene" title="class in com.here.sdk.mapview">MapScene</a></span> <span class="element-name">getMapScene</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-mapscene" title="class in com.here.sdk.mapview">MapScene</a></span> <span class="element-name">getMapScene</span>()</div>
 <div class="block">Gets the map scene associated with this map view.
  <p>
  This can be used to request different map schemes to be displayed in the map view, and to
  add and remove map items from the map.</p></div>
 <dl class="notes">
 <dt>Specified by:</dt>
-<dd><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapviewbase#getMapScene()">getMapScene</a></code> in interface <code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapviewbase" title="interface in com.here.sdk.mapview">MapViewBase</a></code></dd>
+<dd><code><a href="sdk-for-android-navigate-mapviewbase#getMapScene()">getMapScene</a></code> in interface <code><a href="sdk-for-android-navigate-mapviewbase" title="interface in com.here.sdk.mapview">MapViewBase</a></code></dd>
 <dt>Returns:</dt>
-<dd>the <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapscene" title="class in com.here.sdk.mapview"><code>MapScene</code></a> associated with this map view.</dd>
+<dd>the <a href="sdk-for-android-navigate-mapscene" title="class in com.here.sdk.mapview"><code>MapScene</code></a> associated with this map view.</dd>
 <dt>Throws:</dt>
-<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html" title="class or interface in java.lang">IllegalStateException</a></code> - if <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#onCreate(android.os.Bundle)"><code>onCreate(Bundle)</code></a> method was not called
+<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html" title="class or interface in java.lang">IllegalStateException</a></code> - if <a href="sdk-for-android-navigate-index#onCreate(android.os.Bundle)"><code>onCreate(Bundle)</code></a> method was not called
  beforehand.</dd>
 </dl>
 </section>
@@ -1160,15 +1159,15 @@ implements <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-n
 <section class="detail" id="getMapContext()">
 <h3>getMapContext</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapcontext" title="class in com.here.sdk.mapview">MapContext</a></span> <span class="element-name">getMapContext</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-mapcontext" title="class in com.here.sdk.mapview">MapContext</a></span> <span class="element-name">getMapContext</span>()</div>
 <div class="block">Gets the map context associated with this map view.</div>
 <dl class="notes">
 <dt>Specified by:</dt>
-<dd><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapviewbase#getMapContext()">getMapContext</a></code> in interface <code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapviewbase" title="interface in com.here.sdk.mapview">MapViewBase</a></code></dd>
+<dd><code><a href="sdk-for-android-navigate-mapviewbase#getMapContext()">getMapContext</a></code> in interface <code><a href="sdk-for-android-navigate-mapviewbase" title="interface in com.here.sdk.mapview">MapViewBase</a></code></dd>
 <dt>Returns:</dt>
-<dd>the <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapcontext" title="class in com.here.sdk.mapview"><code>MapContext</code></a> associated with this map view.</dd>
+<dd>the <a href="sdk-for-android-navigate-mapcontext" title="class in com.here.sdk.mapview"><code>MapContext</code></a> associated with this map view.</dd>
 <dt>Throws:</dt>
-<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html" title="class or interface in java.lang">IllegalStateException</a></code> - if <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#onCreate(android.os.Bundle)"><code>onCreate(Bundle)</code></a> method was not called beforehand.</dd>
+<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html" title="class or interface in java.lang">IllegalStateException</a></code> - if <a href="sdk-for-android-navigate-index#onCreate(android.os.Bundle)"><code>onCreate(Bundle)</code></a> method was not called beforehand.</dd>
 </dl>
 </section>
 </li>
@@ -1176,15 +1175,15 @@ implements <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-n
 <section class="detail" id="getHereMap()">
 <h3>getHereMap</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-heremap" title="class in com.here.sdk.mapview">HereMap</a></span> <span class="element-name">getHereMap</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-heremap" title="class in com.here.sdk.mapview">HereMap</a></span> <span class="element-name">getHereMap</span>()</div>
 <div class="block">Gets the HereMap associated with this map view.</div>
 <dl class="notes">
 <dt>Specified by:</dt>
-<dd><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapviewbase#getHereMap()">getHereMap</a></code> in interface <code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapviewbase" title="interface in com.here.sdk.mapview">MapViewBase</a></code></dd>
+<dd><code><a href="sdk-for-android-navigate-mapviewbase#getHereMap()">getHereMap</a></code> in interface <code><a href="sdk-for-android-navigate-mapviewbase" title="interface in com.here.sdk.mapview">MapViewBase</a></code></dd>
 <dt>Returns:</dt>
-<dd>the <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-heremap" title="class in com.here.sdk.mapview"><code>HereMap</code></a> associated with this map view.</dd>
+<dd>the <a href="sdk-for-android-navigate-heremap" title="class in com.here.sdk.mapview"><code>HereMap</code></a> associated with this map view.</dd>
 <dt>Throws:</dt>
-<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html" title="class or interface in java.lang">IllegalStateException</a></code> - if <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#onCreate(android.os.Bundle)"><code>onCreate(Bundle)</code></a> method was not called beforehand.</dd>
+<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html" title="class or interface in java.lang">IllegalStateException</a></code> - if <a href="sdk-for-android-navigate-index#onCreate(android.os.Bundle)"><code>onCreate(Bundle)</code></a> method was not called beforehand.</dd>
 </dl>
 </section>
 </li>
@@ -1196,7 +1195,7 @@ implements <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-n
  double factor)</span></div>
 <div class="block">Requests a fixed size to be used for rendering this MapView.
 
- Use this feature to render <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapview" title="class in com.here.sdk.mapview"><code>MapView</code></a> to a smaller size and let the system upscale
+ Use this feature to render <a href="sdk-for-android-navigate-mapview" title="class in com.here.sdk.mapview"><code>MapView</code></a> to a smaller size and let the system upscale
  to actual on-screen size. The new fixed size is expected to have the same aspect ratio
  as the on-screen size and the factor provided to match the factor applied to the on-screen
  size that leads to the new fixed size:
@@ -1211,7 +1210,7 @@ implements <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-n
 <dd><code>factor</code> - Factor in between (0.0, 1.0] by which screen size differs from fixed size.</dd>
 <dt>Throws:</dt>
 <dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalArgumentException.html" title="class or interface in java.lang">IllegalArgumentException</a></code> - if factor is not inside (0.0, 1.0].</dd>
-<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/UnsupportedOperationException.html" title="class or interface in java.lang">UnsupportedOperationException</a></code> - if <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapview" title="class in com.here.sdk.mapview"><code>MapView</code></a> render mode is not
+<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/UnsupportedOperationException.html" title="class or interface in java.lang">UnsupportedOperationException</a></code> - if <a href="sdk-for-android-navigate-mapview" title="class in com.here.sdk.mapview"><code>MapView</code></a> render mode is not
          MapRenderMode.SURFACE.</dd>
 </dl>
 </section>

@@ -7,7 +7,6 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-maplayer"
 `
 <div class="sdk-for-android">
 <!-- MapLayer.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,20 +19,20 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-maplayer"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-package-summary">com.here.sdk.mapview</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-nativebase" title="class in com.here">com.here.NativeBase</a>
+<div class="inheritance"><a href="sdk-for-android-explore-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.mapview.MapLayer</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 <hr/>
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">MapLayer</span>
-<span class="extends-implements">extends <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-nativebase" title="class in com.here">NativeBase</a></span></div>
+<span class="extends-implements">extends <a href="sdk-for-android-explore-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>Interface for managing a map layer.
- A map layer can be created by using the <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-maplayerbuilder" title="class in com.here.sdk.mapview"><code>MapLayerBuilder</code></a>. At creation, the layer
+ A map layer can be created by using the <a href="sdk-for-android-explore-maplayerbuilder" title="class in com.here.sdk.mapview"><code>MapLayerBuilder</code></a>. At creation, the layer
  gets added to a map. The layer gets removed from the map upon instance destruction.</p></div>
 </section>
 <section class="summary">
@@ -50,22 +49,22 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-maplayer"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#destroy()">destroy</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#destroy()">destroy</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Frees all internally used resources.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#setEnabled(boolean)">setEnabled</a><wbr/>(boolean enable)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#setEnabled(boolean)">setEnabled</a><wbr/>(boolean enable)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets whether or not the layer is enabled to be drawn.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#setPriority(com.here.sdk.mapview.MapLayerPriority)">setPriority</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-maplayerpriority" title="class in com.here.sdk.mapview">MapLayerPriority</a> priority)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#setPriority(com.here.sdk.mapview.MapLayerPriority)">setPriority</a><wbr/>(<a href="sdk-for-android-explore-maplayerpriority" title="class in com.here.sdk.mapview">MapLayerPriority</a> priority)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the render priority for the layer which replaces any previously defined priorities.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#setStyle(com.here.sdk.mapview.Style)">setStyle</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-style" title="class in com.here.sdk.mapview">Style</a> style)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#setStyle(com.here.sdk.mapview.Style)">setStyle</a><wbr/>(<a href="sdk-for-android-explore-style" title="class in com.here.sdk.mapview">Style</a> style)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the style to be used by the layer.</div>
 </div>
@@ -101,7 +100,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-maplayer"
 <section class="detail" id="setStyle(com.here.sdk.mapview.Style)">
 <h3>setStyle</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setStyle</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-style" title="class in com.here.sdk.mapview">Style</a> style)</span></div>
+ <a href="sdk-for-android-explore-style" title="class in com.here.sdk.mapview">Style</a> style)</span></div>
 <div class="block"><p>Sets the style to be used by the layer.
  For more details see Custom Layer Style Reference in the documentation.
  Note: This is a beta release of this feature, so there could be a few bugs and unexpected
@@ -116,7 +115,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-maplayer"
 <section class="detail" id="setPriority(com.here.sdk.mapview.MapLayerPriority)">
 <h3>setPriority</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setPriority</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-maplayerpriority" title="class in com.here.sdk.mapview">MapLayerPriority</a> priority)</span></div>
+ <a href="sdk-for-android-explore-maplayerpriority" title="class in com.here.sdk.mapview">MapLayerPriority</a> priority)</span></div>
 <div class="block"><p>Sets the render priority for the layer which replaces any previously defined priorities.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

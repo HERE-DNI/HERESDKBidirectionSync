@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-control-venueloaderrorcallbac
 `
 <div class="sdk-for-android">
 <!-- VenueLoadErrorCallback.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,7 +19,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-control-venueloaderrorcallbac
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.venue.control</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-venue-control-package-summary">com.here.sdk.venue.control</a></div>
 
 </div>
 <section class="class-description" id="class-description">
@@ -31,7 +30,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-control-venueloaderrorcallbac
 <hr/>
 <div class="type-signature"><span class="annotations"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/FunctionalInterface.html" title="class or interface in java.lang">@FunctionalInterface</a>
 </span><span class="modifiers">public interface </span><span class="element-name type-name-label">VenueLoadErrorCallback</span></div>
-<div class="block"><p>A method which is called on the main thread when <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuemap#selectVenueAsync(java.lang.String,com.here.sdk.venue.control.VenueLoadErrorCallback)"><code>VenueMap.selectVenueAsync(String, VenueLoadErrorCallback)</code></a> has been completed.</p></div>
+<div class="block"><p>A method which is called on the main thread when <a href="sdk-for-android-navigate-venuemap#selectVenueAsync(java.lang.String,com.here.sdk.venue.control.VenueLoadErrorCallback)"><code>VenueMap.selectVenueAsync(String, VenueLoadErrorCallback)</code></a> has been completed.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -47,9 +46,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-control-venueloaderrorcallbac
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#onVenueLoadError(com.here.sdk.venue.control.VenueErrorCode)">onVenueLoadError</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venueerrorcode" title="enum class in com.here.sdk.venue.control">VenueErrorCode</a> error)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onVenueLoadError(com.here.sdk.venue.control.VenueErrorCode)">onVenueLoadError</a><wbr/>(<a href="sdk-for-android-navigate-venueerrorcode" title="enum class in com.here.sdk.venue.control">VenueErrorCode</a> error)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
-<div class="block">A method which is called on the main thread when <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuemap#selectVenueAsync(java.lang.String,com.here.sdk.venue.control.VenueLoadErrorCallback)"><code>VenueMap.selectVenueAsync(String, VenueLoadErrorCallback)</code></a> has been completed.</div>
+<div class="block">A method which is called on the main thread when <a href="sdk-for-android-navigate-venuemap#selectVenueAsync(java.lang.String,com.here.sdk.venue.control.VenueLoadErrorCallback)"><code>VenueMap.selectVenueAsync(String, VenueLoadErrorCallback)</code></a> has been completed.</div>
 </div>
 </div>
 </div>
@@ -69,8 +68,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-control-venueloaderrorcallbac
 <section class="detail" id="onVenueLoadError(com.here.sdk.venue.control.VenueErrorCode)">
 <h3>onVenueLoadError</h3>
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">onVenueLoadError</span><wbr/><span class="parameters">(@Nullable
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venueerrorcode" title="enum class in com.here.sdk.venue.control">VenueErrorCode</a> error)</span></div>
-<div class="block"><p>A method which is called on the main thread when <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuemap#selectVenueAsync(java.lang.String,com.here.sdk.venue.control.VenueLoadErrorCallback)"><code>VenueMap.selectVenueAsync(String, VenueLoadErrorCallback)</code></a> has been completed.</p></div>
+ <a href="sdk-for-android-navigate-venueerrorcode" title="enum class in com.here.sdk.venue.control">VenueErrorCode</a> error)</span></div>
+<div class="block"><p>A method which is called on the main thread when <a href="sdk-for-android-navigate-venuemap#selectVenueAsync(java.lang.String,com.here.sdk.venue.control.VenueLoadErrorCallback)"><code>VenueMap.selectVenueAsync(String, VenueLoadErrorCallback)</code></a> has been completed.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>error</code> - <p>Represents an error in case of a failure. It is <code>null</code> for an operation that succeeds.</p></dd>

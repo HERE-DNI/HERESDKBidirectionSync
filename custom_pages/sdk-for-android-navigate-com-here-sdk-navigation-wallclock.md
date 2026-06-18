@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-wallclock"
 `
 <div class="sdk-for-android">
 <!-- WallClock.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,7 +19,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-wallclock"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.navigation</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-navigation-package-summary">com.here.sdk.navigation</a></div>
 
 </div>
 <section class="class-description" id="class-description">
@@ -41,13 +40,13 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-wallclock"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab1"><code>static <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-wallclock" title="interface in com.here.sdk.navigation">WallClock</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#getDefault()">getDefault</a>()</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab1"><code>static <a href="sdk-for-android-navigate-wallclock" title="interface in com.here.sdk.navigation">WallClock</a></code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getDefault()">getDefault</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1">
 <div class="block">Provides the default WallClock implementation based on the device clock.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" title="class or interface in java.util">Date</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#now()">now</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#now()">now</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Gets the current time from the device clock.</div>
 </div>
@@ -81,7 +80,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-wallclock"
 <section class="detail" id="getDefault()">
 <h3>getDefault</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">static</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-wallclock" title="interface in com.here.sdk.navigation">WallClock</a></span> <span class="element-name">getDefault</span>()</div>
+</span><span class="modifiers">static</span> <span class="return-type"><a href="sdk-for-android-navigate-wallclock" title="interface in com.here.sdk.navigation">WallClock</a></span> <span class="element-name">getDefault</span>()</div>
 <div class="block"><p>Provides the default WallClock implementation based on the device clock.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>

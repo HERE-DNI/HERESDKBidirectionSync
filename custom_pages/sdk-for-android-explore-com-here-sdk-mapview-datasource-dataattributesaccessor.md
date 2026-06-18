@@ -7,7 +7,6 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesacc
 `
 <div class="sdk-for-android">
 <!-- DataAttributesAccessor.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,23 +19,23 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesacc
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-package-summary">com.here.sdk.mapview.datasource</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-package-summary">com.here.sdk.mapview.datasource</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-nativebase" title="class in com.here">com.here.NativeBase</a>
+<div class="inheritance"><a href="sdk-for-android-explore-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.mapview.datasource.DataAttributesAccessor</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>All Implemented Interfaces:</dt>
-<dd><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-dataattributesbase" title="interface in com.here.sdk.mapview.datasource">DataAttributesBase</a></code></dd>
+<dd><code><a href="sdk-for-android-explore-dataattributesbase" title="interface in com.here.sdk.mapview.datasource">DataAttributesBase</a></code></dd>
 </dl>
 <hr/>
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">DataAttributesAccessor</span>
-<span class="extends-implements">extends <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-nativebase" title="class in com.here">NativeBase</a>
-implements <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-dataattributesbase" title="interface in com.here.sdk.mapview.datasource">DataAttributesBase</a></span></div>
+<span class="extends-implements">extends <a href="sdk-for-android-explore-nativebase" title="class in com.here">NativeBase</a>
+implements <a href="sdk-for-android-explore-dataattributesbase" title="interface in com.here.sdk.mapview.datasource">DataAttributesBase</a></span></div>
 <div class="block"><p>Accessor used for manipulating data attributes.
  </p><p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
  behavior. Related APIs may change for new releases without a deprecation process.</p></div>
@@ -55,99 +54,99 @@ implements <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-e
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#addOrReplace(java.lang.String,boolean)">addOrReplace</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name,
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#addOrReplace(java.lang.String,boolean)">addOrReplace</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name,
  boolean value)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Adds or replaces a boolean attribute.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#addOrReplace(java.lang.String,double)">addOrReplace</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name,
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#addOrReplace(java.lang.String,double)">addOrReplace</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name,
  double value)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Adds or replaces a double precision floating decimal attribute.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#addOrReplace(java.lang.String,float)">addOrReplace</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name,
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#addOrReplace(java.lang.String,float)">addOrReplace</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name,
  float value)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Adds or replaces a single precision floating decimal attribute.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#addOrReplace(java.lang.String,long)">addOrReplace</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name,
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#addOrReplace(java.lang.String,long)">addOrReplace</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name,
  long value)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Adds or replaces a 64-bits integer attribute.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#addOrReplace(java.lang.String,com.here.sdk.core.Color)">addOrReplace</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a> value)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#addOrReplace(java.lang.String,com.here.sdk.core.Color)">addOrReplace</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name,
+ <a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a> value)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Adds or replaces a color attribute.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#addOrReplace(java.lang.String,com.here.sdk.mapview.datasource.DataAttributeValue)">addOrReplace</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-dataattributevalue" title="class in com.here.sdk.mapview.datasource">DataAttributeValue</a> value)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#addOrReplace(java.lang.String,com.here.sdk.mapview.datasource.DataAttributeValue)">addOrReplace</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name,
+ <a href="sdk-for-android-explore-dataattributevalue" title="class in com.here.sdk.mapview.datasource">DataAttributeValue</a> value)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Adds or replaces an attribute.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#addOrReplace(java.lang.String,java.lang.String)">addOrReplace</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name,
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#addOrReplace(java.lang.String,java.lang.String)">addOrReplace</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> value)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Adds or replaces a string attribute.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#getAsString(java.lang.String)">getAsString</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#getAsString(java.lang.String)">getAsString</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the value of an attribute as a string or <code>null</code> if it is not contained.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a>&gt;</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#getAttributeNames()">getAttributeNames</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#getAttributeNames()">getAttributeNames</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Returns a list of attribute names.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Boolean.html" title="class or interface in java.lang">Boolean</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#getBoolean(java.lang.String)">getBoolean</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#getBoolean(java.lang.String)">getBoolean</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the value of a boolean attribute or <code>null</code> if it is not contained or the type doesn't match.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#getDouble(java.lang.String)">getDouble</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#getDouble(java.lang.String)">getDouble</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the value of a double precision floating decimal attribute or <code>null</code> if it is not contained or the type doesn't match.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Float.html" title="class or interface in java.lang">Float</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#getFloat(java.lang.String)">getFloat</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#getFloat(java.lang.String)">getFloat</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the value of a single precision floating decimal attribute or <code>null</code> if it is not contained or the type doesn't match.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Long.html" title="class or interface in java.lang">Long</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#getInt64(java.lang.String)">getInt64</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#getInt64(java.lang.String)">getInt64</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the value of a 64-bits integer attribute or <code>null</code> if it is not contained or the type doesn't match.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#getString(java.lang.String)">getString</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#getString(java.lang.String)">getString</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the value of a string attribute or <code>null</code> if it is not contained or the type doesn't match.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-dataattributevalue" title="class in com.here.sdk.mapview.datasource">DataAttributeValue</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#getValue(java.lang.String)">getValue</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-dataattributevalue" title="class in com.here.sdk.mapview.datasource">DataAttributeValue</a></code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#getValue(java.lang.String)">getValue</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the DataAttributeValue or <code>null</code> if it is not contained.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-dataattributevalue.valuetype" title="enum class in com.here.sdk.mapview.datasource">DataAttributeValue.ValueType</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#getValueType(java.lang.String)">getValueType</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-dataattributevalue.valuetype" title="enum class in com.here.sdk.mapview.datasource">DataAttributeValue.ValueType</a></code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#getValueType(java.lang.String)">getValueType</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Returns the value type of an attribute or <code>null</code> if it is not contained.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#remove(java.lang.String)">remove</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#remove(java.lang.String)">remove</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Removes an attribute by name.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#removeAll()">removeAll</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#removeAll()">removeAll</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Removes all attributes.</div>
 </div>
@@ -245,7 +244,7 @@ implements <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-e
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">addOrReplace</span><wbr/><span class="parameters">(@NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name,
  @NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a> value)</span></div>
+ <a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a> value)</span></div>
 <div class="block"><p>Adds or replaces a color attribute.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -260,7 +259,7 @@ implements <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-e
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">addOrReplace</span><wbr/><span class="parameters">(@NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name,
  @NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-dataattributevalue" title="class in com.here.sdk.mapview.datasource">DataAttributeValue</a> value)</span></div>
+ <a href="sdk-for-android-explore-dataattributevalue" title="class in com.here.sdk.mapview.datasource">DataAttributeValue</a> value)</span></div>
 <div class="block"><p>Adds or replaces an attribute.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -296,7 +295,7 @@ implements <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-e
 <div class="block"><p>Returns a list of attribute names.</p></div>
 <dl class="notes">
 <dt>Specified by:</dt>
-<dd><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-dataattributesbase#getAttributeNames()">getAttributeNames</a></code> in interface <code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-dataattributesbase" title="interface in com.here.sdk.mapview.datasource">DataAttributesBase</a></code></dd>
+<dd><code><a href="sdk-for-android-explore-dataattributesbase#getAttributeNames()">getAttributeNames</a></code> in interface <code><a href="sdk-for-android-explore-dataattributesbase" title="interface in com.here.sdk.mapview.datasource">DataAttributesBase</a></code></dd>
 <dt>Returns:</dt>
 <dd><p>The list of attribute names.</p></dd>
 </dl>
@@ -306,12 +305,12 @@ implements <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-e
 <section class="detail" id="getValueType(java.lang.String)">
 <h3>getValueType</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-dataattributevalue.valuetype" title="enum class in com.here.sdk.mapview.datasource">DataAttributeValue.ValueType</a></span> <span class="element-name">getValueType</span><wbr/><span class="parameters">(@NonNull
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-dataattributevalue.valuetype" title="enum class in com.here.sdk.mapview.datasource">DataAttributeValue.ValueType</a></span> <span class="element-name">getValueType</span><wbr/><span class="parameters">(@NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</span></div>
 <div class="block"><p>Returns the value type of an attribute or <code>null</code> if it is not contained.</p></div>
 <dl class="notes">
 <dt>Specified by:</dt>
-<dd><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-dataattributesbase#getValueType(java.lang.String)">getValueType</a></code> in interface <code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-dataattributesbase" title="interface in com.here.sdk.mapview.datasource">DataAttributesBase</a></code></dd>
+<dd><code><a href="sdk-for-android-explore-dataattributesbase#getValueType(java.lang.String)">getValueType</a></code> in interface <code><a href="sdk-for-android-explore-dataattributesbase" title="interface in com.here.sdk.mapview.datasource">DataAttributesBase</a></code></dd>
 <dt>Parameters:</dt>
 <dd><code>name</code> - <p>Attribute name.</p></dd>
 <dt>Returns:</dt>
@@ -328,7 +327,7 @@ implements <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-e
 <div class="block"><p>Gets the value of an attribute as a string or <code>null</code> if it is not contained.</p></div>
 <dl class="notes">
 <dt>Specified by:</dt>
-<dd><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-dataattributesbase#getAsString(java.lang.String)">getAsString</a></code> in interface <code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-dataattributesbase" title="interface in com.here.sdk.mapview.datasource">DataAttributesBase</a></code></dd>
+<dd><code><a href="sdk-for-android-explore-dataattributesbase#getAsString(java.lang.String)">getAsString</a></code> in interface <code><a href="sdk-for-android-explore-dataattributesbase" title="interface in com.here.sdk.mapview.datasource">DataAttributesBase</a></code></dd>
 <dt>Parameters:</dt>
 <dd><code>name</code> - <p>Attribute name.</p></dd>
 <dt>Returns:</dt>
@@ -345,7 +344,7 @@ implements <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-e
 <div class="block"><p>Gets the value of a string attribute or <code>null</code> if it is not contained or the type doesn't match.</p></div>
 <dl class="notes">
 <dt>Specified by:</dt>
-<dd><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-dataattributesbase#getString(java.lang.String)">getString</a></code> in interface <code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-dataattributesbase" title="interface in com.here.sdk.mapview.datasource">DataAttributesBase</a></code></dd>
+<dd><code><a href="sdk-for-android-explore-dataattributesbase#getString(java.lang.String)">getString</a></code> in interface <code><a href="sdk-for-android-explore-dataattributesbase" title="interface in com.here.sdk.mapview.datasource">DataAttributesBase</a></code></dd>
 <dt>Parameters:</dt>
 <dd><code>name</code> - <p>Attribute name.</p></dd>
 <dt>Returns:</dt>
@@ -362,7 +361,7 @@ implements <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-e
 <div class="block"><p>Gets the value of a 64-bits integer attribute or <code>null</code> if it is not contained or the type doesn't match.</p></div>
 <dl class="notes">
 <dt>Specified by:</dt>
-<dd><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-dataattributesbase#getInt64(java.lang.String)">getInt64</a></code> in interface <code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-dataattributesbase" title="interface in com.here.sdk.mapview.datasource">DataAttributesBase</a></code></dd>
+<dd><code><a href="sdk-for-android-explore-dataattributesbase#getInt64(java.lang.String)">getInt64</a></code> in interface <code><a href="sdk-for-android-explore-dataattributesbase" title="interface in com.here.sdk.mapview.datasource">DataAttributesBase</a></code></dd>
 <dt>Parameters:</dt>
 <dd><code>name</code> - <p>Attribute name.</p></dd>
 <dt>Returns:</dt>
@@ -379,7 +378,7 @@ implements <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-e
 <div class="block"><p>Gets the value of a single precision floating decimal attribute or <code>null</code> if it is not contained or the type doesn't match.</p></div>
 <dl class="notes">
 <dt>Specified by:</dt>
-<dd><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-dataattributesbase#getFloat(java.lang.String)">getFloat</a></code> in interface <code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-dataattributesbase" title="interface in com.here.sdk.mapview.datasource">DataAttributesBase</a></code></dd>
+<dd><code><a href="sdk-for-android-explore-dataattributesbase#getFloat(java.lang.String)">getFloat</a></code> in interface <code><a href="sdk-for-android-explore-dataattributesbase" title="interface in com.here.sdk.mapview.datasource">DataAttributesBase</a></code></dd>
 <dt>Parameters:</dt>
 <dd><code>name</code> - <p>Attribute name.</p></dd>
 <dt>Returns:</dt>
@@ -396,7 +395,7 @@ implements <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-e
 <div class="block"><p>Gets the value of a double precision floating decimal attribute or <code>null</code> if it is not contained or the type doesn't match.</p></div>
 <dl class="notes">
 <dt>Specified by:</dt>
-<dd><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-dataattributesbase#getDouble(java.lang.String)">getDouble</a></code> in interface <code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-dataattributesbase" title="interface in com.here.sdk.mapview.datasource">DataAttributesBase</a></code></dd>
+<dd><code><a href="sdk-for-android-explore-dataattributesbase#getDouble(java.lang.String)">getDouble</a></code> in interface <code><a href="sdk-for-android-explore-dataattributesbase" title="interface in com.here.sdk.mapview.datasource">DataAttributesBase</a></code></dd>
 <dt>Parameters:</dt>
 <dd><code>name</code> - <p>Attribute name.</p></dd>
 <dt>Returns:</dt>
@@ -413,7 +412,7 @@ implements <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-e
 <div class="block"><p>Gets the value of a boolean attribute or <code>null</code> if it is not contained or the type doesn't match.</p></div>
 <dl class="notes">
 <dt>Specified by:</dt>
-<dd><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-dataattributesbase#getBoolean(java.lang.String)">getBoolean</a></code> in interface <code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-dataattributesbase" title="interface in com.here.sdk.mapview.datasource">DataAttributesBase</a></code></dd>
+<dd><code><a href="sdk-for-android-explore-dataattributesbase#getBoolean(java.lang.String)">getBoolean</a></code> in interface <code><a href="sdk-for-android-explore-dataattributesbase" title="interface in com.here.sdk.mapview.datasource">DataAttributesBase</a></code></dd>
 <dt>Parameters:</dt>
 <dd><code>name</code> - <p>Attribute name.</p></dd>
 <dt>Returns:</dt>
@@ -425,12 +424,12 @@ implements <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-e
 <section class="detail" id="getValue(java.lang.String)">
 <h3>getValue</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-dataattributevalue" title="class in com.here.sdk.mapview.datasource">DataAttributeValue</a></span> <span class="element-name">getValue</span><wbr/><span class="parameters">(@NonNull
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-dataattributevalue" title="class in com.here.sdk.mapview.datasource">DataAttributeValue</a></span> <span class="element-name">getValue</span><wbr/><span class="parameters">(@NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</span></div>
 <div class="block"><p>Gets the DataAttributeValue or <code>null</code> if it is not contained.</p></div>
 <dl class="notes">
 <dt>Specified by:</dt>
-<dd><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-dataattributesbase#getValue(java.lang.String)">getValue</a></code> in interface <code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-dataattributesbase" title="interface in com.here.sdk.mapview.datasource">DataAttributesBase</a></code></dd>
+<dd><code><a href="sdk-for-android-explore-dataattributesbase#getValue(java.lang.String)">getValue</a></code> in interface <code><a href="sdk-for-android-explore-dataattributesbase" title="interface in com.here.sdk.mapview.datasource">DataAttributesBase</a></code></dd>
 <dt>Parameters:</dt>
 <dd><code>name</code> - <p>Attribute name.</p></dd>
 <dt>Returns:</dt>

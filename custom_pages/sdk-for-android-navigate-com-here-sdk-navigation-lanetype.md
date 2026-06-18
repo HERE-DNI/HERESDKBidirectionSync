@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-lanetype"
 `
 <div class="sdk-for-android">
 <!-- LaneType.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,7 +19,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-lanetype"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.navigation</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-navigation-package-summary">com.here.sdk.navigation</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -59,101 +58,101 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-lanetype"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>boolean</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#isAcceleration">isAcceleration</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#isAcceleration">isAcceleration</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">An acceleration lane is a lane, typically on the right side of a roadway, that lets a vehicle
  increase its speed to where it can safely merge with ongoing traffic.</div>
 </div>
 <div class="col-first odd-row-color"><code>boolean</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#isAuxiliary">isAuxiliary</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#isAuxiliary">isAuxiliary</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">An auxiliary lane is a lane that runs parallel to a motorway and connects the entrance
  ramp/acceleration lane from one interchange exit ramp/deceleration lane of the next
  interchange.</div>
 </div>
 <div class="col-first even-row-color"><code>boolean</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#isBicycle">isBicycle</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#isBicycle">isBicycle</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Bicycle lanes are lanes added to the road bed that only allow bicycle travel as indicated by
  lane markings, signs, buffers or barriers.</div>
 </div>
 <div class="col-first odd-row-color"><code>boolean</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#isCenterTurn">isCenterTurn</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#isCenterTurn">isCenterTurn</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Center turn lane is a bidirectional turn lane located in the middle of a road that allows
  traffic in both directions to turn left (right for left side driving countries).</div>
 </div>
 <div class="col-first even-row-color"><code>boolean</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#isDeceleration">isDeceleration</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#isDeceleration">isDeceleration</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A deceleration lane is the same as an acceleration lane but used for the opposite scenario.</div>
 </div>
 <div class="col-first odd-row-color"><code>boolean</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#isExpress">isExpress</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#isExpress">isExpress</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Express lane is a lane or set of lanes usually physically separated from the major roadway
  with limited entry and exit points to quickly move traffic in and out of a major metropolitan
  city.</div>
 </div>
 <div class="col-first even-row-color"><code>boolean</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#isHighOccupancyVehicle">isHighOccupancyVehicle</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#isHighOccupancyVehicle">isHighOccupancyVehicle</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A lane which is restricted for high occupancy vehicles.</div>
 </div>
 <div class="col-first odd-row-color"><code>boolean</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#isParking">isParking</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#isParking">isParking</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Parking lanes are portions of the road bed that may be used for parking legally.</div>
 </div>
 <div class="col-first even-row-color"><code>boolean</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#isPassing">isPassing</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#isPassing">isPassing</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A passing lane is a lane that can occur on steep mountain grades or other roads where
  overtaking needs to be regulated for safety (i.e., curvy roads).</div>
 </div>
 <div class="col-first odd-row-color"><code>boolean</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#isRegular">isRegular</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#isRegular">isRegular</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Regular lane is a lane that does not have a specific use.</div>
 </div>
 <div class="col-first even-row-color"><code>boolean</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#isRegulatedAccess">isRegulatedAccess</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#isRegulatedAccess">isRegulatedAccess</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A regulated lane access is a lane designated as a holding zone, used to regulate traffic
  using time intervals.</div>
 </div>
 <div class="col-first odd-row-color"><code>boolean</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#isReversible">isReversible</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#isReversible">isReversible</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">A lane in which traffic may travel in either direction, depending on certain conditions
  such as the time of the day to improve traffic flow during rush hours.</div>
 </div>
 <div class="col-first even-row-color"><code>boolean</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#isShoulder">isShoulder</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#isShoulder">isShoulder</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A shoulder lane is a reserved paved area on the side of the road (one or both sides) that is
  not generally used for driving, although it is possible under certain circumstances.</div>
 </div>
 <div class="col-first odd-row-color"><code>boolean</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#isSlow">isSlow</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#isSlow">isSlow</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">A slow lane, also known as truck (US) or crawler lane (UK), is a lane on long and/or steep
  uphill/downhill stretches of high-speed roads that is designated to facilitate slow traffic.</div>
 </div>
 <div class="col-first even-row-color"><code>boolean</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#isTruckParking">isTruckParking</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#isTruckParking">isTruckParking</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Truck parking lanes is a wide shoulder lane that may be used for truck parking as well as for
  emergency.</div>
 </div>
 <div class="col-first odd-row-color"><code>boolean</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#isTurn">isTurn</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#isTurn">isTurn</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Turn lane is a dedicated lane that is used for making a turn in order not to disrupt ongoing
  traffic.</div>
 </div>
 <div class="col-first even-row-color"><code>boolean</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#isVariableDriving">isVariableDriving</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#isVariableDriving">isVariableDriving</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Variable driving lanes are lanes added to a road that open and close to accommodate traffic
  volume and flow using variable indicators.</div>
@@ -169,7 +168,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-lanetype"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#%3Cinit%3E(boolean,boolean,boolean,boolean,boolean,boolean,boolean,boolean,boolean,boolean,boolean,boolean,boolean,boolean,boolean,boolean,boolean)">LaneType</a><wbr/>(boolean isRegular,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(boolean,boolean,boolean,boolean,boolean,boolean,boolean,boolean,boolean,boolean,boolean,boolean,boolean,boolean,boolean,boolean,boolean)">LaneType</a><wbr/>(boolean isRegular,
  boolean isHighOccupancyVehicle,
  boolean isReversible,
  boolean isExpress,
@@ -204,10 +203,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-lanetype"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 </div>
 </div>

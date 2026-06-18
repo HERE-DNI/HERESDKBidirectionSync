@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-datasource-tilegeoboundscal
 `
 <div class="sdk-for-android">
 <!-- TileGeoBoundsCalculator.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,20 +19,20 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-datasource-tilegeoboundscal
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.mapview.datasource</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-package-summary">com.here.sdk.mapview.datasource</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-nativebase" title="class in com.here">com.here.NativeBase</a>
+<div class="inheritance"><a href="sdk-for-android-navigate-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.mapview.datasource.TileGeoBoundsCalculator</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 <hr/>
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">TileGeoBoundsCalculator</span>
-<span class="extends-implements">extends <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-nativebase" title="class in com.here">NativeBase</a></span></div>
+<span class="extends-implements">extends <a href="sdk-for-android-navigate-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>A calculator of geodetic bounds for tiles identified by keys generated
- in a particular tiling scheme (<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-tilingscheme" title="enum class in com.here.sdk.mapview.datasource"><code>TilingScheme</code></a>).
+ in a particular tiling scheme (<a href="sdk-for-android-navigate-tilingscheme" title="enum class in com.here.sdk.mapview.datasource"><code>TilingScheme</code></a>).
  </p><p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
  behavior. Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
@@ -47,9 +46,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-datasource-tilegeoboundscal
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.mapview.datasource.TilingScheme)">TileGeoBoundsCalculator</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-tilingscheme" title="enum class in com.here.sdk.mapview.datasource">TilingScheme</a> tilingScheme)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.mapview.datasource.TilingScheme)">TileGeoBoundsCalculator</a><wbr/>(<a href="sdk-for-android-navigate-tilingscheme" title="enum class in com.here.sdk.mapview.datasource">TilingScheme</a> tilingScheme)</code></div>
 <div class="col-last even-row-color">
-<div class="block">Creates an instance of <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-tilegeoboundscalculator" title="class in com.here.sdk.mapview.datasource"><code>TileGeoBoundsCalculator</code></a>.</div>
+<div class="block">Creates an instance of <a href="sdk-for-android-navigate-tilegeoboundscalculator" title="class in com.here.sdk.mapview.datasource"><code>TileGeoBoundsCalculator</code></a>.</div>
 </div>
 </div>
 </section>
@@ -65,10 +64,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-datasource-tilegeoboundscal
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-geobox" title="class in com.here.sdk.core">GeoBox</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#boundsOf(com.here.sdk.mapview.datasource.TileKey)">boundsOf</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-tilekey" title="class in com.here.sdk.mapview.datasource">TileKey</a> tileKey)</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-geobox" title="class in com.here.sdk.core">GeoBox</a></code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#boundsOf(com.here.sdk.mapview.datasource.TileKey)">boundsOf</a><wbr/>(<a href="sdk-for-android-navigate-tilekey" title="class in com.here.sdk.mapview.datasource">TileKey</a> tileKey)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
-<div class="block">Computes the geodetic bounds (as <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-geobox" title="class in com.here.sdk.core"><code>GeoBox</code></a>) for a tile identified by <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-tilekey" title="class in com.here.sdk.mapview.datasource"><code>TileKey</code></a>.</div>
+<div class="block">Computes the geodetic bounds (as <a href="sdk-for-android-navigate-geobox" title="class in com.here.sdk.core"><code>GeoBox</code></a>) for a tile identified by <a href="sdk-for-android-navigate-tilekey" title="class in com.here.sdk.mapview.datasource"><code>TileKey</code></a>.</div>
 </div>
 </div>
 </div>
@@ -91,8 +90,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-datasource-tilegeoboundscal
 <section class="detail" id="&lt;init&gt;(com.here.sdk.mapview.datasource.TilingScheme)">
 <h3>TileGeoBoundsCalculator</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">TileGeoBoundsCalculator</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-tilingscheme" title="enum class in com.here.sdk.mapview.datasource">TilingScheme</a> tilingScheme)</span></div>
-<div class="block"><p>Creates an instance of <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-tilegeoboundscalculator" title="class in com.here.sdk.mapview.datasource"><code>TileGeoBoundsCalculator</code></a>.</p></div>
+ <a href="sdk-for-android-navigate-tilingscheme" title="enum class in com.here.sdk.mapview.datasource">TilingScheme</a> tilingScheme)</span></div>
+<div class="block"><p>Creates an instance of <a href="sdk-for-android-navigate-tilegeoboundscalculator" title="class in com.here.sdk.mapview.datasource"><code>TileGeoBoundsCalculator</code></a>.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>tilingScheme</code> - <p>The tiling scheme used for generating the tile keys that are to be supported by this instance.</p></dd>
@@ -111,16 +110,16 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-datasource-tilegeoboundscal
 <section class="detail" id="boundsOf(com.here.sdk.mapview.datasource.TileKey)">
 <h3>boundsOf</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-geobox" title="class in com.here.sdk.core">GeoBox</a></span> <span class="element-name">boundsOf</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-tilekey" title="class in com.here.sdk.mapview.datasource">TileKey</a> tileKey)</span></div>
-<div class="block"><p>Computes the geodetic bounds (as <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-geobox" title="class in com.here.sdk.core"><code>GeoBox</code></a>) for a tile identified by <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-tilekey" title="class in com.here.sdk.mapview.datasource"><code>TileKey</code></a>.</p></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-geobox" title="class in com.here.sdk.core">GeoBox</a></span> <span class="element-name">boundsOf</span><wbr/><span class="parameters">(@NonNull
+ <a href="sdk-for-android-navigate-tilekey" title="class in com.here.sdk.mapview.datasource">TileKey</a> tileKey)</span></div>
+<div class="block"><p>Computes the geodetic bounds (as <a href="sdk-for-android-navigate-geobox" title="class in com.here.sdk.core"><code>GeoBox</code></a>) for a tile identified by <a href="sdk-for-android-navigate-tilekey" title="class in com.here.sdk.mapview.datasource"><code>TileKey</code></a>.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
-<dd><code>tileKey</code> - <p><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-tilekey" title="class in com.here.sdk.mapview.datasource"><code>TileKey</code></a> to compute geodetic bounds for.
+<dd><code>tileKey</code> - <p><a href="sdk-for-android-navigate-tilekey" title="class in com.here.sdk.mapview.datasource"><code>TileKey</code></a> to compute geodetic bounds for.
      The geodetic bounds would be calculated relative to the tiling scheme
-     provided at this <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-tilegeoboundscalculator" title="class in com.here.sdk.mapview.datasource"><code>TileGeoBoundsCalculator</code></a> instance creation.</p></dd>
+     provided at this <a href="sdk-for-android-navigate-tilegeoboundscalculator" title="class in com.here.sdk.mapview.datasource"><code>TileGeoBoundsCalculator</code></a> instance creation.</p></dd>
 <dt>Returns:</dt>
-<dd><p>The geodetic bounds of tile identified by given <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-tilekey" title="class in com.here.sdk.mapview.datasource"><code>TileKey</code></a>.</p></dd>
+<dd><p>The geodetic bounds of tile identified by given <a href="sdk-for-android-navigate-tilekey" title="class in com.here.sdk.mapview.datasource"><code>TileKey</code></a>.</p></dd>
 </dl>
 </section>
 </li>

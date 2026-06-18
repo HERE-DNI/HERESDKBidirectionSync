@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-myplaces"
 `
 <div class="sdk-for-android">
 <!-- MyPlaces.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,18 +19,18 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-myplaces"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.search</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-search-package-summary">com.here.sdk.search</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-nativebase" title="class in com.here">com.here.NativeBase</a>
+<div class="inheritance"><a href="sdk-for-android-navigate-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.search.MyPlaces</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 <hr/>
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">MyPlaces</span>
-<span class="extends-implements">extends <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-nativebase" title="class in com.here">NativeBase</a></span></div>
+<span class="extends-implements">extends <a href="sdk-for-android-navigate-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>Provides means to populate personal places data source. Also acts as a
  owner of the collection of personal places. MyPlaces is
  memory-only object: nothing is persisted and/or sent over the network.
@@ -47,7 +46,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-myplaces"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#%3Cinit%3E()">MyPlaces</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E()">MyPlaces</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance of this class.</div>
 </div>
@@ -65,37 +64,37 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-myplaces"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#addPlace(com.here.sdk.search.GeoPlace,com.here.sdk.core.threading.OnTaskCompleted)">addPlace</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-geoplace" title="class in com.here.sdk.search">GeoPlace</a> place,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-ontaskcompleted" title="interface in com.here.sdk.core.threading">OnTaskCompleted</a> callback)</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#addPlace(com.here.sdk.search.GeoPlace,com.here.sdk.core.threading.OnTaskCompleted)">addPlace</a><wbr/>(<a href="sdk-for-android-navigate-geoplace" title="class in com.here.sdk.search">GeoPlace</a> place,
+ <a href="sdk-for-android-navigate-ontaskcompleted" title="interface in com.here.sdk.core.threading">OnTaskCompleted</a> callback)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Adds a place to this data source.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#addPlaces(java.util.List,com.here.sdk.core.threading.OnTaskCompleted)">addPlaces</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-geoplace" title="class in com.here.sdk.search">GeoPlace</a>&gt; places,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-ontaskcompleted" title="interface in com.here.sdk.core.threading">OnTaskCompleted</a> callback)</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#addPlaces(java.util.List,com.here.sdk.core.threading.OnTaskCompleted)">addPlaces</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-geoplace" title="class in com.here.sdk.search">GeoPlace</a>&gt; places,
+ <a href="sdk-for-android-navigate-ontaskcompleted" title="interface in com.here.sdk.core.threading">OnTaskCompleted</a> callback)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Adds a list of places to this data source.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-geoplace" title="class in com.here.sdk.search">GeoPlace</a>&gt;</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#getPlaces()">getPlaces</a>()</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-geoplace" title="class in com.here.sdk.search">GeoPlace</a>&gt;</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getPlaces()">getPlaces</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the list of places which currently belongs to this data source.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#removeAll(com.here.sdk.core.threading.OnTaskCompleted)">removeAll</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-ontaskcompleted" title="interface in com.here.sdk.core.threading">OnTaskCompleted</a> callback)</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#removeAll(com.here.sdk.core.threading.OnTaskCompleted)">removeAll</a><wbr/>(<a href="sdk-for-android-navigate-ontaskcompleted" title="interface in com.here.sdk.core.threading">OnTaskCompleted</a> callback)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Removes all places from this data source.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#removePlace(java.lang.String,com.here.sdk.core.threading.OnTaskCompleted)">removePlace</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> placeId,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-ontaskcompleted" title="interface in com.here.sdk.core.threading">OnTaskCompleted</a> callback)</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#removePlace(java.lang.String,com.here.sdk.core.threading.OnTaskCompleted)">removePlace</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> placeId,
+ <a href="sdk-for-android-navigate-ontaskcompleted" title="interface in com.here.sdk.core.threading">OnTaskCompleted</a> callback)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Removes a place from this data source.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#removePlaces(java.util.List,com.here.sdk.core.threading.OnTaskCompleted)">removePlaces</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a>&gt; placeIds,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-ontaskcompleted" title="interface in com.here.sdk.core.threading">OnTaskCompleted</a> callback)</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#removePlaces(java.util.List,com.here.sdk.core.threading.OnTaskCompleted)">removePlaces</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a>&gt; placeIds,
+ <a href="sdk-for-android-navigate-ontaskcompleted" title="interface in com.here.sdk.core.threading">OnTaskCompleted</a> callback)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Removes a list of places from this data source.</div>
 </div>
@@ -135,10 +134,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-myplaces"
 <section class="detail" id="addPlace(com.here.sdk.search.GeoPlace,com.here.sdk.core.threading.OnTaskCompleted)">
 <h3>addPlace</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">addPlace</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-geoplace" title="class in com.here.sdk.search">GeoPlace</a> place,
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">addPlace</span><wbr/><span class="parameters">(@NonNull
+ <a href="sdk-for-android-navigate-geoplace" title="class in com.here.sdk.search">GeoPlace</a> place,
  @NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-ontaskcompleted" title="interface in com.here.sdk.core.threading">OnTaskCompleted</a> callback)</span></div>
+ <a href="sdk-for-android-navigate-ontaskcompleted" title="interface in com.here.sdk.core.threading">OnTaskCompleted</a> callback)</span></div>
 <div class="block"><p>Adds a place to this data source.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -153,10 +152,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-myplaces"
 <section class="detail" id="addPlaces(java.util.List,com.here.sdk.core.threading.OnTaskCompleted)">
 <h3>addPlaces</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">addPlaces</span><wbr/><span class="parameters">(@NonNull
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-geoplace" title="class in com.here.sdk.search">GeoPlace</a>&gt; places,
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">addPlaces</span><wbr/><span class="parameters">(@NonNull
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-geoplace" title="class in com.here.sdk.search">GeoPlace</a>&gt; places,
  @NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-ontaskcompleted" title="interface in com.here.sdk.core.threading">OnTaskCompleted</a> callback)</span></div>
+ <a href="sdk-for-android-navigate-ontaskcompleted" title="interface in com.here.sdk.core.threading">OnTaskCompleted</a> callback)</span></div>
 <div class="block"><p>Adds a list of places to this data source.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -171,10 +170,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-myplaces"
 <section class="detail" id="removePlace(java.lang.String,com.here.sdk.core.threading.OnTaskCompleted)">
 <h3>removePlace</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">removePlace</span><wbr/><span class="parameters">(@NonNull
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">removePlace</span><wbr/><span class="parameters">(@NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> placeId,
  @NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-ontaskcompleted" title="interface in com.here.sdk.core.threading">OnTaskCompleted</a> callback)</span></div>
+ <a href="sdk-for-android-navigate-ontaskcompleted" title="interface in com.here.sdk.core.threading">OnTaskCompleted</a> callback)</span></div>
 <div class="block"><p>Removes a place from this data source.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -189,10 +188,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-myplaces"
 <section class="detail" id="removePlaces(java.util.List,com.here.sdk.core.threading.OnTaskCompleted)">
 <h3>removePlaces</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">removePlaces</span><wbr/><span class="parameters">(@NonNull
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">removePlaces</span><wbr/><span class="parameters">(@NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a>&gt; placeIds,
  @NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-ontaskcompleted" title="interface in com.here.sdk.core.threading">OnTaskCompleted</a> callback)</span></div>
+ <a href="sdk-for-android-navigate-ontaskcompleted" title="interface in com.here.sdk.core.threading">OnTaskCompleted</a> callback)</span></div>
 <div class="block"><p>Removes a list of places from this data source.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -207,8 +206,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-myplaces"
 <section class="detail" id="removeAll(com.here.sdk.core.threading.OnTaskCompleted)">
 <h3>removeAll</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">removeAll</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-ontaskcompleted" title="interface in com.here.sdk.core.threading">OnTaskCompleted</a> callback)</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">removeAll</span><wbr/><span class="parameters">(@NonNull
+ <a href="sdk-for-android-navigate-ontaskcompleted" title="interface in com.here.sdk.core.threading">OnTaskCompleted</a> callback)</span></div>
 <div class="block"><p>Removes all places from this data source.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -222,7 +221,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-myplaces"
 <section class="detail" id="getPlaces()">
 <h3>getPlaces</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-geoplace" title="class in com.here.sdk.search">GeoPlace</a>&gt;</span> <span class="element-name">getPlaces</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-geoplace" title="class in com.here.sdk.search">GeoPlace</a>&gt;</span> <span class="element-name">getPlaces</span>()</div>
 <div class="block"><p>Gets the list of places which currently belongs to this data source. The returned list is
  a clone of the internal list and thus changing it has no effect on the data source.</p></div>
 <dl class="notes">

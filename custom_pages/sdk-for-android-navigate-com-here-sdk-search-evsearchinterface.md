@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-evsearchinterface"
 `
 <div class="sdk-for-android">
 <!-- EVSearchInterface.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,13 +19,13 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-evsearchinterface"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.search</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-search-package-summary">com.here.sdk.search</a></div>
 
 </div>
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>All Known Implementing Classes:</dt>
-<dd><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-evsearchengine" title="class in com.here.sdk.search">EVSearchEngine</a></code></dd>
+<dd><code><a href="sdk-for-android-navigate-evsearchengine" title="class in com.here.sdk.search">EVSearchEngine</a></code></dd>
 </dl>
 <hr/>
 <div class="type-signature"><span class="modifiers">public interface </span><span class="element-name type-name-label">EVSearchInterface</span></div>
@@ -47,11 +46,11 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-evsearchinterface"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#search(java.util.List,com.here.sdk.search.EVSearchCallback)">search</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a>&gt; ids,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-evsearchcallback" title="interface in com.here.sdk.search">EVSearchCallback</a> callback)</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-navigate-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#search(java.util.List,com.here.sdk.search.EVSearchCallback)">search</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a>&gt; ids,
+ <a href="sdk-for-android-navigate-evsearchcallback" title="interface in com.here.sdk.search">EVSearchCallback</a> callback)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
-<div class="block">Performs an asynchronous request for <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-evcharginglocation" title="class in com.here.sdk.search"><code>EVChargingLocation</code></a> instances with given Place IDs.</div>
+<div class="block">Performs an asynchronous request for <a href="sdk-for-android-navigate-evcharginglocation" title="class in com.here.sdk.search"><code>EVChargingLocation</code></a> instances with given Place IDs.</div>
 </div>
 </div>
 </div>
@@ -71,11 +70,11 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-evsearchinterface"
 <section class="detail" id="search(java.util.List,com.here.sdk.search.EVSearchCallback)">
 <h3>search</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">search</span><wbr/><span class="parameters">(@NonNull
+</span><span class="return-type"><a href="sdk-for-android-navigate-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">search</span><wbr/><span class="parameters">(@NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a>&gt; ids,
  @NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-evsearchcallback" title="interface in com.here.sdk.search">EVSearchCallback</a> callback)</span></div>
-<div class="block"><p>Performs an asynchronous request for <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-evcharginglocation" title="class in com.here.sdk.search"><code>EVChargingLocation</code></a> instances with given Place IDs.</p></div>
+ <a href="sdk-for-android-navigate-evsearchcallback" title="interface in com.here.sdk.search">EVSearchCallback</a> callback)</span></div>
+<div class="block"><p>Performs an asynchronous request for <a href="sdk-for-android-navigate-evcharginglocation" title="class in com.here.sdk.search"><code>EVChargingLocation</code></a> instances with given Place IDs.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>ids</code> - <p>List of charging location identifiers.</p></dd>

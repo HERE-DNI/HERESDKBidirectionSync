@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-spatialaudiocuepanning"
 `
 <div class="sdk-for-android">
 <!-- SpatialAudioCuePanning.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,19 +19,19 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-spatialaudiocuepanning"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.navigation</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-navigation-package-summary">com.here.sdk.navigation</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-nativebase" title="class in com.here">com.here.NativeBase</a>
+<div class="inheritance"><a href="sdk-for-android-navigate-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.navigation.SpatialAudioCuePanning</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 <hr/>
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">SpatialAudioCuePanning</span>
-<span class="extends-implements">extends <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-nativebase" title="class in com.here">NativeBase</a></span></div>
-<div class="block"><p>Use the <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-spatialaudiocuepanning" title="class in com.here.sdk.navigation"><code>SpatialAudioCuePanning</code></a> to notify each of the azimuths which compose a spatial audio
+<span class="extends-implements">extends <a href="sdk-for-android-navigate-nativebase" title="class in com.here">NativeBase</a></span></div>
+<div class="block"><p>Use the <a href="sdk-for-android-navigate-spatialaudiocuepanning" title="class in com.here.sdk.navigation"><code>SpatialAudioCuePanning</code></a> to notify each of the azimuths which compose a spatial audio
  trajectory along the audio cue.</p></div>
 </section>
 <section class="summary">
@@ -47,7 +46,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-spatialaudiocuepanning"
 <div class="table-header col-second">Class</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>static interface </code></div>
-<div class="col-second even-row-color"><code><a class="type-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-spatialaudiocuepanning.spatialazimuthcallback" title="interface in com.here.sdk.navigation">SpatialAudioCuePanning.SpatialAzimuthCallback</a></code></div>
+<div class="col-second even-row-color"><code><a class="type-name-link" href="sdk-for-android-navigate-spatialaudiocuepanning.spatialazimuthcallback" title="interface in com.here.sdk.navigation">SpatialAudioCuePanning.SpatialAzimuthCallback</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Called once <code>startAngularPanning()</code> starts.</div>
 </div>
@@ -66,8 +65,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-spatialaudiocuepanning"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#startAngularPanning(com.here.sdk.navigation.CustomPanningData,com.here.sdk.navigation.SpatialAudioCuePanning.SpatialAzimuthCallback)">startAngularPanning</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-custompanningdata" title="class in com.here.sdk.navigation">CustomPanningData</a> nextCustomPanningData,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-spatialaudiocuepanning.spatialazimuthcallback" title="interface in com.here.sdk.navigation">SpatialAudioCuePanning.SpatialAzimuthCallback</a> azimuthCallback)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#startAngularPanning(com.here.sdk.navigation.CustomPanningData,com.here.sdk.navigation.SpatialAudioCuePanning.SpatialAzimuthCallback)">startAngularPanning</a><wbr/>(<a href="sdk-for-android-navigate-custompanningdata" title="class in com.here.sdk.navigation">CustomPanningData</a> nextCustomPanningData,
+ <a href="sdk-for-android-navigate-spatialaudiocuepanning.spatialazimuthcallback" title="interface in com.here.sdk.navigation">SpatialAudioCuePanning.SpatialAzimuthCallback</a> azimuthCallback)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">This method will retrieve a stream of azimuth values to be passed onto the spatial audio renderer.</div>
 </div>
@@ -92,21 +91,21 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-spatialaudiocuepanning"
 <section class="detail" id="startAngularPanning(com.here.sdk.navigation.CustomPanningData,com.here.sdk.navigation.SpatialAudioCuePanning.SpatialAzimuthCallback)">
 <h3>startAngularPanning</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">startAngularPanning</span><wbr/><span class="parameters">(@Nullable
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-custompanningdata" title="class in com.here.sdk.navigation">CustomPanningData</a> nextCustomPanningData,
+ <a href="sdk-for-android-navigate-custompanningdata" title="class in com.here.sdk.navigation">CustomPanningData</a> nextCustomPanningData,
  @NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-spatialaudiocuepanning.spatialazimuthcallback" title="interface in com.here.sdk.navigation">SpatialAudioCuePanning.SpatialAzimuthCallback</a> azimuthCallback)</span></div>
+ <a href="sdk-for-android-navigate-spatialaudiocuepanning.spatialazimuthcallback" title="interface in com.here.sdk.navigation">SpatialAudioCuePanning.SpatialAzimuthCallback</a> azimuthCallback)</span></div>
 <div class="block"><p>This method will retrieve a stream of azimuth values to be passed onto the spatial audio renderer.
- An optional custom value for <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-custompanningdata#estimatedAudioCueDuration"><code>CustomPanningData.estimatedAudioCueDuration</code></a>,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-custompanningdata#initialAzimuthInDegrees"><code>CustomPanningData.initialAzimuthInDegrees</code></a>,  or its <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-custompanningdata#sweepAzimuthInDegrees"><code>CustomPanningData.sweepAzimuthInDegrees</code></a>
+ An optional custom value for <a href="sdk-for-android-navigate-custompanningdata#estimatedAudioCueDuration"><code>CustomPanningData.estimatedAudioCueDuration</code></a>,
+ <a href="sdk-for-android-navigate-custompanningdata#initialAzimuthInDegrees"><code>CustomPanningData.initialAzimuthInDegrees</code></a>,  or its <a href="sdk-for-android-navigate-custompanningdata#sweepAzimuthInDegrees"><code>CustomPanningData.sweepAzimuthInDegrees</code></a>
  can be here defined if the default data does not fully match the utilized Language or TTS engine
  or angle expectations.
  If startAngularPanning is called to spatialize the audio cue of a new maneuver before the full
- completion of a previous spatial audio trajectory, then <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-eventtextlistener" title="interface in com.here.sdk.navigation"><code>EventTextListener</code></a> will retrieve
+ completion of a previous spatial audio trajectory, then <a href="sdk-for-android-navigate-eventtextlistener" title="interface in com.here.sdk.navigation"><code>EventTextListener</code></a> will retrieve
  the azimuth values of the new maneuver.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>nextCustomPanningData</code> - <p>Defines a new set of values related to spatial audio panning.
-     When <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-custompanningdata" title="class in com.here.sdk.navigation"><code>CustomPanningData</code></a> is initialized as <code>null</code>, the default set of values provided by HERE SDK
+     When <a href="sdk-for-android-navigate-custompanningdata" title="class in com.here.sdk.navigation"><code>CustomPanningData</code></a> is initialized as <code>null</code>, the default set of values provided by HERE SDK
      will be used instead.</p></dd>
 <dd><code>azimuthCallback</code> - <p>Callback that will signal the next azimuth required to complete a spatial audio trajectory
      once the angular panning has started.

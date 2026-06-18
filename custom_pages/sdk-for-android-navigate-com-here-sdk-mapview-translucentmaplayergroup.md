@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-translucentmaplayergroup"
 `
 <div class="sdk-for-android">
 <!-- TranslucentMapLayerGroup.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,19 +19,19 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-translucentmaplayergroup"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.mapview</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-nativebase" title="class in com.here">com.here.NativeBase</a>
+<div class="inheritance"><a href="sdk-for-android-navigate-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.mapview.TranslucentMapLayerGroup</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 <hr/>
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">TranslucentMapLayerGroup</span>
-<span class="extends-implements">extends <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-nativebase" title="class in com.here">NativeBase</a></span></div>
-<div class="block"><p>A translucent layer group that can be the target for <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-maplayerprioritybuilder#inGroup(java.lang.String)"><code>MapLayerPriorityBuilder.inGroup(java.lang.String)</code></a>.
+<span class="extends-implements">extends <a href="sdk-for-android-navigate-nativebase" title="class in com.here">NativeBase</a></span></div>
+<div class="block"><p>A translucent layer group that can be the target for <a href="sdk-for-android-navigate-maplayerprioritybuilder#inGroup(java.lang.String)"><code>MapLayerPriorityBuilder.inGroup(java.lang.String)</code></a>.
  Currently, only custom line layers can be added to a translucent layer group.
  Custom line layers in a translucent layer group are rendered in an offscreen translucent pass so
  that overlapping translucent line geometry is not alpha blended with itself.
@@ -92,17 +91,17 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-translucentmaplayergroup"
 <div class="table-header col-second">Class</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>static enum </code></div>
-<div class="col-second even-row-color"><code><a class="type-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-translucentmaplayergroup.errorcode" title="enum class in com.here.sdk.mapview">TranslucentMapLayerGroup.ErrorCode</a></code></div>
+<div class="col-second even-row-color"><code><a class="type-name-link" href="sdk-for-android-navigate-translucentmaplayergroup.errorcode" title="enum class in com.here.sdk.mapview">TranslucentMapLayerGroup.ErrorCode</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Error codes for creating the group.</div>
 </div>
 <div class="col-first odd-row-color"><code>static final class </code></div>
-<div class="col-second odd-row-color"><code><a class="type-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-translucentmaplayergroup.errordetails" title="class in com.here.sdk.mapview">TranslucentMapLayerGroup.ErrorDetails</a></code></div>
+<div class="col-second odd-row-color"><code><a class="type-name-link" href="sdk-for-android-navigate-translucentmaplayergroup.errordetails" title="class in com.here.sdk.mapview">TranslucentMapLayerGroup.ErrorDetails</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Describes the reason for failing to create the group.</div>
 </div>
 <div class="col-first even-row-color"><code>static final class </code></div>
-<div class="col-second even-row-color"><code><a class="type-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-translucentmaplayergroup.instantiationexception" title="class in com.here.sdk.mapview">TranslucentMapLayerGroup.InstantiationException</a></code></div>
+<div class="col-second even-row-color"><code><a class="type-name-link" href="sdk-for-android-navigate-translucentmaplayergroup.instantiationexception" title="class in com.here.sdk.mapview">TranslucentMapLayerGroup.InstantiationException</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Thrown when failing to build the group.</div>
 </div>
@@ -117,14 +116,14 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-translucentmaplayergroup"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#%3Cinit%3E(java.lang.String,com.here.sdk.mapview.HereMap)">TranslucentMapLayerGroup</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-heremap" title="class in com.here.sdk.mapview">HereMap</a> aMap)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(java.lang.String,com.here.sdk.mapview.HereMap)">TranslucentMapLayerGroup</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name,
+ <a href="sdk-for-android-navigate-heremap" title="class in com.here.sdk.mapview">HereMap</a> aMap)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates an instance of the group.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#%3Cinit%3E(java.lang.String,com.here.sdk.mapview.HereMap,com.here.sdk.mapview.MapLayerPriority)">TranslucentMapLayerGroup</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-heremap" title="class in com.here.sdk.mapview">HereMap</a> aMap,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-maplayerpriority" title="class in com.here.sdk.mapview">MapLayerPriority</a> priority)</code></div>
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(java.lang.String,com.here.sdk.mapview.HereMap,com.here.sdk.mapview.MapLayerPriority)">TranslucentMapLayerGroup</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name,
+ <a href="sdk-for-android-navigate-heremap" title="class in com.here.sdk.mapview">HereMap</a> aMap,
+ <a href="sdk-for-android-navigate-maplayerpriority" title="class in com.here.sdk.mapview">MapLayerPriority</a> priority)</code></div>
 <div class="col-last odd-row-color">
 <div class="block">Creates an instance of the group.</div>
 </div>
@@ -143,12 +142,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-translucentmaplayergroup"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#destroy()">destroy</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#destroy()">destroy</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Frees all internally used resources.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#setPriority(com.here.sdk.mapview.MapLayerPriority)">setPriority</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-maplayerpriority" title="class in com.here.sdk.mapview">MapLayerPriority</a> priority)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setPriority(com.here.sdk.mapview.MapLayerPriority)">setPriority</a><wbr/>(<a href="sdk-for-android-navigate-maplayerpriority" title="class in com.here.sdk.mapview">MapLayerPriority</a> priority)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the render priority for the layer group which replaces any previously defined priority.</div>
 </div>
@@ -175,15 +174,15 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-translucentmaplayergroup"
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">TranslucentMapLayerGroup</span><wbr/><span class="parameters">(@NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name,
  @NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-heremap" title="class in com.here.sdk.mapview">HereMap</a> aMap)</span>
-                         throws <span class="exceptions"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-translucentmaplayergroup.instantiationexception" title="class in com.here.sdk.mapview">TranslucentMapLayerGroup.InstantiationException</a></span></div>
+ <a href="sdk-for-android-navigate-heremap" title="class in com.here.sdk.mapview">HereMap</a> aMap)</span>
+                         throws <span class="exceptions"><a href="sdk-for-android-navigate-translucentmaplayergroup.instantiationexception" title="class in com.here.sdk.mapview">TranslucentMapLayerGroup.InstantiationException</a></span></div>
 <div class="block"><p>Creates an instance of the group.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
-<dd><code>name</code> - <p>Name of the group. Must be unique across <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-maplayer" title="class in com.here.sdk.mapview"><code>MapLayer</code></a> and <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-translucentmaplayergroup" title="class in com.here.sdk.mapview"><code>TranslucentMapLayerGroup</code></a>.</p></dd>
+<dd><code>name</code> - <p>Name of the group. Must be unique across <a href="sdk-for-android-navigate-maplayer" title="class in com.here.sdk.mapview"><code>MapLayer</code></a> and <a href="sdk-for-android-navigate-translucentmaplayergroup" title="class in com.here.sdk.mapview"><code>TranslucentMapLayerGroup</code></a>.</p></dd>
 <dd><code>aMap</code> - <p>The map to attach the group to.</p></dd>
 <dt>Throws:</dt>
-<dd><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-translucentmaplayergroup.instantiationexception" title="class in com.here.sdk.mapview">TranslucentMapLayerGroup.InstantiationException</a></code> - <p>In case of invalid input parameters.</p></dd>
+<dd><code><a href="sdk-for-android-navigate-translucentmaplayergroup.instantiationexception" title="class in com.here.sdk.mapview">TranslucentMapLayerGroup.InstantiationException</a></code> - <p>In case of invalid input parameters.</p></dd>
 </dl>
 </section>
 </li>
@@ -193,24 +192,24 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-translucentmaplayergroup"
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">TranslucentMapLayerGroup</span><wbr/><span class="parameters">(@NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name,
  @NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-heremap" title="class in com.here.sdk.mapview">HereMap</a> aMap,
+ <a href="sdk-for-android-navigate-heremap" title="class in com.here.sdk.mapview">HereMap</a> aMap,
  @NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-maplayerpriority" title="class in com.here.sdk.mapview">MapLayerPriority</a> priority)</span>
-                         throws <span class="exceptions"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-translucentmaplayergroup.instantiationexception" title="class in com.here.sdk.mapview">TranslucentMapLayerGroup.InstantiationException</a></span></div>
+ <a href="sdk-for-android-navigate-maplayerpriority" title="class in com.here.sdk.mapview">MapLayerPriority</a> priority)</span>
+                         throws <span class="exceptions"><a href="sdk-for-android-navigate-translucentmaplayergroup.instantiationexception" title="class in com.here.sdk.mapview">TranslucentMapLayerGroup.InstantiationException</a></span></div>
 <div class="block"><p>Creates an instance of the group.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
-<dd><code>name</code> - <p>Name of the group. Must be unique across <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-maplayer" title="class in com.here.sdk.mapview"><code>MapLayer</code></a> and <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-translucentmaplayergroup" title="class in com.here.sdk.mapview"><code>TranslucentMapLayerGroup</code></a>.</p></dd>
+<dd><code>name</code> - <p>Name of the group. Must be unique across <a href="sdk-for-android-navigate-maplayer" title="class in com.here.sdk.mapview"><code>MapLayer</code></a> and <a href="sdk-for-android-navigate-translucentmaplayergroup" title="class in com.here.sdk.mapview"><code>TranslucentMapLayerGroup</code></a>.</p></dd>
 <dd><code>aMap</code> - <p>The map to attach the group to.</p></dd>
-<dd><code>priority</code> - <p>The <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-maplayerpriority" title="class in com.here.sdk.mapview"><code>MapLayerPriority</code></a> which should be applied to position the group.
-     The <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-maplayerpriority" title="class in com.here.sdk.mapview"><code>MapLayerPriority</code></a> must contain only one priority and this priority must have no
-     category and no group, i.e. <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-i-e-maplayerprioritybuilder#inGroup(java.lang.String)"><code>MapLayerPriorityBuilder.inGroup(java.lang.String)</code></a> and
-     <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-maplayerprioritybuilder#withCategory(java.lang.String)"><code>MapLayerPriorityBuilder.withCategory(java.lang.String)</code></a> should not be used when building the
-     <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-maplayerpriority" title="class in com.here.sdk.mapview"><code>MapLayerPriority</code></a>.
+<dd><code>priority</code> - <p>The <a href="sdk-for-android-navigate-maplayerpriority" title="class in com.here.sdk.mapview"><code>MapLayerPriority</code></a> which should be applied to position the group.
+     The <a href="sdk-for-android-navigate-maplayerpriority" title="class in com.here.sdk.mapview"><code>MapLayerPriority</code></a> must contain only one priority and this priority must have no
+     category and no group, i.e. <a href="sdk-for-android-navigate-maplayerprioritybuilder#inGroup(java.lang.String)"><code>MapLayerPriorityBuilder.inGroup(java.lang.String)</code></a> and
+     <a href="sdk-for-android-navigate-maplayerprioritybuilder#withCategory(java.lang.String)"><code>MapLayerPriorityBuilder.withCategory(java.lang.String)</code></a> should not be used when building the
+     <a href="sdk-for-android-navigate-maplayerpriority" title="class in com.here.sdk.mapview"><code>MapLayerPriority</code></a>.
      Example:
      </p><p><code>new MapLayerPriorityBuilder().renderedAfterLayer(&amp;quot;water&amp;quot;).build()</code></p></dd>
 <dt>Throws:</dt>
-<dd><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-translucentmaplayergroup.instantiationexception" title="class in com.here.sdk.mapview">TranslucentMapLayerGroup.InstantiationException</a></code> - <p>In case of invalid input parameters.</p></dd>
+<dd><code><a href="sdk-for-android-navigate-translucentmaplayergroup.instantiationexception" title="class in com.here.sdk.mapview">TranslucentMapLayerGroup.InstantiationException</a></code> - <p>In case of invalid input parameters.</p></dd>
 </dl>
 </section>
 </li>
@@ -226,15 +225,15 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-translucentmaplayergroup"
 <section class="detail" id="setPriority(com.here.sdk.mapview.MapLayerPriority)">
 <h3>setPriority</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setPriority</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-maplayerpriority" title="class in com.here.sdk.mapview">MapLayerPriority</a> priority)</span></div>
+ <a href="sdk-for-android-navigate-maplayerpriority" title="class in com.here.sdk.mapview">MapLayerPriority</a> priority)</span></div>
 <div class="block"><p>Sets the render priority for the layer group which replaces any previously defined priority.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>priority</code> - <p>The priority to position the group.
-     The <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-maplayerpriority" title="class in com.here.sdk.mapview"><code>MapLayerPriority</code></a> must contain only one priority and this priority must have no
-     category and no group, i.e. <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-i-e-maplayerprioritybuilder#inGroup(java.lang.String)"><code>MapLayerPriorityBuilder.inGroup(java.lang.String)</code></a> and
-     <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-maplayerprioritybuilder#withCategory(java.lang.String)"><code>MapLayerPriorityBuilder.withCategory(java.lang.String)</code></a> should not be used when building the
-     <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-maplayerpriority" title="class in com.here.sdk.mapview"><code>MapLayerPriority</code></a>.
+     The <a href="sdk-for-android-navigate-maplayerpriority" title="class in com.here.sdk.mapview"><code>MapLayerPriority</code></a> must contain only one priority and this priority must have no
+     category and no group, i.e. <a href="sdk-for-android-navigate-maplayerprioritybuilder#inGroup(java.lang.String)"><code>MapLayerPriorityBuilder.inGroup(java.lang.String)</code></a> and
+     <a href="sdk-for-android-navigate-maplayerprioritybuilder#withCategory(java.lang.String)"><code>MapLayerPriorityBuilder.withCategory(java.lang.String)</code></a> should not be used when building the
+     <a href="sdk-for-android-navigate-maplayerpriority" title="class in com.here.sdk.mapview"><code>MapLayerPriority</code></a>.
      Example:
      </p><p><code>new MapLayerPriorityBuilder().renderedAfterLayer(&amp;quot;water&amp;quot;).build()</code></p></dd>
 </dl>

@@ -7,7 +7,6 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-electricvehicleoptions"
 `
 <div class="sdk-for-android">
 <!-- ElectricVehicleOptions.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,7 +19,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-electricvehicleoptions"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-package-summary">com.here.sdk.routing</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-routing-package-summary">com.here.sdk.routing</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -45,28 +44,28 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-electricvehicleoptions"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-batteryspecifications" title="class in com.here.sdk.routing">BatterySpecifications</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#batterySpecifications">batterySpecifications</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-batteryspecifications" title="class in com.here.sdk.routing">BatterySpecifications</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#batterySpecifications">batterySpecifications</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Parameters that describe the electric vehicle's battery.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-empiricalconsumptionmodel" title="class in com.here.sdk.routing">EmpiricalConsumptionModel</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#empiricalConsumptionModel">empiricalConsumptionModel</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-empiricalconsumptionmodel" title="class in com.here.sdk.routing">EmpiricalConsumptionModel</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#empiricalConsumptionModel">empiricalConsumptionModel</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Defines the empirical consumption model.</div>
 </div>
 <div class="col-first even-row-color"><code>boolean</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#ensureReachability">ensureReachability</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#ensureReachability">ensureReachability</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Ensure that the vehicle does not run out of energy along the way.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-evmobilityserviceproviderpreferences" title="class in com.here.sdk.routing">EVMobilityServiceProviderPreferences</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#evMobilityServiceProviderPreferences">evMobilityServiceProviderPreferences</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-evmobilityserviceproviderpreferences" title="class in com.here.sdk.routing">EVMobilityServiceProviderPreferences</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#evMobilityServiceProviderPreferences">evMobilityServiceProviderPreferences</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Defines the preferred E-Mobility Service Providers.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-physicalconsumptionmodel" title="class in com.here.sdk.routing">PhysicalConsumptionModel</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#physicalConsumptionModel">physicalConsumptionModel</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-physicalconsumptionmodel" title="class in com.here.sdk.routing">PhysicalConsumptionModel</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#physicalConsumptionModel">physicalConsumptionModel</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Defines the physical consumption model.</div>
 </div>
@@ -81,7 +80,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-electricvehicleoptions"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#%3Cinit%3E()">ElectricVehicleOptions</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#%3Cinit%3E()">ElectricVehicleOptions</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -100,10 +99,10 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-electricvehicleoptions"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#hashCode()">hashCode</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 </div>
 </div>
@@ -129,15 +128,15 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-electricvehicleoptions"
 <div class="block"><p>Ensure that the vehicle does not run out of energy along the way.
  Requires valid <code>battery_specifications</code>.
  It also requires that
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-routeoptions#optimizationMode"><code>RouteOptions.optimizationMode</code></a> = <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-optimizationmode#FASTEST"><code>OptimizationMode.FASTEST</code></a>,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-routeoptions#speedCapInMetersPerSecond"><code>RouteOptions.speedCapInMetersPerSecond</code></a> is not set, and
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-avoidanceoptions" title="class in com.here.sdk.routing"><code>AvoidanceOptions</code></a> is empty. Otherwise, this object is considered invalid.
+ <a href="sdk-for-android-explore-routeoptions#optimizationMode"><code>RouteOptions.optimizationMode</code></a> = <a href="sdk-for-android-explore-optimizationmode#FASTEST"><code>OptimizationMode.FASTEST</code></a>,
+ <a href="sdk-for-android-explore-routeoptions#speedCapInMetersPerSecond"><code>RouteOptions.speedCapInMetersPerSecond</code></a> is not set, and
+ <a href="sdk-for-android-explore-avoidanceoptions" title="class in com.here.sdk.routing"><code>AvoidanceOptions</code></a> is empty. Otherwise, this object is considered invalid.
  Setting this flag enables calculation of a route optimized for electric vehicles.
  Charging stations may be added along the route to ensure that the vehicle does
  not run out of energy along the way.
  It is especially useful for longer routes, because after all, charging stations are much
  less common than petrol stations.
- </p><p><strong>Note</strong> An <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> is generated when
+ </p><p><strong>Note</strong> An <a href="sdk-for-android-explore-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> is generated when
  this option is set to <code>true</code> in case <code>sdk.routing.RoutingEngine.import_route</code> is called.
  Defaults to <code>false</code>.
  </p><p><strong>Note</strong>
@@ -150,7 +149,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-electricvehicleoptions"
 <section class="detail" id="evMobilityServiceProviderPreferences">
 <h3>evMobilityServiceProviderPreferences</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-evmobilityserviceproviderpreferences" title="class in com.here.sdk.routing">EVMobilityServiceProviderPreferences</a></span> <span class="element-name">evMobilityServiceProviderPreferences</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-evmobilityserviceproviderpreferences" title="class in com.here.sdk.routing">EVMobilityServiceProviderPreferences</a></span> <span class="element-name">evMobilityServiceProviderPreferences</span></div>
 <div class="block"><p>Defines the preferred E-Mobility Service Providers.
  The The E-Mobility Service Provider Partner Ids can be received from
  https://www.here.com/docs/bundle/ev-charge-points-api-developer-guide/page/topics/resource-roamings.html
@@ -164,7 +163,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-electricvehicleoptions"
 <section class="detail" id="empiricalConsumptionModel">
 <h3>empiricalConsumptionModel</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-empiricalconsumptionmodel" title="class in com.here.sdk.routing">EmpiricalConsumptionModel</a></span> <span class="element-name">empiricalConsumptionModel</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-empiricalconsumptionmodel" title="class in com.here.sdk.routing">EmpiricalConsumptionModel</a></span> <span class="element-name">empiricalConsumptionModel</span></div>
 <div class="block"><p>Defines the empirical consumption model.
  The model is used to calculate the energy consumption for the vehicle on a given route.
  <strong>Note</strong>
@@ -175,7 +174,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-electricvehicleoptions"
 <section class="detail" id="physicalConsumptionModel">
 <h3>physicalConsumptionModel</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-physicalconsumptionmodel" title="class in com.here.sdk.routing">PhysicalConsumptionModel</a></span> <span class="element-name">physicalConsumptionModel</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-physicalconsumptionmodel" title="class in com.here.sdk.routing">PhysicalConsumptionModel</a></span> <span class="element-name">physicalConsumptionModel</span></div>
 <div class="block"><p>Defines the physical consumption model.
  The model is used to calculate the energy consumption for the vehicle on a given route.
  <strong>Note</strong>
@@ -186,7 +185,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-electricvehicleoptions"
 <section class="detail" id="batterySpecifications">
 <h3>batterySpecifications</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-batteryspecifications" title="class in com.here.sdk.routing">BatterySpecifications</a></span> <span class="element-name">batterySpecifications</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-batteryspecifications" title="class in com.here.sdk.routing">BatterySpecifications</a></span> <span class="element-name">batterySpecifications</span></div>
 <div class="block"><p>Parameters that describe the electric vehicle's battery.
  By default, it is set to <code>null</code>.</p></div>
 </section>

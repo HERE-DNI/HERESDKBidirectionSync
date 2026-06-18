@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-trafficawarenavigation-dynamicrouti
 `
 <div class="sdk-for-android">
 <!-- DynamicRoutingEngine.StartException.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,7 +19,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-trafficawarenavigation-dynamicrouti
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.trafficawarenavigation</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-trafficawarenavigation-package-summary">com.here.sdk.trafficawarenavigation</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -37,7 +36,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-trafficawarenavigation-dynamicrouti
 </dl>
 <dl class="notes">
 <dt>Enclosing class:</dt>
-<dd><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-dynamicroutingengine" title="class in com.here.sdk.trafficawarenavigation">DynamicRoutingEngine</a></dd>
+<dd><a href="sdk-for-android-navigate-dynamicroutingengine" title="class in com.here.sdk.trafficawarenavigation">DynamicRoutingEngine</a></dd>
 </dl>
 <hr/>
 <div class="type-signature"><span class="modifiers">public static final class </span><span class="element-name type-name-label">DynamicRoutingEngine.StartException</span>
@@ -47,7 +46,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-trafficawarenavigation-dynamicrouti
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-serialized-form#com.here.sdk.trafficawarenavigation.DynamicRoutingEngine.StartException">Serialized Form</a></li>
+<li><a href="sdk-for-android-navigate-serialized-form#com.here.sdk.trafficawarenavigation.DynamicRoutingEngine.StartException">Serialized Form</a></li>
 </ul>
 </dd>
 </dl>

@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapmarkercluster-grouping"
 `
 <div class="sdk-for-android">
 <!-- MapMarkerCluster.Grouping.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,7 +19,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapmarkercluster-grouping"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.mapview</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -29,7 +28,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapmarkercluster-grouping"
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>Enclosing class:</dt>
-<dd><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapmarkercluster" title="class in com.here.sdk.mapview">MapMarkerCluster</a></dd>
+<dd><a href="sdk-for-android-navigate-mapmarkercluster" title="class in com.here.sdk.mapview">MapMarkerCluster</a></dd>
 </dl>
 <hr/>
 <div class="type-signature"><span class="modifiers">public static final class </span><span class="element-name type-name-label">MapMarkerCluster.Grouping</span>
@@ -49,15 +48,15 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapmarkercluster-grouping"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapmarker" title="class in com.here.sdk.mapview">MapMarker</a>&gt;</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#markers">markers</a></code></div>
+<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-mapmarker" title="class in com.here.sdk.mapview">MapMarker</a>&gt;</code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#markers">markers</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">List of map markers grouped on map view under map marker cluster icon.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapmarkercluster" title="class in com.here.sdk.mapview">MapMarkerCluster</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#parent">parent</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-mapmarkercluster" title="class in com.here.sdk.mapview">MapMarkerCluster</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#parent">parent</a></code></div>
 <div class="col-last odd-row-color">
-<div class="block">Map marker cluster that entries in <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#markers"><code>markers</code></a> belong to.</div>
+<div class="block">Map marker cluster that entries in <a href="sdk-for-android-navigate-index#markers"><code>markers</code></a> belong to.</div>
 </div>
 </div>
 </section>
@@ -70,8 +69,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapmarkercluster-grouping"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#%3Cinit%3E(java.util.List,com.here.sdk.mapview.MapMarkerCluster)">Grouping</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapmarker" title="class in com.here.sdk.mapview">MapMarker</a>&gt; markers,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapmarkercluster" title="class in com.here.sdk.mapview">MapMarkerCluster</a> parent)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(java.util.List,com.here.sdk.mapview.MapMarkerCluster)">Grouping</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-mapmarker" title="class in com.here.sdk.mapview">MapMarker</a>&gt; markers,
+ <a href="sdk-for-android-navigate-mapmarkercluster" title="class in com.here.sdk.mapview">MapMarkerCluster</a> parent)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -100,7 +99,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapmarkercluster-grouping"
 <section class="detail" id="markers">
 <h3>markers</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapmarker" title="class in com.here.sdk.mapview">MapMarker</a>&gt;</span> <span class="element-name">markers</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-mapmarker" title="class in com.here.sdk.mapview">MapMarker</a>&gt;</span> <span class="element-name">markers</span></div>
 <div class="block"><p>List of map markers grouped on map view under map marker cluster icon.</p></div>
 </section>
 </li>
@@ -108,8 +107,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapmarkercluster-grouping"
 <section class="detail" id="parent">
 <h3>parent</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapmarkercluster" title="class in com.here.sdk.mapview">MapMarkerCluster</a></span> <span class="element-name">parent</span></div>
-<div class="block"><p>Map marker cluster that entries in <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#markers"><code>markers</code></a> belong to.</p></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-mapmarkercluster" title="class in com.here.sdk.mapview">MapMarkerCluster</a></span> <span class="element-name">parent</span></div>
+<div class="block"><p>Map marker cluster that entries in <a href="sdk-for-android-navigate-index#markers"><code>markers</code></a> belong to.</p></div>
 </section>
 </li>
 </ul>
@@ -124,14 +123,14 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapmarkercluster-grouping"
 <section class="detail" id="&lt;init&gt;(java.util.List,com.here.sdk.mapview.MapMarkerCluster)">
 <h3>Grouping</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">Grouping</span><wbr/><span class="parameters">(@NonNull
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapmarker" title="class in com.here.sdk.mapview">MapMarker</a>&gt; markers,
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-mapmarker" title="class in com.here.sdk.mapview">MapMarker</a>&gt; markers,
  @NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapmarkercluster" title="class in com.here.sdk.mapview">MapMarkerCluster</a> parent)</span></div>
+ <a href="sdk-for-android-navigate-mapmarkercluster" title="class in com.here.sdk.mapview">MapMarkerCluster</a> parent)</span></div>
 <div class="block"><p>Creates a new instance.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>markers</code> - <p>List of map markers grouped on map view under map marker cluster icon.</p></dd>
-<dd><code>parent</code> - <p>Map marker cluster that entries in <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#markers"><code>markers</code></a> belong to.</p></dd>
+<dd><code>parent</code> - <p>Map marker cluster that entries in <a href="sdk-for-android-navigate-index#markers"><code>markers</code></a> belong to.</p></dd>
 </dl>
 </section>
 </li>

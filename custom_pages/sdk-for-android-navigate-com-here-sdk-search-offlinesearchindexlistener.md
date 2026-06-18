@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-offlinesearchindexlistener"
 `
 <div class="sdk-for-android">
 <!-- OfflineSearchIndexListener.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,7 +19,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-offlinesearchindexlistener"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.search</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-search-package-summary">com.here.sdk.search</a></div>
 
 </div>
 <section class="class-description" id="class-description">
@@ -45,17 +44,17 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-offlinesearchindexlistener"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#onComplete(com.here.sdk.search.OfflineSearchIndex.Error)">onComplete</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-offlinesearchindex.error" title="enum class in com.here.sdk.search">OfflineSearchIndex.Error</a> error)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onComplete(com.here.sdk.search.OfflineSearchIndex.Error)">onComplete</a><wbr/>(<a href="sdk-for-android-navigate-offlinesearchindex.error" title="enum class in com.here.sdk.search">OfflineSearchIndex.Error</a> error)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Called after index creation or deletion has been completed.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#onProgress(int)">onProgress</a><wbr/>(int percentage)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onProgress(int)">onProgress</a><wbr/>(int percentage)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Called multiple times to indicate the progress of index creation or deletion.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#onStarted(com.here.sdk.search.OfflineSearchIndex.Operation)">onStarted</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-offlinesearchindex.operation" title="enum class in com.here.sdk.search">OfflineSearchIndex.Operation</a> operation)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onStarted(com.here.sdk.search.OfflineSearchIndex.Operation)">onStarted</a><wbr/>(<a href="sdk-for-android-navigate-offlinesearchindex.operation" title="enum class in com.here.sdk.search">OfflineSearchIndex.Operation</a> operation)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Called each time that the indexing has started.</div>
 </div>
@@ -77,7 +76,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-offlinesearchindexlistener"
 <section class="detail" id="onStarted(com.here.sdk.search.OfflineSearchIndex.Operation)">
 <h3>onStarted</h3>
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">onStarted</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-offlinesearchindex.operation" title="enum class in com.here.sdk.search">OfflineSearchIndex.Operation</a> operation)</span></div>
+ <a href="sdk-for-android-navigate-offlinesearchindex.operation" title="enum class in com.here.sdk.search">OfflineSearchIndex.Operation</a> operation)</span></div>
 <div class="block"><p>Called each time that the indexing has started. It is triggered by changes to persistent map
  or by calling <code>OfflineSearchEngine.setIndexOptions</code>.
  If a valid index was previously created for the installed regions, no additional indexing
@@ -108,7 +107,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-offlinesearchindexlistener"
 <section class="detail" id="onComplete(com.here.sdk.search.OfflineSearchIndex.Error)">
 <h3>onComplete</h3>
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">onComplete</span><wbr/><span class="parameters">(@Nullable
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-offlinesearchindex.error" title="enum class in com.here.sdk.search">OfflineSearchIndex.Error</a> error)</span></div>
+ <a href="sdk-for-android-navigate-offlinesearchindex.error" title="enum class in com.here.sdk.search">OfflineSearchIndex.Error</a> error)</span></div>
 <div class="block"><p>Called after index creation or deletion has been completed.
  Invoked on the main thread.</p></div>
 <dl class="notes">

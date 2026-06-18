@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-avoidpolygonareaoptions"
 `
 <div class="sdk-for-android">
 <!-- AvoidPolygonAreaOptions.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,7 +19,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-avoidpolygonareaoptions"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.routing</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-routing-package-summary">com.here.sdk.routing</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -43,23 +42,23 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-avoidpolygonareaoptions"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-geopolygon" title="class in com.here.sdk.core">GeoPolygon</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#avoidPolygonArea">avoidPolygonArea</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-geopolygon" title="class in com.here.sdk.core">GeoPolygon</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#avoidPolygonArea">avoidPolygonArea</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Area of polygon shape which routes must not cross.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-geobox" title="class in com.here.sdk.core">GeoBox</a>&gt;</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#boundingBoxExceptionAreas">boundingBoxExceptionAreas</a></code></div>
+<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-geobox" title="class in com.here.sdk.core">GeoBox</a>&gt;</code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#boundingBoxExceptionAreas">boundingBoxExceptionAreas</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Areas of rectangular shape to exclude from avoidance.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-geocorridor" title="class in com.here.sdk.core">GeoCorridor</a>&gt;</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#corridorExceptionAreas">corridorExceptionAreas</a></code></div>
+<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-geocorridor" title="class in com.here.sdk.core">GeoCorridor</a>&gt;</code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#corridorExceptionAreas">corridorExceptionAreas</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Areas of corridor shape to exclude from avoidance.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-geopolygon" title="class in com.here.sdk.core">GeoPolygon</a>&gt;</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#polygonExceptionAreas">polygonExceptionAreas</a></code></div>
+<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-geopolygon" title="class in com.here.sdk.core">GeoPolygon</a>&gt;</code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#polygonExceptionAreas">polygonExceptionAreas</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Areas of polygon shape to exclude from avoidance.</div>
 </div>
@@ -74,7 +73,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-avoidpolygonareaoptions"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.core.GeoPolygon)">AvoidPolygonAreaOptions</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-geopolygon" title="class in com.here.sdk.core">GeoPolygon</a> avoidPolygonArea)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.core.GeoPolygon)">AvoidPolygonAreaOptions</a><wbr/>(<a href="sdk-for-android-navigate-geopolygon" title="class in com.here.sdk.core">GeoPolygon</a> avoidPolygonArea)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -93,10 +92,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-avoidpolygonareaoptions"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 </div>
 </div>
@@ -119,9 +118,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-avoidpolygonareaoptions"
 <section class="detail" id="avoidPolygonArea">
 <h3>avoidPolygonArea</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-geopolygon" title="class in com.here.sdk.core">GeoPolygon</a></span> <span class="element-name">avoidPolygonArea</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-geopolygon" title="class in com.here.sdk.core">GeoPolygon</a></span> <span class="element-name">avoidPolygonArea</span></div>
 <div class="block"><p>Area of polygon shape which routes must not cross. Strictly enforced.
- Violations are reported as <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-sectionnoticecode#VIOLATED_BLOCKED_ROAD"><code>SectionNoticeCode.VIOLATED_BLOCKED_ROAD</code></a>.
+ Violations are reported as <a href="sdk-for-android-navigate-sectionnoticecode#VIOLATED_BLOCKED_ROAD"><code>SectionNoticeCode.VIOLATED_BLOCKED_ROAD</code></a>.
  <strong>Note:</strong> This avoidance option is not supported for <code>IsolineOptions</code>. If it is defined for isoline calculation then an [sdk.routing.RoutingError.INVALID_PARAMETER] error is generated.</p></div>
 </section>
 </li>
@@ -129,7 +128,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-avoidpolygonareaoptions"
 <section class="detail" id="boundingBoxExceptionAreas">
 <h3>boundingBoxExceptionAreas</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-geobox" title="class in com.here.sdk.core">GeoBox</a>&gt;</span> <span class="element-name">boundingBoxExceptionAreas</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-geobox" title="class in com.here.sdk.core">GeoBox</a>&gt;</span> <span class="element-name">boundingBoxExceptionAreas</span></div>
 <div class="block"><p>Areas of rectangular shape to exclude from avoidance.</p></div>
 </section>
 </li>
@@ -137,7 +136,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-avoidpolygonareaoptions"
 <section class="detail" id="polygonExceptionAreas">
 <h3>polygonExceptionAreas</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-geopolygon" title="class in com.here.sdk.core">GeoPolygon</a>&gt;</span> <span class="element-name">polygonExceptionAreas</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-geopolygon" title="class in com.here.sdk.core">GeoPolygon</a>&gt;</span> <span class="element-name">polygonExceptionAreas</span></div>
 <div class="block"><p>Areas of polygon shape to exclude from avoidance.</p></div>
 </section>
 </li>
@@ -145,7 +144,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-avoidpolygonareaoptions"
 <section class="detail" id="corridorExceptionAreas">
 <h3>corridorExceptionAreas</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-geocorridor" title="class in com.here.sdk.core">GeoCorridor</a>&gt;</span> <span class="element-name">corridorExceptionAreas</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-geocorridor" title="class in com.here.sdk.core">GeoCorridor</a>&gt;</span> <span class="element-name">corridorExceptionAreas</span></div>
 <div class="block"><p>Areas of corridor shape to exclude from avoidance.
  <strong>Note:</strong>
  Even though <code>GeoCorridor.half_width_in_meters</code> is an optional property in case of exception areas it is mandatory.
@@ -164,12 +163,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-avoidpolygonareaoptions"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.core.GeoPolygon)">
 <h3>AvoidPolygonAreaOptions</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">AvoidPolygonAreaOptions</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-geopolygon" title="class in com.here.sdk.core">GeoPolygon</a> avoidPolygonArea)</span></div>
+ <a href="sdk-for-android-navigate-geopolygon" title="class in com.here.sdk.core">GeoPolygon</a> avoidPolygonArea)</span></div>
 <div class="block"><p>Creates a new instance.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>avoidPolygonArea</code> - <p>Area of polygon shape which routes must not cross. Strictly enforced.
- Violations are reported as <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-sectionnoticecode#VIOLATED_BLOCKED_ROAD"><code>SectionNoticeCode.VIOLATED_BLOCKED_ROAD</code></a>.
+ Violations are reported as <a href="sdk-for-android-navigate-sectionnoticecode#VIOLATED_BLOCKED_ROAD"><code>SectionNoticeCode.VIOLATED_BLOCKED_ROAD</code></a>.
  <strong>Note:</strong> This avoidance option is not supported for <code>IsolineOptions</code>. If it is defined for isoline calculation then an [sdk.routing.RoutingError.INVALID_PARAMETER] error is generated.</p></dd>
 </dl>
 </section>

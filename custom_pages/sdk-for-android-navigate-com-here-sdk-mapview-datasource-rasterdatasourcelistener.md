@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-datasource-rasterdatasource
 `
 <div class="sdk-for-android">
 <!-- RasterDataSourceListener.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,7 +19,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-datasource-rasterdatasource
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.mapview.datasource</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-package-summary">com.here.sdk.mapview.datasource</a></div>
 
 </div>
 <section class="class-description" id="class-description">
@@ -42,12 +41,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-datasource-rasterdatasource
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#onRasterDataSourceError(com.here.sdk.mapview.datasource.RasterDataSourceError)">onRasterDataSourceError</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-rasterdatasourceerror" title="enum class in com.here.sdk.mapview.datasource">RasterDataSourceError</a> dataSourceError)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onRasterDataSourceError(com.here.sdk.mapview.datasource.RasterDataSourceError)">onRasterDataSourceError</a><wbr/>(<a href="sdk-for-android-navigate-rasterdatasourceerror" title="enum class in com.here.sdk.mapview.datasource">RasterDataSourceError</a> dataSourceError)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">The method to call on the listener when a data source error occurs.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#onRasterDataSourceReady()">onRasterDataSourceReady</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onRasterDataSourceReady()">onRasterDataSourceReady</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">The method to call on the listener when data source is ready to use.</div>
 </div>
@@ -76,7 +75,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-datasource-rasterdatasource
 <section class="detail" id="onRasterDataSourceError(com.here.sdk.mapview.datasource.RasterDataSourceError)">
 <h3>onRasterDataSourceError</h3>
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">onRasterDataSourceError</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-rasterdatasourceerror" title="enum class in com.here.sdk.mapview.datasource">RasterDataSourceError</a> dataSourceError)</span></div>
+ <a href="sdk-for-android-navigate-rasterdatasourceerror" title="enum class in com.here.sdk.mapview.datasource">RasterDataSourceError</a> dataSourceError)</span></div>
 <div class="block"><p>The method to call on the listener when a data source error occurs.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

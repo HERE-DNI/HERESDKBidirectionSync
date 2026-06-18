@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapscenelights"
 `
 <div class="sdk-for-android">
 <!-- MapSceneLights.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,18 +19,18 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapscenelights"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.mapview</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-nativebase" title="class in com.here">com.here.NativeBase</a>
+<div class="inheritance"><a href="sdk-for-android-navigate-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.mapview.MapSceneLights</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 <hr/>
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">MapSceneLights</span>
-<span class="extends-implements">extends <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-nativebase" title="class in com.here">NativeBase</a></span></div>
+<span class="extends-implements">extends <a href="sdk-for-android-navigate-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>Manage the lights and their attributes in a scene.</p></div>
 </section>
 <section class="summary">
@@ -46,23 +45,23 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapscenelights"
 <div class="table-header col-second">Class</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>static interface </code></div>
-<div class="col-second even-row-color"><code><a class="type-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapscenelights.attributesettingcallback" title="interface in com.here.sdk.mapview">MapSceneLights.AttributeSettingCallback</a></code></div>
+<div class="col-second even-row-color"><code><a class="type-name-link" href="sdk-for-android-navigate-mapscenelights.attributesettingcallback" title="interface in com.here.sdk.mapview">MapSceneLights.AttributeSettingCallback</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">This callback function allows handling errors that occur during the setting of light attributes.</div>
 </div>
 <div class="col-first odd-row-color"><code>static enum </code></div>
-<div class="col-second odd-row-color"><code><a class="type-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapscenelights.attributesettingerror" title="enum class in com.here.sdk.mapview">MapSceneLights.AttributeSettingError</a></code></div>
+<div class="col-second odd-row-color"><code><a class="type-name-link" href="sdk-for-android-navigate-mapscenelights.attributesettingerror" title="enum class in com.here.sdk.mapview">MapSceneLights.AttributeSettingError</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Error enum indicating reasons for failure when setting light attributes.</div>
 </div>
 <div class="col-first even-row-color"><code>static enum </code></div>
-<div class="col-second even-row-color"><code><a class="type-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapscenelights.category" title="enum class in com.here.sdk.mapview">MapSceneLights.Category</a></code></div>
+<div class="col-second even-row-color"><code><a class="type-name-link" href="sdk-for-android-navigate-mapscenelights.category" title="enum class in com.here.sdk.mapview">MapSceneLights.Category</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The scene uses three categories of lighting which are:
  Main light, Back light and Rim light.</div>
 </div>
 <div class="col-first odd-row-color"><code>static final class </code></div>
-<div class="col-second odd-row-color"><code><a class="type-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapscenelights.direction" title="class in com.here.sdk.mapview">MapSceneLights.Direction</a></code></div>
+<div class="col-second odd-row-color"><code><a class="type-name-link" href="sdk-for-android-navigate-mapscenelights.direction" title="class in com.here.sdk.mapview">MapSceneLights.Direction</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The direction of lights as a pair of azimuth and altitude angles.</div>
 </div>
@@ -80,44 +79,44 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapscenelights"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-color" title="class in com.here.sdk.core">Color</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#getColor(com.here.sdk.mapview.MapSceneLights.Category)">getColor</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapscenelights.category" title="enum class in com.here.sdk.mapview">MapSceneLights.Category</a> category)</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-color" title="class in com.here.sdk.core">Color</a></code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getColor(com.here.sdk.mapview.MapSceneLights.Category)">getColor</a><wbr/>(<a href="sdk-for-android-navigate-mapscenelights.category" title="enum class in com.here.sdk.mapview">MapSceneLights.Category</a> category)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Retrieves the current color of the light based on its category.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapscenelights.direction" title="class in com.here.sdk.mapview">MapSceneLights.Direction</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#getDirection(com.here.sdk.mapview.MapSceneLights.Category)">getDirection</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapscenelights.category" title="enum class in com.here.sdk.mapview">MapSceneLights.Category</a> category)</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-mapscenelights.direction" title="class in com.here.sdk.mapview">MapSceneLights.Direction</a></code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getDirection(com.here.sdk.mapview.MapSceneLights.Category)">getDirection</a><wbr/>(<a href="sdk-for-android-navigate-mapscenelights.category" title="enum class in com.here.sdk.mapview">MapSceneLights.Category</a> category)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Retrieves the current direction of the light based on its category.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#getIntensity(com.here.sdk.mapview.MapSceneLights.Category)">getIntensity</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapscenelights.category" title="enum class in com.here.sdk.mapview">MapSceneLights.Category</a> category)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getIntensity(com.here.sdk.mapview.MapSceneLights.Category)">getIntensity</a><wbr/>(<a href="sdk-for-android-navigate-mapscenelights.category" title="enum class in com.here.sdk.mapview">MapSceneLights.Category</a> category)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Retrieves the current intensity of the light based on its category.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#reset()">reset</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#reset()">reset</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Resets all attributes of each light to their default values based on the current map scene settings.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#setColor(com.here.sdk.mapview.MapSceneLights.Category,com.here.sdk.core.Color,com.here.sdk.mapview.MapSceneLights.AttributeSettingCallback)">setColor</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapscenelights.category" title="enum class in com.here.sdk.mapview">MapSceneLights.Category</a> category,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-color" title="class in com.here.sdk.core">Color</a> color,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapscenelights.attributesettingcallback" title="interface in com.here.sdk.mapview">MapSceneLights.AttributeSettingCallback</a> callback)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setColor(com.here.sdk.mapview.MapSceneLights.Category,com.here.sdk.core.Color,com.here.sdk.mapview.MapSceneLights.AttributeSettingCallback)">setColor</a><wbr/>(<a href="sdk-for-android-navigate-mapscenelights.category" title="enum class in com.here.sdk.mapview">MapSceneLights.Category</a> category,
+ <a href="sdk-for-android-navigate-color" title="class in com.here.sdk.core">Color</a> color,
+ <a href="sdk-for-android-navigate-mapscenelights.attributesettingcallback" title="interface in com.here.sdk.mapview">MapSceneLights.AttributeSettingCallback</a> callback)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Set a new color for the light based on its category.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#setDirection(com.here.sdk.mapview.MapSceneLights.Category,com.here.sdk.mapview.MapSceneLights.Direction,com.here.sdk.mapview.MapSceneLights.AttributeSettingCallback)">setDirection</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapscenelights.category" title="enum class in com.here.sdk.mapview">MapSceneLights.Category</a> category,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapscenelights.direction" title="class in com.here.sdk.mapview">MapSceneLights.Direction</a> direction,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapscenelights.attributesettingcallback" title="interface in com.here.sdk.mapview">MapSceneLights.AttributeSettingCallback</a> callback)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setDirection(com.here.sdk.mapview.MapSceneLights.Category,com.here.sdk.mapview.MapSceneLights.Direction,com.here.sdk.mapview.MapSceneLights.AttributeSettingCallback)">setDirection</a><wbr/>(<a href="sdk-for-android-navigate-mapscenelights.category" title="enum class in com.here.sdk.mapview">MapSceneLights.Category</a> category,
+ <a href="sdk-for-android-navigate-mapscenelights.direction" title="class in com.here.sdk.mapview">MapSceneLights.Direction</a> direction,
+ <a href="sdk-for-android-navigate-mapscenelights.attributesettingcallback" title="interface in com.here.sdk.mapview">MapSceneLights.AttributeSettingCallback</a> callback)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Set a new direction for the light based on its category.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#setIntensity(com.here.sdk.mapview.MapSceneLights.Category,double,com.here.sdk.mapview.MapSceneLights.AttributeSettingCallback)">setIntensity</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapscenelights.category" title="enum class in com.here.sdk.mapview">MapSceneLights.Category</a> category,
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setIntensity(com.here.sdk.mapview.MapSceneLights.Category,double,com.here.sdk.mapview.MapSceneLights.AttributeSettingCallback)">setIntensity</a><wbr/>(<a href="sdk-for-android-navigate-mapscenelights.category" title="enum class in com.here.sdk.mapview">MapSceneLights.Category</a> category,
  double intensity,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapscenelights.attributesettingcallback" title="interface in com.here.sdk.mapview">MapSceneLights.AttributeSettingCallback</a> callback)</code></div>
+ <a href="sdk-for-android-navigate-mapscenelights.attributesettingcallback" title="interface in com.here.sdk.mapview">MapSceneLights.AttributeSettingCallback</a> callback)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Set a new intensity for the light based on its category.</div>
 </div>
@@ -142,11 +141,11 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapscenelights"
 <section class="detail" id="setColor(com.here.sdk.mapview.MapSceneLights.Category,com.here.sdk.core.Color,com.here.sdk.mapview.MapSceneLights.AttributeSettingCallback)">
 <h3>setColor</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setColor</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapscenelights.category" title="enum class in com.here.sdk.mapview">MapSceneLights.Category</a> category,
+ <a href="sdk-for-android-navigate-mapscenelights.category" title="enum class in com.here.sdk.mapview">MapSceneLights.Category</a> category,
  @NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-color" title="class in com.here.sdk.core">Color</a> color,
+ <a href="sdk-for-android-navigate-color" title="class in com.here.sdk.core">Color</a> color,
  @Nullable
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapscenelights.attributesettingcallback" title="interface in com.here.sdk.mapview">MapSceneLights.AttributeSettingCallback</a> callback)</span></div>
+ <a href="sdk-for-android-navigate-mapscenelights.attributesettingcallback" title="interface in com.here.sdk.mapview">MapSceneLights.AttributeSettingCallback</a> callback)</span></div>
 <div class="block"><p>Set a new color for the light based on its category.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -161,10 +160,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapscenelights"
 <section class="detail" id="setIntensity(com.here.sdk.mapview.MapSceneLights.Category,double,com.here.sdk.mapview.MapSceneLights.AttributeSettingCallback)">
 <h3>setIntensity</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setIntensity</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapscenelights.category" title="enum class in com.here.sdk.mapview">MapSceneLights.Category</a> category,
+ <a href="sdk-for-android-navigate-mapscenelights.category" title="enum class in com.here.sdk.mapview">MapSceneLights.Category</a> category,
  double intensity,
  @Nullable
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapscenelights.attributesettingcallback" title="interface in com.here.sdk.mapview">MapSceneLights.AttributeSettingCallback</a> callback)</span></div>
+ <a href="sdk-for-android-navigate-mapscenelights.attributesettingcallback" title="interface in com.here.sdk.mapview">MapSceneLights.AttributeSettingCallback</a> callback)</span></div>
 <div class="block"><p>Set a new intensity for the light based on its category.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -182,11 +181,11 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapscenelights"
 <section class="detail" id="setDirection(com.here.sdk.mapview.MapSceneLights.Category,com.here.sdk.mapview.MapSceneLights.Direction,com.here.sdk.mapview.MapSceneLights.AttributeSettingCallback)">
 <h3>setDirection</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setDirection</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapscenelights.category" title="enum class in com.here.sdk.mapview">MapSceneLights.Category</a> category,
+ <a href="sdk-for-android-navigate-mapscenelights.category" title="enum class in com.here.sdk.mapview">MapSceneLights.Category</a> category,
  @NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapscenelights.direction" title="class in com.here.sdk.mapview">MapSceneLights.Direction</a> direction,
+ <a href="sdk-for-android-navigate-mapscenelights.direction" title="class in com.here.sdk.mapview">MapSceneLights.Direction</a> direction,
  @Nullable
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapscenelights.attributesettingcallback" title="interface in com.here.sdk.mapview">MapSceneLights.AttributeSettingCallback</a> callback)</span></div>
+ <a href="sdk-for-android-navigate-mapscenelights.attributesettingcallback" title="interface in com.here.sdk.mapview">MapSceneLights.AttributeSettingCallback</a> callback)</span></div>
 <div class="block"><p>Set a new direction for the light based on its category.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -200,8 +199,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapscenelights"
 <section class="detail" id="getColor(com.here.sdk.mapview.MapSceneLights.Category)">
 <h3>getColor</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-color" title="class in com.here.sdk.core">Color</a></span> <span class="element-name">getColor</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapscenelights.category" title="enum class in com.here.sdk.mapview">MapSceneLights.Category</a> category)</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-color" title="class in com.here.sdk.core">Color</a></span> <span class="element-name">getColor</span><wbr/><span class="parameters">(@NonNull
+ <a href="sdk-for-android-navigate-mapscenelights.category" title="enum class in com.here.sdk.mapview">MapSceneLights.Category</a> category)</span></div>
 <div class="block"><p>Retrieves the current color of the light based on its category.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -217,7 +216,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapscenelights"
 <h3>getIntensity</h3>
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a></span> <span class="element-name">getIntensity</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapscenelights.category" title="enum class in com.here.sdk.mapview">MapSceneLights.Category</a> category)</span></div>
+ <a href="sdk-for-android-navigate-mapscenelights.category" title="enum class in com.here.sdk.mapview">MapSceneLights.Category</a> category)</span></div>
 <div class="block"><p>Retrieves the current intensity of the light based on its category.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -232,8 +231,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapscenelights"
 <section class="detail" id="getDirection(com.here.sdk.mapview.MapSceneLights.Category)">
 <h3>getDirection</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapscenelights.direction" title="class in com.here.sdk.mapview">MapSceneLights.Direction</a></span> <span class="element-name">getDirection</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapscenelights.category" title="enum class in com.here.sdk.mapview">MapSceneLights.Category</a> category)</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-mapscenelights.direction" title="class in com.here.sdk.mapview">MapSceneLights.Direction</a></span> <span class="element-name">getDirection</span><wbr/><span class="parameters">(@NonNull
+ <a href="sdk-for-android-navigate-mapscenelights.category" title="enum class in com.here.sdk.mapview">MapSceneLights.Category</a> category)</span></div>
 <div class="block"><p>Retrieves the current direction of the light based on its category.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

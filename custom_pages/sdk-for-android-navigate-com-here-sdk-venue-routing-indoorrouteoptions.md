@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-routing-indoorrouteoptions"
 `
 <div class="sdk-for-android">
 <!-- IndoorRouteOptions.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,7 +19,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-routing-indoorrouteoptions"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.venue.routing</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-venue-routing-package-summary">com.here.sdk.venue.routing</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -43,24 +42,24 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-routing-indoorrouteoptions"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-indooravoidanceoptions" title="class in com.here.sdk.venue.routing">IndoorAvoidanceOptions</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#indoorAvoidanceOptions">indoorAvoidanceOptions</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-indooravoidanceoptions" title="class in com.here.sdk.venue.routing">IndoorAvoidanceOptions</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#indoorAvoidanceOptions">indoorAvoidanceOptions</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Options to specify restrictions for indoor route calculations.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-routeoptions" title="class in com.here.sdk.routing">RouteOptions</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#routeOptions">routeOptions</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-routeoptions" title="class in com.here.sdk.routing">RouteOptions</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#routeOptions">routeOptions</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Specifies the common route calculation options.</div>
 </div>
 <div class="col-first even-row-color"><code>double</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#speedInMetersPerSecond">speedInMetersPerSecond</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#speedInMetersPerSecond">speedInMetersPerSecond</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Specifies the speed that will be used by the service as the speed
- for <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuetransportmode" title="enum class in com.here.sdk.venue.routing"><code>VenueTransportMode</code></a> in meters per second.</div>
+ for <a href="sdk-for-android-navigate-venuetransportmode" title="enum class in com.here.sdk.venue.routing"><code>VenueTransportMode</code></a> in meters per second.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuetransportmode" title="enum class in com.here.sdk.venue.routing">VenueTransportMode</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#transportMode">transportMode</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-venuetransportmode" title="enum class in com.here.sdk.venue.routing">VenueTransportMode</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#transportMode">transportMode</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The transport mode for route calculation.</div>
 </div>
@@ -75,7 +74,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-routing-indoorrouteoptions"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#%3Cinit%3E()">IndoorRouteOptions</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E()">IndoorRouteOptions</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates an object and assign default values for route options.</div>
 </div>
@@ -94,10 +93,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-routing-indoorrouteoptions"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 </div>
 </div>
@@ -120,9 +119,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-routing-indoorrouteoptions"
 <section class="detail" id="routeOptions">
 <h3>routeOptions</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-routeoptions" title="class in com.here.sdk.routing">RouteOptions</a></span> <span class="element-name">routeOptions</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-routeoptions" title="class in com.here.sdk.routing">RouteOptions</a></span> <span class="element-name">routeOptions</span></div>
 <div class="block"><p>Specifies the common route calculation options.
- </p><p><strong>Note:</strong> Currently, only <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-routeoptions#optimizationMode"><code>RouteOptions.optimizationMode</code></a> parameter is
+ </p><p><strong>Note:</strong> Currently, only <a href="sdk-for-android-navigate-routeoptions#optimizationMode"><code>RouteOptions.optimizationMode</code></a> parameter is
  utilized for indoor route calculation.</p></div>
 </section>
 </li>
@@ -130,10 +129,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-routing-indoorrouteoptions"
 <section class="detail" id="transportMode">
 <h3>transportMode</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuetransportmode" title="enum class in com.here.sdk.venue.routing">VenueTransportMode</a></span> <span class="element-name">transportMode</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-venuetransportmode" title="enum class in com.here.sdk.venue.routing">VenueTransportMode</a></span> <span class="element-name">transportMode</span></div>
 <div class="block"><p>The transport mode for route calculation.
  </p><p><strong>Note:</strong> Indoor route sections of the resulting route will always be
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuetransportmode#PEDESTRIAN"><code>VenueTransportMode.PEDESTRIAN</code></a> in the current implementation.
+ <a href="sdk-for-android-navigate-venuetransportmode#PEDESTRIAN"><code>VenueTransportMode.PEDESTRIAN</code></a> in the current implementation.
  This option will affect only outdoor route sections.</p></div>
 </section>
 </li>
@@ -141,7 +140,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-routing-indoorrouteoptions"
 <section class="detail" id="indoorAvoidanceOptions">
 <h3>indoorAvoidanceOptions</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-indooravoidanceoptions" title="class in com.here.sdk.venue.routing">IndoorAvoidanceOptions</a></span> <span class="element-name">indoorAvoidanceOptions</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-indooravoidanceoptions" title="class in com.here.sdk.venue.routing">IndoorAvoidanceOptions</a></span> <span class="element-name">indoorAvoidanceOptions</span></div>
 <div class="block"><p>Options to specify restrictions for indoor route calculations. By default
  no restrictions are applied.</p></div>
 </section>
@@ -151,7 +150,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-routing-indoorrouteoptions"
 <h3>speedInMetersPerSecond</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">double</span> <span class="element-name">speedInMetersPerSecond</span></div>
 <div class="block"><p>Specifies the speed that will be used by the service as the speed
- for <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuetransportmode" title="enum class in com.here.sdk.venue.routing"><code>VenueTransportMode</code></a> in meters per second.
+ for <a href="sdk-for-android-navigate-venuetransportmode" title="enum class in com.here.sdk.venue.routing"><code>VenueTransportMode</code></a> in meters per second.
  It influences the duration of segments along the route.
  The default speed is 1 meter per second.</p></div>
 </section>

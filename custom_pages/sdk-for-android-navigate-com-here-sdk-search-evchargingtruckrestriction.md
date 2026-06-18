@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-evchargingtruckrestriction"
 `
 <div class="sdk-for-android">
 <!-- EVChargingTruckRestriction.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,7 +19,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-evchargingtruckrestriction"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.search</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-search-package-summary">com.here.sdk.search</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -46,12 +45,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-evchargingtruckrestriction"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Boolean.html" title="class or interface in java.lang">Boolean</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#hazardousGoodsRestricted">hazardousGoodsRestricted</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hazardousGoodsRestricted">hazardousGoodsRestricted</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Indication if vehicles carrying hazardous / dangerous goods (ADR) can enter the EV Charging Location.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-truckclass" title="enum class in com.here.sdk.transport">TruckClass</a>&gt;</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#truckAccess">truckAccess</a></code></div>
+<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-truckclass" title="enum class in com.here.sdk.transport">TruckClass</a>&gt;</code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#truckAccess">truckAccess</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Access categories for trucks and light commercial vehicles that the
  EV charging location is designed to serve.</div>
@@ -67,7 +66,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-evchargingtruckrestriction"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#%3Cinit%3E()">EVChargingTruckRestriction</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E()">EVChargingTruckRestriction</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -86,10 +85,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-evchargingtruckrestriction"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 </div>
 </div>
@@ -112,7 +111,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-evchargingtruckrestriction"
 <section class="detail" id="truckAccess">
 <h3>truckAccess</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-truckclass" title="enum class in com.here.sdk.transport">TruckClass</a>&gt;</span> <span class="element-name">truckAccess</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-truckclass" title="enum class in com.here.sdk.transport">TruckClass</a>&gt;</span> <span class="element-name">truckAccess</span></div>
 <div class="block"><p>Access categories for trucks and light commercial vehicles that the
  EV charging location is designed to serve.
  </p><p>While the classifications used as basis for the categories are solely based on vehicle mass,
@@ -121,11 +120,11 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-evchargingtruckrestriction"
  weight limits at the EV charging location, they are specified separately in vehicleLimitations.
  </p><p>The classification is available only to a subset of EV charging locations, depending on the
  information available from the operators. Hence, at least vehicles belonging to the
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-truckclass#LIGHT_CLASS"><code>TruckClass.LIGHT_CLASS</code></a> category can be charged also in many EV charging locations not having
- explicit signaling for the <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-truckclass#LIGHT_CLASS"><code>TruckClass.LIGHT_CLASS</code></a> category.
+ <a href="sdk-for-android-navigate-truckclass#LIGHT_CLASS"><code>TruckClass.LIGHT_CLASS</code></a> category can be charged also in many EV charging locations not having
+ explicit signaling for the <a href="sdk-for-android-navigate-truckclass#LIGHT_CLASS"><code>TruckClass.LIGHT_CLASS</code></a> category.
  </p><p>Furthermore, although the classification is based on mass/weight ranges in growing order,
  an upper class does not automatically mean that also all lower class vehicles are welcome to charge.
- For example, a location marked only with category <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-truckclass#HEAVY_CLASS"><code>TruckClass.HEAVY_CLASS</code></a>
+ For example, a location marked only with category <a href="sdk-for-android-navigate-truckclass#HEAVY_CLASS"><code>TruckClass.HEAVY_CLASS</code></a>
  is reserved for long-haul trucks only.</p></div>
 </section>
 </li>

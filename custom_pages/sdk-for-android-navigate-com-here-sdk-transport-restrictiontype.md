@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-transport-restrictiontype"
 `
 <div class="sdk-for-android">
 <!-- RestrictionType.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,22 +19,22 @@ slug: "sdk-for-android-navigate-com-here-sdk-transport-restrictiontype"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.transport</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-transport-package-summary">com.here.sdk.transport</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">java.lang.Enum</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-restrictiontype" title="enum class in com.here.sdk.transport">RestrictionType</a>&gt;
+<div class="inheritance"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">java.lang.Enum</a>&lt;<a href="sdk-for-android-navigate-restrictiontype" title="enum class in com.here.sdk.transport">RestrictionType</a>&gt;
 <div class="inheritance">com.here.sdk.transport.RestrictionType</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>All Implemented Interfaces:</dt>
-<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" title="class or interface in java.io">Serializable</a></code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" title="class or interface in java.lang">Comparable</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-restrictiontype" title="enum class in com.here.sdk.transport">RestrictionType</a>&gt;</code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" title="class or interface in java.lang.constant">Constable</a></code></dd>
+<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" title="class or interface in java.io">Serializable</a></code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" title="class or interface in java.lang">Comparable</a>&lt;<a href="sdk-for-android-navigate-restrictiontype" title="enum class in com.here.sdk.transport">RestrictionType</a>&gt;</code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" title="class or interface in java.lang.constant">Constable</a></code></dd>
 </dl>
 <hr/>
 <div class="type-signature"><span class="modifiers">public enum </span><span class="element-name type-name-label">RestrictionType</span>
-<span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-restrictiontype" title="enum class in com.here.sdk.transport">RestrictionType</a>&gt;</span></div>
+<span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a href="sdk-for-android-navigate-restrictiontype" title="enum class in com.here.sdk.transport">RestrictionType</a>&gt;</span></div>
 <div class="block"><p>Type of vehicle restriction.
  </p><p><strong>Note:</strong> This is a beta release of this feature.
  Related APIs may change for new releases without a deprecation process.</p></div>
@@ -59,55 +58,55 @@ slug: "sdk-for-android-navigate-com-here-sdk-transport-restrictiontype"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Enum Constant</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#DISTANCE_BETWEEN_AXLES">DISTANCE_BETWEEN_AXLES</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#DISTANCE_BETWEEN_AXLES">DISTANCE_BETWEEN_AXLES</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Distance between axles, in centimeters.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#EMPTY_WEIGHT">EMPTY_WEIGHT</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#EMPTY_WEIGHT">EMPTY_WEIGHT</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Empty vehicle weight (tare weight), in kilograms.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#GROSS_WEIGHT">GROSS_WEIGHT</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#GROSS_WEIGHT">GROSS_WEIGHT</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Gross vehicle mass, in kilograms.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#HEIGHT">HEIGHT</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#HEIGHT">HEIGHT</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">A height, in centimeters.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#KINGPIN_TO_REAR_AXLE_DISTANCE_IN_CENTIMETERS">KINGPIN_TO_REAR_AXLE_DISTANCE_IN_CENTIMETERS</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#KINGPIN_TO_REAR_AXLE_DISTANCE_IN_CENTIMETERS">KINGPIN_TO_REAR_AXLE_DISTANCE_IN_CENTIMETERS</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Distance from kingpin to rear axle, in centimeters.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#LENGTH">LENGTH</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#LENGTH">LENGTH</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">A length, in centimeters.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#PAYLOAD_CAPACITY">PAYLOAD_CAPACITY</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#PAYLOAD_CAPACITY">PAYLOAD_CAPACITY</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Payload capacity weight, in kilograms.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#WEIGHT">WEIGHT</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#WEIGHT">WEIGHT</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Actual weight, in kilograms.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#WEIGHT_PER_AXLE">WEIGHT_PER_AXLE</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#WEIGHT_PER_AXLE">WEIGHT_PER_AXLE</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Weight per axle, in kilograms.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#WEIGHT_PER_AXLE_COUNT">WEIGHT_PER_AXLE_COUNT</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#WEIGHT_PER_AXLE_COUNT">WEIGHT_PER_AXLE_COUNT</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Weight per number of axles, in kilograms.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#WEIGHT_PER_AXLE_GROUP">WEIGHT_PER_AXLE_GROUP</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#WEIGHT_PER_AXLE_GROUP">WEIGHT_PER_AXLE_GROUP</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Weight per axle group, in kilograms.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#WHEELS_PER_AXLE">WHEELS_PER_AXLE</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#WHEELS_PER_AXLE">WHEELS_PER_AXLE</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Wheels per axle.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#WIDTH">WIDTH</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#WIDTH">WIDTH</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A width, in centimeters.</div>
 </div>
@@ -125,13 +124,13 @@ slug: "sdk-for-android-navigate-com-here-sdk-transport-restrictiontype"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-restrictiontype" title="enum class in com.here.sdk.transport">RestrictionType</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-restrictiontype" title="enum class in com.here.sdk.transport">RestrictionType</a></code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-restrictiontype" title="enum class in com.here.sdk.transport">RestrictionType</a>[]</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#values()">values</a>()</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-restrictiontype" title="enum class in com.here.sdk.transport">RestrictionType</a>[]</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
@@ -159,93 +158,93 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="WEIGHT">
 <h3>WEIGHT</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-restrictiontype" title="enum class in com.here.sdk.transport">RestrictionType</a></span> <span class="element-name">WEIGHT</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-restrictiontype" title="enum class in com.here.sdk.transport">RestrictionType</a></span> <span class="element-name">WEIGHT</span></div>
 <div class="block"><p>Actual weight, in kilograms.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="GROSS_WEIGHT">
 <h3>GROSS_WEIGHT</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-restrictiontype" title="enum class in com.here.sdk.transport">RestrictionType</a></span> <span class="element-name">GROSS_WEIGHT</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-restrictiontype" title="enum class in com.here.sdk.transport">RestrictionType</a></span> <span class="element-name">GROSS_WEIGHT</span></div>
 <div class="block"><p>Gross vehicle mass, in kilograms.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="WEIGHT_PER_AXLE">
 <h3>WEIGHT_PER_AXLE</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-restrictiontype" title="enum class in com.here.sdk.transport">RestrictionType</a></span> <span class="element-name">WEIGHT_PER_AXLE</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-restrictiontype" title="enum class in com.here.sdk.transport">RestrictionType</a></span> <span class="element-name">WEIGHT_PER_AXLE</span></div>
 <div class="block"><p>Weight per axle, in kilograms.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="PAYLOAD_CAPACITY">
 <h3>PAYLOAD_CAPACITY</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-restrictiontype" title="enum class in com.here.sdk.transport">RestrictionType</a></span> <span class="element-name">PAYLOAD_CAPACITY</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-restrictiontype" title="enum class in com.here.sdk.transport">RestrictionType</a></span> <span class="element-name">PAYLOAD_CAPACITY</span></div>
 <div class="block"><p>Payload capacity weight, in kilograms.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="EMPTY_WEIGHT">
 <h3>EMPTY_WEIGHT</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-restrictiontype" title="enum class in com.here.sdk.transport">RestrictionType</a></span> <span class="element-name">EMPTY_WEIGHT</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-restrictiontype" title="enum class in com.here.sdk.transport">RestrictionType</a></span> <span class="element-name">EMPTY_WEIGHT</span></div>
 <div class="block"><p>Empty vehicle weight (tare weight), in kilograms.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="HEIGHT">
 <h3>HEIGHT</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-restrictiontype" title="enum class in com.here.sdk.transport">RestrictionType</a></span> <span class="element-name">HEIGHT</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-restrictiontype" title="enum class in com.here.sdk.transport">RestrictionType</a></span> <span class="element-name">HEIGHT</span></div>
 <div class="block"><p>A height, in centimeters.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="WIDTH">
 <h3>WIDTH</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-restrictiontype" title="enum class in com.here.sdk.transport">RestrictionType</a></span> <span class="element-name">WIDTH</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-restrictiontype" title="enum class in com.here.sdk.transport">RestrictionType</a></span> <span class="element-name">WIDTH</span></div>
 <div class="block"><p>A width, in centimeters.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="LENGTH">
 <h3>LENGTH</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-restrictiontype" title="enum class in com.here.sdk.transport">RestrictionType</a></span> <span class="element-name">LENGTH</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-restrictiontype" title="enum class in com.here.sdk.transport">RestrictionType</a></span> <span class="element-name">LENGTH</span></div>
 <div class="block"><p>A length, in centimeters.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="KINGPIN_TO_REAR_AXLE_DISTANCE_IN_CENTIMETERS">
 <h3>KINGPIN_TO_REAR_AXLE_DISTANCE_IN_CENTIMETERS</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-restrictiontype" title="enum class in com.here.sdk.transport">RestrictionType</a></span> <span class="element-name">KINGPIN_TO_REAR_AXLE_DISTANCE_IN_CENTIMETERS</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-restrictiontype" title="enum class in com.here.sdk.transport">RestrictionType</a></span> <span class="element-name">KINGPIN_TO_REAR_AXLE_DISTANCE_IN_CENTIMETERS</span></div>
 <div class="block"><p>Distance from kingpin to rear axle, in centimeters.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="WHEELS_PER_AXLE">
 <h3>WHEELS_PER_AXLE</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-restrictiontype" title="enum class in com.here.sdk.transport">RestrictionType</a></span> <span class="element-name">WHEELS_PER_AXLE</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-restrictiontype" title="enum class in com.here.sdk.transport">RestrictionType</a></span> <span class="element-name">WHEELS_PER_AXLE</span></div>
 <div class="block"><p>Wheels per axle.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="DISTANCE_BETWEEN_AXLES">
 <h3>DISTANCE_BETWEEN_AXLES</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-restrictiontype" title="enum class in com.here.sdk.transport">RestrictionType</a></span> <span class="element-name">DISTANCE_BETWEEN_AXLES</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-restrictiontype" title="enum class in com.here.sdk.transport">RestrictionType</a></span> <span class="element-name">DISTANCE_BETWEEN_AXLES</span></div>
 <div class="block"><p>Distance between axles, in centimeters.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="WEIGHT_PER_AXLE_COUNT">
 <h3>WEIGHT_PER_AXLE_COUNT</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-restrictiontype" title="enum class in com.here.sdk.transport">RestrictionType</a></span> <span class="element-name">WEIGHT_PER_AXLE_COUNT</span></div>
-<div class="block"><p>Weight per number of axles, in kilograms. See <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-vehiclerestriction#axleCount"><code>VehicleRestriction.axleCount</code></a>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-restrictiontype" title="enum class in com.here.sdk.transport">RestrictionType</a></span> <span class="element-name">WEIGHT_PER_AXLE_COUNT</span></div>
+<div class="block"><p>Weight per number of axles, in kilograms. See <a href="sdk-for-android-navigate-vehiclerestriction#axleCount"><code>VehicleRestriction.axleCount</code></a>
  for information on number of axles.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="WEIGHT_PER_AXLE_GROUP">
 <h3>WEIGHT_PER_AXLE_GROUP</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-restrictiontype" title="enum class in com.here.sdk.transport">RestrictionType</a></span> <span class="element-name">WEIGHT_PER_AXLE_GROUP</span></div>
-<div class="block"><p>Weight per axle group, in kilograms. See <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-vehiclerestriction#axleCountInGroup"><code>VehicleRestriction.axleCountInGroup</code></a>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-restrictiontype" title="enum class in com.here.sdk.transport">RestrictionType</a></span> <span class="element-name">WEIGHT_PER_AXLE_GROUP</span></div>
+<div class="block"><p>Weight per axle group, in kilograms. See <a href="sdk-for-android-navigate-vehiclerestriction#axleCountInGroup"><code>VehicleRestriction.axleCountInGroup</code></a>
  for information about axle group.</p></div>
 </section>
 </li>
@@ -260,7 +259,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="values()">
 <h3>values</h3>
-<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-restrictiontype" title="enum class in com.here.sdk.transport">RestrictionType</a>[]</span> <span class="element-name">values</span>()</div>
+<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-navigate-restrictiontype" title="enum class in com.here.sdk.transport">RestrictionType</a>[]</span> <span class="element-name">values</span>()</div>
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
 <dl class="notes">
@@ -272,7 +271,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="valueOf(java.lang.String)">
 <h3>valueOf</h3>
-<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-restrictiontype" title="enum class in com.here.sdk.transport">RestrictionType</a></span> <span class="element-name">valueOf</span><wbr/><span class="parameters">(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</span></div>
+<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-navigate-restrictiontype" title="enum class in com.here.sdk.transport">RestrictionType</a></span> <span class="element-name">valueOf</span><wbr/><span class="parameters">(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</span></div>
 <div class="block">Returns the enum constant of this class with the specified name.
 The string must match <i>exactly</i> an identifier used to declare an
 enum constant in this class.  (Extraneous whitespace characters are 

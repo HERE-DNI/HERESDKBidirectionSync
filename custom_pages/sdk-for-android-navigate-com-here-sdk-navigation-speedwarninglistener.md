@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-speedwarninglistener"
 `
 <div class="sdk-for-android">
 <!-- SpeedWarningListener.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,7 +19,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-speedwarninglistener"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.navigation</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-navigation-package-summary">com.here.sdk.navigation</a></div>
 
 </div>
 <section class="class-description" id="class-description">
@@ -46,7 +45,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-speedwarninglistener"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#onSpeedWarningStatusChanged(com.here.sdk.navigation.SpeedWarningStatus)">onSpeedWarningStatusChanged</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-speedwarningstatus" title="enum class in com.here.sdk.navigation">SpeedWarningStatus</a> status)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onSpeedWarningStatusChanged(com.here.sdk.navigation.SpeedWarningStatus)">onSpeedWarningStatusChanged</a><wbr/>(<a href="sdk-for-android-navigate-speedwarningstatus" title="enum class in com.here.sdk.navigation">SpeedWarningStatus</a> status)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Called whenever a new <code>SpeedWarningStatus</code> is available.</div>
 </div>
@@ -68,7 +67,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-speedwarninglistener"
 <section class="detail" id="onSpeedWarningStatusChanged(com.here.sdk.navigation.SpeedWarningStatus)">
 <h3>onSpeedWarningStatusChanged</h3>
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">onSpeedWarningStatusChanged</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-speedwarningstatus" title="enum class in com.here.sdk.navigation">SpeedWarningStatus</a> status)</span></div>
+ <a href="sdk-for-android-navigate-speedwarningstatus" title="enum class in com.here.sdk.navigation">SpeedWarningStatus</a> status)</span></div>
 <div class="block"><p>Called whenever a new <code>SpeedWarningStatus</code> is available.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

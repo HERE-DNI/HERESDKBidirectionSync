@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-offlinestoragesizecallbac
 `
 <div class="sdk-for-android">
 <!-- OfflineStorageSizeCallback.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,7 +19,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-offlinestoragesizecallbac
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.maploader</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-maploader-package-summary">com.here.sdk.maploader</a></div>
 
 </div>
 <section class="class-description" id="class-description">
@@ -31,7 +30,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-offlinestoragesizecallbac
 <hr/>
 <div class="type-signature"><span class="annotations"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/FunctionalInterface.html" title="class or interface in java.lang">@FunctionalInterface</a>
 </span><span class="modifiers">public interface </span><span class="element-name type-name-label">OfflineStorageSizeCallback</span></div>
-<div class="block"><p>A method which is called on the main thread when <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapdownloader#getOfflineMapsStorageSizeInBytes(com.here.sdk.maploader.OfflineStorageSizeCallback)"><code>MapDownloader.getOfflineMapsStorageSizeInBytes(OfflineStorageSizeCallback)</code></a> has been completed.
+<div class="block"><p>A method which is called on the main thread when <a href="sdk-for-android-navigate-mapdownloader#getOfflineMapsStorageSizeInBytes(com.here.sdk.maploader.OfflineStorageSizeCallback)"><code>MapDownloader.getOfflineMapsStorageSizeInBytes(OfflineStorageSizeCallback)</code></a> has been completed.
  The first argument indicates an error in case of a failure. The second argument contains the results.
  Both arguments cannot be <code>null</code> at the same time - or not <code>null</code> at the same time.</p></div>
 </section>
@@ -49,10 +48,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-offlinestoragesizecallbac
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#onOfflineStorageSizeCompleted(com.here.sdk.maploader.MapLoaderError,java.lang.Long)">onOfflineStorageSizeCompleted</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a> error,
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onOfflineStorageSizeCompleted(com.here.sdk.maploader.MapLoaderError,java.lang.Long)">onOfflineStorageSizeCompleted</a><wbr/>(<a href="sdk-for-android-navigate-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a> error,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Long.html" title="class or interface in java.lang">Long</a> size)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
-<div class="block">A method which is called on the main thread when <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapdownloader#getOfflineMapsStorageSizeInBytes(com.here.sdk.maploader.OfflineStorageSizeCallback)"><code>MapDownloader.getOfflineMapsStorageSizeInBytes(OfflineStorageSizeCallback)</code></a> has been completed.</div>
+<div class="block">A method which is called on the main thread when <a href="sdk-for-android-navigate-mapdownloader#getOfflineMapsStorageSizeInBytes(com.here.sdk.maploader.OfflineStorageSizeCallback)"><code>MapDownloader.getOfflineMapsStorageSizeInBytes(OfflineStorageSizeCallback)</code></a> has been completed.</div>
 </div>
 </div>
 </div>
@@ -72,10 +71,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-offlinestoragesizecallbac
 <section class="detail" id="onOfflineStorageSizeCompleted(com.here.sdk.maploader.MapLoaderError,java.lang.Long)">
 <h3>onOfflineStorageSizeCompleted</h3>
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">onOfflineStorageSizeCompleted</span><wbr/><span class="parameters">(@Nullable
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a> error,
+ <a href="sdk-for-android-navigate-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a> error,
  @Nullable
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Long.html" title="class or interface in java.lang">Long</a> size)</span></div>
-<div class="block"><p>A method which is called on the main thread when <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapdownloader#getOfflineMapsStorageSizeInBytes(com.here.sdk.maploader.OfflineStorageSizeCallback)"><code>MapDownloader.getOfflineMapsStorageSizeInBytes(OfflineStorageSizeCallback)</code></a> has been completed.
+<div class="block"><p>A method which is called on the main thread when <a href="sdk-for-android-navigate-mapdownloader#getOfflineMapsStorageSizeInBytes(com.here.sdk.maploader.OfflineStorageSizeCallback)"><code>MapDownloader.getOfflineMapsStorageSizeInBytes(OfflineStorageSizeCallback)</code></a> has been completed.
  The first argument indicates an error in case of a failure. The second argument contains the results.
  Both arguments cannot be <code>null</code> at the same time - or not <code>null</code> at the same time.</p></div>
 <dl class="notes">

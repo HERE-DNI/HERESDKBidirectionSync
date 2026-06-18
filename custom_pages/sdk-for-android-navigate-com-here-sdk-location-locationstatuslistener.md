@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-location-locationstatuslistener"
 `
 <div class="sdk-for-android">
 <!-- LocationStatusListener.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,7 +19,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-location-locationstatuslistener"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.location</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-location-package-summary">com.here.sdk.location</a></div>
 
 </div>
 <section class="class-description" id="class-description">
@@ -43,13 +42,13 @@ slug: "sdk-for-android-navigate-com-here-sdk-location-locationstatuslistener"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#onFeaturesNotAvailable(java.util.List)">onFeaturesNotAvailable</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-locationfeature" title="enum class in com.here.sdk.location">LocationFeature</a>&gt; features)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onFeaturesNotAvailable(java.util.List)">onFeaturesNotAvailable</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-locationfeature" title="enum class in com.here.sdk.location">LocationFeature</a>&gt; features)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Called after start() if any requested location feature is not available
  for the application.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#onStatusChanged(com.here.sdk.location.LocationEngineStatus)">onStatusChanged</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-locationenginestatus" title="enum class in com.here.sdk.location">LocationEngineStatus</a> locationEngineStatus)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onStatusChanged(com.here.sdk.location.LocationEngineStatus)">onStatusChanged</a><wbr/>(<a href="sdk-for-android-navigate-locationenginestatus" title="enum class in com.here.sdk.location">LocationEngineStatus</a> locationEngineStatus)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Called each time the status of the LocationEngine has changed.</div>
 </div>
@@ -71,7 +70,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-location-locationstatuslistener"
 <section class="detail" id="onStatusChanged(com.here.sdk.location.LocationEngineStatus)">
 <h3>onStatusChanged</h3>
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">onStatusChanged</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-locationenginestatus" title="enum class in com.here.sdk.location">LocationEngineStatus</a> locationEngineStatus)</span></div>
+ <a href="sdk-for-android-navigate-locationenginestatus" title="enum class in com.here.sdk.location">LocationEngineStatus</a> locationEngineStatus)</span></div>
 <div class="block"><p>Called each time the status of the LocationEngine has changed.
  Invoked on the main thread.</p></div>
 <dl class="notes">
@@ -84,7 +83,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-location-locationstatuslistener"
 <section class="detail" id="onFeaturesNotAvailable(java.util.List)">
 <h3>onFeaturesNotAvailable</h3>
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">onFeaturesNotAvailable</span><wbr/><span class="parameters">(@NonNull
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-locationfeature" title="enum class in com.here.sdk.location">LocationFeature</a>&gt; features)</span></div>
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-locationfeature" title="enum class in com.here.sdk.location">LocationFeature</a>&gt; features)</span></div>
 <div class="block"><p>Called after start() if any requested location feature is not available
  for the application. Typically all features are enabled by default, but in
  certain variants some features may be disabled, e.g. to reduce binary size.

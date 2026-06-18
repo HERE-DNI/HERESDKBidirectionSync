@@ -7,7 +7,6 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapfeaturemodes"
 `
 <div class="sdk-for-android">
 <!-- MapFeatureModes.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,7 +19,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapfeaturemodes"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-package-summary">com.here.sdk.mapview</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -30,12 +29,12 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapfeaturemodes"
 <hr/>
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">MapFeatureModes</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
-<div class="block"><p>Holds constants for map feature modes, to be used with <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-mapscene#enableFeatures(java.util.Map)"><code>MapScene.enableFeatures(java.util.Map&lt;java.lang.String, java.lang.String&gt;)</code></a>.
- </p><p>Use <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#DEFAULT"><code>DEFAULT</code></a> to enable a feature with its default mode.
+<div class="block"><p>Holds constants for map feature modes, to be used with <a href="sdk-for-android-explore-mapscene#enableFeatures(java.util.Map)"><code>MapScene.enableFeatures(java.util.Map&lt;java.lang.String, java.lang.String&gt;)</code></a>.
+ </p><p>Use <a href="sdk-for-android-explore-index#DEFAULT"><code>DEFAULT</code></a> to enable a feature with its default mode.
  </p><p>Note: The default mode is defined by the currently loaded map scene configuration and
- may vary per <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-mapscheme" title="enum class in com.here.sdk.mapview"><code>MapScheme</code></a>. The currently active features and modes can be inspected
- using <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-mapscene#getActiveFeatures()"><code>MapScene.getActiveFeatures()</code></a> after the scene is loaded.
- </p><p>See <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-mapfeatures" title="class in com.here.sdk.mapview"><code>MapFeatures</code></a> for constants representing the feature names.</p></div>
+ may vary per <a href="sdk-for-android-explore-mapscheme" title="enum class in com.here.sdk.mapview"><code>MapScheme</code></a>. The currently active features and modes can be inspected
+ using <a href="sdk-for-android-explore-mapscene#getActiveFeatures()"><code>MapScene.getActiveFeatures()</code></a> after the scene is loaded.
+ </p><p>See <a href="sdk-for-android-explore-mapfeatures" title="class in com.here.sdk.mapview"><code>MapFeatures</code></a> for constants representing the feature names.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -49,77 +48,77 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapfeaturemodes"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#AMBIENT_OCCLUSION_ALL">AMBIENT_OCCLUSION_ALL</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#AMBIENT_OCCLUSION_ALL">AMBIENT_OCCLUSION_ALL</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Ambient occlusion effect is shown for extruded buildings and landmarks.</div>
 </div>
 <div class="col-first odd-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#BUILDING_FOOTPRINTS_ALL">BUILDING_FOOTPRINTS_ALL</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#BUILDING_FOOTPRINTS_ALL">BUILDING_FOOTPRINTS_ALL</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">All building footprints are shown.</div>
 </div>
 <div class="col-first even-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#CONGESTION_ZONES_ALL">CONGESTION_ZONES_ALL</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#CONGESTION_ZONES_ALL">CONGESTION_ZONES_ALL</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">All congestion zones are shown.</div>
 </div>
 <div class="col-first odd-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#DEFAULT">DEFAULT</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#DEFAULT">DEFAULT</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Enables the default mode of a map feature.</div>
 </div>
 <div class="col-first even-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#ENVIRONMENTAL_ZONES_ALL">ENVIRONMENTAL_ZONES_ALL</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#ENVIRONMENTAL_ZONES_ALL">ENVIRONMENTAL_ZONES_ALL</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">All environmental zones are shown.</div>
 </div>
 <div class="col-first odd-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#EXTRUDED_BUILDINGS_ALL">EXTRUDED_BUILDINGS_ALL</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#EXTRUDED_BUILDINGS_ALL">EXTRUDED_BUILDINGS_ALL</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">All extruded buildings are shown.</div>
 </div>
 <div class="col-first even-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#LOW_SPEED_ZONES_ALL">LOW_SPEED_ZONES_ALL</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#LOW_SPEED_ZONES_ALL">LOW_SPEED_ZONES_ALL</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">All low speed zones are shown.</div>
 </div>
 <div class="col-first odd-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#ROAD_EXIT_LABELS_ALL">ROAD_EXIT_LABELS_ALL</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#ROAD_EXIT_LABELS_ALL">ROAD_EXIT_LABELS_ALL</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Road exit labels are shown with numbers and names, if available.</div>
 </div>
 <div class="col-first even-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#ROAD_EXIT_LABELS_NUMBERS_ONLY">ROAD_EXIT_LABELS_NUMBERS_ONLY</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#ROAD_EXIT_LABELS_NUMBERS_ONLY">ROAD_EXIT_LABELS_NUMBERS_ONLY</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Road exit labels are shown with numbers, if available.</div>
 </div>
 <div class="col-first odd-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#SHADOWS_ALL">SHADOWS_ALL</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#SHADOWS_ALL">SHADOWS_ALL</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Shadows are shown for extruded buildings and landmarks.</div>
 </div>
 <div class="col-first even-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#TRAFFIC_FLOW_JAPAN_WITHOUT_FREE_FLOW">TRAFFIC_FLOW_JAPAN_WITHOUT_FREE_FLOW</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#TRAFFIC_FLOW_JAPAN_WITHOUT_FREE_FLOW">TRAFFIC_FLOW_JAPAN_WITHOUT_FREE_FLOW</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Only available when Japan map is used.</div>
 </div>
 <div class="col-first odd-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#TRAFFIC_FLOW_WITH_FREE_FLOW">TRAFFIC_FLOW_WITH_FREE_FLOW</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#TRAFFIC_FLOW_WITH_FREE_FLOW">TRAFFIC_FLOW_WITH_FREE_FLOW</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Traffic flow shows green lines when there is no traffic congestion.</div>
 </div>
 <div class="col-first even-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#TRAFFIC_FLOW_WITHOUT_FREE_FLOW">TRAFFIC_FLOW_WITHOUT_FREE_FLOW</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#TRAFFIC_FLOW_WITHOUT_FREE_FLOW">TRAFFIC_FLOW_WITHOUT_FREE_FLOW</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Traffic flow does not show green lines when there is no traffic congestion.</div>
 </div>
 <div class="col-first odd-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#TRAFFIC_INCIDENTS_ALL">TRAFFIC_INCIDENTS_ALL</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#TRAFFIC_INCIDENTS_ALL">TRAFFIC_INCIDENTS_ALL</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">All available traffic incidents are shown.</div>
 </div>
 <div class="col-first even-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#TRAFFIC_LIGHTS_ALL">TRAFFIC_LIGHTS_ALL</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#TRAFFIC_LIGHTS_ALL">TRAFFIC_LIGHTS_ALL</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">All available traffic lights are shown.</div>
 </div>
@@ -134,7 +133,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapfeaturemodes"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#%3Cinit%3E()">MapFeatureModes</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#%3Cinit%3E()">MapFeatureModes</a>()</code></div>
 <div class="col-last even-row-color"> </div>
 </div>
 </section>
@@ -166,7 +165,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapfeaturemodes"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatureModes.DEFAULT">Constant Field Values</a></li>
+<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatureModes.DEFAULT">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -181,7 +180,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapfeaturemodes"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatureModes.BUILDING_FOOTPRINTS_ALL">Constant Field Values</a></li>
+<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatureModes.BUILDING_FOOTPRINTS_ALL">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -196,7 +195,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapfeaturemodes"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatureModes.CONGESTION_ZONES_ALL">Constant Field Values</a></li>
+<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatureModes.CONGESTION_ZONES_ALL">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -211,7 +210,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapfeaturemodes"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatureModes.EXTRUDED_BUILDINGS_ALL">Constant Field Values</a></li>
+<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatureModes.EXTRUDED_BUILDINGS_ALL">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -226,7 +225,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapfeaturemodes"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatureModes.ENVIRONMENTAL_ZONES_ALL">Constant Field Values</a></li>
+<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatureModes.ENVIRONMENTAL_ZONES_ALL">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -241,7 +240,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapfeaturemodes"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatureModes.LOW_SPEED_ZONES_ALL">Constant Field Values</a></li>
+<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatureModes.LOW_SPEED_ZONES_ALL">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -254,14 +253,14 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapfeaturemodes"
 <div class="block"><p>Only available when Japan map is used.
  </p><p>Traffic flow shows green lines depending on the region.
  </p><p>In Japan green lines will not be shown,
- as if the <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#TRAFFIC_FLOW_WITHOUT_FREE_FLOW"><code>TRAFFIC_FLOW_WITHOUT_FREE_FLOW</code></a> were used.
+ as if the <a href="sdk-for-android-explore-index#TRAFFIC_FLOW_WITHOUT_FREE_FLOW"><code>TRAFFIC_FLOW_WITHOUT_FREE_FLOW</code></a> were used.
  </p><p>In rest of the world, green lines will be shown, as if
- the <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#TRAFFIC_FLOW_WITH_FREE_FLOW"><code>TRAFFIC_FLOW_WITH_FREE_FLOW</code></a> were used.</p></div>
+ the <a href="sdk-for-android-explore-index#TRAFFIC_FLOW_WITH_FREE_FLOW"><code>TRAFFIC_FLOW_WITH_FREE_FLOW</code></a> were used.</p></div>
 <dl class="notes">
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatureModes.TRAFFIC_FLOW_JAPAN_WITHOUT_FREE_FLOW">Constant Field Values</a></li>
+<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatureModes.TRAFFIC_FLOW_JAPAN_WITHOUT_FREE_FLOW">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -276,7 +275,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapfeaturemodes"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatureModes.TRAFFIC_FLOW_WITH_FREE_FLOW">Constant Field Values</a></li>
+<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatureModes.TRAFFIC_FLOW_WITH_FREE_FLOW">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -291,7 +290,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapfeaturemodes"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatureModes.TRAFFIC_FLOW_WITHOUT_FREE_FLOW">Constant Field Values</a></li>
+<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatureModes.TRAFFIC_FLOW_WITHOUT_FREE_FLOW">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -306,7 +305,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapfeaturemodes"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatureModes.TRAFFIC_INCIDENTS_ALL">Constant Field Values</a></li>
+<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatureModes.TRAFFIC_INCIDENTS_ALL">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -321,7 +320,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapfeaturemodes"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatureModes.TRAFFIC_LIGHTS_ALL">Constant Field Values</a></li>
+<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatureModes.TRAFFIC_LIGHTS_ALL">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -336,7 +335,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapfeaturemodes"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatureModes.ROAD_EXIT_LABELS_NUMBERS_ONLY">Constant Field Values</a></li>
+<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatureModes.ROAD_EXIT_LABELS_NUMBERS_ONLY">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -351,7 +350,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapfeaturemodes"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatureModes.ROAD_EXIT_LABELS_ALL">Constant Field Values</a></li>
+<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatureModes.ROAD_EXIT_LABELS_ALL">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -368,7 +367,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapfeaturemodes"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatureModes.SHADOWS_ALL">Constant Field Values</a></li>
+<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatureModes.SHADOWS_ALL">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -385,7 +384,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapfeaturemodes"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatureModes.AMBIENT_OCCLUSION_ALL">Constant Field Values</a></li>
+<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatureModes.AMBIENT_OCCLUSION_ALL">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>

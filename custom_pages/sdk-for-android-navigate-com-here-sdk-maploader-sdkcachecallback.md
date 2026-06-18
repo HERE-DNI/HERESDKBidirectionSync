@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-sdkcachecallback"
 `
 <div class="sdk-for-android">
 <!-- SDKCacheCallback.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,7 +19,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-sdkcachecallback"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.maploader</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-maploader-package-summary">com.here.sdk.maploader</a></div>
 
 </div>
 <section class="class-description" id="class-description">
@@ -31,7 +30,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-sdkcachecallback"
 <hr/>
 <div class="type-signature"><span class="annotations"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/FunctionalInterface.html" title="class or interface in java.lang">@FunctionalInterface</a>
 </span><span class="modifiers">public interface </span><span class="element-name type-name-label">SDKCacheCallback</span></div>
-<div class="block"><p>A method which is called on the main thread when <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-sdkcache#clearCache(com.here.sdk.maploader.SDKCacheCallback)"><code>SDKCache.clearCache(com.here.sdk.maploader.SDKCacheCallback)</code></a> has been completed.</p></div>
+<div class="block"><p>A method which is called on the main thread when <a href="sdk-for-android-navigate-sdkcache#clearCache(com.here.sdk.maploader.SDKCacheCallback)"><code>SDKCache.clearCache(com.here.sdk.maploader.SDKCacheCallback)</code></a> has been completed.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -47,9 +46,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-sdkcachecallback"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#onCompleted(com.here.sdk.maploader.MapLoaderError)">onCompleted</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a> maploaderError)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onCompleted(com.here.sdk.maploader.MapLoaderError)">onCompleted</a><wbr/>(<a href="sdk-for-android-navigate-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a> maploaderError)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
-<div class="block">A method which is called on the main thread when <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-sdkcache#clearCache(com.here.sdk.maploader.SDKCacheCallback)"><code>SDKCache.clearCache(com.here.sdk.maploader.SDKCacheCallback)</code></a> has been completed.</div>
+<div class="block">A method which is called on the main thread when <a href="sdk-for-android-navigate-sdkcache#clearCache(com.here.sdk.maploader.SDKCacheCallback)"><code>SDKCache.clearCache(com.here.sdk.maploader.SDKCacheCallback)</code></a> has been completed.</div>
 </div>
 </div>
 </div>
@@ -69,12 +68,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-sdkcachecallback"
 <section class="detail" id="onCompleted(com.here.sdk.maploader.MapLoaderError)">
 <h3>onCompleted</h3>
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">onCompleted</span><wbr/><span class="parameters">(@Nullable
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a> maploaderError)</span></div>
-<div class="block"><p>A method which is called on the main thread when <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-sdkcache#clearCache(com.here.sdk.maploader.SDKCacheCallback)"><code>SDKCache.clearCache(com.here.sdk.maploader.SDKCacheCallback)</code></a> has been completed.</p></div>
+ <a href="sdk-for-android-navigate-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a> maploaderError)</span></div>
+<div class="block"><p>A method which is called on the main thread when <a href="sdk-for-android-navigate-sdkcache#clearCache(com.here.sdk.maploader.SDKCacheCallback)"><code>SDKCache.clearCache(com.here.sdk.maploader.SDKCacheCallback)</code></a> has been completed.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>maploaderError</code> - <p>Represents an error in case of a failure. It is <code>null</code> for an operation that succeeds.
-     Please note, in case of failure, only <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-maploadererror#INTERNAL_ERROR"><code>MapLoaderError.INTERNAL_ERROR</code></a> error returned for now.</p></dd>
+     Please note, in case of failure, only <a href="sdk-for-android-navigate-maploadererror#INTERNAL_ERROR"><code>MapLoaderError.INTERNAL_ERROR</code></a> error returned for now.</p></dd>
 </dl>
 </section>
 </li>

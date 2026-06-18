@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-engine-lockingprocess"
 `
 <div class="sdk-for-android">
 <!-- LockingProcess.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,21 +19,21 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-engine-lockingprocess"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.core.engine</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-core-engine-package-summary">com.here.sdk.core.engine</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-nativebase" title="class in com.here">com.here.NativeBase</a>
+<div class="inheritance"><a href="sdk-for-android-navigate-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.core.engine.LockingProcess</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 <hr/>
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">LockingProcess</span>
-<span class="extends-implements">extends <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-nativebase" title="class in com.here">NativeBase</a></span></div>
+<span class="extends-implements">extends <a href="sdk-for-android-navigate-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>LockingProcess helps to detect situations when cache is locked with another process and
- attempt to create instance of <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-sdknativeengine" title="class in com.here.sdk.core.engine"><code>SDKNativeEngine</code></a> fails with error
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-instantiationerrorcode#FAILED_TO_LOCK_CACHE_FOLDER"><code>InstantiationErrorCode.FAILED_TO_LOCK_CACHE_FOLDER</code></a>.</p></div>
+ attempt to create instance of <a href="sdk-for-android-navigate-sdknativeengine" title="class in com.here.sdk.core.engine"><code>SDKNativeEngine</code></a> fails with error
+ <a href="sdk-for-android-navigate-instantiationerrorcode#FAILED_TO_LOCK_CACHE_FOLDER"><code>InstantiationErrorCode.FAILED_TO_LOCK_CACHE_FOLDER</code></a>.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -50,31 +49,31 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-engine-lockingprocess"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#destroyLockingProcess(android.content.Context,com.here.sdk.core.engine.SDKOptions,long)">destroyLockingProcess</a><wbr/>(android.content.Context context,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-sdkoptions" title="class in com.here.sdk.core.engine">SDKOptions</a> sdkOptions,
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#destroyLockingProcess(android.content.Context,com.here.sdk.core.engine.SDKOptions,long)">destroyLockingProcess</a><wbr/>(android.content.Context context,
+ <a href="sdk-for-android-navigate-sdkoptions" title="class in com.here.sdk.core.engine">SDKOptions</a> sdkOptions,
  long maxTimeoutInMilliseconds)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Checks if cache folder is locked.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4 method-summary-table-tab6"><code>static void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4 method-summary-table-tab6"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#destroyLockingProcess(com.here.sdk.core.engine.SDKOptions,long)">destroyLockingProcess</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-sdkoptions" title="class in com.here.sdk.core.engine">SDKOptions</a> sdkOptions,
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4 method-summary-table-tab6"><code><a class="member-name-link" href="sdk-for-android-navigate-index#destroyLockingProcess(com.here.sdk.core.engine.SDKOptions,long)">destroyLockingProcess</a><wbr/>(<a href="sdk-for-android-navigate-sdkoptions" title="class in com.here.sdk.core.engine">SDKOptions</a> sdkOptions,
  long maxTimeoutInMilliseconds)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4 method-summary-table-tab6">
 <div class="block"><span class="deprecated-label">Deprecated.</span>
-<div class="deprecation-comment">Will be removed in v4.27.0, use <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#destroyLockingProcess(android.content.Context,com.here.sdk.core.engine.SDKOptions,long)"><code>destroyLockingProcess(android.content.Context, SDKOptions, long)</code></a> instead.</div>
+<div class="deprecation-comment">Will be removed in v4.27.0, use <a href="sdk-for-android-navigate-index#destroyLockingProcess(android.content.Context,com.here.sdk.core.engine.SDKOptions,long)"><code>destroyLockingProcess(android.content.Context, SDKOptions, long)</code></a> instead.</div>
 </div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#getLockingProcessId(android.content.Context,com.here.sdk.core.engine.SDKOptions)">getLockingProcessId</a><wbr/>(android.content.Context context,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-sdkoptions" title="class in com.here.sdk.core.engine">SDKOptions</a> options)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getLockingProcessId(android.content.Context,com.here.sdk.core.engine.SDKOptions)">getLockingProcessId</a><wbr/>(android.content.Context context,
+ <a href="sdk-for-android-navigate-sdkoptions" title="class in com.here.sdk.core.engine">SDKOptions</a> options)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Gets the process ID (PID) that currently locks the map cache or the persistent map storage.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4 method-summary-table-tab6"><code>static <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4 method-summary-table-tab6"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#getLockingProcessId(com.here.sdk.core.engine.SDKOptions)">getLockingProcessId</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-sdkoptions" title="class in com.here.sdk.core.engine">SDKOptions</a> options)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4 method-summary-table-tab6"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getLockingProcessId(com.here.sdk.core.engine.SDKOptions)">getLockingProcessId</a><wbr/>(<a href="sdk-for-android-navigate-sdkoptions" title="class in com.here.sdk.core.engine">SDKOptions</a> options)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4 method-summary-table-tab6">
 <div class="block"><span class="deprecated-label">Deprecated.</span>
-<div class="deprecation-comment">Will be removed in v4.27.0, use <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#getLockingProcessId(android.content.Context,com.here.sdk.core.engine.SDKOptions)"><code>getLockingProcessId(android.content.Context, SDKOptions)</code></a> instead.</div>
+<div class="deprecation-comment">Will be removed in v4.27.0, use <a href="sdk-for-android-navigate-index#getLockingProcessId(android.content.Context,com.here.sdk.core.engine.SDKOptions)"><code>getLockingProcessId(android.content.Context, SDKOptions)</code></a> instead.</div>
 </div>
 </div>
 </div>
@@ -100,9 +99,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-engine-lockingprocess"
 <div class="member-signature"><span class="annotations"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html" title="class or interface in java.lang">@Deprecated</a>
 @Nullable
 </span><span class="modifiers">public static</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a></span> <span class="element-name">getLockingProcessId</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-sdkoptions" title="class in com.here.sdk.core.engine">SDKOptions</a> options)</span></div>
+ <a href="sdk-for-android-navigate-sdkoptions" title="class in com.here.sdk.core.engine">SDKOptions</a> options)</span></div>
 <div class="deprecation-block"><span class="deprecated-label">Deprecated.</span>
-<div class="deprecation-comment"><p>Will be removed in v4.27.0, use <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#getLockingProcessId(android.content.Context,com.here.sdk.core.engine.SDKOptions)"><code>getLockingProcessId(android.content.Context, SDKOptions)</code></a> instead.</p></div>
+<div class="deprecation-comment"><p>Will be removed in v4.27.0, use <a href="sdk-for-android-navigate-index#getLockingProcessId(android.content.Context,com.here.sdk.core.engine.SDKOptions)"><code>getLockingProcessId(android.content.Context, SDKOptions)</code></a> instead.</p></div>
 </div>
 <div class="block"><p>Gets the process ID (PID) that currently locks the map cache or the persistent map storage.
  Returns <code>null</code>, when no lock is active. Usually, a lock is not happening on the current process.
@@ -111,7 +110,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-engine-lockingprocess"
  <code>android.os.Process#killProcess(int)</code> and <code>android.os.Process#sendSignal(int,int)</code>.
  Note that the PID might belong to the current app process, so it is recommended to check this
  before a process is killed as otherwise you will kill your own app process.
- Alternatively, call the convenient function <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#destroyLockingProcess(android.content.Context,com.here.sdk.core.engine.SDKOptions,long)"><code>destroyLockingProcess(android.content.Context, SDKOptions, long)</code></a>.
+ Alternatively, call the convenient function <a href="sdk-for-android-navigate-index#destroyLockingProcess(android.content.Context,com.here.sdk.core.engine.SDKOptions,long)"><code>destroyLockingProcess(android.content.Context, SDKOptions, long)</code></a>.
  </p><p>If a PID is available it means that there is a lock on either the cache or the persistant map storage
  and that the HERE SDK will be non-functional until the locking process is killed. In such a case, consider
  to kill the locking process.
@@ -133,7 +132,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-engine-lockingprocess"
 </span><span class="modifiers">public static</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a></span> <span class="element-name">getLockingProcessId</span><wbr/><span class="parameters">(@NonNull
  android.content.Context context,
  @NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-sdkoptions" title="class in com.here.sdk.core.engine">SDKOptions</a> options)</span></div>
+ <a href="sdk-for-android-navigate-sdkoptions" title="class in com.here.sdk.core.engine">SDKOptions</a> options)</span></div>
 <div class="block"><p>Gets the process ID (PID) that currently locks the map cache or the persistent map storage.
  Returns <code>null</code>, when no lock is active. Usually, a lock is not happening on the current process.
  The PID of the current process can be checked with <code>android.os.Process#myPid()</code>.
@@ -141,7 +140,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-engine-lockingprocess"
  <code>android.os.Process#killProcess(int)</code> and <code>android.os.Process#sendSignal(int,int)</code>.
  Note that the PID might belong to the current app process, so it is recommended to check this
  before a process is killed as otherwise you will kill your own app process.
- Alternatively, call the convenient function <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#destroyLockingProcess(android.content.Context,com.here.sdk.core.engine.SDKOptions,long)"><code>destroyLockingProcess(android.content.Context, SDKOptions, long)</code></a>.
+ Alternatively, call the convenient function <a href="sdk-for-android-navigate-index#destroyLockingProcess(android.content.Context,com.here.sdk.core.engine.SDKOptions,long)"><code>destroyLockingProcess(android.content.Context, SDKOptions, long)</code></a>.
  </p><p>If a PID is available it means that there is a lock on either the cache or the persistant map storage
  and that the HERE SDK will be non-functional until the locking process is killed. In such a case, consider
  to kill the locking process.
@@ -162,16 +161,16 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-engine-lockingprocess"
 <h3>destroyLockingProcess</h3>
 <div class="member-signature"><span class="annotations"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html" title="class or interface in java.lang">@Deprecated</a>
 </span><span class="modifiers">public static</span> <span class="return-type">void</span> <span class="element-name">destroyLockingProcess</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-sdkoptions" title="class in com.here.sdk.core.engine">SDKOptions</a> sdkOptions,
+ <a href="sdk-for-android-navigate-sdkoptions" title="class in com.here.sdk.core.engine">SDKOptions</a> sdkOptions,
  long maxTimeoutInMilliseconds)</span></div>
 <div class="deprecation-block"><span class="deprecated-label">Deprecated.</span>
-<div class="deprecation-comment"><p>Will be removed in v4.27.0, use <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#destroyLockingProcess(android.content.Context,com.here.sdk.core.engine.SDKOptions,long)"><code>destroyLockingProcess(android.content.Context, SDKOptions, long)</code></a> instead.</p></div>
+<div class="deprecation-comment"><p>Will be removed in v4.27.0, use <a href="sdk-for-android-navigate-index#destroyLockingProcess(android.content.Context,com.here.sdk.core.engine.SDKOptions,long)"><code>destroyLockingProcess(android.content.Context, SDKOptions, long)</code></a> instead.</p></div>
 </div>
 <div class="block"><p>Checks if cache folder is locked. Does nothing if cache is not locked or locked by
  current process. If cache is locked by a different process then the HERE SDK
  makes a few attempts to kill the locking application during the specified timeout.
  If it fails to kill the application, it attempts to remove the cache at
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-sdkoptions#cachePath"><code>SDKOptions.cachePath</code></a>. This function can be used before creating a SDKNativeEngine,
+ <a href="sdk-for-android-navigate-sdkoptions#cachePath"><code>SDKOptions.cachePath</code></a>. This function can be used before creating a SDKNativeEngine,
  i.e.
  <pre>
  <code>
@@ -196,13 +195,13 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-engine-lockingprocess"
 <div class="member-signature"><span class="modifiers">public static</span> <span class="return-type">void</span> <span class="element-name">destroyLockingProcess</span><wbr/><span class="parameters">(@NonNull
  android.content.Context context,
  @NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-sdkoptions" title="class in com.here.sdk.core.engine">SDKOptions</a> sdkOptions,
+ <a href="sdk-for-android-navigate-sdkoptions" title="class in com.here.sdk.core.engine">SDKOptions</a> sdkOptions,
  long maxTimeoutInMilliseconds)</span></div>
 <div class="block"><p>Checks if cache folder is locked. Does nothing if cache is not locked or locked by
  current process. If cache is locked by a different process then the HERE SDK
  makes a few attempts to kill the locking application during the specified timeout.
  If it fails to kill the application, it attempts to remove the cache at
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-sdkoptions#cachePath"><code>SDKOptions.cachePath</code></a>. This function can be used before creating a SDKNativeEngine,
+ <a href="sdk-for-android-navigate-sdkoptions#cachePath"><code>SDKOptions.cachePath</code></a>. This function can be used before creating a SDKNativeEngine,
  i.e.
  <pre>
  <code>

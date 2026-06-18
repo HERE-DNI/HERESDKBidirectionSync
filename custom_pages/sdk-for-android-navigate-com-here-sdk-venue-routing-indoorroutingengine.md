@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-routing-indoorroutingengine"
 `
 <div class="sdk-for-android">
 <!-- IndoorRoutingEngine.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,18 +19,18 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-routing-indoorroutingengine"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.venue.routing</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-venue-routing-package-summary">com.here.sdk.venue.routing</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-nativebase" title="class in com.here">com.here.NativeBase</a>
+<div class="inheritance"><a href="sdk-for-android-navigate-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.venue.routing.IndoorRoutingEngine</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 <hr/>
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">IndoorRoutingEngine</span>
-<span class="extends-implements">extends <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-nativebase" title="class in com.here">NativeBase</a></span></div>
+<span class="extends-implements">extends <a href="sdk-for-android-navigate-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>Use the IndoorRoutingEngine to calculate a route inside a venue.
  <br/>
  Route calculation is done asynchronously and requires an
@@ -58,7 +57,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-routing-indoorroutingengine"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.venue.service.VenueService)">IndoorRoutingEngine</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venueservice" title="class in com.here.sdk.venue.service">VenueService</a> venueService)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.venue.service.VenueService)">IndoorRoutingEngine</a><wbr/>(<a href="sdk-for-android-navigate-venueservice" title="class in com.here.sdk.venue.service">VenueService</a> venueService)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance of this class.</div>
 </div>
@@ -77,10 +76,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-routing-indoorroutingengine"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#calculateRoute(com.here.sdk.venue.routing.IndoorWaypoint,com.here.sdk.venue.routing.IndoorWaypoint,com.here.sdk.venue.routing.IndoorRouteOptions,com.here.sdk.venue.routing.CalculateIndoorRouteCallback)">calculateRoute</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-indoorwaypoint" title="class in com.here.sdk.venue.routing">IndoorWaypoint</a> from,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-indoorwaypoint" title="class in com.here.sdk.venue.routing">IndoorWaypoint</a> to,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-indoorrouteoptions" title="class in com.here.sdk.venue.routing">IndoorRouteOptions</a> routeOptions,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-calculateindoorroutecallback" title="interface in com.here.sdk.venue.routing">CalculateIndoorRouteCallback</a> callback)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#calculateRoute(com.here.sdk.venue.routing.IndoorWaypoint,com.here.sdk.venue.routing.IndoorWaypoint,com.here.sdk.venue.routing.IndoorRouteOptions,com.here.sdk.venue.routing.CalculateIndoorRouteCallback)">calculateRoute</a><wbr/>(<a href="sdk-for-android-navigate-indoorwaypoint" title="class in com.here.sdk.venue.routing">IndoorWaypoint</a> from,
+ <a href="sdk-for-android-navigate-indoorwaypoint" title="class in com.here.sdk.venue.routing">IndoorWaypoint</a> to,
+ <a href="sdk-for-android-navigate-indoorrouteoptions" title="class in com.here.sdk.venue.routing">IndoorRouteOptions</a> routeOptions,
+ <a href="sdk-for-android-navigate-calculateindoorroutecallback" title="interface in com.here.sdk.venue.routing">CalculateIndoorRouteCallback</a> callback)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Asynchronously calculates a route inside a venue.</div>
 </div>
@@ -105,7 +104,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-routing-indoorroutingengine"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.venue.service.VenueService)">
 <h3>IndoorRoutingEngine</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">IndoorRoutingEngine</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venueservice" title="class in com.here.sdk.venue.service">VenueService</a> venueService)</span></div>
+ <a href="sdk-for-android-navigate-venueservice" title="class in com.here.sdk.venue.service">VenueService</a> venueService)</span></div>
 <div class="block"><p>Creates a new instance of this class.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -125,13 +124,13 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-routing-indoorroutingengine"
 <section class="detail" id="calculateRoute(com.here.sdk.venue.routing.IndoorWaypoint,com.here.sdk.venue.routing.IndoorWaypoint,com.here.sdk.venue.routing.IndoorRouteOptions,com.here.sdk.venue.routing.CalculateIndoorRouteCallback)">
 <h3>calculateRoute</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">calculateRoute</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-indoorwaypoint" title="class in com.here.sdk.venue.routing">IndoorWaypoint</a> from,
+ <a href="sdk-for-android-navigate-indoorwaypoint" title="class in com.here.sdk.venue.routing">IndoorWaypoint</a> from,
  @NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-indoorwaypoint" title="class in com.here.sdk.venue.routing">IndoorWaypoint</a> to,
+ <a href="sdk-for-android-navigate-indoorwaypoint" title="class in com.here.sdk.venue.routing">IndoorWaypoint</a> to,
  @NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-indoorrouteoptions" title="class in com.here.sdk.venue.routing">IndoorRouteOptions</a> routeOptions,
+ <a href="sdk-for-android-navigate-indoorrouteoptions" title="class in com.here.sdk.venue.routing">IndoorRouteOptions</a> routeOptions,
  @NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-calculateindoorroutecallback" title="interface in com.here.sdk.venue.routing">CalculateIndoorRouteCallback</a> callback)</span></div>
+ <a href="sdk-for-android-navigate-calculateindoorroutecallback" title="interface in com.here.sdk.venue.routing">CalculateIndoorRouteCallback</a> callback)</span></div>
 <div class="block"><p>Asynchronously calculates a route inside a venue.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapmeasure"
 `
 <div class="sdk-for-android">
 <!-- MapMeasure.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,7 +19,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapmeasure"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.mapview</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -31,7 +30,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapmeasure"
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">MapMeasure</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
 <div class="block"><p>A map measure.
- Check <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapcamera" title="class in com.here.sdk.mapview"><code>MapCamera</code></a> for more details on each supported measure.</p></div>
+ Check <a href="sdk-for-android-navigate-mapcamera" title="class in com.here.sdk.mapview"><code>MapCamera</code></a> for more details on each supported measure.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -45,7 +44,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapmeasure"
 <div class="table-header col-second">Class</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>static enum </code></div>
-<div class="col-second even-row-color"><code><a class="type-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapmeasure.kind" title="enum class in com.here.sdk.mapview">MapMeasure.Kind</a></code></div>
+<div class="col-second even-row-color"><code><a class="type-name-link" href="sdk-for-android-navigate-mapmeasure.kind" title="enum class in com.here.sdk.mapview">MapMeasure.Kind</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Kinds of measures.</div>
 </div>
@@ -61,13 +60,13 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapmeasure"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code>final <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapmeasure.kind" title="enum class in com.here.sdk.mapview">MapMeasure.Kind</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#kind">kind</a></code></div>
+<div class="col-first even-row-color"><code>final <a href="sdk-for-android-navigate-mapmeasure.kind" title="enum class in com.here.sdk.mapview">MapMeasure.Kind</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#kind">kind</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The kind of measure represented by value.</div>
 </div>
 <div class="col-first odd-row-color"><code>final double</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#value">value</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#value">value</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The measure value.</div>
 </div>
@@ -82,7 +81,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapmeasure"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.mapview.MapMeasure.Kind,double)">MapMeasure</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapmeasure.kind" title="enum class in com.here.sdk.mapview">MapMeasure.Kind</a> kind,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.mapview.MapMeasure.Kind,double)">MapMeasure</a><wbr/>(<a href="sdk-for-android-navigate-mapmeasure.kind" title="enum class in com.here.sdk.mapview">MapMeasure.Kind</a> kind,
  double value)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Constructs a MapMeasure from the kind and value.</div>
@@ -102,10 +101,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapmeasure"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 </div>
 </div>
@@ -128,7 +127,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapmeasure"
 <section class="detail" id="kind">
 <h3>kind</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapmeasure.kind" title="enum class in com.here.sdk.mapview">MapMeasure.Kind</a></span> <span class="element-name">kind</span></div>
+</span><span class="modifiers">public final</span> <span class="return-type"><a href="sdk-for-android-navigate-mapmeasure.kind" title="enum class in com.here.sdk.mapview">MapMeasure.Kind</a></span> <span class="element-name">kind</span></div>
 <div class="block"><p>The kind of measure represented by value.</p></div>
 </section>
 </li>
@@ -151,7 +150,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapmeasure"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.mapview.MapMeasure.Kind,double)">
 <h3>MapMeasure</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">MapMeasure</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapmeasure.kind" title="enum class in com.here.sdk.mapview">MapMeasure.Kind</a> kind,
+ <a href="sdk-for-android-navigate-mapmeasure.kind" title="enum class in com.here.sdk.mapview">MapMeasure.Kind</a> kind,
  double value)</span></div>
 <div class="block"><p>Constructs a MapMeasure from the kind and value.</p></div>
 <dl class="notes">

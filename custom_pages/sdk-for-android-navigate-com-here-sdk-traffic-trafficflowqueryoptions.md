@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-traffic-trafficflowqueryoptions"
 `
 <div class="sdk-for-android">
 <!-- TrafficFlowQueryOptions.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,7 +19,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-traffic-trafficflowqueryoptions"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.traffic</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-traffic-package-summary">com.here.sdk.traffic</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -44,12 +43,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-traffic-trafficflowqueryoptions"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#maxJamFactor">maxJamFactor</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#maxJamFactor">maxJamFactor</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Max jam factor value.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#minJamFactor">minJamFactor</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#minJamFactor">minJamFactor</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Min jam factor value.</div>
 </div>
@@ -64,7 +63,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-traffic-trafficflowqueryoptions"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#%3Cinit%3E()">TrafficFlowQueryOptions</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E()">TrafficFlowQueryOptions</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -83,10 +82,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-traffic-trafficflowqueryoptions"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 </div>
 </div>
@@ -112,7 +111,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-traffic-trafficflowqueryoptions"
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a></span> <span class="element-name">minJamFactor</span></div>
 <div class="block"><p>Min jam factor value.
  The jam factor is a value for the amount of traffic on the roadway. The value is between 0.0 and 10.0 (inclusive).
- This will be used with <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#maxJamFactor"><code>maxJamFactor</code></a> to filter queried flow.
+ This will be used with <a href="sdk-for-android-navigate-index#maxJamFactor"><code>maxJamFactor</code></a> to filter queried flow.
  If the value is <code>null</code>, then filtering by the min jam factor is not applied.</p></div>
 </section>
 </li>
@@ -123,7 +122,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-traffic-trafficflowqueryoptions"
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a></span> <span class="element-name">maxJamFactor</span></div>
 <div class="block"><p>Max jam factor value.
  The jam factor is a value for the amount of traffic on the roadway. The value is between 0.0 and 10.0 (inclusive).
- This will be used with <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#minJamFactor"><code>minJamFactor</code></a> to filter queried flow.
+ This will be used with <a href="sdk-for-android-navigate-index#minJamFactor"><code>minJamFactor</code></a> to filter queried flow.
  If the value is null filtering by the max jam factor is not applied.</p></div>
 </section>
 </li>

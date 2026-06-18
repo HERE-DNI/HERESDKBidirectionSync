@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcontentsettings"
 `
 <div class="sdk-for-android">
 <!-- MapContentSettings.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,18 +19,18 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcontentsettings"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.mapview</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-nativebase" title="class in com.here">com.here.NativeBase</a>
+<div class="inheritance"><a href="sdk-for-android-navigate-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.mapview.MapContentSettings</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 <hr/>
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">MapContentSettings</span>
-<span class="extends-implements">extends <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-nativebase" title="class in com.here">NativeBase</a></span></div>
+<span class="extends-implements">extends <a href="sdk-for-android-navigate-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>Provides settings regarding map data which are applied globally to all map views. The settings
  can already be changed before a map view instance is created.</p></div>
 </section>
@@ -47,12 +46,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcontentsettings"
 <div class="table-header col-second">Class</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>static enum </code></div>
-<div class="col-second even-row-color"><code><a class="type-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapcontentsettings.trafficrefreshperioderrorcode" title="enum class in com.here.sdk.mapview">MapContentSettings.TrafficRefreshPeriodErrorCode</a></code></div>
+<div class="col-second even-row-color"><code><a class="type-name-link" href="sdk-for-android-navigate-mapcontentsettings.trafficrefreshperioderrorcode" title="enum class in com.here.sdk.mapview">MapContentSettings.TrafficRefreshPeriodErrorCode</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Traffic refresh period error code</div>
 </div>
 <div class="col-first odd-row-color"><code>static final class </code></div>
-<div class="col-second odd-row-color"><code><a class="type-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapcontentsettings.trafficrefreshperiodexception" title="class in com.here.sdk.mapview">MapContentSettings.TrafficRefreshPeriodException</a></code></div>
+<div class="col-second odd-row-color"><code><a class="type-name-link" href="sdk-for-android-navigate-mapcontentsettings.trafficrefreshperiodexception" title="class in com.here.sdk.mapview">MapContentSettings.TrafficRefreshPeriodException</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Traffic refresh period error exception</div>
 </div>
@@ -71,65 +70,65 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcontentsettings"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4 method-summary-table-tab6"><code>static void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4 method-summary-table-tab6"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#configureVehicleRestrictionFilter(com.here.sdk.transport.TransportMode,com.here.sdk.transport.TruckSpecifications,java.util.List,com.here.sdk.transport.TunnelCategory)">configureVehicleRestrictionFilter</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-transportmode" title="enum class in com.here.sdk.transport">TransportMode</a> transportMode,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-truckspecifications" title="class in com.here.sdk.transport">TruckSpecifications</a> truckSpecifications,
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-hazardousmaterial" title="enum class in com.here.sdk.transport">HazardousMaterial</a>&gt; hazardousMaterials,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-tunnelcategory" title="enum class in com.here.sdk.transport">TunnelCategory</a> tunnelCategory)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4 method-summary-table-tab6"><code><a class="member-name-link" href="sdk-for-android-navigate-index#configureVehicleRestrictionFilter(com.here.sdk.transport.TransportMode,com.here.sdk.transport.TruckSpecifications,java.util.List,com.here.sdk.transport.TunnelCategory)">configureVehicleRestrictionFilter</a><wbr/>(<a href="sdk-for-android-navigate-transportmode" title="enum class in com.here.sdk.transport">TransportMode</a> transportMode,
+ <a href="sdk-for-android-navigate-truckspecifications" title="class in com.here.sdk.transport">TruckSpecifications</a> truckSpecifications,
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-hazardousmaterial" title="enum class in com.here.sdk.transport">HazardousMaterial</a>&gt; hazardousMaterials,
+ <a href="sdk-for-android-navigate-tunnelcategory" title="enum class in com.here.sdk.transport">TunnelCategory</a> tunnelCategory)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4 method-summary-table-tab6">
 <div class="block"><span class="deprecated-label">Deprecated.</span>
-<div class="deprecation-comment">Will be removed in v4.28.0, use <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#configureVehicleRestrictionFilter(com.here.sdk.transport.TransportSpecification)"><code>configureVehicleRestrictionFilter(TransportSpecification)</code></a> instead.</div>
+<div class="deprecation-comment">Will be removed in v4.28.0, use <a href="sdk-for-android-navigate-index#configureVehicleRestrictionFilter(com.here.sdk.transport.TransportSpecification)"><code>configureVehicleRestrictionFilter(TransportSpecification)</code></a> instead.</div>
 </div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#configureVehicleRestrictionFilter(com.here.sdk.transport.TransportSpecification)">configureVehicleRestrictionFilter</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-transportspecification" title="class in com.here.sdk.transport">TransportSpecification</a> transportSpecs)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#configureVehicleRestrictionFilter(com.here.sdk.transport.TransportSpecification)">configureVehicleRestrictionFilter</a><wbr/>(<a href="sdk-for-android-navigate-transportspecification" title="class in com.here.sdk.transport">TransportSpecification</a> transportSpecs)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
-<div class="block">Configures a filter for <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapfeatures#VEHICLE_RESTRICTIONS"><code>MapFeatures.VEHICLE_RESTRICTIONS</code></a> to show only the restrictions
+<div class="block">Configures a filter for <a href="sdk-for-android-navigate-mapfeatures#VEHICLE_RESTRICTIONS"><code>MapFeatures.VEHICLE_RESTRICTIONS</code></a> to show only the restrictions
  matching the transport specifications when the feature is enabled.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#filterTrafficIncidents(java.util.List)">filterTrafficIncidents</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-trafficincidenttype" title="enum class in com.here.sdk.traffic">TrafficIncidentType</a>&gt; trafficIncidents)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#filterTrafficIncidents(java.util.List)">filterTrafficIncidents</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-trafficincidenttype" title="enum class in com.here.sdk.traffic">TrafficIncidentType</a>&gt; trafficIncidents)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Filters the displayed traffic incidents so that only the ones applicable to the specified
  criteria are shown when general display of traffic incidents is enabled.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#resetPoiCategoriesVisibility()">resetPoiCategoriesVisibility</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#resetPoiCategoriesVisibility()">resetPoiCategoriesVisibility</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Resets POI categories visibility to their default state.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#resetTrafficIncidentFilter()">resetTrafficIncidentFilter</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#resetTrafficIncidentFilter()">resetTrafficIncidentFilter</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Removes all filters regarding Traffic Incidents so that all incidents will be displayed,
- when the display of Traffic Incidents is enabled using <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapscene#enableFeatures(java.util.Map)"><code>MapScene.enableFeatures(java.util.Map&lt;java.lang.String, java.lang.String&gt;)</code></a> with
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapfeatures#TRAFFIC_INCIDENTS"><code>MapFeatures.TRAFFIC_INCIDENTS</code></a>.</div>
+ when the display of Traffic Incidents is enabled using <a href="sdk-for-android-navigate-mapscene#enableFeatures(java.util.Map)"><code>MapScene.enableFeatures(java.util.Map&lt;java.lang.String, java.lang.String&gt;)</code></a> with
+ <a href="sdk-for-android-navigate-mapfeatures#TRAFFIC_INCIDENTS"><code>MapFeatures.TRAFFIC_INCIDENTS</code></a>.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#resetTrafficRefreshPeriod()">resetTrafficRefreshPeriod</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#resetTrafficRefreshPeriod()">resetTrafficRefreshPeriod</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Resets the traffic data (both flow and incidents) refresh period so the default traffic information
  validity time and the refresh period derived from the refresh period of the traffic server is used.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#resetVehicleRestrictionFilter()">resetVehicleRestrictionFilter</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#resetVehicleRestrictionFilter()">resetVehicleRestrictionFilter</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Removes all filters regarding vehicle restrictions so that all restrictions will be displayed,
  when the display of vehicle restrictions is enabled by enabling feature
- using <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapscene#enableFeatures(java.util.Map)"><code>MapScene.enableFeatures(java.util.Map&lt;java.lang.String, java.lang.String&gt;)</code></a> with <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapfeatures#VEHICLE_RESTRICTIONS"><code>MapFeatures.VEHICLE_RESTRICTIONS</code></a> and setting layer
- visibility using <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapscene#setLayerVisibility(java.lang.String,com.here.sdk.mapview.VisibilityState)"><code>MapScene.setLayerVisibility(java.lang.String, com.here.sdk.mapview.VisibilityState)</code></a>.</div>
+ using <a href="sdk-for-android-navigate-mapscene#enableFeatures(java.util.Map)"><code>MapScene.enableFeatures(java.util.Map&lt;java.lang.String, java.lang.String&gt;)</code></a> with <a href="sdk-for-android-navigate-mapfeatures#VEHICLE_RESTRICTIONS"><code>MapFeatures.VEHICLE_RESTRICTIONS</code></a> and setting layer
+ visibility using <a href="sdk-for-android-navigate-mapscene#setLayerVisibility(java.lang.String,com.here.sdk.mapview.VisibilityState)"><code>MapScene.setLayerVisibility(java.lang.String, com.here.sdk.mapview.VisibilityState)</code></a>.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#setPoiCategoriesVisibility(java.util.List,com.here.sdk.mapview.VisibilityState)">setPoiCategoriesVisibility</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a>&gt; categoryIds,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-visibilitystate" title="enum class in com.here.sdk.mapview">VisibilityState</a> visibility)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setPoiCategoriesVisibility(java.util.List,com.here.sdk.mapview.VisibilityState)">setPoiCategoriesVisibility</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a>&gt; categoryIds,
+ <a href="sdk-for-android-navigate-visibilitystate" title="enum class in com.here.sdk.mapview">VisibilityState</a> visibility)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Sets visibility for embedded carto POI categories (points of interest that are visible on the
  map, by default).</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#setTrafficRefreshPeriod(com.here.time.Duration)">setTrafficRefreshPeriod</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a> value)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setTrafficRefreshPeriod(com.here.time.Duration)">setTrafficRefreshPeriod</a><wbr/>(<a href="sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a> value)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
-<div class="block">Sets the traffic data refresh period for both <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapfeatures#TRAFFIC_FLOW"><code>MapFeatures.TRAFFIC_FLOW</code></a> and
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapfeatures#TRAFFIC_INCIDENTS"><code>MapFeatures.TRAFFIC_INCIDENTS</code></a>.</div>
+<div class="block">Sets the traffic data refresh period for both <a href="sdk-for-android-navigate-mapfeatures#TRAFFIC_FLOW"><code>MapFeatures.TRAFFIC_FLOW</code></a> and
+ <a href="sdk-for-android-navigate-mapfeatures#TRAFFIC_INCIDENTS"><code>MapFeatures.TRAFFIC_INCIDENTS</code></a>.</div>
 </div>
 </div>
 </div>
@@ -153,17 +152,17 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcontentsettings"
 <h3>configureVehicleRestrictionFilter</h3>
 <div class="member-signature"><span class="annotations"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html" title="class or interface in java.lang">@Deprecated</a>
 </span><span class="modifiers">public static</span> <span class="return-type">void</span> <span class="element-name">configureVehicleRestrictionFilter</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-transportmode" title="enum class in com.here.sdk.transport">TransportMode</a> transportMode,
+ <a href="sdk-for-android-navigate-transportmode" title="enum class in com.here.sdk.transport">TransportMode</a> transportMode,
  @NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-truckspecifications" title="class in com.here.sdk.transport">TruckSpecifications</a> truckSpecifications,
+ <a href="sdk-for-android-navigate-truckspecifications" title="class in com.here.sdk.transport">TruckSpecifications</a> truckSpecifications,
  @Nullable
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-hazardousmaterial" title="enum class in com.here.sdk.transport">HazardousMaterial</a>&gt; hazardousMaterials,
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-hazardousmaterial" title="enum class in com.here.sdk.transport">HazardousMaterial</a>&gt; hazardousMaterials,
  @Nullable
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-tunnelcategory" title="enum class in com.here.sdk.transport">TunnelCategory</a> tunnelCategory)</span></div>
+ <a href="sdk-for-android-navigate-tunnelcategory" title="enum class in com.here.sdk.transport">TunnelCategory</a> tunnelCategory)</span></div>
 <div class="deprecation-block"><span class="deprecated-label">Deprecated.</span>
-<div class="deprecation-comment"><p>Will be removed in v4.28.0, use <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#configureVehicleRestrictionFilter(com.here.sdk.transport.TransportSpecification)"><code>configureVehicleRestrictionFilter(TransportSpecification)</code></a> instead.</p></div>
+<div class="deprecation-comment"><p>Will be removed in v4.28.0, use <a href="sdk-for-android-navigate-index#configureVehicleRestrictionFilter(com.here.sdk.transport.TransportSpecification)"><code>configureVehicleRestrictionFilter(TransportSpecification)</code></a> instead.</p></div>
 </div>
-<div class="block"><p>Configure a filter for <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapfeatures#VEHICLE_RESTRICTIONS"><code>MapFeatures.VEHICLE_RESTRICTIONS</code></a> to show only the restrictions
+<div class="block"><p>Configure a filter for <a href="sdk-for-android-navigate-mapfeatures#VEHICLE_RESTRICTIONS"><code>MapFeatures.VEHICLE_RESTRICTIONS</code></a> to show only the restrictions
  matching the specified criteria when the feature is enabled.
  
 </p><p>Only restrictions applicable to the supplied truck specifications will be shown.
@@ -182,8 +181,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcontentsettings"
  additionally.
  </p><p>Examples:
  <ul>
-<li>If the <code>hazardousMaterials</code> contains <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-hazardousmaterial#POISON"><code>HazardousMaterial.POISON</code></a>
- and <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-hazardousmaterial#GAS"><code>HazardousMaterial.GAS</code></a>, then only material restrictions
+<li>If the <code>hazardousMaterials</code> contains <a href="sdk-for-android-navigate-hazardousmaterial#POISON"><code>HazardousMaterial.POISON</code></a>
+ and <a href="sdk-for-android-navigate-hazardousmaterial#GAS"><code>HazardousMaterial.GAS</code></a>, then only material restrictions
  for poison and gas will be displayed.</li>
 <li>If the <code>hazardousMaterials</code> list is empty, then no material restrictions
  will be shown.</li>
@@ -195,8 +194,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcontentsettings"
 </ul>
 
 </p><p>Tunnel categories are labeled and rated based on the level of restriction they provide.
- The lowest level of restriction is <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-tunnelcategory#B"><code>TunnelCategory.B</code></a>, the highest and most
- restrictive one is <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-tunnelcategory#E"><code>TunnelCategory.E</code></a>.
+ The lowest level of restriction is <a href="sdk-for-android-navigate-tunnelcategory#B"><code>TunnelCategory.B</code></a>, the highest and most
+ restrictive one is <a href="sdk-for-android-navigate-tunnelcategory#E"><code>TunnelCategory.E</code></a>.
  </p><p>Specifying tunnel category means that:
  <ul>
 <li>The truck carries goods which could cause only the additional dangerous effects
@@ -217,10 +216,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcontentsettings"
  applicable restrictions.</li>
 </ul>
 </p><p>Example:
- If <code>tunnelCategory</code> is set to <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-tunnelcategory#D"><code>TunnelCategory.D</code></a>, then restrictions for
- tunnel category <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-tunnelcategory#E"><code>TunnelCategory.E</code></a> and <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-tunnelcategory#D"><code>TunnelCategory.D</code></a>
- will be displayed, but not the categories <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-tunnelcategory#B"><code>TunnelCategory.B</code></a> and
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-tunnelcategory#C"><code>TunnelCategory.C</code></a>.</p></div>
+ If <code>tunnelCategory</code> is set to <a href="sdk-for-android-navigate-tunnelcategory#D"><code>TunnelCategory.D</code></a>, then restrictions for
+ tunnel category <a href="sdk-for-android-navigate-tunnelcategory#E"><code>TunnelCategory.E</code></a> and <a href="sdk-for-android-navigate-tunnelcategory#D"><code>TunnelCategory.D</code></a>
+ will be displayed, but not the categories <a href="sdk-for-android-navigate-tunnelcategory#B"><code>TunnelCategory.B</code></a> and
+ <a href="sdk-for-android-navigate-tunnelcategory#C"><code>TunnelCategory.C</code></a>.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>transportMode</code> - <p>Specifies the current transport type. Currently, it's used to distinguish
@@ -242,11 +241,11 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcontentsettings"
 <section class="detail" id="configureVehicleRestrictionFilter(com.here.sdk.transport.TransportSpecification)">
 <h3>configureVehicleRestrictionFilter</h3>
 <div class="member-signature"><span class="modifiers">public static</span> <span class="return-type">void</span> <span class="element-name">configureVehicleRestrictionFilter</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-transportspecification" title="class in com.here.sdk.transport">TransportSpecification</a> transportSpecs)</span></div>
-<div class="block"><p>Configures a filter for <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapfeatures#VEHICLE_RESTRICTIONS"><code>MapFeatures.VEHICLE_RESTRICTIONS</code></a> to show only the restrictions
+ <a href="sdk-for-android-navigate-transportspecification" title="class in com.here.sdk.transport">TransportSpecification</a> transportSpecs)</span></div>
+<div class="block"><p>Configures a filter for <a href="sdk-for-android-navigate-mapfeatures#VEHICLE_RESTRICTIONS"><code>MapFeatures.VEHICLE_RESTRICTIONS</code></a> to show only the restrictions
  matching the transport specifications when the feature is enabled.
  </p><p>This method provides a unified way to configure vehicle restriction filters using
- a single <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a> parameter. This allows you to use the same
+ a single <a href="sdk-for-android-navigate-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a> parameter. This allows you to use the same
  transport configuration for both routing and map rendering, ensuring consistency between
  route calculation and the restrictions displayed on the map.
  </p><p>The method extracts the transport mode, vehicle specifications, hazardous materials, and
@@ -273,7 +272,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcontentsettings"
 </ul>
 
 </p><p>Only restrictions applicable to specified hazardous materials will be shown.
- Hazardous materials are specified within the <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-vehiclespecification" title="class in com.here.sdk.transport"><code>VehicleSpecification</code></a>
+ Hazardous materials are specified within the <a href="sdk-for-android-navigate-vehiclespecification" title="class in com.here.sdk.transport"><code>VehicleSpecification</code></a>
  contained in the <code>transportSpecs</code> parameter.
  </p><p>If at least one hazardous material of any type is present in the list, all available
  tunnel category restrictions will be displayed. In order to filter-out non-applicable
@@ -281,8 +280,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcontentsettings"
  additionally.
  </p><p>Examples:
  <ul>
-<li>If the hazardous materials list contains <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-hazardousmaterial#POISON"><code>HazardousMaterial.POISON</code></a>
- and <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-hazardousmaterial#GAS"><code>HazardousMaterial.GAS</code></a>, then only material restrictions
+<li>If the hazardous materials list contains <a href="sdk-for-android-navigate-hazardousmaterial#POISON"><code>HazardousMaterial.POISON</code></a>
+ and <a href="sdk-for-android-navigate-hazardousmaterial#GAS"><code>HazardousMaterial.GAS</code></a>, then only material restrictions
  for poison and gas will be displayed.</li>
 <li>If the hazardous materials list is empty, then no material restrictions
  will be shown.</li>
@@ -294,9 +293,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcontentsettings"
 </ul>
 
 </p><p>Tunnel categories are labeled and rated based on the level of restriction they provide.
- The lowest level of restriction is <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-tunnelcategory#B"><code>TunnelCategory.B</code></a>, the highest and most
- restrictive one is <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-tunnelcategory#E"><code>TunnelCategory.E</code></a>.
- </p><p>The tunnel category is specified within the <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-vehiclespecification" title="class in com.here.sdk.transport"><code>VehicleSpecification</code></a>
+ The lowest level of restriction is <a href="sdk-for-android-navigate-tunnelcategory#B"><code>TunnelCategory.B</code></a>, the highest and most
+ restrictive one is <a href="sdk-for-android-navigate-tunnelcategory#E"><code>TunnelCategory.E</code></a>.
+ </p><p>The tunnel category is specified within the <a href="sdk-for-android-navigate-vehiclespecification" title="class in com.here.sdk.transport"><code>VehicleSpecification</code></a>
  contained in the <code>transportSpecs</code> parameter.
  </p><p>Specifying tunnel category means that:
  <ul>
@@ -318,16 +317,16 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcontentsettings"
  applicable restrictions.</li>
 </ul>
 </p><p>Example:
- If tunnel category is set to <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-tunnelcategory#D"><code>TunnelCategory.D</code></a>, then restrictions for
- tunnel category <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-tunnelcategory#E"><code>TunnelCategory.E</code></a> and <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-tunnelcategory#D"><code>TunnelCategory.D</code></a>
- will be displayed, but not the categories <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-tunnelcategory#B"><code>TunnelCategory.B</code></a> and
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-tunnelcategory#C"><code>TunnelCategory.C</code></a>.</p></div>
+ If tunnel category is set to <a href="sdk-for-android-navigate-tunnelcategory#D"><code>TunnelCategory.D</code></a>, then restrictions for
+ tunnel category <a href="sdk-for-android-navigate-tunnelcategory#E"><code>TunnelCategory.E</code></a> and <a href="sdk-for-android-navigate-tunnelcategory#D"><code>TunnelCategory.D</code></a>
+ will be displayed, but not the categories <a href="sdk-for-android-navigate-tunnelcategory#B"><code>TunnelCategory.B</code></a> and
+ <a href="sdk-for-android-navigate-tunnelcategory#C"><code>TunnelCategory.C</code></a>.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>transportSpecs</code> - <p>The transport specification containing the transport mode and vehicle specifications.
-     For vehicle modes (car, truck, bus), the <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-vehiclespecification" title="class in com.here.sdk.transport"><code>VehicleSpecification</code></a> within
+     For vehicle modes (car, truck, bus), the <a href="sdk-for-android-navigate-vehiclespecification" title="class in com.here.sdk.transport"><code>VehicleSpecification</code></a> within
      this parameter provides dimensions, weights, hazardous materials, and tunnel category
-     information used for filtering. The same <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a> object
+     information used for filtering. The same <a href="sdk-for-android-navigate-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a> object
      can be used for both routing configuration and map rendering to ensure consistency.</p></dd>
 </dl>
 </section>
@@ -338,8 +337,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcontentsettings"
 <div class="member-signature"><span class="modifiers">public static</span> <span class="return-type">void</span> <span class="element-name">resetVehicleRestrictionFilter</span>()</div>
 <div class="block"><p>Removes all filters regarding vehicle restrictions so that all restrictions will be displayed,
  when the display of vehicle restrictions is enabled by enabling feature
- using <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapscene#enableFeatures(java.util.Map)"><code>MapScene.enableFeatures(java.util.Map&lt;java.lang.String, java.lang.String&gt;)</code></a> with <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapfeatures#VEHICLE_RESTRICTIONS"><code>MapFeatures.VEHICLE_RESTRICTIONS</code></a> and setting layer
- visibility using <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapscene#setLayerVisibility(java.lang.String,com.here.sdk.mapview.VisibilityState)"><code>MapScene.setLayerVisibility(java.lang.String, com.here.sdk.mapview.VisibilityState)</code></a>.</p></div>
+ using <a href="sdk-for-android-navigate-mapscene#enableFeatures(java.util.Map)"><code>MapScene.enableFeatures(java.util.Map&lt;java.lang.String, java.lang.String&gt;)</code></a> with <a href="sdk-for-android-navigate-mapfeatures#VEHICLE_RESTRICTIONS"><code>MapFeatures.VEHICLE_RESTRICTIONS</code></a> and setting layer
+ visibility using <a href="sdk-for-android-navigate-mapscene#setLayerVisibility(java.lang.String,com.here.sdk.mapview.VisibilityState)"><code>MapScene.setLayerVisibility(java.lang.String, com.here.sdk.mapview.VisibilityState)</code></a>.</p></div>
 </section>
 </li>
 <li>
@@ -348,7 +347,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcontentsettings"
 <div class="member-signature"><span class="modifiers">public static</span> <span class="return-type">void</span> <span class="element-name">setPoiCategoriesVisibility</span><wbr/><span class="parameters">(@NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a>&gt; categoryIds,
  @NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-visibilitystate" title="enum class in com.here.sdk.mapview">VisibilityState</a> visibility)</span></div>
+ <a href="sdk-for-android-navigate-visibilitystate" title="enum class in com.here.sdk.mapview">VisibilityState</a> visibility)</span></div>
 <div class="block"><p>Sets visibility for embedded carto POI categories (points of interest that are visible on the
  map, by default). For HERE standard map schemes all available POI categories are visible by
  default for each selected map scheme. Note that not all POI categories are available for
@@ -380,16 +379,16 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcontentsettings"
 <section class="detail" id="filterTrafficIncidents(java.util.List)">
 <h3>filterTrafficIncidents</h3>
 <div class="member-signature"><span class="modifiers">public static</span> <span class="return-type">void</span> <span class="element-name">filterTrafficIncidents</span><wbr/><span class="parameters">(@NonNull
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-trafficincidenttype" title="enum class in com.here.sdk.traffic">TrafficIncidentType</a>&gt; trafficIncidents)</span></div>
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-trafficincidenttype" title="enum class in com.here.sdk.traffic">TrafficIncidentType</a>&gt; trafficIncidents)</span></div>
 <div class="block"><p>Filters the displayed traffic incidents so that only the ones applicable to the specified
  criteria are shown when general display of traffic incidents is enabled.
- The display of traffic incidents can be enabled using <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapscene#enableFeatures(java.util.Map)"><code>MapScene.enableFeatures(java.util.Map&lt;java.lang.String, java.lang.String&gt;)</code></a> with
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapfeatures#TRAFFIC_INCIDENTS"><code>MapFeatures.TRAFFIC_INCIDENTS</code></a>.</p></div>
+ The display of traffic incidents can be enabled using <a href="sdk-for-android-navigate-mapscene#enableFeatures(java.util.Map)"><code>MapScene.enableFeatures(java.util.Map&lt;java.lang.String, java.lang.String&gt;)</code></a> with
+ <a href="sdk-for-android-navigate-mapfeatures#TRAFFIC_INCIDENTS"><code>MapFeatures.TRAFFIC_INCIDENTS</code></a>.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>trafficIncidents</code> - <p>The traffic incidents to filter for, so that only applicable incidents are displayed.
      When the list is empty, then all traffic incidents will be displayed.
-     If the <code>trafficIncidents</code> contains <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-trafficincidenttype#UNKNOWN"><code>TrafficIncidentType.UNKNOWN</code></a>, then the
+     If the <code>trafficIncidents</code> contains <a href="sdk-for-android-navigate-trafficincidenttype#UNKNOWN"><code>TrafficIncidentType.UNKNOWN</code></a>, then the
      traffic filter will be applied ignoring this element.</p></dd>
 </dl>
 </section>
@@ -399,18 +398,18 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcontentsettings"
 <h3>resetTrafficIncidentFilter</h3>
 <div class="member-signature"><span class="modifiers">public static</span> <span class="return-type">void</span> <span class="element-name">resetTrafficIncidentFilter</span>()</div>
 <div class="block"><p>Removes all filters regarding Traffic Incidents so that all incidents will be displayed,
- when the display of Traffic Incidents is enabled using <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapscene#enableFeatures(java.util.Map)"><code>MapScene.enableFeatures(java.util.Map&lt;java.lang.String, java.lang.String&gt;)</code></a> with
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapfeatures#TRAFFIC_INCIDENTS"><code>MapFeatures.TRAFFIC_INCIDENTS</code></a>.</p></div>
+ when the display of Traffic Incidents is enabled using <a href="sdk-for-android-navigate-mapscene#enableFeatures(java.util.Map)"><code>MapScene.enableFeatures(java.util.Map&lt;java.lang.String, java.lang.String&gt;)</code></a> with
+ <a href="sdk-for-android-navigate-mapfeatures#TRAFFIC_INCIDENTS"><code>MapFeatures.TRAFFIC_INCIDENTS</code></a>.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="setTrafficRefreshPeriod(com.here.time.Duration)">
 <h3>setTrafficRefreshPeriod</h3>
 <div class="member-signature"><span class="modifiers">public static</span> <span class="return-type">void</span> <span class="element-name">setTrafficRefreshPeriod</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a> value)</span>
-                                    throws <span class="exceptions"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapcontentsettings.trafficrefreshperiodexception" title="class in com.here.sdk.mapview">MapContentSettings.TrafficRefreshPeriodException</a></span></div>
-<div class="block"><p>Sets the traffic data refresh period for both <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapfeatures#TRAFFIC_FLOW"><code>MapFeatures.TRAFFIC_FLOW</code></a> and
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapfeatures#TRAFFIC_INCIDENTS"><code>MapFeatures.TRAFFIC_INCIDENTS</code></a>. By default, the traffic information
+ <a href="sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a> value)</span>
+                                    throws <span class="exceptions"><a href="sdk-for-android-navigate-mapcontentsettings.trafficrefreshperiodexception" title="class in com.here.sdk.mapview">MapContentSettings.TrafficRefreshPeriodException</a></span></div>
+<div class="block"><p>Sets the traffic data refresh period for both <a href="sdk-for-android-navigate-mapfeatures#TRAFFIC_FLOW"><code>MapFeatures.TRAFFIC_FLOW</code></a> and
+ <a href="sdk-for-android-navigate-mapfeatures#TRAFFIC_INCIDENTS"><code>MapFeatures.TRAFFIC_INCIDENTS</code></a>. By default, the traffic information
  validity time and the refresh period is derived from the refresh period of HERE's traffic server.
  The period set by this function will override the server's default setting for
  upcoming traffic data requests.
@@ -428,7 +427,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcontentsettings"
      frequent viewport changes can result in missing traffic data, causing new requests
      to be made more often.</p></dd>
 <dt>Throws:</dt>
-<dd><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapcontentsettings.trafficrefreshperiodexception" title="class in com.here.sdk.mapview">MapContentSettings.TrafficRefreshPeriodException</a></code> - <p><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapcontentsettings.trafficrefreshperiodexception" title="class in com.here.sdk.mapview"><code>MapContentSettings.TrafficRefreshPeriodException</code></a> indicates what went wrong.</p></dd>
+<dd><code><a href="sdk-for-android-navigate-mapcontentsettings.trafficrefreshperiodexception" title="class in com.here.sdk.mapview">MapContentSettings.TrafficRefreshPeriodException</a></code> - <p><a href="sdk-for-android-navigate-mapcontentsettings.trafficrefreshperiodexception" title="class in com.here.sdk.mapview"><code>MapContentSettings.TrafficRefreshPeriodException</code></a> indicates what went wrong.</p></dd>
 </dl>
 </section>
 </li>

@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior-m
 `
 <div class="sdk-for-android">
 <!-- TrackingCameraBehavior.ManeuverModeConfiguration.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,7 +19,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior-m
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.navigation</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-navigation-package-summary">com.here.sdk.navigation</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -29,18 +28,18 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior-m
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>Enclosing class:</dt>
-<dd><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-trackingcamerabehavior" title="class in com.here.sdk.navigation">TrackingCameraBehavior</a></dd>
+<dd><a href="sdk-for-android-navigate-trackingcamerabehavior" title="class in com.here.sdk.navigation">TrackingCameraBehavior</a></dd>
 </dl>
 <hr/>
 <div class="type-signature"><span class="modifiers">public static final class </span><span class="element-name type-name-label">TrackingCameraBehavior.ManeuverModeConfiguration</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
-<div class="block"><p>Configuration that defines how <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-trackingcamerabehavior" title="class in com.here.sdk.navigation"><code>TrackingCameraBehavior</code></a> reacts to nearby maneuvers.
+<div class="block"><p>Configuration that defines how <a href="sdk-for-android-navigate-trackingcamerabehavior" title="class in com.here.sdk.navigation"><code>TrackingCameraBehavior</code></a> reacts to nearby maneuvers.
  </p><p>On each frame, and based on the current position, the availability of its functional road
  class, and the availability of maneuver data for at least one adjacent maneuver, the camera
- checks for a match against the <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#maneuverRules"><code>maneuverRules</code></a> in the order they are listed. If a match is
+ checks for a match against the <a href="sdk-for-android-navigate-index#maneuverRules"><code>maneuverRules</code></a> in the order they are listed. If a match is
  found, subsequent rules are not checked. If no match is found, if inputs are unavailable,
  or if the matched rule has <code>null</code> options, the camera does not react.
- </p><p>For correct default initialization, use <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-trackingcamerabehavior#defaultManeuverModeConfiguration()"><code>TrackingCameraBehavior.defaultManeuverModeConfiguration()</code></a>.</p></div>
+ </p><p>For correct default initialization, use <a href="sdk-for-android-navigate-trackingcamerabehavior#defaultManeuverModeConfiguration()"><code>TrackingCameraBehavior.defaultManeuverModeConfiguration()</code></a>.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -54,13 +53,13 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior-m
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>double</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#bearingThresholdInDegrees">bearingThresholdInDegrees</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#bearingThresholdInDegrees">bearingThresholdInDegrees</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Maximum angle difference in degrees between the current bearing and the bearing to the
  maneuver point.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-trackingcamerabehavior.maneuverrule" title="class in com.here.sdk.navigation">TrackingCameraBehavior.ManeuverRule</a>&gt;</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#maneuverRules">maneuverRules</a></code></div>
+<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-trackingcamerabehavior.maneuverrule" title="class in com.here.sdk.navigation">TrackingCameraBehavior.ManeuverRule</a>&gt;</code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#maneuverRules">maneuverRules</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Ordered list of maneuver rules.</div>
 </div>
@@ -75,7 +74,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior-m
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#%3Cinit%3E()">ManeuverModeConfiguration</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E()">ManeuverModeConfiguration</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -104,11 +103,11 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior-m
 <section class="detail" id="maneuverRules">
 <h3>maneuverRules</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-trackingcamerabehavior.maneuverrule" title="class in com.here.sdk.navigation">TrackingCameraBehavior.ManeuverRule</a>&gt;</span> <span class="element-name">maneuverRules</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-trackingcamerabehavior.maneuverrule" title="class in com.here.sdk.navigation">TrackingCameraBehavior.ManeuverRule</a>&gt;</span> <span class="element-name">maneuverRules</span></div>
 <div class="block"><p>Ordered list of maneuver rules. Rules are evaluated in order; the first matching rule
  determines the camera behavior. If empty, this configuration is not valid and the
- camera does not react to maneuvers. If <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-trackingcamerabehavior#defaultManeuverModeConfiguration()"><code>TrackingCameraBehavior.defaultManeuverModeConfiguration()</code></a> is not used
- for <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-trackingcamerabehavior.maneuvermodeconfiguration" title="class in com.here.sdk.navigation"><code>TrackingCameraBehavior.ManeuverModeConfiguration</code></a>, it will be an empty list.</p></div>
+ camera does not react to maneuvers. If <a href="sdk-for-android-navigate-trackingcamerabehavior#defaultManeuverModeConfiguration()"><code>TrackingCameraBehavior.defaultManeuverModeConfiguration()</code></a> is not used
+ for <a href="sdk-for-android-navigate-trackingcamerabehavior.maneuvermodeconfiguration" title="class in com.here.sdk.navigation"><code>TrackingCameraBehavior.ManeuverModeConfiguration</code></a>, it will be an empty list.</p></div>
 </section>
 </li>
 <li>

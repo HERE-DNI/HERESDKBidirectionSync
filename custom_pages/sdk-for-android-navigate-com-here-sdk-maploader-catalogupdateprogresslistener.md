@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-catalogupdateprogresslist
 `
 <div class="sdk-for-android">
 <!-- CatalogUpdateProgressListener.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,14 +19,14 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-catalogupdateprogresslist
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.maploader</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-maploader-package-summary">com.here.sdk.maploader</a></div>
 
 </div>
 <section class="class-description" id="class-description">
 <hr/>
 <div class="type-signature"><span class="modifiers">public interface </span><span class="element-name type-name-label">CatalogUpdateProgressListener</span></div>
 <div class="block"><p>Interface to get notified on status updates
- when updating catalog, previously downloaded by <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapdownloader" title="class in com.here.sdk.maploader"><code>MapDownloader</code></a>.</p></div>
+ when updating catalog, previously downloaded by <a href="sdk-for-android-navigate-mapdownloader" title="class in com.here.sdk.maploader"><code>MapDownloader</code></a>.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -43,23 +42,23 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-catalogupdateprogresslist
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#onComplete(com.here.sdk.maploader.MapLoaderError)">onComplete</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a> error)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onComplete(com.here.sdk.maploader.MapLoaderError)">onComplete</a><wbr/>(<a href="sdk-for-android-navigate-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a> error)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Called after the update process for all regions has been completed.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#onPause(com.here.sdk.maploader.MapLoaderError)">onPause</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a> error)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onPause(com.here.sdk.maploader.MapLoaderError)">onPause</a><wbr/>(<a href="sdk-for-android-navigate-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a> error)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Called when update is paused.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#onProgress(com.here.sdk.maploader.RegionId,int)">onProgress</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-regionid" title="class in com.here.sdk.maploader">RegionId</a> region,
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onProgress(com.here.sdk.maploader.RegionId,int)">onProgress</a><wbr/>(<a href="sdk-for-android-navigate-regionid" title="class in com.here.sdk.maploader">RegionId</a> region,
  int percentage)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Called multiple times to indicate the update progress.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#onResume()">onResume</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onResume()">onResume</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Called when a paused map update is resumed.</div>
 </div>
@@ -81,7 +80,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-catalogupdateprogresslist
 <section class="detail" id="onProgress(com.here.sdk.maploader.RegionId,int)">
 <h3>onProgress</h3>
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">onProgress</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-regionid" title="class in com.here.sdk.maploader">RegionId</a> region,
+ <a href="sdk-for-android-navigate-regionid" title="class in com.here.sdk.maploader">RegionId</a> region,
  int percentage)</span></div>
 <div class="block"><p>Called multiple times to indicate the update progress.
  Invoked on the main thread.</p></div>
@@ -96,7 +95,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-catalogupdateprogresslist
 <section class="detail" id="onPause(com.here.sdk.maploader.MapLoaderError)">
 <h3>onPause</h3>
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">onPause</span><wbr/><span class="parameters">(@Nullable
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a> error)</span></div>
+ <a href="sdk-for-android-navigate-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a> error)</span></div>
 <div class="block"><p>Called when update is paused.
  Invoked on the main thread.</p></div>
 <dl class="notes">
@@ -114,7 +113,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-catalogupdateprogresslist
 <section class="detail" id="onComplete(com.here.sdk.maploader.MapLoaderError)">
 <h3>onComplete</h3>
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">onComplete</span><wbr/><span class="parameters">(@Nullable
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a> error)</span></div>
+ <a href="sdk-for-android-navigate-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a> error)</span></div>
 <div class="block"><p>Called after the update process for all regions has been completed.
  Invoked on the main thread.</p></div>
 <dl class="notes">

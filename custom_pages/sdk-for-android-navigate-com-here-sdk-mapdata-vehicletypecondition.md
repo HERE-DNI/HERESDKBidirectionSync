@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-vehicletypecondition"
 `
 <div class="sdk-for-android">
 <!-- VehicleTypeCondition.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,22 +19,22 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-vehicletypecondition"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.mapdata</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-mapdata-package-summary">com.here.sdk.mapdata</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">java.lang.Enum</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-vehicletypecondition" title="enum class in com.here.sdk.mapdata">VehicleTypeCondition</a>&gt;
+<div class="inheritance"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">java.lang.Enum</a>&lt;<a href="sdk-for-android-navigate-vehicletypecondition" title="enum class in com.here.sdk.mapdata">VehicleTypeCondition</a>&gt;
 <div class="inheritance">com.here.sdk.mapdata.VehicleTypeCondition</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>All Implemented Interfaces:</dt>
-<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" title="class or interface in java.io">Serializable</a></code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" title="class or interface in java.lang">Comparable</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-vehicletypecondition" title="enum class in com.here.sdk.mapdata">VehicleTypeCondition</a>&gt;</code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" title="class or interface in java.lang.constant">Constable</a></code></dd>
+<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" title="class or interface in java.io">Serializable</a></code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" title="class or interface in java.lang">Comparable</a>&lt;<a href="sdk-for-android-navigate-vehicletypecondition" title="enum class in com.here.sdk.mapdata">VehicleTypeCondition</a>&gt;</code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" title="class or interface in java.lang.constant">Constable</a></code></dd>
 </dl>
 <hr/>
 <div class="type-signature"><span class="modifiers">public enum </span><span class="element-name type-name-label">VehicleTypeCondition</span>
-<span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-vehicletypecondition" title="enum class in com.here.sdk.mapdata">VehicleTypeCondition</a>&gt;</span></div>
+<span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a href="sdk-for-android-navigate-vehicletypecondition" title="enum class in com.here.sdk.mapdata">VehicleTypeCondition</a>&gt;</span></div>
 <div class="block"><p>Type of commercial vehicle to which a regulation applies.</p></div>
 </section>
 <section class="summary">
@@ -57,83 +56,83 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-vehicletypecondition"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Enum Constant</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#A_DOUBLE">A_DOUBLE</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#A_DOUBLE">A_DOUBLE</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A-Double trailer configuration.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#AB_TRIPLE">AB_TRIPLE</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#AB_TRIPLE">AB_TRIPLE</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">AB-Triple trailer configuration.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#B_DOUBLE">B_DOUBLE</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#B_DOUBLE">B_DOUBLE</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">B-Double trailer configuration.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#B_TRIPLE">B_TRIPLE</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#B_TRIPLE">B_TRIPLE</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">B-Triple trailer configuration.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#BUS">BUS</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#BUS">BUS</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Bus.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#C_DOUBLE">C_DOUBLE</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#C_DOUBLE">C_DOUBLE</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">C-Double trailer configuration.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#CHARTER_BUS">CHARTER_BUS</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#CHARTER_BUS">CHARTER_BUS</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Charter bus for private hire.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#DRAWBAR">DRAWBAR</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#DRAWBAR">DRAWBAR</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Drawbar trailer.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#LINE_BUS">LINE_BUS</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#LINE_BUS">LINE_BUS</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Line bus for scheduled routes.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#REFRIGERATED_SEMI_TRAILER">REFRIGERATED_SEMI_TRAILER</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#REFRIGERATED_SEMI_TRAILER">REFRIGERATED_SEMI_TRAILER</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Refrigerated semi-trailer.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#REGIONAL_LINE_BUS">REGIONAL_LINE_BUS</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#REGIONAL_LINE_BUS">REGIONAL_LINE_BUS</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Regional line bus for regional routes.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#RIGID_AND_DOG">RIGID_AND_DOG</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#RIGID_AND_DOG">RIGID_AND_DOG</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Rigid truck with dog trailer.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#RIGID_TRUCK">RIGID_TRUCK</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#RIGID_TRUCK">RIGID_TRUCK</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Rigid truck.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#SEMI_TRAILER">SEMI_TRAILER</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#SEMI_TRAILER">SEMI_TRAILER</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Semi-trailer.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#SEMI_TRAILER_INC_PLANT_AND_CAR">SEMI_TRAILER_INC_PLANT_AND_CAR</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#SEMI_TRAILER_INC_PLANT_AND_CAR">SEMI_TRAILER_INC_PLANT_AND_CAR</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Semi-trailer including plant and car.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#SEMI_TRAILER_TOWING_DOLLY">SEMI_TRAILER_TOWING_DOLLY</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#SEMI_TRAILER_TOWING_DOLLY">SEMI_TRAILER_TOWING_DOLLY</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Semi-trailer towing a dolly.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#TRACTOR_SEMI_TRAILER">TRACTOR_SEMI_TRAILER</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#TRACTOR_SEMI_TRAILER">TRACTOR_SEMI_TRAILER</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Tractor with semi-trailer.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#TRAILER">TRAILER</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#TRAILER">TRAILER</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Vehicle with trailer.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#TRUCK">TRUCK</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#TRUCK">TRUCK</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Standard truck.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#TRUCK_AND_PIG">TRUCK_AND_PIG</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#TRUCK_AND_PIG">TRUCK_AND_PIG</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Truck with pig trailer.</div>
 </div>
@@ -151,13 +150,13 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-vehicletypecondition"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-vehicletypecondition" title="enum class in com.here.sdk.mapdata">VehicleTypeCondition</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-vehicletypecondition" title="enum class in com.here.sdk.mapdata">VehicleTypeCondition</a></code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-vehicletypecondition" title="enum class in com.here.sdk.mapdata">VehicleTypeCondition</a>[]</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#values()">values</a>()</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-vehicletypecondition" title="enum class in com.here.sdk.mapdata">VehicleTypeCondition</a>[]</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
@@ -185,140 +184,140 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="TRUCK">
 <h3>TRUCK</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-vehicletypecondition" title="enum class in com.here.sdk.mapdata">VehicleTypeCondition</a></span> <span class="element-name">TRUCK</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-vehicletypecondition" title="enum class in com.here.sdk.mapdata">VehicleTypeCondition</a></span> <span class="element-name">TRUCK</span></div>
 <div class="block"><p>Standard truck.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="TRAILER">
 <h3>TRAILER</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-vehicletypecondition" title="enum class in com.here.sdk.mapdata">VehicleTypeCondition</a></span> <span class="element-name">TRAILER</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-vehicletypecondition" title="enum class in com.here.sdk.mapdata">VehicleTypeCondition</a></span> <span class="element-name">TRAILER</span></div>
 <div class="block"><p>Vehicle with trailer.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="BUS">
 <h3>BUS</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-vehicletypecondition" title="enum class in com.here.sdk.mapdata">VehicleTypeCondition</a></span> <span class="element-name">BUS</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-vehicletypecondition" title="enum class in com.here.sdk.mapdata">VehicleTypeCondition</a></span> <span class="element-name">BUS</span></div>
 <div class="block"><p>Bus.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="LINE_BUS">
 <h3>LINE_BUS</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-vehicletypecondition" title="enum class in com.here.sdk.mapdata">VehicleTypeCondition</a></span> <span class="element-name">LINE_BUS</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-vehicletypecondition" title="enum class in com.here.sdk.mapdata">VehicleTypeCondition</a></span> <span class="element-name">LINE_BUS</span></div>
 <div class="block"><p>Line bus for scheduled routes.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="CHARTER_BUS">
 <h3>CHARTER_BUS</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-vehicletypecondition" title="enum class in com.here.sdk.mapdata">VehicleTypeCondition</a></span> <span class="element-name">CHARTER_BUS</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-vehicletypecondition" title="enum class in com.here.sdk.mapdata">VehicleTypeCondition</a></span> <span class="element-name">CHARTER_BUS</span></div>
 <div class="block"><p>Charter bus for private hire.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="REGIONAL_LINE_BUS">
 <h3>REGIONAL_LINE_BUS</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-vehicletypecondition" title="enum class in com.here.sdk.mapdata">VehicleTypeCondition</a></span> <span class="element-name">REGIONAL_LINE_BUS</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-vehicletypecondition" title="enum class in com.here.sdk.mapdata">VehicleTypeCondition</a></span> <span class="element-name">REGIONAL_LINE_BUS</span></div>
 <div class="block"><p>Regional line bus for regional routes.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="TRACTOR_SEMI_TRAILER">
 <h3>TRACTOR_SEMI_TRAILER</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-vehicletypecondition" title="enum class in com.here.sdk.mapdata">VehicleTypeCondition</a></span> <span class="element-name">TRACTOR_SEMI_TRAILER</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-vehicletypecondition" title="enum class in com.here.sdk.mapdata">VehicleTypeCondition</a></span> <span class="element-name">TRACTOR_SEMI_TRAILER</span></div>
 <div class="block"><p>Tractor with semi-trailer.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="SEMI_TRAILER">
 <h3>SEMI_TRAILER</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-vehicletypecondition" title="enum class in com.here.sdk.mapdata">VehicleTypeCondition</a></span> <span class="element-name">SEMI_TRAILER</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-vehicletypecondition" title="enum class in com.here.sdk.mapdata">VehicleTypeCondition</a></span> <span class="element-name">SEMI_TRAILER</span></div>
 <div class="block"><p>Semi-trailer.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="SEMI_TRAILER_INC_PLANT_AND_CAR">
 <h3>SEMI_TRAILER_INC_PLANT_AND_CAR</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-vehicletypecondition" title="enum class in com.here.sdk.mapdata">VehicleTypeCondition</a></span> <span class="element-name">SEMI_TRAILER_INC_PLANT_AND_CAR</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-vehicletypecondition" title="enum class in com.here.sdk.mapdata">VehicleTypeCondition</a></span> <span class="element-name">SEMI_TRAILER_INC_PLANT_AND_CAR</span></div>
 <div class="block"><p>Semi-trailer including plant and car.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="SEMI_TRAILER_TOWING_DOLLY">
 <h3>SEMI_TRAILER_TOWING_DOLLY</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-vehicletypecondition" title="enum class in com.here.sdk.mapdata">VehicleTypeCondition</a></span> <span class="element-name">SEMI_TRAILER_TOWING_DOLLY</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-vehicletypecondition" title="enum class in com.here.sdk.mapdata">VehicleTypeCondition</a></span> <span class="element-name">SEMI_TRAILER_TOWING_DOLLY</span></div>
 <div class="block"><p>Semi-trailer towing a dolly.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="REFRIGERATED_SEMI_TRAILER">
 <h3>REFRIGERATED_SEMI_TRAILER</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-vehicletypecondition" title="enum class in com.here.sdk.mapdata">VehicleTypeCondition</a></span> <span class="element-name">REFRIGERATED_SEMI_TRAILER</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-vehicletypecondition" title="enum class in com.here.sdk.mapdata">VehicleTypeCondition</a></span> <span class="element-name">REFRIGERATED_SEMI_TRAILER</span></div>
 <div class="block"><p>Refrigerated semi-trailer.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="A_DOUBLE">
 <h3>A_DOUBLE</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-vehicletypecondition" title="enum class in com.here.sdk.mapdata">VehicleTypeCondition</a></span> <span class="element-name">A_DOUBLE</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-vehicletypecondition" title="enum class in com.here.sdk.mapdata">VehicleTypeCondition</a></span> <span class="element-name">A_DOUBLE</span></div>
 <div class="block"><p>A-Double trailer configuration.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="B_DOUBLE">
 <h3>B_DOUBLE</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-vehicletypecondition" title="enum class in com.here.sdk.mapdata">VehicleTypeCondition</a></span> <span class="element-name">B_DOUBLE</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-vehicletypecondition" title="enum class in com.here.sdk.mapdata">VehicleTypeCondition</a></span> <span class="element-name">B_DOUBLE</span></div>
 <div class="block"><p>B-Double trailer configuration.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="C_DOUBLE">
 <h3>C_DOUBLE</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-vehicletypecondition" title="enum class in com.here.sdk.mapdata">VehicleTypeCondition</a></span> <span class="element-name">C_DOUBLE</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-vehicletypecondition" title="enum class in com.here.sdk.mapdata">VehicleTypeCondition</a></span> <span class="element-name">C_DOUBLE</span></div>
 <div class="block"><p>C-Double trailer configuration.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="AB_TRIPLE">
 <h3>AB_TRIPLE</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-vehicletypecondition" title="enum class in com.here.sdk.mapdata">VehicleTypeCondition</a></span> <span class="element-name">AB_TRIPLE</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-vehicletypecondition" title="enum class in com.here.sdk.mapdata">VehicleTypeCondition</a></span> <span class="element-name">AB_TRIPLE</span></div>
 <div class="block"><p>AB-Triple trailer configuration.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="B_TRIPLE">
 <h3>B_TRIPLE</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-vehicletypecondition" title="enum class in com.here.sdk.mapdata">VehicleTypeCondition</a></span> <span class="element-name">B_TRIPLE</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-vehicletypecondition" title="enum class in com.here.sdk.mapdata">VehicleTypeCondition</a></span> <span class="element-name">B_TRIPLE</span></div>
 <div class="block"><p>B-Triple trailer configuration.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="RIGID_TRUCK">
 <h3>RIGID_TRUCK</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-vehicletypecondition" title="enum class in com.here.sdk.mapdata">VehicleTypeCondition</a></span> <span class="element-name">RIGID_TRUCK</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-vehicletypecondition" title="enum class in com.here.sdk.mapdata">VehicleTypeCondition</a></span> <span class="element-name">RIGID_TRUCK</span></div>
 <div class="block"><p>Rigid truck.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="RIGID_AND_DOG">
 <h3>RIGID_AND_DOG</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-vehicletypecondition" title="enum class in com.here.sdk.mapdata">VehicleTypeCondition</a></span> <span class="element-name">RIGID_AND_DOG</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-vehicletypecondition" title="enum class in com.here.sdk.mapdata">VehicleTypeCondition</a></span> <span class="element-name">RIGID_AND_DOG</span></div>
 <div class="block"><p>Rigid truck with dog trailer.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="TRUCK_AND_PIG">
 <h3>TRUCK_AND_PIG</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-vehicletypecondition" title="enum class in com.here.sdk.mapdata">VehicleTypeCondition</a></span> <span class="element-name">TRUCK_AND_PIG</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-vehicletypecondition" title="enum class in com.here.sdk.mapdata">VehicleTypeCondition</a></span> <span class="element-name">TRUCK_AND_PIG</span></div>
 <div class="block"><p>Truck with pig trailer.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="DRAWBAR">
 <h3>DRAWBAR</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-vehicletypecondition" title="enum class in com.here.sdk.mapdata">VehicleTypeCondition</a></span> <span class="element-name">DRAWBAR</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-vehicletypecondition" title="enum class in com.here.sdk.mapdata">VehicleTypeCondition</a></span> <span class="element-name">DRAWBAR</span></div>
 <div class="block"><p>Drawbar trailer.</p></div>
 </section>
 </li>
@@ -333,7 +332,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="values()">
 <h3>values</h3>
-<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-vehicletypecondition" title="enum class in com.here.sdk.mapdata">VehicleTypeCondition</a>[]</span> <span class="element-name">values</span>()</div>
+<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-navigate-vehicletypecondition" title="enum class in com.here.sdk.mapdata">VehicleTypeCondition</a>[]</span> <span class="element-name">values</span>()</div>
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
 <dl class="notes">
@@ -345,7 +344,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="valueOf(java.lang.String)">
 <h3>valueOf</h3>
-<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-vehicletypecondition" title="enum class in com.here.sdk.mapdata">VehicleTypeCondition</a></span> <span class="element-name">valueOf</span><wbr/><span class="parameters">(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</span></div>
+<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-navigate-vehicletypecondition" title="enum class in com.here.sdk.mapdata">VehicleTypeCondition</a></span> <span class="element-name">valueOf</span><wbr/><span class="parameters">(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</span></div>
 <div class="block">Returns the enum constant of this class with the specified name.
 The string must match <i>exactly</i> an identifier used to declare an
 enum constant in this class.  (Extraneous whitespace characters are 

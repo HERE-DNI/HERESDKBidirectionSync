@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-animation-easing-instantiationerror
 `
 <div class="sdk-for-android">
 <!-- Easing.InstantiationErrorCode.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,27 +19,27 @@ slug: "sdk-for-android-navigate-com-here-sdk-animation-easing-instantiationerror
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.animation</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-animation-package-summary">com.here.sdk.animation</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">java.lang.Enum</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-easing.instantiationerrorcode" title="enum class in com.here.sdk.animation">Easing.InstantiationErrorCode</a>&gt;
+<div class="inheritance"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">java.lang.Enum</a>&lt;<a href="sdk-for-android-navigate-easing.instantiationerrorcode" title="enum class in com.here.sdk.animation">Easing.InstantiationErrorCode</a>&gt;
 <div class="inheritance">com.here.sdk.animation.Easing.InstantiationErrorCode</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>All Implemented Interfaces:</dt>
-<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" title="class or interface in java.io">Serializable</a></code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" title="class or interface in java.lang">Comparable</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-easing.instantiationerrorcode" title="enum class in com.here.sdk.animation">Easing.InstantiationErrorCode</a>&gt;</code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" title="class or interface in java.lang.constant">Constable</a></code></dd>
+<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" title="class or interface in java.io">Serializable</a></code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" title="class or interface in java.lang">Comparable</a>&lt;<a href="sdk-for-android-navigate-easing.instantiationerrorcode" title="enum class in com.here.sdk.animation">Easing.InstantiationErrorCode</a>&gt;</code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" title="class or interface in java.lang.constant">Constable</a></code></dd>
 </dl>
 <dl class="notes">
 <dt>Enclosing class:</dt>
-<dd><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-easing" title="class in com.here.sdk.animation">Easing</a></dd>
+<dd><a href="sdk-for-android-navigate-easing" title="class in com.here.sdk.animation">Easing</a></dd>
 </dl>
 <hr/>
 <div class="type-signature"><span class="modifiers">public static enum </span><span class="element-name type-name-label">Easing.InstantiationErrorCode</span>
-<span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-easing.instantiationerrorcode" title="enum class in com.here.sdk.animation">Easing.InstantiationErrorCode</a>&gt;</span></div>
-<div class="block"><p>Describes a reason for failing to create an <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-easing" title="class in com.here.sdk.animation"><code>Easing</code></a>.</p></div>
+<span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a href="sdk-for-android-navigate-easing.instantiationerrorcode" title="enum class in com.here.sdk.animation">Easing.InstantiationErrorCode</a>&gt;</span></div>
+<div class="block"><p>Describes a reason for failing to create an <a href="sdk-for-android-navigate-easing" title="class in com.here.sdk.animation"><code>Easing</code></a>.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -61,23 +60,23 @@ slug: "sdk-for-android-navigate-com-here-sdk-animation-easing-instantiationerror
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Enum Constant</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#SAMPLED_DATA_POINT_COUNT_TOO_SMALL">SAMPLED_DATA_POINT_COUNT_TOO_SMALL</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#SAMPLED_DATA_POINT_COUNT_TOO_SMALL">SAMPLED_DATA_POINT_COUNT_TOO_SMALL</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Number of sampled data points in the list that defines an easing function is too small (i.e.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#SAMPLED_DATA_POINTS_FIRST_X_VALUE_INVALID">SAMPLED_DATA_POINTS_FIRST_X_VALUE_INVALID</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#SAMPLED_DATA_POINTS_FIRST_X_VALUE_INVALID">SAMPLED_DATA_POINTS_FIRST_X_VALUE_INVALID</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Invalid first value of X in the list of sampled data points that define an easing function.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#SAMPLED_DATA_POINTS_LAST_X_VALUE_INVALID">SAMPLED_DATA_POINTS_LAST_X_VALUE_INVALID</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#SAMPLED_DATA_POINTS_LAST_X_VALUE_INVALID">SAMPLED_DATA_POINTS_LAST_X_VALUE_INVALID</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Invalid last value of X in the list of sampled data points that define an easing function.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#SAMPLED_DATA_X_VALUE_OUT_OF_RANGE">SAMPLED_DATA_X_VALUE_OUT_OF_RANGE</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#SAMPLED_DATA_X_VALUE_OUT_OF_RANGE">SAMPLED_DATA_X_VALUE_OUT_OF_RANGE</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Sampled data point X values that define an easing function are out of range [0, 1].</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#SAMPLED_DATA_X_VALUES_NON_MONOTONIC">SAMPLED_DATA_X_VALUES_NON_MONOTONIC</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#SAMPLED_DATA_X_VALUES_NON_MONOTONIC">SAMPLED_DATA_X_VALUES_NON_MONOTONIC</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Sampled data point X values in the list that defines an easing function don't increase monotonically.</div>
 </div>
@@ -95,13 +94,13 @@ slug: "sdk-for-android-navigate-com-here-sdk-animation-easing-instantiationerror
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-easing.instantiationerrorcode" title="enum class in com.here.sdk.animation">Easing.InstantiationErrorCode</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-easing.instantiationerrorcode" title="enum class in com.here.sdk.animation">Easing.InstantiationErrorCode</a></code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-easing.instantiationerrorcode" title="enum class in com.here.sdk.animation">Easing.InstantiationErrorCode</a>[]</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#values()">values</a>()</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-easing.instantiationerrorcode" title="enum class in com.here.sdk.animation">Easing.InstantiationErrorCode</a>[]</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
@@ -129,35 +128,35 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="SAMPLED_DATA_POINT_COUNT_TOO_SMALL">
 <h3>SAMPLED_DATA_POINT_COUNT_TOO_SMALL</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-easing.instantiationerrorcode" title="enum class in com.here.sdk.animation">Easing.InstantiationErrorCode</a></span> <span class="element-name">SAMPLED_DATA_POINT_COUNT_TOO_SMALL</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-easing.instantiationerrorcode" title="enum class in com.here.sdk.animation">Easing.InstantiationErrorCode</a></span> <span class="element-name">SAMPLED_DATA_POINT_COUNT_TOO_SMALL</span></div>
 <div class="block"><p>Number of sampled data points in the list that defines an easing function is too small (i.e. less than 2).</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="SAMPLED_DATA_POINTS_FIRST_X_VALUE_INVALID">
 <h3>SAMPLED_DATA_POINTS_FIRST_X_VALUE_INVALID</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-easing.instantiationerrorcode" title="enum class in com.here.sdk.animation">Easing.InstantiationErrorCode</a></span> <span class="element-name">SAMPLED_DATA_POINTS_FIRST_X_VALUE_INVALID</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-easing.instantiationerrorcode" title="enum class in com.here.sdk.animation">Easing.InstantiationErrorCode</a></span> <span class="element-name">SAMPLED_DATA_POINTS_FIRST_X_VALUE_INVALID</span></div>
 <div class="block"><p>Invalid first value of X in the list of sampled data points that define an easing function. First value of X must be 0.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="SAMPLED_DATA_POINTS_LAST_X_VALUE_INVALID">
 <h3>SAMPLED_DATA_POINTS_LAST_X_VALUE_INVALID</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-easing.instantiationerrorcode" title="enum class in com.here.sdk.animation">Easing.InstantiationErrorCode</a></span> <span class="element-name">SAMPLED_DATA_POINTS_LAST_X_VALUE_INVALID</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-easing.instantiationerrorcode" title="enum class in com.here.sdk.animation">Easing.InstantiationErrorCode</a></span> <span class="element-name">SAMPLED_DATA_POINTS_LAST_X_VALUE_INVALID</span></div>
 <div class="block"><p>Invalid last value of X in the list of sampled data points that define an easing function. Last value of X must be 1.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="SAMPLED_DATA_X_VALUE_OUT_OF_RANGE">
 <h3>SAMPLED_DATA_X_VALUE_OUT_OF_RANGE</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-easing.instantiationerrorcode" title="enum class in com.here.sdk.animation">Easing.InstantiationErrorCode</a></span> <span class="element-name">SAMPLED_DATA_X_VALUE_OUT_OF_RANGE</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-easing.instantiationerrorcode" title="enum class in com.here.sdk.animation">Easing.InstantiationErrorCode</a></span> <span class="element-name">SAMPLED_DATA_X_VALUE_OUT_OF_RANGE</span></div>
 <div class="block"><p>Sampled data point X values that define an easing function are out of range [0, 1].</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="SAMPLED_DATA_X_VALUES_NON_MONOTONIC">
 <h3>SAMPLED_DATA_X_VALUES_NON_MONOTONIC</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-easing.instantiationerrorcode" title="enum class in com.here.sdk.animation">Easing.InstantiationErrorCode</a></span> <span class="element-name">SAMPLED_DATA_X_VALUES_NON_MONOTONIC</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-easing.instantiationerrorcode" title="enum class in com.here.sdk.animation">Easing.InstantiationErrorCode</a></span> <span class="element-name">SAMPLED_DATA_X_VALUES_NON_MONOTONIC</span></div>
 <div class="block"><p>Sampled data point X values in the list that defines an easing function don't increase monotonically.</p></div>
 </section>
 </li>
@@ -172,7 +171,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="values()">
 <h3>values</h3>
-<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-easing.instantiationerrorcode" title="enum class in com.here.sdk.animation">Easing.InstantiationErrorCode</a>[]</span> <span class="element-name">values</span>()</div>
+<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-navigate-easing.instantiationerrorcode" title="enum class in com.here.sdk.animation">Easing.InstantiationErrorCode</a>[]</span> <span class="element-name">values</span>()</div>
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
 <dl class="notes">
@@ -184,7 +183,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="valueOf(java.lang.String)">
 <h3>valueOf</h3>
-<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-easing.instantiationerrorcode" title="enum class in com.here.sdk.animation">Easing.InstantiationErrorCode</a></span> <span class="element-name">valueOf</span><wbr/><span class="parameters">(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</span></div>
+<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-navigate-easing.instantiationerrorcode" title="enum class in com.here.sdk.animation">Easing.InstantiationErrorCode</a></span> <span class="element-name">valueOf</span><wbr/><span class="parameters">(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</span></div>
 <div class="block">Returns the enum constant of this class with the specified name.
 The string must match <i>exactly</i> an identifier used to declare an
 enum constant in this class.  (Extraneous whitespace characters are 

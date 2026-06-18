@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-segmentspecialspeedsituatio
 `
 <div class="sdk-for-android">
 <!-- SegmentSpecialSpeedSituation.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,7 +19,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-segmentspecialspeedsituatio
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.mapdata</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-mapdata-package-summary">com.here.sdk.mapdata</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -46,18 +45,18 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-segmentspecialspeedsituatio
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-timerule" title="class in com.here.sdk.core">TimeRule</a>&gt;</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#appliesDuring">appliesDuring</a></code></div>
+<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-timerule" title="class in com.here.sdk.core">TimeRule</a>&gt;</code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#appliesDuring">appliesDuring</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The times during which the condition applies.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-specialspeedtype" title="enum class in com.here.sdk.mapdata">SpecialSpeedType</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#specialSpeedType">specialSpeedType</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-specialspeedtype" title="enum class in com.here.sdk.mapdata">SpecialSpeedType</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#specialSpeedType">specialSpeedType</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Represents the speed situation type.</div>
 </div>
 <div class="col-first even-row-color"><code>double</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#speedLimitInMetersPerSecond">speedLimitInMetersPerSecond</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#speedLimitInMetersPerSecond">speedLimitInMetersPerSecond</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Overrides normal speed limit for this situation.</div>
 </div>
@@ -72,9 +71,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-segmentspecialspeedsituatio
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.mapdata.SpecialSpeedType,double,java.util.List)">SegmentSpecialSpeedSituation</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-specialspeedtype" title="enum class in com.here.sdk.mapdata">SpecialSpeedType</a> specialSpeedType,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.mapdata.SpecialSpeedType,double,java.util.List)">SegmentSpecialSpeedSituation</a><wbr/>(<a href="sdk-for-android-navigate-specialspeedtype" title="enum class in com.here.sdk.mapdata">SpecialSpeedType</a> specialSpeedType,
  double speedLimitInMetersPerSecond,
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-timerule" title="class in com.here.sdk.core">TimeRule</a>&gt; appliesDuring)</code></div>
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-timerule" title="class in com.here.sdk.core">TimeRule</a>&gt; appliesDuring)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance with default values.</div>
 </div>
@@ -93,10 +92,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-segmentspecialspeedsituatio
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 </div>
 </div>
@@ -119,7 +118,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-segmentspecialspeedsituatio
 <section class="detail" id="specialSpeedType">
 <h3>specialSpeedType</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-specialspeedtype" title="enum class in com.here.sdk.mapdata">SpecialSpeedType</a></span> <span class="element-name">specialSpeedType</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-specialspeedtype" title="enum class in com.here.sdk.mapdata">SpecialSpeedType</a></span> <span class="element-name">specialSpeedType</span></div>
 <div class="block"><p>Represents the speed situation type.</p></div>
 </section>
 </li>
@@ -137,7 +136,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-segmentspecialspeedsituatio
 <section class="detail" id="appliesDuring">
 <h3>appliesDuring</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-timerule" title="class in com.here.sdk.core">TimeRule</a>&gt;</span> <span class="element-name">appliesDuring</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-timerule" title="class in com.here.sdk.core">TimeRule</a>&gt;</span> <span class="element-name">appliesDuring</span></div>
 <div class="block"><p>The times during which the condition applies.
  May be empty for all special_speed_type values except <code>TIME_DEPENDENT</code> and <code>APPROXIMATE_SEASONAL_TIME</code>.</p></div>
 </section>
@@ -154,10 +153,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-segmentspecialspeedsituatio
 <section class="detail" id="&lt;init&gt;(com.here.sdk.mapdata.SpecialSpeedType,double,java.util.List)">
 <h3>SegmentSpecialSpeedSituation</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">SegmentSpecialSpeedSituation</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-specialspeedtype" title="enum class in com.here.sdk.mapdata">SpecialSpeedType</a> specialSpeedType,
+ <a href="sdk-for-android-navigate-specialspeedtype" title="enum class in com.here.sdk.mapdata">SpecialSpeedType</a> specialSpeedType,
  double speedLimitInMetersPerSecond,
  @NonNull
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-timerule" title="class in com.here.sdk.core">TimeRule</a>&gt; appliesDuring)</span></div>
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-timerule" title="class in com.here.sdk.core">TimeRule</a>&gt; appliesDuring)</span></div>
 <div class="block"><p>Creates a new instance with default values.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

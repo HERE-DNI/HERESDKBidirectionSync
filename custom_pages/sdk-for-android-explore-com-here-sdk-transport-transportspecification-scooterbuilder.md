@@ -7,7 +7,6 @@ slug: "sdk-for-android-explore-com-here-sdk-transport-transportspecification-sco
 `
 <div class="sdk-for-android">
 <!-- TransportSpecification.ScooterBuilder.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,23 +19,23 @@ slug: "sdk-for-android-explore-com-here-sdk-transport-transportspecification-sco
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-package-summary">com.here.sdk.transport</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-transport-package-summary">com.here.sdk.transport</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-nativebase" title="class in com.here">com.here.NativeBase</a>
+<div class="inheritance"><a href="sdk-for-android-explore-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.transport.TransportSpecification.ScooterBuilder</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>Enclosing class:</dt>
-<dd><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-transportspecification" title="class in com.here.sdk.transport">TransportSpecification</a></dd>
+<dd><a href="sdk-for-android-explore-transportspecification" title="class in com.here.sdk.transport">TransportSpecification</a></dd>
 </dl>
 <hr/>
 <div class="type-signature"><span class="modifiers">public static final class </span><span class="element-name type-name-label">TransportSpecification.ScooterBuilder</span>
-<span class="extends-implements">extends <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-nativebase" title="class in com.here">NativeBase</a></span></div>
-<div class="block"><p>This class constructs a <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a> for a scooter.</p></div>
+<span class="extends-implements">extends <a href="sdk-for-android-explore-nativebase" title="class in com.here">NativeBase</a></span></div>
+<div class="block"><p>This class constructs a <a href="sdk-for-android-explore-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a> for a scooter.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -48,7 +47,7 @@ slug: "sdk-for-android-explore-com-here-sdk-transport-transportspecification-sco
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#%3Cinit%3E()">ScooterBuilder</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#%3Cinit%3E()">ScooterBuilder</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance of this class.</div>
 </div>
@@ -66,19 +65,19 @@ slug: "sdk-for-android-explore-com-here-sdk-transport-transportspecification-sco
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-transportspecification" title="class in com.here.sdk.transport">TransportSpecification</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#build()">build</a>()</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-transportspecification" title="class in com.here.sdk.transport">TransportSpecification</a></code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#build()">build</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
-<div class="block">Builds the <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a> object for a scooter with the specifications taken
- from the <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-transportspecification.scooterbuilder" title="class in com.here.sdk.transport"><code>TransportSpecification.ScooterBuilder</code></a> object.</div>
+<div class="block">Builds the <a href="sdk-for-android-explore-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a> object for a scooter with the specifications taken
+ from the <a href="sdk-for-android-explore-transportspecification.scooterbuilder" title="class in com.here.sdk.transport"><code>TransportSpecification.ScooterBuilder</code></a> object.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-transportspecification.scooterbuilder" title="class in com.here.sdk.transport">TransportSpecification.ScooterBuilder</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#withScooterSpecification(com.here.sdk.transport.ScooterSpecification)">withScooterSpecification</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-scooterspecification" title="class in com.here.sdk.transport">ScooterSpecification</a> scooterSpecification)</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-transportspecification.scooterbuilder" title="class in com.here.sdk.transport">TransportSpecification.ScooterBuilder</a></code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#withScooterSpecification(com.here.sdk.transport.ScooterSpecification)">withScooterSpecification</a><wbr/>(<a href="sdk-for-android-explore-scooterspecification" title="class in com.here.sdk.transport">ScooterSpecification</a> scooterSpecification)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the scooter specification.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-transportspecification.scooterbuilder" title="class in com.here.sdk.transport">TransportSpecification.ScooterBuilder</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#withVehicleSpecification(com.here.sdk.transport.VehicleSpecification)">withVehicleSpecification</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-vehiclespecification" title="class in com.here.sdk.transport">VehicleSpecification</a> vehicleSpecification)</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-transportspecification.scooterbuilder" title="class in com.here.sdk.transport">TransportSpecification.ScooterBuilder</a></code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#withVehicleSpecification(com.here.sdk.transport.VehicleSpecification)">withVehicleSpecification</a><wbr/>(<a href="sdk-for-android-explore-vehiclespecification" title="class in com.here.sdk.transport">VehicleSpecification</a> vehicleSpecification)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the vehicle specification.</div>
 </div>
@@ -118,14 +117,14 @@ slug: "sdk-for-android-explore-com-here-sdk-transport-transportspecification-sco
 <section class="detail" id="withScooterSpecification(com.here.sdk.transport.ScooterSpecification)">
 <h3>withScooterSpecification</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-transportspecification.scooterbuilder" title="class in com.here.sdk.transport">TransportSpecification.ScooterBuilder</a></span> <span class="element-name">withScooterSpecification</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-scooterspecification" title="class in com.here.sdk.transport">ScooterSpecification</a> scooterSpecification)</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-transportspecification.scooterbuilder" title="class in com.here.sdk.transport">TransportSpecification.ScooterBuilder</a></span> <span class="element-name">withScooterSpecification</span><wbr/><span class="parameters">(@NonNull
+ <a href="sdk-for-android-explore-scooterspecification" title="class in com.here.sdk.transport">ScooterSpecification</a> scooterSpecification)</span></div>
 <div class="block"><p>Sets the scooter specification.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>scooterSpecification</code> - <p>The scooter specification.</p></dd>
 <dt>Returns:</dt>
-<dd><p>The <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-transportspecification.scooterbuilder" title="class in com.here.sdk.transport"><code>TransportSpecification.ScooterBuilder</code></a> object with the scooter specification set to the new value.</p></dd>
+<dd><p>The <a href="sdk-for-android-explore-transportspecification.scooterbuilder" title="class in com.here.sdk.transport"><code>TransportSpecification.ScooterBuilder</code></a> object with the scooter specification set to the new value.</p></dd>
 </dl>
 </section>
 </li>
@@ -133,14 +132,14 @@ slug: "sdk-for-android-explore-com-here-sdk-transport-transportspecification-sco
 <section class="detail" id="withVehicleSpecification(com.here.sdk.transport.VehicleSpecification)">
 <h3>withVehicleSpecification</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-transportspecification.scooterbuilder" title="class in com.here.sdk.transport">TransportSpecification.ScooterBuilder</a></span> <span class="element-name">withVehicleSpecification</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-vehiclespecification" title="class in com.here.sdk.transport">VehicleSpecification</a> vehicleSpecification)</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-transportspecification.scooterbuilder" title="class in com.here.sdk.transport">TransportSpecification.ScooterBuilder</a></span> <span class="element-name">withVehicleSpecification</span><wbr/><span class="parameters">(@NonNull
+ <a href="sdk-for-android-explore-vehiclespecification" title="class in com.here.sdk.transport">VehicleSpecification</a> vehicleSpecification)</span></div>
 <div class="block"><p>Sets the vehicle specification.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>vehicleSpecification</code> - <p>The vehicle specification.</p></dd>
 <dt>Returns:</dt>
-<dd><p>The <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-transportspecification.scooterbuilder" title="class in com.here.sdk.transport"><code>TransportSpecification.ScooterBuilder</code></a> object with the vehicle specification set to the new value.</p></dd>
+<dd><p>The <a href="sdk-for-android-explore-transportspecification.scooterbuilder" title="class in com.here.sdk.transport"><code>TransportSpecification.ScooterBuilder</code></a> object with the vehicle specification set to the new value.</p></dd>
 </dl>
 </section>
 </li>
@@ -148,12 +147,12 @@ slug: "sdk-for-android-explore-com-here-sdk-transport-transportspecification-sco
 <section class="detail" id="build()">
 <h3>build</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-transportspecification" title="class in com.here.sdk.transport">TransportSpecification</a></span> <span class="element-name">build</span>()</div>
-<div class="block"><p>Builds the <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a> object for a scooter with the specifications taken
- from the <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-transportspecification.scooterbuilder" title="class in com.here.sdk.transport"><code>TransportSpecification.ScooterBuilder</code></a> object.</p></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-transportspecification" title="class in com.here.sdk.transport">TransportSpecification</a></span> <span class="element-name">build</span>()</div>
+<div class="block"><p>Builds the <a href="sdk-for-android-explore-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a> object for a scooter with the specifications taken
+ from the <a href="sdk-for-android-explore-transportspecification.scooterbuilder" title="class in com.here.sdk.transport"><code>TransportSpecification.ScooterBuilder</code></a> object.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
-<dd><p>The <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a> object created from the <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-transportspecification.scooterbuilder" title="class in com.here.sdk.transport"><code>TransportSpecification.ScooterBuilder</code></a> object.</p></dd>
+<dd><p>The <a href="sdk-for-android-explore-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a> object created from the <a href="sdk-for-android-explore-transportspecification.scooterbuilder" title="class in com.here.sdk.transport"><code>TransportSpecification.ScooterBuilder</code></a> object.</p></dd>
 </dl>
 </section>
 </li>

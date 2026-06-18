@@ -7,7 +7,6 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcontentsettings-trafficre
 `
 <div class="sdk-for-android">
 <!-- MapContentSettings.TrafficRefreshPeriodException.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,7 +19,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcontentsettings-trafficre
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-package-summary">com.here.sdk.mapview</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -37,7 +36,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcontentsettings-trafficre
 </dl>
 <dl class="notes">
 <dt>Enclosing class:</dt>
-<dd><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-mapcontentsettings" title="class in com.here.sdk.mapview">MapContentSettings</a></dd>
+<dd><a href="sdk-for-android-explore-mapcontentsettings" title="class in com.here.sdk.mapview">MapContentSettings</a></dd>
 </dl>
 <hr/>
 <div class="type-signature"><span class="modifiers">public static final class </span><span class="element-name type-name-label">MapContentSettings.TrafficRefreshPeriodException</span>
@@ -47,7 +46,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcontentsettings-trafficre
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-serialized-form#com.here.sdk.mapview.MapContentSettings.TrafficRefreshPeriodException">Serialized Form</a></li>
+<li><a href="sdk-for-android-explore-serialized-form#com.here.sdk.mapview.MapContentSettings.TrafficRefreshPeriodException">Serialized Form</a></li>
 </ul>
 </dd>
 </dl>

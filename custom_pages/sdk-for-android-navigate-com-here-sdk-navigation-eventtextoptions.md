@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-eventtextoptions"
 `
 <div class="sdk-for-android">
 <!-- EventTextOptions.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,7 +19,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-eventtextoptions"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.navigation</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-navigation-package-summary">com.here.sdk.navigation</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -44,10 +43,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-eventtextoptions"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>boolean</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#enableSpatialAudio">enableSpatialAudio</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#enableSpatialAudio">enableSpatialAudio</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A flag that indicates whether spatial audio details should be triggered when generating voice notifications
- under <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-eventtextlistener" title="interface in com.here.sdk.navigation"><code>EventTextListener</code></a>.</div>
+ under <a href="sdk-for-android-navigate-eventtextlistener" title="interface in com.here.sdk.navigation"><code>EventTextListener</code></a>.</div>
 </div>
 </div>
 </section>
@@ -60,7 +59,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-eventtextoptions"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#%3Cinit%3E()">EventTextOptions</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E()">EventTextOptions</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -79,10 +78,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-eventtextoptions"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 </div>
 </div>
@@ -106,7 +105,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-eventtextoptions"
 <h3>enableSpatialAudio</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">enableSpatialAudio</span></div>
 <div class="block"><p>A flag that indicates whether spatial audio details should be triggered when generating voice notifications
- under <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-eventtextlistener" title="interface in com.here.sdk.navigation"><code>EventTextListener</code></a>. If enabled, a set of details required to spatialize
+ under <a href="sdk-for-android-navigate-eventtextlistener" title="interface in com.here.sdk.navigation"><code>EventTextListener</code></a>. If enabled, a set of details required to spatialize
  an audio cue will be generated and exposed.</p></div>
 </section>
 </li>

@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-venueengineinitcallback"
 `
 <div class="sdk-for-android">
 <!-- VenueEngineInitCallback.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,7 +19,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-venueengineinitcallback"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.venue</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-venue-package-summary">com.here.sdk.venue</a></div>
 
 </div>
 <section class="class-description" id="class-description">
@@ -47,7 +46,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-venueengineinitcallback"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#onVenueEngineInit()">onVenueEngineInit</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onVenueEngineInit()">onVenueEngineInit</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">This method will be called on the main thread when VenueEngine initialization is completed.</div>
 </div>

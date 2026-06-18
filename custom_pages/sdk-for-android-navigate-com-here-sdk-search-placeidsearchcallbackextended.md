@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-placeidsearchcallbackextende
 `
 <div class="sdk-for-android">
 <!-- PlaceIdSearchCallbackExtended.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,7 +19,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-placeidsearchcallbackextende
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.search</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-search-package-summary">com.here.sdk.search</a></div>
 
 </div>
 <section class="class-description" id="class-description">
@@ -47,9 +46,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-placeidsearchcallbackextende
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#onPlaceIdSearchExtendedCompleted(com.here.sdk.search.SearchError,com.here.sdk.search.Place,com.here.sdk.search.ResponseDetails)">onPlaceIdSearchExtendedCompleted</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-searcherror" title="enum class in com.here.sdk.search">SearchError</a> searchError,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-place" title="class in com.here.sdk.search">Place</a> place,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-responsedetails" title="class in com.here.sdk.search">ResponseDetails</a> responseDetails)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onPlaceIdSearchExtendedCompleted(com.here.sdk.search.SearchError,com.here.sdk.search.Place,com.here.sdk.search.ResponseDetails)">onPlaceIdSearchExtendedCompleted</a><wbr/>(<a href="sdk-for-android-navigate-searcherror" title="enum class in com.here.sdk.search">SearchError</a> searchError,
+ <a href="sdk-for-android-navigate-place" title="class in com.here.sdk.search">Place</a> place,
+ <a href="sdk-for-android-navigate-responsedetails" title="class in com.here.sdk.search">ResponseDetails</a> responseDetails)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">The method will be called on the main thread when a search by id call has been completed.</div>
 </div>
@@ -71,11 +70,11 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-placeidsearchcallbackextende
 <section class="detail" id="onPlaceIdSearchExtendedCompleted(com.here.sdk.search.SearchError,com.here.sdk.search.Place,com.here.sdk.search.ResponseDetails)">
 <h3>onPlaceIdSearchExtendedCompleted</h3>
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">onPlaceIdSearchExtendedCompleted</span><wbr/><span class="parameters">(@Nullable
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-searcherror" title="enum class in com.here.sdk.search">SearchError</a> searchError,
+ <a href="sdk-for-android-navigate-searcherror" title="enum class in com.here.sdk.search">SearchError</a> searchError,
  @Nullable
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-place" title="class in com.here.sdk.search">Place</a> place,
+ <a href="sdk-for-android-navigate-place" title="class in com.here.sdk.search">Place</a> place,
  @Nullable
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-responsedetails" title="class in com.here.sdk.search">ResponseDetails</a> responseDetails)</span></div>
+ <a href="sdk-for-android-navigate-responsedetails" title="class in com.here.sdk.search">ResponseDetails</a> responseDetails)</span></div>
 <div class="block"><p>The method will be called on the main thread when a search by id call has been completed.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

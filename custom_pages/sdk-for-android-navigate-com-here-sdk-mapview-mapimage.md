@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapimage"
 `
 <div class="sdk-for-android">
 <!-- MapImage.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,20 +19,20 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapimage"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.mapview</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-nativebase" title="class in com.here">com.here.NativeBase</a>
+<div class="inheritance"><a href="sdk-for-android-navigate-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.mapview.MapImage</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 <hr/>
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">MapImage</span>
-<span class="extends-implements">extends <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-nativebase" title="class in com.here">NativeBase</a></span></div>
-<div class="block"><p>Represents a drawable resource that can be used by a <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapmarker" title="class in com.here.sdk.mapview"><code>MapMarker</code></a>, <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapmarker3d" title="class in com.here.sdk.mapview"><code>MapMarker3D</code></a> or <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapimageoverlay" title="class in com.here.sdk.mapview"><code>MapImageOverlay</code></a> to be shown on the map.
- Supported formats are listed in <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-imageformat" title="enum class in com.here.sdk.mapview"><code>ImageFormat</code></a>.
+<span class="extends-implements">extends <a href="sdk-for-android-navigate-nativebase" title="class in com.here">NativeBase</a></span></div>
+<div class="block"><p>Represents a drawable resource that can be used by a <a href="sdk-for-android-navigate-mapmarker" title="class in com.here.sdk.mapview"><code>MapMarker</code></a>, <a href="sdk-for-android-navigate-mapmarker3d" title="class in com.here.sdk.mapview"><code>MapMarker3D</code></a> or <a href="sdk-for-android-navigate-mapimageoverlay" title="class in com.here.sdk.mapview"><code>MapImageOverlay</code></a> to be shown on the map.
+ Supported formats are listed in <a href="sdk-for-android-navigate-imageformat" title="enum class in com.here.sdk.mapview"><code>ImageFormat</code></a>.
  SVG format allows custom fonts in text using font-family attribute by prior registration via <code>AssetsManager.registerFont</code>.
  </p><p>It is recommended to associate a resource with a single <code>MapImage</code> instance in order to enable
  resource sharing and reduce the amount of needed memory.</p></div>
@@ -48,19 +47,19 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapimage"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#%3Cinit%3E(byte%5B%5D,com.here.sdk.mapview.ImageFormat)">MapImage</a><wbr/>(byte[] pixelData,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-imageformat" title="enum class in com.here.sdk.mapview">ImageFormat</a> imageFormat)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(byte%5B%5D,com.here.sdk.mapview.ImageFormat)">MapImage</a><wbr/>(byte[] pixelData,
+ <a href="sdk-for-android-navigate-imageformat" title="enum class in com.here.sdk.mapview">ImageFormat</a> imageFormat)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new map image from the provided image data.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#%3Cinit%3E(byte%5B%5D,com.here.sdk.mapview.ImageFormat,long,long)">MapImage</a><wbr/>(byte[] imageData,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-imageformat" title="enum class in com.here.sdk.mapview">ImageFormat</a> imageFormat,
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(byte%5B%5D,com.here.sdk.mapview.ImageFormat,long,long)">MapImage</a><wbr/>(byte[] imageData,
+ <a href="sdk-for-android-navigate-imageformat" title="enum class in com.here.sdk.mapview">ImageFormat</a> imageFormat,
  long width,
  long height)</code></div>
 <div class="col-last odd-row-color">
 <div class="block">Creates a new map image from the provided image data.</div>
 </div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#%3Cinit%3E(java.lang.String,long,long)">MapImage</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> filePath,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(java.lang.String,long,long)">MapImage</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> filePath,
  long width,
  long height)</code></div>
 <div class="col-last even-row-color">
@@ -93,8 +92,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapimage"
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">MapImage</span><wbr/><span class="parameters">(@NonNull
  byte[] pixelData,
  @NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-imageformat" title="enum class in com.here.sdk.mapview">ImageFormat</a> imageFormat)</span></div>
-<div class="block"><p>Creates a new map image from the provided image data. Currently only <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-imageformat#PNG"><code>ImageFormat.PNG</code></a>
+ <a href="sdk-for-android-navigate-imageformat" title="enum class in com.here.sdk.mapview">ImageFormat</a> imageFormat)</span></div>
+<div class="block"><p>Creates a new map image from the provided image data. Currently only <a href="sdk-for-android-navigate-imageformat#PNG"><code>ImageFormat.PNG</code></a>
  is accepted.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -110,13 +109,13 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapimage"
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">MapImage</span><wbr/><span class="parameters">(@NonNull
  byte[] imageData,
  @NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-imageformat" title="enum class in com.here.sdk.mapview">ImageFormat</a> imageFormat,
+ <a href="sdk-for-android-navigate-imageformat" title="enum class in com.here.sdk.mapview">ImageFormat</a> imageFormat,
  long width,
  long height)</span></div>
 <div class="block"><p>Creates a new map image from the provided image data.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
-<dd><code>imageData</code> - <p>Data to be used for the image. For image format <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-imageformat#SVG"><code>ImageFormat.SVG</code></a> the bytes
+<dd><code>imageData</code> - <p>Data to be used for the image. For image format <a href="sdk-for-android-navigate-imageformat#SVG"><code>ImageFormat.SVG</code></a> the bytes
      of a UTF-8 encoded string in SVG Tiny format are expected. For the format specification
      see https://www.w3.org/TR/SVGTiny12</p></dd>
 <dd><code>imageFormat</code> - <p>The format of the image data to be used.</p></dd>
@@ -132,7 +131,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapimage"
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> filePath,
  long width,
  long height)</span>
-         throws <span class="exceptions"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></span></div>
+         throws <span class="exceptions"><a href="sdk-for-android-navigate-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></span></div>
 <div class="block"><p>Creates a new map image from the provided path to the SVG Tiny or PNG image.
  </p><p>Will throw an error if either the height or width equals zero or the path is empty.
  </p><p>Trying to load a file that is not compliant with SVG Tiny or PNG results
@@ -142,7 +141,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapimage"
  SDK. If that cannot be ensured, then it is recommended to either copy the file to a location that
  remains accessible for the entire duration of its usage by the SDK or load and pass the file content
  to one of the <code>MapImage</code> constructors that creates instances out of image data
- (<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#%3Cinit%3E(byte%5B%5D,com.here.sdk.mapview.ImageFormat)"><code>MapImage(byte[], ImageFormat)</code></a>, <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#%3Cinit%3E(byte%5B%5D,com.here.sdk.mapview.ImageFormat,long,long)"><code>MapImage(byte[], ImageFormat, long, long)</code></a>).}
+ (<a href="sdk-for-android-navigate-index#%3Cinit%3E(byte%5B%5D,com.here.sdk.mapview.ImageFormat)"><code>MapImage(byte[], ImageFormat)</code></a>, <a href="sdk-for-android-navigate-index#%3Cinit%3E(byte%5B%5D,com.here.sdk.mapview.ImageFormat,long,long)"><code>MapImage(byte[], ImageFormat, long, long)</code></a>).}
  </p><p>This constructor needs read storage permission to be granted.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -150,7 +149,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapimage"
 <dd><code>width</code> - <p>The width of image in pixels.</p></dd>
 <dd><code>height</code> - <p>The height of image in pixels.</p></dd>
 <dt>Throws:</dt>
-<dd><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></code> - <p>Indicates what went wrong when the instantiation was attempted.</p></dd>
+<dd><code><a href="sdk-for-android-navigate-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></code> - <p>Indicates what went wrong when the instantiation was attempted.</p></dd>
 </dl>
 </section>
 </li>

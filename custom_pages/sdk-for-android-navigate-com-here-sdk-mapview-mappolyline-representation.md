@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mappolyline-representation"
 `
 <div class="sdk-for-android">
 <!-- MapPolyline.Representation.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,12 +19,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mappolyline-representation"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.mapview</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-nativebase" title="class in com.here">com.here.NativeBase</a>
-<div class="inheritance"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapitemrepresentation" title="class in com.here.sdk.mapview">com.here.sdk.mapview.MapItemRepresentation</a>
+<div class="inheritance"><a href="sdk-for-android-navigate-nativebase" title="class in com.here">com.here.NativeBase</a>
+<div class="inheritance"><a href="sdk-for-android-navigate-mapitemrepresentation" title="class in com.here.sdk.mapview">com.here.sdk.mapview.MapItemRepresentation</a>
 <div class="inheritance">com.here.sdk.mapview.MapPolyline.Representation</div>
 </div>
 </div>
@@ -33,16 +32,16 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mappolyline-representation"
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>Direct Known Subclasses:</dt>
-<dd><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mappolyline.dashimagerepresentation" title="class in com.here.sdk.mapview">MapPolyline.DashImageRepresentation</a></code>, <code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mappolyline.dashrepresentation" title="class in com.here.sdk.mapview">MapPolyline.DashRepresentation</a></code>, <code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mappolyline.solidmulticolorrepresentation" title="class in com.here.sdk.mapview">MapPolyline.SolidMultiColorRepresentation</a></code>, <code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mappolyline.solidrepresentation" title="class in com.here.sdk.mapview">MapPolyline.SolidRepresentation</a></code></dd>
+<dd><code><a href="sdk-for-android-navigate-mappolyline.dashimagerepresentation" title="class in com.here.sdk.mapview">MapPolyline.DashImageRepresentation</a></code>, <code><a href="sdk-for-android-navigate-mappolyline.dashrepresentation" title="class in com.here.sdk.mapview">MapPolyline.DashRepresentation</a></code>, <code><a href="sdk-for-android-navigate-mappolyline.solidmulticolorrepresentation" title="class in com.here.sdk.mapview">MapPolyline.SolidMultiColorRepresentation</a></code>, <code><a href="sdk-for-android-navigate-mappolyline.solidrepresentation" title="class in com.here.sdk.mapview">MapPolyline.SolidRepresentation</a></code></dd>
 </dl>
 <dl class="notes">
 <dt>Enclosing class:</dt>
-<dd><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mappolyline" title="class in com.here.sdk.mapview">MapPolyline</a></dd>
+<dd><a href="sdk-for-android-navigate-mappolyline" title="class in com.here.sdk.mapview">MapPolyline</a></dd>
 </dl>
 <hr/>
 <div class="type-signature"><span class="modifiers">public static class </span><span class="element-name type-name-label">MapPolyline.Representation</span>
-<span class="extends-implements">extends <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapitemrepresentation" title="class in com.here.sdk.mapview">MapItemRepresentation</a></span></div>
-<div class="block"><p>Base class to represent the visual appearance of a <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mappolyline" title="class in com.here.sdk.mapview"><code>MapPolyline</code></a>.</p></div>
+<span class="extends-implements">extends <a href="sdk-for-android-navigate-mapitemrepresentation" title="class in com.here.sdk.mapview">MapItemRepresentation</a></span></div>
+<div class="block"><p>Base class to represent the visual appearance of a <a href="sdk-for-android-navigate-mappolyline" title="class in com.here.sdk.mapview"><code>MapPolyline</code></a>.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -56,14 +55,14 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mappolyline-representation"
 <div class="table-header col-second">Class</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>static enum </code></div>
-<div class="col-second even-row-color"><code><a class="type-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mappolyline.representation.instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapPolyline.Representation.InstantiationErrorCode</a></code></div>
+<div class="col-second even-row-color"><code><a class="type-name-link" href="sdk-for-android-navigate-mappolyline.representation.instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapPolyline.Representation.InstantiationErrorCode</a></code></div>
 <div class="col-last even-row-color">
-<div class="block">Describes a reason for failing to create a <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mappolyline.representation" title="class in com.here.sdk.mapview"><code>MapPolyline.Representation</code></a>.</div>
+<div class="block">Describes a reason for failing to create a <a href="sdk-for-android-navigate-mappolyline.representation" title="class in com.here.sdk.mapview"><code>MapPolyline.Representation</code></a>.</div>
 </div>
 <div class="col-first odd-row-color"><code>static final class </code></div>
-<div class="col-second odd-row-color"><code><a class="type-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mappolyline.representation.instantiationexception" title="class in com.here.sdk.mapview">MapPolyline.Representation.InstantiationException</a></code></div>
+<div class="col-second odd-row-color"><code><a class="type-name-link" href="sdk-for-android-navigate-mappolyline.representation.instantiationexception" title="class in com.here.sdk.mapview">MapPolyline.Representation.InstantiationException</a></code></div>
 <div class="col-last odd-row-color">
-<div class="block">Thrown when a problem occurs while trying to create <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mappolyline.representation" title="class in com.here.sdk.mapview"><code>MapPolyline.Representation</code></a>.</div>
+<div class="block">Thrown when a problem occurs while trying to create <a href="sdk-for-android-navigate-mappolyline.representation" title="class in com.here.sdk.mapview"><code>MapPolyline.Representation</code></a>.</div>
 </div>
 </div>
 </section>

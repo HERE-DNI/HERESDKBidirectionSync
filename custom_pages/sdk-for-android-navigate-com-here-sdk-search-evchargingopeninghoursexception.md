@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-evchargingopeninghoursexcept
 `
 <div class="sdk-for-android">
 <!-- EVChargingOpeningHoursException.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,7 +19,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-evchargingopeninghoursexcept
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.search</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-search-package-summary">com.here.sdk.search</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -47,18 +46,18 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-evchargingopeninghoursexcept
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>boolean</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#closed">closed</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#closed">closed</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">True if the charging location is closed on particular date, in which case
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#periods"><code>periods</code></a> is empty.</div>
+ <a href="sdk-for-android-navigate-index#periods"><code>periods</code></a> is empty.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" title="class or interface in java.util">Date</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#date">date</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#date">date</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Date of special opening hours.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-timeofdayrange" title="class in com.here.sdk.search">TimeOfDayRange</a>&gt;</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#periods">periods</a></code></div>
+<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-timeofdayrange" title="class in com.here.sdk.search">TimeOfDayRange</a>&gt;</code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#periods">periods</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A list of time periods when the charging location is open on the specified date.</div>
 </div>
@@ -73,7 +72,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-evchargingopeninghoursexcept
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#%3Cinit%3E()">EVChargingOpeningHoursException</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E()">EVChargingOpeningHoursException</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -92,10 +91,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-evchargingopeninghoursexcept
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 </div>
 </div>
@@ -126,11 +125,11 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-evchargingopeninghoursexcept
 <section class="detail" id="periods">
 <h3>periods</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-timeofdayrange" title="class in com.here.sdk.search">TimeOfDayRange</a>&gt;</span> <span class="element-name">periods</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-timeofdayrange" title="class in com.here.sdk.search">TimeOfDayRange</a>&gt;</span> <span class="element-name">periods</span></div>
 <div class="block"><p>A list of time periods when the charging location is open on the specified date.
  The time periods are in the local time zone of the charging location, and
- are represented as a list of objects with <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-timeofdayrange#from"><code>TimeOfDayRange.from</code></a>
- and <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-timeofdayrange#to"><code>TimeOfDayRange.to</code></a> properties.</p></div>
+ are represented as a list of objects with <a href="sdk-for-android-navigate-timeofdayrange#from"><code>TimeOfDayRange.from</code></a>
+ and <a href="sdk-for-android-navigate-timeofdayrange#to"><code>TimeOfDayRange.to</code></a> properties.</p></div>
 </section>
 </li>
 <li>
@@ -138,7 +137,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-evchargingopeninghoursexcept
 <h3>closed</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">closed</span></div>
 <div class="block"><p>True if the charging location is closed on particular date, in which case
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#periods"><code>periods</code></a> is empty.</p></div>
+ <a href="sdk-for-android-navigate-index#periods"><code>periods</code></a> is empty.</p></div>
 </section>
 </li>
 </ul>

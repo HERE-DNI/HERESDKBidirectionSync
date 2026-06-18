@@ -7,7 +7,6 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-loadti
 `
 <div class="sdk-for-android">
 <!-- TileSource.LoadTileRequestHandle.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,13 +19,13 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-loadti
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-package-summary">com.here.sdk.mapview.datasource</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-package-summary">com.here.sdk.mapview.datasource</a></div>
 
 </div>
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>Enclosing interface:</dt>
-<dd><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-tilesource" title="interface in com.here.sdk.mapview.datasource">TileSource</a></dd>
+<dd><a href="sdk-for-android-explore-tilesource" title="interface in com.here.sdk.mapview.datasource">TileSource</a></dd>
 </dl>
 <hr/>
 <div class="type-signature"><span class="modifiers">public static interface </span><span class="element-name type-name-label">TileSource.LoadTileRequestHandle</span></div>
@@ -46,7 +45,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-loadti
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#cancel()">cancel</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-index#cancel()">cancel</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Cancels the associated load tile request.</div>
 </div>

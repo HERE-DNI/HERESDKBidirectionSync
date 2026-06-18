@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-engine-authenticationmode-acce
 `
 <div class="sdk-for-android">
 <!-- AuthenticationMode.AccessTokenProvider.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,13 +19,13 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-engine-authenticationmode-acce
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.core.engine</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-core-engine-package-summary">com.here.sdk.core.engine</a></div>
 
 </div>
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>Enclosing class:</dt>
-<dd><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-authenticationmode" title="class in com.here.sdk.core.engine">AuthenticationMode</a></dd>
+<dd><a href="sdk-for-android-navigate-authenticationmode" title="class in com.here.sdk.core.engine">AuthenticationMode</a></dd>
 </dl>
 <dl class="notes">
 <dt>Functional Interface:</dt>
@@ -54,7 +53,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-engine-authenticationmode-acce
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#apply()">apply</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#apply()">apply</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">This lambda is used to retrieve access token in synchronous manner.</div>
 </div>

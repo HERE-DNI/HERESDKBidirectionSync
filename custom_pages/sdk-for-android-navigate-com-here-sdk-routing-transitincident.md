@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-transitincident"
 `
 <div class="sdk-for-android">
 <!-- TransitIncident.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,7 +19,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-transitincident"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.routing</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-routing-package-summary">com.here.sdk.routing</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -45,37 +44,37 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-transitincident"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#description">description</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#description">description</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A human readable description of the incident</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-transitincidenteffect" title="enum class in com.here.sdk.routing">TransitIncidentEffect</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#effect">effect</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-transitincidenteffect" title="enum class in com.here.sdk.routing">TransitIncidentEffect</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#effect">effect</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Effect of the incident.</div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#summary">summary</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#summary">summary</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A human readable summary of the incident.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-transitincidenttype" title="enum class in com.here.sdk.routing">TransitIncidentType</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#type">type</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-transitincidenttype" title="enum class in com.here.sdk.routing">TransitIncidentType</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#type">type</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Type of the incident.</div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#url">url</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#url">url</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Link to the original incident published at the agency website.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" title="class or interface in java.util">Date</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#validFrom">validFrom</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#validFrom">validFrom</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Valid from.</div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" title="class or interface in java.util">Date</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#validUntil">validUntil</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#validUntil">validUntil</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Valid until.</div>
 </div>
@@ -90,10 +89,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-transitincident"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#%3Cinit%3E(java.lang.String,java.lang.String,com.here.sdk.routing.TransitIncidentType,com.here.sdk.routing.TransitIncidentEffect,java.util.Date,java.util.Date,java.lang.String)">TransitIncident</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> summary,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(java.lang.String,java.lang.String,com.here.sdk.routing.TransitIncidentType,com.here.sdk.routing.TransitIncidentEffect,java.util.Date,java.util.Date,java.lang.String)">TransitIncident</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> summary,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> description,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-transitincidenttype" title="enum class in com.here.sdk.routing">TransitIncidentType</a> type,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-transitincidenteffect" title="enum class in com.here.sdk.routing">TransitIncidentEffect</a> effect,
+ <a href="sdk-for-android-navigate-transitincidenttype" title="enum class in com.here.sdk.routing">TransitIncidentType</a> type,
+ <a href="sdk-for-android-navigate-transitincidenteffect" title="enum class in com.here.sdk.routing">TransitIncidentEffect</a> effect,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" title="class or interface in java.util">Date</a> validFrom,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" title="class or interface in java.util">Date</a> validUntil,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> url)</code></div>
@@ -115,10 +114,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-transitincident"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 </div>
 </div>
@@ -157,7 +156,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-transitincident"
 <section class="detail" id="type">
 <h3>type</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-transitincidenttype" title="enum class in com.here.sdk.routing">TransitIncidentType</a></span> <span class="element-name">type</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-transitincidenttype" title="enum class in com.here.sdk.routing">TransitIncidentType</a></span> <span class="element-name">type</span></div>
 <div class="block"><p>Type of the incident.</p></div>
 </section>
 </li>
@@ -165,7 +164,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-transitincident"
 <section class="detail" id="effect">
 <h3>effect</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-transitincidenteffect" title="enum class in com.here.sdk.routing">TransitIncidentEffect</a></span> <span class="element-name">effect</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-transitincidenteffect" title="enum class in com.here.sdk.routing">TransitIncidentEffect</a></span> <span class="element-name">effect</span></div>
 <div class="block"><p>Effect of the incident.</p></div>
 </section>
 </li>
@@ -209,9 +208,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-transitincident"
  @Nullable
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> description,
  @Nullable
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-transitincidenttype" title="enum class in com.here.sdk.routing">TransitIncidentType</a> type,
+ <a href="sdk-for-android-navigate-transitincidenttype" title="enum class in com.here.sdk.routing">TransitIncidentType</a> type,
  @Nullable
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-transitincidenteffect" title="enum class in com.here.sdk.routing">TransitIncidentEffect</a> effect,
+ <a href="sdk-for-android-navigate-transitincidenteffect" title="enum class in com.here.sdk.routing">TransitIncidentEffect</a> effect,
  @Nullable
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" title="class or interface in java.util">Date</a> validFrom,
  @Nullable

@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-transport-transportspecification"
 `
 <div class="sdk-for-android">
 <!-- TransportSpecification.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,7 +19,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-transport-transportspecification"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.transport</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-transport-package-summary">com.here.sdk.transport</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -34,7 +33,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-transport-transportspecification"
  <strong>Notes</strong>
 <ul>
 <li>By default all vehicle specifications from <code>RoutingOptions.transport_specification</code> are set to
- <code>null</code> and the <code>RoutingOptions.transport_specification.transport_mode</code> is set to <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-transportmode#CAR"><code>TransportMode.CAR</code></a>.</li>
+ <code>null</code> and the <code>RoutingOptions.transport_specification.transport_mode</code> is set to <a href="sdk-for-android-navigate-transportmode#CAR"><code>TransportMode.CAR</code></a>.</li>
 <li>A route can be calculated with only the <code>RoutingOptions.transport_specification.transport_mode</code> set.</li>
 </ul></p></div>
 </section>
@@ -50,44 +49,44 @@ slug: "sdk-for-android-navigate-com-here-sdk-transport-transportspecification"
 <div class="table-header col-second">Class</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>static final class </code></div>
-<div class="col-second even-row-color"><code><a class="type-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-transportspecification.bicyclebuilder" title="class in com.here.sdk.transport">TransportSpecification.BicycleBuilder</a></code></div>
+<div class="col-second even-row-color"><code><a class="type-name-link" href="sdk-for-android-navigate-transportspecification.bicyclebuilder" title="class in com.here.sdk.transport">TransportSpecification.BicycleBuilder</a></code></div>
 <div class="col-last even-row-color">
-<div class="block">This class constructs a <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a> for a bicycle.</div>
+<div class="block">This class constructs a <a href="sdk-for-android-navigate-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a> for a bicycle.</div>
 </div>
 <div class="col-first odd-row-color"><code>static final class </code></div>
-<div class="col-second odd-row-color"><code><a class="type-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-transportspecification.busbuilder" title="class in com.here.sdk.transport">TransportSpecification.BusBuilder</a></code></div>
+<div class="col-second odd-row-color"><code><a class="type-name-link" href="sdk-for-android-navigate-transportspecification.busbuilder" title="class in com.here.sdk.transport">TransportSpecification.BusBuilder</a></code></div>
 <div class="col-last odd-row-color">
-<div class="block">This class constructs a <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a> for a bus.</div>
+<div class="block">This class constructs a <a href="sdk-for-android-navigate-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a> for a bus.</div>
 </div>
 <div class="col-first even-row-color"><code>static final class </code></div>
-<div class="col-second even-row-color"><code><a class="type-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-transportspecification.carbuilder" title="class in com.here.sdk.transport">TransportSpecification.CarBuilder</a></code></div>
+<div class="col-second even-row-color"><code><a class="type-name-link" href="sdk-for-android-navigate-transportspecification.carbuilder" title="class in com.here.sdk.transport">TransportSpecification.CarBuilder</a></code></div>
 <div class="col-last even-row-color">
-<div class="block">This class constructs a <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a> for a car.</div>
+<div class="block">This class constructs a <a href="sdk-for-android-navigate-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a> for a car.</div>
 </div>
 <div class="col-first odd-row-color"><code>static final class </code></div>
-<div class="col-second odd-row-color"><code><a class="type-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-transportspecification.pedestrianbuilder" title="class in com.here.sdk.transport">TransportSpecification.PedestrianBuilder</a></code></div>
+<div class="col-second odd-row-color"><code><a class="type-name-link" href="sdk-for-android-navigate-transportspecification.pedestrianbuilder" title="class in com.here.sdk.transport">TransportSpecification.PedestrianBuilder</a></code></div>
 <div class="col-last odd-row-color">
-<div class="block">This class constructs a <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a> for pedestrian.</div>
+<div class="block">This class constructs a <a href="sdk-for-android-navigate-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a> for pedestrian.</div>
 </div>
 <div class="col-first even-row-color"><code>static final class </code></div>
-<div class="col-second even-row-color"><code><a class="type-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-transportspecification.privatebusbuilder" title="class in com.here.sdk.transport">TransportSpecification.PrivateBusBuilder</a></code></div>
+<div class="col-second even-row-color"><code><a class="type-name-link" href="sdk-for-android-navigate-transportspecification.privatebusbuilder" title="class in com.here.sdk.transport">TransportSpecification.PrivateBusBuilder</a></code></div>
 <div class="col-last even-row-color">
-<div class="block">This class constructs a <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a> for a private bus.</div>
+<div class="block">This class constructs a <a href="sdk-for-android-navigate-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a> for a private bus.</div>
 </div>
 <div class="col-first odd-row-color"><code>static final class </code></div>
-<div class="col-second odd-row-color"><code><a class="type-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-transportspecification.scooterbuilder" title="class in com.here.sdk.transport">TransportSpecification.ScooterBuilder</a></code></div>
+<div class="col-second odd-row-color"><code><a class="type-name-link" href="sdk-for-android-navigate-transportspecification.scooterbuilder" title="class in com.here.sdk.transport">TransportSpecification.ScooterBuilder</a></code></div>
 <div class="col-last odd-row-color">
-<div class="block">This class constructs a <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a> for a scooter.</div>
+<div class="block">This class constructs a <a href="sdk-for-android-navigate-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a> for a scooter.</div>
 </div>
 <div class="col-first even-row-color"><code>static final class </code></div>
-<div class="col-second even-row-color"><code><a class="type-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-transportspecification.taxibuilder" title="class in com.here.sdk.transport">TransportSpecification.TaxiBuilder</a></code></div>
+<div class="col-second even-row-color"><code><a class="type-name-link" href="sdk-for-android-navigate-transportspecification.taxibuilder" title="class in com.here.sdk.transport">TransportSpecification.TaxiBuilder</a></code></div>
 <div class="col-last even-row-color">
-<div class="block">This class constructs a <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a> for a taxi.</div>
+<div class="block">This class constructs a <a href="sdk-for-android-navigate-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a> for a taxi.</div>
 </div>
 <div class="col-first odd-row-color"><code>static final class </code></div>
-<div class="col-second odd-row-color"><code><a class="type-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-transportspecification.truckbuilder" title="class in com.here.sdk.transport">TransportSpecification.TruckBuilder</a></code></div>
+<div class="col-second odd-row-color"><code><a class="type-name-link" href="sdk-for-android-navigate-transportspecification.truckbuilder" title="class in com.here.sdk.transport">TransportSpecification.TruckBuilder</a></code></div>
 <div class="col-last odd-row-color">
-<div class="block">This class constructs a <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a> for a truck.</div>
+<div class="block">This class constructs a <a href="sdk-for-android-navigate-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a> for a truck.</div>
 </div>
 </div>
 </section>
@@ -101,28 +100,28 @@ slug: "sdk-for-android-navigate-com-here-sdk-transport-transportspecification"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-pedestrianspecification" title="class in com.here.sdk.transport">PedestrianSpecification</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#pedestrianSpecification">pedestrianSpecification</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-pedestrianspecification" title="class in com.here.sdk.transport">PedestrianSpecification</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#pedestrianSpecification">pedestrianSpecification</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The pedestrian specification for the transport mode.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-scooterspecification" title="class in com.here.sdk.transport">ScooterSpecification</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#scooterSpecification">scooterSpecification</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-scooterspecification" title="class in com.here.sdk.transport">ScooterSpecification</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#scooterSpecification">scooterSpecification</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The scooter specification for the transport mode.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-taxispecification" title="class in com.here.sdk.transport">TaxiSpecification</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#taxiSpecification">taxiSpecification</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-taxispecification" title="class in com.here.sdk.transport">TaxiSpecification</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#taxiSpecification">taxiSpecification</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The taxi specification for the transport mode.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-transportmode" title="enum class in com.here.sdk.transport">TransportMode</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#transportMode">transportMode</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-transportmode" title="enum class in com.here.sdk.transport">TransportMode</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#transportMode">transportMode</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Transport mode.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-vehiclespecification" title="class in com.here.sdk.transport">VehicleSpecification</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#vehicleSpecification">vehicleSpecification</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-vehiclespecification" title="class in com.here.sdk.transport">VehicleSpecification</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#vehicleSpecification">vehicleSpecification</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The vehicle specification for the transport mode.</div>
 </div>
@@ -137,7 +136,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-transport-transportspecification"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#%3Cinit%3E()">TransportSpecification</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E()">TransportSpecification</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -156,10 +155,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-transport-transportspecification"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 </div>
 </div>
@@ -182,7 +181,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-transport-transportspecification"
 <section class="detail" id="transportMode">
 <h3>transportMode</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-transportmode" title="enum class in com.here.sdk.transport">TransportMode</a></span> <span class="element-name">transportMode</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-transportmode" title="enum class in com.here.sdk.transport">TransportMode</a></span> <span class="element-name">transportMode</span></div>
 <div class="block"><p>Transport mode.
  Defaults to <code>CAR</code>.</p></div>
 </section>
@@ -191,7 +190,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-transport-transportspecification"
 <section class="detail" id="vehicleSpecification">
 <h3>vehicleSpecification</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-vehiclespecification" title="class in com.here.sdk.transport">VehicleSpecification</a></span> <span class="element-name">vehicleSpecification</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-vehiclespecification" title="class in com.here.sdk.transport">VehicleSpecification</a></span> <span class="element-name">vehicleSpecification</span></div>
 <div class="block"><p>The vehicle specification for the transport mode.
  By default, it is not set.</p></div>
 </section>
@@ -200,7 +199,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-transport-transportspecification"
 <section class="detail" id="pedestrianSpecification">
 <h3>pedestrianSpecification</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-pedestrianspecification" title="class in com.here.sdk.transport">PedestrianSpecification</a></span> <span class="element-name">pedestrianSpecification</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-pedestrianspecification" title="class in com.here.sdk.transport">PedestrianSpecification</a></span> <span class="element-name">pedestrianSpecification</span></div>
 <div class="block"><p>The pedestrian specification for the transport mode.
  By default, it is not set.</p></div>
 </section>
@@ -209,7 +208,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-transport-transportspecification"
 <section class="detail" id="taxiSpecification">
 <h3>taxiSpecification</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-taxispecification" title="class in com.here.sdk.transport">TaxiSpecification</a></span> <span class="element-name">taxiSpecification</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-taxispecification" title="class in com.here.sdk.transport">TaxiSpecification</a></span> <span class="element-name">taxiSpecification</span></div>
 <div class="block"><p>The taxi specification for the transport mode.
  By default, it is not set.</p></div>
 </section>
@@ -218,7 +217,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-transport-transportspecification"
 <section class="detail" id="scooterSpecification">
 <h3>scooterSpecification</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-scooterspecification" title="class in com.here.sdk.transport">ScooterSpecification</a></span> <span class="element-name">scooterSpecification</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-scooterspecification" title="class in com.here.sdk.transport">ScooterSpecification</a></span> <span class="element-name">scooterSpecification</span></div>
 <div class="block"><p>The scooter specification for the transport mode.
  By default, it is not set.</p></div>
 </section>

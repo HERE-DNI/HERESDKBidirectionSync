@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-prefetcher-polygonprefetcher"
 `
 <div class="sdk-for-android">
 <!-- PolygonPrefetcher.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,18 +19,18 @@ slug: "sdk-for-android-navigate-com-here-sdk-prefetcher-polygonprefetcher"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.prefetcher</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-prefetcher-package-summary">com.here.sdk.prefetcher</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-nativebase" title="class in com.here">com.here.NativeBase</a>
+<div class="inheritance"><a href="sdk-for-android-navigate-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.prefetcher.PolygonPrefetcher</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 <hr/>
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">PolygonPrefetcher</span>
-<span class="extends-implements">extends <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-nativebase" title="class in com.here">NativeBase</a></span></div>
+<span class="extends-implements">extends <a href="sdk-for-android-navigate-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>Supports downloading of map data - in advance - into the cache to optimize temporary offline
  use cases that rely on cached map data.
  Please note, this class puts data in the map cache, which has its own size constraints,
@@ -49,9 +48,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-prefetcher-polygonprefetcher"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.core.engine.SDKNativeEngine)">PolygonPrefetcher</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> sdkEngine)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.core.engine.SDKNativeEngine)">PolygonPrefetcher</a><wbr/>(<a href="sdk-for-android-navigate-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> sdkEngine)</code></div>
 <div class="col-last even-row-color">
-<div class="block">Creates a PolygonPrefetcher instance for a given <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-sdknativeengine" title="class in com.here.sdk.core.engine"><code>SDKNativeEngine</code></a>.</div>
+<div class="block">Creates a PolygonPrefetcher instance for a given <a href="sdk-for-android-navigate-sdknativeengine" title="class in com.here.sdk.core.engine"><code>SDKNativeEngine</code></a>.</div>
 </div>
 </div>
 </section>
@@ -67,15 +66,15 @@ slug: "sdk-for-android-navigate-com-here-sdk-prefetcher-polygonprefetcher"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#estimateMapDataSize(com.here.sdk.core.GeoPolygon,com.here.sdk.prefetcher.MapDataSizeListener)">estimateMapDataSize</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-geopolygon" title="class in com.here.sdk.core">GeoPolygon</a> geoPolygon,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapdatasizelistener" title="interface in com.here.sdk.prefetcher">MapDataSizeListener</a> callback)</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#estimateMapDataSize(com.here.sdk.core.GeoPolygon,com.here.sdk.prefetcher.MapDataSizeListener)">estimateMapDataSize</a><wbr/>(<a href="sdk-for-android-navigate-geopolygon" title="class in com.here.sdk.core">GeoPolygon</a> geoPolygon,
+ <a href="sdk-for-android-navigate-mapdatasizelistener" title="interface in com.here.sdk.prefetcher">MapDataSizeListener</a> callback)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Estimates map data size for the area bounded by geo polygon.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#prefetch(com.here.sdk.core.GeoPolygon,com.here.sdk.prefetcher.PrefetchStatusListener)">prefetch</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-geopolygon" title="class in com.here.sdk.core">GeoPolygon</a> geoPolygon,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-prefetchstatuslistener" title="interface in com.here.sdk.prefetcher">PrefetchStatusListener</a> callback)</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#prefetch(com.here.sdk.core.GeoPolygon,com.here.sdk.prefetcher.PrefetchStatusListener)">prefetch</a><wbr/>(<a href="sdk-for-android-navigate-geopolygon" title="class in com.here.sdk.core">GeoPolygon</a> geoPolygon,
+ <a href="sdk-for-android-navigate-prefetchstatuslistener" title="interface in com.here.sdk.prefetcher">PrefetchStatusListener</a> callback)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Prefetches map data for an area bounded by geo polygon.</div>
 </div>
@@ -100,8 +99,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-prefetcher-polygonprefetcher"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.core.engine.SDKNativeEngine)">
 <h3>PolygonPrefetcher</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">PolygonPrefetcher</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> sdkEngine)</span></div>
-<div class="block"><p>Creates a PolygonPrefetcher instance for a given <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-sdknativeengine" title="class in com.here.sdk.core.engine"><code>SDKNativeEngine</code></a>.</p></div>
+ <a href="sdk-for-android-navigate-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> sdkEngine)</span></div>
+<div class="block"><p>Creates a PolygonPrefetcher instance for a given <a href="sdk-for-android-navigate-sdknativeengine" title="class in com.here.sdk.core.engine"><code>SDKNativeEngine</code></a>.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>sdkEngine</code> - <p>Instance of an existing SDKEngine.</p></dd>
@@ -120,18 +119,18 @@ slug: "sdk-for-android-navigate-com-here-sdk-prefetcher-polygonprefetcher"
 <section class="detail" id="prefetch(com.here.sdk.core.GeoPolygon,com.here.sdk.prefetcher.PrefetchStatusListener)">
 <h3>prefetch</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">prefetch</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-geopolygon" title="class in com.here.sdk.core">GeoPolygon</a> geoPolygon,
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">prefetch</span><wbr/><span class="parameters">(@NonNull
+ <a href="sdk-for-android-navigate-geopolygon" title="class in com.here.sdk.core">GeoPolygon</a> geoPolygon,
  @NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-prefetchstatuslistener" title="interface in com.here.sdk.prefetcher">PrefetchStatusListener</a> callback)</span></div>
+ <a href="sdk-for-android-navigate-prefetchstatuslistener" title="interface in com.here.sdk.prefetcher">PrefetchStatusListener</a> callback)</span></div>
 <div class="block"><p>Prefetches map data for an area bounded by geo polygon.
- After the operation is finished <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-prefetchstatuslistener#onComplete(com.here.sdk.maploader.MapLoaderError)"><code>PrefetchStatusListener.onComplete(com.here.sdk.maploader.MapLoaderError)</code></a> is
+ After the operation is finished <a href="sdk-for-android-navigate-prefetchstatuslistener#onComplete(com.here.sdk.maploader.MapLoaderError)"><code>PrefetchStatusListener.onComplete(com.here.sdk.maploader.MapLoaderError)</code></a> is
  invoked on the main thread. Progress is reported by invocation
- of <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-prefetchstatuslistener#onProgress(int)"><code>PrefetchStatusListener.onProgress(int)</code></a> on the main thread.
+ of <a href="sdk-for-android-navigate-prefetchstatuslistener#onProgress(int)"><code>PrefetchStatusListener.onProgress(int)</code></a> on the main thread.
  If there is not enough space left in the cache to store needed tiles, operation will
- fail with <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-maploadererror#NOT_ENOUGH_SPACE"><code>MapLoaderError.NOT_ENOUGH_SPACE</code></a>. To increase cache size, use
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-sdkoptions#cacheSizeInBytes"><code>SDKOptions.cacheSizeInBytes</code></a> API.
- </p><p>To control list of map content features for area prefetch, use <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-layerconfiguration#enabledFeatures"><code>LayerConfiguration.enabledFeatures</code></a>.
+ fail with <a href="sdk-for-android-navigate-maploadererror#NOT_ENOUGH_SPACE"><code>MapLoaderError.NOT_ENOUGH_SPACE</code></a>. To increase cache size, use
+ <a href="sdk-for-android-navigate-sdkoptions#cacheSizeInBytes"><code>SDKOptions.cacheSizeInBytes</code></a> API.
+ </p><p>To control list of map content features for area prefetch, use <a href="sdk-for-android-navigate-layerconfiguration#enabledFeatures"><code>LayerConfiguration.enabledFeatures</code></a>.
  </p><p>To prefetch map data within user-defined circular area around a given location:
  <ol>
 <li>Create a GeoCircle using the given location and radius.</li>
@@ -154,10 +153,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-prefetcher-polygonprefetcher"
 <section class="detail" id="estimateMapDataSize(com.here.sdk.core.GeoPolygon,com.here.sdk.prefetcher.MapDataSizeListener)">
 <h3>estimateMapDataSize</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">estimateMapDataSize</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-geopolygon" title="class in com.here.sdk.core">GeoPolygon</a> geoPolygon,
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">estimateMapDataSize</span><wbr/><span class="parameters">(@NonNull
+ <a href="sdk-for-android-navigate-geopolygon" title="class in com.here.sdk.core">GeoPolygon</a> geoPolygon,
  @NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapdatasizelistener" title="interface in com.here.sdk.prefetcher">MapDataSizeListener</a> callback)</span></div>
+ <a href="sdk-for-android-navigate-mapdatasizelistener" title="interface in com.here.sdk.prefetcher">MapDataSizeListener</a> callback)</span></div>
 <div class="block"><p>Estimates map data size for the area bounded by geo polygon. Size for tiles that are already
  in the cache will not be included in the final result.</p></div>
 <dl class="notes">

@@ -7,7 +7,6 @@ slug: "sdk-for-android-explore-com-here-sdk-traffic-trafficincidentsqueryoptions
 `
 <div class="sdk-for-android">
 <!-- TrafficIncidentsQueryOptions.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,7 +19,7 @@ slug: "sdk-for-android-explore-com-here-sdk-traffic-trafficincidentsqueryoptions
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-package-summary">com.here.sdk.traffic</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-traffic-package-summary">com.here.sdk.traffic</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -44,27 +43,27 @@ slug: "sdk-for-android-explore-com-here-sdk-traffic-trafficincidentsqueryoptions
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" title="class or interface in java.util">Date</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#earliestStartTime">earliestStartTime</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#earliestStartTime">earliestStartTime</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The earliest start time of incidents to be queried.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-trafficincidentimpact" title="enum class in com.here.sdk.traffic">TrafficIncidentImpact</a>&gt;</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#impactFilter">impactFilter</a></code></div>
+<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-trafficincidentimpact" title="enum class in com.here.sdk.traffic">TrafficIncidentImpact</a>&gt;</code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#impactFilter">impactFilter</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The list of incident impacts to be queried.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#languageCode">languageCode</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#languageCode">languageCode</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The language code of the query.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" title="class or interface in java.util">Date</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#latestEndTime">latestEndTime</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#latestEndTime">latestEndTime</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The latest end time of incidents to be queried.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-trafficincidenttype" title="enum class in com.here.sdk.traffic">TrafficIncidentType</a>&gt;</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#typeFilter">typeFilter</a></code></div>
+<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-trafficincidenttype" title="enum class in com.here.sdk.traffic">TrafficIncidentType</a>&gt;</code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#typeFilter">typeFilter</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The list of incident types to be queried.</div>
 </div>
@@ -79,7 +78,7 @@ slug: "sdk-for-android-explore-com-here-sdk-traffic-trafficincidentsqueryoptions
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#%3Cinit%3E()">TrafficIncidentsQueryOptions</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#%3Cinit%3E()">TrafficIncidentsQueryOptions</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance with default values.</div>
 </div>
@@ -98,10 +97,10 @@ slug: "sdk-for-android-explore-com-here-sdk-traffic-trafficincidentsqueryoptions
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#hashCode()">hashCode</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 </div>
 </div>
@@ -124,7 +123,7 @@ slug: "sdk-for-android-explore-com-here-sdk-traffic-trafficincidentsqueryoptions
 <section class="detail" id="typeFilter">
 <h3>typeFilter</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-trafficincidenttype" title="enum class in com.here.sdk.traffic">TrafficIncidentType</a>&gt;</span> <span class="element-name">typeFilter</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-trafficincidenttype" title="enum class in com.here.sdk.traffic">TrafficIncidentType</a>&gt;</span> <span class="element-name">typeFilter</span></div>
 <div class="block"><p>The list of incident types to be queried. If the list is empty, all types will be queried.</p></div>
 </section>
 </li>
@@ -132,7 +131,7 @@ slug: "sdk-for-android-explore-com-here-sdk-traffic-trafficincidentsqueryoptions
 <section class="detail" id="impactFilter">
 <h3>impactFilter</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-trafficincidentimpact" title="enum class in com.here.sdk.traffic">TrafficIncidentImpact</a>&gt;</span> <span class="element-name">impactFilter</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-trafficincidentimpact" title="enum class in com.here.sdk.traffic">TrafficIncidentImpact</a>&gt;</span> <span class="element-name">impactFilter</span></div>
 <div class="block"><p>The list of incident impacts to be queried. If the list is empty, all incident impacts will be queried.</p></div>
 </section>
 </li>
@@ -158,10 +157,10 @@ slug: "sdk-for-android-explore-com-here-sdk-traffic-trafficincidentsqueryoptions
 <section class="detail" id="languageCode">
 <h3>languageCode</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">languageCode</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">languageCode</span></div>
 <div class="block"><p>The language code of the query.
- It's the expected language of fields <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-trafficincidentbase#getDescription()"><code>TrafficIncidentBase.getDescription()</code></a> and <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-trafficincident#getSummary()"><code>TrafficIncident.getSummary()</code></a> in the relevant response.
- However, the language code doesn't impact on <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-trafficlocation#description"><code>TrafficLocation.description</code></a>.
+ It's the expected language of fields <a href="sdk-for-android-explore-trafficincidentbase#getDescription()"><code>TrafficIncidentBase.getDescription()</code></a> and <a href="sdk-for-android-explore-trafficincident#getSummary()"><code>TrafficIncident.getSummary()</code></a> in the relevant response.
+ However, the language code doesn't impact on <a href="sdk-for-android-explore-trafficlocation#description"><code>TrafficLocation.description</code></a>.
  If the language code is null or not supported then response fields are expected in the original language of the country that the incident belongs to.</p></div>
 </section>
 </li>

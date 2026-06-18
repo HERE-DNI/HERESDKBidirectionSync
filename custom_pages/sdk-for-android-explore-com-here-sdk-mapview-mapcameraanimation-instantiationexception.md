@@ -7,7 +7,6 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantia
 `
 <div class="sdk-for-android">
 <!-- MapCameraAnimation.InstantiationException.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,7 +19,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantia
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-package-summary">com.here.sdk.mapview</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -37,18 +36,18 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantia
 </dl>
 <dl class="notes">
 <dt>Enclosing class:</dt>
-<dd><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-mapcameraanimation" title="class in com.here.sdk.mapview">MapCameraAnimation</a></dd>
+<dd><a href="sdk-for-android-explore-mapcameraanimation" title="class in com.here.sdk.mapview">MapCameraAnimation</a></dd>
 </dl>
 <hr/>
 <div class="type-signature"><span class="modifiers">public static final class </span><span class="element-name type-name-label">MapCameraAnimation.InstantiationException</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Exception.html" title="class or interface in java.lang">Exception</a></span></div>
 <div class="block"><p>Thrown when a problem occurs while trying to create a multi-track
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-mapcameraanimation" title="class in com.here.sdk.mapview"><code>MapCameraAnimation</code></a>.</p></div>
+ <a href="sdk-for-android-explore-mapcameraanimation" title="class in com.here.sdk.mapview"><code>MapCameraAnimation</code></a>.</p></div>
 <dl class="notes">
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-serialized-form#com.here.sdk.mapview.MapCameraAnimation.InstantiationException">Serialized Form</a></li>
+<li><a href="sdk-for-android-explore-serialized-form#com.here.sdk.mapview.MapCameraAnimation.InstantiationException">Serialized Form</a></li>
 </ul>
 </dd>
 </dl>

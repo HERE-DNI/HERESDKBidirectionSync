@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-engine-logappender"
 `
 <div class="sdk-for-android">
 <!-- LogAppender.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,7 +19,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-engine-logappender"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.core.engine</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-core-engine-package-summary">com.here.sdk.core.engine</a></div>
 
 </div>
 <section class="class-description" id="class-description">
@@ -42,7 +41,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-engine-logappender"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#log(com.here.sdk.core.engine.LogLevel,java.lang.String)">log</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-loglevel" title="enum class in com.here.sdk.core.engine">LogLevel</a> level,
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#log(com.here.sdk.core.engine.LogLevel,java.lang.String)">log</a><wbr/>(<a href="sdk-for-android-navigate-loglevel" title="enum class in com.here.sdk.core.engine">LogLevel</a> level,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> message)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"> </div>
 </div>
@@ -63,7 +62,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-engine-logappender"
 <section class="detail" id="log(com.here.sdk.core.engine.LogLevel,java.lang.String)">
 <h3>log</h3>
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">log</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-loglevel" title="enum class in com.here.sdk.core.engine">LogLevel</a> level,
+ <a href="sdk-for-android-navigate-loglevel" title="enum class in com.here.sdk.core.engine">LogLevel</a> level,
  @NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> message)</span></div>
 <dl class="notes">

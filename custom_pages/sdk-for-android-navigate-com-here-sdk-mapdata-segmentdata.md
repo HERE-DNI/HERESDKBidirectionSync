@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-segmentdata"
 `
 <div class="sdk-for-android">
 <!-- SegmentData.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,18 +19,18 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-segmentdata"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.mapdata</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-mapdata-package-summary">com.here.sdk.mapdata</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-nativebase" title="class in com.here">com.here.NativeBase</a>
+<div class="inheritance"><a href="sdk-for-android-navigate-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.mapdata.SegmentData</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 <hr/>
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">SegmentData</span>
-<span class="extends-implements">extends <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-nativebase" title="class in com.here">NativeBase</a></span></div>
+<span class="extends-implements">extends <a href="sdk-for-android-navigate-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>Contains the requested information for a segment
  </p><p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
  Related APIs may change for new releases without a deprecation process.</p></div>
@@ -50,49 +49,49 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-segmentdata"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#getLengthInMeters()">getLengthInMeters</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getLengthInMeters()">getLengthInMeters</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the length of this segment in meters.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-ocmsegmentid" title="class in com.here.sdk.mapdata">OCMSegmentId</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#getOcmSegmentId()">getOcmSegmentId</a>()</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-ocmsegmentid" title="class in com.here.sdk.mapdata">OCMSegmentId</a></code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getOcmSegmentId()">getOcmSegmentId</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
-<div class="block">Gets the <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-ocmsegmentid" title="class in com.here.sdk.mapdata"><code>OCMSegmentId</code></a> object representing the the segment.</div>
+<div class="block">Gets the <a href="sdk-for-android-navigate-ocmsegmentid" title="class in com.here.sdk.mapdata"><code>OCMSegmentId</code></a> object representing the the segment.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-geopolyline" title="class in com.here.sdk.core">GeoPolyline</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#getPolyline()">getPolyline</a>()</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-geopolyline" title="class in com.here.sdk.core">GeoPolyline</a></code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getPolyline()">getPolyline</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
-<div class="block">Gets the <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-geopolyline" title="class in com.here.sdk.core"><code>GeoPolyline</code></a> object representing the polyline of this segment.</div>
+<div class="block">Gets the <a href="sdk-for-android-navigate-geopolyline" title="class in com.here.sdk.core"><code>GeoPolyline</code></a> object representing the polyline of this segment.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-railwaycrossing" title="class in com.here.sdk.mapdata">RailwayCrossing</a>&gt;</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#getRailwayCrossings()">getRailwayCrossings</a>()</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-railwaycrossing" title="class in com.here.sdk.mapdata">RailwayCrossing</a>&gt;</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getRailwayCrossings()">getRailwayCrossings</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
-<div class="block">Gets the list of <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-railwaycrossing" title="class in com.here.sdk.mapdata"><code>RailwayCrossing</code></a>.</div>
+<div class="block">Gets the list of <a href="sdk-for-android-navigate-railwaycrossing" title="class in com.here.sdk.mapdata"><code>RailwayCrossing</code></a>.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-roadsign" title="class in com.here.sdk.navigation">RoadSign</a>&gt;</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#getRoadSigns()">getRoadSigns</a>()</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-roadsign" title="class in com.here.sdk.navigation">RoadSign</a>&gt;</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getRoadSigns()">getRoadSigns</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
-<div class="block">Gets the list of <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-roadsign" title="class in com.here.sdk.navigation"><code>RoadSign</code></a>.</div>
+<div class="block">Gets the list of <a href="sdk-for-android-navigate-roadsign" title="class in com.here.sdk.navigation"><code>RoadSign</code></a>.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-segmentreference" title="class in com.here.sdk.routing">SegmentReference</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#getSegmentReference()">getSegmentReference</a>()</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-segmentreference" title="class in com.here.sdk.routing">SegmentReference</a></code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getSegmentReference()">getSegmentReference</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
-<div class="block">Gets the <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-segmentreference" title="class in com.here.sdk.routing"><code>SegmentReference</code></a> object representing the the segment.</div>
+<div class="block">Gets the <a href="sdk-for-android-navigate-segmentreference" title="class in com.here.sdk.routing"><code>SegmentReference</code></a> object representing the the segment.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-segmentspandata" title="class in com.here.sdk.mapdata">SegmentSpanData</a>&gt;</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#getSpans()">getSpans</a>()</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-segmentspandata" title="class in com.here.sdk.mapdata">SegmentSpanData</a>&gt;</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getSpans()">getSpans</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
-<div class="block">Gets the list of <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-segmentspandata" title="class in com.here.sdk.mapdata"><code>SegmentSpanData</code></a>.</div>
+<div class="block">Gets the list of <a href="sdk-for-android-navigate-segmentspandata" title="class in com.here.sdk.mapdata"><code>SegmentSpanData</code></a>.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-tollpoint" title="class in com.here.sdk.mapdata">TollPoint</a>&gt;</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#getTollPoints()">getTollPoints</a>()</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-tollpoint" title="class in com.here.sdk.mapdata">TollPoint</a>&gt;</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getTollPoints()">getTollPoints</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
-<div class="block">Gets the list of <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-tollpoint" title="class in com.here.sdk.mapdata"><code>TollPoint</code></a>.</div>
+<div class="block">Gets the list of <a href="sdk-for-android-navigate-tollpoint" title="class in com.here.sdk.mapdata"><code>TollPoint</code></a>.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-trafficsignal" title="class in com.here.sdk.mapdata">TrafficSignal</a>&gt;</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#getTrafficSignals()">getTrafficSignals</a>()</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-trafficsignal" title="class in com.here.sdk.mapdata">TrafficSignal</a>&gt;</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getTrafficSignals()">getTrafficSignals</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
-<div class="block">Gets the list of <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-trafficsignal" title="class in com.here.sdk.mapdata"><code>TrafficSignal</code></a>.</div>
+<div class="block">Gets the list of <a href="sdk-for-android-navigate-trafficsignal" title="class in com.here.sdk.mapdata"><code>TrafficSignal</code></a>.</div>
 </div>
 </div>
 </div>
@@ -115,11 +114,11 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-segmentdata"
 <section class="detail" id="getOcmSegmentId()">
 <h3>getOcmSegmentId</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-ocmsegmentid" title="class in com.here.sdk.mapdata">OCMSegmentId</a></span> <span class="element-name">getOcmSegmentId</span>()</div>
-<div class="block"><p>Gets the <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-ocmsegmentid" title="class in com.here.sdk.mapdata"><code>OCMSegmentId</code></a> object representing the the segment.</p></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-ocmsegmentid" title="class in com.here.sdk.mapdata">OCMSegmentId</a></span> <span class="element-name">getOcmSegmentId</span>()</div>
+<div class="block"><p>Gets the <a href="sdk-for-android-navigate-ocmsegmentid" title="class in com.here.sdk.mapdata"><code>OCMSegmentId</code></a> object representing the the segment.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
-<dd><p>The <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-ocmsegmentid" title="class in com.here.sdk.mapdata"><code>OCMSegmentId</code></a> object representing the segment</p></dd>
+<dd><p>The <a href="sdk-for-android-navigate-ocmsegmentid" title="class in com.here.sdk.mapdata"><code>OCMSegmentId</code></a> object representing the segment</p></dd>
 </dl>
 </section>
 </li>
@@ -127,11 +126,11 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-segmentdata"
 <section class="detail" id="getSegmentReference()">
 <h3>getSegmentReference</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-segmentreference" title="class in com.here.sdk.routing">SegmentReference</a></span> <span class="element-name">getSegmentReference</span>()</div>
-<div class="block"><p>Gets the <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-segmentreference" title="class in com.here.sdk.routing"><code>SegmentReference</code></a> object representing the the segment.</p></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-segmentreference" title="class in com.here.sdk.routing">SegmentReference</a></span> <span class="element-name">getSegmentReference</span>()</div>
+<div class="block"><p>Gets the <a href="sdk-for-android-navigate-segmentreference" title="class in com.here.sdk.routing"><code>SegmentReference</code></a> object representing the the segment.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
-<dd><p>The <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-segmentreference" title="class in com.here.sdk.routing"><code>SegmentReference</code></a> object representing the segment</p></dd>
+<dd><p>The <a href="sdk-for-android-navigate-segmentreference" title="class in com.here.sdk.routing"><code>SegmentReference</code></a> object representing the segment</p></dd>
 </dl>
 </section>
 </li>
@@ -139,11 +138,11 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-segmentdata"
 <section class="detail" id="getPolyline()">
 <h3>getPolyline</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-geopolyline" title="class in com.here.sdk.core">GeoPolyline</a></span> <span class="element-name">getPolyline</span>()</div>
-<div class="block"><p>Gets the <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-geopolyline" title="class in com.here.sdk.core"><code>GeoPolyline</code></a> object representing the polyline of this segment.</p></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-geopolyline" title="class in com.here.sdk.core">GeoPolyline</a></span> <span class="element-name">getPolyline</span>()</div>
+<div class="block"><p>Gets the <a href="sdk-for-android-navigate-geopolyline" title="class in com.here.sdk.core"><code>GeoPolyline</code></a> object representing the polyline of this segment.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
-<dd><p>The <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-geopolyline" title="class in com.here.sdk.core"><code>GeoPolyline</code></a> object representing the polyline of this segment.</p></dd>
+<dd><p>The <a href="sdk-for-android-navigate-geopolyline" title="class in com.here.sdk.core"><code>GeoPolyline</code></a> object representing the polyline of this segment.</p></dd>
 </dl>
 </section>
 </li>
@@ -155,7 +154,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-segmentdata"
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>The length of this segment in meters. This information is based on map data.
-     It can differ from the length of <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#getPolyline()"><code>getPolyline()</code></a> due to
+     It can differ from the length of <a href="sdk-for-android-navigate-index#getPolyline()"><code>getPolyline()</code></a> due to
      approximations of the polyline.</p></dd>
 </dl>
 </section>
@@ -164,11 +163,11 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-segmentdata"
 <section class="detail" id="getSpans()">
 <h3>getSpans</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-segmentspandata" title="class in com.here.sdk.mapdata">SegmentSpanData</a>&gt;</span> <span class="element-name">getSpans</span>()</div>
-<div class="block"><p>Gets the list of <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-segmentspandata" title="class in com.here.sdk.mapdata"><code>SegmentSpanData</code></a>.</p></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-segmentspandata" title="class in com.here.sdk.mapdata">SegmentSpanData</a>&gt;</span> <span class="element-name">getSpans</span>()</div>
+<div class="block"><p>Gets the list of <a href="sdk-for-android-navigate-segmentspandata" title="class in com.here.sdk.mapdata"><code>SegmentSpanData</code></a>.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
-<dd><p>The list of <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-segmentspandata" title="class in com.here.sdk.mapdata"><code>SegmentSpanData</code></a> of the given segment for the
+<dd><p>The list of <a href="sdk-for-android-navigate-segmentspandata" title="class in com.here.sdk.mapdata"><code>SegmentSpanData</code></a> of the given segment for the
      requested attributes
      <strong>Note:</strong> If no span attributes is requested, the list will be empty.</p></dd>
 </dl>
@@ -178,15 +177,15 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-segmentdata"
 <section class="detail" id="getTrafficSignals()">
 <h3>getTrafficSignals</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-trafficsignal" title="class in com.here.sdk.mapdata">TrafficSignal</a>&gt;</span> <span class="element-name">getTrafficSignals</span>()</div>
-<div class="block"><p>Gets the list of <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-trafficsignal" title="class in com.here.sdk.mapdata"><code>TrafficSignal</code></a>.</p></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-trafficsignal" title="class in com.here.sdk.mapdata">TrafficSignal</a>&gt;</span> <span class="element-name">getTrafficSignals</span>()</div>
+<div class="block"><p>Gets the list of <a href="sdk-for-android-navigate-trafficsignal" title="class in com.here.sdk.mapdata"><code>TrafficSignal</code></a>.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
-<dd><p>The list of <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-trafficsignal" title="class in com.here.sdk.mapdata"><code>TrafficSignal</code></a> of the given segment.
+<dd><p>The list of <a href="sdk-for-android-navigate-trafficsignal" title="class in com.here.sdk.mapdata"><code>TrafficSignal</code></a> of the given segment.
      Returns an empty list if no data is found.
-     Returns <code>null</code> if <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-segmentdataloaderoptions#loadTrafficSignals"><code>SegmentDataLoaderOptions.loadTrafficSignals</code></a> is set to <code>false</code>.
-     The <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-trafficsignallocation" title="enum class in com.here.sdk.mapdata"><code>TrafficSignalLocation</code></a> indicates the location of a single traffic signal, which can be any combination of left, right and overhead.
-     The <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-trafficsignal#offsetInMeters"><code>TrafficSignal.offsetInMeters</code></a> is the location along the segment,
+     Returns <code>null</code> if <a href="sdk-for-android-navigate-segmentdataloaderoptions#loadTrafficSignals"><code>SegmentDataLoaderOptions.loadTrafficSignals</code></a> is set to <code>false</code>.
+     The <a href="sdk-for-android-navigate-trafficsignallocation" title="enum class in com.here.sdk.mapdata"><code>TrafficSignalLocation</code></a> indicates the location of a single traffic signal, which can be any combination of left, right and overhead.
+     The <a href="sdk-for-android-navigate-trafficsignal#offsetInMeters"><code>TrafficSignal.offsetInMeters</code></a> is the location along the segment,
      while the traffic signal location have details on how the traffic signal is display/deploy in that specific location in the segment.</p></dd>
 </dl>
 </section>
@@ -195,12 +194,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-segmentdata"
 <section class="detail" id="getRoadSigns()">
 <h3>getRoadSigns</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-roadsign" title="class in com.here.sdk.navigation">RoadSign</a>&gt;</span> <span class="element-name">getRoadSigns</span>()</div>
-<div class="block"><p>Gets the list of <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-roadsign" title="class in com.here.sdk.navigation"><code>RoadSign</code></a>.
- </p><p>Returns <code>null</code> if <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-segmentdataloaderoptions#loadRoadSigns"><code>SegmentDataLoaderOptions.loadRoadSigns</code></a> is set to <code>false</code>.</p></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-roadsign" title="class in com.here.sdk.navigation">RoadSign</a>&gt;</span> <span class="element-name">getRoadSigns</span>()</div>
+<div class="block"><p>Gets the list of <a href="sdk-for-android-navigate-roadsign" title="class in com.here.sdk.navigation"><code>RoadSign</code></a>.
+ </p><p>Returns <code>null</code> if <a href="sdk-for-android-navigate-segmentdataloaderoptions#loadRoadSigns"><code>SegmentDataLoaderOptions.loadRoadSigns</code></a> is set to <code>false</code>.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
-<dd><p>The list of <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-roadsign" title="class in com.here.sdk.navigation"><code>RoadSign</code></a> of the given segment.</p></dd>
+<dd><p>The list of <a href="sdk-for-android-navigate-roadsign" title="class in com.here.sdk.navigation"><code>RoadSign</code></a> of the given segment.</p></dd>
 </dl>
 </section>
 </li>
@@ -208,13 +207,13 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-segmentdata"
 <section class="detail" id="getRailwayCrossings()">
 <h3>getRailwayCrossings</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-railwaycrossing" title="class in com.here.sdk.mapdata">RailwayCrossing</a>&gt;</span> <span class="element-name">getRailwayCrossings</span>()</div>
-<div class="block"><p>Gets the list of <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-railwaycrossing" title="class in com.here.sdk.mapdata"><code>RailwayCrossing</code></a>.</p></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-railwaycrossing" title="class in com.here.sdk.mapdata">RailwayCrossing</a>&gt;</span> <span class="element-name">getRailwayCrossings</span>()</div>
+<div class="block"><p>Gets the list of <a href="sdk-for-android-navigate-railwaycrossing" title="class in com.here.sdk.mapdata"><code>RailwayCrossing</code></a>.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
-<dd><p>The list of <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-railwaycrossing" title="class in com.here.sdk.mapdata"><code>RailwayCrossing</code></a> of the given segment.
+<dd><p>The list of <a href="sdk-for-android-navigate-railwaycrossing" title="class in com.here.sdk.mapdata"><code>RailwayCrossing</code></a> of the given segment.
      Returns an empty list if no data is found.
-     Returns <code>null</code> if <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-segmentdataloaderoptions#loadRailwayCrossings"><code>SegmentDataLoaderOptions.loadRailwayCrossings</code></a> is set to <code>false</code>.</p></dd>
+     Returns <code>null</code> if <a href="sdk-for-android-navigate-segmentdataloaderoptions#loadRailwayCrossings"><code>SegmentDataLoaderOptions.loadRailwayCrossings</code></a> is set to <code>false</code>.</p></dd>
 </dl>
 </section>
 </li>
@@ -222,14 +221,14 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-segmentdata"
 <section class="detail" id="getTollPoints()">
 <h3>getTollPoints</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-tollpoint" title="class in com.here.sdk.mapdata">TollPoint</a>&gt;</span> <span class="element-name">getTollPoints</span>()</div>
-<div class="block"><p>Gets the list of <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-tollpoint" title="class in com.here.sdk.mapdata"><code>TollPoint</code></a>.</p></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-tollpoint" title="class in com.here.sdk.mapdata">TollPoint</a>&gt;</span> <span class="element-name">getTollPoints</span>()</div>
+<div class="block"><p>Gets the list of <a href="sdk-for-android-navigate-tollpoint" title="class in com.here.sdk.mapdata"><code>TollPoint</code></a>.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
-<dd><p>The list of <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-tollpoint" title="class in com.here.sdk.mapdata"><code>TollPoint</code></a> of the given segment.
+<dd><p>The list of <a href="sdk-for-android-navigate-tollpoint" title="class in com.here.sdk.mapdata"><code>TollPoint</code></a> of the given segment.
      Returns an empty list if no data is found.
-     Returns <code>null</code> if <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-segmentdataloaderoptions#loadTollPoints"><code>SegmentDataLoaderOptions.loadTollPoints</code></a> is set to <code>false</code>
-     or the <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-segmentdata" title="class in com.here.sdk.mapdata"><code>SegmentData</code></a> is not initialized using <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-segmentdataloader#loadDirectedSegmentData(com.here.sdk.mapdata.DirectedOCMSegmentId,com.here.sdk.mapdata.SegmentDataLoaderOptions)"><code>SegmentDataLoader.loadDirectedSegmentData(com.here.sdk.mapdata.DirectedOCMSegmentId, com.here.sdk.mapdata.SegmentDataLoaderOptions)</code></a>.</p></dd>
+     Returns <code>null</code> if <a href="sdk-for-android-navigate-segmentdataloaderoptions#loadTollPoints"><code>SegmentDataLoaderOptions.loadTollPoints</code></a> is set to <code>false</code>
+     or the <a href="sdk-for-android-navigate-segmentdata" title="class in com.here.sdk.mapdata"><code>SegmentData</code></a> is not initialized using <a href="sdk-for-android-navigate-segmentdataloader#loadDirectedSegmentData(com.here.sdk.mapdata.DirectedOCMSegmentId,com.here.sdk.mapdata.SegmentDataLoaderOptions)"><code>SegmentDataLoader.loadDirectedSegmentData(com.here.sdk.mapdata.DirectedOCMSegmentId, com.here.sdk.mapdata.SegmentDataLoaderOptions)</code></a>.</p></dd>
 </dl>
 </section>
 </li>

@@ -7,7 +7,6 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-sectiontransportmode"
 `
 <div class="sdk-for-android">
 <!-- SectionTransportMode.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,23 +19,23 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-sectiontransportmode"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-package-summary">com.here.sdk.routing</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-routing-package-summary">com.here.sdk.routing</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">java.lang.Enum</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-sectiontransportmode" title="enum class in com.here.sdk.routing">SectionTransportMode</a>&gt;
+<div class="inheritance"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">java.lang.Enum</a>&lt;<a href="sdk-for-android-explore-sectiontransportmode" title="enum class in com.here.sdk.routing">SectionTransportMode</a>&gt;
 <div class="inheritance">com.here.sdk.routing.SectionTransportMode</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>All Implemented Interfaces:</dt>
-<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" title="class or interface in java.io">Serializable</a></code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" title="class or interface in java.lang">Comparable</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-sectiontransportmode" title="enum class in com.here.sdk.routing">SectionTransportMode</a>&gt;</code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" title="class or interface in java.lang.constant">Constable</a></code></dd>
+<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" title="class or interface in java.io">Serializable</a></code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" title="class or interface in java.lang">Comparable</a>&lt;<a href="sdk-for-android-explore-sectiontransportmode" title="enum class in com.here.sdk.routing">SectionTransportMode</a>&gt;</code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" title="class or interface in java.lang.constant">Constable</a></code></dd>
 </dl>
 <hr/>
 <div class="type-signature"><span class="modifiers">public enum </span><span class="element-name type-name-label">SectionTransportMode</span>
-<span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-sectiontransportmode" title="enum class in com.here.sdk.routing">SectionTransportMode</a>&gt;</span></div>
-<div class="block"><p>Specifies the <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-section" title="class in com.here.sdk.routing"><code>Section</code></a> mode of transport. A <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-section" title="class in com.here.sdk.routing"><code>Section</code></a> may have a different
+<span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a href="sdk-for-android-explore-sectiontransportmode" title="enum class in com.here.sdk.routing">SectionTransportMode</a>&gt;</span></div>
+<div class="block"><p>Specifies the <a href="sdk-for-android-explore-section" title="class in com.here.sdk.routing"><code>Section</code></a> mode of transport. A <a href="sdk-for-android-explore-section" title="class in com.here.sdk.routing"><code>Section</code></a> may have a different
  transport mode than the one specified for route calculation. For example, a car route may have a
  section having ferry transport mode.</p></div>
 </section>
@@ -59,47 +58,47 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-sectiontransportmode"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Enum Constant</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#BICYCLE">BICYCLE</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#BICYCLE">BICYCLE</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Bicycle mode of transport.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#BUS">BUS</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#BUS">BUS</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Bus mode of transport.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#CAR">CAR</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#CAR">CAR</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Car mode of transport.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#CAR_SHUTTLE_TRAIN">CAR_SHUTTLE_TRAIN</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#CAR_SHUTTLE_TRAIN">CAR_SHUTTLE_TRAIN</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Mode of transport representing a shuttle train for cars.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#FERRY">FERRY</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#FERRY">FERRY</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Ferry mode of transport.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#PEDESTRIAN">PEDESTRIAN</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#PEDESTRIAN">PEDESTRIAN</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Pedestrian mode of transport.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#PRIVATE_BUS">PRIVATE_BUS</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#PRIVATE_BUS">PRIVATE_BUS</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Private bus mode of transport.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#PUBLIC_TRANSIT">PUBLIC_TRANSIT</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#PUBLIC_TRANSIT">PUBLIC_TRANSIT</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">A section with this mode is part of a public transit route.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#SCOOTER">SCOOTER</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#SCOOTER">SCOOTER</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Scooter mode of transport.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#TAXI">TAXI</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#TAXI">TAXI</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Taxi mode of transport.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#TRUCK">TRUCK</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#TRUCK">TRUCK</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Truck mode of transport.</div>
 </div>
@@ -117,13 +116,13 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-sectiontransportmode"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-sectiontransportmode" title="enum class in com.here.sdk.routing">SectionTransportMode</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-sectiontransportmode" title="enum class in com.here.sdk.routing">SectionTransportMode</a></code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-sectiontransportmode" title="enum class in com.here.sdk.routing">SectionTransportMode</a>[]</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#values()">values</a>()</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-sectiontransportmode" title="enum class in com.here.sdk.routing">SectionTransportMode</a>[]</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
@@ -151,71 +150,71 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="CAR">
 <h3>CAR</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-sectiontransportmode" title="enum class in com.here.sdk.routing">SectionTransportMode</a></span> <span class="element-name">CAR</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-sectiontransportmode" title="enum class in com.here.sdk.routing">SectionTransportMode</a></span> <span class="element-name">CAR</span></div>
 <div class="block"><p>Car mode of transport.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="TRUCK">
 <h3>TRUCK</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-sectiontransportmode" title="enum class in com.here.sdk.routing">SectionTransportMode</a></span> <span class="element-name">TRUCK</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-sectiontransportmode" title="enum class in com.here.sdk.routing">SectionTransportMode</a></span> <span class="element-name">TRUCK</span></div>
 <div class="block"><p>Truck mode of transport.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="PEDESTRIAN">
 <h3>PEDESTRIAN</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-sectiontransportmode" title="enum class in com.here.sdk.routing">SectionTransportMode</a></span> <span class="element-name">PEDESTRIAN</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-sectiontransportmode" title="enum class in com.here.sdk.routing">SectionTransportMode</a></span> <span class="element-name">PEDESTRIAN</span></div>
 <div class="block"><p>Pedestrian mode of transport.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="FERRY">
 <h3>FERRY</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-sectiontransportmode" title="enum class in com.here.sdk.routing">SectionTransportMode</a></span> <span class="element-name">FERRY</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-sectiontransportmode" title="enum class in com.here.sdk.routing">SectionTransportMode</a></span> <span class="element-name">FERRY</span></div>
 <div class="block"><p>Ferry mode of transport.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="CAR_SHUTTLE_TRAIN">
 <h3>CAR_SHUTTLE_TRAIN</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-sectiontransportmode" title="enum class in com.here.sdk.routing">SectionTransportMode</a></span> <span class="element-name">CAR_SHUTTLE_TRAIN</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-sectiontransportmode" title="enum class in com.here.sdk.routing">SectionTransportMode</a></span> <span class="element-name">CAR_SHUTTLE_TRAIN</span></div>
 <div class="block"><p>Mode of transport representing a shuttle train for cars.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="SCOOTER">
 <h3>SCOOTER</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-sectiontransportmode" title="enum class in com.here.sdk.routing">SectionTransportMode</a></span> <span class="element-name">SCOOTER</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-sectiontransportmode" title="enum class in com.here.sdk.routing">SectionTransportMode</a></span> <span class="element-name">SCOOTER</span></div>
 <div class="block"><p>Scooter mode of transport.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="BICYCLE">
 <h3>BICYCLE</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-sectiontransportmode" title="enum class in com.here.sdk.routing">SectionTransportMode</a></span> <span class="element-name">BICYCLE</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-sectiontransportmode" title="enum class in com.here.sdk.routing">SectionTransportMode</a></span> <span class="element-name">BICYCLE</span></div>
 <div class="block"><p>Bicycle mode of transport.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="PUBLIC_TRANSIT">
 <h3>PUBLIC_TRANSIT</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-sectiontransportmode" title="enum class in com.here.sdk.routing">SectionTransportMode</a></span> <span class="element-name">PUBLIC_TRANSIT</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-sectiontransportmode" title="enum class in com.here.sdk.routing">SectionTransportMode</a></span> <span class="element-name">PUBLIC_TRANSIT</span></div>
 <div class="block"><p>A section with this mode is part of a public transit route. The actual transport mode can be
- obtained from <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-section#getTransitDetails()"><code>Section.getTransitDetails()</code></a>.</p></div>
+ obtained from <a href="sdk-for-android-explore-section#getTransitDetails()"><code>Section.getTransitDetails()</code></a>.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="TAXI">
 <h3>TAXI</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-sectiontransportmode" title="enum class in com.here.sdk.routing">SectionTransportMode</a></span> <span class="element-name">TAXI</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-sectiontransportmode" title="enum class in com.here.sdk.routing">SectionTransportMode</a></span> <span class="element-name">TAXI</span></div>
 <div class="block"><p>Taxi mode of transport.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="BUS">
 <h3>BUS</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-sectiontransportmode" title="enum class in com.here.sdk.routing">SectionTransportMode</a></span> <span class="element-name">BUS</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-sectiontransportmode" title="enum class in com.here.sdk.routing">SectionTransportMode</a></span> <span class="element-name">BUS</span></div>
 <div class="block"><p>Bus mode of transport.
  Denotes those vehicles operated by public transport provider.
  This transport mode has the access to the bus-only lane/road.</p></div>
@@ -224,7 +223,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="PRIVATE_BUS">
 <h3>PRIVATE_BUS</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-sectiontransportmode" title="enum class in com.here.sdk.routing">SectionTransportMode</a></span> <span class="element-name">PRIVATE_BUS</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-sectiontransportmode" title="enum class in com.here.sdk.routing">SectionTransportMode</a></span> <span class="element-name">PRIVATE_BUS</span></div>
 <div class="block"><p>Private bus mode of transport.
  Denotes those vehicles operated by private transport company.
  This transport mode does not have the access to the bus-only lane/road.</p></div>
@@ -241,7 +240,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="values()">
 <h3>values</h3>
-<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-sectiontransportmode" title="enum class in com.here.sdk.routing">SectionTransportMode</a>[]</span> <span class="element-name">values</span>()</div>
+<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-sectiontransportmode" title="enum class in com.here.sdk.routing">SectionTransportMode</a>[]</span> <span class="element-name">values</span>()</div>
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
 <dl class="notes">
@@ -253,7 +252,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="valueOf(java.lang.String)">
 <h3>valueOf</h3>
-<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-sectiontransportmode" title="enum class in com.here.sdk.routing">SectionTransportMode</a></span> <span class="element-name">valueOf</span><wbr/><span class="parameters">(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</span></div>
+<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-sectiontransportmode" title="enum class in com.here.sdk.routing">SectionTransportMode</a></span> <span class="element-name">valueOf</span><wbr/><span class="parameters">(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</span></div>
 <div class="block">Returns the enum constant of this class with the specified name.
 The string must match <i>exactly</i> an identifier used to declare an
 enum constant in this class.  (Extraneous whitespace characters are 

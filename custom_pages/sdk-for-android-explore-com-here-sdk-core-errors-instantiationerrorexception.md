@@ -7,7 +7,6 @@ slug: "sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexcept
 `
 <div class="sdk-for-android">
 <!-- InstantiationErrorException.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,7 +19,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexcept
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-package-summary">com.here.sdk.core.errors</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-core-errors-package-summary">com.here.sdk.core.errors</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -43,7 +42,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexcept
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-serialized-form#com.here.sdk.core.errors.InstantiationErrorException">Serialized Form</a></li>
+<li><a href="sdk-for-android-explore-serialized-form#com.here.sdk.core.errors.InstantiationErrorException">Serialized Form</a></li>
 </ul>
 </dd>
 </dl>

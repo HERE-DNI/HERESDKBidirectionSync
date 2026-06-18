@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-evsearchengine"
 `
 <div class="sdk-for-android">
 <!-- EVSearchEngine.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,23 +19,23 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-evsearchengine"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.search</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-search-package-summary">com.here.sdk.search</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-nativebase" title="class in com.here">com.here.NativeBase</a>
+<div class="inheritance"><a href="sdk-for-android-navigate-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.search.EVSearchEngine</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>All Implemented Interfaces:</dt>
-<dd><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-evsearchinterface" title="interface in com.here.sdk.search">EVSearchInterface</a></code></dd>
+<dd><code><a href="sdk-for-android-navigate-evsearchinterface" title="interface in com.here.sdk.search">EVSearchInterface</a></code></dd>
 </dl>
 <hr/>
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">EVSearchEngine</span>
-<span class="extends-implements">extends <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-nativebase" title="class in com.here">NativeBase</a>
-implements <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-evsearchinterface" title="interface in com.here.sdk.search">EVSearchInterface</a></span></div>
+<span class="extends-implements">extends <a href="sdk-for-android-navigate-nativebase" title="class in com.here">NativeBase</a>
+implements <a href="sdk-for-android-navigate-evsearchinterface" title="interface in com.here.sdk.search">EVSearchInterface</a></span></div>
 <div class="block"><p>The <code>EVSearchEngine</code> API provides detailed information about charging locations.
  It requires an online connection to execute the requests.
  A licence is required to use this API. Details can be found in
@@ -54,11 +53,11 @@ implements <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-n
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#%3Cinit%3E()">EVSearchEngine</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E()">EVSearchEngine</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance of this class.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.core.engine.SDKNativeEngine)">EVSearchEngine</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> sdkEngine)</code></div>
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.core.engine.SDKNativeEngine)">EVSearchEngine</a><wbr/>(<a href="sdk-for-android-navigate-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> sdkEngine)</code></div>
 <div class="col-last odd-row-color">
 <div class="block">Creates a new instance of this class.</div>
 </div>
@@ -76,14 +75,14 @@ implements <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-n
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#search(java.util.List,com.here.sdk.search.EVSearchCallback)">search</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a>&gt; ids,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-evsearchcallback" title="interface in com.here.sdk.search">EVSearchCallback</a> callback)</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#search(java.util.List,com.here.sdk.search.EVSearchCallback)">search</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a>&gt; ids,
+ <a href="sdk-for-android-navigate-evsearchcallback" title="interface in com.here.sdk.search">EVSearchCallback</a> callback)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
-<div class="block">Performs an asynchronous request for <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-evcharginglocation" title="class in com.here.sdk.search"><code>EVChargingLocation</code></a> instances with given Place IDs.</div>
+<div class="block">Performs an asynchronous request for <a href="sdk-for-android-navigate-evcharginglocation" title="class in com.here.sdk.search"><code>EVChargingLocation</code></a> instances with given Place IDs.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#setOptions(com.here.sdk.search.EVSearchOptions)">setOptions</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-evsearchoptions" title="class in com.here.sdk.search">EVSearchOptions</a> options)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setOptions(com.here.sdk.search.EVSearchOptions)">setOptions</a><wbr/>(<a href="sdk-for-android-navigate-evsearchoptions" title="class in com.here.sdk.search">EVSearchOptions</a> options)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Configures the behavior of <code>EVSearchEngine</code> using the provided input options.</div>
 </div>
@@ -108,11 +107,11 @@ implements <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-n
 <section class="detail" id="&lt;init&gt;()">
 <h3>EVSearchEngine</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">EVSearchEngine</span>()
-               throws <span class="exceptions"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></span></div>
+               throws <span class="exceptions"><a href="sdk-for-android-navigate-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></span></div>
 <div class="block"><p>Creates a new instance of this class.</p></div>
 <dl class="notes">
 <dt>Throws:</dt>
-<dd><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></code> - <p>Indicates what went wrong when the instantiation was attempted.</p></dd>
+<dd><code><a href="sdk-for-android-navigate-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></code> - <p>Indicates what went wrong when the instantiation was attempted.</p></dd>
 </dl>
 </section>
 </li>
@@ -120,14 +119,14 @@ implements <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-n
 <section class="detail" id="&lt;init&gt;(com.here.sdk.core.engine.SDKNativeEngine)">
 <h3>EVSearchEngine</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">EVSearchEngine</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> sdkEngine)</span>
-               throws <span class="exceptions"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></span></div>
+ <a href="sdk-for-android-navigate-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> sdkEngine)</span>
+               throws <span class="exceptions"><a href="sdk-for-android-navigate-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></span></div>
 <div class="block"><p>Creates a new instance of this class.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>sdkEngine</code> - <p>Instance of an existing SDKEngine.</p></dd>
 <dt>Throws:</dt>
-<dd><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></code> - <p>Indicates what went wrong when the instantiation was attempted.</p></dd>
+<dd><code><a href="sdk-for-android-navigate-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></code> - <p>Indicates what went wrong when the instantiation was attempted.</p></dd>
 </dl>
 </section>
 </li>
@@ -143,7 +142,7 @@ implements <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-n
 <section class="detail" id="setOptions(com.here.sdk.search.EVSearchOptions)">
 <h3>setOptions</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setOptions</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-evsearchoptions" title="class in com.here.sdk.search">EVSearchOptions</a> options)</span></div>
+ <a href="sdk-for-android-navigate-evsearchoptions" title="class in com.here.sdk.search">EVSearchOptions</a> options)</span></div>
 <div class="block"><p>Configures the behavior of <code>EVSearchEngine</code> using the provided input options.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -155,14 +154,14 @@ implements <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-n
 <section class="detail" id="search(java.util.List,com.here.sdk.search.EVSearchCallback)">
 <h3>search</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">search</span><wbr/><span class="parameters">(@NonNull
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">search</span><wbr/><span class="parameters">(@NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a>&gt; ids,
  @NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-evsearchcallback" title="interface in com.here.sdk.search">EVSearchCallback</a> callback)</span></div>
-<div class="block"><p>Performs an asynchronous request for <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-evcharginglocation" title="class in com.here.sdk.search"><code>EVChargingLocation</code></a> instances with given Place IDs.</p></div>
+ <a href="sdk-for-android-navigate-evsearchcallback" title="interface in com.here.sdk.search">EVSearchCallback</a> callback)</span></div>
+<div class="block"><p>Performs an asynchronous request for <a href="sdk-for-android-navigate-evcharginglocation" title="class in com.here.sdk.search"><code>EVChargingLocation</code></a> instances with given Place IDs.</p></div>
 <dl class="notes">
 <dt>Specified by:</dt>
-<dd><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-evsearchinterface#search(java.util.List,com.here.sdk.search.EVSearchCallback)">search</a></code> in interface <code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-evsearchinterface" title="interface in com.here.sdk.search">EVSearchInterface</a></code></dd>
+<dd><code><a href="sdk-for-android-navigate-evsearchinterface#search(java.util.List,com.here.sdk.search.EVSearchCallback)">search</a></code> in interface <code><a href="sdk-for-android-navigate-evsearchinterface" title="interface in com.here.sdk.search">EVSearchInterface</a></code></dd>
 <dt>Parameters:</dt>
 <dd><code>ids</code> - <p>List of charging location identifiers.</p></dd>
 <dd><code>callback</code> - <p>Callback which receives the result on the main thread.</p></dd>

@@ -7,7 +7,6 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapviewbase-mappickcallback"
 `
 <div class="sdk-for-android">
 <!-- MapViewBase.MapPickCallback.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,13 +19,13 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapviewbase-mappickcallback"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-package-summary">com.here.sdk.mapview</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></div>
 
 </div>
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>Enclosing interface:</dt>
-<dd><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-mapviewbase" title="interface in com.here.sdk.mapview">MapViewBase</a></dd>
+<dd><a href="sdk-for-android-explore-mapviewbase" title="interface in com.here.sdk.mapview">MapViewBase</a></dd>
 </dl>
 <dl class="notes">
 <dt>Functional Interface:</dt>
@@ -51,7 +50,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapviewbase-mappickcallback"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#onPickMap(com.here.sdk.mapview.MapPickResult)">onPickMap</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-mappickresult" title="class in com.here.sdk.mapview">MapPickResult</a> mapPickResult)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-index#onPickMap(com.here.sdk.mapview.MapPickResult)">onPickMap</a><wbr/>(<a href="sdk-for-android-explore-mappickresult" title="class in com.here.sdk.mapview">MapPickResult</a> mapPickResult)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Callback for a pick request.</div>
 </div>
@@ -73,7 +72,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapviewbase-mappickcallback"
 <section class="detail" id="onPickMap(com.here.sdk.mapview.MapPickResult)">
 <h3>onPickMap</h3>
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">onPickMap</span><wbr/><span class="parameters">(@Nullable
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-mappickresult" title="class in com.here.sdk.mapview">MapPickResult</a> mapPickResult)</span></div>
+ <a href="sdk-for-android-explore-mappickresult" title="class in com.here.sdk.mapview">MapPickResult</a> mapPickResult)</span></div>
 <div class="block"><p>Callback for a pick request. In case of an error the result is not set.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

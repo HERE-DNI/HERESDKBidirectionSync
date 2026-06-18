@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-catalogupdateinfo"
 `
 <div class="sdk-for-android">
 <!-- CatalogUpdateInfo.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,7 +19,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-catalogupdateinfo"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.maploader</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-maploader-package-summary">com.here.sdk.maploader</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -45,32 +44,32 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-catalogupdateinfo"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>long</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#diskSizeInBytes">diskSizeInBytes</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#diskSizeInBytes">diskSizeInBytes</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Estimates the size of the offline maps after an update.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-installedcatalog" title="class in com.here.sdk.maploader">InstalledCatalog</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#installedCatalog">installedCatalog</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-installedcatalog" title="class in com.here.sdk.maploader">InstalledCatalog</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#installedCatalog">installedCatalog</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Installed catalog.</div>
 </div>
 <div class="col-first even-row-color"><code>long</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#latestVersion">latestVersion</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#latestVersion">latestVersion</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Latest version available for a catalog.</div>
 </div>
 <div class="col-first odd-row-color"><code>long</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#networkSizeInBytes">networkSizeInBytes</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#networkSizeInBytes">networkSizeInBytes</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Total size in bytes that needs to be downloaded over the network to update the installed catalog.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-catalogupdatestate" title="enum class in com.here.sdk.maploader">CatalogUpdateState</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#state">state</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-catalogupdatestate" title="enum class in com.here.sdk.maploader">CatalogUpdateState</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#state">state</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">State of current catalog update.</div>
 </div>
 <div class="col-first odd-row-color"><code>long</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#temporaryDiskRequirementInBytes">temporaryDiskRequirementInBytes</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#temporaryDiskRequirementInBytes">temporaryDiskRequirementInBytes</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Performing an update requires additional storage on top of existing offline maps.</div>
 </div>
@@ -89,10 +88,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-catalogupdateinfo"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 </div>
 </div>
@@ -115,7 +114,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-catalogupdateinfo"
 <section class="detail" id="installedCatalog">
 <h3>installedCatalog</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-installedcatalog" title="class in com.here.sdk.maploader">InstalledCatalog</a></span> <span class="element-name">installedCatalog</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-installedcatalog" title="class in com.here.sdk.maploader">InstalledCatalog</a></span> <span class="element-name">installedCatalog</span></div>
 <div class="block"><p>Installed catalog.</p></div>
 </section>
 </li>
@@ -130,7 +129,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-catalogupdateinfo"
 <section class="detail" id="state">
 <h3>state</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-catalogupdatestate" title="enum class in com.here.sdk.maploader">CatalogUpdateState</a></span> <span class="element-name">state</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-catalogupdatestate" title="enum class in com.here.sdk.maploader">CatalogUpdateState</a></span> <span class="element-name">state</span></div>
 <div class="block"><p>State of current catalog update.</p></div>
 </section>
 </li>
@@ -157,7 +156,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-catalogupdateinfo"
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">long</span> <span class="element-name">temporaryDiskRequirementInBytes</span></div>
 <div class="block"><p>Performing an update requires additional storage on top of existing offline maps.
  This space is used to store intermittent copy of map content according to
- the specified <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapupdater.mapupdateversioncommitpolicy" title="enum class in com.here.sdk.maploader"><code>MapUpdater.MapUpdateVersionCommitPolicy</code></a>.
+ the specified <a href="sdk-for-android-navigate-mapupdater.mapupdateversioncommitpolicy" title="enum class in com.here.sdk.maploader"><code>MapUpdater.MapUpdateVersionCommitPolicy</code></a>.
  <strong>Note</strong>
  In order to estimate, if catalog update is feasible, given the amount of free space on the disk,
  application can compare amount of the free space on the disk with <code>disk_size_in_bytes + temporary_disk_requirement_in_bytes</code>.</p></div>

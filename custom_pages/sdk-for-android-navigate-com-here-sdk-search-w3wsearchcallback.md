@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-w3wsearchcallback"
 `
 <div class="sdk-for-android">
 <!-- W3WSearchCallback.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,7 +19,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-w3wsearchcallback"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.search</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-search-package-summary">com.here.sdk.search</a></div>
 
 </div>
 <section class="class-description" id="class-description">
@@ -48,8 +47,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-w3wsearchcallback"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#onW3WSearchCompleted(com.here.sdk.search.W3WSearchError,com.here.sdk.search.W3WSquare)">onW3WSearchCompleted</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-w3wsearcherror" title="enum class in com.here.sdk.search">W3WSearchError</a> searchError,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-w3wsquare" title="class in com.here.sdk.search">W3WSquare</a> square)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onW3WSearchCompleted(com.here.sdk.search.W3WSearchError,com.here.sdk.search.W3WSquare)">onW3WSearchCompleted</a><wbr/>(<a href="sdk-for-android-navigate-w3wsearcherror" title="enum class in com.here.sdk.search">W3WSearchError</a> searchError,
+ <a href="sdk-for-android-navigate-w3wsquare" title="class in com.here.sdk.search">W3WSquare</a> square)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">The method that will be called on the main thread when a search operation in <code>W3WSearchEngine</code>
  has been completed.</div>
@@ -72,9 +71,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-w3wsearchcallback"
 <section class="detail" id="onW3WSearchCompleted(com.here.sdk.search.W3WSearchError,com.here.sdk.search.W3WSquare)">
 <h3>onW3WSearchCompleted</h3>
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">onW3WSearchCompleted</span><wbr/><span class="parameters">(@Nullable
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-w3wsearcherror" title="enum class in com.here.sdk.search">W3WSearchError</a> searchError,
+ <a href="sdk-for-android-navigate-w3wsearcherror" title="enum class in com.here.sdk.search">W3WSearchError</a> searchError,
  @Nullable
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-w3wsquare" title="class in com.here.sdk.search">W3WSquare</a> square)</span></div>
+ <a href="sdk-for-android-navigate-w3wsquare" title="class in com.here.sdk.search">W3WSquare</a> square)</span></div>
 <div class="block"><p>The method that will be called on the main thread when a search operation in <code>W3WSearchEngine</code>
  has been completed.</p></div>
 <dl class="notes">

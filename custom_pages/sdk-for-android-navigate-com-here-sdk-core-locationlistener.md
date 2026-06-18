@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-locationlistener"
 `
 <div class="sdk-for-android">
 <!-- LocationListener.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,17 +19,17 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-locationlistener"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.core</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-core-package-summary">com.here.sdk.core</a></div>
 
 </div>
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>All Known Subinterfaces:</dt>
-<dd><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-navigatorinterface" title="interface in com.here.sdk.navigation">NavigatorInterface</a></code></dd>
+<dd><code><a href="sdk-for-android-navigate-navigatorinterface" title="interface in com.here.sdk.navigation">NavigatorInterface</a></code></dd>
 </dl>
 <dl class="notes">
 <dt>All Known Implementing Classes:</dt>
-<dd><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-gpxtrackwriter" title="class in com.here.sdk.navigation">GPXTrackWriter</a></code>, <code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-locationmanager" title="class in com.here.sdk.mapmatcher">LocationManager</a></code>, <code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-navigator" title="class in com.here.sdk.navigation">Navigator</a></code>, <code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-trafficbroadcast" title="class in com.here.sdk.trafficbroadcast">TrafficBroadcast</a></code>, <code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-visualnavigator" title="class in com.here.sdk.navigation">VisualNavigator</a></code></dd>
+<dd><code><a href="sdk-for-android-navigate-gpxtrackwriter" title="class in com.here.sdk.navigation">GPXTrackWriter</a></code>, <code><a href="sdk-for-android-navigate-locationmanager" title="class in com.here.sdk.mapmatcher">LocationManager</a></code>, <code><a href="sdk-for-android-navigate-navigator" title="class in com.here.sdk.navigation">Navigator</a></code>, <code><a href="sdk-for-android-navigate-trafficbroadcast" title="class in com.here.sdk.trafficbroadcast">TrafficBroadcast</a></code>, <code><a href="sdk-for-android-navigate-visualnavigator" title="class in com.here.sdk.navigation">VisualNavigator</a></code></dd>
 </dl>
 <hr/>
 <div class="type-signature"><span class="modifiers">public interface </span><span class="element-name type-name-label">LocationListener</span></div>
@@ -51,7 +50,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-locationlistener"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#onLocationUpdated(com.here.sdk.core.Location)">onLocationUpdated</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-location" title="class in com.here.sdk.core">Location</a> location)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onLocationUpdated(com.here.sdk.core.Location)">onLocationUpdated</a><wbr/>(<a href="sdk-for-android-navigate-location" title="class in com.here.sdk.core">Location</a> location)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Called each time a new location is available.</div>
 </div>
@@ -73,7 +72,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-locationlistener"
 <section class="detail" id="onLocationUpdated(com.here.sdk.core.Location)">
 <h3>onLocationUpdated</h3>
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">onLocationUpdated</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-location" title="class in com.here.sdk.core">Location</a> location)</span></div>
+ <a href="sdk-for-android-navigate-location" title="class in com.here.sdk.core">Location</a> location)</span></div>
 <div class="block"><p>Called each time a new location is available.
  In a navigation context while using the <code>Navigator</code> or <code>VisualNavigator</code>,
  it's required to set the <code>Location.time</code> parameter for each <code>Location</code>

@@ -7,7 +7,6 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-jsonstylefactory-instantiati
 `
 <div class="sdk-for-android">
 <!-- JsonStyleFactory.InstantiationException.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,7 +19,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-jsonstylefactory-instantiati
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-package-summary">com.here.sdk.mapview</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -37,17 +36,17 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-jsonstylefactory-instantiati
 </dl>
 <dl class="notes">
 <dt>Enclosing class:</dt>
-<dd><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-jsonstylefactory" title="class in com.here.sdk.mapview">JsonStyleFactory</a></dd>
+<dd><a href="sdk-for-android-explore-jsonstylefactory" title="class in com.here.sdk.mapview">JsonStyleFactory</a></dd>
 </dl>
 <hr/>
 <div class="type-signature"><span class="modifiers">public static final class </span><span class="element-name type-name-label">JsonStyleFactory.InstantiationException</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Exception.html" title="class or interface in java.lang">Exception</a></span></div>
-<div class="block"><p>Thrown when failing to create a <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-style" title="class in com.here.sdk.mapview"><code>Style</code></a> from a JSON source.</p></div>
+<div class="block"><p>Thrown when failing to create a <a href="sdk-for-android-explore-style" title="class in com.here.sdk.mapview"><code>Style</code></a> from a JSON source.</p></div>
 <dl class="notes">
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-serialized-form#com.here.sdk.mapview.JsonStyleFactory.InstantiationException">Serialized Form</a></li>
+<li><a href="sdk-for-android-explore-serialized-form#com.here.sdk.mapview.JsonStyleFactory.InstantiationException">Serialized Form</a></li>
 </ul>
 </dd>
 </dl>

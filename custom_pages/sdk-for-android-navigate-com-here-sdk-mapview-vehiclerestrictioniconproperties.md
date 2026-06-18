@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-vehiclerestrictioniconprope
 `
 <div class="sdk-for-android">
 <!-- VehicleRestrictionIconProperties.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,7 +19,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-vehiclerestrictioniconprope
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.mapview</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -44,13 +43,13 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-vehiclerestrictioniconprope
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#countryCode">countryCode</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#countryCode">countryCode</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Specifies country specific version of the icon.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-vehiclerestriction" title="class in com.here.sdk.transport">VehicleRestriction</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#restriction">restriction</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-vehiclerestriction" title="class in com.here.sdk.transport">VehicleRestriction</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#restriction">restriction</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Vehicle restriction to generate icon for.</div>
 </div>
@@ -65,12 +64,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-vehiclerestrictioniconprope
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.transport.VehicleRestriction)">VehicleRestrictionIconProperties</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-vehiclerestriction" title="class in com.here.sdk.transport">VehicleRestriction</a> restriction)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.transport.VehicleRestriction)">VehicleRestrictionIconProperties</a><wbr/>(<a href="sdk-for-android-navigate-vehiclerestriction" title="class in com.here.sdk.transport">VehicleRestriction</a> restriction)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates icon properties for specified restriction.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.transport.VehicleRestriction,com.here.sdk.core.CountryCode)">VehicleRestrictionIconProperties</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-vehiclerestriction" title="class in com.here.sdk.transport">VehicleRestriction</a> restriction,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-countrycode" title="enum class in com.here.sdk.core">CountryCode</a> countryCode)</code></div>
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.transport.VehicleRestriction,com.here.sdk.core.CountryCode)">VehicleRestrictionIconProperties</a><wbr/>(<a href="sdk-for-android-navigate-vehiclerestriction" title="class in com.here.sdk.transport">VehicleRestriction</a> restriction,
+ <a href="sdk-for-android-navigate-countrycode" title="enum class in com.here.sdk.core">CountryCode</a> countryCode)</code></div>
 <div class="col-last odd-row-color">
 <div class="block">Creates icon properties for specified restriction and country.</div>
 </div>
@@ -99,7 +98,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-vehiclerestrictioniconprope
 <section class="detail" id="restriction">
 <h3>restriction</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-vehiclerestriction" title="class in com.here.sdk.transport">VehicleRestriction</a></span> <span class="element-name">restriction</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-vehiclerestriction" title="class in com.here.sdk.transport">VehicleRestriction</a></span> <span class="element-name">restriction</span></div>
 <div class="block"><p>Vehicle restriction to generate icon for.</p></div>
 </section>
 </li>
@@ -107,7 +106,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-vehiclerestrictioniconprope
 <section class="detail" id="countryCode">
 <h3>countryCode</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">countryCode</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">countryCode</span></div>
 <div class="block"><p>Specifies country specific version of the icon. Ignored
  if there is no country specific version of requested icon.</p></div>
 </section>
@@ -124,7 +123,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-vehiclerestrictioniconprope
 <section class="detail" id="&lt;init&gt;(com.here.sdk.transport.VehicleRestriction)">
 <h3>VehicleRestrictionIconProperties</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">VehicleRestrictionIconProperties</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-vehiclerestriction" title="class in com.here.sdk.transport">VehicleRestriction</a> restriction)</span></div>
+ <a href="sdk-for-android-navigate-vehiclerestriction" title="class in com.here.sdk.transport">VehicleRestriction</a> restriction)</span></div>
 <div class="block"><p>Creates icon properties for specified restriction.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -136,9 +135,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-vehiclerestrictioniconprope
 <section class="detail" id="&lt;init&gt;(com.here.sdk.transport.VehicleRestriction,com.here.sdk.core.CountryCode)">
 <h3>VehicleRestrictionIconProperties</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">VehicleRestrictionIconProperties</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-vehiclerestriction" title="class in com.here.sdk.transport">VehicleRestriction</a> restriction,
+ <a href="sdk-for-android-navigate-vehiclerestriction" title="class in com.here.sdk.transport">VehicleRestriction</a> restriction,
  @Nullable
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-countrycode" title="enum class in com.here.sdk.core">CountryCode</a> countryCode)</span></div>
+ <a href="sdk-for-android-navigate-countrycode" title="enum class in com.here.sdk.core">CountryCode</a> countryCode)</span></div>
 <div class="block"><p>Creates icon properties for specified restriction and country.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

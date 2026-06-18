@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapview-onreadylistener"
 `
 <div class="sdk-for-android">
 <!-- MapView.OnReadyListener.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,13 +19,13 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapview-onreadylistener"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.mapview</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></div>
 
 </div>
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>Enclosing class:</dt>
-<dd><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapview" title="class in com.here.sdk.mapview">MapView</a></dd>
+<dd><a href="sdk-for-android-navigate-mapview" title="class in com.here.sdk.mapview">MapView</a></dd>
 </dl>
 <dl class="notes">
 <dt>Functional Interface:</dt>
@@ -40,7 +39,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapview-onreadylistener"
  a map.
 
  </p><p>Whenever there is a need to call any map view related functions directly after
- the <code>Activity</code> resumes, <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#onMapViewReady()"><code>onMapViewReady()</code></a> should be used for this purpose,
+ the <code>Activity</code> resumes, <a href="sdk-for-android-navigate-index#onMapViewReady()"><code>onMapViewReady()</code></a> should be used for this purpose,
  as it guarantees that those operations will work. It is not recommended to call
  map view functionality directly from <code>Activity</code>'s <code>onResume()</code>.
 
@@ -48,11 +47,11 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapview-onreadylistener"
  related operations:
      <ul>
 <li>After map is shown for the very first time
-             - use <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapscene.loadscenecallback" title="interface in com.here.sdk.mapview"><code>MapScene.LoadSceneCallback</code></a> that is passed to
-             <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapscene#loadScene(com.here.sdk.mapview.MapScheme,com.here.sdk.mapview.MapScene.LoadSceneCallback)"><code>MapScene.loadScene(MapScheme, MapScene.LoadSceneCallback)</code></a>.</li>
+             - use <a href="sdk-for-android-navigate-mapscene.loadscenecallback" title="interface in com.here.sdk.mapview"><code>MapScene.LoadSceneCallback</code></a> that is passed to
+             <a href="sdk-for-android-navigate-mapscene#loadScene(com.here.sdk.mapview.MapScheme,com.here.sdk.mapview.MapScene.LoadSceneCallback)"><code>MapScene.loadScene(MapScheme, MapScene.LoadSceneCallback)</code></a>.</li>
 <li>After the Activity is resumed
              - use <code>OnReadyListener</code> that is registered from within
-             <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapscene.loadscenecallback" title="interface in com.here.sdk.mapview"><code>MapScene.LoadSceneCallback</code></a> the first time map scene is loaded.</li>
+             <a href="sdk-for-android-navigate-mapscene.loadscenecallback" title="interface in com.here.sdk.mapview"><code>MapScene.LoadSceneCallback</code></a> the first time map scene is loaded.</li>
 <li>Every time the Activity is resumed, including after the map scene is first loaded
              - this combines previous two cases. Use <code>OnReadyListener</code> that is
              registered right after MapView is created, but before map scene is loaded.</li>
@@ -61,7 +60,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapview-onreadylistener"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list-long">
-<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapview#setOnReadyListener(com.here.sdk.mapview.MapView.OnReadyListener)"><code>MapView.setOnReadyListener(OnReadyListener)</code></a></li>
+<li><a href="sdk-for-android-navigate-mapview#setOnReadyListener(com.here.sdk.mapview.MapView.OnReadyListener)"><code>MapView.setOnReadyListener(OnReadyListener)</code></a></li>
 </ul>
 </dd>
 </dl>
@@ -80,7 +79,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapview-onreadylistener"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#onMapViewReady()">onMapViewReady</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onMapViewReady()">onMapViewReady</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Callback to be called when MapView is fully initialized and ready to handle all
  operations.</div>

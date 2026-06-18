@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-mapdataloaderexception"
 `
 <div class="sdk-for-android">
 <!-- MapDataLoaderException.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,7 +19,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-mapdataloaderexception"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.mapdata</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-mapdata-package-summary">com.here.sdk.mapdata</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -38,12 +37,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-mapdataloaderexception"
 <hr/>
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">MapDataLoaderException</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Exception.html" title="class or interface in java.lang">Exception</a></span></div>
-<div class="block"><p>Error occurred during obtaining data form the map. <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-map-mapdataloadererrorcode" title="enum class in com.here.sdk.mapdata"><code>MapDataLoaderErrorCode</code></a> represents possible errors.</p></div>
+<div class="block"><p>Error occurred during obtaining data form the map. <a href="sdk-for-android-navigate-mapdataloadererrorcode" title="enum class in com.here.sdk.mapdata"><code>MapDataLoaderErrorCode</code></a> represents possible errors.</p></div>
 <dl class="notes">
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-serialized-form#com.here.sdk.mapdata.MapDataLoaderException">Serialized Form</a></li>
+<li><a href="sdk-for-android-navigate-serialized-form#com.here.sdk.mapdata.MapDataLoaderException">Serialized Form</a></li>
 </ul>
 </dd>
 </dl>

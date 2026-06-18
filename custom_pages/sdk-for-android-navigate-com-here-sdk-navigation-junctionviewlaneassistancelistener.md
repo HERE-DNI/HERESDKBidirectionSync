@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-junctionviewlaneassistan
 `
 <div class="sdk-for-android">
 <!-- JunctionViewLaneAssistanceListener.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,15 +19,15 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-junctionviewlaneassistan
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.navigation</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-navigation-package-summary">com.here.sdk.navigation</a></div>
 
 </div>
 <section class="class-description" id="class-description">
 <hr/>
 <div class="type-signature"><span class="modifiers">public interface </span><span class="element-name type-name-label">JunctionViewLaneAssistanceListener</span></div>
 <div class="block"><p>This interface should be
- implemented in order to receive notifications on <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-junctionviewlaneassistance" title="class in com.here.sdk.navigation"><code>JunctionViewLaneAssistance</code></a>.
- See <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-junctionviewlaneassistance" title="class in com.here.sdk.navigation"><code>JunctionViewLaneAssistance</code></a> documentation for further details.</p></div>
+ implemented in order to receive notifications on <a href="sdk-for-android-navigate-junctionviewlaneassistance" title="class in com.here.sdk.navigation"><code>JunctionViewLaneAssistance</code></a>.
+ See <a href="sdk-for-android-navigate-junctionviewlaneassistance" title="class in com.here.sdk.navigation"><code>JunctionViewLaneAssistance</code></a> documentation for further details.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -44,7 +43,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-junctionviewlaneassistan
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#onLaneAssistanceUpdated(com.here.sdk.navigation.JunctionViewLaneAssistance)">onLaneAssistanceUpdated</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-junctionviewlaneassistance" title="class in com.here.sdk.navigation">JunctionViewLaneAssistance</a> laneAssistance)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onLaneAssistanceUpdated(com.here.sdk.navigation.JunctionViewLaneAssistance)">onLaneAssistanceUpdated</a><wbr/>(<a href="sdk-for-android-navigate-junctionviewlaneassistance" title="class in com.here.sdk.navigation">JunctionViewLaneAssistance</a> laneAssistance)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Called before and after a complex junction if lane recommendations are available.</div>
 </div>
@@ -66,11 +65,11 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-junctionviewlaneassistan
 <section class="detail" id="onLaneAssistanceUpdated(com.here.sdk.navigation.JunctionViewLaneAssistance)">
 <h3>onLaneAssistanceUpdated</h3>
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">onLaneAssistanceUpdated</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-junctionviewlaneassistance" title="class in com.here.sdk.navigation">JunctionViewLaneAssistance</a> laneAssistance)</span></div>
+ <a href="sdk-for-android-navigate-junctionviewlaneassistance" title="class in com.here.sdk.navigation">JunctionViewLaneAssistance</a> laneAssistance)</span></div>
 <div class="block"><p>Called before and after a complex junction if lane recommendations are available.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
-<dd><code>laneAssistance</code> - <p>The <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-junctionviewlaneassistance" title="class in com.here.sdk.navigation"><code>JunctionViewLaneAssistance</code></a> notification.</p></dd>
+<dd><code>laneAssistance</code> - <p>The <a href="sdk-for-android-navigate-junctionviewlaneassistance" title="class in com.here.sdk.navigation"><code>JunctionViewLaneAssistance</code></a> notification.</p></dd>
 </dl>
 </section>
 </li>

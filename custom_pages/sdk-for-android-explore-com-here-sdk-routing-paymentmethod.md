@@ -7,7 +7,6 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-paymentmethod"
 `
 <div class="sdk-for-android">
 <!-- PaymentMethod.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,22 +19,22 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-paymentmethod"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-package-summary">com.here.sdk.routing</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-routing-package-summary">com.here.sdk.routing</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">java.lang.Enum</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-paymentmethod" title="enum class in com.here.sdk.routing">PaymentMethod</a>&gt;
+<div class="inheritance"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">java.lang.Enum</a>&lt;<a href="sdk-for-android-explore-paymentmethod" title="enum class in com.here.sdk.routing">PaymentMethod</a>&gt;
 <div class="inheritance">com.here.sdk.routing.PaymentMethod</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>All Implemented Interfaces:</dt>
-<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" title="class or interface in java.io">Serializable</a></code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" title="class or interface in java.lang">Comparable</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-paymentmethod" title="enum class in com.here.sdk.routing">PaymentMethod</a>&gt;</code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" title="class or interface in java.lang.constant">Constable</a></code></dd>
+<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" title="class or interface in java.io">Serializable</a></code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" title="class or interface in java.lang">Comparable</a>&lt;<a href="sdk-for-android-explore-paymentmethod" title="enum class in com.here.sdk.routing">PaymentMethod</a>&gt;</code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" title="class or interface in java.lang.constant">Constable</a></code></dd>
 </dl>
 <hr/>
 <div class="type-signature"><span class="modifiers">public enum </span><span class="element-name type-name-label">PaymentMethod</span>
-<span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-paymentmethod" title="enum class in com.here.sdk.routing">PaymentMethod</a>&gt;</span></div>
+<span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a href="sdk-for-android-explore-paymentmethod" title="enum class in com.here.sdk.routing">PaymentMethod</a>&gt;</span></div>
 <div class="block"><p>Available payment methods.</p></div>
 </section>
 <section class="summary">
@@ -57,39 +56,39 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-paymentmethod"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Enum Constant</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#BANK_CARD">BANK_CARD</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#BANK_CARD">BANK_CARD</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Payment with a bank card.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#CASH">CASH</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#CASH">CASH</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Payment with cash money.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#CASH_EXACT">CASH_EXACT</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#CASH_EXACT">CASH_EXACT</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Payment with exact cash money, i.e.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#CREDIT_CARD">CREDIT_CARD</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#CREDIT_CARD">CREDIT_CARD</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Payment with a credit card.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#PASS_SUBSCRIPTION">PASS_SUBSCRIPTION</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#PASS_SUBSCRIPTION">PASS_SUBSCRIPTION</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Payment with a pass subscription.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#TRANSPONDER">TRANSPONDER</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#TRANSPONDER">TRANSPONDER</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Payment with a transponder.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#TRAVEL_CARD">TRAVEL_CARD</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#TRAVEL_CARD">TRAVEL_CARD</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Payment with a travel card.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#UNKNOWN">UNKNOWN</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#UNKNOWN">UNKNOWN</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Payment with an unknown method.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#VIDEO_TOLL">VIDEO_TOLL</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#VIDEO_TOLL">VIDEO_TOLL</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Payment with a video toll, i.e.</div>
 </div>
@@ -107,13 +106,13 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-paymentmethod"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-paymentmethod" title="enum class in com.here.sdk.routing">PaymentMethod</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-paymentmethod" title="enum class in com.here.sdk.routing">PaymentMethod</a></code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-paymentmethod" title="enum class in com.here.sdk.routing">PaymentMethod</a>[]</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#values()">values</a>()</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-paymentmethod" title="enum class in com.here.sdk.routing">PaymentMethod</a>[]</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
@@ -141,63 +140,63 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="UNKNOWN">
 <h3>UNKNOWN</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-paymentmethod" title="enum class in com.here.sdk.routing">PaymentMethod</a></span> <span class="element-name">UNKNOWN</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-paymentmethod" title="enum class in com.here.sdk.routing">PaymentMethod</a></span> <span class="element-name">UNKNOWN</span></div>
 <div class="block"><p>Payment with an unknown method.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="CASH">
 <h3>CASH</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-paymentmethod" title="enum class in com.here.sdk.routing">PaymentMethod</a></span> <span class="element-name">CASH</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-paymentmethod" title="enum class in com.here.sdk.routing">PaymentMethod</a></span> <span class="element-name">CASH</span></div>
 <div class="block"><p>Payment with cash money.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="BANK_CARD">
 <h3>BANK_CARD</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-paymentmethod" title="enum class in com.here.sdk.routing">PaymentMethod</a></span> <span class="element-name">BANK_CARD</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-paymentmethod" title="enum class in com.here.sdk.routing">PaymentMethod</a></span> <span class="element-name">BANK_CARD</span></div>
 <div class="block"><p>Payment with a bank card.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="CREDIT_CARD">
 <h3>CREDIT_CARD</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-paymentmethod" title="enum class in com.here.sdk.routing">PaymentMethod</a></span> <span class="element-name">CREDIT_CARD</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-paymentmethod" title="enum class in com.here.sdk.routing">PaymentMethod</a></span> <span class="element-name">CREDIT_CARD</span></div>
 <div class="block"><p>Payment with a credit card.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="PASS_SUBSCRIPTION">
 <h3>PASS_SUBSCRIPTION</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-paymentmethod" title="enum class in com.here.sdk.routing">PaymentMethod</a></span> <span class="element-name">PASS_SUBSCRIPTION</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-paymentmethod" title="enum class in com.here.sdk.routing">PaymentMethod</a></span> <span class="element-name">PASS_SUBSCRIPTION</span></div>
 <div class="block"><p>Payment with a pass subscription.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="TRANSPONDER">
 <h3>TRANSPONDER</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-paymentmethod" title="enum class in com.here.sdk.routing">PaymentMethod</a></span> <span class="element-name">TRANSPONDER</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-paymentmethod" title="enum class in com.here.sdk.routing">PaymentMethod</a></span> <span class="element-name">TRANSPONDER</span></div>
 <div class="block"><p>Payment with a transponder.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="VIDEO_TOLL">
 <h3>VIDEO_TOLL</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-paymentmethod" title="enum class in com.here.sdk.routing">PaymentMethod</a></span> <span class="element-name">VIDEO_TOLL</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-paymentmethod" title="enum class in com.here.sdk.routing">PaymentMethod</a></span> <span class="element-name">VIDEO_TOLL</span></div>
 <div class="block"><p>Payment with a video toll, i.e. toll by license plate.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="CASH_EXACT">
 <h3>CASH_EXACT</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-paymentmethod" title="enum class in com.here.sdk.routing">PaymentMethod</a></span> <span class="element-name">CASH_EXACT</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-paymentmethod" title="enum class in com.here.sdk.routing">PaymentMethod</a></span> <span class="element-name">CASH_EXACT</span></div>
 <div class="block"><p>Payment with exact cash money, i.e. toll booth accepts exact change only.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="TRAVEL_CARD">
 <h3>TRAVEL_CARD</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-paymentmethod" title="enum class in com.here.sdk.routing">PaymentMethod</a></span> <span class="element-name">TRAVEL_CARD</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-paymentmethod" title="enum class in com.here.sdk.routing">PaymentMethod</a></span> <span class="element-name">TRAVEL_CARD</span></div>
 <div class="block"><p>Payment with a travel card.</p></div>
 </section>
 </li>
@@ -212,7 +211,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="values()">
 <h3>values</h3>
-<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-paymentmethod" title="enum class in com.here.sdk.routing">PaymentMethod</a>[]</span> <span class="element-name">values</span>()</div>
+<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-paymentmethod" title="enum class in com.here.sdk.routing">PaymentMethod</a>[]</span> <span class="element-name">values</span>()</div>
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
 <dl class="notes">
@@ -224,7 +223,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="valueOf(java.lang.String)">
 <h3>valueOf</h3>
-<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-paymentmethod" title="enum class in com.here.sdk.routing">PaymentMethod</a></span> <span class="element-name">valueOf</span><wbr/><span class="parameters">(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</span></div>
+<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-paymentmethod" title="enum class in com.here.sdk.routing">PaymentMethod</a></span> <span class="element-name">valueOf</span><wbr/><span class="parameters">(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</span></div>
 <div class="block">Returns the enum constant of this class with the specified name.
 The string must match <i>exactly</i> an identifier used to declare an
 enum constant in this class.  (Extraneous whitespace characters are 

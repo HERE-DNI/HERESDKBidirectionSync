@@ -7,7 +7,6 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-transitstop"
 `
 <div class="sdk-for-android">
 <!-- TransitStop.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,7 +19,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-transitstop"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-package-summary">com.here.sdk.routing</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-routing-package-summary">com.here.sdk.routing</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -43,13 +42,13 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-transitstop"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-transitdeparture" title="class in com.here.sdk.routing">TransitDeparture</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#departure">departure</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-transitdeparture" title="class in com.here.sdk.routing">TransitDeparture</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#departure">departure</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Departure.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-duration" title="class in com.here.time">Duration</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#duration">duration</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-duration" title="class in com.here.time">Duration</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#duration">duration</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Stop duration.</div>
 </div>
@@ -64,7 +63,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-transitstop"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#%3Cinit%3E(com.here.sdk.routing.TransitDeparture)">TransitStop</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-transitdeparture" title="class in com.here.sdk.routing">TransitDeparture</a> departure)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#%3Cinit%3E(com.here.sdk.routing.TransitDeparture)">TransitStop</a><wbr/>(<a href="sdk-for-android-explore-transitdeparture" title="class in com.here.sdk.routing">TransitDeparture</a> departure)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -83,10 +82,10 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-transitstop"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#hashCode()">hashCode</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 </div>
 </div>
@@ -109,7 +108,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-transitstop"
 <section class="detail" id="departure">
 <h3>departure</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-transitdeparture" title="class in com.here.sdk.routing">TransitDeparture</a></span> <span class="element-name">departure</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-transitdeparture" title="class in com.here.sdk.routing">TransitDeparture</a></span> <span class="element-name">departure</span></div>
 <div class="block"><p>Departure.</p></div>
 </section>
 </li>
@@ -117,7 +116,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-transitstop"
 <section class="detail" id="duration">
 <h3>duration</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">duration</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">duration</span></div>
 <div class="block"><p>Stop duration. If not set, the vehicle departs as soon as people
  are on board.
  Defaults to <code>null</code>.</p></div>
@@ -135,7 +134,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-transitstop"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.routing.TransitDeparture)">
 <h3>TransitStop</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">TransitStop</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-transitdeparture" title="class in com.here.sdk.routing">TransitDeparture</a> departure)</span></div>
+ <a href="sdk-for-android-explore-transitdeparture" title="class in com.here.sdk.routing">TransitDeparture</a> departure)</span></div>
 <div class="block"><p>Creates a new instance.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

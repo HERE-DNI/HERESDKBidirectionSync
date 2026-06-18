@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-roadattributeslistener"
 `
 <div class="sdk-for-android">
 <!-- RoadAttributesListener.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,7 +19,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-roadattributeslistener"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.navigation</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-navigation-package-summary">com.here.sdk.navigation</a></div>
 
 </div>
 <section class="class-description" id="class-description">
@@ -43,7 +42,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-roadattributeslistener"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#onRoadAttributesUpdated(com.here.sdk.navigation.RoadAttributes)">onRoadAttributesUpdated</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-roadattributes" title="class in com.here.sdk.navigation">RoadAttributes</a> roadAttributes)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onRoadAttributesUpdated(com.here.sdk.navigation.RoadAttributes)">onRoadAttributesUpdated</a><wbr/>(<a href="sdk-for-android-navigate-roadattributes" title="class in com.here.sdk.navigation">RoadAttributes</a> roadAttributes)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Called whenever any attribute of the current road changes.</div>
 </div>
@@ -65,7 +64,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-roadattributeslistener"
 <section class="detail" id="onRoadAttributesUpdated(com.here.sdk.navigation.RoadAttributes)">
 <h3>onRoadAttributesUpdated</h3>
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">onRoadAttributesUpdated</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-roadattributes" title="class in com.here.sdk.navigation">RoadAttributes</a> roadAttributes)</span></div>
+ <a href="sdk-for-android-navigate-roadattributes" title="class in com.here.sdk.navigation">RoadAttributes</a> roadAttributes)</span></div>
 <div class="block"><p>Called whenever any attribute of the current road changes. It's guaranteed to
  be called at least once for the first road the user is traveling on.</p></div>
 <dl class="notes">

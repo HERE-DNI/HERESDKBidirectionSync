@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-parameterconfiguration"
 `
 <div class="sdk-for-android">
 <!-- ParameterConfiguration.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,7 +19,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-parameterconfiguration"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.core</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-core-package-summary">com.here.sdk.core</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -44,8 +43,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-parameterconfiguration"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-transportspecification" title="class in com.here.sdk.transport">TransportSpecification</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#transportSpecification">transportSpecification</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-transportspecification" title="class in com.here.sdk.transport">TransportSpecification</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#transportSpecification">transportSpecification</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Stores default values related to pedestrian, vehicle, scooter and taxi specifications.</div>
 </div>
@@ -60,9 +59,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-parameterconfiguration"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#%3Cinit%3E()">ParameterConfiguration</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E()">ParameterConfiguration</a>()</code></div>
 <div class="col-last even-row-color">
-<div class="block">Creates a new instance of <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-parameterconfiguration" title="class in com.here.sdk.core"><code>ParameterConfiguration</code></a> with the default values set.</div>
+<div class="block">Creates a new instance of <a href="sdk-for-android-navigate-parameterconfiguration" title="class in com.here.sdk.core"><code>ParameterConfiguration</code></a> with the default values set.</div>
 </div>
 </div>
 </section>
@@ -79,10 +78,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-parameterconfiguration"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 </div>
 </div>
@@ -105,7 +104,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-parameterconfiguration"
 <section class="detail" id="transportSpecification">
 <h3>transportSpecification</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-transportspecification" title="class in com.here.sdk.transport">TransportSpecification</a></span> <span class="element-name">transportSpecification</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-transportspecification" title="class in com.here.sdk.transport">TransportSpecification</a></span> <span class="element-name">transportSpecification</span></div>
 <div class="block"><p>Stores default values related to pedestrian, vehicle, scooter and taxi specifications.</p></div>
 </section>
 </li>
@@ -121,10 +120,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-parameterconfiguration"
 <section class="detail" id="&lt;init&gt;()">
 <h3>ParameterConfiguration</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">ParameterConfiguration</span>()</div>
-<div class="block"><p>Creates a new instance of <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-parameterconfiguration" title="class in com.here.sdk.core"><code>ParameterConfiguration</code></a> with the default values set.
+<div class="block"><p>Creates a new instance of <a href="sdk-for-android-navigate-parameterconfiguration" title="class in com.here.sdk.core"><code>ParameterConfiguration</code></a> with the default values set.
  <strong>Note</strong> By default, the [ParameterConfiguration.transport_specification] will return a
- valid <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a> object with the [sdk.transport.TransportSpecification.transport_mode] set
- to <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-transportmode#CAR"><code>TransportMode.CAR</code></a>.</p></div>
+ valid <a href="sdk-for-android-navigate-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a> object with the [sdk.transport.TransportSpecification.transport_mode] set
+ to <a href="sdk-for-android-navigate-transportmode#CAR"><code>TransportMode.CAR</code></a>.</p></div>
 </section>
 </li>
 </ul>

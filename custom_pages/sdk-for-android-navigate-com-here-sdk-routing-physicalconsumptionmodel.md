@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-physicalconsumptionmodel"
 `
 <div class="sdk-for-android">
 <!-- PhysicalConsumptionModel.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,7 +19,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-physicalconsumptionmodel"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.routing</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-routing-package-summary">com.here.sdk.routing</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -48,32 +47,32 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-physicalconsumptionmodel"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>double</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#airDragCoefficient">airDragCoefficient</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#airDragCoefficient">airDragCoefficient</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The drag coefficient of an vehicle defines the way the vehicle is expected to pass through the surrounding air.</div>
 </div>
 <div class="col-first odd-row-color"><code>double</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#auxiliaryPowerConsumptionInWatts">auxiliaryPowerConsumptionInWatts</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#auxiliaryPowerConsumptionInWatts">auxiliaryPowerConsumptionInWatts</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Power (in W) consumed by the vehicle's auxiliary systems (for example, air conditioning, lights).</div>
 </div>
 <div class="col-first even-row-color"><code>double</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#driveTrainEfficiency">driveTrainEfficiency</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#driveTrainEfficiency">driveTrainEfficiency</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The proportion of the energy drawn from the battery that is used to move the vehicle.</div>
 </div>
 <div class="col-first odd-row-color"><code>double</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#frontalAreaInSquareMeters">frontalAreaInSquareMeters</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#frontalAreaInSquareMeters">frontalAreaInSquareMeters</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Frontal area represents the total cross section area of the vehicle as viewed from the front, specified in square meters.</div>
 </div>
 <div class="col-first even-row-color"><code>double</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#recuperationEfficiency">recuperationEfficiency</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#recuperationEfficiency">recuperationEfficiency</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The proportion of the energy gained when braking or going downhill that can be recuperated and restored as battery charge.</div>
 </div>
 <div class="col-first odd-row-color"><code>double</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#rollingResistanceCoefficient">rollingResistanceCoefficient</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#rollingResistanceCoefficient">rollingResistanceCoefficient</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Rolling resistance refers to the resistance experienced by your vehicle tire as it rolls over a surface.</div>
 </div>
@@ -88,7 +87,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-physicalconsumptionmodel"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#%3Cinit%3E()">PhysicalConsumptionModel</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E()">PhysicalConsumptionModel</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -107,10 +106,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-physicalconsumptionmodel"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 </div>
 </div>
@@ -160,7 +159,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-physicalconsumptionmodel"
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">double</span> <span class="element-name">frontalAreaInSquareMeters</span></div>
 <div class="block"><p>Frontal area represents the total cross section area of the vehicle as viewed from the front, specified in square meters.
  Physical consumption model is using this value in combination with <code>airDragCoefficient</code> to calculate the consumption caused by air resistance.
- As fallback <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-vehiclespecification#widthInCentimeters"><code>VehicleSpecification.widthInCentimeters</code></a> and <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-vehiclespecification#heightInCentimeters"><code>VehicleSpecification.heightInCentimeters</code></a> are used.
+ As fallback <a href="sdk-for-android-navigate-vehiclespecification#widthInCentimeters"><code>VehicleSpecification.widthInCentimeters</code></a> and <a href="sdk-for-android-navigate-vehiclespecification#heightInCentimeters"><code>VehicleSpecification.heightInCentimeters</code></a> are used.
  </p><p>This parameter is used to provide a more accurate consumption prediction for electric vehicles.
  </p><p>In the range from 0.5 to 50</p></div>
 </section>

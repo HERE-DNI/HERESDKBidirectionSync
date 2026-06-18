@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-speedbasedcamerabehavior
 `
 <div class="sdk-for-android">
 <!-- SpeedBasedCameraBehavior.ProfileValue.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,7 +19,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-speedbasedcamerabehavior
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.navigation</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-navigation-package-summary">com.here.sdk.navigation</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -29,7 +28,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-speedbasedcamerabehavior
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>Enclosing class:</dt>
-<dd><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-speedbasedcamerabehavior" title="class in com.here.sdk.navigation">SpeedBasedCameraBehavior</a></dd>
+<dd><a href="sdk-for-android-navigate-speedbasedcamerabehavior" title="class in com.here.sdk.navigation">SpeedBasedCameraBehavior</a></dd>
 </dl>
 <hr/>
 <div class="type-signature"><span class="modifiers">public static final class </span><span class="element-name type-name-label">SpeedBasedCameraBehavior.ProfileValue</span>
@@ -49,22 +48,22 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-speedbasedcamerabehavior
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>double</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#fromMetersPerSecond">fromMetersPerSecond</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#fromMetersPerSecond">fromMetersPerSecond</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Start speed of the range.</div>
 </div>
 <div class="col-first odd-row-color"><code>double</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#tiltInDegrees">tiltInDegrees</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#tiltInDegrees">tiltInDegrees</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Tilt configuration.</div>
 </div>
 <div class="col-first even-row-color"><code>double</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#toMetersPerSecond">toMetersPerSecond</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#toMetersPerSecond">toMetersPerSecond</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">End speed of the range.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapmeasure" title="class in com.here.sdk.mapview">MapMeasure</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#zoom">zoom</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-mapmeasure" title="class in com.here.sdk.mapview">MapMeasure</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#zoom">zoom</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Zoom configuration.</div>
 </div>
@@ -79,9 +78,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-speedbasedcamerabehavior
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#%3Cinit%3E(double,double,com.here.sdk.mapview.MapMeasure,double)">ProfileValue</a><wbr/>(double fromMetersPerSecond,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(double,double,com.here.sdk.mapview.MapMeasure,double)">ProfileValue</a><wbr/>(double fromMetersPerSecond,
  double toMetersPerSecond,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapmeasure" title="class in com.here.sdk.mapview">MapMeasure</a> zoom,
+ <a href="sdk-for-android-navigate-mapmeasure" title="class in com.here.sdk.mapview">MapMeasure</a> zoom,
  double tiltInDegrees)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
@@ -125,9 +124,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-speedbasedcamerabehavior
 <section class="detail" id="zoom">
 <h3>zoom</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapmeasure" title="class in com.here.sdk.mapview">MapMeasure</a></span> <span class="element-name">zoom</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-mapmeasure" title="class in com.here.sdk.mapview">MapMeasure</a></span> <span class="element-name">zoom</span></div>
 <div class="block"><p>Zoom configuration.
- Note: <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapmeasure.kind#SCALE"><code>MapMeasure.Kind.SCALE</code></a> is not supported.</p></div>
+ Note: <a href="sdk-for-android-navigate-mapmeasure.kind#SCALE"><code>MapMeasure.Kind.SCALE</code></a> is not supported.</p></div>
 </section>
 </li>
 <li>
@@ -151,7 +150,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-speedbasedcamerabehavior
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">ProfileValue</span><wbr/><span class="parameters">(double fromMetersPerSecond,
  double toMetersPerSecond,
  @NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapmeasure" title="class in com.here.sdk.mapview">MapMeasure</a> zoom,
+ <a href="sdk-for-android-navigate-mapmeasure" title="class in com.here.sdk.mapview">MapMeasure</a> zoom,
  double tiltInDegrees)</span></div>
 <div class="block"><p>Creates a new instance.</p></div>
 <dl class="notes">
@@ -159,7 +158,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-speedbasedcamerabehavior
 <dd><code>fromMetersPerSecond</code> - <p>Start speed of the range.</p></dd>
 <dd><code>toMetersPerSecond</code> - <p>End speed of the range.</p></dd>
 <dd><code>zoom</code> - <p>Zoom configuration.
- Note: <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapmeasure.kind#SCALE"><code>MapMeasure.Kind.SCALE</code></a> is not supported.</p></dd>
+ Note: <a href="sdk-for-android-navigate-mapmeasure.kind#SCALE"><code>MapMeasure.Kind.SCALE</code></a> is not supported.</p></dd>
 <dd><code>tiltInDegrees</code> - <p>Tilt configuration.</p></dd>
 </dl>
 </section>

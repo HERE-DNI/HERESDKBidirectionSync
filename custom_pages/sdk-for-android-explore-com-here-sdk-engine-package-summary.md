@@ -7,7 +7,6 @@ slug: "sdk-for-android-explore-com-here-sdk-engine-package-summary"
 `
 <div class="sdk-for-android">
 <!-- package-summary.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -31,7 +30,7 @@ slug: "sdk-for-android-explore-com-here-sdk-engine-package-summary"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Class</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color class-summary class-summary-tab2"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-initprovider" title="class in com.here.sdk.engine">InitProvider</a></div>
+<div class="col-first even-row-color class-summary class-summary-tab2"><a href="sdk-for-android-explore-initprovider" title="class in com.here.sdk.engine">InitProvider</a></div>
 <div class="col-last even-row-color class-summary class-summary-tab2">
 <div class="block">Performs global initialization of the SDK.</div>
 </div>

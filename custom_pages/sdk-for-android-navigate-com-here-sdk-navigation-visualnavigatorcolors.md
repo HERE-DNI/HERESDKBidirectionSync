@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-visualnavigatorcolors"
 `
 <div class="sdk-for-android">
 <!-- VisualNavigatorColors.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,19 +19,19 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-visualnavigatorcolors"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.navigation</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-navigation-package-summary">com.here.sdk.navigation</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-nativebase" title="class in com.here">com.here.NativeBase</a>
+<div class="inheritance"><a href="sdk-for-android-navigate-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.navigation.VisualNavigatorColors</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 <hr/>
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">VisualNavigatorColors</span>
-<span class="extends-implements">extends <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-nativebase" title="class in com.here">NativeBase</a></span></div>
-<div class="block"><p>This class contains colors used by <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-visualnavigator" title="class in com.here.sdk.navigation"><code>VisualNavigator</code></a> to render
+<span class="extends-implements">extends <a href="sdk-for-android-navigate-nativebase" title="class in com.here">NativeBase</a></span></div>
+<div class="block"><p>This class contains colors used by <a href="sdk-for-android-navigate-visualnavigator" title="class in com.here.sdk.navigation"><code>VisualNavigator</code></a> to render
  the route and the maneuver arrow visualization.</p></div>
 </section>
 <section class="summary">
@@ -48,44 +47,44 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-visualnavigatorcolors"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-visualnavigatorcolors" title="class in com.here.sdk.navigation">VisualNavigatorColors</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#dayColors()">dayColors</a>()</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-visualnavigatorcolors" title="class in com.here.sdk.navigation">VisualNavigatorColors</a></code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#dayColors()">dayColors</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Retrieves HERE day color presets for route and maneuver arrow visualization.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-color" title="class in com.here.sdk.core">Color</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#getManeuverArrowColor()">getManeuverArrowColor</a>()</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-color" title="class in com.here.sdk.core">Color</a></code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getManeuverArrowColor()">getManeuverArrowColor</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the color used to draw maneuver arrows on the route.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-routeprogresscolors" title="class in com.here.sdk.navigation">RouteProgressColors</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#getRouteProgressColors(com.here.sdk.routing.SectionTransportMode)">getRouteProgressColors</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-sectiontransportmode" title="enum class in com.here.sdk.routing">SectionTransportMode</a> sectionTransportMode)</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-routeprogresscolors" title="class in com.here.sdk.navigation">RouteProgressColors</a></code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getRouteProgressColors(com.here.sdk.routing.SectionTransportMode)">getRouteProgressColors</a><wbr/>(<a href="sdk-for-android-navigate-sectiontransportmode" title="enum class in com.here.sdk.routing">SectionTransportMode</a> sectionTransportMode)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets route color for visualization.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-trafficonroutecolors" title="class in com.here.sdk.navigation">TrafficOnRouteColors</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#getTrafficOnRouteColors()">getTrafficOnRouteColors</a>()</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-trafficonroutecolors" title="class in com.here.sdk.navigation">TrafficOnRouteColors</a></code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getTrafficOnRouteColors()">getTrafficOnRouteColors</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets colors used for visualization of traffic conditions on route.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-visualnavigatorcolors" title="class in com.here.sdk.navigation">VisualNavigatorColors</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#nightColors()">nightColors</a>()</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-visualnavigatorcolors" title="class in com.here.sdk.navigation">VisualNavigatorColors</a></code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#nightColors()">nightColors</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Retrieves HERE night color presets for route and maneuver arrow visualization.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#setManeuverArrowColor(com.here.sdk.core.Color)">setManeuverArrowColor</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-color" title="class in com.here.sdk.core">Color</a> value)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setManeuverArrowColor(com.here.sdk.core.Color)">setManeuverArrowColor</a><wbr/>(<a href="sdk-for-android-navigate-color" title="class in com.here.sdk.core">Color</a> value)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the color used to draw maneuver arrows on the route.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#setRouteProgressColors(com.here.sdk.routing.SectionTransportMode,com.here.sdk.navigation.RouteProgressColors)">setRouteProgressColors</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-sectiontransportmode" title="enum class in com.here.sdk.routing">SectionTransportMode</a> sectionTransportMode,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-routeprogresscolors" title="class in com.here.sdk.navigation">RouteProgressColors</a> routeProgressColors)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setRouteProgressColors(com.here.sdk.routing.SectionTransportMode,com.here.sdk.navigation.RouteProgressColors)">setRouteProgressColors</a><wbr/>(<a href="sdk-for-android-navigate-sectiontransportmode" title="enum class in com.here.sdk.routing">SectionTransportMode</a> sectionTransportMode,
+ <a href="sdk-for-android-navigate-routeprogresscolors" title="class in com.here.sdk.navigation">RouteProgressColors</a> routeProgressColors)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets route color for visualization.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#setTrafficOnRouteColors(com.here.sdk.navigation.TrafficOnRouteColors)">setTrafficOnRouteColors</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-trafficonroutecolors" title="class in com.here.sdk.navigation">TrafficOnRouteColors</a> value)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setTrafficOnRouteColors(com.here.sdk.navigation.TrafficOnRouteColors)">setTrafficOnRouteColors</a><wbr/>(<a href="sdk-for-android-navigate-trafficonroutecolors" title="class in com.here.sdk.navigation">TrafficOnRouteColors</a> value)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets colors used for visualization of traffic conditions on route.</div>
 </div>
@@ -110,9 +109,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-visualnavigatorcolors"
 <section class="detail" id="setRouteProgressColors(com.here.sdk.routing.SectionTransportMode,com.here.sdk.navigation.RouteProgressColors)">
 <h3>setRouteProgressColors</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setRouteProgressColors</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-sectiontransportmode" title="enum class in com.here.sdk.routing">SectionTransportMode</a> sectionTransportMode,
+ <a href="sdk-for-android-navigate-sectiontransportmode" title="enum class in com.here.sdk.routing">SectionTransportMode</a> sectionTransportMode,
  @NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-routeprogresscolors" title="class in com.here.sdk.navigation">RouteProgressColors</a> routeProgressColors)</span></div>
+ <a href="sdk-for-android-navigate-routeprogresscolors" title="class in com.here.sdk.navigation">RouteProgressColors</a> routeProgressColors)</span></div>
 <div class="block"><p>Sets route color for visualization.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -125,8 +124,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-visualnavigatorcolors"
 <section class="detail" id="getRouteProgressColors(com.here.sdk.routing.SectionTransportMode)">
 <h3>getRouteProgressColors</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-routeprogresscolors" title="class in com.here.sdk.navigation">RouteProgressColors</a></span> <span class="element-name">getRouteProgressColors</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-sectiontransportmode" title="enum class in com.here.sdk.routing">SectionTransportMode</a> sectionTransportMode)</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-routeprogresscolors" title="class in com.here.sdk.navigation">RouteProgressColors</a></span> <span class="element-name">getRouteProgressColors</span><wbr/><span class="parameters">(@NonNull
+ <a href="sdk-for-android-navigate-sectiontransportmode" title="enum class in com.here.sdk.routing">SectionTransportMode</a> sectionTransportMode)</span></div>
 <div class="block"><p>Gets route color for visualization.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -140,7 +139,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-visualnavigatorcolors"
 <section class="detail" id="dayColors()">
 <h3>dayColors</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public static</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-visualnavigatorcolors" title="class in com.here.sdk.navigation">VisualNavigatorColors</a></span> <span class="element-name">dayColors</span>()</div>
+</span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-navigate-visualnavigatorcolors" title="class in com.here.sdk.navigation">VisualNavigatorColors</a></span> <span class="element-name">dayColors</span>()</div>
 <div class="block"><p>Retrieves HERE day color presets for route and maneuver arrow visualization.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -152,7 +151,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-visualnavigatorcolors"
 <section class="detail" id="nightColors()">
 <h3>nightColors</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public static</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-visualnavigatorcolors" title="class in com.here.sdk.navigation">VisualNavigatorColors</a></span> <span class="element-name">nightColors</span>()</div>
+</span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-navigate-visualnavigatorcolors" title="class in com.here.sdk.navigation">VisualNavigatorColors</a></span> <span class="element-name">nightColors</span>()</div>
 <div class="block"><p>Retrieves HERE night color presets for route and maneuver arrow visualization.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -164,7 +163,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-visualnavigatorcolors"
 <section class="detail" id="getManeuverArrowColor()">
 <h3>getManeuverArrowColor</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-color" title="class in com.here.sdk.core">Color</a></span> <span class="element-name">getManeuverArrowColor</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-color" title="class in com.here.sdk.core">Color</a></span> <span class="element-name">getManeuverArrowColor</span>()</div>
 <div class="block"><p>Gets the color used to draw maneuver arrows on the route.
  </p><p>The object containing color used to draw maneuver arrows on the route to highlight lane directions at the end of a street.
  The alpha channel is ignored. The color is interpreted as fully opaque.</p></div>
@@ -178,7 +177,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-visualnavigatorcolors"
 <section class="detail" id="setManeuverArrowColor(com.here.sdk.core.Color)">
 <h3>setManeuverArrowColor</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setManeuverArrowColor</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-color" title="class in com.here.sdk.core">Color</a> value)</span></div>
+ <a href="sdk-for-android-navigate-color" title="class in com.here.sdk.core">Color</a> value)</span></div>
 <div class="block"><p>Sets the color used to draw maneuver arrows on the route. The alpha channel is ignored.
  </p><p>The object containing color used to draw maneuver arrows on the route to highlight lane directions at the end of a street.
  The alpha channel is ignored. The color is interpreted as fully opaque.</p></div>
@@ -192,12 +191,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-visualnavigatorcolors"
 <section class="detail" id="getTrafficOnRouteColors()">
 <h3>getTrafficOnRouteColors</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-trafficonroutecolors" title="class in com.here.sdk.navigation">TrafficOnRouteColors</a></span> <span class="element-name">getTrafficOnRouteColors</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-trafficonroutecolors" title="class in com.here.sdk.navigation">TrafficOnRouteColors</a></span> <span class="element-name">getTrafficOnRouteColors</span>()</div>
 <div class="block"><p>Gets colors used for visualization of traffic conditions on route.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>Colors used to visualize traffic conditions on the route ahead of the current location, for segments with a jam factor of 4.0 or higher.
-     For route segments with a jam factor below 4.0 and those behind the current location, <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-routeprogresscolors" title="class in com.here.sdk.navigation"><code>RouteProgressColors</code></a> are used instead.</p></dd>
+     For route segments with a jam factor below 4.0 and those behind the current location, <a href="sdk-for-android-navigate-routeprogresscolors" title="class in com.here.sdk.navigation"><code>RouteProgressColors</code></a> are used instead.</p></dd>
 </dl>
 </section>
 </li>
@@ -205,12 +204,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-visualnavigatorcolors"
 <section class="detail" id="setTrafficOnRouteColors(com.here.sdk.navigation.TrafficOnRouteColors)">
 <h3>setTrafficOnRouteColors</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setTrafficOnRouteColors</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-trafficonroutecolors" title="class in com.here.sdk.navigation">TrafficOnRouteColors</a> value)</span></div>
+ <a href="sdk-for-android-navigate-trafficonroutecolors" title="class in com.here.sdk.navigation">TrafficOnRouteColors</a> value)</span></div>
 <div class="block"><p>Sets colors used for visualization of traffic conditions on route.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>value</code> - <p>Colors used to visualize traffic conditions on the route ahead of the current location, for segments with a jam factor of 4.0 or higher.
-     For route segments with a jam factor below 4.0 and those behind the current location, <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-routeprogresscolors" title="class in com.here.sdk.navigation"><code>RouteProgressColors</code></a> are used instead.</p></dd>
+     For route segments with a jam factor below 4.0 and those behind the current location, <a href="sdk-for-android-navigate-routeprogresscolors" title="class in com.here.sdk.navigation"><code>RouteProgressColors</code></a> are used instead.</p></dd>
 </dl>
 </section>
 </li>

@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-authenticationcallback"
 `
 <div class="sdk-for-android">
 <!-- AuthenticationCallback.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,7 +19,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-authenticationcallback"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.core</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-core-package-summary">com.here.sdk.core</a></div>
 
 </div>
 <section class="class-description" id="class-description">
@@ -31,7 +30,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-authenticationcallback"
 <hr/>
 <div class="type-signature"><span class="annotations"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/FunctionalInterface.html" title="class or interface in java.lang">@FunctionalInterface</a>
 </span><span class="modifiers">public interface </span><span class="element-name type-name-label">AuthenticationCallback</span></div>
-<div class="block"><p>Callback passed to <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-authentication#authenticate(com.here.sdk.core.engine.SDKNativeEngine)"><code>Authentication.authenticate(SDKNativeEngine)</code></a>.
+<div class="block"><p>Callback passed to <a href="sdk-for-android-navigate-authentication#authenticate(com.here.sdk.core.engine.SDKNativeEngine)"><code>Authentication.authenticate(SDKNativeEngine)</code></a>.
  This callback is called on the main thread asynchronously when an
  authenticate call has completed.</p></div>
 </section>
@@ -49,10 +48,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-authenticationcallback"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#onTokenReceived(com.here.sdk.core.AuthenticationError,com.here.sdk.core.AuthenticationData)">onTokenReceived</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-authenticationerror" title="enum class in com.here.sdk.core">AuthenticationError</a> authenticationError,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-authenticationdata" title="class in com.here.sdk.core">AuthenticationData</a> authenticationData)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onTokenReceived(com.here.sdk.core.AuthenticationError,com.here.sdk.core.AuthenticationData)">onTokenReceived</a><wbr/>(<a href="sdk-for-android-navigate-authenticationerror" title="enum class in com.here.sdk.core">AuthenticationError</a> authenticationError,
+ <a href="sdk-for-android-navigate-authenticationdata" title="class in com.here.sdk.core">AuthenticationData</a> authenticationData)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
-<div class="block">Callback passed to <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-authentication#authenticate(com.here.sdk.core.engine.SDKNativeEngine)"><code>Authentication.authenticate(SDKNativeEngine)</code></a>.</div>
+<div class="block">Callback passed to <a href="sdk-for-android-navigate-authentication#authenticate(com.here.sdk.core.engine.SDKNativeEngine)"><code>Authentication.authenticate(SDKNativeEngine)</code></a>.</div>
 </div>
 </div>
 </div>
@@ -72,10 +71,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-authenticationcallback"
 <section class="detail" id="onTokenReceived(com.here.sdk.core.AuthenticationError,com.here.sdk.core.AuthenticationData)">
 <h3>onTokenReceived</h3>
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">onTokenReceived</span><wbr/><span class="parameters">(@Nullable
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-authenticationerror" title="enum class in com.here.sdk.core">AuthenticationError</a> authenticationError,
+ <a href="sdk-for-android-navigate-authenticationerror" title="enum class in com.here.sdk.core">AuthenticationError</a> authenticationError,
  @Nullable
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-authenticationdata" title="class in com.here.sdk.core">AuthenticationData</a> authenticationData)</span></div>
-<div class="block"><p>Callback passed to <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-authentication#authenticate(com.here.sdk.core.engine.SDKNativeEngine)"><code>Authentication.authenticate(SDKNativeEngine)</code></a>.
+ <a href="sdk-for-android-navigate-authenticationdata" title="class in com.here.sdk.core">AuthenticationData</a> authenticationData)</span></div>
+<div class="block"><p>Callback passed to <a href="sdk-for-android-navigate-authentication#authenticate(com.here.sdk.core.engine.SDKNativeEngine)"><code>Authentication.authenticate(SDKNativeEngine)</code></a>.
  This callback is called on the main thread asynchronously when an
  authenticate call has completed.</p></div>
 <dl class="notes">

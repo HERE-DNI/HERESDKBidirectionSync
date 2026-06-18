@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapmatcher-matchedlocationlistener"
 `
 <div class="sdk-for-android">
 <!-- MatchedLocationListener.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,14 +19,14 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapmatcher-matchedlocationlistener"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.mapmatcher</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-mapmatcher-package-summary">com.here.sdk.mapmatcher</a></div>
 
 </div>
 <section class="class-description" id="class-description">
 <hr/>
 <div class="type-signature"><span class="modifiers">public interface </span><span class="element-name type-name-label">MatchedLocationListener</span></div>
 <div class="block"><p>This interface should be implemented to receive notifications
- about the current location from <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapmatchedlocation" title="class in com.here.sdk.navigation"><code>MapMatchedLocation</code></a>.
+ about the current location from <a href="sdk-for-android-navigate-mapmatchedlocation" title="class in com.here.sdk.navigation"><code>MapMatchedLocation</code></a>.
  </p><p><strong>Note:</strong> This is a <strong>beta</strong> release of this feature. There may be bugs and unexpected
  behaviors. Related APIs may change in future releases without a deprecation process.</p></div>
 </section>
@@ -45,7 +44,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapmatcher-matchedlocationlistener"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#onMatchedLocationUpdated(com.here.sdk.mapmatcher.MatchedLocation)">onMatchedLocationUpdated</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-matchedlocation" title="class in com.here.sdk.mapmatcher">MatchedLocation</a> matchedLocation)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onMatchedLocationUpdated(com.here.sdk.mapmatcher.MatchedLocation)">onMatchedLocationUpdated</a><wbr/>(<a href="sdk-for-android-navigate-matchedlocation" title="class in com.here.sdk.mapmatcher">MatchedLocation</a> matchedLocation)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Called whenever the current map-matched location has been updated.</div>
 </div>
@@ -67,7 +66,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapmatcher-matchedlocationlistener"
 <section class="detail" id="onMatchedLocationUpdated(com.here.sdk.mapmatcher.MatchedLocation)">
 <h3>onMatchedLocationUpdated</h3>
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">onMatchedLocationUpdated</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-matchedlocation" title="class in com.here.sdk.mapmatcher">MatchedLocation</a> matchedLocation)</span></div>
+ <a href="sdk-for-android-navigate-matchedlocation" title="class in com.here.sdk.mapmatcher">MatchedLocation</a> matchedLocation)</span></div>
 <div class="block"><p>Called whenever the current map-matched location has been updated.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

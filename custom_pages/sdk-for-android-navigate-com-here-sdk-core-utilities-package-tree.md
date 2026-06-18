@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-utilities-package-tree"
 `
 <div class="sdk-for-android">
 <!-- package-tree.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -22,7 +21,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-utilities-package-tree"
 
 <span class="package-hierarchy-label">Package Hierarchies:</span>
 <ul class="horizontal">
-<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-overview-tree">All Packages</a></li>
+<li><a href="sdk-for-android-navigate-overview-tree">All Packages</a></li>
 </ul>
 </div>
 </main>

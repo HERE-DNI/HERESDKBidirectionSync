@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-administrativerules"
 `
 <div class="sdk-for-android">
 <!-- AdministrativeRules.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,7 +19,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-administrativerules"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.mapdata</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-mapdata-package-summary">com.here.sdk.mapdata</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -43,100 +42,100 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-administrativerules"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-admincontextid" title="class in com.here.sdk.mapdata">AdminContextId</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#adminContextId">adminContextId</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-admincontextid" title="class in com.here.sdk.mapdata">AdminContextId</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#adminContextId">adminContextId</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The administrative context ID used to identify this administrative region.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-bloodalcoholcontentlimit" title="class in com.here.sdk.mapdata">BloodAlcoholContentLimit</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#bloodAlcoholContentLimit">bloodAlcoholContentLimit</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-bloodalcoholcontentlimit" title="class in com.here.sdk.mapdata">BloodAlcoholContentLimit</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#bloodAlcoholContentLimit">bloodAlcoholContentLimit</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Indicates the rules regarding alcohol in blood content limit in a country or state for
  all types of drivers.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#countryCode">countryCode</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#countryCode">countryCode</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Country code for which the administrative rules apply.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-timerule" title="class in com.here.sdk.core">TimeRule</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#daylightSavingPeriod">daylightSavingPeriod</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-timerule" title="class in com.here.sdk.core">TimeRule</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#daylightSavingPeriod">daylightSavingPeriod</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Time rule indicating the time periods in which daylight savings applies.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-drivingside" title="enum class in com.here.sdk.mapdata">DrivingSide</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#drivingSide">drivingSide</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-drivingside" title="enum class in com.here.sdk.mapdata">DrivingSide</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#drivingSide">drivingSide</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The side of the road used for driving in the country or state.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-headlightsrequirement" title="enum class in com.here.sdk.mapdata">HeadlightsRequirement</a>&gt;</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#headlightsRequirements">headlightsRequirements</a></code></div>
+<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-headlightsrequirement" title="enum class in com.here.sdk.mapdata">HeadlightsRequirement</a>&gt;</code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#headlightsRequirements">headlightsRequirements</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Indicates in which conditions should the headlights be turned on.</div>
 </div>
 <div class="col-first even-row-color"><code>boolean</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#isCleanAirStickerRequired">isCleanAirStickerRequired</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#isCleanAirStickerRequired">isCleanAirStickerRequired</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Indicates if the country or state requires an ecological sticker.</div>
 </div>
 <div class="col-first odd-row-color"><code>boolean</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#isTollRequired">isTollRequired</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#isTollRequired">isTollRequired</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Indicates if the country or state requires paid fees for usage of the motorways / controlled access
  roads.</div>
 </div>
 <div class="col-first even-row-color"><code>boolean</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#isTollStickerRequired">isTollStickerRequired</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#isTollStickerRequired">isTollStickerRequired</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Indicates if the country or state requires a toll sticker.</div>
 </div>
 <div class="col-first odd-row-color"><code>boolean</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#isUturnRestricted">isUturnRestricted</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#isUturnRestricted">isUturnRestricted</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Indicates if performing a u-turn maneuver is restricted.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-admincontextid" title="class in com.here.sdk.mapdata">AdminContextId</a>&gt;</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#parentAdminContextIds">parentAdminContextIds</a></code></div>
+<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-admincontextid" title="class in com.here.sdk.mapdata">AdminContextId</a>&gt;</code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#parentAdminContextIds">parentAdminContextIds</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The list of parent administrative context IDs.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-parkingsideregulation" title="enum class in com.here.sdk.mapdata">ParkingSideRegulation</a>&gt;</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#parkingSideRegulations">parkingSideRegulations</a></code></div>
+<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-parkingsideregulation" title="enum class in com.here.sdk.mapdata">ParkingSideRegulation</a>&gt;</code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#parkingSideRegulations">parkingSideRegulations</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Indicates the regulations for parking on the side of the road.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-pretripplanning" title="class in com.here.sdk.mapdata">PreTripPlanning</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#preTripPlanning">preTripPlanning</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-pretripplanning" title="class in com.here.sdk.mapdata">PreTripPlanning</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#preTripPlanning">preTripPlanning</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Indicates the legal requirements to be considered before a trip for all vehicles types.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-generalvehiclespeedlimits" title="class in com.here.sdk.transport">GeneralVehicleSpeedLimits</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#speedLimits">speedLimits</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-generalvehiclespeedlimits" title="class in com.here.sdk.transport">GeneralVehicleSpeedLimits</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#speedLimits">speedLimits</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The general speed limits in the country or state.</div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#stateCode">stateCode</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#stateCode">stateCode</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The state code for which the administrative rules apply.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a>&gt;</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#timeZoneOffsetsInMinutes">timeZoneOffsetsInMinutes</a></code></div>
+<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a>&gt;</code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#timeZoneOffsetsInMinutes">timeZoneOffsetsInMinutes</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The time zone offset from UTC of the country or state expressed in minutes.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-tollsystem" title="class in com.here.sdk.mapdata">TollSystem</a>&gt;</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#tollSystems">tollSystems</a></code></div>
+<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-tollsystem" title="class in com.here.sdk.mapdata">TollSystem</a>&gt;</code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#tollSystems">tollSystems</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Indicates the toll systems present in a country or state.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-turnonredregulation" title="enum class in com.here.sdk.mapdata">TurnOnRedRegulation</a>&gt;</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#turnOnRedRegulations">turnOnRedRegulations</a></code></div>
+<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-turnonredregulation" title="enum class in com.here.sdk.mapdata">TurnOnRedRegulation</a>&gt;</code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#turnOnRedRegulations">turnOnRedRegulations</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Indicates the regulations for turning on the red color of the traffic light.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-unitsystem" title="enum class in com.here.sdk.core">UnitSystem</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#unitSystem">unitSystem</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-unitsystem" title="enum class in com.here.sdk.core">UnitSystem</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#unitSystem">unitSystem</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Defines the measurement system used for distances.</div>
 </div>
@@ -151,7 +150,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-administrativerules"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.mapdata.AdminContextId)">AdministrativeRules</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-admincontextid" title="class in com.here.sdk.mapdata">AdminContextId</a> adminContextId)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.mapdata.AdminContextId)">AdministrativeRules</a><wbr/>(<a href="sdk-for-android-navigate-admincontextid" title="class in com.here.sdk.mapdata">AdminContextId</a> adminContextId)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -170,10 +169,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-administrativerules"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 </div>
 </div>
@@ -196,7 +195,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-administrativerules"
 <section class="detail" id="countryCode">
 <h3>countryCode</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">countryCode</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">countryCode</span></div>
 <div class="block"><p>Country code for which the administrative rules apply.</p></div>
 </section>
 </li>
@@ -215,7 +214,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-administrativerules"
 <section class="detail" id="adminContextId">
 <h3>adminContextId</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-admincontextid" title="class in com.here.sdk.mapdata">AdminContextId</a></span> <span class="element-name">adminContextId</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-admincontextid" title="class in com.here.sdk.mapdata">AdminContextId</a></span> <span class="element-name">adminContextId</span></div>
 <div class="block"><p>The administrative context ID used to identify this administrative region.
  This ID is used internally to load commercial vehicle regulations and other
  administrative-specific data.</p></div>
@@ -225,7 +224,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-administrativerules"
 <section class="detail" id="parentAdminContextIds">
 <h3>parentAdminContextIds</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-admincontextid" title="class in com.here.sdk.mapdata">AdminContextId</a>&gt;</span> <span class="element-name">parentAdminContextIds</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-admincontextid" title="class in com.here.sdk.mapdata">AdminContextId</a>&gt;</span> <span class="element-name">parentAdminContextIds</span></div>
 <div class="block"><p>The list of parent administrative context IDs.
  These represent the administrative hierarchy (e.g., state-&gt;country).
  Used internally to load commercial vehicle regulations that may be inherited
@@ -236,7 +235,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-administrativerules"
 <section class="detail" id="drivingSide">
 <h3>drivingSide</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-drivingside" title="enum class in com.here.sdk.mapdata">DrivingSide</a></span> <span class="element-name">drivingSide</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-drivingside" title="enum class in com.here.sdk.mapdata">DrivingSide</a></span> <span class="element-name">drivingSide</span></div>
 <div class="block"><p>The side of the road used for driving in the country or state. Defaults to right driving side.</p></div>
 </section>
 </li>
@@ -244,7 +243,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-administrativerules"
 <section class="detail" id="unitSystem">
 <h3>unitSystem</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-unitsystem" title="enum class in com.here.sdk.core">UnitSystem</a></span> <span class="element-name">unitSystem</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-unitsystem" title="enum class in com.here.sdk.core">UnitSystem</a></span> <span class="element-name">unitSystem</span></div>
 <div class="block"><p>Defines the measurement system used for distances. Defaults to metric measurement system.</p></div>
 </section>
 </li>
@@ -252,7 +251,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-administrativerules"
 <section class="detail" id="speedLimits">
 <h3>speedLimits</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-generalvehiclespeedlimits" title="class in com.here.sdk.transport">GeneralVehicleSpeedLimits</a></span> <span class="element-name">speedLimits</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-generalvehiclespeedlimits" title="class in com.here.sdk.transport">GeneralVehicleSpeedLimits</a></span> <span class="element-name">speedLimits</span></div>
 <div class="block"><p>The general speed limits in the country or state.</p></div>
 </section>
 </li>
@@ -260,7 +259,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-administrativerules"
 <section class="detail" id="timeZoneOffsetsInMinutes">
 <h3>timeZoneOffsetsInMinutes</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a>&gt;</span> <span class="element-name">timeZoneOffsetsInMinutes</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a>&gt;</span> <span class="element-name">timeZoneOffsetsInMinutes</span></div>
 <div class="block"><p>The time zone offset from UTC of the country or state expressed in minutes. The value can also be negative
  (e.g.: Eastern Standard Time (EST) will be -360 minutes, Central European Time (CET) will be 60 minutes).
  Defaults to 0 minutes.
@@ -275,7 +274,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-administrativerules"
 <section class="detail" id="daylightSavingPeriod">
 <h3>daylightSavingPeriod</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-timerule" title="class in com.here.sdk.core">TimeRule</a></span> <span class="element-name">daylightSavingPeriod</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-timerule" title="class in com.here.sdk.core">TimeRule</a></span> <span class="element-name">daylightSavingPeriod</span></div>
 <div class="block"><p>Time rule indicating the time periods in which daylight savings applies.
  If the field is 'null' then daylight savings time is not observed in the country or state.
  <strong>Note:</strong> In order to properly calculate the time zone offset, if the daylight savings time is observed at
@@ -293,7 +292,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-administrativerules"
 <section class="detail" id="headlightsRequirements">
 <h3>headlightsRequirements</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-headlightsrequirement" title="enum class in com.here.sdk.mapdata">HeadlightsRequirement</a>&gt;</span> <span class="element-name">headlightsRequirements</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-headlightsrequirement" title="enum class in com.here.sdk.mapdata">HeadlightsRequirement</a>&gt;</span> <span class="element-name">headlightsRequirements</span></div>
 <div class="block"><p>Indicates in which conditions should the headlights be turned on. Defaults to an empty list,
  which means that by default there are no special situations in which the headlights should be
  turned on.</p></div>
@@ -318,7 +317,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-administrativerules"
 <section class="detail" id="turnOnRedRegulations">
 <h3>turnOnRedRegulations</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-turnonredregulation" title="enum class in com.here.sdk.mapdata">TurnOnRedRegulation</a>&gt;</span> <span class="element-name">turnOnRedRegulations</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-turnonredregulation" title="enum class in com.here.sdk.mapdata">TurnOnRedRegulation</a>&gt;</span> <span class="element-name">turnOnRedRegulations</span></div>
 <div class="block"><p>Indicates the regulations for turning on the red color of the traffic light.</p></div>
 </section>
 </li>
@@ -326,7 +325,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-administrativerules"
 <section class="detail" id="parkingSideRegulations">
 <h3>parkingSideRegulations</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-parkingsideregulation" title="enum class in com.here.sdk.mapdata">ParkingSideRegulation</a>&gt;</span> <span class="element-name">parkingSideRegulations</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-parkingsideregulation" title="enum class in com.here.sdk.mapdata">ParkingSideRegulation</a>&gt;</span> <span class="element-name">parkingSideRegulations</span></div>
 <div class="block"><p>Indicates the regulations for parking on the side of the road.</p></div>
 </section>
 </li>
@@ -341,7 +340,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-administrativerules"
 <section class="detail" id="bloodAlcoholContentLimit">
 <h3>bloodAlcoholContentLimit</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-bloodalcoholcontentlimit" title="class in com.here.sdk.mapdata">BloodAlcoholContentLimit</a></span> <span class="element-name">bloodAlcoholContentLimit</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-bloodalcoholcontentlimit" title="class in com.here.sdk.mapdata">BloodAlcoholContentLimit</a></span> <span class="element-name">bloodAlcoholContentLimit</span></div>
 <div class="block"><p>Indicates the rules regarding alcohol in blood content limit in a country or state for
  all types of drivers.</p></div>
 </section>
@@ -350,7 +349,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-administrativerules"
 <section class="detail" id="tollSystems">
 <h3>tollSystems</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-tollsystem" title="class in com.here.sdk.mapdata">TollSystem</a>&gt;</span> <span class="element-name">tollSystems</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-tollsystem" title="class in com.here.sdk.mapdata">TollSystem</a>&gt;</span> <span class="element-name">tollSystems</span></div>
 <div class="block"><p>Indicates the toll systems present in a country or state.</p></div>
 </section>
 </li>
@@ -358,7 +357,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-administrativerules"
 <section class="detail" id="preTripPlanning">
 <h3>preTripPlanning</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-pretripplanning" title="class in com.here.sdk.mapdata">PreTripPlanning</a></span> <span class="element-name">preTripPlanning</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-pretripplanning" title="class in com.here.sdk.mapdata">PreTripPlanning</a></span> <span class="element-name">preTripPlanning</span></div>
 <div class="block"><p>Indicates the legal requirements to be considered before a trip for all vehicles types.</p></div>
 </section>
 </li>
@@ -374,7 +373,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-administrativerules"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.mapdata.AdminContextId)">
 <h3>AdministrativeRules</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">AdministrativeRules</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-admincontextid" title="class in com.here.sdk.mapdata">AdminContextId</a> adminContextId)</span></div>
+ <a href="sdk-for-android-navigate-admincontextid" title="class in com.here.sdk.mapdata">AdminContextId</a> adminContextId)</span></div>
 <div class="block"><p>Creates a new instance.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-maplayermapmeasuredependent
 `
 <div class="sdk-for-android">
 <!-- MapLayerMapMeasureDependentStorageLevels.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,18 +19,18 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-maplayermapmeasuredependent
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.mapview</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-nativebase" title="class in com.here">com.here.NativeBase</a>
+<div class="inheritance"><a href="sdk-for-android-navigate-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.mapview.MapLayerMapMeasureDependentStorageLevels</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 <hr/>
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">MapLayerMapMeasureDependentStorageLevels</span>
-<span class="extends-implements">extends <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-nativebase" title="class in com.here">NativeBase</a></span></div>
+<span class="extends-implements">extends <a href="sdk-for-android-navigate-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>Provides a mapping between a MapLayer map measure to datasource storage level.</p></div>
 </section>
 <section class="summary">
@@ -47,10 +46,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-maplayermapmeasuredependent
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-maplayermapmeasuredependentstoragelevels" title="class in com.here.sdk.mapview">MapLayerMapMeasureDependentStorageLevels</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#withStorageLevelOffset(int)">withStorageLevelOffset</a><wbr/>(int offset)</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-maplayermapmeasuredependentstoragelevels" title="class in com.here.sdk.mapview">MapLayerMapMeasureDependentStorageLevels</a></code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#withStorageLevelOffset(int)">withStorageLevelOffset</a><wbr/>(int offset)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
-<div class="block">Creates an instance of <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-maplayermapmeasuredependentstoragelevels" title="class in com.here.sdk.mapview"><code>MapLayerMapMeasureDependentStorageLevels</code></a> with the specified storage level offset.</div>
+<div class="block">Creates an instance of <a href="sdk-for-android-navigate-maplayermapmeasuredependentstoragelevels" title="class in com.here.sdk.mapview"><code>MapLayerMapMeasureDependentStorageLevels</code></a> with the specified storage level offset.</div>
 </div>
 </div>
 </div>
@@ -73,8 +72,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-maplayermapmeasuredependent
 <section class="detail" id="withStorageLevelOffset(int)">
 <h3>withStorageLevelOffset</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public static</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-maplayermapmeasuredependentstoragelevels" title="class in com.here.sdk.mapview">MapLayerMapMeasureDependentStorageLevels</a></span> <span class="element-name">withStorageLevelOffset</span><wbr/><span class="parameters">(int offset)</span></div>
-<div class="block"><p>Creates an instance of <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-maplayermapmeasuredependentstoragelevels" title="class in com.here.sdk.mapview"><code>MapLayerMapMeasureDependentStorageLevels</code></a> with the specified storage level offset.
+</span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-navigate-maplayermapmeasuredependentstoragelevels" title="class in com.here.sdk.mapview">MapLayerMapMeasureDependentStorageLevels</a></span> <span class="element-name">withStorageLevelOffset</span><wbr/><span class="parameters">(int offset)</span></div>
+<div class="block"><p>Creates an instance of <a href="sdk-for-android-navigate-maplayermapmeasuredependentstoragelevels" title="class in com.here.sdk.mapview"><code>MapLayerMapMeasureDependentStorageLevels</code></a> with the specified storage level offset.
  This creates a map where the storage level is determined by applying an "offset" to the zoom level.
  A negative offset results in a storage level lower than the zoom level, while a positive offset increases it.
  For example, with an offset of 0, the storage level matches the zoom level directly.

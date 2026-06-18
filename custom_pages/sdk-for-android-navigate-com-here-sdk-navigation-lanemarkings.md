@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-lanemarkings"
 `
 <div class="sdk-for-android">
 <!-- LaneMarkings.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,7 +19,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-lanemarkings"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.navigation</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-navigation-package-summary">com.here.sdk.navigation</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -48,18 +47,18 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-lanemarkings"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-dividermarker" title="enum class in com.here.sdk.navigation">DividerMarker</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#centerDividerMarker">centerDividerMarker</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-dividermarker" title="enum class in com.here.sdk.navigation">DividerMarker</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#centerDividerMarker">centerDividerMarker</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Center Divider Marker describes the type of lane separator for center dividers on bidirectional roads.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-lanedirection" title="enum class in com.here.sdk.navigation">LaneDirection</a>&gt;</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#directions">directions</a></code></div>
+<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-lanedirection" title="enum class in com.here.sdk.navigation">LaneDirection</a>&gt;</code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#directions">directions</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">List of lane directions</div>
 </div>
-<div class="col-first even-row-color"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-dividermarker" title="enum class in com.here.sdk.navigation">DividerMarker</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#laneDividerMarker">laneDividerMarker</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-dividermarker" title="enum class in com.here.sdk.navigation">DividerMarker</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#laneDividerMarker">laneDividerMarker</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Lane Divider Marker describes the appearance and type of driving lane separators existing on a road.</div>
 </div>
@@ -74,7 +73,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-lanemarkings"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#%3Cinit%3E()">LaneMarkings</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E()">LaneMarkings</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -93,10 +92,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-lanemarkings"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 </div>
 </div>
@@ -119,7 +118,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-lanemarkings"
 <section class="detail" id="centerDividerMarker">
 <h3>centerDividerMarker</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-dividermarker" title="enum class in com.here.sdk.navigation">DividerMarker</a></span> <span class="element-name">centerDividerMarker</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-dividermarker" title="enum class in com.here.sdk.navigation">DividerMarker</a></span> <span class="element-name">centerDividerMarker</span></div>
 <div class="block"><p>Center Divider Marker describes the type of lane separator for center dividers on bidirectional roads.</p></div>
 </section>
 </li>
@@ -127,7 +126,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-lanemarkings"
 <section class="detail" id="laneDividerMarker">
 <h3>laneDividerMarker</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-dividermarker" title="enum class in com.here.sdk.navigation">DividerMarker</a></span> <span class="element-name">laneDividerMarker</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-dividermarker" title="enum class in com.here.sdk.navigation">DividerMarker</a></span> <span class="element-name">laneDividerMarker</span></div>
 <div class="block"><p>Lane Divider Marker describes the appearance and type of driving lane separators existing on a road.</p></div>
 </section>
 </li>
@@ -135,7 +134,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-lanemarkings"
 <section class="detail" id="directions">
 <h3>directions</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-lanedirection" title="enum class in com.here.sdk.navigation">LaneDirection</a>&gt;</span> <span class="element-name">directions</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-lanedirection" title="enum class in com.here.sdk.navigation">LaneDirection</a>&gt;</span> <span class="element-name">directions</span></div>
 <div class="block"><p>List of lane directions</p></div>
 </section>
 </li>

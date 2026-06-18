@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-anglerange"
 `
 <div class="sdk-for-android">
 <!-- AngleRange.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,7 +19,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-anglerange"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.core</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-core-package-summary">com.here.sdk.core</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -50,12 +49,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-anglerange"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>final double</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#extent">extent</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#extent">extent</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The angle range extent, running clockwise, in degrees from start.</div>
 </div>
 <div class="col-first odd-row-color"><code>final double</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#start">start</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#start">start</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Start angle, running clockwise, in degrees from north.</div>
 </div>
@@ -70,11 +69,11 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-anglerange"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#%3Cinit%3E()">AngleRange</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E()">AngleRange</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Constructs a range covering a full circle.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#%3Cinit%3E(double,double)">AngleRange</a><wbr/>(double start,
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(double,double)">AngleRange</a><wbr/>(double start,
  double extent)</code></div>
 <div class="col-last odd-row-color">
 <div class="block">Constructs an AngleRange from the provided start and extent angles.</div>
@@ -94,37 +93,37 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-anglerange"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>double</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#closestInRange(double)">closestInRange</a><wbr/>(double angleClockwiseInDegreesFromNorth)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#closestInRange(double)">closestInRange</a><wbr/>(double angleClockwiseInDegreesFromNorth)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Get the angle that is closest to the given one and in range.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-anglerange" title="class in com.here.sdk.core">AngleRange</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#fromDirectionDegreesClockwise(double,double)">fromDirectionDegreesClockwise</a><wbr/>(double center,
+<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-anglerange" title="class in com.here.sdk.core">AngleRange</a></code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#fromDirectionDegreesClockwise(double,double)">fromDirectionDegreesClockwise</a><wbr/>(double center,
  double extent)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Constructs an AngleRange from the provided center angle defining the
  direction and an angular width to extent the range by 50% clockwise and
  50% counter-clockwise from its center angle.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-anglerange" title="class in com.here.sdk.core">AngleRange</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#fromMinMaxDegreesClockwise(double,double)">fromMinMaxDegreesClockwise</a><wbr/>(double min,
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-anglerange" title="class in com.here.sdk.core">AngleRange</a></code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#fromMinMaxDegreesClockwise(double,double)">fromMinMaxDegreesClockwise</a><wbr/>(double min,
  double max)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Constructs an AngleRange from the provided minimum and maximum angles.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#inRange(double)">inRange</a><wbr/>(double angleClockwiseInDegreesFromNorth)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#inRange(double)">inRange</a><wbr/>(double angleClockwiseInDegreesFromNorth)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Check if a given angle in degrees, clockwise from north is in range or not.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>double</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#max()">max</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#max()">max</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Get the maximum angle defined by the range in degrees, clockwise from north,
  normalized to [0,360).</div>
@@ -225,7 +224,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-anglerange"
 <section class="detail" id="fromMinMaxDegreesClockwise(double,double)">
 <h3>fromMinMaxDegreesClockwise</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public static</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-anglerange" title="class in com.here.sdk.core">AngleRange</a></span> <span class="element-name">fromMinMaxDegreesClockwise</span><wbr/><span class="parameters">(double min,
+</span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-navigate-anglerange" title="class in com.here.sdk.core">AngleRange</a></span> <span class="element-name">fromMinMaxDegreesClockwise</span><wbr/><span class="parameters">(double min,
  double max)</span></div>
 <div class="block"><p>Constructs an AngleRange from the provided minimum and maximum angles.
  Corrects values if they exceed the ranges. The angles are always
@@ -247,7 +246,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-anglerange"
 <section class="detail" id="fromDirectionDegreesClockwise(double,double)">
 <h3>fromDirectionDegreesClockwise</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public static</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-anglerange" title="class in com.here.sdk.core">AngleRange</a></span> <span class="element-name">fromDirectionDegreesClockwise</span><wbr/><span class="parameters">(double center,
+</span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-navigate-anglerange" title="class in com.here.sdk.core">AngleRange</a></span> <span class="element-name">fromDirectionDegreesClockwise</span><wbr/><span class="parameters">(double center,
  double extent)</span></div>
 <div class="block"><p>Constructs an AngleRange from the provided center angle defining the
  direction and an angular width to extent the range by 50% clockwise and

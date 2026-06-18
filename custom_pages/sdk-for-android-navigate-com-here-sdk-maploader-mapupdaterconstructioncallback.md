@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-mapupdaterconstructioncal
 `
 <div class="sdk-for-android">
 <!-- MapUpdaterConstructionCallback.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,7 +19,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-mapupdaterconstructioncal
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.maploader</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-maploader-package-summary">com.here.sdk.maploader</a></div>
 
 </div>
 <section class="class-description" id="class-description">
@@ -31,7 +30,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-mapupdaterconstructioncal
 <hr/>
 <div class="type-signature"><span class="annotations"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/FunctionalInterface.html" title="class or interface in java.lang">@FunctionalInterface</a>
 </span><span class="modifiers">public interface </span><span class="element-name type-name-label">MapUpdaterConstructionCallback</span></div>
-<div class="block"><p>A method which is called on the main thread when <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapupdater#fromEngineAsync(com.here.sdk.core.engine.SDKNativeEngine,com.here.sdk.maploader.MapUpdaterConstructionCallback)"><code>MapUpdater.fromEngineAsync(com.here.sdk.core.engine.SDKNativeEngine, com.here.sdk.maploader.MapUpdaterConstructionCallback)</code></a> has been completed.
+<div class="block"><p>A method which is called on the main thread when <a href="sdk-for-android-navigate-mapupdater#fromEngineAsync(com.here.sdk.core.engine.SDKNativeEngine,com.here.sdk.maploader.MapUpdaterConstructionCallback)"><code>MapUpdater.fromEngineAsync(com.here.sdk.core.engine.SDKNativeEngine, com.here.sdk.maploader.MapUpdaterConstructionCallback)</code></a> has been completed.
  Construction requires the online configuration to be fetched, which in case of sync API, would block the calling thread.
  When configuration is cached, it is enough to read it from the disk, this operation still takes relatively big time.</p></div>
 </section>
@@ -49,9 +48,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-mapupdaterconstructioncal
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#onMapUpdaterConstructe(com.here.sdk.maploader.MapUpdater)">onMapUpdaterConstructe</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapupdater" title="class in com.here.sdk.maploader">MapUpdater</a> mapUpdater)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onMapUpdaterConstructe(com.here.sdk.maploader.MapUpdater)">onMapUpdaterConstructe</a><wbr/>(<a href="sdk-for-android-navigate-mapupdater" title="class in com.here.sdk.maploader">MapUpdater</a> mapUpdater)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
-<div class="block">A method which is called on the main thread when <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapupdater#fromEngineAsync(com.here.sdk.core.engine.SDKNativeEngine,com.here.sdk.maploader.MapUpdaterConstructionCallback)"><code>MapUpdater.fromEngineAsync(com.here.sdk.core.engine.SDKNativeEngine, com.here.sdk.maploader.MapUpdaterConstructionCallback)</code></a> has been completed.</div>
+<div class="block">A method which is called on the main thread when <a href="sdk-for-android-navigate-mapupdater#fromEngineAsync(com.here.sdk.core.engine.SDKNativeEngine,com.here.sdk.maploader.MapUpdaterConstructionCallback)"><code>MapUpdater.fromEngineAsync(com.here.sdk.core.engine.SDKNativeEngine, com.here.sdk.maploader.MapUpdaterConstructionCallback)</code></a> has been completed.</div>
 </div>
 </div>
 </div>
@@ -71,8 +70,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-mapupdaterconstructioncal
 <section class="detail" id="onMapUpdaterConstructe(com.here.sdk.maploader.MapUpdater)">
 <h3>onMapUpdaterConstructe</h3>
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">onMapUpdaterConstructe</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapupdater" title="class in com.here.sdk.maploader">MapUpdater</a> mapUpdater)</span></div>
-<div class="block"><p>A method which is called on the main thread when <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapupdater#fromEngineAsync(com.here.sdk.core.engine.SDKNativeEngine,com.here.sdk.maploader.MapUpdaterConstructionCallback)"><code>MapUpdater.fromEngineAsync(com.here.sdk.core.engine.SDKNativeEngine, com.here.sdk.maploader.MapUpdaterConstructionCallback)</code></a> has been completed.
+ <a href="sdk-for-android-navigate-mapupdater" title="class in com.here.sdk.maploader">MapUpdater</a> mapUpdater)</span></div>
+<div class="block"><p>A method which is called on the main thread when <a href="sdk-for-android-navigate-mapupdater#fromEngineAsync(com.here.sdk.core.engine.SDKNativeEngine,com.here.sdk.maploader.MapUpdaterConstructionCallback)"><code>MapUpdater.fromEngineAsync(com.here.sdk.core.engine.SDKNativeEngine, com.here.sdk.maploader.MapUpdaterConstructionCallback)</code></a> has been completed.
  Construction requires the online configuration to be fetched, which in case of sync API, would block the calling thread.
  When configuration is cached, it is enough to read it from the disk, this operation still takes relatively big time.</p></div>
 <dl class="notes">

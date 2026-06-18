@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-bordercrossingwarninglis
 `
 <div class="sdk-for-android">
 <!-- BorderCrossingWarningListener.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,7 +19,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-bordercrossingwarninglis
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.navigation</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-navigation-package-summary">com.here.sdk.navigation</a></div>
 
 </div>
 <section class="class-description" id="class-description">
@@ -29,10 +28,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-bordercrossingwarninglis
 <div class="block"><p>This interface
  should be implemented in order to receive border crossing warnings for country and state borders.
  <strong>Note:</strong> The border crossing warner is a point warner, which means that for a border crossing there will <em>always</em> be
- 2 warnings emitted, with the [BorderCrossingWarning.distance_type] set to <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-distancetype#AHEAD"><code>DistanceType.AHEAD</code></a> and <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-distancetype#PASSED"><code>DistanceType.PASSED</code></a>
+ 2 warnings emitted, with the [BorderCrossingWarning.distance_type] set to <a href="sdk-for-android-navigate-distancetype#AHEAD"><code>DistanceType.AHEAD</code></a> and <a href="sdk-for-android-navigate-distancetype#PASSED"><code>DistanceType.PASSED</code></a>
  which is given when the location of the border crossing is reached.
- A <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-bordercrossingwarning" title="class in com.here.sdk.navigation"><code>BorderCrossingWarning</code></a> will not be given until the previous warning of that type has been passed.
- For example, a route with <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-bordercrossingwarning" title="class in com.here.sdk.navigation"><code>BorderCrossingWarning</code></a> 120 meters and <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-bordercrossingwarning" title="class in com.here.sdk.navigation"><code>BorderCrossingWarning</code></a> 160 meters ahead,
+ A <a href="sdk-for-android-navigate-bordercrossingwarning" title="class in com.here.sdk.navigation"><code>BorderCrossingWarning</code></a> will not be given until the previous warning of that type has been passed.
+ For example, a route with <a href="sdk-for-android-navigate-bordercrossingwarning" title="class in com.here.sdk.navigation"><code>BorderCrossingWarning</code></a> 120 meters and <a href="sdk-for-android-navigate-bordercrossingwarning" title="class in com.here.sdk.navigation"><code>BorderCrossingWarning</code></a> 160 meters ahead,
  the first [BorderCrossingWarning.distance_to_border_crossing_in_meters] is 120 meters
  and the next [BorderCrossingWarning.distance_to_border_crossing_in_meters] is then 40 meters,
  since that is the distance between the first and second warnings.</p></div>
@@ -51,7 +50,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-bordercrossingwarninglis
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#onBorderCrossingWarningUpdated(com.here.sdk.navigation.BorderCrossingWarning)">onBorderCrossingWarningUpdated</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-bordercrossingwarning" title="class in com.here.sdk.navigation">BorderCrossingWarning</a> borderCrossingWarning)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onBorderCrossingWarningUpdated(com.here.sdk.navigation.BorderCrossingWarning)">onBorderCrossingWarningUpdated</a><wbr/>(<a href="sdk-for-android-navigate-bordercrossingwarning" title="class in com.here.sdk.navigation">BorderCrossingWarning</a> borderCrossingWarning)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Called whenever a new border crossing warning is available.</div>
 </div>
@@ -73,7 +72,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-bordercrossingwarninglis
 <section class="detail" id="onBorderCrossingWarningUpdated(com.here.sdk.navigation.BorderCrossingWarning)">
 <h3>onBorderCrossingWarningUpdated</h3>
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">onBorderCrossingWarningUpdated</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-bordercrossingwarning" title="class in com.here.sdk.navigation">BorderCrossingWarning</a> borderCrossingWarning)</span></div>
+ <a href="sdk-for-android-navigate-bordercrossingwarning" title="class in com.here.sdk.navigation">BorderCrossingWarning</a> borderCrossingWarning)</span></div>
 <div class="block"><p>Called whenever a new border crossing warning is available.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

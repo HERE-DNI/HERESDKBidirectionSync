@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-physicalstructure"
 `
 <div class="sdk-for-android">
 <!-- PhysicalStructure.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,22 +19,22 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-physicalstructure"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.mapdata</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-mapdata-package-summary">com.here.sdk.mapdata</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">java.lang.Enum</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-physicalstructure" title="enum class in com.here.sdk.mapdata">PhysicalStructure</a>&gt;
+<div class="inheritance"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">java.lang.Enum</a>&lt;<a href="sdk-for-android-navigate-physicalstructure" title="enum class in com.here.sdk.mapdata">PhysicalStructure</a>&gt;
 <div class="inheritance">com.here.sdk.mapdata.PhysicalStructure</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>All Implemented Interfaces:</dt>
-<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" title="class or interface in java.io">Serializable</a></code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" title="class or interface in java.lang">Comparable</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-physicalstructure" title="enum class in com.here.sdk.mapdata">PhysicalStructure</a>&gt;</code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" title="class or interface in java.lang.constant">Constable</a></code></dd>
+<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" title="class or interface in java.io">Serializable</a></code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" title="class or interface in java.lang">Comparable</a>&lt;<a href="sdk-for-android-navigate-physicalstructure" title="enum class in com.here.sdk.mapdata">PhysicalStructure</a>&gt;</code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" title="class or interface in java.lang.constant">Constable</a></code></dd>
 </dl>
 <hr/>
 <div class="type-signature"><span class="modifiers">public enum </span><span class="element-name type-name-label">PhysicalStructure</span>
-<span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-physicalstructure" title="enum class in com.here.sdk.mapdata">PhysicalStructure</a>&gt;</span></div>
+<span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a href="sdk-for-android-navigate-physicalstructure" title="enum class in com.here.sdk.mapdata">PhysicalStructure</a>&gt;</span></div>
 <div class="block"><p>Physical structure of a road feature that causes an access restriction,
  such as a bridge or tunnel that may limit vehicle dimensions or weight.
  </p><p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
@@ -60,27 +59,27 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-physicalstructure"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Enum Constant</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#ARCH_BRIDGE">ARCH_BRIDGE</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#ARCH_BRIDGE">ARCH_BRIDGE</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">An arch bridge.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#ARCH_TUNNEL">ARCH_TUNNEL</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#ARCH_TUNNEL">ARCH_TUNNEL</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">An arch tunnel.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#BRIDGE">BRIDGE</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#BRIDGE">BRIDGE</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A bridge.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#OTHER">OTHER</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#OTHER">OTHER</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Any other physical structure not covered by the above values.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#TUNNEL">TUNNEL</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#TUNNEL">TUNNEL</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A tunnel.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#UNKNOWN">UNKNOWN</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#UNKNOWN">UNKNOWN</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">No physical structure or the structure type is unknown.</div>
 </div>
@@ -98,13 +97,13 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-physicalstructure"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-physicalstructure" title="enum class in com.here.sdk.mapdata">PhysicalStructure</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-physicalstructure" title="enum class in com.here.sdk.mapdata">PhysicalStructure</a></code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-physicalstructure" title="enum class in com.here.sdk.mapdata">PhysicalStructure</a>[]</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#values()">values</a>()</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-physicalstructure" title="enum class in com.here.sdk.mapdata">PhysicalStructure</a>[]</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
@@ -132,42 +131,42 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="UNKNOWN">
 <h3>UNKNOWN</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-physicalstructure" title="enum class in com.here.sdk.mapdata">PhysicalStructure</a></span> <span class="element-name">UNKNOWN</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-physicalstructure" title="enum class in com.here.sdk.mapdata">PhysicalStructure</a></span> <span class="element-name">UNKNOWN</span></div>
 <div class="block"><p>No physical structure or the structure type is unknown.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="BRIDGE">
 <h3>BRIDGE</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-physicalstructure" title="enum class in com.here.sdk.mapdata">PhysicalStructure</a></span> <span class="element-name">BRIDGE</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-physicalstructure" title="enum class in com.here.sdk.mapdata">PhysicalStructure</a></span> <span class="element-name">BRIDGE</span></div>
 <div class="block"><p>A bridge.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="TUNNEL">
 <h3>TUNNEL</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-physicalstructure" title="enum class in com.here.sdk.mapdata">PhysicalStructure</a></span> <span class="element-name">TUNNEL</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-physicalstructure" title="enum class in com.here.sdk.mapdata">PhysicalStructure</a></span> <span class="element-name">TUNNEL</span></div>
 <div class="block"><p>A tunnel.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="ARCH_BRIDGE">
 <h3>ARCH_BRIDGE</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-physicalstructure" title="enum class in com.here.sdk.mapdata">PhysicalStructure</a></span> <span class="element-name">ARCH_BRIDGE</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-physicalstructure" title="enum class in com.here.sdk.mapdata">PhysicalStructure</a></span> <span class="element-name">ARCH_BRIDGE</span></div>
 <div class="block"><p>An arch bridge.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="ARCH_TUNNEL">
 <h3>ARCH_TUNNEL</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-physicalstructure" title="enum class in com.here.sdk.mapdata">PhysicalStructure</a></span> <span class="element-name">ARCH_TUNNEL</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-physicalstructure" title="enum class in com.here.sdk.mapdata">PhysicalStructure</a></span> <span class="element-name">ARCH_TUNNEL</span></div>
 <div class="block"><p>An arch tunnel.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="OTHER">
 <h3>OTHER</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-physicalstructure" title="enum class in com.here.sdk.mapdata">PhysicalStructure</a></span> <span class="element-name">OTHER</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-physicalstructure" title="enum class in com.here.sdk.mapdata">PhysicalStructure</a></span> <span class="element-name">OTHER</span></div>
 <div class="block"><p>Any other physical structure not covered by the above values.</p></div>
 </section>
 </li>
@@ -182,7 +181,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="values()">
 <h3>values</h3>
-<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-physicalstructure" title="enum class in com.here.sdk.mapdata">PhysicalStructure</a>[]</span> <span class="element-name">values</span>()</div>
+<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-navigate-physicalstructure" title="enum class in com.here.sdk.mapdata">PhysicalStructure</a>[]</span> <span class="element-name">values</span>()</div>
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
 <dl class="notes">
@@ -194,7 +193,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="valueOf(java.lang.String)">
 <h3>valueOf</h3>
-<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-physicalstructure" title="enum class in com.here.sdk.mapdata">PhysicalStructure</a></span> <span class="element-name">valueOf</span><wbr/><span class="parameters">(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</span></div>
+<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-navigate-physicalstructure" title="enum class in com.here.sdk.mapdata">PhysicalStructure</a></span> <span class="element-name">valueOf</span><wbr/><span class="parameters">(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</span></div>
 <div class="block">Returns the enum constant of this class with the specified name.
 The string must match <i>exactly</i> an identifier used to declare an
 enum constant in this class.  (Extraneous whitespace characters are 

@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-service-venueservicelistener"
 `
 <div class="sdk-for-android">
 <!-- VenueServiceListener.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,14 +19,14 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-service-venueservicelistener"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.venue.service</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-venue-service-package-summary">com.here.sdk.venue.service</a></div>
 
 </div>
 <section class="class-description" id="class-description">
 <hr/>
 <div class="type-signature"><span class="modifiers">public interface </span><span class="element-name type-name-label">VenueServiceListener</span></div>
 <div class="block"><p>The interface for listeners for
- lifecycle events in <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venueservice" title="class in com.here.sdk.venue.service"><code>VenueService</code></a>.</p></div>
+ lifecycle events in <a href="sdk-for-android-navigate-venueservice" title="class in com.here.sdk.venue.service"><code>VenueService</code></a>.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -43,12 +42,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-service-venueservicelistener"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#onInitializationCompleted(com.here.sdk.venue.service.VenueServiceInitStatus)">onInitializationCompleted</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venueserviceinitstatus" title="enum class in com.here.sdk.venue.service">VenueServiceInitStatus</a> result)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onInitializationCompleted(com.here.sdk.venue.service.VenueServiceInitStatus)">onInitializationCompleted</a><wbr/>(<a href="sdk-for-android-navigate-venueserviceinitstatus" title="enum class in com.here.sdk.venue.service">VenueServiceInitStatus</a> result)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Called when a service initialization has been completed.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#onVenueServiceStopped()">onVenueServiceStopped</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onVenueServiceStopped()">onVenueServiceStopped</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Called when the venue service stops.</div>
 </div>
@@ -70,7 +69,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-service-venueservicelistener"
 <section class="detail" id="onInitializationCompleted(com.here.sdk.venue.service.VenueServiceInitStatus)">
 <h3>onInitializationCompleted</h3>
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">onInitializationCompleted</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venueserviceinitstatus" title="enum class in com.here.sdk.venue.service">VenueServiceInitStatus</a> result)</span></div>
+ <a href="sdk-for-android-navigate-venueserviceinitstatus" title="enum class in com.here.sdk.venue.service">VenueServiceInitStatus</a> result)</span></div>
 <div class="block"><p>Called when a service initialization has been completed.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

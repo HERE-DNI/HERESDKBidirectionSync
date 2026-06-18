@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-transport-transporttype"
 `
 <div class="sdk-for-android">
 <!-- TransportType.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,22 +19,22 @@ slug: "sdk-for-android-navigate-com-here-sdk-transport-transporttype"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.transport</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-transport-package-summary">com.here.sdk.transport</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">java.lang.Enum</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-transporttype" title="enum class in com.here.sdk.transport">TransportType</a>&gt;
+<div class="inheritance"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">java.lang.Enum</a>&lt;<a href="sdk-for-android-navigate-transporttype" title="enum class in com.here.sdk.transport">TransportType</a>&gt;
 <div class="inheritance">com.here.sdk.transport.TransportType</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>All Implemented Interfaces:</dt>
-<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" title="class or interface in java.io">Serializable</a></code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" title="class or interface in java.lang">Comparable</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-transporttype" title="enum class in com.here.sdk.transport">TransportType</a>&gt;</code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" title="class or interface in java.lang.constant">Constable</a></code></dd>
+<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" title="class or interface in java.io">Serializable</a></code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" title="class or interface in java.lang">Comparable</a>&lt;<a href="sdk-for-android-navigate-transporttype" title="enum class in com.here.sdk.transport">TransportType</a>&gt;</code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" title="class or interface in java.lang.constant">Constable</a></code></dd>
 </dl>
 <hr/>
 <div class="type-signature"><span class="modifiers">public enum </span><span class="element-name type-name-label">TransportType</span>
-<span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-transporttype" title="enum class in com.here.sdk.transport">TransportType</a>&gt;</span></div>
+<span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a href="sdk-for-android-navigate-transporttype" title="enum class in com.here.sdk.transport">TransportType</a>&gt;</span></div>
 <div class="block"><p>Specifies types of transportation for which access/restriction rules apply.
  </p><p><strong>Note:</strong> This is a beta release of this feature.
  Related APIs may change for new releases without a deprecation process.</p></div>
@@ -59,43 +58,43 @@ slug: "sdk-for-android-navigate-com-here-sdk-transport-transporttype"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Enum Constant</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#AUTOMOBILES">AUTOMOBILES</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#AUTOMOBILES">AUTOMOBILES</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Cars.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#BUSES">BUSES</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#BUSES">BUSES</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Buses.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#CARPOOLS">CARPOOLS</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#CARPOOLS">CARPOOLS</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Car pools.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#DELIVERIES">DELIVERIES</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#DELIVERIES">DELIVERIES</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Deliveries.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#EMERGENCY_VEHICLES">EMERGENCY_VEHICLES</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#EMERGENCY_VEHICLES">EMERGENCY_VEHICLES</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Emergency vehicles.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#MOTORCYCLES">MOTORCYCLES</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#MOTORCYCLES">MOTORCYCLES</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Motorcycles.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#PEDESTRIANS">PEDESTRIANS</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#PEDESTRIANS">PEDESTRIANS</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Pedestrians.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#TAXIS">TAXIS</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#TAXIS">TAXIS</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Taxis.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#THROUGH_TRAFFIC">THROUGH_TRAFFIC</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#THROUGH_TRAFFIC">THROUGH_TRAFFIC</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Through traffic.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#TRUCKS">TRUCKS</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#TRUCKS">TRUCKS</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Trucks.</div>
 </div>
@@ -113,13 +112,13 @@ slug: "sdk-for-android-navigate-com-here-sdk-transport-transporttype"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-transporttype" title="enum class in com.here.sdk.transport">TransportType</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-transporttype" title="enum class in com.here.sdk.transport">TransportType</a></code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-transporttype" title="enum class in com.here.sdk.transport">TransportType</a>[]</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#values()">values</a>()</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-transporttype" title="enum class in com.here.sdk.transport">TransportType</a>[]</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
@@ -147,70 +146,70 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="AUTOMOBILES">
 <h3>AUTOMOBILES</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-transporttype" title="enum class in com.here.sdk.transport">TransportType</a></span> <span class="element-name">AUTOMOBILES</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-transporttype" title="enum class in com.here.sdk.transport">TransportType</a></span> <span class="element-name">AUTOMOBILES</span></div>
 <div class="block"><p>Cars.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="BUSES">
 <h3>BUSES</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-transporttype" title="enum class in com.here.sdk.transport">TransportType</a></span> <span class="element-name">BUSES</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-transporttype" title="enum class in com.here.sdk.transport">TransportType</a></span> <span class="element-name">BUSES</span></div>
 <div class="block"><p>Buses.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="TAXIS">
 <h3>TAXIS</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-transporttype" title="enum class in com.here.sdk.transport">TransportType</a></span> <span class="element-name">TAXIS</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-transporttype" title="enum class in com.here.sdk.transport">TransportType</a></span> <span class="element-name">TAXIS</span></div>
 <div class="block"><p>Taxis.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="CARPOOLS">
 <h3>CARPOOLS</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-transporttype" title="enum class in com.here.sdk.transport">TransportType</a></span> <span class="element-name">CARPOOLS</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-transporttype" title="enum class in com.here.sdk.transport">TransportType</a></span> <span class="element-name">CARPOOLS</span></div>
 <div class="block"><p>Car pools.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="PEDESTRIANS">
 <h3>PEDESTRIANS</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-transporttype" title="enum class in com.here.sdk.transport">TransportType</a></span> <span class="element-name">PEDESTRIANS</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-transporttype" title="enum class in com.here.sdk.transport">TransportType</a></span> <span class="element-name">PEDESTRIANS</span></div>
 <div class="block"><p>Pedestrians.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="TRUCKS">
 <h3>TRUCKS</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-transporttype" title="enum class in com.here.sdk.transport">TransportType</a></span> <span class="element-name">TRUCKS</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-transporttype" title="enum class in com.here.sdk.transport">TransportType</a></span> <span class="element-name">TRUCKS</span></div>
 <div class="block"><p>Trucks.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="THROUGH_TRAFFIC">
 <h3>THROUGH_TRAFFIC</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-transporttype" title="enum class in com.here.sdk.transport">TransportType</a></span> <span class="element-name">THROUGH_TRAFFIC</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-transporttype" title="enum class in com.here.sdk.transport">TransportType</a></span> <span class="element-name">THROUGH_TRAFFIC</span></div>
 <div class="block"><p>Through traffic.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="DELIVERIES">
 <h3>DELIVERIES</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-transporttype" title="enum class in com.here.sdk.transport">TransportType</a></span> <span class="element-name">DELIVERIES</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-transporttype" title="enum class in com.here.sdk.transport">TransportType</a></span> <span class="element-name">DELIVERIES</span></div>
 <div class="block"><p>Deliveries.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="EMERGENCY_VEHICLES">
 <h3>EMERGENCY_VEHICLES</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-transporttype" title="enum class in com.here.sdk.transport">TransportType</a></span> <span class="element-name">EMERGENCY_VEHICLES</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-transporttype" title="enum class in com.here.sdk.transport">TransportType</a></span> <span class="element-name">EMERGENCY_VEHICLES</span></div>
 <div class="block"><p>Emergency vehicles.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="MOTORCYCLES">
 <h3>MOTORCYCLES</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-transporttype" title="enum class in com.here.sdk.transport">TransportType</a></span> <span class="element-name">MOTORCYCLES</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-transporttype" title="enum class in com.here.sdk.transport">TransportType</a></span> <span class="element-name">MOTORCYCLES</span></div>
 <div class="block"><p>Motorcycles.</p></div>
 </section>
 </li>
@@ -225,7 +224,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="values()">
 <h3>values</h3>
-<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-transporttype" title="enum class in com.here.sdk.transport">TransportType</a>[]</span> <span class="element-name">values</span>()</div>
+<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-navigate-transporttype" title="enum class in com.here.sdk.transport">TransportType</a>[]</span> <span class="element-name">values</span>()</div>
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
 <dl class="notes">
@@ -237,7 +236,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="valueOf(java.lang.String)">
 <h3>valueOf</h3>
-<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-transporttype" title="enum class in com.here.sdk.transport">TransportType</a></span> <span class="element-name">valueOf</span><wbr/><span class="parameters">(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</span></div>
+<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-navigate-transporttype" title="enum class in com.here.sdk.transport">TransportType</a></span> <span class="element-name">valueOf</span><wbr/><span class="parameters">(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</span></div>
 <div class="block">Returns the enum constant of this class with the specified name.
 The string must match <i>exactly</i> an identifier used to declare an
 enum constant in this class.  (Extraneous whitespace characters are 

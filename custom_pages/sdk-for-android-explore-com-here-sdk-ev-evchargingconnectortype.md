@@ -7,7 +7,6 @@ slug: "sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype"
 `
 <div class="sdk-for-android">
 <!-- EVChargingConnectorType.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,7 +19,7 @@ slug: "sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-package-summary">com.here.sdk.ev</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-ev-package-summary">com.here.sdk.ev</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -46,207 +45,207 @@ slug: "sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#CHADEMO">CHADEMO</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#CHADEMO">CHADEMO</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The connector type is CHAdeMO, DC.</div>
 </div>
 <div class="col-first odd-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#CHAOJI">CHAOJI</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#CHAOJI">CHAOJI</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The ChaoJi connector.</div>
 </div>
 <div class="col-first even-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#DOMESTIC_A">DOMESTIC_A</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#DOMESTIC_A">DOMESTIC_A</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Standard/Domestic household, type "A", NEMA 1-15, 2 pins.</div>
 </div>
 <div class="col-first odd-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#DOMESTIC_B">DOMESTIC_B</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#DOMESTIC_B">DOMESTIC_B</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Standard/Domestic household, type "B", NEMA 5-15, 3 pins.</div>
 </div>
 <div class="col-first even-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#DOMESTIC_C">DOMESTIC_C</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#DOMESTIC_C">DOMESTIC_C</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Standard/Domestic household, type "C", CEE 7/17, 2 pins.</div>
 </div>
 <div class="col-first odd-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#DOMESTIC_D">DOMESTIC_D</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#DOMESTIC_D">DOMESTIC_D</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Standard/Domestic household, type "D", 3 pin.</div>
 </div>
 <div class="col-first even-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#DOMESTIC_E">DOMESTIC_E</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#DOMESTIC_E">DOMESTIC_E</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Standard/Domestic household, type "E", CEE 7/5 3 pins.</div>
 </div>
 <div class="col-first odd-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#DOMESTIC_F">DOMESTIC_F</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#DOMESTIC_F">DOMESTIC_F</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Standard/Domestic household, type "F", CEE 7/4, Schuko, 3 pins.</div>
 </div>
 <div class="col-first even-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#DOMESTIC_G">DOMESTIC_G</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#DOMESTIC_G">DOMESTIC_G</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Standard/Domestic household, type "G", BS 1363, Commonwealth, 3 pins.</div>
 </div>
 <div class="col-first odd-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#DOMESTIC_H">DOMESTIC_H</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#DOMESTIC_H">DOMESTIC_H</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Standard/Domestic household, type "H", SI-32, 3 pins.</div>
 </div>
 <div class="col-first even-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#DOMESTIC_I">DOMESTIC_I</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#DOMESTIC_I">DOMESTIC_I</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Standard/Domestic household, type "I", AS 3112, 3 pins.</div>
 </div>
 <div class="col-first odd-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#DOMESTIC_J">DOMESTIC_J</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#DOMESTIC_J">DOMESTIC_J</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Standard/Domestic household, type "J", SEV 1011, 3 pins.</div>
 </div>
 <div class="col-first even-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#DOMESTIC_K">DOMESTIC_K</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#DOMESTIC_K">DOMESTIC_K</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Standard/Domestic household, type "K", DS 60884-2-D1, 3 pins.</div>
 </div>
 <div class="col-first odd-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#DOMESTIC_L">DOMESTIC_L</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#DOMESTIC_L">DOMESTIC_L</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Standard/Domestic household, type "L", CEI 23-16-VII, 3 pins.</div>
 </div>
 <div class="col-first even-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#DOMESTIC_M">DOMESTIC_M</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#DOMESTIC_M">DOMESTIC_M</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Standard/Domestic household, type "M", BS 546, 3 pins.</div>
 </div>
 <div class="col-first odd-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#DOMESTIC_N">DOMESTIC_N</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#DOMESTIC_N">DOMESTIC_N</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Standard/Domestic household, type "N", NBR 14136, 3 pins.</div>
 </div>
 <div class="col-first even-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#DOMESTIC_O">DOMESTIC_O</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#DOMESTIC_O">DOMESTIC_O</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Standard/Domestic household, type "O", TIS 166-2549, 3 pins.</div>
 </div>
 <div class="col-first odd-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#GBT_AC">GBT_AC</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#GBT_AC">GBT_AC</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Guobiao GB/T 20234.2 AC socket/connector.</div>
 </div>
 <div class="col-first even-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#GBT_DC">GBT_DC</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#GBT_DC">GBT_DC</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Guobiao GB/T 20234.3 DC connector.</div>
 </div>
 <div class="col-first odd-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#IEC_60309_2_SINGLE_16">IEC_60309_2_SINGLE_16</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#IEC_60309_2_SINGLE_16">IEC_60309_2_SINGLE_16</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">IEC 60309-2 Industrial connector single phase 16 amperes (usually blue).</div>
 </div>
 <div class="col-first even-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#IEC_60309_2_THREE_16">IEC_60309_2_THREE_16</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#IEC_60309_2_THREE_16">IEC_60309_2_THREE_16</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">IEC 60309-2 Industrial connector three phase 16 amperes (usually red).</div>
 </div>
 <div class="col-first odd-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#IEC_60309_2_THREE_32">IEC_60309_2_THREE_32</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#IEC_60309_2_THREE_32">IEC_60309_2_THREE_32</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">IEC 60309-2 Industrial connector three phase 32 amperes (usually red).</div>
 </div>
 <div class="col-first even-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#IEC_60309_2_THREE_64">IEC_60309_2_THREE_64</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#IEC_60309_2_THREE_64">IEC_60309_2_THREE_64</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">IEC 60309-2 Industrial connector three phase 64 amperes (usually red).</div>
 </div>
 <div class="col-first odd-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#IEC_62196_T1">IEC_62196_T1</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#IEC_62196_T1">IEC_62196_T1</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">IEC 62196 Type 1 "SAE J1772".</div>
 </div>
 <div class="col-first even-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#IEC_62196_T1_COMBO">IEC_62196_T1_COMBO</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#IEC_62196_T1_COMBO">IEC_62196_T1_COMBO</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Combo Type 1 based, DC.</div>
 </div>
 <div class="col-first odd-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#IEC_62196_T2">IEC_62196_T2</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#IEC_62196_T2">IEC_62196_T2</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">IEC 62196 Type 2 "Mennekes".</div>
 </div>
 <div class="col-first even-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#IEC_62196_T2_COMBO">IEC_62196_T2_COMBO</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#IEC_62196_T2_COMBO">IEC_62196_T2_COMBO</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Combo Type 2 based, DC.</div>
 </div>
 <div class="col-first odd-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#IEC_62196_T3A">IEC_62196_T3A</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#IEC_62196_T3A">IEC_62196_T3A</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">IEC 62196 Type 3A.</div>
 </div>
 <div class="col-first even-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#IEC_62196_T3C">IEC_62196_T3C</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#IEC_62196_T3C">IEC_62196_T3C</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">IEC 62196 Type 3C "Scame".</div>
 </div>
 <div class="col-first odd-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#MCS">MCS</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#MCS">MCS</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Megawatt Charging System (MCS) connector.</div>
 </div>
 <div class="col-first even-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#NEMA_10_30">NEMA_10_30</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#NEMA_10_30">NEMA_10_30</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">NEMA 10-30, 3 pins.</div>
 </div>
 <div class="col-first odd-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#NEMA_10_50">NEMA_10_50</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#NEMA_10_50">NEMA_10_50</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">NEMA 10-50, 3 pins.</div>
 </div>
 <div class="col-first even-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#NEMA_14_30">NEMA_14_30</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#NEMA_14_30">NEMA_14_30</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">NEMA 14-30, 4 pins.</div>
 </div>
 <div class="col-first odd-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#NEMA_14_50">NEMA_14_50</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#NEMA_14_50">NEMA_14_50</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">NEMA 14-50, 4 pins.</div>
 </div>
 <div class="col-first even-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#NEMA_5_20">NEMA_5_20</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#NEMA_5_20">NEMA_5_20</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">NEMA 5-20, 3 pins.</div>
 </div>
 <div class="col-first odd-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#NEMA_6_30">NEMA_6_30</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#NEMA_6_30">NEMA_6_30</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">NEMA 6-30, 3 pins.</div>
 </div>
 <div class="col-first even-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#NEMA_6_50">NEMA_6_50</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#NEMA_6_50">NEMA_6_50</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">NEMA 6-50, 3 pins.</div>
 </div>
 <div class="col-first odd-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#PANTOGRAPH_BOTTOM_UP">PANTOGRAPH_BOTTOM_UP</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#PANTOGRAPH_BOTTOM_UP">PANTOGRAPH_BOTTOM_UP</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">On-board Bottom-up-Pantograph typically for bus charging.</div>
 </div>
 <div class="col-first even-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#PANTOGRAPH_TOP_DOWN">PANTOGRAPH_TOP_DOWN</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#PANTOGRAPH_TOP_DOWN">PANTOGRAPH_TOP_DOWN</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Top-down-Pantograph typically for bus charging.</div>
 </div>
 <div class="col-first odd-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#SAE_J3400">SAE_J3400</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#SAE_J3400">SAE_J3400</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Tesla connector "Model-S"-type (oval, 5 pin), standardized as NACS SAE J3400.</div>
 </div>
 <div class="col-first even-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#TESLA_R">TESLA_R</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#TESLA_R">TESLA_R</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Tesla connector "Roadster"-type (round, 4 pin).</div>
 </div>
@@ -261,7 +260,7 @@ slug: "sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#%3Cinit%3E()">EVChargingConnectorType</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#%3Cinit%3E()">EVChargingConnectorType</a>()</code></div>
 <div class="col-last even-row-color"> </div>
 </div>
 </section>
@@ -293,7 +292,7 @@ slug: "sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.CHADEMO">Constant Field Values</a></li>
+<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.CHADEMO">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -308,7 +307,7 @@ slug: "sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.CHAOJI">Constant Field Values</a></li>
+<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.CHAOJI">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -323,7 +322,7 @@ slug: "sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_A">Constant Field Values</a></li>
+<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_A">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -338,7 +337,7 @@ slug: "sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_B">Constant Field Values</a></li>
+<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_B">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -353,7 +352,7 @@ slug: "sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_C">Constant Field Values</a></li>
+<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_C">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -368,7 +367,7 @@ slug: "sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_D">Constant Field Values</a></li>
+<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_D">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -383,7 +382,7 @@ slug: "sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_E">Constant Field Values</a></li>
+<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_E">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -398,7 +397,7 @@ slug: "sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_F">Constant Field Values</a></li>
+<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_F">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -413,7 +412,7 @@ slug: "sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_G">Constant Field Values</a></li>
+<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_G">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -428,7 +427,7 @@ slug: "sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_H">Constant Field Values</a></li>
+<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_H">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -443,7 +442,7 @@ slug: "sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_I">Constant Field Values</a></li>
+<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_I">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -458,7 +457,7 @@ slug: "sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_J">Constant Field Values</a></li>
+<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_J">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -473,7 +472,7 @@ slug: "sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_K">Constant Field Values</a></li>
+<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_K">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -488,7 +487,7 @@ slug: "sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_L">Constant Field Values</a></li>
+<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_L">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -503,7 +502,7 @@ slug: "sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_M">Constant Field Values</a></li>
+<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_M">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -518,7 +517,7 @@ slug: "sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_N">Constant Field Values</a></li>
+<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_N">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -533,7 +532,7 @@ slug: "sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_O">Constant Field Values</a></li>
+<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_O">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -548,7 +547,7 @@ slug: "sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.GBT_AC">Constant Field Values</a></li>
+<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.GBT_AC">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -563,7 +562,7 @@ slug: "sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.GBT_DC">Constant Field Values</a></li>
+<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.GBT_DC">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -578,7 +577,7 @@ slug: "sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.IEC_60309_2_SINGLE_16">Constant Field Values</a></li>
+<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.IEC_60309_2_SINGLE_16">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -593,7 +592,7 @@ slug: "sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.IEC_60309_2_THREE_16">Constant Field Values</a></li>
+<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.IEC_60309_2_THREE_16">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -608,7 +607,7 @@ slug: "sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.IEC_60309_2_THREE_32">Constant Field Values</a></li>
+<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.IEC_60309_2_THREE_32">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -623,7 +622,7 @@ slug: "sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.IEC_60309_2_THREE_64">Constant Field Values</a></li>
+<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.IEC_60309_2_THREE_64">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -638,7 +637,7 @@ slug: "sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.IEC_62196_T1">Constant Field Values</a></li>
+<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.IEC_62196_T1">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -653,7 +652,7 @@ slug: "sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.IEC_62196_T1_COMBO">Constant Field Values</a></li>
+<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.IEC_62196_T1_COMBO">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -668,7 +667,7 @@ slug: "sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.IEC_62196_T2">Constant Field Values</a></li>
+<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.IEC_62196_T2">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -683,7 +682,7 @@ slug: "sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.IEC_62196_T2_COMBO">Constant Field Values</a></li>
+<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.IEC_62196_T2_COMBO">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -698,7 +697,7 @@ slug: "sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.IEC_62196_T3A">Constant Field Values</a></li>
+<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.IEC_62196_T3A">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -713,7 +712,7 @@ slug: "sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.IEC_62196_T3C">Constant Field Values</a></li>
+<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.IEC_62196_T3C">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -728,7 +727,7 @@ slug: "sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.NEMA_5_20">Constant Field Values</a></li>
+<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.NEMA_5_20">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -743,7 +742,7 @@ slug: "sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.NEMA_6_30">Constant Field Values</a></li>
+<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.NEMA_6_30">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -758,7 +757,7 @@ slug: "sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.NEMA_6_50">Constant Field Values</a></li>
+<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.NEMA_6_50">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -773,7 +772,7 @@ slug: "sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.NEMA_10_30">Constant Field Values</a></li>
+<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.NEMA_10_30">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -788,7 +787,7 @@ slug: "sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.NEMA_10_50">Constant Field Values</a></li>
+<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.NEMA_10_50">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -803,7 +802,7 @@ slug: "sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.NEMA_14_30">Constant Field Values</a></li>
+<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.NEMA_14_30">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -818,7 +817,7 @@ slug: "sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.NEMA_14_50">Constant Field Values</a></li>
+<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.NEMA_14_50">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -833,7 +832,7 @@ slug: "sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.PANTOGRAPH_BOTTOM_UP">Constant Field Values</a></li>
+<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.PANTOGRAPH_BOTTOM_UP">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -848,7 +847,7 @@ slug: "sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.PANTOGRAPH_TOP_DOWN">Constant Field Values</a></li>
+<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.PANTOGRAPH_TOP_DOWN">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -863,7 +862,7 @@ slug: "sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.TESLA_R">Constant Field Values</a></li>
+<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.TESLA_R">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -878,7 +877,7 @@ slug: "sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.SAE_J3400">Constant Field Values</a></li>
+<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.SAE_J3400">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -893,7 +892,7 @@ slug: "sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.MCS">Constant Field Values</a></li>
+<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.MCS">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>

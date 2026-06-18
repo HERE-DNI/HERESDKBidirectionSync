@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizon
 `
 <div class="sdk-for-android">
 <!-- ElectronicHorizonPosition.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,7 +19,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizon
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.electronichorizon</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-electronichorizon-package-summary">com.here.sdk.electronichorizon</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -30,7 +29,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizon
 <hr/>
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">ElectronicHorizonPosition</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
-<div class="block"><p>Provides a position on an electronic horizon path with a reference to the current item in the <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-electronichorizon" title="class in com.here.sdk.electronichorizon"><code>ElectronicHorizon</code></a>.
+<div class="block"><p>Provides a position on an electronic horizon path with a reference to the current item in the <a href="sdk-for-android-navigate-electronichorizon" title="class in com.here.sdk.electronichorizon"><code>ElectronicHorizon</code></a>.
  </p><p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
  behaviors. Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
@@ -46,17 +45,17 @@ slug: "sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizon
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>int</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#pathIndex">pathIndex</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#pathIndex">pathIndex</a></code></div>
 <div class="col-last even-row-color">
-<div class="block">The index of the current path in the list of <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-electronichorizon#paths"><code>ElectronicHorizon.paths</code></a>.</div>
+<div class="block">The index of the current path in the list of <a href="sdk-for-android-navigate-electronichorizon#paths"><code>ElectronicHorizon.paths</code></a>.</div>
 </div>
 <div class="col-first odd-row-color"><code>int</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#pathSegmentIndex">pathSegmentIndex</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#pathSegmentIndex">pathSegmentIndex</a></code></div>
 <div class="col-last odd-row-color">
-<div class="block">The index of the segment inside the <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-electronichorizonpath#segments"><code>ElectronicHorizonPath.segments</code></a>.</div>
+<div class="block">The index of the segment inside the <a href="sdk-for-android-navigate-electronichorizonpath#segments"><code>ElectronicHorizonPath.segments</code></a>.</div>
 </div>
 <div class="col-first even-row-color"><code>double</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#pathSegmentOffsetInMeters">pathSegmentOffsetInMeters</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#pathSegmentOffsetInMeters">pathSegmentOffsetInMeters</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The offset from the start of the segment in meters.</div>
 </div>
@@ -71,7 +70,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizon
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#%3Cinit%3E(int,int,double)">ElectronicHorizonPosition</a><wbr/>(int pathIndex,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(int,int,double)">ElectronicHorizonPosition</a><wbr/>(int pathIndex,
  int pathSegmentIndex,
  double pathSegmentOffsetInMeters)</code></div>
 <div class="col-last even-row-color">
@@ -92,10 +91,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizon
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 </div>
 </div>
@@ -118,14 +117,14 @@ slug: "sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizon
 <section class="detail" id="pathIndex">
 <h3>pathIndex</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">int</span> <span class="element-name">pathIndex</span></div>
-<div class="block"><p>The index of the current path in the list of <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-electronichorizon#paths"><code>ElectronicHorizon.paths</code></a>.</p></div>
+<div class="block"><p>The index of the current path in the list of <a href="sdk-for-android-navigate-electronichorizon#paths"><code>ElectronicHorizon.paths</code></a>.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="pathSegmentIndex">
 <h3>pathSegmentIndex</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">int</span> <span class="element-name">pathSegmentIndex</span></div>
-<div class="block"><p>The index of the segment inside the <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-electronichorizonpath#segments"><code>ElectronicHorizonPath.segments</code></a>.</p></div>
+<div class="block"><p>The index of the segment inside the <a href="sdk-for-android-navigate-electronichorizonpath#segments"><code>ElectronicHorizonPath.segments</code></a>.</p></div>
 </section>
 </li>
 <li>
@@ -153,8 +152,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizon
  </p><p>Offline availability: This property is available online and offline.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
-<dd><code>pathIndex</code> - <p>The index of the current path in the list of <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-electronichorizon#paths"><code>ElectronicHorizon.paths</code></a>.</p></dd>
-<dd><code>pathSegmentIndex</code> - <p>The index of the segment inside the <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-electronichorizonpath#segments"><code>ElectronicHorizonPath.segments</code></a>.</p></dd>
+<dd><code>pathIndex</code> - <p>The index of the current path in the list of <a href="sdk-for-android-navigate-electronichorizon#paths"><code>ElectronicHorizon.paths</code></a>.</p></dd>
+<dd><code>pathSegmentIndex</code> - <p>The index of the segment inside the <a href="sdk-for-android-navigate-electronichorizonpath#segments"><code>ElectronicHorizonPath.segments</code></a>.</p></dd>
 <dd><code>pathSegmentOffsetInMeters</code> - <p>The offset from the start of the segment in meters.</p></dd>
 </dl>
 </section>

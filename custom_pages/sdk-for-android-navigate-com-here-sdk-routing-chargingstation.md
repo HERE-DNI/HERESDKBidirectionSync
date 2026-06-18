@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-chargingstation"
 `
 <div class="sdk-for-android">
 <!-- ChargingStation.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,7 +19,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-chargingstation"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.routing</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-routing-package-summary">com.here.sdk.routing</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -43,33 +42,33 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-chargingstation"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-nameid" title="class in com.here.sdk.core">NameID</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#brand">brand</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-nameid" title="class in com.here.sdk.core">NameID</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#brand">brand</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Charging station brand.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-nameid" title="class in com.here.sdk.core">NameID</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#chargePointOperator">chargePointOperator</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-nameid" title="class in com.here.sdk.core">NameID</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#chargePointOperator">chargePointOperator</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Charging station charge-point-operator.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-chargingconnectorattributes" title="class in com.here.sdk.routing">ChargingConnectorAttributes</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#connectorAttributes">connectorAttributes</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-chargingconnectorattributes" title="class in com.here.sdk.routing">ChargingConnectorAttributes</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#connectorAttributes">connectorAttributes</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Details of the connector suggested to be used.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#id">id</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#id">id</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Identifier of this charging station.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-nameid" title="class in com.here.sdk.core">NameID</a>&gt;</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#matchingEMobilityServiceProviders">matchingEMobilityServiceProviders</a></code></div>
+<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-nameid" title="class in com.here.sdk.core">NameID</a>&gt;</code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#matchingEMobilityServiceProviders">matchingEMobilityServiceProviders</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">List of matched E-Mobility Service Providers.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#name">name</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#name">name</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Human readable name of this charging station.</div>
 </div>
@@ -84,18 +83,18 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-chargingstation"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#%3Cinit%3E(java.lang.String,java.lang.String,com.here.sdk.routing.ChargingConnectorAttributes)">ChargingStation</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> id,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(java.lang.String,java.lang.String,com.here.sdk.routing.ChargingConnectorAttributes)">ChargingStation</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> id,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-chargingconnectorattributes" title="class in com.here.sdk.routing">ChargingConnectorAttributes</a> connectorAttributes)</code></div>
+ <a href="sdk-for-android-navigate-chargingconnectorattributes" title="class in com.here.sdk.routing">ChargingConnectorAttributes</a> connectorAttributes)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#%3Cinit%3E(java.lang.String,java.lang.String,com.here.sdk.routing.ChargingConnectorAttributes,com.here.sdk.core.NameID,com.here.sdk.core.NameID,java.util.List)">ChargingStation</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> id,
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(java.lang.String,java.lang.String,com.here.sdk.routing.ChargingConnectorAttributes,com.here.sdk.core.NameID,com.here.sdk.core.NameID,java.util.List)">ChargingStation</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> id,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-chargingconnectorattributes" title="class in com.here.sdk.routing">ChargingConnectorAttributes</a> connectorAttributes,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-nameid" title="class in com.here.sdk.core">NameID</a> brand,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-nameid" title="class in com.here.sdk.core">NameID</a> chargePointOperator,
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-nameid" title="class in com.here.sdk.core">NameID</a>&gt; matchingEMobilityServiceProviders)</code></div>
+ <a href="sdk-for-android-navigate-chargingconnectorattributes" title="class in com.here.sdk.routing">ChargingConnectorAttributes</a> connectorAttributes,
+ <a href="sdk-for-android-navigate-nameid" title="class in com.here.sdk.core">NameID</a> brand,
+ <a href="sdk-for-android-navigate-nameid" title="class in com.here.sdk.core">NameID</a> chargePointOperator,
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-nameid" title="class in com.here.sdk.core">NameID</a>&gt; matchingEMobilityServiceProviders)</code></div>
 <div class="col-last odd-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -114,10 +113,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-chargingstation"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 </div>
 </div>
@@ -159,7 +158,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-chargingstation"
 <section class="detail" id="connectorAttributes">
 <h3>connectorAttributes</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-chargingconnectorattributes" title="class in com.here.sdk.routing">ChargingConnectorAttributes</a></span> <span class="element-name">connectorAttributes</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-chargingconnectorattributes" title="class in com.here.sdk.routing">ChargingConnectorAttributes</a></span> <span class="element-name">connectorAttributes</span></div>
 <div class="block"><p>Details of the connector suggested to be used.</p></div>
 </section>
 </li>
@@ -167,33 +166,33 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-chargingstation"
 <section class="detail" id="brand">
 <h3>brand</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-nameid" title="class in com.here.sdk.core">NameID</a></span> <span class="element-name">brand</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-nameid" title="class in com.here.sdk.core">NameID</a></span> <span class="element-name">brand</span></div>
 <div class="block"><p>Charging station brand.
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-brand-nameid#name"><code>NameID.name</code></a> reflect to charging station brand name.
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-name-nameid#id"><code>NameID.id</code></a> reflect to charging station brand unique ID.</p></div>
+ <a href="sdk-for-android-navigate-nameid#name"><code>NameID.name</code></a> reflect to charging station brand name.
+ <a href="sdk-for-android-navigate-nameid#id"><code>NameID.id</code></a> reflect to charging station brand unique ID.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="chargePointOperator">
 <h3>chargePointOperator</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-nameid" title="class in com.here.sdk.core">NameID</a></span> <span class="element-name">chargePointOperator</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-nameid" title="class in com.here.sdk.core">NameID</a></span> <span class="element-name">chargePointOperator</span></div>
 <div class="block"><p>Charging station charge-point-operator.
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-operator-nameid#name"><code>NameID.name</code></a> reflect to charge-point-operator name.
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-name-nameid#id"><code>NameID.id</code></a> reflect to charge-point-operator ID.</p></div>
+ <a href="sdk-for-android-navigate-nameid#name"><code>NameID.name</code></a> reflect to charge-point-operator name.
+ <a href="sdk-for-android-navigate-nameid#id"><code>NameID.id</code></a> reflect to charge-point-operator ID.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="matchingEMobilityServiceProviders">
 <h3>matchingEMobilityServiceProviders</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-nameid" title="class in com.here.sdk.core">NameID</a>&gt;</span> <span class="element-name">matchingEMobilityServiceProviders</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-nameid" title="class in com.here.sdk.core">NameID</a>&gt;</span> <span class="element-name">matchingEMobilityServiceProviders</span></div>
 <div class="block"><p>List of matched E-Mobility Service Providers.
- Populated only when <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-electricvehicleoptions#evMobilityServiceProviderPreferences"><code>ElectricVehicleOptions.evMobilityServiceProviderPreferences</code></a> was set.
+ Populated only when <a href="sdk-for-android-navigate-electricvehicleoptions#evMobilityServiceProviderPreferences"><code>ElectricVehicleOptions.evMobilityServiceProviderPreferences</code></a> was set.
  This list reflects the subset of E-Mobility Service Providers supported by the charging station,
- from the list specified in the request parameter <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-electricvehicleoptions#evMobilityServiceProviderPreferences"><code>ElectricVehicleOptions.evMobilityServiceProviderPreferences</code></a>.
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-nameid#name"><code>NameID.name</code></a> in each list item reflect to E-Mobility Service Provider name.
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-name-nameid#id"><code>NameID.id</code></a> in each list item reflect to E-Mobility Service Provider id.</p></div>
+ from the list specified in the request parameter <a href="sdk-for-android-navigate-electricvehicleoptions#evMobilityServiceProviderPreferences"><code>ElectricVehicleOptions.evMobilityServiceProviderPreferences</code></a>.
+ <a href="sdk-for-android-navigate-nameid#name"><code>NameID.name</code></a> in each list item reflect to E-Mobility Service Provider name.
+ <a href="sdk-for-android-navigate-nameid#id"><code>NameID.id</code></a> in each list item reflect to E-Mobility Service Provider id.</p></div>
 </section>
 </li>
 </ul>
@@ -212,7 +211,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-chargingstation"
  @Nullable
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name,
  @Nullable
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-chargingconnectorattributes" title="class in com.here.sdk.routing">ChargingConnectorAttributes</a> connectorAttributes)</span></div>
+ <a href="sdk-for-android-navigate-chargingconnectorattributes" title="class in com.here.sdk.routing">ChargingConnectorAttributes</a> connectorAttributes)</span></div>
 <div class="block"><p>Creates a new instance.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -233,13 +232,13 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-chargingstation"
  @Nullable
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name,
  @Nullable
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-chargingconnectorattributes" title="class in com.here.sdk.routing">ChargingConnectorAttributes</a> connectorAttributes,
+ <a href="sdk-for-android-navigate-chargingconnectorattributes" title="class in com.here.sdk.routing">ChargingConnectorAttributes</a> connectorAttributes,
  @Nullable
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-nameid" title="class in com.here.sdk.core">NameID</a> brand,
+ <a href="sdk-for-android-navigate-nameid" title="class in com.here.sdk.core">NameID</a> brand,
  @Nullable
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-nameid" title="class in com.here.sdk.core">NameID</a> chargePointOperator,
+ <a href="sdk-for-android-navigate-nameid" title="class in com.here.sdk.core">NameID</a> chargePointOperator,
  @NonNull
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-nameid" title="class in com.here.sdk.core">NameID</a>&gt; matchingEMobilityServiceProviders)</span></div>
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-nameid" title="class in com.here.sdk.core">NameID</a>&gt; matchingEMobilityServiceProviders)</span></div>
 <div class="block"><p>Creates a new instance.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -250,17 +249,17 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-chargingstation"
  name associated with the station.</p></dd>
 <dd><code>connectorAttributes</code> - <p>Details of the connector suggested to be used.</p></dd>
 <dd><code>brand</code> - <p>Charging station brand.
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-brand-nameid#name"><code>NameID.name</code></a> reflect to charging station brand name.
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-name-nameid#id"><code>NameID.id</code></a> reflect to charging station brand unique ID.</p></dd>
+ <a href="sdk-for-android-navigate-nameid#name"><code>NameID.name</code></a> reflect to charging station brand name.
+ <a href="sdk-for-android-navigate-nameid#id"><code>NameID.id</code></a> reflect to charging station brand unique ID.</p></dd>
 <dd><code>chargePointOperator</code> - <p>Charging station charge-point-operator.
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-operator-nameid#name"><code>NameID.name</code></a> reflect to charge-point-operator name.
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-name-nameid#id"><code>NameID.id</code></a> reflect to charge-point-operator ID.</p></dd>
+ <a href="sdk-for-android-navigate-nameid#name"><code>NameID.name</code></a> reflect to charge-point-operator name.
+ <a href="sdk-for-android-navigate-nameid#id"><code>NameID.id</code></a> reflect to charge-point-operator ID.</p></dd>
 <dd><code>matchingEMobilityServiceProviders</code> - <p>List of matched E-Mobility Service Providers.
- Populated only when <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-electricvehicleoptions#evMobilityServiceProviderPreferences"><code>ElectricVehicleOptions.evMobilityServiceProviderPreferences</code></a> was set.
+ Populated only when <a href="sdk-for-android-navigate-electricvehicleoptions#evMobilityServiceProviderPreferences"><code>ElectricVehicleOptions.evMobilityServiceProviderPreferences</code></a> was set.
  This list reflects the subset of E-Mobility Service Providers supported by the charging station,
- from the list specified in the request parameter <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-electricvehicleoptions#evMobilityServiceProviderPreferences"><code>ElectricVehicleOptions.evMobilityServiceProviderPreferences</code></a>.
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-nameid#name"><code>NameID.name</code></a> in each list item reflect to E-Mobility Service Provider name.
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-name-nameid#id"><code>NameID.id</code></a> in each list item reflect to E-Mobility Service Provider id.</p></dd>
+ from the list specified in the request parameter <a href="sdk-for-android-navigate-electricvehicleoptions#evMobilityServiceProviderPreferences"><code>ElectricVehicleOptions.evMobilityServiceProviderPreferences</code></a>.
+ <a href="sdk-for-android-navigate-nameid#name"><code>NameID.name</code></a> in each list item reflect to E-Mobility Service Provider name.
+ <a href="sdk-for-android-navigate-nameid#id"><code>NameID.id</code></a> in each list item reflect to E-Mobility Service Provider id.</p></dd>
 </dl>
 </section>
 </li>

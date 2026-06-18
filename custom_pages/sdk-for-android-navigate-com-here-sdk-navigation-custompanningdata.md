@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-custompanningdata"
 `
 <div class="sdk-for-android">
 <!-- CustomPanningData.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,7 +19,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-custompanningdata"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.navigation</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-navigation-package-summary">com.here.sdk.navigation</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -34,7 +33,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-custompanningdata"
  a new estimated audio cue duration, and a new set of initial and sweep angular angle,
  allowing the customization of the spatial audio trajectories for any type of notification,
  such as speed or merge warners, maneuvers or even roundabouts notifications.
- The orientation in space for <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#initialAzimuthInDegrees"><code>initialAzimuthInDegrees</code></a> and <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#sweepAzimuthInDegrees"><code>sweepAzimuthInDegrees</code></a> can
+ The orientation in space for <a href="sdk-for-android-navigate-index#initialAzimuthInDegrees"><code>initialAzimuthInDegrees</code></a> and <a href="sdk-for-android-navigate-index#sweepAzimuthInDegrees"><code>sweepAzimuthInDegrees</code></a> can
  be represented by the following angular values:
  <table>
 <thead>
@@ -44,7 +43,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-custompanningdata"
 <tr><td align="center">0°</td><td align="center">+90°</td><td align="center">+- 180</td><td align="center">-90°</td></tr>
 </tbody>
 </table>
-</p><p>When any of the members of <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-custompanningdata" title="class in com.here.sdk.navigation"><code>CustomPanningData</code></a> are initialized as null, the default value
+</p><p>When any of the members of <a href="sdk-for-android-navigate-custompanningdata" title="class in com.here.sdk.navigation"><code>CustomPanningData</code></a> are initialized as null, the default value
  provided by HERE SDK will be used instead.
  The audio cue is spatialized considering the action of both maneuvers, for example,
  the audio cue 'Now turn right and then turn left' will be spatialized as following:
@@ -64,18 +63,18 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-custompanningdata"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#estimatedAudioCueDuration">estimatedAudioCueDuration</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#estimatedAudioCueDuration">estimatedAudioCueDuration</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Customized estimated duration for playing the audio cue on the selected TTS Engine.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#initialAzimuthInDegrees">initialAzimuthInDegrees</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#initialAzimuthInDegrees">initialAzimuthInDegrees</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Initial desired angular position of the upcoming audio cue.</div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#sweepAzimuthInDegrees">sweepAzimuthInDegrees</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#sweepAzimuthInDegrees">sweepAzimuthInDegrees</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Sweep angle of the upcoming audio cue.</div>
 </div>
@@ -90,7 +89,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-custompanningdata"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#%3Cinit%3E(com.here.time.Duration,java.lang.Double,java.lang.Double)">CustomPanningData</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a> estimatedAudioCueDuration,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.time.Duration,java.lang.Double,java.lang.Double)">CustomPanningData</a><wbr/>(<a href="sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a> estimatedAudioCueDuration,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a> initialAzimuthInDegrees,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a> sweepAzimuthInDegrees)</code></div>
 <div class="col-last even-row-color">
@@ -111,10 +110,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-custompanningdata"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 </div>
 </div>
@@ -137,7 +136,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-custompanningdata"
 <section class="detail" id="estimatedAudioCueDuration">
 <h3>estimatedAudioCueDuration</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">estimatedAudioCueDuration</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">estimatedAudioCueDuration</span></div>
 <div class="block"><p>Customized estimated duration for playing the audio cue on the selected TTS Engine.
  When not used, HERE SDK's estimation will be used instead.</p></div>
 </section>
@@ -186,7 +185,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-custompanningdata"
 <section class="detail" id="&lt;init&gt;(com.here.time.Duration,java.lang.Double,java.lang.Double)">
 <h3>CustomPanningData</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">CustomPanningData</span><wbr/><span class="parameters">(@Nullable
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a> estimatedAudioCueDuration,
+ <a href="sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a> estimatedAudioCueDuration,
  @Nullable
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a> initialAzimuthInDegrees,
  @Nullable

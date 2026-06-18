@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-location-locationissuelistener"
 `
 <div class="sdk-for-android">
 <!-- LocationIssueListener.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,7 +19,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-location-locationissuelistener"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.location</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-location-package-summary">com.here.sdk.location</a></div>
 
 </div>
 <section class="class-description" id="class-description">
@@ -52,7 +51,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-location-locationissuelistener"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#onLocationIssueChanged(java.util.List)">onLocationIssueChanged</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-locationissuetype" title="enum class in com.here.sdk.location">LocationIssueType</a>&gt; issues)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onLocationIssueChanged(java.util.List)">onLocationIssueChanged</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-locationissuetype" title="enum class in com.here.sdk.location">LocationIssueType</a>&gt; issues)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Called when the snapshot of currently active location issues changes.</div>
 </div>
@@ -74,7 +73,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-location-locationissuelistener"
 <section class="detail" id="onLocationIssueChanged(java.util.List)">
 <h3>onLocationIssueChanged</h3>
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">onLocationIssueChanged</span><wbr/><span class="parameters">(@NonNull
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-locationissuetype" title="enum class in com.here.sdk.location">LocationIssueType</a>&gt; issues)</span></div>
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-locationissuetype" title="enum class in com.here.sdk.location">LocationIssueType</a>&gt; issues)</span></div>
 <div class="block"><p>Called when the snapshot of currently active location issues changes.
  </p><p>Invoked whenever the LocationEngine detects a change in the set of active issues,
  including when all issues clear (empty list). Replace any previously stored issue

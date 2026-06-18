@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-location-locationissuetype"
 `
 <div class="sdk-for-android">
 <!-- LocationIssueType.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,22 +19,22 @@ slug: "sdk-for-android-navigate-com-here-sdk-location-locationissuetype"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.location</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-location-package-summary">com.here.sdk.location</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">java.lang.Enum</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-locationissuetype" title="enum class in com.here.sdk.location">LocationIssueType</a>&gt;
+<div class="inheritance"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">java.lang.Enum</a>&lt;<a href="sdk-for-android-navigate-locationissuetype" title="enum class in com.here.sdk.location">LocationIssueType</a>&gt;
 <div class="inheritance">com.here.sdk.location.LocationIssueType</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>All Implemented Interfaces:</dt>
-<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" title="class or interface in java.io">Serializable</a></code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" title="class or interface in java.lang">Comparable</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-locationissuetype" title="enum class in com.here.sdk.location">LocationIssueType</a>&gt;</code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" title="class or interface in java.lang.constant">Constable</a></code></dd>
+<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" title="class or interface in java.io">Serializable</a></code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" title="class or interface in java.lang">Comparable</a>&lt;<a href="sdk-for-android-navigate-locationissuetype" title="enum class in com.here.sdk.location">LocationIssueType</a>&gt;</code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" title="class or interface in java.lang.constant">Constable</a></code></dd>
 </dl>
 <hr/>
 <div class="type-signature"><span class="modifiers">public enum </span><span class="element-name type-name-label">LocationIssueType</span>
-<span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-locationissuetype" title="enum class in com.here.sdk.location">LocationIssueType</a>&gt;</span></div>
+<span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a href="sdk-for-android-navigate-locationissuetype" title="enum class in com.here.sdk.location">LocationIssueType</a>&gt;</span></div>
 <div class="block"><p>Represents specific issues affecting location retrieval quality, availability, or functionality.
  <ul>
 <li>Issues are detected automatically by the positioning system and reported via
@@ -64,59 +63,59 @@ slug: "sdk-for-android-navigate-com-here-sdk-location-locationissuetype"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Enum Constant</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#FEATURE_NOT_INCLUDED">FEATURE_NOT_INCLUDED</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#FEATURE_NOT_INCLUDED">FEATURE_NOT_INCLUDED</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Requested feature not available for the used license.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#FEATURE_NOT_LICENSED">FEATURE_NOT_LICENSED</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#FEATURE_NOT_LICENSED">FEATURE_NOT_LICENSED</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Requested feature requires a valid license (missing or expired).</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#HDGNSS_CONNECTION_NOT_AVAILABLE">HDGNSS_CONNECTION_NOT_AVAILABLE</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#HDGNSS_CONNECTION_NOT_AVAILABLE">HDGNSS_CONNECTION_NOT_AVAILABLE</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Network connection to HD GNSS assistance server is unavailable.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#HDGNSS_DEGRADED_MEASUREMENT_QUALITY">HDGNSS_DEGRADED_MEASUREMENT_QUALITY</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#HDGNSS_DEGRADED_MEASUREMENT_QUALITY">HDGNSS_DEGRADED_MEASUREMENT_QUALITY</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Satellite measurement quality is degraded; HD GNSS accuracy level may not be achieved.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#HDGNSS_DEVICE_NOT_SUPPORTED">HDGNSS_DEVICE_NOT_SUPPORTED</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#HDGNSS_DEVICE_NOT_SUPPORTED">HDGNSS_DEVICE_NOT_SUPPORTED</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Device hardware does not support HD GNSS positioning capabilities.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#HDGNSS_INSUFFICIENT_MEASUREMENT_QUALITY">HDGNSS_INSUFFICIENT_MEASUREMENT_QUALITY</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#HDGNSS_INSUFFICIENT_MEASUREMENT_QUALITY">HDGNSS_INSUFFICIENT_MEASUREMENT_QUALITY</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Satellite measurement quality is insufficient to achieve HD GNSS accuracy level.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#HDGNSS_OS_VERSION_NOT_SUPPORTED">HDGNSS_OS_VERSION_NOT_SUPPORTED</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#HDGNSS_OS_VERSION_NOT_SUPPORTED">HDGNSS_OS_VERSION_NOT_SUPPORTED</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Operating system version is below minimum required for HD GNSS (Android 12+).</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#HDGNSS_POS_EXTRAPOLATED">HDGNSS_POS_EXTRAPOLATED</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#HDGNSS_POS_EXTRAPOLATED">HDGNSS_POS_EXTRAPOLATED</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Hd gnss position was calculated by extrapolation.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#POSITION_CELL_SCAN_ERROR">POSITION_CELL_SCAN_ERROR</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#POSITION_CELL_SCAN_ERROR">POSITION_CELL_SCAN_ERROR</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Failed to scan for cellular network signals.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#POSITION_NO_CELL_MEASUREMENTS">POSITION_NO_CELL_MEASUREMENTS</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#POSITION_NO_CELL_MEASUREMENTS">POSITION_NO_CELL_MEASUREMENTS</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">No usable cellular network signal measurements available for positioning.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#POSITION_NO_WLAN_MEASUREMENTS">POSITION_NO_WLAN_MEASUREMENTS</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#POSITION_NO_WLAN_MEASUREMENTS">POSITION_NO_WLAN_MEASUREMENTS</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">No usable Wi-Fi network signal measurements available for positioning.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#POSITION_NOT_FOUND">POSITION_NOT_FOUND</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#POSITION_NOT_FOUND">POSITION_NOT_FOUND</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Unable to determine position from available positioning sources.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#POSITION_WLAN_SCAN_ERROR">POSITION_WLAN_SCAN_ERROR</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#POSITION_WLAN_SCAN_ERROR">POSITION_WLAN_SCAN_ERROR</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Failed to scan for Wi-Fi network signals.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#SENSOR_POSITIONING_NOT_AVAILABLE">SENSOR_POSITIONING_NOT_AVAILABLE</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#SENSOR_POSITIONING_NOT_AVAILABLE">SENSOR_POSITIONING_NOT_AVAILABLE</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Device sensors required for sensor fusion positioning are unavailable.</div>
 </div>
@@ -134,13 +133,13 @@ slug: "sdk-for-android-navigate-com-here-sdk-location-locationissuetype"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-locationissuetype" title="enum class in com.here.sdk.location">LocationIssueType</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-locationissuetype" title="enum class in com.here.sdk.location">LocationIssueType</a></code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-locationissuetype" title="enum class in com.here.sdk.location">LocationIssueType</a>[]</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#values()">values</a>()</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-locationissuetype" title="enum class in com.here.sdk.location">LocationIssueType</a>[]</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
@@ -168,98 +167,98 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="HDGNSS_DEVICE_NOT_SUPPORTED">
 <h3>HDGNSS_DEVICE_NOT_SUPPORTED</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-locationissuetype" title="enum class in com.here.sdk.location">LocationIssueType</a></span> <span class="element-name">HDGNSS_DEVICE_NOT_SUPPORTED</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-locationissuetype" title="enum class in com.here.sdk.location">LocationIssueType</a></span> <span class="element-name">HDGNSS_DEVICE_NOT_SUPPORTED</span></div>
 <div class="block"><p>Device hardware does not support HD GNSS positioning capabilities.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="HDGNSS_OS_VERSION_NOT_SUPPORTED">
 <h3>HDGNSS_OS_VERSION_NOT_SUPPORTED</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-locationissuetype" title="enum class in com.here.sdk.location">LocationIssueType</a></span> <span class="element-name">HDGNSS_OS_VERSION_NOT_SUPPORTED</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-locationissuetype" title="enum class in com.here.sdk.location">LocationIssueType</a></span> <span class="element-name">HDGNSS_OS_VERSION_NOT_SUPPORTED</span></div>
 <div class="block"><p>Operating system version is below minimum required for HD GNSS (Android 12+).</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="HDGNSS_CONNECTION_NOT_AVAILABLE">
 <h3>HDGNSS_CONNECTION_NOT_AVAILABLE</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-locationissuetype" title="enum class in com.here.sdk.location">LocationIssueType</a></span> <span class="element-name">HDGNSS_CONNECTION_NOT_AVAILABLE</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-locationissuetype" title="enum class in com.here.sdk.location">LocationIssueType</a></span> <span class="element-name">HDGNSS_CONNECTION_NOT_AVAILABLE</span></div>
 <div class="block"><p>Network connection to HD GNSS assistance server is unavailable.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="HDGNSS_DEGRADED_MEASUREMENT_QUALITY">
 <h3>HDGNSS_DEGRADED_MEASUREMENT_QUALITY</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-locationissuetype" title="enum class in com.here.sdk.location">LocationIssueType</a></span> <span class="element-name">HDGNSS_DEGRADED_MEASUREMENT_QUALITY</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-locationissuetype" title="enum class in com.here.sdk.location">LocationIssueType</a></span> <span class="element-name">HDGNSS_DEGRADED_MEASUREMENT_QUALITY</span></div>
 <div class="block"><p>Satellite measurement quality is degraded; HD GNSS accuracy level may not be achieved.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="HDGNSS_INSUFFICIENT_MEASUREMENT_QUALITY">
 <h3>HDGNSS_INSUFFICIENT_MEASUREMENT_QUALITY</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-locationissuetype" title="enum class in com.here.sdk.location">LocationIssueType</a></span> <span class="element-name">HDGNSS_INSUFFICIENT_MEASUREMENT_QUALITY</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-locationissuetype" title="enum class in com.here.sdk.location">LocationIssueType</a></span> <span class="element-name">HDGNSS_INSUFFICIENT_MEASUREMENT_QUALITY</span></div>
 <div class="block"><p>Satellite measurement quality is insufficient to achieve HD GNSS accuracy level.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="FEATURE_NOT_LICENSED">
 <h3>FEATURE_NOT_LICENSED</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-locationissuetype" title="enum class in com.here.sdk.location">LocationIssueType</a></span> <span class="element-name">FEATURE_NOT_LICENSED</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-locationissuetype" title="enum class in com.here.sdk.location">LocationIssueType</a></span> <span class="element-name">FEATURE_NOT_LICENSED</span></div>
 <div class="block"><p>Requested feature requires a valid license (missing or expired).</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="FEATURE_NOT_INCLUDED">
 <h3>FEATURE_NOT_INCLUDED</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-locationissuetype" title="enum class in com.here.sdk.location">LocationIssueType</a></span> <span class="element-name">FEATURE_NOT_INCLUDED</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-locationissuetype" title="enum class in com.here.sdk.location">LocationIssueType</a></span> <span class="element-name">FEATURE_NOT_INCLUDED</span></div>
 <div class="block"><p>Requested feature not available for the used license.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="SENSOR_POSITIONING_NOT_AVAILABLE">
 <h3>SENSOR_POSITIONING_NOT_AVAILABLE</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-locationissuetype" title="enum class in com.here.sdk.location">LocationIssueType</a></span> <span class="element-name">SENSOR_POSITIONING_NOT_AVAILABLE</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-locationissuetype" title="enum class in com.here.sdk.location">LocationIssueType</a></span> <span class="element-name">SENSOR_POSITIONING_NOT_AVAILABLE</span></div>
 <div class="block"><p>Device sensors required for sensor fusion positioning are unavailable.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="POSITION_NOT_FOUND">
 <h3>POSITION_NOT_FOUND</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-locationissuetype" title="enum class in com.here.sdk.location">LocationIssueType</a></span> <span class="element-name">POSITION_NOT_FOUND</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-locationissuetype" title="enum class in com.here.sdk.location">LocationIssueType</a></span> <span class="element-name">POSITION_NOT_FOUND</span></div>
 <div class="block"><p>Unable to determine position from available positioning sources.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="POSITION_NO_CELL_MEASUREMENTS">
 <h3>POSITION_NO_CELL_MEASUREMENTS</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-locationissuetype" title="enum class in com.here.sdk.location">LocationIssueType</a></span> <span class="element-name">POSITION_NO_CELL_MEASUREMENTS</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-locationissuetype" title="enum class in com.here.sdk.location">LocationIssueType</a></span> <span class="element-name">POSITION_NO_CELL_MEASUREMENTS</span></div>
 <div class="block"><p>No usable cellular network signal measurements available for positioning.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="POSITION_NO_WLAN_MEASUREMENTS">
 <h3>POSITION_NO_WLAN_MEASUREMENTS</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-locationissuetype" title="enum class in com.here.sdk.location">LocationIssueType</a></span> <span class="element-name">POSITION_NO_WLAN_MEASUREMENTS</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-locationissuetype" title="enum class in com.here.sdk.location">LocationIssueType</a></span> <span class="element-name">POSITION_NO_WLAN_MEASUREMENTS</span></div>
 <div class="block"><p>No usable Wi-Fi network signal measurements available for positioning.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="POSITION_CELL_SCAN_ERROR">
 <h3>POSITION_CELL_SCAN_ERROR</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-locationissuetype" title="enum class in com.here.sdk.location">LocationIssueType</a></span> <span class="element-name">POSITION_CELL_SCAN_ERROR</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-locationissuetype" title="enum class in com.here.sdk.location">LocationIssueType</a></span> <span class="element-name">POSITION_CELL_SCAN_ERROR</span></div>
 <div class="block"><p>Failed to scan for cellular network signals.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="POSITION_WLAN_SCAN_ERROR">
 <h3>POSITION_WLAN_SCAN_ERROR</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-locationissuetype" title="enum class in com.here.sdk.location">LocationIssueType</a></span> <span class="element-name">POSITION_WLAN_SCAN_ERROR</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-locationissuetype" title="enum class in com.here.sdk.location">LocationIssueType</a></span> <span class="element-name">POSITION_WLAN_SCAN_ERROR</span></div>
 <div class="block"><p>Failed to scan for Wi-Fi network signals.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="HDGNSS_POS_EXTRAPOLATED">
 <h3>HDGNSS_POS_EXTRAPOLATED</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-locationissuetype" title="enum class in com.here.sdk.location">LocationIssueType</a></span> <span class="element-name">HDGNSS_POS_EXTRAPOLATED</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-locationissuetype" title="enum class in com.here.sdk.location">LocationIssueType</a></span> <span class="element-name">HDGNSS_POS_EXTRAPOLATED</span></div>
 <div class="block"><p>Hd gnss position was calculated by extrapolation.</p></div>
 </section>
 </li>
@@ -274,7 +273,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="values()">
 <h3>values</h3>
-<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-locationissuetype" title="enum class in com.here.sdk.location">LocationIssueType</a>[]</span> <span class="element-name">values</span>()</div>
+<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-navigate-locationissuetype" title="enum class in com.here.sdk.location">LocationIssueType</a>[]</span> <span class="element-name">values</span>()</div>
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
 <dl class="notes">
@@ -286,7 +285,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="valueOf(java.lang.String)">
 <h3>valueOf</h3>
-<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-locationissuetype" title="enum class in com.here.sdk.location">LocationIssueType</a></span> <span class="element-name">valueOf</span><wbr/><span class="parameters">(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</span></div>
+<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-navigate-locationissuetype" title="enum class in com.here.sdk.location">LocationIssueType</a></span> <span class="element-name">valueOf</span><wbr/><span class="parameters">(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</span></div>
 <div class="block">Returns the enum constant of this class with the specified name.
 The string must match <i>exactly</i> an identifier used to declare an
 enum constant in this class.  (Extraneous whitespace characters are 

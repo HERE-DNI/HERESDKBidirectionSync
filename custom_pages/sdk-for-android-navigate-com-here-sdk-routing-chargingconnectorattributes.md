@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-chargingconnectorattributes
 `
 <div class="sdk-for-android">
 <!-- ChargingConnectorAttributes.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,7 +19,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-chargingconnectorattributes
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.routing</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-routing-package-summary">com.here.sdk.routing</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -31,7 +30,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-chargingconnectorattributes
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">ChargingConnectorAttributes</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
 <div class="block"><p>Details of the connector that is suggested to be used in the section's
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-postaction" title="class in com.here.sdk.routing"><code>PostAction</code></a>'s for charging.</p></div>
+ <a href="sdk-for-android-navigate-postaction" title="class in com.here.sdk.routing"><code>PostAction</code></a>'s for charging.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -44,28 +43,28 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-chargingconnectorattributes
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-chargingconnectortype" title="enum class in com.here.sdk.routing">ChargingConnectorType</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#connectorType">connectorType</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-chargingconnectortype" title="enum class in com.here.sdk.routing">ChargingConnectorType</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#connectorType">connectorType</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Suggested connector for charging at this station.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#currentInAmperes">currentInAmperes</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#currentInAmperes">currentInAmperes</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Current of the suggested connector in Amperes.</div>
 </div>
 <div class="col-first even-row-color"><code>double</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#powerInKilowatts">powerInKilowatts</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#powerInKilowatts">powerInKilowatts</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Power supplied by the suggested connector in kW.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-chargingsupplytype" title="enum class in com.here.sdk.routing">ChargingSupplyType</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#supplyType">supplyType</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-chargingsupplytype" title="enum class in com.here.sdk.routing">ChargingSupplyType</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#supplyType">supplyType</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Supply type of the suggested connector.</div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#voltageInVolts">voltageInVolts</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#voltageInVolts">voltageInVolts</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Voltage of the suggested connector in Volts.</div>
 </div>
@@ -80,11 +79,11 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-chargingconnectorattributes
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#%3Cinit%3E(double,java.lang.Double,java.lang.Double,com.here.sdk.routing.ChargingSupplyType,com.here.sdk.routing.ChargingConnectorType)">ChargingConnectorAttributes</a><wbr/>(double powerInKilowatts,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(double,java.lang.Double,java.lang.Double,com.here.sdk.routing.ChargingSupplyType,com.here.sdk.routing.ChargingConnectorType)">ChargingConnectorAttributes</a><wbr/>(double powerInKilowatts,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a> currentInAmperes,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a> voltageInVolts,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-chargingsupplytype" title="enum class in com.here.sdk.routing">ChargingSupplyType</a> supplyType,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-chargingconnectortype" title="enum class in com.here.sdk.routing">ChargingConnectorType</a> connectorType)</code></div>
+ <a href="sdk-for-android-navigate-chargingsupplytype" title="enum class in com.here.sdk.routing">ChargingSupplyType</a> supplyType,
+ <a href="sdk-for-android-navigate-chargingconnectortype" title="enum class in com.here.sdk.routing">ChargingConnectorType</a> connectorType)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -103,10 +102,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-chargingconnectorattributes
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 </div>
 </div>
@@ -152,7 +151,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-chargingconnectorattributes
 <section class="detail" id="supplyType">
 <h3>supplyType</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-chargingsupplytype" title="enum class in com.here.sdk.routing">ChargingSupplyType</a></span> <span class="element-name">supplyType</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-chargingsupplytype" title="enum class in com.here.sdk.routing">ChargingSupplyType</a></span> <span class="element-name">supplyType</span></div>
 <div class="block"><p>Supply type of the suggested connector.</p></div>
 </section>
 </li>
@@ -160,7 +159,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-chargingconnectorattributes
 <section class="detail" id="connectorType">
 <h3>connectorType</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-chargingconnectortype" title="enum class in com.here.sdk.routing">ChargingConnectorType</a></span> <span class="element-name">connectorType</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-chargingconnectortype" title="enum class in com.here.sdk.routing">ChargingConnectorType</a></span> <span class="element-name">connectorType</span></div>
 <div class="block"><p>Suggested connector for charging at this station.</p></div>
 </section>
 </li>
@@ -181,9 +180,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-chargingconnectorattributes
  @Nullable
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a> voltageInVolts,
  @Nullable
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-chargingsupplytype" title="enum class in com.here.sdk.routing">ChargingSupplyType</a> supplyType,
+ <a href="sdk-for-android-navigate-chargingsupplytype" title="enum class in com.here.sdk.routing">ChargingSupplyType</a> supplyType,
  @Nullable
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-chargingconnectortype" title="enum class in com.here.sdk.routing">ChargingConnectorType</a> connectorType)</span></div>
+ <a href="sdk-for-android-navigate-chargingconnectortype" title="enum class in com.here.sdk.routing">ChargingConnectorType</a> connectorType)</span></div>
 <div class="block"><p>Creates a new instance.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

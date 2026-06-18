@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-datasource-pointdatasource-
 `
 <div class="sdk-for-android">
 <!-- PointDataSource.PointDataProcessor.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,13 +19,13 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-datasource-pointdatasource-
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.mapview.datasource</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-package-summary">com.here.sdk.mapview.datasource</a></div>
 
 </div>
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>Enclosing class:</dt>
-<dd><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-pointdatasource" title="class in com.here.sdk.mapview.datasource">PointDataSource</a></dd>
+<dd><a href="sdk-for-android-navigate-pointdatasource" title="class in com.here.sdk.mapview.datasource">PointDataSource</a></dd>
 </dl>
 <dl class="notes">
 <dt>Functional Interface:</dt>
@@ -51,7 +50,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-datasource-pointdatasource-
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#process(com.here.sdk.mapview.datasource.PointDataAccessor)">process</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-pointdataaccessor" title="class in com.here.sdk.mapview.datasource">PointDataAccessor</a> pointAccessor)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#process(com.here.sdk.mapview.datasource.PointDataAccessor)">process</a><wbr/>(<a href="sdk-for-android-navigate-pointdataaccessor" title="class in com.here.sdk.mapview.datasource">PointDataAccessor</a> pointAccessor)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Called for each point, allowing inspection, removal or update of coordinates and attributes.</div>
 </div>
@@ -73,7 +72,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-datasource-pointdatasource-
 <section class="detail" id="process(com.here.sdk.mapview.datasource.PointDataAccessor)">
 <h3>process</h3>
 <div class="member-signature"><span class="return-type">boolean</span> <span class="element-name">process</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-pointdataaccessor" title="class in com.here.sdk.mapview.datasource">PointDataAccessor</a> pointAccessor)</span></div>
+ <a href="sdk-for-android-navigate-pointdataaccessor" title="class in com.here.sdk.mapview.datasource">PointDataAccessor</a> pointAccessor)</span></div>
 <div class="block"><p>Called for each point, allowing inspection, removal or update of coordinates and attributes.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

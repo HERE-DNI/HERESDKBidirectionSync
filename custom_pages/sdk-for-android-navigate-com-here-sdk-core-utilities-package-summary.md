@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-utilities-package-summary"
 `
 <div class="sdk-for-android">
 <!-- package-summary.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -31,13 +30,13 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-utilities-package-summary"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Package</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.core</a></div>
+<div class="col-first even-row-color"><a href="sdk-for-android-navigate-com-here-sdk-core-package-summary">com.here.sdk.core</a></div>
 <div class="col-last even-row-color"> </div>
-<div class="col-first odd-row-color"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.core.engine</a></div>
+<div class="col-first odd-row-color"><a href="sdk-for-android-navigate-com-here-sdk-core-engine-package-summary">com.here.sdk.core.engine</a></div>
 <div class="col-last odd-row-color"> </div>
-<div class="col-first even-row-color"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.core.errors</a></div>
+<div class="col-first even-row-color"><a href="sdk-for-android-navigate-com-here-sdk-core-errors-package-summary">com.here.sdk.core.errors</a></div>
 <div class="col-last even-row-color"> </div>
-<div class="col-first odd-row-color"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.core.threading</a></div>
+<div class="col-first odd-row-color"><a href="sdk-for-android-navigate-com-here-sdk-core-threading-package-summary">com.here.sdk.core.threading</a></div>
 <div class="col-last odd-row-color"> </div>
 </div>
 </div>

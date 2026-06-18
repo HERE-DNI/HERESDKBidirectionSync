@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-routedeviation"
 `
 <div class="sdk-for-android">
 <!-- RouteDeviation.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,7 +19,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-routedeviation"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.navigation</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-navigation-package-summary">com.here.sdk.navigation</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -43,23 +42,23 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-routedeviation"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-navigablelocation" title="class in com.here.sdk.navigation">NavigableLocation</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#currentLocation">currentLocation</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-navigablelocation" title="class in com.here.sdk.navigation">NavigableLocation</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#currentLocation">currentLocation</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The current location.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-navigablelocation" title="class in com.here.sdk.navigation">NavigableLocation</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#lastLocationOnRoute">lastLocationOnRoute</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-navigablelocation" title="class in com.here.sdk.navigation">NavigableLocation</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#lastLocationOnRoute">lastLocationOnRoute</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The last known location on the route.</div>
 </div>
 <div class="col-first even-row-color"><code>int</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#lastTraveledSectionIndex">lastTraveledSectionIndex</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#lastTraveledSectionIndex">lastTraveledSectionIndex</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Indicates the index of the last traveled route section.</div>
 </div>
 <div class="col-first odd-row-color"><code>int</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#traveledDistanceOnLastSectionInMeters">traveledDistanceOnLastSectionInMeters</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#traveledDistanceOnLastSectionInMeters">traveledDistanceOnLastSectionInMeters</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Offset in meter to the last visited position on the route section defined by the last traveled section index.</div>
 </div>
@@ -74,10 +73,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-routedeviation"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.navigation.NavigableLocation,int,int,com.here.sdk.navigation.NavigableLocation)">RouteDeviation</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-navigablelocation" title="class in com.here.sdk.navigation">NavigableLocation</a> lastLocationOnRoute,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.navigation.NavigableLocation,int,int,com.here.sdk.navigation.NavigableLocation)">RouteDeviation</a><wbr/>(<a href="sdk-for-android-navigate-navigablelocation" title="class in com.here.sdk.navigation">NavigableLocation</a> lastLocationOnRoute,
  int lastTraveledSectionIndex,
  int traveledDistanceOnLastSectionInMeters,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-navigablelocation" title="class in com.here.sdk.navigation">NavigableLocation</a> currentLocation)</code></div>
+ <a href="sdk-for-android-navigate-navigablelocation" title="class in com.here.sdk.navigation">NavigableLocation</a> currentLocation)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -96,10 +95,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-routedeviation"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 </div>
 </div>
@@ -122,7 +121,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-routedeviation"
 <section class="detail" id="lastLocationOnRoute">
 <h3>lastLocationOnRoute</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-navigablelocation" title="class in com.here.sdk.navigation">NavigableLocation</a></span> <span class="element-name">lastLocationOnRoute</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-navigablelocation" title="class in com.here.sdk.navigation">NavigableLocation</a></span> <span class="element-name">lastLocationOnRoute</span></div>
 <div class="block"><p>The last known location on the route.</p></div>
 </section>
 </li>
@@ -144,7 +143,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-routedeviation"
 <section class="detail" id="currentLocation">
 <h3>currentLocation</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-navigablelocation" title="class in com.here.sdk.navigation">NavigableLocation</a></span> <span class="element-name">currentLocation</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-navigablelocation" title="class in com.here.sdk.navigation">NavigableLocation</a></span> <span class="element-name">currentLocation</span></div>
 <div class="block"><p>The current location.</p></div>
 </section>
 </li>
@@ -160,11 +159,11 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-routedeviation"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.navigation.NavigableLocation,int,int,com.here.sdk.navigation.NavigableLocation)">
 <h3>RouteDeviation</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">RouteDeviation</span><wbr/><span class="parameters">(@Nullable
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-navigablelocation" title="class in com.here.sdk.navigation">NavigableLocation</a> lastLocationOnRoute,
+ <a href="sdk-for-android-navigate-navigablelocation" title="class in com.here.sdk.navigation">NavigableLocation</a> lastLocationOnRoute,
  int lastTraveledSectionIndex,
  int traveledDistanceOnLastSectionInMeters,
  @NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-navigablelocation" title="class in com.here.sdk.navigation">NavigableLocation</a> currentLocation)</span></div>
+ <a href="sdk-for-android-navigate-navigablelocation" title="class in com.here.sdk.navigation">NavigableLocation</a> currentLocation)</span></div>
 <div class="block"><p>Creates a new instance.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-trafficawarenavigation-dynamicrouti
 `
 <div class="sdk-for-android">
 <!-- DynamicRoutingListener.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,14 +19,14 @@ slug: "sdk-for-android-navigate-com-here-sdk-trafficawarenavigation-dynamicrouti
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.trafficawarenavigation</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-trafficawarenavigation-package-summary">com.here.sdk.trafficawarenavigation</a></div>
 
 </div>
 <section class="class-description" id="class-description">
 <hr/>
 <div class="type-signature"><span class="modifiers">public interface </span><span class="element-name type-name-label">DynamicRoutingListener</span></div>
 <div class="block"><p>This interface should be implemented in order to
- receive notifications about the new route via the <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-dynamicroutingengine" title="class in com.here.sdk.trafficawarenavigation"><code>DynamicRoutingEngine</code></a>.</p></div>
+ receive notifications about the new route via the <a href="sdk-for-android-navigate-dynamicroutingengine" title="class in com.here.sdk.trafficawarenavigation"><code>DynamicRoutingEngine</code></a>.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -43,15 +42,15 @@ slug: "sdk-for-android-navigate-com-here-sdk-trafficawarenavigation-dynamicrouti
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#onBetterRouteFound(com.here.sdk.routing.Route,int,int)">onBetterRouteFound</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-route" title="class in com.here.sdk.routing">Route</a> newRoute,
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onBetterRouteFound(com.here.sdk.routing.Route,int,int)">onBetterRouteFound</a><wbr/>(<a href="sdk-for-android-navigate-route" title="class in com.here.sdk.routing">Route</a> newRoute,
  int etaDifferenceInSeconds,
  int distanceDifferenceInMeters)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">This event is issued when a better route could be found,
- as defined by <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-dynamicroutingengineoptions" title="class in com.here.sdk.trafficawarenavigation"><code>DynamicRoutingEngineOptions</code></a>.</div>
+ as defined by <a href="sdk-for-android-navigate-dynamicroutingengineoptions" title="class in com.here.sdk.trafficawarenavigation"><code>DynamicRoutingEngineOptions</code></a>.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#onRoutingError(com.here.sdk.routing.RoutingError)">onRoutingError</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-routingerror" title="enum class in com.here.sdk.routing">RoutingError</a> routingError)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onRoutingError(com.here.sdk.routing.RoutingError)">onRoutingError</a><wbr/>(<a href="sdk-for-android-navigate-routingerror" title="enum class in com.here.sdk.routing">RoutingError</a> routingError)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">This event is issued when an error occurred.</div>
 </div>
@@ -73,11 +72,11 @@ slug: "sdk-for-android-navigate-com-here-sdk-trafficawarenavigation-dynamicrouti
 <section class="detail" id="onBetterRouteFound(com.here.sdk.routing.Route,int,int)">
 <h3>onBetterRouteFound</h3>
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">onBetterRouteFound</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-route" title="class in com.here.sdk.routing">Route</a> newRoute,
+ <a href="sdk-for-android-navigate-route" title="class in com.here.sdk.routing">Route</a> newRoute,
  int etaDifferenceInSeconds,
  int distanceDifferenceInMeters)</span></div>
 <div class="block"><p>This event is issued when a better route could be found,
- as defined by <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-dynamicroutingengineoptions" title="class in com.here.sdk.trafficawarenavigation"><code>DynamicRoutingEngineOptions</code></a>.
+ as defined by <a href="sdk-for-android-navigate-dynamicroutingengineoptions" title="class in com.here.sdk.trafficawarenavigation"><code>DynamicRoutingEngineOptions</code></a>.
  To find a better route, two routes are calculated.
  The updated current route: A route that is calculated via the route specified.
  The dynamic route: A route that starts at the current position on the route specified
@@ -99,7 +98,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-trafficawarenavigation-dynamicrouti
 <section class="detail" id="onRoutingError(com.here.sdk.routing.RoutingError)">
 <h3>onRoutingError</h3>
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">onRoutingError</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-routingerror" title="enum class in com.here.sdk.routing">RoutingError</a> routingError)</span></div>
+ <a href="sdk-for-android-navigate-routingerror" title="enum class in com.here.sdk.routing">RoutingError</a> routingError)</span></div>
 <div class="block"><p>This event is issued when an error occurred.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

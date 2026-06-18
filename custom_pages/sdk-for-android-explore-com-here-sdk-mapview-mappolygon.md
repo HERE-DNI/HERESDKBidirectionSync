@@ -7,7 +7,6 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolygon"
 `
 <div class="sdk-for-android">
 <!-- MapPolygon.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,23 +19,23 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolygon"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-package-summary">com.here.sdk.mapview</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-nativebase" title="class in com.here">com.here.NativeBase</a>
+<div class="inheritance"><a href="sdk-for-android-explore-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.mapview.MapPolygon</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 <hr/>
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">MapPolygon</span>
-<span class="extends-implements">extends <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-nativebase" title="class in com.here">NativeBase</a></span></div>
+<span class="extends-implements">extends <a href="sdk-for-android-explore-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>A visual representation of a polygon on the map. Can be used to visualize areas of all shapes
  and sizes.
- </p><p>The geometry to be visualized is represented by an instance of <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-geopolygon" title="class in com.here.sdk.core"><code>GeoPolygon</code></a>.
+ </p><p>The geometry to be visualized is represented by an instance of <a href="sdk-for-android-explore-geopolygon" title="class in com.here.sdk.core"><code>GeoPolygon</code></a>.
  To display circular areas (for example, a position accuracy indicator) use a GeoPolygon
- created from a <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-geocircle" title="class in com.here.sdk.core"><code>GeoCircle</code></a> using <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-geopolygon#%3Cinit%3E(com.here.sdk.core.GeoBox)"><code>GeoPolygon(GeoCircle)</code></a>.
+ created from a <a href="sdk-for-android-explore-geocircle" title="class in com.here.sdk.core"><code>GeoCircle</code></a> using <a href="sdk-for-android-explore-geopolygon#%3Cinit%3E(com.here.sdk.core.GeoBox)"><code>GeoPolygon(GeoCircle)</code></a>.
  </p><p>Note:
  <ul>
 <li>The polygon shape should not cover more than half of the globe,
@@ -56,14 +55,14 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolygon"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#%3Cinit%3E(com.here.sdk.core.GeoPolygon,com.here.sdk.core.Color)">MapPolygon</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-geopolygon" title="class in com.here.sdk.core">GeoPolygon</a> geometry,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a> color)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#%3Cinit%3E(com.here.sdk.core.GeoPolygon,com.here.sdk.core.Color)">MapPolygon</a><wbr/>(<a href="sdk-for-android-explore-geopolygon" title="class in com.here.sdk.core">GeoPolygon</a> geometry,
+ <a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a> color)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new MapPolygon instance with outline visualization disabled and containing the geometry passed in.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#%3Cinit%3E(com.here.sdk.core.GeoPolygon,com.here.sdk.core.Color,com.here.sdk.core.Color,double)">MapPolygon</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-geopolygon" title="class in com.here.sdk.core">GeoPolygon</a> geometry,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a> color,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a> outlineColor,
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#%3Cinit%3E(com.here.sdk.core.GeoPolygon,com.here.sdk.core.Color,com.here.sdk.core.Color,double)">MapPolygon</a><wbr/>(<a href="sdk-for-android-explore-geopolygon" title="class in com.here.sdk.core">GeoPolygon</a> geometry,
+ <a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a> color,
+ <a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a> outlineColor,
  double outlineWidthInPixels)</code></div>
 <div class="col-last odd-row-color">
 <div class="block">Creates a new MapPolygon instance with outline visualization enabled and containing the geometry passed in.</div>
@@ -83,72 +82,72 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolygon"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#getDrawOrder()">getDrawOrder</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#getDrawOrder()">getDrawOrder</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the draw order of this map polygon relative to other map polygons.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#getFillColor()">getFillColor</a>()</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a></code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#getFillColor()">getFillColor</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the current color of the fill.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-geopolygon" title="class in com.here.sdk.core">GeoPolygon</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#getGeometry()">getGeometry</a>()</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-geopolygon" title="class in com.here.sdk.core">GeoPolygon</a></code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#getGeometry()">getGeometry</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the current geometry of the polygon.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-metadata" title="class in com.here.sdk.core">Metadata</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#getMetadata()">getMetadata</a>()</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-metadata" title="class in com.here.sdk.core">Metadata</a></code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#getMetadata()">getMetadata</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the Metadata instance attached to this polygon.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#getOutlineColor()">getOutlineColor</a>()</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a></code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#getOutlineColor()">getOutlineColor</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the color of the polygon outline.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>double</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#getOutlineWidth()">getOutlineWidth</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#getOutlineWidth()">getOutlineWidth</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the outline width of the polygon in pixels.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-mapmeasurerange" title="class in com.here.sdk.mapview">MapMeasureRange</a>&gt;</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#getVisibilityRanges()">getVisibilityRanges</a>()</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-mapmeasurerange" title="class in com.here.sdk.mapview">MapMeasureRange</a>&gt;</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#getVisibilityRanges()">getVisibilityRanges</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the list of visibility ranges.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#setDrawOrder(int)">setDrawOrder</a><wbr/>(int value)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#setDrawOrder(int)">setDrawOrder</a><wbr/>(int value)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the draw order of this map polygon relative to other map polygons.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#setFillColor(com.here.sdk.core.Color)">setFillColor</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a> value)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#setFillColor(com.here.sdk.core.Color)">setFillColor</a><wbr/>(<a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a> value)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the current color of the fill.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#setGeometry(com.here.sdk.core.GeoPolygon)">setGeometry</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-geopolygon" title="class in com.here.sdk.core">GeoPolygon</a> value)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#setGeometry(com.here.sdk.core.GeoPolygon)">setGeometry</a><wbr/>(<a href="sdk-for-android-explore-geopolygon" title="class in com.here.sdk.core">GeoPolygon</a> value)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets a new geometry to update the appearance.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#setMetadata(com.here.sdk.core.Metadata)">setMetadata</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-metadata" title="class in com.here.sdk.core">Metadata</a> value)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#setMetadata(com.here.sdk.core.Metadata)">setMetadata</a><wbr/>(<a href="sdk-for-android-explore-metadata" title="class in com.here.sdk.core">Metadata</a> value)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the Metadata instance to be attached to this polygon.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#setOutlineColor(com.here.sdk.core.Color)">setOutlineColor</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a> value)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#setOutlineColor(com.here.sdk.core.Color)">setOutlineColor</a><wbr/>(<a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a> value)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the color of the polygon outline.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#setOutlineWidth(double)">setOutlineWidth</a><wbr/>(double value)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#setOutlineWidth(double)">setOutlineWidth</a><wbr/>(double value)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the outline width of the polygon in pixels.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#setVisibilityRanges(java.util.List)">setVisibilityRanges</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-mapmeasurerange" title="class in com.here.sdk.mapview">MapMeasureRange</a>&gt; value)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#setVisibilityRanges(java.util.List)">setVisibilityRanges</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-mapmeasurerange" title="class in com.here.sdk.mapview">MapMeasureRange</a>&gt; value)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets visibility ranges for this map polygon.</div>
 </div>
@@ -173,9 +172,9 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolygon"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.core.GeoPolygon,com.here.sdk.core.Color)">
 <h3>MapPolygon</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">MapPolygon</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-geopolygon" title="class in com.here.sdk.core">GeoPolygon</a> geometry,
+ <a href="sdk-for-android-explore-geopolygon" title="class in com.here.sdk.core">GeoPolygon</a> geometry,
  @NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a> color)</span></div>
+ <a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a> color)</span></div>
 <div class="block"><p>Creates a new MapPolygon instance with outline visualization disabled and containing the geometry passed in.
  </p><p>The winding order of the vertices can be in clockwise or counter-clockwise order.
  It is recomended to provide the outer boundary ordered clockwise and closed.
@@ -198,11 +197,11 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolygon"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.core.GeoPolygon,com.here.sdk.core.Color,com.here.sdk.core.Color,double)">
 <h3>MapPolygon</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">MapPolygon</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-geopolygon" title="class in com.here.sdk.core">GeoPolygon</a> geometry,
+ <a href="sdk-for-android-explore-geopolygon" title="class in com.here.sdk.core">GeoPolygon</a> geometry,
  @NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a> color,
+ <a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a> color,
  @NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a> outlineColor,
+ <a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a> outlineColor,
  double outlineWidthInPixels)</span></div>
 <div class="block"><p>Creates a new MapPolygon instance with outline visualization enabled and containing the geometry passed in.
  </p><p>Transparent outlines are not supported. Any color with transparency (alpha value other than 1)
@@ -238,7 +237,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolygon"
 <section class="detail" id="getGeometry()">
 <h3>getGeometry</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-geopolygon" title="class in com.here.sdk.core">GeoPolygon</a></span> <span class="element-name">getGeometry</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-geopolygon" title="class in com.here.sdk.core">GeoPolygon</a></span> <span class="element-name">getGeometry</span>()</div>
 <div class="block"><p>Gets the current geometry of the polygon.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -250,7 +249,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolygon"
 <section class="detail" id="setGeometry(com.here.sdk.core.GeoPolygon)">
 <h3>setGeometry</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setGeometry</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-geopolygon" title="class in com.here.sdk.core">GeoPolygon</a> value)</span></div>
+ <a href="sdk-for-android-explore-geopolygon" title="class in com.here.sdk.core">GeoPolygon</a> value)</span></div>
 <div class="block"><p>Sets a new geometry to update the appearance.
  </p><p>The winding order of the vertices can be in clockwise or counter-clockwise order.
  It is recomended to provide the outer boundary ordered clockwise and closed.
@@ -272,7 +271,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolygon"
 <section class="detail" id="getMetadata()">
 <h3>getMetadata</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-metadata" title="class in com.here.sdk.core">Metadata</a></span> <span class="element-name">getMetadata</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-metadata" title="class in com.here.sdk.core">Metadata</a></span> <span class="element-name">getMetadata</span>()</div>
 <div class="block"><p>Gets the Metadata instance attached to this polygon.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -284,7 +283,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolygon"
 <section class="detail" id="setMetadata(com.here.sdk.core.Metadata)">
 <h3>setMetadata</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setMetadata</span><wbr/><span class="parameters">(@Nullable
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-metadata" title="class in com.here.sdk.core">Metadata</a> value)</span></div>
+ <a href="sdk-for-android-explore-metadata" title="class in com.here.sdk.core">Metadata</a> value)</span></div>
 <div class="block"><p>Sets the Metadata instance to be attached to this polygon.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -296,7 +295,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolygon"
 <section class="detail" id="getFillColor()">
 <h3>getFillColor</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a></span> <span class="element-name">getFillColor</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a></span> <span class="element-name">getFillColor</span>()</div>
 <div class="block"><p>Gets the current color of the fill.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -308,7 +307,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolygon"
 <section class="detail" id="setFillColor(com.here.sdk.core.Color)">
 <h3>setFillColor</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setFillColor</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a> value)</span></div>
+ <a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a> value)</span></div>
 <div class="block"><p>Sets the current color of the fill.
  </p><p>Fully transparent color (alpha set to 0) disables the fill completely.</p></div>
 <dl class="notes">
@@ -348,7 +347,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolygon"
 <section class="detail" id="getVisibilityRanges()">
 <h3>getVisibilityRanges</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-mapmeasurerange" title="class in com.here.sdk.mapview">MapMeasureRange</a>&gt;</span> <span class="element-name">getVisibilityRanges</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-mapmeasurerange" title="class in com.here.sdk.mapview">MapMeasureRange</a>&gt;</span> <span class="element-name">getVisibilityRanges</span>()</div>
 <div class="block"><p>Gets the list of visibility ranges. The map polygon is visible only inside these map measure
  ranges. When empty (the default), the map polygon is visible without map measure restrictions.</p></div>
 <dl class="notes">
@@ -361,12 +360,12 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolygon"
 <section class="detail" id="setVisibilityRanges(java.util.List)">
 <h3>setVisibilityRanges</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setVisibilityRanges</span><wbr/><span class="parameters">(@NonNull
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-mapmeasurerange" title="class in com.here.sdk.mapview">MapMeasureRange</a>&gt; value)</span></div>
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-mapmeasurerange" title="class in com.here.sdk.mapview">MapMeasureRange</a>&gt; value)</span></div>
 <div class="block"><p>Sets visibility ranges for this map polygon. A range is half open -
  [minimumZoomLevel, maximumZoomLevel), the given maximum value is not contained in the range.
  The map polygon is visible only inside these map measure ranges.
  </p><p>When empty (the default), the map polygon is visible without map measure restrictions.
- Only <code>MapMeasureRange</code>(s) of <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-mapmeasure.kind#ZOOM_LEVEL"><code>MapMeasure.Kind.ZOOM_LEVEL</code></a> type are supported.
+ Only <code>MapMeasureRange</code>(s) of <a href="sdk-for-android-explore-mapmeasure.kind#ZOOM_LEVEL"><code>MapMeasure.Kind.ZOOM_LEVEL</code></a> type are supported.
  <code>MapMeasureRange</code>(s) of other unsupported types will be ignored.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -378,7 +377,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolygon"
 <section class="detail" id="getOutlineColor()">
 <h3>getOutlineColor</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a></span> <span class="element-name">getOutlineColor</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a></span> <span class="element-name">getOutlineColor</span>()</div>
 <div class="block"><p>Gets the color of the polygon outline. The default outline color is opaque white.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -390,7 +389,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolygon"
 <section class="detail" id="setOutlineColor(com.here.sdk.core.Color)">
 <h3>setOutlineColor</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setOutlineColor</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a> value)</span></div>
+ <a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a> value)</span></div>
 <div class="block"><p>Sets the color of the polygon outline.
  </p><p>Transparent outlines are not supported. Any color with transparency (alpha value other than 1)
  will be rendered as fully opaque.</p></div>

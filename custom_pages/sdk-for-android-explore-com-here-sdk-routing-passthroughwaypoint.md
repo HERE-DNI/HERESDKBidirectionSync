@@ -7,7 +7,6 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-passthroughwaypoint"
 `
 <div class="sdk-for-android">
 <!-- PassThroughWaypoint.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,7 +19,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-passthroughwaypoint"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-package-summary">com.here.sdk.routing</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-routing-package-summary">com.here.sdk.routing</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -31,7 +30,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-passthroughwaypoint"
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">PassThroughWaypoint</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
 <div class="block"><p>This structure provides all the information for a passthrough waypoint. The location information and offset of the waypoint are stored in
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#place"><code>place</code></a> and <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#offset"><code>offset</code></a> respectively.</p></div>
+ <a href="sdk-for-android-explore-index#place"><code>place</code></a> and <a href="sdk-for-android-explore-index#offset"><code>offset</code></a> respectively.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -45,12 +44,12 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-passthroughwaypoint"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#offset">offset</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#offset">offset</a></code></div>
 <div class="col-last even-row-color">
-<div class="block">Index over <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-section#getGeometry()"><code>Section.getGeometry()</code></a> where the passthrough waypoint is located.</div>
+<div class="block">Index over <a href="sdk-for-android-explore-section#getGeometry()"><code>Section.getGeometry()</code></a> where the passthrough waypoint is located.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-routeplace" title="class in com.here.sdk.routing">RoutePlace</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#place">place</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-routeplace" title="class in com.here.sdk.routing">RoutePlace</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#place">place</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The location information of passthrough waypoint.</div>
 </div>
@@ -65,7 +64,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-passthroughwaypoint"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#%3Cinit%3E(com.here.sdk.routing.RoutePlace)">PassThroughWaypoint</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-routeplace" title="class in com.here.sdk.routing">RoutePlace</a> place)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#%3Cinit%3E(com.here.sdk.routing.RoutePlace)">PassThroughWaypoint</a><wbr/>(<a href="sdk-for-android-explore-routeplace" title="class in com.here.sdk.routing">RoutePlace</a> place)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -84,10 +83,10 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-passthroughwaypoint"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#hashCode()">hashCode</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 </div>
 </div>
@@ -110,7 +109,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-passthroughwaypoint"
 <section class="detail" id="place">
 <h3>place</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-routeplace" title="class in com.here.sdk.routing">RoutePlace</a></span> <span class="element-name">place</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-routeplace" title="class in com.here.sdk.routing">RoutePlace</a></span> <span class="element-name">place</span></div>
 <div class="block"><p>The location information of passthrough waypoint.</p></div>
 </section>
 </li>
@@ -119,7 +118,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-passthroughwaypoint"
 <h3>offset</h3>
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a></span> <span class="element-name">offset</span></div>
-<div class="block"><p>Index over <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-section#getGeometry()"><code>Section.getGeometry()</code></a> where the passthrough waypoint is located.</p></div>
+<div class="block"><p>Index over <a href="sdk-for-android-explore-section#getGeometry()"><code>Section.getGeometry()</code></a> where the passthrough waypoint is located.</p></div>
 </section>
 </li>
 </ul>
@@ -134,7 +133,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-passthroughwaypoint"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.routing.RoutePlace)">
 <h3>PassThroughWaypoint</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">PassThroughWaypoint</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-routeplace" title="class in com.here.sdk.routing">RoutePlace</a> place)</span></div>
+ <a href="sdk-for-android-explore-routeplace" title="class in com.here.sdk.routing">RoutePlace</a> place)</span></div>
 <div class="block"><p>Creates a new instance.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

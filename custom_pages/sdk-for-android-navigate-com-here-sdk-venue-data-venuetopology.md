@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-data-venuetopology"
 `
 <div class="sdk-for-android">
 <!-- VenueTopology.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,19 +19,19 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-data-venuetopology"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.venue.data</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-venue-data-package-summary">com.here.sdk.venue.data</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-nativebase" title="class in com.here">com.here.NativeBase</a>
+<div class="inheritance"><a href="sdk-for-android-navigate-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.venue.data.VenueTopology</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 <hr/>
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">VenueTopology</span>
-<span class="extends-implements">extends <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-nativebase" title="class in com.here">NativeBase</a></span></div>
-<div class="block"><p>Represents routing topologies inside the <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuelevel" title="class in com.here.sdk.venue.data"><code>VenueLevel</code></a>. The topologies can be paths
+<span class="extends-implements">extends <a href="sdk-for-android-navigate-nativebase" title="class in com.here">NativeBase</a></span></div>
+<div class="block"><p>Represents routing topologies inside the <a href="sdk-for-android-navigate-venuelevel" title="class in com.here.sdk.venue.data"><code>VenueLevel</code></a>. The topologies can be paths
  used for enabling routing services.</p></div>
 </section>
 <section class="summary">
@@ -47,12 +46,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-data-venuetopology"
 <div class="table-header col-second">Class</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>static final class </code></div>
-<div class="col-second even-row-color"><code><a class="type-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuetopology.accesscharacteristics" title="class in com.here.sdk.venue.data">VenueTopology.AccessCharacteristics</a></code></div>
+<div class="col-second even-row-color"><code><a class="type-name-link" href="sdk-for-android-navigate-venuetopology.accesscharacteristics" title="class in com.here.sdk.venue.data">VenueTopology.AccessCharacteristics</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Represents the access characreisticas of a topology.</div>
 </div>
 <div class="col-first odd-row-color"><code>static enum </code></div>
-<div class="col-second odd-row-color"><code><a class="type-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuetopology.topologydirectionality" title="enum class in com.here.sdk.venue.data">VenueTopology.TopologyDirectionality</a></code></div>
+<div class="col-second odd-row-color"><code><a class="type-name-link" href="sdk-for-android-navigate-venuetopology.topologydirectionality" title="enum class in com.here.sdk.venue.data">VenueTopology.TopologyDirectionality</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Available directions.</div>
 </div>
@@ -70,18 +69,18 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-data-venuetopology"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuetopology.accesscharacteristics" title="class in com.here.sdk.venue.data">VenueTopology.AccessCharacteristics</a>&gt;</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#getAccessibility()">getAccessibility</a>()</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-venuetopology.accesscharacteristics" title="class in com.here.sdk.venue.data">VenueTopology.AccessCharacteristics</a>&gt;</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getAccessibility()">getAccessibility</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
-<div class="block">Gets the list of <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuetopology.accesscharacteristics" title="class in com.here.sdk.venue.data"><code>VenueTopology.AccessCharacteristics</code></a>.</div>
+<div class="block">Gets the list of <a href="sdk-for-android-navigate-venuetopology.accesscharacteristics" title="class in com.here.sdk.venue.data"><code>VenueTopology.AccessCharacteristics</code></a>.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#getIdentifier()">getIdentifier</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getIdentifier()">getIdentifier</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets an id of the topology.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuelevel" title="class in com.here.sdk.venue.data">VenueLevel</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#getLevel()">getLevel</a>()</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-venuelevel" title="class in com.here.sdk.venue.data">VenueLevel</a></code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getLevel()">getLevel</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets a parent level of the topology.</div>
 </div>
@@ -118,7 +117,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-data-venuetopology"
 <section class="detail" id="getLevel()">
 <h3>getLevel</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuelevel" title="class in com.here.sdk.venue.data">VenueLevel</a></span> <span class="element-name">getLevel</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-venuelevel" title="class in com.here.sdk.venue.data">VenueLevel</a></span> <span class="element-name">getLevel</span>()</div>
 <div class="block"><p>Gets a parent level of the topology.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -130,11 +129,11 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-data-venuetopology"
 <section class="detail" id="getAccessibility()">
 <h3>getAccessibility</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuetopology.accesscharacteristics" title="class in com.here.sdk.venue.data">VenueTopology.AccessCharacteristics</a>&gt;</span> <span class="element-name">getAccessibility</span>()</div>
-<div class="block"><p>Gets the list of <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuetopology.accesscharacteristics" title="class in com.here.sdk.venue.data"><code>VenueTopology.AccessCharacteristics</code></a>.</p></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-venuetopology.accesscharacteristics" title="class in com.here.sdk.venue.data">VenueTopology.AccessCharacteristics</a>&gt;</span> <span class="element-name">getAccessibility</span>()</div>
+<div class="block"><p>Gets the list of <a href="sdk-for-android-navigate-venuetopology.accesscharacteristics" title="class in com.here.sdk.venue.data"><code>VenueTopology.AccessCharacteristics</code></a>.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
-<dd><p>List of <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-venuetopology.accesscharacteristics" title="class in com.here.sdk.venue.data"><code>VenueTopology.AccessCharacteristics</code></a></p></dd>
+<dd><p>List of <a href="sdk-for-android-navigate-venuetopology.accesscharacteristics" title="class in com.here.sdk.venue.data"><code>VenueTopology.AccessCharacteristics</code></a></p></dd>
 </dl>
 </section>
 </li>

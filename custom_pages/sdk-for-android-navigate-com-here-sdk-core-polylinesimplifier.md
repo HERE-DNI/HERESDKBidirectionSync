@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-polylinesimplifier"
 `
 <div class="sdk-for-android">
 <!-- PolylineSimplifier.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,22 +19,22 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-polylinesimplifier"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.core</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-core-package-summary">com.here.sdk.core</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-nativebase" title="class in com.here">com.here.NativeBase</a>
+<div class="inheritance"><a href="sdk-for-android-navigate-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.core.PolylineSimplifier</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 <hr/>
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">PolylineSimplifier</span>
-<span class="extends-implements">extends <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-nativebase" title="class in com.here">NativeBase</a></span></div>
+<span class="extends-implements">extends <a href="sdk-for-android-navigate-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>PolylineSimplifier helps to reduce the number of points
  in the polyline by removing redundant elements using
  Douglas–Peucker algorithm, so that result stays
- within <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-polylinesimplifier.options" title="class in com.here.sdk.core"><code>PolylineSimplifier.Options</code></a>.
+ within <a href="sdk-for-android-navigate-polylinesimplifier.options" title="class in com.here.sdk.core"><code>PolylineSimplifier.Options</code></a>.
  </p><p>Typical use case is to perform input preparation step
  before invoking computationally heavy API. Such API
  have an upper limit on the input collection size
@@ -58,9 +57,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-polylinesimplifier"
 <div class="table-header col-second">Class</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>static final class </code></div>
-<div class="col-second even-row-color"><code><a class="type-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-polylinesimplifier.options" title="class in com.here.sdk.core">PolylineSimplifier.Options</a></code></div>
+<div class="col-second even-row-color"><code><a class="type-name-link" href="sdk-for-android-navigate-polylinesimplifier.options" title="class in com.here.sdk.core">PolylineSimplifier.Options</a></code></div>
 <div class="col-last even-row-color">
-<div class="block">Controls the strategy of <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#simplify(java.util.List,com.here.sdk.core.PolylineSimplifier.Options,com.here.sdk.core.PolylineSimplificationCallback)"><code>simplify(java.util.List&lt;com.here.sdk.core.GeoCoordinates&gt;, com.here.sdk.core.PolylineSimplifier.Options, com.here.sdk.core.PolylineSimplificationCallback)</code></a>
+<div class="block">Controls the strategy of <a href="sdk-for-android-navigate-index#simplify(java.util.List,com.here.sdk.core.PolylineSimplifier.Options,com.here.sdk.core.PolylineSimplificationCallback)"><code>simplify(java.util.List&lt;com.here.sdk.core.GeoCoordinates&gt;, com.here.sdk.core.PolylineSimplifier.Options, com.here.sdk.core.PolylineSimplificationCallback)</code></a>
  when reducing a size of polyline.</div>
 </div>
 </div>
@@ -74,9 +73,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-polylinesimplifier"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#%3Cinit%3E()">PolylineSimplifier</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E()">PolylineSimplifier</a>()</code></div>
 <div class="col-last even-row-color">
-<div class="block">Creates a new instance of <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-polylinesimplifier" title="class in com.here.sdk.core"><code>PolylineSimplifier</code></a>.</div>
+<div class="block">Creates a new instance of <a href="sdk-for-android-navigate-polylinesimplifier" title="class in com.here.sdk.core"><code>PolylineSimplifier</code></a>.</div>
 </div>
 </div>
 </section>
@@ -92,10 +91,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-polylinesimplifier"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#simplify(java.util.List,com.here.sdk.core.PolylineSimplifier.Options,com.here.sdk.core.PolylineSimplificationCallback)">simplify</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a>&gt; polyline,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-polylinesimplifier.options" title="class in com.here.sdk.core">PolylineSimplifier.Options</a> simplificationParameters,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-polylinesimplificationcallback" title="interface in com.here.sdk.core">PolylineSimplificationCallback</a> callback)</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#simplify(java.util.List,com.here.sdk.core.PolylineSimplifier.Options,com.here.sdk.core.PolylineSimplificationCallback)">simplify</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a>&gt; polyline,
+ <a href="sdk-for-android-navigate-polylinesimplifier.options" title="class in com.here.sdk.core">PolylineSimplifier.Options</a> simplificationParameters,
+ <a href="sdk-for-android-navigate-polylinesimplificationcallback" title="interface in com.here.sdk.core">PolylineSimplificationCallback</a> callback)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Reduces the number of points in the input polyline.</div>
 </div>
@@ -120,11 +119,11 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-polylinesimplifier"
 <section class="detail" id="&lt;init&gt;()">
 <h3>PolylineSimplifier</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">PolylineSimplifier</span>()
-                   throws <span class="exceptions"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></span></div>
-<div class="block"><p>Creates a new instance of <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-polylinesimplifier" title="class in com.here.sdk.core"><code>PolylineSimplifier</code></a>.</p></div>
+                   throws <span class="exceptions"><a href="sdk-for-android-navigate-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></span></div>
+<div class="block"><p>Creates a new instance of <a href="sdk-for-android-navigate-polylinesimplifier" title="class in com.here.sdk.core"><code>PolylineSimplifier</code></a>.</p></div>
 <dl class="notes">
 <dt>Throws:</dt>
-<dd><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></code> - <p>Indicates what went wrong when the instantiation was attempted.</p></dd>
+<dd><code><a href="sdk-for-android-navigate-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></code> - <p>Indicates what went wrong when the instantiation was attempted.</p></dd>
 </dl>
 </section>
 </li>
@@ -140,15 +139,15 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-polylinesimplifier"
 <section class="detail" id="simplify(java.util.List,com.here.sdk.core.PolylineSimplifier.Options,com.here.sdk.core.PolylineSimplificationCallback)">
 <h3>simplify</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">simplify</span><wbr/><span class="parameters">(@NonNull
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a>&gt; polyline,
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">simplify</span><wbr/><span class="parameters">(@NonNull
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a>&gt; polyline,
  @NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-polylinesimplifier.options" title="class in com.here.sdk.core">PolylineSimplifier.Options</a> simplificationParameters,
+ <a href="sdk-for-android-navigate-polylinesimplifier.options" title="class in com.here.sdk.core">PolylineSimplifier.Options</a> simplificationParameters,
  @NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-polylinesimplificationcallback" title="interface in com.here.sdk.core">PolylineSimplificationCallback</a> callback)</span></div>
+ <a href="sdk-for-android-navigate-polylinesimplificationcallback" title="interface in com.here.sdk.core">PolylineSimplificationCallback</a> callback)</span></div>
 <div class="block"><p>Reduces the number of points in the input polyline.
  Does this by removing points which are not significant
- according to the passed <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-polylinesimplifier.options" title="class in com.here.sdk.core"><code>PolylineSimplifier.Options</code></a>.
+ according to the passed <a href="sdk-for-android-navigate-polylinesimplifier.options" title="class in com.here.sdk.core"><code>PolylineSimplifier.Options</code></a>.
  Simplification process is performed on the device without
  connecting to the network and is computationally intensive.</p></div>
 <dl class="notes">

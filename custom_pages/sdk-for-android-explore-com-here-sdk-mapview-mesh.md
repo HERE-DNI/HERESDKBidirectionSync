@@ -7,7 +7,6 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mesh"
 `
 <div class="sdk-for-android">
 <!-- Mesh.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,21 +19,21 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mesh"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-package-summary">com.here.sdk.mapview</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-nativebase" title="class in com.here">com.here.NativeBase</a>
+<div class="inheritance"><a href="sdk-for-android-explore-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.mapview.Mesh</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 <hr/>
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">Mesh</span>
-<span class="extends-implements">extends <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-nativebase" title="class in com.here">NativeBase</a></span></div>
-<div class="block"><p>Represents a mesh in 3D space. Such meshes are built using <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-meshbuilder" title="class in com.here.sdk.mapview"><code>MeshBuilder</code></a>.
+<span class="extends-implements">extends <a href="sdk-for-android-explore-nativebase" title="class in com.here">NativeBase</a></span></div>
+<div class="block"><p>Represents a mesh in 3D space. Such meshes are built using <a href="sdk-for-android-explore-meshbuilder" title="class in com.here.sdk.mapview"><code>MeshBuilder</code></a>.
  </p><p>The class is not offering any methods, as its data is only meant to be consumed internally
- when being passed to <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-mapmarker3dmodel" title="class in com.here.sdk.mapview"><code>MapMarker3DModel</code></a> constructor.</p></div>
+ when being passed to <a href="sdk-for-android-explore-mapmarker3dmodel" title="class in com.here.sdk.mapview"><code>MapMarker3DModel</code></a> constructor.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">

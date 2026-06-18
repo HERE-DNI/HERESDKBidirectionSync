@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-animation-mapitemkeyframetrack"
 `
 <div class="sdk-for-android">
 <!-- MapItemKeyFrameTrack.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,22 +19,22 @@ slug: "sdk-for-android-navigate-com-here-sdk-animation-mapitemkeyframetrack"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.animation</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-animation-package-summary">com.here.sdk.animation</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-nativebase" title="class in com.here">com.here.NativeBase</a>
+<div class="inheritance"><a href="sdk-for-android-navigate-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.animation.MapItemKeyFrameTrack</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 <hr/>
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">MapItemKeyFrameTrack</span>
-<span class="extends-implements">extends <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-nativebase" title="class in com.here">NativeBase</a></span></div>
+<span class="extends-implements">extends <a href="sdk-for-android-navigate-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>Stores keyframes for interpolation of a map item property using a specific
  easing function and interpolation mode.
  </p><p>The keyframe track object is used to create animations,
- see <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapmarkeranimation" title="class in com.here.sdk.animation"><code>MapMarkerAnimation</code></a> and <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mappolylineanimation" title="class in com.here.sdk.animation"><code>MapPolylineAnimation</code></a>.</p></div>
+ see <a href="sdk-for-android-navigate-mapmarkeranimation" title="class in com.here.sdk.animation"><code>MapMarkerAnimation</code></a> and <a href="sdk-for-android-navigate-mappolylineanimation" title="class in com.here.sdk.animation"><code>MapPolylineAnimation</code></a>.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -49,14 +48,14 @@ slug: "sdk-for-android-navigate-com-here-sdk-animation-mapitemkeyframetrack"
 <div class="table-header col-second">Class</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>static enum </code></div>
-<div class="col-second even-row-color"><code><a class="type-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapitemkeyframetrack.instantiationerrorcode" title="enum class in com.here.sdk.animation">MapItemKeyFrameTrack.InstantiationErrorCode</a></code></div>
+<div class="col-second even-row-color"><code><a class="type-name-link" href="sdk-for-android-navigate-mapitemkeyframetrack.instantiationerrorcode" title="enum class in com.here.sdk.animation">MapItemKeyFrameTrack.InstantiationErrorCode</a></code></div>
 <div class="col-last even-row-color">
-<div class="block">Describes a reason for failing to create a <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapitemkeyframetrack" title="class in com.here.sdk.animation"><code>MapItemKeyFrameTrack</code></a>.</div>
+<div class="block">Describes a reason for failing to create a <a href="sdk-for-android-navigate-mapitemkeyframetrack" title="class in com.here.sdk.animation"><code>MapItemKeyFrameTrack</code></a>.</div>
 </div>
 <div class="col-first odd-row-color"><code>static final class </code></div>
-<div class="col-second odd-row-color"><code><a class="type-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapitemkeyframetrack.instantiationexception" title="class in com.here.sdk.animation">MapItemKeyFrameTrack.InstantiationException</a></code></div>
+<div class="col-second odd-row-color"><code><a class="type-name-link" href="sdk-for-android-navigate-mapitemkeyframetrack.instantiationexception" title="class in com.here.sdk.animation">MapItemKeyFrameTrack.InstantiationException</a></code></div>
 <div class="col-last odd-row-color">
-<div class="block">Thrown when a problem occurs while trying to create <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapitemkeyframetrack" title="class in com.here.sdk.animation"><code>MapItemKeyFrameTrack</code></a>.</div>
+<div class="block">Thrown when a problem occurs while trying to create <a href="sdk-for-android-navigate-mapitemkeyframetrack" title="class in com.here.sdk.animation"><code>MapItemKeyFrameTrack</code></a>.</div>
 </div>
 </div>
 </section>
@@ -72,17 +71,17 @@ slug: "sdk-for-android-navigate-com-here-sdk-animation-mapitemkeyframetrack"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapitemkeyframetrack" title="class in com.here.sdk.animation">MapItemKeyFrameTrack</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#moveTo(java.util.List,com.here.sdk.animation.Easing,com.here.sdk.animation.KeyframeInterpolationMode)">moveTo</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-geocoordinateskeyframe" title="class in com.here.sdk.animation">GeoCoordinatesKeyframe</a>&gt; keyframes,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-easing" title="class in com.here.sdk.animation">Easing</a> easing,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-keyframeinterpolationmode" title="enum class in com.here.sdk.animation">KeyframeInterpolationMode</a> interpolationMode)</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-mapitemkeyframetrack" title="class in com.here.sdk.animation">MapItemKeyFrameTrack</a></code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#moveTo(java.util.List,com.here.sdk.animation.Easing,com.here.sdk.animation.KeyframeInterpolationMode)">moveTo</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-geocoordinateskeyframe" title="class in com.here.sdk.animation">GeoCoordinatesKeyframe</a>&gt; keyframes,
+ <a href="sdk-for-android-navigate-easing" title="class in com.here.sdk.animation">Easing</a> easing,
+ <a href="sdk-for-android-navigate-keyframeinterpolationmode" title="enum class in com.here.sdk.animation">KeyframeInterpolationMode</a> interpolationMode)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Creates a map item position keyframe track.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapitemkeyframetrack" title="class in com.here.sdk.animation">MapItemKeyFrameTrack</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#polylineProgress(java.util.List,com.here.sdk.animation.Easing,com.here.sdk.animation.KeyframeInterpolationMode)">polylineProgress</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-scalarkeyframe" title="class in com.here.sdk.animation">ScalarKeyframe</a>&gt; keyframes,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-easing" title="class in com.here.sdk.animation">Easing</a> easing,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-keyframeinterpolationmode" title="enum class in com.here.sdk.animation">KeyframeInterpolationMode</a> interpolationMode)</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-mapitemkeyframetrack" title="class in com.here.sdk.animation">MapItemKeyFrameTrack</a></code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#polylineProgress(java.util.List,com.here.sdk.animation.Easing,com.here.sdk.animation.KeyframeInterpolationMode)">polylineProgress</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-scalarkeyframe" title="class in com.here.sdk.animation">ScalarKeyframe</a>&gt; keyframes,
+ <a href="sdk-for-android-navigate-easing" title="class in com.here.sdk.animation">Easing</a> easing,
+ <a href="sdk-for-android-navigate-keyframeinterpolationmode" title="enum class in com.here.sdk.animation">KeyframeInterpolationMode</a> interpolationMode)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Creates a keyframe track used to animate the progress of a polyline.</div>
 </div>
@@ -107,13 +106,13 @@ slug: "sdk-for-android-navigate-com-here-sdk-animation-mapitemkeyframetrack"
 <section class="detail" id="moveTo(java.util.List,com.here.sdk.animation.Easing,com.here.sdk.animation.KeyframeInterpolationMode)">
 <h3>moveTo</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public static</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapitemkeyframetrack" title="class in com.here.sdk.animation">MapItemKeyFrameTrack</a></span> <span class="element-name">moveTo</span><wbr/><span class="parameters">(@NonNull
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-geocoordinateskeyframe" title="class in com.here.sdk.animation">GeoCoordinatesKeyframe</a>&gt; keyframes,
+</span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-navigate-mapitemkeyframetrack" title="class in com.here.sdk.animation">MapItemKeyFrameTrack</a></span> <span class="element-name">moveTo</span><wbr/><span class="parameters">(@NonNull
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-geocoordinateskeyframe" title="class in com.here.sdk.animation">GeoCoordinatesKeyframe</a>&gt; keyframes,
  @NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-easing" title="class in com.here.sdk.animation">Easing</a> easing,
+ <a href="sdk-for-android-navigate-easing" title="class in com.here.sdk.animation">Easing</a> easing,
  @NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-keyframeinterpolationmode" title="enum class in com.here.sdk.animation">KeyframeInterpolationMode</a> interpolationMode)</span>
-                                   throws <span class="exceptions"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapitemkeyframetrack.instantiationexception" title="class in com.here.sdk.animation">MapItemKeyFrameTrack.InstantiationException</a></span></div>
+ <a href="sdk-for-android-navigate-keyframeinterpolationmode" title="enum class in com.here.sdk.animation">KeyframeInterpolationMode</a> interpolationMode)</span>
+                                   throws <span class="exceptions"><a href="sdk-for-android-navigate-mapitemkeyframetrack.instantiationexception" title="class in com.here.sdk.animation">MapItemKeyFrameTrack.InstantiationException</a></span></div>
 <div class="block"><p>Creates a map item position keyframe track. It enables animations over the geographical
  coordinates where the map item is positioned.</p></div>
 <dl class="notes">
@@ -124,7 +123,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-animation-mapitemkeyframetrack"
 <dt>Returns:</dt>
 <dd><p>MapItemKeyFrameTrack instance.</p></dd>
 <dt>Throws:</dt>
-<dd><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapitemkeyframetrack.instantiationexception" title="class in com.here.sdk.animation">MapItemKeyFrameTrack.InstantiationException</a></code> - <p>If the supplied keyframe list is empty or first keyframe duration is not 0.</p></dd>
+<dd><code><a href="sdk-for-android-navigate-mapitemkeyframetrack.instantiationexception" title="class in com.here.sdk.animation">MapItemKeyFrameTrack.InstantiationException</a></code> - <p>If the supplied keyframe list is empty or first keyframe duration is not 0.</p></dd>
 </dl>
 </section>
 </li>
@@ -132,16 +131,16 @@ slug: "sdk-for-android-navigate-com-here-sdk-animation-mapitemkeyframetrack"
 <section class="detail" id="polylineProgress(java.util.List,com.here.sdk.animation.Easing,com.here.sdk.animation.KeyframeInterpolationMode)">
 <h3>polylineProgress</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public static</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapitemkeyframetrack" title="class in com.here.sdk.animation">MapItemKeyFrameTrack</a></span> <span class="element-name">polylineProgress</span><wbr/><span class="parameters">(@NonNull
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-scalarkeyframe" title="class in com.here.sdk.animation">ScalarKeyframe</a>&gt; keyframes,
+</span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-navigate-mapitemkeyframetrack" title="class in com.here.sdk.animation">MapItemKeyFrameTrack</a></span> <span class="element-name">polylineProgress</span><wbr/><span class="parameters">(@NonNull
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-scalarkeyframe" title="class in com.here.sdk.animation">ScalarKeyframe</a>&gt; keyframes,
  @NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-easing" title="class in com.here.sdk.animation">Easing</a> easing,
+ <a href="sdk-for-android-navigate-easing" title="class in com.here.sdk.animation">Easing</a> easing,
  @NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-keyframeinterpolationmode" title="enum class in com.here.sdk.animation">KeyframeInterpolationMode</a> interpolationMode)</span>
-                                             throws <span class="exceptions"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapitemkeyframetrack.instantiationexception" title="class in com.here.sdk.animation">MapItemKeyFrameTrack.InstantiationException</a></span></div>
+ <a href="sdk-for-android-navigate-keyframeinterpolationmode" title="enum class in com.here.sdk.animation">KeyframeInterpolationMode</a> interpolationMode)</span>
+                                             throws <span class="exceptions"><a href="sdk-for-android-navigate-mapitemkeyframetrack.instantiationexception" title="class in com.here.sdk.animation">MapItemKeyFrameTrack.InstantiationException</a></span></div>
 <div class="block"><p>Creates a keyframe track used to animate the progress of a polyline.
  </p><p>Each scalar keyframe specifies the progress property
- (as passed to <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mappolyline#setProgress(double)"><code>MapPolyline.setProgress(double)</code></a>) at key points of the animation.</p></div>
+ (as passed to <a href="sdk-for-android-navigate-mappolyline#setProgress(double)"><code>MapPolyline.setProgress(double)</code></a>) at key points of the animation.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>keyframes</code> - <p>The list of keyframes that specify how the polyline progress changes
@@ -151,7 +150,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-animation-mapitemkeyframetrack"
 <dt>Returns:</dt>
 <dd><p>MapItemKeyFrameTrack instance.</p></dd>
 <dt>Throws:</dt>
-<dd><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapitemkeyframetrack.instantiationexception" title="class in com.here.sdk.animation">MapItemKeyFrameTrack.InstantiationException</a></code> - <p>If the supplied keyframe list is empty or first keyframe duration is not 0.</p></dd>
+<dd><code><a href="sdk-for-android-navigate-mapitemkeyframetrack.instantiationexception" title="class in com.here.sdk.animation">MapItemKeyFrameTrack.InstantiationException</a></code> - <p>If the supplied keyframe list is empty or first keyframe duration is not 0.</p></dd>
 </dl>
 </section>
 </li>

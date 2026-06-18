@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-warner-customwarningprovider"
 `
 <div class="sdk-for-android">
 <!-- CustomWarningProvider.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,7 +19,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-warner-customwarningprovider"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.warner</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-warner-package-summary">com.here.sdk.warner</a></div>
 
 </div>
 <section class="class-description" id="class-description">
@@ -44,13 +43,13 @@ slug: "sdk-for-android-navigate-com-here-sdk-warner-customwarningprovider"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>int</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#getCustomWarningType()">getCustomWarningType</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getCustomWarningType()">getCustomWarningType</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Returns the custom warning type identifier produced by this provider.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-customwarning" title="class in com.here.sdk.warner">CustomWarning</a>&gt;</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#getWarnings(com.here.sdk.mapdata.SegmentData,com.here.sdk.mapdata.SegmentData)">getWarnings</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-segmentdata" title="class in com.here.sdk.mapdata">SegmentData</a> currentSegment,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-segmentdata" title="class in com.here.sdk.mapdata">SegmentData</a> previousSegment)</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-customwarning" title="class in com.here.sdk.warner">CustomWarning</a>&gt;</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getWarnings(com.here.sdk.mapdata.SegmentData,com.here.sdk.mapdata.SegmentData)">getWarnings</a><wbr/>(<a href="sdk-for-android-navigate-segmentdata" title="class in com.here.sdk.mapdata">SegmentData</a> currentSegment,
+ <a href="sdk-for-android-navigate-segmentdata" title="class in com.here.sdk.mapdata">SegmentData</a> previousSegment)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Returns a list of custom warnings for the given vehicle position.</div>
 </div>
@@ -73,8 +72,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-warner-customwarningprovider"
 <h3>getCustomWarningType</h3>
 <div class="member-signature"><span class="return-type">int</span> <span class="element-name">getCustomWarningType</span>()</div>
 <div class="block"><p>Returns the custom warning type identifier produced by this provider.
- </p><p>The returned value corresponds to <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-customwarning#customWarningType"><code>CustomWarning.customWarningType</code></a> and
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-warning#customWarningType"><code>Warning.customWarningType</code></a> and is used to apply per-type configuration,
+ </p><p>The returned value corresponds to <a href="sdk-for-android-navigate-customwarning#customWarningType"><code>CustomWarning.customWarningType</code></a> and
+ <a href="sdk-for-android-navigate-warning#customWarningType"><code>Warning.customWarningType</code></a> and is used to apply per-type configuration,
  such as notification distances.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -86,10 +85,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-warner-customwarningprovider"
 <section class="detail" id="getWarnings(com.here.sdk.mapdata.SegmentData,com.here.sdk.mapdata.SegmentData)">
 <h3>getWarnings</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-customwarning" title="class in com.here.sdk.warner">CustomWarning</a>&gt;</span> <span class="element-name">getWarnings</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-segmentdata" title="class in com.here.sdk.mapdata">SegmentData</a> currentSegment,
+</span><span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-customwarning" title="class in com.here.sdk.warner">CustomWarning</a>&gt;</span> <span class="element-name">getWarnings</span><wbr/><span class="parameters">(@NonNull
+ <a href="sdk-for-android-navigate-segmentdata" title="class in com.here.sdk.mapdata">SegmentData</a> currentSegment,
  @Nullable
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-segmentdata" title="class in com.here.sdk.mapdata">SegmentData</a> previousSegment)</span></div>
+ <a href="sdk-for-android-navigate-segmentdata" title="class in com.here.sdk.mapdata">SegmentData</a> previousSegment)</span></div>
 <div class="block"><p>Returns a list of custom warnings for the given vehicle position.
  </p><p>This method evaluates the custom warning provider using the current
  vehicle position on the electronic horizon and returns the resulting

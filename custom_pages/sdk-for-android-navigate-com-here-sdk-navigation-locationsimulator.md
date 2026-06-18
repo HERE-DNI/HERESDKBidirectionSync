@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-locationsimulator"
 `
 <div class="sdk-for-android">
 <!-- LocationSimulator.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,21 +19,21 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-locationsimulator"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.navigation</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-navigation-package-summary">com.here.sdk.navigation</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-nativebase" title="class in com.here">com.here.NativeBase</a>
+<div class="inheritance"><a href="sdk-for-android-navigate-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.navigation.LocationSimulator</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 <hr/>
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">LocationSimulator</span>
-<span class="extends-implements">extends <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-nativebase" title="class in com.here">NativeBase</a></span></div>
+<span class="extends-implements">extends <a href="sdk-for-android-navigate-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>Use the <code>LocationSimulator</code> to generate locations along a route or a GPX document. It notifies
  the registered object about the current location at a fixed interval. In order to customize
- the interval, see <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-locationsimulatoroptions" title="class in com.here.sdk.navigation"><code>LocationSimulatorOptions</code></a>.
+ the interval, see <a href="sdk-for-android-navigate-locationsimulatoroptions" title="class in com.here.sdk.navigation"><code>LocationSimulatorOptions</code></a>.
  The locations are closely matched to the shape and proceeded from the start to the
  destination as found in the provided route or the GPX document.
  When providing a route, the <code>LocationSimulator</code> uses a base speed taken from each span
@@ -53,7 +52,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-locationsimulator"
 </ul>
 </p><p>Notifications will stop after the entire route has been traveled.
  </p><p><strong>Note:</strong>
- Map-matched locations are only accessible from <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-routeprogress" title="class in com.here.sdk.navigation"><code>RouteProgress</code></a>.</p></div>
+ Map-matched locations are only accessible from <a href="sdk-for-android-navigate-routeprogress" title="class in com.here.sdk.navigation"><code>RouteProgress</code></a>.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -65,13 +64,13 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-locationsimulator"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.navigation.GPXTrack,com.here.sdk.navigation.LocationSimulatorOptions)">LocationSimulator</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-gpxtrack" title="class in com.here.sdk.navigation">GPXTrack</a> gpxTrack,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-locationsimulatoroptions" title="class in com.here.sdk.navigation">LocationSimulatorOptions</a> options)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.navigation.GPXTrack,com.here.sdk.navigation.LocationSimulatorOptions)">LocationSimulator</a><wbr/>(<a href="sdk-for-android-navigate-gpxtrack" title="class in com.here.sdk.navigation">GPXTrack</a> gpxTrack,
+ <a href="sdk-for-android-navigate-locationsimulatoroptions" title="class in com.here.sdk.navigation">LocationSimulatorOptions</a> options)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Create a location simulator</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.routing.Route,com.here.sdk.navigation.LocationSimulatorOptions)">LocationSimulator</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-route" title="class in com.here.sdk.routing">Route</a> route,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-locationsimulatoroptions" title="class in com.here.sdk.navigation">LocationSimulatorOptions</a> options)</code></div>
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.routing.Route,com.here.sdk.navigation.LocationSimulatorOptions)">LocationSimulator</a><wbr/>(<a href="sdk-for-android-navigate-route" title="class in com.here.sdk.routing">Route</a> route,
+ <a href="sdk-for-android-navigate-locationsimulatoroptions" title="class in com.here.sdk.navigation">LocationSimulatorOptions</a> options)</code></div>
 <div class="col-last odd-row-color">
 <div class="block">Creates a new instance of this class.</div>
 </div>
@@ -89,33 +88,33 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-locationsimulator"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-locationlistener" title="interface in com.here.sdk.core">LocationListener</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#getListener()">getListener</a>()</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-locationlistener" title="interface in com.here.sdk.core">LocationListener</a></code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getListener()">getListener</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets a <code>LocationListener</code> that notifies on location updates.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#pause()">pause</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#pause()">pause</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Pauses sending notifications to the subscribers.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#resume()">resume</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#resume()">resume</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Resumes sending notifications to the subscribers.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#setListener(com.here.sdk.core.LocationListener)">setListener</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-locationlistener" title="interface in com.here.sdk.core">LocationListener</a> value)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setListener(com.here.sdk.core.LocationListener)">setListener</a><wbr/>(<a href="sdk-for-android-navigate-locationlistener" title="interface in com.here.sdk.core">LocationListener</a> value)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets a <code>LocationListener</code> that notifies on location updates.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#start()">start</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#start()">start</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Starts the location provider to send notifications to the subscribers.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#stop()">stop</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#stop()">stop</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Stops the location provider from sending notifications to the subscribers.</div>
 </div>
@@ -140,17 +139,17 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-locationsimulator"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.routing.Route,com.here.sdk.navigation.LocationSimulatorOptions)">
 <h3>LocationSimulator</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">LocationSimulator</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-route" title="class in com.here.sdk.routing">Route</a> route,
+ <a href="sdk-for-android-navigate-route" title="class in com.here.sdk.routing">Route</a> route,
  @NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-locationsimulatoroptions" title="class in com.here.sdk.navigation">LocationSimulatorOptions</a> options)</span>
-                  throws <span class="exceptions"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></span></div>
+ <a href="sdk-for-android-navigate-locationsimulatoroptions" title="class in com.here.sdk.navigation">LocationSimulatorOptions</a> options)</span>
+                  throws <span class="exceptions"><a href="sdk-for-android-navigate-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></span></div>
 <div class="block"><p>Creates a new instance of this class.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>route</code> - <p>The route to travel.</p></dd>
 <dd><code>options</code> - <p>The options to specify how the location simulator will behave.</p></dd>
 <dt>Throws:</dt>
-<dd><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></code> - <p>Indicates what went wrong when the instantiation was attempted.</p></dd>
+<dd><code><a href="sdk-for-android-navigate-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></code> - <p>Indicates what went wrong when the instantiation was attempted.</p></dd>
 </dl>
 </section>
 </li>
@@ -158,17 +157,17 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-locationsimulator"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.navigation.GPXTrack,com.here.sdk.navigation.LocationSimulatorOptions)">
 <h3>LocationSimulator</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">LocationSimulator</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-gpxtrack" title="class in com.here.sdk.navigation">GPXTrack</a> gpxTrack,
+ <a href="sdk-for-android-navigate-gpxtrack" title="class in com.here.sdk.navigation">GPXTrack</a> gpxTrack,
  @NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-locationsimulatoroptions" title="class in com.here.sdk.navigation">LocationSimulatorOptions</a> options)</span>
-                  throws <span class="exceptions"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></span></div>
+ <a href="sdk-for-android-navigate-locationsimulatoroptions" title="class in com.here.sdk.navigation">LocationSimulatorOptions</a> options)</span>
+                  throws <span class="exceptions"><a href="sdk-for-android-navigate-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></span></div>
 <div class="block"><p>Create a location simulator</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>gpxTrack</code> - <p>The GPX track to travel.</p></dd>
 <dd><code>options</code> - <p>The options to specify how the location simulator will behave.</p></dd>
 <dt>Throws:</dt>
-<dd><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></code> - <p>Indicates what went wrong when the instantiation was attempted.</p></dd>
+<dd><code><a href="sdk-for-android-navigate-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></code> - <p>Indicates what went wrong when the instantiation was attempted.</p></dd>
 </dl>
 </section>
 </li>
@@ -186,7 +185,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-locationsimulator"
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">start</span>()</div>
 <div class="block"><p>Starts the location provider to send notifications to the subscribers.
  Calling this method will always start the location simulator from the route's first
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-waypoint" title="class in com.here.sdk.routing"><code>Waypoint</code></a>, even if a simulation has already been started or stopped.</p></div>
+ <a href="sdk-for-android-navigate-waypoint" title="class in com.here.sdk.routing"><code>Waypoint</code></a>, even if a simulation has already been started or stopped.</p></div>
 </section>
 </li>
 <li>
@@ -216,7 +215,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-locationsimulator"
 <section class="detail" id="getListener()">
 <h3>getListener</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-locationlistener" title="interface in com.here.sdk.core">LocationListener</a></span> <span class="element-name">getListener</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-locationlistener" title="interface in com.here.sdk.core">LocationListener</a></span> <span class="element-name">getListener</span>()</div>
 <div class="block"><p>Gets a <code>LocationListener</code> that notifies on location updates.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -228,7 +227,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-locationsimulator"
 <section class="detail" id="setListener(com.here.sdk.core.LocationListener)">
 <h3>setListener</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setListener</span><wbr/><span class="parameters">(@Nullable
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-locationlistener" title="interface in com.here.sdk.core">LocationListener</a> value)</span></div>
+ <a href="sdk-for-android-navigate-locationlistener" title="interface in com.here.sdk.core">LocationListener</a> value)</span></div>
 <div class="block"><p>Sets a <code>LocationListener</code> that notifies on location updates.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

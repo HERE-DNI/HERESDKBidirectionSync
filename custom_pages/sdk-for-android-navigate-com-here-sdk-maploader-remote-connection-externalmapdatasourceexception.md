@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-remote-connection-externa
 `
 <div class="sdk-for-android">
 <!-- ExternalMapDataSourceException.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,7 +19,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-remote-connection-externa
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.maploader.remote.connection</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-maploader-remote-connection-package-summary">com.here.sdk.maploader.remote.connection</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -44,7 +43,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-remote-connection-externa
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-serialized-form#com.here.sdk.maploader.remote.connection.ExternalMapDataSourceException">Serialized Form</a></li>
+<li><a href="sdk-for-android-navigate-serialized-form#com.here.sdk.maploader.remote.connection.ExternalMapDataSourceException">Serialized Form</a></li>
 </ul>
 </dd>
 </dl>

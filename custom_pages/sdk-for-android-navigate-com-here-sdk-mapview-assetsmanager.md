@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-assetsmanager"
 `
 <div class="sdk-for-android">
 <!-- AssetsManager.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,18 +19,18 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-assetsmanager"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.mapview</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-nativebase" title="class in com.here">com.here.NativeBase</a>
+<div class="inheritance"><a href="sdk-for-android-navigate-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.mapview.AssetsManager</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 <hr/>
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">AssetsManager</span>
-<span class="extends-implements">extends <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-nativebase" title="class in com.here">NativeBase</a></span></div>
+<span class="extends-implements">extends <a href="sdk-for-android-navigate-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>Assets manager interface. Can be used to make assets available to the SDK.
  </p><p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
  behavior. Related APIs may change for new releases without a deprecation process.</p></div>
@@ -46,7 +45,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-assetsmanager"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.mapview.MapContext)">AssetsManager</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapcontext" title="class in com.here.sdk.mapview">MapContext</a> context)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.mapview.MapContext)">AssetsManager</a><wbr/>(<a href="sdk-for-android-navigate-mapcontext" title="class in com.here.sdk.mapview">MapContext</a> context)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates an instance of AssetsManager.</div>
 </div>
@@ -65,13 +64,13 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-assetsmanager"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#registerFont(java.lang.String,java.lang.String)">registerFont</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> fontName,
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#registerFont(java.lang.String,java.lang.String)">registerFont</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> fontName,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> fontPath)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Registers a font under a font name.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#registerFontWithFallback(java.lang.String,java.lang.String,java.util.List)">registerFontWithFallback</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> fontName,
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#registerFontWithFallback(java.lang.String,java.lang.String,java.util.List)">registerFontWithFallback</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> fontName,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> fontPath,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a>&gt; fallbackFontFilePaths)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
@@ -98,7 +97,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-assetsmanager"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.mapview.MapContext)">
 <h3>AssetsManager</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">AssetsManager</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapcontext" title="class in com.here.sdk.mapview">MapContext</a> context)</span></div>
+ <a href="sdk-for-android-navigate-mapcontext" title="class in com.here.sdk.mapview">MapContext</a> context)</span></div>
 <div class="block"><p>Creates an instance of AssetsManager.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -124,8 +123,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-assetsmanager"
 <div class="block"><p>Registers a font under a font name.
  After registration, the font name can be used in
  <ul>
-<li>the SVG <code>text</code> tag as <code>font-family</code> attribute parameter when creating a <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapimage" title="class in com.here.sdk.mapview"><code>MapImage</code></a> with <code>ImageFormat.SVG</code>.</li>
-<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapmarker.textstyle" title="class in com.here.sdk.mapview"><code>MapMarker.TextStyle</code></a></li>
+<li>the SVG <code>text</code> tag as <code>font-family</code> attribute parameter when creating a <a href="sdk-for-android-navigate-mapimage" title="class in com.here.sdk.mapview"><code>MapImage</code></a> with <code>ImageFormat.SVG</code>.</li>
+<li><a href="sdk-for-android-navigate-mapmarker.textstyle" title="class in com.here.sdk.mapview"><code>MapMarker.TextStyle</code></a></li>
 </ul>
 </p><p>Repeated registration with the same font name is ignored.</p></div>
 <dl class="notes">
@@ -148,8 +147,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-assetsmanager"
 <div class="block"><p>Registers a font set under a font name.
  After registration, the font name can be used in
  <ul>
-<li>the SVG <code>text</code> tag as <code>font-family</code> attribute parameter when creating a <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapimage" title="class in com.here.sdk.mapview"><code>MapImage</code></a> with <code>ImageFormat.SVG</code>.</li>
-<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapmarker.textstyle" title="class in com.here.sdk.mapview"><code>MapMarker.TextStyle</code></a></li>
+<li>the SVG <code>text</code> tag as <code>font-family</code> attribute parameter when creating a <a href="sdk-for-android-navigate-mapimage" title="class in com.here.sdk.mapview"><code>MapImage</code></a> with <code>ImageFormat.SVG</code>.</li>
+<li><a href="sdk-for-android-navigate-mapmarker.textstyle" title="class in com.here.sdk.mapview"><code>MapMarker.TextStyle</code></a></li>
 </ul>
 </p><p>Repeated registration with the same font name is ignored.</p></div>
 <dl class="notes">

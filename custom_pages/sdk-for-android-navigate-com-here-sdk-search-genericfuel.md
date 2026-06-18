@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-genericfuel"
 `
 <div class="sdk-for-android">
 <!-- GenericFuel.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,7 +19,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-genericfuel"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.search</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-search-package-summary">com.here.sdk.search</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -45,13 +44,13 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-genericfuel"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-fueladditive" title="class in com.here.sdk.search">FuelAdditive</a>&gt;</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#additives">additives</a></code></div>
+<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-fueladditive" title="class in com.here.sdk.search">FuelAdditive</a>&gt;</code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#additives">additives</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The list of available fuel additives.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-fueltype" title="enum class in com.here.sdk.transport">FuelType</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#type">type</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-fueltype" title="enum class in com.here.sdk.transport">FuelType</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#type">type</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The type of the fuel.</div>
 </div>
@@ -66,7 +65,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-genericfuel"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.transport.FuelType)">GenericFuel</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-fueltype" title="enum class in com.here.sdk.transport">FuelType</a> type)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.transport.FuelType)">GenericFuel</a><wbr/>(<a href="sdk-for-android-navigate-fueltype" title="enum class in com.here.sdk.transport">FuelType</a> type)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -85,10 +84,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-genericfuel"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 </div>
 </div>
@@ -111,7 +110,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-genericfuel"
 <section class="detail" id="type">
 <h3>type</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-fueltype" title="enum class in com.here.sdk.transport">FuelType</a></span> <span class="element-name">type</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-fueltype" title="enum class in com.here.sdk.transport">FuelType</a></span> <span class="element-name">type</span></div>
 <div class="block"><p>The type of the fuel.</p></div>
 </section>
 </li>
@@ -119,7 +118,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-genericfuel"
 <section class="detail" id="additives">
 <h3>additives</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-fueladditive" title="class in com.here.sdk.search">FuelAdditive</a>&gt;</span> <span class="element-name">additives</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-fueladditive" title="class in com.here.sdk.search">FuelAdditive</a>&gt;</span> <span class="element-name">additives</span></div>
 <div class="block"><p>The list of available fuel additives.
  The list can be empty when no fuel additives are available or when the information is unknown.</p></div>
 </section>
@@ -136,7 +135,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-genericfuel"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.transport.FuelType)">
 <h3>GenericFuel</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">GenericFuel</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-fueltype" title="enum class in com.here.sdk.transport">FuelType</a> type)</span></div>
+ <a href="sdk-for-android-navigate-fueltype" title="enum class in com.here.sdk.transport">FuelType</a> type)</span></div>
 <div class="block"><p>Creates a new instance.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcamera-state"
 `
 <div class="sdk-for-android">
 <!-- MapCamera.State.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,7 +19,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcamera-state"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.mapview</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -29,7 +28,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcamera-state"
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>Enclosing class:</dt>
-<dd><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-mapcamera" title="class in com.here.sdk.mapview">MapCamera</a></dd>
+<dd><a href="sdk-for-android-navigate-mapcamera" title="class in com.here.sdk.mapview">MapCamera</a></dd>
 </dl>
 <hr/>
 <div class="type-signature"><span class="modifiers">public static final class </span><span class="element-name type-name-label">MapCamera.State</span>
@@ -48,22 +47,22 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcamera-state"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>double</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#distanceToTargetInMeters">distanceToTargetInMeters</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#distanceToTargetInMeters">distanceToTargetInMeters</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Distance from the camera to the target point in meters.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-geoorientation" title="class in com.here.sdk.core">GeoOrientation</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#orientationAtTarget">orientationAtTarget</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-geoorientation" title="class in com.here.sdk.core">GeoOrientation</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#orientationAtTarget">orientationAtTarget</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Camera's orientation at target point.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#targetCoordinates">targetCoordinates</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#targetCoordinates">targetCoordinates</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Camera's 'LookAt' target position in geodetic space.</div>
 </div>
 <div class="col-first odd-row-color"><code>double</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#zoomLevel">zoomLevel</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#zoomLevel">zoomLevel</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Zoom level corresponding to the current distance to target.</div>
 </div>
@@ -78,8 +77,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcamera-state"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.core.GeoCoordinates,com.here.sdk.core.GeoOrientation,double,double)">State</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> targetCoordinates,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-geoorientation" title="class in com.here.sdk.core">GeoOrientation</a> orientationAtTarget,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.core.GeoCoordinates,com.here.sdk.core.GeoOrientation,double,double)">State</a><wbr/>(<a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> targetCoordinates,
+ <a href="sdk-for-android-navigate-geoorientation" title="class in com.here.sdk.core">GeoOrientation</a> orientationAtTarget,
  double distanceToTargetInMeters,
  double zoomLevel)</code></div>
 <div class="col-last even-row-color">
@@ -110,7 +109,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcamera-state"
 <section class="detail" id="targetCoordinates">
 <h3>targetCoordinates</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">targetCoordinates</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">targetCoordinates</span></div>
 <div class="block"><p>Camera's 'LookAt' target position in geodetic space.
  </p><p>Note: The altitude of the target point is ignored. Any subsequent camera updates and animations
  will consider the target point as being located on the ground.</p></div>
@@ -120,7 +119,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcamera-state"
 <section class="detail" id="orientationAtTarget">
 <h3>orientationAtTarget</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-geoorientation" title="class in com.here.sdk.core">GeoOrientation</a></span> <span class="element-name">orientationAtTarget</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-geoorientation" title="class in com.here.sdk.core">GeoOrientation</a></span> <span class="element-name">orientationAtTarget</span></div>
 <div class="block"><p>Camera's orientation at target point.</p></div>
 </section>
 </li>
@@ -150,9 +149,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcamera-state"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.core.GeoCoordinates,com.here.sdk.core.GeoOrientation,double,double)">
 <h3>State</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">State</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> targetCoordinates,
+ <a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> targetCoordinates,
  @NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-geoorientation" title="class in com.here.sdk.core">GeoOrientation</a> orientationAtTarget,
+ <a href="sdk-for-android-navigate-geoorientation" title="class in com.here.sdk.core">GeoOrientation</a> orientationAtTarget,
  double distanceToTargetInMeters,
  double zoomLevel)</span></div>
 <div class="block"><p>Creates a new instance.</p></div>

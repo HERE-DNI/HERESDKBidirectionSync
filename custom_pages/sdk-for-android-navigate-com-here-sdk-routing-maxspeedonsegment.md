@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-maxspeedonsegment"
 `
 <div class="sdk-for-android">
 <!-- MaxSpeedOnSegment.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,7 +19,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-maxspeedonsegment"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.routing</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-routing-package-summary">com.here.sdk.routing</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -45,12 +44,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-maxspeedonsegment"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>double</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#baseSpeedInMetersPerSecond">baseSpeedInMetersPerSecond</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#baseSpeedInMetersPerSecond">baseSpeedInMetersPerSecond</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">New maximum value in m/s of baseSpeed on segment.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-segmentreference" title="class in com.here.sdk.routing">SegmentReference</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#segment">segment</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-segmentreference" title="class in com.here.sdk.routing">SegmentReference</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#segment">segment</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">A segment for which the new base speed is specified.</div>
 </div>
@@ -65,7 +64,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-maxspeedonsegment"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.routing.SegmentReference,double)">MaxSpeedOnSegment</a><wbr/>(<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-segmentreference" title="class in com.here.sdk.routing">SegmentReference</a> segment,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.routing.SegmentReference,double)">MaxSpeedOnSegment</a><wbr/>(<a href="sdk-for-android-navigate-segmentreference" title="class in com.here.sdk.routing">SegmentReference</a> segment,
  double baseSpeedInMetersPerSecond)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
@@ -85,10 +84,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-maxspeedonsegment"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 </div>
 </div>
@@ -111,11 +110,11 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-maxspeedonsegment"
 <section class="detail" id="segment">
 <h3>segment</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-segmentreference" title="class in com.here.sdk.routing">SegmentReference</a></span> <span class="element-name">segment</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-segmentreference" title="class in com.here.sdk.routing">SegmentReference</a></span> <span class="element-name">segment</span></div>
 <div class="block"><p>A segment for which the new base speed is specified. Only the <code>segmendId</code> and <code>travelDirection</code>
  parameters are used, other parameters are ignored. Setting a <code>segmendId</code> is mandatory.
  </p><p><strong>Note:</strong> The <code>SegmentReference</code> is not directly accessible from the map via the HERE SDK.
- Although, after route calculation you can retrieve the related segments for each <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-span" title="class in com.here.sdk.routing"><code>Span</code></a>.
+ Although, after route calculation you can retrieve the related segments for each <a href="sdk-for-android-navigate-span" title="class in com.here.sdk.routing"><code>Span</code></a>.
  The segment IDs are the same that are also used by, for example, the <a href="https://www.here.com/docs/bundle/routing-api-developer-guide-v8/page/topics/use-cases/avoid-segments.html">Routing REST API</a>.
  These IDs are mostly stable and only change when the underlying map data changes
  due to a new road or similar changes in the real world.</p></div>
@@ -141,7 +140,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-maxspeedonsegment"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.routing.SegmentReference,double)">
 <h3>MaxSpeedOnSegment</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">MaxSpeedOnSegment</span><wbr/><span class="parameters">(@NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-segmentreference" title="class in com.here.sdk.routing">SegmentReference</a> segment,
+ <a href="sdk-for-android-navigate-segmentreference" title="class in com.here.sdk.routing">SegmentReference</a> segment,
  double baseSpeedInMetersPerSecond)</span></div>
 <div class="block"><p>Creates a new instance.</p></div>
 <dl class="notes">
@@ -149,7 +148,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-maxspeedonsegment"
 <dd><code>segment</code> - <p>A segment for which the new base speed is specified. Only the <code>segmendId</code> and <code>travelDirection</code>
  parameters are used, other parameters are ignored. Setting a <code>segmendId</code> is mandatory.
  </p><p><strong>Note:</strong> The <code>SegmentReference</code> is not directly accessible from the map via the HERE SDK.
- Although, after route calculation you can retrieve the related segments for each <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-span" title="class in com.here.sdk.routing"><code>Span</code></a>.
+ Although, after route calculation you can retrieve the related segments for each <a href="sdk-for-android-navigate-span" title="class in com.here.sdk.routing"><code>Span</code></a>.
  The segment IDs are the same that are also used by, for example, the <a href="https://www.here.com/docs/bundle/routing-api-developer-guide-v8/page/topics/use-cases/avoid-segments.html">Routing REST API</a>.
  These IDs are mostly stable and only change when the underlying map data changes
  due to a new road or similar changes in the real world.</p></dd>

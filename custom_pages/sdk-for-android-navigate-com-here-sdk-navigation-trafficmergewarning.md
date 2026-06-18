@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-trafficmergewarning"
 `
 <div class="sdk-for-android">
 <!-- TrafficMergeWarning.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,7 +19,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-trafficmergewarning"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.navigation</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-navigation-package-summary">com.here.sdk.navigation</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -46,32 +45,32 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-trafficmergewarning"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>double</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#distanceToTrafficMergeInMeters">distanceToTrafficMergeInMeters</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#distanceToTrafficMergeInMeters">distanceToTrafficMergeInMeters</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Distance to merging traffic in meters.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#distanceType">distanceType</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#distanceType">distanceType</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The distance type for the warning, e.g.</div>
 </div>
 <div class="col-first even-row-color"><code>int</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#id">id</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#id">id</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Unique identifier for this specific traffic merge warning instance.</div>
 </div>
 <div class="col-first odd-row-color"><code>int</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#laneCount">laneCount</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#laneCount">laneCount</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Number of lanes of the merging road containing the traffic.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-trafficmergeroadtype" title="enum class in com.here.sdk.navigation">TrafficMergeRoadType</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#roadType">roadType</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-trafficmergeroadtype" title="enum class in com.here.sdk.navigation">TrafficMergeRoadType</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#roadType">roadType</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Type of road which contains the merging traffic.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-trafficmergeside" title="enum class in com.here.sdk.navigation">TrafficMergeSide</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#side">side</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-trafficmergeside" title="enum class in com.here.sdk.navigation">TrafficMergeSide</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#side">side</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The side from which the traffic is merging.</div>
 </div>
@@ -86,8 +85,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-trafficmergewarning"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#%3Cinit%3E(double,com.here.sdk.navigation.DistanceType)">TrafficMergeWarning</a><wbr/>(double distanceToTrafficMergeInMeters,
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a> distanceType)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(double,com.here.sdk.navigation.DistanceType)">TrafficMergeWarning</a><wbr/>(double distanceToTrafficMergeInMeters,
+ <a href="sdk-for-android-navigate-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a> distanceType)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -106,10 +105,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-trafficmergewarning"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 </div>
 </div>
@@ -148,7 +147,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-trafficmergewarning"
 <section class="detail" id="roadType">
 <h3>roadType</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-trafficmergeroadtype" title="enum class in com.here.sdk.navigation">TrafficMergeRoadType</a></span> <span class="element-name">roadType</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-trafficmergeroadtype" title="enum class in com.here.sdk.navigation">TrafficMergeRoadType</a></span> <span class="element-name">roadType</span></div>
 <div class="block"><p>Type of road which contains the merging traffic.</p></div>
 </section>
 </li>
@@ -156,7 +155,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-trafficmergewarning"
 <section class="detail" id="side">
 <h3>side</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-trafficmergeside" title="enum class in com.here.sdk.navigation">TrafficMergeSide</a></span> <span class="element-name">side</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-trafficmergeside" title="enum class in com.here.sdk.navigation">TrafficMergeSide</a></span> <span class="element-name">side</span></div>
 <div class="block"><p>The side from which the traffic is merging.</p></div>
 </section>
 </li>
@@ -172,7 +171,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-trafficmergewarning"
 <section class="detail" id="distanceType">
 <h3>distanceType</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a></span> <span class="element-name">distanceType</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a></span> <span class="element-name">distanceType</span></div>
 <div class="block"><p>The distance type for the warning, e.g. a warning for a new traffic merge location ahead or a warning for
  passing a traffic merge location. Since the traffic merge warning is given relative to a single position on
  the route, <code>DistanceType.REACHED</code> will never be given for this warning.</p></div>
@@ -191,7 +190,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-trafficmergewarning"
 <h3>TrafficMergeWarning</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">TrafficMergeWarning</span><wbr/><span class="parameters">(double distanceToTrafficMergeInMeters,
  @NonNull
- <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a> distanceType)</span></div>
+ <a href="sdk-for-android-navigate-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a> distanceType)</span></div>
 <div class="block"><p>Creates a new instance.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

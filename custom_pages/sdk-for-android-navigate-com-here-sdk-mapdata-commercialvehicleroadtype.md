@@ -7,7 +7,6 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-commercialvehicleroadtype"
 `
 <div class="sdk-for-android">
 <!-- CommercialVehicleRoadType.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,22 +19,22 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-commercialvehicleroadtype"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-package-summary">com.here.sdk.mapdata</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-mapdata-package-summary">com.here.sdk.mapdata</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">java.lang.Enum</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-commercialvehicleroadtype" title="enum class in com.here.sdk.mapdata">CommercialVehicleRoadType</a>&gt;
+<div class="inheritance"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">java.lang.Enum</a>&lt;<a href="sdk-for-android-navigate-commercialvehicleroadtype" title="enum class in com.here.sdk.mapdata">CommercialVehicleRoadType</a>&gt;
 <div class="inheritance">com.here.sdk.mapdata.CommercialVehicleRoadType</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>All Implemented Interfaces:</dt>
-<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" title="class or interface in java.io">Serializable</a></code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" title="class or interface in java.lang">Comparable</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-commercialvehicleroadtype" title="enum class in com.here.sdk.mapdata">CommercialVehicleRoadType</a>&gt;</code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" title="class or interface in java.lang.constant">Constable</a></code></dd>
+<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" title="class or interface in java.io">Serializable</a></code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" title="class or interface in java.lang">Comparable</a>&lt;<a href="sdk-for-android-navigate-commercialvehicleroadtype" title="enum class in com.here.sdk.mapdata">CommercialVehicleRoadType</a>&gt;</code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" title="class or interface in java.lang.constant">Constable</a></code></dd>
 </dl>
 <hr/>
 <div class="type-signature"><span class="modifiers">public enum </span><span class="element-name type-name-label">CommercialVehicleRoadType</span>
-<span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-commercialvehicleroadtype" title="enum class in com.here.sdk.mapdata">CommercialVehicleRoadType</a>&gt;</span></div>
+<span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a href="sdk-for-android-navigate-commercialvehicleroadtype" title="enum class in com.here.sdk.mapdata">CommercialVehicleRoadType</a>&gt;</span></div>
 <div class="block"><p>Concise description of road type used in commercial vehicle regulations.
  </p><p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
  behaviors. Related APIs may change for new releases without a deprecation process.</p></div>
@@ -59,51 +58,51 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-commercialvehicleroadtype"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Enum Constant</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#DUAL_CARRIAGEWAY">DUAL_CARRIAGEWAY</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#DUAL_CARRIAGEWAY">DUAL_CARRIAGEWAY</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Dual carriageway road.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#EXPRESS_ROAD">EXPRESS_ROAD</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#EXPRESS_ROAD">EXPRESS_ROAD</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Express road.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#EXPRESSWAY">EXPRESSWAY</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#EXPRESSWAY">EXPRESSWAY</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Expressway.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#FREEWAY">FREEWAY</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#FREEWAY">FREEWAY</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Freeway.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#HIGHWAY">HIGHWAY</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#HIGHWAY">HIGHWAY</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Highway road type.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#INTERSTATE">INTERSTATE</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#INTERSTATE">INTERSTATE</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Interstate highway.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#LIMITED_ACCESS">LIMITED_ACCESS</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#LIMITED_ACCESS">LIMITED_ACCESS</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Limited access road.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#MOTORISED_VEHICLES_ONLY">MOTORISED_VEHICLES_ONLY</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#MOTORISED_VEHICLES_ONLY">MOTORISED_VEHICLES_ONLY</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Roads restricted to motorised vehicles only.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#MOTORWAY">MOTORWAY</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#MOTORWAY">MOTORWAY</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Motorway road type.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#NON_MOTORWAY">NON_MOTORWAY</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#NON_MOTORWAY">NON_MOTORWAY</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Non-motorway road type.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#OTHER">OTHER</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#OTHER">OTHER</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Other road type not covered by specific categories.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#SINGLE_CARRIAGEWAY">SINGLE_CARRIAGEWAY</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#SINGLE_CARRIAGEWAY">SINGLE_CARRIAGEWAY</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Single carriageway road.</div>
 </div>
@@ -121,13 +120,13 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-commercialvehicleroadtype"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-commercialvehicleroadtype" title="enum class in com.here.sdk.mapdata">CommercialVehicleRoadType</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-commercialvehicleroadtype" title="enum class in com.here.sdk.mapdata">CommercialVehicleRoadType</a></code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-commercialvehicleroadtype" title="enum class in com.here.sdk.mapdata">CommercialVehicleRoadType</a>[]</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-index#values()">values</a>()</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-commercialvehicleroadtype" title="enum class in com.here.sdk.mapdata">CommercialVehicleRoadType</a>[]</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
@@ -155,84 +154,84 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="HIGHWAY">
 <h3>HIGHWAY</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-commercialvehicleroadtype" title="enum class in com.here.sdk.mapdata">CommercialVehicleRoadType</a></span> <span class="element-name">HIGHWAY</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-commercialvehicleroadtype" title="enum class in com.here.sdk.mapdata">CommercialVehicleRoadType</a></span> <span class="element-name">HIGHWAY</span></div>
 <div class="block"><p>Highway road type.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="MOTORWAY">
 <h3>MOTORWAY</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-commercialvehicleroadtype" title="enum class in com.here.sdk.mapdata">CommercialVehicleRoadType</a></span> <span class="element-name">MOTORWAY</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-commercialvehicleroadtype" title="enum class in com.here.sdk.mapdata">CommercialVehicleRoadType</a></span> <span class="element-name">MOTORWAY</span></div>
 <div class="block"><p>Motorway road type.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="NON_MOTORWAY">
 <h3>NON_MOTORWAY</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-commercialvehicleroadtype" title="enum class in com.here.sdk.mapdata">CommercialVehicleRoadType</a></span> <span class="element-name">NON_MOTORWAY</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-commercialvehicleroadtype" title="enum class in com.here.sdk.mapdata">CommercialVehicleRoadType</a></span> <span class="element-name">NON_MOTORWAY</span></div>
 <div class="block"><p>Non-motorway road type.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="MOTORISED_VEHICLES_ONLY">
 <h3>MOTORISED_VEHICLES_ONLY</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-commercialvehicleroadtype" title="enum class in com.here.sdk.mapdata">CommercialVehicleRoadType</a></span> <span class="element-name">MOTORISED_VEHICLES_ONLY</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-commercialvehicleroadtype" title="enum class in com.here.sdk.mapdata">CommercialVehicleRoadType</a></span> <span class="element-name">MOTORISED_VEHICLES_ONLY</span></div>
 <div class="block"><p>Roads restricted to motorised vehicles only.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="SINGLE_CARRIAGEWAY">
 <h3>SINGLE_CARRIAGEWAY</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-commercialvehicleroadtype" title="enum class in com.here.sdk.mapdata">CommercialVehicleRoadType</a></span> <span class="element-name">SINGLE_CARRIAGEWAY</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-commercialvehicleroadtype" title="enum class in com.here.sdk.mapdata">CommercialVehicleRoadType</a></span> <span class="element-name">SINGLE_CARRIAGEWAY</span></div>
 <div class="block"><p>Single carriageway road.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="DUAL_CARRIAGEWAY">
 <h3>DUAL_CARRIAGEWAY</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-commercialvehicleroadtype" title="enum class in com.here.sdk.mapdata">CommercialVehicleRoadType</a></span> <span class="element-name">DUAL_CARRIAGEWAY</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-commercialvehicleroadtype" title="enum class in com.here.sdk.mapdata">CommercialVehicleRoadType</a></span> <span class="element-name">DUAL_CARRIAGEWAY</span></div>
 <div class="block"><p>Dual carriageway road.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="EXPRESS_ROAD">
 <h3>EXPRESS_ROAD</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-commercialvehicleroadtype" title="enum class in com.here.sdk.mapdata">CommercialVehicleRoadType</a></span> <span class="element-name">EXPRESS_ROAD</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-commercialvehicleroadtype" title="enum class in com.here.sdk.mapdata">CommercialVehicleRoadType</a></span> <span class="element-name">EXPRESS_ROAD</span></div>
 <div class="block"><p>Express road.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="EXPRESSWAY">
 <h3>EXPRESSWAY</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-commercialvehicleroadtype" title="enum class in com.here.sdk.mapdata">CommercialVehicleRoadType</a></span> <span class="element-name">EXPRESSWAY</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-commercialvehicleroadtype" title="enum class in com.here.sdk.mapdata">CommercialVehicleRoadType</a></span> <span class="element-name">EXPRESSWAY</span></div>
 <div class="block"><p>Expressway.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="FREEWAY">
 <h3>FREEWAY</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-commercialvehicleroadtype" title="enum class in com.here.sdk.mapdata">CommercialVehicleRoadType</a></span> <span class="element-name">FREEWAY</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-commercialvehicleroadtype" title="enum class in com.here.sdk.mapdata">CommercialVehicleRoadType</a></span> <span class="element-name">FREEWAY</span></div>
 <div class="block"><p>Freeway.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="INTERSTATE">
 <h3>INTERSTATE</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-commercialvehicleroadtype" title="enum class in com.here.sdk.mapdata">CommercialVehicleRoadType</a></span> <span class="element-name">INTERSTATE</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-commercialvehicleroadtype" title="enum class in com.here.sdk.mapdata">CommercialVehicleRoadType</a></span> <span class="element-name">INTERSTATE</span></div>
 <div class="block"><p>Interstate highway.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="LIMITED_ACCESS">
 <h3>LIMITED_ACCESS</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-commercialvehicleroadtype" title="enum class in com.here.sdk.mapdata">CommercialVehicleRoadType</a></span> <span class="element-name">LIMITED_ACCESS</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-commercialvehicleroadtype" title="enum class in com.here.sdk.mapdata">CommercialVehicleRoadType</a></span> <span class="element-name">LIMITED_ACCESS</span></div>
 <div class="block"><p>Limited access road.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="OTHER">
 <h3>OTHER</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-commercialvehicleroadtype" title="enum class in com.here.sdk.mapdata">CommercialVehicleRoadType</a></span> <span class="element-name">OTHER</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-commercialvehicleroadtype" title="enum class in com.here.sdk.mapdata">CommercialVehicleRoadType</a></span> <span class="element-name">OTHER</span></div>
 <div class="block"><p>Other road type not covered by specific categories.</p></div>
 </section>
 </li>
@@ -247,7 +246,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="values()">
 <h3>values</h3>
-<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-commercialvehicleroadtype" title="enum class in com.here.sdk.mapdata">CommercialVehicleRoadType</a>[]</span> <span class="element-name">values</span>()</div>
+<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-navigate-commercialvehicleroadtype" title="enum class in com.here.sdk.mapdata">CommercialVehicleRoadType</a>[]</span> <span class="element-name">values</span>()</div>
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
 <dl class="notes">
@@ -259,7 +258,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="valueOf(java.lang.String)">
 <h3>valueOf</h3>
-<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-navigate-commercialvehicleroadtype" title="enum class in com.here.sdk.mapdata">CommercialVehicleRoadType</a></span> <span class="element-name">valueOf</span><wbr/><span class="parameters">(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</span></div>
+<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-navigate-commercialvehicleroadtype" title="enum class in com.here.sdk.mapdata">CommercialVehicleRoadType</a></span> <span class="element-name">valueOf</span><wbr/><span class="parameters">(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</span></div>
 <div class="block">Returns the enum constant of this class with the specified name.
 The string must match <i>exactly</i> an identifier used to declare an
 enum constant in this class.  (Extraneous whitespace characters are 

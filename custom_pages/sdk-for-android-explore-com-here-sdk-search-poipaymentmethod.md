@@ -7,7 +7,6 @@ slug: "sdk-for-android-explore-com-here-sdk-search-poipaymentmethod"
 `
 <div class="sdk-for-android">
 <!-- POIPaymentMethod.html -->
-<!DOCTYPE HTML>
 
 
 
@@ -20,7 +19,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-poipaymentmethod"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-package-summary">com.here.sdk.search</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-search-package-summary">com.here.sdk.search</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -31,7 +30,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-poipaymentmethod"
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">POIPaymentMethod</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
 <div class="block"><p>Holds constants that represent payment methods.
- </p><p>See <a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-poipaymentdetails" title="class in com.here.sdk.search"><code>POIPaymentDetails</code></a> for usage.
+ </p><p>See <a href="sdk-for-android-explore-poipaymentdetails" title="class in com.here.sdk.search"><code>POIPaymentDetails</code></a> for usage.
  </p><p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and
  unexpected behaviors.
  Related APIs may change for new releases without a deprecation process.</p></div>
@@ -48,82 +47,82 @@ slug: "sdk-for-android-explore-com-here-sdk-search-poipaymentmethod"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#AMEX">AMEX</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#AMEX">AMEX</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">American express credit card</div>
 </div>
 <div class="col-first odd-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#AMPOL">AMPOL</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#AMPOL">AMPOL</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Ampol app</div>
 </div>
 <div class="col-first even-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#ANDROID_PAY">ANDROID_PAY</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#ANDROID_PAY">ANDROID_PAY</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Android pay</div>
 </div>
 <div class="col-first odd-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#APPLE_PAY">APPLE_PAY</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#APPLE_PAY">APPLE_PAY</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Apple pay</div>
 </div>
 <div class="col-first even-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#CASH">CASH</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#CASH">CASH</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Cash</div>
 </div>
 <div class="col-first odd-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#CHEQUE">CHEQUE</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#CHEQUE">CHEQUE</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Cheque</div>
 </div>
 <div class="col-first even-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#DEBIT_CARD">DEBIT_CARD</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#DEBIT_CARD">DEBIT_CARD</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Debit card</div>
 </div>
 <div class="col-first odd-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#DINERS_CLUB">DINERS_CLUB</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#DINERS_CLUB">DINERS_CLUB</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Diners club credit card</div>
 </div>
 <div class="col-first even-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#DISCOVER">DISCOVER</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#DISCOVER">DISCOVER</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Discover credit card</div>
 </div>
 <div class="col-first odd-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#DKV">DKV</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#DKV">DKV</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">DKV invoicing service</div>
 </div>
 <div class="col-first even-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#FINANCING">FINANCING</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#FINANCING">FINANCING</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Financing</div>
 </div>
 <div class="col-first odd-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#MASTERCARD">MASTERCARD</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#MASTERCARD">MASTERCARD</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Mastercard credit card</div>
 </div>
 <div class="col-first even-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#MOTORPASS">MOTORPASS</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#MOTORPASS">MOTORPASS</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Motorpass fuel card</div>
 </div>
 <div class="col-first odd-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#PAYPAL">PAYPAL</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#PAYPAL">PAYPAL</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">PayPal</div>
 </div>
 <div class="col-first even-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#SHELL">SHELL</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#SHELL">SHELL</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Shell fuel card</div>
 </div>
 <div class="col-first odd-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#VISA">VISA</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#VISA">VISA</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Visa credit card</div>
 </div>
@@ -138,7 +137,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-poipaymentmethod"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-index#%3Cinit%3E()">POIPaymentMethod</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#%3Cinit%3E()">POIPaymentMethod</a>()</code></div>
 <div class="col-last even-row-color"> </div>
 </div>
 </section>
@@ -170,7 +169,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-poipaymentmethod"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.search.POIPaymentMethod.AMEX">Constant Field Values</a></li>
+<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.search.POIPaymentMethod.AMEX">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -185,7 +184,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-poipaymentmethod"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.search.POIPaymentMethod.AMPOL">Constant Field Values</a></li>
+<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.search.POIPaymentMethod.AMPOL">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -200,7 +199,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-poipaymentmethod"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.search.POIPaymentMethod.ANDROID_PAY">Constant Field Values</a></li>
+<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.search.POIPaymentMethod.ANDROID_PAY">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -215,7 +214,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-poipaymentmethod"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.search.POIPaymentMethod.APPLE_PAY">Constant Field Values</a></li>
+<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.search.POIPaymentMethod.APPLE_PAY">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -230,7 +229,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-poipaymentmethod"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.search.POIPaymentMethod.CASH">Constant Field Values</a></li>
+<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.search.POIPaymentMethod.CASH">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -245,7 +244,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-poipaymentmethod"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.search.POIPaymentMethod.CHEQUE">Constant Field Values</a></li>
+<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.search.POIPaymentMethod.CHEQUE">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -260,7 +259,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-poipaymentmethod"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.search.POIPaymentMethod.DEBIT_CARD">Constant Field Values</a></li>
+<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.search.POIPaymentMethod.DEBIT_CARD">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -275,7 +274,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-poipaymentmethod"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.search.POIPaymentMethod.DINERS_CLUB">Constant Field Values</a></li>
+<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.search.POIPaymentMethod.DINERS_CLUB">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -290,7 +289,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-poipaymentmethod"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.search.POIPaymentMethod.DISCOVER">Constant Field Values</a></li>
+<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.search.POIPaymentMethod.DISCOVER">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -305,7 +304,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-poipaymentmethod"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.search.POIPaymentMethod.DKV">Constant Field Values</a></li>
+<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.search.POIPaymentMethod.DKV">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -320,7 +319,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-poipaymentmethod"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.search.POIPaymentMethod.FINANCING">Constant Field Values</a></li>
+<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.search.POIPaymentMethod.FINANCING">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -335,7 +334,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-poipaymentmethod"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.search.POIPaymentMethod.MASTERCARD">Constant Field Values</a></li>
+<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.search.POIPaymentMethod.MASTERCARD">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -350,7 +349,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-poipaymentmethod"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.search.POIPaymentMethod.MOTORPASS">Constant Field Values</a></li>
+<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.search.POIPaymentMethod.MOTORPASS">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -365,7 +364,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-poipaymentmethod"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.search.POIPaymentMethod.PAYPAL">Constant Field Values</a></li>
+<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.search.POIPaymentMethod.PAYPAL">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -380,7 +379,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-poipaymentmethod"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.search.POIPaymentMethod.SHELL">Constant Field Values</a></li>
+<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.search.POIPaymentMethod.SHELL">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -395,7 +394,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-poipaymentmethod"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="https://docs.here.com/outing-api-test/page/sdk-for-android-explore-constant-values#com.here.sdk.search.POIPaymentMethod.VISA">Constant Field Values</a></li>
+<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.search.POIPaymentMethod.VISA">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
