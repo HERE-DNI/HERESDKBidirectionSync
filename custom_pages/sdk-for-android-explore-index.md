@@ -1,13 +1,13 @@
 ---
-title: "Overview (API Reference)"
-slug: "sdk-for-android-explore-index"
+title: Overview (API Reference)
+slug: sdk-for-android-explore-index
 ---
+<HTMLBlock>{`
+\`
 
-<HTMLBlock>{
-`
 <div class="sdk-for-android">
-<!-- index.html -->
 
+<!-- index.html -->
 
 
 
@@ -21,10 +21,7 @@ slug: "sdk-for-android-explore-index"
 
 </div>
 <div class="block"><p>Browse the latest API Reference for the HERE SDK for Android (Explore), Version 4.26.0.0.278965 Release</p>
-<p>For the terms and conditions covering this documentation, see the <a href="https://legal.here.com/en-gb/terms/documentation-license">HERE Documentation License</a>.
-
-
-
+<p>For the terms and conditions covering this documentation, see the <a href="https://legal.here.com/en-gb/terms/documentation-license">HERE Documentation License</a>
 
 </p><p>We love feedback. Please <a href="https://www.here.com/contact">contact us</a> for any questions, suggestions or improvements. Thank you for using the HERE SDK.</p><p>Be sure to check out our <i>User Guide</i> including a <i>Get Started</i> tutorial that shows how to integrate the HERE SDK into your own apps with a few simple steps.</p></div>
 <div id="all-packages-table">
@@ -75,5 +72,6 @@ slug: "sdk-for-android-explore-index"
 
 
 </div>
-`
-}</HTMLBlock>
+
+\`
+`}</HTMLBlock>
