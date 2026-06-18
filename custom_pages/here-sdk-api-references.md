@@ -8,9 +8,9 @@ Android Explore: <Anchor label="Android Explore API Reference" target="_blank" h
 
 Android Navigate: <Anchor label="Android Navigate API Reference" target="_blank" href="sdk-for-android-navigate-index">Android Navigate API Reference</Anchor>
 
-iOS Explore <Anchor label="iOS Explore API Reference" target="_blank" href="sdk-for-ios-explore-api-reference-index">iOS Explore API Reference</Anchor>
+iOS Explore <Anchor label="iOS Explore API Reference" target="_blank" href="sdk-for-ios-explore-index">iOS Explore API Reference</Anchor>
 
-iOS Navigate: <Anchor label="iOS Navigate API Reference" target="_blank" href="sdk-for-ios-navigate-api-reference-index">iOS Navigate API Reference</Anchor>
+iOS Navigate: <Anchor label="iOS Navigate API Reference" target="_blank" href="sdk-for-ios-navigate-index">iOS Navigate API Reference</Anchor>
 
 Flutter Explore: <Anchor label="Flutter Explore API Reference" target="_blank" href="sdk-for-flutter-explore-index">Flutter Explore API Reference</Anchor>
 
