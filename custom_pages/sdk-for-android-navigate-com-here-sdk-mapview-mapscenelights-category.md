@@ -16,12 +16,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapscenelights-category"
 
 
 
-<main role="main">
-<!-- ======== START OF CLASS DATA ======== -->
-<div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></div>
 
-</div>
+<!-- ======== START OF CLASS DATA ======== -->
+
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
 <div class="inheritance"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">java.lang.Enum</a>&lt;<a href="sdk-for-android-navigate-mapscenelights.category" title="enum class in com.here.sdk.mapview">MapSceneLights.Category</a>&gt;
 <div class="inheritance">com.here.sdk.mapview.MapSceneLights.Category</div>
@@ -36,7 +33,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapscenelights-category"
 <dt>Enclosing class:</dt>
 <dd><a href="sdk-for-android-navigate-mapscenelights" title="class in com.here.sdk.mapview">MapSceneLights</a></dd>
 </dl>
-<hr/>
+
 <div class="type-signature"><span class="modifiers">public static enum </span><span class="element-name type-name-label">MapSceneLights.Category</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a href="sdk-for-android-navigate-mapscenelights.category" title="enum class in com.here.sdk.mapview">MapSceneLights.Category</a>&gt;</span></div>
 <div class="block"><p>The scene uses three categories of lighting which are:
@@ -188,7 +185,7 @@ not permitted.)</div>
 </ul>
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
-</main>
+
 
 
 

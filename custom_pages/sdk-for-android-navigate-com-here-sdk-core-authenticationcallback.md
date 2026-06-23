@@ -16,18 +16,15 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-authenticationcallback"
 
 
 
-<main role="main">
-<!-- ======== START OF CLASS DATA ======== -->
-<div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-core-package-summary">com.here.sdk.core</a></div>
 
-</div>
+<!-- ======== START OF CLASS DATA ======== -->
+
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>Functional Interface:</dt>
 <dd>This is a functional interface and can therefore be used as the assignment target for a lambda expression or method reference.</dd>
 </dl>
-<hr/>
+
 <div class="type-signature"><span class="annotations"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/FunctionalInterface.html" title="class or interface in java.lang">@FunctionalInterface</a>
 </span><span class="modifiers">public interface </span><span class="element-name type-name-label">AuthenticationCallback</span></div>
 <div class="block"><p>Callback passed to <a href="sdk-for-android-navigate-authentication#authenticate(com.here.sdk.core.engine.SDKNativeEngine)"><code>Authentication.authenticate(SDKNativeEngine)</code></a>.
@@ -90,7 +87,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-authenticationcallback"
 </ul>
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
-</main>
+
 
 
 

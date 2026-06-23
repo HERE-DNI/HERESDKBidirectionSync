@@ -16,12 +16,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-mapdataloaderexception"
 
 
 
-<main role="main">
-<!-- ======== START OF CLASS DATA ======== -->
-<div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-mapdata-package-summary">com.here.sdk.mapdata</a></div>
 
-</div>
+<!-- ======== START OF CLASS DATA ======== -->
+
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
 <div class="inheritance"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Throwable.html" title="class or interface in java.lang">java.lang.Throwable</a>
 <div class="inheritance"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Exception.html" title="class or interface in java.lang">java.lang.Exception</a>
@@ -34,7 +31,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-mapdataloaderexception"
 <dt>All Implemented Interfaces:</dt>
 <dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" title="class or interface in java.io">Serializable</a></code></dd>
 </dl>
-<hr/>
+
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">MapDataLoaderException</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Exception.html" title="class or interface in java.lang">Exception</a></span></div>
 <div class="block"><p>Error occurred during obtaining data form the map. <a href="sdk-for-android-navigate-mapdataloadererrorcode" title="enum class in com.here.sdk.mapdata"><code>MapDataLoaderErrorCode</code></a> represents possible errors.</p></div>
@@ -64,7 +61,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-mapdataloaderexception"
 </ul>
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
-</main>
+
 
 
 

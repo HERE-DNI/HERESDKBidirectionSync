@@ -16,19 +16,16 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-engine-sdklogger"
 
 
 
-<main role="main">
-<!-- ======== START OF CLASS DATA ======== -->
-<div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-core-engine-package-summary">com.here.sdk.core.engine</a></div>
 
-</div>
+<!-- ======== START OF CLASS DATA ======== -->
+
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
 <div class="inheritance"><a href="sdk-for-android-navigate-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.core.engine.SDKLogger</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
-<hr/>
+
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">SDKLogger</span>
 <span class="extends-implements">extends <a href="sdk-for-android-navigate-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>Logging interface for Android/iOS platforms.
@@ -69,7 +66,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-engine-sdklogger"
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#log(com.here.sdk.core.engine.LogLevel,java.lang.String,java.lang.String)">log</a><wbr/>(<a href="sdk-for-android-navigate-loglevel" title="enum class in com.here.sdk.core.engine">LogLevel</a> level,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> tag,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> message)</code></div>
-<div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"> </div>
+
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static void</code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#warn(java.lang.String,java.lang.String)">warn</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> tag,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> message)</code></div>
@@ -176,7 +173,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-engine-sdklogger"
 </ul>
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
-</main>
+
 
 
 

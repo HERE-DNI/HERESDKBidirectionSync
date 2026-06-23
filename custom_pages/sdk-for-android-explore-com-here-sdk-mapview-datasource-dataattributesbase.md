@@ -16,18 +16,15 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesbas
 
 
 
-<main role="main">
-<!-- ======== START OF CLASS DATA ======== -->
-<div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-package-summary">com.here.sdk.mapview.datasource</a></div>
 
-</div>
+<!-- ======== START OF CLASS DATA ======== -->
+
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>All Known Implementing Classes:</dt>
 <dd><code><a href="sdk-for-android-explore-dataattributes" title="class in com.here.sdk.mapview.datasource">DataAttributes</a></code>, <code><a href="sdk-for-android-explore-dataattributesaccessor" title="class in com.here.sdk.mapview.datasource">DataAttributesAccessor</a></code></dd>
 </dl>
-<hr/>
+
 <div class="type-signature"><span class="modifiers">public interface </span><span class="element-name type-name-label">DataAttributesBase</span></div>
 <div class="block"><p>Interface for a collection of data attributes.
  </p><p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
@@ -243,7 +240,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesbas
 </ul>
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
-</main>
+
 
 
 

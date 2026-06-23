@@ -16,18 +16,15 @@ slug: "sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizon
 
 
 
-<main role="main">
-<!-- ======== START OF CLASS DATA ======== -->
-<div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-electronichorizon-package-summary">com.here.sdk.electronichorizon</a></div>
 
-</div>
+<!-- ======== START OF CLASS DATA ======== -->
+
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>All Known Implementing Classes:</dt>
 <dd><code><a href="sdk-for-android-navigate-warnerengine" title="class in com.here.sdk.warner">WarnerEngine</a></code></dd>
 </dl>
-<hr/>
+
 <div class="type-signature"><span class="modifiers">public interface </span><span class="element-name type-name-label">ElectronicHorizonListener</span></div>
 <div class="block"><p>Provides a listener for receiving updates during execution of the <a href="sdk-for-android-navigate-electronichorizonengine#update(com.here.sdk.navigation.MapMatchedLocation)"><code>ElectronicHorizonEngine.update(com.here.sdk.navigation.MapMatchedLocation)</code></a> method.
  </p><p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
@@ -102,7 +99,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizon
 </ul>
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
-</main>
+
 
 
 

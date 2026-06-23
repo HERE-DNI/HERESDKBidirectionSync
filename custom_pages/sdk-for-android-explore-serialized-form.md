@@ -16,10 +16,8 @@ slug: "sdk-for-android-explore-serialized-form"
 
 
 
-<main role="main">
-<div class="header">
 
-</div>
+
 <ul class="block-list">
 <li>
 <section class="serialized-package-container">
@@ -444,7 +442,7 @@ slug: "sdk-for-android-explore-serialized-form"
 </section>
 </li>
 </ul>
-</main>
+
 
 
 

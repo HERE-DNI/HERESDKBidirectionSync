@@ -16,18 +16,15 @@ slug: "sdk-for-android-explore-com-here-sdk-search-evsearchinterface"
 
 
 
-<main role="main">
-<!-- ======== START OF CLASS DATA ======== -->
-<div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-search-package-summary">com.here.sdk.search</a></div>
 
-</div>
+<!-- ======== START OF CLASS DATA ======== -->
+
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>All Known Implementing Classes:</dt>
 <dd><code><a href="sdk-for-android-explore-evsearchengine" title="class in com.here.sdk.search">EVSearchEngine</a></code></dd>
 </dl>
-<hr/>
+
 <div class="type-signature"><span class="modifiers">public interface </span><span class="element-name type-name-label">EVSearchInterface</span></div>
 <div class="block"><p>Provides the interface for the <code>EVSearchEngine</code>.
  <strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
@@ -90,7 +87,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-evsearchinterface"
 </ul>
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
-</main>
+
 
 
 

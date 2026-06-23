@@ -16,18 +16,15 @@ slug: "sdk-for-android-explore-com-here-sdk-traffic-trafficflowbase"
 
 
 
-<main role="main">
-<!-- ======== START OF CLASS DATA ======== -->
-<div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-traffic-package-summary">com.here.sdk.traffic</a></div>
 
-</div>
+<!-- ======== START OF CLASS DATA ======== -->
+
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>All Known Implementing Classes:</dt>
 <dd><code><a href="sdk-for-android-explore-trafficflow" title="class in com.here.sdk.traffic">TrafficFlow</a></code></dd>
 </dl>
-<hr/>
+
 <div class="type-signature"><span class="modifiers">public interface </span><span class="element-name type-name-label">TrafficFlowBase</span></div>
 <div class="block"><p>This interface provides details about a traffic flow.<br/>
  For additional information about fields, refer to <a href="https://www.here.com/docs/bundle/traffic-api-v7-api-reference/page/index.html#tag/Real-Time-Traffic">Traffic API v7 API Reference: Traffic API v7</a>.
@@ -103,7 +100,7 @@ slug: "sdk-for-android-explore-com-here-sdk-traffic-trafficflowbase"
 </ul>
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
-</main>
+
 
 
 

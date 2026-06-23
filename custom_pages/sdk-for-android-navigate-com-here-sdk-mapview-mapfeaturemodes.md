@@ -16,17 +16,14 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapfeaturemodes"
 
 
 
-<main role="main">
-<!-- ======== START OF CLASS DATA ======== -->
-<div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></div>
 
-</div>
+<!-- ======== START OF CLASS DATA ======== -->
+
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
 <div class="inheritance">com.here.sdk.mapview.MapFeatureModes</div>
 </div>
 <section class="class-description" id="class-description">
-<hr/>
+
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">MapFeatureModes</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
 <div class="block"><p>Holds constants for map feature modes, to be used with <a href="sdk-for-android-navigate-mapscene#enableFeatures(java.util.Map)"><code>MapScene.enableFeatures(java.util.Map&lt;java.lang.String, java.lang.String&gt;)</code></a>.
@@ -201,7 +198,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapfeaturemodes"
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
 <div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E()">MapFeatureModes</a>()</code></div>
-<div class="col-last even-row-color"> </div>
+
 </div>
 </section>
 </li>
@@ -684,7 +681,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapfeaturemodes"
 </ul>
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
-</main>
+
 
 
 

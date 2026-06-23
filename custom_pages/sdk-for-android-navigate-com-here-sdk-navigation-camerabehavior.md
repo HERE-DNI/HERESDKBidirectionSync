@@ -16,18 +16,15 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-camerabehavior"
 
 
 
-<main role="main">
-<!-- ======== START OF CLASS DATA ======== -->
-<div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-navigation-package-summary">com.here.sdk.navigation</a></div>
 
-</div>
+<!-- ======== START OF CLASS DATA ======== -->
+
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>All Known Implementing Classes:</dt>
 <dd><code><a href="sdk-for-android-navigate-areacamerabehavior" title="class in com.here.sdk.navigation">AreaCameraBehavior</a></code>, <code><a href="sdk-for-android-navigate-automotivecamerabehavior" title="class in com.here.sdk.navigation">AutomotiveCameraBehavior</a></code>, <code><a href="sdk-for-android-navigate-dynamiccamerabehavior" title="class in com.here.sdk.navigation">DynamicCameraBehavior</a></code>, <code><a href="sdk-for-android-navigate-fixedcamerabehavior" title="class in com.here.sdk.navigation">FixedCameraBehavior</a></code>, <code><a href="sdk-for-android-navigate-speedbasedcamerabehavior" title="class in com.here.sdk.navigation">SpeedBasedCameraBehavior</a></code>, <code><a href="sdk-for-android-navigate-trackingcamerabehavior" title="class in com.here.sdk.navigation">TrackingCameraBehavior</a></code></dd>
 </dl>
-<hr/>
+
 <div class="type-signature"><span class="modifiers">public interface </span><span class="element-name type-name-label">CameraBehavior</span></div>
 <div class="block"><p>Interface used to change implement different
  camera behaviors.</p></div>
@@ -105,7 +102,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-camerabehavior"
 </ul>
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
-</main>
+
 
 
 

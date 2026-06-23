@@ -16,14 +16,11 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-lowspeedzonewarningliste
 
 
 
-<main role="main">
-<!-- ======== START OF CLASS DATA ======== -->
-<div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-navigation-package-summary">com.here.sdk.navigation</a></div>
 
-</div>
+<!-- ======== START OF CLASS DATA ======== -->
+
 <section class="class-description" id="class-description">
-<hr/>
+
 <div class="type-signature"><span class="modifiers">public interface </span><span class="element-name type-name-label">LowSpeedZoneWarningListener</span></div>
 <div class="block"><p>This interface should be implemented in order to receive low speed zone warnings.
  <strong>Note:</strong> This is currently available <em>only</em> for Japan.
@@ -81,7 +78,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-lowspeedzonewarningliste
 </ul>
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
-</main>
+
 
 
 

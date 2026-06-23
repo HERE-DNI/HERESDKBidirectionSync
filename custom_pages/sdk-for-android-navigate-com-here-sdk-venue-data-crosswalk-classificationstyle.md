@@ -16,12 +16,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-data-crosswalk-classification
 
 
 
-<main role="main">
-<!-- ======== START OF CLASS DATA ======== -->
-<div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-venue-data-package-summary">com.here.sdk.venue.data</a></div>
 
-</div>
+<!-- ======== START OF CLASS DATA ======== -->
+
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
 <div class="inheritance"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">java.lang.Enum</a>&lt;<a href="sdk-for-android-navigate-crosswalk.classificationstyle" title="enum class in com.here.sdk.venue.data">Crosswalk.ClassificationStyle</a>&gt;
 <div class="inheritance">com.here.sdk.venue.data.Crosswalk.ClassificationStyle</div>
@@ -36,7 +33,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-data-crosswalk-classification
 <dt>Enclosing class:</dt>
 <dd><a href="sdk-for-android-navigate-crosswalk" title="class in com.here.sdk.venue.data">Crosswalk</a></dd>
 </dl>
-<hr/>
+
 <div class="type-signature"><span class="modifiers">public static enum </span><span class="element-name type-name-label">Crosswalk.ClassificationStyle</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a href="sdk-for-android-navigate-crosswalk.classificationstyle" title="enum class in com.here.sdk.venue.data">Crosswalk.ClassificationStyle</a>&gt;</span></div>
 <div class="block"><p>Available Classification styles.</p></div>
@@ -205,7 +202,7 @@ not permitted.)</div>
 </ul>
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
-</main>
+
 
 
 

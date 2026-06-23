@@ -16,17 +16,14 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-routeprogresscolors"
 
 
 
-<main role="main">
-<!-- ======== START OF CLASS DATA ======== -->
-<div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-navigation-package-summary">com.here.sdk.navigation</a></div>
 
-</div>
+<!-- ======== START OF CLASS DATA ======== -->
+
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
 <div class="inheritance">com.here.sdk.navigation.RouteProgressColors</div>
 </div>
 <section class="class-description" id="class-description">
-<hr/>
+
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">RouteProgressColors</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
 <div class="block"><p>This struct contains colors for the route progress visualization.</p></div>
@@ -181,7 +178,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-routeprogresscolors"
 </ul>
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
-</main>
+
 
 
 

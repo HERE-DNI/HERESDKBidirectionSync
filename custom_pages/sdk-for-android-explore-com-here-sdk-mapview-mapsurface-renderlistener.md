@@ -16,18 +16,15 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapsurface-renderlistener"
 
 
 
-<main role="main">
-<!-- ======== START OF CLASS DATA ======== -->
-<div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></div>
 
-</div>
+<!-- ======== START OF CLASS DATA ======== -->
+
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>Enclosing class:</dt>
 <dd><a href="sdk-for-android-explore-mapsurface" title="class in com.here.sdk.mapview">MapSurface</a></dd>
 </dl>
-<hr/>
+
 <div class="type-signature"><span class="modifiers">public static interface </span><span class="element-name type-name-label">MapSurface.RenderListener</span></div>
 <div class="block">Listener of MapSurface render events.
 
@@ -95,7 +92,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapsurface-renderlistener"
 </ul>
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
-</main>
+
 
 
 

@@ -16,12 +16,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-animation-mapitemkeyframetrack-inst
 
 
 
-<main role="main">
-<!-- ======== START OF CLASS DATA ======== -->
-<div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-animation-package-summary">com.here.sdk.animation</a></div>
 
-</div>
+<!-- ======== START OF CLASS DATA ======== -->
+
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
 <div class="inheritance"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Throwable.html" title="class or interface in java.lang">java.lang.Throwable</a>
 <div class="inheritance"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Exception.html" title="class or interface in java.lang">java.lang.Exception</a>
@@ -38,7 +35,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-animation-mapitemkeyframetrack-inst
 <dt>Enclosing class:</dt>
 <dd><a href="sdk-for-android-navigate-mapitemkeyframetrack" title="class in com.here.sdk.animation">MapItemKeyFrameTrack</a></dd>
 </dl>
-<hr/>
+
 <div class="type-signature"><span class="modifiers">public static final class </span><span class="element-name type-name-label">MapItemKeyFrameTrack.InstantiationException</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Exception.html" title="class or interface in java.lang">Exception</a></span></div>
 <div class="block"><p>Thrown when a problem occurs while trying to create <a href="sdk-for-android-navigate-mapitemkeyframetrack" title="class in com.here.sdk.animation"><code>MapItemKeyFrameTrack</code></a>.</p></div>
@@ -68,7 +65,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-animation-mapitemkeyframetrack-inst
 </ul>
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
-</main>
+
 
 
 

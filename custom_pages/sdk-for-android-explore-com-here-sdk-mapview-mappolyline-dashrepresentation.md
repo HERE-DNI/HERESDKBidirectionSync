@@ -16,12 +16,9 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolyline-dashrepresentati
 
 
 
-<main role="main">
-<!-- ======== START OF CLASS DATA ======== -->
-<div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></div>
 
-</div>
+<!-- ======== START OF CLASS DATA ======== -->
+
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
 <div class="inheritance"><a href="sdk-for-android-explore-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance"><a href="sdk-for-android-explore-mapitemrepresentation" title="class in com.here.sdk.mapview">com.here.sdk.mapview.MapItemRepresentation</a>
@@ -36,7 +33,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolyline-dashrepresentati
 <dt>Enclosing class:</dt>
 <dd><a href="sdk-for-android-explore-mappolyline" title="class in com.here.sdk.mapview">MapPolyline</a></dd>
 </dl>
-<hr/>
+
 <div class="type-signature"><span class="modifiers">public static final class </span><span class="element-name type-name-label">MapPolyline.DashRepresentation</span>
 <span class="extends-implements">extends <a href="sdk-for-android-explore-mappolyline.representation" title="class in com.here.sdk.mapview">MapPolyline.Representation</a></span></div>
 <div class="block"><p>Represents a dash pattern for map polyline where the dash can be rendered as a colored
@@ -311,7 +308,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolyline-dashrepresentati
 </ul>
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
-</main>
+
 
 
 

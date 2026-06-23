@@ -16,12 +16,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface"
 
 
 
-<main role="main">
-<!-- ======== START OF CLASS DATA ======== -->
-<div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-navigation-package-summary">com.here.sdk.navigation</a></div>
 
-</div>
+<!-- ======== START OF CLASS DATA ======== -->
+
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>All Superinterfaces:</dt>
@@ -31,7 +28,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface"
 <dt>All Known Implementing Classes:</dt>
 <dd><code><a href="sdk-for-android-navigate-navigator" title="class in com.here.sdk.navigation">Navigator</a></code>, <code><a href="sdk-for-android-navigate-visualnavigator" title="class in com.here.sdk.navigation">VisualNavigator</a></code></dd>
 </dl>
-<hr/>
+
 <div class="type-signature"><span class="modifiers">public interface </span><span class="element-name type-name-label">NavigatorInterface</span><span class="extends-implements">
 extends <a href="sdk-for-android-navigate-locationlistener" title="interface in com.here.sdk.core">LocationListener</a></span></div>
 <div class="block"><p>This interface provides the basic functionality needed to run a navigation session.</p></div>
@@ -2115,7 +2112,7 @@ extends <a href="sdk-for-android-navigate-locationlistener" title="interface in 
 </ul>
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
-</main>
+
 
 
 

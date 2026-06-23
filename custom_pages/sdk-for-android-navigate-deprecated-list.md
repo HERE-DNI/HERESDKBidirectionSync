@@ -16,19 +16,8 @@ slug: "sdk-for-android-navigate-deprecated-list"
 
 
 
-<main role="main">
-<div class="header">
 
 
-<ul>
-<li><a href="sdk-for-android-navigate-index#class">Classes</a></li>
-<li><a href="sdk-for-android-navigate-index#enum-class">Enum Classes</a></li>
-<li><a href="sdk-for-android-navigate-index#field">Fields</a></li>
-<li><a href="sdk-for-android-navigate-index#method">Methods</a></li>
-<li><a href="sdk-for-android-navigate-index#constructor">Constructors</a></li>
-<li><a href="sdk-for-android-navigate-index#enum-constant">Enum Constants</a></li>
-</ul>
-</div>
 <ul class="block-list">
 <li>
 <div id="class">
@@ -547,7 +536,7 @@ slug: "sdk-for-android-navigate-deprecated-list"
 </div>
 </li>
 </ul>
-</main>
+
 
 
 

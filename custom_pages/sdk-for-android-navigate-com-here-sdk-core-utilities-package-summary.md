@@ -16,11 +16,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-utilities-package-summary"
 
 
 
-<main role="main">
-<div class="header">
 
-</div>
-<hr/>
+
+
 <div class="package-signature">package <span class="element-name">com.here.sdk.core.utilities</span></div>
 <section class="summary">
 <ul class="summary-list">
@@ -31,19 +29,19 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-utilities-package-summary"
 <div class="table-header col-first">Package</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><a href="sdk-for-android-navigate-com-here-sdk-core-package-summary">com.here.sdk.core</a></div>
-<div class="col-last even-row-color"> </div>
+
 <div class="col-first odd-row-color"><a href="sdk-for-android-navigate-com-here-sdk-core-engine-package-summary">com.here.sdk.core.engine</a></div>
-<div class="col-last odd-row-color"> </div>
+
 <div class="col-first even-row-color"><a href="sdk-for-android-navigate-com-here-sdk-core-errors-package-summary">com.here.sdk.core.errors</a></div>
-<div class="col-last even-row-color"> </div>
+
 <div class="col-first odd-row-color"><a href="sdk-for-android-navigate-com-here-sdk-core-threading-package-summary">com.here.sdk.core.threading</a></div>
-<div class="col-last odd-row-color"> </div>
+
 </div>
 </div>
 </li>
 </ul>
 </section>
-</main>
+
 
 
 

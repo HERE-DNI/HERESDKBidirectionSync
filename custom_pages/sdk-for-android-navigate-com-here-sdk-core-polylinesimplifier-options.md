@@ -16,12 +16,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-polylinesimplifier-options"
 
 
 
-<main role="main">
-<!-- ======== START OF CLASS DATA ======== -->
-<div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-core-package-summary">com.here.sdk.core</a></div>
 
-</div>
+<!-- ======== START OF CLASS DATA ======== -->
+
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
 <div class="inheritance">com.here.sdk.core.PolylineSimplifier.Options</div>
 </div>
@@ -30,7 +27,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-polylinesimplifier-options"
 <dt>Enclosing class:</dt>
 <dd><a href="sdk-for-android-navigate-polylinesimplifier" title="class in com.here.sdk.core">PolylineSimplifier</a></dd>
 </dl>
-<hr/>
+
 <div class="type-signature"><span class="modifiers">public static final class </span><span class="element-name type-name-label">PolylineSimplifier.Options</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
 <div class="block"><p>Controls the strategy of <a href="sdk-for-android-navigate-polylinesimplifier#simplify(java.util.List,com.here.sdk.core.PolylineSimplifier.Options,com.here.sdk.core.PolylineSimplificationCallback)"><code>PolylineSimplifier.simplify(java.util.List&lt;com.here.sdk.core.GeoCoordinates&gt;, com.here.sdk.core.PolylineSimplifier.Options, com.here.sdk.core.PolylineSimplificationCallback)</code></a>
@@ -211,7 +208,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-polylinesimplifier-options"
 </ul>
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
-</main>
+
 
 
 

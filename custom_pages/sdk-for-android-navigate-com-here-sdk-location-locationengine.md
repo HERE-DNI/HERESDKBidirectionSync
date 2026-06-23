@@ -16,12 +16,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-location-locationengine"
 
 
 
-<main role="main">
-<!-- ======== START OF CLASS DATA ======== -->
-<div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-location-package-summary">com.here.sdk.location</a></div>
 
-</div>
+<!-- ======== START OF CLASS DATA ======== -->
+
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
 <div class="inheritance">com.here.sdk.location.LocationEngine</div>
 </div>
@@ -30,7 +27,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-location-locationengine"
 <dt>All Implemented Interfaces:</dt>
 <dd><code>com.here.sdk.location.AppConfigListener</code>, <code><a href="sdk-for-android-navigate-locationenginebase" title="interface in com.here.sdk.location">LocationEngineBase</a></code></dd>
 </dl>
-<hr/>
+
 <div class="type-signature"><span class="modifiers">public class </span><span class="element-name type-name-label">LocationEngine</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a>
 implements <a href="sdk-for-android-navigate-locationenginebase" title="interface in com.here.sdk.location">LocationEngineBase</a>, com.here.sdk.location.AppConfigListener</span></div>
@@ -572,7 +569,7 @@ implements <a href="sdk-for-android-navigate-locationenginebase" title="interfac
 </ul>
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
-</main>
+
 
 
 

@@ -16,18 +16,15 @@ slug: "sdk-for-android-explore-com-here-sdk-search-searchinterface"
 
 
 
-<main role="main">
-<!-- ======== START OF CLASS DATA ======== -->
-<div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-search-package-summary">com.here.sdk.search</a></div>
 
-</div>
+<!-- ======== START OF CLASS DATA ======== -->
+
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>All Known Implementing Classes:</dt>
 <dd><code><a href="sdk-for-android-explore-searchengine" title="class in com.here.sdk.search">SearchEngine</a></code></dd>
 </dl>
-<hr/>
+
 <div class="type-signature"><span class="modifiers">public interface </span><span class="element-name type-name-label">SearchInterface</span></div>
 <div class="block"><p>Provides the interface for the online and offline
  search engines.</p></div>
@@ -289,7 +286,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-searchinterface"
 </ul>
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
-</main>
+
 
 
 

@@ -16,14 +16,11 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-control-venueinfolistlistener
 
 
 
-<main role="main">
-<!-- ======== START OF CLASS DATA ======== -->
-<div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-venue-control-package-summary">com.here.sdk.venue.control</a></div>
 
-</div>
+<!-- ======== START OF CLASS DATA ======== -->
+
 <section class="class-description" id="class-description">
-<hr/>
+
 <div class="type-signature"><span class="modifiers">public interface </span><span class="element-name type-name-label">VenueInfoListListener</span></div>
 <div class="block"><p>The interface for listeners for
  the list of <a href="sdk-for-android-navigate-venueinfo" title="class in com.here.sdk.venue.data"><code>VenueInfo</code></a> load event. Use <a href="sdk-for-android-navigate-venuemap" title="class in com.here.sdk.venue.control"><code>VenueMap</code></a>
@@ -79,7 +76,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-control-venueinfolistlistener
 </ul>
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
-</main>
+
 
 
 

@@ -16,30 +16,8 @@ slug: "sdk-for-android-explore-overview-tree"
 
 
 
-<main role="main">
-<div class="header">
 
-<span class="package-hierarchy-label">Package Hierarchies:</span>
-<ul class="horizontal">
-<li><a href="sdk-for-android-explore-package-tree">com.here</a>, </li>
-<li><a href="sdk-for-android-explore-package-tree">com.here.sdk.animation</a>, </li>
-<li><a href="sdk-for-android-explore-package-tree">com.here.sdk.core</a>, </li>
-<li><a href="sdk-for-android-explore-package-tree">com.here.sdk.core.engine</a>, </li>
-<li><a href="sdk-for-android-explore-package-tree">com.here.sdk.core.errors</a>, </li>
-<li><a href="sdk-for-android-explore-package-tree">com.here.sdk.core.threading</a>, </li>
-<li><a href="sdk-for-android-explore-package-tree">com.here.sdk.core.utilities</a>, </li>
-<li><a href="sdk-for-android-explore-package-tree">com.here.sdk.engine</a>, </li>
-<li><a href="sdk-for-android-explore-package-tree">com.here.sdk.ev</a>, </li>
-<li><a href="sdk-for-android-explore-package-tree">com.here.sdk.gestures</a>, </li>
-<li><a href="sdk-for-android-explore-package-tree">com.here.sdk.mapview</a>, </li>
-<li><a href="sdk-for-android-explore-package-tree">com.here.sdk.mapview.datasource</a>, </li>
-<li><a href="sdk-for-android-explore-package-tree">com.here.sdk.routing</a>, </li>
-<li><a href="sdk-for-android-explore-package-tree">com.here.sdk.search</a>, </li>
-<li><a href="sdk-for-android-explore-package-tree">com.here.sdk.traffic</a>, </li>
-<li><a href="sdk-for-android-explore-package-tree">com.here.sdk.transport</a>, </li>
-<li><a href="sdk-for-android-explore-package-tree">com.here.time</a></li>
-</ul>
-</div>
+
 <section class="hierarchy">
 
 <ul>
@@ -732,7 +710,7 @@ slug: "sdk-for-android-explore-overview-tree"
 </li>
 </ul>
 </section>
-</main>
+
 
 
 

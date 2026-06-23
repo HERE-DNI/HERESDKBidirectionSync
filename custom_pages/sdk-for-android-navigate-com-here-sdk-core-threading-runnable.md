@@ -16,14 +16,11 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-threading-runnable"
 
 
 
-<main role="main">
-<!-- ======== START OF CLASS DATA ======== -->
-<div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-core-threading-package-summary">com.here.sdk.core.threading</a></div>
 
-</div>
+<!-- ======== START OF CLASS DATA ======== -->
+
 <section class="class-description" id="class-description">
-<hr/>
+
 <div class="type-signature"><span class="modifiers">public interface </span><span class="element-name type-name-label">Runnable</span></div>
 <div class="block"><p>Interface that should be implemented by any class whose
  instances are intended to be executed by a thread.</p></div>
@@ -73,7 +70,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-threading-runnable"
 </ul>
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
-</main>
+
 
 
 

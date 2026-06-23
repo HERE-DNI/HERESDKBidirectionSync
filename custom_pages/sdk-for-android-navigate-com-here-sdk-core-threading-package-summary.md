@@ -16,11 +16,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-threading-package-summary"
 
 
 
-<main role="main">
-<div class="header">
 
-</div>
-<hr/>
+
+
 <div class="package-signature">package <span class="element-name">com.here.sdk.core.threading</span></div>
 <section class="summary">
 <ul class="summary-list">
@@ -31,13 +29,13 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-threading-package-summary"
 <div class="table-header col-first">Package</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><a href="sdk-for-android-navigate-com-here-sdk-core-package-summary">com.here.sdk.core</a></div>
-<div class="col-last even-row-color"> </div>
+
 <div class="col-first odd-row-color"><a href="sdk-for-android-navigate-com-here-sdk-core-engine-package-summary">com.here.sdk.core.engine</a></div>
-<div class="col-last odd-row-color"> </div>
+
 <div class="col-first even-row-color"><a href="sdk-for-android-navigate-com-here-sdk-core-errors-package-summary">com.here.sdk.core.errors</a></div>
-<div class="col-last even-row-color"> </div>
+
 <div class="col-first odd-row-color"><a href="sdk-for-android-navigate-com-here-sdk-core-utilities-package-summary">com.here.sdk.core.utilities</a></div>
-<div class="col-last odd-row-color"> </div>
+
 </div>
 </div>
 </li>
@@ -48,28 +46,28 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-threading-package-summary"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Class</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color class-summary class-summary-tab1"><a href="sdk-for-android-navigate-ontaskcompleted" title="interface in com.here.sdk.core.threading">OnTaskCompleted</a></div>
+<div class="col-first even-row-color class-summary class-summary-tab1"><a href="sdk-for-android-navigate-com-here-sdk-core-threading-ontaskcompleted" title="interface in com.here.sdk.core.threading">OnTaskCompleted</a></div>
 <div class="col-last even-row-color class-summary class-summary-tab1">
 <div class="block">The method will be called on the main thread when a task call has been completed.</div>
 </div>
-<div class="col-first odd-row-color class-summary class-summary-tab1"><a href="sdk-for-android-navigate-platformthreading" title="interface in com.here.sdk.core.threading">PlatformThreading</a></div>
+<div class="col-first odd-row-color class-summary class-summary-tab1"><a href="sdk-for-android-navigate-com-here-sdk-core-threading-platformthreading" title="interface in com.here.sdk.core.threading">PlatformThreading</a></div>
 <div class="col-last odd-row-color class-summary class-summary-tab1">
 <div class="block">Interface for task activities on the main thread.</div>
 </div>
-<div class="col-first even-row-color class-summary class-summary-tab1"><a href="sdk-for-android-navigate-runnable" title="interface in com.here.sdk.core.threading">Runnable</a></div>
+<div class="col-first even-row-color class-summary class-summary-tab1"><a href="sdk-for-android-navigate-com-here-sdk-core-threading-runnable" title="interface in com.here.sdk.core.threading">Runnable</a></div>
 <div class="col-last even-row-color class-summary class-summary-tab1">
 <div class="block">Interface that should be implemented by any class whose
  instances are intended to be executed by a thread.</div>
 </div>
-<div class="col-first odd-row-color class-summary class-summary-tab1"><a href="sdk-for-android-navigate-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></div>
+<div class="col-first odd-row-color class-summary class-summary-tab1"><a href="sdk-for-android-navigate-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></div>
 <div class="col-last odd-row-color class-summary class-summary-tab1">
 <div class="block">Handle used for the manipulation of the task.</div>
 </div>
-<div class="col-first even-row-color class-summary class-summary-tab3"><a href="sdk-for-android-navigate-taskoutcome" title="enum class in com.here.sdk.core.threading">TaskOutcome</a></div>
+<div class="col-first even-row-color class-summary class-summary-tab3"><a href="sdk-for-android-navigate-com-here-sdk-core-threading-taskoutcome" title="enum class in com.here.sdk.core.threading">TaskOutcome</a></div>
 <div class="col-last even-row-color class-summary class-summary-tab3">
 <div class="block">This enum represents that a task has been completed.</div>
 </div>
-<div class="col-first odd-row-color class-summary class-summary-tab2"><a href="sdk-for-android-navigate-threading" title="class in com.here.sdk.core.threading">Threading</a></div>
+<div class="col-first odd-row-color class-summary class-summary-tab2"><a href="sdk-for-android-navigate-com-here-sdk-core-threading-threading" title="class in com.here.sdk.core.threading">Threading</a></div>
 <div class="col-last odd-row-color class-summary class-summary-tab2">
 <div class="block">Initializes threading support on native side.</div>
 </div>
@@ -79,7 +77,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-threading-package-summary"
 </li>
 </ul>
 </section>
-</main>
+
 
 
 

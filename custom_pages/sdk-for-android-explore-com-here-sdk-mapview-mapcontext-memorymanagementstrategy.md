@@ -16,12 +16,9 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcontext-memorymanagements
 
 
 
-<main role="main">
-<!-- ======== START OF CLASS DATA ======== -->
-<div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></div>
 
-</div>
+<!-- ======== START OF CLASS DATA ======== -->
+
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
 <div class="inheritance"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">java.lang.Enum</a>&lt;<a href="sdk-for-android-explore-mapcontext.memorymanagementstrategy" title="enum class in com.here.sdk.mapview">MapContext.MemoryManagementStrategy</a>&gt;
 <div class="inheritance">com.here.sdk.mapview.MapContext.MemoryManagementStrategy</div>
@@ -36,7 +33,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcontext-memorymanagements
 <dt>Enclosing class:</dt>
 <dd><a href="sdk-for-android-explore-mapcontext" title="class in com.here.sdk.mapview">MapContext</a></dd>
 </dl>
-<hr/>
+
 <div class="type-signature"><span class="modifiers">public static enum </span><span class="element-name type-name-label">MapContext.MemoryManagementStrategy</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a href="sdk-for-android-explore-mapcontext.memorymanagementstrategy" title="enum class in com.here.sdk.mapview">MapContext.MemoryManagementStrategy</a>&gt;</span></div>
 <div class="block"><p>The memory management strategy.
@@ -175,7 +172,7 @@ not permitted.)</div>
 </ul>
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
-</main>
+
 
 
 

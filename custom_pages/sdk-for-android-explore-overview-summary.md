@@ -11,10 +11,10 @@ slug: "sdk-for-android-explore-overview-summary"
 
 
 
-<main role="main">
+
 
 <p><a href="sdk-for-android-explore-index">index.html</a></p>
-</main>
+
 
 
 

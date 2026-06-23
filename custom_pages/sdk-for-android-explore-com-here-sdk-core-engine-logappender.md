@@ -16,14 +16,11 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-logappender"
 
 
 
-<main role="main">
-<!-- ======== START OF CLASS DATA ======== -->
-<div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-core-engine-package-summary">com.here.sdk.core.engine</a></div>
 
-</div>
+<!-- ======== START OF CLASS DATA ======== -->
+
 <section class="class-description" id="class-description">
-<hr/>
+
 <div class="type-signature"><span class="modifiers">public interface </span><span class="element-name type-name-label">LogAppender</span></div>
 <div class="block"><p>An interface to implement a listener to receive log messages.</p></div>
 </section>
@@ -43,7 +40,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-logappender"
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-index#log(com.here.sdk.core.engine.LogLevel,java.lang.String)">log</a><wbr/>(<a href="sdk-for-android-explore-loglevel" title="enum class in com.here.sdk.core.engine">LogLevel</a> level,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> message)</code></div>
-<div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"> </div>
+
 </div>
 </div>
 </div>
@@ -78,7 +75,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-logappender"
 </ul>
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
-</main>
+
 
 
 

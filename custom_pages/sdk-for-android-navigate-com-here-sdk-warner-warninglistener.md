@@ -16,14 +16,11 @@ slug: "sdk-for-android-navigate-com-here-sdk-warner-warninglistener"
 
 
 
-<main role="main">
-<!-- ======== START OF CLASS DATA ======== -->
-<div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-warner-package-summary">com.here.sdk.warner</a></div>
 
-</div>
+<!-- ======== START OF CLASS DATA ======== -->
+
 <section class="class-description" id="class-description">
-<hr/>
+
 <div class="type-signature"><span class="modifiers">public interface </span><span class="element-name type-name-label">WarningListener</span></div>
 <div class="block"><p>A generic listener interface interface for receiving warning notifications.
  </p><p>Implementations of this interface are notified whenever the <code>WarnerEngine</code> detects new warnings.
@@ -84,7 +81,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-warner-warninglistener"
 </ul>
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
-</main>
+
 
 
 

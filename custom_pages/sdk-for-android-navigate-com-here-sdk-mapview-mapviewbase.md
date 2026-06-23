@@ -16,18 +16,15 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapviewbase"
 
 
 
-<main role="main">
-<!-- ======== START OF CLASS DATA ======== -->
-<div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></div>
 
-</div>
+<!-- ======== START OF CLASS DATA ======== -->
+
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>All Known Implementing Classes:</dt>
 <dd><code><a href="sdk-for-android-navigate-mapsurface" title="class in com.here.sdk.mapview">MapSurface</a></code>, <code><a href="sdk-for-android-navigate-mapview" title="class in com.here.sdk.mapview">MapView</a></code></dd>
 </dl>
-<hr/>
+
 <div class="type-signature"><span class="modifiers">public interface </span><span class="element-name type-name-label">MapViewBase</span></div>
 <div class="block"><p>Represents the available public API from  <code>MapView</code>.</p></div>
 </section>
@@ -441,7 +438,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapviewbase"
 </ul>
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
-</main>
+
 
 
 

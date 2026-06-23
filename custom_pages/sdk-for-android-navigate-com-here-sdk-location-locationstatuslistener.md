@@ -16,14 +16,11 @@ slug: "sdk-for-android-navigate-com-here-sdk-location-locationstatuslistener"
 
 
 
-<main role="main">
-<!-- ======== START OF CLASS DATA ======== -->
-<div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-location-package-summary">com.here.sdk.location</a></div>
 
-</div>
+<!-- ======== START OF CLASS DATA ======== -->
+
 <section class="class-description" id="class-description">
-<hr/>
+
 <div class="type-signature"><span class="modifiers">public interface </span><span class="element-name type-name-label">LocationStatusListener</span></div>
 <div class="block"><p>Interface for listening the
  LocationEngine status updates.</p></div>
@@ -101,7 +98,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-location-locationstatuslistener"
 </ul>
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
-</main>
+
 
 
 

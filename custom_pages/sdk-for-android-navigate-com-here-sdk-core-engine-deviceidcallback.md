@@ -16,18 +16,15 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-engine-deviceidcallback"
 
 
 
-<main role="main">
-<!-- ======== START OF CLASS DATA ======== -->
-<div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-core-engine-package-summary">com.here.sdk.core.engine</a></div>
 
-</div>
+<!-- ======== START OF CLASS DATA ======== -->
+
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>Functional Interface:</dt>
 <dd>This is a functional interface and can therefore be used as the assignment target for a lambda expression or method reference.</dd>
 </dl>
-<hr/>
+
 <div class="type-signature"><span class="annotations"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/FunctionalInterface.html" title="class or interface in java.lang">@FunctionalInterface</a>
 </span><span class="modifiers">public interface </span><span class="element-name type-name-label">DeviceIdCallback</span></div>
 <div class="block"><p>This method will be called on the main thread when <a href="sdk-for-android-navigate-sdknativeengine#getDeviceId(com.here.sdk.core.engine.DeviceIdCallback)"><code>SDKNativeEngine.getDeviceId(com.here.sdk.core.engine.DeviceIdCallback)</code></a> has been completed.</p></div>
@@ -82,7 +79,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-engine-deviceidcallback"
 </ul>
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
-</main>
+
 
 
 

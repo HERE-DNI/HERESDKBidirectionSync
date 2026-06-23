@@ -16,18 +16,15 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-datasource-tilesource"
 
 
 
-<main role="main">
-<!-- ======== START OF CLASS DATA ======== -->
-<div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-package-summary">com.here.sdk.mapview.datasource</a></div>
 
-</div>
+<!-- ======== START OF CLASS DATA ======== -->
+
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>All Known Subinterfaces:</dt>
 <dd><code><a href="sdk-for-android-navigate-linetilesource" title="interface in com.here.sdk.mapview.datasource">LineTileSource</a></code>, <code><a href="sdk-for-android-navigate-pointtilesource" title="interface in com.here.sdk.mapview.datasource">PointTileSource</a></code>, <code><a href="sdk-for-android-navigate-polygontilesource" title="interface in com.here.sdk.mapview.datasource">PolygonTileSource</a></code>, <code><a href="sdk-for-android-navigate-rastertilesource" title="interface in com.here.sdk.mapview.datasource">RasterTileSource</a></code></dd>
 </dl>
-<hr/>
+
 <div class="type-signature"><span class="modifiers">public interface </span><span class="element-name type-name-label">TileSource</span></div>
 <div class="block"><p>A source of tiles.
  The implementations must be thread-safe.
@@ -188,7 +185,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-datasource-tilesource"
 </ul>
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
-</main>
+
 
 
 

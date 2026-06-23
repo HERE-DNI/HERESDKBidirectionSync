@@ -16,12 +16,9 @@ slug: "sdk-for-android-explore-com-here-sdk-core-threading-taskoutcome"
 
 
 
-<main role="main">
-<!-- ======== START OF CLASS DATA ======== -->
-<div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-core-threading-package-summary">com.here.sdk.core.threading</a></div>
 
-</div>
+<!-- ======== START OF CLASS DATA ======== -->
+
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
 <div class="inheritance"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">java.lang.Enum</a>&lt;<a href="sdk-for-android-explore-taskoutcome" title="enum class in com.here.sdk.core.threading">TaskOutcome</a>&gt;
 <div class="inheritance">com.here.sdk.core.threading.TaskOutcome</div>
@@ -32,7 +29,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-threading-taskoutcome"
 <dt>All Implemented Interfaces:</dt>
 <dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" title="class or interface in java.io">Serializable</a></code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" title="class or interface in java.lang">Comparable</a>&lt;<a href="sdk-for-android-explore-taskoutcome" title="enum class in com.here.sdk.core.threading">TaskOutcome</a>&gt;</code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" title="class or interface in java.lang.constant">Constable</a></code></dd>
 </dl>
-<hr/>
+
 <div class="type-signature"><span class="modifiers">public enum </span><span class="element-name type-name-label">TaskOutcome</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a href="sdk-for-android-explore-taskoutcome" title="enum class in com.here.sdk.core.threading">TaskOutcome</a>&gt;</span></div>
 <div class="block"><p>This enum represents that a task has been completed. Refer to <a href="sdk-for-android-explore-ontaskcompleted" title="interface in com.here.sdk.core.threading"><code>OnTaskCompleted</code></a> for more details.</p></div>
@@ -168,7 +165,7 @@ not permitted.)</div>
 </ul>
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
-</main>
+
 
 
 

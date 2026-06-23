@@ -16,18 +16,15 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routinginterface"
 
 
 
-<main role="main">
-<!-- ======== START OF CLASS DATA ======== -->
-<div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-routing-package-summary">com.here.sdk.routing</a></div>
 
-</div>
+<!-- ======== START OF CLASS DATA ======== -->
+
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>All Known Implementing Classes:</dt>
 <dd><code><a href="sdk-for-android-explore-routingengine" title="class in com.here.sdk.routing">RoutingEngine</a></code></dd>
 </dl>
-<hr/>
+
 <div class="type-signature"><span class="modifiers">public interface </span><span class="element-name type-name-label">RoutingInterface</span></div>
 <div class="block"><p>Provides the interface for the online and offline
  routing engines.
@@ -610,7 +607,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routinginterface"
 </ul>
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
-</main>
+
 
 
 

@@ -16,14 +16,11 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-service-venueservicelistener"
 
 
 
-<main role="main">
-<!-- ======== START OF CLASS DATA ======== -->
-<div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-venue-service-package-summary">com.here.sdk.venue.service</a></div>
 
-</div>
+<!-- ======== START OF CLASS DATA ======== -->
+
 <section class="class-description" id="class-description">
-<hr/>
+
 <div class="type-signature"><span class="modifiers">public interface </span><span class="element-name type-name-label">VenueServiceListener</span></div>
 <div class="block"><p>The interface for listeners for
  lifecycle events in <a href="sdk-for-android-navigate-venueservice" title="class in com.here.sdk.venue.service"><code>VenueService</code></a>.</p></div>
@@ -90,7 +87,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-service-venueservicelistener"
 </ul>
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
-</main>
+
 
 
 

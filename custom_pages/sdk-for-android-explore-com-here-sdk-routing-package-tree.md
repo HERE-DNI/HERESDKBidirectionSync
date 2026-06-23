@@ -16,14 +16,8 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-package-tree"
 
 
 
-<main role="main">
-<div class="header">
 
-<span class="package-hierarchy-label">Package Hierarchies:</span>
-<ul class="horizontal">
-<li><a href="sdk-for-android-explore-overview-tree">All Packages</a></li>
-</ul>
-</div>
+
 <section class="hierarchy">
 
 <ul>
@@ -193,7 +187,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-package-tree"
 </li>
 </ul>
 </section>
-</main>
+
 
 
 

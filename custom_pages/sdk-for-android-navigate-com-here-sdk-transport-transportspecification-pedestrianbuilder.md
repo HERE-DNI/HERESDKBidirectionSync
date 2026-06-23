@@ -16,12 +16,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-transport-transportspecification-pe
 
 
 
-<main role="main">
-<!-- ======== START OF CLASS DATA ======== -->
-<div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-transport-package-summary">com.here.sdk.transport</a></div>
 
-</div>
+<!-- ======== START OF CLASS DATA ======== -->
+
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
 <div class="inheritance"><a href="sdk-for-android-navigate-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.transport.TransportSpecification.PedestrianBuilder</div>
@@ -32,7 +29,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-transport-transportspecification-pe
 <dt>Enclosing class:</dt>
 <dd><a href="sdk-for-android-navigate-transportspecification" title="class in com.here.sdk.transport">TransportSpecification</a></dd>
 </dl>
-<hr/>
+
 <div class="type-signature"><span class="modifiers">public static final class </span><span class="element-name type-name-label">TransportSpecification.PedestrianBuilder</span>
 <span class="extends-implements">extends <a href="sdk-for-android-navigate-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>This class constructs a <a href="sdk-for-android-navigate-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a> for pedestrian.</p></div>
@@ -142,7 +139,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-transport-transportspecification-pe
 </ul>
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
-</main>
+
 
 
 

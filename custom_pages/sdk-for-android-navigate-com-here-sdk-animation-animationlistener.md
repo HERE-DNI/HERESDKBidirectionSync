@@ -16,14 +16,11 @@ slug: "sdk-for-android-navigate-com-here-sdk-animation-animationlistener"
 
 
 
-<main role="main">
-<!-- ======== START OF CLASS DATA ======== -->
-<div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-animation-package-summary">com.here.sdk.animation</a></div>
 
-</div>
+<!-- ======== START OF CLASS DATA ======== -->
+
 <section class="class-description" id="class-description">
-<hr/>
+
 <div class="type-signature"><span class="modifiers">public interface </span><span class="element-name type-name-label">AnimationListener</span></div>
 <div class="block"><p>A listener for animation events.</p></div>
 </section>
@@ -77,7 +74,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-animation-animationlistener"
 </ul>
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
-</main>
+
 
 
 

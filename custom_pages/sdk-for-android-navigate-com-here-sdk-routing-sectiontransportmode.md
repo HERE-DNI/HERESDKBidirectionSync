@@ -16,12 +16,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-sectiontransportmode"
 
 
 
-<main role="main">
-<!-- ======== START OF CLASS DATA ======== -->
-<div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-routing-package-summary">com.here.sdk.routing</a></div>
 
-</div>
+<!-- ======== START OF CLASS DATA ======== -->
+
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
 <div class="inheritance"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">java.lang.Enum</a>&lt;<a href="sdk-for-android-navigate-sectiontransportmode" title="enum class in com.here.sdk.routing">SectionTransportMode</a>&gt;
 <div class="inheritance">com.here.sdk.routing.SectionTransportMode</div>
@@ -32,7 +29,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-sectiontransportmode"
 <dt>All Implemented Interfaces:</dt>
 <dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" title="class or interface in java.io">Serializable</a></code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" title="class or interface in java.lang">Comparable</a>&lt;<a href="sdk-for-android-navigate-sectiontransportmode" title="enum class in com.here.sdk.routing">SectionTransportMode</a>&gt;</code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" title="class or interface in java.lang.constant">Constable</a></code></dd>
 </dl>
-<hr/>
+
 <div class="type-signature"><span class="modifiers">public enum </span><span class="element-name type-name-label">SectionTransportMode</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a href="sdk-for-android-navigate-sectiontransportmode" title="enum class in com.here.sdk.routing">SectionTransportMode</a>&gt;</span></div>
 <div class="block"><p>Specifies the <a href="sdk-for-android-navigate-section" title="class in com.here.sdk.routing"><code>Section</code></a> mode of transport. A <a href="sdk-for-android-navigate-section" title="class in com.here.sdk.routing"><code>Section</code></a> may have a different
@@ -274,7 +271,7 @@ not permitted.)</div>
 </ul>
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
-</main>
+
 
 
 

@@ -16,12 +16,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-iconprovider-iconcallback"
 
 
 
-<main role="main">
-<!-- ======== START OF CLASS DATA ======== -->
-<div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></div>
 
-</div>
+<!-- ======== START OF CLASS DATA ======== -->
+
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>Enclosing class:</dt>
@@ -31,7 +28,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-iconprovider-iconcallback"
 <dt>Functional Interface:</dt>
 <dd>This is a functional interface and can therefore be used as the assignment target for a lambda expression or method reference.</dd>
 </dl>
-<hr/>
+
 <div class="type-signature"><span class="annotations"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/FunctionalInterface.html" title="class or interface in java.lang">@FunctionalInterface</a>
 </span><span class="modifiers">public static interface </span><span class="element-name type-name-label">IconProvider.IconCallback</span></div>
 <div class="block">Interface which is used as callback to pass back an image or error code after calling
@@ -97,7 +94,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-iconprovider-iconcallback"
 </ul>
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
-</main>
+
 
 
 

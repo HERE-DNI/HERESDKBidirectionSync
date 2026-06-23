@@ -16,12 +16,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-meshbuilder"
 
 
 
-<main role="main">
-<!-- ======== START OF CLASS DATA ======== -->
-<div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></div>
 
-</div>
+<!-- ======== START OF CLASS DATA ======== -->
+
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
 <div class="inheritance"><a href="sdk-for-android-navigate-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.mapview.MeshBuilder</div>
@@ -32,7 +29,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-meshbuilder"
 <dt>Direct Known Subclasses:</dt>
 <dd><code><a href="sdk-for-android-navigate-quadmeshbuilder" title="class in com.here.sdk.mapview">QuadMeshBuilder</a></code>, <code><a href="sdk-for-android-navigate-trianglemeshbuilder" title="class in com.here.sdk.mapview">TriangleMeshBuilder</a></code></dd>
 </dl>
-<hr/>
+
 <div class="type-signature"><span class="modifiers">public class </span><span class="element-name type-name-label">MeshBuilder</span>
 <span class="extends-implements">extends <a href="sdk-for-android-navigate-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>Builder for meshes. Such meshes can contain different kinds of primitives, like quads or
@@ -98,7 +95,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-meshbuilder"
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-mesh" title="class in com.here.sdk.mapview">Mesh</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#build()">build</a>()</code></div>
-<div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
+
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-quadmeshbuilder" title="class in com.here.sdk.mapview">QuadMeshBuilder</a></code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#quad(com.here.sdk.core.Point3D,com.here.sdk.core.Point3D,com.here.sdk.core.Point3D,com.here.sdk.core.Point3D)">quad</a><wbr/>(<a href="sdk-for-android-navigate-point3d" title="class in com.here.sdk.core">Point3D</a> a,
  <a href="sdk-for-android-navigate-point3d" title="class in com.here.sdk.core">Point3D</a> b,
@@ -212,7 +209,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-meshbuilder"
 </ul>
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
-</main>
+
 
 
 

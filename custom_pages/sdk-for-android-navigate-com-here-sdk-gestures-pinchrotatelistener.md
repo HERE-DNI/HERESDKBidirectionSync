@@ -16,14 +16,11 @@ slug: "sdk-for-android-navigate-com-here-sdk-gestures-pinchrotatelistener"
 
 
 
-<main role="main">
-<!-- ======== START OF CLASS DATA ======== -->
-<div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-gestures-package-summary">com.here.sdk.gestures</a></div>
 
-</div>
+<!-- ======== START OF CLASS DATA ======== -->
+
 <section class="class-description" id="class-description">
-<hr/>
+
 <div class="type-signature"><span class="modifiers">public interface </span><span class="element-name type-name-label">PinchRotateListener</span></div>
 <div class="block"><p>Interface for handling pinch rotate gestures.
  Pinch rotate gesture occurs when two fingers are on the screen
@@ -96,7 +93,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-gestures-pinchrotatelistener"
 </ul>
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
-</main>
+
 
 
 

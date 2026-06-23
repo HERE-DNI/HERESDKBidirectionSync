@@ -16,14 +16,11 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapidlelistener"
 
 
 
-<main role="main">
-<!-- ======== START OF CLASS DATA ======== -->
-<div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></div>
 
-</div>
+<!-- ======== START OF CLASS DATA ======== -->
+
 <section class="class-description" id="class-description">
-<hr/>
+
 <div class="type-signature"><span class="modifiers">public interface </span><span class="element-name type-name-label">MapIdleListener</span></div>
 <div class="block"><p>Used to detect when the map becomes idle or busy.
  </p><p>Map is considered busy when its state changes (for example as a result of camera manipulation)
@@ -90,7 +87,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapidlelistener"
 </ul>
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
-</main>
+
 
 
 

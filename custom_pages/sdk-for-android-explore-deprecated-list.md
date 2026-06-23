@@ -16,19 +16,8 @@ slug: "sdk-for-android-explore-deprecated-list"
 
 
 
-<main role="main">
-<div class="header">
 
 
-<ul>
-<li><a href="sdk-for-android-explore-index#class">Classes</a></li>
-<li><a href="sdk-for-android-explore-index#enum-class">Enum Classes</a></li>
-<li><a href="sdk-for-android-explore-index#field">Fields</a></li>
-<li><a href="sdk-for-android-explore-index#method">Methods</a></li>
-<li><a href="sdk-for-android-explore-index#constructor">Constructors</a></li>
-<li><a href="sdk-for-android-explore-index#enum-constant">Enum Constants</a></li>
-</ul>
-</div>
 <ul class="block-list">
 <li>
 <div id="class">
@@ -411,7 +400,7 @@ slug: "sdk-for-android-explore-deprecated-list"
 </div>
 </li>
 </ul>
-</main>
+
 
 
 

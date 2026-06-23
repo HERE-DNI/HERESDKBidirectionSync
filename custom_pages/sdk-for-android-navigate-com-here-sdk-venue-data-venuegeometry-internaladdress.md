@@ -16,12 +16,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-data-venuegeometry-internalad
 
 
 
-<main role="main">
-<!-- ======== START OF CLASS DATA ======== -->
-<div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-venue-data-package-summary">com.here.sdk.venue.data</a></div>
 
-</div>
+<!-- ======== START OF CLASS DATA ======== -->
+
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
 <div class="inheritance"><a href="sdk-for-android-navigate-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.venue.data.VenueGeometry.InternalAddress</div>
@@ -32,7 +29,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-data-venuegeometry-internalad
 <dt>Enclosing class:</dt>
 <dd><a href="sdk-for-android-navigate-venuegeometry" title="class in com.here.sdk.venue.data">VenueGeometry</a></dd>
 </dl>
-<hr/>
+
 <div class="type-signature"><span class="modifiers">public static final class </span><span class="element-name type-name-label">VenueGeometry.InternalAddress</span>
 <span class="extends-implements">extends <a href="sdk-for-android-navigate-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>Represents an internal addresses of the geometry inside the venue. The internal
@@ -111,7 +108,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-data-venuegeometry-internalad
 </ul>
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
-</main>
+
 
 
 

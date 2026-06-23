@@ -16,14 +16,11 @@ slug: "sdk-for-android-explore-com-here-sdk-gestures-taplistener"
 
 
 
-<main role="main">
-<!-- ======== START OF CLASS DATA ======== -->
-<div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-gestures-package-summary">com.here.sdk.gestures</a></div>
 
-</div>
+<!-- ======== START OF CLASS DATA ======== -->
+
 <section class="class-description" id="class-description">
-<hr/>
+
 <div class="type-signature"><span class="modifiers">public interface </span><span class="element-name type-name-label">TapListener</span></div>
 <div class="block"><p>Interface for handling tap gestures.
  Tap gesture occurs after tapping on the screen.</p></div>
@@ -78,7 +75,7 @@ slug: "sdk-for-android-explore-com-here-sdk-gestures-taplistener"
 </ul>
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
-</main>
+
 
 
 

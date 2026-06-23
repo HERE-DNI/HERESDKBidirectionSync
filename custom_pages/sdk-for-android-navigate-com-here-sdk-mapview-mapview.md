@@ -16,12 +16,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapview"
 
 
 
-<main role="main">
-<!-- ======== START OF CLASS DATA ======== -->
-<div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></div>
 
-</div>
+<!-- ======== START OF CLASS DATA ======== -->
+
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
 <div class="inheritance">android.view.View
 <div class="inheritance">android.view.ViewGroup
@@ -36,7 +33,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapview"
 <dt>All Implemented Interfaces:</dt>
 <dd><code>android.graphics.drawable.Drawable.Callback</code>, <code>android.view.accessibility.AccessibilityEventSource</code>, <code>android.view.KeyEvent.Callback</code>, <code>android.view.ViewManager</code>, <code>android.view.ViewParent</code>, <code><a href="sdk-for-android-navigate-mapviewbase" title="interface in com.here.sdk.mapview">MapViewBase</a></code></dd>
 </dl>
-<hr/>
+
 <div class="type-signature"><span class="modifiers">public class </span><span class="element-name type-name-label">MapView</span>
 <span class="extends-implements">extends android.widget.FrameLayout
 implements <a href="sdk-for-android-navigate-mapviewbase" title="interface in com.here.sdk.mapview">MapViewBase</a></span></div>
@@ -1221,7 +1218,7 @@ implements <a href="sdk-for-android-navigate-mapviewbase" title="interface in co
 </ul>
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
-</main>
+
 
 
 

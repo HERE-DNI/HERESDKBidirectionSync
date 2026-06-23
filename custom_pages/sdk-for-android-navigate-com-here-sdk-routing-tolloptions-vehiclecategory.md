@@ -16,12 +16,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-tolloptions-vehiclecategory
 
 
 
-<main role="main">
-<!-- ======== START OF CLASS DATA ======== -->
-<div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-routing-package-summary">com.here.sdk.routing</a></div>
 
-</div>
+<!-- ======== START OF CLASS DATA ======== -->
+
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
 <div class="inheritance"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">java.lang.Enum</a>&lt;<a href="sdk-for-android-navigate-tolloptions.vehiclecategory" title="enum class in com.here.sdk.routing">TollOptions.VehicleCategory</a>&gt;
 <div class="inheritance">com.here.sdk.routing.TollOptions.VehicleCategory</div>
@@ -36,7 +33,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-tolloptions-vehiclecategory
 <dt>Enclosing class:</dt>
 <dd><a href="sdk-for-android-navigate-tolloptions" title="class in com.here.sdk.routing">TollOptions</a></dd>
 </dl>
-<hr/>
+
 <div class="type-signature"><span class="modifiers">public static enum </span><span class="element-name type-name-label">TollOptions.VehicleCategory</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a href="sdk-for-android-navigate-tolloptions.vehiclecategory" title="enum class in com.here.sdk.routing">TollOptions.VehicleCategory</a>&gt;</span></div>
 <div class="block"><p>Supported options of vehicle category for toll calculation.</p></div>
@@ -163,7 +160,7 @@ not permitted.)</div>
 </ul>
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
-</main>
+
 
 
 

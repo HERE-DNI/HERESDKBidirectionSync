@@ -16,14 +16,11 @@ slug: "sdk-for-android-navigate-com-here-sdk-gestures-longpresslistener"
 
 
 
-<main role="main">
-<!-- ======== START OF CLASS DATA ======== -->
-<div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-gestures-package-summary">com.here.sdk.gestures</a></div>
 
-</div>
+<!-- ======== START OF CLASS DATA ======== -->
+
 <section class="class-description" id="class-description">
-<hr/>
+
 <div class="type-signature"><span class="modifiers">public interface </span><span class="element-name type-name-label">LongPressListener</span></div>
 <div class="block"><p>Interface for handling long-press gestures.
  Long-press gesture occurs after tapping and holding the finger for a long time on the screen.</p></div>
@@ -82,7 +79,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-gestures-longpresslistener"
 </ul>
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
-</main>
+
 
 
 

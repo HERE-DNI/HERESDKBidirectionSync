@@ -16,16 +16,8 @@ slug: "sdk-for-android-explore-constant-values"
 
 
 
-<main role="main">
-<div class="header">
 
-<section class="packages">
 
-<ul>
-<li><a href="sdk-for-android-explore-index#com.here">com.here.*</a></li>
-</ul>
-</section>
-</div>
 <section class="constants-summary" id="com.here.sdk.core">
 
 <ul class="block-list">
@@ -610,7 +602,7 @@ slug: "sdk-for-android-explore-constant-values"
 </li>
 </ul>
 </section>
-</main>
+
 
 
 

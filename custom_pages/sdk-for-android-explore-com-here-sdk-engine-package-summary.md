@@ -16,11 +16,9 @@ slug: "sdk-for-android-explore-com-here-sdk-engine-package-summary"
 
 
 
-<main role="main">
-<div class="header">
 
-</div>
-<hr/>
+
+
 <div class="package-signature">package <span class="element-name">com.here.sdk.engine</span></div>
 <section class="summary">
 <ul class="summary-list">
@@ -30,7 +28,7 @@ slug: "sdk-for-android-explore-com-here-sdk-engine-package-summary"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Class</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color class-summary class-summary-tab2"><a href="sdk-for-android-explore-initprovider" title="class in com.here.sdk.engine">InitProvider</a></div>
+<div class="col-first even-row-color class-summary class-summary-tab2"><a href="sdk-for-android-explore-com-here-sdk-engine-initprovider" title="class in com.here.sdk.engine">InitProvider</a></div>
 <div class="col-last even-row-color class-summary class-summary-tab2">
 <div class="block">Performs global initialization of the SDK.</div>
 </div>
@@ -39,7 +37,7 @@ slug: "sdk-for-android-explore-com-here-sdk-engine-package-summary"
 </li>
 </ul>
 </section>
-</main>
+
 
 
 

@@ -16,12 +16,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapsceneloadoptionsbuilder-
 
 
 
-<main role="main">
-<!-- ======== START OF CLASS DATA ======== -->
-<div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></div>
 
-</div>
+<!-- ======== START OF CLASS DATA ======== -->
+
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
 <div class="inheritance">com.here.sdk.mapview.MapSceneLoadOptionsBuilder.InstantiationErrorDetails</div>
 </div>
@@ -30,7 +27,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapsceneloadoptionsbuilder-
 <dt>Enclosing class:</dt>
 <dd><a href="sdk-for-android-navigate-mapsceneloadoptionsbuilder" title="class in com.here.sdk.mapview">MapSceneLoadOptionsBuilder</a></dd>
 </dl>
-<hr/>
+
 <div class="type-signature"><span class="modifiers">public static final class </span><span class="element-name type-name-label">MapSceneLoadOptionsBuilder.InstantiationErrorDetails</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
 <div class="block"><p>Describes the reason for failing to build a <a href="sdk-for-android-navigate-mapsceneloadoptions" title="class in com.here.sdk.mapview"><code>MapSceneLoadOptions</code></a>.</p></div>
@@ -138,7 +135,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapsceneloadoptionsbuilder-
 </ul>
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
-</main>
+
 
 
 

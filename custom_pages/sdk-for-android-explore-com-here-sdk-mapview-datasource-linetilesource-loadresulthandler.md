@@ -16,18 +16,15 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-linetilesource-lo
 
 
 
-<main role="main">
-<!-- ======== START OF CLASS DATA ======== -->
-<div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-package-summary">com.here.sdk.mapview.datasource</a></div>
 
-</div>
+<!-- ======== START OF CLASS DATA ======== -->
+
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>Enclosing interface:</dt>
 <dd><a href="sdk-for-android-explore-linetilesource" title="interface in com.here.sdk.mapview.datasource">LineTileSource</a></dd>
 </dl>
-<hr/>
+
 <div class="type-signature"><span class="modifiers">public static interface </span><span class="element-name type-name-label">LineTileSource.LoadResultHandler</span></div>
 <div class="block"><p>Result handler of a load tile request.</p></div>
 </section>
@@ -106,7 +103,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-linetilesource-lo
 </ul>
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
-</main>
+
 
 
 

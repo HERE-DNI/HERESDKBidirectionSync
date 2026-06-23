@@ -16,14 +16,11 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-junctionviewlaneassistan
 
 
 
-<main role="main">
-<!-- ======== START OF CLASS DATA ======== -->
-<div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-navigation-package-summary">com.here.sdk.navigation</a></div>
 
-</div>
+<!-- ======== START OF CLASS DATA ======== -->
+
 <section class="class-description" id="class-description">
-<hr/>
+
 <div class="type-signature"><span class="modifiers">public interface </span><span class="element-name type-name-label">JunctionViewLaneAssistanceListener</span></div>
 <div class="block"><p>This interface should be
  implemented in order to receive notifications on <a href="sdk-for-android-navigate-junctionviewlaneassistance" title="class in com.here.sdk.navigation"><code>JunctionViewLaneAssistance</code></a>.
@@ -79,7 +76,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-junctionviewlaneassistan
 </ul>
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
-</main>
+
 
 
 

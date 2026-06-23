@@ -16,10 +16,8 @@ slug: "sdk-for-android-navigate-serialized-form"
 
 
 
-<main role="main">
-<div class="header">
 
-</div>
+
 <ul class="block-list">
 <li>
 <section class="serialized-package-container">
@@ -574,7 +572,7 @@ slug: "sdk-for-android-navigate-serialized-form"
 </section>
 </li>
 </ul>
-</main>
+
 
 
 

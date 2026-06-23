@@ -16,14 +16,11 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-offlinesearchindexlistener"
 
 
 
-<main role="main">
-<!-- ======== START OF CLASS DATA ======== -->
-<div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-search-package-summary">com.here.sdk.search</a></div>
 
-</div>
+<!-- ======== START OF CLASS DATA ======== -->
+
 <section class="class-description" id="class-description">
-<hr/>
+
 <div class="type-signature"><span class="modifiers">public interface </span><span class="element-name type-name-label">OfflineSearchIndexListener</span></div>
 <div class="block"><p>Interface to get updates about progress
  of creating persistent map index.
@@ -123,7 +120,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-offlinesearchindexlistener"
 </ul>
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
-</main>
+
 
 
 

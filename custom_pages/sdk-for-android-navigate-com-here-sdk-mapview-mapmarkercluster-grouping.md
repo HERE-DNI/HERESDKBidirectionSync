@@ -16,12 +16,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapmarkercluster-grouping"
 
 
 
-<main role="main">
-<!-- ======== START OF CLASS DATA ======== -->
-<div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></div>
 
-</div>
+<!-- ======== START OF CLASS DATA ======== -->
+
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
 <div class="inheritance">com.here.sdk.mapview.MapMarkerCluster.Grouping</div>
 </div>
@@ -30,7 +27,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapmarkercluster-grouping"
 <dt>Enclosing class:</dt>
 <dd><a href="sdk-for-android-navigate-mapmarkercluster" title="class in com.here.sdk.mapview">MapMarkerCluster</a></dd>
 </dl>
-<hr/>
+
 <div class="type-signature"><span class="modifiers">public static final class </span><span class="element-name type-name-label">MapMarkerCluster.Grouping</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
 <div class="block"><p>Represents a group of map markers belonging to a cluster.
@@ -140,7 +137,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapmarkercluster-grouping"
 </ul>
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
-</main>
+
 
 
 

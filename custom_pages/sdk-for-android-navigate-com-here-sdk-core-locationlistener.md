@@ -16,12 +16,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-locationlistener"
 
 
 
-<main role="main">
-<!-- ======== START OF CLASS DATA ======== -->
-<div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-core-package-summary">com.here.sdk.core</a></div>
 
-</div>
+<!-- ======== START OF CLASS DATA ======== -->
+
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>All Known Subinterfaces:</dt>
@@ -31,7 +28,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-locationlistener"
 <dt>All Known Implementing Classes:</dt>
 <dd><code><a href="sdk-for-android-navigate-gpxtrackwriter" title="class in com.here.sdk.navigation">GPXTrackWriter</a></code>, <code><a href="sdk-for-android-navigate-locationmanager" title="class in com.here.sdk.mapmatcher">LocationManager</a></code>, <code><a href="sdk-for-android-navigate-navigator" title="class in com.here.sdk.navigation">Navigator</a></code>, <code><a href="sdk-for-android-navigate-trafficbroadcast" title="class in com.here.sdk.trafficbroadcast">TrafficBroadcast</a></code>, <code><a href="sdk-for-android-navigate-visualnavigator" title="class in com.here.sdk.navigation">VisualNavigator</a></code></dd>
 </dl>
-<hr/>
+
 <div class="type-signature"><span class="modifiers">public interface </span><span class="element-name type-name-label">LocationListener</span></div>
 <div class="block"><p>This interface should be implemented in order to receive notifications
  about location updates.</p></div>
@@ -93,7 +90,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-locationlistener"
 </ul>
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
-</main>
+
 
 
 

@@ -16,18 +16,15 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapview-viewpin"
 
 
 
-<main role="main">
-<!-- ======== START OF CLASS DATA ======== -->
-<div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></div>
 
-</div>
+<!-- ======== START OF CLASS DATA ======== -->
+
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>Enclosing class:</dt>
 <dd><a href="sdk-for-android-explore-mapview" title="class in com.here.sdk.mapview">MapView</a></dd>
 </dl>
-<hr/>
+
 <div class="type-signature"><span class="modifiers">public static interface </span><span class="element-name type-name-label">MapView.ViewPin</span></div>
 <div class="block">A ViewPin is used to display Android views at a fixed location on the map.
 <p>
@@ -157,7 +154,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapview-viewpin"
 </ul>
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
-</main>
+
 
 
 

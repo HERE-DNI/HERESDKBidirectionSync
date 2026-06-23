@@ -16,11 +16,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-prefetcher-package-summary"
 
 
 
-<main role="main">
-<div class="header">
 
-</div>
-<hr/>
+
+
 <div class="package-signature">package <span class="element-name">com.here.sdk.prefetcher</span></div>
 <section class="summary">
 <ul class="summary-list">
@@ -31,26 +29,26 @@ slug: "sdk-for-android-navigate-com-here-sdk-prefetcher-package-summary"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Class</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color class-summary class-summary-tab2"><a href="sdk-for-android-navigate-mapdatasize" title="class in com.here.sdk.prefetcher">MapDataSize</a></div>
+<div class="col-first even-row-color class-summary class-summary-tab2"><a href="sdk-for-android-navigate-com-here-sdk-prefetcher-mapdatasize" title="class in com.here.sdk.prefetcher">MapDataSize</a></div>
 <div class="col-last even-row-color class-summary class-summary-tab2">
 <div class="block">Represents map data size.</div>
 </div>
-<div class="col-first odd-row-color class-summary class-summary-tab1"><a href="sdk-for-android-navigate-mapdatasizelistener" title="interface in com.here.sdk.prefetcher">MapDataSizeListener</a></div>
+<div class="col-first odd-row-color class-summary class-summary-tab1"><a href="sdk-for-android-navigate-com-here-sdk-prefetcher-mapdatasizelistener" title="interface in com.here.sdk.prefetcher">MapDataSizeListener</a></div>
 <div class="col-last odd-row-color class-summary class-summary-tab1">
 <div class="block">Interface to get the result of map data size
  estimation.</div>
 </div>
-<div class="col-first even-row-color class-summary class-summary-tab2"><a href="sdk-for-android-navigate-polygonprefetcher" title="class in com.here.sdk.prefetcher">PolygonPrefetcher</a></div>
+<div class="col-first even-row-color class-summary class-summary-tab2"><a href="sdk-for-android-navigate-com-here-sdk-prefetcher-polygonprefetcher" title="class in com.here.sdk.prefetcher">PolygonPrefetcher</a></div>
 <div class="col-last even-row-color class-summary class-summary-tab2">
 <div class="block">Supports downloading of map data - in advance - into the cache to optimize temporary offline
  use cases that rely on cached map data.</div>
 </div>
-<div class="col-first odd-row-color class-summary class-summary-tab1"><a href="sdk-for-android-navigate-prefetchstatuslistener" title="interface in com.here.sdk.prefetcher">PrefetchStatusListener</a></div>
+<div class="col-first odd-row-color class-summary class-summary-tab1"><a href="sdk-for-android-navigate-com-here-sdk-prefetcher-prefetchstatuslistener" title="interface in com.here.sdk.prefetcher">PrefetchStatusListener</a></div>
 <div class="col-last odd-row-color class-summary class-summary-tab1">
 <div class="block">Interface to get notified on status updates
  when prefetching map data.</div>
 </div>
-<div class="col-first even-row-color class-summary class-summary-tab2"><a href="sdk-for-android-navigate-routeprefetcher" title="class in com.here.sdk.prefetcher">RoutePrefetcher</a></div>
+<div class="col-first even-row-color class-summary class-summary-tab2"><a href="sdk-for-android-navigate-com-here-sdk-prefetcher-routeprefetcher" title="class in com.here.sdk.prefetcher">RoutePrefetcher</a></div>
 <div class="col-last even-row-color class-summary class-summary-tab2">
 <div class="block">Supports downloading of map data - in advance - into the cache to optimize temporary offline
  use cases that rely on cached map data.</div>
@@ -61,7 +59,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-prefetcher-package-summary"
 </li>
 </ul>
 </section>
-</main>
+
 
 
 

@@ -16,12 +16,9 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-linedatasource-li
 
 
 
-<main role="main">
-<!-- ======== START OF CLASS DATA ======== -->
-<div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-package-summary">com.here.sdk.mapview.datasource</a></div>
 
-</div>
+<!-- ======== START OF CLASS DATA ======== -->
+
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>Enclosing class:</dt>
@@ -31,7 +28,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-linedatasource-li
 <dt>Functional Interface:</dt>
 <dd>This is a functional interface and can therefore be used as the assignment target for a lambda expression or method reference.</dd>
 </dl>
-<hr/>
+
 <div class="type-signature"><span class="annotations"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/FunctionalInterface.html" title="class or interface in java.lang">@FunctionalInterface</a>
 </span><span class="modifiers">public static interface </span><span class="element-name type-name-label">LineDataSource.LineDataProcessor</span></div>
 <div class="block"><p>Called for each line, allowing inspection, removal or update of coordinates and attributes.</p></div>
@@ -88,7 +85,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-linedatasource-li
 </ul>
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
-</main>
+
 
 
 

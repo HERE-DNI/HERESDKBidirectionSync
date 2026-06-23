@@ -16,14 +16,11 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapviewlifecyclelistener"
 
 
 
-<main role="main">
-<!-- ======== START OF CLASS DATA ======== -->
-<div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></div>
 
-</div>
+<!-- ======== START OF CLASS DATA ======== -->
+
 <section class="class-description" id="class-description">
-<hr/>
+
 <div class="type-signature"><span class="modifiers">public interface </span><span class="element-name type-name-label">MapViewLifecycleListener</span></div>
 <div class="block"><p>Provides a mechanism for observing a lifecycle of a map view and/or implementing components
  whose lifecycle needs to be linked with that of a map view.
@@ -157,7 +154,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapviewlifecyclelistener"
 </ul>
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
-</main>
+
 
 
 

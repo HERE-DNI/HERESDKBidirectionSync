@@ -16,14 +16,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-prefetcher-package-tree"
 
 
 
-<main role="main">
-<div class="header">
 
-<span class="package-hierarchy-label">Package Hierarchies:</span>
-<ul class="horizontal">
-<li><a href="sdk-for-android-navigate-overview-tree">All Packages</a></li>
-</ul>
-</div>
+
 <section class="hierarchy">
 
 <ul>
@@ -47,7 +41,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-prefetcher-package-tree"
 <li class="circle">com.here.sdk.prefetcher.<a class="type-name-link" href="sdk-for-android-navigate-prefetchstatuslistener" title="interface in com.here.sdk.prefetcher">PrefetchStatusListener</a></li>
 </ul>
 </section>
-</main>
+
 
 
 

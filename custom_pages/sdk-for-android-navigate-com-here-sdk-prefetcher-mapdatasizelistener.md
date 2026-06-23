@@ -16,14 +16,11 @@ slug: "sdk-for-android-navigate-com-here-sdk-prefetcher-mapdatasizelistener"
 
 
 
-<main role="main">
-<!-- ======== START OF CLASS DATA ======== -->
-<div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-prefetcher-package-summary">com.here.sdk.prefetcher</a></div>
 
-</div>
+<!-- ======== START OF CLASS DATA ======== -->
+
 <section class="class-description" id="class-description">
-<hr/>
+
 <div class="type-signature"><span class="modifiers">public interface </span><span class="element-name type-name-label">MapDataSizeListener</span></div>
 <div class="block"><p>Interface to get the result of map data size
  estimation.</p></div>
@@ -85,7 +82,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-prefetcher-mapdatasizelistener"
 </ul>
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
-</main>
+
 
 
 
