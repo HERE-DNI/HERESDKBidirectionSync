@@ -3,6 +3,8 @@ title: "MapFeatures class"
 slug: "sdk-for-flutter-explore-mapview-mapfeatures-class"
 ---
 
+<HTMLBlock>{
+`
 <div class="sdk-for-flutter">
 <!-- MapFeatures-class.html -->
 
@@ -38,4 +40,7 @@ slug: "sdk-for-flutter-explore-mapview-mapfeatures-class"
 
 
 
-</div>
+</div>   
+
+`
+}</HTMLBlock>
